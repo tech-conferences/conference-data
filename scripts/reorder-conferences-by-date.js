@@ -21,7 +21,6 @@ Object.keys(conferencesJSON).forEach((year) => {
     const fileName = `${BASE_DIR}/${year}/${topic}.json`;
 
     fs.readFile(fileName, (err, data) => {
-      console.log(err)
       if (err) {
         return;
       }
