@@ -39,9 +39,23 @@ Object.keys(conferencesJSON).forEach((year) => {
       });
 
       conferences.forEach((conference) => {
-        const {name, country, url, cfpUrl} = conference;
+        const {name, country, url, cfpUrl, twitter} = conference;
 
         describe(name, () => {
+          describe('twitter', () => {
+            it('is not a url', () => {
+              if (twitter && twitter.length > 0) {
+                expect(twitter).not.toContain('twitter.com');
+              }
+            });
+
+            it('starts with @', () => {
+              if (twitter && twitter.length > 0) {
+                expect(twitter).toContain('@');
+              }
+            });
+          });
+
           describe('URLs', () => {
             const httpRegex = new RegExp('^http(s?)://');
             it('url starts with http(s)://', () => {
