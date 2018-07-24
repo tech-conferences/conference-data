@@ -275,5 +275,16 @@
     "city": "Verona",
     "country": "Italy",
     "twitter": "@laraveldayit"
+  },
+  {
+    "name": "SymfonyLive USA 2018",
+    "url": "https://usa2018.live.symfony.com",
+    "startDate": "2018-10-09",
+    "endDate": "2018-10-12",
+    "city": "San Francisco",
+    "country": "USA",
+    "twitter": "@Symfony_Live",
+    "cfpUrl": "https://usa2018.live.symfony.com/cfp",
+    "cfpEndDate": "2018-07-27"
   }
 ]
