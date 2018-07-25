@@ -1650,5 +1650,16 @@
     "city": "Boston",
     "country": "U.S.A.",
     "twitter": "@telerik"
+  },
+  {
+    "name": "NodeJS Italian Conference",
+    "url": "https://2018.nodejsconf.it",
+    "startDate": "2018-11-16",
+    "endDate": "2018-11-16",
+    "city": "Verona",
+    "country": "Italy",
+    "twitter": "@nodejsconfit",
+    "cfpUrl": "https://goo.gl/forms/rHSOn88FAz9992g32",
+    "cfpEndDate": "2018-07-30"
   }
 ]
