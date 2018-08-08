@@ -482,5 +482,16 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "twitter": "@Serverlessconf"
+  },
+  {
+    "name": "DevOpsDays Galway",
+    "url": "https://www.devopsdays.org/events/2018-galway/welcome",
+    "startDate": "2018-11-19",
+    "endDate": "2018-11-20",
+    "city": "Galway",
+    "country": "Ireland",
+    "twitter": "@devopsdaysgal",
+    "cfpUrl": "https://www.devopsdays.org/events/2018-galway/propose/",
+    "cfpEndDate": "2018-09-02"
   }
 ]
