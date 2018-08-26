@@ -1053,8 +1053,8 @@
   {
     "name": "ReactNext",
     "url": "http://react-next.com",
-    "startDate": "2018-09-06",
-    "endDate": "2018-09-06",
+    "startDate": "2018-11-04",
+    "endDate": "2018-11-04",
     "city": "Tel Aviv",
     "country": "Israel",
     "twitter": "@ReactNext",
@@ -1692,5 +1692,36 @@
     "city": "Toronto",
     "country": "Canada",
     "twitter": "@fullstackto"
+  },
+  {
+    "name": "FEConf.kr",
+    "url": "https://feconf.kr",
+    "startDate": "2018-10-27",
+    "endDate": "2018-10-27",
+    "city": "Seoul",
+    "country": "Korea",
+    "cfpUrl": "https://goo.gl/forms/sD4rU3WX9Fa8X4dP2",
+    "cfpEndDate": "2018-08-31"
+  },
+  {
+    "name": "FrontMania",
+    "url": "https://www.frontmania.com/conference",
+    "startDate": "2018-11-16",
+    "endDate": "2018-11-16",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "cfpUrl": "https://www.papercall.io/frontmania",
+    "cfpEndDate": "2018-08-31"
+  },
+  {
+    "name": "NationJS React",
+    "url": "http://nationjs.com",
+    "startDate": "2018-12-04",
+    "endDate": "2018-12-04",
+    "city": "Washington, DC",
+    "country": "U.S.A.",
+    "twitter": "@nationjs",
+    "cfpUrl": "https://www.papercall.io/nationjs-react2018",
+    "cfpEndDate": "2018-09-14"
   }
 ]

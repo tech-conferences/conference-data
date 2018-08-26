@@ -127,5 +127,16 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "twitter": "@py_bay"
+  },
+  {
+    "name": "PyCon Canada",
+    "url": "https://2018.pycon.ca",
+    "startDate": "2018-11-09",
+    "endDate": "2018-11-13",
+    "city": "Toronto",
+    "country": "Canada",
+    "twitter": "@pyconca",
+    "cfpUrl": "https://www.papercall.io/pyconca2018",
+    "cfpEndDate": "2018-09-10"
   }
 ]
