@@ -11,6 +11,17 @@
     "cfpEndDate": null
   },
   {
+    "name": "RubyConf AU",
+    "url": "https://rubyconf.org.au/2019",
+    "startDate": "2019-02-07",
+    "endDate": "2019-02-09",
+    "city": "Melbourne",
+    "country": "Australia",
+    "twitter": "@rubyconf_au",
+    "cfpUrl": "https://www.papercall.io/rubyconf-au-2019",
+    "cfpEndDate": "2018-10-15"
+  },
+  {
     "name": "RailsConf",
     "url": "http://railsconf.com/",
     "startDate": "2019-04-30",
@@ -36,5 +47,34 @@
     "city": "Fukuoka",
     "country": "Japan",
     "twitter": "@RubyKaigi"
+  },
+  {
+    "name": "Ruby On Ice",
+    "url": "https://rubyonice.com",
+    "startDate": "2019-02-22",
+    "endDate": "2019-02-24",
+    "city": "Tegernsee",
+    "country": "Germany",
+    "twitter": "@rubyoniceconf",
+    "cfpUrl": "https://rubyonice.com/",
+    "cfpEndDate": "2018-10-19"
+  },
+  {
+    "name": "DroidKaigi",
+    "url": "https://droidkaigi.jp/2019/en",
+    "startDate": "2019-02-07",
+    "endDate": "2019-02-08",
+    "city": "Tokyo",
+    "country": "Japan",
+    "twitter": "@DroidKaigi"
+  },
+  {
+    "name": "Brighton Ruby",
+    "url": "https://brightonruby.com",
+    "startDate": "2019-07-05",
+    "endDate": "2019-07-05",
+    "city": "Brighton",
+    "country": "U.K.",
+    "twitter": "@brightonruby"
   }
 ]
