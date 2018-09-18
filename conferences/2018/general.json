@@ -1480,7 +1480,7 @@
     "city": "San Francisco",
     "country": "U.S.A.",
     "twitter": "@apimixtape"
-  }, 
+  },
   {
     "name": "MongoDB Europe '18",
     "url": "https://www.mongodb.com/europe18",
@@ -1489,5 +1489,14 @@
     "city": "London",
     "country": "U.K.",
     "twitter": "@mongodb"
+  },
+  {
+    "name": "µCon London 2018 - The Microservices Conference",
+    "url": "https://skillsmatter.com/conferences/10336-mucon-london-2018-the-microservices-conference",
+    "startDate": "2018-11-05",
+    "endDate": "2018-11-06",
+    "city": "London",
+    "country": "United Kingdom",
+    "twitter": "@skillsmatter"
   }
 ]
