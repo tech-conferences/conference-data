@@ -1518,7 +1518,18 @@
     "twitter": "@TheChangeCon"
   },
   {
-    "name": "YOW! CTO Summit",
+    "name": "YOW! CTO Summit Sydney",
+    "url": "http://sydneyctosummit.yowconference.com.au",
+    "startDate": "2018-11-28",
+    "endDate": "2018-11-28",
+    "city": "Sydney",
+    "country": "Australia",
+    "twitter": "@yow_conf",
+    "cfpUrl": "http://sydneyctosummit.yowconference.com.au/call-for-presentations/",
+    "cfpEndDate": "2018-10-19"
+  },
+  {
+    "name": "YOW! CTO Summit Brisbane",
     "url": "http://brisbanectosummit.yowconference.com.au",
     "startDate": "2018-11-26",
     "endDate": "2018-11-26",
