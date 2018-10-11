@@ -2,8 +2,8 @@
   {
     "name": "Agent Conf",
     "url": "https://www.agent.sh",
-    "startDate": "2019-01-24",
-    "endDate": "2019-01-27",
+    "startDate": "2019-02-21",
+    "endDate": "2019-02-24",
     "city": "Dornbirn & Lech",
     "country": "Austria",
     "twitter": "@AgentConf"
@@ -121,5 +121,34 @@
     "twitter": "@jsheroes",
     "cfpUrl": "https://jsheroes-form.typeform.com/to/IHohur",
     "cfpEndDate": "2018-12-01"
+  },
+  {
+    "name": "ReactEurope",
+    "url": "https://www.react-europe.org",
+    "startDate": "2019-05-23",
+    "endDate": "2019-05-24",
+    "city": "Paris",
+    "country": "France",
+    "twitter": "@ReactEurope"
+  },
+  {
+    "name": "You Gotta Love Frontend (YGLF)",
+    "url": "https://www.yougottalovefrontend.com",
+    "startDate": "2019-05-16",
+    "endDate": "2019-05-17",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "twitter": "@YGLFConf"
+  },
+  {
+    "name": "EmberConf",
+    "url": "https://emberconf.com",
+    "startDate": "2019-03-18",
+    "endDate": "2019-03-20",
+    "city": "Portland",
+    "country": "U.S.A.",
+    "twitter": "@EmberConf",
+    "cfpUrl": "https://emberconf.com/become-a-speaker.html",
+    "cfpEndDate": "2018-11-18"
   }
 ]

@@ -26,6 +26,17 @@
     "twitter": "@TechChill"
   },
   {
+    "name": "Pixels Camp",
+    "url": "https://pixels.camp/",
+    "startDate": "2019-03-21",
+    "endDate": "2019-03-23",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "cfpUrl": "https://github.com/PixelsCamp/talks",
+    "cfpEndDate": "2019-01-20",
+    "twitter": "@pixelscamp"
+  },
+  {
     "name": "FITC Toronto",
     "url": "http://fitc.ca/event/to19/",
     "startDate": "2019-04-21",
@@ -82,5 +93,16 @@
     "twitter": "@theleaddev",
     "cfpUrl": "https://newyork2019.theleaddeveloper.com/cfp",
     "cfpEndDate": "2018-11-05"
+  },
+  {
+    "name": "Web à Québec",
+    "url": "https://webaquebec.org",
+    "startDate": "2019-04-09",
+    "endDate": "2019-04-11",
+    "city": "Quebec",
+    "country": "Canada",
+    "twitter": "@webaquebec",
+    "cfpUrl": "http://bit.ly/WAQ19submit",
+    "cfpEndDate": "2018-10-26"
   }
 ]

@@ -120,6 +120,15 @@
     "twitter": "@pyconindia"
   },
   {
+    "name": "DjangoCon US",
+    "url": "https://2018.djangocon.us",
+    "startDate": "2018-10-14",
+    "endDate": "2018-10-19",
+    "city": "San Diego, CA",
+    "country": "U.S.A.",
+    "twitter": "@djangocon"
+  },
+  {
     "name": "PyBay",
     "url": "https://pybay.com",
     "startDate": "2018-08-16",
@@ -148,5 +157,16 @@
     "country": "Kenya",
     "twitter": "@PyNBO",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf2cF2KxbI9XsEIHqBA2jEzx0S4fZ4_weK3HYMo10blq1mCWw/viewform"
+  },
+  {
+    "name": "PyCon",
+    "url": "https://pycon.id/",
+    "startDate": "2018-11-03",
+    "endDate": "2018-11-04",
+    "city": "Jakarta",
+    "country": "Indonesia",
+    "cfpUrl": "https://pycon.id/call-for-paper/",
+    "cfpEndDate": "2018-09-30",
+    "twitter": "@id_python"
   }
 ]
