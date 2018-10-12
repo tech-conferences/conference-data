@@ -18,5 +18,16 @@
     "city": "Austin, TX",
     "country": "U.S.A.",
     "twitter": "@longhornphp"
+  },
+  {
+    "name": "International PHP Conference",
+    "url": "https://phpconference.com",
+    "startDate": "2019-06-03",
+    "endDate": "2019-06-07",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@phpconference",
+    "cfpUrl": "https://phpconference.com/call-for-papers/",
+    "cfpEndDate": "2018-10-31"
   }
 ]
