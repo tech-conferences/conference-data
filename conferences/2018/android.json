@@ -506,5 +506,16 @@
     "city": "Munich",
     "country": "Germany",
     "twitter": "@dachfest"
+  },
+  {
+    "name": "GDG DevFest",
+    "url": "https://devfest.at",
+    "startDate": "2018-11-24",
+    "endDate": "2018-11-25",
+    "city": "Vienna",
+    "country": "Austria",
+    "twitter": "@DevFestVienna",
+    "cfpUrl": "https://devfest.at/call",
+    "cfpEndDate": "2018-10-26"
   }
 ]
