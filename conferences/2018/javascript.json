@@ -1762,5 +1762,13 @@
     "twitter": "@confrontjs",
     "cfpUrl": "https://eventil.com/events/confrontjs-2018/cfp",
     "cfpEndDate": "2018-10-10"
+  },
+  {
+    "name": "Test",
+    "url": "conf.test.com",
+    "startDate": "2018-11-02",
+    "endDate": "2018-11-02",
+    "city": "Test CIty",
+    "country": "U.S.A."
   }
 ]
