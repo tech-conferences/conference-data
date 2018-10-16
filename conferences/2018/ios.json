@@ -123,14 +123,6 @@
     "country": "Portugal"
   },
   {
-    "name": "Swift Island",
-    "url": "http://www.swiftisland.nl",
-    "startDate": "2018-07-04",
-    "endDate": "2018-07-05",
-    "city": "Texel",
-    "country": "Netherlands"
-  },
-  {
     "name": "ADDC - App Design & Development Conference",
     "url": "https://addconf.com",
     "startDate": "2018-07-04",
@@ -140,6 +132,14 @@
     "cfpUrl": "https://addconf.com/2018/call-for-proposals",
     "cfpEndDate": "2017-02-15",
     "twitter": "@addconf"
+  },
+  {
+    "name": "Swift Island",
+    "url": "http://www.swiftisland.nl",
+    "startDate": "2018-07-04",
+    "endDate": "2018-07-05",
+    "city": "Texel",
+    "country": "Netherlands"
   },
   {
     "name": "/dev/world/2018",
@@ -259,15 +259,13 @@
     "cfpEndDate": "2018-05-17"
   },
   {
-    "name": "DevFest Baltics",
-    "url": "https://devfest2018.gdg.lv",
-    "startDate": "2018-11-16",
-    "endDate": "2018-11-16",
-    "city": "Jurmala",
-    "country": "Latvia",
-    "twitter": "@devfestbaltics",
-    "cfpUrl": "https://www.papercall.io/devfest-baltics-18",
-    "cfpEndDate": "2018-08-31"
+    "name": "DO iOS",
+    "url": "http://www.do-ios.com",
+    "startDate": "2018-11-02",
+    "endDate": "2018-11-02",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@iOSConf"
   },
   {
     "name": "Swift Heroes",
@@ -279,12 +277,14 @@
     "twitter": "@synesthesiait"
   },
   {
-    "name": "DO iOS",
-    "url": "http://www.do-ios.com",
-    "startDate": "2018-11-02",
-    "endDate": "2018-11-02",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "twitter": "@iOSConf"
+    "name": "DevFest Baltics",
+    "url": "https://devfest2018.gdg.lv",
+    "startDate": "2018-11-16",
+    "endDate": "2018-11-16",
+    "city": "Jurmala",
+    "country": "Latvia",
+    "twitter": "@devfestbaltics",
+    "cfpUrl": "https://www.papercall.io/devfest-baltics-18",
+    "cfpEndDate": "2018-08-31"
   }
 ]
