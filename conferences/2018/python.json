@@ -100,6 +100,15 @@
     "cfpEndDate": "2018-06-12"
   },
   {
+    "name": "PyBay",
+    "url": "https://pybay.com",
+    "startDate": "2018-08-16",
+    "endDate": "2018-08-19",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "twitter": "@py_bay"
+  },
+  {
     "name": "PyCon Australia",
     "url": "https://2018.pycon-au.org",
     "startDate": "2018-08-24",
@@ -111,15 +120,6 @@
     "cfpEndDate": "2018-05-28"
   },
   {
-    "name": "PyGotham",
-    "url": "https://2018.pygotham.org",
-    "startDate": "2018-10-05",
-    "endDate": "2018-10-06",
-    "city": "New York, NY",
-    "country": "U.S.A.",
-    "twitter": "@pygotham"
-  },
-  {
     "name": "PyCon India",
     "url": "https://in.pycon.org/2018/",
     "startDate": "2018-10-05",
@@ -129,6 +129,15 @@
     "twitter": "@pyconindia"
   },
   {
+    "name": "PyGotham",
+    "url": "https://2018.pygotham.org",
+    "startDate": "2018-10-05",
+    "endDate": "2018-10-06",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "twitter": "@pygotham"
+  },
+  {
     "name": "DjangoCon US",
     "url": "https://2018.djangocon.us",
     "startDate": "2018-10-14",
@@ -136,26 +145,6 @@
     "city": "San Diego, CA",
     "country": "U.S.A.",
     "twitter": "@djangocon"
-  },
-  {
-    "name": "PyBay",
-    "url": "https://pybay.com",
-    "startDate": "2018-08-16",
-    "endDate": "2018-08-19",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "twitter": "@py_bay"
-  },
-  {
-    "name": "PyCon Canada",
-    "url": "https://2018.pycon.ca",
-    "startDate": "2018-11-09",
-    "endDate": "2018-11-13",
-    "city": "Toronto",
-    "country": "Canada",
-    "twitter": "@pyconca",
-    "cfpUrl": "https://www.papercall.io/pyconca2018",
-    "cfpEndDate": "2018-09-10"
   },
   {
     "name": "PyConKE",
@@ -177,5 +166,16 @@
     "cfpUrl": "https://pycon.id/call-for-paper/",
     "cfpEndDate": "2018-09-30",
     "twitter": "@id_python"
+  },
+  {
+    "name": "PyCon Canada",
+    "url": "https://2018.pycon.ca",
+    "startDate": "2018-11-09",
+    "endDate": "2018-11-13",
+    "city": "Toronto",
+    "country": "Canada",
+    "twitter": "@pyconca",
+    "cfpUrl": "https://www.papercall.io/pyconca2018",
+    "cfpEndDate": "2018-09-10"
   }
 ]
