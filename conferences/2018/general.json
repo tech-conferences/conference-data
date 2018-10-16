@@ -17,6 +17,15 @@
     "twitter": "@btconf"
   },
   {
+    "name": "Smashing Conference",
+    "url": "https://smashingconf.com/london-2018",
+    "startDate": "2018-02-07",
+    "endDate": "2018-02-08",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@smashingconf"
+  },
+  {
     "name": "Index Developer Conference",
     "url": "https://developer.ibm.com/indexconf",
     "startDate": "2018-02-20",
@@ -121,6 +130,15 @@
     "cfpEndDate": "2018-04-02"
   },
   {
+    "name": "Smashing Conference",
+    "url": "https://smashingconf.com/sf-2018",
+    "startDate": "2018-04-17",
+    "endDate": "2018-04-18",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "twitter": "@smashingconf"
+  },
+  {
     "name": "Devoxx France",
     "url": "https://www.devoxx.fr",
     "startDate": "2018-04-18",
@@ -130,19 +148,19 @@
     "twitter": "@devoxxfr"
   },
   {
-    "name": "#LeadDev New York - The Lead Developer Conference",
-    "url": "https://newyork2018.theleaddeveloper.com",
-    "city": "New York City",
-    "country": "U.S.A.",
-    "startDate": "2018-04-24"
-  },
-  {
     "name": "Great Indian Developer Summit",
     "url": "http://www.developermarch.com/developersummit/index.html",
     "startDate": "2018-04-24",
     "endDate": "2018-04-28",
     "city": "Bangalore",
     "country": "India"
+  },
+  {
+    "name": "#LeadDev New York - The Lead Developer Conference",
+    "url": "https://newyork2018.theleaddeveloper.com",
+    "city": "New York City",
+    "country": "U.S.A.",
+    "startDate": "2018-04-24"
   },
   {
     "name": "ScaleConf Colombia",
@@ -189,6 +207,15 @@
     "endDate": "2018-05-05"
   },
   {
+    "name": "Beyond Tellerrand",
+    "url": "https://beyondtellerrand.com/events/duesseldorf-2018",
+    "startDate": "2018-05-07",
+    "endDate": "2018-05-09",
+    "city": "Düsseldorf",
+    "country": "Germany",
+    "twitter": "@btconf"
+  },
+  {
     "name": "DevSecCon Tel Aviv",
     "url": "http://www.devseccon.com/tel-aviv-2018",
     "startDate": "2018-05-07",
@@ -200,21 +227,20 @@
     "twitter": "@devseccon"
   },
   {
-    "name": "Beyond Tellerrand",
-    "url": "https://beyondtellerrand.com/events/duesseldorf-2018",
-    "startDate": "2018-05-07",
-    "endDate": "2018-05-09",
-    "city": "Düsseldorf",
-    "country": "Germany",
-    "twitter": "@btconf"
-  },
-  {
     "name": "Microsoft Build",
     "url": "https://www.microsoft.com/en-us/build",
     "startDate": "2018-05-07",
     "endDate": "2018-05-09",
     "city": "Seattle, WA",
     "country": "U.S.A."
+  },
+  {
+    "name": "Google I/O",
+    "url": "https://events.google.com/io",
+    "city": "Mountain View",
+    "country": "U.S.A.",
+    "startDate": "2018-05-08",
+    "endDate": "2018-05-10"
   },
   {
     "name": "Codemotion Amsterdam",
@@ -224,14 +250,6 @@
     "city": "Amsterdam",
     "country": "Netherlands",
     "twitter": "@codemoamsterdam"
-  },
-  {
-    "name": "Google I/O",
-    "url": "https://events.google.com/io",
-    "city": "Mountain View",
-    "country": "U.S.A.",
-    "startDate": "2018-05-08",
-    "endDate": "2018-05-10"
   },
   {
     "name": "QCon SP",
@@ -269,15 +287,6 @@
     "country": "Singapore"
   },
   {
-    "name": "Riviera DEV",
-    "url": "http://rivieradev.fr",
-    "startDate": "2018-05-16",
-    "endDate": "2018-05-18",
-    "city": "Sophia-Antipolis",
-    "country": "France",
-    "twitter": "@RivieraDEV"
-  },
-  {
     "name": "WeAreDevelopers",
     "url": "https://www.wearedevelopers.com/congress",
     "startDate": "2018-05-16",
@@ -285,6 +294,15 @@
     "city": "Vienna",
     "country": "Austria",
     "twitter": "@wearedevs"
+  },
+  {
+    "name": "Riviera DEV",
+    "url": "http://rivieradev.fr",
+    "startDate": "2018-05-16",
+    "endDate": "2018-05-18",
+    "city": "Sophia-Antipolis",
+    "country": "France",
+    "twitter": "@RivieraDEV"
   },
   {
     "name": "Porto Tech Hub",
@@ -342,6 +360,14 @@
     "country": "Germany"
   },
   {
+    "name": "True North",
+    "url": "http://truenorthwaterloo.com",
+    "city": "Waterloo",
+    "country": "Canada",
+    "startDate": "2018-05-29",
+    "endDate": "2018-05-31"
+  },
+  {
     "name": "RigaDevDays",
     "url": "https://rigadevdays.lv",
     "startDate": "2018-05-29",
@@ -349,14 +375,6 @@
     "city": "Riga",
     "country": "Latvia",
     "twitter": "@rigadevdays"
-  },
-  {
-    "name": "True North",
-    "url": "http://truenorthwaterloo.com",
-    "city": "Waterloo",
-    "country": "Canada",
-    "startDate": "2018-05-29",
-    "endDate": "2018-05-31"
   },
   {
     "name": "Locate",
@@ -397,15 +415,6 @@
     "cfpEndDate": "2018-05-11"
   },
   {
-    "name": "SyntaxCon",
-    "url": "https://2018.syntaxcon.com",
-    "startDate": "2018-06-06",
-    "endDate": "2018-06-08",
-    "city": "Charleston, SC",
-    "country": "U.S.A.",
-    "twitter": "@syntaxcon"
-  },
-  {
     "name": "Webconf.asia",
     "url": "https://webconf.asia",
     "startDate": "2018-06-06",
@@ -413,6 +422,15 @@
     "city": "Hong Kong",
     "country": "Hong Kong",
     "twitter": "@webconf_asia"
+  },
+  {
+    "name": "SyntaxCon",
+    "url": "https://2018.syntaxcon.com",
+    "startDate": "2018-06-06",
+    "endDate": "2018-06-08",
+    "city": "Charleston, SC",
+    "country": "U.S.A.",
+    "twitter": "@syntaxcon"
   },
   {
     "name": "TakeOff Conference",
@@ -464,17 +482,6 @@
     "twitter": "@TOABerlin"
   },
   {
-    "name": "ApiConf",
-    "url": "https://2018.apiconf.it",
-    "startDate": "2018-06-21",
-    "endDate": "2018-06-21",
-    "city": "Torino",
-    "country": "Italy",
-    "twitter": "@_CloudConf_",
-    "cfpUrl": "",
-    "cfpEndDate": null
-  },
-  {
     "name": "Devfest Lille",
     "url": "https://devfest.gdglille.org",
     "startDate": "2018-06-21",
@@ -497,6 +504,17 @@
     "twitter": "@WeRiseConf"
   },
   {
+    "name": "ApiConf",
+    "url": "https://2018.apiconf.it",
+    "startDate": "2018-06-21",
+    "endDate": "2018-06-21",
+    "city": "Torino",
+    "country": "Italy",
+    "twitter": "@_CloudConf_",
+    "cfpUrl": "",
+    "cfpEndDate": null
+  },
+  {
     "name": "World AR VR Expo",
     "url": "http://www.wavexc.com",
     "startDate": "2018-06-22",
@@ -513,6 +531,15 @@
     "city": "Boston, MA",
     "country": "U.S.A.",
     "twitter": "@aneventapart"
+  },
+  {
+    "name": "Smashing Conference",
+    "url": "https://smashingconf.com/toronto-2018",
+    "startDate": "2018-06-26",
+    "endDate": "2018-06-27",
+    "city": "Toronto",
+    "country": "Canada",
+    "twitter": "@smashingconf"
   },
   {
     "name": "#LeadDev London - The Lead Developer Conference",
@@ -570,17 +597,6 @@
     "cfpUrl": "https://www.middevcon.com/call-for-speakers"
   },
   {
-    "name": "AnxietyTech",
-    "url": "https://www.anxietytech.com",
-    "startDate": "2018-07-18",
-    "endDate": "2018-07-18",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "twitter": "@anxietytech",
-    "cfpUrl": "",
-    "cfpEndDate": null
-  },
-  {
     "name": "Code Climate Summit",
     "url": "https://codeclimate.com/summit",
     "startDate": "2018-07-18",
@@ -611,6 +627,17 @@
     "cfpEndDate": "2018-04-30"
   },
   {
+    "name": "AnxietyTech",
+    "url": "https://www.anxietytech.com",
+    "startDate": "2018-07-18",
+    "endDate": "2018-07-18",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "twitter": "@anxietytech",
+    "cfpUrl": "",
+    "cfpEndDate": null
+  },
+  {
     "name": "Google Cloud Next",
     "url": "https://cloud.withgoogle.com/next18/sf",
     "startDate": "2018-07-24",
@@ -639,15 +666,13 @@
     "twitter": "@webdirections"
   },
   {
-    "name": "ScaleConf New Zealand",
-    "url": "https://cfp.scaleconf.co.nz",
-    "startDate": "2018-08-06",
-    "endDate": "2018-08-07",
-    "city": "Te Papa - Wellington",
-    "country": "New Zealand",
-    "cfpEndDate": "2018-04-07",
-    "cfpUrl": "https://cfp.scaleconf.co.nz",
-    "twitter": "@sconfnz"
+    "name": "DevConf",
+    "url": "https://devconf.info/in/2018",
+    "startDate": "2018-08-04",
+    "endDate": "2018-08-05",
+    "city": "Bengaluru",
+    "country": "India",
+    "cfpEndDate": "2018-06-30"
   },
   {
     "name": "THAT Conference",
@@ -657,6 +682,17 @@
     "city": "Wisconsin Dells",
     "country": "U.S.A.",
     "twitter": "@ThatConference"
+  },
+  {
+    "name": "ScaleConf New Zealand",
+    "url": "https://cfp.scaleconf.co.nz",
+    "startDate": "2018-08-06",
+    "endDate": "2018-08-07",
+    "city": "Te Papa - Wellington",
+    "country": "New Zealand",
+    "cfpEndDate": "2018-04-07",
+    "cfpUrl": "https://cfp.scaleconf.co.nz",
+    "twitter": "@sconfnz"
   },
   {
     "name": "Traction",
@@ -715,16 +751,6 @@
     "twitter": "@aneventapart"
   },
   {
-    "name": "Open Source Summit North America",
-    "url": "https://events.linuxfoundation.org/events/open-source-summit-north-america-2018/",
-    "startDate": "2018-08-29",
-    "endDate": "2018-08-31",
-    "city": "Vancouver, BC",
-    "country": "Canada",
-    "cfpUrl": "https://events.linuxfoundation.org/events/open-source-summit-north-america-2018/program/cfp/",
-    "cfpEndDate": "2018-04-29"
-  },
-  {
     "name": "Black Atlanta Tech Week",
     "url": "https://atlantablacktechweek.org/",
     "startDate": "2018-08-29",
@@ -735,12 +761,14 @@
     "cfpUrl": "https://atlantablacktechweek.org/speaker-application/"
   },
   {
-    "name": "NightlyBuild",
-    "url": "https://www.nightlybuild.io",
-    "startDate": "2018-08-31",
-    "city": "Cologne",
-    "country": "Germany",
-    "twitter": "@nightlybuildio"
+    "name": "Open Source Summit North America",
+    "url": "https://events.linuxfoundation.org/events/open-source-summit-north-america-2018/",
+    "startDate": "2018-08-29",
+    "endDate": "2018-08-31",
+    "city": "Vancouver, BC",
+    "country": "Canada",
+    "cfpUrl": "https://events.linuxfoundation.org/events/open-source-summit-north-america-2018/program/cfp/",
+    "cfpEndDate": "2018-04-29"
   },
   {
     "name": "CoderCruise",
@@ -750,6 +778,23 @@
     "city": "Ft. Lauderdale, FL",
     "country": "U.S.A.",
     "twitter": "@middevcon"
+  },
+  {
+    "name": "NightlyBuild",
+    "url": "https://www.nightlybuild.io",
+    "startDate": "2018-08-31",
+    "city": "Cologne",
+    "country": "Germany",
+    "twitter": "@nightlybuildio"
+  },
+  {
+    "name": "KulenDayz",
+    "url": "http://www.kulendayz.com",
+    "startDate": "2018-08-31",
+    "endDate": "2018-09-01",
+    "city": "Osijek",
+    "country": "Croatia",
+    "twitter": "@KulenDayz"
   },
   {
     "name": "DevSecCon Boston",
@@ -774,6 +819,26 @@
     "cfpEndDate": null
   },
   {
+    "name": "Digital PM Summit",
+    "url": "https://bureauofdigital.com/event/digital-pm-summit-2018",
+    "startDate": "2018-09-04",
+    "endDate": "2018-09-06",
+    "city": "Memphis, TN",
+    "country": "U.S.A.",
+    "twitter": "@digitalPMsummit"
+  },
+  {
+    "name": "BlockchainConf.Tech",
+    "url": "http://blockchainconf.tech",
+    "startDate": "2018-09-05",
+    "endDate": "2018-09-07",
+    "city": "Atlanta",
+    "country": "U.S.A.",
+    "twitter": "@blockchaincnf",
+    "cfpUrl": "http://blockchainconf.tech",
+    "cfpEndDate": "2018-07-13"
+  },
+  {
     "name": "Refresh",
     "url": "http://refresh.rocks",
     "startDate": "2018-09-07",
@@ -785,6 +850,15 @@
     "twitter": "@REFRESHRocks"
   },
   {
+    "name": "TechExeter Conference",
+    "url": "https://conference.techexeter.uk",
+    "startDate": "2018-09-07",
+    "endDate": "2018-09-07",
+    "city": "Exeter",
+    "country": "U.K.",
+    "twitter": "@techexeter"
+  },
+  {
     "name": "adaptTo()",
     "url": "https://adapt.to/2018/en.html",
     "startDate": "2018-09-10",
@@ -794,6 +868,15 @@
     "twitter": "@adaptto",
     "cfpUrl": "https://adapt.to/2018/en/conference/call-for-papers.html",
     "cfpEndDate": "2018-04-01"
+  },
+  {
+    "name": "Smashing Conference",
+    "url": "https://smashingconf.com/freiburg-2018",
+    "startDate": "2018-09-10",
+    "endDate": "2018-09-11",
+    "city": "Freiburg",
+    "country": "Germany",
+    "twitter": "@smashingconf"
   },
   {
     "name": "Webkongress Erlangen",
@@ -817,15 +900,12 @@
     "cfpEndDate": "2018-04-30"
   },
   {
-    "name": "Highload fwdays",
-    "url": "https://fwdays.com/en/event/highload-fwdays-2018",
+    "name": "Navimotive",
+    "url": "https://www.navimotive.com",
     "startDate": "2018-09-15",
     "endDate": "2018-09-15",
     "city": "Kyiv",
-    "country": "Ukraine",
-    "twitter": "@fwdays",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf0C74VjvnzgF_-y3fbRjxCfHR0EGETzNF5iBuf4JoWwUoElA/viewform",
-    "cfpEndDate": "2018-06-01"
+    "country": "Ukraine"
   },
   {
     "name": "Seattle CodeCamp",
@@ -850,6 +930,17 @@
     "cfpEndDate": null
   },
   {
+    "name": "Highload fwdays",
+    "url": "https://fwdays.com/en/event/highload-fwdays-2018",
+    "startDate": "2018-09-15",
+    "endDate": "2018-09-15",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "twitter": "@fwdays",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf0C74VjvnzgF_-y3fbRjxCfHR0EGETzNF5iBuf4JoWwUoElA/viewform",
+    "cfpEndDate": "2018-06-01"
+  },
+  {
     "name": "NDC Sydney",
     "url": "https://ndcsydney.com",
     "startDate": "2018-09-19",
@@ -870,6 +961,14 @@
     "twitter": "@webaudioconf"
   },
   {
+    "name": "The Conf",
+    "url": "https://www.theconf.club",
+    "startDate": "2018-09-21",
+    "endDate": "2018-09-22",
+    "city": "Sao Paulo",
+    "country": "Brazil"
+  },
+  {
     "name": "Web Weekend Kathmandu",
     "url": "https://2018.wwktm.co",
     "startDate": "2018-09-22",
@@ -881,6 +980,33 @@
     "cfpEndDate": "2018-07-31"
   },
   {
+    "name": "GDG DevFest Atlanta",
+    "url": "http://devfestatl.com",
+    "startDate": "2018-09-22",
+    "endDate": "2018-09-22",
+    "city": "Atlanta, GA",
+    "country": "U.S.A.",
+    "twitter": "@DevFestAtl"
+  },
+  {
+    "name": "Strange Loop",
+    "url": "https://thestrangeloop.com",
+    "startDate": "2018-09-26",
+    "endDate": "2018-09-28",
+    "city": "Saint Louis",
+    "country": "U.S.A.",
+    "twitter": "@strangeloop_stl"
+  },
+  {
+    "name": "Open Source Backup",
+    "url": "https://osbconf.org",
+    "startDate": "2018-09-26",
+    "endDate": "2018-09-26",
+    "city": "Cologne",
+    "country": "Germany",
+    "twitter": "@osbconf"
+  },
+  {
     "name": "DevConf",
     "url": "http://devconf.pl/",
     "startDate": "2018-09-27",
@@ -890,6 +1016,15 @@
     "twitter": "@devconfpl"
   },
   {
+    "name": "Agile Venture Prato",
+    "url": "https://www.agileday.it/mini/2018/prato",
+    "startDate": "2018-09-29",
+    "endDate": "2018-09-29",
+    "city": "Prato",
+    "country": "Italy",
+    "twitter": "@agileday"
+  },
+  {
     "name": "Web Unleashed",
     "url": "http://fitc.ca/event/webu18/",
     "startDate": "2018-10-01",
@@ -897,6 +1032,15 @@
     "city": "Toronto",
     "country": "Canada",
     "twitter": "@fitc"
+  },
+  {
+    "name": "API City",
+    "url": "https://apicity.io",
+    "startDate": "2018-10-03",
+    "endDate": "2018-10-04",
+    "city": "Bremerton, WA",
+    "country": "U.S.A.",
+    "twitter": "@APICityConf"
   },
   {
     "name": "Software Craftmanship London",
@@ -925,6 +1069,15 @@
     "twitter": "@aneventapart"
   },
   {
+    "name": "We ❤️ Speed",
+    "url": "https://www.welovespeed.com/en/",
+    "startDate": "2018-10-09",
+    "endDate": "2018-10-09",
+    "city": "Bordeaux",
+    "country": "France",
+    "twitter": "@_welovespeed"
+  },
+  {
     "name": "PolarConf",
     "url": "https://www.papercall.io/polcarconf-2018",
     "startDate": "2018-10-10",
@@ -933,6 +1086,32 @@
     "country": "Finland",
     "cfpUrl": "https://www.papercall.io/polcarconf-2018",
     "cfpEndDate": "2018-04-29"
+  },
+  {
+    "name": "API Mixtape Vol 2",
+    "url": "https://apimixtape.com",
+    "startDate": "2018-10-10",
+    "endDate": "2018-10-10",
+    "city": "San Francisco",
+    "country": "U.S.A.",
+    "twitter": "@apimixtape"
+  },
+  {
+    "name": "Open FinTech Forum",
+    "url": "https://events.linuxfoundation.org/events/open-fintech-forum-2018",
+    "startDate": "2018-10-10",
+    "endDate": "2018-10-11",
+    "city": "New York, NY",
+    "country": "U.S.A."
+  },
+  {
+    "name": "Blacks in Technology",
+    "url": "https://www.bitcon2018.com",
+    "startDate": "2018-10-11",
+    "endDate": "2018-10-13",
+    "city": "Minneapolis",
+    "country": "U.S.A.",
+    "twitter": "@blkintechnology"
   },
   {
     "name": "re:develop",
@@ -946,6 +1125,17 @@
     "cfpEndDate": "2018-07-31"
   },
   {
+    "name": "JFuture Conference 2018",
+    "url": "https://jfuture.by",
+    "startDate": "2018-10-13",
+    "endDate": "2018-10-13",
+    "city": "Minsk",
+    "country": "Belarus",
+    "twitter": "@jfutureby",
+    "cfpUrl": "https://www.papercall.io/jfuture",
+    "cfpEndDate": "2018-08-18"
+  },
+  {
     "name": "Silicon Valley Code Camp",
     "url": "https://www.siliconvalley-codecamp.com",
     "startDate": "2018-10-13",
@@ -955,6 +1145,24 @@
     "twitter": "@sv_code_camp",
     "cfpUrl": "",
     "cfpEndDate": null
+  },
+  {
+    "name": "Github Universe",
+    "url": "https://githubuniverse.com",
+    "startDate": "2018-10-16",
+    "endDate": "2018-10-17",
+    "city": "San Fransisco, CA",
+    "country": "U.S.A.",
+    "twitter": "@github"
+  },
+  {
+    "name": "Signal",
+    "url": "https://signal.twilio.com",
+    "startDate": "2018-10-17",
+    "endDate": "2018-10-18",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "twitter": "@signalconf"
   },
   {
     "name": "DevFest Nantes",
@@ -990,6 +1198,35 @@
     "cfpEndDate": "2018-08-01"
   },
   {
+    "name": "Bosnia Agile Day",
+    "url": "https://conference.agile.ba",
+    "startDate": "2018-10-20",
+    "endDate": "2018-10-20",
+    "city": "Sarajevo",
+    "country": "Bosnia and Herzegovina",
+    "twitter": "@BosniaAgile"
+  },
+  {
+    "name": "Change",
+    "url": "http://www.changecon.com",
+    "startDate": "2018-10-20",
+    "endDate": "2018-10-20",
+    "city": "Zagreb",
+    "country": "Croatia",
+    "twitter": "@TheChangeCon"
+  },
+  {
+    "name": "Mobilization",
+    "url": "http://2018.mobilization.pl",
+    "startDate": "2018-10-20",
+    "endDate": "2018-10-20",
+    "city": "Łódź",
+    "country": "Poland",
+    "twitter": "@mobilizatonpl",
+    "cfpUrl": "http://bit.ly/mobilization8-c4p",
+    "cfpEndDate": "2018-08-31"
+  },
+  {
     "name": "All Things Open",
     "url": "https://allthingsopen.org",
     "startDate": "2018-10-21",
@@ -1011,6 +1248,15 @@
     "cfpEndDate": "2018-07-01"
   },
   {
+    "name": "SmashingConf NY",
+    "url": "https://smashingconf.com/ny-2018",
+    "startDate": "2018-10-23",
+    "endDate": "2018-10-24",
+    "city": "New York",
+    "country": "U.S.A.",
+    "twitter": "@smashingconf"
+  },
+  {
     "name": "NConf",
     "url": "https://nconf.de",
     "startDate": "2018-10-23",
@@ -1027,6 +1273,26 @@
     "city": "Washington DC",
     "country": "U.S.A.",
     "twitter": "@CrowdWeek"
+  },
+  {
+    "name": "GDG DevFest",
+    "url": "https://devfestsf.com",
+    "startDate": "2018-10-28",
+    "endDate": "2018-10-28",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "twitter": "@sf_gdg",
+    "cfpUrl": "https://goo.gl/forms/6kUsqsO8LyQ6X4ac2",
+    "cfpEndDate": "2018-09-22"
+  },
+  {
+    "name": "GOTO Berlin",
+    "url": "https://gotober.com",
+    "startDate": "2018-10-30",
+    "endDate": "2018-11-02",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@GOTOber"
   },
   {
     "name": "Web Directions Culture",
@@ -1047,6 +1313,15 @@
     "twitter": "@webdirections"
   },
   {
+    "name": "µCon London 2018 - The Microservices Conference",
+    "url": "https://skillsmatter.com/conferences/10336-mucon-london-2018-the-microservices-conference",
+    "startDate": "2018-11-05",
+    "endDate": "2018-11-06",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@skillsmatter"
+  },
+  {
     "name": "Cloud Native Israel",
     "url": "https://www.cloudnativeisrael.com",
     "startDate": "2018-11-05",
@@ -1056,6 +1331,15 @@
     "twitter": "@cloudnativeil",
     "cfpUrl": "https://www.cloudnativeisrael.com/call-for-papers",
     "cfpEndDate": "2018-09-02"
+  },
+  {
+    "name": "Open Source Monitoring",
+    "url": "https://osmc.de",
+    "startDate": "2018-11-05",
+    "endDate": "2018-11-08",
+    "city": "Nuremberg",
+    "country": "Germany",
+    "twitter": "@netways"
   },
   {
     "name": "Beyond Tellerrand",
@@ -1074,6 +1358,44 @@
     "country": "U.S.A."
   },
   {
+    "name": "FWD50",
+    "url": "https://fwd50.com",
+    "startDate": "2018-11-07",
+    "endDate": "2018-11-09",
+    "city": "Ottawa",
+    "country": "Canada",
+    "twitter": "@fwd50conf",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdZ6d9rVxc22I0i1Qc6prOe4Vs_oNso35HPG5Q0fI_Oz6RD6w/viewform",
+    "cfpEndDate": "2018-09-09"
+  },
+  {
+    "name": "Samsung Developer Conference",
+    "url": "https://www.samsungdeveloperconference.com/?utm_source=confs.tech&utm_medium=referral&utm_campaign=sdc2018",
+    "startDate": "2018-11-07",
+    "endDate": "2018-11-08",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "twitter": "@samsung_dev"
+  },
+  {
+    "name": "MongoDB Europe '18",
+    "url": "https://www.mongodb.com/europe18",
+    "startDate": "2018-11-08",
+    "endDate": "2018-11-08",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@mongodb"
+  },
+  {
+    "name": "P3X - People, Product & Process eXchange",
+    "url": "https://skillsmatter.com/conferences/10367-p3x-people-product-process-exchange-2018",
+    "startDate": "2018-11-08",
+    "endDate": "2018-11-09",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@skillsmatter"
+  },
+  {
     "name": "DevFest Toulouse",
     "url": "https://devfesttoulouse.fr",
     "startDate": "2018-11-08",
@@ -1085,6 +1407,17 @@
     "cfpEndDate": "2018-07-01"
   },
   {
+    "name": "Italian Agile Day",
+    "url": "https://www.agileday.it",
+    "startDate": "2018-11-09",
+    "endDate": "2018-11-10",
+    "city": "Brescia",
+    "country": "Italy",
+    "twitter": "@agileday",
+    "cfpUrl": "https://www.agileday.it/front/call-for-sessions/",
+    "cfpEndDate": "2018-08-31"
+  },
+  {
     "name": "BDX I/O",
     "url": "https://www.bdx.io",
     "startDate": "2018-11-09",
@@ -1092,6 +1425,15 @@
     "city": "Bordeaux",
     "country": "France",
     "twitter": "@bdxio"
+  },
+  {
+    "name": "Techonomy",
+    "url": "https://techonomy.com/conf/te18/program",
+    "startDate": "2018-11-11",
+    "endDate": "2018-11-13",
+    "city": "Half Moon Bay, CA",
+    "country": "U.S.A.",
+    "twitter": "@techonomy"
   },
   {
     "name": "Build Stuff",
@@ -1111,6 +1453,57 @@
     "twitter": "",
     "cfpUrl": "",
     "cfpEndDate": null
+  },
+  {
+    "name": "Blockchain Technology Conference",
+    "url": "https://blockchainconf.net",
+    "startDate": "2018-11-19",
+    "endDate": "2018-11-21",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@BCTechConf",
+    "cfpUrl": "https://blockchainconf.net/call-for-papers-2018/",
+    "cfpEndDate": "2018-06-11"
+  },
+  {
+    "name": "GOTO Copenhagen",
+    "url": "https://gotocph.com",
+    "startDate": "2018-11-19",
+    "endDate": "2018-11-23",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "twitter": "@GOTOcph"
+  },
+  {
+    "name": "Codemotion Berlin",
+    "url": "https://berlin2018.codemotionworld.com",
+    "startDate": "2018-11-20",
+    "endDate": "2018-11-21",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@CodemoBerlin"
+  },
+  {
+    "name": "YOW! CTO Summit Brisbane",
+    "url": "http://brisbanectosummit.yowconference.com.au",
+    "startDate": "2018-11-26",
+    "endDate": "2018-11-26",
+    "city": "Brisbane",
+    "country": "Australia",
+    "twitter": "@yow_conf",
+    "cfpUrl": "http://brisbanectosummit.yowconference.com.au/call-for-presentations/",
+    "cfpEndDate": "2018-10-19"
+  },
+  {
+    "name": "YOW! CTO Summit Sydney",
+    "url": "http://sydneyctosummit.yowconference.com.au",
+    "startDate": "2018-11-28",
+    "endDate": "2018-11-28",
+    "city": "Sydney",
+    "country": "Australia",
+    "twitter": "@yow_conf",
+    "cfpUrl": "http://sydneyctosummit.yowconference.com.au/call-for-presentations/",
+    "cfpEndDate": "2018-10-19"
   },
   {
     "name": "Codemotion Milan",
@@ -1133,53 +1526,24 @@
     "twitter": "@devternity"
   },
   {
-    "name": "An Event Apart: San Francisco",
-    "url": "https://aneventapart.com/event/san-francisco-2018",
-    "startDate": "2018-12-10",
-    "endDate": "2018-12-12",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "twitter": "@aneventapart"
+    "name": "Go Agile Tour",
+    "url": "https://goagiletour.ca",
+    "startDate": "2018-11-30",
+    "endDate": "2018-11-30",
+    "city": "Gatineau",
+    "country": "Canada",
+    "twitter": "@goagiletour",
+    "cfpUrl": "https://goagiletour.ca/speakers",
+    "cfpEndDate": "2018-09-09"
   },
   {
-    "name": "Blacks in Technology",
-    "url": "https://www.bitcon2018.com",
-    "startDate": "2018-10-11",
-    "endDate": "2018-10-13",
-    "city": "Minneapolis",
-    "country": "U.S.A.",
-    "twitter": "@blkintechnology"
-  },
-  {
-    "name": "Digital PM Summit",
-    "url": "https://bureauofdigital.com/event/digital-pm-summit-2018",
-    "startDate": "2018-09-04",
-    "endDate": "2018-09-06",
-    "city": "Memphis, TN",
-    "country": "U.S.A.",
-    "twitter": "@digitalPMsummit"
-  },
-  {
-    "name": "BlockchainConf.Tech",
-    "url": "http://blockchainconf.tech",
-    "startDate": "2018-09-05",
-    "endDate": "2018-09-07",
-    "city": "Atlanta",
-    "country": "U.S.A.",
-    "twitter": "@blockchaincnf",
-    "cfpUrl": "http://blockchainconf.tech",
-    "cfpEndDate": "2018-07-13"
-  },
-  {
-    "name": "Blockchain Technology Conference",
-    "url": "https://blockchainconf.net",
-    "startDate": "2018-11-19",
-    "endDate": "2018-11-21",
+    "name": "Qt World Summit",
+    "url": "https://www.qt.io/qtws18/home",
+    "startDate": "2018-12-05",
+    "endDate": "2018-12-06",
     "city": "Berlin",
     "country": "Germany",
-    "twitter": "@BCTechConf",
-    "cfpUrl": "https://blockchainconf.net/call-for-papers-2018/",
-    "cfpEndDate": "2018-06-11"
+    "twitter": "@qtproject"
   },
   {
     "name": "The Lead Developer",
@@ -1193,351 +1557,13 @@
     "cfpEndDate": "2018-08-03"
   },
   {
-    "name": "DevConf",
-    "url": "https://devconf.info/in/2018",
-    "startDate": "2018-08-04",
-    "endDate": "2018-08-05",
-    "city": "Bengaluru",
-    "country": "India",
-    "cfpEndDate": "2018-06-30"
-  },
-  {
-    "name": "We ❤️ Speed",
-    "url": "https://www.welovespeed.com/en/",
-    "startDate": "2018-10-09",
-    "endDate": "2018-10-09",
-    "city": "Bordeaux",
-    "country": "France",
-    "twitter": "@_welovespeed"
-  },
-  {
-    "name": "JFuture Conference 2018",
-    "url": "https://jfuture.by",
-    "startDate": "2018-10-13",
-    "endDate": "2018-10-13",
-    "city": "Minsk",
-    "country": "Belarus",
-    "twitter": "@jfutureby",
-    "cfpUrl": "https://www.papercall.io/jfuture",
-    "cfpEndDate": "2018-08-18"
-  },
-  {
-    "name": "Smashing Conference",
-    "url": "https://smashingconf.com/london-2018",
-    "startDate": "2018-02-07",
-    "endDate": "2018-02-08",
-    "city": "London",
-    "country": "U.K.",
-    "twitter": "@smashingconf"
-  },
-  {
-    "name": "Smashing Conference",
-    "url": "https://smashingconf.com/sf-2018",
-    "startDate": "2018-04-17",
-    "endDate": "2018-04-18",
+    "name": "An Event Apart: San Francisco",
+    "url": "https://aneventapart.com/event/san-francisco-2018",
+    "startDate": "2018-12-10",
+    "endDate": "2018-12-12",
     "city": "San Francisco, CA",
     "country": "U.S.A.",
-    "twitter": "@smashingconf"
-  },
-  {
-    "name": "Smashing Conference",
-    "url": "https://smashingconf.com/toronto-2018",
-    "startDate": "2018-06-26",
-    "endDate": "2018-06-27",
-    "city": "Toronto",
-    "country": "Canada",
-    "twitter": "@smashingconf"
-  },
-  {
-    "name": "Smashing Conference",
-    "url": "https://smashingconf.com/freiburg-2018",
-    "startDate": "2018-09-10",
-    "endDate": "2018-09-11",
-    "city": "Freiburg",
-    "country": "Germany",
-    "twitter": "@smashingconf"
-  },
-  {
-    "name": "SmashingConf NY",
-    "url": "https://smashingconf.com/ny-2018",
-    "startDate": "2018-10-23",
-    "endDate": "2018-10-24",
-    "city": "New York",
-    "country": "U.S.A.",
-    "twitter": "@smashingconf"
-  },
-  {
-    "name": "Strange Loop",
-    "url": "https://thestrangeloop.com",
-    "startDate": "2018-09-26",
-    "endDate": "2018-09-28",
-    "city": "Saint Louis",
-    "country": "U.S.A.",
-    "twitter": "@strangeloop_stl"
-  },
-  {
-    "name": "TechExeter Conference",
-    "url": "https://conference.techexeter.uk",
-    "startDate": "2018-09-07",
-    "endDate": "2018-09-07",
-    "city": "Exeter",
-    "country": "U.K.",
-    "twitter": "@techexeter"
-  },
-  {
-    "name": "Go Agile Tour",
-    "url": "https://goagiletour.ca",
-    "startDate": "2018-11-30",
-    "endDate": "2018-11-30",
-    "city": "Gatineau",
-    "country": "Canada",
-    "twitter": "@goagiletour",
-    "cfpUrl": "https://goagiletour.ca/speakers",
-    "cfpEndDate": "2018-09-09"
-  },
-  {
-    "name": "Mobilization",
-    "url": "http://2018.mobilization.pl",
-    "startDate": "2018-10-20",
-    "endDate": "2018-10-20",
-    "city": "Łódź",
-    "country": "Poland",
-    "twitter": "@mobilizatonpl",
-    "cfpUrl": "http://bit.ly/mobilization8-c4p",
-    "cfpEndDate": "2018-08-31"
-  },
-  {
-    "name": "Italian Agile Day",
-    "url": "https://www.agileday.it",
-    "startDate": "2018-11-09",
-    "endDate": "2018-11-10",
-    "city": "Brescia",
-    "country": "Italy",
-    "twitter": "@agileday",
-    "cfpUrl": "https://www.agileday.it/front/call-for-sessions/",
-    "cfpEndDate": "2018-08-31"
-  },
-  {
-    "name": "KulenDayz",
-    "url": "http://www.kulendayz.com",
-    "startDate": "2018-08-31",
-    "endDate": "2018-09-01",
-    "city": "Osijek",
-    "country": "Croatia",
-    "twitter": "@KulenDayz"
-  },
-  {
-    "name": "The Conf",
-    "url": "https://www.theconf.club",
-    "startDate": "2018-09-21",
-    "endDate": "2018-09-22",
-    "city": "Sao Paulo",
-    "country": "Brazil"
-  },
-  {
-    "name": "Samsung Developer Conference",
-    "url": "https://www.samsungdeveloperconference.com/?utm_source=confs.tech&utm_medium=referral&utm_campaign=sdc2018",
-    "startDate": "2018-11-07",
-    "endDate": "2018-11-08",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "twitter": "@samsung_dev"
-  },
-  {
-    "name": "Qt World Summit",
-    "url": "https://www.qt.io/qtws18/home",
-    "startDate": "2018-12-05",
-    "endDate": "2018-12-06",
-    "city": "Berlin",
-    "country": "Germany",
-    "twitter": "@qtproject"
-  },
-  {
-    "name": "Open Source Monitoring",
-    "url": "https://osmc.de",
-    "startDate": "2018-11-05",
-    "endDate": "2018-11-08",
-    "city": "Nuremberg",
-    "country": "Germany",
-    "twitter": "@netways"
-  },
-  {
-    "name": "Open Source Backup",
-    "url": "https://osbconf.org",
-    "startDate": "2018-09-26",
-    "endDate": "2018-09-26",
-    "city": "Cologne",
-    "country": "Germany",
-    "twitter": "@osbconf"
-  },
-  {
-    "name": "GDG DevFest Atlanta",
-    "url": "http://devfestatl.com",
-    "startDate": "2018-09-22",
-    "endDate": "2018-09-22",
-    "city": "Atlanta, GA",
-    "country": "U.S.A.",
-    "twitter": "@DevFestAtl"
-  },
-  {
-    "name": "API City",
-    "url": "https://apicity.io",
-    "startDate": "2018-10-03",
-    "endDate": "2018-10-04",
-    "city": "Bremerton, WA",
-    "country": "U.S.A.",
-    "twitter": "@APICityConf"
-  },
-  {
-    "name": "Navimotive",
-    "url": "https://www.navimotive.com",
-    "startDate": "2018-09-15",
-    "endDate": "2018-09-15",
-    "city": "Kyiv",
-    "country": "Ukraine"
-  },
-  {
-    "name": "Signal",
-    "url": "https://signal.twilio.com",
-    "startDate": "2018-10-17",
-    "endDate": "2018-10-18",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "twitter": "@signalconf"
-  },
-  {
-    "name": "Agile Venture Prato",
-    "url": "https://www.agileday.it/mini/2018/prato",
-    "startDate": "2018-09-29",
-    "endDate": "2018-09-29",
-    "city": "Prato",
-    "country": "Italy",
-    "twitter": "@agileday"
-  },
-  {
-    "name": "GOTO Copenhagen",
-    "url": "https://gotocph.com",
-    "startDate": "2018-11-19",
-    "endDate": "2018-11-23",
-    "city": "Copenhagen",
-    "country": "Denmark",
-    "twitter": "@GOTOcph"
-  },
-  {
-    "name": "GOTO Berlin",
-    "url": "https://gotober.com",
-    "startDate": "2018-10-30",
-    "endDate": "2018-11-02",
-    "city": "Berlin",
-    "country": "Germany",
-    "twitter": "@GOTOber"
-  },
-  {
-    "name": "Codemotion Berlin",
-    "url": "https://berlin2018.codemotionworld.com",
-    "startDate": "2018-11-20",
-    "endDate": "2018-11-21",
-    "city": "Berlin",
-    "country": "Germany",
-    "twitter": "@CodemoBerlin"
-  },
-  {
-    "name": "FWD50",
-    "url": "https://fwd50.com",
-    "startDate": "2018-11-07",
-    "endDate": "2018-11-09",
-    "city": "Ottawa",
-    "country": "Canada",
-    "twitter": "@fwd50conf",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdZ6d9rVxc22I0i1Qc6prOe4Vs_oNso35HPG5Q0fI_Oz6RD6w/viewform",
-    "cfpEndDate": "2018-09-09"
-  },
-  {
-    "name": "Techonomy",
-    "url": "https://techonomy.com/conf/te18/program",
-    "startDate": "2018-11-11",
-    "endDate": "2018-11-13",
-    "city": "Half Moon Bay, CA",
-    "country": "U.S.A.",
-    "twitter": "@techonomy"
-  },
-  {
-    "name": "GDG DevFest",
-    "url": "https://devfestsf.com",
-    "startDate": "2018-10-28",
-    "endDate": "2018-10-28",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "twitter": "@sf_gdg",
-    "cfpUrl": "https://goo.gl/forms/6kUsqsO8LyQ6X4ac2",
-    "cfpEndDate": "2018-09-22"
-  },
-  {
-    "name": "API Mixtape Vol 2",
-    "url": "https://apimixtape.com",
-    "startDate": "2018-10-10",
-    "endDate": "2018-10-10",
-    "city": "San Francisco",
-    "country": "U.S.A.",
-    "twitter": "@apimixtape"
-  },
-  {
-    "name": "MongoDB Europe '18",
-    "url": "https://www.mongodb.com/europe18",
-    "startDate": "2018-11-08",
-    "endDate": "2018-11-08",
-    "city": "London",
-    "country": "U.K.",
-    "twitter": "@mongodb"
-  },
-  {
-    "name": "µCon London 2018 - The Microservices Conference",
-    "url": "https://skillsmatter.com/conferences/10336-mucon-london-2018-the-microservices-conference",
-    "startDate": "2018-11-05",
-    "endDate": "2018-11-06",
-    "city": "London",
-    "country": "U.K.",
-    "twitter": "@skillsmatter"
-  },
-  {
-    "name": "P3X - People, Product & Process eXchange",
-    "url": "https://skillsmatter.com/conferences/10367-p3x-people-product-process-exchange-2018",
-    "startDate": "2018-11-08",
-    "endDate": "2018-11-09",
-    "city": "London",
-    "country": "U.K.",
-    "twitter": "@skillsmatter"
-  },
-  {
-    "name": "Change",
-    "url": "http://www.changecon.com",
-    "startDate": "2018-10-20",
-    "endDate": "2018-10-20",
-    "city": "Zagreb",
-    "country": "Croatia",
-    "twitter": "@TheChangeCon"
-  },
-  {
-    "name": "YOW! CTO Summit Sydney",
-    "url": "http://sydneyctosummit.yowconference.com.au",
-    "startDate": "2018-11-28",
-    "endDate": "2018-11-28",
-    "city": "Sydney",
-    "country": "Australia",
-    "twitter": "@yow_conf",
-    "cfpUrl": "http://sydneyctosummit.yowconference.com.au/call-for-presentations/",
-    "cfpEndDate": "2018-10-19"
-  },
-  {
-    "name": "YOW! CTO Summit Brisbane",
-    "url": "http://brisbanectosummit.yowconference.com.au",
-    "startDate": "2018-11-26",
-    "endDate": "2018-11-26",
-    "city": "Brisbane",
-    "country": "Australia",
-    "twitter": "@yow_conf",
-    "cfpUrl": "http://brisbanectosummit.yowconference.com.au/call-for-presentations/",
-    "cfpEndDate": "2018-10-19"
+    "twitter": "@aneventapart"
   },
   {
     "name": "WebMadeira",
@@ -1547,31 +1573,5 @@
     "city": "Estreito de Câmara de Lobos",
     "country": "Portugal",
     "twitter": "@web_madeira"
-  },
-  {
-    "name": "Open FinTech Forum",
-    "url": "https://events.linuxfoundation.org/events/open-fintech-forum-2018",
-    "startDate": "2018-10-10",
-    "endDate": "2018-10-11",
-    "city": "New York, NY",
-    "country": "U.S.A."
-  },
-  {
-    "name": "Bosnia Agile Day",
-    "url": "https://conference.agile.ba",
-    "startDate": "2018-10-20",
-    "endDate": "2018-10-20",
-    "city": "Sarajevo",
-    "country": "Bosnia and Herzegovina",
-    "twitter": "@BosniaAgile"
-  },
-  {
-    "name": "Github Universe",
-    "url": "https://githubuniverse.com",
-    "startDate": "2018-10-16",
-    "endDate": "2018-10-17",
-    "city": "San Fransisco, CA",
-    "country": "U.S.A.",
-    "twitter": "@github"
   }
 ]
