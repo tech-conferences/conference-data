@@ -296,6 +296,14 @@
     "cfpEndDate": "2018-06-15"
   },
   {
+    "name": "Droidcon",
+    "url": "http://www.droidcon.ro",
+    "startDate": "2018-09-21",
+    "endDate": "2018-07-22",
+    "city": "Cluj-Napoca",
+    "country": "Romania"
+  },
+  {
     "name": "MBLT DEV",
     "url": "https://mbltdev.ru/en",
     "startDate": "2018-09-28",
@@ -335,39 +343,6 @@
     "cfpEndDate": "2018-08-03"
   },
   {
-    "name": "GDG DevFest Ukraine",
-    "url": "https://devfest.gdg.org.ua",
-    "startDate": "2018-10-12",
-    "endDate": "2018-10-13",
-    "city": "Lviv",
-    "country": "Ukraine",
-    "twitter": "@devfest_ukraine",
-    "cfpUrl": "https://sessionize.com/dfua",
-    "cfpEndDate": "2018-07-01"
-  },
-  {
-    "name": "AndroidFest",
-    "url": "https://gdg-campinas.github.io/androidfest",
-    "startDate": "2018-10-20",
-    "endDate": "2018-10-20",
-    "city": "Campinas, São Paulo",
-    "country": "Brazil",
-    "twitter": "@gdgcampinas",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf-1W7P1deiUIGAZNzM-DOyQfMUQ0Hgr-8NKF1m6odN7CqSlQ/viewform",
-    "cfpEndDate": "2018-09-02"
-  },
-  {
-    "name": "Mobile Era",
-    "url": "https://mobileera.rocks",
-    "startDate": "2018-11-01",
-    "endDate": "2018-11-02",
-    "city": "Oslo",
-    "country": "Norway",
-    "twitter": "@mobileeraconf",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeaoGqR9lG0nJeKGdms9FhkdL8zz4aQ6hNRL1mzp3vZU1fb9Q/viewform",
-    "cfpEndDate": "2018-05-17"
-  },
-  {
     "name": "GDG DevFest",
     "url": "https://2018.devfest.cz",
     "startDate": "2018-10-09",
@@ -379,93 +354,37 @@
     "cfpEndDate": "2018-08-26"
   },
   {
-    "name": "Devoxx",
-    "url": "https://devoxx.be",
-    "city": "Antwerp",
-    "country": "Belgium",
-    "startDate": "2018-11-12",
-    "endDate": "2018-11-16",
-    "cfpEndDate": "2018-07-06",
-    "cfpUrl": "https://dvbe18.confinabox.com/"
-  },
-  {
-    "name": "Droidcon",
-    "url": "https://sf.droidcon.com",
-    "startDate": "2018-11-19",
-    "endDate": "2018-11-20",
-    "city": "San Francisco",
-    "country": "U.S.A.",
-    "twitter": "@droidconSF",
-    "cfpUrl": "https://sf.droidcon.com/speak",
-    "cfpEndDate": "2018-09-02"
-  },
-  {
-    "name": "Ørede",
-    "url": "http://oredev.org",
-    "startDate": "2018-11-19",
-    "endDate": "2018-11-22",
-    "city": "Malmö",
-    "country": "Sweden",
-    "twitter": "@oredev"
-  },
-  {
-    "name": "Devoxx",
-    "url": "https://devoxx.org.ua/",
-    "city": "Kyiv",
+    "name": "GDG DevFest Ukraine",
+    "url": "https://devfest.gdg.org.ua",
+    "startDate": "2018-10-12",
+    "endDate": "2018-10-13",
+    "city": "Lviv",
     "country": "Ukraine",
-    "startDate": "2018-11-23",
-    "endDate": "2018-11-24",
-    "cfpEndDate": "2018-09-03",
-    "cfpUrl": "https://dvua18.confinabox.com"
+    "twitter": "@devfest_ukraine",
+    "cfpUrl": "https://sessionize.com/dfua",
+    "cfpEndDate": "2018-07-01"
   },
   {
-    "name": "Devoxx",
-    "url": "https://devoxx.ma",
-    "city": "Casablanca",
-    "country": "Morocco",
-    "startDate": "2018-11-27",
-    "endDate": "2018-11-29",
-    "cfpEndDate": "2018-07-20",
-    "cfpUrl": "https://cfp.devoxx.ma"
-  },
-  {
-    "name": "Droidcon",
-    "url": "http://www.droidcon.ro",
-    "startDate": "2018-09-21",
-    "endDate": "2018-07-22",
-    "city": "Cluj-Napoca",
-    "country": "Romania"
-  },
-  {
-    "name": "AndroidTO",
-    "url": "http://androidto.com",
-    "startDate": "2018-11-06",
-    "endDate": "2018-11-06",
-    "city": "Toronto",
-    "country": "Canada",
-    "twitter": "@androidTO",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc3cfxlsKucSFSYpOXD0KxufP0cZNMItwuDGy0O4w7T5tbYoQ/viewform",
+    "name": "GDG DevFest",
+    "url": "https://devfestcerrado.com.br",
+    "startDate": "2018-10-20",
+    "endDate": "2018-10-20",
+    "city": "Goiânia",
+    "country": "Brazil",
+    "twitter": "@gdggoiania",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfdRduSyKYUBHk5r8HWq4Dpj6xNk5kfwEzoeQfkGpnUDXFNGw/viewform",
     "cfpEndDate": "2018-09-01"
   },
   {
-    "name": "Android Dev Summit",
-    "url": "https://developer.android.com/dev-summit",
-    "startDate": "2018-11-07",
-    "endDate": "2018-11-08",
-    "city": "Mountain View",
-    "country": "U.S.A.",
-    "twitter": "@AndroidDev"
-  },
-  {
-    "name": "DevFest Baltics",
-    "url": "https://devfest2018.gdg.lv",
-    "startDate": "2018-11-16",
-    "endDate": "2018-11-16",
-    "city": "Jurmala",
-    "country": "Latvia",
-    "twitter": "@devfestbaltics",
-    "cfpUrl": "https://www.papercall.io/devfest-baltics-18",
-    "cfpEndDate": "2018-08-31"
+    "name": "AndroidFest",
+    "url": "https://gdg-campinas.github.io/androidfest",
+    "startDate": "2018-10-20",
+    "endDate": "2018-10-20",
+    "city": "Campinas, São Paulo",
+    "country": "Brazil",
+    "twitter": "@gdgcampinas",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf-1W7P1deiUIGAZNzM-DOyQfMUQ0Hgr-8NKF1m6odN7CqSlQ/viewform",
+    "cfpEndDate": "2018-09-02"
   },
   {
     "name": "GDG DevFest",
@@ -488,15 +407,35 @@
     "twitter": "@devfest_wro"
   },
   {
-    "name": "GDG DevFest",
-    "url": "https://devfestcerrado.com.br",
-    "startDate": "2018-10-20",
-    "endDate": "2018-10-20",
-    "city": "Goiânia",
-    "country": "Brazil",
-    "twitter": "@gdggoiania",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfdRduSyKYUBHk5r8HWq4Dpj6xNk5kfwEzoeQfkGpnUDXFNGw/viewform",
+    "name": "Mobile Era",
+    "url": "https://mobileera.rocks",
+    "startDate": "2018-11-01",
+    "endDate": "2018-11-02",
+    "city": "Oslo",
+    "country": "Norway",
+    "twitter": "@mobileeraconf",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeaoGqR9lG0nJeKGdms9FhkdL8zz4aQ6hNRL1mzp3vZU1fb9Q/viewform",
+    "cfpEndDate": "2018-05-17"
+  },
+  {
+    "name": "AndroidTO",
+    "url": "http://androidto.com",
+    "startDate": "2018-11-06",
+    "endDate": "2018-11-06",
+    "city": "Toronto",
+    "country": "Canada",
+    "twitter": "@androidTO",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc3cfxlsKucSFSYpOXD0KxufP0cZNMItwuDGy0O4w7T5tbYoQ/viewform",
     "cfpEndDate": "2018-09-01"
+  },
+  {
+    "name": "Android Dev Summit",
+    "url": "https://developer.android.com/dev-summit",
+    "startDate": "2018-11-07",
+    "endDate": "2018-11-08",
+    "city": "Mountain View",
+    "country": "U.S.A.",
+    "twitter": "@AndroidDev"
   },
   {
     "name": "GDG DACH DevFest",
@@ -508,6 +447,57 @@
     "twitter": "@dachfest"
   },
   {
+    "name": "Devoxx",
+    "url": "https://devoxx.be",
+    "city": "Antwerp",
+    "country": "Belgium",
+    "startDate": "2018-11-12",
+    "endDate": "2018-11-16",
+    "cfpEndDate": "2018-07-06",
+    "cfpUrl": "https://dvbe18.confinabox.com/"
+  },
+  {
+    "name": "DevFest Baltics",
+    "url": "https://devfest2018.gdg.lv",
+    "startDate": "2018-11-16",
+    "endDate": "2018-11-16",
+    "city": "Jurmala",
+    "country": "Latvia",
+    "twitter": "@devfestbaltics",
+    "cfpUrl": "https://www.papercall.io/devfest-baltics-18",
+    "cfpEndDate": "2018-08-31"
+  },
+  {
+    "name": "Ørede",
+    "url": "http://oredev.org",
+    "startDate": "2018-11-19",
+    "endDate": "2018-11-22",
+    "city": "Malmö",
+    "country": "Sweden",
+    "twitter": "@oredev"
+  },
+  {
+    "name": "Droidcon",
+    "url": "https://sf.droidcon.com",
+    "startDate": "2018-11-19",
+    "endDate": "2018-11-20",
+    "city": "San Francisco",
+    "country": "U.S.A.",
+    "twitter": "@droidconSF",
+    "cfpUrl": "https://sf.droidcon.com/speak",
+    "cfpEndDate": "2018-09-02"
+  },
+  {
+    "name": "Devoxx",
+    "url": "https://devoxx.org.ua/",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "startDate": "2018-11-23",
+    "endDate": "2018-11-24",
+    "cfpEndDate": "2018-09-03",
+    "cfpUrl": "https://dvua18.confinabox.com"
+  },
+  {
     "name": "GDG DevFest",
     "url": "https://devfest.at",
     "startDate": "2018-11-24",
@@ -517,5 +507,15 @@
     "twitter": "@DevFestVienna",
     "cfpUrl": "https://devfest.at/call",
     "cfpEndDate": "2018-10-26"
+  },
+  {
+    "name": "Devoxx",
+    "url": "https://devoxx.ma",
+    "city": "Casablanca",
+    "country": "Morocco",
+    "startDate": "2018-11-27",
+    "endDate": "2018-11-29",
+    "cfpEndDate": "2018-07-20",
+    "cfpUrl": "https://cfp.devoxx.ma"
   }
 ]
