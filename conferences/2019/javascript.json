@@ -1,14 +1,5 @@
 [
   {
-    "name": "Agent Conf",
-    "url": "https://www.agent.sh",
-    "startDate": "2019-02-21",
-    "endDate": "2019-02-24",
-    "city": "Dornbirn & Lech",
-    "country": "Austria",
-    "twitter": "@AgentConf"
-  },
-  {
     "name": "c't <webdev>",
     "url": "https://ctwebdev.de",
     "startDate": "2019-02-06",
@@ -42,6 +33,15 @@
     "cfpEndDate": null
   },
   {
+    "name": "Agent Conf",
+    "url": "https://www.agent.sh",
+    "startDate": "2019-02-21",
+    "endDate": "2019-02-24",
+    "city": "Dornbirn & Lech",
+    "country": "Austria",
+    "twitter": "@AgentConf"
+  },
+  {
     "name": "ReactFoo",
     "url": "https://reactfoo.in/2019",
     "startDate": "2019-03-01",
@@ -73,22 +73,25 @@
     "twitter": "@EmberConf"
   },
   {
-    "name": "JSConf EU",
-    "url": "https://2019.jsconf.eu",
-    "startDate": "2019-06-01",
-    "endDate": "2019-06-02",
-    "city": "Berlin",
-    "country": "Germany",
-    "twitter": "@jsconfeu"
+    "name": "EmberConf",
+    "url": "https://emberconf.com",
+    "startDate": "2019-03-18",
+    "endDate": "2019-03-20",
+    "city": "Portland",
+    "country": "U.S.A.",
+    "twitter": "@EmberConf",
+    "cfpUrl": "https://emberconf.com/become-a-speaker.html",
+    "cfpEndDate": "2018-11-18"
   },
   {
-    "name": "JSCamp Barcelona",
-    "url": "https://jscamp.tech",
-    "startDate": "2019-07-16",
-    "endDate": "2019-07-19",
-    "city": "Barcelona",
-    "country": "Spain",
-    "twitter": "@jscamp"
+    "name": "Frontend NE: The Conference",
+    "url": "https://2019.frontendne.co.uk",
+    "startDate": "2019-04-03",
+    "endDate": "2019-04-03",
+    "city": "Newcastle",
+    "country": "U.K.",
+    "twitter": "@frontendne",
+    "cfpUrl": "https://2019.frontendne.co.uk/call-for-speakers.html"
   },
   {
     "name": "ForwardJS Ottawa",
@@ -123,35 +126,6 @@
     "cfpEndDate": "2018-12-01"
   },
   {
-    "name": "ReactEurope",
-    "url": "https://www.react-europe.org",
-    "startDate": "2019-05-23",
-    "endDate": "2019-05-24",
-    "city": "Paris",
-    "country": "France",
-    "twitter": "@ReactEurope"
-  },
-  {
-    "name": "You Gotta Love Frontend (YGLF)",
-    "url": "https://www.yougottalovefrontend.com",
-    "startDate": "2019-05-16",
-    "endDate": "2019-05-17",
-    "city": "Vilnius",
-    "country": "Lithuania",
-    "twitter": "@YGLFConf"
-  },
-  {
-    "name": "EmberConf",
-    "url": "https://emberconf.com",
-    "startDate": "2019-03-18",
-    "endDate": "2019-03-20",
-    "city": "Portland",
-    "country": "U.S.A.",
-    "twitter": "@EmberConf",
-    "cfpUrl": "https://emberconf.com/become-a-speaker.html",
-    "cfpEndDate": "2018-11-18"
-  },
-  {
     "name": "International JavaScript Conference",
     "url": "https://javascript-conference.com/en",
     "startDate": "2019-05-13",
@@ -174,13 +148,39 @@
     "cfpEndDate": "2018-10-31"
   },
   {
-    "name": "Frontend NE: The Conference",
-    "url": "https://2019.frontendne.co.uk",
-    "startDate": "2019-04-03",
-    "endDate": "2019-04-03",
-    "city": "Newcastle",
-    "country": "U.K.",
-    "twitter": "@frontendne",
-    "cfpUrl": "https://2019.frontendne.co.uk/call-for-speakers.html"
+    "name": "You Gotta Love Frontend (YGLF)",
+    "url": "https://www.yougottalovefrontend.com",
+    "startDate": "2019-05-16",
+    "endDate": "2019-05-17",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "twitter": "@YGLFConf"
+  },
+  {
+    "name": "ReactEurope",
+    "url": "https://www.react-europe.org",
+    "startDate": "2019-05-23",
+    "endDate": "2019-05-24",
+    "city": "Paris",
+    "country": "France",
+    "twitter": "@ReactEurope"
+  },
+  {
+    "name": "JSConf EU",
+    "url": "https://2019.jsconf.eu",
+    "startDate": "2019-06-01",
+    "endDate": "2019-06-02",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@jsconfeu"
+  },
+  {
+    "name": "JSCamp Barcelona",
+    "url": "https://jscamp.tech",
+    "startDate": "2019-07-16",
+    "endDate": "2019-07-19",
+    "city": "Barcelona",
+    "country": "Spain",
+    "twitter": "@jscamp"
   }
 ]
