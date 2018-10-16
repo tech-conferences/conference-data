@@ -175,15 +175,6 @@
     "twitter": "@jsconfeu"
   },
   {
-    "name": "JSCamp Barcelona",
-    "url": "https://jscamp.tech",
-    "startDate": "2019-07-16",
-    "endDate": "2019-07-19",
-    "city": "Barcelona",
-    "country": "Spain",
-    "twitter": "@jscamp"
-  },
-  {
     "name": "enterJS 2019",
     "url": "https://www.enterjs.de/index.php",
     "startDate": "2019-06-25",
@@ -193,5 +184,24 @@
     "twitter": "@enterjsconf",
     "cfpUrl": "https://www.enterjs.de/call-for-proposals-en",
     "cfpEndDate": "2019-01-14"
+  },
+  {
+    "name": "enterJS",
+    "url": "www.enterjs.de",
+    "startDate": "2019-06-25",
+    "endDate": "2019-06-28",
+    "city": "Darmstadt",
+    "country": "Germany",
+    "twitter": "@enterjsconf",
+    "cfpUrl": "https://www.enterjs.de/call-for-proposals-en"
+  },
+  {
+    "name": "JSCamp Barcelona",
+    "url": "https://jscamp.tech",
+    "startDate": "2019-07-16",
+    "endDate": "2019-07-19",
+    "city": "Barcelona",
+    "country": "Spain",
+    "twitter": "@jscamp"
   }
 ]
