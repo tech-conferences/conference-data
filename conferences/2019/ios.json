@@ -1,23 +1,5 @@
 [
   {
-    "name": "FITC Amsterdam",
-    "url": "http://fitc.ca/event/am19/",
-    "startDate": "2019-02-18",
-    "endDate": "2019-02-19",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "twitter": "@fitc"
-  },
-  {
-    "name": "FITC Toronto",
-    "url": "http://fitc.ca/event/to19/",
-    "startDate": "2019-04-21",
-    "endDate": "2019-04-23",
-    "city": "Toronto",
-    "country": "Canada",
-    "twitter": "@fitc"
-  },
-  {
     "name": "iOS Conf SG",
     "url": "http://iosconf.sg",
     "startDate": "2019-01-18",
@@ -38,6 +20,15 @@
     "twitter": "@dotSwift",
     "cfpUrl": "https://goo.gl/forms/T4Z7rTy2RxfhUebd2",
     "cfpEndDate": "2019-01-01"
+  },
+  {
+    "name": "FITC Amsterdam",
+    "url": "http://fitc.ca/event/am19/",
+    "startDate": "2019-02-18",
+    "endDate": "2019-02-19",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@fitc"
   },
   {
     "name": "iOSCon",
@@ -61,13 +52,22 @@
     "cfpEndDate": "2018-10-31"
   },
   {
-    "name": "ADDC - App Design & Development Conference",
-    "url": "https://addconf.com",
-    "startDate": "2019-06-26",
-    "endDate": "2019-06-28",
-    "city": "Barcelona",
-    "country": "Spain",
-    "twitter": "@addconf"
+    "name": "FITC Toronto",
+    "url": "http://fitc.ca/event/to19/",
+    "startDate": "2019-04-21",
+    "endDate": "2019-04-23",
+    "city": "Toronto",
+    "country": "Canada",
+    "twitter": "@fitc"
+  },
+  {
+    "name": "NSNorth",
+    "url": "http://nsnorth.ca",
+    "startDate": "2019-04-26",
+    "endDate": "2019-04-28",
+    "city": "Toronto",
+    "country": "Canada",
+    "twitter": "@nsnorth"
   },
   {
     "name": "App Builders",
@@ -77,5 +77,14 @@
     "city": "Lugano",
     "country": "Switzerland",
     "twitter": "@appbuilders_ch"
+  },
+  {
+    "name": "ADDC - App Design & Development Conference",
+    "url": "https://addconf.com",
+    "startDate": "2019-06-26",
+    "endDate": "2019-06-28",
+    "city": "Barcelona",
+    "country": "Spain",
+    "twitter": "@addconf"
   }
 ]
