@@ -1,5 +1,16 @@
 [
   {
+    "name": "ServerlessDays",
+    "url": "https://hamburg.serverlessdays.io",
+    "startDate": "2019-02-15",
+    "endDate": "2019-02-15",
+    "city": "Hamburg",
+    "country": "Germany",
+    "twitter": "@serverlessHAM",
+    "cfpUrl": "https://www.papercall.io/slsdaysham2019",
+    "cfpEndDate": "2018-12-08"
+  },
+  {
     "name": "FITC Amsterdam",
     "url": "http://fitc.ca/event/am19/",
     "startDate": "2019-02-18",
@@ -37,6 +48,27 @@
     "twitter": "@pixelscamp"
   },
   {
+    "name": "Frontend NE: The Conference",
+    "url": "https://2019.frontendne.co.uk",
+    "startDate": "2019-04-03",
+    "endDate": "2019-04-03",
+    "city": "Newcastle",
+    "country": "U.K.",
+    "twitter": "@frontendne",
+    "cfpUrl": "https://2019.frontendne.co.uk/call-for-speakers.html"
+  },
+  {
+    "name": "Web à Québec",
+    "url": "https://webaquebec.org",
+    "startDate": "2019-04-09",
+    "endDate": "2019-04-11",
+    "city": "Quebec",
+    "country": "Canada",
+    "twitter": "@webaquebec",
+    "cfpUrl": "http://bit.ly/WAQ19submit",
+    "cfpEndDate": "2018-10-26"
+  },
+  {
     "name": "FITC Toronto",
     "url": "http://fitc.ca/event/to19/",
     "startDate": "2019-04-21",
@@ -44,6 +76,17 @@
     "city": "Toronto",
     "country": "Canada",
     "twitter": "@fitc"
+  },
+  {
+    "name": "The Lead Developer New York",
+    "url": "https://newyork2019.theleaddeveloper.com",
+    "startDate": "2019-04-30",
+    "endDate": "2019-04-30",
+    "city": "New York",
+    "country": "U.S.A.",
+    "twitter": "@theleaddev",
+    "cfpUrl": "https://newyork2019.theleaddeveloper.com/cfp",
+    "cfpEndDate": "2018-11-05"
   },
   {
     "name": "Latitude59",
@@ -55,15 +98,6 @@
     "twitter": "@latitude59",
     "cfpUrl": "",
     "cfpEndDate": null
-  },
-  {
-    "name": "Polycon Summit Barcelona",
-    "url": "http://polycon.io",
-    "startDate": "2019-07-19",
-    "endDate": "2019-07-21",
-    "city": "Barcelona",
-    "country": "Spain",
-    "twitter": "@polycon_io"
   },
   {
     "name": "WeAreDevelopers",
@@ -84,35 +118,12 @@
     "twitter": "@developer_week"
   },
   {
-    "name": "The Lead Developer New York",
-    "url": "https://newyork2019.theleaddeveloper.com",
-    "startDate": "2019-04-30",
-    "endDate": "2019-04-30",
-    "city": "New York",
-    "country": "U.S.A.",
-    "twitter": "@theleaddev",
-    "cfpUrl": "https://newyork2019.theleaddeveloper.com/cfp",
-    "cfpEndDate": "2018-11-05"
-  },
-  {
-    "name": "Web à Québec",
-    "url": "https://webaquebec.org",
-    "startDate": "2019-04-09",
-    "endDate": "2019-04-11",
-    "city": "Quebec",
-    "country": "Canada",
-    "twitter": "@webaquebec",
-    "cfpUrl": "http://bit.ly/WAQ19submit",
-    "cfpEndDate": "2018-10-26"
-  },
-  {
-    "name": "Frontend NE: The Conference",
-    "url": "https://2019.frontendne.co.uk",
-    "startDate": "2019-04-03",
-    "endDate": "2019-04-03",
-    "city": "Newcastle",
-    "country": "U.K.",
-    "twitter": "@frontendne",
-    "cfpUrl": "https://2019.frontendne.co.uk/call-for-speakers.html"
+    "name": "Polycon Summit Barcelona",
+    "url": "http://polycon.io",
+    "startDate": "2019-07-19",
+    "endDate": "2019-07-21",
+    "city": "Barcelona",
+    "country": "Spain",
+    "twitter": "@polycon_io"
   }
 ]
