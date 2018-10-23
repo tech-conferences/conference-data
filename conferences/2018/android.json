@@ -32,14 +32,6 @@
     "country": "Netherlands"
   },
   {
-    "name": "Appdevcon",
-    "url": "http://appdevcon.nl",
-    "startDate": "2018-03-15",
-    "endDate": "2018-03-16",
-    "city": "Amsterdam",
-    "country": "Netherlands"
-  },
-  {
     "name": "droidcon Boston",
     "url": "http://www.droidcon-boston.com",
     "city": "Boston, MA",
@@ -80,10 +72,10 @@
   {
     "name": "App Builders",
     "url": "https://www.appbuilders.ch",
-    "city": "Lugano",
-    "country": "Switzerland",
     "startDate": "2018-04-16",
-    "endDate": "2018-04-17"
+    "endDate": "2018-04-17",
+    "city": "Lugano",
+    "country": "Switzerland"
   },
   {
     "name": "droidcon Italy",
@@ -177,14 +169,6 @@
     "city": "Prague",
     "country": "Czech Republic",
     "startDate": "2018-06-15"
-  },
-  {
-    "name": "App Builders",
-    "url": "https://www.appbuilders.ch",
-    "startDate": "2018-06-16",
-    "endDate": "2018-06-17",
-    "city": "Lugano",
-    "country": "Switzerland"
   },
   {
     "name": "Devoxx",
