@@ -22,6 +22,17 @@
     "cfpEndDate": "2018-08-10"
   },
   {
+    "name": "FrontFest",
+    "url": "https://frontfest.es",
+    "startDate": "2019-02-09",
+    "endDate": "2019-02-09",
+    "city": "Madrid",
+    "country": "Spain",
+    "twitter": "@frontfest",
+    "cfpUrl": "https://frontfest.es/",
+    "cfpEndDate": "2018-11-11"
+  },
+  {
     "name": "Vue.js Amsterdam",
     "url": "https://www.vuejs.amsterdam",
     "startDate": "2019-02-14",
@@ -175,15 +186,6 @@
     "twitter": "@jsconfeu"
   },
   {
-    "name": "JSCamp Barcelona",
-    "url": "https://jscamp.tech",
-    "startDate": "2019-07-16",
-    "endDate": "2019-07-19",
-    "city": "Barcelona",
-    "country": "Spain",
-    "twitter": "@jscamp"
-  },
-  {
     "name": "enterJS",
     "url": "https://www.enterjs.de/index.php",
     "startDate": "2019-06-25",
@@ -193,5 +195,14 @@
     "twitter": "@enterjsconf",
     "cfpUrl": "https://www.enterjs.de/call-for-proposals-en",
     "cfpEndDate": "2019-01-14"
+  },
+  {
+    "name": "JSCamp Barcelona",
+    "url": "https://jscamp.tech",
+    "startDate": "2019-07-16",
+    "endDate": "2019-07-19",
+    "city": "Barcelona",
+    "country": "Spain",
+    "twitter": "@jscamp"
   }
 ]
