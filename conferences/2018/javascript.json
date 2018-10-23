@@ -227,15 +227,6 @@
     "twitter": "@fwdays"
   },
   {
-    "name": "Reactathon",
-    "url": "https://www.reactathon.com",
-    "startDate": "2018-03-20",
-    "endDate": "2018-03-22",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "twitter": "@reactathon"
-  },
-  {
     "name": "JSConf AU",
     "url": "https://2018.jsconfau.com",
     "startDate": "2018-03-21",
@@ -516,14 +507,6 @@
     "twitter": "@ReactEurope"
   },
   {
-    "name": "NationJS",
-    "url": "http://nationjs.com",
-    "startDate": "2018-05-18",
-    "endDate": "2018-05-18",
-    "city": "Washington, DC",
-    "country": "U.S.A."
-  },
-  {
     "name": "HolyJS Piter",
     "url": "https://holyjs-piter.ru/en",
     "startDate": "2018-05-19",
@@ -578,9 +561,7 @@
     "endDate": "2018-05-26",
     "city": "Mumbai",
     "country": "India",
-    "twitter": "@ReactFoo",
-    "cfpUrl": "",
-    "cfpEndDate": null
+    "twitter": "@ReactFoo"
   },
   {
     "name": "JSConf Belgium",
@@ -608,16 +589,6 @@
     "city": "Utrecht",
     "country": "Netherlands",
     "twitter": "@frontendunited"
-  },
-  {
-    "name": "AmsterdamJS",
-    "url": "https://amsterdamjs.com",
-    "startDate": "2018-06-01",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "cfpUrl": "https://amsterdamjs.com/#cfp",
-    "cfpEndDate": "2018-03-01",
-    "twitter": "@amsterdamjs"
   },
   {
     "name": "JSConf EU",
@@ -754,9 +725,7 @@
     "endDate": "2018-06-22",
     "city": "Melbourne",
     "country": "Australia",
-    "twitter": "@angularMelb",
-    "cfpUrl": "",
-    "cfpEndDate": null
+    "twitter": "@angularMelb"
   },
   {
     "name": "ChernivtsiJS",
@@ -765,9 +734,7 @@
     "endDate": "2018-06-23",
     "city": "Chernivtsi",
     "country": "Ukraine",
-    "twitter": "@ChernivtsiJS",
-    "cfpUrl": "",
-    "cfpEndDate": null
+    "twitter": "@ChernivtsiJS"
   },
   {
     "name": "Smashing Conference",
@@ -835,17 +802,6 @@
     "twitter": "@frontinsp"
   },
   {
-    "name": "JS Camp",
-    "url": "https://jscamp.tech",
-    "startDate": "2018-07-18",
-    "endDate": "2018-07-20",
-    "city": "Barcelona",
-    "country": "Spain",
-    "twitter": "@jscamptech",
-    "cfpUrl": "",
-    "cfpEndDate": null
-  },
-  {
     "name": "JavaScript Camp",
     "url": "https://jscamp.tech",
     "startDate": "2018-07-18",
@@ -873,17 +829,6 @@
     "city": "Walker Creek Ranch, CA",
     "country": "U.S.A.",
     "twitter": "@nodeconf"
-  },
-  {
-    "name": "VinnytsiaJS",
-    "url": "http://vinnytsiajs.org",
-    "startDate": "2018-07-21",
-    "endDate": "2018-07-21",
-    "city": "Vinnytsia",
-    "country": "Ukraine",
-    "twitter": "@VinnytsiaJS",
-    "cfpUrl": "http://vinnytsiajs.org/call-for-papers/",
-    "cfpEndDate": "2018-07-21"
   },
   {
     "name": "VinnytsiaJS",
@@ -986,10 +931,7 @@
     "startDate": "2018-08-18",
     "endDate": "2018-08-18",
     "city": "Guangzhou",
-    "country": "China",
-    "twitter": null,
-    "cfpUrl": "",
-    "cfpEndDate": null
+    "country": "China"
   },
   {
     "name": "JSConf US",
@@ -1010,8 +952,7 @@
     "country": "Brazil",
     "url": "https://braziljs.org/conf/",
     "twitter": "@braziljs",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScvM9sctUCe2vjbUxv3QzhRimn5ztB7JyPgbnpTDksS3eTpQw/viewform",
-    "cfpEndDate": null
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScvM9sctUCe2vjbUxv3QzhRimn5ztB7JyPgbnpTDksS3eTpQw/viewform"
   },
   {
     "name": "Web Summer Camp",
@@ -1085,10 +1026,7 @@
     "startDate": "2018-09-06",
     "endDate": "2018-09-07",
     "city": "Medellin",
-    "country": "Colombia",
-    "twitter": null,
-    "cfpUrl": "",
-    "cfpEndDate": null
+    "country": "Colombia"
   },
   {
     "name": "Reactathon",
@@ -1097,9 +1035,7 @@
     "endDate": "2018-09-08",
     "city": "San Francisco, CA",
     "country": "U.S.A.",
-    "twitter": "@reactathon",
-    "cfpUrl": "",
-    "cfpEndDate": null
+    "twitter": "@reactathon"
   },
   {
     "name": "Refresh",
@@ -1157,7 +1093,6 @@
     "endDate": "2018-09-14",
     "city": "Sandy, UT",
     "country": "U.S.A.",
-    "twitter": null,
     "cfpUrl": "https://sessionize.com/utahjs-conf-2018/",
     "cfpEndDate": "2018-06-17"
   },
@@ -1199,9 +1134,7 @@
     "endDate": "2018-09-21",
     "city": "London",
     "country": "U.K.",
-    "twitter": "@vue_london",
-    "cfpUrl": "",
-    "cfpEndDate": null
+    "twitter": "@vue_london"
   },
   {
     "name": "CSS-Minsk-JS",
@@ -1360,9 +1293,7 @@
     "endDate": "2018-10-19",
     "city": "Copenhagen",
     "country": "Denmark",
-    "twitter": "@cycleconf",
-    "cfpUrl": "",
-    "cfpEndDate": null
+    "twitter": "@cycleconf"
   },
   {
     "name": "SmashingConf NY",
@@ -1530,9 +1461,7 @@
     "endDate": "2018-11-08",
     "city": "Lisbon",
     "country": "Portugal",
-    "twitter": "@WebSummit",
-    "cfpUrl": "",
-    "cfpEndDate": null
+    "twitter": "@WebSummit"
   },
   {
     "name": "AngularConnect",
