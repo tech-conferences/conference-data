@@ -9,6 +9,15 @@
     "twitter": "@locomocosec"
   },
   {
+    "name": "World Ethical Data Forum",
+    "url": "http://worlddataforum.com",
+    "startDate": "2018-09-19",
+    "endDate": "2018-09-20",
+    "city": "Barcelona",
+    "country": "Spain",
+    "twitter": "@VN3T_News"
+  },
+  {
     "name": "heise devSec()",
     "url": "https://www.heise-devsec.de",
     "startDate": "2018-10-16",
@@ -20,24 +29,22 @@
     "cfpEndDate": null
   },
   {
-    "name": "BSides Lisbon",
-    "url": "https://www.bsideslisbon.org",
-    "startDate": "2018-11-29",
-    "endDate": "2018-11-30",
-    "city": "Lisbon",
-    "country": "Portugal",
-    "twitter": "@Bsideslisbon",
-    "cfpUrl": "https://www.bsideslisbon.org/call-for-papers/",
-    "cfpEndDate": "2018-08-31"
+    "name": "Security B-Sides DC",
+    "url": "http://www.bsidesdc.org",
+    "startDate": "2018-10-26",
+    "endDate": "2018-10-28",
+    "city": "Washington, DC",
+    "country": "U.S.A.",
+    "twitter": "@BSidesDC"
   },
   {
-    "name": "World Ethical Data Forum",
-    "url": "http://worlddataforum.com",
-    "startDate": "2018-09-19",
-    "endDate": "2018-09-20",
-    "city": "Barcelona",
-    "country": "Spain",
-    "twitter": "@VN3T_News"
+    "name": "Rakuten Technology Conference",
+    "url": "https://tech.rakuten.co.jp",
+    "startDate": "2018-10-27",
+    "endDate": "2018-10-27",
+    "city": "Tokyo",
+    "country": "Japan",
+    "twitter": "@rakuten_tech"
   },
   {
     "name": "PasswordsCon",
@@ -51,21 +58,24 @@
     "cfpEndDate": "2018-08-30"
   },
   {
-    "name": "Rakuten Technology Conference",
-    "url": "https://tech.rakuten.co.jp",
-    "startDate": "2018-10-27",
-    "endDate": "2018-10-27",
-    "city": "Tokyo",
-    "country": "Japan",
-    "twitter": "@rakuten_tech"
+    "name": "BSides Lisbon",
+    "url": "https://www.bsideslisbon.org",
+    "startDate": "2018-11-29",
+    "endDate": "2018-11-30",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "twitter": "@Bsideslisbon",
+    "cfpUrl": "https://www.bsideslisbon.org/call-for-papers/",
+    "cfpEndDate": "2018-08-31"
   },
   {
-    "name": "Security B-Sides DC",
-    "url": "http://www.bsidesdc.org",
-    "startDate": "2018-10-26",
-    "endDate": "2018-10-28",
-    "city": "Washington, DC",
-    "country": "U.S.A.",
-    "twitter": "@BSidesDC"
+    "name": "10th International Conference on Wireless & Mobile Networks (WiMoNe-)",
+    "url": "https://netcom2018.org/wimone/index.html",
+    "startDate": "2018-12-22",
+    "endDate": "2018-12-23",
+    "city": "Dubai",
+    "country": "U.A.E.",
+    "cfpUrl": "https://netcom2018.org/wimone/index.html",
+    "cfpEndDate": "2018-10-28"
   }
 ]
