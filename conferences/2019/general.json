@@ -147,5 +147,27 @@
     "city": "Barcelona",
     "country": "Spain",
     "twitter": "@polycon_io"
+  },
+  {
+    "name": "Codemotion Amsterdam",
+    "url": "https://about.codemotion.com/",
+    "startDate": "2019-04-02",
+    "endDate": "2019-04-03",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@CodemotionWorld",
+    "cfpUrl": "https://tickets.codemotion.com/amsterdam2019-codemotionworld-com-call-for-papers-guidelines/",
+    "cfpEndDate": "2018-11-19"
+  },
+  {
+    "name": "Codemotion Rome",
+    "url": "https://about.codemotion.com/",
+    "startDate": "2019-03-22",
+    "endDate": "2019-03-23",
+    "city": "Rome",
+    "country": "Italy",
+    "twitter": "@CodemotionWorld",
+    "cfpUrl": "https://tickets.codemotion.com/rome2019-codemotionworld-com-call-for-papers-guidelines",
+    "cfpEndDate": "2018-12-12"
   }
 ]
