@@ -11,6 +11,28 @@
     "cfpEndDate": "2018-09-15"
   },
   {
+    "name": "Midwest PHP",
+    "url": "https://2019.midwestphp.org/",
+    "startDate": "2019-03-08",
+    "endDate": "2019-03-09",
+    "city": "Bloomington, MN",
+    "country": "U.S.A.",
+    "cfpUrl": "https://cfp.midwestphp.org/",
+    "cfpEndDate": "2018-11-15",
+    "twitter": "@midwestphp"
+  },
+  {
+    "name": "PHP Yorkshire",
+    "url": "https://www.phpyorkshire.co.uk",
+    "startDate": "2019-04-11",
+    "endDate": "2019-04-13",
+    "city": "York",
+    "country": "U.K.",
+    "twitter": "@phpyorkshire",
+    "cfpUrl": "https://cfp.phpyorkshire.co.uk",
+    "cfpEndDate": "2018-11-17"
+  },
+  {
     "name": "Longhorn PHP",
     "url": "https://www.longhornphp.com",
     "startDate": "2019-05-02",
@@ -29,16 +51,5 @@
     "twitter": "@phpconference",
     "cfpUrl": "https://phpconference.com/call-for-papers/",
     "cfpEndDate": "2018-10-31"
-  },
-  {
-    "name": "Midwest PHP",
-    "url": "https://2019.midwestphp.org/",
-    "startDate": "2019-03-08",
-    "endDate": "2019-03-09",
-    "city": "Bloomington, MN",
-    "country": "U.S.A.",
-    "cfpUrl": "https://cfp.midwestphp.org/",
-    "cfpEndDate": "2018-11-15",
-    "twitter": "@midwestphp"
   }
 ]
