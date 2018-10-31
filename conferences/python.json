@@ -1,0 +1,193 @@
+[
+  {
+    "name": "PyTennessee",
+    "url": "https://www.pytennessee.org/",
+    "startDate": "2018-02-10",
+    "endDate": "2018-02-11",
+    "city": "Nashville, US",
+    "country": "U.S.A."
+  },
+  {
+    "name": "PyData Belarus",
+    "url": "https://by.pycon.org/",
+    "startDate": "2018-02-24",
+    "endDate": "2018-02-24",
+    "city": "Minsk",
+    "country": "Belarus",
+    "twitter": "@pyconby"
+  },
+  {
+    "name": "PyData London",
+    "url": "https://pydata.org/london2018/",
+    "startDate": "2018-04-26",
+    "endDate": "2018-04-29",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@PyDataLondon"
+  },
+  {
+    "name": "PyCon Ukraine",
+    "url": "https://2018.uapycon.org/",
+    "startDate": "2018-04-28",
+    "endDate": "2018-04-29",
+    "city": "Kharkiv",
+    "country": "Ukraine",
+    "twitter": "@uapycon"
+  },
+  {
+    "name": "PyCon US",
+    "url": "https://us.pycon.org/2018/",
+    "startDate": "2018-05-09",
+    "endDate": "2018-05-17",
+    "city": "Cleveland, OH",
+    "country": "U.S.A."
+  },
+  {
+    "name": "DjangoCon Europe",
+    "url": "https://2018.djangocon.eu/",
+    "startDate": "2018-05-23",
+    "endDate": "2018-05-27",
+    "city": "Heidelberg",
+    "country": "Germany",
+    "twitter": "@DjangoConEurope"
+  },
+  {
+    "name": "PyCon APAC",
+    "url": "https://pycon.sg/",
+    "startDate": "2018-05-31",
+    "endDate": "2018-06-02",
+    "city": "Singapore",
+    "country": "Singapore",
+    "twitter": "@pyconsg"
+  },
+  {
+    "name": "PyCon CZ",
+    "url": "https://cz.pycon.org/2018/",
+    "startDate": "2018-06-01",
+    "endDate": "2018-06-03",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "twitter": "@pyconcz"
+  },
+  {
+    "name": "PyConWeb",
+    "url": "https://pyconweb.com",
+    "startDate": "2018-06-30",
+    "endDate": "2018-07-01",
+    "city": "Munich",
+    "country": "Germany",
+    "twitter": "@pyconweb",
+    "cfpUrl": "https://www.papercall.io/pyconweb-2018",
+    "cfpEndDate": "2018-04-22"
+  },
+  {
+    "name": "SciPy",
+    "url": "https://scipy2018.scipy.org/ehome/299527/648104/",
+    "startDate": "2018-07-09",
+    "endDate": "2018-07-15",
+    "city": "Austin, TX",
+    "country": "U.S.A."
+  },
+  {
+    "name": "PyCon Russia",
+    "url": "http://pycon.ru/2018/",
+    "startDate": "2018-07-22",
+    "endDate": "2018-07-23",
+    "city": "Moscow",
+    "country": "Russia",
+    "twitter": "@PyConRu",
+    "cfpUrl": "http://pycon.ru/2018/program/cfp/",
+    "cfpEndDate": "2018-06-12"
+  },
+  {
+    "name": "PyBay",
+    "url": "https://pybay.com",
+    "startDate": "2018-08-16",
+    "endDate": "2018-08-19",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "twitter": "@py_bay"
+  },
+  {
+    "name": "PyCon Australia",
+    "url": "https://2018.pycon-au.org",
+    "startDate": "2018-08-24",
+    "endDate": "2018-08-28",
+    "city": "Sydney",
+    "country": "Australia",
+    "twitter": "@pyconau",
+    "cfpUrl": "https://2018.pycon-au.org/speak/",
+    "cfpEndDate": "2018-05-28"
+  },
+  {
+    "name": "PyCon India",
+    "url": "https://in.pycon.org/2018/",
+    "startDate": "2018-10-05",
+    "endDate": "2018-10-09",
+    "city": "Hyderabad",
+    "country": "India",
+    "twitter": "@pyconindia"
+  },
+  {
+    "name": "PyGotham",
+    "url": "https://2018.pygotham.org",
+    "startDate": "2018-10-05",
+    "endDate": "2018-10-06",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "twitter": "@pygotham"
+  },
+  {
+    "name": "DjangoCon US",
+    "url": "https://2018.djangocon.us",
+    "startDate": "2018-10-14",
+    "endDate": "2018-10-19",
+    "city": "San Diego, CA",
+    "country": "U.S.A.",
+    "twitter": "@djangocon"
+  },
+  {
+    "name": "PyConKE",
+    "url": "https://www.pycon.or.ke",
+    "startDate": "2018-10-25",
+    "endDate": "2018-10-26",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "twitter": "@PyNBO",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf2cF2KxbI9XsEIHqBA2jEzx0S4fZ4_weK3HYMo10blq1mCWw/viewform"
+  },
+  {
+    "name": "PyCon",
+    "url": "https://pycon.id/",
+    "startDate": "2018-11-03",
+    "endDate": "2018-11-04",
+    "city": "Jakarta",
+    "country": "Indonesia",
+    "cfpUrl": "https://pycon.id/call-for-paper/",
+    "cfpEndDate": "2018-09-30",
+    "twitter": "@id_python"
+  },
+  {
+    "name": "PyCon Canada",
+    "url": "https://2018.pycon.ca",
+    "startDate": "2018-11-09",
+    "endDate": "2018-11-13",
+    "city": "Toronto",
+    "country": "Canada",
+    "twitter": "@pyconca",
+    "cfpUrl": "https://www.papercall.io/pyconca2018",
+    "cfpEndDate": "2018-09-10"
+  }
+,
+
+   {
+    "name": "EuroSciPy",
+    "url": "https://www.euroscipy.org/2018/",
+    "startDate": "2018-08-28",
+    "endDate": "2018-09-01",
+    "city": "Trento",
+    "country": "Italy",
+    "twitter": "@EuroSciPy"
+  }
+
+]
