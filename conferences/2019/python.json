@@ -28,11 +28,9 @@
     "cfpUrl": "https://2019.djangocon.eu",
     "cfpEndDate": "2019-02-01",
     "twitter": "@djangocon"
-  }
-]
-
+  },
   {
-    "name": "PyCon Italy",
+    "name": "PyCon",
     "url": "http://pycon.it/en",
     "startDate": "2019-05-02",
     "endDate": "2019-05-05",
@@ -40,3 +38,4 @@
     "country": "Italy",
     "twitter": "@pyconit"
   }
+]
