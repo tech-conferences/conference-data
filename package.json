@@ -19,6 +19,7 @@
     "fs-extra": "^5.0.0",
     "jest": "22.1.4",
     "jest-cli": "^22.1.4",
+    "jest-expect-message": "^1.0.2",
     "lodash": "^4.17.5"
   },
   "scripts": {
@@ -30,6 +31,7 @@
   },
   "homepage": "https://confs.tech",
   "jest": {
+    "setupTestFrameworkScriptFile": "jest-expect-message",
     "setupFiles": [
       "<rootDir>/config/polyfills.js"
     ],
