@@ -6,9 +6,7 @@
     "endDate": "2019-01-21",
     "city": "Goa",
     "country": "India",
-    "twitter": "@rubyconfindia",
-    "cfpUrl": "",
-    "cfpEndDate": null
+    "twitter": "@rubyconfindia"
   },
   {
     "name": "RubyConf AU",
@@ -22,33 +20,6 @@
     "cfpEndDate": "2018-10-15"
   },
   {
-    "name": "RailsConf",
-    "url": "http://railsconf.com/",
-    "startDate": "2019-04-30",
-    "endDate": "2019-05-02",
-    "city": "Minneapolis, MN",
-    "country": "U.S.A.",
-    "twitter": "@railsconf"
-  },
-  {
-    "name": "Southeast Ruby",
-    "url": "https://southeastruby.com",
-    "startDate": "2019-08-01",
-    "endDate": "2019-08-02",
-    "city": "Nashville, TN",
-    "country": "U.S.A.",
-    "twitter": "@southeastruby"
-  },
-  {
-    "name": "Ruby Kaigi",
-    "url": "https://rubykaigi.org/2019",
-    "startDate": "2019-04-18",
-    "endDate": "2019-04-20",
-    "city": "Fukuoka",
-    "country": "Japan",
-    "twitter": "@RubyKaigi"
-  },
-  {
     "name": "Ruby On Ice",
     "url": "https://rubyonice.com",
     "startDate": "2019-02-22",
@@ -60,6 +31,34 @@
     "cfpEndDate": "2018-10-19"
   },
   {
+    "name": "Ruby Kaigi",
+    "url": "https://rubykaigi.org/2019",
+    "startDate": "2019-04-18",
+    "endDate": "2019-04-20",
+    "city": "Fukuoka",
+    "country": "Japan",
+    "twitter": "@RubyKaigi"
+  },
+  {
+    "name": "Chicago Roboto",
+    "url": "http://chicagoroboto.com",
+    "startDate": "2019-04-25",
+    "endDate": "2019-04-26",
+    "city": "Chicago, IL",
+    "country": "U.S.A.",
+    "cfpUrl": "http://chicagoroboto.com/call-for-papers",
+    "cfpEndDate": "2019-01-04"
+  },
+  {
+    "name": "RailsConf",
+    "url": "http://railsconf.com/",
+    "startDate": "2019-04-30",
+    "endDate": "2019-05-02",
+    "city": "Minneapolis, MN",
+    "country": "U.S.A.",
+    "twitter": "@railsconf"
+  },
+  {
     "name": "Brighton Ruby",
     "url": "https://brightonruby.com",
     "startDate": "2019-07-05",
@@ -67,5 +66,14 @@
     "city": "Brighton",
     "country": "U.K.",
     "twitter": "@brightonruby"
+  },
+  {
+    "name": "Southeast Ruby",
+    "url": "https://southeastruby.com",
+    "startDate": "2019-08-01",
+    "endDate": "2019-08-02",
+    "city": "Nashville, TN",
+    "country": "U.S.A.",
+    "twitter": "@southeastruby"
   }
 ]
