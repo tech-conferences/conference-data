@@ -126,9 +126,7 @@
     "endDate": "2019-05-17",
     "city": "Tallinn",
     "country": "Estonia",
-    "twitter": "@latitude59",
-    "cfpUrl": "",
-    "cfpEndDate": null
+    "twitter": "@latitude59"
   },
   {
     "name": "WeAreDevelopers",
@@ -219,5 +217,27 @@
     "twitter": "@CodeStock",
     "cfpUrl": "http://codestock.org/speaker-submission/",
     "cfpEndDate": "2018-11-09"
+  },
+  {
+    "name": "Momentum",
+    "url": "http://momentumdevcon.com/",
+    "startDate": "2019-03-21",
+    "endDate": "2019-03-21",
+    "city": "Cincinnati, OH",
+    "country": "U.S.A.",
+    "twitter": "@momentumdevcon",
+    "cfpUrl": "https://sessionize.com/momentum",
+    "cfpEndDate": "2018-11-21"
+  },
+  {
+    "name": "DevNet Create",
+    "url": "https://devnetcreate.io/2019/",
+    "startDate": "2019-04-24",
+    "endDate": "2019-04-25",
+    "city": "ountain View, CA",
+    "country": "U.S.A.",
+    "twitter": "@DevNetCreate",
+    "cfpUrl": "https://www.papercall.io/create",
+    "cfpEndDate": "2018-11-30"
   }
 ]
