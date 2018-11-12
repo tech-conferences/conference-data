@@ -222,6 +222,17 @@
     "twitter": "@uphillconf"
   },
   {
+    "name": "CityJSConf",
+    "url": "http://cityjsconf.org",
+    "startDate": "2019-05-03",
+    "endDate": "2019-05-03",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@cityjsconf",
+    "cfpUrl": "https://www.papercall.io/cityjsconf2019",
+    "cfpEndDate": "2019-01-31"
+  },
+  {
     "name": "International JavaScript Conference",
     "url": "https://javascript-conference.com/en",
     "startDate": "2019-05-13",
@@ -262,6 +273,17 @@
     "cfpEndDate": "2018-12-23"
   },
   {
+    "name": "Denis Radin",
+    "url": "http://amsterdamjs.com",
+    "startDate": "2019-06-07",
+    "endDate": "2019-06-07",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@amsterdamjs",
+    "cfpUrl": "https://docs.google.com/forms/d/1whCnyZBqnVNli41Wk0wJh53jSL6topRm_uWMPyNCkPk/edit?usp=sharing",
+    "cfpEndDate": "2019-03-31"
+  },
+  {
     "name": "enterJS",
     "url": "https://www.enterjs.de/index.php",
     "startDate": "2019-06-25",
@@ -291,6 +313,15 @@
     "twitter": "@jscamp"
   },
   {
+    "name": "React India",
+    "url": "https://www.reactindia.io/",
+    "startDate": "2019-08-23",
+    "endDate": "2019-08-25",
+    "city": "Goa",
+    "country": "India",
+    "twitter": "@react_india"
+  },
+  {
     "name": "Smashing Conference",
     "url": "https://www.smashingconf.com/freiburg-2019/",
     "startDate": "2019-09-09",
@@ -307,25 +338,5 @@
     "city": "Budapest",
     "country": "Hungary",
     "twitter": "@jsconfbp"
-  },
-  {
-    "name": "React India",
-    "url": "https://www.reactindia.io/",
-    "startDate": "2019-08-23",
-    "endDate": "2019-08-25",
-    "city": "Goa",
-    "country": "India",
-    "twitter": "@react_india"
-  },
-  {
-    "name": "CityJSConf",
-    "url": "http://cityjsconf.org",
-    "startDate": "2019-05-03",
-    "endDate": "2019-05-03",
-    "city": "London",
-    "country": "U.K.",
-    "twitter": "@cityjsconf",
-    "cfpUrl": "https://www.papercall.io/cityjsconf2019",
-    "cfpEndDate": "2019-01-31"
   }
 ]
