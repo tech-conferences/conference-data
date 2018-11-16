@@ -1,13 +1,5 @@
 [
   {
-    "name": "CSSConf EU",
-    "url": "https://2019.cssconf.eu",
-    "startDate": "2019-05-31",
-    "city": "Berlin",
-    "country": "Germany",
-    "twitter": "@cssconfeu"
-  },
-  {
     "name": "Smashing Conference",
     "url": "https://www.smashingconf.com/sf-2019/",
     "startDate": "2019-04-16",
@@ -15,6 +7,23 @@
     "city": "San Fransisco, CA",
     "country": "U.S.A.",
     "twitter": "@smashingconf"
+  },
+  {
+    "name": "Frontend United",
+    "url": "https://www.frontendunited.org",
+    "startDate": "2019-05-17",
+    "endDate": "2019-05-18",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "twitter": "@frontendunited"
+  },
+  {
+    "name": "CSSConf EU",
+    "url": "https://2019.cssconf.eu",
+    "startDate": "2019-05-31",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@cssconfeu"
   },
   {
     "name": "Smashing Conference",
