@@ -1,5 +1,14 @@
 [
   {
+    "name": "ngAtlanta",
+    "url": "http://ng-atl.org",
+    "startDate": "2019-01-09",
+    "endDate": "2019-01-12",
+    "city": "Atlanta",
+    "country": "U.S.A.",
+    "twitter": "@NgAtlanta"
+  },
+  {
     "name": "Covalence Electron Conference",
     "url": "http://www.covalenceconf.com",
     "startDate": "2019-01-16",
@@ -350,15 +359,6 @@
     "twitter": "@smashingconf"
   },
   {
-    "name": "JSConf Budapest",
-    "url": "https://jsconfbp.com/",
-    "startDate": "2019-09-26",
-    "endDate": "2019-09-27",
-    "city": "Budapest",
-    "country": "Hungary",
-    "twitter": "@jsconfbp"
-  },
-  {
     "name": "Smashing Conference",
     "url": "https://www.smashingconf.com/ny-2019/",
     "startDate": "2019-09-15",
@@ -366,5 +366,14 @@
     "city": "New York",
     "country": "U.S.A.",
     "twitter": "@smashingconf"
+  },
+  {
+    "name": "JSConf Budapest",
+    "url": "https://jsconfbp.com/",
+    "startDate": "2019-09-26",
+    "endDate": "2019-09-27",
+    "city": "Budapest",
+    "country": "Hungary",
+    "twitter": "@jsconfbp"
   }
 ]
