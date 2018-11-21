@@ -58,6 +58,15 @@
     "twitter": "@railsconf"
   },
   {
+    "name": "Saint P Rubyconf",
+    "url": "https://spbrubyconf.ru",
+    "startDate": "2019-06-01",
+    "endDate": "2019-06-02",
+    "city": "Saint Petersburg",
+    "country": "Russia",
+    "twitter": "@saintprug"
+  },
+  {
     "name": "Brighton Ruby",
     "url": "https://brightonruby.com",
     "startDate": "2019-07-05",
@@ -76,15 +85,6 @@
     "twitter": "@southeastruby"
   },
   {
-    "name": "RubyConf",
-    "url": "https://rubyconf.org",
-    "startDate": "2019-11-18",
-    "endDate": "2019-11-20",
-    "city": "Nashville, TN",
-    "country": "U.S.A.",
-    "twitter": "@rubyconf"
-  },
-  {
     "name": "RubyC",
     "url": "https://rubyc.eu",
     "startDate": "2019-09-14",
@@ -94,5 +94,14 @@
     "twitter": "@rubyc_eu",
     "cfpUrl": "https://rubyc.eu/speakers/new",
     "cfpEndDate": "2019-07-01"
+  },
+  {
+    "name": "RubyConf",
+    "url": "https://rubyconf.org",
+    "startDate": "2019-11-18",
+    "endDate": "2019-11-20",
+    "city": "Nashville, TN",
+    "country": "U.S.A.",
+    "twitter": "@rubyconf"
   }
 ]
