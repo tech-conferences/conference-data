@@ -1,5 +1,14 @@
 [
   {
+    "name": "SnowCamp 2019",
+    "url": "https://snowcamp.io/en/",
+    "startDate": "2019-01-23",
+    "endDate": "2019-01-26",
+    "city": "Grenoble",
+    "country": "France",
+    "twitter": "@SnowCampIO"
+  },
+  {
     "name": "FOSDEM",
     "url": "https://fosdem.org/2019/",
     "startDate": "2019-02-02",
@@ -35,6 +44,17 @@
     "twitter": "@TechChill"
   },
   {
+    "name": "!!Con West 2019",
+    "url": "http://bangbangcon.com/west/",
+    "startDate": "2019-02-23",
+    "endDate": "2019-02-24",
+    "city": "Santa Cruz, CA",
+    "country": "U.S.A.",
+    "twitter": "@bangbangconwest",
+    "cfpUrl": "http://bangbangcon.com/west/cfp/",
+    "cfpEndDate": "2018-11-30"
+  },
+  {
     "name": "ScaleConf",
     "url": "https://scaleconf.org",
     "startDate": "2019-03-07",
@@ -68,6 +88,28 @@
     "twitter": "@pixelscamp"
   },
   {
+    "name": "Momentum",
+    "url": "http://momentumdevcon.com/",
+    "startDate": "2019-03-21",
+    "endDate": "2019-03-21",
+    "city": "Cincinnati, OH",
+    "country": "U.S.A.",
+    "twitter": "@momentumdevcon",
+    "cfpUrl": "https://sessionize.com/momentum",
+    "cfpEndDate": "2018-11-21"
+  },
+  {
+    "name": "Codemotion Rome",
+    "url": "https://about.codemotion.com/",
+    "startDate": "2019-03-22",
+    "endDate": "2019-03-23",
+    "city": "Rome",
+    "country": "Italy",
+    "twitter": "@CodemotionWorld",
+    "cfpUrl": "https://tickets.codemotion.com/rome2019-codemotionworld-com-call-for-papers-guidelines",
+    "cfpEndDate": "2018-12-12"
+  },
+  {
     "name": "Women Techmakers",
     "url": "https://wtmmontreal.com",
     "startDate": "2019-03-23",
@@ -77,6 +119,17 @@
     "twitter": "@WTM_Montreal",
     "cfpUrl": "https://www.papercall.io/wtmmontreal2019",
     "cfpEndDate": "2019-01-01"
+  },
+  {
+    "name": "Codemotion Amsterdam",
+    "url": "https://about.codemotion.com/",
+    "startDate": "2019-04-02",
+    "endDate": "2019-04-03",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@CodemotionWorld",
+    "cfpUrl": "https://tickets.codemotion.com/amsterdam2019-codemotionworld-com-call-for-papers-guidelines/",
+    "cfpEndDate": "2018-11-19"
   },
   {
     "name": "Frontend NE: The Conference",
@@ -100,6 +153,17 @@
     "cfpEndDate": "2018-10-26"
   },
   {
+    "name": "CodeStock",
+    "url": "http://codestock.org/",
+    "startDate": "2019-04-12",
+    "endDate": "2019-04-13",
+    "city": "Knoxville, TN",
+    "country": "U.S.A.",
+    "twitter": "@CodeStock",
+    "cfpUrl": "http://codestock.org/speaker-submission/",
+    "cfpEndDate": "2018-11-09"
+  },
+  {
     "name": "FITC Toronto",
     "url": "http://fitc.ca/event/to19/",
     "startDate": "2019-04-21",
@@ -107,6 +171,17 @@
     "city": "Toronto",
     "country": "Canada",
     "twitter": "@fitc"
+  },
+  {
+    "name": "DevNet Create",
+    "url": "https://devnetcreate.io/2019/",
+    "startDate": "2019-04-24",
+    "endDate": "2019-04-25",
+    "city": "ountain View, CA",
+    "country": "U.S.A.",
+    "twitter": "@DevNetCreate",
+    "cfpUrl": "https://www.papercall.io/create",
+    "cfpEndDate": "2018-11-30"
   },
   {
     "name": "The Lead Developer New York",
@@ -129,6 +204,17 @@
     "twitter": "@latitude59"
   },
   {
+    "name": "MiXiT",
+    "url": "https://mixitconf.org/en/",
+    "startDate": "2019-05-23",
+    "endDate": "2019-05-24",
+    "city": "Lyon",
+    "country": "France",
+    "twitter": "@mixitconf",
+    "cfpUrl": "https://sessionize.com/mixit19/",
+    "cfpEndDate": "2019-01-20"
+  },
+  {
     "name": "WeAreDevelopers",
     "url": "https://www.wearedevelopers.com/world-congress-2019",
     "startDate": "2019-06-06",
@@ -146,6 +232,15 @@
     "country": "Norway"
   },
   {
+    "name": "GOTO Amsterdam",
+    "url": "https://gotoams.nl",
+    "startDate": "2019-06-17",
+    "endDate": "2019-06-19",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@gotoamst"
+  },
+  {
     "name": "DWX - Developer Week 2019",
     "url": "https://www.developer-week.de",
     "startDate": "2019-06-24",
@@ -155,98 +250,14 @@
     "twitter": "@developer_week"
   },
   {
-    "name": "Codemotion Amsterdam",
-    "url": "https://about.codemotion.com/",
-    "startDate": "2019-04-02",
-    "endDate": "2019-04-03",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "twitter": "@CodemotionWorld",
-    "cfpUrl": "https://tickets.codemotion.com/amsterdam2019-codemotionworld-com-call-for-papers-guidelines/",
-    "cfpEndDate": "2018-11-19"
-  },
-  {
-    "name": "Codemotion Rome",
-    "url": "https://about.codemotion.com/",
-    "startDate": "2019-03-22",
-    "endDate": "2019-03-23",
-    "city": "Rome",
-    "country": "Italy",
-    "twitter": "@CodemotionWorld",
-    "cfpUrl": "https://tickets.codemotion.com/rome2019-codemotionworld-com-call-for-papers-guidelines",
-    "cfpEndDate": "2018-12-12"
-  },
-  {
-    "name": "!!Con West 2019",
-    "url": "http://bangbangcon.com/west/",
-    "startDate": "2019-02-23",
-    "endDate": "2019-02-24",
-    "city": "Santa Cruz, CA",
-    "country": "U.S.A.",
-    "twitter": "@bangbangconwest",
-    "cfpUrl": "http://bangbangcon.com/west/cfp/",
-    "cfpEndDate": "2018-11-30"
-  },
-  {
-    "name": "SnowCamp 2019",
-    "url": "https://snowcamp.io/en/",
-    "startDate": "2019-01-23",
-    "endDate": "2019-01-26",
-    "city": "Grenoble",
-    "country": "France",
-    "twitter": "@SnowCampIO"
-  },
-  {
-    "name": "MiXiT",
-    "url": "https://mixitconf.org/en/",
-    "startDate": "2019-05-23",
-    "endDate": "2019-05-24",
-    "city": "Lyon",
-    "country": "France",
-    "twitter": "@mixitconf",
-    "cfpUrl": "https://sessionize.com/mixit19/",
-    "cfpEndDate": "2019-01-20"
-  },
-  {
-    "name": "CodeStock",
-    "url": "http://codestock.org/",
-    "startDate": "2019-04-12",
-    "endDate": "2019-04-13",
-    "city": "Knoxville, TN",
-    "country": "U.S.A.",
-    "twitter": "@CodeStock",
-    "cfpUrl": "http://codestock.org/speaker-submission/",
-    "cfpEndDate": "2018-11-09"
-  },
-  {
-    "name": "Momentum",
-    "url": "http://momentumdevcon.com/",
-    "startDate": "2019-03-21",
-    "endDate": "2019-03-21",
-    "city": "Cincinnati, OH",
-    "country": "U.S.A.",
-    "twitter": "@momentumdevcon",
-    "cfpUrl": "https://sessionize.com/momentum",
-    "cfpEndDate": "2018-11-21"
-  },
-  {
-    "name": "DevNet Create",
-    "url": "https://devnetcreate.io/2019/",
-    "startDate": "2019-04-24",
-    "endDate": "2019-04-25",
-    "city": "ountain View, CA",
-    "country": "U.S.A.",
-    "twitter": "@DevNetCreate",
-    "cfpUrl": "https://www.papercall.io/create",
-    "cfpEndDate": "2018-11-30"
-  },
-  {
-    "name": "GOTO Amsterdam",
-    "url": "https://gotoams.nl",
-    "startDate": "2019-06-17",
-    "endDate": "2019-06-19",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "twitter": "@gotoamst"
+    "name": "beyond tellerrand",
+    "url": "https://beyondtellerrand.com/events/berlin-2019",
+    "startDate": "2019-11-04",
+    "endDate": "2019-11-05",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@btconf",
+    "cfpUrl": "https://beyondtellerrand.com/events/berlin-2019",
+    "cfpEndDate": "2018-11-01"
   }
 ]
