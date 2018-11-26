@@ -11,6 +11,17 @@
     "cfpEndDate": "2018-12-08"
   },
   {
+    "name": "DevOne",
+    "url": "https://devone.at",
+    "startDate": "2019-04-11",
+    "endDate": "2019-04-11",
+    "city": "Linz",
+    "country": "Austria",
+    "twitter": "@DevOneLinz",
+    "cfpUrl": "https://goo.gl/forms/vNci5cxE4TdbcNVI2",
+    "cfpEndDate": "2019-01-31"
+  },
+  {
     "name": "WeRockIT",
     "url": "http://werockitconf.com",
     "startDate": "2019-05-03",
@@ -20,6 +31,28 @@
     "twitter": "@werockitconf",
     "cfpUrl": "https://www.papercall.io/werockitconf",
     "cfpEndDate": "2018-11-20"
+  },
+  {
+    "name": "ScaleConf",
+    "url": "https://scaleconfco.com",
+    "startDate": "2019-05-17",
+    "endDate": "2019-05-18",
+    "city": "Medellín",
+    "country": "Colombia",
+    "twitter": "@scaleconfco",
+    "cfpUrl": "https://www.papercall.io/scaleconfco2019",
+    "cfpEndDate": "2019-01-25"
+  },
+  {
+    "name": "DevOpsCon Spring",
+    "url": "https://devopsconference.de",
+    "startDate": "2019-06-11",
+    "endDate": "2019-06-14",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@devops_con",
+    "cfpUrl": "https://devopsconference.de/call-for-papers-en/",
+    "cfpEndDate": "2018-12-13"
   },
   {
     "name": "ContainerDays ",

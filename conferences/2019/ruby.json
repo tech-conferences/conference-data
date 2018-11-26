@@ -31,6 +31,15 @@
     "cfpEndDate": "2018-10-19"
   },
   {
+    "name": "Rails Camp South",
+    "url": "https://us-south.rails.camp",
+    "startDate": "2019-04-05",
+    "endDate": "2019-04-08",
+    "city": "Bandera, TX",
+    "country": "U.S.A.",
+    "twitter": "@railscampsouth"
+  },
+  {
     "name": "Ruby Kaigi",
     "url": "https://rubykaigi.org/2019",
     "startDate": "2019-04-18",
@@ -49,6 +58,15 @@
     "twitter": "@railsconf"
   },
   {
+    "name": "Saint P Rubyconf",
+    "url": "https://spbrubyconf.ru",
+    "startDate": "2019-06-01",
+    "endDate": "2019-06-02",
+    "city": "Saint Petersburg",
+    "country": "Russia",
+    "twitter": "@saintprug"
+  },
+  {
     "name": "Brighton Ruby",
     "url": "https://brightonruby.com",
     "startDate": "2019-07-05",
@@ -65,5 +83,25 @@
     "city": "Nashville, TN",
     "country": "U.S.A.",
     "twitter": "@southeastruby"
+  },
+  {
+    "name": "RubyC",
+    "url": "https://rubyc.eu",
+    "startDate": "2019-09-14",
+    "endDate": "2019-09-15",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "twitter": "@rubyc_eu",
+    "cfpUrl": "https://rubyc.eu/speakers/new",
+    "cfpEndDate": "2019-07-01"
+  },
+  {
+    "name": "RubyConf",
+    "url": "https://rubyconf.org",
+    "startDate": "2019-11-18",
+    "endDate": "2019-11-20",
+    "city": "Nashville, TN",
+    "country": "U.S.A.",
+    "twitter": "@rubyconf"
   }
 ]
