@@ -153,12 +153,14 @@
   },
   {
     "name": "JS Fest",
-    "url": "http://jsfest.com.ua",
+    "url": "http://jsfest.com.ua/indexe.html",
     "startDate": "2019-04-05",
     "endDate": "2019-04-06",
     "city": "Kyiv",
     "country": "Ukraine",
-    "twitter": "@jsfestua"
+    "twitter": "@jsfestua",
+    "cfpUrl": "http://jsfest.com.ua/speakers_eng.html",
+    "cfpEndDate": "2019-02-232"
   },
   {
     "name": "ForwardJS Ottawa",
