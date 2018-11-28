@@ -168,6 +168,17 @@
     "cfpEndDate": "2019-12-09"
   },
   {
+    "name": "App.js Conf",
+    "url": "https://appjs.co/",
+    "startDate": "2019-04-04",
+    "endDate": "2019-04-05",
+    "city": "Krakow",
+    "country": "Poland",
+    "twitter": "@appjsconf",
+    "cfpUrl": "https://goo.gl/forms/Pn9LFBDuAGvWJyZf1",
+    "cfpEndDate": "2019-02-14"
+  },
+  {
     "name": "JS Fest",
     "url": "http://jsfest.com.ua/indexe.html",
     "startDate": "2019-04-05",
@@ -293,6 +304,17 @@
     "cfpEndDate": "2019-02-01"
   },
   {
+    "name": "FullStack NYC",
+    "url": "https://skillsmatter.com/conferences/11077",
+    "startDate": "2019-05-16",
+    "endDate": "2019-05-17",
+    "city": "New York",
+    "country": "U.S.A.",
+    "twitter": "@skillsmatter",
+    "cfpUrl": "https://skillsmatter.com/conferences/11077#get_involved",
+    "cfpEndDate": "2018-12-04"
+  },
+  {
     "name": "Frontend United",
     "url": "https://www.frontendunited.org",
     "startDate": "2019-05-17",
@@ -321,15 +343,15 @@
     "cfpUrl": "https://holyjs-piter.ru/en/callforpapers/"
   },
   {
-    "name": "JSConf EU",
-    "url": "https://2019.jsconf.eu",
-    "startDate": "2019-06-01",
-    "endDate": "2019-06-02",
-    "city": "Berlin",
-    "country": "Germany",
-    "twitter": "@jsconfeu",
-    "cfpUrl": "https://2019.jsconf.eu/call-for-speakers/",
-    "cfpEndDate": "2018-12-23"
+    "name": "ngVikings",
+    "url": "https://ngvikings.org/",
+    "startDate": "2019-05-27",
+    "endDate": "2019-05-28",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "twitter": "@ngVikingsConf",
+    "cfpUrl": "https://t.co/CuvkTq68uO",
+    "cfpEndDate": "2019-01-31"
   },
   {
     "name": "JSNation",
@@ -343,6 +365,17 @@
     "cfpEndDate": "2019-03-31"
   },
   {
+    "name": "JSConf EU",
+    "url": "https://2019.jsconf.eu",
+    "startDate": "2019-06-01",
+    "endDate": "2019-06-02",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@jsconfeu",
+    "cfpUrl": "https://2019.jsconf.eu/call-for-speakers/",
+    "cfpEndDate": "2018-12-23"
+  },
+  {
     "name": "Pixel Pioneers Belfast",
     "url": "https://pixelpioneers.co",
     "city": "Belfast",
@@ -350,15 +383,6 @@
     "startDate": "2019-06-07",
     "endDate": "2019-06-07",
     "cfpUrl": "https://pixelpioneers.co/call-for-speakers"
-  },
-  {
-    "name": "Berlin Buzzwords",
-    "url": "https://berlinbuzzwords.de",
-    "startDate": "2019-06-16",
-    "endDate": "2019-06-18",
-    "city": "Berlin",
-    "country": "Germany",
-    "twitter": "@berlinbuzzwords"
   },
   {
     "name": "JSConf.Asia",
@@ -369,6 +393,15 @@
     "country": "Singapore",
     "twitter": "@jsconfasia",
     "cfpUrl": "https://contribute.jsconf.asia/"
+  },
+  {
+    "name": "Berlin Buzzwords",
+    "url": "https://berlinbuzzwords.de",
+    "startDate": "2019-06-16",
+    "endDate": "2019-06-18",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@berlinbuzzwords"
   },
   {
     "name": "enterJS",
@@ -389,6 +422,15 @@
     "city": "Toronto",
     "country": "Canada",
     "twitter": "@smashingconf"
+  },
+  {
+    "name": "ngSpain",
+    "url": "https://www.ngspain.com",
+    "startDate": "2019-06-28",
+    "endDate": "2019-06-30",
+    "city": "Madrid",
+    "country": "Spain",
+    "twitter": "@ngspain"
   },
   {
     "name": "Chain React",
@@ -418,6 +460,26 @@
     "twitter": "@react_india"
   },
   {
+    "name": "NG-DE",
+    "url": "https://ng-de.org",
+    "startDate": "2019-08-30",
+    "endDate": "2019-08-31",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@ngdeconf"
+  },
+  {
+    "name": "ComponentsConf",
+    "url": "https://www.componentsconf.com.au",
+    "startDate": "2019-09-06",
+    "endDate": "2019-09-06",
+    "city": "Melbourne",
+    "country": "Australia",
+    "twitter": "@componentsConf",
+    "cfpUrl": "https://goo.gl/forms/wSXvPfR11VsdD3Ao2",
+    "cfpEndDate": "2019-04-06"
+  },
+  {
     "name": "Smashing Conference",
     "url": "https://www.smashingconf.com/freiburg-2019/",
     "startDate": "2019-09-09",
@@ -443,56 +505,5 @@
     "city": "Budapest",
     "country": "Hungary",
     "twitter": "@jsconfbp"
-  },
-  {
-    "name": "FullStack NYC",
-    "url": "https://skillsmatter.com/conferences/11077",
-    "startDate": "2019-05-16",
-    "endDate": "2019-05-17",
-    "city": "New York",
-    "country": "U.S.A.",
-    "twitter": "@skillsmatter",
-    "cfpUrl": "https://skillsmatter.com/conferences/11077#get_involved",
-    "cfpEndDate": "2018-12-04"
-  },
-  {
-    "name": "App.js Conf",
-    "url": "https://appjs.co/",
-    "startDate": "2019-04-04",
-    "endDate": "2019-04-05",
-    "city": "Krakow",
-    "country": "Poland",
-    "twitter": "@appjsconf",
-    "cfpUrl": "https://goo.gl/forms/Pn9LFBDuAGvWJyZf1",
-    "cfpEndDate": "2019-02-14"
-  },
-  {
-    "name": "ngVikings",
-    "url": "https://ngvikings.org/",
-    "startDate": "2019-05-27",
-    "endDate": "2019-05-28",
-    "city": "Copenhagen",
-    "country": "Denmark",
-    "twitter": "@ngVikingsConf",
-    "cfpUrl": "https://t.co/CuvkTq68uO",
-    "cfpEndDate": "2019-01-31"
-  },
-  {
-    "name": "ngSpain",
-    "url": "https://www.ngspain.com",
-    "startDate": "2019-06-28",
-    "endDate": "2019-06-30",
-    "city": "Madrid",
-    "country": "Spain",
-    "twitter": "@ngspain"
-  },
-  {
-    "name": "NG-DE",
-    "url": "https://ng-de.org",
-    "startDate": "2019-08-30",
-    "endDate": "2019-08-31",
-    "city": "Berlin",
-    "country": "Germany",
-    "twitter": "@ngdeconf"
   }
 ]
