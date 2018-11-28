@@ -7,4 +7,4 @@ install:
   - yarn
 notifications:
     webhooks: https://www.travisbuddy.com/
-    regex: "Custom message:[\r\n]+([^\r\n]+)"
+    regex: "(Custom message:[\r\n]+([^\r\n]+))"
