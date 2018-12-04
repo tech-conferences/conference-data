@@ -77,6 +77,17 @@
     "cfpEndDate": "2018-09-24"
   },
   {
+    "name": "Future Tech",
+    "url": "https://futuretech.nl/",
+    "startDate": "2019-03-13",
+    "endDate": "2019-03-13",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "twitter": "@FutureTechNL",
+    "cfpUrl": "https://reshift.wufoo.com/forms/sc9hjdh076ie43/",
+    "cfpEndDate": "2018-12-15"
+  },
+  {
     "name": "T3chFest",
     "url": "https://t3chfest.uc3m.es/2019/",
     "startDate": "2019-03-14",
@@ -175,6 +186,17 @@
     "cfpEndDate": "2018-10-26"
   },
   {
+    "name": "OpenWest",
+    "url": "https://openwest.org/",
+    "startDate": "2019-04-10",
+    "endDate": "2019-04-12",
+    "city": "Sandy, UT",
+    "country": "U.S.A.",
+    "twitter": "@openwestconf",
+    "cfpUrl": "https://cfp.openwest.org/",
+    "cfpEndDate": "2019-01-07"
+  },
+  {
     "name": "Developers Conference Mauritius",
     "url": "https://conference.mscc.mu",
     "startDate": "2019-04-11",
@@ -239,6 +261,15 @@
     "cfpEndDate": "2018-11-05"
   },
   {
+    "name": "CRAFT",
+    "url": "https://craft-conf.com/",
+    "startDate": "2019-05-07",
+    "endDate": "2019-05-10",
+    "city": "Budapest",
+    "country": "Hungary",
+    "twitter": "@CraftConf"
+  },
+  {
     "name": "beyond tellerrand",
     "url": "https://beyondtellerrand.com/events/duesseldorf-2019",
     "startDate": "2019-05-13",
@@ -248,6 +279,15 @@
     "twitter": "@btconf",
     "cfpUrl": "https://beyondtellerrand.com/events/duesseldorf-2019",
     "cfpEndDate": "2018-11-01"
+  },
+  {
+    "name": "The Web Conference",
+    "url": "https://www2019.thewebconf.org",
+    "startDate": "2019-05-13",
+    "endDate": "2019-05-17",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "twitter": "@thewebconf"
   },
   {
     "name": "Latitude59",
@@ -270,6 +310,17 @@
     "cfpEndDate": "2019-01-20"
   },
   {
+    "name": "DevSum",
+    "url": "https://www.devsum.se/",
+    "startDate": "2019-05-23",
+    "endDate": "2019-05-24",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "twitter": "@DevSum_swe",
+    "cfpUrl": "http://www.devsum.se/cfp/",
+    "cfpEndDate": "2018-12-23"
+  },
+  {
     "name": "REFACTR.TECH",
     "url": "http://refactr.tech",
     "startDate": "2019-06-05",
@@ -288,6 +339,15 @@
     "city": "Berlin",
     "country": "Germany",
     "twitter": "@WeAreDevs"
+  },
+  {
+    "name": "RevolutionConf",
+    "url": "https://revolutionconf.com",
+    "startDate": "2019-06-06",
+    "endDate": "2019-06-07",
+    "city": "Virginia Beach, VA",
+    "country": "U.S.A.",
+    "twitter": "@revconf"
   },
   {
     "name": "NDC Oslo",
@@ -319,57 +379,6 @@
     "twitter": "@developer_week"
   },
   {
-    "name": "beyond tellerrand",
-    "url": "https://beyondtellerrand.com/events/berlin-2019",
-    "startDate": "2019-11-04",
-    "endDate": "2019-11-05",
-    "city": "Berlin",
-    "country": "Germany",
-    "twitter": "@btconf",
-    "cfpUrl": "https://beyondtellerrand.com/events/berlin-2019",
-    "cfpEndDate": "2018-11-01"
-  },
-  {
-    "name": "DevSum",
-    "url": "https://www.devsum.se/",
-    "startDate": "2019-05-23",
-    "endDate": "2019-05-24",
-    "city": "Stockholm",
-    "country": "Sweden",
-    "twitter": "@DevSum_swe",
-    "cfpUrl": "http://www.devsum.se/cfp/",
-    "cfpEndDate": "2018-12-23"
-  },
-  {
-    "name": "Future Tech",
-    "url": "https://futuretech.nl/",
-    "startDate": "2019-03-13",
-    "endDate": "2019-03-13",
-    "city": "Utrecht",
-    "country": "Netherlands",
-    "twitter": "@FutureTechNL",
-    "cfpUrl": "https://reshift.wufoo.com/forms/sc9hjdh076ie43/",
-    "cfpEndDate": "2018-12-15"
-  },
-  {
-    "name": "CRAFT",
-    "url": "https://craft-conf.com/",
-    "startDate": "2019-05-07",
-    "endDate": "2019-05-10",
-    "city": "Budapest",
-    "country": "Hungary",
-    "twitter": "@CraftConf"
-  },
-  {
-    "name": "RevolutionConf",
-    "url": "https://revolutionconf.com",
-    "startDate": "2019-06-06",
-    "endDate": "2019-06-07",
-    "city": "Virginia Beach, VA",
-    "country": "U.S.A.",
-    "twitter": "@revconf"
-  },
-  {
     "name": "Agile on the Beach",
     "url": "https://agileonthebeach.com",
     "startDate": "2019-07-11",
@@ -381,14 +390,14 @@
     "cfpEndDate": "2018-12-21"
   },
   {
-    "name": "OpenWest",
-    "url": "https://openwest.org/",
-    "startDate": "2019-04-10",
-    "endDate": "2019-04-12",
-    "city": "Sandy, UT",
-    "country": "U.S.A.",
-    "twitter": "@openwestconf",
-    "cfpUrl": "https://cfp.openwest.org/",
-    "cfpEndDate": "2019-01-07"
+    "name": "beyond tellerrand",
+    "url": "https://beyondtellerrand.com/events/berlin-2019",
+    "startDate": "2019-11-04",
+    "endDate": "2019-11-05",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@btconf",
+    "cfpUrl": "https://beyondtellerrand.com/events/berlin-2019",
+    "cfpEndDate": "2018-11-01"
   }
 ]
