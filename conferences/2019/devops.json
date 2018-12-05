@@ -32,6 +32,15 @@
     "cfpEndDate": "2019-01-31"
   },
   {
+    "name": "GOTO",
+    "url": "http://gotochgo.com",
+    "startDate": "2019-04-28",
+    "endDate": "2019-05-02",
+    "city": "Chicago, IL",
+    "country": "U.S.A.",
+    "twitter": "@gotochgo"
+  },
+  {
     "name": "WeRockIT",
     "url": "http://werockitconf.com",
     "startDate": "2019-05-03",
@@ -65,6 +74,15 @@
     "cfpEndDate": "2018-12-13"
   },
   {
+    "name": "GOTO Amsterdam",
+    "url": "https://gotoams.nl",
+    "startDate": "2019-06-17",
+    "endDate": "2019-06-19",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@gotoamst"
+  },
+  {
     "name": "ContainerDays ",
     "url": "https://containerdays.io",
     "startDate": "2019-06-24",
@@ -83,7 +101,7 @@
     "twitter": "@skillsmatter"
   },
   {
-    "name": "GOTO Copenhagen",
+    "name": "GOTO",
     "url": "https://gotocph.com/2019",
     "startDate": "2019-11-18",
     "endDate": "2019-11-22",
