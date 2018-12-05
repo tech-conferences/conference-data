@@ -268,6 +268,15 @@
     "cfpEndDate": "2018-11-30"
   },
   {
+    "name": "GOTO",
+    "url": "http://gotochgo.com",
+    "startDate": "2019-04-28",
+    "endDate": "2019-05-02",
+    "city": "Chicago, IL",
+    "country": "U.S.A.",
+    "twitter": "@gotochgo"
+  },
+  {
     "name": "The Lead Developer New York",
     "url": "https://newyork2019.theleaddeveloper.com",
     "startDate": "2019-04-30",
@@ -401,6 +410,15 @@
     "cfpEndDate": "2018-12-07"
   },
   {
+    "name": "GOTO Amsterdam",
+    "url": "https://gotoams.nl",
+    "startDate": "2019-06-17",
+    "endDate": "2019-06-19",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@gotoamst"
+  },
+  {
     "name": "NDC Oslo",
     "url": "https://ndcoslo.com/",
     "startDate": "2019-06-17",
@@ -410,15 +428,6 @@
     "twitter": "@ndc_conferences",
     "cfpUrl": "https://sessionize.com/ndc-oslo-2019/",
     "cfpEndDate": "2019-02-17"
-  },
-  {
-    "name": "GOTO Amsterdam",
-    "url": "https://gotoams.nl",
-    "startDate": "2019-06-17",
-    "endDate": "2019-06-19",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "twitter": "@gotoamst"
   },
   {
     "name": "DWX - Developer Week 2019",
@@ -457,6 +466,15 @@
     "startDate": "2019-11-01",
     "endDate": "2019-11-02",
     "twitter": "@devoxx"
+  },
+  {
+    "name": "GOTO",
+    "url": "http://gotober.com",
+    "startDate": "2019-10-22",
+    "endDate": "2019-10-25",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@gotober"
   },
   {
     "name": "beyond tellerrand",
