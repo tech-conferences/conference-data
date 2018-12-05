@@ -228,6 +228,15 @@
     "cfpEndDate": "2018-11-09"
   },
   {
+    "name": "Devoxx",
+    "url": "http://devoxx.fr",
+    "city": "Paris",
+    "country": "France",
+    "startDate": "2019-04-17",
+    "endDate": "2019-04-19",
+    "twitter": "@devoxx"
+  },
+  {
     "name": "DevExperience",
     "url": "http://devexperience.ro/",
     "startDate": "2019-04-19",
@@ -288,6 +297,17 @@
     "city": "Budapest",
     "country": "Hungary",
     "twitter": "@CraftConf"
+  },
+  {
+    "name": "Devoxx",
+    "url": "http://www.devoxx.co.uk",
+    "city": "London",
+    "country": "U.K.",
+    "startDate": "2019-05-08",
+    "endDate": "2019-05-10",
+    "twitter": "@devoxx",
+    "cfpUrl": "https://devoxxuk19.confinabox.com",
+    "cfpEndDate": "2019-01-11"
   },
   {
     "name": "beyond tellerrand",
@@ -410,6 +430,15 @@
     "twitter": "@developer_week"
   },
   {
+    "name": "Devoxx",
+    "url": "http://devoxx.pl",
+    "city": "Krakow",
+    "country": "Poland",
+    "startDate": "2019-06-24",
+    "endDate": "2019-06-27",
+    "twitter": "@devoxx"
+  },
+  {
     "name": "Agile on the Beach",
     "url": "https://agileonthebeach.com",
     "startDate": "2019-07-11",
@@ -421,6 +450,15 @@
     "cfpEndDate": "2018-12-21"
   },
   {
+    "name": "Devoxx",
+    "url": "https://devoxx.org.ua",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "startDate": "2019-11-01",
+    "endDate": "2019-11-02",
+    "twitter": "@devoxx"
+  },
+  {
     "name": "beyond tellerrand",
     "url": "https://beyondtellerrand.com/events/berlin-2019",
     "startDate": "2019-11-04",
@@ -430,5 +468,14 @@
     "twitter": "@btconf",
     "cfpUrl": "https://beyondtellerrand.com/events/berlin-2019",
     "cfpEndDate": "2018-11-01"
+  },
+  {
+    "name": "Devoxx",
+    "url": "https://devoxx.be",
+    "city": "Antwerp",
+    "country": "Belgium",
+    "startDate": "2019-11-04",
+    "endDate": "2019-11-08",
+    "twitter": "@devoxx"
   }
 ]
