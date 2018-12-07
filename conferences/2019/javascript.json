@@ -269,6 +269,15 @@
     "twitter": "@ReactFinland"
   },
   {
+    "name": "FrontConf - Munich Frontend Conference",
+    "url": "https://frontconf.com",
+    "startDate": "2019-04-27",
+    "endDate": "2019-04-27",
+    "city": "Munich",
+    "country": "Germany",
+    "twitter": "@FrontMuc"
+  },
+  {
     "name": "ng-conf",
     "url": "https://www.ng-conf.org",
     "startDate": "2019-05-01",
@@ -401,6 +410,17 @@
     "startDate": "2019-06-07",
     "endDate": "2019-06-07",
     "cfpUrl": "https://pixelpioneers.co/call-for-speakers"
+  },
+  {
+    "name": "ReactNext",
+    "url": "https://react-next.com/",
+    "startDate": "2019-06-11",
+    "endDate": "2019-06-11",
+    "city": "Tel Aviv",
+    "country": "Israel",
+    "twitter": "@ReactNext",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSd5XH8lFRAIR4Yb5GmcmfBSDe-RQWB6XVOK46NFwYL-7I4BlQ/viewform",
+    "cfpEndDate": "2019-03-15"
   },
   {
     "name": "JSConf.Asia",
@@ -538,16 +558,5 @@
     "twitter": "@jsconfbp",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeox5OTuhXmrLXhWtLAcj4AFfpKj9kiv0B17A1rhEU0Qy3xrQ/viewform",
     "cfpEndDate": "2019-02-28"
-  },
-  {
-    "name": "ReactNext",
-    "url": "https://react-next.com/",
-    "startDate": "2019-06-11",
-    "endDate": "2019-06-11",
-    "city": "Tel Aviv",
-    "country": "Israel",
-    "twitter": "@ReactNext",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSd5XH8lFRAIR4Yb5GmcmfBSDe-RQWB6XVOK46NFwYL-7I4BlQ/viewform",
-    "cfpEndDate": "2019-03-15"
   }
 ]
