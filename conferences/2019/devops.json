@@ -11,6 +11,15 @@
     "cfpEndDate": "2018-12-08"
   },
   {
+    "name": "SREcon19 Americas",
+    "url": "https://www.usenix.org/conference/srecon19americas",
+    "startDate": "2019-03-25",
+    "endDate": "2019-03-27",
+    "city": "Brooklyn, NY",
+    "country": "U.S.A.",
+    "twitter": "@SREcon"
+  },
+  {
     "name": "DevOps Fest",
     "url": "http://devopsfest.com.ua",
     "startDate": "2019-04-06",
@@ -74,6 +83,15 @@
     "cfpEndDate": "2018-12-13"
   },
   {
+    "name": "SREcon19 Asia/Australia",
+    "url": "https://www.usenix.org/conference/srecon19asia",
+    "startDate": "2019-06-12",
+    "endDate": "2019-06-14",
+    "city": "Singapore",
+    "country": "Singapore",
+    "twitter": "@SREcon"
+  },
+  {
     "name": "GOTO Amsterdam",
     "url": "https://gotoams.nl",
     "startDate": "2019-06-17",
@@ -99,6 +117,15 @@
     "city": "London",
     "country": "U.K.",
     "twitter": "@skillsmatter"
+  },
+  {
+    "name": "SREcon19 Europe/Middle East/Africa",
+    "url": "https://www.usenix.org/conference/srecon19europe",
+    "startDate": "2019-10-02",
+    "endDate": "2019-10-04",
+    "city": "Dublin",
+    "country": "Ireland",
+    "twitter": "@SREcon"
   },
   {
     "name": "GOTO",
