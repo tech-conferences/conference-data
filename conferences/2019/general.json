@@ -1,5 +1,14 @@
 [
   {
+    "name": "DevFest Florida",
+    "url": "devfestflorida.org",
+    "startDate": "2019-01-19",
+    "endDate": "2019-01-19",
+    "city": "Orlando",
+    "country": "U.S.A.",
+    "twitter": "@devfestfl"
+  },
+  {
     "name": "SnowCamp 2019",
     "url": "https://snowcamp.io/en/",
     "startDate": "2019-01-23",
@@ -182,6 +191,17 @@
     "twitter": "@serverlesscon",
     "cfpUrl": "https://serverless-architecture.io/call-for-papers",
     "cfpEndDate": "2018-12-03"
+  },
+  {
+    "name": "4Developers",
+    "url": "https://4developers.org.pl/",
+    "startDate": "2019-04-08",
+    "endDate": "2019-04-08",
+    "city": "Warsaw",
+    "country": "Poland",
+    "twitter": "@4developers",
+    "cfpUrl": "https://cfp.4developers.org.pl/warszawa/",
+    "cfpEndDate": "2019-01-30"
   },
   {
     "name": "Web à Québec",
@@ -461,15 +481,6 @@
     "cfpEndDate": "2018-12-21"
   },
   {
-    "name": "Devoxx",
-    "url": "https://devoxx.org.ua",
-    "city": "Kyiv",
-    "country": "Ukraine",
-    "startDate": "2019-11-01",
-    "endDate": "2019-11-02",
-    "twitter": "@devoxx"
-  },
-  {
     "name": "GOTO",
     "url": "http://gotober.com",
     "startDate": "2019-10-22",
@@ -477,6 +488,15 @@
     "city": "Berlin",
     "country": "Germany",
     "twitter": "@gotober"
+  },
+  {
+    "name": "Devoxx",
+    "url": "https://devoxx.org.ua",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "startDate": "2019-11-01",
+    "endDate": "2019-11-02",
+    "twitter": "@devoxx"
   },
   {
     "name": "beyond tellerrand",
@@ -497,16 +517,5 @@
     "startDate": "2019-11-04",
     "endDate": "2019-11-08",
     "twitter": "@devoxx"
-  },
-  {
-    "name": "4Developers",
-    "url": "https://4developers.org.pl/",
-    "startDate": "2019-04-08",
-    "endDate": "2019-04-08",
-    "city": "Warsaw",
-    "country": "Poland",
-    "twitter": "@4developers",
-    "cfpUrl": "https://cfp.4developers.org.pl/warszawa/",
-    "cfpEndDate": "2019-01-30"
   }
 ]
