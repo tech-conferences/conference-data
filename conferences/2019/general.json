@@ -161,6 +161,15 @@
     "cfpEndDate": "2019-01-01"
   },
   {
+    "name": "‹Programming›",
+    "url": "https://2019.programming-conference.org",
+    "startDate": "2019-04-01",
+    "endDate": "2019-04-04",
+    "city": "Genova",
+    "country": "Italy",
+    "twitter": "@programmingconf"
+  },
+  {
     "name": "Codemotion Amsterdam",
     "url": "https://about.codemotion.com/",
     "startDate": "2019-04-02",
@@ -421,6 +430,15 @@
     "cfpEndDate": "2019-01-18"
   },
   {
+    "name": "Wonder Women Tech",
+    "url": "https://wonderwomentech.com/conferences/london",
+    "startDate": "2019-06-06",
+    "endDate": "2019-06-06",
+    "city": "London",
+    "country": "U.K.",
+    "cfpUrl": "https://wonderwomentech.com/speak/call-for-proposals/"
+  },
+  {
     "name": "The Lead Developer London",
     "url": "https://london2019.theleaddeveloper.com",
     "startDate": "2019-06-11",
@@ -527,14 +545,5 @@
     "startDate": "2019-11-04",
     "endDate": "2019-11-08",
     "twitter": "@devoxx"
-  },
-  {
-    "name": "‹Programming›",
-    "url": "https://2019.programming-conference.org",
-    "startDate": "2019-04-01",
-    "endDate": "2019-04-04",
-    "city": "Genova",
-    "country": "Italy",
-    "twitter": "@programmingconf"
   }
 ]
