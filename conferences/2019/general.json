@@ -161,6 +161,15 @@
     "cfpEndDate": "2019-01-01"
   },
   {
+    "name": "‹Programming›",
+    "url": "https://2019.programming-conference.org",
+    "startDate": "2019-04-01",
+    "endDate": "2019-04-04",
+    "city": "Genova",
+    "country": "Italy",
+    "twitter": "@programmingconf"
+  },
+  {
     "name": "Codemotion Amsterdam",
     "url": "https://about.codemotion.com/",
     "startDate": "2019-04-02",
@@ -491,6 +500,15 @@
     "cfpEndDate": "2018-12-21"
   },
   {
+    "name": "Grace Hopper Celebration",
+    "url": "https://ghc.anitab.org",
+    "startDate": "2019-10-02",
+    "endDate": "2019-10-04",
+    "city": "Orlando",
+    "country": "U.S.A.",
+    "twitter": "@ghc"
+  },
+  {
     "name": "GOTO",
     "url": "http://gotober.com",
     "startDate": "2019-10-22",
@@ -527,14 +545,5 @@
     "startDate": "2019-11-04",
     "endDate": "2019-11-08",
     "twitter": "@devoxx"
-  },
-  {
-    "name": "‹Programming›",
-    "url": "https://2019.programming-conference.org",
-    "startDate": "2019-04-01",
-    "endDate": "2019-04-04",
-    "city": "Genova",
-    "country": "Italy",
-    "twitter": "@programmingconf"
   }
 ]
