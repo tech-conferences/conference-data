@@ -161,6 +161,15 @@
     "cfpEndDate": "2019-01-01"
   },
   {
+    "name": "‹Programming›",
+    "url": "https://2019.programming-conference.org",
+    "startDate": "2019-04-01",
+    "endDate": "2019-04-04",
+    "city": "Genova",
+    "country": "Italy",
+    "twitter": "@programmingconf"
+  },
+  {
     "name": "Codemotion Amsterdam",
     "url": "https://about.codemotion.com/",
     "startDate": "2019-04-02",
@@ -529,12 +538,12 @@
     "twitter": "@devoxx"
   },
   {
-    "name": "‹Programming›",
-    "url": "https://2019.programming-conference.org",
-    "startDate": "2019-04-01",
-    "endDate": "2019-04-04",
-    "city": "Genova",
-    "country": "Italy",
-    "twitter": "@programmingconf"
+    "name": "Wonder Women Tech",
+    "url": "https://wonderwomentech.com/conferences/long-beach",
+    "startDate": "2019-11-06",
+    "endDate": "2019-11-07",
+    "city": "Long Beach, CA",
+    "country": "U.S.A.",
+    "cfpUrl": "https://wonderwomentech.com/speak/call-for-proposals/"
   }
 ]
