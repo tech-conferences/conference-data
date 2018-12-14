@@ -161,6 +161,15 @@
     "cfpEndDate": "2019-01-01"
   },
   {
+    "name": "‹Programming›",
+    "url": "https://2019.programming-conference.org",
+    "startDate": "2019-04-01",
+    "endDate": "2019-04-04",
+    "city": "Genova",
+    "country": "Italy",
+    "twitter": "@programmingconf"
+  },
+  {
     "name": "Codemotion Amsterdam",
     "url": "https://about.codemotion.com/",
     "startDate": "2019-04-02",
@@ -491,6 +500,51 @@
     "cfpEndDate": "2018-12-21"
   },
   {
+    "name": "Women in Tech Summit (West)",
+    "url": "https://west.womenintechsummit.net",
+    "startDate": "2019-10-04",
+    "endDate": "2019-10-04",
+    "city": "Denver, CO",
+    "country": "U.S.A.",
+    "twitter": "@womentechsummit"
+  },
+  {
+    "name": "Women in Tech Summit (Southeast)",
+    "url": "http://southeast.womenintechsummit.net",
+    "startDate": "2019-11-08",
+    "endDate": "2019-11-09",
+    "city": "Raleigh-Durham, NC",
+    "country": "U.S.A.",
+    "twitter": "@womentechsummit"
+  },
+  {
+    "name": "Women in Tech Summit (Northeast)",
+    "url": "http://northeast.womenintechsummit.net",
+    "startDate": "2019-04-12",
+    "endDate": "2019-04-13",
+    "city": "Philadelphia, PA",
+    "country": "U.S.A.",
+    "twitter": "@womentechsummit"
+  },
+  {
+    "name": "Women in Tech Summit (Midwest)",
+    "url": "http://midwest.womenintechsummit.net",
+    "startDate": "2019-05-03",
+    "endDate": "2019-05-03",
+    "city": "Chicago, IL",
+    "country": "U.S.A.",
+    "twitter": "@womentechsummit"
+  },
+  {
+    "name": "Women in Tech Summit (MidAtlantic)",
+    "url": "http://midatlantic.womenintechsummit.net",
+    "startDate": "2019-03-28",
+    "endDate": "2019-03-29",
+    "city": "Washington, D.C.",
+    "country": "U.S.A.",
+    "twitter": "@womentechsummit"
+  },
+  {
     "name": "GOTO",
     "url": "http://gotober.com",
     "startDate": "2019-10-22",
@@ -527,14 +581,5 @@
     "startDate": "2019-11-04",
     "endDate": "2019-11-08",
     "twitter": "@devoxx"
-  },
-  {
-    "name": "‹Programming›",
-    "url": "https://2019.programming-conference.org",
-    "startDate": "2019-04-01",
-    "endDate": "2019-04-04",
-    "city": "Genova",
-    "country": "Italy",
-    "twitter": "@programmingconf"
   }
 ]
