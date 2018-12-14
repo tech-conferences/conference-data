@@ -430,6 +430,16 @@
     "cfpEndDate": "2019-01-18"
   },
   {
+    "name": "Wonder Women Tech",
+    "url": "https://wonderwomentech.com/conferences/london",
+    "startDate": "2019-06-06",
+    "endDate": "2019-06-06",
+    "city": "London",
+    "country": "U.K.",
+    "cfpUrl": "https://wonderwomentech.com/speak/call-for-proposals/",
+    "twitter": "@wonderwomentech"
+  },
+  {
     "name": "The Lead Developer London",
     "url": "https://london2019.theleaddeveloper.com",
     "startDate": "2019-06-11",
@@ -498,6 +508,51 @@
     "twitter": "@Agileonthebeach",
     "cfpUrl": "https://agileonthebeach.com/2018/11/call-for-submissions-agile-on-the-beach-2019/",
     "cfpEndDate": "2018-12-21"
+  },
+  {
+    "name": "Women in Tech Summit (West)",
+    "url": "https://west.womenintechsummit.net",
+    "startDate": "2019-10-04",
+    "endDate": "2019-10-04",
+    "city": "Denver, CO",
+    "country": "U.S.A.",
+    "twitter": "@womentechsummit"
+  },
+  {
+    "name": "Women in Tech Summit (Southeast)",
+    "url": "https://southeast.womenintechsummit.net",
+    "startDate": "2019-11-08",
+    "endDate": "2019-11-09",
+    "city": "Raleigh-Durham, NC",
+    "country": "U.S.A.",
+    "twitter": "@womentechsummit"
+  },
+  {
+    "name": "Women in Tech Summit (Northeast)",
+    "url": "https://northeast.womenintechsummit.net",
+    "startDate": "2019-04-12",
+    "endDate": "2019-04-13",
+    "city": "Philadelphia, PA",
+    "country": "U.S.A.",
+    "twitter": "@womentechsummit"
+  },
+  {
+    "name": "Women in Tech Summit (Midwest)",
+    "url": "https://midwest.womenintechsummit.net",
+    "startDate": "2019-05-03",
+    "endDate": "2019-05-03",
+    "city": "Chicago, IL",
+    "country": "U.S.A.",
+    "twitter": "@womentechsummit"
+  },
+  {
+    "name": "Women in Tech Summit (MidAtlantic)",
+    "url": "https://midatlantic.womenintechsummit.net",
+    "startDate": "2019-03-28",
+    "endDate": "2019-03-29",
+    "city": "Washington, D.C.",
+    "country": "U.S.A.",
+    "twitter": "@womentechsummit"
   },
   {
     "name": "GOTO",
