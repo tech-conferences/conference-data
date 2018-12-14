@@ -161,6 +161,15 @@
     "cfpEndDate": "2019-01-01"
   },
   {
+    "name": "‹Programming›",
+    "url": "https://2019.programming-conference.org",
+    "startDate": "2019-04-01",
+    "endDate": "2019-04-04",
+    "city": "Genova",
+    "country": "Italy",
+    "twitter": "@programmingconf"
+  },
+  {
     "name": "Codemotion Amsterdam",
     "url": "https://about.codemotion.com/",
     "startDate": "2019-04-02",
@@ -317,6 +326,14 @@
     "twitter": "@skillsmatter",
     "cfpUrl": "https://skillsmatter.com/conferences/11735-beyondtech-2019#get_involved",
     "cfpEndDate": "2019-01-14"
+  },
+  {
+    "name": "Women in Tech Summit (Midwest)",
+    "url": "http://midwest.womenintechsummit.net",
+    "startDate": "2019-05-03",
+    "endDate": "2019-05-03",
+    "city": "Chicago",
+    "country": "U.S.A."
   },
   {
     "name": "CRAFT",
@@ -527,14 +544,5 @@
     "startDate": "2019-11-04",
     "endDate": "2019-11-08",
     "twitter": "@devoxx"
-  },
-  {
-    "name": "‹Programming›",
-    "url": "https://2019.programming-conference.org",
-    "startDate": "2019-04-01",
-    "endDate": "2019-04-04",
-    "city": "Genova",
-    "country": "Italy",
-    "twitter": "@programmingconf"
   }
 ]
