@@ -461,7 +461,7 @@
     "twitter": "@devoxx"
   },
   {
-    "name": "S-BPM ONE 2018",
+    "name": "S-BPM ONE",
     "url": "http://www.s-bpm-one.org/s-bpm-one-2019",
     "startDate": "2019-06-26",
     "endDate": "2019-06-28",
@@ -518,5 +518,25 @@
     "startDate": "2019-11-04",
     "endDate": "2019-11-08",
     "twitter": "@devoxx"
+  },
+  {
+    "name": "4Developers",
+    "url": "https://4developers.org.pl/",
+    "startDate": "2019-04-08",
+    "endDate": "2019-04-08",
+    "city": "Warsaw",
+    "country": "Poland",
+    "twitter": "@4developers",
+    "cfpUrl": "https://cfp.4developers.org.pl/warszawa/",
+    "cfpEndDate": "2019-01-30"
+  },
+  {
+    "name": "‹Programming›",
+    "url": "https://2019.programming-conference.org",
+    "startDate": "2019-04-01",
+    "endDate": "2019-04-04",
+    "city": "Genova",
+    "country": "Italy",
+    "twitter": "@programmingconf"
   }
 ]
