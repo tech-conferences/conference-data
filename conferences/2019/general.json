@@ -1,7 +1,7 @@
 [
   {
     "name": "DevFest Florida",
-    "url": "devfestflorida.org",
+    "url": "https://devfestflorida.org/",
     "startDate": "2019-01-19",
     "endDate": "2019-01-19",
     "city": "Orlando",
@@ -468,6 +468,16 @@
     "startDate": "2019-06-24",
     "endDate": "2019-06-27",
     "twitter": "@devoxx"
+  },
+  {
+    "name": "S-BPM ONE",
+    "url": "http://www.s-bpm-one.org/s-bpm-one-2019",
+    "startDate": "2019-06-26",
+    "endDate": "2019-06-28",
+    "city": "Seville",
+    "country": "Spain",
+    "cfpUrl": "http://www.s-bpm-one.org/cfp2019/",
+    "cfpEndDate": "2019-02-28"
   },
   {
     "name": "Agile on the Beach",
