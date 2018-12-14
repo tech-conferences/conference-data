@@ -161,6 +161,15 @@
     "cfpEndDate": "2019-01-01"
   },
   {
+    "name": "‹Programming›",
+    "url": "https://2019.programming-conference.org",
+    "startDate": "2019-04-01",
+    "endDate": "2019-04-04",
+    "city": "Genova",
+    "country": "Italy",
+    "twitter": "@programmingconf"
+  },
+  {
     "name": "Codemotion Amsterdam",
     "url": "https://about.codemotion.com/",
     "startDate": "2019-04-02",
@@ -529,12 +538,11 @@
     "twitter": "@devoxx"
   },
   {
-    "name": "‹Programming›",
-    "url": "https://2019.programming-conference.org",
-    "startDate": "2019-04-01",
-    "endDate": "2019-04-04",
-    "city": "Genova",
-    "country": "Italy",
-    "twitter": "@programmingconf"
+    "name": "Women in Tech Summit (Southeast)",
+    "url": "http://southeast.womenintechsummit.net",
+    "startDate": "2019-11-08",
+    "endDate": "2019-11-09",
+    "city": "Raleigh-Durham, NC",
+    "country": "U.S.A."
   }
 ]
