@@ -11,6 +11,17 @@
     "cfpEndDate": "2018-09-15"
   },
   {
+    "name": "Drupalcamp Florida",
+    "url": "https://www.fldrupal.camp",
+    "startDate": "2019-02-15",
+    "endDate": "2019-02-17",
+    "city": "Orlando",
+    "country": "U.S.A.",
+    "twitter": "@fldrupalcamp",
+    "cfpUrl": "https://www.fldrupal.camp/submit-session",
+    "cfpEndDate": "2019-01-14"
+  },
+  {
     "name": "Midwest PHP",
     "url": "https://2019.midwestphp.org/",
     "startDate": "2019-03-08",
@@ -44,6 +55,16 @@
     "cfpEndDate": "2018-12-15"
   },
   {
+    "name": "phpDay",
+    "url": "https://2019.phpday.it",
+    "startDate": "2019-05-10",
+    "endDate": "2019-05-11",
+    "city": "Verona",
+    "country": "Italy",
+    "twitter": "@phpday",
+    "cfpUrl": "https://cfp.phpday.it/"
+  },
+  {
     "name": "International PHP Conference",
     "url": "https://phpconference.com",
     "startDate": "2019-06-03",
@@ -53,15 +74,5 @@
     "twitter": "@phpconference",
     "cfpUrl": "https://phpconference.com/call-for-papers/",
     "cfpEndDate": "2018-10-31"
-  },
-  {
-    "name": "phpDay",
-    "url": "https://2019.phpday.it",
-    "startDate": "2019-05-10",
-    "endDate": "2019-05-11",
-    "city": "Verona",
-    "country": "Italy",
-    "twitter": "@phpday",
-    "cfpUrl": "https://cfp.phpday.it/"
   }
 ]
