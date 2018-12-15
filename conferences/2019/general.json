@@ -377,17 +377,6 @@
     "twitter": "@latitude59"
   },
   {
-    "name": "Spring I/O",
-    "url": "https://2019.springio.net",
-    "startDate": "2019-05-16",
-    "endDate": "2019-05-17",
-    "city": "Barcelona",
-    "country": "Spain",
-    "twitter": "@spring_io",
-    "cfpUrl": "https://2019.springio.net/",
-    "cfpEndDate": "2019-02-23"
-  },
-  {
     "name": "MiXiT",
     "url": "https://mixitconf.org/en/",
     "startDate": "2019-05-23",
@@ -611,7 +600,6 @@
     "startDate": "2019-11-04",
     "endDate": "2019-11-08",
     "twitter": "@devoxx"
-<<<<<<< HEAD
   },
   {
     "name": "Wonder Women Tech",
@@ -622,7 +610,5 @@
     "country": "U.S.A.",
     "cfpUrl": "https://wonderwomentech.com/speak/call-for-proposals/",
     "twitter": "@wonderwomentech"
-=======
->>>>>>> Add Spring I/O 2019 conference
   }
 ]
