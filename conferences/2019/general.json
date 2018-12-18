@@ -73,6 +73,14 @@
     "cfpEndDate": "2018-11-30"
   },
   {
+    "name": "WE Local St. Louis",
+    "url": "https://welocal.swe.org/st-louis/location",
+    "startDate": "2019-03-01",
+    "endDate": "2019-03-02",
+    "city": "St. Louis",
+    "country": "U.S.A."
+  },
+  {
     "name": "ScaleConf",
     "url": "https://scaleconf.org",
     "startDate": "2019-03-07",
@@ -625,15 +633,6 @@
     "twitter": "@wonderwomentech"
   },
   {
-    "name": "DevTernity",
-    "url": "https://devternity.com",
-    "startDate": "2019-12-06",
-    "endDate": "2019-12-07",
-    "city": "Riga",
-    "country": "Latvia",
-    "twitter": "@devternity"
-  },
-  {
     "name": "Women in Tech Summit (Southeast)",
     "url": "https://southeast.womenintechsummit.net",
     "startDate": "2019-11-08",
@@ -641,5 +640,14 @@
     "city": "Raleigh-Durham, NC",
     "country": "U.S.A.",
     "twitter": "@womentechsummit"
+  },
+  {
+    "name": "DevTernity",
+    "url": "https://devternity.com",
+    "startDate": "2019-12-06",
+    "endDate": "2019-12-07",
+    "city": "Riga",
+    "country": "Latvia",
+    "twitter": "@devternity"
   }
 ]
