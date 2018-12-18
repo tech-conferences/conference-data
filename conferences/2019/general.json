@@ -117,6 +117,17 @@
     "cfpEndDate": "2018-12-31"
   },
   {
+    "name": "Breizhcamp",
+    "url": "https://www.breizhcamp.org",
+    "startDate": "2019-03-20",
+    "endDate": "2019-03-22",
+    "city": "Rennes",
+    "country": "France",
+    "twitter": "@breizhcamp",
+    "cfpUrl": "https://breizhcamp.cfp.io",
+    "cfpEndDate": "2019-01-07"
+  },
+  {
     "name": "Pixels Camp",
     "url": "https://pixels.camp/",
     "startDate": "2019-03-21",
@@ -159,6 +170,15 @@
     "twitter": "@WTM_Montreal",
     "cfpUrl": "https://www.papercall.io/wtmmontreal2019",
     "cfpEndDate": "2019-01-01"
+  },
+  {
+    "name": "Women in Tech Summit (MidAtlantic)",
+    "url": "https://midatlantic.womenintechsummit.net",
+    "startDate": "2019-03-28",
+    "endDate": "2019-03-29",
+    "city": "Washington, D.C.",
+    "country": "U.S.A.",
+    "twitter": "@womentechsummit"
   },
   {
     "name": "‹Programming›",
@@ -257,6 +277,15 @@
     "cfpEndDate": "2018-11-09"
   },
   {
+    "name": "Women in Tech Summit (Northeast)",
+    "url": "https://northeast.womenintechsummit.net",
+    "startDate": "2019-04-12",
+    "endDate": "2019-04-13",
+    "city": "Philadelphia, PA",
+    "country": "U.S.A.",
+    "twitter": "@womentechsummit"
+  },
+  {
     "name": "Devoxx",
     "url": "http://devoxx.fr",
     "city": "Paris",
@@ -326,6 +355,15 @@
     "twitter": "@skillsmatter",
     "cfpUrl": "https://skillsmatter.com/conferences/11735-beyondtech-2019#get_involved",
     "cfpEndDate": "2019-01-14"
+  },
+  {
+    "name": "Women in Tech Summit (Midwest)",
+    "url": "https://midwest.womenintechsummit.net",
+    "startDate": "2019-05-03",
+    "endDate": "2019-05-03",
+    "city": "Chicago, IL",
+    "country": "U.S.A.",
+    "twitter": "@womentechsummit"
   },
   {
     "name": "CRAFT",
@@ -539,42 +577,6 @@
     "twitter": "@womentechsummit"
   },
   {
-    "name": "Women in Tech Summit (Southeast)",
-    "url": "https://southeast.womenintechsummit.net",
-    "startDate": "2019-11-08",
-    "endDate": "2019-11-09",
-    "city": "Raleigh-Durham, NC",
-    "country": "U.S.A.",
-    "twitter": "@womentechsummit"
-  },
-  {
-    "name": "Women in Tech Summit (Northeast)",
-    "url": "https://northeast.womenintechsummit.net",
-    "startDate": "2019-04-12",
-    "endDate": "2019-04-13",
-    "city": "Philadelphia, PA",
-    "country": "U.S.A.",
-    "twitter": "@womentechsummit"
-  },
-  {
-    "name": "Women in Tech Summit (Midwest)",
-    "url": "https://midwest.womenintechsummit.net",
-    "startDate": "2019-05-03",
-    "endDate": "2019-05-03",
-    "city": "Chicago, IL",
-    "country": "U.S.A.",
-    "twitter": "@womentechsummit"
-  },
-  {
-    "name": "Women in Tech Summit (MidAtlantic)",
-    "url": "https://midatlantic.womenintechsummit.net",
-    "startDate": "2019-03-28",
-    "endDate": "2019-03-29",
-    "city": "Washington, D.C.",
-    "country": "U.S.A.",
-    "twitter": "@womentechsummit"
-  },
-  {
     "name": "GOTO",
     "url": "http://gotober.com",
     "startDate": "2019-10-22",
@@ -630,5 +632,14 @@
     "city": "Riga",
     "country": "Latvia",
     "twitter": "@devternity"
-  }  
+  },
+  {
+    "name": "Women in Tech Summit (Southeast)",
+    "url": "https://southeast.womenintechsummit.net",
+    "startDate": "2019-11-08",
+    "endDate": "2019-11-09",
+    "city": "Raleigh-Durham, NC",
+    "country": "U.S.A.",
+    "twitter": "@womentechsummit"
+  }
 ]
