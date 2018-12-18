@@ -266,6 +266,14 @@
     "cfpEndDate": "2019-01-31"
   },
   {
+    "name": "WE Local India",
+    "url": "https://welocal.swe.org/bengaluru/location",
+    "startDate": "2019-04-11",
+    "endDate": "2019-04-13",
+    "city": "Bengaluru",
+    "country": "India"
+  },
+  {
     "name": "CodeStock",
     "url": "http://codestock.org/",
     "startDate": "2019-04-12",
@@ -625,15 +633,6 @@
     "twitter": "@wonderwomentech"
   },
   {
-    "name": "DevTernity",
-    "url": "https://devternity.com",
-    "startDate": "2019-12-06",
-    "endDate": "2019-12-07",
-    "city": "Riga",
-    "country": "Latvia",
-    "twitter": "@devternity"
-  },
-  {
     "name": "Women in Tech Summit (Southeast)",
     "url": "https://southeast.womenintechsummit.net",
     "startDate": "2019-11-08",
@@ -641,5 +640,14 @@
     "city": "Raleigh-Durham, NC",
     "country": "U.S.A.",
     "twitter": "@womentechsummit"
+  },
+  {
+    "name": "DevTernity",
+    "url": "https://devternity.com",
+    "startDate": "2019-12-06",
+    "endDate": "2019-12-07",
+    "city": "Riga",
+    "country": "Latvia",
+    "twitter": "@devternity"
   }
 ]
