@@ -27,6 +27,14 @@
     "twitter": "@fosdem"
   },
   {
+    "name": "WE Local Tampa",
+    "url": "https://welocal.swe.org/tampa/location",
+    "startDate": "2019-02-15",
+    "endDate": "2019-02-16",
+    "city": "Tampa, FL",
+    "country": "U.S.A."
+  },
+  {
     "name": "FITC Amsterdam",
     "url": "http://fitc.ca/event/am19/",
     "startDate": "2019-02-18",
@@ -625,15 +633,6 @@
     "twitter": "@wonderwomentech"
   },
   {
-    "name": "DevTernity",
-    "url": "https://devternity.com",
-    "startDate": "2019-12-06",
-    "endDate": "2019-12-07",
-    "city": "Riga",
-    "country": "Latvia",
-    "twitter": "@devternity"
-  },
-  {
     "name": "Women in Tech Summit (Southeast)",
     "url": "https://southeast.womenintechsummit.net",
     "startDate": "2019-11-08",
@@ -641,5 +640,14 @@
     "city": "Raleigh-Durham, NC",
     "country": "U.S.A.",
     "twitter": "@womentechsummit"
+  },
+  {
+    "name": "DevTernity",
+    "url": "https://devternity.com",
+    "startDate": "2019-12-06",
+    "endDate": "2019-12-07",
+    "city": "Riga",
+    "country": "Latvia",
+    "twitter": "@devternity"
   }
 ]
