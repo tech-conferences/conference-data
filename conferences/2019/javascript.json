@@ -423,6 +423,17 @@
     "cfpEndDate": "2019-03-15"
   },
   {
+    "name": "React Day Norway",
+    "url": "https://reactnorway.com/",
+    "startDate": "2019-06-12",
+    "endDate": "2019-06-12",
+    "city": "Larvik",
+    "country": "Norway",
+    "twitter": "@reactnorway",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSe2d6XhxZvIQS3MBUzS5faInvhzbHPdHPqT7nVZV0jHl2c8Ag/viewform",
+    "cfpEndDate": "2019-06-01"
+  },
+  {
     "name": "JSConf.Asia",
     "url": "https://2019.jsconf.asia",
     "startDate": "2019-06-14",
@@ -440,6 +451,17 @@
     "city": "Berlin",
     "country": "Germany",
     "twitter": "@berlinbuzzwords"
+  },
+  {
+    "name": "NodeConf Colombia",
+    "url": "https://colombia.nodeconf.com/",
+    "startDate": "2019-06-21",
+    "endDate": "2019-06-22",
+    "city": "Medellín",
+    "country": "Colombia",
+    "twitter": "@NodeConfCo",
+    "cfpUrl": "https://cfp.nodeconf.co/",
+    "cfpEndDate": "2019-02-28"
   },
   {
     "name": "enterJS",
@@ -502,6 +524,26 @@
     "twitter": "@jscamp"
   },
   {
+    "name": "OdessaJS",
+    "url": "http://odessajs.org/",
+    "startDate": "2019-07-20",
+    "endDate": "2019-07-21",
+    "city": "Odessa",
+    "country": "Ukraine",
+    "twitter": "@OdessaJS",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeQqU4iM-vBx6VRWHQcE1zKh3LW4KZ5231Oe0dQx-neBrrc3g/viewform",
+    "cfpEndDate": "2019-03-30"
+  },
+  {
+    "name": "JSConf US",
+    "url": "https://2019.jsconf.us/",
+    "startDate": "2019-08-11",
+    "endDate": "2019-08-14",
+    "city": "Carlsbad, CA",
+    "country": "U.S.A.",
+    "twitter": "@jsconfus"
+  },
+  {
     "name": "React India",
     "url": "https://www.reactindia.io/",
     "startDate": "2019-08-23",
@@ -560,45 +602,12 @@
     "cfpEndDate": "2019-02-28"
   },
   {
-    "name": "React Day Norway",
-    "url": "https://reactnorway.com/",
-    "startDate": "2019-06-12",
-    "endDate": "2019-06-12",
-    "city": "Larvik",
-    "country": "Norway",
-    "twitter": "@reactnorway",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSe2d6XhxZvIQS3MBUzS5faInvhzbHPdHPqT7nVZV0jHl2c8Ag/viewform",
-    "cfpEndDate": "2019-06-01"
-  },
-  {
-    "name": "NodeConf Colombia",
-    "url": "https://colombia.nodeconf.com/",
-    "startDate": "2019-06-21",
-    "endDate": "2019-06-22",
-    "city": "Medellín",
-    "country": "Colombia",
-    "twitter": "@NodeConfCo",
-    "cfpUrl": "https://cfp.nodeconf.co/",
-    "cfpEndDate": "2019-02-28"
-  },
-  {
-    "name": "OdessaJS",
-    "url": "http://odessajs.org/",
-    "startDate": "2019-07-20",
-    "endDate": "2019-07-21",
-    "city": "Odessa",
-    "country": "Ukraine",
-    "twitter": "@OdessaJS",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeQqU4iM-vBx6VRWHQcE1zKh3LW4KZ5231Oe0dQx-neBrrc3g/viewform",
-    "cfpEndDate": "2019-03-30"
-  },
-  {
-    "name": "JSConf US",
-    "url": "https://2019.jsconf.us/",
-    "startDate": "2019-08-11",
-    "endDate": "2019-08-14",
-    "city": "Carlsbad, CA",
-    "country": "U.S.A.",
-    "twitter": "@jsconfus"
+    "name": "DevTernity",
+    "url": "https://devternity.com",
+    "startDate": "2019-12-06",
+    "endDate": "2019-12-07",
+    "city": "Riga",
+    "country": "Latvia",
+    "twitter": "@devternity"
   }
 ]
