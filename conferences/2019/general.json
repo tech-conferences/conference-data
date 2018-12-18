@@ -406,6 +406,15 @@
     "twitter": "@thewebconf"
   },
   {
+    "name": "WE Local Europe",
+    "url": "https://welocal.swe.org/berlin/location",
+    "startDate": "2019-05-15",
+    "endDate": "2019-05-17",
+    "city": "Berlin",
+    "country": "Germany",
+    "cfpUrl": "https://welocal.swe.org/about/become-a-speaker/"
+  },
+  {
     "name": "Latitude59",
     "url": "http://www.latitude59.ee/en",
     "startDate": "2019-05-16",
@@ -625,15 +634,6 @@
     "twitter": "@wonderwomentech"
   },
   {
-    "name": "DevTernity",
-    "url": "https://devternity.com",
-    "startDate": "2019-12-06",
-    "endDate": "2019-12-07",
-    "city": "Riga",
-    "country": "Latvia",
-    "twitter": "@devternity"
-  },
-  {
     "name": "Women in Tech Summit (Southeast)",
     "url": "https://southeast.womenintechsummit.net",
     "startDate": "2019-11-08",
@@ -641,5 +641,14 @@
     "city": "Raleigh-Durham, NC",
     "country": "U.S.A.",
     "twitter": "@womentechsummit"
+  },
+  {
+    "name": "DevTernity",
+    "url": "https://devternity.com",
+    "startDate": "2019-12-06",
+    "endDate": "2019-12-07",
+    "city": "Riga",
+    "country": "Latvia",
+    "twitter": "@devternity"
   }
 ]
