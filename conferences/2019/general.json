@@ -415,6 +415,17 @@
     "twitter": "@latitude59"
   },
   {
+    "name": "Open Source Camp | #3 Ansible",
+    "url": "www.opensourcecamp.de",
+    "startDate": "2019-05-16",
+    "endDate": "2019-05-16",
+    "city": "Berlin",
+    "country": "Deutschland",
+    "twitter": "@netways",
+    "cfpUrl": "https://opensourcecamp.de/submit-a-talk/",
+    "cfpEndDate": "2019-02-28"
+  },
+  {
     "name": "MiXiT",
     "url": "https://mixitconf.org/en/",
     "startDate": "2019-05-23",
@@ -625,15 +636,6 @@
     "twitter": "@wonderwomentech"
   },
   {
-    "name": "DevTernity",
-    "url": "https://devternity.com",
-    "startDate": "2019-12-06",
-    "endDate": "2019-12-07",
-    "city": "Riga",
-    "country": "Latvia",
-    "twitter": "@devternity"
-  },
-  {
     "name": "Women in Tech Summit (Southeast)",
     "url": "https://southeast.womenintechsummit.net",
     "startDate": "2019-11-08",
@@ -641,5 +643,14 @@
     "city": "Raleigh-Durham, NC",
     "country": "U.S.A.",
     "twitter": "@womentechsummit"
+  },
+  {
+    "name": "DevTernity",
+    "url": "https://devternity.com",
+    "startDate": "2019-12-06",
+    "endDate": "2019-12-07",
+    "city": "Riga",
+    "country": "Latvia",
+    "twitter": "@devternity"
   }
 ]
