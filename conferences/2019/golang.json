@@ -1,14 +1,14 @@
 [
   {
-    "name": "dotGo",
-    "url": "https://2019.dotgo.eu",
-    "startDate": "2019-03-25",
-    "endDate": "2019-03-25",
-    "city": "Paris",
-    "country": "France",
-    "twitter": "@dotGoEu",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfJjXZDjdvJKTKUz_HedK9oJt_sh9MN57GIm_7H0MfDnd4wOA/viewform?c=0&w=1",
-    "cfpEndDate": "2019-01-01"
+    "name": "Gophercon India",
+    "url": "https://gopherconindia.com",
+    "startDate": "2019-01-18",
+    "endDate": "2019-01-19",
+    "city": "Goa",
+    "country": "India",
+    "twitter": "@GopherConIndia",
+    "cfpUrl": "https://gopherconindia.com/call-for-proposal/",
+    "cfpEndDate": "2018-11-30"
   },
   {
     "name": "GoDays Berlin ",
@@ -22,14 +22,25 @@
     "cfpEndDate": "2018-10-07"
   },
   {
-    "name": "Gophercon India",
-    "url": "https://gopherconindia.com",
-    "startDate": "2019-01-18",
-    "endDate": "2019-01-19",
-    "city": "Goa",
-    "country": "India",
-    "twitter": "@GopherConIndia",
-    "cfpUrl": "https://gopherconindia.com/call-for-proposal/",
-    "cfpEndDate": "2018-11-30"
+    "name": "dotGo",
+    "url": "https://2019.dotgo.eu",
+    "startDate": "2019-03-25",
+    "endDate": "2019-03-25",
+    "city": "Paris",
+    "country": "France",
+    "twitter": "@dotGoEu",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfJjXZDjdvJKTKUz_HedK9oJt_sh9MN57GIm_7H0MfDnd4wOA/viewform?c=0&w=1",
+    "cfpEndDate": "2019-01-01"
+  },
+  {
+    "name": "GothamGo",
+    "url": "http://gothamgo.com",
+    "startDate": "2019-04-12",
+    "endDate": "2019-04-12",
+    "city": "New York City",
+    "country": "U.S.A.",
+    "twitter": "@gothamgo",
+    "cfpUrl": "https://www.papercall.io/gothamgo2019",
+    "cfpEndDate": "2019-01-18"
   }
 ]
