@@ -11,6 +11,17 @@
     "cfpEndDate": "2018-12-08"
   },
   {
+    "name": "DSConf",
+    "url": "https://dsconf.in",
+    "startDate": "2019-02-16",
+    "endDate": "2019-02-16",
+    "city": "Pune",
+    "country": "India",
+    "twitter": "@dist_sys",
+    "cfpUrl": "https://www.papercall.io/distributed-systems-conf",
+    "cfpEndDate": "2018-12-15"
+  },
+  {
     "name": "SREcon19 Americas",
     "url": "https://www.usenix.org/conference/srecon19americas",
     "startDate": "2019-03-25",
@@ -72,17 +83,6 @@
     "cfpEndDate": "2019-02-01"
   },
   {
-    "name": "Open Source Camp - Ansible",
-    "url": "https://opensourcecamp.de/",
-    "startDate": "2019-05-16",
-    "endDate": "2019-05-16",
-    "city": "Berlin",
-    "country": "Germany",
-    "twitter": "@netways",
-    "cfpUrl": "https://opensourcecamp.de/submit-a-talk/",
-    "cfpEndDate": "2019-02-28"
-  },
-  {
     "name": "Open Source Data Center",
     "url": "https://osdc.de/",
     "startDate": "2019-05-14",
@@ -92,6 +92,17 @@
     "twitter": "@netways",
     "cfpUrl": "https://osdc.de/submit-a-talk/",
     "cfpEndDate": "2019-01-31"
+  },
+  {
+    "name": "Open Source Camp - Ansible",
+    "url": "https://opensourcecamp.de/",
+    "startDate": "2019-05-16",
+    "endDate": "2019-05-16",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@netways",
+    "cfpUrl": "https://opensourcecamp.de/submit-a-talk/",
+    "cfpEndDate": "2019-02-28"
   },
   {
     "name": "ScaleConf",
