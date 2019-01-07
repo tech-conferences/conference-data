@@ -19,6 +19,15 @@
     "cfpEndDate": "2018-10-22"
   },
   {
+    "name": "PyCon APAC",
+    "url": "https://pycon.python.ph",
+    "startDate": "2019-02-23",
+    "endDate": "2019-02-24",
+    "city": "Makati",
+    "country": "Philippines",
+    "twitter": "@pyconph"
+  },
+  {
     "name": "PyCon SK",
     "url": "https://2019.pycon.sk/en",
     "startDate": "2019-03-22",
@@ -41,6 +50,17 @@
     "twitter": "@djangocon"
   },
   {
+    "name": "MoscowPythonConf++",
+    "url": "http://conf.python.ru/",
+    "startDate": "2019-04-15",
+    "endDate": "2019-04-15",
+    "city": "Moscow",
+    "country": "Russia",
+    "twitter": "@moscowpython",
+    "cfpUrl": "https://onticoconferences.typeform.com/to/Z2gC91",
+    "cfpEndDate": "2019-02-04"
+  },
+  {
     "name": "PyCon Italia",
     "url": "http://pycon.it/en",
     "startDate": "2019-05-02",
@@ -59,16 +79,5 @@
     "city": "Munich",
     "country": "Germany",
     "twitter": "@pyconweb"
-  },
-  {
-    "name": "MoscowPythonConf++",
-    "url": "http://conf.python.ru/",
-    "startDate": "2019-04-15",
-    "endDate": "2019-04-15",
-    "city": "Moscow",
-    "country": "Russia",
-    "twitter": "@moscowpython",
-    "cfpUrl": "https://onticoconferences.typeform.com/to/Z2gC91",
-    "cfpEndDate": "2019-02-04"
   }
 ]
