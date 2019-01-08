@@ -1,5 +1,163 @@
 [
   {
+    "name": "Webinale",
+    "startDate": "2019-06-03",
+    "endDate": "2019-06-07",
+    "city": "Berlin",
+    "country": "Germany",
+    "url": "https://webinale.de/en",
+    "twitter": "@webinale"
+  },
+  {
+    "name": "Enterprise UX (Rosenfeld Media)",
+    "startDate": "2019-06-03",
+    "endDate": "2019-06-05",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "url": "https://rosenfeldmedia.com/eux2019",
+    "twitter": "@exconference"
+  },
+  {
+    "name": "FrontUtah",
+    "startDate": "2019-06-06",
+    "endDate": "2019-06-07",
+    "city": "Salt Lake City, UT",
+    "country": "U.S.A.",
+    "url": "https://www.frontutah.com/conference",
+    "twitter": "@front"
+  },
+  {
+    "name": "Strive: the 2019 UX Research Conference",
+    "startDate": "2019-06-06",
+    "endDate": "2019-06-09",
+    "city": "Toronto",
+    "country": "Canada",
+    "url": "http://uxrconference.com",
+    "twitter": "@UXResearchTO"
+  },
+  {
+    "name": "By Design Conference",
+    "startDate": "2019-06-08",
+    "endDate": "2019-06-08",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "url": "https://bydesignconf.com"
+  },
+  {
+    "name": "UMAP - User Modeling & Personalization",
+    "startDate": "2019-06-09",
+    "endDate": "2019-06-12",
+    "city": "Larnaca",
+    "country": "Cyprus",
+    "url": "http://www.um.org"
+  },
+  {
+    "name": "IDC - Interaction Design & Children",
+    "startDate": "2019-06-12",
+    "endDate": "2019-06-15",
+    "city": "Boise, ID",
+    "country": "U.S.A.",
+    "url": "http://idc.acm.org"
+  },
+  {
+    "name": "Pervasive Displays Symposium",
+    "startDate": "2019-06-12",
+    "endDate": "2019-06-14",
+    "city": "Palermo",
+    "country": "Italy",
+    "url": "http://pervasivedisplays.org/2019",
+    "twitter": "@PerDisAcm"
+  },
+  {
+    "name": "UX Scotland",
+    "startDate": "2019-06-12",
+    "endDate": "2019-06-14",
+    "city": "Edinburgh",
+    "country": "Scotland",
+    "url": "https://uxscotland.net/2019",
+    "twitter": "@uxscotland"
+  },
+  {
+    "name": "UX Strat",
+    "startDate": "2019-06-17",
+    "endDate": "2019-06-19",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "url": "https://uxstrat.com/europe",
+    "twitter": "@uxstrat"
+  },
+  {
+    "name": "Leading Design",
+    "startDate": "2019-06-19",
+    "endDate": "2019-06-20",
+    "city": "New York City",
+    "country": "U.S.A.",
+    "url": "https://2019.leadingdesignconf.com/newyork",
+    "twitter": "@ldconf"
+  },
+  {
+    "name": "DIS - Designing Interactive Systems",
+    "startDate": "2019-06-23",
+    "endDate": "2019-06-28",
+    "city": "San Diego, CA",
+    "country": "U.S.A.",
+    "url": "https://dis2019.com"
+  },
+  {
+    "name": "Future of Branding Week",
+    "startDate": "2019-06-24",
+    "endDate": "2019-06-28",
+    "city": "London",
+    "country": "U.K.",
+    "url": "https://futurelondonacademy.co.uk/en/course/branding",
+    "twitter": "@FLondonAcademy"
+  },
+  {
+    "name": "UXPA",
+    "startDate": "2019-06-25",
+    "endDate": "2019-06-27",
+    "city": "Scottsdale, AZ",
+    "country": "U.S.A.",
+    "url": "http://uxpa2019.org",
+    "twitter": "@UXPA_Int"
+  },
+  {
+    "name": "Symposium on Eye Tracking Research",
+    "startDate": "2019-06-25",
+    "endDate": "2019-06-28",
+    "city": "Denver, CO",
+    "country": "U.S.A.",
+    "url": "http://etra.acm.org/2019",
+    "twitter": "@etra_conference"
+  },
+  {
+    "name": "Smashing Magazine Conference",
+    "startDate": "2019-06-25",
+    "endDate": "2019-06-26",
+    "city": "Toronto",
+    "country": "Canada",
+    "url": "https://smashingconf.com/toronto-2019",
+    "twitter": "@smashingconf"
+  },
+  {
+    "name": "ADDC - App Design & Development Conference",
+    "startDate": "2019-06-26",
+    "endDate": "2019-06-28",
+    "city": "Barcelona",
+    "country": "Spain",
+    "url": "https://addconf.com/2019",
+    "twitter": "@addconf"
+  },
+  {
+    "name": "Experience Fighters",
+    "startDate": "2019-06",
+    "endDate": "2019-06",
+    "city": "Madrid",
+    "country": "Spain",
+    "url": "https://experiencefighters.com",
+    "twitter": "@expfighters"
+  },
+  {
     "name": "FITC Amsterdam",
     "url": "http://fitc.ca/event/am19/",
     "startDate": "2019-02-18",
