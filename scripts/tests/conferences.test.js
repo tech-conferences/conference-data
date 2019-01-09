@@ -20,6 +20,10 @@ range(START_YEAR, CURRENT_YEAR + 2).forEach(year => {
 
 const REQUIRED_KEYS = ['name', 'url', 'startDate', 'country', 'city'];
 const DATES_KEYS = ['startDate', 'endDate', 'cfpEndDate'];
+const BAD_CITY_NAMES = [
+  'San Fransisco'
+];
+
 const BAD_COUNTRY_NAMES = [
   'US',
   'U.S.',
@@ -50,7 +54,7 @@ Object.keys(conferencesJSON).forEach(year => {
       });
 
       conferences.forEach(conference => {
-        const {name, country, url, cfpUrl, twitter} = conference;
+        const {name, country, city, url, cfpUrl, twitter} = conference;
 
         describe(name, () => {
           it('is valid', () => {
@@ -102,6 +106,12 @@ Object.keys(conferencesJSON).forEach(year => {
             expect(
               BAD_COUNTRY_NAMES.indexOf(country) !== -1,
               `[country] is a bad country name – got: "${country}", did you miss a dot? Try U.S.A. / U.K.`
+            ).toBe(false);
+
+            // Has a good city name', () => {
+            expect(
+              BAD_CITY_NAMES.indexOf(city) !== -1,
+              `[city] is a bad city name – got: "${city}", did you mean San Francisco?`
             ).toBe(false);
           });
         });
