@@ -21,7 +21,8 @@ range(START_YEAR, CURRENT_YEAR + 2).forEach(year => {
 const REQUIRED_KEYS = ['name', 'url', 'startDate', 'country', 'city'];
 const DATES_KEYS = ['startDate', 'endDate', 'cfpEndDate'];
 const BAD_CITY_NAMES = [
-  'San Fransisco'
+  'San Fransisco',
+  'Feiburg'
 ];
 
 const BAD_COUNTRY_NAMES = [
