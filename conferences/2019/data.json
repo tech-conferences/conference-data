@@ -18,6 +18,24 @@
     "twitter": "@fitc"
   },
   {
+    "name": "Applied AI",
+    "url": "https://www.appliedai.co.uk",
+    "startDate": "2019-03-01",
+    "endDate": "2019-03-01",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@appliedaiconf"
+  },
+  {
+    "name": "DataWorks Summit",
+    "url": "https://dataworkssummit.com/barcelona-2019",
+    "startDate": "2019-03-18",
+    "endDate": "2019-03-21",
+    "city": "Barcelona",
+    "country": "Spain",
+    "twitter": "@DataWorksSummit"
+  },
+  {
     "name": "Women in Analytics Conference",
     "url": "https://www.womeninanalytics.org/",
     "startDate": "2019-03-21",
@@ -90,6 +108,15 @@
     "cfpEndDate": "2019-02-04"
   },
   {
+    "name": "DataWorks Summit",
+    "url": "https://dataworkssummit.com/washington-dc-2019",
+    "startDate": "2019-05-20",
+    "endDate": "2019-05-23",
+    "city": "Washington, DC",
+    "country": "U.S.A.",
+    "twitter": "@DataWorksSummit"
+  },
+  {
     "name": "GOTO",
     "url": "https://gotoams.nl",
     "startDate": "2019-06-17",
@@ -97,15 +124,6 @@
     "city": "Amsterdam",
     "country": "Netherlands",
     "twitter": "@gotoamst"
-  },
-  {
-    "name": "DataWorks Summit",
-    "url": "https://dataworkssummit.com/barcelona-2019",
-    "startDate": "2019-03-18",
-    "endDate": "2019-03-21",
-    "city": "Barcelona",
-    "country": "Spain",
-    "twitter": "@DataWorksSummit"
   },
   {
     "name": "Infiniteconf",
@@ -117,14 +135,5 @@
     "twitter": "@skillsmatter",
     "cfpUrl": "https://skillsmatter.com/conferences/11187-infiniteconf-2019-the-conference-on-big-data-and-ai#get_involved",
     "cfpEndDate": "2019-02-28"
-  },
-  {
-    "name": "DataWorks Summit",
-    "url": "https://dataworkssummit.com/washington-dc-2019",
-    "startDate": "2019-05-20",
-    "endDate": "2019-05-23",
-    "city": "Washington, DC",
-    "country": "U.S.A.",
-    "twitter": "@DataWorksSummit"
   }
 ]
