@@ -1,5 +1,23 @@
 [
   {
+    "name": "ShmooCon",
+    "url": "https://shmoocon.org/",
+    "startDate": "2019-01-18",
+    "endDate": "2019-01-20",
+    "city": "Washington",
+    "country": "U.S.A.",
+    "twitter": "@ShmooConPuzzle"
+  },
+  {
+    "name": "AppSec California",
+    "url": "https://2019.appseccalifornia.org/",
+    "startDate": "2019-01-22",
+    "endDate": "2019-01-25",
+    "city": "Santa Monica",
+    "country": "U.S.A.",
+    "twitter": "@AppSecCali"
+  },
+  {
     "name": "DevSecCon Singapore",
     "url": "https://www.devseccon.com/singapore-2019",
     "startDate": "2019-02-28",
@@ -19,6 +37,14 @@
     "twitter": "@nullcon"
   },
   {
+    "name": "Gartner Identity & Access Management Summit 2019",
+    "url": "https://www.gartner.com/en/conferences/emea/identity-access-management-uk",
+    "startDate": "2019-03-07",
+    "endDate": "2019-03-08",
+    "city": "London",
+    "country": "U.K."
+  },
+  {
     "name": "GOTO",
     "url": "http://gotochgo.com",
     "startDate": "2019-04-28",
@@ -26,6 +52,15 @@
     "city": "Chicago, IL",
     "country": "U.S.A.",
     "twitter": "@gotochgo"
+  },
+  {
+    "name": "HITBSecConf",
+    "url": "https://conference.hitb.org/",
+    "startDate": "2019-05-06",
+    "endDate": "2019-05-10",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@hitbsecconf"
   },
   {
     "name": "NorthSec",
@@ -39,6 +74,32 @@
     "cfpEndDate": "2019-03-30"
   },
   {
+    "name": "IEEE Symposium on Security and Privacy",
+    "url": "https://www.ieee-security.org/TC/SP2019/",
+    "startDate": "2019-05-20",
+    "endDate": "2019-05-22",
+    "city": "San Francisco",
+    "country": "U.S.A.",
+    "twitter": "@ieeessp"
+  },
+  {
+    "name": "RuhrSec",
+    "url": "https://www.ruhrsec.de/2019/",
+    "startDate": "2019-05-28",
+    "endDate": "2019-05-29",
+    "city": "Bochum",
+    "country": "Germany",
+    "twitter": "@ruhrsec"
+  },
+  {
+    "name": "Infosecurity Europe",
+    "url": "https://www.infosecurityeurope.com/",
+    "startDate": "2019-06-04",
+    "endDate": "2019-06-06",
+    "city": "London",
+    "country": "U.K."
+  },
+  {
     "name": "GOTO Amsterdam",
     "url": "https://gotoams.nl",
     "startDate": "2019-06-17",
@@ -46,5 +107,23 @@
     "city": "Amsterdam",
     "country": "Netherlands",
     "twitter": "@gotoamst"
+  },
+  {
+    "name": "Cyber Security And Cloud Expo Europe 2019",
+    "url": "https://cybersecuritycloudexpo.com/europe/",
+    "startDate": "2019-06-19",
+    "endDate": "2019-06-20",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@CyberSec_Expo"
+  },
+  {
+    "name": "Cyber Security Summit",
+    "url": "https://cybersummitusa.com/losangeles19/",
+    "startDate": "2019-10-05",
+    "endDate": "2019-10-05",
+    "city": "Los Angeles",
+    "country": "U.S.A.",
+    "twitter": "@CyberSummitUSA"
   }
 ]
