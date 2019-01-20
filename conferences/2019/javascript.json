@@ -390,6 +390,17 @@
     "cfpUrl": "https://yld.typeform.com/to/gfZ2jc"
   },
   {
+    "name": "JSDay",
+    "url": "https://2019.jsday.it",
+    "startDate": "2019-05-08",
+    "endDate": "2019-05-09",
+    "city": "Verona",
+    "country": "Italy",
+    "twitter": "@jsconfit",
+    "cfpUrl": "https://cfp.jsday.it/",
+    "cfpEndDate": "2019-02-04"
+  },
+  {
     "name": "International JavaScript Conference",
     "url": "https://javascript-conference.com/en",
     "startDate": "2019-05-13",
@@ -625,6 +636,17 @@
     "twitter": "@OdessaJS",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeQqU4iM-vBx6VRWHQcE1zKh3LW4KZ5231Oe0dQx-neBrrc3g/viewform",
     "cfpEndDate": "2019-03-30"
+  },
+  {
+    "name": "JavaScript and Friends Conference",
+    "url": "https://www.javascriptandfriends.com",
+    "startDate": "2019-08-02",
+    "endDate": "2019-08-02",
+    "city": "Columbus",
+    "country": "U.S.A.",
+    "twitter": "@JSFriendsConf",
+    "cfpUrl": "https://sessionize.com/javascript-and-friends-conference/",
+    "cfpEndDate": "2019-04-11"
   },
   {
     "name": "JSConf US",

@@ -351,6 +351,15 @@
     "cfpEndDate": "2019-01-07"
   },
   {
+    "name": "Dublin Tech Summit",
+    "url": "http://dublintechsummit.com",
+    "startDate": "2019-04-10",
+    "endDate": "2019-04-11",
+    "city": "Dublin",
+    "country": "Ireland",
+    "twitter": "@DubTechSummit"
+  },
+  {
     "name": "Developers Conference Mauritius",
     "url": "https://conference.mscc.mu",
     "startDate": "2019-04-11",
@@ -428,6 +437,17 @@
     "twitter": "@devexperiencero",
     "cfpUrl": "https://www.papercall.io/devexperience-iasi",
     "cfpEndDate": "2018-12-23"
+  },
+  {
+    "name": "Shift Dev",
+    "url": "https://dev.shiftconf.co/",
+    "startDate": "2019-05-30",
+    "endDate": "2019-05-31",
+    "city": "Split",
+    "country": "Croatia",
+    "twitter": "@shiftconf_co",
+    "cfpUrl": "https://sessionize.com/shift-dev-2019/",
+    "cfpEndDate": "2019-02-28"
   },
   {
     "name": "FITC Toronto",
@@ -583,6 +603,15 @@
     "cfpEndDate": "2019-01-31"
   },
   {
+    "name": "Interop",
+    "url": "https://www.interop.com",
+    "startDate": "2019-05-20",
+    "endDate": "2019-05-23",
+    "city": "Las Vegas",
+    "country": "U.S.A.",
+    "twitter": "@interop"
+  },
+  {
     "name": "MiXiT",
     "url": "https://mixitconf.org/en/",
     "startDate": "2019-05-23",
@@ -656,6 +685,14 @@
     "cfpUrl": "https://www.witi.com/conferences/speakers/"
   },
   {
+    "name": "DEVintersection",
+    "url": "https://devintersection.com",
+    "startDate": "2019-06-10",
+    "endDate": "2019-06-13",
+    "city": "Orlando, FL",
+    "country": "U.S.A."
+  },
+  {
     "name": "The Lead Developer London",
     "url": "https://london2019.theleaddeveloper.com",
     "startDate": "2019-06-11",
@@ -685,6 +722,15 @@
     "twitter": "@ndc_conferences",
     "cfpUrl": "https://sessionize.com/ndc-oslo-2019/",
     "cfpEndDate": "2019-02-17"
+  },
+  {
+    "name": "ML Conference",
+    "url": "https://mlconference.ai",
+    "startDate": "2019-06-17",
+    "endDate": "2019-06-19",
+    "city": "München",
+    "country": "Germany",
+    "twitter": "@mlconference"
   },
   {
     "name": "DWX - Developer Week 2019",
@@ -726,6 +772,15 @@
     "cfpEndDate": "2018-12-21"
   },
   {
+    "name": "Deconstruct",
+    "url": "https://www.deconstructconf.com",
+    "startDate": "2019-07-11",
+    "endDate": "2019-07-12",
+    "city": "Seattle",
+    "country": "U.S.A.",
+    "twitter": "@DeconstructConf"
+  },
+  {
     "name": "ÜberConf",
     "url": "https://uberconf.com/conference/denver/2019/07/home",
     "startDate": "2019-07-16",
@@ -753,6 +808,15 @@
     "city": "Wisconsin Dells",
     "country": "U.S.A.",
     "twitter": "@ThatConference"
+  },
+  {
+    "name": "Music City Tech",
+    "url": "http://www.musiccitytech.com",
+    "startDate": "2019-09-05",
+    "endDate": "2019-09-07",
+    "city": "Nashville, TN",
+    "country": "U.S.A.",
+    "twitter": "@MusicCityTech"
   },
   {
     "name": "Strange Loop",
@@ -801,6 +865,17 @@
     "twitter": "@gotober"
   },
   {
+    "name": "International Annual Conference of the American Society for Engineering Management",
+    "url": "https://www.asem.org/Conference",
+    "startDate": "2019-10-23",
+    "endDate": "2019-10-26",
+    "city": "Philadelphia, PA",
+    "country": "U.S.A.",
+    "twitter": "@asemconnect",
+    "cfpUrl": "https://www.asem.org/Call-for-Papers-2019",
+    "cfpEndDate": "2019-02-25"
+  },
+  {
     "name": "Devoxx",
     "url": "https://devoxx.org.ua",
     "city": "Kyiv",
@@ -828,6 +903,15 @@
     "startDate": "2019-11-04",
     "endDate": "2019-11-08",
     "twitter": "@devoxx"
+  },
+  {
+    "name": "Microsoft Ignite",
+    "url": "https://www.microsoft.com/en-us/ignite",
+    "startDate": "2019-11-04",
+    "endDate": "2019-11-08",
+    "city": "Orlando, FL",
+    "country": "U.S.A.",
+    "twitter": "@MS_Ignite"
   },
   {
     "name": "Wonder Women Tech",
@@ -858,6 +942,76 @@
     "city": "Raleigh-Durham, NC",
     "country": "U.S.A.",
     "twitter": "@womentechsummit"
+  },
+  {
+    "name": "Visual Studio Live!",
+    "url": "https://vslive.com/events/las-vegas-2019/home.aspx",
+    "startDate": "2019-03-03",
+    "endDate": "2019-03-08",
+    "city": "Las Vegas",
+    "country": "U.S.A.",
+    "twitter": "@VSLive",
+    "cfpUrl": "https://vslive.com/pages/call-for-papers.aspx"
+  },
+  {
+    "name": "Visual Studio Live!",
+    "url": "https://vslive.com/events/new-orleans-2019/home.aspx",
+    "startDate": "2019-04-22",
+    "endDate": "2019-04-26",
+    "city": "New Orleans",
+    "country": "U.S.A.",
+    "twitter": "@VSLive",
+    "cfpUrl": "https://vslive.com/pages/call-for-papers.aspx"
+  },
+  {
+    "name": "Visual Studio Live!",
+    "url": "https://vslive.com/events/boston-2019/home.aspx",
+    "startDate": "2019-06-09",
+    "endDate": "2019-06-13",
+    "city": "Boston",
+    "country": "U.S.A.",
+    "twitter": "@VSLive",
+    "cfpUrl": "https://vslive.com/pages/call-for-papers.aspx"
+  },
+  {
+    "name": "Visual Studio Live!",
+    "url": "https://vslive.com/events/redmond-2019/home.aspx",
+    "startDate": "2019-08-12",
+    "endDate": "2019-08-16",
+    "city": "Redmond",
+    "country": "U.S.A.",
+    "twitter": "@VSLive",
+    "cfpUrl": "https://vslive.com/pages/call-for-papers.aspx"
+  },
+  {
+    "name": "Visual Studio Live!",
+    "url": "https://vslive.com/events/san-diego-2019/home.aspx",
+    "startDate": "2019-09-29",
+    "endDate": "2019-10-03",
+    "city": "San Diego",
+    "country": "U.S.A.",
+    "twitter": "@VSLive",
+    "cfpUrl": "https://vslive.com/pages/call-for-papers.aspx"
+  },
+  {
+    "name": "Visual Studio Live!",
+    "url": "https://vslive.com/events/chicago-2019/home.aspx",
+    "startDate": "2019-10-06",
+    "endDate": "2019-10-10",
+    "city": "Chicago",
+    "country": "U.S.A.",
+    "twitter": "@VSLive",
+    "cfpUrl": "https://vslive.com/pages/call-for-papers.aspx"
+  },
+  {
+    "name": "Visual Studio Live!",
+    "url": "https://vslive.com/Home.aspx",
+    "startDate": "2019-11-17",
+    "endDate": "2019-11-22",
+    "city": "Orlando, FL",
+    "country": "U.S.A.",
+    "twitter": "@VSLive",
+    "cfpUrl": "https://vslive.com/pages/call-for-papers.aspx"
   },
   {
     "name": "DevTernity",

@@ -61,6 +61,15 @@
     "cfpEndDate": "2019-02-04"
   },
   {
+    "name": "PyCon",
+    "url": "https://us.pycon.org",
+    "startDate": "2019-05-01",
+    "endDate": "2019-05-09",
+    "city": "Cleveland, OH",
+    "country": "U.S.A.",
+    "twitter": "@pycon"
+  },
+  {
     "name": "PyCon Italia",
     "url": "http://pycon.it/en",
     "startDate": "2019-05-02",
@@ -78,6 +87,8 @@
     "endDate": "2019-05-26",
     "city": "Munich",
     "country": "Germany",
+    "cfpUrl": "https://www.papercall.io/pyconweb19",
+    "cfpEndDate": "2019-02-14",
     "twitter": "@pyconweb"
   }
 ]

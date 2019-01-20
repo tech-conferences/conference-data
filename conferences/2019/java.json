@@ -9,6 +9,15 @@
     "twitter": "@devnexus"
   },
   {
+    "name": "Java Day Istanbul",
+    "url": "http://javaday.istanbul",
+    "startDate": "2019-03-15",
+    "endDate": "2019-03-16",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "twitter": "@javadayistanbul"
+  },
+  {
     "name": "Java Eastern Europe Conference (JEEConf)",
     "url": "https://jeeconf.com",
     "startDate": "2019-04-25",
@@ -29,6 +38,17 @@
     "twitter": "@spring_io",
     "cfpUrl": "https://2019.springio.net/",
     "cfpEndDate": "2019-02-23"
+  },
+  {
+    "name": "GR8Conf EU",
+    "url": "https://gr8conf.eu",
+    "startDate": "2019-05-27",
+    "endDate": "2019-05-29",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "twitter": "@gr8conf",
+    "cfpUrl": "https://cfp.gr8conf.org/",
+    "cfpEndDate": "2019-01-31"
   },
   {
     "name": "JNation.pt",

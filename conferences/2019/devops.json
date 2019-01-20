@@ -164,7 +164,7 @@
     "startDate": "2019-06-25",
     "endDate": "2019-06-28",
     "city": "Amsterdam",
-    "country": "The Nederlands",
+    "country": "Netherlands",
     "twitter": "@devopsams",
     "cfpUrl": "https://sessionize.com/dodams2019/",
     "cfpEndDate": "2019-04-01"
@@ -215,6 +215,15 @@
     "city": "London",
     "country": "U.K.",
     "twitter": "@skillsmatter"
+  },
+  {
+    "name": "Event-driven Microservices Conference 2019",
+    "url": "https://axoniq.io/event-overview/event-driven-microservices-conference",
+    "startDate": "2019-09-27",
+    "endDate": "2019-09-27",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@axon_iq"
   },
   {
     "name": "SREcon19 Europe/Middle East/Africa",
