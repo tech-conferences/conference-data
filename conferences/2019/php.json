@@ -1,14 +1,5 @@
 [
   {
-    "name": "DrupalCamp NJ",
-    "url": "https://www.drupalcampnj.org",
-    "startDate": "2019-02-01",
-    "endDate": "2019-02-03",
-    "city": "Princeton",
-    "country": "U.S.A.",
-    "twitter": "@drupalcampnj"
-  },
-  {
     "name": "PHPBenelux Conference",
     "url": "https://conference.phpbenelux.eu/2019/",
     "startDate": "2019-01-25",
@@ -16,6 +7,15 @@
     "city": "Antwerp",
     "country": "Belgium",
     "twitter": "@phpbenelux"
+  },
+  {
+    "name": "DrupalCamp NJ",
+    "url": "https://www.drupalcampnj.org",
+    "startDate": "2019-02-01",
+    "endDate": "2019-02-03",
+    "city": "Princeton",
+    "country": "U.S.A.",
+    "twitter": "@drupalcampnj"
   },
   {
     "name": "SunshinePHP",
@@ -99,6 +99,15 @@
     "country": "Italy",
     "twitter": "@phpday",
     "cfpUrl": "https://cfp.phpday.it/"
+  },
+  {
+    "name": "php[tek]",
+    "url": "https://tek.phparch.com/about",
+    "startDate": "2019-05-21",
+    "endDate": "2019-05-23",
+    "city": "Atlanta",
+    "country": "U.S.A.",
+    "twitter": "@phparch"
   },
   {
     "name": "PHP Serbia Conference",
