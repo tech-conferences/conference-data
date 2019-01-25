@@ -141,5 +141,16 @@
     "twitter": "@phpconference",
     "cfpUrl": "https://phpconference.com/call-for-papers/",
     "cfpEndDate": "2018-10-31"
+  },
+  {
+    "name": "Dutch PHP Conference",
+    "url": "https://www.phpconference.nl",
+    "startDate": "2019-06-06",
+    "endDate": "2019-06-08",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@dpcon",
+    "cfpUrl": "https://cfp.phpconference.nl",
+    "cfpEndDate": "2019-01-28"
   }
 ]
