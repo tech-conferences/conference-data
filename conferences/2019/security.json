@@ -106,7 +106,15 @@
   },
   {
     "name": "ITWeb Security Summit",
-    "url": "https://v2.itweb.co.za/event/itweb/security-summit-2019",
+    "url": "https://v2.itweb.co.za/event/itweb/security-summit-2019/?page=agendaday1",
+    "startDate": "2019-05-27",
+    "endDate": "2019-05-31",
+    "city": "Johannesburg",
+    "country": "South Africa"
+  },
+  {
+    "name": "ITWeb Security Summit",
+    "url": "https://v2.itweb.co.za/event/itweb/security-summit-2019/?page=agendact",
     "startDate": "2019-05-23",
     "endDate": "2019-05-24",
     "city": "Cape Town",
