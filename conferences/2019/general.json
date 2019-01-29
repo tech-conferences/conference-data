@@ -62,6 +62,14 @@
     "twitter": "@HostingDomainCo"
   },
   {
+    "name": "ITWeb Cloud Summit",
+    "url": "https://v2.itweb.co.za/event/itweb/cloud-summit-2019",
+    "startDate": "2019-02-12",
+    "endDate": "2019-02-12",
+    "city": "Johannesburg",
+    "country": "South Africa"
+  },
+  {
     "name": "FITC Amsterdam",
     "url": "http://fitc.ca/event/am19/",
     "startDate": "2019-02-18",
@@ -264,6 +272,15 @@
     "cfpEndDate": "2019-01-01"
   },
   {
+    "name": "DevConf",
+    "url": "https://www.devconf.co.za",
+    "startDate": "2019-03-26",
+    "endDate": "2019-03-26",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "twitter": "@devconfza"
+  },
+  {
     "name": "Women in Tech Summit (MidAtlantic)",
     "url": "https://midatlantic.womenintechsummit.net",
     "startDate": "2019-03-28",
@@ -271,6 +288,15 @@
     "city": "Washington, D.C.",
     "country": "U.S.A.",
     "twitter": "@womentechsummit"
+  },
+  {
+    "name": "DevConf",
+    "url": "https://www.devconf.co.za",
+    "startDate": "2019-03-28",
+    "endDate": "2019-03-28",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "twitter": "@devconfza"
   },
   {
     "name": "‹Programming›",
@@ -740,6 +766,15 @@
     "country": "U.K.",
     "cfpUrl": "https://wonderwomentech.com/speak/call-for-proposals/",
     "twitter": "@wonderwomentech"
+  },
+  {
+    "name": "Cloud Conference",
+    "url": "https://cloudconference.co.za",
+    "startDate": "2019-06-06",
+    "endDate": "2019-06-06",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "twitter": "@mybroadband"
   },
   {
     "name": "Women in Technology Summit",
