@@ -106,18 +106,18 @@
   },
   {
     "name": "ITWeb Security Summit",
-    "url": "https://v2.itweb.co.za/event/itweb/security-summit-2019/?page=agendaday1",
-    "startDate": "2019-05-27",
-    "endDate": "2019-05-31",
-    "city": "Johannesburg",
-    "country": "South Africa"
-  },
-  {
-    "name": "ITWeb Security Summit",
     "url": "https://v2.itweb.co.za/event/itweb/security-summit-2019/?page=agendact",
     "startDate": "2019-05-23",
     "endDate": "2019-05-24",
     "city": "Cape Town",
+    "country": "South Africa"
+  },
+  {
+    "name": "ITWeb Security Summit",
+    "url": "https://v2.itweb.co.za/event/itweb/security-summit-2019/?page=agendaday1",
+    "startDate": "2019-05-27",
+    "endDate": "2019-05-31",
+    "city": "Johannesburg",
     "country": "South Africa"
   },
   {
@@ -172,5 +172,13 @@
     "city": "Los Angeles",
     "country": "U.S.A.",
     "twitter": "@CyberSummitUSA"
+  },
+  {
+    "name": "B-Sides Cape Town",
+    "url": "https://bsidescapetown.co.za",
+    "startDate": "2019-12-07",
+    "endDate": "2019-12-07",
+    "city": "Cape Town",
+    "country": "South Africa"
   }
 ]
