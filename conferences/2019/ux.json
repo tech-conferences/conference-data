@@ -7,7 +7,7 @@
     "city": "Barcelona",
     "country": "Spain",
     "twitter": "@csscamp"
-  },  
+  },
   {
     "name": "Adobe MAX",
     "startDate": "2019-11-02",
@@ -1069,6 +1069,17 @@
     "country": "Australia",
     "twitter": "@webdirections",
     "cfpUrl": "https://www.webdirections.org/speaking/",
+    "cfpEndDate": "2019-02-01"
+  },
+  {
+    "name": "John Slatin AccessU",
+    "url": "https://knowbility.org/programs/accessu",
+    "startDate": "2019-05-14",
+    "endDate": "2019-05-17",
+    "city": "Austin",
+    "country": "U.S.A.",
+    "twitter": "@knowbility",
+    "cfpUrl": "https://knowbility.org/programs/accessu/2019/callforpapers/",
     "cfpEndDate": "2019-02-01"
   }
 ]
