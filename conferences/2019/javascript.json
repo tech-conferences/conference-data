@@ -513,17 +513,6 @@
     "cfpEndDate": "2019-01-31"
   },
   {
-    "name": "JSNation",
-    "url": "http://amsterdamjs.com",
-    "startDate": "2019-06-06",
-    "endDate": "2019-06-07",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "twitter": "@amsterdamjs",
-    "cfpUrl": "https://docs.google.com/forms/d/1whCnyZBqnVNli41Wk0wJh53jSL6topRm_uWMPyNCkPk/edit?usp=sharing",
-    "cfpEndDate": "2019-03-31"
-  },
-  {
     "name": "JSConf EU",
     "url": "https://2019.jsconf.eu",
     "startDate": "2019-06-01",
@@ -533,6 +522,17 @@
     "twitter": "@jsconfeu",
     "cfpUrl": "https://2019.jsconf.eu/call-for-speakers/",
     "cfpEndDate": "2018-12-23"
+  },
+  {
+    "name": "JSNation",
+    "url": "http://amsterdamjs.com",
+    "startDate": "2019-06-06",
+    "endDate": "2019-06-07",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@amsterdamjs",
+    "cfpUrl": "https://docs.google.com/forms/d/1whCnyZBqnVNli41Wk0wJh53jSL6topRm_uWMPyNCkPk/edit?usp=sharing",
+    "cfpEndDate": "2019-03-31"
   },
   {
     "name": "Pixel Pioneers Belfast",
@@ -623,6 +623,15 @@
     "city": "Madrid",
     "country": "Spain",
     "twitter": "@ngspain"
+  },
+  {
+    "name": "NG-MY",
+    "url": "https://2019.ng-my.org",
+    "startDate": "2019-07-06",
+    "endDate": "2019-07-07",
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "twitter": "@ngmyconf"
   },
   {
     "name": "FullStack London",
@@ -738,15 +747,6 @@
     "twitter": "@smashingconf"
   },
   {
-    "name": "Smashing Conference",
-    "url": "https://smashingconf.com/ny-2019/",
-    "startDate": "2019-10-15",
-    "endDate": "2019-10-16",
-    "city": "New York",
-    "country": "U.S.A.",
-    "twitter": "@smashingconf"
-  },
-  {
     "name": "JSConf Budapest",
     "url": "https://jsconfbp.com/",
     "startDate": "2019-09-26",
@@ -766,6 +766,15 @@
     "country": "Sweden",
     "twitter": "@nordicjs",
     "cfpUrl": "http://nordicjs.com/call-for-speakers"
+  },
+  {
+    "name": "Smashing Conference",
+    "url": "https://smashingconf.com/ny-2019/",
+    "startDate": "2019-10-15",
+    "endDate": "2019-10-16",
+    "city": "New York",
+    "country": "U.S.A.",
+    "twitter": "@smashingconf"
   },
   {
     "name": "Big Data LDN",
