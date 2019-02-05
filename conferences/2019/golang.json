@@ -76,13 +76,14 @@
   },
   {
     "name": "GopherCon Europe",
-    "url": "https://gophercon.es",
+    "url": "http://www.gophercon.es",
     "startDate": "2019-05-30",
     "endDate": "2019-06-01",
     "city": "Tenerife",
     "country": "Spain",
     "twitter": "@gopherconeu",
-    "cfpUrl": "https://www.papercall.io/gophercon-eu-2019"
+    "cfpUrl": "https://www.papercall.io/gophercon-eu-2019",
+    "cfpEndDate": "2019-03-06"
   },
   {
     "name": "GoCon Canada",
