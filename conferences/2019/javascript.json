@@ -595,6 +595,15 @@
     "twitter": "@berlinbuzzwords"
   },
   {
+    "name": "GMTC",
+    "url": "https://gmtc2019.geekbang.org",
+    "startDate": "2019-06-20",
+    "endDate": "2019-06-21",
+    "city": "Beijing",
+    "country": "China",
+    "cfpUrl": "http://djkmnlzeq9heujs0.mikecrm.com/bJk6RSl"
+  },
+  {
     "name": "NodeConf Colombia",
     "url": "https://colombia.nodeconf.com/",
     "startDate": "2019-06-21",
@@ -708,17 +717,6 @@
     "cfpEndDate": "2019-03-01"
   },
   {
-    "name": "React India",
-    "url": "https://www.reactindia.io/",
-    "startDate": "2019-09-26",
-    "endDate": "2019-09-28",
-    "city": "Goa",
-    "country": "India",
-    "twitter": "@react_india",
-    "cfpUrl": "https://docs.google.com/forms/d/1-OLrzL6CEx075V7aX6uUaWH1clr29qnf6OQMmYT2VsU/viewform?edit_requested=true",
-    "cfpEndDate": "2019-05-25"
-  },
-  {
     "name": "Frontend Conference Zurich",
     "url": "https://www.frontendconf.ch",
     "startDate": "2019-08-29",
@@ -757,6 +755,17 @@
     "city": "Freiburg",
     "country": "Germany",
     "twitter": "@smashingconf"
+  },
+  {
+    "name": "React India",
+    "url": "https://www.reactindia.io/",
+    "startDate": "2019-09-26",
+    "endDate": "2019-09-28",
+    "city": "Goa",
+    "country": "India",
+    "twitter": "@react_india",
+    "cfpUrl": "https://docs.google.com/forms/d/1-OLrzL6CEx075V7aX6uUaWH1clr29qnf6OQMmYT2VsU/viewform?edit_requested=true",
+    "cfpEndDate": "2019-05-25"
   },
   {
     "name": "JSConf Budapest",
