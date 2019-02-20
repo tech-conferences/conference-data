@@ -213,5 +213,15 @@
     "endDate": "2019-11-19",
     "city": "San Francisco, CA",
     "country": "U.S.A."
+  },
+  {
+    "name": "KotlinConf",
+    "url": "https://kotlinconf.com/",
+    "startDate": "2019-12-04",
+    "endDate": "2019-12-06",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "cfpUrl": "https://sessionize.com/kotlinconf",
+    "cfpEndDate": "2019-05-20"
   }
 ]
