@@ -2,6 +2,7 @@ export const START_YEAR = 2018;
 export const CURRENT_YEAR = new Date().getFullYear();
 export const TOPICS = [
   'android',
+  'cpp',
   'css',
   'data',
   'devops',
