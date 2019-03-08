@@ -459,6 +459,15 @@
     "cfpEndDate": "2018-10-26"
   },
   {
+    "name": "JAMstack_conf NYC",
+    "url": "https://jamstackconf.com/nyc",
+    "startDate": "2019-04-09",
+    "endDate": "2019-04-10",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "twitter": "@jamstackconf"
+  },
+  {
     "name": "OpenWest",
     "url": "https://openwest.org/",
     "startDate": "2019-04-10",
@@ -985,15 +994,6 @@
     "cfpEndDate": "2019-02-15"
   },
   {
-    "name": "Pixel Pioneers",
-    "url": "https://pixelpioneers.co/events/bristol-2019",
-    "city": "Bristol",
-    "country": "U.K.",
-    "startDate": "2019-06-07",
-    "endDate": "2019-06-07",
-    "cfpUrl": "https://pixelpioneers.co/call-for-speakers"
-  },
-  {
     "name": "WeAreDevelopers",
     "url": "https://www.wearedevelopers.com/world-congress-2019",
     "startDate": "2019-06-06",
@@ -1031,6 +1031,15 @@
     "city": "Johannesburg",
     "country": "South Africa",
     "twitter": "@mybroadband"
+  },
+  {
+    "name": "Pixel Pioneers",
+    "url": "https://pixelpioneers.co/events/bristol-2019",
+    "city": "Bristol",
+    "country": "U.K.",
+    "startDate": "2019-06-07",
+    "endDate": "2019-06-07",
+    "cfpUrl": "https://pixelpioneers.co/call-for-speakers"
   },
   {
     "name": "Conference for Kotliners",
