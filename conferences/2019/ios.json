@@ -135,6 +135,17 @@
     "twitter": "@swiftislandnl"
   },
   {
+    "name": "SwiftFest",
+    "url": "http://www.swiftfest.io",
+    "startDate": "2019-07-29",
+    "endDate": "2019-07-30",
+    "city": "Boston",
+    "country": "U.S.A.",
+    "twitter": "@theSwiftFest",
+    "cfpUrl": "https://goo.gl/forms/MtdrIFs5Wffq5r0z1",
+    "cfpEndDate": "2019-05-05"
+  },
+  {
     "name": "360|iDev",
     "url": "https://360idev.com",
     "startDate": "2019-08-25",
@@ -142,15 +153,6 @@
     "city": "Denver CO",
     "country": "U.S.A.",
     "twitter": "@360idev"
-  },
-  {
-    "name": "FrenchKit",
-    "url": "https://frenchkit.fr",
-    "startDate": "2019-10-07",
-    "endDate": "2019-10-08",
-    "city": "Paris",
-    "country": "France",
-    "twitter": "@FrenchKitConf"
   },
   {
     "name": "try! Swift NYC",
@@ -161,6 +163,15 @@
     "country": "U.S.A.",
     "twitter": "@tryswiftnyc",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdZGAKQLn8CmSz2dVkDzUUVTp3eV0I-7krx5VUnJQRy9FlDVQ/viewform?c=0&w=1"
+  },
+  {
+    "name": "FrenchKit",
+    "url": "https://frenchkit.fr",
+    "startDate": "2019-10-07",
+    "endDate": "2019-10-08",
+    "city": "Paris",
+    "country": "France",
+    "twitter": "@FrenchKitConf"
   },
   {
     "name": "Mobile Era",
