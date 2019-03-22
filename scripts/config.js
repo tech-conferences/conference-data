@@ -11,6 +11,7 @@ export const TOPICS = [
   'general',
   'golang',
   'graphql',
+  'groovy',
   'ios',
   'javascript',
   'java',
