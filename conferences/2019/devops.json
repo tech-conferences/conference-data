@@ -96,15 +96,6 @@
     "twitter": "@ServerlessDAms"
   },
   {
-    "name": "DevOpsDays Copenhagen",
-    "url": "https://www.devopsdays.org/events/2019-copenhagen/welcome",
-    "startDate": "2019-04-03",
-    "endDate": "2019-04-04",
-    "city": "Copenhagen",
-    "country": "Denmark",
-    "twitter": "@devopsdayscph"
-  },
-  {
     "name": "DevOpsDays Vancouver",
     "url": "https://www.devopsdays.org/events/2019-vancouver",
     "startDate": "2019-03-29",
@@ -112,6 +103,15 @@
     "city": "Vancouver",
     "country": "Canada",
     "twitter": "@devopsdaysyvr"
+  },
+  {
+    "name": "DevOpsDays Copenhagen",
+    "url": "https://www.devopsdays.org/events/2019-copenhagen/welcome",
+    "startDate": "2019-04-03",
+    "endDate": "2019-04-04",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "twitter": "@devopsdayscph"
   },
   {
     "name": "DevOps Fest",
@@ -400,6 +400,17 @@
     "endDate": "2019-06-19",
     "city": "San Francisco",
     "country": "U.S.A."
+  },
+  {
+    "name": "DevOpsDays Cuba",
+    "url": "https://www.devopsdays.org/events/2019-cuba/welcome",
+    "startDate": "2019-06-23",
+    "endDate": "2019-06-30",
+    "city": "Villa Clara",
+    "country": "Cuba",
+    "twitter": "@devopsdayscuba",
+    "cfpUrl": "https://www.papercall.io/cfps/2028/submissions/new",
+    "cfpEndDate": "2019-04-24"
   },
   {
     "name": "ContainerDays ",
