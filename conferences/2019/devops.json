@@ -96,15 +96,6 @@
     "twitter": "@ServerlessDAms"
   },
   {
-    "name": "DevOpsDays Copenhagen",
-    "url": "https://www.devopsdays.org/events/2019-copenhagen/welcome",
-    "startDate": "2019-04-03",
-    "endDate": "2019-04-04",
-    "city": "Copenhagen",
-    "country": "Denmark",
-    "twitter": "@devopsdayscph"
-  },
-  {
     "name": "DevOpsDays Vancouver",
     "url": "https://www.devopsdays.org/events/2019-vancouver",
     "startDate": "2019-03-29",
@@ -112,6 +103,15 @@
     "city": "Vancouver",
     "country": "Canada",
     "twitter": "@devopsdaysyvr"
+  },
+  {
+    "name": "DevOpsDays Copenhagen",
+    "url": "https://www.devopsdays.org/events/2019-copenhagen/welcome",
+    "startDate": "2019-04-03",
+    "endDate": "2019-04-04",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "twitter": "@devopsdayscph"
   },
   {
     "name": "DevOps Fest",
@@ -473,6 +473,16 @@
     "twitter": "@shipitcon",
     "cfpUrl": "https://ShipItCon.com/cfp",
     "cfpEndDate": "2019-04-10"
+  },
+  {
+    "name": "DevOpsDays Stockholm",
+    "url": "https://www.devopsdays.org/events/2019-stockholm/welcome",
+    "startDate": "2019-09-17",
+    "endDate": "2019-09-18",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "cfpUrl": "https://www.papercall.io/dod-sthlm-2019",
+    "cfpEndDate": "2019-04-15"
   },
   {
     "name": "Yalla DevOpd",
