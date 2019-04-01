@@ -1361,6 +1361,15 @@
     "twitter": "@fullstackfest"
   },
   {
+    "name": "YOW! Perth",
+    "url": "https://west.yowconference.com.au",
+    "startDate": "2019-09-04",
+    "endDate": "2019-09-05",
+    "city": "Perth",
+    "country": "Australia",
+    "twitter": "@yow_conf"
+  },
+  {
     "name": "Music City Tech",
     "url": "http://www.musiccitytech.com",
     "startDate": "2019-09-05",
@@ -1386,6 +1395,14 @@
     "startDate": "2019-09-16",
     "endDate": "2019-09-18",
     "city": "Boston, MA",
+    "country": "U.S.A."
+  },
+  {
+    "name": "Oracle OpenWorld",
+    "url": "https://www.oracle.com/openworld",
+    "startDate": "2019-09-16",
+    "endDate": "2019-09-19",
+    "city": "SAN FRANCISCO",
     "country": "U.S.A."
   },
   {
@@ -1689,6 +1706,15 @@
     "twitter": "@codeursenseine"
   },
   {
+    "name": "YOW! Sydney",
+    "url": "https://sydney.yowconference.com.au",
+    "startDate": "2019-12-05",
+    "endDate": "2019-12-06",
+    "city": "Sydney",
+    "country": "Australia",
+    "twitter": "@yow_conf"
+  },
+  {
     "name": "DevTernity",
     "url": "https://devternity.com",
     "startDate": "2019-12-06",
@@ -1714,6 +1740,15 @@
     "startDate": "2019-12-09",
     "endDate": "2019-12-10",
     "city": "Brisbane",
+    "country": "Australia",
+    "twitter": "@yow_conf"
+  },
+  {
+    "name": "YOW! Melbourne",
+    "url": "https://melbourne.yowconference.com.au",
+    "startDate": "2019-12-12",
+    "endDate": "2019-12-13",
+    "city": "Melbourne",
     "country": "Australia",
     "twitter": "@yow_conf"
   }
