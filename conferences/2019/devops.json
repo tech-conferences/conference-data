@@ -587,6 +587,14 @@
     "cfpEndDate": "2019-06-06"
   },
   {
+    "name": "Yalla DevOps Israel",
+    "url": "http://yalla-devops.com",
+    "startDate": "2019-09-24",
+    "endDate": "2019-09-24",
+    "city": "Herzliya",
+    "country": "Israel"
+  },
+  {
     "name": "CloudNative London",
     "url": "https://skillsmatter.com/conferences/11723-cloudnative-london-2019#overview",
     "startDate": "2019-09-25",
@@ -643,6 +651,17 @@
     "city": "Dublin",
     "country": "Ireland",
     "twitter": "@SREcon"
+  },
+  {
+    "name": "Puppetize PDX",
+    "url": "https://puppet.com/puppetize",
+    "startDate": "2019-10-09",
+    "endDate": "2019-10-10",
+    "city": "Portland, Oregon",
+    "country": "U.S.A.",
+    "twitter": "@puppetize",
+    "cfpUrl": "http://pup.pt/pdxcfp",
+    "cfpEndDate": "2019-05-01"
   },
   {
     "name": "TECHSPO Dubai",
@@ -713,16 +732,5 @@
     "twitter": "@blndevops",
     "cfpUrl": "https://www.papercall.io/2019-berlin",
     "cfpEndDate": "2019-07-31"
-  },
-  {
-    "name": "Puppetize PDX",
-    "url": "https://puppet.com/puppetize",
-    "startDate": "2019-10-09",
-    "endDate": "2019-10-10",
-    "city": "Portland, Oregon",
-    "country": "U.S.A.",
-    "twitter": "@puppetize",
-    "cfpUrl": "http://pup.pt/pdxcfp",
-    "cfpEndDate": "2019-05-01"
   }
 ]
