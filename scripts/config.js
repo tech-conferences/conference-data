@@ -23,5 +23,6 @@ export const TOPICS = [
   'scala',
   'security',
   'tech-comm',
+  'typescript',
   'ux',
 ];
