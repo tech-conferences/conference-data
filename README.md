@@ -51,6 +51,7 @@ Conference data have the following structure:
 - [See all Elixir conferences](https://confs.tech/elixir)
 - [See all Security conferences](https://confs.tech/security)
 - [See all Scala conferences](https://confs.tech/scala)
+- [See all Typescript conferences](https://confs.tech/typescript)
 - [See all .NET conferences](https://confs.tech/dotnet)
 - [See all GraphQL conferences](https://confs.tech/graphql)
 - [See general conferences](https://confs.tech/general)
