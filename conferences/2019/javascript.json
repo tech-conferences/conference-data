@@ -1136,7 +1136,9 @@
     "endDate": "2019-10-04",
     "city": "Timisoara",
     "country": "Romania",
-    "twitter": "@revojsro"
+    "twitter": "@revojsro",
+    "cfpUrl": "https://revojs.ro/cfp/",
+    "cfpEndDate": "2019-06-17"
   },
   {
     "name": "Vue.js London",
@@ -1229,6 +1231,15 @@
     "twitter": "@connect_js",
     "cfpUrl": "http://connect.tech/cfp",
     "cfpEndDate": "2019-05-01"
+  },
+  {
+    "name": "Ember{{Fest}}",
+    "url": "http://emberfest.eu",
+    "startDate": "2019-10-17",
+    "endDate": "2019-10-18",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "twitter": "@emberfest"
   },
   {
     "name": "ReactiveConf",
@@ -1334,6 +1345,15 @@
     "url": "https://js-poland.pl",
     "startDate": "2019-11-22",
     "endDate": "2019-11-22",
+    "city": "Warsaw",
+    "country": "Poland",
+    "twitter": "@ngPolandConf"
+  },
+  {
+    "name": "ngPoland",
+    "url": "https://ng-poland.pl",
+    "startDate": "2019-11-21",
+    "endDate": "2019-11-21",
     "city": "Warsaw",
     "country": "Poland",
     "twitter": "@ngPolandConf"
