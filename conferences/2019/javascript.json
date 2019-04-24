@@ -1351,6 +1351,15 @@
     "twitter": "@frontmania"
   },
   {
+    "name": "ngPoland",
+    "url": "https://ng-poland.pl",
+    "startDate": "2019-11-21",
+    "endDate": "2019-11-21",
+    "city": "Warsaw",
+    "country": "Poland",
+    "twitter": "@ngPolandConf"
+  },
+  {
     "name": "JS Poland",
     "url": "https://js-poland.pl",
     "startDate": "2019-11-22",
@@ -1360,13 +1369,15 @@
     "twitter": "@ngPolandConf"
   },
   {
-    "name": "ngPoland",
-    "url": "https://ng-poland.pl",
-    "startDate": "2019-11-21",
-    "endDate": "2019-11-21",
-    "city": "Warsaw",
+    "name": "Dariusz Kalbarczyk",
+    "url": "https://js-poland.pl",
+    "startDate": "2019-11-22",
+    "endDate": "2019-11-22",
+    "city": "Warszawa",
     "country": "Poland",
-    "twitter": "@ngPolandConf"
+    "twitter": "@jsPolandConf",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeVsK-OA9HudBjk7CpkKNCK8M_DD4_DF-AsFLAP8wdHeZ3O-g/viewform",
+    "cfpEndDate": "2019-09-30"
   },
   {
     "name": "ColdFront",
