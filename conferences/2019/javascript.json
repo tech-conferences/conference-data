@@ -654,6 +654,17 @@
     "twitter": "@nodejsconfnl"
   },
   {
+    "name": "JSFoo Coimbatore",
+    "url": "https://jsfoo.in/2019-coimbatore/",
+    "startDate": "2019-06-08",
+    "endDate": "2019-06-08",
+    "city": "Coimbatore",
+    "country": "India",
+    "twitter": "@jsfoo",
+    "cfpUrl": "https://hasgeek.com/jsfoo/2019-coimbatore",
+    "cfpEndDate": "2019-04-29"
+  },
+  {
     "name": "AngularMIX & AngleBrackets & DEVintersection",
     "url": "https://angularmix.com/",
     "startDate": "2019-06-09",
@@ -1023,6 +1034,17 @@
     "twitter": "@ngdeconf"
   },
   {
+    "name": "JSFoo: VueDay",
+    "url": "https://jsfoo.in/2019-vueday/",
+    "startDate": "2019-08-30",
+    "endDate": "2019-08-30",
+    "city": "Bangalore",
+    "country": "India",
+    "twitter": "@jsfoo",
+    "cfpUrl": "https://hasgeek.com/jsfoo/2019-vueday",
+    "cfpEndDate": "2019-05-15"
+  },
+  {
     "name": "JSConf Korea",
     "url": "https://2019.jsconfkorea.com/en",
     "startDate": "2019-09-03",
@@ -1351,19 +1373,19 @@
     "twitter": "@frontmania"
   },
   {
-    "name": "JS Poland",
-    "url": "https://js-poland.pl",
-    "startDate": "2019-11-22",
-    "endDate": "2019-11-22",
+    "name": "ngPoland",
+    "url": "https://ng-poland.pl",
+    "startDate": "2019-11-21",
+    "endDate": "2019-11-21",
     "city": "Warsaw",
     "country": "Poland",
     "twitter": "@ngPolandConf"
   },
   {
-    "name": "ngPoland",
-    "url": "https://ng-poland.pl",
-    "startDate": "2019-11-21",
-    "endDate": "2019-11-21",
+    "name": "JS Poland",
+    "url": "https://js-poland.pl",
+    "startDate": "2019-11-22",
+    "endDate": "2019-11-22",
     "city": "Warsaw",
     "country": "Poland",
     "twitter": "@ngPolandConf"
