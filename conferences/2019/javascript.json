@@ -1216,6 +1216,15 @@
     "twitter": "@ngromeconf"
   },
   {
+    "name": "JavaScript Days",
+    "url": "https://javascript-days.de",
+    "startDate": "2019-10-07",
+    "endDate": "2019-10-10",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@JS_Days"
+  },
+  {
     "name": "Angular Days",
     "url": "https://javascript-days.de/angular",
     "startDate": "2019-10-07",
@@ -1223,6 +1232,24 @@
     "city": "Berlin",
     "country": "Germany",
     "twitter": "@AngularDays"
+  },
+  {
+    "name": "React Days",
+    "url": "https://javascript-days.de/react",
+    "startDate": "2019-10-07",
+    "endDate": "2019-10-10",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@React_Days"
+  },
+  {
+    "name": "HTML & CSS Days",
+    "url": "https://javascript-days.de/html-css",
+    "startDate": "2019-10-07",
+    "endDate": "2019-10-10",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@htmlcssdays"
   },
   {
     "name": "Nordic.js",
@@ -1333,6 +1360,15 @@
     "country": "Ukraine",
     "cfpUrl": "http://jsfest.com.ua/speakers_eng.html",
     "cfpEndDate": "2019-10-01"
+  },
+  {
+    "name": "NodeConf.EU",
+    "url": "https://www.nodeconf.eu",
+    "startDate": "2019-11-10",
+    "endDate": "2019-11-13",
+    "city": "Kilkenny",
+    "country": "Ireland",
+    "twitter": "@NodeConfEU"
   },
   {
     "name": "Vue.js Conference Toronto",
