@@ -1457,6 +1457,15 @@
     "cfpEndDate": "2019-04-30"
   },
   {
+    "name": "JoomlaDay Deutschland",
+    "url": "http://www.joomladay.de",
+    "startDate": "2019-09-13",
+    "endDate": "2019-09-14",
+    "city": "Giessen",
+    "country": "Germany",
+    "twitter": "@joomlatag"
+  },
+  {
     "name": "Business of Software USA",
     "url": "https://businessofsoftware.org",
     "startDate": "2019-09-16",
@@ -1608,6 +1617,17 @@
     "city": "Sofia",
     "country": "Bulgaria",
     "twitter": "@HackConf_"
+  },
+  {
+    "name": "WebCamp Zagreb",
+    "url": "https://2019.webcampzg.org",
+    "startDate": "2019-10-11",
+    "endDate": "2019-10-12",
+    "city": "Zagreb",
+    "country": "Croatia",
+    "twitter": "@webcampzagreb",
+    "cfpUrl": "https://2019.webcampzg.org/cfp",
+    "cfpEndDate": "2019-05-31"
   },
   {
     "name": "All Things Open",
@@ -1819,6 +1839,15 @@
     "country": "U.S.A.",
     "twitter": "@VSLive",
     "cfpUrl": "https://vslive.com/pages/call-for-papers.aspx"
+  },
+  {
+    "name": "Webconf.asia",
+    "url": "https://2019.webconf.asia",
+    "startDate": "2019-11-20",
+    "endDate": "2019-11-23",
+    "city": "Hong Kong",
+    "country": "China",
+    "twitter": "@webconf_asia"
   },
   {
     "name": "Codeurs En Seine",
