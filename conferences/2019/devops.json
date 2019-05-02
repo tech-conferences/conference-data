@@ -297,6 +297,14 @@
     "cfpEndDate": "2019-01-14"
   },
   {
+    "name": "GitHub Satellite",
+    "url": "https://githubsatellite.com",
+    "startDate": "2019-05-22",
+    "endDate": "2019-05-23",
+    "city": "Berlin",
+    "country": "Germany"
+  },
+  {
     "name": "DevOpsDays",
     "url": "https://www.devopsdays.org/events/2019-toronto/welcome",
     "startDate": "2019-05-29",
@@ -656,6 +664,17 @@
     "twitter": "@SREcon"
   },
   {
+    "name": "Puppetize PDX",
+    "url": "https://puppet.com/puppetize",
+    "startDate": "2019-10-09",
+    "endDate": "2019-10-10",
+    "city": "Portland, Oregon",
+    "country": "U.S.A.",
+    "twitter": "@puppetize",
+    "cfpUrl": "http://pup.pt/pdxcfp",
+    "cfpEndDate": "2019-05-01"
+  },
+  {
     "name": "TECHSPO Dubai",
     "url": "https://techspodubai.ae",
     "startDate": "2019-10-22",
@@ -724,16 +743,5 @@
     "twitter": "@blndevops",
     "cfpUrl": "https://www.papercall.io/2019-berlin",
     "cfpEndDate": "2019-07-31"
-  },
-  {
-    "name": "Puppetize PDX",
-    "url": "https://puppet.com/puppetize",
-    "startDate": "2019-10-09",
-    "endDate": "2019-10-10",
-    "city": "Portland, Oregon",
-    "country": "U.S.A.",
-    "twitter": "@puppetize",
-    "cfpUrl": "http://pup.pt/pdxcfp",
-    "cfpEndDate": "2019-05-01"
   }
 ]
