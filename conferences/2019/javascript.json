@@ -993,6 +993,17 @@
     "twitter": "@clarity_conf"
   },
   {
+    "name": "HalfStack New York",
+    "url": "https://halfstackconf.com/newyork/",
+    "startDate": "2019-08-23",
+    "endDate": "2019-08-23",
+    "city": "New York",
+    "country": "USA",
+    "twitter": "@halfstackconf",
+    "cfpUrl": "https://halfstackconf.com/newyork/",
+    "cfpEndDate": "2019-05-30"
+  },
+  {
     "name": "BrazilJS",
     "url": "https://braziljs.org",
     "startDate": "2019-08-23",
@@ -1105,6 +1116,17 @@
     "twitter": "@AngularConnect",
     "cfpUrl": "https://angularconnect.com/cfp",
     "cfpEndDate": "2019-03-25"
+  },
+  {
+    "name": "HalfStack Vienna",
+    "url": "https://halfstackconf.com/vienna/",
+    "startDate": "2019-09-19",
+    "endDate": "2019-09-19",
+    "city": "Vienna",
+    "country": "Austria",
+    "twitter": "@halfstackconf",
+    "cfpUrl": "https://halfstackconf.com/vienna/",
+    "cfpEndDate": "2019-06-15
   },
   {
     "name": "JSdayIE",
@@ -1272,6 +1294,17 @@
     "cfpUrl": "http://nordicjs.com/call-for-speakers"
   },
   {
+    "name": "TSConf",
+    "url": "https://tsconf.io/",
+    "startDate": "2019-10-11",
+    "endDate": "2019-10-11",
+    "city": "Seattle, WA",
+    "country": "U.S.A.",
+    "twitter": "@typescriptconf",
+    "cfpUrl": "https://tsconf.io/present.html",
+    "cfpEndDate": "2019-04-30"
+  },
+  {
     "name": "API Conference",
     "url": "https://apiconference.net",
     "startDate": "2019-10-14",
@@ -1390,17 +1423,6 @@
     "twitter": "@VueToronto"
   },
   {
-    "name": "TSConf",
-    "url": "https://tsconf.io/",
-    "startDate": "2019-11-11",
-    "endDate": "2019-11-11",
-    "city": "Seattle, WA",
-    "country": "U.S.A.",
-    "twitter": "@typescriptconf",
-    "cfpUrl": "https://tsconf.io/present.html",
-    "cfpEndDate": "2019-04-30"
-  },
-  {
     "name": "jsMobileConf",
     "url": "https://jsmobileconf.com",
     "startDate": "2019-11-12",
@@ -1426,6 +1448,17 @@
     "city": "Utrecht",
     "country": "Netherlands",
     "twitter": "@frontmania"
+  },
+  {
+    "name": "HalfStack London",
+    "url": "https://halfstackconf.com/london/",
+    "startDate": "2019-11-22",
+    "endDate": "2019-11-22",
+    "city": "London",
+    "country": "United Kingdom",
+    "twitter": "@halfstackconf",
+    "cfpUrl": "https://halfstackconf.com/london/",
+    "cfpEndDate": "2019-06-15"
   },
   {
     "name": "ngPoland",
