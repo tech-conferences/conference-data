@@ -1466,5 +1466,38 @@
     "city": "Paris",
     "country": "France",
     "twitter": "@dotJS"
+  },
+  {
+    "name": "HalfStack",
+    "url": "https://halfstackconf.com/newyork/",
+    "startDate": "2019-08-23",
+    "endDate": "2019-08-23",
+    "city": "New York",
+    "country": "U.S.A.",
+    "twitter": "@halfstackconf",
+    "cfpUrl": "https://halfstackconf.com/newyork/",
+    "cfpEndDate": "2019-05-30"
+  },
+  {
+    "name": "HalfStack",
+    "url": "https://halfstackconf.com/vienna/",
+    "startDate": "2019-09-19",
+    "endDate": "2019-09-19",
+    "city": "Vienna",
+    "country": "Austria",
+    "twitter": "@halfstackconf",
+    "cfpUrl": "https://halfstackconf.com/vienna/",
+    "cfpEndDate": "2019-06-15"
+  },
+  {
+    "name": "HalfStack",
+    "url": "https://halfstackconf.com/london/",
+    "startDate": "2019-11-22",
+    "endDate": "2019-11-22",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@halfstackconf",
+    "cfpUrl": "https://halfstackconf.com/london/",
+    "cfpEndDate": "2019-06-15"
   }
 ]
