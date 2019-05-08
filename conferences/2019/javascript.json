@@ -1003,6 +1003,17 @@
     "cfpEndDate": "2019-05-20"
   },
   {
+    "name": "HalfStack",
+    "url": "https://halfstackconf.com/newyork/",
+    "startDate": "2019-08-23",
+    "endDate": "2019-08-23",
+    "city": "New York",
+    "country": "U.S.A.",
+    "twitter": "@halfstackconf",
+    "cfpUrl": "https://halfstackconf.com/newyork/",
+    "cfpEndDate": "2019-05-30"
+  },
+  {
     "name": "Web Summer Camp",
     "url": "https://2019.websummercamp.com",
     "startDate": "2019-08-28",
@@ -1105,6 +1116,17 @@
     "twitter": "@AngularConnect",
     "cfpUrl": "https://angularconnect.com/cfp",
     "cfpEndDate": "2019-03-25"
+  },
+  {
+    "name": "HalfStack",
+    "url": "https://halfstackconf.com/vienna/",
+    "startDate": "2019-09-19",
+    "endDate": "2019-09-19",
+    "city": "Vienna",
+    "country": "Austria",
+    "twitter": "@halfstackconf",
+    "cfpUrl": "https://halfstackconf.com/vienna/",
+    "cfpEndDate": "2019-06-15"
   },
   {
     "name": "JSdayIE",
@@ -1272,6 +1294,17 @@
     "cfpUrl": "http://nordicjs.com/call-for-speakers"
   },
   {
+    "name": "TSConf",
+    "url": "https://tsconf.io/",
+    "startDate": "2019-10-11",
+    "endDate": "2019-10-11",
+    "city": "Seattle, WA",
+    "country": "U.S.A.",
+    "twitter": "@typescriptconf",
+    "cfpUrl": "https://tsconf.io/present.html",
+    "cfpEndDate": "2019-04-30"
+  },
+  {
     "name": "API Conference",
     "url": "https://apiconference.net",
     "startDate": "2019-10-14",
@@ -1372,6 +1405,15 @@
     "cfpEndDate": "2019-10-01"
   },
   {
+    "name": "Italian Agile Days",
+    "url": "https://www.agileday.it",
+    "startDate": "2019-11-08",
+    "endDate": "2019-11-09",
+    "city": "Modena",
+    "country": "Italy",
+    "twitter": "@agileday"
+  },
+  {
     "name": "NodeConf.EU",
     "url": "https://www.nodeconf.eu",
     "startDate": "2019-11-10",
@@ -1388,17 +1430,6 @@
     "city": "Toronto",
     "country": "Canada",
     "twitter": "@VueToronto"
-  },
-  {
-    "name": "TSConf",
-    "url": "https://tsconf.io/",
-    "startDate": "2019-10-11",
-    "endDate": "2019-10-11",
-    "city": "Seattle, WA",
-    "country": "U.S.A.",
-    "twitter": "@typescriptconf",
-    "cfpUrl": "https://tsconf.io/present.html",
-    "cfpEndDate": "2019-04-30"
   },
   {
     "name": "jsMobileConf",
@@ -1450,6 +1481,17 @@
     "cfpEndDate": "2019-09-30"
   },
   {
+    "name": "HalfStack",
+    "url": "https://halfstackconf.com/london/",
+    "startDate": "2019-11-22",
+    "endDate": "2019-11-22",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@halfstackconf",
+    "cfpUrl": "https://halfstackconf.com/london/",
+    "cfpEndDate": "2019-06-15"
+  },
+  {
     "name": "ColdFront",
     "url": "https://2019.coldfront.co",
     "startDate": "2019-11-26",
@@ -1466,38 +1508,5 @@
     "city": "Paris",
     "country": "France",
     "twitter": "@dotJS"
-  },
-  {
-    "name": "HalfStack",
-    "url": "https://halfstackconf.com/newyork/",
-    "startDate": "2019-08-23",
-    "endDate": "2019-08-23",
-    "city": "New York",
-    "country": "U.S.A.",
-    "twitter": "@halfstackconf",
-    "cfpUrl": "https://halfstackconf.com/newyork/",
-    "cfpEndDate": "2019-05-30"
-  },
-  {
-    "name": "HalfStack",
-    "url": "https://halfstackconf.com/vienna/",
-    "startDate": "2019-09-19",
-    "endDate": "2019-09-19",
-    "city": "Vienna",
-    "country": "Austria",
-    "twitter": "@halfstackconf",
-    "cfpUrl": "https://halfstackconf.com/vienna/",
-    "cfpEndDate": "2019-06-15"
-  },
-  {
-    "name": "HalfStack",
-    "url": "https://halfstackconf.com/london/",
-    "startDate": "2019-11-22",
-    "endDate": "2019-11-22",
-    "city": "London",
-    "country": "U.K.",
-    "twitter": "@halfstackconf",
-    "cfpUrl": "https://halfstackconf.com/london/",
-    "cfpEndDate": "2019-06-15"
   }
 ]
