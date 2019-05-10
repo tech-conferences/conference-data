@@ -12,17 +12,17 @@ All conferences are stored in [JSON files](https://github.com/tech-conferences/c
 Conference data have the following structure:
 
 ```json
-  {
-    "name": "",
-    "url": "",
-    "startDate": "YYYY-MM-DD",
-    "endDate": "YYYY-MM-DD",
-    "city": "",
-    "country": "",
-    "cfpUrl": "",
-    "cfpEndDate": "",
-    "twitter": ""
-  }
+{
+  "name": "",
+  "url": "",
+  "startDate": "YYYY-MM-DD",
+  "endDate": "YYYY-MM-DD",
+  "city": "",
+  "country": "",
+  "cfpUrl": "",
+  "cfpEndDate": "",
+  "twitter": ""
+}
 ```
 
 ## Active contributors
@@ -34,25 +34,26 @@ Conference data have the following structure:
 
 ## See all conferences
 
-- [See all JavaScript conferences](https://confs.tech/javascript)
-- [See all CSS conferences](https://confs.tech/css)
-- [See all PHP conferences](https://confs.tech/php)
-- [See all Design / UX conferences](https://confs.tech/ux)
-- [See all Ruby conferences](https://confs.tech/ruby)
-- [See all iOS conferences](https://confs.tech/ios)
-- [See all Technical communication conferences](https://confs.tech/tech-comm)
-- [See all Data conferences](https://confs.tech/data)
-- [See all Dev Ops conferences](https://confs.tech/devops)
-- [See all Android conferences](https://confs.tech/android)
-- [See all Python conferences](https://confs.tech/python)
-- [See all Golang conferences](https://confs.tech/golang)
-- [See all Groovy conferences](https://confs.tech/groovy)
-- [See all Rust conferences](https://confs.tech/rust)
-- [See all Elixir conferences](https://confs.tech/elixir)
-- [See all Security conferences](https://confs.tech/security)
-- [See all Scala conferences](https://confs.tech/scala)
-- [See all Typescript conferences](https://confs.tech/typescript)
 - [See all .NET conferences](https://confs.tech/dotnet)
+- [See all Android conferences](https://confs.tech/android)
+- [See all Closure conferences](https://confs.tech/closure)
+- [See all CSS conferences](https://confs.tech/css)
+- [See all Data conferences](https://confs.tech/data)
+- [See all Design / UX conferences](https://confs.tech/ux)
+- [See all Dev Ops conferences](https://confs.tech/devops)
+- [See all Elixir conferences](https://confs.tech/elixir)
+- [See all elm conferences](https://confs.tech/elm)
+- [See all Golang conferences](https://confs.tech/golang)
 - [See all GraphQL conferences](https://confs.tech/graphql)
+- [See all Groovy conferences](https://confs.tech/groovy)
+- [See all iOS conferences](https://confs.tech/ios)
+- [See all JavaScript conferences](https://confs.tech/javascript)
+- [See all PHP conferences](https://confs.tech/php)
+- [See all Python conferences](https://confs.tech/python)
+- [See all Ruby conferences](https://confs.tech/ruby)
+- [See all Rust conferences](https://confs.tech/rust)
+- [See all Scala conferences](https://confs.tech/scala)
+- [See all Security conferences](https://confs.tech/security)
+- [See all Technical communication conferences](https://confs.tech/tech-comm)
+- [See all TypeScript conferences](https://confs.tech/typescript)
 - [See general conferences](https://confs.tech/general)
-
