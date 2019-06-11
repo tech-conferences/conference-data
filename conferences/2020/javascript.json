@@ -1,5 +1,16 @@
 [
   {
+    "name": "HalfStack",
+    "url": "https://halfstackconf.com/phoenix/",
+    "startDate": "2020-01-17",
+    "endDate": "2020-01-17",
+    "city": "Phoenix",
+    "country": "U.S.A.",
+    "twitter": "@halfstackconf",
+    "cfpUrl": "https://halfstackconf.com/phoenix/",
+    "cfpEndDate": "2019-09-15"
+  },
+  {
     "name": "nodeAtlanta",
     "url": "https://node-atl.org",
     "startDate": "2020-02-17",
@@ -18,6 +29,17 @@
     "twitter": "@ngAtlanta"
   },
   {
+    "name": "JS Kongress Munich",
+    "url": "https://js-kongress.com",
+    "startDate": "2020-04-15",
+    "endDate": "2020-04-16",
+    "city": "Munich",
+    "country": "Germany",
+    "twitter": "@jskongress",
+    "cfpUrl": "https://sessionize.com/js-kongress-2020",
+    "cfpEndDate": "2019-11-15"
+  },
+  {
     "name": "JS Kongress",
     "url": "https://js-kongress.com",
     "startDate": "2020-05-04",
@@ -25,16 +47,5 @@
     "city": "Munich",
     "country": "Germany",
     "twitter": "@jskongress"
-  },
-  {
-    "name": "HalfStack",
-    "url": "https://halfstackconf.com/phoenix/",
-    "startDate": "2020-01-17",
-    "endDate": "2020-01-17",
-    "city": "Phoenix",
-    "country": "U.S.A.",
-    "twitter": "@halfstackconf",
-    "cfpUrl": "https://halfstackconf.com/phoenix/",
-    "cfpEndDate": "2019-09-15"
   }
 ]
