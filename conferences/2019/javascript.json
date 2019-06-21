@@ -736,17 +736,6 @@
     "cfpUrl": "https://contribute.jsconf.asia/"
   },
   {
-    "name": "Chicago JSCamp",
-    "url": "https://www.chicagojscamp.org",
-    "startDate": "2019-09-14",
-    "endDate": "2019-09-14",
-    "city": "Chicago",
-    "country": "U.S.A.",
-    "twitter": "@chicago_js",
-    "cfpUrl": "https://www.papercall.io/chicagojs-conf-2019",
-    "cfpEndDate": "2019-07-01"
-  },
-  {
     "name": "Berlin Buzzwords",
     "url": "https://berlinbuzzwords.de",
     "startDate": "2019-06-16",
@@ -1177,6 +1166,17 @@
     "cfpUrl": "https://docs.google.com/forms/d/15SThD38259luba8YHUiWl5kKKH4xponZf9cl_GqgYbU/viewform"
   },
   {
+    "name": "Chicago JSCamp",
+    "url": "https://www.chicagojscamp.org",
+    "startDate": "2019-09-14",
+    "endDate": "2019-09-14",
+    "city": "Chicago",
+    "country": "U.S.A.",
+    "twitter": "@chicago_js",
+    "cfpUrl": "https://www.papercall.io/chicagojs-conf-2019",
+    "cfpEndDate": "2019-07-01"
+  },
+  {
     "name": "AngularConnect",
     "url": "https://angularconnect.com",
     "startDate": "2019-09-19",
@@ -1533,6 +1533,17 @@
     "country": "Australia",
     "twitter": "@webdirections",
     "cfpUrl": "https://www.webdirections.org/speaking",
+    "cfpEndDate": "2019-06-30"
+  },
+  {
+    "name": "CascadiaJS",
+    "url": "https://2019.cascadiajs.com",
+    "startDate": "2019-11-07",
+    "endDate": "2019-11-08",
+    "city": "Seattle",
+    "country": "U.S.A.",
+    "twitter": "@cascadiajs",
+    "cfpUrl": "https://2019.cascadiajs.com/cfp",
     "cfpEndDate": "2019-06-30"
   },
   {
