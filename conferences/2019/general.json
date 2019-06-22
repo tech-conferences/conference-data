@@ -2177,5 +2177,16 @@
     "city": "Melbourne",
     "country": "Australia",
     "twitter": "@yow_conf"
+  },
+  {
+    "name": "SIGGRAPH",
+    "url": "https://s2019.siggraph.org/",
+    "startDate": "2019-07-28",
+    "endDate": "2019-08-01",
+    "city": "Los Angeles",
+    "country": "U.S.A.",
+    "twitter": "@siggraph",
+    "cfpUrl": "https://easychair.org/cfp/Siggraph-2019",
+    "cfpEndDate": "2019-06-17"
   }
 ]
