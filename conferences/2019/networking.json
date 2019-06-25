@@ -290,6 +290,23 @@
     "cfpEndDate": "2019-06-21"
   },
   {
+    "name": "IT Arena",
+    "url": "https://itarena.ua",
+    "startDate": "2019-09-27",
+    "endDate": "2019-09-29",
+    "city": "Lviv",
+    "country": "Ukraine",
+    "twitter": "@LvivITArena"
+  },
+  {
+    "name": "IEEE International Conference on Image Processing (ICIP)",
+    "url": "http://2019.ieeeicip.org/index.php",
+    "startDate": "2019-09-22",
+    "endDate": "2019-09-25",
+    "city": "Taipei",
+    "country": "Taiwan "
+  },
+  {
     "name": "DevFest Toulouse",
     "url": "https://devfesttoulouse.fr",
     "startDate": "2019-10-03",
@@ -308,6 +325,17 @@
     "twitter": "@@HackConf_",
     "cfpUrl": "http://bit.ly/HackConf2019_CFS",
     "cfpEndDate": "2019-04-30"
+  },
+  {
+    "name": "Startup Istanbul",
+    "url": "http://Startupistanbul.com",
+    "startDate": "2019-10-18",
+    "endDate": "2019-10-21",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "twitter": "@startupistanbul",
+    "cfpUrl": "http://startupistanbul.com",
+    "cfpEndDate": "2019-09-30"
   },
   {
     "name": "WE19",

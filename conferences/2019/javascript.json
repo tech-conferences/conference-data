@@ -969,6 +969,15 @@
     "twitter": "@DDDPerth"
   },
   {
+    "name": "VinnytsiaJS",
+    "url": "http://vinnytsiajs.org",
+    "startDate": "2019-08-03",
+    "endDate": "2019-08-04",
+    "city": "Vinnytsia",
+    "country": "Ukraine",
+    "twitter": "@VinnytsiaJS"
+  },
+  {
     "name": "The Rolling Scopes Conference",
     "url": "https://rsconf.by",
     "startDate": "2019-08-09",
@@ -1138,6 +1147,17 @@
     "cfpEndDate": "2019-04-06"
   },
   {
+    "name": "GrillJS",
+    "url": "https://grilljs.com",
+    "startDate": "2019-09-06",
+    "endDate": "2019-09-07",
+    "city": "Wrocław",
+    "country": "Poland",
+    "twitter": "@grill_js",
+    "cfpUrl": "https://grilljs.com/speakers",
+    "cfpEndDate": "2019-07-06"
+  },
+  {
     "name": "Smashing Conference",
     "url": "https://smashingconf.com/freiburg-2019/",
     "startDate": "2019-09-09",
@@ -1155,6 +1175,17 @@
     "country": "U.S.A.",
     "twitter": "@ReactNewYork",
     "cfpUrl": "https://docs.google.com/forms/d/15SThD38259luba8YHUiWl5kKKH4xponZf9cl_GqgYbU/viewform"
+  },
+  {
+    "name": "Chicago JSCamp",
+    "url": "https://www.chicagojscamp.org",
+    "startDate": "2019-09-14",
+    "endDate": "2019-09-14",
+    "city": "Chicago",
+    "country": "U.S.A.",
+    "twitter": "@chicago_js",
+    "cfpUrl": "https://www.papercall.io/chicagojs-conf-2019",
+    "cfpEndDate": "2019-07-01"
   },
   {
     "name": "AngularConnect",
@@ -1513,6 +1544,17 @@
     "country": "Australia",
     "twitter": "@webdirections",
     "cfpUrl": "https://www.webdirections.org/speaking",
+    "cfpEndDate": "2019-06-30"
+  },
+  {
+    "name": "CascadiaJS",
+    "url": "https://2019.cascadiajs.com",
+    "startDate": "2019-11-07",
+    "endDate": "2019-11-08",
+    "city": "Seattle",
+    "country": "U.S.A.",
+    "twitter": "@cascadiajs",
+    "cfpUrl": "https://2019.cascadiajs.com/cfp",
     "cfpEndDate": "2019-06-30"
   },
   {
