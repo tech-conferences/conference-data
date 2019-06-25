@@ -1377,6 +1377,17 @@
     "cfpEndDate": "2019-01-31"
   },
   {
+    "name": "SIGGRAPH",
+    "url": "https://s2019.siggraph.org/",
+    "startDate": "2019-07-28",
+    "endDate": "2019-08-01",
+    "city": "Los Angeles",
+    "country": "U.S.A.",
+    "twitter": "@siggraph",
+    "cfpUrl": "https://easychair.org/cfp/Siggraph-2019",
+    "cfpEndDate": "2019-06-17"
+  },
+  {
     "name": "Mid-Atlantic Developer Conference",
     "url": "https://www.middevcon.com",
     "startDate": "2019-08-01",
@@ -1680,6 +1691,17 @@
     "twitter": "@weekend_web",
     "cfpUrl": "https://2019.wwktm.co/call-for-speakers",
     "cfpEndDate": "2019-04-21"
+  },
+  {
+    "name": "Developer Developer Developer East Anglia",
+    "url": "https://www.dddeastanglia.com",
+    "startDate": "2019-09-21",
+    "endDate": "2019-09-21",
+    "city": "Cambridge",
+    "country": "U.K.",
+    "twitter": "@dddeastanglia",
+    "cfpUrl": "https://www.dddeastanglia.com/Session/Create",
+    "cfpEndDate": "2019-07-20"
   },
   {
     "name": "Codemotion Madrid",
@@ -2177,16 +2199,5 @@
     "city": "Melbourne",
     "country": "Australia",
     "twitter": "@yow_conf"
-  },
-  {
-    "name": "SIGGRAPH",
-    "url": "https://s2019.siggraph.org/",
-    "startDate": "2019-07-28",
-    "endDate": "2019-08-01",
-    "city": "Los Angeles",
-    "country": "U.S.A.",
-    "twitter": "@siggraph",
-    "cfpUrl": "https://easychair.org/cfp/Siggraph-2019",
-    "cfpEndDate": "2019-06-17"
   }
 ]
