@@ -524,17 +524,6 @@
     "cfpEndDate": "2019-04-26"
   },
   {
-    "name": "DevOpsDays Dallas",
-    "url": "https://devopsdays.org/events/2019-dallas/welcome",
-    "startDate": "2019-08-20",
-    "endDate": "2019-08-21",
-    "city": "Dallas, TX",
-    "country": "U.S.A.",
-    "twitter": "@devopsdaysdfw",
-    "cfpUrl": "https://www.papercall.io/dod-dfw-2019",
-    "cfpEndDate": "2019-07-09"
-  },
-  {
     "name": "DevOpsDays Goiânia",
     "url": "https://devopsdays.org/events/2019-goiania/welcome",
     "startDate": "2019-08-03",
@@ -544,6 +533,17 @@
     "twitter": "@devopsdaysgyn",
     "cfpUrl": "https://www.papercall.io/devopsdaysgyn2019",
     "cfpEndDate": "2019-06-24"
+  },
+  {
+    "name": "DevOpsDays Dallas",
+    "url": "https://devopsdays.org/events/2019-dallas/welcome",
+    "startDate": "2019-08-20",
+    "endDate": "2019-08-21",
+    "city": "Dallas, TX",
+    "country": "U.S.A.",
+    "twitter": "@devopsdaysdfw",
+    "cfpUrl": "https://www.papercall.io/dod-dfw-2019",
+    "cfpEndDate": "2019-07-09"
   },
   {
     "name": "DevOpsDays Santa Maria",
@@ -598,6 +598,16 @@
     "twitter": "@devopsdayspdx",
     "cfpUrl": "https://sessionize.com/devopsdays-portland-2019",
     "cfpEndDate": "2019-04-16"
+  },
+  {
+    "name": "GrillOPS",
+    "url": "https://grillops.io",
+    "startDate": "2019-09-13",
+    "endDate": "2019-09-14",
+    "city": "Wrocław",
+    "country": "Poland",
+    "cfpUrl": "https://grillops.io/speakers",
+    "cfpEndDate": "2019-07-13"
   },
   {
     "name": "DevOpsDays Stockholm",
@@ -708,17 +718,6 @@
     "twitter": "@SREcon"
   },
   {
-    "name": "DevOpsDays Salvador",
-    "url": "https://devopsdays.org/events/2019-salvador/welcome",
-    "startDate": "2019-10-05",
-    "endDate": "2019-10-05",
-    "city": "Salvador",
-    "country": "Brazil",
-    "twitter": "@devopsdaysssa",
-    "cfpUrl": "https://www.papercall.io/devopsdaysssa2019",
-    "cfpEndDate": "2019-07-10"
-  },
-  {
     "name": "DevOpsDays Hartford",
     "url": "https://devopsdays.org/events/2019-hartford/welcome",
     "startDate": "2019-10-02",
@@ -728,6 +727,17 @@
     "twitter": "@devopsdayshfd",
     "cfpUrl": "https://www.papercall.io/devopsdays-hartford-2019",
     "cfpEndDate": "2019-08-05"
+  },
+  {
+    "name": "DevOpsDays Salvador",
+    "url": "https://devopsdays.org/events/2019-salvador/welcome",
+    "startDate": "2019-10-05",
+    "endDate": "2019-10-05",
+    "city": "Salvador",
+    "country": "Brazil",
+    "twitter": "@devopsdaysssa",
+    "cfpUrl": "https://www.papercall.io/devopsdaysssa2019",
+    "cfpEndDate": "2019-07-10"
   },
   {
     "name": "DevOps Summit",
@@ -751,15 +761,15 @@
     "cfpEndDate": "2019-05-01"
   },
   {
-    "name": "DevOpsDays Auckland",
-    "url": "https://devopsdays.org/events/2019-auckland/welcome",
-    "startDate": "2019-10-21",
-    "endDate": "2019-10-22",
-    "city": "Auckland",
-    "country": "New Zealand",
-    "twitter": "@devopsdaysnz",
-    "cfpUrl": "https://www.papercall.io/devopsdays-auckland-2019",
-    "cfpEndDate": "2019-07-19"
+    "name": "DevOpsDays Sydney",
+    "url": "https://devopsdays.org/events/2019-sydney/welcome",
+    "startDate": "2019-10-10",
+    "endDate": "2019-10-11",
+    "city": "Sydney, NSW",
+    "country": "Australia",
+    "twitter": "@devopsdownunder",
+    "cfpUrl": "https://sessionize.com/dodsyd2019",
+    "cfpEndDate": "2019-08-05"
   },
   {
     "name": "DevOpsDays Taipei",
@@ -772,15 +782,15 @@
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfWpGX1Bu17gyfaxtqllFKPmwgzzenC6vQ_BwQTXuNGVYeclQ/viewform"
   },
   {
-    "name": "DevOpsDays Sydney",
-    "url": "https://devopsdays.org/events/2019-sydney/welcome",
-    "startDate": "2019-10-10",
-    "endDate": "2019-10-11",
-    "city": "Sydney, NSW",
-    "country": "Australia",
-    "twitter": "@devopsdownunder",
-    "cfpUrl": "https://sessionize.com/dodsyd2019",
-    "cfpEndDate": "2019-08-05"
+    "name": "DevOpsDays Auckland",
+    "url": "https://devopsdays.org/events/2019-auckland/welcome",
+    "startDate": "2019-10-21",
+    "endDate": "2019-10-22",
+    "city": "Auckland",
+    "country": "New Zealand",
+    "twitter": "@devopsdaysnz",
+    "cfpUrl": "https://www.papercall.io/devopsdays-auckland-2019",
+    "cfpEndDate": "2019-07-19"
   },
   {
     "name": "TECHSPO Dubai",
