@@ -341,6 +341,15 @@
     "twitter": "@aiexpoafrica"
   },
   {
+    "name": "O'Reilly AI Conference",
+    "url": "https://conferences.oreilly.com/artificial-intelligence/ai-ca?utm_medium=content+synd&utm_source=general+ad&utm_campaign=aica19&utm_content=org+confstech",
+    "startDate": "2019-09-09",
+    "endDate": "2019-09-12",
+    "city": "San Jose",
+    "country": "U.S.A.",
+    "twitter": "@OReillyAI"
+  },
+  {
     "name": "PostgresOpen",
     "url": "http://2019.postgresopen.org",
     "startDate": "2019-09-11",
@@ -350,15 +359,6 @@
     "twitter": "@PostgresOpen",
     "cfpUrl": "http://2019.postgresopen.org/callforpapers",
     "cfpEndDate": "2019-06-30"
-  },
-  {
-    "name": "O'Reilly AI Conference",
-    "url": "https://conferences.oreilly.com/artificial-intelligence/ai-ca?utm_medium=content+synd&utm_source=general+ad&utm_campaign=aica19&utm_content=org+confstech",
-    "startDate": "2019-09-09",
-    "endDate": "2019-09-12",
-    "city": "San Jose",
-    "country": "U.S.A.",
-    "twitter": "@OReillyAI"
   },
   {
     "name": "DataWorkshop Club Conf",
@@ -432,5 +432,16 @@
     "city": "Berlin",
     "country": "Germany",
     "twitter": "@DataNativesConf"
+  },
+  {
+    "name": "ML Conference",
+    "url": "https://mlconference.ai",
+    "startDate": "2019-12-09",
+    "endDate": "2019-12-11",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@mlconference",
+    "cfpUrl": "https://callforpapers.sandsmedia.com",
+    "cfpEndDate": "2019-06-16"
   }
 ]
