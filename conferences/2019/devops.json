@@ -921,5 +921,16 @@
     "city": "Munich",
     "country": "Germany",
     "twitter": "@devops_con"
+  },
+  {
+    "name": "DevOpsDays Tel Aviv",
+    "url": "https://devopsdaystlv.com",
+    "startDate": "2019-12-18",
+    "endDate": "2019-12-19",
+    "city": "Tel Aviv",
+    "country": "Israel",
+    "twitter": "@devopsdaystlv",
+    "cfpUrl": "https://devopsdaystlv.com/submit",
+    "cfpEndDate": "2019-08-31"
   }
 ]
