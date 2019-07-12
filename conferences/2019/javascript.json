@@ -299,6 +299,15 @@
     "cfpUrl": "https://bit.ly/2Pv0nBu"
   },
   {
+    "name": "JAMstack_conf_nyc",
+    "url": "https://jamstackconf.com/nyc/",
+    "startDate": "2019-04-09",
+    "endDate": "2019-04-10",
+    "city": "New York",
+    "country": "U.S.A.",
+    "twitter": "@jamstackconf"
+  },
+  {
     "name": "Sencha Community Days",
     "url": "https://sencha-community-days.de/",
     "startDate": "2019-04-10",
@@ -845,7 +854,7 @@
     "cfpEndDate": "2019-03-17"
   },
   {
-    "name": "JAM Stack Conf London",
+    "name": "JAMstack_conf_london",
     "url": "https://jamstackconf.com/london",
     "startDate": "2019-07-09",
     "endDate": "2019-07-10",
@@ -1475,6 +1484,15 @@
     "twitter": "@connect_js",
     "cfpUrl": "http://connect.tech/cfp",
     "cfpEndDate": "2019-05-01"
+  },
+  {
+    "name": "JAMstack_conf_sf",
+    "url": "https://jamstackconf.com/sf/",
+    "startDate": "2019-10-16",
+    "endDate": "2019-10-18",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "twitter": "@jamstackconf"
   },
   {
     "name": "Ember{{Fest}}",
