@@ -1377,15 +1377,6 @@
     "cfpEndDate": "2019-01-31"
   },
   {
-    "name": "ApacheCon Europe",
-    "url": "https://aceu19.apachecon.com",
-    "startDate": "2019-10-22",
-    "endDate": "2019-10-24",
-    "city": "Berlin",
-    "country": "Germany",
-    "twitter": "@ApacheCon"
-  },
-  {
     "name": "SIGGRAPH",
     "url": "https://s2019.siggraph.org/",
     "startDate": "2019-07-28",
@@ -1993,6 +1984,15 @@
     "cfpEndDate": "2019-03-08"
   },
   {
+    "name": "KanDDDinsky",
+    "url": "https://kandddinsky.de",
+    "startDate": "2019-10-16",
+    "endDate": "2019-10-18",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@kandddinsky"
+  },
+  {
     "name": "Lambda World Cádiz",
     "url": "http://cadiz.lambda.world",
     "startDate": "2019-10-17",
@@ -2021,6 +2021,15 @@
     "twitter": "@vxdmicroservice",
     "cfpUrl": "https://vxdms2019.cfp.dev/#/login",
     "cfpEndDate": "2019-07-05"
+  },
+  {
+    "name": "ApacheCon Europe",
+    "url": "https://aceu19.apachecon.com",
+    "startDate": "2019-10-22",
+    "endDate": "2019-10-24",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@ApacheCon"
   },
   {
     "name": "GOTO",
