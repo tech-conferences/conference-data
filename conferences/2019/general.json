@@ -1377,15 +1377,6 @@
     "cfpEndDate": "2019-01-31"
   },
   {
-    "name": "ApacheCon Europe",
-    "url": "https://aceu19.apachecon.com",
-    "startDate": "2019-10-22",
-    "endDate": "2019-10-24",
-    "city": "Berlin",
-    "country": "Germany",
-    "twitter": "@ApacheCon"
-  },
-  {
     "name": "SIGGRAPH",
     "url": "https://s2019.siggraph.org/",
     "startDate": "2019-07-28",
@@ -1804,6 +1795,15 @@
     "cfpUrl": "https://vslive.com/pages/call-for-papers.aspx"
   },
   {
+    "name": "Techorama",
+    "url": "https://techorama.nl",
+    "startDate": "2019-09-30",
+    "endDate": "2019-10-02",
+    "city": "Ede",
+    "country": "Netherlands",
+    "twitter": "@TechoramaNL"
+  },
+  {
     "name": "Grace Hopper Celebration",
     "url": "https://ghc.anitab.org",
     "startDate": "2019-10-02",
@@ -1940,6 +1940,17 @@
     "cfpEndDate": "2019-05-31"
   },
   {
+    "name": "Women Who Code Front End Summit",
+    "url": "http://frontend.womenwhocode.dev",
+    "startDate": "2019-10-12",
+    "endDate": "2019-10-12",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@WWCodeFrontEnd1",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfgSH98xsAB3c1wt3NiSIldxWKylryllGBzGv6AZox3mXHE-w/viewform",
+    "cfpEndDate": "2019-09-01"
+  },
+  {
     "name": "All Things Open",
     "url": "https://allthingsopen.org",
     "startDate": "2019-10-13",
@@ -1993,6 +2004,15 @@
     "cfpEndDate": "2019-03-08"
   },
   {
+    "name": "KanDDDinsky",
+    "url": "https://kandddinsky.de",
+    "startDate": "2019-10-16",
+    "endDate": "2019-10-18",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@kandddinsky"
+  },
+  {
     "name": "Lambda World Cádiz",
     "url": "http://cadiz.lambda.world",
     "startDate": "2019-10-17",
@@ -2021,6 +2041,15 @@
     "twitter": "@vxdmicroservice",
     "cfpUrl": "https://vxdms2019.cfp.dev/#/login",
     "cfpEndDate": "2019-07-05"
+  },
+  {
+    "name": "ApacheCon Europe",
+    "url": "https://aceu19.apachecon.com",
+    "startDate": "2019-10-22",
+    "endDate": "2019-10-24",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@ApacheCon"
   },
   {
     "name": "GOTO",
@@ -2250,6 +2279,16 @@
     "cfpEndDate": "2019-06-10"
   },
   {
+    "name": "No Code Conference",
+    "url": "https://webflow.com/nocodeconf",
+    "startDate": "2019-11-12",
+    "endDate": "2019-11-13",
+    "city": "San Francisco",
+    "country": "U.S.A.",
+    "cfpUrl": "https://webflow.com/nocodeconf/cfp",
+    "cfpEndDate": "2019-08-25"
+  },
+  {
     "name": "Build Stuff",
     "url": "https://www.buildstuff.lt",
     "startDate": "2019-11-13",
@@ -2316,6 +2355,17 @@
     "city": "Sydney",
     "country": "Australia",
     "twitter": "@yow_conf"
+  },
+  {
+    "name": "Women Who Code Blockchain Summit",
+    "url": "http://blockchain.womenwhocode.dev",
+    "startDate": "2019-12-05",
+    "endDate": "2019-12-05",
+    "city": "New York",
+    "country": "U.S.A.",
+    "twitter": "@WWCodeBlock",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfgSH98xsAB3c1wt3NiSIldxWKylryllGBzGv6AZox3mXHE-w/viewform",
+    "cfpEndDate": "2019-11-01"
   },
   {
     "name": "DevTernity",

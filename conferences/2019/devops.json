@@ -618,6 +618,15 @@
     "cfpEndDate": "2019-04-16"
   },
   {
+    "name": "Helm Summit",
+    "url": "https://events.linuxfoundation.org/events/helm-summit-2019",
+    "startDate": "2019-09-11",
+    "endDate": "2019-09-12",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@HelmPack"
+  },
+  {
     "name": "GrillOPS",
     "url": "https://grillops.io",
     "startDate": "2019-09-13",
@@ -626,6 +635,15 @@
     "country": "Poland",
     "cfpUrl": "https://grillops.io/speakers",
     "cfpEndDate": "2019-07-13"
+  },
+  {
+    "name": "Kubernetes Community Days",
+    "url": "https://www.cloudnative.amsterdam",
+    "startDate": "2019-09-13",
+    "endDate": "2019-09-13",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@cloudnativeams"
   },
   {
     "name": "GitLab Commit Conferences",
@@ -810,6 +828,16 @@
     "twitter": "@devopsdownunder",
     "cfpUrl": "https://sessionize.com/dodsyd2019",
     "cfpEndDate": "2019-08-05"
+  },
+  {
+    "name": "DevOps Space",
+    "url": "https://devops-space.pl",
+    "startDate": "2019-10-15",
+    "endDate": "2019-10-16",
+    "city": "Gdansk",
+    "country": "Poland",
+    "cfpUrl": "https://devops-space.pl",
+    "cfpEndDate": "2019-10-06"
   },
   {
     "name": "DevOpsDays Taipei",
