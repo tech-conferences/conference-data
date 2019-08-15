@@ -207,17 +207,6 @@
     "cfpEndDate": "2019-07-01"
   },
   {
-    "name": "driving.digital Conference",
-    "url": "https://drivingdigital.org",
-    "startDate": "2019-10-14",
-    "endDate": "2019-10-15",
-    "city": "Nitra",
-    "country": "Slovakia",
-    "twitter": "@QuBitCon",
-    "cfpUrl": "https://drivingdigital.org/#speakers",
-    "cfpEndDate": "2019-07-10"
-  },
-  {
     "name": "Cyber Security Summit",
     "url": "https://cybersummitusa.com/losangeles19/",
     "startDate": "2019-10-05",
@@ -256,6 +245,26 @@
     "twitter": "@Arm",
     "cfpUrl": "https://www.armtechcon.com/call-for-papers",
     "cfpEndDate": "2019-04-29"
+  },
+  {
+    "name": "driving.digital Conference",
+    "url": "https://drivingdigital.org",
+    "startDate": "2019-10-14",
+    "endDate": "2019-10-15",
+    "city": "Nitra",
+    "country": "Slovakia",
+    "twitter": "@QuBitCon",
+    "cfpUrl": "https://drivingdigital.org/#speakers",
+    "cfpEndDate": "2019-07-10"
+  },
+  {
+    "name": "IT Security Summit  - Das große Trainingsevent für IT Security",
+    "url": "https://it-security-summit.de",
+    "startDate": "2019-11-11",
+    "endDate": "2019-11-13",
+    "city": "Berlin",
+    "country": "Deutschland",
+    "twitter": "@ITSecSummit"
   },
   {
     "name": "QuBit Conference Sofia",
