@@ -495,5 +495,16 @@
     "twitter": "@mlconference",
     "cfpUrl": "https://callforpapers.sandsmedia.com",
     "cfpEndDate": "2019-06-16"
+  },
+  {
+    "name": "PyData Warsaw Conference",
+    "url": "https://pydata.org/warsaw2019",
+    "startDate": "2019-12-12",
+    "endDate": "2019-12-13",
+    "city": "Warsaw",
+    "country": "Poland",
+    "twitter": "@pydatawarsaw",
+    "cfpUrl": "https://pydata.org/warsaw2019//cfp",
+    "cfpEndDate": "2019-10-13"
   }
 ]
