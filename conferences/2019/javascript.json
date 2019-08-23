@@ -1796,13 +1796,15 @@
     "affiliateUrl": "https://2019.dotjs.io/tickets?promocode=CONFSTECH"
   },
   {
-    "name": "React Day Berlin",
+    "name": "React Day Berlin 2019",
     "url": "https://reactday.berlin",
-    "startDate": "2019-12-06",
+    "startDate": "2019-12-04",
     "endDate": "2019-12-06",
     "city": "Berlin",
     "country": "Germany",
-    "twitter": "@reactdayberlin"
+    "twitter": "@reactdayberlin",
+    "cfpUrl": "https://forms.gle/AgMTgshXsNuNACCN7",
+    "cfpEndDate": "2019-08-31"
   },
   {
     "name": "NodeJSInteractive",
