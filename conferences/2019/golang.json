@@ -125,12 +125,30 @@
     "country": "U.K."
   },
   {
+    "name": "GopherCon",
+    "url": "http://2019.gopherconbr.org",
+    "startDate": "2019-09-27",
+    "endDate": "2019-09-28",
+    "city": "Florianópolis, SC",
+    "country": "Brasil ",
+    "twitter": "@gopherconbrasil"
+  },
+  {
     "name": "GoLab",
     "url": "https://www.golab.io",
     "startDate": "2019-10-20",
     "endDate": "2019-10-22",
     "city": "Florence",
     "country": "Italy"
+  },
+  {
+    "name": "GopherCon Au",
+    "url": "http://gophercon.com.au",
+    "startDate": "2019-10-30",
+    "endDate": "2019-11-01",
+    "city": "Sydney",
+    "country": "Australia",
+    "twitter": "@gopherconaunz"
   },
   {
     "name": "Golang Piter",

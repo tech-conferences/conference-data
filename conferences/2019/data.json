@@ -310,6 +310,15 @@
     "twitter": "@dataconla"
   },
   {
+    "name": "Very Large Data Bases",
+    "url": "http://vldb.org/2019",
+    "startDate": "2019-08-26",
+    "endDate": "2019-08-30",
+    "city": "Los Angeles, CA",
+    "country": "U.S.A.",
+    "cfpUrl": "http://vldb.org/2019/?call-for-research-track"
+  },
+  {
     "name": "DataOps Summit",
     "url": "https://www.dataopssummit-sf.com",
     "startDate": "2019-09-03",
@@ -408,6 +417,15 @@
     "twitter": "@PostgresConfZA"
   },
   {
+    "name": "Minds & Tech",
+    "url": "https://mindsandtech.com",
+    "startDate": "2019-10-09",
+    "endDate": "2019-10-09",
+    "city": "Toulouse",
+    "country": "France",
+    "twitter": "@MindsandTech19"
+  },
+  {
     "name": "IEEE 29th International Workshop on Machine Learning for Signal Processing (MLSP)",
     "url": "https://conferences.ieee.org/conferences_events/conferences/conferencedetails/46386",
     "startDate": "2019-10-13",
@@ -495,5 +513,16 @@
     "twitter": "@mlconference",
     "cfpUrl": "https://callforpapers.sandsmedia.com",
     "cfpEndDate": "2019-06-16"
+  },
+  {
+    "name": "PyData",
+    "url": "https://pydata.org/warsaw2019",
+    "startDate": "2019-12-12",
+    "endDate": "2019-12-13",
+    "city": "Warsaw",
+    "country": "Poland",
+    "twitter": "@pydatawarsaw",
+    "cfpUrl": "https://pydata.org/warsaw2019//cfp",
+    "cfpEndDate": "2019-10-13"
   }
 ]

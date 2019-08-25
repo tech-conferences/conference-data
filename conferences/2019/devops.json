@@ -850,6 +850,14 @@
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfWpGX1Bu17gyfaxtqllFKPmwgzzenC6vQ_BwQTXuNGVYeclQ/viewform"
   },
   {
+    "name": "DevOps congress",
+    "url": "https://evenea.pl/event/devopscongress",
+    "startDate": "2019-10-19",
+    "endDate": "2019-10-19",
+    "city": "Wroclaw",
+    "country": "Poland"
+  },
+  {
     "name": "DevOpsDays Auckland",
     "url": "https://devopsdays.org/events/2019-auckland/welcome",
     "startDate": "2019-10-21",
@@ -911,6 +919,15 @@
     "twitter": "@devopsdaysghent",
     "cfpUrl": "https://cfp.devopsdays.gent/2019/cfp",
     "cfpEndDate": "2019-07-14"
+  },
+  {
+    "name": "All Day DevOps",
+    "url": "https://www.alldaydevops.com",
+    "startDate": "2019-11-06",
+    "endDate": "2019-11-07",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@AllDayDevOps"
   },
   {
     "name": "DevOps D-Day",
