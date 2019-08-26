@@ -1614,6 +1614,15 @@
     "cfpEndDate": "2019-07-01"
   },
   {
+    "name": "Papers We Love Conf",
+    "url": "https://pwlconf.org",
+    "startDate": "2019-09-12",
+    "endDate": "2019-09-12",
+    "city": "St. Louis",
+    "country": "U.S.A.",
+    "twitter": "@papers_we_love"
+  },
+  {
     "name": "Strange Loop",
     "url": "https://www.thestrangeloop.com",
     "startDate": "2019-09-13",
@@ -2152,6 +2161,17 @@
     "twitter": "@devoxx"
   },
   {
+    "name": "Ohio LinuxFest",
+    "url": "https://ohiolinux.org/registration",
+    "startDate": "2019-11-01",
+    "endDate": "2019-11-02",
+    "city": "Columbus, OH",
+    "country": "U.S.A.",
+    "twitter": "@ohiolinux",
+    "cfpUrl": "https://ohiolinux.org/call-for-presentations",
+    "cfpEndDate": "2019-08-17"
+  },
+  {
     "name": "Agile Testing Days",
     "url": "https://agiletestingdays.com",
     "startDate": "2019-11-03",
@@ -2358,6 +2378,17 @@
     "city": "Hong Kong",
     "country": "China",
     "twitter": "@webconf_asia"
+  },
+  {
+    "name": "International Digital Public Health Conference",
+    "url": "http://www.acm-digitalhealth.org",
+    "startDate": "2019-11-20",
+    "endDate": "2019-11-23",
+    "city": "Marseille",
+    "country": "France",
+    "twitter": "@UCL_dPHE",
+    "cfpUrl": "https://easychair.org/conferences/?conf=dph2019",
+    "cfpEndDate": "2019-06-25"
   },
   {
     "name": "Codeurs En Seine",

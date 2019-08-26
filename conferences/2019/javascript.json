@@ -1272,6 +1272,15 @@
     "cfpEndDate": "2019-07-01"
   },
   {
+    "name": "JSCamp Romania",
+    "url": "http://www.jscamp.ro",
+    "startDate": "2019-09-24",
+    "endDate": "2019-09-24",
+    "city": "Bucharest",
+    "country": "Romania",
+    "twitter": "@jscampro"
+  },
+  {
     "name": "React India",
     "url": "https://www.reactindia.io/",
     "startDate": "2019-09-26",
@@ -1802,7 +1811,9 @@
     "endDate": "2019-12-06",
     "city": "Berlin",
     "country": "Germany",
-    "twitter": "@reactdayberlin"
+    "twitter": "@reactdayberlin",
+    "cfpUrl": "https://forms.gle/AgMTgshXsNuNACCN7",
+    "cfpEndDate": "2019-08-31"
   },
   {
     "name": "NodeJSInteractive",
