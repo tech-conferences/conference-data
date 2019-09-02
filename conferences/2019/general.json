@@ -2238,6 +2238,15 @@
     "twitter": "@Sitecore"
   },
   {
+    "name": "Web Summit",
+    "url": "https://websummit.com",
+    "startDate": "2019-11-04",
+    "endDate": "2019-11-07",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "twitter": "@websummit"
+  },
+  {
     "name": "DeveloperWeek Austin",
     "url": "https://www.developerweek.com/Austin",
     "startDate": "2019-11-05",
@@ -2265,14 +2274,6 @@
     "twitter": "@oredev",
     "cfpUrl": "http://oredev.org/cfp/call-for-papers",
     "cfpEndDate": "2019-03-31"
-  },
-  {
-    "name": "DevFest Lisbon",
-    "url": "https://devfest.gdglisbon.xyz",
-    "startDate": "2019-12-06",
-    "endDate": "2019-12-07",
-    "city": "Lisbon",
-    "country": "Portugal"
   },
   {
     "name": "Women in Tech Summit (Southeast)",
@@ -2384,6 +2385,17 @@
     "cfpEndDate": "2019-05-05"
   },
   {
+    "name": "BDX I/O",
+    "url": "https://www.bdx.io/#/home",
+    "startDate": "2019-11-15",
+    "endDate": "2019-11-15",
+    "city": "Bordeaux",
+    "country": "France",
+    "twitter": "@bdxio",
+    "cfpUrl": "https://conference-hall.io/public/event/XGTzWawB3ZwLR7u462O8",
+    "cfpEndDate": "2019-07-02"
+  },
+  {
     "name": "Visual Studio Live!",
     "url": "https://vslive.com/Home.aspx",
     "startDate": "2019-11-17",
@@ -2461,6 +2473,14 @@
     "twitter": "@WWCodeBlock",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfgSH98xsAB3c1wt3NiSIldxWKylryllGBzGv6AZox3mXHE-w/viewform",
     "cfpEndDate": "2019-11-01"
+  },
+  {
+    "name": "DevFest Lisbon",
+    "url": "https://devfest.gdglisbon.xyz",
+    "startDate": "2019-12-06",
+    "endDate": "2019-12-07",
+    "city": "Lisbon",
+    "country": "Portugal"
   },
   {
     "name": "DevTernity",
