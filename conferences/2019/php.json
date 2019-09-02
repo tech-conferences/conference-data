@@ -308,15 +308,6 @@
     "cfpEndDate": "2019-08-02"
   },
   {
-    "name": "php Central Europe",
-    "url": "https://2019.phpce.eu",
-    "startDate": "2019-10-04",
-    "endDate": "2019-10-06",
-    "city": "Dresden",
-    "country": "Germany",
-    "twitter": "@phpce_eu"
-  },
-  {
     "name": "Symfony Day",
     "url": "https://2019.symfonyday.it",
     "startDate": "2019-10-17",
@@ -346,6 +337,15 @@
     "twitter": "@_phpworld",
     "cfpUrl": "https://sessionize.com/phpworld-2019",
     "cfpEndDate": "2019-06-07"
+  },
+  {
+    "name": "Forum PHP",
+    "url": "https://event.afup.org",
+    "startDate": "2019-10-24",
+    "endDate": "2019-10-25",
+    "city": "Paris",
+    "country": "France",
+    "twitter": "@afup"
   },
   {
     "name": "ScotlandPHP",
