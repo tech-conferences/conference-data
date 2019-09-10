@@ -19,6 +19,7 @@ export const TOPICS = [
   'javascript',
   'networking',
   'php',
+  'product',
   'python',
   'ruby',
   'rust',
