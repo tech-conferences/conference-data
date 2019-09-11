@@ -17,6 +17,7 @@ export const TOPICS = [
   'ios',
   'java',
   'javascript',
+  'leadership',
   'networking',
   'php',
   'product',
