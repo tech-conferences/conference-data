@@ -1634,7 +1634,7 @@
     "cfpEndDate": "2019-04-30"
   },
   {
-    "name": "JoomlaDay Deutschland",
+    "name": "JoomlaDay",
     "url": "http://www.joomladay.de",
     "startDate": "2019-09-13",
     "endDate": "2019-09-14",
@@ -2376,7 +2376,7 @@
     "startDate": "2019-11-11",
     "endDate": "2019-11-13",
     "city": "Berlin",
-    "country": "Deutschland",
+    "country": "Germany",
     "twitter": "@BCTechConf",
     "cfpUrl": "https://blockchainconf.net/call-for-papers-2019",
     "cfpEndDate": "2019-06-10"
@@ -2546,6 +2546,24 @@
     "city": "Brisbane",
     "country": "Australia",
     "twitter": "@yow_conf"
+  },
+  {
+    "name": "DDD Summit",
+    "url": "https://ddd-summit.de",
+    "startDate": "2019-12-09",
+    "endDate": "2019-12-11",
+    "city": "Berlin",
+    "country": "Deutschland",
+    "twitter": "@DDDSummit"
+  },
+  { 
+    "name": "API Summit",
+    "url": "https://api-summit.de",
+    "startDate": "2019-12-09",
+    "endDate": "2019-12-11",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@apisummit_de"
   },
   {
     "name": "YOW! Melbourne",
