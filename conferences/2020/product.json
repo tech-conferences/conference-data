@@ -1,10 +1,46 @@
 [
   {
+    "name": "#ProductCon",
+    "url": "https://www.productschool.com/productcon/london",
+    "startDate": "2020-02-01",
+    "endDate": "2020-02-01",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@productschool"
+  }, 
+  {
+    "name": "Mind the Product",
+    "url": "https://www.mindtheproduct.com/mtpengage/manchester",
+    "startDate": "2020-02-06",
+    "endDate": "2020-02-07",
+    "city": "Manchester",
+    "country": "U.K.",
+    "twitter": "@mindtheproduct"
+  },
+  {
     "name": "Industry",
     "url": "https://europe.industryconference.com",
     "startDate": "2020-03-10",
     "endDate": "2020-03-11",
     "city": "Dublin",
     "country": "Ireland"
+  },
+  {
+    "name": "Mind the Product",
+    "url": "https://www.mindtheproduct.com/mtpcon/singapore",
+    "startDate": "2020-03-30",
+    "endDate": "2020-03-31",
+    "city": "Singapore",
+    "country": "Singapore",
+    "twitter": "@mindtheproduct‬"
+  },
+  {
+    "name": "#ProductCon",
+    "url": "https://www.productschool.com/productcon/san-francisco",
+    "startDate": "2020-04-01",
+    "endDate": "2020-04-01",
+    "city": "San Francisco",
+    "country": "U.S.A.",
+    "twitter": "@productschool"
   }
 ]
