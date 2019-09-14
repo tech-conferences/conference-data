@@ -1,5 +1,13 @@
 [
   {
+    "name": "Product Management Festival APAC",
+    "url": "https://apac.productmanagementfestival.com/",
+    "startDate": "2019-06-17",
+    "endDate": "2019-06-18",
+    "city": "Singapore",
+    "country": "Singapore"
+  },
+  {
     "name": "#ProductCon",
     "url": "https://www.productschool.com/productcon/los-angeles",
     "startDate": "2019-11-12",
@@ -42,5 +50,13 @@
     "city": "Sidney",
     "country": "Australia",
     "twitter": "@LTP_AUS"
+  },
+  {
+    "name": "Product Management Festival Europe",
+    "url": "https://productmanagementfestival.com/zurich/",
+    "startDate": "2019-11-13",
+    "endDate": "2019-11-14",
+    "city": "Zürich",
+    "country": "Switzerland"
   }
 ]
