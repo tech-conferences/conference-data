@@ -79,7 +79,6 @@
     "country": "Netherlands",
     "twitter": "@vuejsamsterdam"
   },
-
   {
     "name": "ReactConf AU",
     "url": "https://reactconfau.com",
@@ -127,6 +126,15 @@
     "twitter": "@JSKongress",
     "cfpUrl": "https://medium.com/@jskongress/jsk-20-opens-call-for-papers-fbefdf6831f5",
     "cfpEndDate": "2019-12-15"
+  },
+  {
+    "name": "SmashingConf SF",
+    "url": "https://smashingconf.com/sf-2020",
+    "startDate": "2020-04-21",
+    "endDate": "2020-04-22",
+    "city": "San Francisco",
+    "country": "U.S.A.",
+    "twitter": "@SmashingConf"
   },
   {
     "name": "JSHeroes",
