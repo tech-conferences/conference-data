@@ -79,7 +79,6 @@
     "country": "Netherlands",
     "twitter": "@vuejsamsterdam"
   },
-
   {
     "name": "ReactConf AU",
     "url": "https://reactconfau.com",
@@ -196,6 +195,15 @@
     "twitter": "@amsterdamjs"
   },
   {
+    "name": "SmashingConf",
+    "url": "https://smashingconf.com/austin-2020",
+    "startDate": "2020-06-09",
+    "endDate": "2020-06-10",
+    "city": "Austin, Texas",
+    "country": "U.S.A.",
+    "twitter": "@SmashingConf"
+  },
+  {
     "name": "ReactNext",
     "url": "https://react-next.com",
     "startDate": "2020-06-15",
@@ -214,5 +222,14 @@
     "city": "Barcelona",
     "country": "Spain",
     "twitter": "@jscamp"
+  },
+  {
+    "name": "SmashingConf",
+    "url": "https://smashingconf.com/freiburg-2020",
+    "startDate": "2020-09-07",
+    "endDate": "2020-09-08",
+    "city": "Freiburg",
+    "country": "Germany",
+    "twitter": "@SmashingConf"
   }
 ]
