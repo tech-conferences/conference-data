@@ -7,7 +7,7 @@
     "city": "London",
     "country": "U.K.",
     "twitter": "@productschool"
-  }, 
+  },
   {
     "name": "Mind the Product",
     "url": "https://www.mindtheproduct.com/mtpengage/manchester",
@@ -42,5 +42,13 @@
     "city": "San Francisco",
     "country": "U.S.A.",
     "twitter": "@productschool"
+  },
+  {
+    "name": "ProductCamp Gdynia",
+    "url": "https://productcamp.pl",
+    "startDate": "2020-06-17",
+    "endDate": "2020-06-19",
+    "city": "Gdynia",
+    "country": "Poland"
   }
 ]
