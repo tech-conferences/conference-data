@@ -360,6 +360,15 @@
     "twitter": "@ServerlessZRH"
   },
   {
+    "name": "VueDay Verona",
+    "url": "https://2019.vueday.it/",
+    "startDate": "2019-04-12",
+    "endDate": "2019-04-12",
+    "city": "Verona",
+    "country": "Italy",
+    "twitter": "@vuedayit"
+  },
+  {
     "name": "React Amsterdam",
     "url": "https://react.amsterdam",
     "startDate": "2019-04-12",
@@ -612,6 +621,15 @@
     "cfpEndDate": "2019-01-31"
   },
   {
+    "name": "Vue Day Alicante",
+    "url": "https://vueday.org/",
+    "startDate": "2019-05-31",
+    "endDate": "2019-05-31",
+    "city": "Alicante",
+    "country": "Spain",
+    "twitter": "@VueDay"
+  },
+  {
     "name": "JSConf EU",
     "url": "https://2019.jsconf.eu",
     "startDate": "2019-06-01",
@@ -672,6 +690,14 @@
     "twitter": "@jsfoo",
     "cfpUrl": "https://hasgeek.com/jsfoo/2019-coimbatore",
     "cfpEndDate": "2019-04-29"
+  },
+  {
+    "name": "VueConf China",
+    "url": "https://vue.w3ctech.com/",
+    "startDate": "2019-06-08",
+    "endDate": "2019-06-08",
+    "city": "Shanghai",
+    "country": "China"
   },
   {
     "name": "AngularMIX & AngleBrackets & DEVintersection",
@@ -1627,6 +1653,15 @@
     "cfpEndDate": "2019-07-12"
   },
   {
+    "name": "vuecamp",
+    "url": "https://vuecamp.de/",
+    "startDate": "2019-10-26",
+    "endDate": "2019-11-27",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@VueCamp_de"
+  },
+  {
     "name": "FEConf",
     "url": "https://2019.feconf.kr/",
     "startDate": "2019-10-26",
@@ -1728,10 +1763,10 @@
     "twitter": "@NodeConfEU"
   },
   {
-    "name": "Vue.js Conference Toronto",
+    "name": "VueConfTO",
     "url": "https://vuetoronto.com",
     "startDate": "2019-11-11",
-    "endDate": "2019-11-13",
+    "endDate": "2019-11-12",
     "city": "Toronto",
     "country": "Canada",
     "twitter": "@VueToronto"
