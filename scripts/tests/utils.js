@@ -13,6 +13,11 @@ export function getDuplicates(conferences) {
   return duplicates;
 }
 
+/**
+ * Creates a unique ID for a conference from its url, city, year and month
+ * @param conf
+ * @returns {string}
+ */
 function getUUID(conf) {
-  return `${conf.url.replace(/https?:\/\//, '')}-${conf.city}`;
+  return `${conf.url.replace(/https?:\/\//, '')}-${conf.city}-${conf.startDate.slice(0, 7)}`;
 }
