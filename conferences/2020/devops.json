@@ -21,11 +21,32 @@
     "cfpEndDate": "2019-11-04"
   },
   {
+    "name": "DevOpsCon Singapore",
+    "url": "https://devopscon.io/singapore",
+    "startDate": "2020-03-23",
+    "endDate": "2020-03-26",
+    "city": "Singapore",
+    "country": "Malaysia",
+    "twitter": "@devops_con",
+    "cfpUrl": "https://callforpapers.sandsmedia.com",
+    "cfpEndDate": "2019-10-17"
+  },
+  {
     "name": "OSDC",
     "url": "https://osdc.de",
     "startDate": "2020-06-17",
     "endDate": "2020-06-18",
     "city": "Berlin",
     "country": "Germany"
+  },
+  {
+    "name": "DevOpsCon New York",
+    "url": "https://devopscon.io/new-york",
+    "startDate": "2020-09-28",
+    "endDate": "2020-10-01",
+    "city": "New York",
+    "country": "United Staates of America",
+    "twitter": "@devops_con",
+    "cfpUrl": "https://callforpapers.sandsmedia.com"
   }
 ]
