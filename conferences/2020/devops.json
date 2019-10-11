@@ -1,5 +1,16 @@
 [
   {
+    "name": "GitLab Commit San Francisco",
+    "url": "https://about.gitlab.com/events/commit",
+    "startDate": "2020-01-14",
+    "endDate": "2020-01-14",
+    "city": "San Francisco",
+    "country": "U.S.A.",
+    "twitter": "@gitlab",
+    "cfpUrl": "https://docs.google.com/forms/d/1Hw3Do74kUO3I9TuQKakg0lpvI2VhfPhFY2EEGucLm2o/viewform?edit_requested=true",
+    "cfpEndDate": "2019-10-21"
+  },
+  {
     "name": "DevOps Gathering",
     "url": "https://devops-gathering.io",
     "startDate": "2020-03-09",
@@ -11,15 +22,15 @@
     "cfpEndDate": "2020-01-18"
   },
   {
-    "name": "DevOpsCon Berlin",
-    "url": "https://devopscon.io/berlin",
-    "startDate": "2020-06-15",
-    "endDate": "2020-06-18",
-    "city": "Berlin",
-    "country": "Germany",
+    "name": "DevOpsCon Singapore",
+    "url": "https://devopscon.io/singapore",
+    "startDate": "2020-03-23",
+    "endDate": "2020-03-26",
+    "city": "Singapore",
+    "country": "Malaysia",
     "twitter": "@devops_con",
     "cfpUrl": "https://callforpapers.sandsmedia.com",
-    "cfpEndDate": "2019-12-16"
+    "cfpEndDate": "2019-10-17"
   },
   {
     "name": "DevOpsCon London",
@@ -32,15 +43,15 @@
     "cfpEndDate": "2019-11-04"
   },
   {
-    "name": "DevOpsCon Singapore",
-    "url": "https://devopscon.io/singapore",
-    "startDate": "2020-03-23",
-    "endDate": "2020-03-26",
-    "city": "Singapore",
-    "country": "Malaysia",
+    "name": "DevOpsCon Berlin",
+    "url": "https://devopscon.io/berlin",
+    "startDate": "2020-06-15",
+    "endDate": "2020-06-18",
+    "city": "Berlin",
+    "country": "Germany",
     "twitter": "@devops_con",
     "cfpUrl": "https://callforpapers.sandsmedia.com",
-    "cfpEndDate": "2019-10-17"
+    "cfpEndDate": "2019-12-16"
   },
   {
     "name": "OSDC",
