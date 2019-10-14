@@ -11,6 +11,59 @@
     "cfpEndDate": "2019-10-21"
   },
   {
+    "name": "devopsdays Vitoria",
+    "url": "https://devopsdays.org/events/2020-vitoria/welcome/",
+    "startDate": "2020-02-08",
+    "endDate": "2020-02-08",
+    "city": "Vitoria",
+    "country": "Brazil",
+    "twitter": "@devopsdaysvix"
+  },
+  {
+    "name": "devopsdays Guadalajara",
+    "url": "https://devopsdays.org/events/2020-guadalajara",
+    "startDate": "2020-02-20",
+    "endDate": "2020-02-21",
+    "city": "Guadalajara",
+    "country": "Mexico"
+  },
+  {
+    "name": "devopsdays Madrid",
+    "url": "https://devopsdays.org/events/2020-madrid/welcome/",
+    "startDate": "2020-02-21",
+    "endDate": "2020-02-21",
+    "city": "Madrid",
+    "country": "Spain",
+    "twitter": "@DevOpsDaysMad"
+  },
+  {
+    "name": "devopsdays Geneva",
+    "url": "https://devopsdays.org/events/2020-geneva/welcome/",
+    "startDate": "2020-02-24",
+    "endDate": "2020-02-25",
+    "city": "Geneva",
+    "country": "Switzerland",
+    "twitter": "@DevopsdaysGe"
+  },
+  {
+    "name": "devopsdays Charlotte",
+    "url": "https://devopsdays.org/events/2020-charlotte/welcome/",
+    "startDate": "2020-02-27",
+    "endDate": "2020-02-28",
+    "city": "Charlotte",
+    "country": "U.S.A.",
+    "twitter": "@devopsdays_clt"
+  },
+  {
+    "name": "devopsdays Cáceres",
+    "url": "https://devopsdays.org/events/2020-caceres/welcome/",
+    "startDate": "2020-03-05",
+    "endDate": "2020-03-06",
+    "city": "Cáceres",
+    "country": "U.S.A.",
+    "twitter": "@DevOpsDaysCC"
+  },
+  {
     "name": "DevOps Gathering",
     "url": "https://devops-gathering.io",
     "startDate": "2020-03-09",
@@ -60,6 +113,14 @@
     "endDate": "2020-06-18",
     "city": "Berlin",
     "country": "Germany"
+  },
+  {
+    "name": "devopsdays Amsterdam",
+    "url": "https://devopsdays.org/events/2020-amsterdam/welcome/",
+    "startDate": "2020-06-17",
+    "endDate": "2020-06-19",
+    "city": "Amsterdam",
+    "country": "Netherlands"
   },
   {
     "name": "DevOpsCon New York",
