@@ -31,6 +31,7 @@ const BAD_COUNTRY_NAMES = [
   'U.S',
   'USA',
   'U.S.A',
+  'United States of America',
   'UK',
   'U.K',
   'UAE',
