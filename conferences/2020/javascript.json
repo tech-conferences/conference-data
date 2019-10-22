@@ -226,6 +226,7 @@
     "cfpEndDate": "2019-11-15"
   },
   {
+
     "name": "AngularNL",
     "url": "http://www.angularnl.com",
     "startDate": "2020-05-01",
@@ -233,6 +234,17 @@
     "city": "Amsterdam",
     "country": "Netherlands",
     "twitter": "@angularnl"
+  },
+  {
+    "name": "React Day Bangalore",
+    "url": "https://reactday.in",
+    "startDate": "2020-04-25",
+    "endDate": "2020-04-25",
+    "city": "Bangalore",
+    "country": "India",
+    "twitter": "@ReactDayIn",
+    "cfpUrl": "https://www.papercall.io/react-day-bangalore",
+    "cfpEndDate": "2019-12-01"
   },
   {
     "name": "RenderATL",
@@ -391,5 +403,14 @@
     "twitter": "@armada_js",
     "cfpUrl": "https://www.armada-js.com/call-for-papers",
     "cfpEndDate": "2020-04-01"
+  },
+  {
+    "name": "React Live",
+    "url": "http://www.reactlive.nl",
+    "startDate": "2020-10-02",
+    "endDate": "2020-10-02",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@reactlivenl"
   }
 ]
