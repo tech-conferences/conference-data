@@ -42,7 +42,8 @@
     "startDate": "2020-02-24",
     "endDate": "2020-02-25",
     "city": "Geneva",
-    "country": "Switzerland",
+    "country": "Switzer
+    nd",
     "twitter": "@DevopsdaysGe"
   },
   {
@@ -64,12 +65,15 @@
     "twitter": "@DevOpsDaysCC"
   },
   {
-    "name": "devopsdays Los Angeles",
-    "url": "https://devopsdays.org/events/2020-los-angeles/welcome/",
-    "startDate": "2020-03-06",
-    "endDate": "2020-03-06",
-    "city": "Los Angeles",
-    "country": "U.S.A."
+    "name": "SCALE",
+    "url": "https://www.socallinuxexpo.org",
+    "startDate": "2020-03-05",
+    "endDate": "2020-03-08",
+    "city": "Pasadena",
+    "country": "U.S.A.",
+    "twitter": "@socallinuxexpo",
+    "cfpUrl": "https://socallinuxexpo.org/scale/18x/cfp",
+    "cfpEndDate": "2019-12-01"
   },
   {
     "name": "DevOpsDay LA",
