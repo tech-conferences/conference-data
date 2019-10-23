@@ -179,6 +179,17 @@
     "cfpEndDate": "2019-12-15"
   },
   {
+    "name": "International JavaScript Conference",
+    "url": "https://javascript-conference.com",
+    "startDate": "2020-04-20",
+    "endDate": "2020-04-22",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@JavaScriptCon",
+    "cfpUrl": "https://javascript-conference.com/call-for-papers-2",
+    "cfpEndDate": "2019-11-04"
+  },
+  {
     "name": "SmashingConf",
     "url": "https://smashingconf.com/sf-2020",
     "startDate": "2020-04-21",
@@ -226,16 +237,6 @@
     "cfpEndDate": "2019-11-15"
   },
   {
-
-    "name": "AngularNL",
-    "url": "http://www.angularnl.com",
-    "startDate": "2020-05-01",
-    "endDate": "2020-05-01",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "twitter": "@angularnl"
-  },
-  {
     "name": "React Day Bangalore",
     "url": "https://reactday.in",
     "startDate": "2020-04-25",
@@ -245,6 +246,15 @@
     "twitter": "@ReactDayIn",
     "cfpUrl": "https://www.papercall.io/react-day-bangalore",
     "cfpEndDate": "2019-12-01"
+  },
+  {
+    "name": "AngularNL",
+    "url": "http://www.angularnl.com",
+    "startDate": "2020-05-01",
+    "endDate": "2020-05-01",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@angularnl"
   },
   {
     "name": "RenderATL",
