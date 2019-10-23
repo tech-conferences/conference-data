@@ -63,13 +63,24 @@
     "country": "U.S.A.",
     "twitter": "@DevOpsDaysCC"
   },
-  { 
-  "name": "devopsdays Los Angeles", 
-  "url": "https://devopsdays.org/events/2020-los-angeles/welcome/", 
-  "startDate": "2020-03-06", 
-  "endDate": "2020-03-06", 
-  "city": "Los Angeles", 
-  "country": "U.S.A."
+  {
+    "name": "SCALE",
+    "url": "https://www.socallinuxexpo.org",
+    "startDate": "2020-03-05",
+    "endDate": "2020-03-08",
+    "city": "Pasadena",
+    "country": "U.S.A.",
+    "twitter": "@socallinuxexpo",
+    "cfpUrl": "https://socallinuxexpo.org/scale/18x/cfp",
+    "cfpEndDate": "2019-12-01"
+  },
+  {
+    "name": "devopsdays Los Angeles",
+    "url": "https://devopsdays.org/events/2020-los-angeles/welcome/",
+    "startDate": "2020-03-06",
+    "endDate": "2020-03-06",
+    "city": "Los Angeles",
+    "country": "U.S.A."
   },
   {
     "name": "DevOps Gathering",
@@ -82,14 +93,14 @@
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdOmCTRBBD-thoP8e69mkjSR9xGg81VmHQe2aWvQIcccg3-4Q/viewform",
     "cfpEndDate": "2020-01-18"
   },
-  { 
-    "name": "devopsdays Prague", 
-    "url": "https://devopsdays.org/events/2020-prague/welcome/", 
-    "startDate": "2020-03-18", 
-    "endDate": "2020-03-19", 
-    "city": "Prague", 
-    "country": "Czech Republic", 
-    "twitter": "@DevOpsDaysPrg" 
+  {
+    "name": "devopsdays Prague",
+    "url": "https://devopsdays.org/events/2020-prague/welcome/",
+    "startDate": "2020-03-18",
+    "endDate": "2020-03-19",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "twitter": "@DevOpsDaysPrg"
   },
   {
     "name": "DevOpsCon Singapore",
@@ -102,37 +113,37 @@
     "cfpUrl": "https://callforpapers.sandsmedia.com",
     "cfpEndDate": "2019-10-17"
   },
-  { 
-    "name": "devopsdays Tokyo", 
-    "url": "https://devopsdays.org/events/2020-tokyo/welcome/", 
-    "startDate": "2020-04-09", 
-    "endDate": "2020-04-10", 
-    "city": "Tokyo", 
+  {
+    "name": "devopsdays Tokyo",
+    "url": "https://devopsdays.org/events/2020-tokyo/welcome/",
+    "startDate": "2020-04-09",
+    "endDate": "2020-04-10",
+    "city": "Tokyo",
     "country": "Japan"
   },
-  { 
-    "name": "devopsdays Houston", 
-    "url": "https://devopsdays.org/events/2020-houston/welcome/", 
-    "startDate": "2020-04-14", 
-    "endDate": "2020-04-15", 
-    "city": "Houston", 
-    "country": "U.S.A.", 
-    "twitter": "@DevOpsDaysHTown" 
+  {
+    "name": "devopsdays Houston",
+    "url": "https://devopsdays.org/events/2020-houston/welcome/",
+    "startDate": "2020-04-14",
+    "endDate": "2020-04-15",
+    "city": "Houston",
+    "country": "U.S.A.",
+    "twitter": "@DevOpsDaysHTown"
   },
-  { 
-    "name": "devopsdays Seattle", 
-    "url": "https://devopsdays.org/events/2020-seattle/welcome/", 
-    "startDate": "2020-04-14", 
-    "endDate": "2020-04-15", 
-    "city": "Seattle", 
+  {
+    "name": "devopsdays Seattle",
+    "url": "https://devopsdays.org/events/2020-seattle/welcome/",
+    "startDate": "2020-04-14",
+    "endDate": "2020-04-15",
+    "city": "Seattle",
     "country": "U.S.A."
   },
-  { 
-    "name": "devopsdays Atlanta", 
-    "url": "https://devopsdays.org/events/2020-atlanta/welcome/", 
-    "startDate": "2020-04-21", 
-    "endDate": "2020-04-22", 
-    "city": "Atlanta", 
+  {
+    "name": "devopsdays Atlanta",
+    "url": "https://devopsdays.org/events/2020-atlanta/welcome/",
+    "startDate": "2020-04-21",
+    "endDate": "2020-04-22",
+    "city": "Atlanta",
     "country": "U.S.A."
   },
   {
@@ -144,47 +155,47 @@
     "country": "U.K.",
     "cfpUrl": "https://callforpapers.sandsmedia.com",
     "cfpEndDate": "2019-11-04"
-   },
-   { 
-    "name": "devopsdays Denver", 
-    "url": "https://devopsdays.org/events/2020-denver/welcome/", 
-    "startDate": "2020-04-26", 
-    "endDate": "2020-04-26", 
-    "city": "Denver", 
+  },
+  {
+    "name": "devopsdays Denver",
+    "url": "https://devopsdays.org/events/2020-denver/welcome/",
+    "startDate": "2020-04-26",
+    "endDate": "2020-04-26",
+    "city": "Denver",
     "country": "U.S.A."
-   },
-   { 
-    "name": "devopsdays Des Moines", 
-    "url": "https://devopsdays.org/events/2020-des-moines/welcome/", 
-    "startDate": "2020-05-14", 
-    "endDate": "2020-05-15", 
-    "city": "Des Moines", 
+  },
+  {
+    "name": "devopsdays Des Moines",
+    "url": "https://devopsdays.org/events/2020-des-moines/welcome/",
+    "startDate": "2020-05-14",
+    "endDate": "2020-05-15",
+    "city": "Des Moines",
     "country": "U.S.A.",
     "twitter": "@DevOpsDaysDSM"
   },
-  { 
-    "name": "devopsdays Boise", 
-    "url": "https://devopsdays.org/events/2020-boise/welcome/", 
-    "startDate": "2020-05-15", 
-    "endDate": "2020-05-15", 
-    "city": "Boise", 
+  {
+    "name": "devopsdays Boise",
+    "url": "https://devopsdays.org/events/2020-boise/welcome/",
+    "startDate": "2020-05-15",
+    "endDate": "2020-05-15",
+    "city": "Boise",
     "country": "U.S.A."
   },
-  { 
-    "name": "devopsdays Salt Lake City", 
-    "url": "https://devopsdays.org/events/2020-salt-lake-city/welcome/", 
-    "startDate": "2020-06-02", 
-    "endDate": "2020-06-03", 
-    "city": "Salt Lake City", 
+  {
+    "name": "devopsdays Salt Lake City",
+    "url": "https://devopsdays.org/events/2020-salt-lake-city/welcome/",
+    "startDate": "2020-06-02",
+    "endDate": "2020-06-03",
+    "city": "Salt Lake City",
     "country": "U.S.A.",
     "twitter": "@devopsdaysslc"
   },
-  { 
-    "name": "devopsdays Zürich", 
-    "url": "https://devopsdays.org/events/2020-zurich/welcome/", 
-    "startDate": "2020-06-09", 
-    "endDate": "2020-06-10", 
-    "city": "Zürich", 
+  {
+    "name": "devopsdays Zürich",
+    "url": "https://devopsdays.org/events/2020-zurich/welcome/",
+    "startDate": "2020-06-09",
+    "endDate": "2020-06-10",
+    "city": "Zürich",
     "country": "Switzerland"
   },
   {
@@ -214,20 +225,20 @@
     "city": "Amsterdam",
     "country": "Netherlands"
   },
-  { 
-    "name": "devopsdays Columbus", 
-    "url": "https://devopsdays.org/events/2020-columbus/welcome/", 
-    "startDate": "2020-09-16", 
-    "endDate": "2020-09-17", 
-    "city": "Columbus", 
+  {
+    "name": "devopsdays Columbus",
+    "url": "https://devopsdays.org/events/2020-columbus/welcome/",
+    "startDate": "2020-09-16",
+    "endDate": "2020-09-17",
+    "city": "Columbus",
     "country": "U.S.A."
   },
-  { 
-    "name": "devopsdays Cairo", 
-    "url": "https://devopsdays.org/events/2020-cairo/welcome/", 
-    "startDate": "2020-09-20", 
-    "endDate": "2020-09-20", 
-    "city": "Cairo", 
+  {
+    "name": "devopsdays Cairo",
+    "url": "https://devopsdays.org/events/2020-cairo/welcome/",
+    "startDate": "2020-09-20",
+    "endDate": "2020-09-20",
+    "city": "Cairo",
     "country": "Egypt"
   },
   {
