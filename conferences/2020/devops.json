@@ -42,7 +42,8 @@
     "startDate": "2020-02-24",
     "endDate": "2020-02-25",
     "city": "Geneva",
-    "country": "Switzerland",
+    "country": "Switzer
+    nd",
     "twitter": "@DevopsdaysGe"
   },
   {
@@ -75,12 +76,15 @@
     "cfpEndDate": "2019-12-01"
   },
   {
-    "name": "devopsdays Los Angeles",
-    "url": "https://devopsdays.org/events/2020-los-angeles/welcome/",
+    "name": "Devopsdays Los Angeles",
+    "url": "https://devopsdays.org/events/2020-los-angeles/welcome",
     "startDate": "2020-03-06",
     "endDate": "2020-03-06",
-    "city": "Los Angeles",
-    "country": "U.S.A."
+    "city": "Pasadena",
+    "country": "U.S.A.",
+    "twitter": "@devopsdaylax",
+    "cfpUrl": "https://devopsdays.org/events/2020-los-angeles/welcome",
+    "cfpEndDate": "2019-12-01"
   },
   {
     "name": "DevOps Gathering",
