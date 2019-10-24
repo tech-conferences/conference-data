@@ -1,5 +1,25 @@
 [
   {
+    "name": "PHPBenelux",
+    "url": "https://conference.phpbenelux.eu/",
+    "startDate": "2020-01-24",
+    "endDate": "2020-01-25",
+    "city": "Edegem",
+    "country": "Belgium",
+    "twitter": "@phpbenelux",
+    "cfpUrl": "https://cfp.phpbenelux.eu",
+    "cfpEndDate": "2019-09-30"
+  },
+  {
+    "name": "DrupalCamp NJ",
+    "url": "https://www.drupalcampnj.org",
+    "startDate": "2020-01-30",
+    "endDate": "2020-02-01",
+    "city": "Princeton, NJ",
+    "country": "U.S.A.",
+    "twitter": "@drupalcampnj"
+  },
+  {
     "name": "Midwest PHP",
     "url": "https://midwestphp.org",
     "startDate": "2020-04-02",
@@ -42,16 +62,5 @@
     "twitter": "@dpcon",
     "cfpUrl": "https://cfp.phpconference.nl",
     "cfpEndDate": "2020-03-01"
-  },
-  {
-    "name": "PHPBenelux",
-    "url": "https://conference.phpbenelux.eu/",
-    "startDate": "2020-01-24",
-    "endDate": "2020-01-25",
-    "city": "Edegem",
-    "country": "Belgium",
-    "twitter": "@phpbenelux",
-    "cfpUrl": "https://cfp.phpbenelux.eu",
-    "cfpEndDate": "2019-09-30"
   }
 ]
