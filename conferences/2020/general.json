@@ -50,6 +50,17 @@
     "twitter": "@ddd_eu"
   },
   {
+    "name": "DeveloperWeek",
+    "url": "https://www.developerweek.com",
+    "startDate": "2020-02-12",
+    "endDate": "2020-02-16",
+    "city": "Oakland, CA",
+    "country": "U.S.A.",
+    "twitter": "@developerweek",
+    "cfpUrl": "https://www.developerweek.com/conference/apply-to-speak",
+    "cfpEndDate": "2019-11-15"
+  },
+  {
     "name": "XML Prague",
     "url": "http://www.xmlprague.cz",
     "startDate": "2020-02-13",
@@ -163,6 +174,17 @@
     "twitter": "@DevoxxFR"
   },
   {
+    "name": "Serverless Architecture Conference",
+    "url": "https://serverless-architecture.io",
+    "startDate": "2020-04-20",
+    "endDate": "2020-04-22",
+    "city": "The Hague",
+    "country": "Netherlands",
+    "twitter": "@serverlesscon",
+    "cfpUrl": "https://serverless-architecture.io/call-for-papers",
+    "cfpEndDate": "2019-10-28"
+  },
+  {
     "name": "REFACTR.TECH",
     "url": "https://refactr.tech",
     "startDate": "2020-04-22",
@@ -172,6 +194,15 @@
     "twitter": "@RefactrTech",
     "cfpUrl": "https://refactr.tech/call-for-speakers.html",
     "cfpEndDate": "2019-11-01"
+  },
+  {
+    "name": "tabGeeks20",
+    "url": "https://www.tabgeeks.com/tabgeeks20",
+    "startDate": "2020-04-29",
+    "endDate": "2020-05-01",
+    "city": "Long Beach",
+    "country": "U.S.A.",
+    "twitter": "@tabgeeks"
   },
   {
     "name": "Mendix World",
@@ -209,6 +240,16 @@
     "city": "Calgary",
     "country": "Canada",
     "twitter": "@foss4g"
+  },
+  {
+    "name": "International Conference on Artificial Neural Networks",
+    "url": "https://icann.coreconferences.com",
+    "startDate": "2020-09-08",
+    "endDate": "2020-09-09",
+    "city": "London",
+    "country": "U.K.",
+    "cfpUrl": "https://icann.coreconferences.com",
+    "cfpEndDate": "2020-08-10"
   },
   {
     "name": "NEXT Conference",
