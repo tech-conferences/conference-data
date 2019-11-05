@@ -114,7 +114,7 @@
     "country": "Switzerland",
     "twitter": "@DevOpsFusion"
   },
-  {  
+  {
     "name": "DevOps Talks Conference",
     "url": "https://devops.talksplus.com/au/devops.html",
     "startDate": "2020-03-19",
@@ -214,6 +214,17 @@
     "endDate": "2020-05-15",
     "city": "Boise",
     "country": "U.S.A."
+  },
+  {
+    "name": "DevOpsDays Kyiv",
+    "url": "https://devopsdays.com.ua",
+    "startDate": "2020-05-15",
+    "endDate": "2020-05-16",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "twitter": "@days_dev",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdxQ6wbMesh-ZGeLB4EKd8fFonLE54l01z7Rt5-FtvMTV15MA/viewform",
+    "cfpEndDate": "2019-03-01"
   },
   {
     "name": "devopsdays Salt Lake City",
