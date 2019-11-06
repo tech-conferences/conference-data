@@ -11,20 +11,23 @@
     "cfpEndDate": "2019-10-01"
   },
   {
+    "name": "dotPy",
+    "url": "https://www.dotpy.io/?utm_source=newsletter&utm_medium=email&utm_campaign=launch-2020",
+    "startDate": "2020-03-02",
+    "endDate": "2020-03-02",
+    "city": "Paris",
+    "country": "France",
+    "twitter": "@dotpy_io",
+    "cfpUrl": "https://www.dotconferences.com/cfp",
+    "cfpEndDate": "2020-01-01"
+  },
+  {
     "name": "PyCon SK",
     "url": "https://2020.pycon.sk",
     "startDate": "2020-03-27",
     "endDate": "2020-03-29",
     "city": "Bratislava",
     "country": "Slovakia"
-  },
-  {
-    "name": "PyCon",
-    "url": "https://us.pycon.org/2020",
-    "startDate": "2020-04-15",
-    "endDate": "2020-04-23",
-    "city": "Pittsburgh",
-    "country": "U.S.A."
   },
   {
     "name": "PyCon Italy",
@@ -34,5 +37,13 @@
     "city": "Florence",
     "country": "Italy",
     "twitter": "@pyconit"
+  },
+  {
+    "name": "PyCon",
+    "url": "https://us.pycon.org/2020",
+    "startDate": "2020-04-15",
+    "endDate": "2020-04-23",
+    "city": "Pittsburgh",
+    "country": "U.S.A."
   }
 ]
