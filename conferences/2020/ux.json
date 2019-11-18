@@ -46,6 +46,15 @@
     "twitter": "@LDconf"
   },
   {
+    "name": "Outcome",
+    "url": "http://www.outcomeconf.com",
+    "startDate": "2020-02-08",
+    "endDate": "2020-02-08",
+    "city": "Chandigarh",
+    "country": "India",
+    "twitter": "@vingar"
+  },
+  {
     "name": "UX Copenhagen",
     "url": "https://uxcopenhagen.com",
     "startDate": "2020-03-30",
@@ -124,6 +133,15 @@
     "cfpEndDate": "2019-11-25"
   },
   {
+    "name": "UX London",
+    "url": "https://2020.uxlondon.com",
+    "startDate": "2020-05-27",
+    "endDate": "2020-05-29",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@UXLondon"
+  },
+  {
     "name": "#UXRConf",
     "url": "https://uxrconference.com",
     "startDate": "2020-06-03",
@@ -177,6 +195,15 @@
     "city": "Freiburg",
     "country": "Germany",
     "twitter": "@SmashingConf"
+  },
+  {
+    "name": "dConstruct",
+    "url": "https://2020.dconstruct.org",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-11",
+    "city": "Brighton",
+    "country": "U.K.",
+    "twitter": "@dconstruct"
   },
   {
     "name": "UX Healthcare",
