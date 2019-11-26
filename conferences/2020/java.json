@@ -1,2 +1,42 @@
 [
+  {
+    "name": "JAX",
+    "url": "https://jax.de",
+    "startDate": "2020-05-11",
+    "endDate": "2020-05-15",
+    "city": "Mainz",
+    "country": "Germany",
+    "twitter": "@jaxcon"
+  },
+  {
+    "name": "Devoxx Poland",
+    "url": "http://devoxx.pl",
+    "startDate": "2020-06-17",
+    "endDate": "2020-06-19",
+    "city": "Krakow",
+    "country": "Poland",
+    "twitter": "@DevoxxPL",
+    "cfpUrl": "http://devoxx.pl/faq",
+    "cfpEndDate": "2020-01-31"
+  },
+  {
+    "name": "jconf.dev",
+    "url": "https://jconf.dev",
+    "startDate": "2020-09-29",
+    "endDate": "2020-10-01",
+    "city": "Chicago",
+    "country": "U.S.A.",
+    "twitter": "@jconfdev",
+    "cfpUrl": "https://mailchi.mp/77d3349dbb61/uekzpliz31",
+    "cfpEndDate": "2020-02-22"
+  },
+  {
+    "name": "DevTernity",
+    "url": "https://devternity.com",
+    "startDate": "2020-12-03",
+    "endDate": "2020-12-04",
+    "city": "Riga",
+    "country": "Latvia",
+    "twitter": "@devternity"
+  }
 ]

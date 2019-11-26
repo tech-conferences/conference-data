@@ -10,6 +10,16 @@
     "cfpEndDate": "2020-01-16"
   },
   {
+    "name": "osquery@scale",
+    "url": "https://www.osqueryatscale.com",
+    "startDate": "2020-01-22",
+    "endDate": "2020-01-23",
+    "city": "San Francisco",
+    "country": "U.S.A.",
+    "cfpUrl": "https://www.papercall.io/osqueryatscale-cfp",
+    "cfpEndDate": "2019-12-31"
+  },
+  {
     "name": "CPX 360",
     "url": "https://www.checkpoint.com/cpx/americas",
     "startDate": "2020-01-27",
@@ -18,6 +28,14 @@
     "country": "U.S.A.",
     "cfpUrl": "https://www.checkpoint.com/cpx/americas",
     "cfpEndDate": "2020-01-29"
+  },
+  {
+    "name": "ShmooCon",
+    "url": "https://www.shmoocon.org",
+    "startDate": "2020-01-31",
+    "endDate": "2020-02-02",
+    "city": "Washington DC",
+    "country": "U.S.A."
   },
   {
     "name": "CPX 360",
@@ -48,6 +66,17 @@
     "twitter": "@sec4dev"
   },
   {
+    "name": "Bsides Rochester",
+    "url": "http://bsidesroc.com",
+    "startDate": "2020-03-21",
+    "endDate": "2020-03-21",
+    "city": "Rochester, NY",
+    "country": "U.S.A.",
+    "twitter": "@BsidesROC",
+    "cfpUrl": "http://bsidesroc.com/cfp",
+    "cfpEndDate": "2020-02-21"
+  },
+  {
     "name": "QuBit Prague",
     "url": "https://prague.qubitconference.com",
     "startDate": "2020-04-22",
@@ -66,5 +95,25 @@
     "twitter": "@ruhrsec",
     "cfpUrl": "https://www.ruhrsec.de/2020/index.html#cfp",
     "cfpEndDate": "2020-01-13"
+  },
+  {
+    "name": "International Conference on Network Security and Computer Engineering",
+    "url": "https://iccait.coreconferences.com",
+    "startDate": "2020-09-08",
+    "endDate": "2020-09-09",
+    "city": "London",
+    "country": "U.K.",
+    "cfpUrl": "https://iccait.coreconferences.com",
+    "cfpEndDate": "2020-08-10"
+  },
+  {
+    "name": "International Conference on Security in Computing and Cloud Computing",
+    "url": "https://icsccc.coreconferences.com",
+    "startDate": "2020-09-08",
+    "endDate": "2020-09-09",
+    "city": "London",
+    "country": "U.K.",
+    "cfpUrl": "https://icsccc.coreconferences.com",
+    "cfpEndDate": "2020-08-10"
   }
 ]

@@ -8,6 +8,17 @@
     "country": "U.K."
   },
   {
+    "name": "Awwwards Conference Tokyo",
+    "url": "https://conference.awwwards.com/tokyo",
+    "startDate": "2020-01-23",
+    "endDate": "2020-01-24",
+    "city": "Tokyo",
+    "country": "Japan",
+    "twitter": "@awwwardsconf",
+    "cfpUrl": "https://www.universe.com/events/awwwards-digital-thinkers-conference-tokyo-2020-tickets-chiyoda-city-14JHSQ",
+    "cfpEndDate": "2020-01-12"
+  },
+  {
     "name": "IxDA",
     "url": "https://interaction20.ixda.org",
     "startDate": "2020-02-05",
@@ -24,6 +35,33 @@
     "city": "Melbourne",
     "country": "Australia",
     "twitter": "@pausefest"
+  },
+  {
+    "name": "Leading Design San Francisco",
+    "url": "https://leadingdesign.com/conferences/sanfran-2020",
+    "startDate": "2020-03-04",
+    "endDate": "2020-03-06",
+    "city": "San Francisco",
+    "country": "U.S.A.",
+    "twitter": "@LDconf"
+  },
+  {
+    "name": "Outcome",
+    "url": "http://www.outcomeconf.com",
+    "startDate": "2020-02-08",
+    "endDate": "2020-02-08",
+    "city": "Chandigarh",
+    "country": "India",
+    "twitter": "@vingar"
+  },
+  {
+    "name": "UX Copenhagen",
+    "url": "https://uxcopenhagen.com",
+    "startDate": "2020-03-30",
+    "endDate": "2020-03-31",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "twitter": "@UXCopenhagen"
   },
   {
     "name": "UIArchConf",
@@ -84,6 +122,35 @@
     "twitter": "@uxlx"
   },
   {
+    "name": "webinale – the holistic web conference",
+    "url": "https://webinale.de/en",
+    "startDate": "2020-05-25",
+    "endDate": "2020-05-29",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@webinale",
+    "cfpUrl": "https://webinale.de/call-for-papers-en",
+    "cfpEndDate": "2019-11-25"
+  },
+  {
+    "name": "UX London",
+    "url": "https://2020.uxlondon.com",
+    "startDate": "2020-05-27",
+    "endDate": "2020-05-29",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@UXLondon"
+  },
+  {
+    "name": "#UXRConf",
+    "url": "https://uxrconference.com",
+    "startDate": "2020-06-03",
+    "endDate": "2020-06-05",
+    "city": "Toronto",
+    "country": "Canada",
+    "twitter": "@UXRCollective"
+  },
+  {
     "name": "Fluxible",
     "url": "https://www.fluxible.ca",
     "startDate": "2020-06-06",
@@ -128,6 +195,15 @@
     "city": "Freiburg",
     "country": "Germany",
     "twitter": "@SmashingConf"
+  },
+  {
+    "name": "dConstruct",
+    "url": "https://2020.dconstruct.org",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-11",
+    "city": "Brighton",
+    "country": "U.K.",
+    "twitter": "@dconstruct"
   },
   {
     "name": "UX Healthcare",

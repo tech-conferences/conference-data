@@ -1,2 +1,24 @@
 [
+  {
+    "name": "dotGo",
+    "url": "https://www.dotgo.eu",
+    "startDate": "2020-03-30",
+    "endDate": "2020-03-30",
+    "city": "Paris",
+    "country": "France",
+    "twitter": "@dotgoeu",
+    "cfpUrl": "https://www.dotconferences.com/cfp",
+    "cfpEndDate": "2020-01-01"
+  },
+  {
+    "name": "GopherCon Europe",
+    "url": "https://gophercon.berlin",
+    "startDate": "2020-04-23",
+    "endDate": "2020-04-26",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@gopherconEU",
+    "cfpUrl": "https://www.papercall.io/gophercon-eu-2020",
+    "cfpEndDate": "2020-01-12"
+  }
 ]

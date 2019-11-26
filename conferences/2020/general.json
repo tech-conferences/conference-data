@@ -30,6 +30,26 @@
     "cfpEndDate": "2019-12-31"
   },
   {
+    "name": "Conf42: Chaos Engineering",
+    "url": "https://www.conf42.com",
+    "startDate": "2020-01-23",
+    "endDate": "2020-01-23",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@conf42com",
+    "cfpEndDate": "2019-11-01"
+  },
+  {
+    "name": "7th International Conference on Computer Science and Information Technology (CoSIT )",
+    "url": "https://cosit2020.org",
+    "startDate": "2020-01-25",
+    "endDate": "2020-01-26",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "cfpUrl": "https://github.com/alfialeo/COSIT-2020/blob/master/README.md#cosit-2020",
+    "cfpEndDate": "2019-11-23"
+  },
+  {
     "name": "FOSDEM",
     "url": "https://fosdem.org/2020",
     "startDate": "2020-02-01",
@@ -48,6 +68,28 @@
     "city": "Amsterdam",
     "country": "Netherland",
     "twitter": "@ddd_eu"
+  },
+  {
+    "name": "DeveloperWeek",
+    "url": "https://www.developerweek.com",
+    "startDate": "2020-02-12",
+    "endDate": "2020-02-16",
+    "city": "Oakland, CA",
+    "country": "U.S.A.",
+    "twitter": "@developerweek",
+    "cfpUrl": "https://www.developerweek.com/conference/apply-to-speak",
+    "cfpEndDate": "2019-11-15"
+  },
+  {
+    "name": "DeveloperWeek",
+    "url": "https://developerweek.com",
+    "startDate": "2020-02-12",
+    "endDate": "2020-02-16",
+    "city": "Oakland",
+    "country": "U.S.A.",
+    "twitter": "@developerweek",
+    "cfpUrl": "https://developerweek.com/conference/call-for-speakers",
+    "cfpEndDate": "2019-11-15"
   },
   {
     "name": "XML Prague",
@@ -121,6 +163,17 @@
     "twitter": "@programmingconf"
   },
   {
+    "name": "DevDotNext",
+    "url": "https://www.devdotnext.com",
+    "startDate": "2020-03-24",
+    "endDate": "2020-03-27",
+    "city": "Broomfield, CO",
+    "country": "U.S.A.",
+    "twitter": "@devdotnext",
+    "cfpUrl": "https://www.devdotnext.com/cfp",
+    "cfpEndDate": "2019-11-15"
+  },
+  {
     "name": "Pixels Camp",
     "url": "https://pixels.camp",
     "startDate": "2020-03-26",
@@ -163,6 +216,28 @@
     "twitter": "@DevoxxFR"
   },
   {
+    "name": "Serverless Architecture Conference",
+    "url": "https://serverless-architecture.io",
+    "startDate": "2020-04-20",
+    "endDate": "2020-04-22",
+    "city": "The Hague",
+    "country": "Netherlands",
+    "twitter": "@serverlesscon",
+    "cfpUrl": "https://serverless-architecture.io/call-for-papers",
+    "cfpEndDate": "2019-10-28"
+  },
+  {
+    "name": "API Conference",
+    "url": "https://apiconference.net",
+    "startDate": "2020-04-20",
+    "endDate": "2020-04-22",
+    "city": "The Hague",
+    "country": "Netherlands",
+    "twitter": "@api_conference",
+    "cfpUrl": "https://apiconference.net/call-for-papers",
+    "cfpEndDate": "2019-11-18"
+  },
+  {
     "name": "REFACTR.TECH",
     "url": "https://refactr.tech",
     "startDate": "2020-04-22",
@@ -172,6 +247,53 @@
     "twitter": "@RefactrTech",
     "cfpUrl": "https://refactr.tech/call-for-speakers.html",
     "cfpEndDate": "2019-11-01"
+  },
+  {
+    "name": "DevOne",
+    "url": "https://devone.at",
+    "startDate": "2020-04-23",
+    "endDate": "2020-04-23",
+    "city": "Linz",
+    "country": "Austria",
+    "twitter": "@DevOneLinz",
+    "cfpUrl": "https://sessionize.com/devone-linz-2020",
+    "cfpEndDate": "2019-12-31"
+  },
+  {
+    "name": "tabGeeks20",
+    "url": "https://www.tabgeeks.com/tabgeeks20",
+    "startDate": "2020-04-29",
+    "endDate": "2020-05-01",
+    "city": "Long Beach",
+    "country": "U.S.A.",
+    "twitter": "@tabgeeks"
+  },
+  {
+    "name": "TEQnation Conference",
+    "url": "https://conference.teqnation.com",
+    "startDate": "2020-05-20",
+    "endDate": "2020-05-20",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "twitter": "@TEQnation2019"
+  },
+  {
+    "name": "Mendix World",
+    "url": "https://www.mendix.com/mendix-world/save-the-date",
+    "startDate": "2020-06-02",
+    "endDate": "2020-06-04",
+    "city": "Rotterdam",
+    "country": "Netherlands",
+    "cfpEndDate": "2020-06-04"
+  },
+  {
+    "name": "Craft Conference",
+    "url": "https://craft-conf.com",
+    "startDate": "2020-06-09",
+    "endDate": "2020-06-12",
+    "city": "Budapest",
+    "country": "Hungary",
+    "twitter": "@craftconf"
   },
   {
     "name": "O’Reilly Software Architecture Conference",
@@ -185,6 +307,23 @@
     "cfpEndDate": "2019-12-10"
   },
   {
+    "name": "Webit.Festival Europe",
+    "url": "http://www.webit.org",
+    "startDate": "2020-06-17",
+    "endDate": "2020-06-20",
+    "city": "Valencia",
+    "country": "Spain",
+    "twitter": "@WebitCongress"
+  },
+  {
+    "name": "TNW Conference",
+    "url": "https://thenextweb.com/conference",
+    "startDate": "2020-06-18",
+    "endDate": "2020-06-19",
+    "city": "Amsterdam",
+    "country": "Netherlands"
+  },
+  {
     "name": "FOSS4G",
     "url": "http://2020.foss4g.org",
     "startDate": "2020-08-24",
@@ -192,6 +331,44 @@
     "city": "Calgary",
     "country": "Canada",
     "twitter": "@foss4g"
+  },
+  {
+    "name": "Webconf.asia",
+    "url": "https://webconf.asia",
+    "startDate": "2020-08-28",
+    "endDate": "2020-08-29",
+    "city": "Hong Kong",
+    "country": "Hong Kong",
+    "twitter": "@webconf_asia"
+  },
+  {
+    "name": "Ai4",
+    "url": "https://ai4.io",
+    "startDate": "2020-09-01",
+    "endDate": "2020-09-02",
+    "city": "Las Vegas, NV",
+    "country": "U.S.A.",
+    "twitter": "@Ai4Conferences"
+  },
+  {
+    "name": "International Conference on Artificial Neural Networks",
+    "url": "https://icann.coreconferences.com",
+    "startDate": "2020-09-08",
+    "endDate": "2020-09-09",
+    "city": "London",
+    "country": "U.K.",
+    "cfpUrl": "https://icann.coreconferences.com",
+    "cfpEndDate": "2020-08-10"
+  },
+  {
+    "name": "International Conference on Business Information System and Knowledge",
+    "url": "https://icbisk.coreconferences.com",
+    "startDate": "2020-09-08",
+    "endDate": "2020-09-09",
+    "city": "London",
+    "country": "U.K.",
+    "cfpUrl": "https://icbisk.coreconferences.com",
+    "cfpEndDate": "2020-08-10"
   },
   {
     "name": "NEXT Conference",

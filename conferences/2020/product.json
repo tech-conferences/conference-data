@@ -18,6 +18,17 @@
     "twitter": "@mindtheproduct"
   },
   {
+    "name": "ProductWorld",
+    "url": "https://productworld.co",
+    "startDate": "2020-02-12",
+    "endDate": "2020-02-14",
+    "city": "Oakland, CA",
+    "country": "U.S.A.",
+    "twitter": "@ProductWorld_",
+    "cfpUrl": "https://productworld.co/conference/speakers/apply-to-speak",
+    "cfpEndDate": "2019-11-15"
+  },
+  {
     "name": "Industry",
     "url": "https://europe.industryconference.com",
     "startDate": "2020-03-10",
@@ -50,5 +61,16 @@
     "endDate": "2020-06-19",
     "city": "Gdynia",
     "country": "Poland"
+  },
+  {
+    "name": "UXDX  - From Project to Product",
+    "url": "https://uxdxconf.com",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-09",
+    "city": "Dublin",
+    "country": "Ireland",
+    "twitter": "@uxdxconf",
+    "cfpUrl": "https://uxdxconf.com/speak",
+    "cfpEndDate": "2020-02-28"
   }
 ]
