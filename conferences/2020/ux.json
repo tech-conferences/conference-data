@@ -37,15 +37,6 @@
     "twitter": "@pausefest"
   },
   {
-    "name": "Leading Design San Francisco",
-    "url": "https://leadingdesign.com/conferences/sanfran-2020",
-    "startDate": "2020-03-04",
-    "endDate": "2020-03-06",
-    "city": "San Francisco",
-    "country": "U.S.A.",
-    "twitter": "@LDconf"
-  },
-  {
     "name": "Outcome",
     "url": "http://www.outcomeconf.com",
     "startDate": "2020-02-08",
@@ -53,6 +44,15 @@
     "city": "Chandigarh",
     "country": "India",
     "twitter": "@vingar"
+  },
+  {
+    "name": "Leading Design San Francisco",
+    "url": "https://leadingdesign.com/conferences/sanfran-2020",
+    "startDate": "2020-03-04",
+    "endDate": "2020-03-06",
+    "city": "San Francisco",
+    "country": "U.S.A.",
+    "twitter": "@LDconf"
   },
   {
     "name": "UX Copenhagen",
@@ -214,5 +214,16 @@
     "country": "Germany",
     "twitter": "@uxdhealthcare",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScaCNQf7_X9XG9v_Jw0BiL__s0IE3gOPLrA5vC8wYNq7fhcsg/viewform"
+  },
+  {
+    "name": "Digital Labin",
+    "url": "https://digitalab.in",
+    "startDate": "2020-09-25",
+    "endDate": "2020-09-26",
+    "city": "Labin",
+    "country": "Croatia",
+    "twitter": "@digitallabin",
+    "cfpUrl": "https://digitalab.in",
+    "cfpEndDate": "2020-09-26"
   }
 ]
