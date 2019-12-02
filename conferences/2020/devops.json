@@ -182,6 +182,17 @@
     "country": "U.S.A."
   },
   {
+    "name": "DevOpsDays Toronto",
+    "url": "https://devopsdays.org/events/2020-toronto/welcome",
+    "startDate": "2020-04-16",
+    "endDate": "2020-04-17",
+    "city": "Toronto ",
+    "country": "Canada",
+    "twitter": "@DevOpsDaysTO ",
+    "cfpUrl": "https://www.papercall.io/dodto2020",
+    "cfpEndDate": "2020-01-31"
+  },
+  {
     "name": "devopsdays Atlanta",
     "url": "https://devopsdays.org/events/2020-atlanta/welcome/",
     "startDate": "2020-04-21",
@@ -303,22 +314,22 @@
   },
   {
     "name": "DevOps Talks Conference",
-    "url": "https://devops.talksplus.com/sydney/devops.html",
-    "startDate": "2020-08-24",
-    "endDate": "2020-08-25",
-    "city": "Sydney",
-    "country": "Australia",
+    "url": "https://devops.talksplus.com/singapore/devops.html",
+    "startDate": "2020-08-18",
+    "endDate": "2020-08-19",
+    "city": "Singapore",
+    "country": "Singapore",
     "twitter": "@DOTC20",
     "cfpUrl": "https://devops.talksplus.com/submit_talk.html",
     "cfpEndDate": "2020-06-26"
   },
   {
     "name": "DevOps Talks Conference",
-    "url": "https://devops.talksplus.com/singapore/devops.html",
-    "startDate": "2020-08-18",
-    "endDate": "2020-08-19",
-    "city": "Singapore",
-    "country": "Singapore",
+    "url": "https://devops.talksplus.com/sydney/devops.html",
+    "startDate": "2020-08-24",
+    "endDate": "2020-08-25",
+    "city": "Sydney",
+    "country": "Australia",
     "twitter": "@DOTC20",
     "cfpUrl": "https://devops.talksplus.com/submit_talk.html",
     "cfpEndDate": "2020-06-26"
