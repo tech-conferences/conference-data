@@ -62,6 +62,15 @@
     "twitter": "@fresheventsfl"
   },
   {
+    "name": "FrontFest",
+    "url": "https://frontfest.es/",
+    "startDate": "2020-02-15",
+    "endDate": "2020-02-15",
+    "city": "Madrid",
+    "country": "Spain",
+    "twitter": "@frontfest"
+  },
+  {
     "name": "nodeAtlanta",
     "url": "https://node-atl.org",
     "startDate": "2020-02-17",
@@ -441,6 +450,17 @@
     "cfpEndDate": "2020-04-01"
   },
   {
+    "name": "React Week '20",
+    "url": "http://reactweek.nyc",
+    "startDate": "2020-07-14",
+    "endDate": "2020-07-18",
+    "city": "New York",
+    "country": "U.S.A.",
+    "twitter": "@reactweek",
+    "cfpUrl": "http://fht.nyc/RW20CFP",
+    "cfpEndDate": "2020-03-15"
+  },
+  {
     "name": "JScamp Barcelona",
     "url": "https://jscamp.tech",
     "startDate": "2020-07-16",
@@ -524,14 +544,5 @@
     "city": "New York",
     "country": "U.S.A.",
     "twitter": "@smashingconf"
-  },
-  {
-    "name": "FrontFest",
-    "url": "https://frontfest.es/",
-    "startDate": "2020-02-15",
-    "endDate": "2020-02-15",
-    "city": "Madrid",
-    "country": "Spain",
-    "twitter": "@frontfest"
   }
 ]
