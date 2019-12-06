@@ -22,6 +22,15 @@
     "cfpEndDate": "2020-01-01"
   },
   {
+    "name": "Visual Studio Live! Las Vegas",
+    "url": "https://vslive.com/Events/Las-Vegas-2020/Home.aspx",
+    "startDate": "2020-03-01",
+    "endDate": "2020-03-06",
+    "city": "Las Vegas",
+    "country": "U.S.A.",
+    "twitter": "@vslive"
+  },
+  {
     "name": "Future Tech",
     "url": "https://futuretech.nl",
     "startDate": "2020-03-25",
@@ -38,6 +47,24 @@
     "startDate": "2020-08-03",
     "endDate": "2020-08-07",
     "city": "Redmond",
+    "country": "U.S.A.",
+    "twitter": "@vslive"
+  },
+  {
+    "name": "Visual Studio Live! Nashville",
+    "url": "https://vslive.com/events/nashville-2020/home.aspx",
+    "startDate": "2020-05-17",
+    "endDate": "2020-05-21",
+    "city": "Nashville",
+    "country": "U.S.A.",
+    "twitter": "@vslive"
+  },
+  {
+    "name": "Visual Studio Live! Austin",
+    "url": "https://vslive.com/events/austin-2020/home.aspx",
+    "startDate": "2020-03-30",
+    "endDate": "2020-04-03",
+    "city": "Austin ",
     "country": "U.S.A.",
     "twitter": "@vslive"
   }
