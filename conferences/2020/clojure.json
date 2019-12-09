@@ -1,2 +1,35 @@
 [
+  {
+    "name": "Clojure/north 2020",
+    "url": "https://clojurenorth.com/",
+    "startDate": "2019-06-25",
+    "endDate": "2019-06-26",
+    "city": "Toronto",
+    "country": "Canada",
+    "cfpUrl": "",
+    "cfpEndDate": "",
+    "twitter": "@clojurenorth"
+  },
+  {
+    "name": "IN/Clojure 2020",
+    "url": "https://inclojure.org/",
+    "startDate": "2020-02-14",
+    "endDate": "2020-02-15",
+    "city": "Pune",
+    "country": "India",
+    "cfpUrl": "https://hasgeek.com/inclojure/2020/proposals",
+    "cfpEndDate": "",
+    "twitter": "@in_clojure"
+  },
+  {
+    "name": ":clojureD 2020",
+    "url": "https://clojured.de/",
+    "startDate": "2020-02-29",
+    "endDate": "2020-02-29",
+    "city": "Berlin",
+    "country": "Germany",
+    "cfpUrl": "",
+    "cfpEndDate": "",
+    "twitter": "clojuredconf"
+  }
 ]
