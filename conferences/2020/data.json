@@ -96,5 +96,15 @@
     "city": "Munich",
     "country": "Germany",
     "twitter": "@mlconference"
+  },
+  {
+    "name": "O'Reilly TensorFlow World Conference",
+    "url": "https://conferences.oreilly.com/tensorflow/tf-ca",
+    "startDate": "2020-10-19",
+    "endDate": "2020-10-22",
+    "city": "Santa Clara",
+    "country": "U.S.A.",
+    "twitter": "@TensorFlowWorld",
+    "cfpEndDate": "2020-04-14"
   }
 ]
