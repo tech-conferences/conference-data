@@ -1,6 +1,6 @@
 [
   {
-    "name": "7th International Conference on Artificial Intelligence and Applications (AIAPP )",
+    "name": "7th International Conference on Artificial Intelligence and Applications (AIAPP)",
     "url": "https://cosit2020.org/aiapp/index.html",
     "startDate": "2020-01-25",
     "endDate": "2020-01-26",
@@ -49,7 +49,7 @@
     "twitter": "@mlconference"
   },
   {
-    "name": "ODSC East  - Open Data Science Conference",
+    "name": "ODSC East - Open Data Science Conference",
     "url": "https://odsc.com/boston",
     "startDate": "2020-04-13",
     "endDate": "2020-04-17",
@@ -96,6 +96,16 @@
     "city": "Munich",
     "country": "Germany",
     "twitter": "@mlconference"
+  },
+  {
+    "name": "9th International Conference on Data Mining & Knowledge Management Process (CDKP)",
+    "url": "https://icaita2020.org/cdkp/index.html",
+    "startDate": "2020-07-11",
+    "endDate": "2020-07-12",
+    "city": "Toronto",
+    "country": "Canada",
+    "cfpUrl": "https://icaita2020.org/cdkp/index.html",
+    "cfpEndDate": "2020-02-29"
   },
   {
     "name": "O'Reilly TensorFlow World Conference",
