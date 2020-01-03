@@ -39,6 +39,15 @@
     "cfpEndDate": "2019-11-15"
   },
   {
+    "name": "ProductCraft",
+    "url": "https://productcraft.com/conference/san-francisco",
+    "startDate": "2020-02-25",
+    "endDate": "2020-02-25",
+    "city": "San Francisco",
+    "country": "U.S.A.",
+    "twitter": "@product_craft"
+  },
+  {
     "name": "Industry",
     "url": "https://europe.industryconference.com",
     "startDate": "2020-03-10",
@@ -65,12 +74,21 @@
     "twitter": "@mindtheproduct‬"
   },
   {
-    "name": "ProductCraft Conference - Boston",
+    "name": "ProductCraft",
     "url": "https://productcraft.com/conference",
     "startDate": "2020-04-16",
     "endDate": "2020-04-16",
     "city": "Boston",
-    "country": "U.S.A.",
+    "country": "U.S.A."
+    "twitter": "@product_craft"
+  },
+  {  
+    "name": "ProductCraft",
+    "url": "https://productcraft.com/conference/london",
+    "startDate": "2020-03-31",
+    "endDate": "2020-03-31",
+    "city": "London",
+    "country": "U.K.",
     "twitter": "@product_craft"
   },
   {
