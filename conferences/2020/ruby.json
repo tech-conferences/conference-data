@@ -39,12 +39,14 @@
     "twitter": "@RubyKaigi"
   },
   {
-    "name": "RubyConf India",
+    "name": "RubyConfIndia",
     "url": "https://rubyconfindia.org",
     "startDate": "2020-04-25",
     "endDate": "2020-04-26",
-    "city": "Goa",
-    "country": "India"
+    "city": "Cidade De Goa",
+    "country": "India",
+    "cfpUrl": "https://www.papercall.io/rci20",
+    "cfpEndDate": "2020-02-29"
   },
   {
     "name": "Euruko",
