@@ -1,16 +1,5 @@
 [
   {
-    "name": "Clojure/north",
-    "url": "https://clojurenorth.com/",
-    "startDate": "2019-06-25",
-    "endDate": "2019-06-26",
-    "city": "Toronto",
-    "country": "Canada",
-    "cfpUrl": "https://www.papercall.io/clojure-north-2020",
-    "cfpEndDate": "2020-02-16",
-    "twitter": "@clojurenorth"
-  },
-  {
     "name": "IN/Clojure",
     "url": "https://inclojure.org/",
     "startDate": "2020-02-14",
@@ -28,8 +17,17 @@
     "endDate": "2020-02-29",
     "city": "Berlin",
     "country": "Germany",
-    "cfpUrl": "",
-    "cfpEndDate": "",
     "twitter": "@clojuredconf"
+  },
+  {
+    "name": "Clojure/north",
+    "url": "https://clojurenorth.com/",
+    "startDate": "2019-06-25",
+    "endDate": "2019-06-26",
+    "city": "Toronto",
+    "country": "Canada",
+    "cfpUrl": "https://www.papercall.io/clojure-north-2020",
+    "cfpEndDate": "2020-02-16",
+    "twitter": "@clojurenorth"
   }
 ]
