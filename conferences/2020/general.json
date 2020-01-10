@@ -295,6 +295,15 @@
     "cfpEndDate": "2020-02-14"
   },
   {
+    "name": "MobileTech Conference & Summit",
+    "url": "https://mobiletechcon.de/en",
+    "startDate": "2020-03-30",
+    "endDate": "2020-04-01",
+    "city": "Munich",
+    "country": "Germany",
+    "twitter": "@mobiletechcon"
+  },
+  {
     "name": "#PerfMatters Conference",
     "url": "https://perfmattersconf.com",
     "startDate": "2020-03-31",
@@ -649,15 +658,6 @@
     "cfpEndDate": "2020-05-31"
   },
   {
-    "name": "GOTO Copenhagen",
-    "url": "http://gotocph.com",
-    "startDate": "2020-11-09",
-    "endDate": "2020-11-13",
-    "city": "Copenhagen",
-    "country": "Denmark",
-    "twitter": "@gotocph"
-  },
-  {
     "name": "GOTO Berlin",
     "url": "http://gotober.com",
     "startDate": "2020-10-26",
@@ -665,6 +665,15 @@
     "city": "Berlin",
     "country": "Germany",
     "twitter": "@gotober"
+  },
+  {
+    "name": "GOTO Copenhagen",
+    "url": "http://gotocph.com",
+    "startDate": "2020-11-09",
+    "endDate": "2020-11-13",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "twitter": "@gotocph"
   },
   {
     "name": "QCon",
