@@ -75,20 +75,20 @@
   },
   {
     "name": "ProductCraft",
-    "url": "https://productcraft.com/conference",
-    "startDate": "2020-04-16",
-    "endDate": "2020-04-16",
-    "city": "Boston",
-    "country": "U.S.A.",
-    "twitter": "@product_craft"
-  },
-  {
-    "name": "ProductCraft",
     "url": "https://productcraft.com/conference/london",
     "startDate": "2020-03-31",
     "endDate": "2020-03-31",
     "city": "London",
     "country": "U.K.",
+    "twitter": "@product_craft"
+  },
+  {
+    "name": "ProductCraft",
+    "url": "https://productcraft.com/conference",
+    "startDate": "2020-04-16",
+    "endDate": "2020-04-16",
+    "city": "Boston",
+    "country": "U.S.A.",
     "twitter": "@product_craft"
   },
   {
@@ -125,6 +125,16 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "twitter": "@mindtheproduct‬"
+  },
+  {
+    "name": "Industry",
+    "url": "https://global.industryconference.com",
+    "startDate": "2020-09-21",
+    "endDate": "2020-09-23",
+    "city": "Cleveland, OH",
+    "country": "U.S.A.",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfDzls_8G0gVacONoDjTuijWu48oreqbZ8NIDTjpxy3_9WSPQ/viewform",
+    "cfpEndDate": "2020-01-31"
   },
   {
     "name": "Mind the Product",
