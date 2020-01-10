@@ -28,16 +28,6 @@
     "country": "U.S.A."
   },
   {
-    "name": "BaseConf  powered by Techsauce Global Summit",
-    "url": "https://www.baseconf.com",
-    "startDate": "2020-01-15",
-    "endDate": "2020-01-16",
-    "city": "Johor Bahru",
-    "country": "Malaysia",
-    "cfpUrl": "https://www.baseconf.com",
-    "cfpEndDate": "2019-12-31"
-  },
-  {
     "name": "Conf42: Chaos Engineering",
     "url": "https://www.conf42.com",
     "startDate": "2020-01-23",
@@ -57,7 +47,7 @@
     "twitter": "@FlutterEurope"
   },
   {
-    "name": "7th International Conference on Computer Science and Information Technology (CoSIT )",
+    "name": "7th International Conference on Computer Science and Information Technology (CoSIT)",
     "url": "https://cosit2020.org",
     "startDate": "2020-01-25",
     "endDate": "2020-01-26",
@@ -87,15 +77,6 @@
     "twitter": "@ddd_eu"
   },
   {
-    "name": "Front End North",
-    "url": "https://frontendnorth.com",
-    "startDate": "2020-02-07",
-    "endDate": "2020-02-07",
-    "city": "Sheffield",
-    "country": "U.K.",
-    "twitter": "@frontendnorth"
-  },
-  {
     "name": "DeveloperWeek",
     "url": "https://www.developerweek.com",
     "startDate": "2020-02-12",
@@ -104,17 +85,6 @@
     "country": "U.S.A.",
     "twitter": "@developerweek",
     "cfpUrl": "https://www.developerweek.com/conference/apply-to-speak",
-    "cfpEndDate": "2019-11-15"
-  },
-  {
-    "name": "DeveloperWeek",
-    "url": "https://developerweek.com",
-    "startDate": "2020-02-12",
-    "endDate": "2020-02-16",
-    "city": "Oakland",
-    "country": "U.S.A.",
-    "twitter": "@developerweek",
-    "cfpUrl": "https://developerweek.com/conference/call-for-speakers",
     "cfpEndDate": "2019-11-15"
   },
   {
@@ -156,28 +126,6 @@
     "twitter": "@confooca",
     "cfpUrl": "https://confoo.ca/en/yul2020/call-for-papers",
     "cfpEndDate": "2019-09-16"
-  },
-  {
-    "name": "building IoT",
-    "url": "https://www.buildingiot.de",
-    "startDate": "2020-03-02",
-    "endDate": "2020-03-04",
-    "city": "Essen",
-    "country": "Germany",
-    "twitter": "@building_iot",
-    "cfpUrl": "https://www.buildingiot.de/call_for_proposals_en.php",
-    "cfpEndDate": "2019-09-25"
-  },
-  {
-    "name": "AI in Healthcare Qatar",
-    "url": "https://www.keynotic.com/AIHQ",
-    "startDate": "2020-03-02",
-    "endDate": "2020-03-02",
-    "city": "Doha",
-    "country": "Qatar",
-    "twitter": "@keynotic",
-    "cfpUrl": "https://www.keynotic.com/AIHQ/register.php",
-    "cfpEndDate": "2020-03-01"
   },
   {
     "name": "QCon",
@@ -578,25 +526,6 @@
     "twitter": "@webconf_asia"
   },
   {
-    "name": "Ai4",
-    "url": "https://ai4.io",
-    "startDate": "2020-09-01",
-    "endDate": "2020-09-02",
-    "city": "Las Vegas, NV",
-    "country": "U.S.A.",
-    "twitter": "@Ai4Conferences"
-  },
-  {
-    "name": "International Conference on Artificial Neural Networks",
-    "url": "https://icann.coreconferences.com",
-    "startDate": "2020-09-08",
-    "endDate": "2020-09-09",
-    "city": "London",
-    "country": "U.K.",
-    "cfpUrl": "https://icann.coreconferences.com",
-    "cfpEndDate": "2020-08-10"
-  },
-  {
     "name": "International Conference on Business Information System and Knowledge",
     "url": "https://icbisk.coreconferences.com",
     "startDate": "2020-09-08",
@@ -646,7 +575,7 @@
   },
   {
     "name": "QCon Munich",
-    "url": "http://bit.ly/39DxbCm",
+    "url": "https://qconmunich.com/",
     "startDate": "2020-10-19",
     "endDate": "2020-10-21",
     "city": "Munich",
@@ -683,13 +612,5 @@
     "city": "Copenhagen",
     "country": "Denmark",
     "twitter": "@gotocph"
-  },
-  {
-    "name": "QCon",
-    "url": "https://qconmunich.com",
-    "startDate": "2020-11-19",
-    "endDate": "2020-11-21",
-    "city": "Munich",
-    "country": "Germany"
   }
 ]
