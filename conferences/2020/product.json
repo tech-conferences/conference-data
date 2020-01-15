@@ -1,14 +1,5 @@
 [
   {
-    "name": "#ProductCon",
-    "url": "https://www.productschool.com/productcon/london",
-    "startDate": "2020-02-11",
-    "endDate": "2020-02-11",
-    "city": "London",
-    "country": "U.K.",
-    "twitter": "@productschool"
-  },
-  {
     "name": "Mind the Product",
     "url": "https://www.mindtheproduct.com/mtpengage/manchester",
     "startDate": "2020-02-06",
@@ -16,6 +7,15 @@
     "city": "Manchester",
     "country": "U.K.",
     "twitter": "@mindtheproduct"
+  },
+  {
+    "name": "#ProductCon",
+    "url": "https://www.productschool.com/productcon/london",
+    "startDate": "2020-02-11",
+    "endDate": "2020-02-11",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@productschool"
   },
   {
     "name": "ProductWorld",
@@ -53,6 +53,15 @@
     "city": "Carmel, IN",
     "country": "U.S.A.",
     "twitter": "@_ProjectProduct"
+  },
+  {
+    "name": "Software Product Management Summit",
+    "url": "https://spmsummit.org",
+    "startDate": "2020-03-24",
+    "endDate": "2020-03-25",
+    "city": "Frankfurt",
+    "country": "Germany",
+    "twitter": "@ispma_org"
   },
   {
     "name": "Mind the Product",
