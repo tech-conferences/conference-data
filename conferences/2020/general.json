@@ -28,17 +28,6 @@
     "country": "U.S.A."
   },
   {
-    "name": "Great International Developer Summit (GIDS)",
-    "url": "https://www.developersummit.com",
-    "startDate": "2020-04-20",
-    "endDate": "2020-04-24",
-    "city": "Bangalore",
-    "country": "India",
-    "twitter": "@developersummit",
-    "cfpUrl": "https://developersummit.com/india/callForProposals.html",
-    "cfpEndDate": "2020-02-10"
-  },
-  {
     "name": "Conf42: Chaos Engineering",
     "url": "https://www.conf42.com",
     "startDate": "2020-01-23",
@@ -345,6 +334,17 @@
     "city": "Paris",
     "country": "France",
     "twitter": "@DevoxxFR"
+  },
+  {
+    "name": "Great International Developer Summit (GIDS)",
+    "url": "https://www.developersummit.com",
+    "startDate": "2020-04-20",
+    "endDate": "2020-04-24",
+    "city": "Bangalore",
+    "country": "India",
+    "twitter": "@developersummit",
+    "cfpUrl": "https://developersummit.com/india/callForProposals.html",
+    "cfpEndDate": "2020-02-10"
   },
   {
     "name": "Serverless Architecture Conference",
@@ -796,5 +796,14 @@
     "city": "Copenhagen",
     "country": "Denmark",
     "twitter": "@gotocph"
+  },
+  {
+    "name": "Tech Up For Women",
+    "url": "https://techupforwomen.com/event-details",
+    "startDate": "2020-11-17",
+    "endDate": "2020-11-17",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "twitter": "@techupforwomen"
   }
 ]
