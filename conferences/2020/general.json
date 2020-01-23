@@ -28,17 +28,6 @@
     "country": "U.S.A."
   },
   {
-    "name": "Great International Developer Summit (GIDS)",
-    "url": "https://www.developersummit.com",
-    "startDate": "2020-04-20",
-    "endDate": "2020-04-24",
-    "city": "Bangalore",
-    "country": "India",
-    "twitter": "@developersummit",
-    "cfpUrl": "https://developersummit.com/india/callForProposals.html",
-    "cfpEndDate": "2020-02-10"
-  },
-  {
     "name": "Conf42: Chaos Engineering",
     "url": "https://www.conf42.com",
     "startDate": "2020-01-23",
@@ -196,6 +185,15 @@
     "cfpEndDate": "2020-02-29"
   },
   {
+    "name": "WECode",
+    "url": "https://www.wecodeharvard.org",
+    "startDate": "2020-03-06",
+    "endDate": "2020-03-08",
+    "city": "Cambridge, MA",
+    "country": "U.S.A.",
+    "twitter": "@WECodeHarvard"
+  },
+  {
     "name": "Software Architecture Summit",
     "url": "https://software-architecture-summit.de",
     "startDate": "2020-03-09",
@@ -345,6 +343,17 @@
     "city": "Paris",
     "country": "France",
     "twitter": "@DevoxxFR"
+  },
+  {
+    "name": "Great International Developer Summit (GIDS)",
+    "url": "https://www.developersummit.com",
+    "startDate": "2020-04-20",
+    "endDate": "2020-04-24",
+    "city": "Bangalore",
+    "country": "India",
+    "twitter": "@developersummit",
+    "cfpUrl": "https://developersummit.com/india/callForProposals.html",
+    "cfpEndDate": "2020-02-10"
   },
   {
     "name": "Serverless Architecture Conference",
