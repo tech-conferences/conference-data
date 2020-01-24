@@ -28,17 +28,6 @@
     "country": "U.S.A."
   },
   {
-    "name": "Great International Developer Summit (GIDS)",
-    "url": "https://www.developersummit.com",
-    "startDate": "2020-04-20",
-    "endDate": "2020-04-24",
-    "city": "Bangalore",
-    "country": "India",
-    "twitter": "@developersummit",
-    "cfpUrl": "https://developersummit.com/india/callForProposals.html",
-    "cfpEndDate": "2020-02-10"
-  },
-  {
     "name": "Conf42: Chaos Engineering",
     "url": "https://www.conf42.com",
     "startDate": "2020-01-23",
@@ -345,6 +334,17 @@
     "city": "Paris",
     "country": "France",
     "twitter": "@DevoxxFR"
+  },
+  {
+    "name": "Great International Developer Summit (GIDS)",
+    "url": "https://www.developersummit.com",
+    "startDate": "2020-04-20",
+    "endDate": "2020-04-24",
+    "city": "Bangalore",
+    "country": "India",
+    "twitter": "@developersummit",
+    "cfpUrl": "https://developersummit.com/india/callForProposals.html",
+    "cfpEndDate": "2020-02-10"
   },
   {
     "name": "Serverless Architecture Conference",
@@ -705,6 +705,15 @@
     "city": "Hamburg",
     "country": "Germany",
     "twitter": "@nextconf"
+  },
+  {
+    "name": "Web Weekend Kathmandu",
+    "url": "https://wwktm.co",
+    "startDate": "2020-09-19",
+    "endDate": "2020-09-20",
+    "city": "Kathmandu",
+    "country": "Nepal",
+    "twitter": "@weekend_web"
   },
   {
     "name": "Interop",
