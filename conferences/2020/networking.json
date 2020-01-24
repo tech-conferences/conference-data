@@ -58,6 +58,17 @@
     "cfpEndDate": "2019-12-02"
   },
   {
+    "name": "Women in Tech Summit - Mid-Atlantic",
+    "url": "https://midatlantic.womenintechsummit.net",
+    "startDate": "2020-04-14",
+    "endDate": "2020-04-15",
+    "city": "Washington, D.C.",
+    "country": "U.S.A.",
+    "twitter": "@womentechsummit",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeeUG7SoYSVvbb7hcxV2-ocCDHL7YXEyMCfKOht2ccDvngwaQ/viewform",
+    "cfpEndDate": "2019-09-20"
+  },
+  {
     "name": "IoTFuse Conference",
     "url": "https://iotfuse.com/register",
     "startDate": "2020-04-16",
@@ -89,6 +100,17 @@
     "cfpEndDate": "2019-11-30"
   },
   {
+    "name": "Women in Tech Summit - Northeast",
+    "url": "http://northeast.womenintechsummit.net",
+    "startDate": "2020-04-23",
+    "endDate": "2020-04-24",
+    "city": "Philadelphia, PA",
+    "country": "U.S.A.",
+    "twitter": "@womentechsummit",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeeUG7SoYSVvbb7hcxV2-ocCDHL7YXEyMCfKOht2ccDvngwaQ/viewform",
+    "cfpEndDate": "2019-09-20"
+  },
+  {
     "name": "IEEE Infrastructure Conference",
     "url": "https://infrastructure.ieee.org",
     "startDate": "2020-04-29",
@@ -98,6 +120,17 @@
     "twitter": "@IEEEInfra",
     "cfpUrl": "https://infrastructure.ieee.org/calls-for-participation",
     "cfpEndDate": "2020-02-24"
+  },
+  {
+    "name": "Women in Tech Summit - Midwest",
+    "url": "http://midwest.womenintechsummit.net",
+    "startDate": "2020-05-08",
+    "endDate": "2020-05-08",
+    "city": "Chicago, IL",
+    "country": "U.S.A.",
+    "twitter": "@womentechsummit",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeeUG7SoYSVvbb7hcxV2-ocCDHL7YXEyMCfKOht2ccDvngwaQ/viewform",
+    "cfpEndDate": "2019-09-20"
   },
   {
     "name": "IEEE Women in Engineering International Leadership Conference",
@@ -160,6 +193,38 @@
     "cfpEndDate": "2020-08-10"
   },
   {
+    "name": "Grace Hopper Celebration (GHC 20)",
+    "url": "https://ghc.anitab.org/2020-attend",
+    "startDate": "2020-09-29",
+    "endDate": "2020-10-02",
+    "city": "Orlando, FL",
+    "country": "U.S.A.",
+    "twitter": "@ghc",
+    "cfpUrl": "https://ghc.anitab.org/2020-speakers"
+  },
+  {
+    "name": "Women in Tech Summit",
+    "url": "http://west.womenintechsummit.net",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-09",
+    "city": "Denver, CO",
+    "country": "U.S.A.",
+    "twitter": "@womentechsummit",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeeUG7SoYSVvbb7hcxV2-ocCDHL7YXEyMCfKOht2ccDvngwaQ/viewform",
+    "cfpEndDate": "2019-09-20"
+  },
+  {
+    "name": "Women in Tech Summit",
+    "url": "http://southeast.womenintechsummit.net",
+    "startDate": "2020-10-29",
+    "endDate": "2020-10-30",
+    "city": "Raleigh, NC",
+    "country": "U.S.A.",
+    "twitter": "@womentechsummit",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeeUG7SoYSVvbb7hcxV2-ocCDHL7YXEyMCfKOht2ccDvngwaQ/viewform",
+    "cfpEndDate": "2019-09-20"
+  },
+  {
     "name": "WE20",
     "url": "https://societyofwomenengineers.swe.org",
     "startDate": "2020-11-05",
@@ -167,5 +232,14 @@
     "city": "New Orleans, LA",
     "country": "U.S.A.",
     "twitter": "@SWEtalk"
+  },
+  {
+    "name": "IT-Tage",
+    "url": "http://www.it-tage.org",
+    "startDate": "2020-12-14",
+    "endDate": "2020-12-17",
+    "city": "Frankfurt",
+    "country": "Germany",
+    "twitter": "@InformatikAktue"
   }
 ]

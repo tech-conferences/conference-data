@@ -55,12 +55,21 @@
     "twitter": "@vingar"
   },
   {
-    "name": "NN/g UX Conference - Los Angeles",
+    "name": "NN/g UX Conference",
     "url": "https://www.nngroup.com/training/los-angeles",
     "startDate": "2020-02-23",
     "endDate": "2020-02-28",
     "city": "Los Angeles, CA",
     "country": "U.S.A.",
+    "twitter": "@nngroup"
+  },
+  {
+    "name": "NN/g UX Conference",
+    "url": "https://www.nngroup.com/training/singapore",
+    "startDate": "2020-02-17",
+    "endDate": "2020-02-22",
+    "city": "Marina Bay Sands",
+    "country": "Singapore",
     "twitter": "@nngroup"
   },
   {
@@ -111,6 +120,15 @@
     "cfpEndDate": "2019-10-31"
   },
   {
+    "name": "An Event Apart DC",
+    "url": "https://aneventapart.com/event/washington-dc-2020",
+    "startDate": "2020-04-13",
+    "endDate": "2020-04-15",
+    "city": "Washington, D.C.",
+    "country": "U.S.A.",
+    "twitter": "@aneventapart"
+  },
+  {
     "name": "SmashingConf",
     "url": "https://smashingconf.com/sf-2020",
     "startDate": "2020-04-21",
@@ -147,6 +165,15 @@
     "city": "Cape Town",
     "country": "South Africa",
     "twitter": "@letspixelup"
+  },
+  {
+    "name": "An Event Apart Seattle",
+    "url": "https://aneventapart.com/event/seattle-2020",
+    "startDate": "2020-05-11",
+    "endDate": "2020-05-13",
+    "city": "Seattle, WA",
+    "country": "U.S.A.",
+    "twitter": "@aneventapart"
   },
   {
     "name": "UIKonf",
@@ -241,6 +268,24 @@
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScaCNQf7_X9XG9v_Jw0BiL__s0IE3gOPLrA5vC8wYNq7fhcsg/viewform"
   },
   {
+    "name": "An Event Apart Boston",
+    "url": "https://aneventapart.com/event/boston-2020",
+    "startDate": "2020-06-29",
+    "endDate": "2020-07-01",
+    "city": "Boston, MA",
+    "country": "U.S.A.",
+    "twitter": "@aneventapart"
+  },
+  {
+    "name": "An Event Apart Minneapolis",
+    "url": "https://aneventapart.com/event/minneapolis-2020",
+    "startDate": "2020-08-17",
+    "endDate": "2020-08-19",
+    "city": "Minneapolis, MN",
+    "country": "U.S.A.",
+    "twitter": "@aneventapart"
+  },
+  {
     "name": "SmashingConf",
     "url": "https://smashingconf.com/freiburg-2020",
     "startDate": "2020-09-07",
@@ -289,6 +334,15 @@
     "cfpEndDate": "2020-09-26"
   },
   {
+    "name": "An Event Apart Orlando",
+    "url": "https://aneventapart.com/event/orlando-2020",
+    "startDate": "2020-10-05",
+    "endDate": "2020-10-07",
+    "city": "Orlando, FL",
+    "country": "U.S.A.",
+    "twitter": "@aneventapart"
+  },
+  {
     "name": "UXDX",
     "url": "https://uxdxconf.com",
     "startDate": "2020-10-08",
@@ -307,5 +361,14 @@
     "city": "Ottawa",
     "country": "Canada",
     "twitter": "@canuxconf"
+  },
+  {
+    "name": "An Event Apart San Francisco",
+    "url": "https://aneventapart.com/event/san-francisco-2020",
+    "startDate": "2020-12-14",
+    "endDate": "2020-12-16",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "twitter": "@aneventapart"
   }
 ]
