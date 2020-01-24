@@ -21,6 +21,15 @@
     "cfpEndDate": "2019-12-13"
   },
   {
+    "name": "AAAI",
+    "url": "https://aaai.org/Conferences/AAAI-20",
+    "startDate": "2020-02-07",
+    "endDate": "2020-02-12",
+    "city": "New York",
+    "country": "U.S.A.",
+    "twitter": "@RealAAAI"
+  },
+  {
     "name": "Machine Learning Essentials",
     "url": "https://ml-essentials.de",
     "startDate": "2020-02-17",
@@ -38,6 +47,15 @@
     "twitter": "@keynotic",
     "cfpUrl": "https://www.keynotic.com/AIHQ/register.php",
     "cfpEndDate": "2020-03-01"
+  },
+  {
+    "name": "Women in Data Science (WiDS)",
+    "url": "https://www.widsconference.org/conference.html",
+    "startDate": "2020-03-02",
+    "endDate": "2020-03-02",
+    "city": "Stanford, CA",
+    "country": "U.S.A.",
+    "twitter": "@WiDS_Conference"
   },
   {
     "name": "Data Center World",

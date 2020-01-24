@@ -111,6 +111,17 @@
     "cfpEndDate": "2019-09-20"
   },
   {
+    "name": "Girls In Tech Summit",
+    "url": "https://www.techgirlz.org/girls-in-tech-summit",
+    "startDate": "2020-04-25",
+    "endDate": "2020-04-25",
+    "city": "Philadelphia, PA",
+    "country": "U.S.A.",
+    "twitter": "@TechGirlzorg",
+    "cfpUrl": "https://www.tfaforms.com/4796753?utm_source=WITS+Master+email+list",
+    "cfpEndDate": "2020-01-30"
+  },
+  {
     "name": "IEEE Infrastructure Conference",
     "url": "https://infrastructure.ieee.org",
     "startDate": "2020-04-29",
@@ -164,6 +175,15 @@
     "cfpEndDate": "2020-01-05"
   },
   {
+    "name": "Women Impact Tech (WIT) - Seattle",
+    "url": "https://womenimpacttech.com/event/seattle2020",
+    "startDate": "2020-06-03",
+    "endDate": "2020-06-03",
+    "city": "Seattle, WA",
+    "country": "U.S.A.",
+    "twitter": "@womenimpacttech"
+  },
+  {
     "name": "Viva Technology",
     "url": "https://vivatechnology.com",
     "startDate": "2020-06-11",
@@ -183,11 +203,19 @@
     "cfpEndDate": "2020-03-31"
   },
   {
-    "name": "Women Impact Tech (WIT) - San Francisco",
+    "name": "Women Impact Tech",
     "url": "https://womenimpacttech.com/event/nyc2020",
     "startDate": "2020-08-27",
     "endDate": "2020-08-27",
     "city": "New York, NY",
+    "country": "U.S.A.",
+    "twitter": "@womenimpacttech"
+  },
+    "name": "Women Impact Tech",
+    "url": "https://womenimpacttech.com/event/boston2020",
+    "startDate": "2020-07-30",
+    "endDate": "2020-07-30",
+    "city": "Boston, MA",
     "country": "U.S.A.",
     "twitter": "@womenimpacttech"
   },
@@ -200,6 +228,16 @@
     "country": "U.K.",
     "cfpUrl": "https://stemconferences.com/icast/cfp.html",
     "cfpEndDate": "2020-08-10"
+  },
+  {
+    "name": "Grace Hopper Celebration (GHC 20)",
+    "url": "https://ghc.anitab.org/2020-attend",
+    "startDate": "2020-09-29",
+    "endDate": "2020-10-02",
+    "city": "Orlando, FL",
+    "country": "U.S.A.",
+    "twitter": "@ghc",
+    "cfpUrl": "https://ghc.anitab.org/2020-speakers"
   },
   {
     "name": "Women in Tech Summit",
@@ -231,5 +269,14 @@
     "city": "New Orleans, LA",
     "country": "U.S.A.",
     "twitter": "@SWEtalk"
+  },
+  {
+    "name": "IT-Tage",
+    "url": "http://www.it-tage.org",
+    "startDate": "2020-12-14",
+    "endDate": "2020-12-17",
+    "city": "Frankfurt",
+    "country": "Germany",
+    "twitter": "@InformatikAktue"
   }
 ]
