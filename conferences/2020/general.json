@@ -57,6 +57,15 @@
     "cfpEndDate": "2019-11-23"
   },
   {
+    "name": "Silicon Slopes Tech Summit",
+    "url": "https://www.siliconslopessummit.com",
+    "startDate": "2020-01-30",
+    "endDate": "2020-01-31",
+    "city": "Salt Lake City",
+    "country": "U.S.A.",
+    "twitter": "@SiliconSlopes"
+  },
+  {
     "name": "FOSDEM",
     "url": "https://fosdem.org/2020",
     "startDate": "2020-02-01",
@@ -174,6 +183,15 @@
     "twitter": "@QConLondon",
     "cfpUrl": "https://qconlondon.com/talk-submissions",
     "cfpEndDate": "2020-02-29"
+  },
+  {
+    "name": "WECode",
+    "url": "https://www.wecodeharvard.org",
+    "startDate": "2020-03-06",
+    "endDate": "2020-03-08",
+    "city": "Cambridge, MA",
+    "country": "U.S.A.",
+    "twitter": "@WECodeHarvard"
   },
   {
     "name": "Software Architecture Summit",
@@ -327,6 +345,17 @@
     "twitter": "@DevoxxFR"
   },
   {
+    "name": "Great International Developer Summit (GIDS)",
+    "url": "https://www.developersummit.com",
+    "startDate": "2020-04-20",
+    "endDate": "2020-04-24",
+    "city": "Bangalore",
+    "country": "India",
+    "twitter": "@developersummit",
+    "cfpUrl": "https://developersummit.com/india/callForProposals.html",
+    "cfpEndDate": "2020-02-10"
+  },
+  {
     "name": "Serverless Architecture Conference",
     "url": "https://serverless-architecture.io",
     "startDate": "2020-04-20",
@@ -429,6 +458,16 @@
     "twitter": "@a11yclub"
   },
   {
+    "name": "QCon São Paulo",
+    "url": "https://qconsp.com",
+    "startDate": "2020-05-04",
+    "endDate": "2020-05-06",
+    "city": "São Paulo",
+    "country": "Brazil",
+    "twitter": "@qconsp",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfTYnWE5ex9r6H0hy0o5BtNL3Vdccrz_KiJcyjFh27wKOifBA/viewform"
+  },
+  {
     "name": "Cloud DeveloperDays",
     "url": "https://cloud.developerdays.pl",
     "startDate": "2020-05-18",
@@ -455,6 +494,17 @@
     "city": "Utrecht",
     "country": "Netherlands",
     "twitter": "@TEQnation2019"
+  },
+  {
+    "name": "Dev Day",
+    "url": "https://devday.io",
+    "startDate": "2020-05-22",
+    "endDate": "2020-05-23",
+    "city": "Faro",
+    "country": "Portugal",
+    "twitter": "@DevDayTK",
+    "cfpUrl": "https://devday.io/call-for-speakers",
+    "cfpEndDate": "2020-03-31"
   },
   {
     "name": "TestBash Netherlands",
@@ -666,6 +716,15 @@
     "twitter": "@nextconf"
   },
   {
+    "name": "Web Weekend Kathmandu",
+    "url": "https://wwktm.co",
+    "startDate": "2020-09-19",
+    "endDate": "2020-09-20",
+    "city": "Kathmandu",
+    "country": "Nepal",
+    "twitter": "@weekend_web"
+  },
+  {
     "name": "Interop",
     "url": "https://www.interop.com",
     "startDate": "2020-09-21",
@@ -706,6 +765,17 @@
     "cfpEndDate": "2020-05-01"
   },
   {
+    "name": "Great International Developer Summit (GIDS)",
+    "url": "https://www.developersummit.com",
+    "startDate": "2020-10-19",
+    "endDate": "2020-10-21",
+    "city": "Sydney",
+    "country": "Australia",
+    "twitter": "@developersummit",
+    "cfpUrl": "https://developersummit.com/australia/callForProposals.html",
+    "cfpEndDate": "2020-03-06"
+  },
+  {
     "name": "Evcon",
     "url": "http://www.evcon.io",
     "startDate": "2020-10-21",
@@ -715,6 +785,17 @@
     "twitter": "@evcon20",
     "cfpUrl": "http://www.evcon.io/cfp",
     "cfpEndDate": "2020-05-31"
+  },
+  {
+    "name": "Great International Developer Summit (GIDS)",
+    "url": "https://www.developersummit.com",
+    "startDate": "2020-10-21",
+    "endDate": "2020-10-23",
+    "city": "Melbourne",
+    "country": "Australia",
+    "twitter": "@developersummit",
+    "cfpUrl": "https://developersummit.com/australia",
+    "cfpEndDate": "2020-03-06"
   },
   {
     "name": "GOTO Berlin",

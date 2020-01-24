@@ -21,6 +21,15 @@
     "cfpEndDate": "2019-12-13"
   },
   {
+    "name": "AAAI",
+    "url": "https://aaai.org/Conferences/AAAI-20",
+    "startDate": "2020-02-07",
+    "endDate": "2020-02-12",
+    "city": "New York",
+    "country": "U.S.A.",
+    "twitter": "@RealAAAI"
+  },
+  {
     "name": "Machine Learning Essentials",
     "url": "https://ml-essentials.de",
     "startDate": "2020-02-17",
@@ -38,6 +47,15 @@
     "twitter": "@keynotic",
     "cfpUrl": "https://www.keynotic.com/AIHQ/register.php",
     "cfpEndDate": "2020-03-01"
+  },
+  {
+    "name": "Women in Data Science (WiDS)",
+    "url": "https://www.widsconference.org/conference.html",
+    "startDate": "2020-03-02",
+    "endDate": "2020-03-02",
+    "city": "Stanford, CA",
+    "country": "U.S.A.",
+    "twitter": "@WiDS_Conference"
   },
   {
     "name": "Data Center World",
@@ -135,6 +153,16 @@
     "cfpEndDate": "2020-01-20"
   },
   {
+    "name": "International Conference on Logic for Programming, Artificial Intelligence and Reasoning",
+    "url": "https://easychair.org/smart-program/LPAR23/index.html",
+    "startDate": "2020-05-22",
+    "endDate": "2020-05-27",
+    "city": "Alicante",
+    "country": "Spain",
+    "cfpUrl": "https://easychair.org/cfp/LPAR-23",
+    "cfpEndDate": "2020-02-15"
+  },
+  {
     "name": "Women in Analytics Conference",
     "url": "http://www.womeninanalytics.org",
     "startDate": "2020-06-03",
@@ -212,6 +240,14 @@
     "country": "U.K.",
     "cfpUrl": "https://icann.coreconferences.com",
     "cfpEndDate": "2020-08-10"
+  },
+  {
+    "name": "ODSC Dublin",
+    "url": "https://odsc.com/dublin",
+    "startDate": "2020-09-14",
+    "endDate": "2020-09-18",
+    "city": "Dublin",
+    "country": "Ireland"
   },
   {
     "name": "O'Reilly TensorFlow World Conference",
