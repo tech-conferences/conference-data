@@ -28,17 +28,6 @@
     "country": "U.S.A."
   },
   {
-    "name": "Great International Developer Summit (GIDS)",
-    "url": "https://www.developersummit.com",
-    "startDate": "2020-04-20",
-    "endDate": "2020-04-24",
-    "city": "Bangalore",
-    "country": "India",
-    "twitter": "@developersummit",
-    "cfpUrl": "https://developersummit.com/india/callForProposals.html",
-    "cfpEndDate": "2020-02-10"
-  },
-  {
     "name": "Conf42: Chaos Engineering",
     "url": "https://www.conf42.com",
     "startDate": "2020-01-23",
@@ -345,6 +334,17 @@
     "city": "Paris",
     "country": "France",
     "twitter": "@DevoxxFR"
+  },
+  {
+    "name": "Great International Developer Summit (GIDS)",
+    "url": "https://www.developersummit.com",
+    "startDate": "2020-04-20",
+    "endDate": "2020-04-24",
+    "city": "Bangalore",
+    "country": "India",
+    "twitter": "@developersummit",
+    "cfpUrl": "https://developersummit.com/india/callForProposals.html",
+    "cfpEndDate": "2020-02-10"
   },
   {
     "name": "Serverless Architecture Conference",
@@ -657,6 +657,16 @@
     "city": "Denver, CO",
     "country": "U.S.A.",
     "twitter": "@nofluff"
+  },
+  {
+    "name": "2nd International Confernce on Power and Energy",
+    "url": "https://powerenergy.alliedacademies.com",
+    "startDate": "2020-08-17",
+    "endDate": "2020-08-18",
+    "city": "Frankfurt,",
+    "country": "Germany",
+    "cfpUrl": "https://powerenergy.alliedacademies.com",
+    "cfpEndDate": "2020-08-15"
   },
   {
     "name": "Scenic City Summit",
