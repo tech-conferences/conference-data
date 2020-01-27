@@ -56,20 +56,20 @@
   },
   {
     "name": "NN/g UX Conference",
-    "url": "https://www.nngroup.com/training/los-angeles",
-    "startDate": "2020-02-23",
-    "endDate": "2020-02-28",
-    "city": "Los Angeles, CA",
-    "country": "U.S.A.",
-    "twitter": "@nngroup"
-  },
-  {
-    "name": "NN/g UX Conference",
     "url": "https://www.nngroup.com/training/singapore",
     "startDate": "2020-02-17",
     "endDate": "2020-02-22",
     "city": "Marina Bay Sands",
     "country": "Singapore",
+    "twitter": "@nngroup"
+  },
+  {
+    "name": "NN/g UX Conference",
+    "url": "https://www.nngroup.com/training/los-angeles",
+    "startDate": "2020-02-23",
+    "endDate": "2020-02-28",
+    "city": "Los Angeles, CA",
+    "country": "U.S.A.",
     "twitter": "@nngroup"
   },
   {
@@ -129,15 +129,6 @@
     "cfpEndDate": "2019-10-31"
   },
   {
-    "name": "NN/g UX Conference",
-    "url": "https://www.nngroup.com/training/new-york-city",
-    "startDate": "2020-04-18",
-    "endDate": "2020-04-24",
-    "city": "New York, NY",
-    "country": "U.S.A.",
-    "twitter": "@nngroup"
-  },
-  {
     "name": "An Event Apart DC",
     "url": "https://aneventapart.com/event/washington-dc-2020",
     "startDate": "2020-04-13",
@@ -145,6 +136,15 @@
     "city": "Washington, D.C.",
     "country": "U.S.A.",
     "twitter": "@aneventapart"
+  },
+  {
+    "name": "NN/g UX Conference",
+    "url": "https://www.nngroup.com/training/new-york-city",
+    "startDate": "2020-04-18",
+    "endDate": "2020-04-24",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "twitter": "@nngroup"
   },
   {
     "name": "SmashingConf",
@@ -379,6 +379,14 @@
     "twitter": "@uxdxconf",
     "cfpUrl": "https://uxdxconf.com/speak",
     "cfpEndDate": "2020-02-28"
+  },
+  {
+    "name": "UX-DAY",
+    "url": "http://www.ux-day.de",
+    "startDate": "2020-10-14",
+    "endDate": "2020-10-16",
+    "city": "Mannheim",
+    "country": "Germany"
   },
   {
     "name": "CanUX",
