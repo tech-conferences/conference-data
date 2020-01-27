@@ -195,6 +195,17 @@
     "twitter": "@KubeCon_"
   },
   {
+    "name": "Global DevOps Summit",
+    "url": "https://www.clavent.com/global-devops-summit-bangalore",
+    "startDate": "2020-04-02",
+    "endDate": "2020-04-03",
+    "city": "Bangalore",
+    "country": "India",
+    "twitter": "@ClaventEvents",
+    "cfpUrl": "https://www.clavent.com/global-devops-summit-bangalore",
+    "cfpEndDate": "2020-02-10"
+  },
+  {
     "name": "devopsdays Tokyo",
     "url": "https://devopsdays.org/events/2020-tokyo/welcome/",
     "startDate": "2020-04-09",
@@ -462,6 +473,17 @@
     "twitter": "@TheLeadDev",
     "cfpUrl": "https://wvnts.co/34U1UZo",
     "cfpEndDate": "2020-01-13"
+  },
+  {
+    "name": "Cloud Native Summit",
+    "url": "https://www.cloudnativesummit.co",
+    "startDate": "2020-08-03",
+    "endDate": "2020-08-04",
+    "city": "Wellington",
+    "country": "New Zealand",
+    "twitter": "@cloudnativego",
+    "cfpUrl": "https://cfp.digitalks.io",
+    "cfpEndDate": "2020-03-31"
   },
   {
     "name": "DevOps Talks Conference",
