@@ -1,5 +1,14 @@
 [
   {
+    "name": "Lonestar Elixir",
+    "url": "https://lonestarelixir.com",
+    "startDate": "2020-02-27",
+    "endDate": "2020-02-29",
+    "city": "Austin, TX",
+    "country": "U.S.A.",
+    "twitter": "@LonestarElixir"
+  },
+  {
     "name": "Code BEAM SF",
     "url": "https://codesync.global/conferences/code-beam-sf",
     "startDate": "2020-03-05",
@@ -9,5 +18,16 @@
     "twitter": "@CodeBEAMio",
     "cfpUrl": "https://www2.codesync.global/l/23452/2019-09-20/6qs6c8",
     "cfpEndDate": "2019-10-23"
+  },
+  {
+    "name": "EMPEX NYC",
+    "url": "https://empex.co/nyc.html",
+    "startDate": "2020-05-16",
+    "endDate": "2020-05-16",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "twitter": "@empexco",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfwv01p4EQNc0TLg7vFSUx4uqA13Qtuh-D4Yqodm-JOrv3ClA/viewform",
+    "cfpEndDate": "2020-03-15"
   }
 ]
