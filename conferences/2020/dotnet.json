@@ -31,6 +31,15 @@
     "twitter": "@vslive"
   },
   {
+    "name": "NYAN Conference",
+    "url": "https://nyanconference.splashthat.com",
+    "startDate": "2020-03-03",
+    "endDate": "2020-03-03",
+    "city": "Paris",
+    "country": "France",
+    "twitter": "@NYANconf"
+  },
+  {
     "name": "Microsoft Ignite The Tour Amsterdam",
     "url": "https://www.microsoft.com/nl-nl/ignite-the-tour/amsterdam",
     "startDate": "2020-03-11",
@@ -60,17 +69,6 @@
     "twitter": "@vslive"
   },
   {
-    "name": "IcingaConf",
-    "url": "http://www.icingaconf.com",
-    "startDate": "2020-06-23",
-    "endDate": "2020-06-25",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "twitter": "@icinga",
-    "cfpUrl": "https://icingaconf.com/propose",
-    "cfpEndDate": "2020-01-31"
-  },
-  {
     "name": "Visual Studio Live! Nashville",
     "url": "https://vslive.com/events/nashville-2020/home.aspx",
     "startDate": "2020-05-17",
@@ -89,6 +87,17 @@
     "twitter": "@codegarden",
     "cfpUrl": "https://sessionize.com/codegarden-20",
     "cfpEndDate": "2020-01-07"
+  },
+  {
+    "name": "IcingaConf",
+    "url": "http://www.icingaconf.com",
+    "startDate": "2020-06-23",
+    "endDate": "2020-06-25",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@icinga",
+    "cfpUrl": "https://icingaconf.com/propose",
+    "cfpEndDate": "2020-01-31"
   },
   {
     "name": "Visual Studio Live! Microsoft Headquarters",
