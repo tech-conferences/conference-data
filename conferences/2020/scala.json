@@ -1,5 +1,13 @@
 [
   {
+    "name": "flatMap",
+    "url": "https://2020.flatmap.no",
+    "startDate": "2020-05-14",
+    "endDate": "2020-05-15",
+    "city": "Oslo",
+    "country": "Norway"
+  },
+  {
     "name": "ScalaDays",
     "url": "https://www.scaladays.org",
     "startDate": "2020-05-17",
@@ -7,7 +15,7 @@
     "city": "Seattle",
     "country": "U.S.A.",
     "twitter": "@scaladays"
-  },  
+  },
   {
     "name": "ScalaDays",
     "url": "https://www.scaladays.org",
