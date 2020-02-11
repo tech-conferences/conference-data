@@ -47,6 +47,15 @@
     "twitter": "@WorkshopSummit"
   },
   {
+    "name": "Women Impact Tech",
+    "url": "https://womenimpacttech.com/event/sanfrancisco2020",
+    "startDate": "2020-03-05",
+    "endDate": "2020-03-05",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "twitter": "@womenimpacttech"
+  },
+  {
     "name": "Women in Tech SEO Festival",
     "url": "https://www.womenintechseo.com/conference",
     "startDate": "2020-03-06",
@@ -63,15 +72,6 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "twitter": "@CornellMBA"
-  },
-  {
-    "name": "Women Impact Tech",
-    "url": "https://womenimpacttech.com/event/sanfrancisco2020",
-    "startDate": "2020-03-05",
-    "endDate": "2020-03-05",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "twitter": "@womenimpacttech"
   },
   {
     "name": "Connnectaha",
@@ -137,16 +137,6 @@
     "cfpEndDate": "2020-01-30"
   },
   {
-    "name": "Women of Silicon Valley",
-    "url": "https://www.womenofsiliconvalley.com",
-    "startDate": "2020-05-04",
-    "endDate": "2020-05-05",
-    "city": "Santa Clara, CA",
-    "country": "U.S.A.",
-    "twitter": "@wintechseries",
-    "cfpUrl": "https://www.womenofsiliconvalley.com/speaker-enquiries"
-  },
-  {
     "name": "Women in Tech Festival",
     "url": "https://siliconvalleyforum.com/women-in-tech-festival",
     "startDate": "2020-05-01",
@@ -155,6 +145,16 @@
     "country": "U.S.A.",
     "twitter": "@SVForum",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSefN278jR3Q7WHaamGB1-PO-EKjVxUg6Y-DPzi7O3ad1G4WLg/viewform"
+  },
+  {
+    "name": "Women of Silicon Valley",
+    "url": "https://www.womenofsiliconvalley.com",
+    "startDate": "2020-05-04",
+    "endDate": "2020-05-05",
+    "city": "Santa Clara, CA",
+    "country": "U.S.A.",
+    "twitter": "@wintechseries",
+    "cfpUrl": "https://www.womenofsiliconvalley.com/speaker-enquiries"
   },
   {
     "name": "Women in Tech Summit",
@@ -217,6 +217,15 @@
     "twitter": "@VivaTech"
   },
   {
+    "name": "2nd World Nursing and Nursing Education Congress",
+    "url": "https://worldnursing.peersalleyconferences.com",
+    "startDate": "2020-06-17",
+    "endDate": "2020-06-18",
+    "city": "Vancouver",
+    "country": "Canada",
+    "twitter": "https://twitter.com/WorldNursing_20"
+  },
+  {
     "name": "Open Source Camp on Bareos",
     "url": "http://www.opensourcecamp.de",
     "startDate": "2020-06-19",
@@ -237,19 +246,19 @@
   },
   {
     "name": "Women Impact Tech",
-    "url": "https://womenimpacttech.com/event/nyc2020",
-    "startDate": "2020-08-27",
-    "endDate": "2020-08-27",
-    "city": "New York, NY",
+    "url": "https://womenimpacttech.com/event/boston2020",
+    "startDate": "2020-07-30",
+    "endDate": "2020-07-30",
+    "city": "Boston, MA",
     "country": "U.S.A.",
     "twitter": "@womenimpacttech"
   },
   {
     "name": "Women Impact Tech",
-    "url": "https://womenimpacttech.com/event/boston2020",
-    "startDate": "2020-07-30",
-    "endDate": "2020-07-30",
-    "city": "Boston, MA",
+    "url": "https://womenimpacttech.com/event/nyc2020",
+    "startDate": "2020-08-27",
+    "endDate": "2020-08-27",
+    "city": "New York, NY",
     "country": "U.S.A.",
     "twitter": "@womenimpacttech"
   },
