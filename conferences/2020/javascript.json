@@ -364,6 +364,15 @@
     "cfpEndDate": "2019-12-01"
   },
   {
+    "name": "Frontend United",
+    "url": "https://www.frontendunited.org",
+    "startDate": "2020-04-30",
+    "endDate": "2020-05-02",
+    "city": "Minsk",
+    "country": "Belarus",
+    "twitter": "@frontendunited"
+  },
+  {
     "name": "AngularNL",
     "url": "http://www.angularnl.com",
     "startDate": "2020-05-01",
@@ -556,6 +565,15 @@
     "twitter": "@reactloop",
     "cfpUrl": "https://forms.gle/kRmEw8PgHsNATnaQ7",
     "cfpEndDate": "2020-02-03"
+  },
+  {
+    "name": "CausaConf",
+    "url": "https://causaconf.pe/",
+    "startDate": "2020-06-20",
+    "endDate": "2020-06-20",
+    "city": "Lima",
+    "country": "Peru",
+    "twitter": "@causaconf"
   },
   {
     "name": "JSCONF.BE",
@@ -807,14 +825,5 @@
     "city": "Tenerife",
     "country": "Spain",
     "twitter": "@canariasjs"
-  },
-  {
-      "name": "CausaConf",
-      "url": "https://causaconf.pe/",
-      "startDate": "2020-06-20",
-      "endDate": "2020-06-20",
-      "city": "Lima",
-      "country": "Peru",
-      "twitter": "@causaconf"
   }
 ]
