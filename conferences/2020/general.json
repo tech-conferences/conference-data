@@ -715,6 +715,15 @@
     "cfpEndDate": "2020-04-13"
   },
   {
+    "name": "CausaConf",
+    "url": "https://causaconf.pe/",
+    "startDate": "2020-06-13",
+    "endDate": "2020-06-13",
+    "city": "Lima",
+    "country": "Peru",
+    "twitter": "@causaconf"
+  },
+  {
     "name": "O’Reilly Software Architecture Conference",
     "url": "https://conferences.oreilly.com/software-architecture/sa-ca",
     "startDate": "2020-06-15",
@@ -884,6 +893,17 @@
     "twitter": "@nextconf"
   },
   {
+    "name": "JoomlaDay Germany",
+    "url": "https://www.joomladay.de",
+    "startDate": "2020-09-18",
+    "endDate": "2020-09-19",
+    "city": "Bad Hersfeld",
+    "country": "Germany",
+    "twitter": "@joomlatag",
+    "cfpUrl": "https://www.joomladay.de/call-for-papers",
+    "cfpEndDate": "2020-05-15"
+  },
+  {
     "name": "Web Weekend Kathmandu",
     "url": "https://wwktm.co",
     "startDate": "2020-09-19",
@@ -991,14 +1011,5 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "twitter": "@techupforwomen"
-  },
-  {
-      "name": "CausaConf",
-      "url": "https://causaconf.pe/",
-      "startDate": "2020-06-13",
-      "endDate": "2020-06-13",
-      "city": "Lima",
-      "country": "Peru",
-      "twitter": "@causaconf"
   }
 ]
