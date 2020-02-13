@@ -28,16 +28,6 @@
     "country": "U.S.A."
   },
   {
-    "name": "BaseConf  powered by Techsauce Global Summit",
-    "url": "https://www.baseconf.com",
-    "startDate": "2020-01-15",
-    "endDate": "2020-01-16",
-    "city": "Johor Bahru",
-    "country": "Malaysia",
-    "cfpUrl": "https://www.baseconf.com",
-    "cfpEndDate": "2019-12-31"
-  },
-  {
     "name": "Conf42: Chaos Engineering",
     "url": "https://www.conf42.com",
     "startDate": "2020-01-23",
@@ -57,7 +47,7 @@
     "twitter": "@FlutterEurope"
   },
   {
-    "name": "7th International Conference on Computer Science and Information Technology (CoSIT )",
+    "name": "7th International Conference on Computer Science and Information Technology (CoSIT)",
     "url": "https://cosit2020.org",
     "startDate": "2020-01-25",
     "endDate": "2020-01-26",
@@ -65,6 +55,15 @@
     "country": "Switzerland",
     "cfpUrl": "https://github.com/alfialeo/COSIT-2020/blob/master/README.md#cosit-2020",
     "cfpEndDate": "2019-11-23"
+  },
+  {
+    "name": "Silicon Slopes Tech Summit",
+    "url": "https://www.siliconslopessummit.com",
+    "startDate": "2020-01-30",
+    "endDate": "2020-01-31",
+    "city": "Salt Lake City",
+    "country": "U.S.A.",
+    "twitter": "@SiliconSlopes"
   },
   {
     "name": "FOSDEM",
@@ -78,6 +77,23 @@
     "cfpEndDate": "2019-11-08"
   },
   {
+    "name": "JFokus",
+    "url": "https://www.jfokus.se",
+    "startDate": "2020-02-03",
+    "endDate": "2020-02-05",
+    "city": "Stockholm",
+    "country": "Sweden"
+  },
+  {
+    "name": "OOP",
+    "url": "https://www.oop-konferenz.de/oop2020/english.html",
+    "startDate": "2020-02-03",
+    "endDate": "2020-02-07",
+    "city": "Munich",
+    "country": "Germany",
+    "twitter": "@oop_conference"
+  },
+  {
     "name": "DDD Europe",
     "url": "https://dddeurope.com/2020",
     "startDate": "2020-02-06",
@@ -85,6 +101,17 @@
     "city": "Amsterdam",
     "country": "Netherlands",
     "twitter": "@ddd_eu"
+  },
+  {
+    "name": "Alexa Community Day",
+    "url": "https://www.alexacommunity.in",
+    "startDate": "2020-02-08",
+    "endDate": "2020-02-08",
+    "city": "Bangalore",
+    "country": "India",
+    "twitter": "@AlexaCMBLR",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfchtJK8CQJvf5xQgMDjqyuw3-kV1emttm13eLfdfZWKoTVEQ/viewform",
+    "cfpEndDate": "2020-01-10"
   },
   {
     "name": "DeveloperWeek",
@@ -95,17 +122,6 @@
     "country": "U.S.A.",
     "twitter": "@developerweek",
     "cfpUrl": "https://www.developerweek.com/conference/apply-to-speak",
-    "cfpEndDate": "2019-11-15"
-  },
-  {
-    "name": "DeveloperWeek",
-    "url": "https://developerweek.com",
-    "startDate": "2020-02-12",
-    "endDate": "2020-02-16",
-    "city": "Oakland",
-    "country": "U.S.A.",
-    "twitter": "@developerweek",
-    "cfpUrl": "https://developerweek.com/conference/call-for-speakers",
     "cfpEndDate": "2019-11-15"
   },
   {
@@ -126,6 +142,15 @@
     "country": "Canada",
     "cfpUrl": "https://gctim.org/conference-2020",
     "cfpEndDate": "2020-01-01"
+  },
+  {
+    "name": "SINFO 27",
+    "url": "http://sinfo.org",
+    "startDate": "2020-02-17",
+    "endDate": "2020-02-22",
+    "city": "Lisboa",
+    "country": "Portugal",
+    "twitter": "@sinfoist"
   },
   {
     "name": "O’Reilly Software Architecture Conference",
@@ -149,28 +174,6 @@
     "cfpEndDate": "2019-09-16"
   },
   {
-    "name": "building IoT",
-    "url": "https://www.buildingiot.de",
-    "startDate": "2020-03-02",
-    "endDate": "2020-03-04",
-    "city": "Essen",
-    "country": "Germany",
-    "twitter": "@building_iot",
-    "cfpUrl": "https://www.buildingiot.de/call_for_proposals_en.php",
-    "cfpEndDate": "2019-09-25"
-  },
-  {
-    "name": "AI in Healthcare Qatar",
-    "url": "https://www.keynotic.com/AIHQ",
-    "startDate": "2020-03-02",
-    "endDate": "2020-03-02",
-    "city": "Doha",
-    "country": "Qatar",
-    "twitter": "@keynotic",
-    "cfpUrl": "https://www.keynotic.com/AIHQ/register.php",
-    "cfpEndDate": "2020-03-01"
-  },
-  {
     "name": "QCon",
     "url": "https://qconlondon.com/",
     "startDate": "2020-03-02",
@@ -180,6 +183,24 @@
     "twitter": "@QConLondon",
     "cfpUrl": "https://qconlondon.com/talk-submissions",
     "cfpEndDate": "2020-02-29"
+  },
+  {
+    "name": "WECode",
+    "url": "https://www.wecodeharvard.org",
+    "startDate": "2020-03-06",
+    "endDate": "2020-03-08",
+    "city": "Cambridge, MA",
+    "country": "U.S.A.",
+    "twitter": "@WECodeHarvard"
+  },
+  {
+    "name": "Software Architecture Summit",
+    "url": "https://software-architecture-summit.de",
+    "startDate": "2020-03-09",
+    "endDate": "2020-03-11",
+    "city": "Munich",
+    "country": "Germany",
+    "twitter": "@SoftwArchSummit"
   },
   {
     "name": "T3chFest",
@@ -214,6 +235,14 @@
     "cfpUrl": "https://2020.cloudconf.it/schedule.html"
   },
   {
+    "name": "Material Conference",
+    "url": "https://material.is",
+    "startDate": "2020-03-20",
+    "endDate": "2020-03-20",
+    "city": "Rekyjavík",
+    "country": "Iceland"
+  },
+  {
     "name": "‹Programming›",
     "url": "https://2020.programming-conference.org",
     "startDate": "2020-03-23",
@@ -232,6 +261,16 @@
     "twitter": "@devdotnext",
     "cfpUrl": "https://www.devdotnext.com/cfp",
     "cfpEndDate": "2019-11-15"
+  },
+  {
+    "name": "SREcon20 Americas-West",
+    "url": "https://www.usenix.org/conference/srecon20americaswest",
+    "startDate": "2020-03-24",
+    "endDate": "2020-03-26",
+    "city": "Santa Clara, CA",
+    "country": "U.S.A.",
+    "twitter": "@SREcon",
+    "cfpEndDate": "2019-11-12"
   },
   {
     "name": "Pixels Camp",
@@ -256,6 +295,16 @@
     "cfpEndDate": "2019-10-31"
   },
   {
+    "name": "Codemotion Rome",
+    "url": "https://events.codemotion.com/conferences/rome/2020",
+    "startDate": "2020-03-27",
+    "endDate": "2020-03-28",
+    "city": "Rome",
+    "country": "Italy",
+    "twitter": "@CodemotionIT",
+    "cfpUrl": "http://speaker.codemotionworld.com/c4p.php"
+  },
+  {
     "name": "CodeFest",
     "url": "https://codefest.ru",
     "startDate": "2020-03-28",
@@ -278,6 +327,24 @@
     "cfpEndDate": "2020-02-14"
   },
   {
+    "name": "Xpand Conference",
+    "url": "http://www.xpandconf.com",
+    "startDate": "2020-03-28",
+    "endDate": "2020-03-29",
+    "city": "Amman",
+    "country": "Jordan",
+    "twitter": "@Xpandconf"
+  },
+  {
+    "name": "MobileTech Conference & Summit",
+    "url": "https://mobiletechcon.de/en",
+    "startDate": "2020-03-30",
+    "endDate": "2020-04-01",
+    "city": "Munich",
+    "country": "Germany",
+    "twitter": "@mobiletechcon"
+  },
+  {
     "name": "#PerfMatters Conference",
     "url": "https://perfmattersconf.com",
     "startDate": "2020-03-31",
@@ -289,6 +356,24 @@
     "cfpEndDate": "2019-11-15"
   },
   {
+    "name": "NDC Copenhagen",
+    "url": "https://ndccopenhagen.com",
+    "startDate": "2020-04-01",
+    "endDate": "2020-04-03",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "twitter": "@NDC_Conferences"
+  },
+  {
+    "name": "microXchg",
+    "url": "http://microxchg.io/2020",
+    "startDate": "2020-04-02",
+    "endDate": "2020-04-03",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@microXchg"
+  },
+  {
     "name": "Devoxx",
     "url": "https://www.devoxx.fr",
     "startDate": "2020-04-15",
@@ -296,6 +381,28 @@
     "city": "Paris",
     "country": "France",
     "twitter": "@DevoxxFR"
+  },
+  {
+    "name": "Future Sync",
+    "url": "https://futuresync.co.uk",
+    "startDate": "2020-04-16",
+    "endDate": "2020-04-16",
+    "city": "Plymouth",
+    "country": "U.K.",
+    "twitter": "@FutureSyncConf",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfvigF0eLz3kppTpOzyfk0-AaIw4z075gW6rP-mPkbBZMEmvw/viewform",
+    "cfpEndDate": "2020-01-31"
+  },
+  {
+    "name": "Great International Developer Summit (GIDS)",
+    "url": "https://www.developersummit.com",
+    "startDate": "2020-04-20",
+    "endDate": "2020-04-24",
+    "city": "Bangalore",
+    "country": "India",
+    "twitter": "@developersummit",
+    "cfpUrl": "https://developersummit.com/india/callForProposals.html",
+    "cfpEndDate": "2020-02-10"
   },
   {
     "name": "Serverless Architecture Conference",
@@ -331,6 +438,15 @@
     "cfpEndDate": "2019-11-01"
   },
   {
+    "name": "ML Summit",
+    "url": "https://ml-summit.de",
+    "startDate": "2020-04-22",
+    "endDate": "2020-04-24",
+    "city": "Munich",
+    "country": "Germany",
+    "twitter": "@MLSummit_DE"
+  },
+  {
     "name": "DevOne",
     "url": "https://devone.at",
     "startDate": "2020-04-23",
@@ -353,6 +469,26 @@
     "cfpEndDate": "2020-01-31"
   },
   {
+    "name": "Albany Code Camp",
+    "url": "https://albanycodecamp.org",
+    "startDate": "2020-04-25",
+    "endDate": "2020-04-25",
+    "city": "Albany",
+    "country": "U.S.A.",
+    "twitter": "@albanycodecamp",
+    "cfpUrl": "https://sessionize.com/albany-code-camp",
+    "cfpEndDate": "2020-03-15"
+  },
+  {
+    "name": "GOTO Chicago",
+    "url": "http://gotochgo.com",
+    "startDate": "2020-04-27",
+    "endDate": "2020-05-01",
+    "city": "Chicago",
+    "country": "U.S.A.",
+    "twitter": "@gotochgo"
+  },
+  {
     "name": "tabGeeks20",
     "url": "https://www.tabgeeks.com/tabgeeks20",
     "startDate": "2020-04-29",
@@ -360,6 +496,66 @@
     "city": "Long Beach",
     "country": "U.S.A.",
     "twitter": "@tabgeeks"
+  },
+  {
+    "name": "Accessibility Club Meetup #9",
+    "url": "https://accessibility-club.org/event/accessibility-club-meetup-9-7",
+    "startDate": "2020-04-29",
+    "endDate": "2020-04-29",
+    "city": "Düsseldorf",
+    "country": "Germany",
+    "twitter": "@a11yclub"
+  },
+  {
+    "name": "QCon São Paulo",
+    "url": "https://qconsp.com",
+    "startDate": "2020-05-04",
+    "endDate": "2020-05-06",
+    "city": "São Paulo",
+    "country": "Brazil",
+    "twitter": "@qconsp",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfTYnWE5ex9r6H0hy0o5BtNL3Vdccrz_KiJcyjFh27wKOifBA/viewform"
+  },
+  {
+    "name": "DeveloperWeek Seattle: Cloud Edition",
+    "url": "https://www.developerweek.com/CloudEdition",
+    "startDate": "2020-05-04",
+    "endDate": "2020-05-05",
+    "city": "Seattle",
+    "country": "U.S.A.",
+    "twitter": "@devweeksea",
+    "cfpUrl": "https://www.developerweek.com/CloudEdition/conference/apply-to-speak",
+    "cfpEndDate": "2020-02-07"
+  },
+  {
+    "name": "ScaleConf Colombia",
+    "url": "http://scaleconfco.com",
+    "startDate": "2020-05-14",
+    "endDate": "2020-05-16",
+    "city": "Medellin",
+    "country": "Colombia",
+    "twitter": "@scaleconfco",
+    "cfpUrl": "https://www.papercall.io/scaleconfco2020",
+    "cfpEndDate": "2020-02-08"
+  },
+  {
+    "name": "Cloud DeveloperDays",
+    "url": "https://cloud.developerdays.pl",
+    "startDate": "2020-05-18",
+    "endDate": "2020-05-20",
+    "city": "Kraków",
+    "country": "Poland",
+    "twitter": "@DeveloperDaysPL",
+    "cfpUrl": "https://sessionize.com/cloud-developerdays-2020",
+    "cfpEndDate": "2020-02-29"
+  },
+  {
+    "name": "Full Stack Developer Conference Finland",
+    "url": "http://www.fsdc.fi",
+    "startDate": "2020-05-19",
+    "endDate": "2020-05-20",
+    "city": "Helsinki",
+    "country": "Finland"
   },
   {
     "name": "TEQnation Conference",
@@ -371,6 +567,28 @@
     "twitter": "@TEQnation2019"
   },
   {
+    "name": "Dev Day",
+    "url": "https://devday.io",
+    "startDate": "2020-05-22",
+    "endDate": "2020-05-23",
+    "city": "Faro",
+    "country": "Portugal",
+    "twitter": "@DevDayTK",
+    "cfpUrl": "https://devday.io/call-for-speakers",
+    "cfpEndDate": "2020-03-31"
+  },
+  {
+    "name": "Tech Cruise",
+    "url": "https://techcruise.co",
+    "startDate": "2020-05-23",
+    "endDate": "2020-05-28",
+    "city": "Baltimore, MD",
+    "country": "U.S.A.",
+    "twitter": "@tech_cruise",
+    "cfpUrl": "https://techcruise.co/speaker-requests",
+    "cfpEndDate": "2020-02-23"
+  },
+  {
     "name": "TestBash Netherlands",
     "url": "https://www.ministryoftesting.com/events/testbash-netherlands-2020",
     "startDate": "2020-05-28",
@@ -378,6 +596,37 @@
     "city": "Utrecht",
     "country": "Netherlands",
     "twitter": "@ministryoftest"
+  },
+  {
+    "name": "Experts Live",
+    "url": "https://expertslive.no/",
+    "startDate": "2020-05-28",
+    "endDate": "2020-05-28",
+    "city": "Oslo ",
+    "country": "Norway ",
+    "twitter": "@ExpertsLiveNO",
+    "cfpUrl": "https://expertslive.no/call-for-speakers/",
+    "cfpEndDate": "2020-01-15"
+  },
+  {
+    "name": "WeAreDevelopers World Congress",
+    "url": "https://www.wearedevelopers.com/events/world-congress",
+    "startDate": "2020-05-28",
+    "endDate": "2020-05-29",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@wearedevs"
+  },
+  {
+    "name": "Córdoba WebConf",
+    "url": "https://webconf.tech",
+    "startDate": "2020-05-29",
+    "endDate": "2020-05-30",
+    "city": "Córdoba",
+    "country": "Argentina",
+    "twitter": "@WebConfAr",
+    "cfpUrl": "https://webconf.tech",
+    "cfpEndDate": "2020-03-31"
   },
   {
     "name": "DEVit",
@@ -389,6 +638,15 @@
     "twitter": "@devitconf"
   },
   {
+    "name": "#BCTECHSummit",
+    "url": "https://www.bctechsummit.ca",
+    "startDate": "2020-06-01",
+    "endDate": "2020-06-02",
+    "city": "Vancouver",
+    "country": "Canada",
+    "twitter": "@innovate_bc"
+  },
+  {
     "name": "Mendix World",
     "url": "https://www.mendix.com/mendix-world/save-the-date",
     "startDate": "2020-06-02",
@@ -398,6 +656,36 @@
     "cfpEndDate": "2020-06-04"
   },
   {
+    "name": "Flutter Conf Paris",
+    "url": "https://flutter-conf.paris",
+    "startDate": "2020-06-02",
+    "endDate": "2020-06-02",
+    "city": "Paris",
+    "country": "France",
+    "twitter": "@flutter_conf",
+    "cfpUrl": "https://conference-hall.io/public/event/FVXIwUD33S6h9e49cCEr",
+    "cfpEndDate": "2020-04-05"
+  },
+  {
+    "name": "SEACON software engineering + architecture conference",
+    "url": "https://www.sea-con.de",
+    "startDate": "2020-06-04",
+    "endDate": "2020-06-05",
+    "city": "Hamburg",
+    "country": "Germany",
+    "twitter": "@seacon_de"
+  },
+  {
+    "name": "Web Directions Code",
+    "url": "https://www.webdirections.org/code",
+    "startDate": "2020-06-04",
+    "endDate": "2020-06-05",
+    "city": "Melbourne",
+    "country": "Australia",
+    "cfpUrl": "https://www.webdirections.org/speaking",
+    "cfpEndDate": "2020-02-14"
+  },
+  {
     "name": "GOTO Amsterdam",
     "url": "https://gotoams.nl",
     "startDate": "2020-06-08",
@@ -405,6 +693,15 @@
     "city": "Amsterdam",
     "country": "Netherlands",
     "twitter": "@gotoamst"
+  },
+  {
+    "name": "NDC Oslo",
+    "url": "https://ndcoslo.com",
+    "startDate": "2020-06-08",
+    "endDate": "2020-06-12",
+    "city": "Oslo",
+    "country": "Norway",
+    "twitter": "@NDC_Conferences"
   },
   {
     "name": "Craft Conference",
@@ -427,6 +724,15 @@
     "cfpEndDate": "2020-04-13"
   },
   {
+    "name": "CausaConf",
+    "url": "https://causaconf.pe/",
+    "startDate": "2020-06-13",
+    "endDate": "2020-06-13",
+    "city": "Lima",
+    "country": "Peru",
+    "twitter": "@causaconf"
+  },
+  {
     "name": "O’Reilly Software Architecture Conference",
     "url": "https://conferences.oreilly.com/software-architecture/sa-ca",
     "startDate": "2020-06-15",
@@ -436,6 +742,27 @@
     "twitter": "@OReillySACon",
     "cfpUrl": "https://conferences.oreilly.com/software-architecture/sa-ca/public/cfp/773",
     "cfpEndDate": "2019-12-10"
+  },
+  {
+    "name": "SREcon20 APAC",
+    "url": "https://www.usenix.org/conference/srecon20apac",
+    "startDate": "2020-06-15",
+    "endDate": "2020-06-17",
+    "city": "Sydney",
+    "country": "Australia",
+    "twitter": "@SREcon",
+    "cfpEndDate": "2020-02-03"
+  },
+  {
+    "name": "DeveloperWeek New York",
+    "url": "https://www.developerweek.com/NYC",
+    "startDate": "2020-06-16",
+    "endDate": "2020-06-18",
+    "city": "New York",
+    "country": "U.S.A.",
+    "twitter": "@devweeknyc",
+    "cfpUrl": "https://www.developerweek.com/NYC/conference/apply-to-speak",
+    "cfpEndDate": "2020-02-28"
   },
   {
     "name": "Webit.Festival Europe",
@@ -465,6 +792,15 @@
     "cfpUrl": "https://website-42889.eventmaker.io/registration/5d8f2e7fd838ff00233f38a6?no_cookie=true"
   },
   {
+    "name": "Joy of Coding",
+    "url": "https://joyofcoding.org",
+    "startDate": "2020-06-19",
+    "endDate": "2020-06-19",
+    "city": "Rotterdam",
+    "country": "Netherlands",
+    "twitter": "@joyofcoding"
+  },
+  {
     "name": "O'Reilly Open Source Software Conference (OSCON)",
     "url": "https://conferences.oreilly.com/oscon/oscon-or",
     "startDate": "2020-07-13",
@@ -485,6 +821,28 @@
     "twitter": "@nofluff"
   },
   {
+    "name": "BCS SPA Software in Practice",
+    "url": "https://www.spaconference.org/spa2020",
+    "startDate": "2020-07-21",
+    "endDate": "2020-07-22",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@spaconference",
+    "cfpUrl": "https://www.spaconference.org/spa2020/lead-a-session.html",
+    "cfpEndDate": "2020-03-02"
+  },
+  {
+    "name": "Scenic City Summit",
+    "url": "https://sceniccitysummit.com",
+    "startDate": "2020-08-21",
+    "endDate": "2020-08-21",
+    "city": "Chattanooga",
+    "country": "U.S.A.",
+    "twitter": "@ScenicSummit",
+    "cfpUrl": "https://sessionize.com/scenic-city-summit-2020",
+    "cfpEndDate": "2020-03-01"
+  },
+  {
     "name": "FOSS4G",
     "url": "http://2020.foss4g.org",
     "startDate": "2020-08-24",
@@ -492,6 +850,17 @@
     "city": "Calgary",
     "country": "Canada",
     "twitter": "@foss4g"
+  },
+  {
+    "name": "Web Summer Camp",
+    "url": "https://2020.websummercamp.com",
+    "startDate": "2020-08-26",
+    "endDate": "2020-08-28",
+    "city": "Bol",
+    "country": "Croatia",
+    "twitter": "@WebSummerCamp",
+    "cfpUrl": "https://sessionize.com/web-summer-camp-2020",
+    "cfpEndDate": "2020-03-31"
   },
   {
     "name": "Webconf.asia",
@@ -503,23 +872,15 @@
     "twitter": "@webconf_asia"
   },
   {
-    "name": "Ai4",
-    "url": "https://ai4.io",
-    "startDate": "2020-09-01",
-    "endDate": "2020-09-02",
-    "city": "Las Vegas, NV",
-    "country": "U.S.A.",
-    "twitter": "@Ai4Conferences"
-  },
-  {
-    "name": "International Conference on Artificial Neural Networks",
-    "url": "https://icann.coreconferences.com",
-    "startDate": "2020-09-08",
-    "endDate": "2020-09-09",
-    "city": "London",
-    "country": "U.K.",
-    "cfpUrl": "https://icann.coreconferences.com",
-    "cfpEndDate": "2020-08-10"
+    "name": "PulpoCon 20",
+    "url": "https://pulpocon.es",
+    "startDate": "2020-09-05",
+    "endDate": "2020-09-05",
+    "city": "Vigo",
+    "country": "Spain",
+    "twitter": "@phpulpocon",
+    "cfpUrl": "https://bit.ly/pulpoCon20CFP",
+    "cfpEndDate": "2020-02-29"
   },
   {
     "name": "International Conference on Business Information System and Knowledge",
@@ -539,6 +900,15 @@
     "city": "Hamburg",
     "country": "Germany",
     "twitter": "@nextconf"
+  },
+  {
+    "name": "Web Weekend Kathmandu",
+    "url": "https://wwktm.co",
+    "startDate": "2020-09-19",
+    "endDate": "2020-09-20",
+    "city": "Kathmandu",
+    "country": "Nepal",
+    "twitter": "@weekend_web"
   },
   {
     "name": "Interop",
@@ -570,6 +940,28 @@
     "cfpEndDate": "2020-04-28"
   },
   {
+    "name": "QCon Munich",
+    "url": "https://qconmunich.com/",
+    "startDate": "2020-10-19",
+    "endDate": "2020-10-21",
+    "city": "Munich",
+    "country": "Germany",
+    "twitter": "@QCon",
+    "cfpUrl": "https://qconmunich.com/talk-submissions",
+    "cfpEndDate": "2020-05-01"
+  },
+  {
+    "name": "Great International Developer Summit (GIDS)",
+    "url": "https://www.developersummit.com",
+    "startDate": "2020-10-19",
+    "endDate": "2020-10-21",
+    "city": "Sydney",
+    "country": "Australia",
+    "twitter": "@developersummit",
+    "cfpUrl": "https://developersummit.com/australia/callForProposals.html",
+    "cfpEndDate": "2020-03-06"
+  },
+  {
     "name": "Evcon",
     "url": "http://www.evcon.io",
     "startDate": "2020-10-21",
@@ -581,11 +973,41 @@
     "cfpEndDate": "2020-05-31"
   },
   {
-    "name": "QCon",
-    "url": "https://qconmunich.com",
-    "startDate": "2020-11-19",
-    "endDate": "2020-11-21",
-    "city": "Munich",
-    "country": "Germany"
+    "name": "Great International Developer Summit (GIDS)",
+    "url": "https://www.developersummit.com",
+    "startDate": "2020-10-21",
+    "endDate": "2020-10-23",
+    "city": "Melbourne",
+    "country": "Australia",
+    "twitter": "@developersummit",
+    "cfpUrl": "https://developersummit.com/australia",
+    "cfpEndDate": "2020-03-06"
+  },
+  {
+    "name": "GOTO Berlin",
+    "url": "http://gotober.com",
+    "startDate": "2020-10-26",
+    "endDate": "2020-10-30",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@gotober"
+  },
+  {
+    "name": "GOTO Copenhagen",
+    "url": "http://gotocph.com",
+    "startDate": "2020-11-09",
+    "endDate": "2020-11-13",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "twitter": "@gotocph"
+  },
+  {
+    "name": "Tech Up For Women",
+    "url": "https://techupforwomen.com/event-details",
+    "startDate": "2020-11-17",
+    "endDate": "2020-11-17",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "twitter": "@techupforwomen"
   }
 ]

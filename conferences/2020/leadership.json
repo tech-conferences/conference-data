@@ -28,6 +28,16 @@
     "twitter": "@LDconf"
   },
   {
+    "name": "MIT Technology Review Presents: EmTech Digital",
+    "url": "https://events.technologyreview.com/emtech/digital",
+    "startDate": "2020-03-23",
+    "endDate": "2020-03-25",
+    "city": "San Francisco, CA ",
+    "country": "U.S.A.",
+    "twitter": "@techreview",
+    "cfpUrl": "https://events.technologyreview.com/emtech/digital"
+  },
+  {
     "name": "The Lead Developer New York",
     "url": "https://newyork2020.theleaddeveloper.com",
     "startDate": "2020-04-07",
@@ -37,6 +47,15 @@
     "twitter": "@TheLeadDev",
     "cfpUrl": "https://newyork2020.theleaddeveloper.com",
     "cfpEndDate": "2019-10-28"
+  },
+  {
+    "name": "Future Developer Summit",
+    "url": "http://www.futuredeveloper.io",
+    "startDate": "2020-04-07",
+    "endDate": "2020-04-08",
+    "city": "Menlo Park, CA ",
+    "country": "U.S.A.",
+    "twitter": "@SlashDataHQ"
   },
   {
     "name": "Running Remote Conference",
@@ -59,5 +78,16 @@
     "twitter": "@developer_first",
     "cfpUrl": "https://www.developer-first.com/call-for-speakers",
     "cfpEndDate": "2020-01-10"
+  },
+  {
+    "name": "Lead Dev San Francisco",
+    "url": "https://wvnts.co/2uEbbaQ",
+    "startDate": "2020-10-07",
+    "endDate": "2020-10-08",
+    "city": "San Francisco",
+    "country": "U.S.A.",
+    "twitter": "@TheLeadDev",
+    "cfpUrl": "https://wvnts.co/2O3d33v",
+    "cfpEndDate": "2020-03-23"
   }
 ]

@@ -1,0 +1,41 @@
+[
+  {
+    "name": "The Things Conference",
+    "url": "https://www.thethingsnetwork.org/conference",
+    "startDate": "2020-01-30",
+    "endDate": "2020-01-31",
+    "city": "Amsterdam",
+    "country": "Netherlands"
+  },
+  {
+    "name": "building IoT",
+    "url": "https://www.buildingiot.de",
+    "startDate": "2020-03-02",
+    "endDate": "2020-03-04",
+    "city": "Essen",
+    "country": "Germany",
+    "twitter": "@building_iot",
+    "cfpUrl": "https://www.buildingiot.de/call_for_proposals_en.php",
+    "cfpEndDate": "2019-09-25"
+  },
+  {
+    "name": "IoTFuse",
+    "url": "https://iotfuse.com/register",
+    "startDate": "2020-04-16",
+    "endDate": "2020-04-16",
+    "city": "Minneapolis",
+    "country": "U.S.A.",
+    "twitter": "@iotfuse",
+    "cfpUrl": "https://iotfuse.com",
+    "cfpEndDate": "2020-04-16"
+  },
+  {
+    "name": "Internet of Things Conference",
+    "url": "https://iotcon.de",
+    "startDate": "2020-06-17",
+    "endDate": "2020-06-19",
+    "city": "Munich",
+    "country": "Germnay",
+    "twitter": "@iotconf"
+  }
+]

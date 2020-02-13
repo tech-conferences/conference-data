@@ -1,5 +1,14 @@
 [
   {
+    "name": "HTML & CSS Days",
+    "url": "https://javascript-days.de/html-css",
+    "startDate": "2020-03-16",
+    "endDate": "2020-03-19",
+    "city": "Munich",
+    "country": "Germany",
+    "twitter": "@htmlcssdays"
+  },
+  {
     "name": "CSSConf Colombia",
     "url": "https://cssconf.co",
     "startDate": "2020-03-21",
@@ -52,5 +61,14 @@
     "city": "Freiburg",
     "country": "Germany",
     "twitter": "@SmashingConf"
+  },
+  {
+      "name": "CausaConf",
+      "url": "https://causaconf.pe/",
+      "startDate": "2020-06-13",
+      "endDate": "2020-06-13",
+      "city": "Lima",
+      "country": "Peru",
+      "twitter": "@causaconf"
   }
 ]

@@ -76,6 +76,25 @@
     "twitter": "@sec4dev"
   },
   {
+    "name": "Women in CyberSecurity (WiCyS)",
+    "url": "https://www.wicys.org/conference",
+    "startDate": "2020-03-12",
+    "endDate": "2020-03-14",
+    "city": "Aurora, CO",
+    "country": "U.S.A.",
+    "twitter": "@WiCySorg"
+  },
+  {
+    "name": "BSidesSLC",
+    "url": "https://www.bsidesslc.org",
+    "startDate": "2020-03-20",
+    "endDate": "2020-03-21",
+    "city": "Sandy, UT",
+    "country": "U.S.A.",
+    "twitter": "@BSidesSLC",
+    "cfpUrl": "https://docs.google.com/forms/d/1Ilx2H_mKLXJh5JqBQNJWfRBfH9GrY-FcDVZcYQ58H34"
+  },
+  {
     "name": "Bsides Rochester",
     "url": "http://bsidesroc.com",
     "startDate": "2020-03-21",
@@ -85,6 +104,17 @@
     "twitter": "@BsidesROC",
     "cfpUrl": "http://bsidesroc.com/cfp",
     "cfpEndDate": "2020-02-21"
+  },
+  {
+    "name": "BSides Ljubljana",
+    "url": "https://0x7e4.bsidesljubljana.si",
+    "startDate": "2020-04-04",
+    "endDate": "2020-04-04",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "twitter": "@BSidesLjubljana",
+    "cfpUrl": "https://0x7e4.bsidesljubljana.si/cfp",
+    "cfpEndDate": "2020-02-10"
   },
   {
     "name": "QuBit Prague",
@@ -107,6 +137,36 @@
     "cfpEndDate": "2020-01-13"
   },
   {
+    "name": "PEPR'20",
+    "url": "https://www.usenix.org/conference/pepr20",
+    "startDate": "2020-05-11",
+    "endDate": "2020-05-12",
+    "city": "Santa Clara, CA",
+    "country": "U.S.A.",
+    "twitter": "@PEPR",
+    "cfpUrl": "https://www.usenix.org/conference/pepr20/call-for-participation",
+    "cfpEndDate": "2020-02-21"
+  },
+  {
+    "name": "IT Security Summit",
+    "url": "https://it-security-summit.de",
+    "startDate": "2020-05-18",
+    "endDate": "2020-05-20",
+    "city": "Munich",
+    "country": "Germany",
+    "twitter": "@ITSecSummit"
+  },
+  {
+    "name": "SILM  Workshop",
+    "url": "https://silm-workshop-2020.inria.fr",
+    "startDate": "2020-06-19",
+    "endDate": "2020-06-19",
+    "city": "Genova",
+    "country": "Italy",
+    "cfpUrl": "https://silm-workshop-2020.inria.fr/call-for-papers",
+    "cfpEndDate": "2020-03-16"
+  },
+  {
     "name": "International Conference on Network Security and Computer Engineering",
     "url": "https://iccait.coreconferences.com",
     "startDate": "2020-09-08",
@@ -125,5 +185,14 @@
     "country": "U.K.",
     "cfpUrl": "https://icsccc.coreconferences.com",
     "cfpEndDate": "2020-08-10"
+  },
+  {
+    "name": "Balkan Computer Congress - BalCCon2k20",
+    "url": "https://2k20.balccon.org",
+    "startDate": "2020-09-25",
+    "endDate": "2020-09-27",
+    "city": "Novi Sad",
+    "country": "Serbia",
+    "twitter": "@balcc0n"
   }
 ]

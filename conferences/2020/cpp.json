@@ -1,0 +1,97 @@
+[
+  {
+    "name": "QtDay",
+    "url": "https://www.qtday.it",
+    "startDate": "2020-03-13",
+    "endDate": "2020-03-14",
+    "city": "Florence",
+    "country": "Italy",
+    "twitter": "@qtdev",
+    "cfpUrl": "https://www.papercall.io/qtday2020",
+    "cfpEndDate": "2020-01-01"
+  },
+  {
+    "name": "ACCU",
+    "url": "https://conference.accu.org",
+    "startDate": "2020-03-24",
+    "endDate": "2020-03-28",
+    "city": "Bristol",
+    "country": "U.K.",
+    "twitter": "@ACCUConf"
+  },
+  {
+    "name": "C++ CoreHard Spring",
+    "url": "https://conference.corehard.by",
+    "startDate": "2020-04-10",
+    "endDate": "2020-04-11",
+    "city": "Minsk",
+    "country": "Belarus",
+    "twitter": "@CoreHardBY",
+    "cfpUrl": "https://forms.gle/1r1qVz44wpaMto47A",
+    "cfpEndDate": "2020-03-15"
+  },
+  {
+    "name": "C++ Russia  Moscow",
+    "url": "https://cppconf-moscow.ru/en",
+    "startDate": "2020-04-27",
+    "endDate": "2020-04-28",
+    "city": "Moscow",
+    "country": "Russia",
+    "twitter": "@cpp_russia",
+    "cfpUrl": "https://cppconf-moscow.ru/en/callforpapers",
+    "cfpEndDate": "2020-02-10"
+  },
+  {
+    "name": "C++Now",
+    "url": "http://cppnow.org",
+    "startDate": "2020-05-03",
+    "endDate": "2020-05-08",
+    "city": "Aspen",
+    "country": "U.S.A.",
+    "twitter": "@cppnow",
+    "cfpUrl": "http://cppnow.org/announcements/2019/12/2020-CfS",
+    "cfpEndDate": "2020-01-22"
+  },
+  {
+    "name": "Core C++",
+    "url": "https://corecpp.org",
+    "startDate": "2020-05-25",
+    "endDate": "2020-05-27",
+    "city": "Tel Aviv",
+    "country": "Israel",
+    "twitter": "@corecpp",
+    "cfpUrl": "https://cfs.corecpp.org",
+    "cfpEndDate": "2020-02-15"
+  },
+  {
+    "name": "C++ on Sea",
+    "url": "https://cpponsea.uk",
+    "startDate": "2020-06-07",
+    "endDate": "2020-06-10",
+    "city": "Folkestone",
+    "country": "U.K.",
+    "twitter": "@cpponsea",
+    "cfpUrl": "https://cfp.cpponsea.uk",
+    "cfpEndDate": "2019-11-30"
+  },
+  {
+    "name": "CPPP",
+    "url": "https://cppp.fr",
+    "startDate": "2020-06-22",
+    "endDate": "2020-06-23",
+    "city": "Paris",
+    "country": "France",
+    "twitter": "@CpppFr",
+    "cfpUrl": "https://cppp.fr/cfp",
+    "cfpEndDate": "2020-02-29"
+  },
+  {
+    "name": "CppCon",
+    "url": "http://cppcon.org",
+    "startDate": "2020-09-13",
+    "endDate": "2020-09-18",
+    "city": "Denver",
+    "country": "U.S.A.",
+    "twitter": "@cppcon"
+  }
+]

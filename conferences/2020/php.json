@@ -40,6 +40,15 @@
     "cfpEndDate": "2019-09-16"
   },
   {
+    "name": "PHP UK",
+    "url": "https://www.phpconference.co.uk",
+    "startDate": "2020-02-20",
+    "endDate": "2020-02-21",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@PHPUKConference"
+  },
+  {
     "name": "TYPO3camp Venlo",
     "url": "http://www.typo3campvenlo.nl/en",
     "startDate": "2020-03-12",
@@ -121,6 +130,24 @@
     "cfpEndDate": "2019-11-25"
   },
   {
+    "name": "PHP fwdays",
+    "url": "https://fwdays.com/en/event/php-fwdays-2020",
+    "startDate": "2020-05-30",
+    "endDate": "2020-05-30",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "twitter": "@fwdays_php"
+  },
+  {
+    "name": "TYPO3camp Schweiz",
+    "url": "https://www.typo3camp.ch",
+    "startDate": "2020-06-04",
+    "endDate": "2020-06-06",
+    "city": "Nottwil",
+    "country": "Switzerland",
+    "twitter": "@t3cch"
+  },
+  {
     "name": "TYPO3camp Stuttgart",
     "url": "https://t3cs.de",
     "startDate": "2020-06-11",
@@ -163,6 +190,35 @@
     "cfpEndDate": "2020-01-28"
   },
   {
+    "name": "LaraconUS",
+    "url": "https://laracon.us",
+    "startDate": "2020-07-28",
+    "endDate": "2020-07-29",
+    "city": "Atlanta",
+    "country": "U.S.A.",
+    "twitter": "@LaraconUS"
+  },
+  {
+    "name": "TYPO3 Developer Days",
+    "url": "https://t3dd20.typo3.com",
+    "startDate": "2020-07-30",
+    "endDate": "2020-08-02",
+    "city": "Karlsruhe",
+    "country": "Germany",
+    "twitter": "@typo3",
+    "cfpUrl": "https://t3dd20.typo3.com/call-for-paper",
+    "cfpEndDate": "2020-04-30"
+  },
+  {
+    "name": "Longhorn PHP",
+    "url": "https://www.longhornphp.com",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-17",
+    "city": "Austin ",
+    "country": "U.S.A.",
+    "twitter": "@LonghornPHP"
+  },
+  {
     "name": "SymfonyCon Paris 2020",
     "url": "https://paris2020.symfony.com/",
     "startDate": "2020-12-03",
@@ -172,5 +228,27 @@
     "twitter": "@symfonycon",
     "cfpUrl": "https://paris2020.symfony.com/cfp",
     "cfpEndDate": "2020-05-10"
+  },
+  {
+      "name": "CausaConf",
+      "url": "https://causaconf.pe/",
+      "startDate": "2020-06-13",
+      "endDate": "2020-06-13",
+      "city": "Lima",
+      "country": "Peru",
+      "twitter": "@causaconf",
+      "cfpUrl": "https://forms.gle/MBj2p47krnFuNE1m9",
+      "cfpEndDate": "2020-04-01"
+  },
+  {
+    "name": "JoomlaDay Germany",
+    "url": "https://www.joomladay.de",
+    "startDate": "2020-09-18",
+    "endDate": "2020-09-19",
+    "city": "Bad Hersfeld",
+    "country": "Germany",
+    "twitter": "@joomlatag",
+    "cfpUrl": "https://www.joomladay.de/call-for-papers",
+    "cfpEndDate": "2020-05-15"
   }
 ]
