@@ -19,6 +19,17 @@
     "cfpEndDate": "2019-11-07"
   },
   {
+    "name": "wroclove.rb",
+    "url": "https://wrocloverb.com",
+    "startDate": "2020-03-20",
+    "endDate": "2020-03-22",
+    "city": "Wrocław",
+    "country": "Poland",
+    "twitter": "@wrocloverb",
+    "cfpUrl": "https://cfp-wrocloverb.herokuapp.com/",
+    "cfpEndDate": "2020-01-31"
+  },
+  {
     "name": "rubyday",
     "url": "https://2020.rubyday.it",
     "startDate": "2020-04-02",
@@ -28,6 +39,25 @@
     "twitter": "@rubydayit",
     "cfpUrl": "https://forms.gle/8tvjWvLaQp1mSANV9",
     "cfpEndDate": "2019-11-30"
+  },
+  {
+    "name": "Ruby Wine",
+    "url": "https://www.rubywine.org",
+    "startDate": "2020-04-04",
+    "endDate": "2020-04-04",
+    "city": "Chișinău",
+    "country": "Moldova"
+  },
+  {
+    "name": "RubyConfBY",
+    "url": "https://rubyconference.by",
+    "startDate": "2020-04-18",
+    "endDate": "2020-04-18",
+    "city": "Minsk",
+    "country": "Belarus",
+    "twitter": "@rubyconfby",
+    "cfpUrl": "https://www.papercall.io/rubyconfby20",
+    "cfpEndDate": "2020-03-05"
   },
   {
     "name": "Ruby Kaigi",
@@ -60,6 +90,35 @@
     "cfpEndDate": "2020-02-14"
   },
   {
+    "name": "Balkan Ruby",
+    "url": "https://balkanruby.com",
+    "startDate": "2020-05-15",
+    "endDate": "2020-05-16",
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "twitter": "@balkanruby",
+    "cfpUrl": "https://cfp.neuvents.com/events/balkan-ruby-2020",
+    "cfpEndDate": "2020-02-03"
+  },
+  {
+    "name": "Ruby Unconf Hamburg",
+    "url": "https://2020.rubyunconf.eu/",
+    "startDate": "2020-06-06",
+    "endDate": "2020-06-07",
+    "city": "Hamburg",
+    "country": "Germany",
+    "twitter": "@RubyUnconfEU"
+  },
+  {
+    "name": "Saint P Rubyconf",
+    "url": "https://spbrubyconf.ru",
+    "startDate": "2020-06-01",
+    "endDate": "2020-06-02",
+    "city": "Saint Petersburg",
+    "country": "Russia",
+    "twitter": "@saintprug"
+  },
+  {
     "name": "Brighton Ruby",
     "url": "https://brightonruby.com",
     "startDate": "2020-07-03",
@@ -85,6 +144,26 @@
     "city": "Helsinki",
     "country": "Finland",
     "twitter": "@euruko"
+  },
+  {
+    "name": "RubyC",
+    "url": "https://rubyc.eu",
+    "startDate": "2020-09-12",
+    "endDate": "2020-09-13",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "twitter": "@rubyc_eu",
+    "cfpUrl": "https://rubyc.eu/speakers/new",
+    "cfpEndDate": "2020-03-31"
+  },
+  {
+    "name": "Ruby Conference Thailand",
+    "url": "https://rubyconfth.com",
+    "startDate": "2020-10-16",
+    "endDate": "2020-10-17",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "twitter": "@rubyconfth"
   },
   {
     "name": "RubyConf",
