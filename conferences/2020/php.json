@@ -88,6 +88,15 @@
     "cfpUrl": "https://www.typo3camp.at/sessions.html"
   },
   {
+    "name": "Magento Contribution Day Finland",
+    "url": "https://lamia.fi/en/blog/magento-contribution-day-finland-2020",
+    "startDate": "2020-05-16",
+    "endDate": "2020-05-16",
+    "city": "Helsinki",
+    "country": "Finland",
+    "twitter": "@LamiaOy"
+  },
+  {
     "name": "DrupalCon",
     "url": "https://events.drupal.org/minneapolis2020",
     "startDate": "2020-05-18",
@@ -168,6 +177,17 @@
     "cfpEndDate": "2020-03-29"
   },
   {
+    "name": "CausaConf",
+    "url": "https://causaconf.pe/",
+    "startDate": "2020-06-13",
+    "endDate": "2020-06-13",
+    "city": "Lima",
+    "country": "Peru",
+    "twitter": "@causaconf",
+    "cfpUrl": "https://forms.gle/MBj2p47krnFuNE1m9",
+    "cfpEndDate": "2020-04-01"
+  },
+  {
     "name": "Dutch PHP Conference",
     "url": "https://phpconference.nl",
     "startDate": "2020-06-25",
@@ -210,6 +230,17 @@
     "cfpEndDate": "2020-04-30"
   },
   {
+    "name": "JoomlaDay Germany",
+    "url": "https://www.joomladay.de",
+    "startDate": "2020-09-18",
+    "endDate": "2020-09-19",
+    "city": "Bad Hersfeld",
+    "country": "Germany",
+    "twitter": "@joomlatag",
+    "cfpUrl": "https://www.joomladay.de/call-for-papers",
+    "cfpEndDate": "2020-05-15"
+  },
+  {
     "name": "Longhorn PHP",
     "url": "https://www.longhornphp.com",
     "startDate": "2020-10-15",
@@ -228,27 +259,5 @@
     "twitter": "@symfonycon",
     "cfpUrl": "https://paris2020.symfony.com/cfp",
     "cfpEndDate": "2020-05-10"
-  },
-  {
-      "name": "CausaConf",
-      "url": "https://causaconf.pe/",
-      "startDate": "2020-06-13",
-      "endDate": "2020-06-13",
-      "city": "Lima",
-      "country": "Peru",
-      "twitter": "@causaconf",
-      "cfpUrl": "https://forms.gle/MBj2p47krnFuNE1m9",
-      "cfpEndDate": "2020-04-01"
-  },
-  {
-    "name": "JoomlaDay Germany",
-    "url": "https://www.joomladay.de",
-    "startDate": "2020-09-18",
-    "endDate": "2020-09-19",
-    "city": "Bad Hersfeld",
-    "country": "Germany",
-    "twitter": "@joomlatag",
-    "cfpUrl": "https://www.joomladay.de/call-for-papers",
-    "cfpEndDate": "2020-05-15"
   }
 ]
