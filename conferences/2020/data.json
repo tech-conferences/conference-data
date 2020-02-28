@@ -420,6 +420,17 @@
     "country": "Ireland"
   },
   {
+    "name": "PGDay Austria",
+    "url": "https://pgday.at/en",
+    "startDate": "2020-09-18",
+    "endDate": "2020-09-18",
+    "city": "Vienna",
+    "country": "Austria",
+    "twitter": "@PGDayAustria",
+    "cfpUrl": "https://pgday.at/en/talk-commitee",
+    "cfpEndDate": "2020-04-19"
+  },
+  {
     "name": "Data Saturday",
     "url": "https://datasaturday.nl",
     "startDate": "2020-10-10",
@@ -468,6 +479,15 @@
     "city": "Heidelberg",
     "country": "Germany",
     "twitter": "@data2day"
+  },
+  {
+    "name": "PostgreSQL Conference Europe",
+    "url": "https://2020.pgconf.eu",
+    "startDate": "2020-10-20",
+    "endDate": "2020-10-23",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@pgconfeu"
   },
   {
     "name": "AI Dev World",
