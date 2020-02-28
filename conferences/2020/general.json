@@ -464,6 +464,15 @@
     "twitter": "@Liferay_DACH"
   },
   {
+    "name": "NDC Porto",
+    "url": "https://ndcporto.com",
+    "startDate": "2020-04-21",
+    "endDate": "2020-04-24",
+    "city": "Porto",
+    "country": "Portugal",
+    "twitter": "@NDC_Conferences"
+  },
+  {
     "name": "REFACTR.TECH",
     "url": "https://refactr.tech",
     "startDate": "2020-04-22",
@@ -735,6 +744,15 @@
     "twitter": "@Thedevconf",
     "cfpUrl": "https://thedevconf.com/call4trilhas",
     "cfpEndDate": "2020-02-12"
+  },
+  {
+    "name": "Techorama",
+    "url": "https://techorama.be",
+    "startDate": "2020-06-03",
+    "endDate": "2020-06-04",
+    "city": "Antwerp",
+    "country": "Belgium",
+    "twitter": "@techoramaBE"
   },
   {
     "name": "SEACON software engineering + architecture conference",
@@ -1079,5 +1097,14 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "twitter": "@techupforwomen"
+  },
+  {
+    "name": "DevDay",
+    "url": "https://devday.be",
+    "startDate": "2020-11-26",
+    "endDate": "2020-11-26",
+    "city": "Louvain-La-Neuve",
+    "country": "Belgium",
+    "twitter": "@DevDayBE"
   }
 ]
