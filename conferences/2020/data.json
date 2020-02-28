@@ -354,6 +354,17 @@
     "twitter": "@pg_ibz"
   },
   {
+    "name": "PostgresLondon",
+    "url": "https://postgreslondon.org",
+    "startDate": "2020-07-07",
+    "endDate": "2020-07-08",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@Postgres_London",
+    "cfpUrl": "https://postgreslondon.org/call-for-papers",
+    "cfpEndDate": "2020-03-27"
+  },
+  {
     "name": "9th International Conference on Data Mining & Knowledge Management Process (CDKP)",
     "url": "https://icaita2020.org/cdkp/index.html",
     "startDate": "2020-07-11",
@@ -459,7 +470,6 @@
     "country": "Germany",
     "twitter": "@data2day"
   },
-
   {
     "name": "AI Dev World",
     "url": "https://aidevworld.com",
