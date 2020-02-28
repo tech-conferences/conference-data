@@ -128,6 +128,15 @@
     "cfpEndDate": "2020-02-22"
   },
   {
+    "name": "Accento Conference  - Java/JavaScript/Ops",
+    "url": "https://2020.accento.dev",
+    "startDate": "2020-09-29",
+    "endDate": "2020-09-30",
+    "city": "Karlsruhe",
+    "country": "Germany",
+    "twitter": "@AccentoDev"
+  },
+  {
     "name": "EclipseCon",
     "url": "https://www.eclipsecon.org",
     "startDate": "2020-10-19",
@@ -146,6 +155,14 @@
     "twitter": "@jcon_conference"
   },
   {
+    "name": "J-FALL",
+    "url": "https://jfall.nl",
+    "startDate": "2020-11-04",
+    "endDate": "2020-11-05",
+    "city": "Ede",
+    "country": "Netherlands"
+  },
+  {
     "name": "Devoxx",
     "url": "https://devoxx.be",
     "startDate": "2020-11-09",
@@ -153,14 +170,6 @@
     "city": "Antwerp",
     "country": "Belgium",
     "twitter": "@devoxx"
-  },
-  {
-    "name": "J-FALL",
-    "url": "https://jfall.nl",
-    "startDate": "2020-11-04",
-    "endDate": "2020-11-05",
-    "city": "Ede",
-    "country": "Netherlands"
   },
   {
     "name": "DevTernity",
