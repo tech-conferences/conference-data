@@ -343,6 +343,17 @@
     "cfpEndDate": "2020-04-11"
   },
   {
+    "name": "Swiss PGDay",
+    "url": "https://pgday.ch/2020",
+    "startDate": "2020-06-18",
+    "endDate": "2020-06-19",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "twitter": "@swiss_pgday",
+    "cfpUrl": "https://pgday.ch/2020/#tabs-2",
+    "cfpEndDate": "2020-04-17"
+  },
+  {
     "name": "Postgres Vision",
     "url": "https://www.postgresvision.com",
     "startDate": "2020-06-22",
@@ -361,6 +372,27 @@
     "city": "Ibiza",
     "country": "Spain",
     "twitter": "@pg_ibz"
+  },
+  {
+    "name": "PostgresLondon",
+    "url": "https://postgreslondon.org",
+    "startDate": "2020-07-07",
+    "endDate": "2020-07-08",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@Postgres_London",
+    "cfpUrl": "https://postgreslondon.org/call-for-papers",
+    "cfpEndDate": "2020-03-27"
+  },
+  {
+    "name": "PGDay Russia",
+    "url": "https://pgday.ru/en/2020",
+    "startDate": "2020-07-10",
+    "endDate": "2020-07-10",
+    "city": "St. Petersburg",
+    "country": "Russia",
+    "cfpUrl": "https://pgday.ru/en/2020/for-speakers",
+    "cfpEndDate": "2020-04-06"
   },
   {
     "name": "9th International Conference on Data Mining & Knowledge Management Process (CDKP)",
@@ -419,6 +451,17 @@
     "country": "Ireland"
   },
   {
+    "name": "PGDay Austria",
+    "url": "https://pgday.at/en",
+    "startDate": "2020-09-18",
+    "endDate": "2020-09-18",
+    "city": "Vienna",
+    "country": "Austria",
+    "twitter": "@PGDayAustria",
+    "cfpUrl": "https://pgday.at/en/talk-commitee",
+    "cfpEndDate": "2020-04-19"
+  },
+  {
     "name": "Data Saturday",
     "url": "https://datasaturday.nl",
     "startDate": "2020-10-10",
@@ -467,6 +510,15 @@
     "city": "Heidelberg",
     "country": "Germany",
     "twitter": "@data2day"
+  },
+  {
+    "name": "PostgreSQL Conference Europe",
+    "url": "https://2020.pgconf.eu",
+    "startDate": "2020-10-20",
+    "endDate": "2020-10-23",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@pgconfeu"
   },
   {
     "name": "AI Dev World",
