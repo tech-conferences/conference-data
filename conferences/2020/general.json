@@ -940,6 +940,17 @@
     "cfpEndDate": "2020-03-02"
   },
   {
+    "name": "NDC Melbourne",
+    "url": "https://ndcmelbourne.com/",
+    "startDate": "2020-07-27",
+    "endDate": "2020-07-30",
+    "city": "Melbourne",
+    "country": "Australia",
+    "twitter": "@NDC_Conferences",
+    "cfpUrl": "https://ndcmelbourne.com/page/call-for-papers/",
+    "cfpEndDate": "2020-04-05"
+  },
+  {
     "name": "Scenic City Summit",
     "url": "https://sceniccitysummit.com",
     "startDate": "2020-08-21",
@@ -1048,6 +1059,17 @@
     "cfpEndDate": "2020-04-28"
   },
   {
+    "name": "NDC Sydney",
+    "url": "https://ndcsydney.com/",
+    "startDate": "2020-10-12",
+    "endDate": "2020-10-16",
+    "city": "Sydney",
+    "country": "Australia",
+    "twitter": "@NDC_Conferences",
+    "cfpUrl": "https://ndcsydney.com/page/call-for-papers/",
+    "cfpEndDate": "2020-06-07"
+  },
+  {
     "name": "QCon Munich",
     "url": "https://qconmunich.com/",
     "startDate": "2020-10-19",
@@ -1099,6 +1121,17 @@
     "city": "Berlin",
     "country": "Germany",
     "twitter": "@gotober"
+  },
+  {
+    "name": "Web Directions Summit",
+    "url": "https://www.webdirections.org/wds/",
+    "startDate": "2020-11-04",
+    "endDate": "2020-11-05",
+    "city": "Sydney",
+    "country": "Australia",
+    "twitter": "@webdirections",
+    "cfpUrl": "https://www.webdirections.org/speaking/",
+    "cfpEndDate": "2020-05-01"
   },
   {
     "name": "GOTO Copenhagen",
