@@ -575,6 +575,15 @@
     "twitter": "@DevOpsFusion"
   },
   {
+    "name": "Swiss Testing Day",
+    "url": "https://swisstestingday.ch",
+    "startDate": "2020-08-26",
+    "endDate": "2020-08-26",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "twitter": "@SwissTesting"
+  },
+  {
     "name": "DeveloperWeek DC",
     "url": "https://www.developerweek.com/DC",
     "startDate": "2020-09-15",
@@ -679,5 +688,14 @@
     "country": "Germany",
     "twitter": "@OReillyInfraOps",
     "cfpEndDate": "2020-05-12"
+  },
+  {
+    "name": "DeveloperWeek Austin",
+    "url": "https://www.developerweek.com/Austin",
+    "startDate": "2020-11-16",
+    "endDate": "2020-11-18",
+    "city": "Austin",
+    "country": "U.S.A.",
+    "twitter": "@devweekatx"
   }
 ]
