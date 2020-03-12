@@ -30,17 +30,6 @@
     "cfpEndDate": "2020-01-31"
   },
   {
-    "name": "rubyday",
-    "url": "https://2020.rubyday.it",
-    "startDate": "2020-04-02",
-    "endDate": "2020-04-02",
-    "city": "Verona",
-    "country": "Italy",
-    "twitter": "@rubydayit",
-    "cfpUrl": "https://forms.gle/8tvjWvLaQp1mSANV9",
-    "cfpEndDate": "2019-11-30"
-  },
-  {
     "name": "Ruby Wine",
     "url": "https://www.rubywine.org",
     "startDate": "2020-04-04",
@@ -156,6 +145,17 @@
     "cfpUrl": "https://rubyc.eu/speakers/new",
     "cfpEndDate": "2020-03-31"
   },
+  {
+    "name": "rubyday",
+    "url": "https://2020.rubyday.it",
+    "startDate": "2020-09-16",
+    "endDate": "2020-09-16",
+    "city": "Verona",
+    "country": "Italy",
+    "twitter": "@rubydayit",
+    "cfpUrl": "https://forms.gle/8tvjWvLaQp1mSANV9",
+    "cfpEndDate": "2019-11-30"
+  },  
   {
     "name": "Ruby Conference Thailand",
     "url": "https://rubyconfth.com",
