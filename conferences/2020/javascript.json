@@ -244,17 +244,6 @@
     "twitter": "@GenerateJS"
   },
   {
-    "name": "vueday",
-    "url": "https://2020.vueday.it",
-    "startDate": "2020-04-03",
-    "endDate": "2020-04-03",
-    "city": "Verona",
-    "country": "Italy",
-    "twitter": "@vuedayit",
-    "cfpUrl": "https://forms.gle/9zMKdHNGJRJks62k8",
-    "cfpEndDate": "2019-11-30"
-  },
-  {
     "name": "JS Fest",
     "url": "https://jsfest.com.ua",
     "startDate": "2020-04-03",
@@ -449,17 +438,6 @@
     "twitter": "@halfstackconf",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSe3_boCyHHf4vm8OF49gTD39ZOLH44yg5e3Q_SfIaxDQW0Flw/viewform",
     "cfpEndDate": "2019-12-15"
-  },
-  {
-    "name": "JSDay",
-    "url": "https://2020.jsday.it/index.html",
-    "startDate": "2020-05-12",
-    "endDate": "2020-05-13",
-    "city": "Verona",
-    "country": "Italy",
-    "twitter": "@jsconfit",
-    "cfpUrl": "https://cfp.jsday.it",
-    "cfpEndDate": "2019-12-31"
   },
   {
     "name": "ReactEurope",
@@ -775,6 +753,17 @@
     "twitter": "@SmashingConf"
   },
   {
+    "name": "JSDay",
+    "url": "https://2020.jsday.it/index.html",
+    "startDate": "2020-09-10",
+    "endDate": "2020-09-11",
+    "city": "Verona",
+    "country": "Italy",
+    "twitter": "@jsconfit",
+    "cfpUrl": "https://cfp.jsday.it",
+    "cfpEndDate": "2019-12-31"
+  },  
+  {
     "name": "React Day New York",
     "url": "https://reactnewyork.com",
     "startDate": "2020-09-11",
@@ -785,6 +774,17 @@
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScBJ7TjvQWNOtlcZBMFLoMB1dAc5QfhCQ3agLuQz2Fbd1JC4Q/viewform",
     "cfpEndDate": "2019-07-01"
   },
+  {
+    "name": "vueday",
+    "url": "https://2020.vueday.it",
+    "startDate": "2020-09-15",
+    "endDate": "2020-09-15",
+    "city": "Verona",
+    "country": "Italy",
+    "twitter": "@vuedayit",
+    "cfpUrl": "https://forms.gle/9zMKdHNGJRJks62k8",
+    "cfpEndDate": "2019-11-30"
+  },  
   {
     "name": "HalfStack",
     "url": "https://halfstackconf.com/vienna",
