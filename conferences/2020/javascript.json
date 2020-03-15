@@ -400,15 +400,6 @@
     "cfpEndDate": "2020-03-22"
   },
   {
-    "name": "RenderATL",
-    "url": "https://www.renderatl.com",
-    "startDate": "2020-05-04",
-    "endDate": "2020-05-06",
-    "city": "Atlanta",
-    "country": "U.S.A.",
-    "twitter": "@renderATL"
-  },
-  {
     "name": "JSConf MX",
     "url": "https://jsconf.mx",
     "startDate": "2020-05-04",
@@ -735,6 +726,15 @@
     "country": "Germany",
     "twitter": "@ngdeconf",
     "cfpUrl": "https://ng-de.org/call-for-papers"
+  },
+  {
+    "name": "RenderATL",
+    "url": "https://www.renderatl.com",
+    "startDate": "2020-08-24",
+    "endDate": "2020-08-26",
+    "city": "Atlanta",
+    "country": "U.S.A.",
+    "twitter": "@renderATL"
   },
   {
     "name": "CascadiaJS",
