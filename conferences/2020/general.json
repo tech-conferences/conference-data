@@ -401,6 +401,17 @@
     "twitter": "@DevoxxFR"
   },
   {
+    "name": "AllTheTalks",
+    "url": "http://AllTheTalks.online",
+    "startDate": "2020-04-15",
+    "endDate": "2020-04-15",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@allthetalksconf",
+    "cfpUrl": "https://www.allthetalks.online/speak",
+    "cfpEndDate": "2020-04-01"
+  },
+  {
     "name": "Future Sync",
     "url": "https://futuresync.co.uk",
     "startDate": "2020-04-16",
@@ -951,15 +962,6 @@
     "cfpEndDate": "2019-11-01"
   },
   {
-    "name": "RenderATL",
-    "url": "https://www.renderatl.com",
-    "startDate": "2020-08-24",
-    "endDate": "2020-08-26",
-    "city": "Atlanta",
-    "country": "U.S.A.",
-    "twitter": "@renderATL"
-  },
-  {
     "name": "Scenic City Summit",
     "url": "https://sceniccitysummit.com",
     "startDate": "2020-08-21",
@@ -969,6 +971,15 @@
     "twitter": "@ScenicSummit",
     "cfpUrl": "https://sessionize.com/scenic-city-summit-2020",
     "cfpEndDate": "2020-03-01"
+  },
+  {
+    "name": "RenderATL",
+    "url": "https://www.renderatl.com",
+    "startDate": "2020-08-24",
+    "endDate": "2020-08-26",
+    "city": "Atlanta",
+    "country": "U.S.A.",
+    "twitter": "@renderATL"
   },
   {
     "name": "FOSS4G",
