@@ -15,9 +15,7 @@
     "endDate": "2020-01-25",
     "city": "Edegem",
     "country": "Belgium",
-    "twitter": "@phpbenelux",
-    "cfpUrl": "https://cfp.phpbenelux.eu",
-    "cfpEndDate": "2019-09-30"
+    "twitter": "@phpbenelux"
   },
   {
     "name": "DrupalCamp NJ",
@@ -35,9 +33,7 @@
     "endDate": "2020-02-08",
     "city": "Miami",
     "country": "U.S.A.",
-    "twitter": "@SunShinePHP ",
-    "cfpUrl": "https://cfp.sunshinephp.com",
-    "cfpEndDate": "2019-09-16"
+    "twitter": "@SunShinePHP "
   },
   {
     "name": "PHP UK",
@@ -67,34 +63,13 @@
     "twitter": "@midwestcamp"
   },
   {
-    "name": "Midwest PHP",
+    "name": "Midwest PHP Virtual",
     "url": "https://midwestphp.org",
-    "startDate": "2020-04-02",
+    "startDate": "2020-04-03",
     "endDate": "2020-04-04",
     "city": "Minneapolis, MN",
     "country": "U.S.A.",
-    "twitter": "@midwestphp",
-    "cfpUrl": "https://midwestphp.org/cfp",
-    "cfpEndDate": "2019-11-30"
-  },
-  {
-    "name": "TYPO3Camp Vienna",
-    "url": "https://www.typo3camp.at",
-    "startDate": "2020-04-30",
-    "endDate": "2020-05-02",
-    "city": "Vienna",
-    "country": "Austria",
-    "twitter": "@t3cvienna",
-    "cfpUrl": "https://www.typo3camp.at/sessions.html"
-  },
-  {
-    "name": "Magento Contribution Day Finland",
-    "url": "https://lamia.fi/en/blog/magento-contribution-day-finland-2020",
-    "startDate": "2020-05-16",
-    "endDate": "2020-05-16",
-    "city": "Helsinki",
-    "country": "Finland",
-    "twitter": "@LamiaOy"
+    "twitter": "@midwestphp"
   },
   {
     "name": "DrupalCon",
@@ -117,26 +92,13 @@
     "cfpEndDate": "2020-01-04"
   },
   {
-    "name": "PHP Serbia",
-    "url": "https://2020.phpsrbija.rs",
-    "startDate": "2020-05-21",
-    "endDate": "2020-05-23",
-    "city": "Belgrade",
-    "country": "Serbia",
-    "twitter": "@PHPSrbija",
-    "cfpUrl": "https://cfp.phpsrbija.rs",
-    "cfpEndDate": "2019-12-20"
-  },
-  {
     "name": "International PHP Conference",
     "url": "https://phpconference.com",
     "startDate": "2020-05-25",
     "endDate": "2020-05-29",
     "city": "Berlin",
     "country": "Germany",
-    "twitter": "@phpconference",
-    "cfpUrl": "https://phpconference.com/call-for-papers",
-    "cfpEndDate": "2019-11-25"
+    "twitter": "@phpconference"
   },
   {
     "name": "PHP fwdays",
@@ -194,20 +156,7 @@
     "endDate": "2020-06-27",
     "city": "Amsterdam",
     "country": "Netherlands",
-    "twitter": "@dpcon",
-    "cfpUrl": "https://cfp.phpconference.nl",
-    "cfpEndDate": "2020-01-28"
-  },
-  {
-    "name": "Dutch PHP Conference",
-    "url": "https://www.phpconference.nl",
-    "startDate": "2020-06-25",
-    "endDate": "2020-06-27",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "twitter": "@dpcon",
-    "cfpUrl": "http://cfp.phpconference.nl",
-    "cfpEndDate": "2020-01-28"
+    "twitter": "@dpcon"
   },
   {
     "name": "LaraconUS",
@@ -230,15 +179,22 @@
     "cfpEndDate": "2020-04-30"
   },
   {
+    "name": "TYPO3Camp Vienna",
+    "url": "https://www.typo3camp.at",
+    "startDate": "2020-09-03",
+    "endDate": "2020-09-05",
+    "city": "Vienna",
+    "country": "Austria",
+    "twitter": "@t3cvienna"
+  },
+  {
     "name": "PHP Serbia",
     "url": "https://2020.phpsrbija.rs",
     "startDate": "2020-09-10",
     "endDate": "2020-09-12",
     "city": "Belgrade",
     "country": "Serbia",
-    "twitter": "@PHPSrbija",
-    "cfpUrl": "https://cfp.phpsrbija.rs",
-    "cfpEndDate": "2019-12-20"
+    "twitter": "@PHPSrbija"
   },
   {
     "name": "JoomlaDay Germany",
