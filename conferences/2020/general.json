@@ -236,7 +236,7 @@
     "endDate": "2020-06-12",
     "city": "Rome",
     "country": "Italy",
-    "twitter": "@CodemotionIT"  
+    "twitter": "@CodemotionIT"
   },
   {
     "name": "Git Commit Show - Online",
@@ -375,7 +375,6 @@
     "country": "Germany",
     "twitter": "@MLSummit_DE"
   },
-
   {
     "name": "Albany Code Camp",
     "url": "https://albanycodecamp.org",
@@ -978,5 +977,16 @@
     "city": "Riga",
     "country": "Latvia",
     "twitter": "@devternity"
+  },
+  {
+    "name": "Codeland",
+    "url": "https://codelandconf.com",
+    "startDate": "2020-07-23",
+    "endDate": "2020-07-24",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@CodeLandConf",
+    "cfpUrl": "https://codelandconf.com/#speakers",
+    "cfpEndDate": "2020-03-31"
   }
 ]
