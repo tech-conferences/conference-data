@@ -250,8 +250,8 @@
     "url": "https://hashiconf.com/digital/",
     "startDate": "2020-06-08",
     "endDate": "2020-06-10",
-    "city": "Amsterdam",
-    "country": "Netherlands",
+    "city": "Online",
+    "country": "Online",
     "twitter": "@HashiConf"
   },
   {
@@ -325,6 +325,24 @@
     "endDate": "2020-08-12",
     "city": "Denver",
     "country": "U.S.A."
+  },
+  {
+    "name": "Cloud Native Rejekts",
+    "url": "https://cloud-native.rejekts.io/",
+    "startDate": "2020-08-11",
+    "endDate": "2020-08-12",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@rejektsio"
+  },
+  {
+    "name": "KubeCon + CloudNativeCon Europe 2020",
+    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/",
+    "startDate": "2020-08-13",
+    "endDate": "2020-08-16",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@Kubecon_"
   },
   {
     "name": "Devopsdays Houston",
@@ -513,5 +531,16 @@
     "twitter": "@containerdayit",
     "cfpUrl": "https://forms.gle/tGyGBhATWNhVoVd76",
     "cfpEndDate": "2020-08-31"
+  },
+  {
+    "name": "DeveloperWeek Global",
+    "url": "https://www.developerweek.com/global",
+    "startDate": "2020-06-16",
+    "endDate": "2020-06-17",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@developerweek",
+    "cfpUrl": "https://www.developerweek.com/global/conference/apply-to-speak",
+    "cfpEndDate": "2020-04-09"
   }
 ]

@@ -164,7 +164,7 @@
     "endDate": "2020-03-06",
     "city": "London",
     "country": "U.K.",
-    "twitter": "@QConLondon""
+    "twitter": "@QConLondon"
   },
   {
     "name": "WECode",
@@ -236,7 +236,7 @@
     "endDate": "2020-06-12",
     "city": "Rome",
     "country": "Italy",
-    "twitter": "@CodemotionIT"  
+    "twitter": "@CodemotionIT"
   },
   {
     "name": "Git Commit Show - Online",
@@ -333,8 +333,8 @@
   {
     "name": "Serverless Architecture Conference",
     "url": "https://serverless-architecture.io",
-    "startDate": "2020-04-20",
-    "endDate": "2020-04-22",
+    "startDate": "2020-08-17",
+    "endDate": "2020-08-19",
     "city": "The Hague",
     "country": "Netherlands",
     "twitter": "@serverlesscon"
@@ -342,8 +342,8 @@
   {
     "name": "API Conference",
     "url": "https://apiconference.net",
-    "startDate": "2020-04-20",
-    "endDate": "2020-04-22",
+    "startDate": "2020-08-17",
+    "endDate": "2020-08-19",
     "city": "The Hague",
     "country": "Netherlands",
     "twitter": "@api_conference"
@@ -375,7 +375,6 @@
     "country": "Germany",
     "twitter": "@MLSummit_DE"
   },
-
   {
     "name": "Albany Code Camp",
     "url": "https://albanycodecamp.org",
@@ -978,5 +977,16 @@
     "city": "Riga",
     "country": "Latvia",
     "twitter": "@devternity"
+  },
+  {
+    "name": "Codeland",
+    "url": "https://codelandconf.com",
+    "startDate": "2020-07-23",
+    "endDate": "2020-07-24",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@CodeLandConf",
+    "cfpUrl": "https://codelandconf.com/#speakers",
+    "cfpEndDate": "2020-03-31"
   }
 ]
