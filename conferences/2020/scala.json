@@ -7,5 +7,16 @@
     "city": "Berlin",
     "country": "Germany",
     "twitter": "@scaladays"
+  },
+  {
+    "name": "Scala Love Conf",
+    "url": "https://scala.love/conf",
+    "startDate": "2020-04-18",
+    "endDate": "2020-04-18",
+    "city": "online",
+    "country": "online",
+    "twitter": "@scala_love",
+    "cfpUrl": "https://www.papercall.io/scalalove",
+    "cfpEndDate": "2020-04-08"
   }
 ]
