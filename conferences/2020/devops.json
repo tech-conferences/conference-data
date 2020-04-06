@@ -141,6 +141,14 @@
     "twitter": "@NDC_Conferences"
   },
   {
+    "name": "Cloud Native Summit",
+    "url": "https://cloudnativesummit.online/",
+    "startDate": "2020-04-07",
+    "endDate": "2020-04-07",
+    "city": "Online",
+    "country": "Online"
+  },
+  {
     "name": "NDC Porto Online",
     "url": "https://ndcporto.com",
     "startDate": "2020-04-21",
@@ -156,6 +164,14 @@
     "endDate": "2020-04-22",
     "city": "Atlanta",
     "country": "U.S.A."
+  },
+  {
+    "name": "Red Hat Summit",
+    "url": "https://www.redhat.com/en/summit",
+    "startDate": "2020-04-28",
+    "endDate": "2020-04-29",
+    "city": "Online",
+    "country": "Online"
   },
   {
     "name": "DevOpsCon London",
@@ -183,6 +199,14 @@
     "city": "Online",
     "country": "Online",
     "twitter": "@DataStax"
+  },
+  {
+    "name": "RedisConf",
+    "url": "https://events.redislabs.com/redisconf20/",
+    "startDate": "2020-05-12",
+    "endDate": "2020-05-13",
+    "city": "Online",
+    "country": "Online"
   },
   {
     "name": "Continuous Lifecycle",
@@ -476,6 +500,14 @@
     "endDate": "2020-10-29",
     "city": "Berlin",
     "country": "Germany"
+  },
+  {
+    "name": "DevOps Enterprise Summit",
+    "url": "https://events.itrevolution.com/us/register/",
+    "startDate": "2020-11-09",
+    "endDate": "2020-11-11",
+    "city": "Las Vegas",
+    "country": "U.S.A."
   },
   {
     "name": "DeveloperWeek Austin",
