@@ -167,15 +167,6 @@
     "twitter": "@WECodeHarvard"
   },
   {
-    "name": "Software Architecture Summit",
-    "url": "https://software-architecture-summit.de",
-    "startDate": "2020-10-14",
-    "endDate": "2020-10-16",
-    "city": "Munich",
-    "country": "Germany",
-    "twitter": "@SoftwArchSummit"
-  },
-  {
     "name": "Cloud Conf",
     "url": "https://2020.cloudconf.it",
     "startDate": "2020-06-18",
@@ -293,15 +284,29 @@
     "twitter": "@DevoxxFR"
   },
   {
+    "name": "Emerging Technologies for the Enterprise",
+    "url": "https://2020.phillyemergingtech.com/",
+    "startDate": "2020-04-14",
+    "endDate": "2020-04-15",
+    "city": "Online",
+    "country": "Online"
+  },
+  {
     "name": "AllTheTalks",
     "url": "http://AllTheTalks.online",
     "startDate": "2020-04-15",
     "endDate": "2020-04-15",
     "city": "Online",
     "country": "Online",
-    "twitter": "@allthetalksconf",
-    "cfpUrl": "https://www.allthetalks.online/speak",
-    "cfpEndDate": "2020-04-01"
+    "twitter": "@allthetalksconf"
+  },
+  {
+    "name": "MagnoliaJS",
+    "url": "https://magnoliajs.com/",
+    "startDate": "2020-04-15",
+    "endDate": "2020-04-16",
+    "city": "Online",
+    "country": "Online"
   },
   {
     "name": "Future Sync",
@@ -322,33 +327,6 @@
     "twitter": "@TheDevConf"
   },
   {
-    "name": "Great International Developer Summit (GIDS)",
-    "url": "https://www.developersummit.com",
-    "startDate": "2020-08-17",
-    "endDate": "2020-08-21",
-    "city": "Bangalore",
-    "country": "India",
-    "twitter": "@developersummit"
-  },
-  {
-    "name": "Serverless Architecture Conference",
-    "url": "https://serverless-architecture.io",
-    "startDate": "2020-08-17",
-    "endDate": "2020-08-19",
-    "city": "The Hague",
-    "country": "Netherlands",
-    "twitter": "@serverlesscon"
-  },
-  {
-    "name": "API Conference",
-    "url": "https://apiconference.net",
-    "startDate": "2020-08-17",
-    "endDate": "2020-08-19",
-    "city": "The Hague",
-    "country": "Netherlands",
-    "twitter": "@api_conference"
-  },
-  {
     "name": "Liferay Digital Solutions Forum (LDSF)",
     "url": "https://www.liferay.com/de/web/events-ldsf-dach",
     "startDate": "2020-04-22",
@@ -366,6 +344,14 @@
     "country": "Online",
     "twitter": "@NDC_Conferences"
   },
+    {
+    "name": "Failover Conf",
+    "url": "https://failover-conf.heysummit.com/",
+    "startDate": "2020-04-21",
+    "endDate": "2020-04-24",
+    "city": "Online",
+    "country": "Online"
+  },
   {
     "name": "ML Summit",
     "url": "https://ml-summit.de",
@@ -374,6 +360,22 @@
     "city": "Munich",
     "country": "Germany",
     "twitter": "@MLSummit_DE"
+  },
+  {
+    "name": "Apache Flink Forward Virtual Conference",
+    "url": "https://www.flink-forward.org/sf-2020",
+    "startDate": "2020-04-22",
+    "endDate": "2020-04-24",
+    "city": "Online",
+    "country": "Online"
+  },
+  {
+    "name": "Sparkbox UnConference",
+    "url": "https://www.eventbrite.com/e/sparkbox-unconference-tickets-100168119542",
+    "startDate": "2020-04-23",
+    "endDate": "2020-04-23",
+    "city": "Online",
+    "country": "Online"
   },
   {
     "name": "Albany Code Camp",
@@ -421,6 +423,14 @@
     "twitter": "@devweeksea"
   },
   {
+    "name": "IBM Think Digital 2020",
+    "url": "https://www.ibm.com/events/think/",
+    "startDate": "2020-05-05",
+    "endDate": "2020-05-07",
+    "city": "Online",
+    "country": "Online"
+  },
+  {
     "name": "Micro CPH",
     "url": "https://microcph.dk",
     "startDate": "2020-05-11",
@@ -428,6 +438,14 @@
     "city": "Copenhagen",
     "country": "Denmark",
     "twitter": "@MicroCPH"
+  },
+  {
+    "name": "Tech Inclusion",
+    "url": "https://techinclusion.co/summit/",
+    "startDate": "2020-05-12",
+    "endDate": "2020-05-12",
+    "city": "Online",
+    "country": "Online"
   },
   {
     "name": "ScaleConf Colombia",
@@ -455,6 +473,15 @@
     "city": "Utrecht",
     "country": "Netherlands",
     "twitter": "@TEQnation2019"
+  },
+  {
+    "name": "Software Architecture Summit",
+    "url": "https://software-architecture-summit.de",
+    "startDate": "2020-10-14",
+    "endDate": "2020-10-16",
+    "city": "Munich",
+    "country": "Germany",
+    "twitter": "@SoftwArchSummit"
   },
   {
     "name": "Dev Day",
@@ -504,17 +531,6 @@
     "twitter": "@WebConfAr",
     "cfpUrl": "https://webconf.tech",
     "cfpEndDate": "2020-03-31"
-  },
-  {
-    "name": "Flutter Conf Paris",
-    "url": "https://flutter-conf.paris",
-    "startDate": "2020-06-02",
-    "endDate": "2020-06-02",
-    "city": "Paris",
-    "country": "France",
-    "twitter": "@flutter_conf",
-    "cfpUrl": "https://conference-hall.io/public/event/FVXIwUD33S6h9e49cCEr",
-    "cfpEndDate": "2020-04-05"
   },
   {
     "name": "The Developer's Conference",
@@ -644,6 +660,15 @@
     "city": "Rotterdam",
     "country": "Netherlands",
     "twitter": "@joyofcoding"
+  }, 
+  {
+    "name": "Collision Conf",
+    "url": "https://collisionconf.com/",
+    "startDate": "2020-06-22",
+    "endDate": "2020-06-25",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@joyofcoding"
   },
   {
     "name": "UXPA International Conference",
@@ -682,6 +707,33 @@
     "city": "Atlanta, GA ",
     "country": "U.S.A.",
     "twitter": "@RefactrTech"
+  },
+  {
+    "name": "Great International Developer Summit (GIDS)",
+    "url": "https://www.developersummit.com",
+    "startDate": "2020-08-17",
+    "endDate": "2020-08-21",
+    "city": "Bangalore",
+    "country": "India",
+    "twitter": "@developersummit"
+  },
+  {
+    "name": "Serverless Architecture Conference",
+    "url": "https://serverless-architecture.io",
+    "startDate": "2020-08-17",
+    "endDate": "2020-08-19",
+    "city": "The Hague",
+    "country": "Netherlands",
+    "twitter": "@serverlesscon"
+  },
+  {
+    "name": "API Conference",
+    "url": "https://apiconference.net",
+    "startDate": "2020-08-17",
+    "endDate": "2020-08-19",
+    "city": "The Hague",
+    "country": "Netherlands",
+    "twitter": "@api_conference"
   },
   {
     "name": "Scenic City Summit",
