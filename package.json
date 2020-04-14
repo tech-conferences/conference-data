@@ -12,6 +12,7 @@
     "babel-preset-es2016": "^6.24.1",
     "babel-preset-react-app": "^3.0.2",
     "babel-runtime": "6.23.0",
+    "baretest": "^2.0.0",
     "date-fns": "^1.29.0",
     "eslint": "^4.5.0",
     "eslint-plugin-shopify": "^17.0.0",
@@ -20,9 +21,11 @@
     "jest": "22.1.4",
     "jest-cli": "^22.1.4",
     "jest-expect-message": "^1.0.2",
-    "lodash": "^4.17.13"
+    "lodash": "^4.17.13",
+    "nodemon": "^2.0.3"
   },
   "scripts": {
+    "dev": "nodemon scripts/tests/fastConferences.test.js",
     "test": "node scripts/test.js --env=jsdom",
     "lint": "eslint src",
     "reorder-confs": "NODE_ENV=test babel-node ./scripts/reorder-conferences-by-date.js",
