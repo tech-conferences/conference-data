@@ -25,8 +25,8 @@
     "nodemon": "^2.0.3"
   },
   "scripts": {
-    "dev": "nodemon scripts/tests/fastConferences.test.js",
-    "test": "node scripts/test.js --env=jsdom",
+    "dev": "nodemon scripts/tests/fastConferencesTest.js",
+    "test": "node scripts/tests/fastConferencesTest.js",
     "lint": "eslint src",
     "reorder-confs": "NODE_ENV=test babel-node ./scripts/reorder-conferences-by-date.js",
     "precommit": "npm run lint",
