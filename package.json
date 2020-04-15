@@ -1,56 +1,16 @@
 {
-  "name": "the-conference-javascript-list",
+  "name": "www.confs.tech-data",
   "version": "0.1.0",
-  "private": true,
   "devDependencies": {
-    "babel-core": "6.25.0",
-    "babel-eslint": "7.2.3",
-    "babel-jest": "^22.2.2",
-    "babel-loader": "7.1.1",
-    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.0",
-    "babel-preset-es2015": "^6.24.1",
-    "babel-preset-es2016": "^6.24.1",
-    "babel-preset-react-app": "^3.0.2",
-    "babel-runtime": "6.23.0",
-    "date-fns": "^1.29.0",
-    "eslint": "^4.5.0",
-    "eslint-plugin-shopify": "^17.0.0",
-    "file-loader": "^1.1.11",
-    "fs-extra": "^5.0.0",
-    "jest": "22.1.4",
-    "jest-cli": "^22.1.4",
-    "jest-expect-message": "^1.0.2",
-    "lodash": "^4.17.13"
+    "baretest": "^2.0.0",
+    "date-fns": "^2.12.0",
+    "lodash": "^4.17.15",
+    "nodemon": "^2.0.3"
   },
   "scripts": {
-    "test": "node scripts/test.js --env=jsdom",
-    "lint": "eslint src",
-    "reorder-confs": "NODE_ENV=test babel-node ./scripts/reorder-conferences-by-date.js",
-    "precommit": "npm run lint",
-    "predeploy": "npm run build"
+    "start": "nodemon scripts/tests/conferences.test.js",
+    "test": "node scripts/tests/conferences.test.js",
+    "reorder-confs": "node ./scripts/reorder-conferences-by-date.js"
   },
-  "homepage": "https://confs.tech",
-  "jest": {
-    "setupTestFrameworkScriptFile": "jest-expect-message",
-    "setupFiles": [
-      "<rootDir>/config/polyfills.js"
-    ],
-    "testMatch": [
-      "<rootDir>/scripts/tests/**/?(*.)(spec|test).js?(x)"
-    ],
-    "testEnvironment": "node",
-    "transform": {
-      "^.+\\.(js|jsx)$": "<rootDir>/node_modules/babel-jest"
-    },
-    "transformIgnorePatterns": [
-      "[/\\\\]node_modules[/\\\\].+\\.(js|jsx)$"
-    ],
-    "moduleFileExtensions": [
-      "web.js",
-      "js",
-      "json",
-      "web.jsx",
-      "node"
-    ]
-  }
+  "homepage": "https://confs.tech"
 }
