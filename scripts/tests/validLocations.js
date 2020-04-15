@@ -536,7 +536,6 @@ module.exports = {
         "Santa Monica, CA",
         "Scottsdale, AZ",
         "Seattle, WA",
-        "St Petersburg, FL",
         "St. Louis, MO",
         "St. Petersburg, FL",
         "Stanford, CA",
