@@ -10,6 +10,7 @@
   "scripts": {
     "start": "nodemon scripts/tests/conferences.test.js",
     "test": "node scripts/tests/conferences.test.js",
+    "updateValidLocations": "node ./scripts/updateValidLocations.js",
     "reorder-confs": "node ./scripts/reorder-conferences-by-date.js"
   },
   "homepage": "https://confs.tech"
