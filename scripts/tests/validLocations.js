@@ -490,7 +490,7 @@ module.exports = {
         "Long Beach, CA",
         "Los Angeles, CA",
         "Madison, WI",
-        "Menlo Park, CA ",
+        "Menlo Park, CA",
         "Mesa, AZ",
         "Miami, FL",
         "Milwaukee, WI",
