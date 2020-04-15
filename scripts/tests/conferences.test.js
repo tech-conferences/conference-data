@@ -28,9 +28,8 @@ range(config.startYear, config.currentYear + 2).forEach(year => {
 const REQUIRED_KEYS = ['name', 'url', 'startDate', 'country', 'city'];
 const DATES_KEYS = ['startDate', 'endDate', 'cfpEndDate'];
 
-Object.keys(conferencesJSON).forEach(year => {
-    Object.keys(conferencesJSON[year]).forEach(stack => {
-
+for (const year of Object.keys(conferencesJSON)) {
+    for (const stack of Object.keys(conferencesJSON[year])) {
         const conferences = conferencesJSON[year][stack];
 
         test(`${stack} conferences in ${year}`, function () {
@@ -45,7 +44,8 @@ Object.keys(conferencesJSON).forEach(year => {
             assert.equal(duplicates.length, 0);
         });
 
-        conferences.forEach(conference => {
+        for (const conference of conferences) {
+
             const { name, country, city, url, cfpUrl, twitter } = conference;
 
             test(`conferences/${year}/${stack}.json - ${name} - ${stack} - ${year}`, function () {
@@ -80,14 +80,14 @@ Object.keys(conferencesJSON).forEach(year => {
                     assert(usaStateRegex.test(city), `[city] cities in the US must also contain the state – got: "${city}"`);
                 }
             });
-        });
-    });
-});
+        };
+    };
+};
 
 !(async function () {
-    try {
-        await test.run()
-    } finally {
-        process.exit()
+    const result = await test.run();
+    if (!result) {
+        process.exitCode = 1;
+        process.exit(1);
     }
 })()
