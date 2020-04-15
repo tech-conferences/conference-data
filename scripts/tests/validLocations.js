@@ -507,6 +507,7 @@ module.exports = {
         "Orlando, FL",
         "Palm Springs, CA",
         "Palo Alto, CA",
+        "Phoenix, AZ",
         "Pasadena, CA",
         "Philadelphia, PA",
         "Pittsburgh, PA",
