@@ -84,4 +84,10 @@ Object.keys(conferencesJSON).forEach(year => {
     });
 });
 
-test.run()
+!(async function () {
+    try {
+        await test.run()
+    } finally {
+        process.exit()
+    }
+})()
