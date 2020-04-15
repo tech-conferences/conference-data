@@ -63,7 +63,7 @@ Object.keys(conferencesJSON).forEach(year => {
         conferences.forEach(conference => {
             const { name, country, city, url, cfpUrl, twitter } = conference;
 
-            test(`${stack} - ${name} in ${year}`, function () {
+            test(`conferences/${year}/${stack}.json - ${name} - ${stack} - ${year}`, function () {
                 // Twitter is a valid URL
                 if (twitter && twitter.length > 0 && !twitterRegex.test(twitter)) {
                     assert(twitterRegex.test(twitter), `[twitter] should be formatted like @twitter – got: "${twitter}"`);
