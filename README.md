@@ -2,8 +2,9 @@
 
 Here resides all the data used on [confs.tech](https://confs.tech).
 
-- Run the tests: `$ yarn run test`
-- Reorder conferences: `$ yarn run reorder-confs`
+- Run the tests: `$ npm run test`
+- Reorder conferences: `$ npm run reorder-confs`
+- Update valid locations: `$ npm run updateValidLocations`
 
 ## Adding a conference
 
