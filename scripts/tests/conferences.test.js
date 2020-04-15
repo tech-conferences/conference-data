@@ -3,6 +3,7 @@ const assert = require('assert');
 const range = require('lodash/range');
 const getDuplicates = require('./utils');
 const config = require('../config');
+const validLocations = require('./validLocations');
 
 const BASE_DIR = '../../conferences';
 
@@ -24,24 +25,6 @@ range(config.startYear, config.currentYear + 2).forEach(year => {
 
 const REQUIRED_KEYS = ['name', 'url', 'startDate', 'country', 'city'];
 const DATES_KEYS = ['startDate', 'endDate', 'cfpEndDate'];
-const BAD_CITY_NAMES = [
-    'San Fransisco',
-    'Feiburg'
-];
-
-const BAD_COUNTRY_NAMES = [
-    'US',
-    'U.S.',
-    'U.S',
-    'USA',
-    'U.S.A',
-    'United States of America',
-    'UK',
-    'U.K',
-    'UAE',
-    'The Netherlands',
-    'United Kingdom',
-];
 
 Object.keys(conferencesJSON).forEach(year => {
     Object.keys(conferencesJSON[year]).forEach(stack => {
@@ -90,17 +73,8 @@ Object.keys(conferencesJSON).forEach(year => {
                     }
                 });
 
-                // Has a good country name', () => {
-                assert(BAD_COUNTRY_NAMES.indexOf(country) === -1,
-                    `[country] is a bad country name – got: "${country}", did you miss a dot? Try U.S.A. / U.K.`
-                );
-
-                // Has a good city name', () => {
-                assert(
-                    BAD_CITY_NAMES.indexOf(city) === -1,
-                    `[city] is a bad city name – got: "${city}", did you mean San Francisco?`
-                );
-
+                assert(validLocations[country], `[country] is a not in the list of valid countries – got: "${country}"`);
+                assert(validLocations[country].indexOf(city) !== -1, `[city] is a not in the list of valid cities – got: "${city}" in "${country}""`);
             });
         });
     });
