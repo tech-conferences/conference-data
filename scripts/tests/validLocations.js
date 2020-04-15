@@ -64,7 +64,7 @@ module.exports = {
         "Waterloo"
     ],
     "Chile": [
-        "San Antonio"
+        "San Antonio, TX"
     ],
     "China": [
         "Beijing",
@@ -206,8 +206,7 @@ module.exports = {
         "Herzliya",
         "Nasholim",
         "Rishon Lezion, Hamerkaz",
-        "Tel Aviv",
-        "Tel-Aviv"
+        "Tel Aviv"
     ],
     "Italy": [
         "Bergamo",
@@ -218,13 +217,11 @@ module.exports = {
         "Desenzano del Garda (BS)",
         "Florence",
         "Genova",
-        "Milan",
         "Milano",
         "Modena",
         "Palermo",
         "Pisa",
         "Rome",
-        "Torino",
         "Turin",
         "Verona",
         "Vimercate"
@@ -268,9 +265,6 @@ module.exports = {
     "Moldova": [
         "Chișinău"
     ],
-    "Nebraska": [
-        "Omaha"
-    ],
     "Nepal": [
         "Bharatpur",
         "Kathmandu"
@@ -287,9 +281,6 @@ module.exports = {
         "Utrecht",
         "Venlo",
         "Zaandam"
-    ],
-    "Netherlands ": [
-        "Amsterdam "
     ],
     "New Zealand": [
         "Auckland",
@@ -308,17 +299,10 @@ module.exports = {
     "Online": [
         "Online"
     ],
-    "Online ": [
-        "Online"
-    ],
     "Panama": [
-        "Panama",
         "Panama City"
     ],
     "Peru": [
-        "Lima"
-    ],
-    "Perú": [
         "Lima"
     ],
     "Philippines": [
@@ -331,14 +315,11 @@ module.exports = {
         "Gdynia",
         "Katowice",
         "Krakow",
-        "Kraków",
         "Lodz",
         "Poznań",
         "Szczyrk",
         "Warsaw",
-        "Wroclaw",
-        "Wrocław",
-        "Łódź"
+        "Wroclaw"
     ],
     "Portugal": [
         "Aveiro",
@@ -346,7 +327,6 @@ module.exports = {
         "Coimbra",
         "Faro",
         "Lisboa",
-        "Lisbon",
         "Porto"
     ],
     "Qatar": [
@@ -355,18 +335,13 @@ module.exports = {
     "Romania": [
         "Bucharest",
         "Cluj",
-        "Cluj-Napoca",
         "Iasi",
         "Timisoara"
     ],
     "Russia": [
         "Moscow",
         "Novosibirsk",
-        "Saint Petersburg",
-        "Saint-Petersburg",
-        "St. Petersburg",
-        "St. Petersburg ",
-        "St.Petersburg"
+        "Saint Petersburg"
     ],
     "Scotland": [
         "Edinburgh",
@@ -378,8 +353,7 @@ module.exports = {
     ],
     "Singapore": [
         "Marina Bay Sands",
-        "Singapore",
-        "Singapore "
+        "Singapore"
     ],
     "Slovakia": [
         "Bratislava",
@@ -391,16 +365,14 @@ module.exports = {
     ],
     "South Africa": [
         "Cape Town",
-        "Cape Town ",
-        "Cape Town, Western Cape",
         "Johannesburg"
     ],
     "Spain": [
         "Alicante",
         "Barcelona",
-        "Barcelona ",
         "Canarias",
         "Cádiz",
+        "Cáceres",
         "Ibiza",
         "Madrid",
         "Malaga",
@@ -417,8 +389,7 @@ module.exports = {
     "Sweden": [
         "Gothenburg",
         "Malmö",
-        "Stockholm",
-        "Stockholm "
+        "Stockholm"
     ],
     "Switzerland": [
         "Basel",
@@ -429,16 +400,9 @@ module.exports = {
         "Lausanne",
         "Lugano",
         "Nottwil",
-        "Zurich",
-        "Zürich"
-    ],
-    "Taipei": [
-        "Taiwan"
+        "Zurich"
     ],
     "Taiwan": [
-        "Taipei"
-    ],
-    "Taiwan ": [
         "Taipei"
     ],
     "Thailand": [
@@ -446,8 +410,7 @@ module.exports = {
         "Nakhon Pathom"
     ],
     "Turkey": [
-        "Istanbul",
-        "İstanbul"
+        "Istanbul"
     ],
     "U.K.": [
         "Aberystwyth",
@@ -474,185 +437,117 @@ module.exports = {
         "York"
     ],
     "U.S.A.": [
-        " Kansas City, MO",
-        "Albany",
+        "Albany, NY",
         "Anaheim, CA",
         "Aspen, CO",
-        "Atlanta",
         "Atlanta, GA",
-        "Atlanta, GA ",
         "Augusta, GA",
         "Aurora, CO",
-        "Austin",
-        "Austin ",
         "Austin, TX",
-        "Austin, Texas",
-        "Baltimore",
         "Baltimore, MD",
         "Bandera, TX",
         "Bellevue, WA",
         "Bloomington, MN",
-        "Boise",
         "Boise, ID",
-        "Boston",
-        "Boston MA",
         "Boston, MA",
-        "Brooklyn",
         "Brooklyn, NY",
-        "Brooklyn, New York",
         "Broomfield, CO",
-        "Buffalo",
-        "Burlington",
+        "Buffalo, NY",
         "Burlington, VT",
         "Cambridge, MA",
-        "Cape Canaveral",
+        "Cape Canaveral, FL",
         "Carlsbad, CA",
         "Carmel, IN",
         "Champaign-Urbana, IL",
-        "Charlotte",
-        "Chattanooga",
+        "Charlotte, SC",
         "Chattanooga, TN",
         "Chicagexas, IL",
-        "Chicago",
         "Chicago, IL",
-        "Cincinnati",
         "Cincinnati, OH",
         "Clearwater, FL",
         "Cleveland, OH",
-        "Columbus",
         "Columbus, GA",
         "Columbus, OH",
-        "Columbus,Ohio",
-        "Cáceres",
         "Dallas, TX",
         "Dayton, OH",
-        "Denver",
-        "Denver CO",
         "Denver, CO",
-        "Des Moines",
-        "Detroit",
+        "Des Moines, IA",
         "Detroit, MI",
-        "East Point",
+        "East Point, GA",
+        "Galveston, TX",
         "Grand Rapids, MI",
-        "Grapevine",
-        "Greenville",
+        "Grapevine, TX",
         "Hartford, CT",
-        "Hawaiʻi",
-        "Henderson",
-        "Honolulu",
-        "Houston",
+        "Honolulu, HI",
         "Houston, TX",
         "Huntsville, AL",
         "Jackson, MS",
-        "Jacksonville Beach",
+        "Jacksonville Beach, FL",
         "Knoxville, TN",
-        "La Jolla",
-        "Las Vegas",
-        "Las Vegas, CA",
+        "Kansas City, MO",
+        "La Jolla, CA",
         "Las Vegas, NV",
-        "Long Beach",
         "Long Beach, CA",
-        "Los Angeles",
         "Los Angeles, CA",
-        "Madison, Wi",
+        "Madison, WI",
         "Menlo Park, CA ",
-        "Mesa",
-        "Miami",
-        "Milwaukee",
+        "Mesa, AZ",
+        "Miami, FL",
         "Milwaukee, WI",
-        "Minneapolis",
         "Minneapolis, MN",
         "Modesto, CA",
-        "Morrisville",
-        "Mountain View",
+        "Morrisville, NC",
         "Mountain View, CA",
-        "Nashville",
         "Nashville, TN",
-        "Nashville, US",
-        "New Orleans",
         "New Orleans, LA",
-        "New York",
-        "New York City",
         "New York, NY",
         "Oakland, CA",
-        "Oklahoma City",
         "Oklahoma City, OK",
         "Omaha, NE",
-        "Orlando",
-        "Orlando ",
         "Orlando, FL",
-        "PORTLAND",
-        "Palm Springs",
+        "Palm Springs, CA",
         "Palo Alto, CA",
-        "Pasadena",
         "Pasadena, CA",
-        "Philadelphia",
         "Philadelphia, PA",
-        "Phoenix",
         "Pittsburgh, PA",
         "Port Canaveral, FL",
-        "Portland",
         "Portland, OR",
-        "Portland, Oregon",
-        "Princeton",
         "Princeton, NJ",
         "Providence, RI",
-        "Raleigh",
         "Raleigh, NC",
         "Raleigh-Durham, NC",
-        "Redmond",
+        "Redmond, WA",
         "Redwood City, CA",
         "Reston, VA",
-        "Richardson",
+        "Richardson, TX",
         "Richmond, VA",
         "Rochester, NY",
-        "Rockville",
-        "SAN FRANCISCO",
-        "Salt Lake City",
+        "Rockville, MD",
         "Salt Lake City, UT",
-        "San Antonio",
-        "San Diego",
+        "San Antonio, TX",
         "San Diego, CA",
-        "San Fracisco, CA",
-        "San Francisco",
-        "San Francisco ",
         "San Francisco, CA",
-        "San Francisco, CA ",
-        "San Jose",
         "San Jose, CA",
-        "San Mateo, California",
-        "Sandusky",
+        "San Mateo, CA",
         "Sandusky, OH",
         "Sandy, UT",
-        "Santa Clara",
         "Santa Clara, CA",
         "Santa Cruz, CA",
-        "Santa Monica",
+        "Santa Monica, CA",
         "Scottsdale, AZ",
-        "Seattle",
         "Seattle, WA",
         "St Petersburg, FL",
-        "St. Louis",
         "St. Louis, MO",
         "St. Petersburg, FL",
         "Stanford, CA",
-        "Sunnyvale",
+        "Sunnyvale, CA",
         "Sunriver, OR",
-        "Tampa",
-        "Tampa Bay",
         "Tampa, FL",
         "Texas, IL",
-        "The Woodlands",
         "Tulsa, OK",
         "Virginia Beach, VA",
-        "Washington",
-        "Washington DC",
         "Washington, D.C.",
-        "Washington, DC",
-        "Wisconsin Dells"
-    ],
-    "U.S.A. ": [
-        "Galveston, Texas "
+        "Wisconsin Dells, WI"
     ],
     "Ukraine": [
         "Kharkiv",
@@ -669,11 +564,5 @@ module.exports = {
     ],
     "Vietnam": [
         "Ho Chi Minh city"
-    ],
-    "online": [
-        "online"
-    ],
-    "switzerland": [
-        "zurich"
     ]
 }

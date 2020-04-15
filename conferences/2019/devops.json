@@ -26,7 +26,7 @@
     "url": "https://www.socallinuxexpo.org/scale/17x",
     "startDate": "2019-03-07",
     "endDate": "2019-03-10",
-    "city": "Pasadena",
+    "city": "Pasadena, CA",
     "country": "U.S.A.",
     "cfpUrl": "http://www.socallinuxexpo.org/scale/17x/cfp/",
     "cfpEndDate": "2018-10-31",
@@ -37,7 +37,7 @@
     "url": "https://devopsdays.org/events/2019-los-angeles",
     "startDate": "2019-03-08",
     "endDate": "2019-03-08",
-    "city": "Pasadena",
+    "city": "Pasadena, CA",
     "country": "U.S.A.",
     "cfpUrl": "https://www.devopsdays.org/events/2019-los-angeles/propose//",
     "cfpEndDate": "2019-01-15"
@@ -66,7 +66,7 @@
     "url": "https://grpconf19.sched.com/",
     "startDate": "2019-03-21",
     "endDate": "2019-03-21",
-    "city": "Sunnyvale",
+    "city": "Sunnyvale, CA",
     "country": "U.S.A."
   },
   {
@@ -135,11 +135,11 @@
     "cfpEndDate": "2019-02-26"
   },
   {
-    "name": "DevOpsDays Atlanta",
+    "name": "DevOpsDays Atlanta, GA",
     "url": "https://www.devopsdays.org/events/2019-atlanta/welcome",
     "startDate": "2019-04-09",
     "endDate": "2019-04-10",
-    "city": "Atlanta",
+    "city": "Atlanta, GA",
     "country": "U.S.A.",
     "cfpUrl": "https://www.papercall.io/devopsdaysatl2019",
     "cfpEndDate": "2019-02-28"
@@ -160,7 +160,7 @@
     "url": "https://www.devopsdays.org/events/2019-seattle/welcome",
     "startDate": "2019-04-23",
     "endDate": "2019-04-24",
-    "city": "Seattle",
+    "city": "Seattle, WA",
     "country": "U.S.A.",
     "twitter": "@DevOpsDaysSEA"
   },
@@ -178,7 +178,7 @@
     "url": "https://events.docker.com/events/dockercon",
     "startDate": "2019-04-29",
     "endDate": "2019-05-02",
-    "city": "San Francisco",
+    "city": "San Francisco, CA",
     "country": "U.S.A."
   },
   {
@@ -186,7 +186,7 @@
     "url": "https://www.devopsdays.org/events/2019-des-moines/welcome",
     "startDate": "2019-05-02",
     "endDate": "2019-05-03",
-    "city": "Des Moines",
+    "city": "Des Moines, IA",
     "country": "U.S.A."
   },
   {
@@ -331,7 +331,7 @@
     "url": "https://www.devopsdays.org/events/2019-portugal/welcome",
     "startDate": "2019-06-03",
     "endDate": "2019-06-04",
-    "city": "Lisbon",
+    "city": "Lisboa",
     "country": "Portugal",
     "twitter": "@devopsdayspt",
     "cfpUrl": "https://www.papercall.io/devopsdaysportugal2019",
@@ -361,7 +361,7 @@
     "url": "https://www.devopsdays.org/events/2019-tampa/welcome",
     "startDate": "2019-06-07",
     "endDate": "2019-06-07",
-    "city": "Tampa Bay",
+    "city": "Tampa, FL",
     "country": "U.S.A.",
     "twitter": "@devopsdaystampa",
     "cfpUrl": "https://www.papercall.io/dodtampabay",
@@ -436,7 +436,7 @@
     "url": "https://swampup.jfrog.com",
     "startDate": "2019-06-17",
     "endDate": "2019-06-19",
-    "city": "San Francisco",
+    "city": "San Francisco, CA",
     "country": "U.S.A."
   },
   {
@@ -495,7 +495,7 @@
     "url": "https://www.dashcon.io",
     "startDate": "2019-07-16",
     "endDate": "2019-07-17",
-    "city": "New York",
+    "city": "New York, NY",
     "country": "U.S.A.",
     "twitter": "@dashconio",
     "cfpUrl": "https://www.dashcon.io/speak",
@@ -535,7 +535,7 @@
     "url": "https://www.cincydeliver.org",
     "startDate": "2019-07-26",
     "endDate": "2019-07-26",
-    "city": "Cincinnati",
+    "city": "Cincinnati, OH",
     "country": "U.S.A.",
     "twitter": "@dayofagile",
     "cfpUrl": "https://www.cincydeliver.org",
@@ -578,7 +578,7 @@
     "url": "https://www.devopsdays.org/events/2019-chicago/welcome",
     "startDate": "2019-08-27",
     "endDate": "2019-08-28",
-    "city": "Chicago",
+    "city": "Chicago, IL",
     "country": "U.S.A.",
     "twitter": "@devopsdayschi",
     "cfpUrl": "https://www.devopsdays.org/events/2019-chicago/propose",
@@ -611,7 +611,7 @@
     "url": "https://www.devopsdays.org/events/2019-portland/welcome",
     "startDate": "2019-09-10",
     "endDate": "2019-09-12",
-    "city": "Portland",
+    "city": "Portland, OR",
     "country": "U.S.A.",
     "twitter": "@devopsdayspdx",
     "cfpUrl": "https://sessionize.com/devopsdays-portland-2019",
@@ -631,7 +631,7 @@
     "url": "https://grillops.io",
     "startDate": "2019-09-13",
     "endDate": "2019-09-14",
-    "city": "Wrocław",
+    "city": "Wroclaw",
     "country": "Poland",
     "cfpUrl": "https://grillops.io/speakers",
     "cfpEndDate": "2019-07-13"
@@ -650,7 +650,7 @@
     "url": "https://about.gitlab.com/events/commit",
     "startDate": "2019-09-16",
     "endDate": "2019-09-17",
-    "city": "Brooklyn",
+    "city": "Brooklyn, NY",
     "country": "U.S.A.",
     "twitter": "@gitlab",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdbDLOt7jYDlvZqgs2-IlOoLexszEZ0zGghA3HB-VEq_vVICA/viewform",
@@ -731,7 +731,7 @@
     "url": "https://www.devopsdays.org/events/2019-buffalo/welcome",
     "startDate": "2019-09-26",
     "endDate": "2019-09-27",
-    "city": "Buffalo",
+    "city": "Buffalo, NY",
     "country": "U.S.A.",
     "cfpUrl": "https://www.papercall.io/dodbflo19",
     "cfpEndDate": "2019-03-30"
@@ -750,7 +750,7 @@
     "url": "https://www.devopsdays.org/events/2019-raleigh/welcome",
     "startDate": "2019-10-01",
     "endDate": "2019-10-02",
-    "city": "Raleigh",
+    "city": "Raleigh, NC",
     "country": "U.S.A.",
     "cfpUrl": "https://www.devopsdays.org/events/2019-raleigh/propose",
     "cfpEndDate": "2019-04-01"
@@ -812,7 +812,7 @@
     "url": "https://puppet.com/puppetize",
     "startDate": "2019-10-09",
     "endDate": "2019-10-10",
-    "city": "Portland, Oregon",
+    "city": "Portland, OR",
     "country": "U.S.A.",
     "twitter": "@puppetize",
     "cfpUrl": "http://pup.pt/pdxcfp",
@@ -903,7 +903,7 @@
     "url": "https://www.devopsdays.org/events/2019-detroit/welcome",
     "startDate": "2019-10-23",
     "endDate": "2019-10-24",
-    "city": "Detroit",
+    "city": "Detroit, MI",
     "country": "U.S.A.",
     "twitter": "@devopsdaysdet",
     "cfpUrl": "https://www.devopsdays.org/events/2019-detroit/propose",
@@ -945,7 +945,7 @@
     "url": "https://www.spinnakersummit.com",
     "startDate": "2019-11-15",
     "endDate": "2019-11-17",
-    "city": "San Diego",
+    "city": "San Diego, CA",
     "country": "U.S.A.",
     "twitter": "@spinnakersummit",
     "cfpUrl": "https://www.spinnakersummit.com/cfp",
@@ -956,7 +956,7 @@
     "url": "https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/",
     "startDate": "2019-11-18",
     "endDate": "2019-11-21",
-    "city": "San Diego",
+    "city": "San Diego, CA",
     "country": "U.S.A.",
     "twitter": "@CloudNativeFdn"
   },
@@ -1005,7 +1005,7 @@
     "url": "https://reinvent.awsevents.com",
     "startDate": "2019-12-02",
     "endDate": "2019-12-06",
-    "city": "Las Vegas",
+    "city": "Las Vegas, NV",
     "country": "U.S.A.",
     "twitter": "@AWSreInvent"
   },
@@ -1014,7 +1014,7 @@
     "url": "https://www.cloudbees.com/devops-world/lisbon",
     "startDate": "2019-12-03",
     "endDate": "2019-12-05",
-    "city": "Lisbon",
+    "city": "Lisboa",
     "country": "Portugal"
   },
   {

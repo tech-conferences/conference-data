@@ -8,7 +8,9 @@ const validLocations = require('./validLocations');
 const BASE_DIR = '../../conferences';
 
 const twitterRegex = /@(\w){1,15}$/;
-const httpRegex = new RegExp('^http(s?)://');
+const httpRegex = /^http(s?):\/\//;
+const usaStateRegex = /, ([A-Z][A-Z])|(D.C.)$/;
+const dateRegex = /^20\d\d-\d\d(-\d\d)?$/;
 
 const conferencesJSON = {};
 
@@ -68,13 +70,15 @@ Object.keys(conferencesJSON).forEach(year => {
                 DATES_KEYS.forEach(dateKey => {
                     // cfpEndDate could be undefined or null
                     if (conference[dateKey]) {
-                        const dateRegex = /^20\d\d-\d\d(-\d\d)?$/;
                         assert(dateRegex.test(conference[dateKey]), `[${dateKey}] should be formatter like YYYY-MM-DD or YYYY-MM – got: "${conference[dateKey]}"`)
                     }
                 });
 
                 assert(validLocations[country], `[country] is a not in the list of valid countries – got: "${country}"`);
                 assert(validLocations[country].indexOf(city) !== -1, `[city] is a not in the list of valid cities – got: "${city}" in "${country}""`);
+                if (country === "U.S.A.") {
+                    assert(usaStateRegex.test(city), `[city] cities in the US must also contain the state – got: "${city}"`);
+                }
             });
         });
     });
