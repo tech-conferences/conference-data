@@ -4,7 +4,7 @@
     "url": "https://about.gitlab.com/events/commit",
     "startDate": "2020-01-14",
     "endDate": "2020-01-14",
-    "city": "San Francisco",
+    "city": "San Francisco, CA",
     "country": "U.S.A.",
     "twitter": "@gitlab",
     "cfpUrl": "https://docs.google.com/forms/d/1Hw3Do74kUO3I9TuQKakg0lpvI2VhfPhFY2EEGucLm2o/viewform?edit_requested=true",
@@ -59,7 +59,7 @@
     "url": "https://devopsdays.org/events/2020-charlotte/welcome/",
     "startDate": "2020-02-27",
     "endDate": "2020-02-28",
-    "city": "Charlotte",
+    "city": "Charlotte, SC",
     "country": "U.S.A.",
     "twitter": "@devopsdays_clt"
   },
@@ -69,7 +69,7 @@
     "startDate": "2020-03-05",
     "endDate": "2020-03-06",
     "city": "Cáceres",
-    "country": "U.S.A.",
+    "country": "Spain",
     "twitter": "@DevOpsDaysCC"
   },
   {
@@ -77,7 +77,7 @@
     "url": "https://www.socallinuxexpo.org",
     "startDate": "2020-03-05",
     "endDate": "2020-03-08",
-    "city": "Pasadena",
+    "city": "Pasadena, CA",
     "country": "U.S.A.",
     "twitter": "@socallinuxexpo",
     "cfpUrl": "https://socallinuxexpo.org/scale/18x/cfp",
@@ -88,7 +88,7 @@
     "url": "https://devopsdays.org/events/2020-los-angeles/welcome",
     "startDate": "2020-03-06",
     "endDate": "2020-03-06",
-    "city": "Pasadena",
+    "city": "Pasadena, CA",
     "country": "U.S.A.",
     "twitter": "@devopsdaylax",
     "cfpUrl": "https://devopsdays.org/events/2020-los-angeles/welcome",
@@ -158,11 +158,11 @@
     "twitter": "@NDC_Conferences"
   },
   {
-    "name": "Devopsdays Atlanta",
+    "name": "Devopsdays Atlanta, GA",
     "url": "https://devopsdays.org/events/2020-atlanta/welcome/",
     "startDate": "2020-04-21",
     "endDate": "2020-04-22",
-    "city": "Atlanta",
+    "city": "Atlanta, GA",
     "country": "U.S.A."
   },
   {
@@ -218,11 +218,11 @@
     "twitter": "@ConLifecycleLon"
   },
   {
-    "name": "Devopsdays Boise",
+    "name": "Devopsdays Boise, ID",
     "url": "https://devopsdays.org/events/2020-boise/welcome/",
     "startDate": "2020-05-15",
     "endDate": "2020-05-15",
-    "city": "Boise",
+    "city": "Boise, ID",
     "country": "U.S.A."
   },
   {
@@ -339,7 +339,7 @@
     "url": "https://devopsdays.org/events/2020-denver/welcome/",
     "startDate": "2020-08-10",
     "endDate": "2020-08-12",
-    "city": "Denver",
+    "city": "Denver, CO",
     "country": "U.S.A."
   },
   {
@@ -365,7 +365,7 @@
     "url": "https://devopsdays.org/events/2020-houston/welcome/",
     "startDate": "2020-08-18",
     "endDate": "2020-08-19",
-    "city": "Houston",
+    "city": "Houston, TX",
     "country": "U.S.A.",
     "twitter": "@DevOpsDaysHTown"
   },
@@ -412,7 +412,7 @@
     "url": "https://devopsdays.org/events/2020-zurich/welcome/",
     "startDate": "2020-09-08",
     "endDate": "2020-09-09",
-    "city": "Zürich",
+    "city": "Zurich",
     "country": "Switzerland"
   },
   {
@@ -420,7 +420,7 @@
     "url": "https://www.developerweek.com/DC",
     "startDate": "2020-09-15",
     "endDate": "2020-09-16",
-    "city": "Washington DC",
+    "city": "Washington, D.C.",
     "country": "U.S.A.",
     "twitter": "@DevWeekDC",
     "cfpUrl": "https://www.developerweek.com/DC/conference/apply-to-speak"
@@ -449,7 +449,7 @@
     "url": "https://devopscon.io/new-york",
     "startDate": "2020-09-28",
     "endDate": "2020-10-01",
-    "city": "New York",
+    "city": "New York, NY",
     "country": "U.S.A.",
     "twitter": "@devops_con",
     "cfpUrl": "https://callforpapers.sandsmedia.com"
@@ -506,15 +506,15 @@
     "url": "https://events.itrevolution.com/us/register/",
     "startDate": "2020-11-09",
     "endDate": "2020-11-11",
-    "city": "Las Vegas",
+    "city": "Las Vegas, NV",
     "country": "U.S.A."
   },
   {
-    "name": "DeveloperWeek Austin",
-    "url": "https://www.developerweek.com/Austin",
+    "name": "DeveloperWeek Austin, TX",
+    "url": "https://www.developerweek.com/Austin, TX",
     "startDate": "2020-11-16",
     "endDate": "2020-11-18",
-    "city": "Austin",
+    "city": "Austin, TX",
     "country": "U.S.A.",
     "twitter": "@devweekatx"
   },
