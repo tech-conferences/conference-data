@@ -4,7 +4,7 @@
     "url": "https://antarcticonf.com/",
     "startDate": "2020-01-05",
     "endDate": "2020-01-21",
-    "city": "San Antonio",
+    "city": "San Antonio, TX",
     "country": "Chile",
     "twitter": "@AntarctiConf"
   },
@@ -22,7 +22,7 @@
     "url": "https://connect.redislabs.com/redisdayseattle",
     "startDate": "2020-01-13",
     "endDate": "2020-01-14",
-    "city": "Seattle",
+    "city": "Seattle, WA",
     "country": "U.S.A."
   },
   {
@@ -56,7 +56,7 @@
     "url": "https://www.siliconslopessummit.com",
     "startDate": "2020-01-30",
     "endDate": "2020-01-31",
-    "city": "Salt Lake City",
+    "city": "Salt Lake City, UT",
     "country": "U.S.A.",
     "twitter": "@SiliconSlopes"
   },
@@ -144,7 +144,7 @@
     "url": "https://confoo.ca/en/yul2020",
     "startDate": "2020-02-26",
     "endDate": "2020-02-28",
-    "city": "Montréal",
+    "city": "Montreal",
     "country": "Canada",
     "twitter": "@confooca"
   },
@@ -171,7 +171,7 @@
     "url": "https://2020.cloudconf.it",
     "startDate": "2020-06-18",
     "endDate": "2020-06-18",
-    "city": "Torino",
+    "city": "Turin",
     "country": "Italy",
     "twitter": "@_CloudConf_"
   },
@@ -208,7 +208,7 @@
     "startDate": "2020-03-31",
     "endDate": "2020-04-02",
     "city": "Online",
-    "country": "Online ",
+    "country": "Online",
     "twitter": "@linaroorg"
   },
   {
@@ -216,7 +216,7 @@
     "url": "https://pixels.camp",
     "startDate": "2020-11-26",
     "endDate": "2020-11-28",
-    "city": "Lisbon",
+    "city": "Lisboa",
     "country": "Portugal",
     "twitter": "@pixelscamp"
   },
@@ -301,14 +301,6 @@
     "twitter": "@allthetalksconf"
   },
   {
-    "name": "MagnoliaJS",
-    "url": "https://magnoliajs.com/",
-    "startDate": "2020-04-15",
-    "endDate": "2020-04-16",
-    "city": "Online",
-    "country": "Online"
-  },
-  {
     "name": "Future Sync",
     "url": "https://futuresync.co.uk",
     "startDate": "2020-04-16",
@@ -382,7 +374,7 @@
     "url": "https://albanycodecamp.org",
     "startDate": "2020-09-26",
     "endDate": "2020-09-26",
-    "city": "Albany",
+    "city": "Albany, NY",
     "country": "U.S.A.",
     "twitter": "@albanycodecamp"
   },
@@ -400,7 +392,7 @@
     "url": "https://www.tabgeeks.com/tabgeeks20",
     "startDate": "2020-04-29",
     "endDate": "2020-05-01",
-    "city": "Long Beach",
+    "city": "Long Beach, CA",
     "country": "U.S.A.",
     "twitter": "@tabgeeks"
   },
@@ -418,7 +410,7 @@
     "url": "https://www.developerweek.com/CloudEdition",
     "startDate": "2020-09-28",
     "endDate": "2020-09-29",
-    "city": "Seattle",
+    "city": "Seattle, WA",
     "country": "U.S.A.",
     "twitter": "@devweeksea"
   },
@@ -473,15 +465,6 @@
     "city": "Utrecht",
     "country": "Netherlands",
     "twitter": "@TEQnation2019"
-  },
-  {
-    "name": "Software Architecture Summit",
-    "url": "https://software-architecture-summit.de",
-    "startDate": "2020-10-14",
-    "endDate": "2020-10-16",
-    "city": "Munich",
-    "country": "Germany",
-    "twitter": "@SoftwArchSummit"
   },
   {
     "name": "Dev Day",
@@ -563,7 +546,7 @@
     "url": "https://milan.serverlessdays.io",
     "startDate": "2020-06-05",
     "endDate": "2020-06-05",
-    "city": "Milan",
+    "city": "Milano",
     "country": "Italy",
     "twitter": "@ServerlessMIL",
     "cfpUrl": "https://www.papercall.io/serverlessdays-milano-2020",
@@ -602,7 +585,7 @@
     "startDate": "2020-06-13",
     "endDate": "2020-06-13",
     "city": "Lima",
-    "country": "Perú",
+    "country": "Peru",
     "twitter": "@CausaConf",
     "cfpUrl": "https://forms.gle/MBj2p47krnFuNE1m9",
     "cfpEndDate": "2020-04-13"
@@ -621,7 +604,7 @@
     "url": "https://www.developerweek.com/NYC",
     "startDate": "2020-12-08",
     "endDate": "2020-12-10",
-    "city": "New York",
+    "city": "New York, NY",
     "country": "U.S.A.",
     "twitter": "@devweeknyc"
   },
@@ -675,7 +658,7 @@
     "url": "https://uxpa2020.org",
     "startDate": "2020-06-23",
     "endDate": "2020-06-25",
-    "city": "Baltimore",
+    "city": "Baltimore, MD",
     "country": "U.S.A.",
     "twitter": "@uxpa_int"
   },
@@ -704,7 +687,7 @@
     "url": "https://refactr.tech",
     "startDate": "2020-08-12",
     "endDate": "2020-08-14",
-    "city": "Atlanta, GA ",
+    "city": "Atlanta, GA",
     "country": "U.S.A.",
     "twitter": "@RefactrTech"
   },
@@ -727,20 +710,11 @@
     "twitter": "@serverlesscon"
   },
   {
-    "name": "API Conference",
-    "url": "https://apiconference.net",
-    "startDate": "2020-08-17",
-    "endDate": "2020-08-19",
-    "city": "The Hague",
-    "country": "Netherlands",
-    "twitter": "@api_conference"
-  },
-  {
     "name": "Scenic City Summit",
     "url": "https://sceniccitysummit.com",
     "startDate": "2020-08-21",
     "endDate": "2020-08-21",
-    "city": "Chattanooga",
+    "city": "Chattanooga, TN",
     "country": "U.S.A.",
     "twitter": "@ScenicSummit"
   },
@@ -749,7 +723,7 @@
     "url": "https://www.renderatl.com",
     "startDate": "2020-08-24",
     "endDate": "2020-08-26",
-    "city": "Atlanta",
+    "city": "Atlanta, GA",
     "country": "U.S.A.",
     "twitter": "@renderATL"
   },
@@ -824,7 +798,7 @@
     "url": "https://www.interop.com",
     "startDate": "2020-09-21",
     "endDate": "2020-09-24",
-    "city": "Austin",
+    "city": "Austin, TX",
     "country": "U.S.A.",
     "twitter": "@interop"
   },
@@ -853,7 +827,7 @@
     "url": "https://thestrangeloop.com",
     "startDate": "2020-10-01",
     "endDate": "2020-10-03",
-    "city": "St. Louis",
+    "city": "St. Louis, MO",
     "country": "U.S.A.",
     "twitter": "@strangeloop_stl",
     "cfpUrl": "https://thestrangeloop.com/cfp.html",
@@ -875,7 +849,7 @@
     "url": "https://2020.allthingsopen.org",
     "startDate": "2020-10-18",
     "endDate": "2020-10-20",
-    "city": "Raleigh",
+    "city": "Raleigh, NC",
     "country": "U.S.A.",
     "twitter": "@AllThingsOpen"
   },
@@ -904,7 +878,7 @@
     "url": "http://www.evcon.io",
     "startDate": "2020-10-21",
     "endDate": "2020-10-23",
-    "city": "San Francisco",
+    "city": "San Francisco, CA",
     "country": "U.S.A.",
     "twitter": "@evcon20",
     "cfpUrl": "http://www.evcon.io/cfp",
@@ -933,7 +907,7 @@
     "url": "https://apiworld.co",
     "startDate": "2020-10-27",
     "endDate": "2020-10-29",
-    "city": "San Jose",
+    "city": "San Jose, CA",
     "country": "U.S.A.",
     "twitter": "@APIWorld"
   },
@@ -964,7 +938,7 @@
     "url": "https://agiletestingdays.com/",
     "startDate": "2020-11-08",
     "endDate": "2020-11-13",
-    "city": "Postdam",
+    "city": "Potsdam",
     "country": "Germany"
   },
   {
@@ -1022,5 +996,26 @@
     "twitter": "@CodeLandConf",
     "cfpUrl": "https://codelandconf.com/#speakers",
     "cfpEndDate": "2020-03-31"
+  },
+  {
+    "name": "QA Fest",
+    "url": "http://qafest.com/en",
+    "startDate": "2020-09-25",
+    "endDate": "2020-09-26",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "twitter": "@qafestua",
+    "cfpUrl": "http://qafest.com/en",
+    "cfpEndDate": "2020-08-09"
+  },
+  {
+    "name": "AsyncAPI Online Conference",
+    "url": "https://www.asyncapiconf.com",
+    "startDate": "2020-04-22",
+    "endDate": "2020-04-22",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@AsyncAPISpec",
+    "cfpEndDate": "2020-04-03"
   }
 ]
