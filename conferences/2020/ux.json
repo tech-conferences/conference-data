@@ -203,15 +203,6 @@
     "twitter": "@letspixelup"
   },
   {
-    "name": "NN/g UX Conference",
-    "url": "https://www.nngroup.com/training/raleigh",
-    "startDate": "2020-05-11",
-    "endDate": "2020-05-15",
-    "city": "Raleigh, NC",
-    "country": "U.S.A.",
-    "twitter": "@nngroup"
-  },
-  {
     "name": "An Event Apart Seattle",
     "url": "https://aneventapart.com/event/seattle-2020",
     "startDate": "2020-05-11",
@@ -228,6 +219,15 @@
     "city": "Austin, TX",
     "country": "U.S.A.",
     "twitter": "@AccessU"
+  },
+  {
+    "name": "NN/g UX Conference",
+    "url": "https://www.nngroup.com/training/raleigh",
+    "startDate": "2020-05-11",
+    "endDate": "2020-05-15",
+    "city": "Raleigh, NC",
+    "country": "U.S.A.",
+    "twitter": "@nngroup"
   },
   {
     "name": "UIKonf",
@@ -328,6 +328,15 @@
     "city": "Amsterdam",
     "country": "Netherlands",
     "twitter": "@dsgndayconf"
+  },
+  {
+    "name": "European PO&RE Day",
+    "url": "https://www.europeanporeday.com",
+    "startDate": "2020-06-24",
+    "endDate": "2020-06-24",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "twitter": "@europeanporeday"
   },
   {
     "name": "UX Healthcare",
@@ -453,6 +462,15 @@
     "twitter": "@aneventapart"
   },
   {
+    "name": "Canvas Conference",
+    "url": "https://www.canvasconference.co.uk",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-08",
+    "city": "Birmingham",
+    "country": "U.K.",
+    "twitter": "@canvasconf"
+  },
+  {
     "name": "UXDX",
     "url": "https://uxdxconf.com",
     "startDate": "2020-10-08",
@@ -462,15 +480,6 @@
     "twitter": "@uxdxconf",
     "cfpUrl": "https://uxdxconf.com/speak",
     "cfpEndDate": "2020-02-28"
-  },
-  {
-    "name": "Canvas Conference",
-    "url": "https://www.canvasconference.co.uk",
-    "startDate": "2020-10-08",
-    "endDate": "2020-10-08",
-    "city": "Birmingham",
-    "country": "U.K.",
-    "twitter": "@canvasconf"
   },
   {
     "name": "UX-DAY",
@@ -497,14 +506,5 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "twitter": "@aneventapart"
-  },
-  {
-    "name": "European PO&RE Day",
-    "url": "https://www.europeanporeday.com",
-    "startDate": "2020-06-24",
-    "endDate": "2020-06-24",
-    "city": "Zurich",
-    "country": "Switzerland",
-    "twitter": "@europeanporeday"
   }
 ]

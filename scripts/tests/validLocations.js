@@ -478,6 +478,7 @@ module.exports = {
         "Grand Rapids, MI",
         "Grapevine, TX",
         "Hartford, CT",
+        "Henderson, NV",
         "Honolulu, HI",
         "Houston, TX",
         "Huntsville, AL",

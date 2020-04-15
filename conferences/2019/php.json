@@ -101,6 +101,15 @@
     "cfpUrl": "https://cfp.phpday.it/"
   },
   {
+    "name": "AFUP Day",
+    "url": "https://event.afup.org/afup-day-2019/afup-day-2019-lille",
+    "startDate": "2019-05-17",
+    "endDate": "2019-05-17",
+    "city": "Lille",
+    "country": "France",
+    "twitter": "@afup"
+  },
+  {
     "name": "PHP Russia",
     "url": "http://phprussia.ru",
     "startDate": "2019-05-17",
@@ -109,15 +118,6 @@
     "country": "Russia",
     "cfpUrl": "https://cfp.phprussia.ru",
     "cfpEndDate": "2019-03-22"
-  },
-  {
-    "name": "AFUP Day",
-    "url": "https://event.afup.org/afup-day-2019/afup-day-2019-lille",
-    "startDate": "2019-05-17",
-    "endDate": "2019-05-17",
-    "city": "Lille",
-    "country": "France",
-    "twitter": "@afup"
   },
   {
     "name": "php[tek]",
@@ -184,17 +184,6 @@
     "cfpEndDate": "2019-01-28"
   },
   {
-    "name": "Darkmira Tour PHP",
-    "url": "https://php.darkmiratour.rocks/2019",
-    "startDate": "2019-06-07",
-    "endDate": "2019-06-09",
-    "city": "Fortaleza",
-    "country": "Brazil",
-    "twitter": "@DarkmiraTour",
-    "cfpUrl": "https://cfp.darkmiratour.rocks",
-    "cfpEndDate": "2019-02-10"
-  },
-  {
     "name": "Blue Conf",
     "url": "https://blueconf.co.uk",
     "startDate": "2019-06-07",
@@ -214,6 +203,17 @@
     "twitter": "@magetitansnl",
     "cfpUrl": "https://cfp.mage-titans.nl",
     "cfpEndDate": "2019-05-12"
+  },
+  {
+    "name": "Darkmira Tour PHP",
+    "url": "https://php.darkmiratour.rocks/2019",
+    "startDate": "2019-06-07",
+    "endDate": "2019-06-09",
+    "city": "Fortaleza",
+    "country": "Brazil",
+    "twitter": "@DarkmiraTour",
+    "cfpUrl": "https://cfp.darkmiratour.rocks",
+    "cfpEndDate": "2019-02-10"
   },
   {
     "name": "PHPConf.Asia",
@@ -257,17 +257,6 @@
     "cfpEndDate": "2019-06-15"
   },
   {
-    "name": "Web Summer Camp",
-    "url": "https://2019.websummercamp.com",
-    "startDate": "2019-08-28",
-    "endDate": "2019-08-30",
-    "city": "Rovinj",
-    "country": "Croatia",
-    "twitter": "@WebSummerCamp",
-    "cfpUrl": "https://sessionize.com/web-summer-camp-2019",
-    "cfpEndDate": "2019-04-30"
-  },
-  {
     "name": "Laracon EU",
     "url": "https://laracon.eu/2019",
     "startDate": "2019-08-28",
@@ -277,6 +266,17 @@
     "twitter": "@laraconeu",
     "cfpUrl": "https://conf-feedback.typeform.com/to/XnOrdq",
     "cfpEndDate": "2019-05-15"
+  },
+  {
+    "name": "Web Summer Camp",
+    "url": "https://2019.websummercamp.com",
+    "startDate": "2019-08-28",
+    "endDate": "2019-08-30",
+    "city": "Rovinj",
+    "country": "Croatia",
+    "twitter": "@WebSummerCamp",
+    "cfpUrl": "https://sessionize.com/web-summer-camp-2019",
+    "cfpEndDate": "2019-04-30"
   },
   {
     "name": "Dot All",

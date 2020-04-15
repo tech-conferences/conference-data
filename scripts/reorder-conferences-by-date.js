@@ -23,8 +23,8 @@ Object.keys(conferencesJSON).forEach((year) => {
       if (err) {
         return;
       }
-
-      const sortedConfs = sortBy(JSON.parse(data), [
+      const parsedData = JSON.parse(data);
+      const sortedConfs = sortBy(parsedData, [
         (conf) => parse(conf.startDate, 'yyyy-MM-dd', new Date()).getTime(),
         (conf) => parse(conf.endDate || conf.startDate, 'yyyy-MM-dd', new Date()).getTime(),
         'name'

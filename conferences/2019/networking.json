@@ -58,14 +58,6 @@
     "cfpEndDate": "2019-02-24"
   },
   {
-    "name": "WE Local India",
-    "url": "https://welocal.swe.org/bengaluru/location",
-    "startDate": "2019-04-11",
-    "endDate": "2019-04-13",
-    "city": "Bengaluru",
-    "country": "India"
-  },
-  {
     "name": "Business of Software Conference Europe",
     "url": "https://businessofsoftware.eu",
     "startDate": "2019-04-11",
@@ -75,6 +67,14 @@
     "twitter": "@BoSConference",
     "cfpUrl": "https://businessofsoftware.eu",
     "cfpEndDate": "2019-02-22"
+  },
+  {
+    "name": "WE Local India",
+    "url": "https://welocal.swe.org/bengaluru/location",
+    "startDate": "2019-04-11",
+    "endDate": "2019-04-13",
+    "city": "Bengaluru",
+    "country": "India"
   },
   {
     "name": "MVP Conference LATAM",
@@ -126,6 +126,15 @@
     "cfpEndDate": "2019-03-17"
   },
   {
+    "name": "Agile Venture Vimercate",
+    "url": "https://www.agileday.it/venture/2019/vimercate",
+    "startDate": "2019-06-08",
+    "endDate": "2019-06-08",
+    "city": "Vimercate",
+    "country": "Italy",
+    "twitter": "@agileday"
+  },
+  {
     "name": "TuxCon",
     "url": "http://tuxcon.mobi",
     "startDate": "2019-06-08",
@@ -134,15 +143,6 @@
     "country": "Bulgaria",
     "twitter": "@TuxConMobi",
     "cfpUrl": "http://tuxcon.mobi"
-  },
-  {
-    "name": "Agile Venture Vimercate",
-    "url": "https://www.agileday.it/venture/2019/vimercate",
-    "startDate": "2019-06-08",
-    "endDate": "2019-06-08",
-    "city": "Vimercate",
-    "country": "Italy",
-    "twitter": "@agileday"
   },
   {
     "name": "Embedded DevCon",
@@ -372,6 +372,14 @@
     "country": "Germany"
   },
   {
+    "name": "Open Source Camp",
+    "url": "https://opensourcecamp.de",
+    "startDate": "2019-11-07",
+    "endDate": "2019-11-07",
+    "city": "Nuremberg",
+    "country": "Germany"
+  },
+  {
     "name": "WE19",
     "url": "https://societyofwomenengineers.swe.org",
     "startDate": "2019-11-07",
@@ -379,14 +387,6 @@
     "city": "Anaheim, CA",
     "country": "U.S.A.",
     "twitter": "@SWEtalk"
-  },
-  {
-    "name": "Open Source Camp",
-    "url": "https://opensourcecamp.de",
-    "startDate": "2019-11-07",
-    "endDate": "2019-11-07",
-    "city": "Nuremberg",
-    "country": "Germany"
   },
   {
     "name": "Italian Agile Days",

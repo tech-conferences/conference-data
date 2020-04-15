@@ -1,14 +1,5 @@
 [
   {
-    "name": "JSHeroes",
-    "url": "https://jsheroes.io",
-    "startDate": "2021-04-15",
-    "endDate": "2021-04-16",
-    "city": "Cluj",
-    "country": "Romania",
-    "twitter": "@jsheroes"
-  },
-  {
     "name": "ReactiveConf",
     "url": "https://reactiveconf.com",
     "startDate": "2021-03-08",
@@ -18,5 +9,14 @@
     "twitter": "@ReactiveConf",
     "cfpUrl": "https://reactiveconf.com/speaker",
     "cfpEndDate": "2020-11-01"
+  },
+  {
+    "name": "JSHeroes",
+    "url": "https://jsheroes.io",
+    "startDate": "2021-04-15",
+    "endDate": "2021-04-16",
+    "city": "Cluj",
+    "country": "Romania",
+    "twitter": "@jsheroes"
   }
 ]
