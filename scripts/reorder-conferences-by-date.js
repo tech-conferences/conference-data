@@ -3,7 +3,7 @@ const fs = require('fs');
 const range = require('lodash/range');
 const sortBy = require('lodash/sortBy');
 const parse = require('date-fns/parse');
-const config = require('../config');
+const config = require('./config');
 
 const BASE_DIR = 'conferences';
 const conferencesJSON = {};
