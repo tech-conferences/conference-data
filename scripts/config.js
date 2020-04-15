@@ -1,6 +1,6 @@
-export const START_YEAR = 2018;
-export const CURRENT_YEAR = new Date().getFullYear();
-export const TOPICS = [
+module.exports.startYear = 2019;
+module.exports.currentYear = new Date().getFullYear();
+module.exports.topics = [
   'android',
   'clojure',
   'cpp',

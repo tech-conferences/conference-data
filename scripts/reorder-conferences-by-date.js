@@ -1,17 +1,16 @@
 // Reorder a file by running (from the scripts folder)
-import fs from 'fs';
-import {range, sortBy} from 'lodash';
-import {parse} from 'date-fns';
-import {TOPICS, START_YEAR, CURRENT_YEAR} from './config';
-
-const args = process.argv;
+const fs = require('fs');
+const range = require('lodash/range');
+const sortBy = require('lodash/sortBy');
+const parse = require('date-fns/parse');
+const config = require('./config');
 
 const BASE_DIR = 'conferences';
 const conferencesJSON = {};
 
-range(START_YEAR, CURRENT_YEAR + 2).forEach((year) => {
+range(config.startYear, config.currentYear + 2).forEach((year) => {
   conferencesJSON[year] = {};
-  TOPICS.forEach((topic) => {
+  config.topics.forEach((topic) => {
     conferencesJSON[year][topic] = {};
   });
 });
@@ -25,9 +24,9 @@ Object.keys(conferencesJSON).forEach((year) => {
         return;
       }
 
-      const sortedConfs = sortBy(JSON.parse(data),[
-        (conf) => parse(conf.startDate).getTime(),
-        (conf) => parse(conf.endDate || conf.startDate).getTime(),
+      const sortedConfs = sortBy(JSON.parse(data), [
+        (conf) => parse(conf.startDate, 'yyyy-MM-dd', new Date()).getTime(),
+        (conf) => parse(conf.endDate || conf.startDate, 'yyyy-MM-dd', new Date()).getTime(),
         'name'
       ]);
 

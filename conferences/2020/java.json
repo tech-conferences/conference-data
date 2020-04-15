@@ -13,20 +13,20 @@
     "url": "https://www.intothebox.org",
     "startDate": "2020-05-06",
     "endDate": "2020-05-08",
-    "city": "The Woodlands",
-    "country": "U.S.A.",
+    "city": "Online",
+    "country": "Online",
     "twitter": "@gointothebox"
   },
   {
     "name": "JAX",
     "url": "https://jax.de",
-    "startDate": "2020-05-11",
-    "endDate": "2020-05-15",
+    "startDate": "2020-09-07",
+    "endDate": "2020-09-11",
     "city": "Mainz",
     "country": "Germany",
     "twitter": "@jaxcon"
   },
-    {
+  {
     "name": "Java Fest",
     "url": "https://javafest.com.ua/indexe.html",
     "startDate": "2020-06-05",
@@ -75,7 +75,7 @@
     "url": "https://javaday.istanbul",
     "startDate": "2020-09-12",
     "endDate": "2020-09-12",
-    "city": "İstanbul",
+    "city": "Istanbul",
     "country": "Turkey",
     "twitter": "@javadayistanbul"
   },
@@ -93,7 +93,7 @@
     "url": "https://jconf.dev",
     "startDate": "2020-09-29",
     "endDate": "2020-10-01",
-    "city": "Chicago",
+    "city": "Chicago, IL",
     "country": "U.S.A.",
     "twitter": "@jconfdev"
   },
@@ -167,5 +167,16 @@
     "city": "Riga",
     "country": "Latvia",
     "twitter": "@devternity"
+  },
+  {
+    "name": "Devoxx Ukraine",
+    "url": "https://devoxx.com.ua",
+    "startDate": "2020-11-05",
+    "endDate": "2020-11-07",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "twitter": "@DevoxxUA",
+    "cfpUrl": "https://devoxx.com.ua/information-for-speakers",
+    "cfpEndDate": "2020-08-24"
   }
 ]
