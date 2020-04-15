@@ -76,7 +76,7 @@
     "url": "https://tr.pycon.org",
     "startDate": "2020-09-26",
     "endDate": "2020-09-27",
-    "city": "İstanbul",
+    "city": "Istanbul",
     "country": "Turkey",
     "twitter": "@pycontr"
   },
@@ -85,7 +85,7 @@
     "url": "https://de.pycon.org",
     "startDate": "2020-10-14",
     "endDate": "2020-10-16",
-    "city": "Berlin ",
+    "city": "Berlin",
     "country": "Germany",
     "twitter": "@PyConDE"
   },
@@ -97,5 +97,27 @@
     "city": "Florence",
     "country": "Italy",
     "twitter": "@pyconit"
+  },
+  {
+    "name": "EuroPython",
+    "url": "https://ep2020.europython.eu",
+    "startDate": "2020-07-23",
+    "endDate": "2020-07-26",
+    "city": "Online",
+    "country": "Online",
+    "cfpUrl": "https://ep2020.europython.eu/call-for-proposals/",
+    "cfpEndDate": "2020-04-12",
+    "twitter": "@europython"
+  },
+  {
+    "name": "Python Pizza",
+    "url": "https://remote.python.pizza",
+    "startDate": "2020-04-25",
+    "endDate": "2020-04-25",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@pythonpizzaconf",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeUaY-CDE_3EEjpwbLugFhTb9x4nZcu9ehbLrzL9HgWWt41lA/viewform",
+    "cfpEndDate": "2020-04-06"
   }
 ]

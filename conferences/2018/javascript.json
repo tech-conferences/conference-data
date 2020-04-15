@@ -46,13 +46,13 @@
     "twitter": "@jsconfasia"
   },
   {
-    "name": "ngAtlanta",
+    "name": "ngAtlanta, GA",
     "url": "http://ng-atl.org",
     "startDate": "2018-01-30",
     "endDate": "2018-02-02",
-    "city": "Atlanta",
+    "city": "Atlanta, GA",
     "country": "U.S.A.",
-    "twitter": "@ngAtlanta"
+    "twitter": "@ngAtlanta, GA"
   },
   {
     "name": "ng-europe",
@@ -96,7 +96,7 @@
     "url": "https://forwardjs.com",
     "startDate": "2018-02-11",
     "endDate": "2018-02-16",
-    "city": "San Francisco",
+    "city": "San Francisco, CA",
     "country": "U.S.A.",
     "twitter": "@forwardJS"
   },
@@ -669,7 +669,7 @@
     "url": "http://BuzzJS.com",
     "startDate": "2018-06-14",
     "endDate": "2018-06-15",
-    "city": "New York City",
+    "city": "New York, NY",
     "country": "U.S.A.",
     "cfpUrl": "http://BuzzJS.com/CFP",
     "cfpEndDate": "2018-02-15",
@@ -979,7 +979,7 @@
     "name": "Frontend Conference Zürich",
     "startDate": "2018-08-30",
     "endDate": "2018-08-31",
-    "city": "Zürich",
+    "city": "Zurich",
     "country": "Switzerland",
     "url": "https://www.frontendconf.ch",
     "cfpUrl": "https://www.frontendconf.ch/call-for-speakers",
@@ -1111,7 +1111,7 @@
     "url": "http://embercamp.com",
     "startDate": "2018-09-21",
     "endDate": "2018-09-21",
-    "city": "Chicago",
+    "city": "Chicago, IL",
     "country": "U.S.A.",
     "twitter": "@EmberCamp",
     "cfpUrl": "https://cfp.emberconf.com/events/embercamp-chicago-2018",
@@ -1151,14 +1151,14 @@
     "url": "https://chicagojs.org",
     "startDate": "2018-09-22",
     "endDate": "2018-09-22",
-    "city": "Chicago",
+    "city": "Chicago, IL",
     "country": "U.S.A.",
     "twitter": "@ChicagoJS",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfreXmSrYBcSh4WJGJ_fsS3woHqWGO4efekcwoA-Me-txLvJA/viewform",
     "cfpEndDate": "2018-07-04"
   },
   {
-    "name": "React Boston",
+    "name": "React Boston, MA",
     "url": "http://www.reactboston.com",
     "startDate": "2018-09-29",
     "endDate": "2018-09-30",
@@ -1270,7 +1270,7 @@
     "url": "https://www.web-developer-conference.de",
     "startDate": "2018-10-16",
     "endDate": "2018-10-18",
-    "city": "München",
+    "city": "Munich",
     "country": "Germany",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScjiQQ43sWklHpN9hOX-lRwD4zlUnAmV7ZC89-6SENckuD5Hw/viewform",
     "cfpEndDate": "2018-04-01",
@@ -1299,7 +1299,7 @@
     "url": "https://smashingconf.com/ny-2018",
     "startDate": "2018-10-23",
     "endDate": "2018-10-24",
-    "city": "New York",
+    "city": "New York, NY",
     "country": "U.S.A.",
     "twitter": "@smashingconf"
   },
@@ -1328,7 +1328,7 @@
     "url": "https://jsmobileconf.com",
     "startDate": "2018-10-25",
     "endDate": "2018-10-26",
-    "city": "Boston",
+    "city": "Boston, MA",
     "country": "U.S.A.",
     "twitter": "@telerik"
   },
@@ -1458,7 +1458,7 @@
     "url": "https://websummit.com",
     "startDate": "2018-11-05",
     "endDate": "2018-11-08",
-    "city": "Lisbon",
+    "city": "Lisboa",
     "country": "Portugal",
     "twitter": "@WebSummit"
   },
@@ -1504,7 +1504,7 @@
     "url": "https://developer.chrome.com/devsummit",
     "startDate": "2018-11-12",
     "endDate": "2018-11-13",
-    "city": "San Francisco",
+    "city": "San Francisco, CA",
     "country": "U.S.A.",
     "twitter": "@ChromiumDev"
   },
@@ -1668,7 +1668,7 @@
     "url": "http://nationjs.com",
     "startDate": "2018-12-04",
     "endDate": "2018-12-04",
-    "city": "Washington, DC",
+    "city": "Washington, D.C.",
     "country": "U.S.A.",
     "twitter": "@nationjs",
     "cfpUrl": "https://www.papercall.io/nationjs-react2018",
