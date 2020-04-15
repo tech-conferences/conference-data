@@ -15,79 +15,68 @@
     "endDate": "2020-03-06",
     "city": "London",
     "country": "U.K.",
-    "twitter": "@qconlondon",
-    "cfpUrl": "https://qconlondon.com/talk-submissions"
-  },
-  {
-    "name": "Leading Design",
-    "url": "https://leadingdesign.com/conferences/sanfran-2020",
-    "startDate": "2020-03-04",
-    "endDate": "2020-03-06",
-    "city": "San Francisco",
-    "country": "U.S.A.",
-    "twitter": "@LDconf"
+    "twitter": "@qconlondon"
   },
   {
     "name": "MIT Technology Review Presents: EmTech Digital",
     "url": "https://events.technologyreview.com/emtech/digital",
     "startDate": "2020-03-23",
     "endDate": "2020-03-25",
-    "city": "San Francisco, CA ",
-    "country": "U.S.A.",
-    "twitter": "@techreview",
-    "cfpUrl": "https://events.technologyreview.com/emtech/digital"
-  },
-  {
-    "name": "The Lead Developer New York",
-    "url": "https://newyork2020.theleaddeveloper.com",
-    "startDate": "2020-04-07",
-    "endDate": "2020-04-08",
-    "city": "New York",
-    "country": "U.S.A.",
-    "twitter": "@TheLeadDev",
-    "cfpUrl": "https://newyork2020.theleaddeveloper.com",
-    "cfpEndDate": "2019-10-28"
-  },
-  {
-    "name": "Future Developer Summit",
-    "url": "http://www.futuredeveloper.io",
-    "startDate": "2020-04-07",
-    "endDate": "2020-04-08",
-    "city": "Menlo Park, CA ",
-    "country": "U.S.A.",
-    "twitter": "@SlashDataHQ"
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@techreview"  
   },
   {
     "name": "Running Remote Conference",
     "url": "http://www.runningremote.com",
     "startDate": "2020-04-20",
     "endDate": "2020-04-21",
-    "city": "Austin",
-    "country": "U.S.A.",
-    "twitter": "@runningremote",
-    "cfpUrl": "https://runningremote.com/conference-speakers",
-    "cfpEndDate": "2020-01-20"
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@runningremote"
+  },
+  {
+    "name": "Beyond Tech CIO",
+    "url": "https://bit.ly/2V5tAI1",
+    "startDate": "2020-05-06",
+    "endDate": "2020-05-06",
+    "city": "Online",
+    "country": "Online"
   },
   {
     "name": "Developer First",
     "url": "https://www.developer-first.com/conference",
     "startDate": "2020-06-12",
     "endDate": "2020-06-12",
-    "city": "Minneapolis",
+    "city": "Minneapolis, MN",
     "country": "U.S.A.",
-    "twitter": "@developer_first",
-    "cfpUrl": "https://www.developer-first.com/call-for-speakers",
-    "cfpEndDate": "2020-01-10"
+    "twitter": "@developer_first"
+  },
+  {
+    "name": "The Lead Developer New York",
+    "url": "https://newyork2020.theleaddeveloper.com",
+    "startDate": "2020-08-11",
+    "endDate": "2020-08-12",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "twitter": "@TheLeadDev"
+  },
+  {
+    "name": "Future Developer Summit",
+    "url": "http://www.futuredeveloper.io",
+    "startDate": "2020-10-06",
+    "endDate": "2020-10-07",
+    "city": "Menlo Park, CA",
+    "country": "U.S.A.",
+    "twitter": "@SlashDataHQ"
   },
   {
     "name": "Lead Dev San Francisco",
-    "url": "https://wvnts.co/2uEbbaQ",
+    "url": "https://sanfrancisco2020.theleaddeveloper.com/",
     "startDate": "2020-10-07",
     "endDate": "2020-10-08",
-    "city": "San Francisco",
+    "city": "San Francisco, CA",
     "country": "U.S.A.",
-    "twitter": "@TheLeadDev",
-    "cfpUrl": "https://wvnts.co/2O3d33v",
-    "cfpEndDate": "2020-03-23"
+    "twitter": "@TheLeadDev"
   }
 ]

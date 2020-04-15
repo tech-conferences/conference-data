@@ -15,7 +15,7 @@
     "url": "https://mobius-piter.ru/en",
     "startDate": "2020-06-23",
     "endDate": "2020-06-24",
-    "city": "St. Petersburg",
+    "city": "Saint Petersburg",
     "country": "Russia",
     "twitter": "@MobiusConf",
     "cfpUrl": "https://mobius-piter.ru/en/cfp",
@@ -33,13 +33,63 @@
     "cfpEndDate": "2020-02-15"
   },
   {
+    "name": "droidconKE 2020",
+    "url": "https://droidcon.co.ke/",
+    "startDate": "2020-08-06",
+    "endDate": "2020-08-08",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "twitter": "@droidconke"
+  },
+  {
+    "name": "droidcon NYC",
+    "url": "https://www.droidcon.com/",
+    "startDate": "2020-08-31",
+    "endDate": "2020-09-01",
+    "city": "Brooklyn, NY",
+    "country": "U.S.A."
+  },
+  {
+    "name": "droidcon Lagos",
+    "url": "https://www.droidcon.com/",
+    "startDate": "2020-09-04",
+    "endDate": "2020-09-05",
+    "city": "Lagos",
+    "country": "Nigeria"
+  },
+  {
+    "name": "droidcon Kyiv",
+    "url": "https://www.droidcon.com/",
+    "startDate": "2020-09-19",
+    "endDate": "2020-09-19",
+    "city": "Kyiv",
+    "country": "Ukraine"
+  },
+  {
+    "name": "droidcon Lisbon",
+    "url": "https://www.lisbon.droidcon.com/",
+    "startDate": "2020-09-24",
+    "endDate": "2020-09-25",
+    "city": "Lisboa",
+    "country": "Portugal",
+    "twitter": "@droidconlisbon"
+  },
+  {
     "name": "droidcon Berlin",
-    "url": "https://www.de.droidcon.com",
-    "startDate": "2020-07-01",
-    "endDate": "2020-07-03",
+    "url": "https://www.berlin.droidcon.com/",
+    "startDate": "2020-10-07",
+    "endDate": "2020-10-08",
     "city": "Berlin",
     "country": "Germany",
     "twitter": "@droidconBerlin"
+  },
+  {
+    "name": "droidcon Bali",
+    "url": "https://www.droidcon.com/",
+    "startDate": "2020-10-24",
+    "endDate": "2020-10-25",
+    "city": "Bali",
+    "country": "Indonesia"
   },
   {
     "name": "Mobius",

@@ -19,30 +19,21 @@
   },
   {
     "name": "SmashingConf",
-    "url": "https://smashingconf.com/sf-2020",
-    "startDate": "2020-04-21",
-    "endDate": "2020-04-22",
-    "city": "San Francisco",
-    "country": "U.S.A.",
-    "twitter": "@SmashingConf"
-  },
-  {
-    "name": "SmashingConf",
     "url": "https://smashingconf.com/austin-2020",
     "startDate": "2020-06-09",
     "endDate": "2020-06-10",
-    "city": "Austin, Texas",
+    "city": "Austin, TX",
     "country": "U.S.A.",
     "twitter": "@SmashingConf"
   },
   {
-    "name": "CSS Day",
-    "url": "https://cssday.nl",
-    "startDate": "2020-06-11",
-    "endDate": "2020-06-12",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "twitter": "@cssdayconf"
+    "name": "CausaConf",
+    "url": "https://causaconf.pe/",
+    "startDate": "2020-06-13",
+    "endDate": "2020-06-13",
+    "city": "Lima",
+    "country": "Peru",
+    "twitter": "@causaconf"
   },
   {
     "name": "CSScamp",
@@ -63,12 +54,12 @@
     "twitter": "@SmashingConf"
   },
   {
-      "name": "CausaConf",
-      "url": "https://causaconf.pe/",
-      "startDate": "2020-06-13",
-      "endDate": "2020-06-13",
-      "city": "Lima",
-      "country": "Peru",
-      "twitter": "@causaconf"
+    "name": "SmashingConf",
+    "url": "https://smashingconf.com/sf-2020",
+    "startDate": "2020-11-10",
+    "endDate": "2020-11-11",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "twitter": "@SmashingConf"
   }
 ]

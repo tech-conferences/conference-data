@@ -129,7 +129,7 @@
   {
     "name": "An Event Apart",
     "startDate": "2017-04-03",
-    "city": "Seattle",
+    "city": "Seattle, WA",
     "country": "U.S.A.",
     "url": "https://aneventapart.com/event/seattle-2017"
   },
@@ -138,7 +138,7 @@
     "url": "https://smashingconf.com/sf-2017",
     "startDate": "2017-04-04",
     "endDate": "2017-04-05",
-    "city": "San Francisco",
+    "city": "San Francisco, CA",
     "country": "U.S.A."
   },
   {
@@ -238,7 +238,7 @@
     "name": "An Event Apart",
     "startDate": "2017-05-15",
     "endDate": "2017-05-17",
-    "city": "Boston",
+    "city": "Boston, MA",
     "country": "U.S.A.",
     "url": "https://aneventapart.com/event/boston-2017"
   },
@@ -297,7 +297,7 @@
   {
     "name": "HolyJS St. Petersburg",
     "startDate": "2017-06-03",
-    "city": "Saint-Petersburg",
+    "city": "Saint Petersburg",
     "country": "Russia",
     "url": "https://holyjs-piter.ru"
   },
@@ -326,7 +326,7 @@
   {
     "name": "Smashing Conference",
     "startDate": "2017-06-10",
-    "city": "New York",
+    "city": "New York, NY",
     "country": "U.S.A.",
     "url": "https://smashingconf.com/ny-2017"
   },
@@ -427,7 +427,7 @@
     "name": "An Event Apart",
     "startDate": "2017-07-10",
     "endDate": "2017-07-12",
-    "city": "Washington DC",
+    "city": "Washington, D.C.",
     "country": "U.S.A.",
     "url": "https://aneventapart.com/event/washington-dc-2017"
   },
@@ -606,7 +606,7 @@
     "url": "http://connect.tech",
     "startDate": "2017-09-20",
     "endDate": "2017-09-24",
-    "city": "Atlanta",
+    "city": "Atlanta, GA",
     "country": "U.S.A."
   },
   {
@@ -618,7 +618,7 @@
     "url": "https://www.polymer-project.org/summit"
   },
   {
-    "name": "React Boston",
+    "name": "React Boston, MA",
     "url": "http://www.reactboston.com",
     "startDate": "2017-09-23",
     "endDate": "2017-09-24",
@@ -765,7 +765,7 @@
     "url": "https://developer.chrome.com/devsummit",
     "startDate": "2017-10-23",
     "endDate": "2017-10-24",
-    "city": "San Francisco",
+    "city": "San Francisco, CA",
     "country": "U.S.A."
   },
   {
@@ -828,7 +828,7 @@
     "name": "An Event Apart",
     "startDate": "2017-10-30",
     "endDate": "2017-11-01",
-    "city": "San Francisco",
+    "city": "San Francisco, CA",
     "country": "U.S.A.",
     "url": "https://aneventapart.com/event/san-francisco-2017"
   },
@@ -936,7 +936,7 @@
     "url": "http://nationjs.com",
     "startDate": "2017-11-30",
     "endDate": "2017-12-01",
-    "city": "Washington, DC",
+    "city": "Washington, D.C.",
     "country": "U.S.A."
   },
   {
@@ -1001,7 +1001,7 @@
     "name": "An Event Apart",
     "startDate": "2017-12-11",
     "endDate": "2017-12-13",
-    "city": "Denver",
+    "city": "Denver, CO",
     "country": "U.S.A.",
     "url": "https://aneventapart.com/event/denver-2017"
   }

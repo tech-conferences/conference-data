@@ -6,9 +6,7 @@
     "endDate": "2020-02-09",
     "city": "Portland, OR",
     "country": "U.S.A.",
-    "twitter": "@pycascades",
-    "cfpUrl": "https://www.papercall.io/pycascades-2020",
-    "cfpEndDate": "2019-10-01"
+    "twitter": "@pycascades"
   },
   {
     "name": "dotPy",
@@ -17,45 +15,7 @@
     "endDate": "2020-03-02",
     "city": "Paris",
     "country": "France",
-    "twitter": "@dotpy_io",
-    "cfpUrl": "https://www.dotconferences.com/cfp",
-    "cfpEndDate": "2020-01-01"
-  },
-  {
-    "name": "PyCon SK",
-    "url": "https://2020.pycon.sk",
-    "startDate": "2020-03-27",
-    "endDate": "2020-03-29",
-    "city": "Bratislava",
-    "country": "Slovakia"
-  },
-  {
-    "name": "PyCon Italy",
-    "url": "https://www.pycon.it/en/",
-    "startDate": "2020-04-02",
-    "endDate": "2020-04-05",
-    "city": "Florence",
-    "country": "Italy",
-    "twitter": "@pyconit"
-  },
-  {
-    "name": "PyCon",
-    "url": "https://us.pycon.org/2020",
-    "startDate": "2020-04-15",
-    "endDate": "2020-04-23",
-    "city": "Pittsburgh",
-    "country": "U.S.A."
-  },
-  {
-    "name": "DragonPy",
-    "url": "https://dragonpy.com",
-    "startDate": "2020-04-18",
-    "endDate": "2020-04-19",
-    "city": "Ljubljana",
-    "country": "Slovenia",
-    "twitter": "@dragonpyconf",
-    "cfpUrl": "https://www.papercall.io/dragonpy",
-    "cfpEndDate": "2020-01-31"
+    "twitter": "@dotpy_io"
   },
   {
     "name": "Python Summit",
@@ -65,28 +25,6 @@
     "city": "Munich",
     "country": "Germany",
     "twitter": "@python_summit"
-  },
-  {
-    "name": "PyCon Turkey",
-    "url": "https://tr.pycon.org",
-    "startDate": "2020-05-02",
-    "endDate": "2020-05-03",
-    "city": "İstanbul",
-    "country": "Turkey",
-    "twitter": "@pycontr",
-    "cfpUrl": "https://www.papercall.io/pycon-turkey-2020",
-    "cfpEndDate": "2020-01-19"
-  },
-  {
-    "name": "PyConWeb",
-    "url": "https://pyconweb.com",
-    "startDate": "2020-05-09",
-    "endDate": "2020-05-10",
-    "city": "Munich",
-    "country": "Germany",
-    "twitter": "@PyConWeb",
-    "cfpUrl": "https://www.papercall.io/pyconweb20",
-    "cfpEndDate": "2020-02-29"
   },
   {
     "name": "Python fwdays'20",
@@ -104,17 +42,82 @@
     "endDate": "2020-05-26",
     "city": "Mannheim",
     "country": "Germany",
-    "twitter": "@enterpyconf",
-    "cfpUrl": "https://www.enterpy.de/proposal_einreichen_en.php",
-    "cfpEndDate": "2020-01-24"
+    "twitter": "@enterpyconf"
+  },
+  {
+    "name": "PyData Amsterdam",
+    "url": "https://amsterdam.pydata.org",
+    "startDate": "2020-06-12",
+    "endDate": "2020-06-15",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "cfpUrl": "https://amsterdam.pydata.org/pages/cfp",
+    "cfpEndDate": "2020-03-29"
+  },
+  {
+    "name": "PyCon SK",
+    "url": "https://2020.pycon.sk",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-13",
+    "city": "Bratislava",
+    "country": "Slovakia"
+  },
+  {
+    "name": "DragonPy",
+    "url": "https://dragonpy.com",
+    "startDate": "2020-09-19",
+    "endDate": "2020-09-20",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "twitter": "@dragonpyconf"
+  },
+  {
+    "name": "PyCon Turkey",
+    "url": "https://tr.pycon.org",
+    "startDate": "2020-09-26",
+    "endDate": "2020-09-27",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "twitter": "@pycontr"
   },
   {
     "name": "PyConDE & PyData Berlin",
     "url": "https://de.pycon.org",
     "startDate": "2020-10-14",
     "endDate": "2020-10-16",
-    "city": "Berlin ",
+    "city": "Berlin",
     "country": "Germany",
     "twitter": "@PyConDE"
+  },
+  {
+    "name": "PyCon Italy",
+    "url": "https://www.pycon.it/en/",
+    "startDate": "2020-11-05",
+    "endDate": "2020-11-08",
+    "city": "Florence",
+    "country": "Italy",
+    "twitter": "@pyconit"
+  },
+  {
+    "name": "EuroPython",
+    "url": "https://ep2020.europython.eu",
+    "startDate": "2020-07-23",
+    "endDate": "2020-07-26",
+    "city": "Online",
+    "country": "Online",
+    "cfpUrl": "https://ep2020.europython.eu/call-for-proposals/",
+    "cfpEndDate": "2020-04-12",
+    "twitter": "@europython"
+  },
+  {
+    "name": "Python Pizza",
+    "url": "https://remote.python.pizza",
+    "startDate": "2020-04-25",
+    "endDate": "2020-04-25",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@pythonpizzaconf",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeUaY-CDE_3EEjpwbLugFhTb9x4nZcu9ehbLrzL9HgWWt41lA/viewform",
+    "cfpEndDate": "2020-04-06"
   }
 ]

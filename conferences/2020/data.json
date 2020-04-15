@@ -4,28 +4,24 @@
     "url": "https://cosit2020.org/aiapp/index.html",
     "startDate": "2020-01-25",
     "endDate": "2020-01-26",
-    "city": "zurich",
-    "country": "switzerland",
-    "cfpUrl": "https://cosit2020.org/aiapp/index.html",
-    "cfpEndDate": "2019-11-30"
+    "city": "Zurich",
+    "country": "Switzerland"
   },
   {
     "name": "The Deep Learning Summit",
     "url": "https://www.re-work.co/summits/sanfrancisco-summit-2020",
     "startDate": "2020-01-30",
     "endDate": "2020-01-31",
-    "city": "San Francisco",
+    "city": "San Francisco, CA",
     "country": "U.S.A.",
-    "twitter": "@teamrework",
-    "cfpUrl": "https://teamrework.wufoo.com/forms/deep-learning-san-francisco-suggest-a-speaker",
-    "cfpEndDate": "2019-12-13"
+    "twitter": "@teamrework"
   },
   {
     "name": "AAAI",
     "url": "https://aaai.org/Conferences/AAAI-20",
     "startDate": "2020-02-07",
     "endDate": "2020-02-12",
-    "city": "New York",
+    "city": "New York, NY",
     "country": "U.S.A.",
     "twitter": "@RealAAAI"
   },
@@ -44,9 +40,7 @@
     "endDate": "2020-03-02",
     "city": "Doha",
     "country": "Qatar",
-    "twitter": "@keynotic",
-    "cfpUrl": "https://www.keynotic.com/AIHQ/register.php",
-    "cfpEndDate": "2020-03-01"
+    "twitter": "@keynotic"
   },
   {
     "name": "Women in Data Science (WiDS)",
@@ -62,7 +56,7 @@
     "url": "https://tmt.knect365.com/data-center-world/conference-highlights",
     "startDate": "2020-03-16",
     "endDate": "2020-03-19",
-    "city": "San Antonio",
+    "city": "San Antonio, TX",
     "country": "U.S.A.",
     "twitter": "@DataCenterWorld"
   },
@@ -71,7 +65,7 @@
     "url": "http://www.gartner.com/us/data",
     "startDate": "2020-03-23",
     "endDate": "2020-03-26",
-    "city": "Grapevine",
+    "city": "Grapevine, TX",
     "country": "U.S.A."
   },
   {
@@ -79,134 +73,89 @@
     "url": "https://www.flink-forward.org",
     "startDate": "2020-03-23",
     "endDate": "2020-03-25",
-    "city": "San Francisco",
+    "city": "San Francisco, CA",
     "country": "U.S.A.",
-    "twitter": "@FlinkForward",
-    "cfpUrl": "https://www.flink-forward.org/sf-2020/call-for-presentations",
-    "cfpEndDate": "2020-01-12"
+    "twitter": "@FlinkForward"
   },
   {
     "name": "Flink Forward San Francisco",
     "url": "https://www.flink-forward.org/sf-2020",
     "startDate": "2020-03-23",
     "endDate": "2020-03-25",
-    "city": "San Francisco ",
+    "city": "San Francisco, CA",
     "country": "U.S.A.",
-    "twitter": "@FlinkForward",
-    "cfpUrl": "https://www.flink-forward.org/sf-2020/call-for-presentations"
+    "twitter": "@FlinkForward"
   },
   {
     "name": "Postgres Conference",
     "url": "https://postgresconf.org/conferences/2020",
     "startDate": "2020-03-23",
     "endDate": "2020-03-27",
-    "city": "New York",
+    "city": "New York, NY",
     "country": "U.S.A.",
     "twitter": "@postgresconf"
   },
   {
     "name": "Machine Learning Conference",
     "url": "https://mlconference.ai/singapore",
-    "startDate": "2020-03-24",
-    "endDate": "2020-03-26",
+    "startDate": "2020-08-08",
+    "endDate": "2020-08-10",
     "city": "Singapore",
     "country": "Singapore",
     "twitter": "@mlconference"
   },
   {
-    "name": "Nordic PGDay",
-    "url": "https://2020.nordicpgday.org",
-    "startDate": "2020-03-24",
-    "endDate": "2020-03-24",
-    "city": "Helsinki",
-    "country": "Finland"
-  },
-  {
-    "name": "The Turing Presents: AI UK",
-    "url": "https://www.turing.ac.uk/ai-uk#programme",
-    "startDate": "2020-03-24",
-    "endDate": "2020-03-25",
-    "city": "London",
-    "country": "U.K."
-  },
-  {
     "name": "Enterprise Connect",
     "url": "https://www.enterpriseconnect.com/orlando/about-enterprise-connect",
-    "startDate": "2020-03-30",
-    "endDate": "2020-04-02",
-    "city": "Orlando",
+    "startDate": "2020-08-03",
+    "endDate": "2020-08-05",
+    "city": "Orlando, FL",
     "country": "U.S.A.",
     "twitter": "@enterprisecon"
   },
   {
     "name": "SQLbits",
     "url": "https://sqlbits.com",
-    "startDate": "2020-03-31",
-    "endDate": "2020-04-04",
+    "startDate": "2020-09-29",
+    "endDate": "2020-10-03",
     "city": "London",
     "country": "U.K."
   },
   {
-    "name": "Reinforce Conference 2.0",
-    "url": "http://reinforceconf.com",
-    "startDate": "2020-04-06",
-    "endDate": "2020-04-08",
-    "city": "Budapest",
-    "country": "Hungary",
-    "twitter": "@reinforceconf",
-    "cfpEndDate": "2020-04-03"
-  },
-  {
     "name": "ODSC East - Open Data Science Conference",
     "url": "https://odsc.com/boston",
-    "startDate": "2020-04-13",
+    "startDate": "2020-04-14",
     "endDate": "2020-04-17",
-    "city": "Boston",
-    "country": "U.S.A.",
-    "twitter": "@odsc",
-    "cfpUrl": "https://odsc.com/boston/call-for-speakers",
-    "cfpEndDate": "2019-12-01"
-  },
-  {
-    "name": "Smart Cities & Mobility Ecosystems Conference",
-    "url": "https://oreilly.formulated.by/scme-phoenix-2020",
-    "startDate": "2020-04-15",
-    "endDate": "2020-04-16",
-    "city": " Phoenix",
-    "country": "U.S.A."
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@odsc"
   },
   {
     "name": "Southern Data Science Conference",
     "url": "https://www.southerndatascience.com",
-    "startDate": "2020-04-16",
-    "endDate": "2020-04-17",
-    "city": "Atlanta",
+    "startDate": "2020-08-12",
+    "endDate": "2020-08-14",
+    "city": "Atlanta, GA",
     "country": "U.S.A.",
-    "twitter": "@southerndsc",
-    "cfpUrl": "https://www.southerndatascience.com/submission-guidline20",
-    "cfpEndDate": "2020-01-31"
+    "twitter": "@southerndsc"
   },
   {
     "name": "IEEE Infrastructure Conference",
     "url": "https://infrastructure.ieee.org",
     "startDate": "2020-04-29",
     "endDate": "2020-04-30",
-    "city": "San Francisco",
+    "city": "San Francisco, CA",
     "country": "U.S.A.",
-    "twitter": "@IEEEInfra",
-    "cfpUrl": "https://infrastructure.ieee.org/calls-for-participation",
-    "cfpEndDate": "2020-02-24"
+    "twitter": "@IEEEInfra"
   },
   {
     "name": "OpML'20",
     "url": "https://www.usenix.org/conference/opml20",
-    "startDate": "2020-05-01",
-    "endDate": "2020-05-01",
+    "startDate": "2020-07-30",
+    "endDate": "2020-07-30",
     "city": "Santa Clara, CA",
     "country": "U.S.A.",
-    "twitter": "@OpML",
-    "cfpUrl": "https://www.usenix.org/conference/opml20/call-for-participation",
-    "cfpEndDate": "2020-02-25"
+    "twitter": "@OpML"
   },
   {
     "name": "AI-CRV",
@@ -226,42 +175,29 @@
     "twitter": "@riseofai"
   },
   {
-    "name": "Percona Live",
-    "url": "https://www.percona.com/live",
-    "startDate": "2020-05-18",
-    "endDate": "2020-05-20",
-    "city": "Austin, TX",
-    "country": "U.S.A.",
-    "twitter": "@percona",
-    "cfpUrl": "https://cfp.percona.com",
-    "cfpEndDate": "2020-01-20"
-  },
-  {
     "name": "International Conference on Logic for Programming, Artificial Intelligence and Reasoning",
     "url": "https://easychair.org/smart-program/LPAR23/index.html",
     "startDate": "2020-05-22",
     "endDate": "2020-05-27",
     "city": "Alicante",
-    "country": "Spain",
-    "cfpUrl": "https://easychair.org/cfp/LPAR-23",
-    "cfpEndDate": "2020-02-15"
+    "country": "Spain"
   },
   {
     "name": "eRum",
     "url": "https://2020.erum.io",
     "startDate": "2020-05-27",
     "endDate": "2020-05-30",
-    "city": "Milan",
+    "city": "Milano",
     "country": "Italy",
     "twitter": "@erum2020_conf"
   },
   {
     "name": "European Azure Conference",
     "url": "https://www.europeanazureconference.com",
-    "startDate": "2020-06-02",
-    "endDate": "2020-06-04",
-    "city": "Nice ",
-    "country": "France ",
+    "startDate": "2020-10-27",
+    "endDate": "2020-10-29",
+    "city": "Nice",
+    "country": "France",
     "twitter": "@europeanazure"
   },
   {
@@ -272,25 +208,6 @@
     "city": "Columbus, OH",
     "country": "U.S.A.",
     "twitter": "@wia_conference"
-  },
-  {
-    "name": "Women in Analytics Conference",
-    "url": "https://womeninanalytics.com",
-    "startDate": "2020-06-03",
-    "endDate": "2020-06-05",
-    "city": "Columbus, OH",
-    "country": "U.S.A.",
-    "twitter": "@wia_conference",
-    "cfpUrl": "https://womeninanalytics.com/call-for-speakers",
-    "cfpEndDate": "2020-02-29"
-  },
-  {
-    "name": "Smart Cities & Mobility Ecosystems Conference",
-    "url": "https://oreilly.formulated.by/scme-miami-2020",
-    "startDate": "2020-06-03",
-    "endDate": "2020-06-04",
-    "city": "Miami",
-    "country": "U.S.A."
   },
   {
     "name": "Berlin Buzzwords",
@@ -323,13 +240,11 @@
   {
     "name": "3rd Middle East Banking AI & Analytics Summit",
     "url": "http://mebankingai.com",
-    "startDate": "2020-06-15",
-    "endDate": "2020-06-16",
+    "startDate": "2020-10-05",
+    "endDate": "2020-10-06",
     "city": "Dubai",
     "country": "United Arab Emirates",
-    "twitter": "@LetsTalkB2B",
-    "cfpUrl": "http://mebankingai.com",
-    "cfpEndDate": "2019-12-16"
+    "twitter": "@LetsTalkB2B"
   },
   {
     "name": "ML Conference Munich",
@@ -352,26 +267,13 @@
     "cfpEndDate": "2020-04-11"
   },
   {
-    "name": "Swiss PGDay",
-    "url": "https://pgday.ch/2020",
-    "startDate": "2020-06-18",
-    "endDate": "2020-06-19",
-    "city": "Zurich",
-    "country": "Switzerland",
-    "twitter": "@swiss_pgday",
-    "cfpUrl": "https://pgday.ch/2020/#tabs-2",
-    "cfpEndDate": "2020-04-17"
-  },
-  {
     "name": "Postgres Vision",
     "url": "https://www.postgresvision.com",
     "startDate": "2020-06-22",
     "endDate": "2020-06-24",
-    "city": "Boston",
-    "country": "U.S.A.",
-    "twitter": "@PostgresVision",
-    "cfpUrl": "https://www.postgresvision.com/call",
-    "cfpEndDate": "2020-02-29"
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@PostgresVision"
   },
   {
     "name": "PGIBZ",
@@ -398,7 +300,7 @@
     "url": "https://pgday.ru/en/2020",
     "startDate": "2020-07-10",
     "endDate": "2020-07-10",
-    "city": "St. Petersburg",
+    "city": "Saint Petersburg",
     "country": "Russia",
     "cfpUrl": "https://pgday.ru/en/2020/for-speakers",
     "cfpEndDate": "2020-04-06"
@@ -409,20 +311,16 @@
     "startDate": "2020-07-11",
     "endDate": "2020-07-12",
     "city": "Toronto",
-    "country": "Canada",
-    "cfpUrl": "https://icaita2020.org/cdkp/index.html",
-    "cfpEndDate": "2020-02-29"
+    "country": "Canada"
   },
   {
     "name": "International Conference on Machine Learning",
     "url": "https://icml.cc",
     "startDate": "2020-07-12",
     "endDate": "2020-07-18",
-    "city": "Vienna",
-    "country": "Austria",
-    "twitter": "@icmlconf",
-    "cfpUrl": "https://icml.cc/Conferences/2020/CallForPapers",
-    "cfpEndDate": "2020-02-06"
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@icmlconf"
   },
   {
     "name": "Data Science and Intelligent Systems Conference",
@@ -452,6 +350,15 @@
     "cfpEndDate": "2020-08-10"
   },
   {
+    "name": "Machine Learning Conference",
+    "url": "https://mlconference.ai/singapore",
+    "startDate": "2020-09-08",
+    "endDate": "2020-09-10",
+    "city": "Singapore",
+    "country": "Singapore",
+    "twitter": "@mlconference"
+  },
+  {
     "name": "ODSC Dublin",
     "url": "https://odsc.com/dublin",
     "startDate": "2020-09-14",
@@ -469,6 +376,17 @@
     "twitter": "@PGDayAustria",
     "cfpUrl": "https://pgday.at/en/talk-commitee",
     "cfpEndDate": "2020-04-19"
+  },
+  {
+    "name": "LatinR",
+    "url": "https://latin-r.com",
+    "startDate": "2020-10-07",
+    "endDate": "2020-10-09",
+    "city": "Montevideo",
+    "country": "Uruguay",
+    "twitter": "@LatinR_Conf",
+    "cfpUrl": "https://latin-r.com/blog/presentacion-trabajos",
+    "cfpEndDate": "2020-04-30"
   },
   {
     "name": "Data Saturday",
@@ -502,16 +420,6 @@
     "cfpEndDate": "2020-05-31"
   },
   {
-    "name": "O'Reilly TensorFlow World Conference",
-    "url": "https://conferences.oreilly.com/tensorflow/tf-ca",
-    "startDate": "2020-10-19",
-    "endDate": "2020-10-22",
-    "city": "Santa Clara",
-    "country": "U.S.A.",
-    "twitter": "@TensorFlowWorld",
-    "cfpEndDate": "2020-04-14"
-  },
-  {
     "name": "Data2Day",
     "url": "https://www.data2day.de",
     "startDate": "2020-10-19",
@@ -534,7 +442,7 @@
     "url": "https://aidevworld.com",
     "startDate": "2020-10-27",
     "endDate": "2020-10-29",
-    "city": "San Jose",
+    "city": "San Jose, CA",
     "country": "U.S.A.",
     "twitter": "@AIDevWorld",
     "cfpUrl": "https://aidevworld.com/conference/apply-to-speak"
@@ -568,5 +476,32 @@
     "country": "Germany",
     "cfpUrl": "https://www.kuppingercole.com/events/cybernetixworld2020/callforspeakers",
     "cfpEndDate": "2020-09-07"
+  },
+  {
+    "name": "Global Artificial Intelligence Conference",
+    "url": "http://www.globalbigdataconference.com/boston/global-artificial-intelligence-conference/event-123.html",
+    "startDate": "2020-10-20",
+    "endDate": "2020-10-22",
+    "city": "Boston, MA",
+    "country": "U.S.A.",
+    "twitter": "@bigdataconf"
+  },
+  {
+    "name": "MongoDB.live",
+    "url": "https://www.mongodb.com/world",
+    "startDate": "2020-06-09",
+    "endDate": "2020-06-10",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@MongoDB"
+  },
+  {
+    "name": "Global Artificial Intelligence Conf Seattle Sep 16 - 18,",
+    "url": "http://www.globalbigdataconference.com/seattle/global-artificial-intelligence-conference/event-122.html",
+    "startDate": "2020-09-16",
+    "endDate": "2020-09-18",
+    "city": "Seattle, WA",
+    "country": "U.S.A.",
+    "twitter": "@bigdataconf"
   }
 ]

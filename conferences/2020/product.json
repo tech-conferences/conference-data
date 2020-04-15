@@ -6,7 +6,7 @@
     "endDate": "2020-02-07",
     "city": "Manchester",
     "country": "U.K.",
-    "twitter": "@mindtheproduct"
+    "twitter": "@MindtheProduct"
   },
   {
     "name": "#ProductCon",
@@ -24,16 +24,14 @@
     "endDate": "2020-02-14",
     "city": "Oakland, CA",
     "country": "U.S.A.",
-    "twitter": "@ProductWorld_",
-    "cfpUrl": "https://productworld.co/conference/speakers/apply-to-speak",
-    "cfpEndDate": "2019-11-15"
+    "twitter": "@ProductWorld_"
   },
   {
     "name": "ProductCraft",
     "url": "https://productcraft.com/conference/san-francisco",
     "startDate": "2020-02-25",
     "endDate": "2020-02-25",
-    "city": "San Francisco",
+    "city": "San Francisco, CA",
     "country": "U.S.A.",
     "twitter": "@product_craft"
   },
@@ -55,83 +53,48 @@
     "twitter": "@_ProjectProduct"
   },
   {
-    "name": "Software Product Management Summit",
-    "url": "https://spmsummit.org",
-    "startDate": "2020-03-24",
-    "endDate": "2020-03-25",
-    "city": "Frankfurt",
-    "country": "Germany",
-    "twitter": "@ispma_org"
-  },
-  {
-    "name": "Mind the Product",
+    "name": "Mind the Product - Online",
     "url": "https://www.mindtheproduct.com/mtpcon/singapore",
     "startDate": "2020-03-30",
-    "endDate": "2020-03-31",
+    "endDate": "2020-04-03",
     "city": "Singapore",
     "country": "Singapore",
-    "twitter": "@mindtheproduct‬"
+    "twitter": "@MindtheProduct"
   },
   {
-    "name": "ProductCraft",
-    "url": "https://productcraft.com/conference/london",
-    "startDate": "2020-03-31",
-    "endDate": "2020-03-31",
-    "city": "London",
-    "country": "U.K.",
-    "twitter": "@product_craft"
-  },
-  {
-    "name": "Product Impact",
+    "name": "Product Impact - Online",
     "url": "https://theproductangle.com/product-impact-2020",
     "startDate": "2020-04-01",
     "endDate": "2020-04-01",
-    "city": "New York",
+    "city": "New York, NY",
     "country": "U.S.A.",
     "twitter": "@theproductangle"
   },
   {
-    "name": "ProductCraft",
-    "url": "https://productcraft.com/conference",
-    "startDate": "2020-04-16",
-    "endDate": "2020-04-16",
-    "city": "Boston",
-    "country": "U.S.A.",
-    "twitter": "@product_craft"
-  },
-  {
     "name": "#ProductCon",
     "url": "https://www.productschool.com/productcon/san-francisco",
-    "startDate": "2020-04-16",
-    "endDate": "2020-04-16",
-    "city": "San Francisco",
+    "startDate": "2020-10-01",
+    "endDate": "2020-10-01",
+    "city": "San Francisco, CA",
     "country": "U.S.A.",
     "twitter": "@productschool"
   },
   {
     "name": "Front",
     "url": "https://www.frontutah.com/conference",
-    "startDate": "2020-05-28",
-    "endDate": "2020-05-29",
+    "startDate": "2020-11-10",
+    "endDate": "2020-11-13",
     "city": "Salt Lake City, UT",
     "country": "U.S.A."
   },
   {
     "name": "La Product Conf",
-    "url": "https://laproductconf.com",
+    "url": "https://laproductconf.com/lpc-2020/",
     "startDate": "2020-06-04",
     "endDate": "2020-06-04",
     "city": "Paris",
     "country": "France",
     "twitter": "@LaProductConf"
-  },
-  {
-    "name": "ProductCamp Gdynia",
-    "url": "https://productcamp.pl",
-    "startDate": "2020-06-17",
-    "endDate": "2020-06-19",
-    "city": "Gdynia",
-    "country": "Poland"
   },
   {
     "name": "Mind the Product",
@@ -140,7 +103,7 @@
     "endDate": "2020-06-26",
     "city": "Hamburg",
     "country": "Germany",
-    "twitter": "@mindtheproduct‬"
+    "twitter": "@MindtheProduct"
   },
   {
     "name": "#ProductCon",
@@ -158,7 +121,7 @@
     "endDate": "2020-07-14",
     "city": "San Francisco, CA",
     "country": "U.S.A.",
-    "twitter": "@mindtheproduct‬"
+    "twitter": "@MindtheProduct"
   },
   {
     "name": "Turing Fest",
@@ -169,6 +132,15 @@
     "country": "U.K.",
     "twitter": "@turingfest",
     "cfpUrl": "https://www.turingfest.com/2020/call-for-speakers"
+  },
+  {
+    "name": "ProductCamp",
+    "url": "https://productcamp.pl",
+    "startDate": "2020-09-02",
+    "endDate": "2020-09-04",
+    "city": "Gdynia",
+    "country": "Poland",
+    "twitter": "@ProductCampPl"
   },
   {
     "name": "#ProductCon",
@@ -185,9 +157,7 @@
     "startDate": "2020-09-21",
     "endDate": "2020-09-23",
     "city": "Cleveland, OH",
-    "country": "U.S.A.",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfDzls_8G0gVacONoDjTuijWu48oreqbZ8NIDTjpxy3_9WSPQ/viewform",
-    "cfpEndDate": "2020-01-31"
+    "country": "U.S.A."
   },
   {
     "name": "Mind the Product",
@@ -196,7 +166,7 @@
     "endDate": "2020-10-02",
     "city": "London",
     "country": "U.K.",
-    "twitter": "@mindtheproduct‬"
+    "twitter": "@MindtheProduct"
   },
   {
     "name": "UXDX",
@@ -205,18 +175,7 @@
     "endDate": "2020-10-09",
     "city": "Dublin",
     "country": "Ireland",
-    "twitter": "@uxdxconf",
-    "cfpUrl": "https://uxdxconf.com/speak",
-    "cfpEndDate": "2020-02-28"
-  },
-  {
-    "name": "Pendomonium",
-    "url": "https://web.cvent.com/event/281e421e-2af7-4b9a-af7f-e6af2834d4ea/summary",
-    "startDate": "2020-12-07",
-    "endDate": "2020-12-09",
-    "city": "Raleigh",
-    "country": "U.S.A.",
-    "twitter": "@pendoio"
+    "twitter": "@uxdxconf"
   },
   {
     "name": "#ProductCon",
@@ -226,5 +185,22 @@
     "city": "Los Angeles, CA",
     "country": "U.S.A.",
     "twitter": "@productschool"
+  },
+  {
+    "name": "Pendomonium",
+    "url": "https://web.cvent.com/event/281e421e-2af7-4b9a-af7f-e6af2834d4ea/summary",
+    "startDate": "2020-12-07",
+    "endDate": "2020-12-09",
+    "city": "Raleigh, NC",
+    "country": "U.S.A.",
+    "twitter": "@pendoio"
+  },
+  {
+    "name": "Beyond Tech Innovation and Product Development",
+    "url": "https://bit.ly/2K5eeNr",
+    "startDate": "2020-05-06",
+    "endDate": "2020-05-06",
+    "city": "Online",
+    "country": "Online"
   }
 ]

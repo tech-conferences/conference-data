@@ -4,11 +4,9 @@
     "url": "https://basta.net",
     "startDate": "2020-02-24",
     "endDate": "2020-02-28",
-    "city": "Frankfurt am Main",
+    "city": "Frankfurt",
     "country": "Germany",
-    "twitter": "@BASTAcon",
-    "cfpUrl": "https://callforpapers.sandsmedia.com",
-    "cfpEndDate": "2019-10-07"
+    "twitter": "@BASTAcon"
   },
   {
     "name": "dotnetdays",
@@ -17,16 +15,14 @@
     "endDate": "2020-02-29",
     "city": "Iasi",
     "country": "Romania",
-    "twitter": "@dotnetdaysro",
-    "cfpUrl": "https://www.papercall.io/dotnetdaysro",
-    "cfpEndDate": "2020-01-01"
+    "twitter": "@dotnetdaysro"
   },
   {
     "name": "Visual Studio Live! Las Vegas",
     "url": "https://vslive.com/Events/Las-Vegas-2020/Home.aspx",
     "startDate": "2020-03-01",
     "endDate": "2020-03-06",
-    "city": "Las Vegas",
+    "city": "Las Vegas, NV",
     "country": "U.S.A.",
     "twitter": "@vslive"
   },
@@ -40,108 +36,49 @@
     "twitter": "@NYANconf"
   },
   {
-    "name": "Microsoft Ignite The Tour Amsterdam",
-    "url": "https://www.microsoft.com/nl-nl/ignite-the-tour/amsterdam",
-    "startDate": "2020-03-11",
-    "endDate": "2020-03-12",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "twitter": "@MS_Ignite"
-  },
-  {
-    "name": "Future Tech",
-    "url": "https://futuretech.nl",
-    "startDate": "2020-03-25",
-    "endDate": "2020-03-25",
-    "city": "Utrecht",
-    "country": "Netherlands",
-    "twitter": "@FutureTechNL",
-    "cfpUrl": "https://sessionize.com/future-tech-2020",
-    "cfpEndDate": "2019-12-01"
-  },
-  {
-    "name": "Visual Studio Live! Austin",
-    "url": "https://vslive.com/events/austin-2020/home.aspx",
-    "startDate": "2020-03-30",
-    "endDate": "2020-04-03",
-    "city": "Austin ",
-    "country": "U.S.A.",
-    "twitter": "@vslive"
-  },
-  {
-    "name": "Dev Intersection",
-    "url": "https://devintersection.com",
-    "startDate": "2020-04-06",
-    "endDate": "2020-04-09",
-    "city": "Orlando",
-    "country": "U.S.A."
-  },
-  {
-    "name": ".NET fwdays'20",
+    "name": ".NET fwdays'20 - Online",
     "url": "https://fwdays.com/en/event/dotnet-fwdays-2020",
     "startDate": "2020-04-11",
-    "endDate": "2020-04-11",
+    "endDate": "2020-04-18",
     "city": "Kyiv",
     "country": "Ukraine",
     "twitter": "@dotnet_fwdays, @fwdays"
-  },
-  {
-    "name": ".Net Day Franken",
-    "url": "https://www.dotnet-day-franken.de",
-    "startDate": "2020-04-24",
-    "endDate": "2020-04-25",
-    "city": "Nürnberg",
-    "country": "Germany",
-    "twitter": "@NetDayFranken"
   },
   {
     "name": "Visual Studio Live! Nashville",
     "url": "https://vslive.com/events/nashville-2020/home.aspx",
     "startDate": "2020-05-17",
     "endDate": "2020-05-21",
-    "city": "Nashville",
+    "city": "Nashville, TN",
     "country": "U.S.A.",
     "twitter": "@vslive"
   },
   {
-    "name": "Microsoft Build",
+    "name": "Microsoft Build - Digital",
     "url": "https://www.microsoft.com/en-us/build",
     "startDate": "2020-05-19",
     "endDate": "2020-05-21",
-    "city": "Seattle",
+    "city": "Seattle, WA",
     "country": "U.S.A.",
     "twitter": "@msdev"
-  },
-  {
-    "name": "Umbraco Codegarden",
-    "url": "https://codegarden20.com",
-    "startDate": "2020-05-27",
-    "endDate": "2020-05-29",
-    "city": "Odense",
-    "country": "Denmark",
-    "twitter": "@codegarden",
-    "cfpUrl": "https://sessionize.com/codegarden-20",
-    "cfpEndDate": "2020-01-07"
-  },
-  {
-    "name": "IcingaConf",
-    "url": "http://www.icingaconf.com",
-    "startDate": "2020-06-23",
-    "endDate": "2020-06-25",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "twitter": "@icinga",
-    "cfpUrl": "https://icingaconf.com/propose",
-    "cfpEndDate": "2020-01-31"
   },
   {
     "name": "Visual Studio Live! Microsoft Headquarters",
     "url": "https://vslive.com/events/redmond-2020/home.aspx",
     "startDate": "2020-08-03",
     "endDate": "2020-08-07",
-    "city": "Redmond",
+    "city": "Redmond, WA",
     "country": "U.S.A.",
     "twitter": "@vslive"
+  },
+  {
+    "name": "Future Tech",
+    "url": "https://futuretech.nl",
+    "startDate": "2020-09-16",
+    "endDate": "2020-09-16",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "twitter": "@FutureTechNL"
   },
   {
     "name": "Basta",
@@ -157,7 +94,7 @@
     "url": "https://vslive.com/events/san-diego-2020/home.aspx",
     "startDate": "2020-09-27",
     "endDate": "2021-10-01",
-    "city": "San Diego",
+    "city": "San Diego, CA",
     "country": "U.S.A.",
     "twitter": "@vslive"
   },
@@ -208,5 +145,13 @@
     "twitter": "@Herbstcampus",
     "cfpUrl": "https://www.dotnet-developer-conference.de/call-for-speakers",
     "cfpEndDate": "2020-04-20"
+  },
+  {
+    "name": "Dev Intersection",
+    "url": "https://devintersection.com",
+    "startDate": "2020-12-08",
+    "endDate": "2020-12-10",
+    "city": "Orlando, FL",
+    "country": "U.S.A."
   }
 ]

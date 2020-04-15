@@ -1,55 +1,22 @@
 [
   {
-    "name": "CapitalGo",
-    "url": "http://capitalgolang.com",
-    "startDate": "2020-03-27",
-    "endDate": "2020-03-27",
-    "city": "Washington, DC",
-    "country": "U.S.A.",
-    "twitter": "@CapitalGolang",
-    "cfpUrl": "https://www.papercall.io/capitalgo2019",
-    "cfpEndDate": "2020-01-24"
-  },
-  {
-    "name": "Gophercon India",
-    "url": "https://gopherconindia.com",
-    "startDate": "2020-03-28",
-    "endDate": "2020-03-29",
-    "city": "Goa",
-    "country": "India",
-    "twitter": "@ GopherConIndia"
-  },
-  {
-    "name": "dotGo",
-    "url": "https://www.dotgo.eu",
-    "startDate": "2020-03-30",
-    "endDate": "2020-03-30",
-    "city": "Paris",
-    "country": "France",
-    "twitter": "@dotgoeu",
-    "cfpUrl": "https://www.dotconferences.com/cfp",
-    "cfpEndDate": "2020-01-01"
+    "name": "GoWayFest 4.0",
+    "url": "https://goway.io",
+    "startDate": "2020-07-11",
+    "endDate": "2020-07-11",
+    "city": "Minsk",
+    "country": "Belarus",
+    "twitter": "@GoWayFest",
+    "cfpUrl": "https://www.papercall.io/gowayfest4",
+    "cfpEndDate": "2020-04-30"
   },
   {
     "name": "GopherCon Europe",
     "url": "https://gophercon.berlin",
-    "startDate": "2020-04-23",
-    "endDate": "2020-04-26",
+    "startDate": "2020-07-30",
+    "endDate": "2020-07-30",
     "city": "Berlin",
     "country": "Germany",
-    "twitter": "@gopherconEU",
-    "cfpUrl": "https://www.papercall.io/gophercon-eu-2020",
-    "cfpEndDate": "2020-01-12"
-  },
-  {
-    "name": "GoCon Canada",
-    "url": "https://gocon.ca",
-    "startDate": "2020-05-25",
-    "endDate": "2020-05-26",
-    "city": "Toronto",
-    "country": "Canada",
-    "twitter": "@goconcanada",
-    "cfpUrl": "https://www.papercall.io/gocon-2020",
-    "cfpEndDate": "2020-02-14"
+    "twitter": "@gopherconEU"
   }
 ]

@@ -14,34 +14,10 @@
     "endDate": "2020-02-21",
     "city": "Melbourne",
     "country": "Australia",
-    "twitter": "@rubyconf_au",
-    "cfpUrl": "https://www.papercall.io/rubyconfau",
-    "cfpEndDate": "2019-11-07"
+    "twitter": "@rubyconf_au"
   },
   {
-    "name": "wroclove.rb",
-    "url": "https://wrocloverb.com",
-    "startDate": "2020-03-20",
-    "endDate": "2020-03-22",
-    "city": "Wrocław",
-    "country": "Poland",
-    "twitter": "@wrocloverb",
-    "cfpUrl": "https://cfp-wrocloverb.herokuapp.com/",
-    "cfpEndDate": "2020-01-31"
-  },
-  {
-    "name": "rubyday",
-    "url": "https://2020.rubyday.it",
-    "startDate": "2020-04-02",
-    "endDate": "2020-04-02",
-    "city": "Verona",
-    "country": "Italy",
-    "twitter": "@rubydayit",
-    "cfpUrl": "https://forms.gle/8tvjWvLaQp1mSANV9",
-    "cfpEndDate": "2019-11-30"
-  },
-  {
-    "name": "Ruby Wine",
+    "name": "Ruby Wine Online",
     "url": "https://www.rubywine.org",
     "startDate": "2020-04-04",
     "endDate": "2020-04-04",
@@ -51,19 +27,17 @@
   {
     "name": "RubyConfBY",
     "url": "https://rubyconference.by",
-    "startDate": "2020-04-18",
-    "endDate": "2020-04-18",
+    "startDate": "2020-07-18",
+    "endDate": "2020-07-18",
     "city": "Minsk",
     "country": "Belarus",
-    "twitter": "@rubyconfby",
-    "cfpUrl": "https://www.papercall.io/rubyconfby20",
-    "cfpEndDate": "2020-03-05"
+    "twitter": "@rubyconfby"
   },
   {
     "name": "Ruby Kaigi",
     "url": "https://rubykaigi.org/2020",
-    "startDate": "2020-04-09",
-    "endDate": "2020-04-11",
+    "startDate": "2020-09-03",
+    "endDate": "2020-09-05",
     "city": "Nagano",
     "country": "Japan",
     "twitter": "@RubyKaigi"
@@ -74,31 +48,7 @@
     "startDate": "2020-04-25",
     "endDate": "2020-04-26",
     "city": "Cidade De Goa",
-    "country": "India",
-    "cfpUrl": "https://www.papercall.io/rci20",
-    "cfpEndDate": "2020-02-29"
-  },
-  {
-    "name": "RailsConf",
-    "url": "https://railsconf.com",
-    "startDate": "2020-05-05",
-    "endDate": "2020-05-07",
-    "city": "Portland",
-    "country": "U.S.A.",
-    "twitter": "@railsconf",
-    "cfpUrl": "https://cfp.rubycentral.org/events/railsconf2020",
-    "cfpEndDate": "2020-02-14"
-  },
-  {
-    "name": "Balkan Ruby",
-    "url": "https://balkanruby.com",
-    "startDate": "2020-05-15",
-    "endDate": "2020-05-16",
-    "city": "Sofia",
-    "country": "Bulgaria",
-    "twitter": "@balkanruby",
-    "cfpUrl": "https://cfp.neuvents.com/events/balkan-ruby-2020",
-    "cfpEndDate": "2020-02-03"
+    "country": "India"
   },
   {
     "name": "Ruby Unconf Hamburg",
@@ -128,15 +78,6 @@
     "twitter": "@brightonruby"
   },
   {
-    "name": "RubyNess",
-    "url": "https://rubyness.org",
-    "startDate": "2020-07-16",
-    "endDate": "2020-07-17",
-    "city": "Inverness",
-    "country": "U.K.",
-    "twitter": "@rubynessconf"
-  },
-  {
     "name": "Euruko",
     "url": "https://euruko2020.org",
     "startDate": "2020-08-21",
@@ -154,16 +95,16 @@
     "country": "Ukraine",
     "twitter": "@rubyc_eu",
     "cfpUrl": "https://rubyc.eu/speakers/new",
-    "cfpEndDate": "2020-03-31"
+    "cfpEndDate": "2020-05-15"
   },
   {
-    "name": "Ruby Conference Thailand",
-    "url": "https://rubyconfth.com",
-    "startDate": "2020-10-16",
-    "endDate": "2020-10-17",
-    "city": "Bangkok",
-    "country": "Thailand",
-    "twitter": "@rubyconfth"
+    "name": "rubyday",
+    "url": "https://2020.rubyday.it",
+    "startDate": "2020-09-16",
+    "endDate": "2020-09-16",
+    "city": "Verona",
+    "country": "Italy",
+    "twitter": "@rubydayit"
   },
   {
     "name": "RubyConf",

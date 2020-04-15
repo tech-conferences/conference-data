@@ -6,88 +6,33 @@
     "endDate": "2020-02-29",
     "city": "Novosibirsk",
     "country": "Russia",
-    "twitter": "@snowone_conf",
-    "cfpUrl": "https://snowone.ru/en",
-    "cfpEndDate": "2020-01-31"
-  },
-  {
-    "name": "Java Day İstanbul",
-    "url": "https://javaday.istanbul",
-    "startDate": "2020-03-14",
-    "endDate": "2020-03-14",
-    "city": "İstanbul",
-    "country": "Turkey",
-    "twitter": "@javadayistanbul"
-  },
-  {
-    "name": "JavaLand",
-    "url": "https://www.javaland.eu/de/home",
-    "startDate": "2020-03-17",
-    "endDate": "2020-03-19",
-    "city": "Brühl",
-    "country": "Germany"
-  },
-  {
-    "name": "Java Fest",
-    "url": "https://javafest.com.ua",
-    "startDate": "2020-03-21",
-    "endDate": "2020-03-21",
-    "city": "Kyiv",
-    "country": "Ukraine",
-    "cfpUrl": "https://javafest.com.ua"
-  },
-  {
-    "name": "JEEConf/ Java Eastern Europe Conference",
-    "url": "https://jeeconf.com",
-    "startDate": "2020-04-17",
-    "endDate": "2020-04-18",
-    "city": "Kyiv",
-    "country": "Ukraine",
-    "twitter": "@jeeconf",
-    "cfpUrl": "https://jeeconf.com",
-    "cfpEndDate": "2020-03-03"
+    "twitter": "@snowone_conf"
   },
   {
     "name": "Into The Box",
     "url": "https://www.intothebox.org",
     "startDate": "2020-05-06",
     "endDate": "2020-05-08",
-    "city": "The Woodlands",
-    "country": "U.S.A.",
-    "twitter": "@gointothebox",
-    "cfpUrl": "https://www.papercall.io/itb2020",
-    "cfpEndDate": "2020-01-15"
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@gointothebox"
   },
   {
     "name": "JAX",
     "url": "https://jax.de",
-    "startDate": "2020-05-11",
-    "endDate": "2020-05-15",
+    "startDate": "2020-09-07",
+    "endDate": "2020-09-11",
     "city": "Mainz",
     "country": "Germany",
     "twitter": "@jaxcon"
   },
   {
-    "name": "Spring I/O",
-    "url": "https://2020.springio.net",
-    "startDate": "2020-05-14",
-    "endDate": "2020-05-15",
-    "city": "Barcelona",
-    "country": "Spain",
-    "twitter": "@spring_io",
-    "cfpUrl": "https://www.papercall.io/springio20",
-    "cfpEndDate": "2020-02-23"
-  },
-  {
-    "name": "Voxxed Days Minsk",
-    "url": "https://voxxeddays.com/minsk",
-    "startDate": "2020-05-28",
-    "endDate": "2020-05-31",
-    "city": "Minsk",
-    "country": "Belarus",
-    "twitter": "@VoxxedMinsk",
-    "cfpUrl": "https://vxdminsk2020.cfp.dev",
-    "cfpEndDate": "2020-02-29"
+    "name": "Java Fest",
+    "url": "https://javafest.com.ua/indexe.html",
+    "startDate": "2020-06-05",
+    "endDate": "2020-06-05",
+    "city": "Kyiv",
+    "country": "Ukraine"
   },
   {
     "name": "Devoxx Poland",
@@ -96,18 +41,25 @@
     "endDate": "2020-06-19",
     "city": "Krakow",
     "country": "Poland",
-    "twitter": "@DevoxxPL",
-    "cfpUrl": "http://devoxx.pl/faq",
-    "cfpEndDate": "2020-01-31"
+    "twitter": "@DevoxxPL"
   },
   {
     "name": "jbcnconf",
     "url": "https://www.jbcnconf.com",
-    "startDate": "2020-07-06",
-    "endDate": "2020-07-08",
+    "startDate": "2020-09-07",
+    "endDate": "2020-09-09",
     "city": "Barcelona",
     "country": "Spain",
     "twitter": "@jbcnconf"
+  },
+  {
+    "name": "JEEConf/ Java Eastern Europe Conference",
+    "url": "https://jeeconf.com",
+    "startDate": "2020-07-10",
+    "endDate": "2020-07-11",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "twitter": "@jeeconf"
   },
   {
     "name": "Java Zone",
@@ -117,6 +69,15 @@
     "city": "Oslo",
     "country": "Norway",
     "twitter": "@javazone"
+  },
+  {
+    "name": "Java Day İstanbul",
+    "url": "https://javaday.istanbul",
+    "startDate": "2020-09-12",
+    "endDate": "2020-09-12",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "twitter": "@javadayistanbul"
   },
   {
     "name": "Java Forum Nord",
@@ -132,11 +93,9 @@
     "url": "https://jconf.dev",
     "startDate": "2020-09-29",
     "endDate": "2020-10-01",
-    "city": "Chicago",
+    "city": "Chicago, IL",
     "country": "U.S.A.",
-    "twitter": "@jconfdev",
-    "cfpUrl": "https://mailchi.mp/77d3349dbb61/uekzpliz31",
-    "cfpEndDate": "2020-02-22"
+    "twitter": "@jconfdev"
   },
   {
     "name": "Accento Conference  - Java/JavaScript/Ops",
@@ -146,6 +105,24 @@
     "city": "Karlsruhe",
     "country": "Germany",
     "twitter": "@AccentoDev"
+  },
+  {
+    "name": "Spring I/O",
+    "url": "https://2020.springio.net",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-09",
+    "city": "Barcelona",
+    "country": "Spain",
+    "twitter": "@spring_io"
+  },
+  {
+    "name": "Voxxed Days Minsk",
+    "url": "https://voxxeddays.com/minsk",
+    "startDate": "2020-10-29",
+    "endDate": "2020-11-01",
+    "city": "Minsk",
+    "country": "Belarus",
+    "twitter": "@VoxxedMinsk"
   },
   {
     "name": "EclipseCon",
@@ -190,5 +167,16 @@
     "city": "Riga",
     "country": "Latvia",
     "twitter": "@devternity"
+  },
+  {
+    "name": "Devoxx Ukraine",
+    "url": "https://devoxx.com.ua",
+    "startDate": "2020-11-05",
+    "endDate": "2020-11-07",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "twitter": "@DevoxxUA",
+    "cfpUrl": "https://devoxx.com.ua/information-for-speakers",
+    "cfpEndDate": "2020-08-24"
   }
 ]
