@@ -27,6 +27,17 @@
     "twitter": "@python_summit"
   },
   {
+    "name": "Python Pizza",
+    "url": "https://remote.python.pizza",
+    "startDate": "2020-04-25",
+    "endDate": "2020-04-25",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@pythonpizzaconf",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeUaY-CDE_3EEjpwbLugFhTb9x4nZcu9ehbLrzL9HgWWt41lA/viewform",
+    "cfpEndDate": "2020-04-06"
+  },
+  {
     "name": "Python fwdays'20",
     "url": "https://fwdays.com/en/event/python-fwdays-conference",
     "startDate": "2020-05-16",
@@ -53,6 +64,17 @@
     "country": "Netherlands",
     "cfpUrl": "https://amsterdam.pydata.org/pages/cfp",
     "cfpEndDate": "2020-03-29"
+  },
+  {
+    "name": "EuroPython",
+    "url": "https://ep2020.europython.eu",
+    "startDate": "2020-07-23",
+    "endDate": "2020-07-26",
+    "city": "Online",
+    "country": "Online",
+    "cfpUrl": "https://ep2020.europython.eu/call-for-proposals/",
+    "cfpEndDate": "2020-04-12",
+    "twitter": "@europython"
   },
   {
     "name": "PyCon SK",
@@ -97,27 +119,5 @@
     "city": "Florence",
     "country": "Italy",
     "twitter": "@pyconit"
-  },
-  {
-    "name": "EuroPython",
-    "url": "https://ep2020.europython.eu",
-    "startDate": "2020-07-23",
-    "endDate": "2020-07-26",
-    "city": "Online",
-    "country": "Online",
-    "cfpUrl": "https://ep2020.europython.eu/call-for-proposals/",
-    "cfpEndDate": "2020-04-12",
-    "twitter": "@europython"
-  },
-  {
-    "name": "Python Pizza",
-    "url": "https://remote.python.pizza",
-    "startDate": "2020-04-25",
-    "endDate": "2020-04-25",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@pythonpizzaconf",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeUaY-CDE_3EEjpwbLugFhTb9x4nZcu9ehbLrzL9HgWWt41lA/viewform",
-    "cfpEndDate": "2020-04-06"
   }
 ]

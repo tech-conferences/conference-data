@@ -72,15 +72,6 @@
     "twitter": "@midwestphp"
   },
   {
-    "name": "DrupalCon",
-    "url": "https://events.drupal.org/minneapolis2020",
-    "startDate": "2020-05-18",
-    "endDate": "2020-05-22",
-    "city": "Minneapolis, MN",
-    "country": "U.S.A.",
-    "twitter": "@drupalcon"
-  },
-  {
     "name": "php[tek]",
     "url": "https://tek.phparch.com",
     "startDate": "2020-05-18",
@@ -90,6 +81,15 @@
     "twitter": "@phptek",
     "cfpUrl": "https://sessionize.com/phptek-2020",
     "cfpEndDate": "2020-01-04"
+  },
+  {
+    "name": "DrupalCon",
+    "url": "https://events.drupal.org/minneapolis2020",
+    "startDate": "2020-05-18",
+    "endDate": "2020-05-22",
+    "city": "Minneapolis, MN",
+    "country": "U.S.A.",
+    "twitter": "@drupalcon"
   },
   {
     "name": "International PHP Conference",
@@ -206,17 +206,6 @@
     "twitter": "@LonghornPHP"
   },
   {
-    "name": "SymfonyCon Paris 2020",
-    "url": "https://paris2020.symfony.com/",
-    "startDate": "2020-12-03",
-    "endDate": "2020-12-04",
-    "city": "Paris",
-    "country": "France",
-    "twitter": "@symfonycon",
-    "cfpUrl": "https://paris2020.symfony.com/cfp",
-    "cfpEndDate": "2020-05-10"
-  },
-  {
     "name": "laravelday",
     "url": "https://2020.laravelday.it",
     "startDate": "2020-11-26",
@@ -237,5 +226,16 @@
     "twitter": "@sfdayit",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfFh53tWIezFiQTq-b_F9Q939hif9LmyUIfvNs7kVJNDAuA-A/viewform?usp=sf_link",
     "cfpEndDate": "2020-06-27"
+  },
+  {
+    "name": "SymfonyCon Paris 2020",
+    "url": "https://paris2020.symfony.com/",
+    "startDate": "2020-12-03",
+    "endDate": "2020-12-04",
+    "city": "Paris",
+    "country": "France",
+    "twitter": "@symfonycon",
+    "cfpUrl": "https://paris2020.symfony.com/cfp",
+    "cfpEndDate": "2020-05-10"
   }
 ]

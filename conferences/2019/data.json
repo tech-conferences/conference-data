@@ -53,6 +53,16 @@
     "twitter": "@postgresconf"
   },
   {
+    "name": "Reinforce AI Conference",
+    "url": "https://reinforceconf.com",
+    "startDate": "2019-03-21",
+    "endDate": "2019-03-22",
+    "city": "Budapest",
+    "country": "Hungary",
+    "cfpUrl": "https://www.papercall.io/reinforce-ai-2019",
+    "cfpEndDate": "2018-11-30"
+  },
+  {
     "name": "Women in Analytics Conference",
     "url": "https://www.womeninanalytics.org/",
     "startDate": "2019-03-21",
@@ -62,16 +72,6 @@
     "twitter": "@wia_conference",
     "cfpUrl": "https://www.womeninanalytics.org/call-for-speakers",
     "cfpEndDate": "2018-11-23"
-  },
-  {
-    "name": "Reinforce AI Conference",
-    "url": "https://reinforceconf.com",
-    "startDate": "2019-03-21",
-    "endDate": "2019-03-22",
-    "city": "Budapest",
-    "country": "Hungary",
-    "cfpUrl": "https://www.papercall.io/reinforce-ai-2019",
-    "cfpEndDate": "2018-11-30"
   },
   {
     "name": "0111 CTO Conference Las Vegas",
@@ -319,17 +319,6 @@
     "cfpUrl": "http://vldb.org/2019/?call-for-research-track"
   },
   {
-    "name": "DataOps Summit",
-    "url": "https://www.dataopssummit-sf.com",
-    "startDate": "2019-09-03",
-    "endDate": "2019-09-05",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "twitter": "@dataopssummitSF",
-    "cfpUrl": "https://docs.google.com/forms/d/1mhy543yotmEEf22737MdWJ0IsGitoTNaQpOPRtM-4nE/viewform?edit_requested=true",
-    "cfpEndDate": "2019-04-05"
-  },
-  {
     "name": "PICANTE TECH Conference Europe",
     "url": "https://techconference.eu",
     "startDate": "2019-09-03",
@@ -339,6 +328,17 @@
     "twitter": "@Picante_Media",
     "cfpUrl": "https://techconference.eu/become-a-speaker-at-tce2019",
     "cfpEndDate": "2019-08-01"
+  },
+  {
+    "name": "DataOps Summit",
+    "url": "https://www.dataopssummit-sf.com",
+    "startDate": "2019-09-03",
+    "endDate": "2019-09-05",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "twitter": "@dataopssummitSF",
+    "cfpUrl": "https://docs.google.com/forms/d/1mhy543yotmEEf22737MdWJ0IsGitoTNaQpOPRtM-4nE/viewform?edit_requested=true",
+    "cfpEndDate": "2019-04-05"
   },
   {
     "name": "AI Expo Africa",

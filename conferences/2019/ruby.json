@@ -9,17 +9,6 @@
     "twitter": "@rubyconfindia"
   },
   {
-    "name": "RubyConf AU",
-    "url": "https://rubyconf.org.au/2019",
-    "startDate": "2019-02-07",
-    "endDate": "2019-02-09",
-    "city": "Melbourne",
-    "country": "Australia",
-    "twitter": "@rubyconf_au",
-    "cfpUrl": "https://www.papercall.io/rubyconf-au-2019",
-    "cfpEndDate": "2018-10-15"
-  },
-  {
     "name": "Rubyfuza & Friends",
     "url": "https://www.rubyfuza.org",
     "startDate": "2019-02-07",
@@ -29,6 +18,17 @@
     "twitter": "@rubyfuza",
     "cfpUrl": "https://www.papercall.io/rubyfuza",
     "cfpEndDate": "2018-12-15"
+  },
+  {
+    "name": "RubyConf AU",
+    "url": "https://rubyconf.org.au/2019",
+    "startDate": "2019-02-07",
+    "endDate": "2019-02-09",
+    "city": "Melbourne",
+    "country": "Australia",
+    "twitter": "@rubyconf_au",
+    "cfpUrl": "https://www.papercall.io/rubyconf-au-2019",
+    "cfpEndDate": "2018-10-15"
   },
   {
     "name": "Ruby On Ice",

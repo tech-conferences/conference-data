@@ -8,15 +8,13 @@
     "country": "U.S.A."
   },
   {
-    "name": "PyCascades",
-    "url": "https://2019.pycascades.com",
+    "name": "Berlin Python Pizza",
+    "url": "https://berlin.python.pizza",
     "startDate": "2019-02-23",
-    "endDate": "2019-02-25",
-    "city": "Seattle, WA",
-    "country": "U.S.A.",
-    "twitter": "@pycascades",
-    "cfpUrl": "https://www.papercall.io/pycascades-2019",
-    "cfpEndDate": "2018-10-22"
+    "endDate": "2019-02-23",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@pythonpizzaconf"
   },
   {
     "name": "PyCon APAC",
@@ -28,13 +26,15 @@
     "twitter": "@pyconph"
   },
   {
-    "name": "Berlin Python Pizza",
-    "url": "https://berlin.python.pizza",
+    "name": "PyCascades",
+    "url": "https://2019.pycascades.com",
     "startDate": "2019-02-23",
-    "endDate": "2019-02-23",
-    "city": "Berlin",
-    "country": "Germany",
-    "twitter": "@pythonpizzaconf"
+    "endDate": "2019-02-25",
+    "city": "Seattle, WA",
+    "country": "U.S.A.",
+    "twitter": "@pycascades",
+    "cfpUrl": "https://www.papercall.io/pycascades-2019",
+    "cfpEndDate": "2018-10-22"
   },
   {
     "name": "PyCon Odessa",
@@ -199,6 +199,15 @@
     "twitter": "@PyConBlkn"
   },
   {
+    "name": "PyConZA",
+    "url": "https://za.pycon.org",
+    "startDate": "2019-10-09",
+    "endDate": "2019-10-11",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "twitter": "@pyconza"
+  },
+  {
     "name": "PyCon DE & PyData Berlin",
     "url": "https://de.pycon.org",
     "startDate": "2019-10-09",
@@ -207,15 +216,6 @@
     "country": "Germany",
     "twitter": "@PyConDE",
     "cfpEndDate": "2019-05-26"
-  },
-  {
-    "name": "PyConZA",
-    "url": "https://za.pycon.org",
-    "startDate": "2019-10-09",
-    "endDate": "2019-10-11",
-    "city": "Johannesburg",
-    "country": "South Africa",
-    "twitter": "@pyconza"
   },
   {
     "name": "PyCon Ireland",

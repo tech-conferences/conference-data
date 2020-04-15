@@ -187,6 +187,16 @@
     "twitter": "@ngconf"
   },
   {
+    "name": "Online DevOps + JS Conference",
+    "url": "https://www.geekle.us",
+    "startDate": "2020-04-02",
+    "endDate": "2020-04-02",
+    "city": "Online",
+    "country": "Online",
+    "cfpUrl": "https://www.geekle.us",
+    "cfpEndDate": "2020-04-02"
+  },
+  {
     "name": "MagnoliaJS",
     "url": "https://magnoliajs.com/",
     "startDate": "2020-04-15",
@@ -240,6 +250,17 @@
     "cfpUrl": "https://devdays.lt/call-for-papers"
   },
   {
+    "name": "JS VidCon",
+    "url": "https://jsvidcon.com",
+    "startDate": "2020-05-07",
+    "endDate": "2020-05-08",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@jsvidcon",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdhziUY1zUGLT8n0VhSLPiCBnS94-k7518KrAADMqlbbdmiMA/viewform",
+    "cfpEndDate": "2020-04-10"
+  },
+  {
     "name": "Pick JS Online",
     "url": "https://pickjs.com",
     "startDate": "2020-05-07",
@@ -247,15 +268,6 @@
     "city": "Katowice",
     "country": "Poland",
     "twitter": "@ConferencesPick"
-  },
-  {
-    "name": "ReactEurope",
-    "url": "https://www.react-europe.org",
-    "startDate": "2020-05-14",
-    "endDate": "2020-05-15",
-    "city": "Paris",
-    "country": "France",
-    "twitter": "@reacteurope"
   },
   {
     "name": "JavaScript Remote Conference",
@@ -267,6 +279,15 @@
     "twitter": "@jsremoteconf",
     "cfpUrl": "https://chuck193704.typeform.com/to/XXLjow",
     "cfpEndDate": "2020-03-31"
+  },
+  {
+    "name": "ReactEurope",
+    "url": "https://www.react-europe.org",
+    "startDate": "2020-05-14",
+    "endDate": "2020-05-15",
+    "city": "Paris",
+    "country": "France",
+    "twitter": "@reacteurope"
   },
   {
     "name": "5 LAKES Front",
@@ -370,15 +391,6 @@
     "cfpEndDate": "2020-03-31"
   },
   {
-    "name": "enterJS",
-    "url": "https://enterjs.de",
-    "startDate": "2020-06-23",
-    "endDate": "2020-06-26",
-    "city": "Darmstadt",
-    "country": "Germany",
-    "twitter": "@enterjsconf"
-  },
-  {
     "name": "OpenJS World",
     "url": "https://events.linuxfoundation.org/openjs-world",
     "startDate": "2020-06-23",
@@ -386,6 +398,15 @@
     "city": "Austin, TX",
     "country": "U.S.A.",
     "twitter": "@openjsf"
+  },
+  {
+    "name": "enterJS",
+    "url": "https://enterjs.de",
+    "startDate": "2020-06-23",
+    "endDate": "2020-06-26",
+    "city": "Darmstadt",
+    "country": "Germany",
+    "twitter": "@enterjsconf"
   },
   {
     "name": "React Day Norway",
@@ -680,6 +701,28 @@
     "cfpEndDate": "2020-06-30"
   },
   {
+    "name": "nodejsday",
+    "url": "https://2020.nodejsday.it",
+    "startDate": "2020-10-14",
+    "endDate": "2020-10-14",
+    "city": "Verona",
+    "country": "Italy",
+    "twitter": "@nodejsconfit",
+    "cfpUrl": "https://forms.gle/qMCJKqHMAgqdsqxz6",
+    "cfpEndDate": "2020-05-15"
+  },
+  {
+    "name": "reactjsday",
+    "url": "http://www.reactjsday.it",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-15",
+    "city": "Verona",
+    "country": "Italy",
+    "twitter": "@reactjsday",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc9b1YcypLc6nBnOGrVWOfFmnAcwZj-3ZcZbzdFIrhqTJF6Bg/viewform",
+    "cfpEndDate": "2020-05-15"
+  },
+  {
     "name": "HalfStack",
     "url": "https://halfstackconf.com/telaviv",
     "startDate": "2020-10-19",
@@ -763,48 +806,5 @@
     "city": "Charlotte, SC",
     "country": "U.S.A.",
     "twitter": "@halfstackconf"
-  },
-  {
-    "name": "nodejsday",
-    "url": "https://2020.nodejsday.it",
-    "startDate": "2020-10-14",
-    "endDate": "2020-10-14",
-    "city": "Verona",
-    "country": "Italy",
-    "twitter": "@nodejsconfit",
-    "cfpUrl": "https://forms.gle/qMCJKqHMAgqdsqxz6",
-    "cfpEndDate": "2020-05-15"
-  },
-  {
-    "name": "reactjsday",
-    "url": "http://www.reactjsday.it",
-    "startDate": "2020-10-15",
-    "endDate": "2020-10-15",
-    "city": "Verona",
-    "country": "Italy",
-    "twitter": "@reactjsday",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc9b1YcypLc6nBnOGrVWOfFmnAcwZj-3ZcZbzdFIrhqTJF6Bg/viewform",
-    "cfpEndDate": "2020-05-15"
-  },
-  {
-    "name": "Online DevOps + JS Conference",
-    "url": "https://www.geekle.us",
-    "startDate": "2020-04-02",
-    "endDate": "2020-04-02",
-    "city": "Online",
-    "country": "Online",
-    "cfpUrl": "https://www.geekle.us",
-    "cfpEndDate": "2020-04-02"
-  },
-  {
-    "name": "JS VidCon",
-    "url": "https://jsvidcon.com",
-    "startDate": "2020-05-07",
-    "endDate": "2020-05-08",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@jsvidcon",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdhziUY1zUGLT8n0VhSLPiCBnS94-k7518KrAADMqlbbdmiMA/viewform",
-    "cfpEndDate": "2020-04-10"
   }
 ]

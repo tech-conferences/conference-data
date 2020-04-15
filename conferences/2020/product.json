@@ -71,21 +71,12 @@
     "twitter": "@theproductangle"
   },
   {
-    "name": "#ProductCon",
-    "url": "https://www.productschool.com/productcon/san-francisco",
-    "startDate": "2020-10-01",
-    "endDate": "2020-10-01",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "twitter": "@productschool"
-  },
-  {
-    "name": "Front",
-    "url": "https://www.frontutah.com/conference",
-    "startDate": "2020-11-10",
-    "endDate": "2020-11-13",
-    "city": "Salt Lake City, UT",
-    "country": "U.S.A."
+    "name": "Beyond Tech Innovation and Product Development",
+    "url": "https://bit.ly/2K5eeNr",
+    "startDate": "2020-05-06",
+    "endDate": "2020-05-06",
+    "city": "Online",
+    "country": "Online"
   },
   {
     "name": "La Product Conf",
@@ -160,6 +151,15 @@
     "country": "U.S.A."
   },
   {
+    "name": "#ProductCon",
+    "url": "https://www.productschool.com/productcon/san-francisco",
+    "startDate": "2020-10-01",
+    "endDate": "2020-10-01",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "twitter": "@productschool"
+  },
+  {
     "name": "Mind the Product",
     "url": "https://www.mindtheproduct.com/mtpcon/london/",
     "startDate": "2020-10-01",
@@ -187,6 +187,14 @@
     "twitter": "@productschool"
   },
   {
+    "name": "Front",
+    "url": "https://www.frontutah.com/conference",
+    "startDate": "2020-11-10",
+    "endDate": "2020-11-13",
+    "city": "Salt Lake City, UT",
+    "country": "U.S.A."
+  },
+  {
     "name": "Pendomonium",
     "url": "https://web.cvent.com/event/281e421e-2af7-4b9a-af7f-e6af2834d4ea/summary",
     "startDate": "2020-12-07",
@@ -194,13 +202,5 @@
     "city": "Raleigh, NC",
     "country": "U.S.A.",
     "twitter": "@pendoio"
-  },
-  {
-    "name": "Beyond Tech Innovation and Product Development",
-    "url": "https://bit.ly/2K5eeNr",
-    "startDate": "2020-05-06",
-    "endDate": "2020-05-06",
-    "city": "Online",
-    "country": "Online"
   }
 ]

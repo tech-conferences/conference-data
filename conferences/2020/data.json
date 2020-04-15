@@ -61,14 +61,6 @@
     "twitter": "@DataCenterWorld"
   },
   {
-    "name": "Gartner Data & Analytics Summit",
-    "url": "http://www.gartner.com/us/data",
-    "startDate": "2020-03-23",
-    "endDate": "2020-03-26",
-    "city": "Grapevine, TX",
-    "country": "U.S.A."
-  },
-  {
     "name": "Flink Forward",
     "url": "https://www.flink-forward.org",
     "startDate": "2020-03-23",
@@ -87,6 +79,14 @@
     "twitter": "@FlinkForward"
   },
   {
+    "name": "Gartner Data & Analytics Summit",
+    "url": "http://www.gartner.com/us/data",
+    "startDate": "2020-03-23",
+    "endDate": "2020-03-26",
+    "city": "Grapevine, TX",
+    "country": "U.S.A."
+  },
+  {
     "name": "Postgres Conference",
     "url": "https://postgresconf.org/conferences/2020",
     "startDate": "2020-03-23",
@@ -94,32 +94,6 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "twitter": "@postgresconf"
-  },
-  {
-    "name": "Machine Learning Conference",
-    "url": "https://mlconference.ai/singapore",
-    "startDate": "2020-08-08",
-    "endDate": "2020-08-10",
-    "city": "Singapore",
-    "country": "Singapore",
-    "twitter": "@mlconference"
-  },
-  {
-    "name": "Enterprise Connect",
-    "url": "https://www.enterpriseconnect.com/orlando/about-enterprise-connect",
-    "startDate": "2020-08-03",
-    "endDate": "2020-08-05",
-    "city": "Orlando, FL",
-    "country": "U.S.A.",
-    "twitter": "@enterprisecon"
-  },
-  {
-    "name": "SQLbits",
-    "url": "https://sqlbits.com",
-    "startDate": "2020-09-29",
-    "endDate": "2020-10-03",
-    "city": "London",
-    "country": "U.K."
   },
   {
     "name": "ODSC East - Open Data Science Conference",
@@ -131,15 +105,6 @@
     "twitter": "@odsc"
   },
   {
-    "name": "Southern Data Science Conference",
-    "url": "https://www.southerndatascience.com",
-    "startDate": "2020-08-12",
-    "endDate": "2020-08-14",
-    "city": "Atlanta, GA",
-    "country": "U.S.A.",
-    "twitter": "@southerndsc"
-  },
-  {
     "name": "IEEE Infrastructure Conference",
     "url": "https://infrastructure.ieee.org",
     "startDate": "2020-04-29",
@@ -147,15 +112,6 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "twitter": "@IEEEInfra"
-  },
-  {
-    "name": "OpML'20",
-    "url": "https://www.usenix.org/conference/opml20",
-    "startDate": "2020-07-30",
-    "endDate": "2020-07-30",
-    "city": "Santa Clara, CA",
-    "country": "U.S.A.",
-    "twitter": "@OpML"
   },
   {
     "name": "AI-CRV",
@@ -192,15 +148,6 @@
     "twitter": "@erum2020_conf"
   },
   {
-    "name": "European Azure Conference",
-    "url": "https://www.europeanazureconference.com",
-    "startDate": "2020-10-27",
-    "endDate": "2020-10-29",
-    "city": "Nice",
-    "country": "France",
-    "twitter": "@europeanazure"
-  },
-  {
     "name": "Women in Analytics Conference",
     "url": "http://www.womeninanalytics.org",
     "startDate": "2020-06-03",
@@ -218,6 +165,15 @@
     "country": "Germany",
     "twitter": "@berlinbuzzwords",
     "cfpUrl": "https://berlinbuzzwords.de/call-submissions"
+  },
+  {
+    "name": "MongoDB.live",
+    "url": "https://www.mongodb.com/world",
+    "startDate": "2020-06-09",
+    "endDate": "2020-06-10",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@MongoDB"
   },
   {
     "name": "PGDay.IT",
@@ -238,24 +194,6 @@
     "twitter": "@fwdays"
   },
   {
-    "name": "3rd Middle East Banking AI & Analytics Summit",
-    "url": "http://mebankingai.com",
-    "startDate": "2020-10-05",
-    "endDate": "2020-10-06",
-    "city": "Dubai",
-    "country": "United Arab Emirates",
-    "twitter": "@LetsTalkB2B"
-  },
-  {
-    "name": "ML Conference Munich",
-    "url": "https://mlconference.ai/munich",
-    "startDate": "2020-06-17",
-    "endDate": "2020-06-19",
-    "city": "Munich",
-    "country": "Germany",
-    "twitter": "@mlconference"
-  },
-  {
     "name": "DataXDay",
     "url": "https://dataxday.fr",
     "startDate": "2020-06-17",
@@ -265,6 +203,15 @@
     "twitter": "@dataxday",
     "cfpUrl": "https://conference-hall.io/organizer/event/WJyJvxIZ7i0eQjruPKpv",
     "cfpEndDate": "2020-04-11"
+  },
+  {
+    "name": "ML Conference Munich",
+    "url": "https://mlconference.ai/munich",
+    "startDate": "2020-06-17",
+    "endDate": "2020-06-19",
+    "city": "Munich",
+    "country": "Germany",
+    "twitter": "@mlconference"
   },
   {
     "name": "Postgres Vision",
@@ -331,6 +278,42 @@
     "country": "U.K."
   },
   {
+    "name": "OpML'20",
+    "url": "https://www.usenix.org/conference/opml20",
+    "startDate": "2020-07-30",
+    "endDate": "2020-07-30",
+    "city": "Santa Clara, CA",
+    "country": "U.S.A.",
+    "twitter": "@OpML"
+  },
+  {
+    "name": "Enterprise Connect",
+    "url": "https://www.enterpriseconnect.com/orlando/about-enterprise-connect",
+    "startDate": "2020-08-03",
+    "endDate": "2020-08-05",
+    "city": "Orlando, FL",
+    "country": "U.S.A.",
+    "twitter": "@enterprisecon"
+  },
+  {
+    "name": "Machine Learning Conference",
+    "url": "https://mlconference.ai/singapore",
+    "startDate": "2020-08-08",
+    "endDate": "2020-08-10",
+    "city": "Singapore",
+    "country": "Singapore",
+    "twitter": "@mlconference"
+  },
+  {
+    "name": "Southern Data Science Conference",
+    "url": "https://www.southerndatascience.com",
+    "startDate": "2020-08-12",
+    "endDate": "2020-08-14",
+    "city": "Atlanta, GA",
+    "country": "U.S.A.",
+    "twitter": "@southerndsc"
+  },
+  {
     "name": "Ai4",
     "url": "https://ai4.io",
     "startDate": "2020-09-01",
@@ -367,6 +350,15 @@
     "country": "Ireland"
   },
   {
+    "name": "Global Artificial Intelligence Conf Seattle Sep 16 - 18,",
+    "url": "http://www.globalbigdataconference.com/seattle/global-artificial-intelligence-conference/event-122.html",
+    "startDate": "2020-09-16",
+    "endDate": "2020-09-18",
+    "city": "Seattle, WA",
+    "country": "U.S.A.",
+    "twitter": "@bigdataconf"
+  },
+  {
     "name": "PGDay Austria",
     "url": "https://pgday.at/en",
     "startDate": "2020-09-18",
@@ -376,6 +368,23 @@
     "twitter": "@PGDayAustria",
     "cfpUrl": "https://pgday.at/en/talk-commitee",
     "cfpEndDate": "2020-04-19"
+  },
+  {
+    "name": "SQLbits",
+    "url": "https://sqlbits.com",
+    "startDate": "2020-09-29",
+    "endDate": "2020-10-03",
+    "city": "London",
+    "country": "U.K."
+  },
+  {
+    "name": "3rd Middle East Banking AI & Analytics Summit",
+    "url": "http://mebankingai.com",
+    "startDate": "2020-10-05",
+    "endDate": "2020-10-06",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "twitter": "@LetsTalkB2B"
   },
   {
     "name": "LatinR",
@@ -398,17 +407,6 @@
     "twitter": "@datasaturdaynl"
   },
   {
-    "name": "MCubed - AI, ML, and analytics conference",
-    "url": "https://www.mcubed.london",
-    "startDate": "2020-10-12",
-    "endDate": "2020-10-14",
-    "city": "London",
-    "country": "U.K.",
-    "twitter": "@MCubedLondon",
-    "cfpUrl": "https://www.mcubed.london/call-for-papers",
-    "cfpEndDate": "2020-03-30"
-  },
-  {
     "name": "dataMinds Connect",
     "url": "https://datamindsconnect.be",
     "startDate": "2020-10-12",
@@ -420,6 +418,17 @@
     "cfpEndDate": "2020-05-31"
   },
   {
+    "name": "MCubed - AI, ML, and analytics conference",
+    "url": "https://www.mcubed.london",
+    "startDate": "2020-10-12",
+    "endDate": "2020-10-14",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@MCubedLondon",
+    "cfpUrl": "https://www.mcubed.london/call-for-papers",
+    "cfpEndDate": "2020-03-30"
+  },
+  {
     "name": "Data2Day",
     "url": "https://www.data2day.de",
     "startDate": "2020-10-19",
@@ -429,6 +438,15 @@
     "twitter": "@data2day"
   },
   {
+    "name": "Global Artificial Intelligence Conference",
+    "url": "http://www.globalbigdataconference.com/boston/global-artificial-intelligence-conference/event-123.html",
+    "startDate": "2020-10-20",
+    "endDate": "2020-10-22",
+    "city": "Boston, MA",
+    "country": "U.S.A.",
+    "twitter": "@bigdataconf"
+  },
+  {
     "name": "PostgreSQL Conference Europe",
     "url": "https://2020.pgconf.eu",
     "startDate": "2020-10-20",
@@ -436,6 +454,17 @@
     "city": "Berlin",
     "country": "Germany",
     "twitter": "@pgconfeu"
+  },
+  {
+    "name": "Quest for Quality Conference",
+    "url": "https://www.questforquality.eu",
+    "startDate": "2020-10-27",
+    "endDate": "2020-10-28",
+    "city": "Dublin",
+    "country": "Ireland",
+    "twitter": "@Quest_4_Quality",
+    "cfpUrl": "https://www.questforquality.eu/event-registration/call-for-papers",
+    "cfpEndDate": "2020-07-31"
   },
   {
     "name": "AI Dev World",
@@ -448,15 +477,13 @@
     "cfpUrl": "https://aidevworld.com/conference/apply-to-speak"
   },
   {
-    "name": "Quest for Quality Conference",
-    "url": "https://www.questforquality.eu",
+    "name": "European Azure Conference",
+    "url": "https://www.europeanazureconference.com",
     "startDate": "2020-10-27",
-    "endDate": "2020-10-28",
-    "city": "Dublin",
-    "country": "Ireland",
-    "twitter": "@Quest_4_Quality",
-    "cfpUrl": "https://www.questforquality.eu/event-registration/call-for-papers",
-    "cfpEndDate": "2020-07-31"
+    "endDate": "2020-10-29",
+    "city": "Nice",
+    "country": "France",
+    "twitter": "@europeanazure"
   },
   {
     "name": "The Responsible AI Forum",
@@ -476,32 +503,5 @@
     "country": "Germany",
     "cfpUrl": "https://www.kuppingercole.com/events/cybernetixworld2020/callforspeakers",
     "cfpEndDate": "2020-09-07"
-  },
-  {
-    "name": "Global Artificial Intelligence Conference",
-    "url": "http://www.globalbigdataconference.com/boston/global-artificial-intelligence-conference/event-123.html",
-    "startDate": "2020-10-20",
-    "endDate": "2020-10-22",
-    "city": "Boston, MA",
-    "country": "U.S.A.",
-    "twitter": "@bigdataconf"
-  },
-  {
-    "name": "MongoDB.live",
-    "url": "https://www.mongodb.com/world",
-    "startDate": "2020-06-09",
-    "endDate": "2020-06-10",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@MongoDB"
-  },
-  {
-    "name": "Global Artificial Intelligence Conf Seattle Sep 16 - 18,",
-    "url": "http://www.globalbigdataconference.com/seattle/global-artificial-intelligence-conference/event-122.html",
-    "startDate": "2020-09-16",
-    "endDate": "2020-09-18",
-    "city": "Seattle, WA",
-    "country": "U.S.A.",
-    "twitter": "@bigdataconf"
   }
 ]

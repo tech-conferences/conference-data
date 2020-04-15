@@ -149,13 +149,13 @@
     "country": "Online"
   },
   {
-    "name": "NDC Porto Online",
-    "url": "https://ndcporto.com",
-    "startDate": "2020-04-21",
-    "endDate": "2020-04-24",
+    "name": "All Day DevOps",
+    "url": "https://www.alldaydevops.com/spring-break",
+    "startDate": "2020-04-17",
+    "endDate": "2020-04-17",
     "city": "Online",
     "country": "Online",
-    "twitter": "@NDC_Conferences"
+    "twitter": "@alldaydevops"
   },
   {
     "name": "Devopsdays Atlanta, GA",
@@ -166,21 +166,21 @@
     "country": "U.S.A."
   },
   {
+    "name": "NDC Porto Online",
+    "url": "https://ndcporto.com",
+    "startDate": "2020-04-21",
+    "endDate": "2020-04-24",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@NDC_Conferences"
+  },
+  {
     "name": "Red Hat Summit",
     "url": "https://www.redhat.com/en/summit",
     "startDate": "2020-04-28",
     "endDate": "2020-04-29",
     "city": "Online",
     "country": "Online"
-  },
-  {
-    "name": "DevOpsCon London",
-    "url": "https://devopscon.io/london",
-    "startDate": "2020-08-31",
-    "endDate": "2020-09-03",
-    "city": "London",
-    "country": "U.K.",
-    "twitter": "@devops_con"
   },
   {
     "name": "ServerlessDays Amsterdam Online",
@@ -190,6 +190,15 @@
     "city": "Online",
     "country": "Online",
     "twitter": "@serverlessdams"
+  },
+  {
+    "name": "DevOps Kubernetes Camp Remote",
+    "url": "https://devops-training.de",
+    "startDate": "2020-05-11",
+    "endDate": "2020-05-14",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@Kubernetes_Camp"
   },
   {
     "name": "Accelerate Online",
@@ -244,6 +253,17 @@
     "twitter": "@devopsdayspoz"
   },
   {
+    "name": "Container Camp",
+    "url": "https://2020.container.camp/web",
+    "startDate": "2020-05-22",
+    "endDate": "2020-05-22",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@containercamp",
+    "cfpUrl": "https://containercamp.typeform.com/to/P7EG6i",
+    "cfpEndDate": "2020-04-20"
+  },
+  {
     "name": "ChefConf Seattle + ChefConf London Online",
     "url": "https://chefconf.io",
     "startDate": "2020-06-02",
@@ -280,6 +300,15 @@
     "twitter": "@HashiConf"
   },
   {
+    "name": "DevOpsCon Berlin",
+    "url": "https://devopscon.io/berlin",
+    "startDate": "2020-06-08",
+    "endDate": "2020-06-11",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@devops_con"
+  },
+  {
     "name": "NDC Oslo Online",
     "url": "https://ndcoslo.com/",
     "startDate": "2020-06-08",
@@ -289,13 +318,15 @@
     "twitter": "@NDC_Conferences"
   },
   {
-    "name": "DevOpsCon Berlin",
-    "url": "https://devopscon.io/berlin",
-    "startDate": "2020-06-08",
-    "endDate": "2020-06-11",
-    "city": "Berlin",
-    "country": "Germany",
-    "twitter": "@devops_con"
+    "name": "DeveloperWeek Global",
+    "url": "https://www.developerweek.com/global",
+    "startDate": "2020-06-16",
+    "endDate": "2020-06-17",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@developerweek",
+    "cfpUrl": "https://www.developerweek.com/global/conference/apply-to-speak",
+    "cfpEndDate": "2020-04-09"
   },
   {
     "name": "DevOps Essentials",
@@ -399,6 +430,15 @@
     "twitter": "@SwissTesting"
   },
   {
+    "name": "DevOpsCon London",
+    "url": "https://devopscon.io/london",
+    "startDate": "2020-08-31",
+    "endDate": "2020-09-03",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@devops_con"
+  },
+  {
     "name": "DevOpsCon Singapore",
     "url": "https://devopscon.io/singapore",
     "startDate": "2020-09-07",
@@ -464,14 +504,6 @@
     "twitter": "@DevOpsDaysPrg"
   },
   {
-    "name": "Speaking About - Web & Mobile development",
-    "url": "http://speaking.aidicb.pt",
-    "startDate": "2020-10-03",
-    "endDate": "2020-10-03",
-    "city": "Castelo Branco",
-    "country": "Portugal"
-  },
-  {
     "name": "Highload fwdays'20",
     "url": "https://fwdays.com/en/event/highload-fwdays-2020",
     "startDate": "2020-10-03",
@@ -483,6 +515,14 @@
     "cfpEndDate": "2020-06-01"
   },
   {
+    "name": "Speaking About - Web & Mobile development",
+    "url": "http://speaking.aidicb.pt",
+    "startDate": "2020-10-03",
+    "endDate": "2020-10-03",
+    "city": "Castelo Branco",
+    "country": "Portugal"
+  },
+  {
     "name": "HashiConf US",
     "url": "https://hashiconf.com/us",
     "startDate": "2020-10-13",
@@ -492,6 +532,17 @@
     "twitter": "@hashiconf",
     "cfpUrl": "https://sessionize.com/hashiconf-us-2020",
     "cfpEndDate": "2020-06-23"
+  },
+  {
+    "name": "containerday",
+    "url": "https://2020.containerday.it",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-23",
+    "city": "Verona",
+    "country": "Italy",
+    "twitter": "@containerdayit",
+    "cfpUrl": "https://forms.gle/tGyGBhATWNhVoVd76",
+    "cfpEndDate": "2020-08-31"
   },
   {
     "name": "DevOpsDays Berlin",
@@ -508,6 +559,17 @@
     "endDate": "2020-11-11",
     "city": "Las Vegas, NV",
     "country": "U.S.A."
+  },
+  {
+    "name": "All Day DevOps",
+    "url": "https://www.alldaydevops.com",
+    "startDate": "2020-11-12",
+    "endDate": "2020-11-13",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@alldaydevops",
+    "cfpUrl": "https://t.co/Gpz1A7nLxF?amp=1",
+    "cfpEndDate": "2020-05-15"
   },
   {
     "name": "DeveloperWeek Austin, TX",
@@ -534,67 +596,5 @@
     "endDate": "2020-12-15",
     "city": "Barcelona",
     "country": "Spain"
-  },
-  {
-    "name": "containerday",
-    "url": "https://2020.containerday.it",
-    "startDate": "2020-10-23",
-    "endDate": "2020-10-23",
-    "city": "Verona",
-    "country": "Italy",
-    "twitter": "@containerdayit",
-    "cfpUrl": "https://forms.gle/tGyGBhATWNhVoVd76",
-    "cfpEndDate": "2020-08-31"
-  },
-  {
-    "name": "DeveloperWeek Global",
-    "url": "https://www.developerweek.com/global",
-    "startDate": "2020-06-16",
-    "endDate": "2020-06-17",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@developerweek",
-    "cfpUrl": "https://www.developerweek.com/global/conference/apply-to-speak",
-    "cfpEndDate": "2020-04-09"
-  },
-  {
-    "name": "Container Camp",
-    "url": "https://2020.container.camp/web",
-    "startDate": "2020-05-22",
-    "endDate": "2020-05-22",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@containercamp",
-    "cfpUrl": "https://containercamp.typeform.com/to/P7EG6i",
-    "cfpEndDate": "2020-04-20"
-  },
-  {
-    "name": "All Day DevOps",
-    "url": "https://www.alldaydevops.com/spring-break",
-    "startDate": "2020-04-17",
-    "endDate": "2020-04-17",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@alldaydevops"
-  },
-  {
-    "name": "DevOps Kubernetes Camp Remote",
-    "url": "https://devops-training.de",
-    "startDate": "2020-05-11",
-    "endDate": "2020-05-14",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@Kubernetes_Camp"
-  },
-  {
-    "name": "All Day DevOps",
-    "url": "https://www.alldaydevops.com",
-    "startDate": "2020-11-12",
-    "endDate": "2020-11-13",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@alldaydevops",
-    "cfpUrl": "https://t.co/Gpz1A7nLxF?amp=1",
-    "cfpEndDate": "2020-05-15"
   }
 ]

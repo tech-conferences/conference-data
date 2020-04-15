@@ -25,39 +25,12 @@
     "country": "Moldova"
   },
   {
-    "name": "RubyConfBY",
-    "url": "https://rubyconference.by",
-    "startDate": "2020-07-18",
-    "endDate": "2020-07-18",
-    "city": "Minsk",
-    "country": "Belarus",
-    "twitter": "@rubyconfby"
-  },
-  {
-    "name": "Ruby Kaigi",
-    "url": "https://rubykaigi.org/2020",
-    "startDate": "2020-09-03",
-    "endDate": "2020-09-05",
-    "city": "Nagano",
-    "country": "Japan",
-    "twitter": "@RubyKaigi"
-  },
-  {
     "name": "RubyConfIndia",
     "url": "https://rubyconfindia.org",
     "startDate": "2020-04-25",
     "endDate": "2020-04-26",
     "city": "Cidade De Goa",
     "country": "India"
-  },
-  {
-    "name": "Ruby Unconf Hamburg",
-    "url": "https://2020.rubyunconf.eu/",
-    "startDate": "2020-06-06",
-    "endDate": "2020-06-07",
-    "city": "Hamburg",
-    "country": "Germany",
-    "twitter": "@RubyUnconfEU"
   },
   {
     "name": "Saint P Rubyconf",
@@ -69,6 +42,15 @@
     "twitter": "@saintprug"
   },
   {
+    "name": "Ruby Unconf Hamburg",
+    "url": "https://2020.rubyunconf.eu/",
+    "startDate": "2020-06-06",
+    "endDate": "2020-06-07",
+    "city": "Hamburg",
+    "country": "Germany",
+    "twitter": "@RubyUnconfEU"
+  },
+  {
     "name": "Brighton Ruby",
     "url": "https://brightonruby.com",
     "startDate": "2020-07-03",
@@ -78,6 +60,15 @@
     "twitter": "@brightonruby"
   },
   {
+    "name": "RubyConfBY",
+    "url": "https://rubyconference.by",
+    "startDate": "2020-07-18",
+    "endDate": "2020-07-18",
+    "city": "Minsk",
+    "country": "Belarus",
+    "twitter": "@rubyconfby"
+  },
+  {
     "name": "Euruko",
     "url": "https://euruko2020.org",
     "startDate": "2020-08-21",
@@ -85,6 +76,15 @@
     "city": "Helsinki",
     "country": "Finland",
     "twitter": "@euruko"
+  },
+  {
+    "name": "Ruby Kaigi",
+    "url": "https://rubykaigi.org/2020",
+    "startDate": "2020-09-03",
+    "endDate": "2020-09-05",
+    "city": "Nagano",
+    "country": "Japan",
+    "twitter": "@RubyKaigi"
   },
   {
     "name": "RubyC",
