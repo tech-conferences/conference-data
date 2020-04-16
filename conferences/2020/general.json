@@ -964,5 +964,16 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "twitter": "@devweeknyc"
+  },
+  {
+    "name": "IT-Tage",
+    "url": "https://www.ittage.informatik-aktuell.de",
+    "startDate": "2020-12-14",
+    "endDate": "2020-12-17",
+    "city": "Frankfurt",
+    "country": "Germany",
+    "twitter": "@InformatikAktue",
+    "cfpUrl": "https://www.ittage.informatik-aktuell.de/call-for-papers",
+    "cfpEndDate": "2020-05-10"
   }
 ]
