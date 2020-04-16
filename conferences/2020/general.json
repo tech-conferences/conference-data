@@ -284,8 +284,8 @@
   {
     "name": "ML Summit",
     "url": "https://ml-summit.de",
-    "startDate": "2020-04-22",
-    "endDate": "2020-04-24",
+    "startDate": "2020-10-26",
+    "endDate": "2020-10-28",
     "city": "Munich",
     "country": "Germany",
     "twitter": "@MLSummit_DE"
@@ -306,15 +306,6 @@
     "city": "Online",
     "country": "Online",
     "twitter": "@gotochgo"
-  },
-  {
-    "name": "Accessibility Club Meetup #9",
-    "url": "https://accessibility-club.org/event/accessibility-club-meetup-9-7",
-    "startDate": "2020-04-29",
-    "endDate": "2020-04-29",
-    "city": "Düsseldorf",
-    "country": "Germany",
-    "twitter": "@a11yclub"
   },
   {
     "name": "tabGeeks20",
@@ -378,26 +369,6 @@
     "twitter": "@DeveloperDaysPL"
   },
   {
-    "name": "WeAreDevelopers World Congress",
-    "url": "https://www.wearedevelopers.com/events/world-congress",
-    "startDate": "2020-05-28",
-    "endDate": "2020-05-29",
-    "city": "Berlin",
-    "country": "Germany",
-    "twitter": "@wearedevs"
-  },
-  {
-    "name": "Córdoba WebConf",
-    "url": "https://webconf.tech",
-    "startDate": "2020-05-29",
-    "endDate": "2020-05-30",
-    "city": "Córdoba",
-    "country": "Argentina",
-    "twitter": "@WebConfAr",
-    "cfpUrl": "https://webconf.tech",
-    "cfpEndDate": "2020-03-31"
-  },
-  {
     "name": "SREcon20 Americas-West",
     "url": "https://www.usenix.org/conference/srecon20americaswest",
     "startDate": "2020-06-02",
@@ -405,15 +376,6 @@
     "city": "Santa Clara, CA",
     "country": "U.S.A.",
     "twitter": "@SREcon"
-  },
-  {
-    "name": "The Developer's Conference",
-    "url": "https://thedevconf.com/tdc/2020",
-    "startDate": "2020-06-02",
-    "endDate": "2020-06-06",
-    "city": "Florianópolis",
-    "country": "Brazil",
-    "twitter": "@Thedevconf"
   },
   {
     "name": "SEACON software engineering + architecture conference",
@@ -482,15 +444,6 @@
     "cfpEndDate": "2020-04-13"
   },
   {
-    "name": "Webit.Festival Europe",
-    "url": "http://www.webit.org",
-    "startDate": "2020-06-17",
-    "endDate": "2020-06-20",
-    "city": "Valencia",
-    "country": "Spain",
-    "twitter": "@WebitCongress"
-  },
-  {
     "name": "Cloud Conf",
     "url": "https://2020.cloudconf.it",
     "startDate": "2020-06-18",
@@ -510,15 +463,6 @@
     "cfpUrl": "https://website-42889.eventmaker.io/registration/5d8f2e7fd838ff00233f38a6?no_cookie=true"
   },
   {
-    "name": "Joy of Coding",
-    "url": "https://joyofcoding.org",
-    "startDate": "2020-06-19",
-    "endDate": "2020-06-19",
-    "city": "Rotterdam",
-    "country": "Netherlands",
-    "twitter": "@joyofcoding"
-  },
-  {
     "name": "Collision Conf",
     "url": "https://collisionconf.com/",
     "startDate": "2020-06-22",
@@ -530,8 +474,8 @@
   {
     "name": "UXPA International Conference",
     "url": "https://uxpa2020.org",
-    "startDate": "2020-06-23",
-    "endDate": "2020-06-25",
+    "startDate": "2020-09-01",
+    "endDate": "2020-09-03",
     "city": "Baltimore, MD",
     "country": "U.S.A.",
     "twitter": "@uxpa_int"
@@ -570,9 +514,7 @@
     "endDate": "2020-07-24",
     "city": "Online",
     "country": "Online",
-    "twitter": "@CodeLandConf",
-    "cfpUrl": "https://codelandconf.com/#speakers",
-    "cfpEndDate": "2020-03-31"
+    "twitter": "@CodeLandConf"
   },
   {
     "name": "NDC Melbourne",
@@ -581,9 +523,7 @@
     "endDate": "2020-07-30",
     "city": "Online",
     "country": "Online",
-    "twitter": "@NDC_Conferences",
-    "cfpUrl": "https://ndcmelbourne.com/page/call-for-papers/",
-    "cfpEndDate": "2020-04-05"
+    "twitter": "@NDC_Conferences"
   },
   {
     "name": "DevDotNext",
@@ -655,9 +595,7 @@
     "endDate": "2020-08-28",
     "city": "Bol",
     "country": "Croatia",
-    "twitter": "@WebSummerCamp",
-    "cfpUrl": "https://sessionize.com/web-summer-camp-2020",
-    "cfpEndDate": "2020-03-31"
+    "twitter": "@WebSummerCamp"
   },
   {
     "name": "Webconf.asia",
