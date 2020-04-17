@@ -8,12 +8,10 @@ const conferenceReader = require('../conferenceReader');
 const twitterRegex = /@(\w){1,15}$/;
 const httpRegex = /^http(s?):\/\//;
 const usaStateRegex = /, ([A-Z][A-Z])|(D.C.)$/;
-const dateRegex = /^20\d\d-\d\d(-\d\d)?$/;
+const dateFormat = 'yyyy-MM-dd';
+const REQUIRED_KEYS = ['name', 'url', 'startDate', 'country', 'city'];
 
 const conferencesJSON = conferenceReader();
-
-const REQUIRED_KEYS = ['name', 'url', 'startDate', 'country', 'city'];
-const DATES_KEYS = ['startDate', 'endDate', 'cfpEndDate'];
 
 for (const year of Object.keys(conferencesJSON)) {
     for (const stack of Object.keys(conferencesJSON[year])) {
@@ -53,22 +51,14 @@ for (const year of Object.keys(conferencesJSON)) {
                     assert(conference.hasOwnProperty(requiredKey), `[${requiredKey}]is missing`);
                 });
 
-                // Dates are correctly formatted
-                DATES_KEYS.forEach(dateKey => {
-                    // cfpEndDate could be undefined or null
-                    if (conference[dateKey]) {
-                        assert(dateRegex.test(conference[dateKey]), `[${dateKey}]should be formatter like YYYY-MM-DD or YYYY-MM – got: "${conference[dateKey]}"`)
-                    }
-                });
-
-                const startDate = parse(conference.startDate, 'yyyy-MM-dd', new Date());
+                const startDate = parse(conference.startDate, dateFormat, new Date());
                 assert(startDate.getFullYear() == year, `Start date should be in the same year as file location: ${startDate.getFullYear()}`);
                 if (conference.endDate || year >= 2020) {
-                    const endDate = parse(conference.endDate, 'yyyy-MM-dd', new Date());
+                    const endDate = parse(conference.endDate, dateFormat, new Date());
                     assert(startDate.getTime() <= endDate.getTime(), `End date should be after start date: ${conference.startDate} <= ${conference.endDate}`)
                 }
                 if (conference.cfpEndDate) {
-                    const cfpEndDate = parse(conference.cfpEndDate, 'yyyy-MM-dd', new Date());
+                    const cfpEndDate = parse(conference.cfpEndDate, dateFormat, new Date());
                     assert(cfpEndDate.getTime() <= startDate.getTime(), `CFP End date should be before start date: ${conference.cfpEndDate} <= ${conference.startDate}`)
                 }
                 assert(validLocations[country], `[country] is a not in the list of valid countries – got: "${country}"`);
