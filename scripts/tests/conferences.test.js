@@ -34,7 +34,7 @@ for (const year of Object.keys(conferencesJSON)) {
 
             const { name, country, city, url, cfpUrl, twitter } = conference;
 
-            test(`conferences / ${year} / ${stack}.json - ${name} - ${stack} - ${year}`, function () {
+            test(`conferences/${year}/${stack}.json - ${name} - ${stack} - ${year}`, function () {
                 // Twitter is a valid URL
                 if (twitter && twitter.length > 0 && !twitterRegex.test(twitter)) {
                     assert(twitterRegex.test(twitter), `[twitter] should be formatted like @twitter – got: "${twitter}"`);
@@ -56,7 +56,7 @@ for (const year of Object.keys(conferencesJSON)) {
                 DATES_KEYS.forEach(dateKey => {
                     // cfpEndDate could be undefined or null
                     if (conference[dateKey]) {
-                        assert(dateRegex.test(conference[dateKey]), `[${dateKey}]should be formatter like YYYY - MM - DD or YYYY - MM – got: "${conference[dateKey]}"`)
+                        assert(dateRegex.test(conference[dateKey]), `[${dateKey}]should be formatter like YYYY-MM-DD or YYYY-MM – got: "${conference[dateKey]}"`)
                     }
                 });
 
