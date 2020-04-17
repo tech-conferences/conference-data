@@ -489,12 +489,14 @@
   },
   {
     "name": "CascadiaJS",
-    "url": "http://2020.cascadiajs.com",
+    "url": "https://2020.cascadiajs.com",
     "startDate": "2020-09-01",
     "endDate": "2020-09-02",
-    "city": "Sunriver, OR",
-    "country": "U.S.A.",
+    "city": "online",
+    "country": "online",
     "twitter": "@cascadiajs"
+    "cfpUrl": "https://2020.cascadiajs.com/cfp",
+    "cfpEndDate": "2020-05-15"
   },
   {
     "name": "International JavaScript Conference",
