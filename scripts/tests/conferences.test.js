@@ -63,7 +63,7 @@ for (const year of Object.keys(conferencesJSON)) {
 
                 const startDate = parse(conference.startDate, 'yyyy-MM-dd', new Date());
                 assert(startDate.getFullYear() == year, `Start date should be in the same year as file location: ${startDate.getFullYear()}`);
-                if (conference.endDate) {
+                if (conference.endDate || year >= 2020) {
                     const endDate = parse(conference.endDate, 'yyyy-MM-dd', new Date());
                     assert(startDate.getTime() <= endDate.getTime(), `End date should be after start date: ${conference.startDate} <= ${conference.endDate}`)
                 }
