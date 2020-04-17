@@ -18,15 +18,6 @@
     "twitter": "@dotpy_io"
   },
   {
-    "name": "Python Summit",
-    "url": "https://python-summit.de",
-    "startDate": "2020-10-26",
-    "endDate": "2020-10-28",
-    "city": "Munich",
-    "country": "Germany",
-    "twitter": "@python_summit"
-  },
-  {
     "name": "Python Pizza",
     "url": "https://remote.python.pizza",
     "startDate": "2020-04-25",
@@ -45,15 +36,6 @@
     "city": "Online",
     "country": "Online",
     "twitter": "@fwdays"
-  },
-  {
-    "name": "enterPy",
-    "url": "http://www.enterpy.de",
-    "startDate": "2020-11-23",
-    "endDate": "2020-11-24",
-    "city": "Mannheim",
-    "country": "Germany",
-    "twitter": "@enterpyconf"
   },
   {
     "name": "PyData Amsterdam",
@@ -112,6 +94,15 @@
     "twitter": "@PyConDE"
   },
   {
+    "name": "Python Summit",
+    "url": "https://python-summit.de",
+    "startDate": "2020-10-26",
+    "endDate": "2020-10-28",
+    "city": "Munich",
+    "country": "Germany",
+    "twitter": "@python_summit"
+  },
+  {
     "name": "PyCon Italy",
     "url": "https://www.pycon.it/en/",
     "startDate": "2020-11-05",
@@ -119,5 +110,14 @@
     "city": "Florence",
     "country": "Italy",
     "twitter": "@pyconit"
+  },
+  {
+    "name": "enterPy",
+    "url": "http://www.enterpy.de",
+    "startDate": "2020-11-23",
+    "endDate": "2020-11-24",
+    "city": "Mannheim",
+    "country": "Germany",
+    "twitter": "@enterpyconf"
   }
 ]

@@ -130,6 +130,24 @@
     "cfpUrl": "http://juliacon.org/2018/cfp"
   },
   {
+    "name": "Conference on Machine Learning, Optimization and Data science",
+    "url": "https://lod2018.icas.xyz/",
+    "startDate": "2018-09-13",
+    "endDate": "2018-09-16",
+    "city": "Volterra",
+    "country": "Italy",
+    "cfpUrl": "https://lod2018.icas.xyz/call-for-papers/",
+    "cfpEndDate": "2018-03-31"
+  },
+  {
+    "name": "Insurance Analytics Canada Summit",
+    "url": "http://events.insurancenexus.com/canada/?utm_source=confs.tech&utm_medium=event+listing&utm_campaign=4954",
+    "startDate": "2018-09-25",
+    "endDate": "2018-09-26",
+    "city": "Toronto",
+    "country": "Canada"
+  },
+  {
     "name": "data2day",
     "url": "https://www.data2day.de",
     "startDate": "2018-09-25",
@@ -146,6 +164,23 @@
     "city": "Saint Paul, MN",
     "country": "U.S.A.",
     "twitter": "@EventsEmerging"
+  },
+  {
+    "name": "Insurance AI and Analytics Europe",
+    "url": "http://events.insurancenexus.com/insuranceanalyticseu/?utm_source=confs.tech&utm_medium=event+listing&utm_campaign=4952",
+    "startDate": "2018-10-09",
+    "endDate": "2018-10-10",
+    "city": "London",
+    "country": "U.K."
+  },
+  {
+    "name": "Rakuten Technology Conference",
+    "url": "https://tech.rakuten.co.jp",
+    "startDate": "2018-10-27",
+    "endDate": "2018-10-27",
+    "city": "Tokyo",
+    "country": "Japan",
+    "twitter": "@rakuten_tech"
   },
   {
     "name": "Web Directions AI",
@@ -166,24 +201,6 @@
     "twitter": "@bigdata_ldn"
   },
   {
-    "name": "AI World Conference & Expo",
-    "url": "https://aiworld.com",
-    "startDate": "2018-12-03",
-    "endDate": "2018-12-05",
-    "city": "Boston, MA",
-    "country": "U.S.A.",
-    "cfpEndDate": "2018-05-31",
-    "cfpUrl": "https://aiworld.com/call-for-speakers"
-  },
-  {
-    "name": "Chief Data Officer Summit",
-    "url": "https://theinnovationenterprise.com/summits/chief-data-officer-summit-new-york-2018",
-    "startDate": "2018-12-06",
-    "endDate": "2018-12-07",
-    "city": "New York, NY",
-    "country": "U.S.A."
-  },
-  {
     "name": "DataSciCon",
     "url": "http://datascicon.tech",
     "startDate": "2018-11-28",
@@ -195,29 +212,14 @@
     "cfpEndDate": "2018-10-01"
   },
   {
-    "name": "Insurance Analytics Canada Summit",
-    "url": "http://events.insurancenexus.com/canada/?utm_source=confs.tech&utm_medium=event+listing&utm_campaign=4954",
-    "startDate": "2018-09-25",
-    "endDate": "2018-09-26",
-    "city": "Toronto",
-    "country": "Canada"
-  },
-  {
-    "name": "Insurance AI and Analytics Europe",
-    "url": "http://events.insurancenexus.com/insuranceanalyticseu/?utm_source=confs.tech&utm_medium=event+listing&utm_campaign=4952",
-    "startDate": "2018-10-09",
-    "endDate": "2018-10-10",
-    "city": "London",
-    "country": "U.K."
-  },
-  {
-    "name": "Rakuten Technology Conference",
-    "url": "https://tech.rakuten.co.jp",
-    "startDate": "2018-10-27",
-    "endDate": "2018-10-27",
-    "city": "Tokyo",
-    "country": "Japan",
-    "twitter": "@rakuten_tech"
+    "name": "AI World Conference & Expo",
+    "url": "https://aiworld.com",
+    "startDate": "2018-12-03",
+    "endDate": "2018-12-05",
+    "city": "Boston, MA",
+    "country": "U.S.A.",
+    "cfpEndDate": "2018-05-31",
+    "cfpUrl": "https://aiworld.com/call-for-speakers"
   },
   {
     "name": "WeAreDevelopers AI Congress",
@@ -229,13 +231,11 @@
     "twitter": "@WeAreDevs"
   },
   {
-    "name": "Conference on Machine Learning, Optimization and Data science",
-    "url": "https://lod2018.icas.xyz/",
-    "startDate": "2018-09-13",
-    "endDate": "2018-09-16",
-    "city": "Volterra",
-    "country": "Italy",
-    "cfpUrl": "https://lod2018.icas.xyz/call-for-papers/",
-    "cfpEndDate": "2018-03-31"
+    "name": "Chief Data Officer Summit",
+    "url": "https://theinnovationenterprise.com/summits/chief-data-officer-summit-new-york-2018",
+    "startDate": "2018-12-06",
+    "endDate": "2018-12-07",
+    "city": "New York, NY",
+    "country": "U.S.A."
   }
 ]

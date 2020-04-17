@@ -66,14 +66,6 @@
     "country": "Switzerland"
   },
   {
-    "name": "Convey UX",
-    "url": "http://conveyux.com",
-    "startDate": "2018-02-27",
-    "endDate": "2018-03-01",
-    "city": "Seattle, WA",
-    "country": "U.S.A."
-  },
-  {
     "name": "UX Copenhagen",
     "url": "https://uxcopenhagen.com",
     "startDate": "2018-02-27",
@@ -81,6 +73,14 @@
     "city": "Copenhagen",
     "country": "Denmark",
     "twitter": "@uxcopenhagen"
+  },
+  {
+    "name": "Convey UX",
+    "url": "http://conveyux.com",
+    "startDate": "2018-02-27",
+    "endDate": "2018-03-01",
+    "city": "Seattle, WA",
+    "country": "U.S.A."
   },
   {
     "name": ".concat()",
@@ -166,14 +166,6 @@
     "country": "U.S.A."
   },
   {
-    "name": "CHIuXiD",
-    "url": "http://2018.chiuxid.org",
-    "startDate": "2018-03-26",
-    "endDate": "2018-03-29",
-    "city": "Jakarta",
-    "country": "Indonesia"
-  },
-  {
     "name": "Experience Conference",
     "url": "http://www.exconf.com",
     "startDate": "2018-03-26",
@@ -181,6 +173,14 @@
     "city": "Bratislava",
     "country": "Slovakia",
     "twitter": "@exconfba"
+  },
+  {
+    "name": "CHIuXiD",
+    "url": "http://2018.chiuxid.org",
+    "startDate": "2018-03-26",
+    "endDate": "2018-03-29",
+    "city": "Jakarta",
+    "country": "Indonesia"
   },
   {
     "name": "An Event Apart",
@@ -250,15 +250,6 @@
     "twitter": "@HOWbrand"
   },
   {
-    "name": "UX+DEV Summit",
-    "url": "https://uxdsummit.com",
-    "startDate": "2018-05-07",
-    "endDate": "2018-05-11",
-    "city": "Fort Lauderdale, FL",
-    "country": "U.S.A.",
-    "twitter": "@uxdevsummit"
-  },
-  {
     "name": "Beyond Tellerrand",
     "url": "https://beyondtellerrand.com/events/duesseldorf-2018",
     "startDate": "2018-05-07",
@@ -266,6 +257,15 @@
     "city": "Düsseldorf",
     "country": "Germany",
     "twitter": "@btconf"
+  },
+  {
+    "name": "UX+DEV Summit",
+    "url": "https://uxdsummit.com",
+    "startDate": "2018-05-07",
+    "endDate": "2018-05-11",
+    "city": "Fort Lauderdale, FL",
+    "country": "U.S.A.",
+    "twitter": "@uxdevsummit"
   },
   {
     "name": "99U",
@@ -344,15 +344,6 @@
     "country": "U.K."
   },
   {
-    "name": "Semi Permanent",
-    "url": "https://www.semipermanent.com/events",
-    "startDate": "2018-05-24",
-    "endDate": "2018-05-26",
-    "city": "Sydney",
-    "country": "Australia",
-    "twitter": "@semiglobal"
-  },
-  {
     "name": "OFFFest",
     "url": "http://offf.barcelona",
     "startDate": "2018-05-24",
@@ -360,6 +351,15 @@
     "city": "Barcelona",
     "country": "Spain",
     "twitter": "@OFFFest"
+  },
+  {
+    "name": "Semi Permanent",
+    "url": "https://www.semipermanent.com/events",
+    "startDate": "2018-05-24",
+    "endDate": "2018-05-26",
+    "city": "Sydney",
+    "country": "Australia",
+    "twitter": "@semiglobal"
   },
   {
     "name": "DesignThinkersVan",
@@ -528,15 +528,6 @@
     "twitter": "@nordicdesign"
   },
   {
-    "name": "The UX Conference",
-    "url": "https://theuxconf.com",
-    "startDate": "2018-09-07",
-    "endDate": "2018-09-07",
-    "city": "London",
-    "country": "U.K.",
-    "twitter": "@theuxconf"
-  },
-  {
     "name": "Refresh",
     "url": "http://refresh.rocks",
     "startDate": "2018-09-07",
@@ -546,6 +537,15 @@
     "cfpUrl": "http://refresh.rocks/call-for-papers",
     "cfpEndDate": "2018-02-18",
     "twitter": "@REFRESHRocks"
+  },
+  {
+    "name": "The UX Conference",
+    "url": "https://theuxconf.com",
+    "startDate": "2018-09-07",
+    "endDate": "2018-09-07",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@theuxconf"
   },
   {
     "name": "UX Strat USA",
@@ -630,15 +630,6 @@
     "country": "Austria"
   },
   {
-    "name": "push",
-    "url": "http://push-conference.com/2018",
-    "startDate": "2018-10-18",
-    "endDate": "2018-10-19",
-    "city": "Munich",
-    "country": "Germany",
-    "twitter": "@push_conf"
-  },
-  {
     "name": "Mirror Conf",
     "url": "https://www.mirrorconf.com",
     "startDate": "2018-10-18",
@@ -648,6 +639,15 @@
     "twitter": "@MirrorConf",
     "cfpUrl": "https://www.papercall.io/mirrorconf2018",
     "cfpEndDate": "2018-07-16"
+  },
+  {
+    "name": "push",
+    "url": "http://push-conference.com/2018",
+    "startDate": "2018-10-18",
+    "endDate": "2018-10-19",
+    "city": "Munich",
+    "country": "Germany",
+    "twitter": "@push_conf"
   },
   {
     "name": "SmashingConf NY",
@@ -667,6 +667,15 @@
     "country": "U.S.A."
   },
   {
+    "name": "ViewSource",
+    "url": "https://events.mozilla.org/viewsource2018",
+    "startDate": "2018-10-26",
+    "endDate": "2018-10-26",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@viewsourceconf"
+  },
+  {
     "name": "DesignUp",
     "url": "https://designup.io",
     "startDate": "2018-10-26",
@@ -675,15 +684,6 @@
     "country": "India",
     "twitter": "@DesignUpConf",
     "cfpUrl": "https://docs.google.com/forms/d/10TETca7YKDzFYadoL6QsEKR5H_Wb2sfDMzuiT-g12do/edit"
-  },
-  {
-    "name": "ViewSource",
-    "url": "https://events.mozilla.org/viewsource2018",
-    "startDate": "2018-10-26",
-    "endDate": "2018-10-26",
-    "city": "London",
-    "country": "U.K.",
-    "twitter": "@viewsourceconf"
   },
   {
     "name": "Web Directions Summit",

@@ -156,14 +156,6 @@
     "twitter": "@alldaydevops"
   },
   {
-    "name": "Devopsdays Atlanta, GA",
-    "url": "https://devopsdays.org/events/2020-atlanta/welcome/",
-    "startDate": "2020-07-27",
-    "endDate": "2020-07-28",
-    "city": "Atlanta, GA",
-    "country": "U.S.A."
-  },
-  {
     "name": "NDC Porto Online",
     "url": "https://ndcporto.com",
     "startDate": "2020-04-21",
@@ -332,6 +324,14 @@
     "city": "Online",
     "country": "Online",
     "twitter": "@HashiConf"
+  },
+  {
+    "name": "Devopsdays Atlanta, GA",
+    "url": "https://devopsdays.org/events/2020-atlanta/welcome/",
+    "startDate": "2020-07-27",
+    "endDate": "2020-07-28",
+    "city": "Atlanta, GA",
+    "country": "U.S.A."
   },
   {
     "name": "Cloud Native Summit",

@@ -272,15 +272,6 @@
     "cfpEndDate": "2020-03-31"
   },
   {
-    "name": "5 LAKES Front",
-    "url": "http://5LakesFront.com",
-    "startDate": "2020-11-13",
-    "endDate": "2020-11-13",
-    "city": "Milwaukee, WI",
-    "country": "U.S.A.",
-    "twitter": "@5LakesFront"
-  },
-  {
     "name": "ForwardJS in the Interweb",
     "url": "https://forwardjs.com/ottawa",
     "startDate": "2020-05-26",
@@ -306,15 +297,6 @@
     "city": "Lviv",
     "country": "Ukraine",
     "twitter": "@LvivJS"
-  },
-  {
-    "name": "SmashingConf",
-    "url": "https://smashingconf.com/austin-2020",
-    "startDate": "2020-10-13",
-    "endDate": "2020-10-14",
-    "city": "Austin, TX",
-    "country": "U.S.A.",
-    "twitter": "@SmashingConf"
   },
   {
     "name": "angularday",
@@ -673,6 +655,15 @@
     "cfpEndDate": "2020-06-30"
   },
   {
+    "name": "SmashingConf",
+    "url": "https://smashingconf.com/austin-2020",
+    "startDate": "2020-10-13",
+    "endDate": "2020-10-14",
+    "city": "Austin, TX",
+    "country": "U.S.A.",
+    "twitter": "@SmashingConf"
+  },
+  {
     "name": "nodejsday",
     "url": "https://2020.nodejsday.it",
     "startDate": "2020-10-14",
@@ -749,6 +740,15 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "twitter": "@SmashingConf"
+  },
+  {
+    "name": "5 LAKES Front",
+    "url": "http://5LakesFront.com",
+    "startDate": "2020-11-13",
+    "endDate": "2020-11-13",
+    "city": "Milwaukee, WI",
+    "country": "U.S.A.",
+    "twitter": "@5LakesFront"
   },
   {
     "name": "JSDay",

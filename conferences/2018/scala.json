@@ -36,6 +36,14 @@
     "twitter": "@scalapeno_conf"
   },
   {
+    "name": "Scala Italy",
+    "url": "http://2018.scala-italy.it",
+    "startDate": "2018-09-14",
+    "endDate": "2018-09-15",
+    "city": "Florence",
+    "country": "Italy"
+  },
+  {
     "name": "Lambda World Seattle",
     "url": "http://seattle.lambda.world",
     "startDate": "2018-09-17",
@@ -58,12 +66,13 @@
     "cfpEndDate": "2018-07-11"
   },
   {
-    "name": "Scala Italy",
-    "url": "http://2018.scala-italy.it",
-    "startDate": "2018-09-14",
-    "endDate": "2018-09-15",
-    "city": "Florence",
-    "country": "Italy"
+    "name": "Code Mesh LDN",
+    "url": "https://codesync.global/conferences/code-mesh-2018",
+    "startDate": "2018-11-08",
+    "endDate": "2018-11-09",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@CodeMeshIO"
   },
   {
     "name": "Scala eXchange",
@@ -73,14 +82,5 @@
     "city": "London",
     "country": "U.K.",
     "twitter": "@skillsmatter"
-  },
-  {
-    "name": "Code Mesh LDN",
-    "url": "https://codesync.global/conferences/code-mesh-2018",
-    "startDate": "2018-11-08",
-    "endDate": "2018-11-09",
-    "city": "London",
-    "country": "U.K.",
-    "twitter": "@CodeMeshIO"
   }
 ]

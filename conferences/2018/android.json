@@ -354,17 +354,6 @@
     "twitter": "@droidcon"
   },
   {
-    "name": "GDG DevFest",
-    "url": "https://devfestcerrado.com.br",
-    "startDate": "2018-10-20",
-    "endDate": "2018-10-20",
-    "city": "Goiânia",
-    "country": "Brazil",
-    "twitter": "@gdggoiania",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfdRduSyKYUBHk5r8HWq4Dpj6xNk5kfwEzoeQfkGpnUDXFNGw/viewform",
-    "cfpEndDate": "2018-09-01"
-  },
-  {
     "name": "AndroidFest",
     "url": "https://gdg-campinas.github.io/androidfest",
     "startDate": "2018-10-20",
@@ -374,6 +363,17 @@
     "twitter": "@gdgcampinas",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf-1W7P1deiUIGAZNzM-DOyQfMUQ0Hgr-8NKF1m6odN7CqSlQ/viewform",
     "cfpEndDate": "2018-09-02"
+  },
+  {
+    "name": "GDG DevFest",
+    "url": "https://devfestcerrado.com.br",
+    "startDate": "2018-10-20",
+    "endDate": "2018-10-20",
+    "city": "Goiânia",
+    "country": "Brazil",
+    "twitter": "@gdggoiania",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfdRduSyKYUBHk5r8HWq4Dpj6xNk5kfwEzoeQfkGpnUDXFNGw/viewform",
+    "cfpEndDate": "2018-09-01"
   },
   {
     "name": "GDG DevFest",
@@ -453,6 +453,14 @@
     "twitter": "@AndroidDev"
   },
   {
+    "name": "GDG DevFest",
+    "url": "https://devfest-seoul18.gdg.kr",
+    "startDate": "2018-11-10",
+    "endDate": "2018-11-10",
+    "city": "Seoul",
+    "country": "South Korea"
+  },
+  {
     "name": "GDG DACH DevFest",
     "url": "https://www.dachfest.com",
     "startDate": "2018-11-10",
@@ -460,14 +468,6 @@
     "city": "Munich",
     "country": "Germany",
     "twitter": "@dachfest"
-  },
-  {
-    "name": "GDG DevFest",
-    "url": "https://devfest-seoul18.gdg.kr",
-    "startDate": "2018-11-10",
-    "endDate": "2018-11-10",
-    "city": "Seoul",
-    "country": "South Korea"
   },
   {
     "name": "Devoxx",
@@ -515,15 +515,6 @@
     "country": "Romania"
   },
   {
-    "name": "Ørede",
-    "url": "http://oredev.org",
-    "startDate": "2018-11-19",
-    "endDate": "2018-11-22",
-    "city": "Malmö",
-    "country": "Sweden",
-    "twitter": "@oredev"
-  },
-  {
     "name": "Droidcon",
     "url": "https://sf.droidcon.com",
     "startDate": "2018-11-19",
@@ -535,6 +526,15 @@
     "cfpEndDate": "2018-09-02"
   },
   {
+    "name": "Ørede",
+    "url": "http://oredev.org",
+    "startDate": "2018-11-19",
+    "endDate": "2018-11-22",
+    "city": "Malmö",
+    "country": "Sweden",
+    "twitter": "@oredev"
+  },
+  {
     "name": "Devoxx",
     "url": "https://devoxx.org.ua/",
     "city": "Kiev",
@@ -543,17 +543,6 @@
     "endDate": "2018-11-24",
     "cfpEndDate": "2018-09-03",
     "cfpUrl": "https://dvua18.confinabox.com"
-  },
-  {
-    "name": "GDG DevFest",
-    "url": "https://devfest.at",
-    "startDate": "2018-11-24",
-    "endDate": "2018-11-25",
-    "city": "Vienna",
-    "country": "Austria",
-    "twitter": "@DevFestVienna",
-    "cfpUrl": "https://devfest.at/call",
-    "cfpEndDate": "2018-10-26"
   },
   {
     "name": "GDG DevFest",
@@ -570,6 +559,17 @@
     "endDate": "2018-11-24",
     "city": "Busan",
     "country": "South Korea"
+  },
+  {
+    "name": "GDG DevFest",
+    "url": "https://devfest.at",
+    "startDate": "2018-11-24",
+    "endDate": "2018-11-25",
+    "city": "Vienna",
+    "country": "Austria",
+    "twitter": "@DevFestVienna",
+    "cfpUrl": "https://devfest.at/call",
+    "cfpEndDate": "2018-10-26"
   },
   {
     "name": "GDG DevFest",
