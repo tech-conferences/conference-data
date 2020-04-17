@@ -1,5 +1,6 @@
 const test = require('baretest')('Conferences Test');
 const assert = require('assert');
+const parse = require('date-fns/parse');
 const getDuplicates = require('./utils');
 const validLocations = require('./validLocations');
 const conferenceReader = require('../conferenceReader');
@@ -60,6 +61,14 @@ for (const year of Object.keys(conferencesJSON)) {
                     }
                 });
 
+                const startDate = parse(conference.startDate, 'yyyy-MM-dd', new Date());
+                if (conference.endDate) {
+                    const endDate = parse(conference.endDate, 'yyyy-MM-dd', new Date());
+                    assert(startDate.getTime() <= endDate.getTime(), `End date should be after start date: ${conference.startDate} <= ${conference.endDate}`)
+                }
+                if (startDate) {
+                    assert(startDate.getFullYear() == year, `Start date should be in the same year as file location: ${startDate.getFullYear()}`);
+                }
                 assert(validLocations[country], `[country] is a not in the list of valid countries – got: "${country}"`);
                 assert(validLocations[country].indexOf(city) !== -1, `[city] is a not in the list of valid cities – got: "${city}" in "${country}""`);
                 if (country === "U.S.A.") {
