@@ -62,12 +62,14 @@ for (const year of Object.keys(conferencesJSON)) {
                 });
 
                 const startDate = parse(conference.startDate, 'yyyy-MM-dd', new Date());
+                assert(startDate.getFullYear() == year, `Start date should be in the same year as file location: ${startDate.getFullYear()}`);
                 if (conference.endDate) {
                     const endDate = parse(conference.endDate, 'yyyy-MM-dd', new Date());
                     assert(startDate.getTime() <= endDate.getTime(), `End date should be after start date: ${conference.startDate} <= ${conference.endDate}`)
                 }
-                if (startDate) {
-                    assert(startDate.getFullYear() == year, `Start date should be in the same year as file location: ${startDate.getFullYear()}`);
+                if (conference.cfpEndDate) {
+                    const cfpEndDate = parse(conference.cfpEndDate, 'yyyy-MM-dd', new Date());
+                    assert(cfpEndDate.getTime() <= startDate.getTime(), `CFP End date should be before start date: ${conference.cfpEndDate} <= ${conference.startDate}`)
                 }
                 assert(validLocations[country], `[country] is a not in the list of valid countries – got: "${country}"`);
                 assert(validLocations[country].indexOf(city) !== -1, `[city] is a not in the list of valid cities – got: "${city}" in "${country}""`);
