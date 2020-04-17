@@ -4,7 +4,7 @@
     "url": "https://www.pytennessee.org/",
     "startDate": "2018-02-10",
     "endDate": "2018-02-11",
-    "city": "Nashville, US",
+    "city": "Nashville, TN",
     "country": "U.S.A."
   },
   {
@@ -129,15 +129,6 @@
     "twitter": "@EuroSciPy"
   },
   {
-    "name": "PyCon India",
-    "url": "https://in.pycon.org/2018/",
-    "startDate": "2018-10-05",
-    "endDate": "2018-10-09",
-    "city": "Hyderabad",
-    "country": "India",
-    "twitter": "@pyconindia"
-  },
-  {
     "name": "PyGotham",
     "url": "https://2018.pygotham.org",
     "startDate": "2018-10-05",
@@ -145,6 +136,15 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "twitter": "@pygotham"
+  },
+  {
+    "name": "PyCon India",
+    "url": "https://in.pycon.org/2018/",
+    "startDate": "2018-10-05",
+    "endDate": "2018-10-09",
+    "city": "Hyderabad",
+    "country": "India",
+    "twitter": "@pyconindia"
   },
   {
     "name": "DjangoCon US",

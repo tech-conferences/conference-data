@@ -120,7 +120,7 @@
     "url": "https://fwdays.com/en/event/php-fwdays-2018",
     "startDate": "2018-06-10",
     "endDate": "2018-06-10",
-    "city": "Kyiv",
+    "city": "Kiev",
     "country": "Ukraine",
     "twitter": "@fwdays"
   },
@@ -209,6 +209,15 @@
     "twitter": "@wavephp"
   },
   {
+    "name": "PHP Developer Days",
+    "url": "https://2018.phpdd.org/index.html",
+    "startDate": "2018-09-21",
+    "endDate": "2018-09-22",
+    "city": "Dresden",
+    "country": "Germany",
+    "twitter": "@phpdd"
+  },
+  {
     "name": "Dot All Conf",
     "url": "http://dotall.com/2018",
     "startDate": "2018-09-26",
@@ -226,6 +235,26 @@
     "twitter": "@phpconfasia"
   },
   {
+    "name": "SymfonyLive",
+    "url": "https://london2018.live.symfony.com",
+    "startDate": "2018-09-27",
+    "endDate": "2018-09-28",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@Symfony_Live"
+  },
+  {
+    "name": "SymfonyLive",
+    "url": "https://usa2018.live.symfony.com",
+    "startDate": "2018-10-09",
+    "endDate": "2018-10-12",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "twitter": "@Symfony_Live",
+    "cfpUrl": "https://usa2018.live.symfony.com/cfp",
+    "cfpEndDate": "2018-07-27"
+  },
+  {
     "name": "ZendCon & OpenEnterprise",
     "url": "http://www.zendcon.com",
     "startDate": "2018-10-15",
@@ -237,6 +266,15 @@
     "cfpEndDate": "2018-05-25"
   },
   {
+    "name": "International PHP Conference",
+    "url": "https://phpconference.com",
+    "startDate": "2018-10-15",
+    "endDate": "2018-10-19",
+    "city": "Munich",
+    "country": "Germany",
+    "twitter": "@phpconference"
+  },
+  {
     "name": "SymfonyDay",
     "url": "https://2018.symfonyday.it",
     "startDate": "2018-10-18",
@@ -246,6 +284,17 @@
     "twitter": "@symfonydayit",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeiBTMPyCiaiz1T6OcGgyy55pQubLtT6AjhsLxqa03tI8xgtQ/viewform",
     "cfpEndDate": "2018-06-10"
+  },
+  {
+    "name": "php Central Europe",
+    "url": "https://2018.phpce.eu",
+    "startDate": "2018-10-26",
+    "endDate": "2018-10-28",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "twitter": "@phpce_eu",
+    "cfpUrl": "https://cfp.phpce.eu",
+    "cfpEndDate": "2018-07-24"
   },
   {
     "name": "php[world]",
@@ -268,17 +317,6 @@
     "twitter": "@laraveldayit"
   },
   {
-    "name": "SymfonyLive",
-    "url": "https://usa2018.live.symfony.com",
-    "startDate": "2018-10-09",
-    "endDate": "2018-10-12",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "twitter": "@Symfony_Live",
-    "cfpUrl": "https://usa2018.live.symfony.com/cfp",
-    "cfpEndDate": "2018-07-27"
-  },
-  {
     "name": "SymfonyCon",
     "url": "https://lisbon2018.symfony.com",
     "startDate": "2018-12-06",
@@ -286,52 +324,5 @@
     "city": "Lisboa",
     "country": "Portugal",
     "twitter": "@symfonycon"
-  },
-  {
-    "name": "SymfonyLive",
-    "url": "https://london2018.live.symfony.com",
-    "startDate": "2018-09-27",
-    "endDate": "2018-09-28",
-    "city": "London",
-    "country": "U.K.",
-    "twitter": "@Symfony_Live"
-  },
-  {
-    "name": "PHP Developer Days",
-    "url": "https://2018.phpdd.org/index.html",
-    "startDate": "2018-09-21",
-    "endDate": "2018-09-22",
-    "city": "Dresden",
-    "country": "Germany",
-    "twitter": "@phpdd"
-  },
-  {
-    "name": "International PHP Conference",
-    "url": "https://phpconference.com",
-    "startDate": "2018-10-15",
-    "endDate": "2018-10-19",
-    "city": "Munich",
-    "country": "Germany",
-    "twitter": "@phpconference"
-  },
-  {
-    "name": "php Central Europe",
-    "url": "https://2018.phpce.eu",
-    "startDate": "2018-10-26",
-    "endDate": "2018-10-28",
-    "city": "Prague",
-    "country": "Czech Republic",
-    "twitter": "@phpce_eu",
-    "cfpUrl": "https://cfp.phpce.eu",
-    "cfpEndDate": "2018-07-24"
-  },
-  {
-    "name": "PHP World ",
-    "url": "https://world.phparch.com",
-    "startDate": "2018-11-14",
-    "endDate": "2018-11-15",
-    "city": "Washington, D.C.",
-    "country": "U.S.A.",
-    "twitter": "@phparch"
   }
 ]

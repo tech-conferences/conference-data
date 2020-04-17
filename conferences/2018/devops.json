@@ -20,7 +20,7 @@
     "url": "https://www.devopsdays.org/events/2018-des-moines",
     "startDate": "2018-04-12",
     "endDate": "2018-04-13",
-    "city": "Des Moines",
+    "city": "Des Moines, IA",
     "country": "U.S.A."
   },
   {
@@ -132,7 +132,7 @@
     "url": "https://www.devopsdays.org/events/2018-silicon-valley",
     "startDate": "2018-05-17",
     "endDate": "2018-05-18",
-    "city": "Mountain View",
+    "city": "Mountain View, CA",
     "country": "U.S.A."
   },
   {
@@ -227,8 +227,17 @@
     "url": "https://www.devopsdays.org/events/2018-indianapolis",
     "startDate": "2018-07-23",
     "endDate": "2018-07-24",
-    "city": "Indianapolis",
+    "city": "Indianapolis, IN",
     "country": "U.S.A."
+  },
+  {
+    "name": "ServerlessConf",
+    "url": "https://sf.serverlessconf.io",
+    "startDate": "2018-07-29",
+    "endDate": "2018-08-01",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "twitter": "@Serverlessconf"
   },
   {
     "name": "DevOpsDay - Shanghai",
@@ -311,7 +320,7 @@
     "url": "https://www.devopsdays.org/events/2018-columbus",
     "startDate": "2018-09-19",
     "endDate": "2018-09-20",
-    "city": "Columbus",
+    "city": "Columbus, OH",
     "country": "U.S.A."
   },
   {
@@ -351,7 +360,7 @@
     "url": "https://functions.events/2018/toronto",
     "startDate": "2018-09-28",
     "endDate": "2018-09-28",
-    "city": "Toronto, ON",
+    "city": "Toronto",
     "country": "Canada",
     "twitter": "@FunctionsConf",
     "cfpUrl": "https://www.papercall.io/serverless-to-2018",
@@ -363,6 +372,14 @@
     "startDate": "2018-10-03",
     "endDate": "2018-10-04",
     "city": "Detroit, MI",
+    "country": "U.S.A."
+  },
+  {
+    "name": "Innersource Commons Fall Summit",
+    "url": "http://paypal.github.io/InnerSourceCommons/events/isc-fall-2018",
+    "startDate": "2018-10-03",
+    "endDate": "2018-10-05",
+    "city": "Islandia, NY",
     "country": "U.S.A."
   },
   {
@@ -386,8 +403,27 @@
     "url": "https://www.devopsdays.org/events/2018-kansas-city",
     "startDate": "2018-10-17",
     "endDate": "2018-10-18",
-    "city": "Kansas City",
+    "city": "Kansas City, MO",
     "country": "U.S.A."
+  },
+  {
+    "name": "Serverless Days Milano",
+    "url": "https://milan.serverlessdays.io",
+    "startDate": "2018-10-19",
+    "endDate": "2018-10-20",
+    "city": "Milano",
+    "country": "Italy",
+    "cfpEndDate": "2018-08-01"
+  },
+  {
+    "name": "DevOps Heroes",
+    "url": "http://www.devops-heroes.net",
+    "startDate": "2018-10-20",
+    "endDate": "2018-10-20",
+    "city": "Parma",
+    "country": "Italy",
+    "cfpUrl": "https://sessionize.com/devopsheroes-2018/",
+    "cfpEndDate": "2018-09-10"
   },
   {
     "name": "HashiConf",
@@ -410,7 +446,7 @@
     "url": "https://www.devopsdays.org/events/2018-philadelphia",
     "startDate": "2018-10-23",
     "endDate": "2018-10-24",
-    "city": "Philadelphia",
+    "city": "Philadelphia, PA",
     "country": "U.S.A."
   },
   {
@@ -442,21 +478,51 @@
     "country": "Scotland"
   },
   {
-    "name": "CLC",
-    "url": "https://www.continuouslifecycle.de",
-    "startDate": "2018-11-13",
-    "endDate": "2018-11-16",
-    "city": "Mannheim",
-    "country": "Germany",
-    "twitter": "@ConLifecycle "
-  },
-  {
     "name": "DevOpsDay - Shenzhen",
     "url": "https://www.devopsdays.org/events/2018-shenzhen",
     "startDate": "2018-11-02",
     "endDate": "2018-11-03",
     "city": "Shenzhen",
     "country": "China"
+  },
+  {
+    "name": "Open Source Camp",
+    "url": "https://opensourcecamp.de",
+    "startDate": "2018-11-08",
+    "endDate": "2018-11-08",
+    "city": "Nuremberg",
+    "country": "Germany",
+    "cfpUrl": "https://opensourcecamp.de/submit-a-talk/",
+    "cfpEndDate": "2018-09-15"
+  },
+  {
+    "name": "CLC",
+    "url": "https://www.continuouslifecycle.de",
+    "startDate": "2018-11-13",
+    "endDate": "2018-11-16",
+    "city": "Mannheim",
+    "country": "Germany",
+    "twitter": "@ConLifecycle"
+  },
+  {
+    "name": "DevOpsDays Galway",
+    "url": "https://www.devopsdays.org/events/2018-galway",
+    "startDate": "2018-11-19",
+    "endDate": "2018-11-20",
+    "city": "Galway",
+    "country": "Ireland",
+    "twitter": "@devopsdaysgal",
+    "cfpUrl": "https://www.devopsdays.org/events/2018-galway/propose/",
+    "cfpEndDate": "2018-09-02"
+  },
+  {
+    "name": "KubeCon | CloudNativeCon",
+    "url": "https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2018",
+    "startDate": "2018-12-10",
+    "endDate": "2018-12-13",
+    "city": "Seattle, WA",
+    "country": "U.S.A.",
+    "twitter": "@KubeCon_"
   },
   {
     "name": "Devops",
@@ -477,71 +543,5 @@
     "twitter": "@DevOpsDaysTLV",
     "cfpUrl": "https://www.papercall.io/devopsdaystlv2018/",
     "cfpEndDate": "2018-09-30"
-  },
-  {
-    "name": "ServerlessConf",
-    "url": "https://sf.serverlessconf.io",
-    "startDate": "2018-07-29",
-    "endDate": "2018-08-01",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "twitter": "@Serverlessconf"
-  },
-  {
-    "name": "DevOpsDays Galway",
-    "url": "https://www.devopsdays.org/events/2018-galway",
-    "startDate": "2018-11-19",
-    "endDate": "2018-11-20",
-    "city": "Galway",
-    "country": "Ireland",
-    "twitter": "@devopsdaysgal",
-    "cfpUrl": "https://www.devopsdays.org/events/2018-galway/propose/",
-    "cfpEndDate": "2018-09-02"
-  },
-  {
-    "name": "Open Source Camp",
-    "url": "https://opensourcecamp.de",
-    "startDate": "2018-11-08",
-    "endDate": "2018-11-08",
-    "city": "Nuremberg",
-    "country": "Germany",
-    "cfpUrl": "https://opensourcecamp.de/submit-a-talk/",
-    "cfpEndDate": "2018-09-15"
-  },
-  {
-    "name": "DevOps Heroes",
-    "url": "http://www.devops-heroes.net",
-    "startDate": "2018-10-20",
-    "endDate": "2018-10-20",
-    "city": "Parma",
-    "country": "Italy",
-    "cfpUrl": "https://sessionize.com/devopsheroes-2018/",
-    "cfpEndDate": "2018-09-10"
-  },
-  {
-    "name": "Innersource Commons Fall Summit",
-    "url": "http://paypal.github.io/InnerSourceCommons/events/isc-fall-2018",
-    "startDate": "2018-10-03",
-    "endDate": "2018-10-05",
-    "city": "Islandia, NY",
-    "country": "U.S.A."
-  },
-  {
-    "name": "KubeCon | CloudNativeCon",
-    "url": "https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2018",
-    "startDate": "2018-12-10",
-    "endDate": "2018-12-13",
-    "city": "Seattle, WA",
-    "country": "U.S.A.",
-    "twitter": "@KubeCon_"
-  },
-  {
-    "name": "Serverless Days Milano",
-    "url": "https://milan.serverlessdays.io",
-    "startDate": "2018-10-19",
-    "endDate": "2018-10-20",
-    "city": "Milano",
-    "country": "Italy",
-    "cfpEndDate": "2018-08-01"
   }
 ]

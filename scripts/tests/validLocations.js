@@ -1,47 +1,60 @@
 module.exports = {
   "Argentina": [
-    "Buenos Aires",
-    "Córdoba"
+    "Buenos Aires"
   ],
   "Armenia": [
     "Yerevan"
   ],
   "Australia": [
     "Brisbane",
+    "Gold Coast",
     "Melbourne",
     "Perth",
     "Sidney",
     "Sydney"
   ],
   "Austria": [
-    "Dornbirn & Lech",
+    "Dornbirn",
     "Graz",
     "Linz",
+    "Salzburg",
     "Vienna"
+  ],
+  "Bangladesh": [
+    "Dhaka"
   ],
   "Belarus": [
     "Minsk"
   ],
   "Belgium": [
     "Antwerp",
+    "Bruges",
     "Brussels",
     "Edegem",
     "Ghent",
     "Leuven",
     "Louvain-La-Neuve",
-    "Mechelen"
+    "Mechelen",
+    "Namur"
   ],
   "Bolivia": [
     "Cochabamba"
   ],
+  "Bosnia and Herzegovina": [
+    "Sarajevo"
+  ],
   "Brazil": [
     "Aracaju",
     "Belo Horizonte",
+    "Campinas",
+    "Curitiba",
     "Feira De Santana",
     "Florianópolis",
     "Fortaleza",
     "Goiânia",
+    "Maringá",
     "Porto Alegre",
+    "Porto de Galinhas",
     "Ribeirão Preto",
     "Salvador",
     "Santa Maria",
@@ -54,24 +67,34 @@ module.exports = {
   ],
   "Canada": [
     "Calgary",
+    "Gatineau",
+    "Hamilton",
     "Kingston",
     "Mississauga",
+    "Montebello",
     "Montreal",
     "Ottawa",
     "Quebec",
+    "St. John’s",
     "Toronto",
     "Vancouver",
-    "Waterloo"
+    "Victoria",
+    "Waterloo",
+    "Winnipeg"
   ],
   "Chile": [
-    "San Antonio, TX"
+    "San Antonio",
+    "Santiago"
   ],
   "China": [
     "Beijing",
     "China",
+    "Guangzhou",
     "Hangzhou",
+    "Nanjing",
     "Shanghai",
-    "Shenzhen"
+    "Shenzhen",
+    "Zhengzhou"
   ],
   "Colombia": [
     "Bogota",
@@ -80,7 +103,9 @@ module.exports = {
   ],
   "Croatia": [
     "Bol",
+    "Dubrovnik",
     "Labin",
+    "Osijek",
     "Rovinj",
     "Split",
     "Zagreb"
@@ -102,7 +127,8 @@ module.exports = {
   ],
   "Dominican Republic": [
     "Punta Cana",
-    "Santiago de los Caballeros"
+    "Santiago de los Caballeros",
+    "Santo Domingo"
   ],
   "Egypt": [
     "Cairo"
@@ -114,9 +140,11 @@ module.exports = {
     "Addis Ababa"
   ],
   "Finland": [
-    "Helsinki"
+    "Helsinki",
+    "Oulu"
   ],
   "France": [
+    "Anduze",
     "Bordeaux",
     "Bouville",
     "Brest",
@@ -125,6 +153,7 @@ module.exports = {
     "Lyon",
     "Marseille",
     "Montpellier",
+    "Nantes",
     "Nice",
     "Orléans",
     "Paris",
@@ -142,6 +171,7 @@ module.exports = {
     "Darmstadt",
     "Dresden",
     "Düsseldorf",
+    "Erlangen",
     "Essen",
     "Frankfurt",
     "Freiburg",
@@ -150,6 +180,7 @@ module.exports = {
     "Hannover",
     "Heidelberg",
     "Karlsruhe",
+    "Kiel",
     "Leipzig",
     "Ludwigsburg",
     "Mainz",
@@ -158,8 +189,10 @@ module.exports = {
     "Nuremberg",
     "Ostfildern",
     "Potsdam",
+    "Rostock",
     "Sankt Augustin",
     "St. Leon-Rot",
+    "Stuttgart",
     "Tegernsee",
     "Wuerzburg"
   ],
@@ -168,8 +201,11 @@ module.exports = {
   ],
   "Greece": [
     "Athens",
-    "Heraklion, Crete",
+    "Heraklion",
     "Thessaloniki"
+  ],
+  "Guatemala": [
+    "Guatemala City"
   ],
   "Hong Kong": [
     "Hong Kong"
@@ -177,16 +213,22 @@ module.exports = {
   "Hungary": [
     "Budapest"
   ],
+  "Iceland": [
+    "Reykjavík"
+  ],
   "India": [
+    "Ahmedabad",
     "Bangalore",
     "Belagavi",
     "Bengaluru",
     "Chandigarh",
-    "Cidade De Goa",
     "Coimbatore",
+    "Delhi",
     "Goa",
     "Gurgaon",
     "Hyderabad",
+    "Kochi",
+    "Mumbai",
     "Noida",
     "Pune"
   ],
@@ -203,6 +245,7 @@ module.exports = {
     "Kilkenny"
   ],
   "Israel": [
+    "Beersheba",
     "Herzliya",
     "Nasholim",
     "Rishon Lezion, Hamerkaz",
@@ -212,23 +255,39 @@ module.exports = {
     "Bergamo",
     "Bologna",
     "Bolzano",
+    "Brescia",
     "Castelraimondo",
     "Cavalese",
+    "Desenzano",
     "Desenzano del Garda (BS)",
+    "Faenza",
+    "Ferrara",
     "Florence",
     "Genova",
+    "Levante",
     "Milano",
     "Modena",
     "Palermo",
+    "Parma",
     "Pisa",
+    "Prato",
     "Rome",
+    "Trento",
     "Turin",
     "Verona",
-    "Vimercate"
+    "Vimercate",
+    "Volterra"
+  ],
+  "Jamaica": [
+    "Kingston"
   ],
   "Japan": [
     "Fukuoka",
+    "Hiroshima",
+    "Kyoto",
+    "Matsue",
     "Nagano",
+    "Sendai",
     "Tokyo"
   ],
   "Jordan": [
@@ -244,12 +303,14 @@ module.exports = {
     "Pristina"
   ],
   "Latvia": [
+    "Jurmala",
     "Riga"
   ],
   "Lithuania": [
     "Vilnius"
   ],
   "Malaysia": [
+    "Cyberjaya",
     "Iskandar Malaysia",
     "Kuala Lumpur",
     "Sabah"
@@ -264,6 +325,9 @@ module.exports = {
   ],
   "Moldova": [
     "Chișinău"
+  ],
+  "Morocco": [
+    "Casablanca"
   ],
   "Nepal": [
     "Bharatpur",
@@ -306,46 +370,58 @@ module.exports = {
     "Lima"
   ],
   "Philippines": [
+    "Bohol",
+    "Boracay Island",
+    "Cebu",
     "Iloilo City",
-    "Makati"
+    "Makati",
+    "Manila"
   ],
   "Poland": [
+    "Bydgoszcz",
     "Cracow",
     "Gdansk",
     "Gdynia",
-    "Katowice",
     "Krakow",
     "Lodz",
     "Poznań",
+    "Rzeszów",
     "Szczyrk",
     "Warsaw",
     "Wroclaw"
   ],
   "Portugal": [
     "Aveiro",
+    "Braga",
     "Castelo Branco",
     "Coimbra",
+    "Estreito de Câmara de Lobos",
     "Faro",
     "Lisboa",
     "Porto"
+  ],
+  "Puerto Rico": [
+    "Rio Mar"
   ],
   "Qatar": [
     "Doha"
   ],
   "Romania": [
     "Bucharest",
-    "Cluj",
+    "Cluj-Napoca",
     "Iasi",
     "Timisoara"
   ],
   "Russia": [
     "Moscow",
     "Novosibirsk",
-    "Saint Petersburg"
+    "Saint Petersburg",
+    "Yekaterinburg"
   ],
   "Scotland": [
     "Edinburgh",
-    "Glasgow"
+    "Glasgow",
+    "Perthshire"
   ],
   "Serbia": [
     "Belgrade",
@@ -367,6 +443,12 @@ module.exports = {
     "Cape Town",
     "Johannesburg"
   ],
+  "South Korea": [
+    "Busan",
+    "Incheon",
+    "Seoul",
+    "Suwon"
+  ],
   "Spain": [
     "Alicante",
     "Barcelona",
@@ -374,13 +456,13 @@ module.exports = {
     "Cáceres",
     "Cádiz",
     "Ibiza",
+    "Logroño",
     "Madrid",
     "Malaga",
     "Marbella",
     "Seville",
     "Sitges, Barcelona",
     "Tenerife",
-    "Valencia",
     "Vigo"
   ],
   "Sri Lanka": [
@@ -396,10 +478,12 @@ module.exports = {
     "Bern",
     "Buchs",
     "Crans-Montana",
+    "Fribourg",
     "Geneva",
     "Lausanne",
     "Lugano",
     "Nottwil",
+    "Rapperswil",
     "Zurich"
   ],
   "Taiwan": [
@@ -423,7 +507,9 @@ module.exports = {
     "Cambridge",
     "Cardiff",
     "Chester",
+    "Daventry",
     "Edinburgh",
+    "Exeter",
     "Falmouth, Cornwall",
     "Folkestone",
     "Ipswich",
@@ -431,6 +517,7 @@ module.exports = {
     "London",
     "Manchester",
     "Newcastle",
+    "Newcastle-Upon-Tyne",
     "Norwich",
     "Oxford",
     "Sheffield",
@@ -438,7 +525,9 @@ module.exports = {
   ],
   "U.S.A.": [
     "Albany, NY",
+    "Alexandria, VA",
     "Anaheim, CA",
+    "Arlington, VA",
     "Aspen, CO",
     "Atlanta, GA",
     "Augusta, GA",
@@ -446,26 +535,34 @@ module.exports = {
     "Austin, TX",
     "Baltimore, MD",
     "Bandera, TX",
+    "Beckenridge, CO",
     "Bellevue, WA",
+    "Bend, OR",
     "Bloomington, MN",
     "Boise, ID",
     "Boston, MA",
+    "Boulder, CO",
+    "Bremerton, WA",
     "Brooklyn, NY",
     "Broomfield, CO",
     "Buffalo, NY",
     "Burlington, VT",
     "Cambridge, MA",
+    "Camden, MN",
     "Cape Canaveral, FL",
     "Carlsbad, CA",
     "Carmel, IN",
     "Champaign-Urbana, IL",
-    "Charlotte, SC",
+    "Charleston, SC",
+    "Charlotte, NC",
     "Chattanooga, TN",
     "Chicagexas, IL",
     "Chicago, IL",
     "Cincinnati, OH",
+    "Clear Water, FL",
     "Clearwater, FL",
     "Cleveland, OH",
+    "Columbia, SC",
     "Columbus, GA",
     "Columbus, OH",
     "Dallas, TX",
@@ -474,23 +571,32 @@ module.exports = {
     "Des Moines, IA",
     "Detroit, MI",
     "East Point, GA",
+    "Fort Lauderdale, FL",
+    "Fort Worth, TX",
     "Galveston, TX",
     "Grand Rapids, MI",
     "Grapevine, TX",
+    "Half Moon Bay, CA",
     "Hartford, CT",
     "Henderson, NV",
     "Honolulu, HI",
     "Houston, TX",
     "Huntsville, AL",
+    "Indianapolis, IN",
+    "Islandia, NY",
     "Jackson, MS",
     "Jacksonville Beach, FL",
     "Kansas City, MO",
     "Knoxville, TN",
     "La Jolla, CA",
+    "Lahaina, HI",
     "Las Vegas, NV",
+    "Little Rock, AR",
     "Long Beach, CA",
     "Los Angeles, CA",
     "Madison, WI",
+    "McLean, VA",
+    "Memphis, TN",
     "Menlo Park, CA",
     "Mesa, AZ",
     "Miami, FL",
@@ -500,20 +606,25 @@ module.exports = {
     "Morrisville, NC",
     "Mountain View, CA",
     "Nashville, TN",
+    "New Haven, CT",
     "New Orleans, LA",
     "New York, NY",
+    "Newark, CA",
     "Oakland, CA",
     "Oklahoma City, OK",
     "Omaha, NE",
     "Orlando, FL",
     "Palm Springs, CA",
     "Palo Alto, CA",
+    "Park City, UT",
     "Pasadena, CA",
     "Philadelphia, PA",
     "Phoenix, AZ",
     "Pittsburgh, PA",
+    "Pocono Manor, PA",
     "Port Canaveral, FL",
     "Portland, OR",
+    "Prince William Forest Park, VA",
     "Princeton, NJ",
     "Providence, RI",
     "Raleigh, NC",
@@ -525,6 +636,7 @@ module.exports = {
     "Richmond, VA",
     "Rochester, NY",
     "Rockville, MD",
+    "Saint Paul, MN",
     "Salt Lake City, UT",
     "San Antonio, TX",
     "San Diego, CA",
@@ -538,21 +650,28 @@ module.exports = {
     "Santa Monica, CA",
     "Scottsdale, AZ",
     "Seattle, WA",
+    "St. Augustine, FL",
     "St. Louis, MO",
     "St. Petersburg, FL",
+    "Stamford, CT",
     "Stanford, CA",
     "Sunnyvale, CA",
     "Sunriver, OR",
+    "Tacoma, WA",
     "Tampa, FL",
     "Texas, IL",
+    "Truckee, CA",
     "Tulsa, OK",
     "Virginia Beach, VA",
+    "Walker Creek Ranch, CA",
     "Washington, D.C.",
+    "Waterloo, ON",
     "Wisconsin Dells, WI"
   ],
   "Ukraine": [
+    "Chernivtsi",
     "Kharkiv",
-    "Kyiv",
+    "Kiev",
     "Lviv",
     "Odessa",
     "Vinnytsia"
@@ -564,6 +683,6 @@ module.exports = {
     "Montevideo"
   ],
   "Vietnam": [
-    "Ho Chi Minh city"
+    "Ho Chi Minh City"
   ]
 }

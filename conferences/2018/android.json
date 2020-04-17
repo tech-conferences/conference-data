@@ -100,7 +100,7 @@
   {
     "name": "Google I/O",
     "url": "https://events.google.com/io",
-    "city": "Mountain View",
+    "city": "Mountain View, CA",
     "country": "U.S.A.",
     "startDate": "2018-05-08",
     "endDate": "2018-05-10"
@@ -354,6 +354,17 @@
     "twitter": "@droidcon"
   },
   {
+    "name": "AndroidFest",
+    "url": "https://gdg-campinas.github.io/androidfest",
+    "startDate": "2018-10-20",
+    "endDate": "2018-10-20",
+    "city": "Campinas",
+    "country": "Brazil",
+    "twitter": "@gdgcampinas",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf-1W7P1deiUIGAZNzM-DOyQfMUQ0Hgr-8NKF1m6odN7CqSlQ/viewform",
+    "cfpEndDate": "2018-09-02"
+  },
+  {
     "name": "GDG DevFest",
     "url": "https://devfestcerrado.com.br",
     "startDate": "2018-10-20",
@@ -363,17 +374,6 @@
     "twitter": "@gdggoiania",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfdRduSyKYUBHk5r8HWq4Dpj6xNk5kfwEzoeQfkGpnUDXFNGw/viewform",
     "cfpEndDate": "2018-09-01"
-  },
-  {
-    "name": "AndroidFest",
-    "url": "https://gdg-campinas.github.io/androidfest",
-    "startDate": "2018-10-20",
-    "endDate": "2018-10-20",
-    "city": "Campinas, São Paulo",
-    "country": "Brazil",
-    "twitter": "@gdgcampinas",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf-1W7P1deiUIGAZNzM-DOyQfMUQ0Hgr-8NKF1m6odN7CqSlQ/viewform",
-    "cfpEndDate": "2018-09-02"
   },
   {
     "name": "GDG DevFest",
@@ -448,9 +448,17 @@
     "url": "https://developer.android.com/dev-summit",
     "startDate": "2018-11-07",
     "endDate": "2018-11-08",
-    "city": "Mountain View",
+    "city": "Mountain View, CA",
     "country": "U.S.A.",
     "twitter": "@AndroidDev"
+  },
+  {
+    "name": "GDG DevFest",
+    "url": "https://devfest-seoul18.gdg.kr",
+    "startDate": "2018-11-10",
+    "endDate": "2018-11-10",
+    "city": "Seoul",
+    "country": "South Korea"
   },
   {
     "name": "GDG DACH DevFest",
@@ -460,14 +468,6 @@
     "city": "Munich",
     "country": "Germany",
     "twitter": "@dachfest"
-  },
-  {
-    "name": "GDG DevFest",
-    "url": "https://devfest-seoul18.gdg.kr",
-    "startDate": "2018-11-10",
-    "endDate": "2018-11-10",
-    "city": "Seoul",
-    "country": "Korea"
   },
   {
     "name": "Devoxx",
@@ -485,7 +485,7 @@
     "startDate": "2018-11-13",
     "endDate": "2018-11-13",
     "city": "Suwon",
-    "country": "Korea"
+    "country": "South Korea"
   },
   {
     "name": "Mobile @Scale",
@@ -515,15 +515,6 @@
     "country": "Romania"
   },
   {
-    "name": "Ørede",
-    "url": "http://oredev.org",
-    "startDate": "2018-11-19",
-    "endDate": "2018-11-22",
-    "city": "Malmö",
-    "country": "Sweden",
-    "twitter": "@oredev"
-  },
-  {
     "name": "Droidcon",
     "url": "https://sf.droidcon.com",
     "startDate": "2018-11-19",
@@ -535,14 +526,39 @@
     "cfpEndDate": "2018-09-02"
   },
   {
+    "name": "Ørede",
+    "url": "http://oredev.org",
+    "startDate": "2018-11-19",
+    "endDate": "2018-11-22",
+    "city": "Malmö",
+    "country": "Sweden",
+    "twitter": "@oredev"
+  },
+  {
     "name": "Devoxx",
     "url": "https://devoxx.org.ua/",
-    "city": "Kyiv",
+    "city": "Kiev",
     "country": "Ukraine",
     "startDate": "2018-11-23",
     "endDate": "2018-11-24",
     "cfpEndDate": "2018-09-03",
     "cfpUrl": "https://dvua18.confinabox.com"
+  },
+  {
+    "name": "GDG DevFest",
+    "url": "https://www.meetup.com/GDG-Incheon/events/255500688",
+    "startDate": "2018-11-24",
+    "endDate": "2018-11-24",
+    "city": "Incheon",
+    "country": "South Korea"
+  },
+  {
+    "name": "GDG DevFest",
+    "url": "https://www.meetup.com/GDG-Busan/events/255475518",
+    "startDate": "2018-11-24",
+    "endDate": "2018-11-24",
+    "city": "Busan",
+    "country": "South Korea"
   },
   {
     "name": "GDG DevFest",
@@ -554,22 +570,6 @@
     "twitter": "@DevFestVienna",
     "cfpUrl": "https://devfest.at/call",
     "cfpEndDate": "2018-10-26"
-  },
-  {
-    "name": "GDG DevFest",
-    "url": "https://www.meetup.com/GDG-Incheon/events/255500688",
-    "startDate": "2018-11-24",
-    "endDate": "2018-11-24",
-    "city": "Incheon",
-    "country": "Korea"
-  },
-  {
-    "name": "GDG DevFest",
-    "url": "https://www.meetup.com/GDG-Busan/events/255475518",
-    "startDate": "2018-11-24",
-    "endDate": "2018-11-24",
-    "city": "Busan",
-    "country": "Korea"
   },
   {
     "name": "GDG DevFest",

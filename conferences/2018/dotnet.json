@@ -33,6 +33,15 @@
     "twitter": "@vslive"
   },
   {
+    "name": "ProgNET London",
+    "url": "https://skillsmatter.com/conferences/10107-prognet-london-2018",
+    "startDate": "2018-09-12",
+    "endDate": "2018-09-14",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@skillsmatter"
+  },
+  {
     "name": "Visual Studio Live! Chicago",
     "url": "https://vslive.com/events/chicago-2018/home.aspx",
     "startDate": "2018-09-17",
@@ -40,6 +49,15 @@
     "city": "Chicago, IL",
     "country": "U.S.A.",
     "twitter": "@vslive"
+  },
+  {
+    "name": "TechBash",
+    "url": "https://www.techbash.com",
+    "startDate": "2018-10-02",
+    "endDate": "2018-10-05",
+    "city": "Pocono Manor, PA",
+    "country": "U.S.A.",
+    "twitter": "@techbash"
   },
   {
     "name": "Visual Studio Live! San Diego",
@@ -62,32 +80,6 @@
     "cfpEndDate": "2018-09-10"
   },
   {
-    "name": "AngleBrackets",
-    "url": "https://anglebrackets.org",
-    "startDate": "2018-12-03",
-    "endDate": "2018-12-06",
-    "city": "Las Vegas, NV",
-    "country": "U.S.A."
-  },
-  {
-    "name": "ProgNET London",
-    "url": "https://skillsmatter.com/conferences/10107-prognet-london-2018",
-    "startDate": "2018-09-12",
-    "endDate": "2018-09-14",
-    "city": "London",
-    "country": "U.K.",
-    "twitter": "@skillsmatter"
-  },
-  {
-    "name": "TechBash",
-    "url": "https://www.techbash.com",
-    "startDate": "2018-10-02",
-    "endDate": "2018-10-05",
-    "city": "Pocono Manor, PA",
-    "country": "U.S.A.",
-    "twitter": "@techbash"
-  },
-  {
     "name": "Update Conference",
     "url": "https://www.updateconference.net",
     "startDate": "2018-11-22",
@@ -95,5 +87,13 @@
     "city": "Prague",
     "country": "Czech Republic",
     "twitter": "@update_conf"
+  },
+  {
+    "name": "AngleBrackets",
+    "url": "https://anglebrackets.org",
+    "startDate": "2018-12-03",
+    "endDate": "2018-12-06",
+    "city": "Las Vegas, NV",
+    "country": "U.S.A."
   }
 ]

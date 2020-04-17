@@ -1,29 +1,15 @@
 const test = require('baretest')('Conferences Test');
 const assert = require('assert');
-const range = require('lodash/range');
 const getDuplicates = require('./utils');
-const config = require('../config');
 const validLocations = require('./validLocations');
-
-const BASE_DIR = '../../conferences';
+const conferenceReader = require('../conferenceReader');
 
 const twitterRegex = /@(\w){1,15}$/;
 const httpRegex = /^http(s?):\/\//;
 const usaStateRegex = /, ([A-Z][A-Z])|(D.C.)$/;
 const dateRegex = /^20\d\d-\d\d(-\d\d)?$/;
 
-const conferencesJSON = {};
-
-range(config.startYear, config.currentYear + 2).forEach(year => {
-    conferencesJSON[year] = {};
-    config.topics.forEach(lang => {
-        try {
-            conferencesJSON[year][lang] = require(`${BASE_DIR}/${year}/${lang}.json`);
-            // In case some years have no files
-            // eslint-disable-next-line no-empty
-        } catch (exception) { }
-    });
-});
+const conferencesJSON = conferenceReader();
 
 const REQUIRED_KEYS = ['name', 'url', 'startDate', 'country', 'city'];
 const DATES_KEYS = ['startDate', 'endDate', 'cfpEndDate'];
@@ -41,7 +27,7 @@ for (const year of Object.keys(conferencesJSON)) {
                 console.error(`Duplicates for ${year}/${stack}: ${dupConfs}`);
             }
 
-            assert.equal(duplicates.length, 0);
+            assert.equal(duplicates.length, 0, `Found duplicate for : ${JSON.stringify(duplicates[0])}`);
         });
 
         for (const conference of conferences) {
@@ -63,14 +49,14 @@ for (const year of Object.keys(conferencesJSON)) {
                 }
                 // Has no missing mandatory key
                 REQUIRED_KEYS.forEach(requiredKey => {
-                    assert(conference.hasOwnProperty(requiredKey), `[${requiredKey}] is missing`);
+                    assert(conference.hasOwnProperty(requiredKey), `[${requiredKey}]is missing`);
                 });
 
                 // Dates are correctly formatted
                 DATES_KEYS.forEach(dateKey => {
                     // cfpEndDate could be undefined or null
                     if (conference[dateKey]) {
-                        assert(dateRegex.test(conference[dateKey]), `[${dateKey}] should be formatter like YYYY-MM-DD or YYYY-MM – got: "${conference[dateKey]}"`)
+                        assert(dateRegex.test(conference[dateKey]), `[${dateKey}]should be formatter like YYYY-MM-DD or YYYY-MM – got: "${conference[dateKey]}"`)
                     }
                 });
 

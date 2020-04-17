@@ -78,7 +78,7 @@
     "url": "https://railsconf.com",
     "startDate": "2018-04-17",
     "endDate": "2018-04-19",
-    "city": "Pittsburgh",
+    "city": "Pittsburgh, PA",
     "country": "U.S.A.",
     "twitter": "@railsconf"
   },
@@ -153,7 +153,7 @@
     "url": "http://rubyc.eu",
     "startDate": "2018-06-02",
     "endDate": "2018-06-03",
-    "city": "Kyiv",
+    "city": "Kiev",
     "country": "Ukraine",
     "cfpUrl": "https://rubyc.eu/speakers/new",
     "twitter": "@rubyc_eu"
@@ -243,16 +243,6 @@
     "twitter": "@euruko"
   },
   {
-    "name": "RubyConf MY",
-    "url": "http://rubyconf.my",
-    "startDate": "2018-10-25",
-    "endDate": "2018-10-26",
-    "city": "Kuala Lumpur",
-    "country": "Malaysia",
-    "cfpUrl": "http://rubyconf.my/call-for-proposals/",
-    "cfpEndDate": "2018-07-15"
-  },
-  {
     "name": "RubyRussia",
     "url": "https://rubyrussia.club/en",
     "startDate": "2018-10-06",
@@ -264,6 +254,24 @@
     "cfpEndDate": "2018-09-15"
   },
   {
+    "name": "Ruby Summit China",
+    "url": "http://rubysummit.cn",
+    "startDate": "2018-10-13",
+    "endDate": "2018-10-14",
+    "city": "Zhengzhou",
+    "country": "China"
+  },
+  {
+    "name": "RubyConf MY",
+    "url": "http://rubyconf.my",
+    "startDate": "2018-10-25",
+    "endDate": "2018-10-26",
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "cfpUrl": "http://rubyconf.my/call-for-proposals/",
+    "cfpEndDate": "2018-07-15"
+  },
+  {
     "name": "Keep Ruby Weird",
     "url": "https://2018.keeprubyweird.com",
     "startDate": "2018-11-09",
@@ -273,13 +281,5 @@
     "twitter": "@keeprubyweird",
     "cfpUrl": "https://www.papercall.io/krw-2018",
     "cfpEndDate": "2018-08-27"
-  },
-  {
-    "name": "Ruby Summit China",
-    "url": "http://rubysummit.cn",
-    "startDate": "2018-10-13",
-    "endDate": "2018-10-14",
-    "city": "ZhengZhou, Henan",
-    "country": "China"
   }
 ]

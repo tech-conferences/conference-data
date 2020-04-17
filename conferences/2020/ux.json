@@ -165,13 +165,22 @@
     "twitter": "@nngroup"
   },
   {
-    "name": "SmashingConf",
-    "url": "https://smashingconf.com/sf-2020",
-    "startDate": "2020-11-10",
-    "endDate": "2020-11-11",
-    "city": "San Francisco, CA",
+    "name": "UX Burlington",
+    "url": "https://www.uxburlington.com",
+    "startDate": "2020-05-01",
+    "endDate": "2020-05-01",
+    "city": "Burlington, VT",
     "country": "U.S.A.",
-    "twitter": "@SmashingConf"
+    "twitter": "@uxburlington"
+  },
+  {
+    "name": "John Slatin AccessU",
+    "url": "https://knowbility.org/programs/accessu/2020",
+    "startDate": "2020-05-13",
+    "endDate": "2020-05-14",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@AccessU"
   },
   {
     "name": "UX Healthcare",
@@ -183,33 +192,6 @@
     "twitter": "@uxdhealthcare",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScaCNQf7_X9XG9v_Jw0BiL__s0IE3gOPLrA5vC8wYNq7fhcsg/viewform",
     "cfpEndDate": "2019-09-30"
-  },
-  {
-    "name": "UX Burlington",
-    "url": "https://www.uxburlington.com",
-    "startDate": "2020-05-01",
-    "endDate": "2020-05-01",
-    "city": "Burlington, VT",
-    "country": "U.S.A.",
-    "twitter": "@uxburlington"
-  },
-  {
-    "name": "Pixel Up!",
-    "url": "https://pixelup.co.za",
-    "startDate": "2020-09-14",
-    "endDate": "2020-09-16",
-    "city": "Cape Town",
-    "country": "South Africa",
-    "twitter": "@letspixelup"
-  },
-  {
-    "name": "John Slatin AccessU",
-    "url": "https://knowbility.org/programs/accessu/2020",
-    "startDate": "2020-05-13",
-    "endDate": "2020-05-14",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@AccessU"
   },
   {
     "name": "UIKonf",
@@ -394,6 +376,15 @@
     "twitter": "@dconstruct"
   },
   {
+    "name": "Pixel Up!",
+    "url": "https://pixelup.co.za",
+    "startDate": "2020-09-14",
+    "endDate": "2020-09-16",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "twitter": "@letspixelup"
+  },
+  {
     "name": "UX Healthcare",
     "url": "https://uxhealthcare.co",
     "startDate": "2020-09-17",
@@ -470,6 +461,15 @@
     "endDate": "2020-10-16",
     "city": "Mannheim",
     "country": "Germany"
+  },
+  {
+    "name": "SmashingConf",
+    "url": "https://smashingconf.com/sf-2020",
+    "startDate": "2020-11-10",
+    "endDate": "2020-11-11",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "twitter": "@SmashingConf"
   },
   {
     "name": "CanUX",
