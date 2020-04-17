@@ -282,15 +282,6 @@
     "country": "Online"
   },
   {
-    "name": "ML Summit",
-    "url": "https://ml-summit.de",
-    "startDate": "2020-10-26",
-    "endDate": "2020-10-28",
-    "city": "Munich",
-    "country": "Germany",
-    "twitter": "@MLSummit_DE"
-  },
-  {
     "name": "Sparkbox UnConference",
     "url": "https://www.eventbrite.com/e/sparkbox-unconference-tickets-100168119542",
     "startDate": "2020-04-23",
@@ -463,15 +454,6 @@
     "twitter": "@joyofcoding"
   },
   {
-    "name": "UXPA International Conference",
-    "url": "https://uxpa2020.org",
-    "startDate": "2020-09-01",
-    "endDate": "2020-09-03",
-    "city": "Baltimore, MD",
-    "country": "U.S.A.",
-    "twitter": "@uxpa_int"
-  },
-  {
     "name": "Git Commit Show - Online",
     "url": "http://gitcommit.show",
     "startDate": "2020-06-27",
@@ -598,6 +580,15 @@
     "twitter": "@webconf_asia"
   },
   {
+    "name": "UXPA International Conference",
+    "url": "https://uxpa2020.org",
+    "startDate": "2020-09-01",
+    "endDate": "2020-09-03",
+    "city": "Baltimore, MD",
+    "country": "U.S.A.",
+    "twitter": "@uxpa_int"
+  },
+  {
     "name": "PulpoCon 20",
     "url": "https://pulpocon.es",
     "startDate": "2020-09-05",
@@ -660,6 +651,15 @@
     "city": "Austin, TX",
     "country": "U.S.A.",
     "twitter": "@interop"
+  },
+  {
+    "name": "Software Design & Development",
+    "url": "https://sddconf.com",
+    "startDate": "2020-09-21",
+    "endDate": "2020-09-25",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@sddconf"
   },
   {
     "name": "QA Fest",
@@ -817,6 +817,15 @@
     "twitter": "@developersummit"
   },
   {
+    "name": "ML Summit",
+    "url": "https://ml-summit.de",
+    "startDate": "2020-10-26",
+    "endDate": "2020-10-28",
+    "city": "Munich",
+    "country": "Germany",
+    "twitter": "@MLSummit_DE"
+  },
+  {
     "name": "GOTO Berlin",
     "url": "http://gotober.com",
     "startDate": "2020-10-26",
@@ -966,14 +975,5 @@
     "twitter": "@InformatikAktue",
     "cfpUrl": "https://www.ittage.informatik-aktuell.de/call-for-papers",
     "cfpEndDate": "2020-05-10"
-  },
-  {
-    "name": "Software Design & Development",
-    "url": "https://sddconf.com",
-    "startDate": "2020-09-21",
-    "endDate": "2020-09-25",
-    "city": "London",
-    "country": "U.K.",
-    "twitter": "@sddconf"
   }
 ]

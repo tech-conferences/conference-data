@@ -272,15 +272,6 @@
     "twitter": "@devopsfest"
   },
   {
-    "name": "HashiConf Digital",
-    "url": "https://hashiconf.com/digital/",
-    "startDate": "2020-06-22",
-    "endDate": "2020-06-24",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@HashiConf"
-  },
-  {
     "name": "DevOpsCon Berlin",
     "url": "https://devopscon.io/berlin",
     "startDate": "2020-06-08",
@@ -332,6 +323,15 @@
     "city": "Turin",
     "country": "Italy",
     "twitter": "@_CloudConf_"
+  },
+  {
+    "name": "HashiConf Digital",
+    "url": "https://hashiconf.com/digital/",
+    "startDate": "2020-06-22",
+    "endDate": "2020-06-24",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@HashiConf"
   },
   {
     "name": "Cloud Native Summit",
