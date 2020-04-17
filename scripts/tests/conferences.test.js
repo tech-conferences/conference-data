@@ -1,40 +1,15 @@
 const test = require('baretest')('Conferences Test');
 const assert = require('assert');
-const range = require('lodash/range');
-const fs = require('fs');
 const getDuplicates = require('./utils');
-const config = require('../config');
 const validLocations = require('./validLocations');
-
-const BASE_DIR = '../../conferences';
+const conferenceReader = require('../conferenceReader');
 
 const twitterRegex = /@(\w){1,15}$/;
 const httpRegex = /^http(s?):\/\//;
 const usaStateRegex = /, ([A-Z][A-Z])|(D.C.)$/;
 const dateRegex = /^20\d\d-\d\d(-\d\d)?$/;
-const jsonFileRegex = /(.*).json$/;
 
-const conferencesJSON = {};
-
-fs.readdirSync("conferences").forEach(year => {
-    conferencesJSON[year] = {};
-    fs.readdirSync(`conferences/${year}`).forEach(fileName => {
-        const filePath = `conferences/${year}/${fileName}`;
-        assert(jsonFileRegex.test(fileName));
-        const topic = jsonFileRegex.exec(fileName)[1];
-        assert(config.topics.indexOf(topic) != -1, `Topic "${topic} is not in topic list. File: ${filePath}`);
-        const fileContent = fs.readFileSync(filePath);
-        if (fileContent.toString() === "[]") {
-            return;
-        }
-        try {
-            conferencesJSON[year][topic] = JSON.parse(fileContent);
-        } catch (exception) {
-            assert.fail(`Unable to read file: "${filePath}". Error: ${exception}`);
-        }
-
-    })
-})
+const conferencesJSON = conferenceReader();
 
 const REQUIRED_KEYS = ['name', 'url', 'startDate', 'country', 'city'];
 const DATES_KEYS = ['startDate', 'endDate', 'cfpEndDate'];
