@@ -91,7 +91,7 @@
     "url": "https://webaquebec.org",
     "startDate": "2018-04-10",
     "endDate": "2018-04-12",
-    "city": "Québec",
+    "city": "Quebec",
     "country": "Canada",
     "twitter": "@webaquebec"
   },
@@ -116,7 +116,7 @@
     "url": "https://indycode.amegala.com",
     "startDate": "2018-04-16",
     "endDate": "2018-04-18",
-    "city": "Indianapolis",
+    "city": "Indianapolis, IN",
     "country": "U.S.A.",
     "twitter": "@amegala",
     "cfpUrl": "https://www.amegala.com/#/cfp/",
@@ -230,7 +230,7 @@
   {
     "name": "Google I/O",
     "url": "https://events.google.com/io",
-    "city": "Mountain View",
+    "city": "Mountain View, CA",
     "country": "U.S.A.",
     "startDate": "2018-05-08",
     "endDate": "2018-05-10"
@@ -320,7 +320,7 @@
     "url": "https://jonthebeach.com",
     "startDate": "2018-05-23",
     "endDate": "2018-05-25",
-    "city": "Málaga",
+    "city": "Malaga",
     "country": "Spain",
     "twitter": "@JOTB2018"
   },
@@ -662,7 +662,7 @@
     "url": "https://www.thatconference.com",
     "startDate": "2018-08-06",
     "endDate": "2018-08-08",
-    "city": "Wisconsin Dells",
+    "city": "Wisconsin Dells, WI",
     "country": "U.S.A.",
     "twitter": "@ThatConference"
   },
@@ -671,7 +671,7 @@
     "url": "https://cfp.scaleconf.co.nz",
     "startDate": "2018-08-06",
     "endDate": "2018-08-07",
-    "city": "Te Papa - Wellington",
+    "city": "Wellington",
     "country": "New Zealand",
     "cfpEndDate": "2018-04-07",
     "cfpUrl": "https://cfp.scaleconf.co.nz",
@@ -748,7 +748,7 @@
     "url": "https://events.linuxfoundation.org/events/open-source-summit-north-america-2018/",
     "startDate": "2018-08-29",
     "endDate": "2018-08-31",
-    "city": "Vancouver, BC",
+    "city": "Vancouver",
     "country": "Canada",
     "cfpUrl": "https://events.linuxfoundation.org/events/open-source-summit-north-america-2018/program/cfp/",
     "cfpEndDate": "2018-04-29"
@@ -758,7 +758,7 @@
     "url": "https://www.codercruise.com",
     "startDate": "2018-08-31",
     "endDate": "2018-09-03",
-    "city": "Ft. Lauderdale, FL",
+    "city": "Fort Lauderdale, FL",
     "country": "U.S.A.",
     "twitter": "@middevcon"
   },
@@ -885,7 +885,7 @@
     "url": "https://www.navimotive.com",
     "startDate": "2018-09-15",
     "endDate": "2018-09-15",
-    "city": "Kyiv",
+    "city": "Kiev",
     "country": "Ukraine"
   },
   {
@@ -912,7 +912,7 @@
     "url": "https://fwdays.com/en/event/highload-fwdays-2018",
     "startDate": "2018-09-15",
     "endDate": "2018-09-15",
-    "city": "Kyiv",
+    "city": "Kiev",
     "country": "Ukraine",
     "twitter": "@fwdays",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf0C74VjvnzgF_-y3fbRjxCfHR0EGETzNF5iBuf4JoWwUoElA/viewform",
@@ -943,7 +943,7 @@
     "url": "https://www.theconf.club",
     "startDate": "2018-09-21",
     "endDate": "2018-09-22",
-    "city": "Sao Paulo",
+    "city": "São Paulo",
     "country": "Brazil"
   },
   {
@@ -971,7 +971,7 @@
     "url": "https://thestrangeloop.com",
     "startDate": "2018-09-26",
     "endDate": "2018-09-28",
-    "city": "Saint Louis",
+    "city": "St. Louis, MO",
     "country": "U.S.A.",
     "twitter": "@strangeloop_stl"
   },
@@ -1425,8 +1425,7 @@
     "startDate": "2018-11-16",
     "endDate": "2018-11-16",
     "city": "Reykjavík",
-    "country": "Iceland",
-    "twitter": ""
+    "country": "Iceland"
   },
   {
     "name": "Blockchain Technology Conference",

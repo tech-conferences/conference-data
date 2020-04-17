@@ -1,6 +1,7 @@
 const test = require('baretest')('Conferences Test');
 const assert = require('assert');
 const range = require('lodash/range');
+const fs = require('fs');
 const getDuplicates = require('./utils');
 const config = require('../config');
 const validLocations = require('./validLocations');
@@ -11,19 +12,29 @@ const twitterRegex = /@(\w){1,15}$/;
 const httpRegex = /^http(s?):\/\//;
 const usaStateRegex = /, ([A-Z][A-Z])|(D.C.)$/;
 const dateRegex = /^20\d\d-\d\d(-\d\d)?$/;
+const jsonFileRegex = /(.*).json$/;
 
 const conferencesJSON = {};
 
-range(config.startYear, config.currentYear + 2).forEach(year => {
+fs.readdirSync("conferences").forEach(year => {
     conferencesJSON[year] = {};
-    config.topics.forEach(lang => {
+    fs.readdirSync(`conferences/${year}`).forEach(fileName => {
+        const filePath = `conferences/${year}/${fileName}`;
+        assert(jsonFileRegex.test(fileName));
+        const topic = jsonFileRegex.exec(fileName)[1];
+        assert(config.topics.indexOf(topic) != -1, `Topic "${topic} is not in topic list. File: ${filePath}`);
+        const fileContent = fs.readFileSync(filePath);
+        if (fileContent.toString() === "[]") {
+            return;
+        }
         try {
-            conferencesJSON[year][lang] = require(`${BASE_DIR}/${year}/${lang}.json`);
-            // In case some years have no files
-            // eslint-disable-next-line no-empty
-        } catch (exception) { }
-    });
-});
+            conferencesJSON[year][topic] = JSON.parse(fileContent);
+        } catch (exception) {
+            assert.fail(`Unable to read file: "${filePath}". Error: ${exception}`);
+        }
+
+    })
+})
 
 const REQUIRED_KEYS = ['name', 'url', 'startDate', 'country', 'city'];
 const DATES_KEYS = ['startDate', 'endDate', 'cfpEndDate'];
@@ -41,14 +52,14 @@ for (const year of Object.keys(conferencesJSON)) {
                 console.error(`Duplicates for ${year}/${stack}: ${dupConfs}`);
             }
 
-            assert.equal(duplicates.length, 0);
+            assert.equal(duplicates.length, 0, `Found duplicate for : ${JSON.stringify(duplicates[0])}`);
         });
 
         for (const conference of conferences) {
 
             const { name, country, city, url, cfpUrl, twitter } = conference;
 
-            test(`conferences/${year}/${stack}.json - ${name} - ${stack} - ${year}`, function () {
+            test(`conferences / ${year} / ${stack}.json - ${name} - ${stack} - ${year}`, function () {
                 // Twitter is a valid URL
                 if (twitter && twitter.length > 0 && !twitterRegex.test(twitter)) {
                     assert(twitterRegex.test(twitter), `[twitter] should be formatted like @twitter – got: "${twitter}"`);
@@ -63,14 +74,14 @@ for (const year of Object.keys(conferencesJSON)) {
                 }
                 // Has no missing mandatory key
                 REQUIRED_KEYS.forEach(requiredKey => {
-                    assert(conference.hasOwnProperty(requiredKey), `[${requiredKey}] is missing`);
+                    assert(conference.hasOwnProperty(requiredKey), `[${requiredKey}]is missing`);
                 });
 
                 // Dates are correctly formatted
                 DATES_KEYS.forEach(dateKey => {
                     // cfpEndDate could be undefined or null
                     if (conference[dateKey]) {
-                        assert(dateRegex.test(conference[dateKey]), `[${dateKey}] should be formatter like YYYY-MM-DD or YYYY-MM – got: "${conference[dateKey]}"`)
+                        assert(dateRegex.test(conference[dateKey]), `[${dateKey}]should be formatter like YYYY - MM - DD or YYYY - MM – got: "${conference[dateKey]}"`)
                     }
                 });
 
