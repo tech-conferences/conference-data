@@ -26,8 +26,9 @@ const conferencesJSON = conferenceReader();
 for (const year of Object.keys(conferencesJSON)) {
     for (const stack of Object.keys(conferencesJSON[year])) {
         const conferences = conferencesJSON[year][stack];
+        const fileName = `conferences/${year}/${stack}.json`;
 
-        test(`${stack} conferences in ${year}`, function () {
+        test(`${fileName} - ${stack} conferences in ${year}`, function () {
 
             const duplicates = getDuplicates(conferences);
 
@@ -42,8 +43,6 @@ for (const year of Object.keys(conferencesJSON)) {
         for (const conference of conferences) {
 
             const { name, country, city, url, cfpUrl, twitter } = conference;
-
-            const fileName = `conferences/${year}/${stack}.json`;
 
             test(`${fileName} - ${name} - ${stack} - ${year}`, function () {
                 Object.keys(conference).forEach(key => assert(!emptyStringRegex.test(conference[key]), `property should not be empty ${key}`));
