@@ -19,5 +19,6 @@ module.exports = function getDuplicates(conferences) {
  * @returns {string}
  */
 function getUUID(conf) {
-  return `${conf.url.replace(/https?:\/\//, '')}-${conf.city}-${conf.startDate.slice(0, 7)}`;
+  const baseUrl = /https?:\/\/(.*)(\/|$)/.exec(conf.url)[1];
+  return `${baseUrl}-${conf.city}-${conf.startDate.slice(0, 7)}`;
 }
