@@ -34,6 +34,7 @@ for (const year of Object.keys(conferencesJSON)) {
             const { name, country, city, url, cfpUrl, twitter } = conference;
 
             test(`conferences/${year}/${stack}.json - ${name} - ${stack} - ${year}`, function () {
+                Object.keys(conference).forEach(key => assert(conference[key] !== "", `property should not be empty ${key}`));
                 // Twitter is a valid URL
                 if (twitter && twitter.length > 0 && !twitterRegex.test(twitter)) {
                     assert(twitterRegex.test(twitter), `[twitter] should be formatted like @twitter – got: "${twitter}"`);
