@@ -7,7 +7,9 @@ const conferenceReader = require('../conferenceReader');
 
 const twitterRegex = /@(\w){1,15}$/;
 const httpRegex = /^http(s?):\/\//;
+const httpNoQuestionmarkRegex = /\?/;
 const usaStateRegex = /, ([A-Z][A-Z])|(D.C.)$/;
+const emptyStringRegex = /^\s+$|^$/gi;
 const dateFormat = 'yyyy-MM-dd';
 const REQUIRED_KEYS = ['name', 'url', 'startDate', 'endDate', 'country', 'city'];
 
@@ -33,8 +35,10 @@ for (const year of Object.keys(conferencesJSON)) {
 
             const { name, country, city, url, cfpUrl, twitter } = conference;
 
-            test(`conferences/${year}/${stack}.json - ${name} - ${stack} - ${year}`, function () {
-                Object.keys(conference).forEach(key => assert(conference[key] !== "", `property should not be empty ${key}`));
+            const fileName = `conferences/${year}/${stack}.json`;
+
+            test(`${fileName} - ${name} - ${stack} - ${year}`, function () {
+                Object.keys(conference).forEach(key => assert(!emptyStringRegex.test(conference[key]), `property should not be empty ${key}`));
                 // Twitter is a valid URL
                 if (twitter && twitter.length > 0 && !twitterRegex.test(twitter)) {
                     assert(twitterRegex.test(twitter), `[twitter] should be formatted like @twitter – got: "${twitter}"`);
@@ -42,6 +46,8 @@ for (const year of Object.keys(conferencesJSON)) {
 
                 // url starts with http(s)://
                 assert(httpRegex.test(url), `[url] should start with http – got: "${url}"`);
+                assert(httpRegex.test(url), `[url] should start with http – got: "${url}"`);
+                assert(!httpNoQuestionmarkRegex.test(url), `[url] should not contain a ?  – got: "${url}"`);
 
                 // cfpUrl starts with http(s)://
                 if (cfpUrl) {
