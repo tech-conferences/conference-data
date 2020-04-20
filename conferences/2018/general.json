@@ -100,7 +100,8 @@
     "url": "http://www.imagecon.com/events/imagecon-2018/event-summary-1a9b0d3d0cbf4d979d663a202586ed1e.aspx",
     "startDate": "2018-04-12",
     "city": "San Francisco, CA",
-    "country": "U.S.A."
+    "country": "U.S.A.",
+    "endDate": "2018-04-12"
   },
   {
     "name": "Codemotion Rome",
@@ -145,7 +146,8 @@
     "url": "https://newyork2018.theleaddeveloper.com",
     "city": "New York, NY",
     "country": "U.S.A.",
-    "startDate": "2018-04-24"
+    "startDate": "2018-04-24",
+    "endDate": "2018-04-24"
   },
   {
     "name": "Great Indian Developer Summit",
@@ -405,7 +407,8 @@
     "country": "France",
     "twitter": "@dotScale",
     "cfpUrl": "https://www.dotscale.io/LT",
-    "cfpEndDate": "2018-05-11"
+    "cfpEndDate": "2018-05-11",
+    "endDate": "2018-06-01"
   },
   {
     "name": "SyntaxCon",
@@ -646,7 +649,8 @@
     "startDate": "2018-08-01",
     "city": "Melbourne",
     "country": "Australia",
-    "twitter": "@webdirections"
+    "twitter": "@webdirections",
+    "endDate": "2018-08-01"
   },
   {
     "name": "DevConf",
@@ -759,7 +763,8 @@
     "startDate": "2018-08-31",
     "city": "Cologne",
     "country": "Germany",
-    "twitter": "@nightlybuildio"
+    "twitter": "@nightlybuildio",
+    "endDate": "2018-08-31"
   },
   {
     "name": "KulenDayz",
@@ -1277,7 +1282,8 @@
     "cfpEndDate": "2018-05-01",
     "cfpUrl": "https://www.webdirections.org/speaking",
     "city": "Sydney",
-    "country": "Australia"
+    "country": "Australia",
+    "endDate": "2018-10-31"
   },
   {
     "name": "Web Directions Summit",

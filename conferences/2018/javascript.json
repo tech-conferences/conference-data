@@ -213,7 +213,8 @@
     "startDate": "2018-03-16",
     "city": "Manchester",
     "country": "U.K.",
-    "twitter": "@upfrontconf"
+    "twitter": "@upfrontconf",
+    "endDate": "2018-03-16"
   },
   {
     "name": "JS fwdays",
@@ -223,7 +224,8 @@
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfvEADqRfF-PqQPqsqlPQORKtZfm4z8AttWyy6DraRSj7U7NA/viewform",
     "cfpEndDate": "2017-05-01",
     "country": "Ukraine",
-    "twitter": "@fwdays"
+    "twitter": "@fwdays",
+    "endDate": "2018-03-18"
   },
   {
     "name": "JSConf AU",
@@ -331,7 +333,8 @@
     "url": "http://www.tahoejs.com/events/2018/4/6/jsconf-tahoe",
     "startDate": "2018-04-06",
     "city": "Truckee, CA",
-    "country": "U.S.A."
+    "country": "U.S.A.",
+    "endDate": "2018-04-06"
   },
   {
     "name": "International JavaScript Conference",
@@ -441,7 +444,8 @@
     "startDate": "2018-04-28",
     "city": "Sofia",
     "country": "Bulgaria",
-    "twitter": "@ReactNotAConf"
+    "twitter": "@ReactNotAConf",
+    "endDate": "2018-04-28"
   },
   {
     "name": "ZEIT Day",
@@ -449,7 +453,8 @@
     "startDate": "2018-04-28",
     "city": "San Francisco, CA",
     "country": "U.S.A.",
-    "twitter": "@zeithq"
+    "twitter": "@zeithq",
+    "endDate": "2018-04-28"
   },
   {
     "name": "NodeDay",
@@ -457,7 +462,8 @@
     "startDate": "2018-05-02",
     "city": "Toronto",
     "country": "Canada",
-    "twitter": "@NodeDay"
+    "twitter": "@NodeDay",
+    "endDate": "2018-05-02"
   },
   {
     "name": "Angular Summit",
@@ -635,7 +641,8 @@
     "city": "Bristol",
     "country": "U.K.",
     "url": "https://pixelpioneers.co",
-    "twitter": "@pixelpioneers"
+    "twitter": "@pixelpioneers",
+    "endDate": "2018-06-08"
   },
   {
     "name": "Fluent",
@@ -683,7 +690,8 @@
     "country": "Germany",
     "cfpUrl": "https://www.papercall.io/graphql-eu",
     "cfpEndDate": "2018-03-31",
-    "twitter": "@graphqleu"
+    "twitter": "@graphqleu",
+    "endDate": "2018-06-15"
   },
   {
     "name": "enterJS",
@@ -704,7 +712,8 @@
     "country": "Israel",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeMVdykn0xQwWicDAErlvU24ROamR6EjuGL_t4tw-Nonae9sg/viewform",
     "cfpEndDate": "2018-04-10",
-    "twitter": "@AngularUP"
+    "twitter": "@AngularUP",
+    "endDate": "2018-06-21"
   },
   {
     "name": "DinosaurJS",
@@ -798,7 +807,8 @@
     "city": "São Paulo",
     "country": "Brazil",
     "url": "http://www.frontinsampa.com.br",
-    "twitter": "@frontinsp"
+    "twitter": "@frontinsp",
+    "endDate": "2018-07-14"
   },
   {
     "name": "JavaScript Camp",
@@ -1401,7 +1411,8 @@
     "country": "U.S.A.",
     "twitter": "@RVAJavaScript",
     "cfpUrl": "https://www.papercall.io/rvajavascript2018",
-    "cfpEndDate": "2018-08-01"
+    "cfpEndDate": "2018-08-01",
+    "endDate": "2018-11-02"
   },
   {
     "name": "FEConf",
@@ -1497,7 +1508,8 @@
     "country": "France",
     "twitter": "@dotJS",
     "affiliateText": "20% off with promocode: CONFSTECH",
-    "affiliateUrl": "https://www.dotjs.io/tickets?promocode=CONFSTECH"
+    "affiliateUrl": "https://www.dotjs.io/tickets?promocode=CONFSTECH",
+    "endDate": "2018-11-09"
   },
   {
     "name": "Chrome Dev Summit",
@@ -1534,7 +1546,8 @@
     "startDate": "2018-11-15",
     "city": "Warsaw",
     "country": "Poland",
-    "twitter": "@ngPolandConf"
+    "twitter": "@ngPolandConf",
+    "endDate": "2018-11-15"
   },
   {
     "name": "CascadiaJS",
@@ -1564,7 +1577,8 @@
     "city": "London",
     "country": "U.K.",
     "cfpEndDate": "2018-07-15",
-    "twitter": "@london_ajax"
+    "twitter": "@london_ajax",
+    "endDate": "2018-11-16"
   },
   {
     "name": "JS Poland",
@@ -1572,7 +1586,8 @@
     "startDate": "2018-11-16",
     "city": "Warsaw",
     "country": "Poland",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeVsK-OA9HudBjk7CpkKNCK8M_DD4_DF-AsFLAP8wdHeZ3O-g/viewform"
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeVsK-OA9HudBjk7CpkKNCK8M_DD4_DF-AsFLAP8wdHeZ3O-g/viewform",
+    "endDate": "2018-11-16"
   },
   {
     "name": "NodeJS Italian Conference",
@@ -1614,7 +1629,8 @@
     "city": "Belfast",
     "country": "U.K.",
     "startDate": "2018-11-23",
-    "twitter": "@pixelpioneers"
+    "twitter": "@pixelpioneers",
+    "endDate": "2018-11-23"
   },
   {
     "name": "HolyJS",

@@ -22,6 +22,12 @@ Object.keys(conferencesJSON).forEach((year) => {
       'name'
     ]);
 
+    sortedConfs.forEach(conference => {
+      if (!conference.endDate) {
+        conference.endDate = conference.startDate;
+      }
+    })
+
     fs.writeFile(fileName, JSON.stringify(sortedConfs, null, 2), () => {
       console.log(`File ${fileName} was successfully reordered`);
     });

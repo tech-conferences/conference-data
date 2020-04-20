@@ -12,7 +12,8 @@
     "url": "http://forwardjs.com/summit",
     "startDate": "2016-02-10",
     "city": "San Francisco, CA",
-    "country": "U.S.A."
+    "country": "U.S.A.",
+    "endDate": "2016-02-10"
   },
   {
     "name": "Devnexus",
@@ -27,7 +28,8 @@
     "url": "http://www.ng-nl.org",
     "startDate": "2016-02-18",
     "city": "Amsterdam",
-    "country": "Netherlands"
+    "country": "Netherlands",
+    "endDate": "2016-02-18"
   },
   {
     "name": "React.js Conf",
@@ -50,7 +52,8 @@
     "url": "http://enhanceconf.com/index.html",
     "startDate": "2016-03-04",
     "city": "London",
-    "country": "U.K."
+    "country": "U.K.",
+    "endDate": "2016-03-04"
   },
   {
     "name": "Fluent",
@@ -65,7 +68,8 @@
     "url": "http://nationjs.com",
     "startDate": "2016-03-11",
     "city": "Washington, D.C.",
-    "country": "U.S.A."
+    "country": "U.S.A.",
+    "endDate": "2016-03-11"
   },
   {
     "name": "Smashing Conference",
@@ -88,14 +92,16 @@
     "url": "https://fronteers.nl/congres/2016-spring",
     "startDate": "2016-04-01",
     "city": "Amsterdam",
-    "country": "Netherlands"
+    "country": "Netherlands",
+    "endDate": "2016-04-01"
   },
   {
     "name": "Jazoon",
     "url": "http://jazoon.com",
     "startDate": "2016-04-08",
     "city": "Bern",
-    "country": "Switzerland"
+    "country": "Switzerland",
+    "endDate": "2016-04-08"
   },
   {
     "name": "Convergese",
@@ -118,7 +124,8 @@
     "url": "https://react.amsterdam/2016",
     "startDate": "2016-04-16",
     "city": "Amsterdam",
-    "country": "Netherlands"
+    "country": "Netherlands",
+    "endDate": "2016-04-16"
   },
   {
     "name": "Render",
@@ -141,7 +148,8 @@
     "url": "https://jsconf.be/en",
     "startDate": "2016-05-03",
     "city": "Bruges",
-    "country": "Belgium"
+    "country": "Belgium",
+    "endDate": "2016-05-03"
   },
   {
     "name": "ng-conf",
@@ -156,7 +164,8 @@
     "url": "http://london.nodeconf.com",
     "startDate": "2016-05-11",
     "city": "London",
-    "country": "U.K."
+    "country": "U.K.",
+    "endDate": "2016-05-11"
   },
   {
     "name": "JSDay Italy",
@@ -203,7 +212,8 @@
     "url": "http://www.cejs.com.br",
     "startDate": "2016-05-28",
     "country": "Brazil",
-    "city": "Fortaleza"
+    "city": "Fortaleza",
+    "endDate": "2016-05-28"
   },
   {
     "name": "React Europe",
@@ -226,7 +236,8 @@
     "url": "http://oslo.nodeconf.com",
     "startDate": "2016-06-04",
     "city": "Oslo",
-    "country": "Norway"
+    "country": "Norway",
+    "endDate": "2016-06-04"
   },
   {
     "name": "Best of Web Paris",
@@ -257,7 +268,8 @@
     "url": "https://krakow.rollingscopes.com",
     "startDate": "2016-06-16",
     "city": "Krakow",
-    "country": "Poland"
+    "country": "Poland",
+    "endDate": "2016-06-16"
   },
   {
     "name": "CSSDay",
@@ -288,7 +300,8 @@
     "url": "https://dinosaurjs.org",
     "startDate": "2016-06-24",
     "city": "Denver, CO",
-    "country": "U.S.A."
+    "country": "U.S.A.",
+    "endDate": "2016-06-24"
   },
   {
     "name": "You Gotta Love Frontend",
@@ -319,14 +332,16 @@
     "url": "http://www.jsinsa.com",
     "startDate": "2016-07-16",
     "city": "Johannesburg",
-    "country": "South Africa"
+    "country": "South Africa",
+    "endDate": "2016-07-16"
   },
   {
     "name": "Front Porch Austin, TX",
     "url": "http://frontporch.io/austin",
     "startDate": "2016-07-19",
     "city": "Austin, TX",
-    "country": "U.S.A."
+    "country": "U.S.A.",
+    "endDate": "2016-07-19"
   },
   {
     "name": "Node Summit",
@@ -349,14 +364,16 @@
     "url": "https://forwardjs.com",
     "startDate": "2016-07-29",
     "city": "San Francisco, CA",
-    "country": "U.S.A."
+    "country": "U.S.A.",
+    "endDate": "2016-07-29"
   },
   {
     "name": "npm camp",
     "url": "http://npm.camp",
     "startDate": "2016-07-30",
     "city": "Oakland, CA",
-    "country": "U.S.A."
+    "country": "U.S.A.",
+    "endDate": "2016-07-30"
   },
   {
     "name": "Code - Melbourne",
@@ -395,7 +412,8 @@
     "url": "https://nejsconf.com",
     "startDate": "2016-08-26",
     "city": "Omaha, NE",
-    "country": "U.S.A."
+    "country": "U.S.A.",
+    "endDate": "2016-08-26"
   },
   {
     "name": "BrazilJS",
@@ -410,14 +428,16 @@
     "url": "http://2016.websummercamp.com",
     "startDate": "2016-08-31",
     "city": "Rovinj",
-    "country": "Croatia"
+    "country": "Croatia",
+    "endDate": "2016-08-31"
   },
   {
     "name": "ColdFront",
     "url": "https://2016.coldfrontconf.com",
     "startDate": "2016-09-01",
     "city": "Copenhagen",
-    "country": "Denmark"
+    "country": "Denmark",
+    "endDate": "2016-09-01"
   },
   {
     "name": "Frontend Conference Zurich",
@@ -464,14 +484,16 @@
     "url": "http://react-next.com",
     "startDate": "2016-09-15",
     "city": "Tel Aviv",
-    "country": "Israel"
+    "country": "Israel",
+    "endDate": "2016-09-15"
   },
   {
     "name": "elm-conf",
     "url": "https://www.elm-conf.us",
     "startDate": "2016-09-15",
     "city": "St. Louis, MO",
-    "country": "U.S.A."
+    "country": "U.S.A.",
+    "endDate": "2016-09-15"
   },
   {
     "name": "From the Front",
@@ -510,7 +532,8 @@
     "url": "http://www.smartwebconf.com",
     "startDate": "2016-09-20",
     "city": "Bucharest",
-    "country": "Romania"
+    "country": "Romania",
+    "endDate": "2016-09-20"
   },
   {
     "name": "AngularConnect",
@@ -525,7 +548,8 @@
     "url": "http://www.paris-web.fr",
     "startDate": "2016-09-29",
     "city": "Paris",
-    "country": "France"
+    "country": "France",
+    "endDate": "2016-09-29"
   },
   {
     "name": "Web Unleashed",
@@ -572,7 +596,8 @@
     "url": "http://nodejsconf.it",
     "startDate": "2016-10-22",
     "city": "Desenzano",
-    "country": "Italy"
+    "country": "Italy",
+    "endDate": "2016-10-22"
   },
   {
     "name": "JSDC.tw",
@@ -643,14 +668,16 @@
     "url": "https://www.frontierconf.com",
     "startDate": "2016-11-16",
     "city": "London",
-    "country": "U.K."
+    "country": "U.K.",
+    "endDate": "2016-11-16"
   },
   {
     "name": "AngularUP",
     "url": "http://angular-up.com",
     "startDate": "2016-11-17",
     "city": "Tel Aviv",
-    "country": "Israel"
+    "country": "Israel",
+    "endDate": "2016-11-17"
   },
   {
     "name": "NodeConf Argentina",
@@ -665,7 +692,8 @@
     "url": "http://halfstackconf.com",
     "startDate": "2016-11-19",
     "city": "London",
-    "country": "U.K."
+    "country": "U.K.",
+    "endDate": "2016-11-19"
   },
   {
     "name": "Nodevember",
@@ -688,7 +716,8 @@
     "url": "https://2016.cssconf.asia",
     "startDate": "2016-11-24",
     "city": "Singapore",
-    "country": "Singapore"
+    "country": "Singapore",
+    "endDate": "2016-11-24"
   },
   {
     "name": "JS Kongress",
@@ -711,7 +740,8 @@
     "url": "http://2016.jsconfau.com",
     "startDate": "2016-12-01",
     "city": "Melbourne",
-    "country": "Australia"
+    "country": "Australia",
+    "endDate": "2016-12-01"
   },
   {
     "name": "DotJS",
@@ -726,13 +756,15 @@
     "url": "http://frameworksdays.com/event/most-js-fwdays-2016",
     "startDate": "2016-12-04",
     "city": "Kiev",
-    "country": "Ukraine"
+    "country": "Ukraine",
+    "endDate": "2016-12-04"
   },
   {
     "name": "HolyJS",
     "url": "http://holyjs.ru",
     "startDate": "2016-12-11",
     "city": "Moscow",
-    "country": "Russia"
+    "country": "Russia",
+    "endDate": "2016-12-11"
   }
 ]

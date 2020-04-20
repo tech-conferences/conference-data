@@ -9,7 +9,7 @@ const twitterRegex = /@(\w){1,15}$/;
 const httpRegex = /^http(s?):\/\//;
 const usaStateRegex = /, ([A-Z][A-Z])|(D.C.)$/;
 const dateFormat = 'yyyy-MM-dd';
-const REQUIRED_KEYS = ['name', 'url', 'startDate', 'country', 'city'];
+const REQUIRED_KEYS = ['name', 'url', 'startDate', 'endDate', 'country', 'city'];
 
 const conferencesJSON = conferenceReader();
 
@@ -53,10 +53,9 @@ for (const year of Object.keys(conferencesJSON)) {
 
                 const startDate = parse(conference.startDate, dateFormat, new Date());
                 assert(startDate.getFullYear() == year, `Start date should be in the same year as file location: ${startDate.getFullYear()}`);
-                if (conference.endDate || year >= 2020) {
-                    const endDate = parse(conference.endDate, dateFormat, new Date());
-                    assert(startDate.getTime() <= endDate.getTime(), `End date should be after start date: ${conference.startDate} <= ${conference.endDate}`)
-                }
+                const endDate = parse(conference.endDate, dateFormat, new Date());
+                assert(startDate.getTime() <= endDate.getTime(), `End date should be after start date: ${conference.startDate} <= ${conference.endDate}`)
+
                 if (conference.cfpEndDate) {
                     const cfpEndDate = parse(conference.cfpEndDate, dateFormat, new Date());
                     assert(cfpEndDate.getTime() <= startDate.getTime(), `CFP End date should be before start date: ${conference.cfpEndDate} <= ${conference.startDate}`)
