@@ -162,6 +162,14 @@
   },
   {
     "name": "Droidcon",
+    "url": "https://droidcon.ae",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "startDate": "2017-04-13",
+    "endDate": "2017-04-14"
+  },
+  {
+    "name": "Droidcon",
     "url": "https://ticketbox.vn/event/droidcon-vietnam-64153",
     "city": "Ho Chi Minh City",
     "country": "Vietnam",
@@ -777,13 +785,5 @@
     "cfpStartDate": "2017-08-22",
     "cfpEndDate": "2017-10-31",
     "cfpUrl": "https://goo.gl/forms/j2o5cgCfF3mIgI523"
-  },
-  {
-    "name": "Droidcon",
-    "url": "https://droidcon.ae",
-    "city": "Dubai",
-    "country": "United Arab Emirates",
-    "startDate": "2017-04-13",
-    "endDate": "2017-04-14"
   }
 ]

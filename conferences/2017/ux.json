@@ -4,7 +4,8 @@
     "startDate": "2017-02-01",
     "city": "Fort Lauderdale, FL",
     "country": "U.S.A.",
-    "url": "http://www.uxdsummit.com"
+    "url": "http://www.uxdsummit.com",
+    "endDate": "2017-02-01"
   },
   {
     "name": "Interaction 17",
@@ -19,21 +20,24 @@
     "startDate": "2017-02-13",
     "city": "Wellington",
     "country": "New Zealand",
-    "url": "http://www.webstock.org.nz/17"
+    "url": "http://www.webstock.org.nz/17",
+    "endDate": "2017-02-13"
   },
   {
     "name": "SVG Summit",
     "startDate": "2017-02-15",
     "city": "Online",
     "country": "Online",
-    "url": "http://SVGSummit.com"
+    "url": "http://SVGSummit.com",
+    "endDate": "2017-02-15"
   },
   {
     "name": "SustainableUX Conference",
     "startDate": "2017-02-16",
     "city": "Online",
     "country": "Online",
-    "url": "https://www.eventbrite.com/e/sustainableux-2017-tickets-27282085452"
+    "url": "https://www.eventbrite.com/e/sustainableux-2017-tickets-27282085452",
+    "endDate": "2017-02-16"
   },
   {
     "name": "ConveyUX",
@@ -72,7 +76,8 @@
     "startDate": "2017-03-30",
     "city": "Edinburgh",
     "country": "Scotland",
-    "url": "http://www.dibiconference.com"
+    "url": "http://www.dibiconference.com",
+    "endDate": "2017-03-30"
   },
   {
     "name": "WAQ",
@@ -103,21 +108,24 @@
     "startDate": "2017-04-23",
     "city": "Toronto",
     "country": "Canada",
-    "url": "http://fitc.ca/event/to17"
+    "url": "http://fitc.ca/event/to17",
+    "endDate": "2017-04-23"
   },
   {
     "name": "Open Vis Conf",
     "startDate": "2017-04-24",
     "city": "Boston, MA",
     "country": "U.S.A.",
-    "url": "https://openvisconf.com"
+    "url": "https://openvisconf.com",
+    "endDate": "2017-04-24"
   },
   {
     "name": "Generate",
     "startDate": "2017-04-27",
     "city": "New York, NY",
     "country": "U.S.A.",
-    "url": "https://www.generateconf.com/new-york-2017"
+    "url": "https://www.generateconf.com/new-york-2017",
+    "endDate": "2017-04-27"
   },
   {
     "name": "Write the Docs",
@@ -132,14 +140,16 @@
     "startDate": "2017-05-20",
     "city": "Lisboa",
     "country": "Portugal",
-    "url": "https://www.ux-lx.com"
+    "url": "https://www.ux-lx.com",
+    "endDate": "2017-05-20"
   },
   {
     "name": "UX London",
     "startDate": "2017-05-24",
     "city": "London",
     "country": "U.K.",
-    "url": "http://2017.uxlondon.com"
+    "url": "http://2017.uxlondon.com",
+    "endDate": "2017-05-24"
   },
   {
     "name": "The Design Conference Brisbane",
@@ -173,7 +183,8 @@
     "startDate": "2017-06-03",
     "city": "Faenza",
     "country": "Italy",
-    "url": "http://2017.kerning.it"
+    "url": "http://2017.kerning.it",
+    "endDate": "2017-06-03"
   },
   {
     "name": "UXPA",
@@ -220,7 +231,8 @@
     "startDate": "2017-06-09",
     "city": "San Francisco, CA",
     "country": "U.S.A.",
-    "url": "https://www.generateconf.com/san-francisco"
+    "url": "https://www.generateconf.com/san-francisco",
+    "endDate": "2017-06-09"
   },
   {
     "name": "UX Strat",
@@ -251,7 +263,8 @@
     "startDate": "2017-07-17",
     "city": "Vancouver",
     "country": "Canada",
-    "url": "http://www.designcontentconf.com"
+    "url": "http://www.designcontentconf.com",
+    "endDate": "2017-07-17"
   },
   {
     "name": "Design and Content Conf",
@@ -308,7 +321,8 @@
     "url": "http://oneandall.io",
     "startDate": "2017-09-07",
     "city": "Montreal",
-    "country": "Canada"
+    "country": "Canada",
+    "endDate": "2017-09-07"
   },
   {
     "name": "MOBX (Mobile UX)",
@@ -405,7 +419,8 @@
     "url": "http://www.productized.co",
     "startDate": "2017-10-01",
     "city": "Lisboa",
-    "country": "Portugal"
+    "country": "Portugal",
+    "endDate": "2017-10-01"
   },
   {
     "name": "We love graphic design",
@@ -580,7 +595,8 @@
     "url": "http://www.dibiconference.com",
     "startDate": "2017-11-10",
     "city": "Newcastle",
-    "country": "U.K."
+    "country": "U.K.",
+    "endDate": "2017-11-10"
   },
   {
     "name": "Gather North",
@@ -595,7 +611,8 @@
     "startDate": "2017-11-28",
     "city": "San Francisco, CA",
     "country": "U.S.A.",
-    "url": "https://www.clarityconf.com"
+    "url": "https://www.clarityconf.com",
+    "endDate": "2017-11-28"
   },
   {
     "name": "Clarity - design systems conf",
