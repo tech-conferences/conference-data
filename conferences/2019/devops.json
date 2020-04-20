@@ -6,9 +6,9 @@
     "endDate": "2019-02-15",
     "city": "Hamburg",
     "country": "Germany",
-    "twitter": "@serverlessHAM",
     "cfpUrl": "https://www.papercall.io/slsdaysham2019",
-    "cfpEndDate": "2018-12-08"
+    "cfpEndDate": "2018-12-08",
+    "twitter": "@serverlessHAM"
   },
   {
     "name": "DSConf",
@@ -17,9 +17,9 @@
     "endDate": "2019-02-16",
     "city": "Pune",
     "country": "India",
-    "twitter": "@dist_sys",
     "cfpUrl": "https://www.papercall.io/distributed-systems-conf",
-    "cfpEndDate": "2018-12-15"
+    "cfpEndDate": "2018-12-15",
+    "twitter": "@dist_sys"
   },
   {
     "name": "SCaLE 17x",
@@ -57,9 +57,9 @@
     "endDate": "2019-03-21",
     "city": "Vilnius",
     "country": "Lithuania",
-    "twitter": "@DevOpsLT",
     "cfpUrl": "https://devopspro.lt/cfp/",
-    "cfpEndDate": "2019-02-10"
+    "cfpEndDate": "2019-02-10",
+    "twitter": "@DevOpsLT"
   },
   {
     "name": "gRPC Conf",
@@ -130,9 +130,9 @@
     "endDate": "2019-04-09",
     "city": "Manchester",
     "country": "U.K.",
-    "twitter": "@uknof",
     "cfpUrl": "https://indico.uknof.org.uk/event/46/abstracts/",
-    "cfpEndDate": "2019-02-26"
+    "cfpEndDate": "2019-02-26",
+    "twitter": "@uknof"
   },
   {
     "name": "DevOpsDays Atlanta, GA",
@@ -151,9 +151,9 @@
     "endDate": "2019-04-11",
     "city": "Linz",
     "country": "Austria",
-    "twitter": "@DevOneLinz",
     "cfpUrl": "https://goo.gl/forms/vNci5cxE4TdbcNVI2",
-    "cfpEndDate": "2019-01-31"
+    "cfpEndDate": "2019-01-31",
+    "twitter": "@DevOneLinz"
   },
   {
     "name": "DevOpsDays Seattle",
@@ -196,9 +196,9 @@
     "endDate": "2019-05-04",
     "city": "Huntsville, AL",
     "country": "U.S.A.",
-    "twitter": "@werockitconf",
     "cfpUrl": "https://www.papercall.io/werockitconf",
-    "cfpEndDate": "2018-11-20"
+    "cfpEndDate": "2018-11-20",
+    "twitter": "@werockitconf"
   },
   {
     "name": "Statscraft",
@@ -207,9 +207,9 @@
     "endDate": "2019-05-14",
     "city": "Tel Aviv",
     "country": "Israel",
-    "twitter": "@statscraft",
     "cfpUrl": "https://www.papercall.io/stastcraft-2019",
-    "cfpEndDate": "2019-03-01"
+    "cfpEndDate": "2019-03-01",
+    "twitter": "@statscraft"
   },
   {
     "name": "Open Source Data Center",
@@ -218,9 +218,9 @@
     "endDate": "2019-05-15",
     "city": "Berlin",
     "country": "Germany",
-    "twitter": "@netways",
     "cfpUrl": "https://osdc.de/submit-a-talk/",
-    "cfpEndDate": "2019-01-31"
+    "cfpEndDate": "2019-01-31",
+    "twitter": "@netways"
   },
   {
     "name": "Salt Lake City DevOps Days",
@@ -229,9 +229,9 @@
     "endDate": "2019-05-15",
     "city": "Salt Lake City, UT",
     "country": "U.S.A.",
-    "twitter": "@devopsdaysslc",
     "cfpUrl": "https://www.papercall.io/slcdod2018",
-    "cfpEndDate": "2019-02-01"
+    "cfpEndDate": "2019-02-01",
+    "twitter": "@devopsdaysslc"
   },
   {
     "name": "JAX DevOps",
@@ -249,9 +249,9 @@
     "endDate": "2019-05-16",
     "city": "Berlin",
     "country": "Germany",
-    "twitter": "@netways",
     "cfpUrl": "https://opensourcecamp.de/submit-a-talk/",
-    "cfpEndDate": "2019-02-28"
+    "cfpEndDate": "2019-02-28",
+    "twitter": "@netways"
   },
   {
     "name": "DevOpsDays Kiev",
@@ -260,9 +260,9 @@
     "endDate": "2019-05-18",
     "city": "Kiev",
     "country": "Ukraine",
-    "twitter": "@days_dev",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf7tjqECtJNK641M_xxEEe0MMm_DUafw-lX6Nnt5nOxpRaSpQ/viewform",
-    "cfpEndDate": "2019-03-01"
+    "cfpEndDate": "2019-03-01",
+    "twitter": "@days_dev"
   },
   {
     "name": "ScaleConf",
@@ -271,9 +271,9 @@
     "endDate": "2019-05-18",
     "city": "Medellin",
     "country": "Colombia",
-    "twitter": "@scaleconfco",
     "cfpUrl": "https://www.papercall.io/scaleconfco2019",
-    "cfpEndDate": "2019-01-25"
+    "cfpEndDate": "2019-01-25",
+    "twitter": "@scaleconfco"
   },
   {
     "name": "ScaleConf Colombia",
@@ -282,9 +282,9 @@
     "endDate": "2019-05-18",
     "city": "Medellin",
     "country": "Colombia",
-    "twitter": "@scaleconfco",
     "cfpUrl": "https://www.papercall.io/scaleconfco2019",
-    "cfpEndDate": "2019-01-25"
+    "cfpEndDate": "2019-01-25",
+    "twitter": "@scaleconfco"
   },
   {
     "name": "Kubecon Europe",
@@ -311,9 +311,9 @@
     "endDate": "2019-05-30",
     "city": "Toronto",
     "country": "Canada",
-    "twitter": "@devopsdaysTO",
     "cfpUrl": "https://www.papercall.io/dodto2019",
-    "cfpEndDate": "2019-02-15"
+    "cfpEndDate": "2019-02-15",
+    "twitter": "@devopsdaysTO"
   },
   {
     "name": "Texas Linux Fest",
@@ -322,9 +322,9 @@
     "endDate": "2019-06-01",
     "city": "Dallas, TX",
     "country": "U.S.A.",
-    "twitter": "@texaslinuxfest",
     "cfpUrl": "http://www.texaslinuxfest.org",
-    "cfpEndDate": "2019-02-28"
+    "cfpEndDate": "2019-02-28",
+    "twitter": "@texaslinuxfest"
   },
   {
     "name": "DevOpsDays Portugal",
@@ -333,9 +333,9 @@
     "endDate": "2019-06-04",
     "city": "Lisboa",
     "country": "Portugal",
-    "twitter": "@devopsdayspt",
     "cfpUrl": "https://www.papercall.io/devopsdaysportugal2019",
-    "cfpEndDate": "2019-03-31"
+    "cfpEndDate": "2019-03-31",
+    "twitter": "@devopsdayspt"
   },
   {
     "name": "Paris Containers Day",
@@ -344,9 +344,9 @@
     "endDate": "2019-06-04",
     "city": "Paris",
     "country": "France",
-    "twitter": "@ContainerDayFR",
     "cfpUrl": "https://cfp.paris-container-day.fr/",
-    "cfpEndDate": "2019-03-03"
+    "cfpEndDate": "2019-03-03",
+    "twitter": "@ContainerDayFR"
   },
   {
     "name": "Devops BCN",
@@ -363,9 +363,9 @@
     "endDate": "2019-06-07",
     "city": "Tampa, FL",
     "country": "U.S.A.",
-    "twitter": "@devopsdaystampa",
     "cfpUrl": "https://www.papercall.io/dodtampabay",
-    "cfpEndDate": "2019-04-12"
+    "cfpEndDate": "2019-04-12",
+    "twitter": "@devopsdaystampa"
   },
   {
     "name": "DevOpsDays Aracaju",
@@ -384,9 +384,9 @@
     "endDate": "2019-06-14",
     "city": "Berlin",
     "country": "Germany",
-    "twitter": "@devops_con",
     "cfpUrl": "https://devopsconference.de/call-for-papers-en/",
-    "cfpEndDate": "2018-12-13"
+    "cfpEndDate": "2018-12-13",
+    "twitter": "@devops_con"
   },
   {
     "name": "SREcon19 Asia/Australia",
@@ -446,9 +446,9 @@
     "endDate": "2019-06-22",
     "city": "Bangalore",
     "country": "India",
-    "twitter": "@rootconf",
     "cfpUrl": "https://hasgeek.com/rootconf/2019",
-    "cfpEndDate": "2019-04-29"
+    "cfpEndDate": "2019-04-29",
+    "twitter": "@rootconf"
   },
   {
     "name": "DevOpsDays Cuba",
@@ -457,9 +457,9 @@
     "endDate": "2019-06-30",
     "city": "Villa Clara",
     "country": "Cuba",
-    "twitter": "@devopsdayscuba",
     "cfpUrl": "https://www.papercall.io/cfps/2028/submissions/new",
-    "cfpEndDate": "2019-04-24"
+    "cfpEndDate": "2019-04-24",
+    "twitter": "@devopsdayscuba"
   },
   {
     "name": "ContainerDays ",
@@ -477,9 +477,9 @@
     "endDate": "2019-06-28",
     "city": "Amsterdam",
     "country": "Netherlands",
-    "twitter": "@devopsams",
     "cfpUrl": "https://sessionize.com/dodams2019/",
-    "cfpEndDate": "2019-04-01"
+    "cfpEndDate": "2019-04-01",
+    "twitter": "@devopsams"
   },
   {
     "name": "Nuremberg Digital Festival",
@@ -497,9 +497,9 @@
     "endDate": "2019-07-17",
     "city": "New York, NY",
     "country": "U.S.A.",
-    "twitter": "@dashconio",
     "cfpUrl": "https://www.dashcon.io/speak",
-    "cfpEndDate": "2019-03-04"
+    "cfpEndDate": "2019-03-04",
+    "twitter": "@dashconio"
   },
   {
     "name": "Xconf Sydney",
@@ -526,9 +526,9 @@
     "endDate": "2019-07-26",
     "city": "Sidney",
     "country": "Australia",
-    "twitter": "@containercamp",
     "cfpUrl": "https://containercamp.typeform.com/to/a1BQqx",
-    "cfpEndDate": "2019-05-31"
+    "cfpEndDate": "2019-05-31",
+    "twitter": "@containercamp"
   },
   {
     "name": "CincyDeliver",
@@ -537,9 +537,9 @@
     "endDate": "2019-07-26",
     "city": "Cincinnati, OH",
     "country": "U.S.A.",
-    "twitter": "@dayofagile",
     "cfpUrl": "https://www.cincydeliver.org",
-    "cfpEndDate": "2019-04-26"
+    "cfpEndDate": "2019-04-26",
+    "twitter": "@dayofagile"
   },
   {
     "name": "DevOpsDays Goiânia",
@@ -548,9 +548,9 @@
     "endDate": "2019-08-03",
     "city": "Goiânia",
     "country": "Brazil",
-    "twitter": "@devopsdaysgyn",
     "cfpUrl": "https://www.papercall.io/devopsdaysgyn2019",
-    "cfpEndDate": "2019-06-24"
+    "cfpEndDate": "2019-06-24",
+    "twitter": "@devopsdaysgyn"
   },
   {
     "name": "DevOpsDays Dallas",
@@ -559,9 +559,9 @@
     "endDate": "2019-08-21",
     "city": "Dallas, TX",
     "country": "U.S.A.",
-    "twitter": "@devopsdaysdfw",
     "cfpUrl": "https://www.papercall.io/dod-dfw-2019",
-    "cfpEndDate": "2019-07-09"
+    "cfpEndDate": "2019-07-09",
+    "twitter": "@devopsdaysdfw"
   },
   {
     "name": "DevOpsDays Santa Maria",
@@ -580,9 +580,9 @@
     "endDate": "2019-08-28",
     "city": "Chicago, IL",
     "country": "U.S.A.",
-    "twitter": "@devopsdayschi",
     "cfpUrl": "https://www.devopsdays.org/events/2019-chicago/propose",
-    "cfpEndDate": "2019-05-03"
+    "cfpEndDate": "2019-05-03",
+    "twitter": "@devopsdayschi"
   },
   {
     "name": "DevOpsDays Cape Town",
@@ -591,9 +591,9 @@
     "endDate": "2019-09-06",
     "city": "Cape Town",
     "country": "South Africa",
-    "twitter": "@devopsdayscpt",
     "cfpUrl": "https://www.papercall.io/devopsdayscpt2019",
-    "cfpEndDate": "2019-07-31"
+    "cfpEndDate": "2019-07-31",
+    "twitter": "@devopsdayscpt"
   },
   {
     "name": "ShipItCon",
@@ -602,9 +602,9 @@
     "endDate": "2019-09-06",
     "city": "Dublin",
     "country": "Ireland",
-    "twitter": "@shipitcon",
     "cfpUrl": "https://ShipItCon.com/cfp",
-    "cfpEndDate": "2019-04-10"
+    "cfpEndDate": "2019-04-10",
+    "twitter": "@shipitcon"
   },
   {
     "name": "DevOpsDays Portland",
@@ -613,9 +613,9 @@
     "endDate": "2019-09-12",
     "city": "Portland, OR",
     "country": "U.S.A.",
-    "twitter": "@devopsdayspdx",
     "cfpUrl": "https://sessionize.com/devopsdays-portland-2019",
-    "cfpEndDate": "2019-04-16"
+    "cfpEndDate": "2019-04-16",
+    "twitter": "@devopsdayspdx"
   },
   {
     "name": "Helm Summit",
@@ -652,9 +652,9 @@
     "endDate": "2019-09-17",
     "city": "Brooklyn, NY",
     "country": "U.S.A.",
-    "twitter": "@gitlab",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdbDLOt7jYDlvZqgs2-IlOoLexszEZ0zGghA3HB-VEq_vVICA/viewform",
-    "cfpEndDate": "2019-07-19"
+    "cfpEndDate": "2019-07-19",
+    "twitter": "@gitlab"
   },
   {
     "name": "DevOpsDays Stockholm",
@@ -673,9 +673,9 @@
     "endDate": "2019-09-19",
     "city": "Columbus, OH",
     "country": "U.S.A.",
-    "twitter": "@DevOpsDaysOhio",
     "cfpUrl": "https://devopsdays.org/events/2019-columbus/welcome",
-    "cfpEndDate": "2019-07-14"
+    "cfpEndDate": "2019-07-14",
+    "twitter": "@DevOpsDaysOhio"
   },
   {
     "name": "DevOpsDays Istanbul",
@@ -702,9 +702,9 @@
     "endDate": "2019-09-25",
     "city": "Panama City",
     "country": "Panama",
-    "twitter": "@dodpanama",
     "cfpUrl": "https://www.papercall.io/cfps/2011/submissions/new",
-    "cfpEndDate": "2019-06-06"
+    "cfpEndDate": "2019-06-06",
+    "twitter": "@dodpanama"
   },
   {
     "name": "CloudNative London",
@@ -732,9 +732,9 @@
     "endDate": "2019-09-27",
     "city": "London",
     "country": "U.K.",
-    "twitter": "@DevOpsDaysLDN",
     "cfpUrl": "https://www.devopsdays.org/events/2019-london/propose/",
-    "cfpEndDate": "2019-05-26"
+    "cfpEndDate": "2019-05-26",
+    "twitter": "@DevOpsDaysLDN"
   },
   {
     "name": "Event-driven Microservices Conference",
@@ -762,9 +762,9 @@
     "endDate": "2019-10-03",
     "city": "Hartford, CT",
     "country": "U.S.A.",
-    "twitter": "@devopsdayshfd",
     "cfpUrl": "https://www.papercall.io/devopsdays-hartford-2019",
-    "cfpEndDate": "2019-08-05"
+    "cfpEndDate": "2019-08-05",
+    "twitter": "@devopsdayshfd"
   },
   {
     "name": "SREcon19 Europe/Middle East/Africa",
@@ -782,9 +782,9 @@
     "endDate": "2019-10-05",
     "city": "Salvador",
     "country": "Brazil",
-    "twitter": "@devopsdaysssa",
     "cfpUrl": "https://www.papercall.io/devopsdaysssa2019",
-    "cfpEndDate": "2019-07-10"
+    "cfpEndDate": "2019-07-10",
+    "twitter": "@devopsdaysssa"
   },
   {
     "name": "DevOps Summit",
@@ -803,9 +803,9 @@
     "endDate": "2019-10-09",
     "city": "London",
     "country": "U.K.",
-    "twitter": "@gitlab",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdbDLOt7jYDlvZqgs2-IlOoLexszEZ0zGghA3HB-VEq_vVICA/viewform",
-    "cfpEndDate": "2019-07-19"
+    "cfpEndDate": "2019-07-19",
+    "twitter": "@gitlab"
   },
   {
     "name": "Puppetize PDX",
@@ -814,9 +814,9 @@
     "endDate": "2019-10-10",
     "city": "Portland, OR",
     "country": "U.S.A.",
-    "twitter": "@puppetize",
     "cfpUrl": "http://pup.pt/pdxcfp",
-    "cfpEndDate": "2019-05-01"
+    "cfpEndDate": "2019-05-01",
+    "twitter": "@puppetize"
   },
   {
     "name": "DevOpsDays Sydney",
@@ -825,9 +825,9 @@
     "endDate": "2019-10-11",
     "city": "Sydney",
     "country": "Australia",
-    "twitter": "@devopsdownunder",
     "cfpUrl": "https://sessionize.com/dodsyd2019",
-    "cfpEndDate": "2019-08-05"
+    "cfpEndDate": "2019-08-05",
+    "twitter": "@devopsdownunder"
   },
   {
     "name": "DevOps Space",
@@ -846,8 +846,8 @@
     "endDate": "2019-10-18",
     "city": "Taipei",
     "country": "Taiwan",
-    "twitter": "@DevOpsDaysTPE",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfWpGX1Bu17gyfaxtqllFKPmwgzzenC6vQ_BwQTXuNGVYeclQ/viewform"
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfWpGX1Bu17gyfaxtqllFKPmwgzzenC6vQ_BwQTXuNGVYeclQ/viewform",
+    "twitter": "@DevOpsDaysTPE"
   },
   {
     "name": "DevOps congress",
@@ -864,9 +864,9 @@
     "endDate": "2019-10-22",
     "city": "Auckland",
     "country": "New Zealand",
-    "twitter": "@devopsdaysnz",
     "cfpUrl": "https://www.papercall.io/devopsdays-auckland-2019",
-    "cfpEndDate": "2019-07-19"
+    "cfpEndDate": "2019-07-19",
+    "twitter": "@devopsdaysnz"
   },
   {
     "name": "DevOpsDays Oslo",
@@ -875,9 +875,9 @@
     "endDate": "2019-10-23",
     "city": "Oslo",
     "country": "Norway",
-    "twitter": "@devopsdaysoslo",
     "cfpUrl": "https://sessionize.com/devopsdays-oslo-2019",
-    "cfpEndDate": "2019-09-01"
+    "cfpEndDate": "2019-09-01",
+    "twitter": "@devopsdaysoslo"
   },
   {
     "name": "DevOpsDays Philadelphia",
@@ -886,9 +886,9 @@
     "endDate": "2019-10-23",
     "city": "Philadelphia, PA",
     "country": "U.S.A.",
-    "twitter": "@DevOpsDaysPHL",
     "cfpUrl": "https://www.papercall.io/devopsdaysphilly2019",
-    "cfpEndDate": "2019-07-14"
+    "cfpEndDate": "2019-07-14",
+    "twitter": "@DevOpsDaysPHL"
   },
   {
     "name": "TECHSPO Dubai",
@@ -905,9 +905,9 @@
     "endDate": "2019-10-24",
     "city": "Detroit, MI",
     "country": "U.S.A.",
-    "twitter": "@devopsdaysdet",
     "cfpUrl": "https://www.devopsdays.org/events/2019-detroit/propose",
-    "cfpEndDate": "2019-07-30"
+    "cfpEndDate": "2019-07-30",
+    "twitter": "@devopsdaysdet"
   },
   {
     "name": "devopsdays Ghent",
@@ -916,9 +916,9 @@
     "endDate": "2019-10-30",
     "city": "Ghent",
     "country": "Belgium",
-    "twitter": "@devopsdaysghent",
     "cfpUrl": "https://cfp.devopsdays.gent/2019/cfp",
-    "cfpEndDate": "2019-07-14"
+    "cfpEndDate": "2019-07-14",
+    "twitter": "@devopsdaysghent"
   },
   {
     "name": "All Day DevOps",
@@ -936,9 +936,9 @@
     "endDate": "2019-11-14",
     "city": "Marseille",
     "country": "France",
-    "twitter": "@treeptik",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeZUhd73ZiadFC3LWrTXEzr-4LKmQbGyuHG7JLgEcvlrG89Ew/viewform",
-    "cfpEndDate": "2019-02-28"
+    "cfpEndDate": "2019-02-28",
+    "twitter": "@treeptik"
   },
   {
     "name": "Spinnaker Summit",
@@ -947,9 +947,9 @@
     "endDate": "2019-11-17",
     "city": "San Diego, CA",
     "country": "U.S.A.",
-    "twitter": "@spinnakersummit",
     "cfpUrl": "https://www.spinnakersummit.com/cfp",
-    "cfpEndDate": "2019-06-30"
+    "cfpEndDate": "2019-06-30",
+    "twitter": "@spinnakersummit"
   },
   {
     "name": "KubeCon + CloudNativeCon",
@@ -976,9 +976,9 @@
     "endDate": "2019-11-20",
     "city": "Galway",
     "country": "Ireland",
-    "twitter": "@DevOpsDaysGal",
     "cfpUrl": "https://devopsdays.org/events/2019-galway/propose",
-    "cfpEndDate": "2019-08-18"
+    "cfpEndDate": "2019-08-18",
+    "twitter": "@DevOpsDaysGal"
   },
   {
     "name": "DevOpsDays Berlin",
@@ -987,9 +987,9 @@
     "endDate": "2019-11-28",
     "city": "Berlin",
     "country": "Germany",
-    "twitter": "@blndevops",
     "cfpUrl": "https://www.papercall.io/2019-berlin",
-    "cfpEndDate": "2019-07-31"
+    "cfpEndDate": "2019-07-31",
+    "twitter": "@blndevops"
   },
   {
     "name": "DevOpsCon",
@@ -1033,8 +1033,8 @@
     "endDate": "2019-12-19",
     "city": "Tel Aviv",
     "country": "Israel",
-    "twitter": "@devopsdaystlv",
     "cfpUrl": "https://devopsdaystlv.com/submit",
-    "cfpEndDate": "2019-08-31"
+    "cfpEndDate": "2019-08-31",
+    "twitter": "@devopsdaystlv"
   }
 ]

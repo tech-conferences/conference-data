@@ -1,27 +1,27 @@
 [
   {
     "name": "KharkivCSS #2",
-    "startDate": "2017-04-22",
-    "city": "Kharkiv",
-    "country": "Ukraine",
     "url": "http://kharkivcss.org",
-    "endDate": "2017-04-22"
+    "startDate": "2017-04-22",
+    "endDate": "2017-04-22",
+    "city": "Kharkiv",
+    "country": "Ukraine"
   },
   {
     "name": "CSS Conf EU",
-    "startDate": "2017-05-05",
-    "city": "Berlin",
-    "country": "Germany",
     "url": "http://2017.cssconf.eu",
-    "endDate": "2017-05-05"
+    "startDate": "2017-05-05",
+    "endDate": "2017-05-05",
+    "city": "Berlin",
+    "country": "Germany"
   },
   {
     "name": "pitercss",
-    "startDate": "2017-06-15",
-    "city": "Saint Petersburg",
-    "country": "Russia",
     "url": "https://pitercss.com",
-    "endDate": "2017-06-15"
+    "startDate": "2017-06-15",
+    "endDate": "2017-06-15",
+    "city": "Saint Petersburg",
+    "country": "Russia"
   },
   {
     "name": "CSS Day",
@@ -33,11 +33,11 @@
   },
   {
     "name": "CSS Dev Conf",
-    "startDate": "2017-10-09",
-    "city": "New Orleans, LA",
-    "country": "U.S.A.",
     "url": "http://2017.cssdevconf.com",
-    "endDate": "2017-10-09"
+    "startDate": "2017-10-09",
+    "endDate": "2017-10-09",
+    "city": "New Orleans, LA",
+    "country": "U.S.A."
   },
   {
     "name": "CSSConf Budapest",
@@ -52,8 +52,8 @@
     "name": "dotCSS",
     "url": "https://2017.dotcss.io",
     "startDate": "2017-11-30",
+    "endDate": "2017-11-30",
     "city": "Paris",
-    "country": "France",
-    "endDate": "2017-11-30"
+    "country": "France"
   }
 ]

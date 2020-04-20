@@ -37,9 +37,9 @@
     "name": "The UX Conference",
     "url": "https://theuxconf.com/feb2019/",
     "startDate": "2018-02-20",
+    "endDate": "2018-02-20",
     "city": "London",
-    "country": "U.K.",
-    "endDate": "2018-02-20"
+    "country": "U.K."
   },
   {
     "name": "UX Istanbul",
@@ -195,10 +195,10 @@
     "name": "Web Directions Design Leaders",
     "url": "http://webdirections.org/designleaders",
     "startDate": "2018-04-11",
+    "endDate": "2018-04-11",
     "city": "Melbourne",
     "country": "Australia",
-    "twitter": "@webdirections",
-    "endDate": "2018-04-11"
+    "twitter": "@webdirections"
   },
   {
     "name": "Web Directions Design",
@@ -399,10 +399,10 @@
   {
     "name": "Pixel Pioneers Bristol",
     "url": "https://pixelpioneers.co",
-    "city": "Bristol",
-    "country": "U.K.",
     "startDate": "2018-06-08",
-    "endDate": "2018-06-08"
+    "endDate": "2018-06-08",
+    "city": "Bristol",
+    "country": "U.K."
   },
   {
     "name": "UX Strat EU",
@@ -620,9 +620,9 @@
     "endDate": "2018-10-19",
     "city": "Braga",
     "country": "Portugal",
-    "twitter": "@mirrorconf",
     "cfpUrl": "https://www.papercall.io/mirrorconf2018",
-    "cfpEndDate": "2018-07-16"
+    "cfpEndDate": "2018-07-16",
+    "twitter": "@mirrorconf"
   },
   {
     "name": "World Usability Congress",
@@ -639,9 +639,9 @@
     "endDate": "2018-10-19",
     "city": "Braga",
     "country": "Portugal",
-    "twitter": "@MirrorConf",
     "cfpUrl": "https://www.papercall.io/mirrorconf2018",
-    "cfpEndDate": "2018-07-16"
+    "cfpEndDate": "2018-07-16",
+    "twitter": "@MirrorConf"
   },
   {
     "name": "push",
@@ -685,8 +685,8 @@
     "endDate": "2018-10-28",
     "city": "Bangalore",
     "country": "India",
-    "twitter": "@DesignUpConf",
-    "cfpUrl": "https://docs.google.com/forms/d/10TETca7YKDzFYadoL6QsEKR5H_Wb2sfDMzuiT-g12do/edit"
+    "cfpUrl": "https://docs.google.com/forms/d/10TETca7YKDzFYadoL6QsEKR5H_Wb2sfDMzuiT-g12do/edit",
+    "twitter": "@DesignUpConf"
   },
   {
     "name": "Web Directions Summit",
@@ -704,17 +704,17 @@
     "endDate": "2018-11-05",
     "city": "Berlin",
     "country": "Germany",
-    "twitter": "@a11yclub",
     "cfpUrl": "https://colloq.io/events/accessibility-club/2018/berlin/1/callforpapers",
-    "cfpEndDate": "2018-07-01"
+    "cfpEndDate": "2018-07-01",
+    "twitter": "@a11yclub"
   },
   {
     "name": "Beyond Tellerrand",
     "url": "https://beyondtellerrand.com/events/berlin-2018",
-    "city": "Berlin",
-    "country": "Germany",
     "startDate": "2018-11-05",
-    "endDate": "2018-11-08"
+    "endDate": "2018-11-08",
+    "city": "Berlin",
+    "country": "Germany"
   },
   {
     "name": "Design Systems London",
@@ -728,10 +728,10 @@
   {
     "name": "Pixel Pioneers Belfast",
     "url": "https://pixelpioneers.co",
-    "city": "Belfast",
-    "country": "U.K.",
     "startDate": "2018-11-22",
     "endDate": "2018-11-23",
+    "city": "Belfast",
+    "country": "U.K.",
     "cfpUrl": "https://pixelpioneers.co/call-for-speakers",
     "cfpEndDate": "2018-07-31"
   },

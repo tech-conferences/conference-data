@@ -154,8 +154,8 @@
     "endDate": "2020-06-09",
     "city": "Berlin",
     "country": "Germany",
-    "twitter": "@berlinbuzzwords",
-    "cfpUrl": "https://berlinbuzzwords.de/call-submissions"
+    "cfpUrl": "https://berlinbuzzwords.de/call-submissions",
+    "twitter": "@berlinbuzzwords"
   },
   {
     "name": "MongoDB.live",
@@ -191,9 +191,9 @@
     "endDate": "2020-06-17",
     "city": "Paris",
     "country": "France",
-    "twitter": "@dataxday",
     "cfpUrl": "https://conference-hall.io/organizer/event/WJyJvxIZ7i0eQjruPKpv",
-    "cfpEndDate": "2020-04-11"
+    "cfpEndDate": "2020-04-11",
+    "twitter": "@dataxday"
   },
   {
     "name": "ML Conference Munich",
@@ -229,9 +229,9 @@
     "endDate": "2020-07-08",
     "city": "London",
     "country": "U.K.",
-    "twitter": "@Postgres_London",
     "cfpUrl": "https://postgreslondon.org/call-for-papers",
-    "cfpEndDate": "2020-03-27"
+    "cfpEndDate": "2020-03-27",
+    "twitter": "@Postgres_London"
   },
   {
     "name": "PGDay Russia",
@@ -356,9 +356,9 @@
     "endDate": "2020-09-18",
     "city": "Vienna",
     "country": "Austria",
-    "twitter": "@PGDayAustria",
     "cfpUrl": "https://pgday.at/en/talk-commitee",
-    "cfpEndDate": "2020-04-19"
+    "cfpEndDate": "2020-04-19",
+    "twitter": "@PGDayAustria"
   },
   {
     "name": "SQLbits",
@@ -384,9 +384,9 @@
     "endDate": "2020-10-09",
     "city": "Montevideo",
     "country": "Uruguay",
-    "twitter": "@LatinR_Conf",
     "cfpUrl": "https://latin-r.com/blog/presentacion-trabajos",
-    "cfpEndDate": "2020-04-30"
+    "cfpEndDate": "2020-04-30",
+    "twitter": "@LatinR_Conf"
   },
   {
     "name": "Data Saturday",
@@ -404,9 +404,9 @@
     "endDate": "2020-10-13",
     "city": "Mechelen",
     "country": "Belgium",
-    "twitter": "@datamindsbe",
     "cfpUrl": "https://sessionize.com/dataminds-connect-2020",
-    "cfpEndDate": "2020-05-31"
+    "cfpEndDate": "2020-05-31",
+    "twitter": "@datamindsbe"
   },
   {
     "name": "MCubed - AI, ML, and analytics conference",
@@ -415,9 +415,9 @@
     "endDate": "2020-10-14",
     "city": "London",
     "country": "U.K.",
-    "twitter": "@MCubedLondon",
     "cfpUrl": "https://www.mcubed.london/call-for-papers",
-    "cfpEndDate": "2020-03-30"
+    "cfpEndDate": "2020-03-30",
+    "twitter": "@MCubedLondon"
   },
   {
     "name": "Data2Day",
@@ -453,9 +453,9 @@
     "endDate": "2020-10-28",
     "city": "Dublin",
     "country": "Ireland",
-    "twitter": "@Quest_4_Quality",
     "cfpUrl": "https://www.questforquality.eu/event-registration/call-for-papers",
-    "cfpEndDate": "2020-07-31"
+    "cfpEndDate": "2020-07-31",
+    "twitter": "@Quest_4_Quality"
   },
   {
     "name": "AI Dev World",
@@ -464,8 +464,8 @@
     "endDate": "2020-10-29",
     "city": "San Jose, CA",
     "country": "U.S.A.",
-    "twitter": "@AIDevWorld",
-    "cfpUrl": "https://aidevworld.com/conference/apply-to-speak"
+    "cfpUrl": "https://aidevworld.com/conference/apply-to-speak",
+    "twitter": "@AIDevWorld"
   },
   {
     "name": "European Azure Conference",

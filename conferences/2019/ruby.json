@@ -15,9 +15,9 @@
     "endDate": "2019-02-08",
     "city": "Cape Town",
     "country": "South Africa",
-    "twitter": "@rubyfuza",
     "cfpUrl": "https://www.papercall.io/rubyfuza",
-    "cfpEndDate": "2018-12-15"
+    "cfpEndDate": "2018-12-15",
+    "twitter": "@rubyfuza"
   },
   {
     "name": "RubyConf AU",
@@ -26,9 +26,9 @@
     "endDate": "2019-02-09",
     "city": "Melbourne",
     "country": "Australia",
-    "twitter": "@rubyconf_au",
     "cfpUrl": "https://www.papercall.io/rubyconf-au-2019",
-    "cfpEndDate": "2018-10-15"
+    "cfpEndDate": "2018-10-15",
+    "twitter": "@rubyconf_au"
   },
   {
     "name": "Ruby On Ice",
@@ -37,9 +37,9 @@
     "endDate": "2019-02-24",
     "city": "Tegernsee",
     "country": "Germany",
-    "twitter": "@rubyoniceconf",
     "cfpUrl": "https://rubyonice.com/",
-    "cfpEndDate": "2018-10-19"
+    "cfpEndDate": "2018-10-19",
+    "twitter": "@rubyoniceconf"
   },
   {
     "name": "wroc_love.rb",
@@ -48,9 +48,9 @@
     "endDate": "2019-03-24",
     "city": "Wroclaw",
     "country": "Poland",
-    "twitter": "@wrocloverb",
     "cfpUrl": "https://wrocloverb.com",
-    "cfpEndDate": "2019-01-31"
+    "cfpEndDate": "2019-01-31",
+    "twitter": "@wrocloverb"
   },
   {
     "name": "Ruby Hack",
@@ -59,8 +59,8 @@
     "endDate": "2019-04-05",
     "city": "Sandy, UT",
     "country": "U.S.A.",
-    "twitter": "@rubyhack",
-    "cfpEndDate": "2018-12-31"
+    "cfpEndDate": "2018-12-31",
+    "twitter": "@rubyhack"
   },
   {
     "name": "Rails Camp South",
@@ -78,9 +78,9 @@
     "endDate": "2019-04-06",
     "city": "Minsk",
     "country": "Belarus",
-    "twitter": "@rubyconfby",
     "cfpUrl": "https://www.papercall.io/rubyconfby",
-    "cfpEndDate": "2019-02-24"
+    "cfpEndDate": "2019-02-24",
+    "twitter": "@rubyconfby"
   },
   {
     "name": "Ruby Kaigi",
@@ -142,9 +142,9 @@
     "endDate": "2019-06-22",
     "city": "Rotterdam",
     "country": "Netherlands",
-    "twitter": "@euruko",
     "cfpUrl": "https://www.papercall.io/euruko2019",
-    "cfpEndDate": "2019-02-28"
+    "cfpEndDate": "2019-02-28",
+    "twitter": "@euruko"
   },
   {
     "name": "Brighton Ruby",
@@ -162,9 +162,9 @@
     "endDate": "2019-07-27",
     "city": "Taipei",
     "country": "Taiwan",
-    "twitter": "@rubyconftw",
     "cfpUrl": "https://cfp.rubyconf.tw/activities/2019",
-    "cfpEndDate": "2019-04-25"
+    "cfpEndDate": "2019-04-25",
+    "twitter": "@rubyconftw"
   },
   {
     "name": "Southeast Ruby",
@@ -182,9 +182,9 @@
     "endDate": "2019-09-01",
     "city": "Wroclaw",
     "country": "Poland",
-    "twitter": "@grill_rb",
     "cfpUrl": "https://grillrb.com/speakers",
-    "cfpEndDate": "2019-06-30"
+    "cfpEndDate": "2019-06-30",
+    "twitter": "@grill_rb"
   },
   {
     "name": "Ruby Conference Thailand",
@@ -193,9 +193,9 @@
     "endDate": "2019-09-07",
     "city": "Bangkok",
     "country": "Thailand",
-    "twitter": "@rubyconfth",
     "cfpUrl": "https://www.papercall.io/rubyconfth",
-    "cfpEndDate": "2019-06-09"
+    "cfpEndDate": "2019-06-09",
+    "twitter": "@rubyconfth"
   },
   {
     "name": "RubyC",
@@ -204,9 +204,9 @@
     "endDate": "2019-09-15",
     "city": "Kiev",
     "country": "Ukraine",
-    "twitter": "@rubyc_eu",
     "cfpUrl": "https://rubyc.eu/speakers/new",
-    "cfpEndDate": "2019-07-01"
+    "cfpEndDate": "2019-07-01",
+    "twitter": "@rubyc_eu"
   },
   {
     "name": "Ruby Russia",
@@ -215,9 +215,9 @@
     "endDate": "2019-09-28",
     "city": "Moscow",
     "country": "Russia",
-    "twitter": "@railsclub_ru",
     "cfpUrl": "https://forms.gle/i8p2UDZksHvrEsxn9",
-    "cfpEndDate": "2019-08-09"
+    "cfpEndDate": "2019-08-09",
+    "twitter": "@railsclub_ru"
   },
   {
     "name": "ACR",
@@ -226,9 +226,9 @@
     "endDate": "2019-10-04",
     "city": "Jacksonville Beach, FL",
     "country": "U.S.A.",
-    "twitter": "@ancientcityruby",
     "cfpUrl": "https://www.papercall.io/acr-2019",
-    "cfpEndDate": "2019-07-31"
+    "cfpEndDate": "2019-07-31",
+    "twitter": "@ancientcityruby"
   },
   {
     "name": "SolidusConf",
@@ -255,8 +255,8 @@
     "endDate": "2019-11-29",
     "city": "São Paulo",
     "country": "Brazil",
-    "twitter": "@rubyconfbr",
     "cfpUrl": "https://callforpapers.locaweb.com.br/events/rubyconf-2019",
-    "cfpEndDate": "2019-10-07"
+    "cfpEndDate": "2019-10-07",
+    "twitter": "@rubyconfbr"
   }
 ]

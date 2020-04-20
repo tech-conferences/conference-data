@@ -34,13 +34,12 @@
   {
     "name": "Mobile Era",
     "url": "https://mobileera.rocks",
-    "city": "Oslo",
-    "country": "Norway",
     "startDate": "2017-10-05",
     "endDate": "2017-10-06",
-    "cfpStartDate": "2017-03-21",
-    "cfpEndDate": "2017-05-15",
-    "cfpUrl": "https://mobileera.rocks/news/posts/c4p-time"
+    "city": "Oslo",
+    "country": "Norway",
+    "cfpUrl": "https://mobileera.rocks/news/posts/c4p-time",
+    "cfpEndDate": "2017-05-15"
   },
   {
     "name": "Release Notes",
@@ -69,11 +68,10 @@
   {
     "name": "Mobius",
     "url": "https://mobiusconf.com/en",
-    "city": "Moscow",
-    "country": "Russia",
     "startDate": "2017-11-11",
     "endDate": "2017-11-11",
-    "cfpStartDate": "2017-06-22",
+    "city": "Moscow",
+    "country": "Russia",
     "cfpUrl": "https://mobiusconf.com/en/cfp/"
   },
   {

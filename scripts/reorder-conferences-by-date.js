@@ -8,6 +8,8 @@ const BASE_DIR = 'conferences';
 
 const conferencesJSON = conferenceReader();
 
+const propertyOrder = ['name', 'url', 'startDate', 'endDate', 'city', 'country', 'cfpUrl', 'cfpEndDate', 'twitter'];
+
 Object.keys(conferencesJSON).forEach((year) => {
   Object.keys(conferencesJSON[year]).forEach((topic) => {
     const fileName = `${BASE_DIR}/${year}/${topic}.json`;
@@ -22,13 +24,16 @@ Object.keys(conferencesJSON).forEach((year) => {
       'name'
     ]);
 
-    sortedConfs.forEach(conference => {
-      if (!conference.endDate) {
-        conference.endDate = conference.startDate;
-      }
-    })
+    const sortedConfByProperties = sortedConfs.map(conference => {
+      const sortedEntry = {};
+      propertyOrder.forEach(property => {
+        sortedEntry[property] = conference[property];
+      });
+      return sortedEntry;
+    });
 
-    fs.writeFile(fileName, JSON.stringify(sortedConfs, null, 2), () => {
+
+    fs.writeFile(fileName, JSON.stringify(sortedConfByProperties, null, 2), () => {
       console.log(`File ${fileName} was successfully reordered`);
     });
 

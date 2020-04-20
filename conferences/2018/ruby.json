@@ -218,9 +218,9 @@
     "endDate": "2018-08-04",
     "city": "Pune",
     "country": "India",
-    "twitter": "@deccanrubyconf",
     "cfpUrl": "https://www.papercall.io/drc18",
-    "cfpEndDate": "2018-07-01"
+    "cfpEndDate": "2018-07-01",
+    "twitter": "@deccanrubyconf"
   },
   {
     "name": "GrillRB",
@@ -229,9 +229,9 @@
     "endDate": "2018-08-12",
     "city": "Wroclaw",
     "country": "Poland",
-    "twitter": "@grill_rb",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfZimHrS_CTL-lMJv44JYSp6df7_YtnggLqlA54ZLGGisKH2Q/viewform",
-    "cfpEndDate": "2018-07-01"
+    "cfpEndDate": "2018-07-01",
+    "twitter": "@grill_rb"
   },
   {
     "name": "EuRuKo",
@@ -249,9 +249,9 @@
     "endDate": "2018-10-06",
     "city": "Moscow",
     "country": "Russia",
-    "twitter": "@railsclub_ru",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfHVl62PcA5wiq4GVMG9xSgdu3h3R99xOH0UBuatjDg1ivv2w/viewform",
-    "cfpEndDate": "2018-09-15"
+    "cfpEndDate": "2018-09-15",
+    "twitter": "@railsclub_ru"
   },
   {
     "name": "Ruby Summit China",
@@ -278,8 +278,8 @@
     "endDate": "2018-11-09",
     "city": "Austin, TX",
     "country": "U.S.A.",
-    "twitter": "@keeprubyweird",
     "cfpUrl": "https://www.papercall.io/krw-2018",
-    "cfpEndDate": "2018-08-27"
+    "cfpEndDate": "2018-08-27",
+    "twitter": "@keeprubyweird"
   }
 ]

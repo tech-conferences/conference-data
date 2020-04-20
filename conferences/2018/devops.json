@@ -142,9 +142,9 @@
     "endDate": "2018-05-25",
     "city": "Melbourne",
     "country": "Australia",
-    "twitter": "@containercamp",
     "cfpUrl": "https://2018.container.camp/au/",
-    "cfpEndDate": "2018-03-01"
+    "cfpEndDate": "2018-03-01",
+    "twitter": "@containercamp"
   },
   {
     "name": "DevOpsDays Stockholm",
@@ -153,9 +153,9 @@
     "endDate": "2018-05-25",
     "city": "Stockholm",
     "country": "Sweden",
-    "twitter": "@devopsdayssthlm",
     "cfpUrl": "https://www.devopsdays.org/events/2018-stockholm/propose",
-    "cfpEndDate": "2018-04-02"
+    "cfpEndDate": "2018-04-02",
+    "twitter": "@devopsdayssthlm"
   },
   {
     "name": "DevOpsDay - Victoria",
@@ -270,9 +270,9 @@
     "endDate": "2018-09-07",
     "city": "London",
     "country": "U.K.",
-    "twitter": "@containercamp",
     "cfpUrl": "https://2018.container.camp/uk/",
-    "cfpEndDate": "2018-06-29"
+    "cfpEndDate": "2018-06-29",
+    "twitter": "@containercamp"
   },
   {
     "name": "Jazoon Techdays",
@@ -362,9 +362,9 @@
     "endDate": "2018-09-28",
     "city": "Toronto",
     "country": "Canada",
-    "twitter": "@FunctionsConf",
     "cfpUrl": "https://www.papercall.io/serverless-to-2018",
-    "cfpEndDate": "2018-07-31"
+    "cfpEndDate": "2018-07-31",
+    "twitter": "@FunctionsConf"
   },
   {
     "name": "DevOpsDay - Detroit",
@@ -456,9 +456,9 @@
     "endDate": "2018-10-26",
     "city": "Verona",
     "country": "Italy",
-    "twitter": "@ContainerDayIt",
     "cfpUrl": "https://goo.gl/forms/yuEjoOWzLb5x04bQ2",
-    "cfpEndDate": "2018-08-31"
+    "cfpEndDate": "2018-08-31",
+    "twitter": "@ContainerDayIt"
   },
   {
     "name": "DevOpsDay - Oslo",
@@ -511,9 +511,9 @@
     "endDate": "2018-11-20",
     "city": "Galway",
     "country": "Ireland",
-    "twitter": "@devopsdaysgal",
     "cfpUrl": "https://www.devopsdays.org/events/2018-galway/propose/",
-    "cfpEndDate": "2018-09-02"
+    "cfpEndDate": "2018-09-02",
+    "twitter": "@devopsdaysgal"
   },
   {
     "name": "KubeCon | CloudNativeCon",
@@ -540,8 +540,8 @@
     "endDate": "2018-12-19",
     "city": "Tel Aviv",
     "country": "Israel",
-    "twitter": "@DevOpsDaysTLV",
     "cfpUrl": "https://www.papercall.io/devopsdaystlv2018/",
-    "cfpEndDate": "2018-09-30"
+    "cfpEndDate": "2018-09-30",
+    "twitter": "@DevOpsDaysTLV"
   }
 ]

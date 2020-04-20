@@ -140,9 +140,9 @@
     "endDate": "2018-07-14",
     "city": "Baltimore, MD",
     "country": "U.S.A.",
-    "twitter": "@MidDevCon",
+    "cfpUrl": "https://www.middevcon.com/call-for-speakers",
     "cfpEndDate": "2018-03-31",
-    "cfpUrl": "https://www.middevcon.com/call-for-speakers"
+    "twitter": "@MidDevCon"
   },
   {
     "name": "PHPDetroit Conference",
@@ -151,9 +151,9 @@
     "endDate": "2018-07-28",
     "city": "Detroit, MI",
     "country": "U.S.A.",
-    "twitter": "@phpdet",
+    "cfpUrl": "https://cfp.phpdetroit.io",
     "cfpEndDate": "2018-03-22",
-    "cfpUrl": "https://cfp.phpdetroit.io"
+    "twitter": "@phpdet"
   },
   {
     "name": "SouthEast PHP",
@@ -162,9 +162,9 @@
     "endDate": "2018-08-17",
     "city": "Nashville, TN",
     "country": "U.S.A.",
-    "twitter": "@southeastphp",
+    "cfpUrl": "https://cfp.southeastphp.com",
     "cfpEndDate": "2018-04-15",
-    "cfpUrl": "https://cfp.southeastphp.com"
+    "twitter": "@southeastphp"
   },
   {
     "name": "Laracon EU",
@@ -173,9 +173,9 @@
     "endDate": "2018-08-31",
     "city": "Amsterdam",
     "country": "Netherlands",
-    "twitter": "@laraconeu",
+    "cfpUrl": "https://laracon.eu/2018/cfp/",
     "cfpEndDate": "2018-04-30",
-    "cfpUrl": "https://laracon.eu/2018/cfp/"
+    "twitter": "@laraconeu"
   },
   {
     "name": "Drupal Europe",
@@ -250,9 +250,9 @@
     "endDate": "2018-10-12",
     "city": "San Francisco, CA",
     "country": "U.S.A.",
-    "twitter": "@Symfony_Live",
     "cfpUrl": "https://usa2018.live.symfony.com/cfp",
-    "cfpEndDate": "2018-07-27"
+    "cfpEndDate": "2018-07-27",
+    "twitter": "@Symfony_Live"
   },
   {
     "name": "ZendCon & OpenEnterprise",
@@ -261,9 +261,9 @@
     "endDate": "2018-10-17",
     "city": "Las Vegas, NV",
     "country": "U.S.A.",
-    "twitter": "@zendcon",
     "cfpUrl": "http://www.zendcon.com/cfp/",
-    "cfpEndDate": "2018-05-25"
+    "cfpEndDate": "2018-05-25",
+    "twitter": "@zendcon"
   },
   {
     "name": "International PHP Conference",
@@ -281,9 +281,9 @@
     "endDate": "2018-10-19",
     "city": "Verona",
     "country": "Italy",
-    "twitter": "@symfonydayit",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeiBTMPyCiaiz1T6OcGgyy55pQubLtT6AjhsLxqa03tI8xgtQ/viewform",
-    "cfpEndDate": "2018-06-10"
+    "cfpEndDate": "2018-06-10",
+    "twitter": "@symfonydayit"
   },
   {
     "name": "php Central Europe",
@@ -292,9 +292,9 @@
     "endDate": "2018-10-28",
     "city": "Prague",
     "country": "Czech Republic",
-    "twitter": "@phpce_eu",
     "cfpUrl": "https://cfp.phpce.eu",
-    "cfpEndDate": "2018-07-24"
+    "cfpEndDate": "2018-07-24",
+    "twitter": "@phpce_eu"
   },
   {
     "name": "php[world]",

@@ -15,9 +15,9 @@
     "endDate": "2019-04-05",
     "city": "London",
     "country": "U.K.",
-    "twitter": "@skillsmatter",
     "cfpUrl": "https://skillsmatter.com/conferences/10869-f-sharp-exchange-2019#get_involved",
-    "cfpEndDate": "2019-01-14"
+    "cfpEndDate": "2019-01-14",
+    "twitter": "@skillsmatter"
   },
   {
     "name": "SUGCON EU",
@@ -35,9 +35,9 @@
     "endDate": "2019-05-10",
     "city": "Atlanta, GA",
     "country": "U.S.A.",
-    "twitter": "@DotNetSouth",
     "cfpUrl": "http://dotnetsouth.tech/cfp/",
-    "cfpEndDate": "2019-02-08"
+    "cfpEndDate": "2019-02-08",
+    "twitter": "@DotNetSouth"
   },
   {
     "name": "DotNetSouth.Tech",
@@ -119,8 +119,8 @@
     "endDate": "2019-12-15",
     "city": "Noida",
     "country": "India",
-    "twitter": "@innovaccer",
     "cfpUrl": "https://hackercamp2019.typeform.com/to/BICv5S",
-    "cfpEndDate": "2019-12-13"
+    "cfpEndDate": "2019-12-13",
+    "twitter": "@innovaccer"
   }
 ]
