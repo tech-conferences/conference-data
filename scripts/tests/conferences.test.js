@@ -8,10 +8,18 @@ const conferenceReader = require('../conferenceReader');
 const twitterRegex = /@(\w){1,15}$/;
 const httpRegex = /^http(s?):\/\//;
 const httpNoQuestionmarkRegex = /\?/;
+const urlShortener = /(\/bit\.ly)|(\/t\.co)/;
 const usaStateRegex = /, ([A-Z][A-Z])|(D.C.)$/;
 const emptyStringRegex = /^\s+$|^$/gi;
 const dateFormat = 'yyyy-MM-dd';
 const REQUIRED_KEYS = ['name', 'url', 'startDate', 'endDate', 'country', 'city'];
+
+function testUrl(conference, property) {
+    const value = conference[property];
+    assert(httpRegex.test(value), `[${property}] should start with http – got: "${value}"`);
+    assert(!httpNoQuestionmarkRegex.test(value), `[${property}] should not contain a ?  – got: "${value}"`);
+    assert(!urlShortener.test(value), `[${property}] should not use url shorteners – got: "${value}"`);
+}
 
 const conferencesJSON = conferenceReader();
 
@@ -44,14 +52,11 @@ for (const year of Object.keys(conferencesJSON)) {
                     assert(twitterRegex.test(twitter), `[twitter] should be formatted like @twitter – got: "${twitter}"`);
                 }
 
-                // url starts with http(s)://
-                assert(httpRegex.test(url), `[url] should start with http – got: "${url}"`);
-                assert(httpRegex.test(url), `[url] should start with http – got: "${url}"`);
-                assert(!httpNoQuestionmarkRegex.test(url), `[url] should not contain a ?  – got: "${url}"`);
+                testUrl(conference, "url");
 
                 // cfpUrl starts with http(s)://
                 if (cfpUrl) {
-                    assert(httpRegex.test(cfpUrl), `[cfpUrl] should start with http – got: "${cfpUrl}"`);
+                    testUrl(conference, "cfpUrl");
                 }
                 // Has no missing mandatory key
                 REQUIRED_KEYS.forEach(requiredKey => {
