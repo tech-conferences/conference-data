@@ -76,9 +76,9 @@
     "endDate": "2018-07-01",
     "city": "Munich",
     "country": "Germany",
-    "twitter": "@pyconweb",
     "cfpUrl": "https://www.papercall.io/pyconweb-2018",
-    "cfpEndDate": "2018-04-22"
+    "cfpEndDate": "2018-04-22",
+    "twitter": "@pyconweb"
   },
   {
     "name": "SciPy",
@@ -95,9 +95,9 @@
     "endDate": "2018-07-23",
     "city": "Moscow",
     "country": "Russia",
-    "twitter": "@PyConRu",
     "cfpUrl": "http://pycon.ru/2018/program/cfp/",
-    "cfpEndDate": "2018-06-12"
+    "cfpEndDate": "2018-06-12",
+    "twitter": "@PyConRu"
   },
   {
     "name": "PyBay",
@@ -115,9 +115,9 @@
     "endDate": "2018-08-28",
     "city": "Sydney",
     "country": "Australia",
-    "twitter": "@pyconau",
     "cfpUrl": "https://2018.pycon-au.org/speak/",
-    "cfpEndDate": "2018-05-28"
+    "cfpEndDate": "2018-05-28",
+    "twitter": "@pyconau"
   },
   {
     "name": "EuroSciPy",
@@ -162,8 +162,8 @@
     "endDate": "2018-10-26",
     "city": "Nairobi",
     "country": "Kenya",
-    "twitter": "@PyNBO",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf2cF2KxbI9XsEIHqBA2jEzx0S4fZ4_weK3HYMo10blq1mCWw/viewform"
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf2cF2KxbI9XsEIHqBA2jEzx0S4fZ4_weK3HYMo10blq1mCWw/viewform",
+    "twitter": "@PyNBO"
   },
   {
     "name": "PyCon",
@@ -183,9 +183,9 @@
     "endDate": "2018-11-13",
     "city": "Toronto",
     "country": "Canada",
-    "twitter": "@pyconca",
     "cfpUrl": "https://www.papercall.io/pyconca2018",
-    "cfpEndDate": "2018-09-10"
+    "cfpEndDate": "2018-09-10",
+    "twitter": "@pyconca"
   },
   {
     "name": "PyCon Balkan",
@@ -194,8 +194,8 @@
     "endDate": "2018-11-18",
     "city": "Belgrade",
     "country": "Serbia",
-    "twitter": "@pyconblkn",
     "cfpUrl": "https://pyconbalkan.com/cfp",
-    "cfpEndDate": "2018-09-17"
+    "cfpEndDate": "2018-09-17",
+    "twitter": "@pyconblkn"
   }
 ]

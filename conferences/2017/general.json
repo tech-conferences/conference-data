@@ -2,60 +2,60 @@
   {
     "name": "Techbash",
     "url": "https://techbash.com",
-    "city": "Pocono Manor, PA",
-    "country": "U.S.A.",
     "startDate": "2017-10-04",
-    "endDate": "2017-10-06"
+    "endDate": "2017-10-06",
+    "city": "Pocono Manor, PA",
+    "country": "U.S.A."
   },
   {
     "name": "GDG DevFest",
     "url": "https://devfest.gdghyderabad.in",
-    "city": "Hyderabad",
-    "country": "India",
     "startDate": "2017-11-04",
     "endDate": "2017-11-04",
+    "city": "Hyderabad",
+    "country": "India",
     "twitter": "@gdg_hyd"
   },
   {
     "name": "QCon SF",
     "url": "https://qconsf.com",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
     "startDate": "2017-11-13",
     "endDate": "2017-11-15",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
     "twitter": "@QConSF"
   },
   {
     "name": "Clarity",
     "url": "https://www.clarityconf.com",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
     "startDate": "2017-11-28",
-    "endDate": "2017-11-30"
+    "endDate": "2017-11-30",
+    "city": "San Francisco, CA",
+    "country": "U.S.A."
   },
   {
     "name": "HamOnt ML",
     "url": "https://www.eventbrite.ca/e/hamont-ml-tickets-38294716528",
-    "city": "Hamilton",
-    "country": "Canada",
     "startDate": "2017-12-02",
-    "endDate": "2017-12-02"
+    "endDate": "2017-12-02",
+    "city": "Hamilton",
+    "country": "Canada"
   },
   {
     "name": "ConFoo Vancouver",
     "url": "https://confoo.ca/en/yvr2017",
-    "city": "Vancouver",
-    "country": "Canada",
     "startDate": "2017-12-04",
     "endDate": "2017-12-06",
+    "city": "Vancouver",
+    "country": "Canada",
     "twitter": "@confooca"
   },
   {
     "name": "DevRelCon London",
     "url": "https://london-2017.devrel.net",
-    "city": "London",
-    "country": "U.K.",
     "startDate": "2017-12-06",
-    "endDate": "2017-12-06"
+    "endDate": "2017-12-06",
+    "city": "London",
+    "country": "U.K."
   }
 ]

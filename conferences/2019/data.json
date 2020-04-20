@@ -69,9 +69,9 @@
     "endDate": "2019-03-22",
     "city": "Columbus, OH",
     "country": "U.S.A.",
-    "twitter": "@wia_conference",
     "cfpUrl": "https://www.womeninanalytics.org/call-for-speakers",
-    "cfpEndDate": "2018-11-23"
+    "cfpEndDate": "2018-11-23",
+    "twitter": "@wia_conference"
   },
   {
     "name": "0111 CTO Conference Las Vegas",
@@ -88,9 +88,9 @@
     "endDate": "2019-04-02",
     "city": "New York, NY",
     "country": "U.S.A.",
-    "twitter": "@ConfluentInc",
     "cfpUrl": "https://kafka-summit.org/kafka-summit-new-york-2019/speakers/",
-    "cfpEndDate": "2018-12-20"
+    "cfpEndDate": "2018-12-20",
+    "twitter": "@ConfluentInc"
   },
   {
     "name": "QCon.ai",
@@ -99,9 +99,9 @@
     "endDate": "2019-04-17",
     "city": "San Francisco, CA",
     "country": "U.S.A.",
-    "twitter": "@QConAI",
     "cfpUrl": "http://bit.ly/2AZ7VHo",
-    "cfpEndDate": "2019-01-24"
+    "cfpEndDate": "2019-01-24",
+    "twitter": "@QConAI"
   },
   {
     "name": "FITC Toronto",
@@ -145,9 +145,9 @@
     "endDate": "2019-05-12",
     "city": "Amsterdam",
     "country": "Netherlands",
-    "twitter": "@@pydataamsterdam",
     "cfpUrl": "https://pydata.org/amsterdam2019/cfp",
-    "cfpEndDate": "2019-03-31"
+    "cfpEndDate": "2019-03-31",
+    "twitter": "@@pydataamsterdam"
   },
   {
     "name": "Kafka Summit London",
@@ -156,9 +156,9 @@
     "endDate": "2019-05-14",
     "city": "London",
     "country": "U.K.",
-    "twitter": "@ConfluentInc",
     "cfpUrl": "https://kafka-summit.org/kafka-summit-london-2019/speakers/",
-    "cfpEndDate": "2018-12-20"
+    "cfpEndDate": "2018-12-20",
+    "twitter": "@ConfluentInc"
   },
   {
     "name": "J on the Beach",
@@ -167,9 +167,9 @@
     "endDate": "2019-05-17",
     "city": "Marbella",
     "country": "Spain",
-    "twitter": "@jotb19",
     "cfpUrl": "https://www.papercall.io/jotb19",
-    "cfpEndDate": "2019-02-04"
+    "cfpEndDate": "2019-02-04",
+    "twitter": "@jotb19"
   },
   {
     "name": "DataWorks Summit",
@@ -187,9 +187,9 @@
     "endDate": "2019-05-30",
     "city": "Austin, TX",
     "country": "U.S.A.",
-    "twitter": "@percona",
     "cfpUrl": "https://perconacfp.hubb.me",
-    "cfpEndDate": "2019-01-27"
+    "cfpEndDate": "2019-01-27",
+    "twitter": "@percona"
   },
   {
     "name": "PGCon",
@@ -243,9 +243,9 @@
     "endDate": "2019-06-27",
     "city": "Paris",
     "country": "France",
-    "twitter": "@Dataxday",
     "cfpUrl": "https://conference-hall.io/public/event/sciLlnq7UjZdqYhVCMHO",
-    "cfpEndDate": "2019-03-31"
+    "cfpEndDate": "2019-03-31",
+    "twitter": "@Dataxday"
   },
   {
     "name": "Infiniteconf",
@@ -254,9 +254,9 @@
     "endDate": "2019-07-05",
     "city": "London",
     "country": "U.K.",
-    "twitter": "@skillsmatter",
     "cfpUrl": "https://skillsmatter.com/conferences/11187-infiniteconf-2019-the-conference-on-big-data-and-ai#get_involved",
-    "cfpEndDate": "2019-02-28"
+    "cfpEndDate": "2019-02-28",
+    "twitter": "@skillsmatter"
   },
   {
     "name": "SIGIR",
@@ -274,9 +274,9 @@
     "endDate": "2019-07-24",
     "city": "Bangalore",
     "country": "India",
-    "twitter": "@anthillin",
     "cfpUrl": "https://hasgeek.com/anthillinside/2019",
-    "cfpEndDate": "2019-04-30"
+    "cfpEndDate": "2019-04-30",
+    "twitter": "@anthillin"
   },
   {
     "name": "The Fifth Elephant",
@@ -285,9 +285,9 @@
     "endDate": "2019-07-26",
     "city": "Bangalore",
     "country": "India",
-    "twitter": "@fifthel",
     "cfpUrl": "https://hasgeek.com/fifthelephant/2019",
-    "cfpEndDate": "2019-04-15"
+    "cfpEndDate": "2019-04-15",
+    "twitter": "@fifthel"
   },
   {
     "name": "Open Data Science Conference India",
@@ -296,9 +296,9 @@
     "endDate": "2019-08-10",
     "city": "Bangalore",
     "country": "India",
-    "twitter": "@ODSC_India",
     "cfpUrl": "https://confengine.com/odsc-india-2019/proposals",
-    "cfpEndDate": "2019-04-05"
+    "cfpEndDate": "2019-04-05",
+    "twitter": "@ODSC_India"
   },
   {
     "name": "Data Con LA",
@@ -325,9 +325,9 @@
     "endDate": "2019-09-04",
     "city": "Prague",
     "country": "Czech Republic",
-    "twitter": "@Picante_Media",
     "cfpUrl": "https://techconference.eu/become-a-speaker-at-tce2019",
-    "cfpEndDate": "2019-08-01"
+    "cfpEndDate": "2019-08-01",
+    "twitter": "@Picante_Media"
   },
   {
     "name": "DataOps Summit",
@@ -336,9 +336,9 @@
     "endDate": "2019-09-05",
     "city": "San Francisco, CA",
     "country": "U.S.A.",
-    "twitter": "@dataopssummitSF",
     "cfpUrl": "https://docs.google.com/forms/d/1mhy543yotmEEf22737MdWJ0IsGitoTNaQpOPRtM-4nE/viewform?edit_requested=true",
-    "cfpEndDate": "2019-04-05"
+    "cfpEndDate": "2019-04-05",
+    "twitter": "@dataopssummitSF"
   },
   {
     "name": "AI Expo Africa",
@@ -365,9 +365,9 @@
     "endDate": "2019-09-13",
     "city": "Orlando, FL",
     "country": "U.S.A.",
-    "twitter": "@PostgresOpen",
     "cfpUrl": "http://2019.postgresopen.org/callforpapers",
-    "cfpEndDate": "2019-06-30"
+    "cfpEndDate": "2019-06-30",
+    "twitter": "@PostgresOpen"
   },
   {
     "name": "MLOps NYC19",
@@ -376,9 +376,9 @@
     "endDate": "2019-09-24",
     "city": "New York, NY",
     "country": "U.S.A.",
-    "twitter": "@iguazio",
     "cfpUrl": "https://www.mlopsnyc.com/call-for-papers",
-    "cfpEndDate": "2019-08-15"
+    "cfpEndDate": "2019-08-15",
+    "twitter": "@iguazio"
   },
   {
     "name": "DataWorkshop Club Conf",
@@ -475,9 +475,9 @@
     "endDate": "2019-10-24",
     "city": "Heidelberg",
     "country": "Germany",
-    "twitter": "@data2day",
     "cfpUrl": "https://www.data2day.de/proposal_einreichen_en.php",
-    "cfpEndDate": "2019-05-03"
+    "cfpEndDate": "2019-05-03",
+    "twitter": "@data2day"
   },
   {
     "name": "AI World Conference & Expo",
@@ -523,9 +523,9 @@
     "endDate": "2019-11-28",
     "city": "Vilnius",
     "country": "Lithuania",
-    "twitter": "@BigDataConfEU",
     "cfpUrl": "https://www.bigdataconference.lt/cfp",
-    "cfpEndDate": "2019-08-15"
+    "cfpEndDate": "2019-08-15",
+    "twitter": "@BigDataConfEU"
   },
   {
     "name": "Chief Information Officer Innovation Conference",
@@ -534,9 +534,9 @@
     "endDate": "2019-11-29",
     "city": "Singapore",
     "country": "Singapore",
-    "twitter": "@5thCio",
     "cfpUrl": "https://pgsolx.com/IT-Tech/CIO/5th",
-    "cfpEndDate": "2019-11-27"
+    "cfpEndDate": "2019-11-27",
+    "twitter": "@5thCio"
   },
   {
     "name": "Machine Learning Conference",
@@ -545,9 +545,9 @@
     "endDate": "2019-12-11",
     "city": "Berlin",
     "country": "Germany",
-    "twitter": "@mlconference",
     "cfpUrl": "https://callforpapers.sandsmedia.com",
-    "cfpEndDate": "2019-06-16"
+    "cfpEndDate": "2019-06-16",
+    "twitter": "@mlconference"
   },
   {
     "name": "PyData",
@@ -556,9 +556,9 @@
     "endDate": "2019-12-13",
     "city": "Warsaw",
     "country": "Poland",
-    "twitter": "@pydatawarsaw",
     "cfpUrl": "https://pydata.org/warsaw2019//cfp",
-    "cfpEndDate": "2019-10-13"
+    "cfpEndDate": "2019-10-13",
+    "twitter": "@pydatawarsaw"
   },
   {
     "name": "Global AI Bootcamp",
@@ -567,8 +567,8 @@
     "endDate": "2019-12-14",
     "city": "Utrecht",
     "country": "Netherlands",
-    "twitter": "@Glob_AIBootcamp",
     "cfpUrl": "https://sessionize.com/global-ai-bootcamp--netherlands",
-    "cfpEndDate": "2019-10-31"
+    "cfpEndDate": "2019-10-31",
+    "twitter": "@Glob_AIBootcamp"
   }
 ]

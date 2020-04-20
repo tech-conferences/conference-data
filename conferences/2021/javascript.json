@@ -6,9 +6,9 @@
     "endDate": "2021-03-09",
     "city": "Prague",
     "country": "Czech Republic",
-    "twitter": "@ReactiveConf",
     "cfpUrl": "https://reactiveconf.com/speaker",
-    "cfpEndDate": "2020-11-01"
+    "cfpEndDate": "2020-11-01",
+    "twitter": "@ReactiveConf"
   },
   {
     "name": "JSHeroes",
@@ -26,7 +26,7 @@
     "endDate": "2021-10-08",
     "city": "Stockholm",
     "country": "Sweden",
-    "twitter": "@nordicjs",
-    "cfpUrl": "https://nordicjs.com/call-for-speakers"
+    "cfpUrl": "https://nordicjs.com/call-for-speakers",
+    "twitter": "@nordicjs"
   }
 ]

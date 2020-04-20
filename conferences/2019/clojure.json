@@ -6,9 +6,9 @@
     "endDate": "2019-04-20",
     "city": "Toronto",
     "country": "Canada",
-    "twitter": "@clojurenorth",
     "cfpUrl": "https://clojurenorth.typeform.com/to/YuveUZ",
-    "cfpEndDate": "2019-02-01"
+    "cfpEndDate": "2019-02-01",
+    "twitter": "@clojurenorth"
   },
   {
     "name": "YOW! Lambda Jam",
@@ -26,8 +26,8 @@
     "endDate": "2019-08-03",
     "city": "Leuven",
     "country": "Belgium",
-    "twitter": "@heartofclojure",
     "cfpUrl": "https://cfp.heartofclojure.eu/events/heart-of-clojure",
-    "cfpEndDate": "2019-03-03"
+    "cfpEndDate": "2019-03-03",
+    "twitter": "@heartofclojure"
   }
 ]

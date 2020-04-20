@@ -364,9 +364,9 @@
     "endDate": "2020-06-05",
     "city": "Milano",
     "country": "Italy",
-    "twitter": "@ServerlessMIL",
     "cfpUrl": "https://www.papercall.io/serverlessdays-milano-2020",
-    "cfpEndDate": "2020-05-01"
+    "cfpEndDate": "2020-05-01",
+    "twitter": "@ServerlessMIL"
   },
   {
     "name": "GOTO Amsterdam",
@@ -402,9 +402,9 @@
     "endDate": "2020-06-13",
     "city": "Lima",
     "country": "Peru",
-    "twitter": "@CausaConf",
     "cfpUrl": "https://forms.gle/MBj2p47krnFuNE1m9",
-    "cfpEndDate": "2020-04-13"
+    "cfpEndDate": "2020-04-13",
+    "twitter": "@CausaConf"
   },
   {
     "name": "Cloud Conf",
@@ -422,8 +422,8 @@
     "endDate": "2020-06-19",
     "city": "Bouville",
     "country": "France",
-    "twitter": "@DevBreak20",
-    "cfpUrl": "https://website-42889.eventmaker.io/registration/5d8f2e7fd838ff00233f38a6?no_cookie=true"
+    "cfpUrl": "https://website-42889.eventmaker.io/registration/5d8f2e7fd838ff00233f38a6?no_cookie=true",
+    "twitter": "@DevBreak20"
   },
   {
     "name": "Collision Conf",
@@ -649,9 +649,9 @@
     "endDate": "2020-09-26",
     "city": "Kiev",
     "country": "Ukraine",
-    "twitter": "@qafestua",
     "cfpUrl": "http://qafest.com/en",
-    "cfpEndDate": "2020-08-09"
+    "cfpEndDate": "2020-08-09",
+    "twitter": "@qafestua"
   },
   {
     "name": "HackConf",
@@ -660,9 +660,9 @@
     "endDate": "2020-09-27",
     "city": "Sofia",
     "country": "Bulgaria",
-    "twitter": "@HackConf_",
     "cfpUrl": "https://www.hackconf.bg/#cfs",
-    "cfpEndDate": "2020-05-10"
+    "cfpEndDate": "2020-05-10",
+    "twitter": "@HackConf_"
   },
   {
     "name": "AdaLoversConf",
@@ -706,9 +706,9 @@
     "endDate": "2020-10-03",
     "city": "St. Louis, MO",
     "country": "U.S.A.",
-    "twitter": "@strangeloop_stl",
     "cfpUrl": "https://thestrangeloop.com/cfp.html",
-    "cfpEndDate": "2020-04-28"
+    "cfpEndDate": "2020-04-28",
+    "twitter": "@strangeloop_stl"
   },
   {
     "name": "TEQnation Conference",
@@ -726,9 +726,9 @@
     "endDate": "2020-10-16",
     "city": "Sydney",
     "country": "Australia",
-    "twitter": "@NDC_Conferences",
     "cfpUrl": "https://ndcsydney.com/page/call-for-papers/",
-    "cfpEndDate": "2020-06-07"
+    "cfpEndDate": "2020-06-07",
+    "twitter": "@NDC_Conferences"
   },
   {
     "name": "Craft Conference",
@@ -773,9 +773,9 @@
     "endDate": "2020-10-21",
     "city": "Munich",
     "country": "Germany",
-    "twitter": "@QCon",
     "cfpUrl": "https://qconmunich.com/talk-submissions",
-    "cfpEndDate": "2020-05-01"
+    "cfpEndDate": "2020-05-01",
+    "twitter": "@QCon"
   },
   {
     "name": "Evcon",
@@ -784,9 +784,9 @@
     "endDate": "2020-10-23",
     "city": "San Francisco, CA",
     "country": "U.S.A.",
-    "twitter": "@evcon20",
     "cfpUrl": "http://www.evcon.io/cfp",
-    "cfpEndDate": "2020-05-31"
+    "cfpEndDate": "2020-05-31",
+    "twitter": "@evcon20"
   },
   {
     "name": "Great International Developer Summit (GIDS)",
@@ -831,9 +831,9 @@
     "endDate": "2020-10-29",
     "city": "Sofia",
     "country": "Bulgaria",
-    "twitter": "@QuBitCon",
     "cfpUrl": "https://sofia.qubitconference.com/call-speakers-form-sofia",
-    "cfpEndDate": "2020-05-15"
+    "cfpEndDate": "2020-05-15",
+    "twitter": "@QuBitCon"
   },
   {
     "name": "Web Directions Summit",
@@ -842,9 +842,9 @@
     "endDate": "2020-11-05",
     "city": "Sydney",
     "country": "Australia",
-    "twitter": "@webdirections",
     "cfpUrl": "https://www.webdirections.org/speaking/",
-    "cfpEndDate": "2020-05-01"
+    "cfpEndDate": "2020-05-01",
+    "twitter": "@webdirections"
   },
   {
     "name": "The Developer's Conference",
@@ -862,9 +862,9 @@
     "endDate": "2020-11-07",
     "city": "Faro",
     "country": "Portugal",
-    "twitter": "@DevDayTK",
     "cfpUrl": "https://devday.io/call-for-speakers",
-    "cfpEndDate": "2020-03-31"
+    "cfpEndDate": "2020-03-31",
+    "twitter": "@DevDayTK"
   },
   {
     "name": "Agile Testing Days",
@@ -953,8 +953,8 @@
     "endDate": "2020-12-17",
     "city": "Frankfurt",
     "country": "Germany",
-    "twitter": "@InformatikAktue",
     "cfpUrl": "https://www.ittage.informatik-aktuell.de/call-for-papers",
-    "cfpEndDate": "2020-05-10"
+    "cfpEndDate": "2020-05-10",
+    "twitter": "@InformatikAktue"
   }
 ]
