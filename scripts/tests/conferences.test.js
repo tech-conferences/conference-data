@@ -50,7 +50,8 @@ for (const year of Object.keys(conferencesJSON)) {
                 if (twitter && twitter.length > 0 && !twitterRegex.test(twitter)) {
                     assert(twitterRegex.test(twitter), `[twitter] should be formatted like @twitter – got: "${twitter}"`);
                 }
-
+                assert(name.indexOf(year) === -1, `[name] should not contain the year – got: "${name}"`);
+                assert(name.indexOf(year.substring(2, 4)) === -1, `[name] should not contain the year – got: "${name}"`);
                 testUrl(conference, "url");
 
                 // cfpUrl starts with http(s)://
