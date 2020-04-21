@@ -272,6 +272,17 @@
     "twitter": "@jsremoteconf"
   },
   {
+    "name": "HalfStack Online",
+    "url": "https://halfstackconf.com/online/",
+    "startDate": "2020-05-22",
+    "endDate": "2020-05-22",
+    "city": "Online",
+    "country": "Online",
+    "cfpUrl": "https://halfstackconf.com/online/",
+    "cfpEndDate": "2020-04-15",
+    "twitter": "@halfstackconf"
+  },
+  {
     "name": "ForwardJS in the Interweb",
     "url": "https://forwardjs.com/ottawa",
     "startDate": "2020-05-26",
@@ -364,6 +375,17 @@
     "twitter": "@enterjsconf"
   },
   {
+    "name": "HalfStack Newquay",
+    "url": "https://halfstackconf.com/newquay/",
+    "startDate": "2020-07-03",
+    "endDate": "2020-07-03",
+    "city": "Newquay",
+    "country": "U.K.",
+    "cfpUrl": "https://halfstackconf.com/newquay/",
+    "cfpEndDate": "2020-03-15",
+    "twitter": "@halfstackconf"
+  },
+  {
     "name": "OdessaJS'",
     "url": "http://odessajs.org",
     "startDate": "2020-07-04",
@@ -422,12 +444,14 @@
     "twitter": "@JSFriendsConf"
   },
   {
-    "name": "HalfStack",
+    "name": "HalfStack New York",
     "url": "https://halfstackconf.com/newyork",
     "startDate": "2020-08-14",
     "endDate": "2020-08-14",
     "city": "New York, NY",
     "country": "U.S.A.",
+    "cfpUrl": "https://halfstackconf.com/newyork/",
+    "cfpEndDate": "2020-04-30",
     "twitter": "@halfstackconf"
   },
   {
@@ -569,12 +593,14 @@
     "twitter": "@rxjslive"
   },
   {
-    "name": "HalfStack",
+    "name": "HalfStack Vienna",
     "url": "https://halfstackconf.com/vienna",
     "startDate": "2020-09-18",
     "endDate": "2020-09-18",
     "city": "Vienna",
     "country": "Austria",
+    "cfpUrl": "https://halfstackconf.com/vienna/",
+    "cfpEndDate": "2020-05-31",
     "twitter": "@halfstackconf"
   },
   {
@@ -668,12 +694,14 @@
     "twitter": "@reactjsday"
   },
   {
-    "name": "HalfStack",
+    "name": "HalfStack Tel Aviv",
     "url": "https://halfstackconf.com/telaviv",
     "startDate": "2020-10-19",
     "endDate": "2020-10-19",
     "city": "Tel Aviv",
     "country": "Israel",
+    "cfpUrl": "https://halfstackconf.com/telaviv/",
+    "cfpEndDate": "2020-02-15",
     "twitter": "@halfstackconf"
   },
   {
@@ -742,6 +770,17 @@
     "twitter": "@canariasjs"
   },
   {
+    "name": "HalfStack London",
+    "url": "https://halfstackconf.com/london",
+    "startDate": "2020-11-20",
+    "endDate": "2020-11-20",
+    "city": "London",
+    "country": "U.K.",
+    "cfpUrl": "https://halfstackconf.com/london/",
+    "cfpEndDate": "2020-06-30",
+    "twitter": "@halfstackconf"
+  }
+  {
     "name": "ComponentsConf",
     "url": "https://www.componentsconf.com.au",
     "startDate": "2020-12-08",
@@ -753,12 +792,14 @@
     "twitter": "@ComponentsConf"
   },
   {
-    "name": "HalfStack",
+    "name": "HalfStack Charlotte",
     "url": "https://halfstackconf.com/charlotte",
     "startDate": "2020-12-11",
     "endDate": "2020-12-11",
     "city": "Charlotte, NC",
     "country": "U.S.A.",
+    "cfpUrl": "https://halfstackconf.com/charlotte/",
+    "cfpEndDate": "2019-12-15",
     "twitter": "@halfstackconf"
   }
 ]
