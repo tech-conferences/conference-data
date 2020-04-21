@@ -518,6 +518,7 @@ module.exports = {
     "Manchester",
     "Newcastle",
     "Newcastle-Upon-Tyne",
+    "Newquay",
     "Norwich",
     "Oxford",
     "Sheffield",
