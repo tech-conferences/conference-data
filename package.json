@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "dependencies": {
     "baretest": "^2.0.0",
+    "clarinet": "^0.12.4",
     "date-fns": "^2.12.0"
   },
   "devDependencies": {
