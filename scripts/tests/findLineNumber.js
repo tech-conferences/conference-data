@@ -55,7 +55,7 @@ module.exports = function findLineNumber(conferenceToFind, property, fileName) {
     }
 
     const fileContent = fs.readFileSync(fileName);
-    parser.write(fileContent.toString());
+    parser.write(fileContent.toString()).close();
     if (foundConference) {
         if (foundConference[property]) {
             return foundConference[property].line;
