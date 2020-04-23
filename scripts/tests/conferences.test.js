@@ -149,20 +149,28 @@ async function commentPullRequest(token, allErrors) {
     const octokit = new github.GitHub(token);
 
     for (const error of allErrors) {
-        await octokit.pulls.createReview({
-            owner: 'tech-conferences',
-            repo: 'conference-data',
-            pull_number: eventContext.issue.number,
-            event: "COMMENT",
-            comments: [
-                {
-                    path: error.fileName,
-                    position: error.line,
-                    body: error.message
-                }
-            ]
-        });
+        try {
+            await octokit.pulls.createReview({
+                owner: 'tech-conferences',
+                repo: 'conference-data',
+                pull_number: eventContext.issue.number,
+                event: "COMMENT",
+                comments: [
+                    {
+                        path: error.fileName,
+                        position: error.lineNumber,
+                        body: error.message
+                    }
+                ]
+            });
+        } catch (error) {
+            console.error(`Unable to comment on Pull Request: ${error}`)
+            process.exitCode = 1;
+            process.exit(1);
+        }
+
     }
     process.exitCode = 1;
     process.exit(1);
+
 }
