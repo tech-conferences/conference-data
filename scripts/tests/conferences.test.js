@@ -136,7 +136,7 @@ if (hasErrors) {
     colorLog.redln('Tests failed');
     const token = process.env['GITHUB_TOKEN'];
     if (token) {
-        commentPullRequest();
+        commentPullRequest(token, allErrors);
     } else {
         process.exitCode = 1;
         process.exit(1);
@@ -145,7 +145,7 @@ if (hasErrors) {
     colorLog.greenln(`Checks for all ${conferenceCounter} conferences have passed successfully ✓ `);
 }
 
-async function commentPullRequest(token) {
+async function commentPullRequest(token, allErrors) {
     const octokit = new github.GitHub(token);
 
     for (const error of allErrors) {
