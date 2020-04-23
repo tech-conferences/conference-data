@@ -158,7 +158,7 @@ async function commentPullRequest(token, allErrors) {
                 comments: [
                     {
                         path: error.fileName,
-                        position: error.lineNumber,
+                        position: error.lineNumber - 1,
                         body: error.message
                     }
                 ]
