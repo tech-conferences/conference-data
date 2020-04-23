@@ -91,14 +91,6 @@
     "twitter": "@wieilc"
   },
   {
-    "name": "Codemotion",
-    "url": "https://events.codemotion.com/conferences/amsterdam/2020",
-    "startDate": "2020-05-27",
-    "endDate": "2020-05-28",
-    "city": "Amsterdam",
-    "country": "Netherlands"
-  },
-  {
     "name": "Nomadays",
     "url": "https://nomadays.events",
     "startDate": "2020-05-27",
@@ -114,18 +106,9 @@
     "url": "https://summit.witi.com",
     "startDate": "2020-06-22",
     "endDate": "2020-06-24",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
+    "city": "Online",
+    "country": "Online",
     "twitter": "@witi"
-  },
-  {
-    "name": "Women in Tech Festival",
-    "url": "https://siliconvalleyforum.com/women-in-tech-festival",
-    "startDate": "2020-07-24",
-    "endDate": "2020-07-25",
-    "city": "Mountain View, CA",
-    "country": "U.S.A.",
-    "twitter": "@SVForum"
   },
   {
     "name": "Women Impact Tech",
@@ -135,16 +118,6 @@
     "city": "Boston, MA",
     "country": "U.S.A.",
     "twitter": "@womenimpacttech"
-  },
-  {
-    "name": "Lesbians Who Tech & Allies Summit",
-    "url": "https://lesbianswhotech.org/sanfrancisco2020",
-    "startDate": "2020-08-06",
-    "endDate": "2020-08-07",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "cfpUrl": "https://lesbianswhotech.org/sanfrancisco2020/speaker-application",
-    "twitter": "@lesbiantech"
   },
   {
     "name": "Women Impact Tech",
@@ -224,6 +197,16 @@
     "twitter": "@QuantumTech_"
   },
   {
+    "name": "Lesbians Who Tech & Allies Summit",
+    "url": "https://lesbianswhotech.org/sanfrancisco2020",
+    "startDate": "2020-10-28",
+    "endDate": "2020-10-30",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "cfpUrl": "https://lesbianswhotech.org/sanfrancisco2020/speaker-application",
+    "twitter": "@lesbiantech"
+  },
+  {
     "name": "MODXpo",
     "url": "https://2020.modxpo.eu",
     "startDate": "2020-10-29",
@@ -280,6 +263,15 @@
     "city": "Philadelphia, PA",
     "country": "U.S.A.",
     "twitter": "@womentechsummit"
+  },
+  {
+    "name": "Women in Tech Festival",
+    "url": "https://siliconvalleyforum.com/women-in-tech-festival",
+    "startDate": "2020-11-13",
+    "endDate": "2020-11-14",
+    "city": "Mountain View, CA",
+    "country": "U.S.A.",
+    "twitter": "@SVForum"
   },
   {
     "name": "Women Impact Tech",
