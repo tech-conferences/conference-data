@@ -17,10 +17,6 @@ const REQUIRED_KEYS = ['name', 'url', 'startDate', 'endDate', 'country', 'city']
 
 const conferencesJSON = conferenceReader();
 
-function logFileNumber(conference, property, fileName) {
-
-}
-
 for (const year of Object.keys(conferencesJSON)) {
     for (const stack of Object.keys(conferencesJSON[year])) {
         const conferences = conferencesJSON[year][stack];
