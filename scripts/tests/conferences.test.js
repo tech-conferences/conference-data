@@ -1,4 +1,6 @@
 const parse = require('date-fns/parse');
+const github = require('@actions/github');
+const { context: eventContext } = github;
 const colorLog = require('barecolor');
 const getDuplicates = require('./utils');
 const validLocations = require('./validLocations');
@@ -104,6 +106,7 @@ for (const year of Object.keys(conferencesJSON)) {
     };
 };
 
+const allErrors = [];
 function logTestResult() {
     for (const year of Object.keys(testResult)) {
         const errorsOfYear = [];
@@ -113,9 +116,8 @@ function logTestResult() {
             if (errors) {
                 for (const error of errors) {
                     errorsOfYear.push(error);
+                    allErrors.push(error);
                 }
-            }
-            if (errors) {
                 colorLog.red(`${topic} x `);
             } else {
                 colorLog.green(`${topic} ✓ `);
@@ -126,16 +128,41 @@ function logTestResult() {
             colorLog.redln(` - Error: ${error.message}`);
         }
     }
-
 }
-
 logTestResult();
 console.timeEnd(label);
 
 if (hasErrors) {
-    colorLog.redln('Tests failed')
-    process.exitCode = 1;
-    process.exit(1);
+    colorLog.redln('Tests failed');
+    const token = process.env['GITHUB_TOKEN'];
+    if (token) {
+        commentPullRequest();
+    } else {
+        process.exitCode = 1;
+        process.exit(1);
+    }
 } else {
     colorLog.greenln(`Checks for all ${conferenceCounter} conferences have passed successfully ✓ `);
+}
+
+async function commentPullRequest(token) {
+    const octokit = new github.GitHub(token);
+
+    for (const error of allErrors) {
+        await octokit.pulls.createReview({
+            owner: 'tech-conferences',
+            repo: 'conference-data',
+            pull_number: eventContext.issue.number,
+            event: "COMMENT",
+            comments: [
+                {
+                    path: error.fileName,
+                    position: error.line,
+                    body: error.message
+                }
+            ]
+        });
+    }
+    process.exitCode = 1;
+    process.exit(1);
 }
