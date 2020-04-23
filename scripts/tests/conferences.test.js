@@ -137,5 +137,5 @@ if (hasErrors) {
     process.exitCode = 1;
     process.exit(1);
 } else {
-    colorLog.greenln(`Checks for all ${conferenceCounter} conferences have passed ✓ `);
+    colorLog.greenln(`Checks for all ${conferenceCounter} conferences have passed successfully ✓ `);
 }
