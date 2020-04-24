@@ -1,5 +1,6 @@
 const parse = require('date-fns/parse');
 const github = require('@actions/github');
+const { Octokit } = require('@octokit/rest');
 const colorLog = require('barecolor');
 const getDuplicates = require('./utils');
 const validLocations = require('./validLocations');
@@ -145,11 +146,13 @@ if (hasErrors) {
 }
 
 async function commentPullRequest(token, allErrors) {
-    const octokit = new github.GitHub(token);
     const { context: eventContext } = github;
     if (!eventContext.issue || !eventContext.issue.number) {
         return;
     }
+    const octokit = new Octokit({
+        auth: token
+    });
     const prNumber = eventContext.issue.number
     try {
         for (const error of allErrors) {
@@ -161,7 +164,7 @@ async function commentPullRequest(token, allErrors) {
                 comments: [
                     {
                         path: error.fileName,
-                        position: 1,
+                        line: error.lineNumber,
                         body: error.message
                     }
                 ]
