@@ -98,7 +98,9 @@ for (const year of Object.keys(conferencesJSON)) {
                 assertField(cfpEndDate.getTime() <= startDate.getTime(), 'cfpEndDate', `CFP End date should be before start date: ${conference.cfpEndDate} <= ${conference.startDate}`)
             }
             assertField(validLocations[country], 'country', `[country] is a not in the list of valid countries – got: "${country}"`);
-            assertField(validLocations[country].indexOf(city) !== -1, 'city', `[city] is a not in the list of valid cities – got: "${city}" in "${country}"`);
+            if (validLocations[country]) {
+                assertField(validLocations[country].indexOf(city) !== -1, 'city', `[city] is a not in the list of valid cities – got: "${city}" in "${country}"`);
+            }
             if (country === "U.S.A.") {
                 assertField(usaStateRegex.test(city), 'city', `[city] cities in the US must also contain the state – got: "${city}"`);
             }
