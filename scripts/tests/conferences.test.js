@@ -1,6 +1,5 @@
 const parse = require('date-fns/parse');
 const github = require('@actions/github');
-const { context: eventContext } = github;
 const colorLog = require('barecolor');
 const getDuplicates = require('./utils');
 const validLocations = require('./validLocations');
@@ -147,13 +146,17 @@ if (hasErrors) {
 
 async function commentPullRequest(token, allErrors) {
     const octokit = new github.GitHub(token);
-
-    for (const error of allErrors) {
-        try {
+    const { context: eventContext } = github;
+    if (!eventContext.issue || !eventContext.issue.number) {
+        return;
+    }
+    const prNumber = eventContext.issue.number
+    try {
+        for (const error of allErrors) {
             await octokit.pulls.createReview({
-                owner: 'tech-conferences',
-                repo: 'conference-data',
-                pull_number: eventContext.issue.number,
+                owner: eventContext.repo.owner,
+                repo: eventContext.repo.repo,
+                pull_number: prNumber,
                 event: "COMMENT",
                 comments: [
                     {
@@ -163,14 +166,11 @@ async function commentPullRequest(token, allErrors) {
                     }
                 ]
             });
-        } catch (error) {
-            console.error(`Unable to comment on Pull Request: ${error}`)
-            process.exitCode = 1;
-            process.exit(1);
         }
-
+    } catch (error) {
+        console.error(`Unable to comment on Pull Request: ${error}`)
+    } finally {
+        process.exitCode = 1;
+        process.exit(1);
     }
-    process.exitCode = 1;
-    process.exit(1);
-
 }
