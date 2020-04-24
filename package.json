@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "dependencies": {
     "@actions/github": "^2.1.1",
+    "@octokit/rest": "^17.6.0",
     "barecolor": "^1.0.1",
     "clarinet": "^0.12.4",
     "date-fns": "^2.12.0"
