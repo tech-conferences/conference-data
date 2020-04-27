@@ -27,5 +27,5 @@ const locations = {};
         sortedLocations[location] = locations[location].sort();
     })
     console.log(JSON.stringify(sortedLocations, null, "  "));
-    fs.writeFile("scripts/tests/validLocations.js", "module.exports = " + JSON.stringify(sortedLocations, null, 2));
+    fs.writeFile("scripts/tests/utils/validLocations.js", "module.exports = " + JSON.stringify(sortedLocations, null, 2));
 })()
