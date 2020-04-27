@@ -15,20 +15,20 @@ module.exports = async function commentPullRequest(token, allErrors) {
             path: error.fileName,
             line: error.lineNumber,
             body: error.message
-        }
-    })
+        };
+    });
     try {
         await octokit.pulls.createReview({
             owner: eventContext.repo.owner,
             repo: eventContext.repo.repo,
             pull_number: prNumber,
-            event: "COMMENT",
+            event: 'COMMENT',
             comments: comments
         });
     } catch (error) {
-        console.error(`Unable to comment on Pull Request: ${error}`)
+        console.error(`Unable to comment on Pull Request: ${error}`);
     } finally {
         process.exitCode = 1;
         process.exit(1);
     }
-}
+};

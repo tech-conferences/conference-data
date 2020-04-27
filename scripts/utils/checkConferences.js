@@ -27,6 +27,6 @@ module.exports = function checkConferences(year, stack, conferences) {
             }
         }
         checkConference(year, conference, assertField);
-    };
+    }
     return errors;
-}
+};

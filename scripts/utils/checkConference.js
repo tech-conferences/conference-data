@@ -18,24 +18,24 @@ module.exports = function checkConference(year, conference, assertField) {
     });
     Object.keys(conference).forEach(key => assertField(!emptyStringRegex.test(conference[key]), key, `property should not be empty`));
     assertField(name.indexOf(year.substring(2, 4)) === -1, 'name', 'should not contain the year', name);
-    checkUrl(conference, "url");
+    checkUrl(conference, 'url');
     const startDate = parse(conference.startDate, dateFormat, new Date());
     assertField(startDate.getFullYear() == year, 'startDate', 'should be in the same year as file location', startDate.getFullYear());
     const endDate = parse(conference.endDate, dateFormat, new Date());
-    assertField(startDate.getTime() <= endDate.getTime(), 'endDate', 'should be after start date', `${conference.startDate} <= ${conference.endDate}`)
+    assertField(startDate.getTime() <= endDate.getTime(), 'endDate', 'should be after start date', `${conference.startDate} <= ${conference.endDate}`);
     if (validLocations[country]) {
         assertField(validLocations[country].indexOf(city) !== -1, 'city', 'is a not in the list of valid cities' + validLocationsHint, `"${city}" in "${country}"`);
     }
     assertField(validLocations[country], 'country', 'is a not in the list of valid countries' + validLocationsHint, country);
-    if (country === "U.S.A.") {
+    if (country === 'U.S.A.') {
         assertField(usaStateRegex.test(city), 'city', 'in the US must also contain the state', city);
     }
     if (cfpUrl) {
-        checkUrl(conference, "cfpUrl");
+        checkUrl(conference, 'cfpUrl');
     }
     if (conference.cfpEndDate) {
         const cfpEndDate = parse(conference.cfpEndDate, dateFormat, new Date());
-        assertField(cfpEndDate.getTime() <= startDate.getTime(), 'cfpEndDate', 'should be before start date', `${conference.cfpEndDate} <= ${conference.startDate}`)
+        assertField(cfpEndDate.getTime() <= startDate.getTime(), 'cfpEndDate', 'should be before start date', `${conference.cfpEndDate} <= ${conference.startDate}`);
     }
     if (twitter && twitter.length > 0 && !twitterRegex.test(twitter)) {
         assertField(twitterRegex.test(twitter), 'twitter', 'should be formatted like @twitter', twitter);
@@ -46,4 +46,4 @@ module.exports = function checkConference(year, conference, assertField) {
         assertField(!httpNoQuestionmarkRegex.test(value), property, 'should not contain a "?"', value);
         assertField(!urlShortener.test(value), property, 'should not use url shorteners', value);
     }
-}
+};

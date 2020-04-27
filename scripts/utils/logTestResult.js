@@ -41,6 +41,4 @@ module.exports = function logtTestResult(testResult) {
     } else {
         colorLog.greenln(`✓ Checks for all ${testResult.conferenceCounter} conferences have passed successfully`);
     }
-
-
-}
+};
