@@ -32,14 +32,15 @@ for (const year of Object.keys(conferencesJSON)) {
         const conferences = conferencesJSON[year][stack];
         const fileName = `conferences/${year}/${stack}.json`;
 
-        function reportError(lineNumber, message) {
+        function reportError(lineNumber, message, value) {
             if (!currentTestResult.errors) {
                 currentTestResult.errors = [];
             }
             currentTestResult.errors.push({
                 fileName: fileName,
                 lineNumber: lineNumber,
-                message: message
+                message: message,
+                value: value
             });
             hasErrors = true;
         }
@@ -55,53 +56,48 @@ for (const year of Object.keys(conferencesJSON)) {
             conferenceCounter++;
             const { name, country, city, url, cfpUrl, twitter } = conference;
 
-            function assertField(condition, field, message) {
+            function assertField(condition, field, message, value) {
                 if (condition) {
                     return;
                 }
                 const lineNumber = findLineNumber(conference, field, fileName);
-                const textToAppend = ` in file: ${fileName}:${lineNumber}`;
-                reportError(lineNumber, message + textToAppend);
+                reportError(lineNumber, `[${field}] ${message}`, value);
             }
 
             function testUrl(conference, property) {
                 const value = conference[property];
-                assertField(httpRegex.test(value), property, `[${property}] should start with http – got: "${value}"`);
-                assertField(!httpNoQuestionmarkRegex.test(value), property, `[${property}] should not contain a ?  – got: "${value}"`);
-                assertField(!urlShortener.test(value), property, `[${property}] should not use url shorteners – got: "${value}"`);
+                assertField(httpRegex.test(value), property, 'should start with http', value);
+                assertField(!httpNoQuestionmarkRegex.test(value), property, 'should not contain a "?"', value);
+                assertField(!urlShortener.test(value), property, 'should not use url shorteners', value);
             }
 
             // Has no missing mandatory key
             REQUIRED_KEYS.forEach(requiredKey => {
-                assertField(conference.hasOwnProperty(requiredKey), requiredKey, `[${requiredKey}] is missing`);
+                assertField(conference.hasOwnProperty(requiredKey), requiredKey, `is missing`);
             });
-            Object.keys(conference).forEach(key => assertField(!emptyStringRegex.test(conference[key]), key, `[${key}] property should not be empty`));
-            // Twitter is a valid URL
-            if (twitter && twitter.length > 0 && !twitterRegex.test(twitter)) {
-                assertField(twitterRegex.test(twitter), 'twitter', `[twitter] should be formatted like @twitter – got: "${twitter}"`);
-            }
-            assertField(name.indexOf(year.substring(2, 4)) === -1, 'name', `[name] should not contain the year – got: "${name}"`);
+            Object.keys(conference).forEach(key => assertField(!emptyStringRegex.test(conference[key]), key, `property should not be empty`));
+            assertField(name.indexOf(year.substring(2, 4)) === -1, 'name', 'should not contain the year', name);
             testUrl(conference, "url");
-
+            const startDate = parse(conference.startDate, dateFormat, new Date());
+            assertField(startDate.getFullYear() == year, 'startDate', 'should be in the same year as file location', startDate.getFullYear());
+            const endDate = parse(conference.endDate, dateFormat, new Date());
+            assertField(startDate.getTime() <= endDate.getTime(), 'endDate', 'should be after start date', `${conference.startDate} <= ${conference.endDate}`)
+            if (validLocations[country]) {
+                assertField(validLocations[country].indexOf(city) !== -1, 'city', 'is a not in the list of valid cities', `"${city}" in "${country}"`);
+            }
+            assertField(validLocations[country], 'country', 'is a not in the list of valid countries', country);
+            if (country === "U.S.A.") {
+                assertField(usaStateRegex.test(city), 'city', 'in the US must also contain the state', city);
+            }
             if (cfpUrl) {
                 testUrl(conference, "cfpUrl");
             }
-
-            const startDate = parse(conference.startDate, dateFormat, new Date());
-            assertField(startDate.getFullYear() == year, 'startDate', `Start date should be in the same year as file location: ${startDate.getFullYear()}`);
-            const endDate = parse(conference.endDate, dateFormat, new Date());
-            assertField(startDate.getTime() <= endDate.getTime(), 'endDate', `End date should be after start date: ${conference.startDate} <= ${conference.endDate}`)
-
             if (conference.cfpEndDate) {
                 const cfpEndDate = parse(conference.cfpEndDate, dateFormat, new Date());
-                assertField(cfpEndDate.getTime() <= startDate.getTime(), 'cfpEndDate', `CFP End date should be before start date: ${conference.cfpEndDate} <= ${conference.startDate}`)
+                assertField(cfpEndDate.getTime() <= startDate.getTime(), 'cfpEndDate', 'should be before start date', `${conference.cfpEndDate} <= ${conference.startDate}`)
             }
-            assertField(validLocations[country], 'country', `[country] is a not in the list of valid countries – got: "${country}"`);
-            if (validLocations[country]) {
-                assertField(validLocations[country].indexOf(city) !== -1, 'city', `[city] is a not in the list of valid cities – got: "${city}" in "${country}"`);
-            }
-            if (country === "U.S.A.") {
-                assertField(usaStateRegex.test(city), 'city', `[city] cities in the US must also contain the state – got: "${city}"`);
+            if (twitter && twitter.length > 0 && !twitterRegex.test(twitter)) {
+                assertField(twitterRegex.test(twitter), 'twitter', 'should be formatted like @twitter', twitter);
             }
         };
     };
@@ -130,7 +126,7 @@ function logTestResult() {
         });
         colorLog.black('\n');
         for (const error of errorsOfYear) {
-            colorLog.redln(` - Error: ${error.message}`);
+            colorLog.redln(` - Error: ${error.message} - got "${error.value}" in file: ${error.fileName}:${error.lineNumber}`);
         }
     }
 }
