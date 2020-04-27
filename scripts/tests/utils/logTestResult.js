@@ -8,8 +8,8 @@ module.exports = function (testResult, conferenceCounter) {
         colorLog.gray(`${year}: `);
         const topics = Object.keys(testResult[year]);
         topics.forEach((topic, i) => {
-            const errors = testResult[year][topic].errors;
-            if (errors) {
+            const errors = testResult[year][topic];
+            if (errors.length >= 1) {
                 for (const error of errors) {
                     errorsOfYear.push(error);
                     allErrors.push(error);
