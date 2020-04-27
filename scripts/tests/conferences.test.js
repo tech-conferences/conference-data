@@ -15,42 +15,35 @@ var conferenceCounter = 0;
 for (const year of Object.keys(conferencesJSON)) {
     testResult[year] = {};
     for (const stack of Object.keys(conferencesJSON[year])) {
-        const currentTestResult = {};
-        testResult[year][stack] = currentTestResult;
+        const currentErrors = [];
+        testResult[year][stack] = currentErrors;
         const conferences = conferencesJSON[year][stack];
         const fileName = `conferences/${year}/${stack}.json`;
 
         function reportError(lineNumber, message, value) {
-            if (!currentTestResult.errors) {
-                currentTestResult.errors = [];
-            }
-            currentTestResult.errors.push({
+            currentErrors.push({
                 fileName: fileName,
                 lineNumber: lineNumber,
                 message: message,
                 value: value
             });
-            hasErrors = true;
         }
 
         const duplicates = getDuplicates(conferences);
         if (duplicates.length > 0) {
-            const dupConfs = duplicates.map(conf => conf.name).join(', ');
             const lineNumber = findLineNumber(duplicates[0], 'name', fileName);
-            reportError(lineNumber, `Found duplicate conferences : ${dupConfs}`);
+            reportError(lineNumber, 'Found duplicate conferences', duplicates.map(conf => conf.name));
         }
 
         for (const conference of conferences) {
             conferenceCounter++;
             function assertField(condition, field, message, value) {
-                if (condition) {
-                    return;
+                if (!condition) {
+                    const lineNumber = findLineNumber(conference, field, fileName);
+                    reportError(lineNumber, `[${field}] ${message}`, value);
                 }
-                const lineNumber = findLineNumber(conference, field, fileName);
-                reportError(lineNumber, `[${field}] ${message}`, value);
             }
             checkConference(year, conference, assertField);
-
         };
     };
 };
