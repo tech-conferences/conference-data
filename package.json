@@ -13,10 +13,10 @@
     "lodash": "^4.17.15"
   },
   "scripts": {
-    "start": "nodemon scripts/tests/conferences.test.js",
-    "test": "node scripts/tests/conferences.test.js",
+    "start": "nodemon scripts/conferences.test.js",
+    "test": "node scripts/conferences.test.js",
     "updateValidLocations": "node ./scripts/updateValidLocations.js",
-    "reorder-confs": "node ./scripts/reorder-conferences-by-date.js"
+    "reorderConfs": "node ./scripts/reorderConferencesByDate.js"
   },
   "homepage": "https://confs.tech"
 }

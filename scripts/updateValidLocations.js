@@ -1,6 +1,6 @@
 // Reorder a file by running (from the scripts folder)
 const fs = require('fs').promises;
-const conferenceReader = require('./conferenceReader');
+const conferenceReader = require('./utils/conferenceReader');
 
 const conferencesJSON = conferenceReader();
 

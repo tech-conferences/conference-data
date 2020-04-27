@@ -1,4 +1,4 @@
-const conferenceReader = require('../conferenceReader');
+const conferenceReader = require('./utils/conferenceReader');
 const checkConferences = require('./utils/checkConferences');
 const logTestResult = require('./utils/logTestResult');
 
