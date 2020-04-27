@@ -285,6 +285,14 @@
     "twitter": "@SmashingConf"
   },
   {
+    "name": "UX Writer Conference",
+    "url": "https://uxwriterconference.com",
+    "startDate": "2020-06-09",
+    "endDate": "2020-06-10",
+    "city": "Online",
+    "country": "Online"
+  },
+  {
     "name": "dsgnday",
     "url": "https://dsgnday.nl",
     "startDate": "2020-06-11",
@@ -472,6 +480,15 @@
     "twitter": "@SmashingConf"
   },
   {
+    "name": "STHLM Xperience Conference",
+    "url": "https://sthlm.xconf.co",
+    "startDate": "2020-11-12",
+    "endDate": "2020-11-12",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "twitter": "@SthlmXperience"
+  },
+  {
     "name": "CanUX",
     "url": "https://canux.io",
     "startDate": "2020-11-12",
@@ -488,22 +505,5 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "twitter": "@aneventapart"
-  },
-  {
-    "name": "STHLM Xperience Conference",
-    "url": "https://sthlm.xconf.co",
-    "startDate": "2020-11-12",
-    "endDate": "2020-11-12",
-    "city": "Stockholm",
-    "country": "Sweden",
-    "twitter": "@SthlmXperience"
-  },
-  {
-    "name": "UX Writer Conference",
-    "url": "https://uxwriterconference.com",
-    "startDate": "2020-06-09",
-    "endDate": "2020-06-10",
-    "city": "Online",
-    "country": "Online"
   }
 ]

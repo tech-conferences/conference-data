@@ -306,6 +306,14 @@
     "country": "Online"
   },
   {
+    "name": "GitHub Satellite",
+    "url": "https://githubsatellite.com",
+    "startDate": "2020-05-06",
+    "endDate": "2020-05-06",
+    "city": "Online",
+    "country": "Online"
+  },
+  {
     "name": "Tech Inclusion",
     "url": "https://techinclusion.co/summit/",
     "startDate": "2020-05-12",
@@ -451,6 +459,15 @@
     "city": "Paris",
     "country": "France",
     "twitter": "@DevoxxFR"
+  },
+  {
+    "name": "DrupalCon Global",
+    "url": "https://events.drupal.org/global2020",
+    "startDate": "2020-07-14",
+    "endDate": "2020-07-17",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@DrupalCon"
   },
   {
     "name": "ÜberConf",
@@ -956,22 +973,5 @@
     "cfpUrl": "https://www.ittage.informatik-aktuell.de/call-for-papers",
     "cfpEndDate": "2020-05-10",
     "twitter": "@InformatikAktue"
-  },
-  {
-    "name": "GitHub Satellite",
-    "url": "https://githubsatellite.com",
-    "startDate": "2020-05-06",
-    "endDate": "2020-05-06",
-    "city": "Online",
-    "country": "Online"
-  },
-  {
-    "name": "DrupalCon Global",
-    "url": "https://events.drupal.org/global2020",
-    "startDate": "2020-07-14",
-    "endDate": "2020-07-17",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@DrupalCon"
   }
 ]
