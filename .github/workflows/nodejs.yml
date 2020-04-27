@@ -20,3 +20,4 @@ jobs:
     - run: npm test
       env:
         GITHUB_TOKEN: ${{ github.token }}
+        TERM: xterm-256color
