@@ -80,7 +80,6 @@ for (const year of Object.keys(conferencesJSON)) {
             if (twitter && twitter.length > 0 && !twitterRegex.test(twitter)) {
                 assertField(twitterRegex.test(twitter), 'twitter', `[twitter] should be formatted like @twitter – got: "${twitter}"`);
             }
-            assertField(name.indexOf(year) === -1, 'name', `[name] should not contain the year – got: "${name}"`);
             assertField(name.indexOf(year.substring(2, 4)) === -1, 'name', `[name] should not contain the year – got: "${name}"`);
             testUrl(conference, "url");
 
@@ -113,16 +112,20 @@ function logTestResult() {
     for (const year of Object.keys(testResult)) {
         const errorsOfYear = [];
         colorLog.gray(`${year}: `);
-        Object.keys(testResult[year]).forEach(topic => {
+        const topics = Object.keys(testResult[year]);
+        topics.forEach((topic, i) => {
             const errors = testResult[year][topic].errors;
             if (errors) {
                 for (const error of errors) {
                     errorsOfYear.push(error);
                     allErrors.push(error);
                 }
-                colorLog.red(`${topic} x `);
+                colorLog.red(`x ${topic}`);
             } else {
-                colorLog.green(`${topic} ✓ `);
+                colorLog.green(`✓ ${topic}`);
+            }
+            if (i < topics.length - 1) {
+                colorLog.gray(', ');
             }
         });
         colorLog.black('\n');
@@ -144,7 +147,7 @@ if (hasErrors) {
         process.exit(1);
     }
 } else {
-    colorLog.greenln(`Checks for all ${conferenceCounter} conferences have passed successfully ✓ `);
+    colorLog.greenln(`✓ Checks for all ${conferenceCounter} conferences have passed successfully`);
 }
 
 async function commentPullRequest(token, allErrors) {
@@ -155,23 +158,22 @@ async function commentPullRequest(token, allErrors) {
     const octokit = new Octokit({
         auth: token
     });
-    const prNumber = eventContext.issue.number
-    try {
-        for (const error of allErrors) {
-            await octokit.pulls.createReview({
-                owner: eventContext.repo.owner,
-                repo: eventContext.repo.repo,
-                pull_number: prNumber,
-                event: "COMMENT",
-                comments: [
-                    {
-                        path: error.fileName,
-                        line: error.lineNumber,
-                        body: error.message
-                    }
-                ]
-            });
+    const prNumber = eventContext.issue.number;
+    const comments = allErrors.map(error => {
+        return {
+            path: error.fileName,
+            line: error.lineNumber,
+            body: error.message
         }
+    })
+    try {
+        await octokit.pulls.createReview({
+            owner: eventContext.repo.owner,
+            repo: eventContext.repo.repo,
+            pull_number: prNumber,
+            event: "COMMENT",
+            comments: comments
+        });
     } catch (error) {
         console.error(`Unable to comment on Pull Request: ${error}`)
     } finally {
