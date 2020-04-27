@@ -1,7 +1,7 @@
 const colorLog = require('barecolor');
 const commentPullRequest = require('./commentPullRequest');
 
-module.exports = function (testResult, conferenceCounter) {
+module.exports = function logtTestResult(testResult, conferenceCounter) {
     const allErrors = [];
     for (const year of Object.keys(testResult)) {
         const errorsOfYear = [];

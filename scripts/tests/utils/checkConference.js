@@ -10,7 +10,7 @@ const emptyStringRegex = /^\s+$|^$/gi;
 const dateFormat = 'yyyy-MM-dd';
 const REQUIRED_KEYS = ['name', 'url', 'startDate', 'endDate', 'country', 'city'];
 
-module.exports = function (year, conference, assertField) {
+module.exports = function checkConference(year, conference, assertField) {
     const { name, country, city, cfpUrl, twitter } = conference;
     REQUIRED_KEYS.forEach(requiredKey => {
         assertField(conference.hasOwnProperty(requiredKey), requiredKey, `is missing`);

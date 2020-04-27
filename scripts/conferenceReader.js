@@ -1,11 +1,10 @@
-
 const fs = require('fs');
 const assert = require('assert');
-const config = require('./config');
+const topics = require('./topics');
 
 const jsonFileRegex = /(.*).json$/;
 
-module.exports = function () {
+module.exports = function conferenceReader() {
     const conferencesJSON = {};
 
     fs.readdirSync("conferences").forEach(year => {
@@ -14,7 +13,7 @@ module.exports = function () {
             const filePath = `conferences/${year}/${fileName}`;
             assert(jsonFileRegex.test(fileName));
             const topic = jsonFileRegex.exec(fileName)[1];
-            assert(config.topics.indexOf(topic) != -1, `Topic "${topic} is not in topic list. File: ${filePath}`);
+            assert(topics.indexOf(topic) != -1, `Topic "${topic} is not in topic list. File: ${filePath}`);
             const fileContent = fs.readFileSync(filePath);
             if (fileContent.toString() === "[]") {
                 return;
