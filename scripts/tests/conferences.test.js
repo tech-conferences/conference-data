@@ -18,7 +18,6 @@ for (const year of Object.keys(conferencesJSON)) {
         const conferences = conferencesJSON[year][stack];
         testResult.errors[year][stack] = checkConferences(year, stack, conferences);
         testResult.conferenceCounter += conferences.length;
-
     };
 };
 
