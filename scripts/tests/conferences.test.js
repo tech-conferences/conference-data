@@ -32,7 +32,7 @@ for (const year of Object.keys(conferencesJSON)) {
         const duplicates = getDuplicates(conferences);
         if (duplicates.length > 0) {
             const lineNumber = findLineNumber(duplicates[0], 'name', fileName);
-            reportError(lineNumber, 'Found duplicate conferences', duplicates.map(conf => conf.name));
+            reportError(lineNumber, `Found duplicate conference "${duplicates.map(conf => conf.name)}"`);
         }
 
         for (const conference of conferences) {

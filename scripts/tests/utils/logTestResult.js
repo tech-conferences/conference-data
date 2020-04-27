@@ -24,7 +24,8 @@ module.exports = function logtTestResult(testResult, conferenceCounter) {
         });
         colorLog.black('\n');
         for (const error of errorsOfYear) {
-            colorLog.redln(` - Error: ${error.message} - got "${error.value}" in file: ${error.fileName}:${error.lineNumber}`);
+            const value = error.value ? ` - got "${error.value}"` : '';
+            colorLog.redln(` - Error: ${error.message}${value} in file: ${error.fileName}:${error.lineNumber}`);
         }
     }
 
