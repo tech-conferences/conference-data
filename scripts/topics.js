@@ -1,6 +1,4 @@
-module.exports.startYear = 2019;
-module.exports.currentYear = new Date().getFullYear();
-module.exports.topics = [
+module.exports = [
   "android",
   "clojure",
   "cpp",

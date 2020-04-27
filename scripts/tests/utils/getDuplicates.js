@@ -1,4 +1,4 @@
-module.exports = function (conferences) {
+module.exports = function getDuplicates(conferences) {
   const confUUIDs = conferences.map((conf) => getUUID(conf));
   const duplicates = [];
 
