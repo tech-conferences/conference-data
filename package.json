@@ -9,14 +9,16 @@
     "date-fns": "^2.12.0"
   },
   "devDependencies": {
+    "lodash": "^4.17.15",
     "nodemon": "^2.0.3",
-    "lodash": "^4.17.15"
+    "prettier": "^2.0.5"
   },
   "scripts": {
-    "start": "nodemon scripts/conferences.test.js",
+    "start": "nodemon scripts/conferences.test.js --exec \"npm run format && node\"",
     "test": "node scripts/conferences.test.js",
     "updateValidLocations": "node ./scripts/updateValidLocations.js",
-    "reorderConfs": "node ./scripts/reorderConferencesByDate.js"
+    "reorderConfs": "node ./scripts/reorderConferencesByDate.js",
+    "format": "prettier --write scripts/**/*.js --print-width 180 --single-quote --tab-width 4 --trailing-comma none --arrow-parens avoid"
   },
   "homepage": "https://confs.tech"
 }

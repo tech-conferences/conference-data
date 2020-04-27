@@ -1,4 +1,4 @@
-const clarinet = require("clarinet");
+const clarinet = require('clarinet');
 const parser = clarinet.parser();
 const fs = require('fs');
 
@@ -14,13 +14,13 @@ module.exports = function findLineNumber(conferenceToFind, property, fileName) {
         currentKey = key;
         currentConference[key] = {
             line: parser.line
-        }
+        };
     }
 
     parser.onopenobject = function (key) {
         currentConference = {};
         setKey(key);
-    }
+    };
 
     parser.onkey = function (key) {
         setKey(key);
@@ -28,7 +28,7 @@ module.exports = function findLineNumber(conferenceToFind, property, fileName) {
 
     parser.onvalue = function (v) {
         if (!currentKey) {
-            console.log("No key" + v)
+            console.log('No key' + v);
         }
         if (currentConference[currentKey]) {
             currentConference[currentKey].value = v;
@@ -52,7 +52,7 @@ module.exports = function findLineNumber(conferenceToFind, property, fileName) {
         if (isConferenceToFind(currentConference)) {
             foundConference = currentConference;
         }
-    }
+    };
 
     const fileContent = fs.readFileSync(fileName);
     parser.write(fileContent.toString()).close();
@@ -63,4 +63,4 @@ module.exports = function findLineNumber(conferenceToFind, property, fileName) {
         return foundConference[Object.keys(foundConference)[0]].line;
     }
     return null;
-}
+};
