@@ -1,14 +1,14 @@
 const colorLog = require('barecolor');
 const commentPullRequest = require('./commentPullRequest');
 
-module.exports = function logtTestResult(testResult, conferenceCounter) {
+module.exports = function logtTestResult(testResult) {
     const allErrors = [];
-    for (const year of Object.keys(testResult)) {
+    for (const year of Object.keys(testResult.errors)) {
         const errorsOfYear = [];
         colorLog.gray(`${year}: `);
-        const topics = Object.keys(testResult[year]);
+        const topics = Object.keys(testResult.errors[year]);
         topics.forEach((topic, i) => {
-            const errors = testResult[year][topic];
+            const errors = testResult.errors[year][topic];
             if (errors.length >= 1) {
                 for (const error of errors) {
                     errorsOfYear.push(error);
@@ -39,7 +39,7 @@ module.exports = function logtTestResult(testResult, conferenceCounter) {
             process.exit(1);
         }
     } else {
-        colorLog.greenln(`✓ Checks for all ${conferenceCounter} conferences have passed successfully`);
+        colorLog.greenln(`✓ Checks for all ${testResult.conferenceCounter} conferences have passed successfully`);
     }
 
 
