@@ -1,6 +1,6 @@
 // Reorder a file by running (from the scripts folder)
 const fs = require('fs').promises;
-const conferenceReader = require('./conferenceReader');
+const conferenceReader = require('./utils/conferenceReader');
 
 const conferencesJSON = conferenceReader();
 
@@ -27,5 +27,5 @@ const locations = {};
         sortedLocations[location] = locations[location].sort();
     })
     console.log(JSON.stringify(sortedLocations, null, "  "));
-    fs.writeFile("scripts/tests/utils/validLocations.js", "module.exports = " + JSON.stringify(sortedLocations, null, 2));
+    fs.writeFile("config/validLocations.js", "module.exports = " + JSON.stringify(sortedLocations, null, 2));
 })()

@@ -2,7 +2,7 @@
 const fs = require('fs');
 const sortBy = require('lodash/sortBy');
 const parse = require('date-fns/parse');
-const conferenceReader = require('./conferenceReader');
+const conferenceReader = require('./utils/conferenceReader');
 
 const BASE_DIR = 'conferences';
 

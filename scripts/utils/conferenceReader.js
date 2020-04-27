@@ -1,6 +1,6 @@
 const fs = require('fs');
 const assert = require('assert');
-const topics = require('./topics');
+const topics = require('../../config/topics');
 
 const jsonFileRegex = /(.*).json$/;
 

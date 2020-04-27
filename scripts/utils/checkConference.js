@@ -1,5 +1,5 @@
 const parse = require('date-fns/parse');
-const validLocations = require('./validLocations');
+const validLocations = require('../../config/validLocations');
 
 const twitterRegex = /@(\w){1,15}$/;
 const httpRegex = /^http(s?):\/\//;

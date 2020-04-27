@@ -1,4 +1,4 @@
-const conferenceReader = require('../conferenceReader');
+const conferenceReader = require('./utils/conferenceReader');
 const checkConferences = require('./utils/checkConferences');
 const logTestResult = require('./utils/logTestResult');
 
@@ -18,7 +18,6 @@ for (const year of Object.keys(conferencesJSON)) {
         const conferences = conferencesJSON[year][stack];
         testResult.errors[year][stack] = checkConferences(year, stack, conferences);
         testResult.conferenceCounter += conferences.length;
-
     };
 };
 
