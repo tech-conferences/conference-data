@@ -7,7 +7,7 @@ const httpNoQuestionmarkRegex = /\?/;
 const urlShortener = /(\/bit\.ly)|(\/t\.co)/;
 const usaStateRegex = /, ([A-Z][A-Z])|(D.C.)$/;
 const emptyStringRegex = /^\s+$|^$/gi;
-const onlineRegex = /online|remote|everywhere|world|web|global|virtual/i;
+const onlineRegex = /online|remote|everywhere|world|web|global|virtual|www|http/i;
 const dateFormat = 'yyyy-MM-dd';
 const REQUIRED_KEYS = ['name', 'url', 'startDate', 'endDate', 'country', 'city'];
 const validLocationsHint = ' - Check/Maintain the file "config/validLocations.js"';
@@ -27,15 +27,16 @@ module.exports = function checkConference(year, conference, assertField) {
     const isCountryValid = validLocations[country];
     const isCityValid = isCountryValid && validLocations[country].indexOf(city) !== -1;
     const isOnline = onlineRegex.test(city) || onlineRegex.test(country);
-    assertField(isCityValid || isOnline, 'city', 'is a not in the list of valid cities' + validLocationsHint, `"${city}" in "${country}"`);
-    assertField(isCountryValid || isOnline, 'country', 'is a not in the list of valid countries' + validLocationsHint, country);
-    if (country === 'U.S.A.' && !isOnline) {
-        assertField(usaStateRegex.test(city), 'city', 'in the US must also contain the state', city);
-    }
-    if (isOnline && (!isCityValid || !isCountryValid)) {
+    if (isOnline) {
         const onlineHint = 'for Online conferences shoule be "Online"';
         assertField(city === 'Online', 'city', onlineHint, city);
         assertField(country === 'Online', 'country', onlineHint, country);
+    } else {
+        assertField(isCityValid, 'city', 'is a not in the list of valid cities' + validLocationsHint, `"${city}" in "${country}"`);
+        assertField(isCountryValid, 'country', 'is a not in the list of valid countries' + validLocationsHint, country);
+        if (country === 'U.S.A.') {
+            assertField(usaStateRegex.test(city), 'city', 'in the US must also contain the state', city);
+        }
     }
     if (cfpUrl) {
         checkUrl(conference, 'cfpUrl');
