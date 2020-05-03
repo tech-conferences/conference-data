@@ -99,8 +99,6 @@
     "endDate": "2020-03-11",
     "city": "Bochum",
     "country": "Germany",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdOmCTRBBD-thoP8e69mkjSR9xGg81VmHQe2aWvQIcccg3-4Q/viewform",
-    "cfpEndDate": "2020-01-18",
     "twitter": "@DevOpsGathering"
   },
   {
@@ -125,8 +123,8 @@
     "url": "https://virtual.rejekts.io",
     "startDate": "2020-04-01",
     "endDate": "2020-04-01",
-    "city": "Amsterdam",
-    "country": "Netherlands",
+    "city": "Online",
+    "country": "Online",
     "twitter": "@rejektsio"
   },
   {
@@ -364,17 +362,17 @@
     "url": "https://cloud-native.rejekts.io/",
     "startDate": "2020-08-11",
     "endDate": "2020-08-12",
-    "city": "Amsterdam",
-    "country": "Netherlands",
+    "city": "Online",
+    "country": "Online",
     "twitter": "@rejektsio"
   },
   {
     "name": "KubeCon + CloudNativeCon Europe",
     "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/",
-    "startDate": "2020-08-13",
-    "endDate": "2020-08-16",
-    "city": "Amsterdam",
-    "country": "Netherlands",
+    "startDate": "2020-08-17",
+    "endDate": "2020-08-20",
+    "city": "Online",
+    "country": "Online",
     "twitter": "@Kubecon_"
   },
   {
@@ -458,17 +456,6 @@
     "endDate": "2020-09-20",
     "city": "Cairo",
     "country": "Egypt"
-  },
-  {
-    "name": "Kubernetes Community Days",
-    "url": "https://kubernetescommunitydays.org/events/2020-amsterdam",
-    "startDate": "2020-09-24",
-    "endDate": "2020-09-25",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "cfpUrl": "https://sessionize.com/kcdams2020",
-    "cfpEndDate": "2020-05-15",
-    "twitter": "@cloudnativeams"
   },
   {
     "name": "DevOpsCon New York",
