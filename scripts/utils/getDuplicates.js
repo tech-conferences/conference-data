@@ -1,13 +1,13 @@
 module.exports = function getDuplicates(conferences) {
-    const confUUIDs = conferences.map(conf => getUUID(conf));
+    const keyAndConf = {};
     const duplicates = [];
-
-    Object.keys(conferences).forEach((key, index) => {
-        const uuid = getUUID(conferences[key]);
-        if (confUUIDs.indexOf(uuid, index + 1) !== -1) {
-            if (duplicates.indexOf(uuid) === -1) {
-                duplicates.push(conferences[key]);
-            }
+    conferences.forEach(conf => {
+        const uuid = getUUID(conf);
+        if (keyAndConf[uuid]) {
+            duplicates.push(keyAndConf[uuid]);
+            duplicates.push(conf);
+        } else {
+            keyAndConf[uuid] = conf;
         }
     });
     return duplicates;
