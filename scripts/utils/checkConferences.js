@@ -14,9 +14,11 @@ module.exports = function checkConferences(year, stack, conferences) {
         });
     }
     const duplicates = getDuplicates(conferences);
+    for (const duplicate of duplicates) {
+        const lineNumber = findLineNumber(duplicate, 'name', fileName);
+        reportError(lineNumber, `Found duplicate conference "${duplicate.name} in ${duplicate.city}"`);
+    }
     if (duplicates.length > 0) {
-        const lineNumber = findLineNumber(duplicates[0], 'name', fileName);
-        reportError(lineNumber, `Found duplicate conference "${duplicates.map(conf => conf.name)}"`);
     }
 
     for (const conference of conferences) {
