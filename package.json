@@ -17,7 +17,7 @@
     "start": "nodemon scripts/conferences.test.js --exec \"npm run format && node\"",
     "test": "node scripts/conferences.test.js",
     "updateValidLocations": "node ./scripts/updateValidLocations.js",
-    "reorderConfs": "node ./scripts/reorderConferencesByDate.js",
+    "reorder-confs": "node ./scripts/reorderConferencesByDate.js",
     "format": "prettier --write scripts/**/*.js --print-width 180 --single-quote --tab-width 4 --trailing-comma none --arrow-parens avoid"
   },
   "homepage": "https://confs.tech"

@@ -18,6 +18,24 @@
     "twitter": "@gointothebox"
   },
   {
+    "name": "Spring I/O Bridge",
+    "url": "https://2020.springio.net/bridge",
+    "startDate": "2020-05-15",
+    "endDate": "2020-05-15",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@spring_io"
+  },
+  {
+    "name": "JNation",
+    "url": "https://2020.jnation.pt",
+    "startDate": "2020-06-02",
+    "endDate": "2020-06-02",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@JNationConf"
+  },
+  {
     "name": "Java Fest",
     "url": "https://javafest.com.ua/indexe.html",
     "startDate": "2020-06-05",
@@ -51,6 +69,17 @@
     "city": "Kiev",
     "country": "Ukraine",
     "twitter": "@jeeconf"
+  },
+  {
+    "name": "SpringOne",
+    "url": "https://springone.io",
+    "startDate": "2020-09-01",
+    "endDate": "2020-09-04",
+    "city": "Online",
+    "country": "Online",
+    "cfpUrl": "https://springone.io/2020/cfp",
+    "cfpEndDate": "2020-05-20",
+    "twitter": "@springone"
   },
   {
     "name": "jbcnconf",
@@ -180,34 +209,5 @@
     "city": "Riga",
     "country": "Latvia",
     "twitter": "@devternity"
-  },
-  {
-    "name": "JNation",
-    "url": "https://2020.jnation.pt",
-    "startDate": "2020-06-02",
-    "endDate": "2020-06-02",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@JNationConf"
-  },
-  {
-    "name": "Spring I/O Bridge",
-    "url": "https://2020.springio.net/bridge",
-    "startDate": "2020-05-15",
-    "endDate": "2020-05-15",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@spring_io"
-  },
-  {
-    "name": "SpringOne",
-    "url": "https://springone.io",
-    "startDate": "2020-09-01",
-    "endDate": "2020-09-04",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@springone",
-    "cfpUrl": "https://springone.io/2020/cfp",
-    "cfpEndDate": "2020-05-20"
   }
 ]

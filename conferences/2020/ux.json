@@ -285,6 +285,15 @@
     "twitter": "@SmashingConf"
   },
   {
+    "name": "SmashingConf Live",
+    "url": "https://smashingconf.com/live",
+    "startDate": "2020-06-09",
+    "endDate": "2020-06-10",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@smashingconf"
+  },
+  {
     "name": "UX Writer Conference",
     "url": "https://uxwriterconference.com",
     "startDate": "2020-06-09",
@@ -505,14 +514,5 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "twitter": "@aneventapart"
-  },
-  {
-    "name": "SmashingConf Live",
-    "url": "https://smashingconf.com/live",
-    "startDate": "2020-06-09",
-    "endDate": "2020-06-10",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@smashingconf"
   }
 ]
