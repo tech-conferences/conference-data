@@ -25,6 +25,15 @@
     "country": "Moldova"
   },
   {
+    "name": "RailsConf",
+    "url": "https://railsconf.com",
+    "startDate": "2020-05-05",
+    "endDate": "2020-05-05",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@railsconf"
+  },
+  {
     "name": "Saint P Rubyconf",
     "url": "https://spbrubyconf.ru",
     "startDate": "2020-06-01",
@@ -88,14 +97,5 @@
     "city": "Houston, TX",
     "country": "U.S.A.",
     "twitter": "@rubyconf"
-  },
-  {
-    "name": "RailsConf",
-    "url": "https://railsconf.com",
-    "startDate": "2020-05-05",
-    "endDate": "2020-05-05",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@railsconf"
   }
 ]

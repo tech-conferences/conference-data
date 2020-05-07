@@ -11,6 +11,17 @@
     "twitter": "@graphqlasia"
   },
   {
+    "name": "Hasura Con",
+    "url": "https://hasura.io/events/hasura-con-2020",
+    "startDate": "2020-06-03",
+    "endDate": "2020-06-10",
+    "city": "Online",
+    "country": "Online",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScW8-f8XBStaODlg_FgieTmtuv2XyqrvKYRBT7hzdmjHpVerw/viewform",
+    "cfpEndDate": "2020-05-08",
+    "twitter": "@hasurahq"
+  },
+  {
     "name": "GraphQL Summit",
     "url": "https://summit.graphql.com",
     "startDate": "2020-10-27",
@@ -18,16 +29,5 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "twitter": "@graphqlsummit"
-  },
-  {
-    "name": "Hasura Con",
-    "url": "https://hasura.io/events/hasura-con-2020",
-    "startDate": "2020-06-03",
-    "endDate": "2020-06-10",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@hasurahq",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScW8-f8XBStaODlg_FgieTmtuv2XyqrvKYRBT7hzdmjHpVerw/viewform",
-    "cfpEndDate": "2020-05-08"
   }
 ]

@@ -233,6 +233,15 @@
     "twitter": "@devopsdayspoz"
   },
   {
+    "name": "CloudBees Connect",
+    "url": "https://cloudbeesconnect.com",
+    "startDate": "2020-05-19",
+    "endDate": "2020-05-20",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@CloudBees"
+  },
+  {
     "name": "Container Camp",
     "url": "https://2020.container.camp/web",
     "startDate": "2020-05-22",
@@ -333,6 +342,24 @@
     "twitter": "@HashiConf"
   },
   {
+    "name": "JFrog Swamp UP (North America)",
+    "url": "https://swampup.jfrog.com",
+    "startDate": "2020-06-24",
+    "endDate": "2020-06-24",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@jfrog"
+  },
+  {
+    "name": "JFrog Swamp UP (EMEA)",
+    "url": "https://swampup.jfrog.com",
+    "startDate": "2020-07-01",
+    "endDate": "2020-07-01",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@jfrog"
+  },
+  {
     "name": "Devopsdays Atlanta, GA",
     "url": "https://devopsdays.org/events/2020-atlanta/welcome/",
     "startDate": "2020-07-27",
@@ -403,6 +430,17 @@
     "city": "Zurich",
     "country": "Switzerland",
     "twitter": "@DevOpsFusion"
+  },
+  {
+    "name": "GitLab Commit",
+    "url": "https://about.gitlab.com/events/commit",
+    "startDate": "2020-08-26",
+    "endDate": "2020-08-26",
+    "city": "Online",
+    "country": "Online",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSe9_KaaOE0vnMVkAOLSg58V_4WiJffiFsVRpDO904Q4slpZSg/viewform",
+    "cfpEndDate": "2020-06-01",
+    "twitter": "@GitLab"
   },
   {
     "name": "Swiss Testing Day",
@@ -569,43 +607,5 @@
     "endDate": "2020-12-15",
     "city": "Barcelona",
     "country": "Spain"
-  },
-  {
-    "name": "CloudBees Connect",
-    "url": "https://cloudbeesconnect.com",
-    "startDate": "2020-05-19",
-    "endDate": "2020-05-20",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@CloudBees"
-  },
-  {
-    "name": "JFrog Swamp UP (EMEA)",
-    "url": "https://swampup.jfrog.com",
-    "startDate": "2020-07-01",
-    "endDate": "2020-07-01",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@jfrog"
-  },
-  {
-    "name": "JFrog Swamp UP (North America)",
-    "url": "https://swampup.jfrog.com",
-    "startDate": "2020-06-24",
-    "endDate": "2020-06-24",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@jfrog"
-  },
-  {
-    "name": "GitLab Commit",
-    "url": "https://about.gitlab.com/events/commit",
-    "startDate": "2020-08-26",
-    "endDate": "2020-08-26",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@GitLab",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSe9_KaaOE0vnMVkAOLSg58V_4WiJffiFsVRpDO904Q4slpZSg/viewform",
-    "cfpEndDate": "2020-06-01"
   }
 ]

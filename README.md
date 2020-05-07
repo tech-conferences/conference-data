@@ -3,7 +3,7 @@
 Here resides all the data used on [confs.tech](https://confs.tech).
 
 - Run the tests: `$ npm start`
-- Reorder conferences: `$ npm run reorderConfs`
+- Reorder conferences: `$ npm run reorder-confs`
 - Update valid locations: `$ npm run updateValidLocations`
 
 ## Adding a conference
