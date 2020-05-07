@@ -1,11 +1,12 @@
 [
   {
-    "name": "Product Management Festival APAC",
-    "url": "https://apac.productmanagementfestival.com/",
+    "name": "Product Management Festival",
+    "url": "https://apac.productmanagementfestival.com",
     "startDate": "2019-06-17",
     "endDate": "2019-06-18",
     "city": "Singapore",
-    "country": "Singapore"
+    "country": "Singapore",
+    "twitter": "@ProdMgmtF"
   },
   {
     "name": "Industry",
@@ -60,12 +61,13 @@
     "twitter": "@productschool"
   },
   {
-    "name": "Product Management Festival Europe",
+    "name": "Product Management Festival",
     "url": "https://productmanagementfestival.com/zurich/",
-    "startDate": "2019-11-13",
-    "endDate": "2019-11-14",
+    "startDate": "2019-11-14",
+    "endDate": "2019-11-15",
     "city": "Zurich",
-    "country": "Switzerland"
+    "country": "Switzerland",
+    "twitter": "@ProdMgmtF"
   },
   {
     "name": "Productized",

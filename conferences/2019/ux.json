@@ -470,13 +470,13 @@
     "twitter": "@ConfabEvents"
   },
   {
-    "name": "Front End Design Conference",
+    "name": "Front-End Design Conference",
     "url": "http://frontenddesignconference.com",
-    "startDate": "2019-04-24",
+    "startDate": "2019-04-25",
     "endDate": "2019-04-26",
     "city": "St. Petersburg, FL",
     "country": "U.S.A.",
-    "twitter": "@FrontEndconf"
+    "twitter": "@frontendconf"
   },
   {
     "name": "OFFF Barcelona",
@@ -1113,7 +1113,8 @@
     "startDate": "2019-10-15",
     "endDate": "2019-10-16",
     "city": "New York, NY",
-    "country": "U.S.A."
+    "country": "U.S.A.",
+    "twitter": "@smashingconf"
   },
   {
     "name": "World Usability Congress",

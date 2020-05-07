@@ -95,12 +95,13 @@
     "twitter": "@conc_at"
   },
   {
-    "name": "Confoo",
+    "name": "ConFoo Montreal",
     "url": "https://confoo.ca/en/yul2018",
     "startDate": "2018-03-07",
     "endDate": "2018-03-09",
     "city": "Montreal",
-    "country": "Canada"
+    "country": "Canada",
+    "twitter": "@confooca"
   },
   {
     "name": "ACM IUI",
@@ -192,18 +193,9 @@
     "country": "U.S.A."
   },
   {
-    "name": "Web Directions Design Leaders",
-    "url": "http://webdirections.org/designleaders",
-    "startDate": "2018-04-11",
-    "endDate": "2018-04-11",
-    "city": "Melbourne",
-    "country": "Australia",
-    "twitter": "@webdirections"
-  },
-  {
     "name": "Web Directions Design",
     "url": "http://webdirections.org/design",
-    "startDate": "2018-04-12",
+    "startDate": "2018-04-11",
     "endDate": "2018-04-13",
     "city": "Melbourne",
     "country": "Australia",
@@ -402,7 +394,8 @@
     "startDate": "2018-06-08",
     "endDate": "2018-06-08",
     "city": "Bristol",
-    "country": "U.K."
+    "country": "U.K.",
+    "twitter": "@pixelpioneers"
   },
   {
     "name": "UX Strat EU",
@@ -728,7 +721,7 @@
   {
     "name": "Pixel Pioneers Belfast",
     "url": "https://pixelpioneers.co",
-    "startDate": "2018-11-22",
+    "startDate": "2018-11-23",
     "endDate": "2018-11-23",
     "city": "Belfast",
     "country": "U.K.",
