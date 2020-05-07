@@ -1454,24 +1454,6 @@
     "twitter": "@ngromeconf"
   },
   {
-    "name": "Angular Days",
-    "url": "https://javascript-days.de/angular",
-    "startDate": "2019-10-07",
-    "endDate": "2019-10-10",
-    "city": "Berlin",
-    "country": "Germany",
-    "twitter": "@AngularDays"
-  },
-  {
-    "name": "HTML & CSS Days",
-    "url": "https://javascript-days.de/html-css",
-    "startDate": "2019-10-07",
-    "endDate": "2019-10-10",
-    "city": "Berlin",
-    "country": "Germany",
-    "twitter": "@htmlcssdays"
-  },
-  {
     "name": "JavaScript Days",
     "url": "https://javascript-days.de",
     "startDate": "2019-10-07",
@@ -1479,15 +1461,6 @@
     "city": "Berlin",
     "country": "Germany",
     "twitter": "@JS_Days"
-  },
-  {
-    "name": "React Days",
-    "url": "https://javascript-days.de/react",
-    "startDate": "2019-10-07",
-    "endDate": "2019-10-10",
-    "city": "Berlin",
-    "country": "Germany",
-    "twitter": "@React_Days"
   },
   {
     "name": "ReasonConf",
@@ -1512,7 +1485,7 @@
   },
   {
     "name": "TSConf",
-    "url": "https://tsconf.io/",
+    "url": "https://tsconf.io",
     "startDate": "2019-10-11",
     "endDate": "2019-10-11",
     "city": "Seattle, WA",

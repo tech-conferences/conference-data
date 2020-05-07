@@ -178,22 +178,15 @@
     "country": "Poland"
   },
   {
-    "name": "GDG DevFest",
+    "name": "Devfest Lille",
     "url": "https://devfest.gdglille.org",
     "startDate": "2018-06-21",
     "endDate": "2018-06-21",
     "city": "Lille",
-    "country": "France"
-  },
-  {
-    "name": "Android Enterprise Summit @ Droidcon",
-    "url": "https://www.de.droidcon.com/enterprise-summit",
-    "startDate": "2018-06-25",
-    "endDate": "2018-06-27",
-    "city": "Berlin",
-    "country": "Germany",
-    "cfpUrl": "https://sessionize.com/android-enterprise-summit",
-    "cfpEndDate": "2018-04-30"
+    "country": "France",
+    "cfpUrl": "https://devfestlille.cfp.io/",
+    "cfpEndDate": "2018-04-01",
+    "twitter": "@GDGLille"
   },
   {
     "name": "droidcon Berlin",
