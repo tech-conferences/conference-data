@@ -1,7 +1,6 @@
 const conferenceReader = require('./utils/conferenceReader');
-const mergedConferencesRead = require('./utils/mergedConferences');
+const mergedConferencesReader = require('./utils/mergedConferencesReader');
 const checkConference = require('./utils/checkConference');
-const checkDuplicates = require('./utils/checkDuplicates');
 const logTestResult = require('./utils/logTestResult');
 const findLineNumber = require('./utils/findLineNumber');
 
@@ -9,7 +8,7 @@ const label = 'Conference Tests Runtime';
 console.time(label);
 
 const conferencesJSON = conferenceReader();
-const mergedConferences = mergedConferencesRead();
+const mergedConferences = mergedConferencesReader();
 
 const testResult = {
     errors: {},
@@ -42,7 +41,22 @@ for (const year of Object.keys(conferencesJSON)) {
         }
         testResult.conferenceCounter += conferences.length;
     };
-    checkDuplicates(year, mergedConferences[year], reportError);
+    if (mergedConferences.errors[year]) {
+        const errorsOfYear = mergedConferences.errors[year];
+        function reportDuplicate(error, message) {
+            const duplicateConference = error.otherConference;
+            reportError(year, error.stack, duplicateConference, 'name', duplicateConference.name, message);
+            for (const stack of error.conference.stacks) {
+                reportError(year, stack, error.conference, 'name', duplicateConference.name, message);
+            }
+        }
+        for (const duplicate of errorsOfYear.duplicates) {
+            reportDuplicate(duplicate, 'Found duplicate conference');
+        }
+        for (const almostIdentical of errorsOfYear.almostIdentical) {
+            reportDuplicate(almostIdentical, 'Found almost identical conference');
+        }
+    }
 };
 
 logTestResult(testResult);

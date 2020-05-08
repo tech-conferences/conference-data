@@ -1,10 +1,9 @@
 const conferenceReader = require('./conferenceReader');
-const assert = require('assert');
-
 const conferencesJSON = conferenceReader();
 
-function mergeConferences() {
+function mergedConferencesReader() {
     const mergedConferences = {};
+    const errors = {};
     for (const year of Object.keys(conferencesJSON)) {
         const confsOfYear = {};
         const almostIdentical = [];
@@ -45,14 +44,17 @@ function mergeConferences() {
                 }
             }
         }
-        mergedConferences[year] = {
-            conferences: Object.values(confsOfYear),
-            errors: {
+        mergedConferences[year] = Object.values(confsOfYear);
+        if (almostIdentical.length !== 0 || duplicates.length !== 0) {
+            errors[year] = {
                 almostIdentical: almostIdentical,
                 duplicates: duplicates
-            }
-        };
+            };
+        }
     }
-    return mergedConferences;
+    return {
+        mergedConferences: mergedConferences,
+        errors: errors
+    };
 }
-module.exports = mergeConferences;
+module.exports = mergedConferencesReader;
