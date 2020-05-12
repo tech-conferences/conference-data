@@ -15,15 +15,20 @@ const testResult = {
     conferenceCounter: 0
 };
 
-function reportError(year, stack, conference, field, value, message) {
+function pushError(year, stack, lineNumber, message, value) {
     const fileName = `conferences/${year}/${stack}.json`;
-    const lineNumber = findLineNumber(conference, field, fileName);
     testResult.errors[year][stack].push({
         fileName: fileName,
         lineNumber: lineNumber,
-        message: `[${field}] ${message}`,
+        message: message,
         value: value
     });
+}
+
+function reportError(year, stack, conference, field, value, message) {
+    const fileName = `conferences/${year}/${stack}.json`;
+    const lineNumber = findLineNumber(conference, field, fileName);
+    pushError(year, stack, lineNumber, `[${field}] ${message}`, value);
 }
 
 for (const year of Object.keys(conferencesJSON)) {
@@ -31,6 +36,10 @@ for (const year of Object.keys(conferencesJSON)) {
     for (const stack of Object.keys(conferencesJSON[year])) {
         const conferences = conferencesJSON[year][stack];
         testResult.errors[year][stack] = [];
+        if (!Array.isArray(conferences)) {
+            pushError(year, stack, 1, 'List of conferences must be an array', typeof conferences);
+            continue;
+        }
         for (const conference of conferences) {
             function assertField(condition, field, message, value) {
                 if (!condition) {
