@@ -10,6 +10,9 @@ function mergedConferencesReader() {
         const duplicates = [];
         for (const stack of Object.keys(conferencesJSON[year])) {
             const conferences = conferencesJSON[year][stack];
+            if (!Array.isArray(conferences)) {
+                continue;
+            }
             for (const conference of conferences) {
                 const url = new URL(conference.url);
                 const baseUrl = url.origin + url.pathname;
