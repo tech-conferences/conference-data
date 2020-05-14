@@ -375,6 +375,15 @@
     "twitter": "@enterjsconf"
   },
   {
+    "name": "Prisma Day",
+    "url": "http://prisma.io/day",
+    "startDate": "2020-06-26",
+    "endDate": "2020-06-26",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@prisma"
+  },
+  {
     "name": "OdessaJS'",
     "url": "http://odessajs.org",
     "startDate": "2020-07-04",
@@ -790,14 +799,5 @@
     "cfpUrl": "https://halfstackconf.com/charlotte/",
     "cfpEndDate": "2019-12-15",
     "twitter": "@halfstackconf"
-  },
-  {
-    "name": "Prisma Day",
-    "url": "http://prisma.io/day",
-    "startDate": "2020-06-26",
-    "endDate": "2020-06-26",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@prisma"
   }
 ]

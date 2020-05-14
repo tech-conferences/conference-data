@@ -478,6 +478,16 @@
     "country": "Switzerland"
   },
   {
+    "name": "DevOps India Summit",
+    "url": "https://devopsindiasummit.com",
+    "startDate": "2020-09-09",
+    "endDate": "2020-09-09",
+    "city": "Online",
+    "country": "Online",
+    "cfpUrl": "https://devopsindiasummit.com/call-for-speakers",
+    "cfpEndDate": "2020-05-15"
+  },
+  {
     "name": "DeveloperWeek DC",
     "url": "https://www.developerweek.com/DC",
     "startDate": "2020-09-15",
@@ -607,15 +617,5 @@
     "endDate": "2020-12-15",
     "city": "Barcelona",
     "country": "Spain"
-  },
-  {
-    "name": "DevOps India Summit",
-    "url": "https://devopsindiasummit.com",
-    "startDate": "2020-09-09",
-    "endDate": "2020-09-09",
-    "city": "Online",
-    "country": "Online",
-    "cfpUrl": "https://devopsindiasummit.com/call-for-speakers",
-    "cfpEndDate": "2020-05-15"
   }
 ]
