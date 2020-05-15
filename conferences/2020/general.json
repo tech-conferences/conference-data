@@ -358,15 +358,6 @@
     "twitter": "@DeveloperDaysPL"
   },
   {
-    "name": "SREcon",
-    "url": "https://www.usenix.org/conference/srecon20americaswest",
-    "startDate": "2020-12-07",
-    "endDate": "2020-12-09",
-    "city": "Santa Clara, CA",
-    "country": "U.S.A.",
-    "twitter": "@SREcon"
-  },
-  {
     "name": "SEACON software engineering + architecture conference",
     "url": "https://www.sea-con.de",
     "startDate": "2020-06-04",
@@ -393,15 +384,6 @@
     "twitter": "@ServerlessMIL"
   },
   {
-    "name": "GOTO Amsterdam",
-    "url": "https://gotoams.nl",
-    "startDate": "2020-12-07",
-    "endDate": "2020-12-10",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "twitter": "@gotoamst"
-  },
-  {
     "name": "NDC Oslo",
     "url": "https://ndcoslo.com",
     "startDate": "2020-06-08",
@@ -409,15 +391,6 @@
     "city": "Online",
     "country": "Online",
     "twitter": "@NDC_Conferences"
-  },
-  {
-    "name": "Codemotion Rome",
-    "url": "https://events.codemotion.com/conferences/rome/2020",
-    "startDate": "2020-11-27",
-    "endDate": "2020-11-28",
-    "city": "Rome",
-    "country": "Italy",
-    "twitter": "@CodemotionIT"
   },
   {
     "name": "CausaConf",
@@ -984,6 +957,15 @@
     "twitter": "@pixelscamp"
   },
   {
+    "name": "Codemotion Rome",
+    "url": "https://events.codemotion.com/conferences/rome/2020",
+    "startDate": "2020-11-27",
+    "endDate": "2020-11-28",
+    "city": "Rome",
+    "country": "Italy",
+    "twitter": "@CodemotionIT"
+  },
+  {
     "name": "DevTernity",
     "url": "https://go.devternity.com/20",
     "startDate": "2020-12-03",
@@ -991,6 +973,24 @@
     "city": "Riga",
     "country": "Latvia",
     "twitter": "@devternity"
+  },
+  {
+    "name": "SREcon",
+    "url": "https://www.usenix.org/conference/srecon20americaswest",
+    "startDate": "2020-12-07",
+    "endDate": "2020-12-09",
+    "city": "Santa Clara, CA",
+    "country": "U.S.A.",
+    "twitter": "@SREcon"
+  },
+  {
+    "name": "GOTO Amsterdam",
+    "url": "https://gotoams.nl",
+    "startDate": "2020-12-07",
+    "endDate": "2020-12-10",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@gotoamst"
   },
   {
     "name": "IT-Tage",
