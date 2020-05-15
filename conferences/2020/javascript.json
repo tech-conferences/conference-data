@@ -313,15 +313,6 @@
     "twitter": "@ReactNext"
   },
   {
-    "name": "HolyJS Piter",
-    "url": "https://holyjs-piter.ru/en",
-    "startDate": "2020-06-22",
-    "endDate": "2020-06-26",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@HolyJSconf"
-  },
-  {
     "name": "JSNation",
     "url": "http://jsnation.com",
     "startDate": "2020-06-18",
@@ -340,6 +331,15 @@
     "twitter": "@jsconfbe"
   },
   {
+    "name": "HolyJS Piter",
+    "url": "https://holyjs-piter.ru/en",
+    "startDate": "2020-06-22",
+    "endDate": "2020-06-26",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@HolyJSconf"
+  },
+  {
     "name": "OpenJS World",
     "url": "https://events.linuxfoundation.org/openjs-world",
     "startDate": "2020-06-23",
@@ -347,15 +347,6 @@
     "city": "Online",
     "country": "Online",
     "twitter": "@openjsf"
-  },
-  {
-    "name": "enterJS",
-    "url": "https://enterjs.de",
-    "startDate": "2020-08-29",
-    "endDate": "2020-10-01",
-    "city": "Darmstadt",
-    "country": "Germany",
-    "twitter": "@enterjsconf"
   },
   {
     "name": "Prisma Day",
@@ -456,6 +447,15 @@
     "city": "Vilnius",
     "country": "Lithuania",
     "twitter": "@yglf_lt"
+  },
+  {
+    "name": "enterJS",
+    "url": "https://enterjs.de",
+    "startDate": "2020-08-29",
+    "endDate": "2020-10-01",
+    "city": "Darmstadt",
+    "country": "Germany",
+    "twitter": "@enterjsconf"
   },
   {
     "name": "JavaScript Days",

@@ -280,15 +280,6 @@
     "twitter": "@devopsfest"
   },
   {
-    "name": "DevOpsCon Berlin",
-    "url": "https://devopscon.io/berlin",
-    "startDate": "2020-10-12",
-    "endDate": "2020-10-15",
-    "city": "Berlin",
-    "country": "Germany",
-    "twitter": "@devops_con"
-  },
-  {
     "name": "NDC Oslo",
     "url": "https://ndcoslo.com",
     "startDate": "2020-06-08",
@@ -522,6 +513,15 @@
     "endDate": "2020-10-03",
     "city": "Castelo Branco",
     "country": "Portugal"
+  },
+  {
+    "name": "DevOpsCon Berlin",
+    "url": "https://devopscon.io/berlin",
+    "startDate": "2020-10-12",
+    "endDate": "2020-10-15",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@devops_con"
   },
   {
     "name": "HashiConf US",
