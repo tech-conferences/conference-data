@@ -477,5 +477,16 @@
     "city": "Online",
     "country": "Online",
     "twitter": "@FruitPunchAI"
+  },
+  {
+    "name": "Kafka Summit",
+    "url": "https://events.kafka-summit.org/2020",
+    "startDate": "2020-08-24",
+    "endDate": "2020-08-25",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@apachekafka",
+    "cfpUrl": "https://sessionize.com/kafka-summit-austin-2020",
+    "cfpEndDate": "2020-05-17"
   }
 ]
