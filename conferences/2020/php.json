@@ -270,5 +270,16 @@
     "cfpUrl": "https://paris2020.symfony.com/cfp",
     "cfpEndDate": "2020-05-10",
     "twitter": "@symfonycon"
+  },
+  {
+    "name": "International PHP Conference",
+    "url": "https://phpconference.com",
+    "startDate": "2020-10-26",
+    "endDate": "2020-10-30",
+    "city": "Munich",
+    "country": "Germany",
+    "twitter": "@phpconference",
+    "cfpUrl": "https://phpconference.com/call-for-papers",
+    "cfpEndDate": "2020-06-03"
   }
 ]
