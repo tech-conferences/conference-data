@@ -22,6 +22,16 @@
     "twitter": "@hasurahq"
   },
   {
+    "name": "API Conference Berlin",
+    "url": "https://apiconference.net/berlin",
+    "startDate": "2020-10-12",
+    "endDate": "2020-10-14",
+    "city": "Berlin",
+    "country": "Germany",
+    "cfpEndDate": "2020-05-19",
+    "twitter": "@api_conference"
+  },
+  {
     "name": "GraphQL Summit",
     "url": "https://summit.graphql.com",
     "startDate": "2020-10-27",
@@ -29,15 +39,5 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "twitter": "@graphqlsummit"
-  },
-  {
-    "name": "API Conference Berlin",
-    "url": "https://apiconference.net/berlin",
-    "startDate": "2020-10-12",
-    "endDate": "2020-10-14",
-    "city": "Berlin",
-    "country": "Germany",
-    "twitter": "@api_conference",
-    "cfpEndDate": "2020-05-19"
   }
 ]
