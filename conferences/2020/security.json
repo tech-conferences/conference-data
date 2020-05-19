@@ -111,6 +111,15 @@
     "twitter": "@ITSecSummit"
   },
   {
+    "name": "IDS Implementation WebConference",
+    "url": "https://www.smartgrid-forums.com/webconferences/ids-implementation",
+    "startDate": "2020-06-12",
+    "endDate": "2020-06-12",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@SmartGridForums"
+  },
+  {
     "name": "DevSecCon24",
     "url": "https://www.devseccon.com/devseccon24-2020",
     "startDate": "2020-06-15",
@@ -155,6 +164,16 @@
     "twitter": "@balcc0n"
   },
   {
+    "name": "Serverless Architecture Conference Berlin",
+    "url": "https://serverless-architecture.io/berlin",
+    "startDate": "2020-10-12",
+    "endDate": "2020-10-14",
+    "city": "Berlin",
+    "country": "Germany",
+    "cfpEndDate": "2020-05-19",
+    "twitter": "@serverlesscon"
+  },
+  {
     "name": "PEPR",
     "url": "https://www.usenix.org/conference/pepr20",
     "startDate": "2020-10-15",
@@ -162,24 +181,5 @@
     "city": "Santa Clara, CA",
     "country": "U.S.A.",
     "twitter": "@PEPR"
-  },
-  {
-    "name": "IDS Implementation WebConference",
-    "url": "https://www.smartgrid-forums.com/webconferences/ids-implementation",
-    "startDate": "2020-06-12",
-    "endDate": "2020-06-12",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@SmartGridForums"
-  },
-  {
-    "name": "Serverless Architecture Conference Berlin",
-    "url": "https://serverless-architecture.io/berlin",
-    "startDate": "2020-10-12",
-    "endDate": "2020-10-14",
-    "city": "Berlin",
-    "country": "Germany",
-    "twitter": "@serverlesscon",
-    "cfpEndDate": "2020-05-19"
   }
 ]

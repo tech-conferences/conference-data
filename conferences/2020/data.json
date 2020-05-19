@@ -159,6 +159,15 @@
     "twitter": "@PGDayIT"
   },
   {
+    "name": "AI to Save the Planet",
+    "url": "https://asap_online.eventbrite.nl",
+    "startDate": "2020-06-12",
+    "endDate": "2020-06-12",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@FruitPunchAI"
+  },
+  {
     "name": "Data Science fwdays",
     "url": "https://fwdays.com/event/data-science-fwdays-2020",
     "startDate": "2020-06-13",
@@ -277,6 +286,17 @@
     "city": "Atlanta, GA",
     "country": "U.S.A.",
     "twitter": "@southerndsc"
+  },
+  {
+    "name": "Kafka Summit",
+    "url": "https://events.kafka-summit.org/2020",
+    "startDate": "2020-08-24",
+    "endDate": "2020-08-25",
+    "city": "Online",
+    "country": "Online",
+    "cfpUrl": "https://sessionize.com/kafka-summit-austin-2020",
+    "cfpEndDate": "2020-05-17",
+    "twitter": "@apachekafka"
   },
   {
     "name": "Ai4",
@@ -468,25 +488,5 @@
     "country": "Germany",
     "cfpUrl": "https://www.kuppingercole.com/events/cybernetixworld2020/callforspeakers",
     "cfpEndDate": "2020-09-07"
-  },
-  {
-    "name": "AI to Save the Planet",
-    "url": "https://asap_online.eventbrite.nl",
-    "startDate": "2020-06-12",
-    "endDate": "2020-06-12",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@FruitPunchAI"
-  },
-  {
-    "name": "Kafka Summit",
-    "url": "https://events.kafka-summit.org/2020",
-    "startDate": "2020-08-24",
-    "endDate": "2020-08-25",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@apachekafka",
-    "cfpUrl": "https://sessionize.com/kafka-summit-austin-2020",
-    "cfpEndDate": "2020-05-17"
   }
 ]
