@@ -162,5 +162,15 @@
     "city": "Santa Clara, CA",
     "country": "U.S.A.",
     "twitter": "@PEPR"
+  },
+  {
+    "name": "Serverless Architecture Conference Berlin",
+    "url": "https://serverless-architecture.io/berlin",
+    "startDate": "2020-10-12",
+    "endDate": "2020-10-14",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@serverlesscon",
+    "cfpEndDate": "2020-05-19"
   }
 ]
