@@ -221,17 +221,6 @@
     "twitter": "@ecomDS"
   },
   {
-    "name": "webinale",
-    "url": "https://webinale.de/en",
-    "startDate": "2020-12-07",
-    "endDate": "2020-12-11",
-    "city": "Berlin",
-    "country": "Germany",
-    "cfpUrl": "https://webinale.de/call-for-papers-en",
-    "cfpEndDate": "2019-11-25",
-    "twitter": "@webinale"
-  },
-  {
     "name": "UX London",
     "url": "https://2020.uxlondon.com",
     "startDate": "2020-05-27",
@@ -496,6 +485,17 @@
     "city": "Ottawa",
     "country": "Canada",
     "twitter": "@canuxconf"
+  },
+  {
+    "name": "webinale",
+    "url": "https://webinale.de/en",
+    "startDate": "2020-12-07",
+    "endDate": "2020-12-11",
+    "city": "Berlin",
+    "country": "Germany",
+    "cfpUrl": "https://webinale.de/call-for-papers-en",
+    "cfpEndDate": "2019-11-25",
+    "twitter": "@webinale"
   },
   {
     "name": "An Event Apart San Francisco",
