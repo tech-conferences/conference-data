@@ -26,8 +26,6 @@
     "endDate": "2020-01-24",
     "city": "San Francisco, CA",
     "country": "U.S.A.",
-    "cfpUrl": "https://www.papercall.io/covalence2020",
-    "cfpEndDate": "2019-10-31",
     "twitter": "@CovalenceConf"
   },
   {
@@ -46,8 +44,6 @@
     "endDate": "2020-02-06",
     "city": "Cologne",
     "country": "Germany",
-    "cfpUrl": "https://ctwebdev.de/international.html",
-    "cfpEndDate": "2019-08-31",
     "twitter": "@ct_webdev"
   },
   {
@@ -57,8 +53,6 @@
     "endDate": "2020-02-07",
     "city": "Honolulu, HI",
     "country": "U.S.A.",
-    "cfpUrl": "https://sessionize.com/jsconf-hawaii-2020",
-    "cfpEndDate": "2019-09-30",
     "twitter": "@JSConfHi"
   },
   {
@@ -192,9 +186,7 @@
     "startDate": "2020-04-02",
     "endDate": "2020-04-02",
     "city": "Online",
-    "country": "Online",
-    "cfpUrl": "https://www.geekle.us",
-    "cfpEndDate": "2020-04-02"
+    "country": "Online"
   },
   {
     "name": "MagnoliaJS",
@@ -237,8 +229,7 @@
     "startDate": "2020-05-05",
     "endDate": "2020-05-07",
     "city": "Vilnius",
-    "country": "Lithuania",
-    "cfpUrl": "https://devdays.lt/call-for-papers"
+    "country": "Lithuania"
   },
   {
     "name": "JS VidCon",
@@ -326,8 +317,8 @@
     "url": "https://www.jsconf.be",
     "startDate": "2020-06-22",
     "endDate": "2020-06-23",
-    "city": "Brussels",
-    "country": "Belgium",
+    "city": "Online",
+    "country": "Online",
     "twitter": "@jsconfbe"
   },
   {
@@ -460,8 +451,8 @@
   {
     "name": "JavaScript Days",
     "url": "https://javascript-days.de",
-    "startDate": "2020-08-31",
-    "endDate": "2020-09-03",
+    "startDate": "2020-09-01",
+    "endDate": "2020-09-04",
     "city": "Munich",
     "country": "Germany",
     "twitter": "@JS_Days"
