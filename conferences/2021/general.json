@@ -9,12 +9,57 @@
     "twitter": "@ReactiveConf"
   },
   {
+    "name": "Devoxx",
+    "url": "https://www.devoxx.fr",
+    "startDate": "2021-04-07",
+    "endDate": "2021-04-09",
+    "city": "Paris",
+    "country": "France",
+    "twitter": "@DevoxxFR"
+  },
+  {
     "name": "Codemotion",
     "url": "https://events.codemotion.com/conferences/amsterdam/2020",
     "startDate": "2021-05-27",
     "endDate": "2021-05-28",
     "city": "Amsterdam",
     "country": "Netherlands"
+  },
+  {
+    "name": "DevBreak",
+    "url": "https://www.devbreak.io",
+    "startDate": "2021-06-17",
+    "endDate": "2021-06-18",
+    "city": "Bouville",
+    "country": "France",
+    "twitter": "@DevBreak20"
+  },
+  {
+    "name": "Web Summer Camp",
+    "url": "https://2021.websummercamp.com/",
+    "startDate": "2021-08-25",
+    "endDate": "2021-08-27",
+    "city": "Bol",
+    "country": "Croatia",
+    "twitter": "@WebSummerCamp"
+  },
+  {
+    "name": "REFACTR.TECH",
+    "url": "https://refactr.tech",
+    "startDate": "2021-09-15",
+    "endDate": "2021-09-17",
+    "city": "Atlanta, GA",
+    "country": "U.S.A.",
+    "twitter": "@RefactrTech"
+  },
+  {
+    "name": "AdaLoversConf",
+    "url": "https://adaloversconf.es",
+    "startDate": "2021-09-25",
+    "endDate": "2021-09-25",
+    "city": "Tenerife",
+    "country": "Spain",
+    "twitter": "@adalovedev"
   },
   {
     "name": "Strange Loop",
