@@ -1,5 +1,14 @@
 [
   {
+    "name": "Canvas",
+    "url": "https://www.canvasconference.co.uk",
+    "startDate": "2021-03-18",
+    "endDate": "2021-03-18",
+    "city": "Birmingham",
+    "country": "U.K.",
+    "twitter": "@canvasconf"
+  },
+  {
     "name": "CSSCAMP",
     "url": "https://csscamp.tech",
     "startDate": "2021-07-14",
@@ -7,5 +16,14 @@
     "city": "Barcelona",
     "country": "Spain",
     "twitter": "@csscamp"
+  },
+  {
+    "name": "CanUX",
+    "url": "https://canux.io",
+    "startDate": "2021-11-04",
+    "endDate": "2021-11-07",
+    "city": "Ottawa",
+    "country": "Canada",
+    "twitter": "@canuxconf"
   }
 ]
