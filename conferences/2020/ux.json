@@ -118,42 +118,13 @@
     "twitter": "@superconfmiami"
   },
   {
-    "name": "NN/g UX Conference",
-    "url": "https://www.nngroup.com/training/london",
-    "startDate": "2020-03-21",
-    "endDate": "2020-03-27",
-    "city": "London",
-    "country": "U.K.",
-    "twitter": "@nngroup"
-  },
-  {
     "name": "UX Copenhagen",
     "url": "https://uxcopenhagen.com",
     "startDate": "2020-03-30",
     "endDate": "2020-03-31",
-    "city": "Copenhagen",
-    "country": "Denmark",
+    "city": "Online",
+    "country": "Online",
     "twitter": "@UXCopenhagen"
-  },
-  {
-    "name": "UIArchConf",
-    "url": "http://uiarchconf.com",
-    "startDate": "2020-04-01",
-    "endDate": "2020-04-03",
-    "city": "New Orleans, LA",
-    "country": "U.S.A.",
-    "cfpUrl": "http://uiarchconf.com/cfp",
-    "cfpEndDate": "2019-10-31",
-    "twitter": "@uiarchconf"
-  },
-  {
-    "name": "An Event Apart DC",
-    "url": "https://aneventapart.com/event/washington-dc-2020",
-    "startDate": "2020-04-13",
-    "endDate": "2020-04-15",
-    "city": "Washington, D.C.",
-    "country": "U.S.A.",
-    "twitter": "@aneventapart"
   },
   {
     "name": "NN/g UX Conference",
@@ -163,15 +134,6 @@
     "city": "Online",
     "country": "Online",
     "twitter": "@nngroup"
-  },
-  {
-    "name": "UX Burlington",
-    "url": "https://www.uxburlington.com",
-    "startDate": "2020-05-01",
-    "endDate": "2020-05-01",
-    "city": "Burlington, VT",
-    "country": "U.S.A.",
-    "twitter": "@uxburlington"
   },
   {
     "name": "John Slatin AccessU",
@@ -221,66 +183,32 @@
     "twitter": "@ecomDS"
   },
   {
-    "name": "UX London",
-    "url": "https://2020.uxlondon.com",
-    "startDate": "2020-05-27",
-    "endDate": "2020-05-29",
-    "city": "London",
-    "country": "U.K.",
-    "twitter": "@UXLondon"
-  },
-  {
-    "name": "Front",
-    "url": "https://www.frontutah.com/conference",
-    "startDate": "2020-05-28",
-    "endDate": "2020-05-29",
-    "city": "Salt Lake City, UT",
-    "country": "U.S.A."
-  },
-  {
-    "name": "#UXRConf",
-    "url": "https://uxrconference.com",
-    "startDate": "2020-06-03",
-    "endDate": "2020-06-05",
-    "city": "Toronto",
-    "country": "Canada",
-    "twitter": "@UXRCollective"
+    "name": "UX Healthcare",
+    "url": "https://uxhealthcare.co",
+    "startDate": "2020-06-02",
+    "endDate": "2020-06-02",
+    "city": "Online",
+    "country": "Online",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScaCNQf7_X9XG9v_Jw0BiL__s0IE3gOPLrA5vC8wYNq7fhcsg/viewform",
+    "twitter": "@uxdhealthcare"
   },
   {
     "name": "The BAD (Behaviour & Design) Conference",
     "url": "https://thebadconference.com",
     "startDate": "2020-06-04",
     "endDate": "2020-06-04",
-    "city": "London",
-    "country": "U.K.",
+    "city": "Online",
+    "country": "Online",
     "twitter": "@TechCircus_"
   },
   {
     "name": "Fluxible",
     "url": "https://www.fluxible.ca",
-    "startDate": "2020-06-06",
-    "endDate": "2020-06-07",
-    "city": "Waterloo",
-    "country": "Canada",
-    "twitter": "@Fluxible"
-  },
-  {
-    "name": "SmashingConf",
-    "url": "https://smashingconf.com/austin-2020",
-    "startDate": "2020-06-09",
-    "endDate": "2020-06-10",
-    "city": "Austin, TX",
-    "country": "U.S.A.",
-    "twitter": "@SmashingConf"
-  },
-  {
-    "name": "SmashingConf Live",
-    "url": "https://smashingconf.com/live",
-    "startDate": "2020-06-09",
-    "endDate": "2020-06-10",
+    "startDate": "2020-06-04",
+    "endDate": "2020-06-04",
     "city": "Online",
     "country": "Online",
-    "twitter": "@smashingconf"
+    "twitter": "@Fluxible"
   },
   {
     "name": "UX Writer Conference",
@@ -300,59 +228,66 @@
     "twitter": "@dsgndayconf"
   },
   {
-    "name": "UX Healthcare",
-    "url": "https://uxhealthcare.co",
-    "startDate": "2020-06-24",
-    "endDate": "2020-06-26",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScaCNQf7_X9XG9v_Jw0BiL__s0IE3gOPLrA5vC8wYNq7fhcsg/viewform",
-    "twitter": "@uxdhealthcare"
+    "name": "An Event Apart – Online Together",
+    "url": "https://aneventapart.com/event/online-0620",
+    "startDate": "2020-06-15",
+    "endDate": "2020-06-15",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@aneventapart"
   },
   {
-    "name": "The FinTech Design Summit New York",
-    "url": "https://fintechdesignsummit.com/new-york",
+    "name": "sofaconf",
+    "url": "https://2020.sofaconf.com/",
+    "startDate": "2020-06-22",
+    "endDate": "2020-06-26",
+    "city": "Online",
+    "country": "Online"
+  },
+  {
+    "name": "#UXRConf",
+    "url": "https://uxrconference.com",
     "startDate": "2020-06-25",
-    "endDate": "2020-06-25",
-    "city": "New York, NY",
-    "country": "U.S.A.",
+    "endDate": "2020-06-26",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@UXRCollective"
+  },
+  {
+    "name": "The FinTech Design Summit",
+    "url": "https://fintechdesignsummit.com/new-york",
+    "startDate": "2020-06-30",
+    "endDate": "2020-06-30",
+    "city": "Online",
+    "country": "Online",
     "twitter": "@fdsummit"
   },
   {
-    "name": "An Event Apart Boston, MA",
-    "url": "https://aneventapart.com/event/boston-2020",
-    "startDate": "2020-06-29",
-    "endDate": "2020-07-01",
-    "city": "Boston, MA",
-    "country": "U.S.A.",
+    "name": "An Event Apart – Human-Centered Design",
+    "url": "https://aneventapart.com/event/online-0720",
+    "startDate": "2020-07-20",
+    "endDate": "2020-07-20",
+    "city": "Online",
+    "country": "Online",
     "twitter": "@aneventapart"
   },
   {
     "name": "NN/g UX Conference",
-    "url": "https://www.nngroup.com/training/sydney",
-    "startDate": "2020-07-27",
+    "url": "https://www.nngroup.com/training/july/",
+    "startDate": "2020-07-25",
     "endDate": "2020-07-31",
-    "city": "Sydney",
-    "country": "Australia",
+    "city": "Online",
+    "country": "Online",
     "twitter": "@nngroup"
   },
   {
-    "name": "RAD Summit",
-    "url": "http://radsummit.co",
-    "startDate": "2020-08-13",
-    "endDate": "2020-08-16",
-    "city": "Denver, CO",
-    "country": "U.S.A.",
-    "twitter": "@radsummit"
-  },
-  {
-    "name": "An Event Apart Minneapolis",
-    "url": "https://aneventapart.com/event/minneapolis-2020",
-    "startDate": "2020-08-17",
-    "endDate": "2020-08-19",
-    "city": "Minneapolis, MN",
-    "country": "U.S.A.",
-    "twitter": "@aneventapart"
+    "name": "NN/g UX Conference",
+    "url": "https://www.nngroup.com/training/august/",
+    "startDate": "2020-08-10",
+    "endDate": "2020-08-21",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@nngroup"
   },
   {
     "name": "SmashingConf",
@@ -362,15 +297,6 @@
     "city": "Freiburg",
     "country": "Germany",
     "twitter": "@SmashingConf"
-  },
-  {
-    "name": "dConstruct",
-    "url": "https://2020.dconstruct.org",
-    "startDate": "2020-09-11",
-    "endDate": "2020-09-11",
-    "city": "Brighton",
-    "country": "U.K.",
-    "twitter": "@dconstruct"
   },
   {
     "name": "Pixel Up!",
@@ -412,7 +338,7 @@
     "twitter": "@digitallabin"
   },
   {
-    "name": "Intersection, where design meets development",
+    "name": "Intersection",
     "url": "https://www.intersection-conference.eu",
     "startDate": "2020-10-01",
     "endDate": "2020-10-02",
@@ -432,24 +358,32 @@
     "twitter": "@aneventapart"
   },
   {
-    "name": "Canvas Conference",
-    "url": "https://www.canvasconference.co.uk",
-    "startDate": "2020-10-08",
-    "endDate": "2020-10-08",
-    "city": "Birmingham",
-    "country": "U.K.",
-    "twitter": "@canvasconf"
-  },
-  {
     "name": "UXDX",
     "url": "https://uxdxconf.com",
-    "startDate": "2020-10-08",
+    "startDate": "2020-10-06",
     "endDate": "2020-10-09",
-    "city": "Dublin",
-    "country": "Ireland",
+    "city": "Online",
+    "country": "Online",
     "cfpUrl": "https://uxdxconf.com/speak",
     "cfpEndDate": "2020-02-28",
     "twitter": "@uxdxconf"
+  },
+  {
+    "name": "Front",
+    "url": "https://www.frontutah.com/conference",
+    "startDate": "2020-11-10",
+    "endDate": "2020-11-13",
+    "city": "Salt Lake City, UT",
+    "country": "U.S.A."
+  },
+  {
+    "name": "SmashingConf",
+    "url": "https://smashingconf.com/austin-2020",
+    "startDate": "2020-10-13",
+    "endDate": "2020-10-14",
+    "city": "Austin, TX",
+    "country": "U.S.A.",
+    "twitter": "@SmashingConf"
   },
   {
     "name": "UX-DAY",
@@ -458,6 +392,17 @@
     "endDate": "2020-10-16",
     "city": "Mannheim",
     "country": "Germany"
+  },
+  {
+    "name": "UIArchConf",
+    "url": "http://uiarchconf.com",
+    "startDate": "2020-10-19",
+    "endDate": "2020-10-20",
+    "city": "New Orleans, LA",
+    "country": "U.S.A.",
+    "cfpUrl": "http://uiarchconf.com/cfp",
+    "cfpEndDate": "2019-10-31",
+    "twitter": "@uiarchconf"
   },
   {
     "name": "SmashingConf",
@@ -478,15 +423,6 @@
     "twitter": "@SthlmXperience"
   },
   {
-    "name": "CanUX",
-    "url": "https://canux.io",
-    "startDate": "2020-11-12",
-    "endDate": "2020-11-15",
-    "city": "Ottawa",
-    "country": "Canada",
-    "twitter": "@canuxconf"
-  },
-  {
     "name": "webinale",
     "url": "https://webinale.de/en",
     "startDate": "2020-12-07",
@@ -505,14 +441,5 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "twitter": "@aneventapart"
-  },
-  {
-    "name": "The FinTech Design Summit",
-    "url": "http://www.fintechdesignsummit.com/new-york",
-    "startDate": "2020-07-30",
-    "endDate": "2020-07-30",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@fdsummit"
   }
 ]
