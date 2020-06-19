@@ -306,5 +306,16 @@
     "city": "Hong Kong",
     "country": "Hong Kong",
     "twitter": "@hkoscon"
+  },
+  {
+    "name": "ActivityPub Conf",
+    "url": "https://conf.activitypub.rocks",
+    "startDate": "2020-10-02",
+    "endDate": "2020-10-05",
+    "city": "virtually",
+    "country": "everywhere",
+    "twitter": "@sl007@mastodon.social",
+    "cfpUrl": "https://conf.activitypub.rocks/cfp",
+    "cfpEndDate": "2020-07-08"
   }
 ]
