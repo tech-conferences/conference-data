@@ -119,5 +119,16 @@
     "city": "Mannheim",
     "country": "Germany",
     "twitter": "@enterpyconf"
+  },
+  {
+    "name": "PyCon Lithuania",
+    "url": "https://pycon.lt",
+    "startDate": "2020-07-31",
+    "endDate": "2020-08-01",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@pyconlt",
+    "cfpUrl": "https://pretalx.com/pyconlt2020/cfp",
+    "cfpEndDate": "2020-07-10"
   }
 ]
