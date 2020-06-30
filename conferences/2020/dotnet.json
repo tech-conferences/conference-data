@@ -54,13 +54,12 @@
     "twitter": "@msdev"
   },
   {
-    "name": "Visual Studio Live! Microsoft Headquarters",
-    "url": "https://vslive.com/events/redmond-2020/home.aspx",
-    "startDate": "2020-08-03",
-    "endDate": "2020-08-07",
-    "city": "Redmond, WA",
-    "country": "U.S.A.",
-    "twitter": "@vslive"
+    "name": "dotNET Conf Focus",
+    "url": "https://focus.dotnetconf.net/",
+    "startDate": "2020-07-30",
+    "endDate": "2020-07-30",
+    "city": "Online",
+    "country": "Online"
   },
   {
     "name": "Future Tech",
@@ -81,15 +80,6 @@
     "twitter": "@BASTAcon"
   },
   {
-    "name": "Visual Studio Live! San Diego",
-    "url": "https://vslive.com/events/san-diego-2020/home.aspx",
-    "startDate": "2020-09-27",
-    "endDate": "2021-10-01",
-    "city": "San Diego, CA",
-    "country": "U.S.A.",
-    "twitter": "@vslive"
-  },
-  {
     "name": "Dotnetos Conference",
     "url": "https://conf.dotnetos.org",
     "startDate": "2020-10-01",
@@ -97,6 +87,14 @@
     "city": "Warsaw",
     "country": "Poland",
     "twitter": "@dotnetosorg"
+  },
+  {
+    "name": "MS Stage",
+    "url": "https://msstage.com",
+    "startDate": "2020-10-02",
+    "endDate": "2021-10-02",
+    "city": "Online",
+    "country": "Online"
   },
   {
     "name": ".NET DeveloperDays",
@@ -133,8 +131,6 @@
     "endDate": "2020-11-27",
     "city": "Cologne",
     "country": "Germany",
-    "cfpUrl": "https://www.dotnet-developer-conference.de/call-for-speakers",
-    "cfpEndDate": "2020-04-20",
     "twitter": "@Herbstcampus"
   },
   {
@@ -152,8 +148,7 @@
     "endDate": "2020-11-13",
     "city": "Prague",
     "country": "Czech Republic",
-    "twitter": "@update_conf",
-    "cfpUrl": "https://www.updateconference.net/en/2020/call-for-speakers",
+    "twitter": "@update_conf"
     "cfpEndDate": "2020-06-30"
   },
   {
@@ -163,7 +158,6 @@
     "endDate": "2020-08-08",
     "city": "Online",
     "country": "Online",
-    "twitter": "@dotnetby",
-    "cfpEndDate": "2020-04-15"
+    "twitter": "@dotnetby"  
   }
 ]
