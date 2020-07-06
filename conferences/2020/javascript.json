@@ -286,15 +286,6 @@
     "twitter": "@jamstackconf"
   },
   {
-    "name": "angularday",
-    "url": "https://2020.angularday.it",
-    "startDate": "2020-12-04",
-    "endDate": "2020-12-04",
-    "city": "Verona",
-    "country": "Italy",
-    "twitter": "@angularday"
-  },
-  {
     "name": "JSNation",
     "url": "http://jsnation.com",
     "startDate": "2020-06-18",
@@ -302,6 +293,15 @@
     "city": "Online",
     "country": "Online",
     "twitter": "@amsterdamjs"
+  },
+  {
+    "name": "Frontend Love",
+    "url": "https://www.frontenddeveloperlove.com",
+    "startDate": "2020-06-20",
+    "endDate": "2020-06-21",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@Frontend_Love"
   },
   {
     "name": "JSCONF.BE",
@@ -367,6 +367,15 @@
     "twitter": "@forwardjs"
   },
   {
+    "name": "AngularNL",
+    "url": "https://www.angularnl.com",
+    "startDate": "2020-07-24",
+    "endDate": "2020-07-24",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@angularnl"
+  },
+  {
     "name": "Create: Front-end",
     "url": "https://createfrontenddevelopers.splashthat.com/",
     "startDate": "2020-07-29",
@@ -382,6 +391,15 @@
     "city": "Online",
     "country": "Online",
     "twitter": "@JSFriendsConf"
+  },
+  {
+    "name": "Vue.js Global",
+    "url": "https://www.vuejs.amsterdam",
+    "startDate": "2020-08-13",
+    "endDate": "2020-08-14",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@vuejsamsterdam"
   },
   {
     "name": "HalfStack New York",
@@ -411,31 +429,13 @@
     "twitter": "@yglf_lt"
   },
   {
-    "name": "enterJS",
-    "url": "https://enterjs.de",
-    "startDate": "2020-09-29",
-    "endDate": "2020-10-01",
-    "city": "Darmstadt",
-    "country": "Germany",
-    "twitter": "@enterjsconf"
-  },
-  {
-    "name": "JavaScript Days",
-    "url": "https://javascript-days.de",
-    "startDate": "2020-09-01",
-    "endDate": "2020-09-04",
-    "city": "Munich",
-    "country": "Germany",
-    "twitter": "@JS_Days"
-  },
-  {
-    "name": "JavaScript Days",
-    "url": "https://javascript-days.de",
-    "startDate": "2020-10-05",
-    "endDate": "2020-10-08",
-    "city": "Berlin",
-    "country": "Germany",
-    "twitter": "@JS_Days"
+    "name": "React Live",
+    "url": "http://www.reactlive.nl",
+    "startDate": "2020-08-28",
+    "endDate": "2020-08-28",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@reactlivenl"
   },
   {
     "name": "CascadiaJS",
@@ -445,6 +445,15 @@
     "city": "Online",
     "country": "Online",
     "twitter": "@cascadiajs"
+  },
+  {
+    "name": "JavaScript Days",
+    "url": "https://javascript-days.de",
+    "startDate": "2020-09-01",
+    "endDate": "2020-09-04",
+    "city": "Munich",
+    "country": "Germany",
+    "twitter": "@JS_Days"
   },
   {
     "name": "International JavaScript Conference",
@@ -501,6 +510,15 @@
     "twitter": "@ReactAmsterdam"
   },
   {
+    "name": "Shift Dev",
+    "url": "https://dev.shiftconf.co",
+    "startDate": "2020-09-14",
+    "endDate": "2020-09-15",
+    "city": "Split",
+    "country": "Croatia",
+    "twitter": "@shiftconf_co"
+  },
+  {
     "name": "CityJS",
     "url": "https://cityjsconf.org",
     "startDate": "2020-09-14",
@@ -555,6 +573,15 @@
     "twitter": "@JavaScriptCon"
   },
   {
+    "name": "enterJS",
+    "url": "https://enterjs.de",
+    "startDate": "2020-09-29",
+    "endDate": "2020-10-01",
+    "city": "Darmstadt",
+    "country": "Germany",
+    "twitter": "@enterjsconf"
+  },
+  {
     "name": "Armada JS",
     "url": "https://www.armada-js.com",
     "startDate": "2020-10-01",
@@ -564,13 +591,13 @@
     "twitter": "@armada_js"
   },
   {
-    "name": "React Live",
-    "url": "http://www.reactlive.nl",
-    "startDate": "2020-08-28",
-    "endDate": "2020-08-28",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@reactlivenl"
+    "name": "JavaScript Days",
+    "url": "https://javascript-days.de",
+    "startDate": "2020-10-05",
+    "endDate": "2020-10-08",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@JS_Days"
   },
   {
     "name": "JAMstack Conf",
@@ -580,6 +607,25 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "twitter": "@jamstackconf"
+  },
+  {
+    "name": "TSConf",
+    "url": "https://tsconf.io",
+    "startDate": "2020-10-09",
+    "endDate": "2020-10-09",
+    "city": "Online",
+    "country": "Online",
+    "cfpUrl": "https://tsconf.io",
+    "twitter": "@TypeScriptConf"
+  },
+  {
+    "name": "ReactNext",
+    "url": "https://www.react-next.com",
+    "startDate": "2020-10-12",
+    "endDate": "2020-10-12",
+    "city": "Tel Aviv",
+    "country": "Israel",
+    "twitter": "@ReactNext"
   },
   {
     "name": "SmashingConf",
@@ -625,6 +671,15 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "twitter": "@smashingconf"
+  },
+  {
+    "name": "International JavaScript Conference Munich",
+    "url": "https://javascript-conference.com/munich",
+    "startDate": "2020-10-26",
+    "endDate": "2020-10-30",
+    "city": "Munich",
+    "country": "Germany",
+    "twitter": "@JavaScriptCon"
   },
   {
     "name": "Uphill Conf",
@@ -681,13 +736,13 @@
     "twitter": "@halfstackconf"
   },
   {
-    "name": "HalfStack Charlotte",
-    "url": "https://halfstackconf.com/charlotte",
-    "startDate": "2020-12-11",
-    "endDate": "2020-12-11",
-    "city": "Charlotte, NC",
-    "country": "U.S.A.",
-    "twitter": "@halfstackconf"
+    "name": "angularday",
+    "url": "https://2020.angularday.it",
+    "startDate": "2020-12-04",
+    "endDate": "2020-12-04",
+    "city": "Verona",
+    "country": "Italy",
+    "twitter": "@angularday"
   },
   {
     "name": "AngularUP",
@@ -699,67 +754,12 @@
     "twitter": "@AngularUP"
   },
   {
-    "name": "ReactNext",
-    "url": "https://www.react-next.com",
-    "startDate": "2020-10-12",
-    "endDate": "2020-10-12",
-    "city": "Tel Aviv",
-    "country": "Israel",
-    "twitter": "@ReactNext"
-  },
-  {
-    "name": "International JavaScript Conference Munich",
-    "url": "https://javascript-conference.com/munich",
-    "startDate": "2020-10-26",
-    "endDate": "2020-10-30",
-    "city": "Munich",
-    "country": "Germany",
-    "twitter": "@JavaScriptCon"
-  },
-  {
-    "name": "AngularNL",
-    "url": "https://www.angularnl.com",
-    "startDate": "2020-07-24",
-    "endDate": "2020-07-24",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@angularnl"
-  },
-  {
-    "name": "Frontend Love",
-    "url": "https://www.frontenddeveloperlove.com",
-    "startDate": "2020-06-20",
-    "endDate": "2020-06-21",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@Frontend_Love"
-  },
-  {
-    "name": "Vue.js Global",
-    "url": "https://www.vuejs.amsterdam",
-    "startDate": "2020-08-13",
-    "endDate": "2020-08-14",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@vuejsamsterdam"
-  },
-  {
-    "name": "TSConf",
-    "url": "https://tsconf.io",
-    "startDate": "2020-10-09",
-    "endDate": "2020-10-09",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@TypeScriptConf",
-    "cfpUrl": "https://tsconf.io"
-  },
-  {
-    "name": "Shift Dev",
-    "url": "https://dev.shiftconf.co",
-    "startDate": "2020-09-14",
-    "endDate": "2020-09-15",
-    "city": "Split",
-    "country": "Croatia",
-    "twitter": "@shiftconf_co"
+    "name": "HalfStack Charlotte",
+    "url": "https://halfstackconf.com/charlotte",
+    "startDate": "2020-12-11",
+    "endDate": "2020-12-11",
+    "city": "Charlotte, NC",
+    "country": "U.S.A.",
+    "twitter": "@halfstackconf"
   }
 ]

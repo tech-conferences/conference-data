@@ -193,15 +193,6 @@
     "twitter": "@uxdhealthcare"
   },
   {
-    "name": "The BAD (Behaviour & Design) Conference",
-    "url": "https://thebadconference.com",
-    "startDate": "2020-06-04",
-    "endDate": "2020-06-04",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@TechCircus_"
-  },
-  {
     "name": "Fluxible",
     "url": "https://www.fluxible.ca",
     "startDate": "2020-06-04",
@@ -209,6 +200,15 @@
     "city": "Online",
     "country": "Online",
     "twitter": "@Fluxible"
+  },
+  {
+    "name": "The BAD (Behaviour & Design) Conference",
+    "url": "https://thebadconference.com",
+    "startDate": "2020-06-04",
+    "endDate": "2020-06-04",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@TechCircus_"
   },
   {
     "name": "UX Writer Conference",
@@ -369,14 +369,6 @@
     "twitter": "@uxdxconf"
   },
   {
-    "name": "Front",
-    "url": "https://www.frontutah.com/conference",
-    "startDate": "2020-11-10",
-    "endDate": "2020-11-13",
-    "city": "Salt Lake City, UT",
-    "country": "U.S.A."
-  },
-  {
     "name": "SmashingConf",
     "url": "https://smashingconf.com/austin-2020",
     "startDate": "2020-10-13",
@@ -405,6 +397,15 @@
     "twitter": "@uiarchconf"
   },
   {
+    "name": "World Usability Congress Connect",
+    "url": "https://worldusabilitycongress.com",
+    "startDate": "2020-10-19",
+    "endDate": "2020-10-23",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@worlduxcongress"
+  },
+  {
     "name": "SmashingConf",
     "url": "https://smashingconf.com/sf-2020",
     "startDate": "2020-11-10",
@@ -412,6 +413,14 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "twitter": "@SmashingConf"
+  },
+  {
+    "name": "Front",
+    "url": "https://www.frontutah.com/conference",
+    "startDate": "2020-11-10",
+    "endDate": "2020-11-13",
+    "city": "Salt Lake City, UT",
+    "country": "U.S.A."
   },
   {
     "name": "STHLM Xperience Conference",
@@ -441,14 +450,5 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "twitter": "@aneventapart"
-  },
-  {
-    "name": "World Usability Congress Connect",
-    "url": "https://worldusabilitycongress.com",
-    "startDate": "2020-10-19",
-    "endDate": "2020-10-23",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@worlduxcongress"
   }
 ]

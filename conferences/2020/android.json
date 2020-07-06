@@ -31,14 +31,6 @@
     "twitter": "@droidconke"
   },
   {
-    "name": "droidcon NYC",
-    "url": "https://www.nyc.droidcon.com/",
-    "startDate": "2020-11-17",
-    "endDate": "2020-11-18",
-    "city": "Brooklyn, NY",
-    "country": "U.S.A."
-  },
-  {
     "name": "droidcon Lagos",
     "url": "https://www.droidcon.com/",
     "startDate": "2020-09-04",
@@ -91,5 +83,13 @@
     "cfpUrl": "https://mobius-moscow.ru/en/cfp",
     "cfpEndDate": "2020-08-31",
     "twitter": "@MobiusConf"
+  },
+  {
+    "name": "droidcon NYC",
+    "url": "https://www.nyc.droidcon.com/",
+    "startDate": "2020-11-17",
+    "endDate": "2020-11-18",
+    "city": "Brooklyn, NY",
+    "country": "U.S.A."
   }
 ]

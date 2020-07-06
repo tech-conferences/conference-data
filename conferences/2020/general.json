@@ -484,6 +484,17 @@
     "twitter": "@NDC_Conferences"
   },
   {
+    "name": "DeveloperWeek Global: DevOps",
+    "url": "https://developerweekglobal.com/conferences/dw-global-devops",
+    "startDate": "2020-07-28",
+    "endDate": "2020-07-28",
+    "city": "Online",
+    "country": "Online",
+    "cfpUrl": "https://developerweekglobal.com/speakers/apply-to-speak",
+    "cfpEndDate": "2020-06-26",
+    "twitter": "@developerweek"
+  },
+  {
     "name": "DevDotNext",
     "url": "https://www.devdotnext.com",
     "startDate": "2020-08-11",
@@ -536,6 +547,17 @@
     "city": "Sydney",
     "country": "Australia",
     "twitter": "@SREcon"
+  },
+  {
+    "name": "DeveloperWeek Global: Architecture",
+    "url": "https://developerweekglobal.com/conferences/dw-global-architecture",
+    "startDate": "2020-09-15",
+    "endDate": "2020-09-15",
+    "city": "Online",
+    "country": "Online",
+    "cfpUrl": "https://developerweekglobal.com/speakers/apply-to-speak",
+    "cfpEndDate": "2020-07-31",
+    "twitter": "@developerweek"
   },
   {
     "name": "NEXT Conference",
@@ -611,6 +633,15 @@
     "twitter": "@TEQnation2019"
   },
   {
+    "name": "Serverless Architecture Conference",
+    "url": "https://serverless-architecture.io",
+    "startDate": "2020-10-12",
+    "endDate": "2020-10-14",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@serverlesscon"
+  },
+  {
     "name": "NDC Sydney",
     "url": "https://ndcsydney.com/",
     "startDate": "2020-10-12",
@@ -620,15 +651,6 @@
     "cfpUrl": "https://ndcsydney.com/page/call-for-papers/",
     "cfpEndDate": "2020-06-07",
     "twitter": "@NDC_Conferences"
-  },
-  {
-    "name": "Serverless Architecture Conference",
-    "url": "https://serverless-architecture.io",
-    "startDate": "2020-10-12",
-    "endDate": "2020-10-14",
-    "city": "Berlin",
-    "country": "Germany",
-    "twitter": "@serverlesscon"
   },
   {
     "name": "Craft Conference",
@@ -658,15 +680,6 @@
     "twitter": "@AllThingsOpen"
   },
   {
-    "name": "Darwin's Circle",
-    "url": "https://darwins-circle.com",
-    "startDate": "2020-11-18",
-    "endDate": "2020-11-18",
-    "city": "Vienna",
-    "country": "Austria",
-    "twitter": "@DarwinsCircle"
-  },
-  {
     "name": "Evcon",
     "url": "http://www.evcon.io",
     "startDate": "2020-10-21",
@@ -676,6 +689,17 @@
     "cfpUrl": "http://www.evcon.io/cfp",
     "cfpEndDate": "2020-05-31",
     "twitter": "@evcon20"
+  },
+  {
+    "name": "DevFest WI",
+    "url": "https://devfestwi.com",
+    "startDate": "2020-10-24",
+    "endDate": "2020-10-24",
+    "city": "Online",
+    "country": "Online",
+    "cfpUrl": "https://sessionize.com/devfest-wi-2020",
+    "cfpEndDate": "2020-08-15",
+    "twitter": "@devfestwi"
   },
   {
     "name": "ML Summit",
@@ -738,15 +762,6 @@
     "twitter": "@webdirections"
   },
   {
-    "name": "The Developer's Conference",
-    "url": "https://thedevconf.com/tdc/2020/belohorizonte",
-    "startDate": "2020-11-05",
-    "endDate": "2020-11-07",
-    "city": "Belo Horizonte",
-    "country": "Brazil",
-    "twitter": "@TheDevConf"
-  },
-  {
     "name": "Cloud Conf",
     "url": "https://2020.cloudconf.it",
     "startDate": "2020-11-05",
@@ -754,6 +769,15 @@
     "city": "Turin",
     "country": "Italy",
     "twitter": "@_CloudConf_"
+  },
+  {
+    "name": "The Developer's Conference",
+    "url": "https://thedevconf.com/tdc/2020/belohorizonte",
+    "startDate": "2020-11-05",
+    "endDate": "2020-11-07",
+    "city": "Belo Horizonte",
+    "country": "Brazil",
+    "twitter": "@TheDevConf"
   },
   {
     "name": "Dev Day",
@@ -784,6 +808,17 @@
     "twitter": "@gotocph"
   },
   {
+    "name": "DeveloperWeek Global: DevTools",
+    "url": "https://developerweekglobal.com/conferences/dw-global-devtools",
+    "startDate": "2020-11-10",
+    "endDate": "2020-11-10",
+    "city": "Online",
+    "country": "Online",
+    "cfpUrl": "https://developerweekglobal.com/speakers/apply-to-speak",
+    "cfpEndDate": "2020-09-18",
+    "twitter": "@developerweek"
+  },
+  {
     "name": "Tech Up For Women",
     "url": "https://techupforwomen.com/event-details",
     "startDate": "2020-11-17",
@@ -791,6 +826,15 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "twitter": "@techupforwomen"
+  },
+  {
+    "name": "Darwin's Circle",
+    "url": "https://darwins-circle.com",
+    "startDate": "2020-11-18",
+    "endDate": "2020-11-18",
+    "city": "Vienna",
+    "country": "Austria",
+    "twitter": "@DarwinsCircle"
   },
   {
     "name": "DevOne",
@@ -885,49 +929,5 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "twitter": "@devweeknyc"
-  },
-  {
-    "name": "DeveloperWeek Global: DevOps",
-    "url": "https://developerweekglobal.com/conferences/dw-global-devops",
-    "startDate": "2020-07-28",
-    "endDate": "2020-07-28",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@developerweek",
-    "cfpUrl": "https://developerweekglobal.com/speakers/apply-to-speak",
-    "cfpEndDate": "2020-06-26"
-  },
-  {
-    "name": "DeveloperWeek Global: Architecture",
-    "url": "https://developerweekglobal.com/conferences/dw-global-architecture",
-    "startDate": "2020-09-15",
-    "endDate": "2020-09-15",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@developerweek",
-    "cfpUrl": "https://developerweekglobal.com/speakers/apply-to-speak",
-    "cfpEndDate": "2020-07-31"
-  },
-  {
-    "name": "DeveloperWeek Global: DevTools",
-    "url": "https://developerweekglobal.com/conferences/dw-global-devtools",
-    "startDate": "2020-11-10",
-    "endDate": "2020-11-10",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@developerweek",
-    "cfpUrl": "https://developerweekglobal.com/speakers/apply-to-speak",
-    "cfpEndDate": "2020-09-18"
-  },
-  {
-    "name": "DevFest WI",
-    "url": "https://devfestwi.com",
-    "startDate": "2020-10-24",
-    "endDate": "2020-10-24",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@devfestwi",
-    "cfpUrl": "https://sessionize.com/devfest-wi-2020",
-    "cfpEndDate": "2020-08-15"
   }
 ]

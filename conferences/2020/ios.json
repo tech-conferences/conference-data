@@ -27,6 +27,14 @@
     "twitter": "@uikonf"
   },
   {
+    "name": "Apple Worldwide Developers Conference",
+    "url": "https://developer.apple.com/wwdc20",
+    "startDate": "2020-06-22",
+    "endDate": "2020-06-26",
+    "city": "Online",
+    "country": "Online"
+  },
+  {
     "name": "Mobius",
     "url": "https://mobius-piter.ru/en",
     "startDate": "2020-06-23",
@@ -110,13 +118,5 @@
     "cfpUrl": "https://mobius-moscow.ru/en/cfp",
     "cfpEndDate": "2020-08-31",
     "twitter": "@MobiusConf"
-  },
-  {
-    "name": "Apple Worldwide Developers Conference",
-    "url": "https://developer.apple.com/wwdc20",
-    "startDate": "2020-06-22",
-    "endDate": "2020-06-26",
-    "city": "Online",
-    "country": "Online"
   }
 ]

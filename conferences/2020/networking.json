@@ -118,6 +118,15 @@
     "twitter": "@nomadays_events"
   },
   {
+    "name": "Hong Kong Open Source Conference",
+    "url": "https://hkoscon.org/2020",
+    "startDate": "2020-06-12",
+    "endDate": "2020-06-13",
+    "city": "Hong Kong",
+    "country": "Hong Kong",
+    "twitter": "@hkoscon"
+  },
+  {
     "name": "Women in Technology Summit",
     "url": "https://summit.witi.com",
     "startDate": "2020-06-22",
@@ -172,6 +181,16 @@
     "country": "U.S.A.",
     "cfpUrl": "https://ghc.anitab.org/2020-speakers",
     "twitter": "@ghc"
+  },
+  {
+    "name": "ActivityPub Conf",
+    "url": "https://conf.activitypub.rocks",
+    "startDate": "2020-10-02",
+    "endDate": "2020-10-05",
+    "city": "Online",
+    "country": "Online",
+    "cfpUrl": "https://conf.activitypub.rocks/cfp",
+    "cfpEndDate": "2020-07-08"
   },
   {
     "name": "Women in Tech Summit",
@@ -297,24 +316,5 @@
     "city": "Seattle, WA",
     "country": "U.S.A.",
     "twitter": "@womenimpacttech"
-  },
-  {
-    "name": "Hong Kong Open Source Conference",
-    "url": "https://hkoscon.org/2020",
-    "startDate": "2020-06-12",
-    "endDate": "2020-06-13",
-    "city": "Hong Kong",
-    "country": "Hong Kong",
-    "twitter": "@hkoscon"
-  },
-  {
-    "name": "ActivityPub Conf",
-    "url": "https://conf.activitypub.rocks",
-    "startDate": "2020-10-02",
-    "endDate": "2020-10-05",
-    "city": "Online",
-    "country": "Online",
-    "cfpUrl": "https://conf.activitypub.rocks/cfp",
-    "cfpEndDate": "2020-07-08"
   }
 ]
