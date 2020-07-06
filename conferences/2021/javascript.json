@@ -60,16 +60,6 @@
     "twitter": "@halfstackconf"
   },
   {
-    "name": "Nordic.js",
-    "url": "https://nordicjs.com",
-    "startDate": "2021-10-07",
-    "endDate": "2021-10-08",
-    "city": "Stockholm",
-    "country": "Sweden",
-    "cfpUrl": "https://nordicjs.com/call-for-speakers",
-    "twitter": "@nordicjs"
-  },
-  {
     "name": "JSCAMP",
     "url": "https://jscamp.tech",
     "startDate": "2021-07-15",
@@ -86,5 +76,15 @@
     "city": "Brooklyn, NY",
     "country": "U.S.A.",
     "twitter": "@ReactNewYork"
+  },
+  {
+    "name": "Nordic.js",
+    "url": "https://nordicjs.com",
+    "startDate": "2021-10-07",
+    "endDate": "2021-10-08",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "cfpUrl": "https://nordicjs.com/call-for-speakers",
+    "twitter": "@nordicjs"
   }
 ]

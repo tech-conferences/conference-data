@@ -239,6 +239,17 @@
     "twitter": "@LonghornPHP"
   },
   {
+    "name": "Forum PHP",
+    "url": "http://event.afup.org",
+    "startDate": "2020-10-22",
+    "endDate": "2020-10-23",
+    "city": "Paris",
+    "country": "France",
+    "cfpUrl": "http://cfp.afup.org",
+    "cfpEndDate": "2020-07-01",
+    "twitter": "@afup"
+  },
+  {
     "name": "International PHP Conference",
     "url": "https://phpconference.com",
     "startDate": "2020-10-26",
@@ -281,16 +292,5 @@
     "cfpUrl": "https://paris2020.symfony.com/cfp",
     "cfpEndDate": "2020-05-10",
     "twitter": "@symfonycon"
-  },
-  {
-    "name": "Forum PHP",
-    "url": "http://event.afup.org",
-    "startDate": "2020-10-22",
-    "endDate": "2020-10-23",
-    "city": "Paris",
-    "country": "France",
-    "twitter": "@afup",
-    "cfpUrl": "http://cfp.afup.org",
-    "cfpEndDate": "2020-07-01"
   }
 ]

@@ -177,6 +177,15 @@
     "twitter": "@fwdays"
   },
   {
+    "name": "AI for Crisis Prediction & Management",
+    "url": "https://www.re-work.co/events/webinar-ai-for-crisis-prediction-2020",
+    "startDate": "2020-06-17",
+    "endDate": "2020-06-17",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@teamrework"
+  },
+  {
     "name": "DataXDay",
     "url": "https://dataxday.fr",
     "startDate": "2020-06-17",
@@ -213,6 +222,15 @@
     "city": "Ibiza",
     "country": "Spain",
     "twitter": "@pg_ibz"
+  },
+  {
+    "name": "Building an Enterprise Data Platform",
+    "url": "https://www.re-work.co/events/webinar:-building-enterprise-data-platform",
+    "startDate": "2020-06-30",
+    "endDate": "2020-06-30",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@teamrework"
   },
   {
     "name": "PostgresLondon",
@@ -253,12 +271,30 @@
     "twitter": "@icmlconf"
   },
   {
+    "name": "Applied AI",
+    "url": "https://odsc.com/applied",
+    "startDate": "2020-07-15",
+    "endDate": "2020-07-15",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@ODSC"
+  },
+  {
     "name": "Data Science and Intelligent Systems Conference",
     "url": "https://www.dsis2020.com",
     "startDate": "2020-07-16",
     "endDate": "2020-07-17",
     "city": "London",
     "country": "U.K."
+  },
+  {
+    "name": "Fighting Financial Crime with AI",
+    "url": "https://www.re-work.co/events/webinar-fighting-financial-crime-with-ai",
+    "startDate": "2020-07-22",
+    "endDate": "2020-07-22",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@teamrework"
   },
   {
     "name": "OpML",
@@ -297,6 +333,15 @@
     "cfpUrl": "https://sessionize.com/kafka-summit-austin-2020",
     "cfpEndDate": "2020-05-17",
     "twitter": "@apachekafka"
+  },
+  {
+    "name": "Fighting AI Bias with High-Quality Training Data",
+    "url": "https://www.re-work.co/events/webinar-data-quality-2020",
+    "startDate": "2020-08-26",
+    "endDate": "2020-08-26",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@teamrework"
   },
   {
     "name": "Ai4",
@@ -344,6 +389,15 @@
     "twitter": "@bigdataconf"
   },
   {
+    "name": "AI Applications Virtual Summit",
+    "url": "https://www.re-work.co/summits/virtual-ai-summit-september-2020",
+    "startDate": "2020-09-17",
+    "endDate": "2020-09-18",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@teamrework"
+  },
+  {
     "name": "ODSC Europe Virtual Conference",
     "url": "https://odsc.com/europe",
     "startDate": "2020-09-17",
@@ -362,6 +416,16 @@
     "cfpUrl": "https://pgday.at/en/talk-commitee",
     "cfpEndDate": "2020-04-19",
     "twitter": "@PGDayAustria"
+  },
+  {
+    "name": "International Conference on Data Mining and Software Engineering",
+    "url": "https://dmse2020.org",
+    "startDate": "2020-09-26",
+    "endDate": "2020-09-27",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "cfpUrl": "https://dmse2020.org/submission.html",
+    "cfpEndDate": "2020-08-28"
   },
   {
     "name": "SQLbits",
@@ -450,6 +514,17 @@
     "twitter": "@pgconfeu"
   },
   {
+    "name": "Quest for Quality",
+    "url": "https://www.questforquality.eu",
+    "startDate": "2020-10-27",
+    "endDate": "2020-10-28",
+    "city": "Online",
+    "country": "Online",
+    "cfpUrl": "https://www.questforquality.eu/event-registration/call-for-papers",
+    "cfpEndDate": "2020-07-31",
+    "twitter": "@Quest_4_Quality"
+  },
+  {
     "name": "Quest for Quality Conference",
     "url": "https://www.questforquality.eu",
     "startDate": "2020-10-27",
@@ -480,6 +555,15 @@
     "twitter": "@europeanazure"
   },
   {
+    "name": "ODSC West",
+    "url": "https://odsc.com/california",
+    "startDate": "2020-10-27",
+    "endDate": "2020-10-30",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@ODSC"
+  },
+  {
     "name": "The Responsible AI Forum",
     "url": "http://www.responsibleaiforum.com",
     "startDate": "2020-11-04",
@@ -487,70 +571,6 @@
     "city": "Munich",
     "country": "Germany",
     "twitter": "@TRAIF2020"
-  },
-  {
-    "name": "cybernetix.world",
-    "url": "https://www.kuppingercole.com/events/cybernetixworld2020",
-    "startDate": "2020-11-24",
-    "endDate": "2020-11-26",
-    "city": "Darmstadt",
-    "country": "Germany",
-    "cfpUrl": "https://www.kuppingercole.com/events/cybernetixworld2020/callforspeakers",
-    "cfpEndDate": "2020-09-07"
-  },
-  {
-    "name": "Applied AI",
-    "url": "https://odsc.com/applied",
-    "startDate": "2020-07-15",
-    "endDate": "2020-07-15",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@ODSC"
-  },
-  {
-    "name": "AI for Crisis Prediction & Management",
-    "url": "https://www.re-work.co/events/webinar-ai-for-crisis-prediction-2020",
-    "startDate": "2020-06-17",
-    "endDate": "2020-06-17",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@teamrework"
-  },
-  {
-    "name": "Building an Enterprise Data Platform",
-    "url": "https://www.re-work.co/events/webinar:-building-enterprise-data-platform",
-    "startDate": "2020-06-30",
-    "endDate": "2020-06-30",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@teamrework"
-  },
-  {
-    "name": "Fighting Financial Crime with AI",
-    "url": "https://www.re-work.co/events/webinar-fighting-financial-crime-with-ai",
-    "startDate": "2020-07-22",
-    "endDate": "2020-07-22",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@teamrework"
-  },
-  {
-    "name": "Fighting AI Bias with High-Quality Training Data",
-    "url": "https://www.re-work.co/events/webinar-data-quality-2020",
-    "startDate": "2020-08-26",
-    "endDate": "2020-08-26",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@teamrework"
-  },
-  {
-    "name": "AI Applications Virtual Summit",
-    "url": "https://www.re-work.co/summits/virtual-ai-summit-september-2020",
-    "startDate": "2020-09-17",
-    "endDate": "2020-09-18",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@teamrework"
   },
   {
     "name": "Machine Learning Conference",
@@ -562,33 +582,13 @@
     "twitter": "@mlconference"
   },
   {
-    "name": "ODSC West",
-    "url": "https://odsc.com/california",
-    "startDate": "2020-10-27",
-    "endDate": "2020-10-30",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@ODSC"
-  },
-  {
-    "name": "Quest for Quality",
-    "url": "https://www.questforquality.eu",
-    "startDate": "2020-10-27",
-    "endDate": "2020-10-28",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@Quest_4_Quality",
-    "cfpUrl": "https://www.questforquality.eu/event-registration/call-for-papers",
-    "cfpEndDate": "2020-07-31"
-  },
-  {
-    "name": "International Conference on Data Mining and Software Engineering",
-    "url": "https://dmse2020.org",
-    "startDate": "2020-09-26",
-    "endDate": "2020-09-27",
-    "city": "Copenhagen",
-    "country": "Denmark",
-    "cfpUrl": "https://dmse2020.org/submission.html",
-    "cfpEndDate": "2020-08-28"
+    "name": "cybernetix.world",
+    "url": "https://www.kuppingercole.com/events/cybernetixworld2020",
+    "startDate": "2020-11-24",
+    "endDate": "2020-11-26",
+    "city": "Darmstadt",
+    "country": "Germany",
+    "cfpUrl": "https://www.kuppingercole.com/events/cybernetixworld2020/callforspeakers",
+    "cfpEndDate": "2020-09-07"
   }
 ]
