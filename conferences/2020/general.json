@@ -931,6 +931,7 @@
     "twitter": "@devweeknyc"
   },
   {
+
     "name": "IEEE International Conference on Image Processing",
     "url": "https://2020.ieeeicip.org",
     "startDate": "2020-10-25",
@@ -939,5 +940,14 @@
     "country": "United Arab Emirates",
     "twitter": "@ieeeICIP",
     "cfpUrl": "https://cmsworkshops.com/ICIP2020/Papers.asp"
+  },
+  {
+    "name": "Shift Remote",
+    "url": "https://remote.shiftconf.co",
+    "startDate": "2020-07-14",
+    "endDate": "2020-07-14",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@shiftconf_co"
   }
 ]
