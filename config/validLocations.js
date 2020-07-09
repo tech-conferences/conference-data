@@ -676,7 +676,8 @@ module.exports = {
     "Vinnytsia"
   ],
   "United Arab Emirates": [
-    "Dubai"
+    "Dubai",
+    "Abu Dhabi"
   ],
   "Uruguay": [
     "Montevideo"
