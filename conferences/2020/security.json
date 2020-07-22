@@ -102,15 +102,6 @@
     "twitter": "@ITSecurityCamp"
   },
   {
-    "name": "IT Security Summit",
-    "url": "https://it-security-summit.de",
-    "startDate": "2020-05-18",
-    "endDate": "2020-05-20",
-    "city": "Munich",
-    "country": "Germany",
-    "twitter": "@ITSecSummit"
-  },
-  {
     "name": "Cloud Cyber Security Summit",
     "url": "https://www.brighttalk.com/summit/4756-cloud-cyber-security-summit/cloud-cyber-security-americas",
     "startDate": "2020-05-27",
@@ -199,5 +190,13 @@
     "city": "Santa Clara, CA",
     "country": "U.S.A.",
     "twitter": "@PEPR"
+  },
+  {
+    "name": "IT Security Summit",
+    "url": "https://it-security-summit.de",
+    "startDate": "2020-11-23",
+    "endDate": "2020-11-25",
+    "city": "Munich",
+    "country": "Germany"
   }
 ]
