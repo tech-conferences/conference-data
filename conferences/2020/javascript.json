@@ -770,5 +770,16 @@
     "city": "Berlin",
     "country": "Germany",
     "twitter": "@javascriptdays"
+  },
+  {
+    "name": "React Summit XL",
+    "url": "https://reactsummit.com",
+    "startDate": "2020-07-20",
+    "endDate": "2020-08-21",
+    "city": "Remote",
+    "country": "Remote",
+    "twitter": "@reactsummit",
+    "cfpUrl": "https://forms.gle/r2jCDTRVZLzrpYeX8",
+    "cfpEndDate": "2020-08-21"
   }
 ]
