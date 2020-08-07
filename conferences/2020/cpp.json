@@ -56,10 +56,12 @@
   {
     "name": "QtDay",
     "url": "https://www.qtday.it",
-    "startDate": "2020-11-20",
+    "startDate": "2020-11-16",
     "endDate": "2020-11-21",
-    "city": "Florence",
-    "country": "Italy",
-    "twitter": "@qtdev"
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@QtDay",
+    "cfpUrl": "https://www.papercall.io/qtday2020",
+    "cfpEndDate": "2020-08-30"
   }
 ]
