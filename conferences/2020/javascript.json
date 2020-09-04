@@ -772,6 +772,15 @@
     "twitter": "@javascriptdays"
   },
   {
+    "name": "HTML & CSS Days",
+    "url": "https://javascript-days.de/html-css/",
+    "startDate": "2020-10-05",
+    "endDate": "2020-10-08",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@htmlcssdays"
+  },
+  {
     "name": "React Summit XL",
     "url": "https://reactsummit.com",
     "startDate": "2020-10-15",
@@ -792,14 +801,5 @@
     "twitter": "@GeekleOfficial",
     "cfpUrl": "https://forms.gle/oKZGBJSmxtigcKEG6",
     "cfpEndDate": "2020-09-14"
-  },
-  {
-    "name": "HTML & CSS Days  in Berlin & Online | Das große Hybrid-Trainingsevent",
-    "url": "https://javascript-days.de/berlin",
-    "startDate": "2020-10-05",
-    "endDate": "2020-10-08",
-    "city": "Berlin",
-    "country": "Deutschland",
-    "twitter": "@htmlcssdays"
   }
 ]
