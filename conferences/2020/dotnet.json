@@ -167,5 +167,16 @@
     "city": "Nuremberg",
     "country": "Germany",
     "twitter": "@NETDayFranken"
+  },
+  {
+    "name": ".NET Conf  - virtual conference",
+    "url": "https://dotnetconf.net",
+    "startDate": "2020-11-10",
+    "endDate": "2020-11-12",
+    "city": "Worldwide",
+    "country": "Worldwide",
+    "twitter": "#dotNETConf",
+    "cfpUrl": "https://www.papercall.io/dotnetconf",
+    "cfpEndDate": "2020-09-13"
   }
 ]
