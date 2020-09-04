@@ -772,6 +772,15 @@
     "twitter": "@javascriptdays"
   },
   {
+    "name": "Angular Days",
+    "url": "https://javascript-days.de/angular/",
+    "startDate": "2020-10-05",
+    "endDate": "2020-10-08",
+    "city": "Berlin",
+    "country": "Deutschland",
+    "twitter": "@AngularDays"
+  },
+  {
     "name": "React Summit XL",
     "url": "https://reactsummit.com",
     "startDate": "2020-10-15",
@@ -792,14 +801,5 @@
     "twitter": "@GeekleOfficial",
     "cfpUrl": "https://forms.gle/oKZGBJSmxtigcKEG6",
     "cfpEndDate": "2020-09-14"
-  },
-  {
-    "name": "Angular Days  – Das große Hybrid-Trainingsevent in Berlin & Online",
-    "url": "https://javascript-days.de/berlin",
-    "startDate": "2020-10-05",
-    "endDate": "2020-10-08",
-    "city": "Berlin",
-    "country": "Deutschland",
-    "twitter": "@AngularDays"
   }
 ]
