@@ -343,7 +343,8 @@ module.exports = {
     "The Hague",
     "Utrecht",
     "Venlo",
-    "Zaandam"
+    "Zaandam",
+    "Zeist"
   ],
   "New Zealand": [
     "Auckland",
