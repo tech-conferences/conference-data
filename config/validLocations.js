@@ -312,7 +312,8 @@ module.exports = {
     "Cyberjaya",
     "Iskandar Malaysia",
     "Kuala Lumpur",
-    "Sabah"
+    "Sabah",
+    "Penang"
   ],
   "Mauritius": [
     "Moka"
