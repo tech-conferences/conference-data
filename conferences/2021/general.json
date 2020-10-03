@@ -112,5 +112,38 @@
     "twitter": "@conf42com",
     "cfpUrl": "https://www.papercall.io/conf42-cloud-native-2021",
     "cfpEndDate": "2021-03-15"
+  },
+  {
+    "name": "Conf42: Chaos Engineering",
+    "url": "https://www.conf42.com",
+    "startDate": "2021-02-25",
+    "endDate": "2021-02-25",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@conf42com",
+    "cfpUrl": "https://www.papercall.io/conf42-chaos-engineering-2021",
+    "cfpEndDate": "2021-01-11"
+  },
+  {
+    "name": "Voxxed Days Downunder",
+    "url": "https://australia.voxxeddays.com",
+    "startDate": "2021-08-26",
+    "endDate": "2021-08-27",
+    "city": "Sydney",
+    "country": "Australia",
+    "twitter": "@VoxxedAustralia",
+    "cfpUrl": "https://vxsyd21.cfp.dev",
+    "cfpEndDate": "2021-03-31"
+  },
+  {
+    "name": "Voxxed Days Downunder",
+    "url": "https://australia.voxxeddays.com",
+    "startDate": "2021-08-23",
+    "endDate": "2021-08-24",
+    "city": "Melbourne",
+    "country": "Australia",
+    "twitter": "@VoxxedAustralia",
+    "cfpUrl": "https://vxmelb21.cfp.dev",
+    "cfpEndDate": "2021-03-31"
   }
 ]
