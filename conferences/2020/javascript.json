@@ -818,5 +818,16 @@
     "endDate": "2020-10-27",
     "city": "Online",
     "country": "Online"
+  },
+  {
+    "name": "Test conference",
+    "url": "https://confs.tech",
+    "startDate": "2020-10-16",
+    "endDate": "2020-10-18",
+    "city": "Paris",
+    "country": "France",
+    "twitter": "@nimzco",
+    "cocUrl": "https://confs.tech/conferences/new",
+    "offersSignLanguageOrCC": true
   }
 ]
