@@ -1091,17 +1091,8 @@
     "endDate": "2020-10-09",
     "city": "Online",
     "country": "Online",
-    "twitter": "@SlackHQ"
-  },
-  {
-    "name": "Liftoff",
-    "url": "https://www.lift-off.cloud",
-    "startDate": "2020-10-07",
-    "endDate": "2020-10-07",
-    "city": "Zeist",
-    "country": "Netherlands",
-    "cfpUrl": "https://sessionize.com/liftoff",
-    "cfpEndDate": "2020-09-29"
+    "twitter": "@SlackHQ",
+    "cocUrl": "https://slack.com/intl/en-nl/frontiers/faq"
   },
   {
     "name": "Buildstuff Software Development Conference",
@@ -1127,7 +1118,8 @@
     "endDate": "2020-10-01",
     "city": "Online",
     "country": "Online",
-    "twitter": "@ApacheCon"
+    "twitter": "@ApacheCon",
+    "cocUrl": "https://www.apachecon.com/acah2020/conduct.html"
   },
   {
     "name": "Tableau Conference",
@@ -1158,13 +1150,14 @@
     "twitter": "@ActionsOnGoogle"
   },
   {
-    "name": "Power Platform  Community Conference",
+    "name": "Power Platform Community Conference",
     "url": "https://powerplatformconference.splashthat.com",
     "startDate": "2020-10-22",
     "endDate": "2020-10-22",
     "city": "Online",
     "country": "Online",
-    "twitter": "@microsoft"
+    "twitter": "@MSPowerPlat",
+    "cocUrl": "https://powerplatformconference.splashthat.com"
   },
   {
     "name": "Code Together",
