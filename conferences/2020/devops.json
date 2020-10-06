@@ -468,9 +468,8 @@
     "endDate": "2020-10-03",
     "city": "Kiev",
     "country": "Ukraine",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScLAm8Q0FdSzKHC1VGlaHJNTwvwTSk_qDB_NON-8o_FzB2-CQ/viewform",
-    "cfpEndDate": "2020-06-01",
-    "twitter": "@fwdays"
+    "twitter": "@fwdays",
+    "cocUrl": "https://fwdays.com/en/page/code-of-conduct"
   },
   {
     "name": "Speaking About - Web & Mobile development",
@@ -478,7 +477,8 @@
     "startDate": "2020-10-03",
     "endDate": "2020-10-03",
     "city": "Castelo Branco",
-    "country": "Portugal"
+    "country": "Portugal",
+    "cocUrl": "http://speaking.aidicb.pt/anti-harrassment-policy"
   },
   {
     "name": "DevOpsCon Berlin",
@@ -487,7 +487,8 @@
     "endDate": "2020-10-15",
     "city": "Berlin",
     "country": "Germany",
-    "twitter": "@devops_con"
+    "twitter": "@devops_con",
+    "cocUrl": "https://devopscon.io/code-of-conduct/"
   },
   {
     "name": "HashiConf US",
@@ -496,9 +497,8 @@
     "endDate": "2020-10-15",
     "city": "Online",
     "country": "Online",
-    "cfpUrl": "https://sessionize.com/hashiconf-us-2020",
-    "cfpEndDate": "2020-06-23",
-    "twitter": "@hashiconf"
+    "twitter": "@hashiconf",
+    "cocUrl": "https://hashiconf.com/digital-october/code-of-conduct/"
   },
   {
     "name": "DevOps Enterprise Summit",
@@ -506,7 +506,8 @@
     "startDate": "2020-10-13",
     "endDate": "2020-10-15",
     "city": "Online",
-    "country": "Online"
+    "country": "Online",
+    "twitter": "@ITRevDOES"
   },
   {
     "name": "containerday",
@@ -515,17 +516,8 @@
     "endDate": "2020-10-23",
     "city": "Bologna",
     "country": "Italy",
-    "cfpUrl": "https://forms.gle/tGyGBhATWNhVoVd76",
-    "cfpEndDate": "2020-08-31",
-    "twitter": "@containerdayit"
-  },
-  {
-    "name": "DevOpsDays Berlin",
-    "url": "https://devopsdays.org/events/2020-berlin/welcome",
-    "startDate": "2020-10-28",
-    "endDate": "2020-10-29",
-    "city": "Berlin",
-    "country": "Germany"
+    "twitter": "@containerdayit",
+    "cocUrl": "https://2020.containerday.it/coc.html"
   },
   {
     "name": "All Day DevOps",
@@ -534,8 +526,6 @@
     "endDate": "2020-11-13",
     "city": "Online",
     "country": "Online",
-    "cfpUrl": "https://sessionize.com/2020-all-day-devops/",
-    "cfpEndDate": "2020-05-15",
     "twitter": "@alldaydevops"
   },
   {
@@ -545,24 +535,17 @@
     "endDate": "2020-11-18",
     "city": "Austin, TX",
     "country": "U.S.A.",
-    "twitter": "@devweekatx"
+    "twitter": "@devweekatx",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/?_ga=2.166983998.1433601102.1601972446-1333229703.1601972446"
   },
   {
     "name": "fin:CODE",
     "url": "https://www.fintech-code.com",
     "startDate": "2020-11-30",
     "endDate": "2020-12-01",
-    "city": "Frankfurt",
+    "city": "Berlin",
     "country": "Germany",
     "twitter": "@weCONECT"
-  },
-  {
-    "name": "devops.barcelona",
-    "url": "https://devops.barcelona",
-    "startDate": "2020-12-14",
-    "endDate": "2020-12-15",
-    "city": "Barcelona",
-    "country": "Spain"
   },
   {
     "name": "Chaos Conf",
@@ -572,8 +555,7 @@
     "city": "Online",
     "country": "Online",
     "twitter": "@chaosconf",
-    "cfpUrl": "https://go.gremlin.com/cc-cfp-2020",
-    "cfpEndDate": "2020-08-14"
+    "cocUrl": "https://res.cloudinary.com/gremlin/image/upload/v1601079832/Chaos%20Conf/Chaos-Conf-Code-of-Conduct.pdf"
   },
   {
     "name": "DevOpsCon Munich Hybrid",
@@ -583,15 +565,16 @@
     "city": "Munich",
     "country": "Germany",
     "twitter": "@devops_con",
-    "cfpUrl": "https://callforpapers.sandsmedia.com"
+    "cfpUrl": "https://callforpapers.sandsmedia.com",
+    "cocUrl": "https://devopscon.io/code-of-conduct/"
   },
   {
-    "name": "cPanel LIVE: MySQL 8 Changes for DBAs and DevOps Webinar with David Stokes of MySQL/Oracle",
+    "name": "cPanel LIVE: The Evolution of NGINX in cPanel",
     "url": "https://www.cpanel.live/home",
-    "startDate": "2020-08-12",
-    "endDate": "2020-08-12",
-    "city": "Houston, TX",
-    "country": "U.S.A.",
+    "startDate": "2020-10-07",
+    "endDate": "2020-10-07",
+    "city": "Online",
+    "country": "Online",
     "twitter": "@cPanel"
   },
   {
@@ -608,10 +591,9 @@
     "url": "https://devopsfest.ru",
     "startDate": "2020-11-06",
     "endDate": "2020-11-07",
-    "city": "Novosibirsk",
-    "country": "Russia",
-    "cfpUrl": "https://hardfest.ru/en#rec216142907",
-    "cfpEndDate": "2020-10-05"
+    "city": "Online",
+    "country": "Online",
+    "cocUrl": "https://2020.devopsfest.ru/en-code-of-conduct"
   },
   {
     "name": "CDCon",
@@ -620,7 +602,8 @@
     "endDate": "2020-10-08",
     "city": "Online",
     "country": "Online",
-    "twitter": "@CDeliveryFdn"
+    "twitter": "@CDeliveryFdn",
+    "cocUrl": "https://events.linuxfoundation.org/cdcon/attend/code-of-conduct/"
   },
   {
     "name": "Unscripted",
@@ -630,8 +613,17 @@
     "city": "Online",
     "country": "Online",
     "twitter": "@unscriptedconf",
-    "cfpUrl": "https://www.papercall.io/unscripted-conf",
-    "cfpEndDate": "2020-08-17"
+    "cocUrl": "https://www.unscriptedconf.io/#Conduct"
+  },
+  {
+    "name": "KubeCon + CloudNativeCon North America 2020",
+    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/",
+    "startDate": "2020-11-17",
+    "endDate": "2020-11-20",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@CloudNativeFdn",
+    "cocUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/attend/code-of-conduct/"
   },
   {
     "name": "DevSecOps SKILup Day",

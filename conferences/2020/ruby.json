@@ -101,13 +101,24 @@
     "twitter": "@rubydayit"
   },
   {
+    "name": "ROSS conf",
+    "url": "https://www.rossconf.io/event/remote/",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-23",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@rossconf",
+    "cocUrl": "https://www.rossconf.io/event/remote/"
+  },
+  {
     "name": "RubyConf",
     "url": "https://rubyconf.org",
     "startDate": "2020-11-17",
     "endDate": "2020-11-19",
     "city": "Houston, TX",
     "country": "U.S.A.",
-    "twitter": "@rubyconf"
+    "twitter": "@rubyconf",
+    "cocUrl": "https://rubyconf.org/policies"
   },
   {
     "name": "RubyConf Brasil",
@@ -116,8 +127,6 @@
     "endDate": "2020-10-16",
     "city": "Online",
     "country": "Online",
-    "twitter": "@rubyconfbr",
-    "cfpUrl": "https://cfp.rubyconf.com.br",
-    "cfpEndDate": "2020-09-06"
+    "twitter": "@rubyconfbr"
   }
 ]
