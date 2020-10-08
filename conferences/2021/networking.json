@@ -34,13 +34,23 @@
     "offersSignLanguageOrCC": false
   },
   {
-    "name": "BATA!",
+    "name": "BASTA!",
     "url": "https://basta.net",
     "startDate": "2021-02-08",
     "endDate": "2021-02-12",
     "city": "Frankfurt",
     "country": "Germany",
     "twitter": "@bastacon",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "JAX",
+    "url": "https://jax.de/mainz-en",
+    "startDate": "2021-05-03",
+    "endDate": "2021-05-07",
+    "city": "Mainz",
+    "country": "Germany",
+    "twitter": "@jaxcon",
     "offersSignLanguageOrCC": false
   }
 ]
