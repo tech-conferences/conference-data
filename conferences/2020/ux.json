@@ -495,5 +495,16 @@
     "city": "Online",
     "country": "Online",
     "twitter": "@globalXsummit"
+  },
+  {
+    "name": "DDD Summit",
+    "url": "https://ddd-summit.de",
+    "startDate": "2020-11-30",
+    "endDate": "2020-12-02",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@DDDSummit",
+    "cocUrl": "https://ddd-summit.de/code-of-conduct/",
+    "offersSignLanguageOrCC": false
   }
 ]
