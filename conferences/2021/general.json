@@ -178,5 +178,18 @@
     "country": "Denmark",
     "twitter": "@GOTOcon",
     "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Serverless Architecture Conference",
+    "url": "https://serverless-architecture.io/thehague",
+    "startDate": "2021-04-12",
+    "endDate": "2021-04-15",
+    "city": "The Hague",
+    "country": "Netherlands",
+    "twitter": "@serverlesscon",
+    "cfpUrl": "https://serverless-architecture.io/call-for-papers",
+    "cfpEndDate": "2020-11-02",
+    "cocUrl": "https://serverless-architecture.io/code-of-conduct/",
+    "offersSignLanguageOrCC": false
   }
 ]
