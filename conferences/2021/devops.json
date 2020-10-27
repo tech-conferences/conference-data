@@ -28,7 +28,7 @@
     "country": "Denmark",
     "twitter": "@devopsdayscph",
     "cocUrl": "https://devopsdays.org/conduct/"
-  },  
+  },
   {
     "name": "Devopsdays Nashville",
     "url": "https://devopsdays.org/events/2021-nashville/welcome/",
@@ -109,5 +109,16 @@
     "twitter": "@conf42com",
     "cfpUrl": "https://www.papercall.io/conf42-sre-2021",
     "cfpEndDate": "2021-08-16"
+  },
+  {
+    "name": "DevOps Conference Hybrid Edition",
+    "url": "https://devopscon.io/berlin",
+    "startDate": "2021-06-14",
+    "endDate": "2021-06-17",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@devops_con",
+    "cocUrl": "https://devopscon.io/code-of-conduct/",
+    "offersSignLanguageOrCC": false
   }
 ]
