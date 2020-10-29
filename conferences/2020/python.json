@@ -202,5 +202,18 @@
     "city": "Online",
     "country": "Online",
     "twitter": "@raydistributed"
+  },
+  {
+    "name": "PyConf Hyderabad",
+    "url": "https://pyconf.hydpy.org/2020",
+    "startDate": "2020-12-05",
+    "endDate": "2020-12-06",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@pyconfhyd",
+    "cfpUrl": "https://www.papercall.io/pyconf-hyd-2020",
+    "cfpEndDate": "2020-11-08",
+    "cocUrl": "https://pyconf.hydpy.org/2020/coc.html",
+    "offersSignLanguageOrCC": false
   }
 ]
