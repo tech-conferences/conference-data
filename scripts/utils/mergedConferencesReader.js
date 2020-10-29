@@ -36,11 +36,13 @@ function mergedConferencesReader() {
                         existingConf.url !== conference.url ||
                         existingConf.twitter !== conference.twitter
                     ) {
-                        almostIdentical.push({
-                            conference: existingConf,
-                            otherConference: conference,
-                            stack: stack
-                        });
+                        if (!(existingConf.startDate > conference.endDate || conference.startDate > existingConf.endDate)) {
+                            almostIdentical.push({
+                                conference: existingConf,
+                                otherConference: conference,
+                                stack: stack
+                            });
+                        }
                     } else {
                         existingConf.stacks.push(stack);
                     }
