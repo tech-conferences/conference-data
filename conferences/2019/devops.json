@@ -311,8 +311,6 @@
     "endDate": "2019-06-01",
     "city": "Dallas, TX",
     "country": "U.S.A.",
-    "cfpUrl": "http://www.texaslinuxfest.org",
-    "cfpEndDate": "2019-02-28",
     "twitter": "@texaslinuxfest"
   },
   {
@@ -526,8 +524,6 @@
     "endDate": "2019-07-26",
     "city": "Cincinnati, OH",
     "country": "U.S.A.",
-    "cfpUrl": "https://www.cincydeliver.org",
-    "cfpEndDate": "2019-04-26",
     "twitter": "@dayofagile"
   },
   {
@@ -662,8 +658,6 @@
     "endDate": "2019-09-19",
     "city": "Columbus, OH",
     "country": "U.S.A.",
-    "cfpUrl": "https://devopsdays.org/events/2019-columbus/welcome",
-    "cfpEndDate": "2019-07-14",
     "twitter": "@DevOpsDaysOhio"
   },
   {
@@ -824,9 +818,7 @@
     "startDate": "2019-10-15",
     "endDate": "2019-10-16",
     "city": "Gdansk",
-    "country": "Poland",
-    "cfpUrl": "https://devops-space.pl",
-    "cfpEndDate": "2019-10-06"
+    "country": "Poland"
   },
   {
     "name": "DevOpsDays Taipei",

@@ -13,7 +13,7 @@ const REQUIRED_KEYS = ['name', 'url', 'startDate', 'endDate', 'country', 'city']
 const validLocationsHint = ' - Check/Maintain the file "config/validLocations.js"';
 
 module.exports = function checkConference(year, conference, assertField) {
-    const { name, country, city, cfpUrl, twitter } = conference;
+    const { name, url, country, city, cfpUrl, twitter } = conference;
     REQUIRED_KEYS.forEach(requiredKey => {
         assertField(conference.hasOwnProperty(requiredKey), requiredKey, `is missing`);
     });
@@ -40,6 +40,7 @@ module.exports = function checkConference(year, conference, assertField) {
     }
     if (cfpUrl) {
         checkUrl(conference, 'cfpUrl');
+        assertField(cfpUrl !== url, 'cfpUrl', 'should not be identical to url', cfpUrl);
     }
     if (conference.cfpEndDate) {
         const cfpEndDate = parse(conference.cfpEndDate, dateFormat, new Date());
