@@ -517,6 +517,17 @@
     "twitter": "@vuedayit"
   },
   {
+    "name": "React.JS Global Summit",
+    "url": "https://react.geekle.us",
+    "startDate": "2020-09-15",
+    "endDate": "2020-09-16",
+    "city": "Online",
+    "country": "Online",
+    "cfpUrl": "https://forms.gle/oKZGBJSmxtigcKEG6",
+    "cfpEndDate": "2020-09-14",
+    "twitter": "@GeekleOfficial"
+  },
+  {
     "name": "RxJS Live! London",
     "url": "https://rxjs.live/london",
     "startDate": "2020-09-17",
@@ -589,6 +600,42 @@
     "twitter": "@Frontend_Love"
   },
   {
+    "name": "Paris Web",
+    "url": "https://www.paris-web.fr",
+    "startDate": "2020-10-01",
+    "endDate": "2020-10-03",
+    "city": "Paris",
+    "country": "France",
+    "twitter": "@ParisWeb"
+  },
+  {
+    "name": "Angular Days",
+    "url": "https://javascript-days.de/angular/",
+    "startDate": "2020-10-05",
+    "endDate": "2020-10-08",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@AngularDays"
+  },
+  {
+    "name": "HTML & CSS Days",
+    "url": "https://javascript-days.de/html-css/",
+    "startDate": "2020-10-05",
+    "endDate": "2020-10-08",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@htmlcssdays"
+  },
+  {
+    "name": "JavaScript Days",
+    "url": "https://javascript-days.de/berlin",
+    "startDate": "2020-10-05",
+    "endDate": "2020-10-08",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@javascriptdays"
+  },
+  {
     "name": "JAMstack Conf",
     "url": "https://jamstackconf.com",
     "startDate": "2020-10-06",
@@ -643,6 +690,17 @@
     "twitter": "@reactjsday"
   },
   {
+    "name": "React Summit XL",
+    "url": "https://reactsummit.com",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-16",
+    "city": "Online",
+    "country": "Online",
+    "cfpUrl": "https://forms.gle/r2jCDTRVZLzrpYeX8",
+    "cfpEndDate": "2020-08-21",
+    "twitter": "@reactsummit"
+  },
+  {
     "name": "HalfStack Tel Aviv",
     "url": "https://halfstackconf.com/telaviv",
     "startDate": "2020-10-19",
@@ -668,6 +726,14 @@
     "city": "Munich",
     "country": "Germany",
     "twitter": "@JavaScriptCon"
+  },
+  {
+    "name": "Next.js Conf",
+    "url": "https://nextjs.org/conf",
+    "startDate": "2020-10-27",
+    "endDate": "2020-10-27",
+    "city": "Online",
+    "country": "Online"
   },
   {
     "name": "Uphill Conf",
@@ -733,90 +799,6 @@
     "twitter": "@angularday"
   },
   {
-    "name": "AngularUP",
-    "url": "https://angular-up.com",
-    "startDate": "2020-12-10",
-    "endDate": "2020-12-10",
-    "city": "Tel Aviv",
-    "country": "Israel",
-    "twitter": "@AngularUP"
-  },
-  {
-    "name": "HalfStack Charlotte",
-    "url": "https://halfstackconf.com/charlotte",
-    "startDate": "2020-12-11",
-    "endDate": "2020-12-11",
-    "city": "Charlotte, NC",
-    "country": "U.S.A.",
-    "twitter": "@halfstackconf"
-  },
-  {
-    "name": "JavaScript Days",
-    "url": "https://javascript-days.de/berlin",
-    "startDate": "2020-10-05",
-    "endDate": "2020-10-08",
-    "city": "Berlin",
-    "country": "Germany",
-    "twitter": "@javascriptdays"
-  },
-  {
-    "name": "Angular Days",
-    "url": "https://javascript-days.de/angular/",
-    "startDate": "2020-10-05",
-    "endDate": "2020-10-08",
-    "city": "Berlin",
-    "country": "Germany",
-    "twitter": "@AngularDays"
-  },
-  {
-    "name": "HTML & CSS Days",
-    "url": "https://javascript-days.de/html-css/",
-    "startDate": "2020-10-05",
-    "endDate": "2020-10-08",
-    "city": "Berlin",
-    "country": "Germany",
-    "twitter": "@htmlcssdays"
-  },
-  {
-    "name": "React Summit XL",
-    "url": "https://reactsummit.com",
-    "startDate": "2020-10-15",
-    "endDate": "2020-10-16",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@reactsummit",
-    "cfpUrl": "https://forms.gle/r2jCDTRVZLzrpYeX8",
-    "cfpEndDate": "2020-08-21"
-  },
-  {
-    "name": "React.JS Global Summit",
-    "url": "https://react.geekle.us",
-    "startDate": "2020-09-15",
-    "endDate": "2020-09-16",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@GeekleOfficial",
-    "cfpUrl": "https://forms.gle/oKZGBJSmxtigcKEG6",
-    "cfpEndDate": "2020-09-14"
-  },
-  {
-    "name": "Paris Web",
-    "url": "https://www.paris-web.fr",
-    "startDate": "2020-10-01",
-    "endDate": "2020-10-03",
-    "city": "Paris",
-    "country": "France",
-    "twitter": "@ParisWeb"
-  },
-  {
-    "name": "Next.js Conf",
-    "url": "https://nextjs.org/conf",
-    "startDate": "2020-10-27",
-    "endDate": "2020-10-27",
-    "city": "Online",
-    "country": "Online"
-  },
-  {
     "name": "FrontEnd Con",
     "url": "https://frontend-con.io",
     "startDate": "2020-12-08",
@@ -828,6 +810,15 @@
     "offersSignLanguageOrCC": false
   },
   {
+    "name": "AngularUP",
+    "url": "https://angular-up.com",
+    "startDate": "2020-12-10",
+    "endDate": "2020-12-10",
+    "city": "Tel Aviv",
+    "country": "Israel",
+    "twitter": "@AngularUP"
+  },
+  {
     "name": "Future.Works Tech Conference",
     "url": "https://future.works/techconference",
     "startDate": "2020-12-10",
@@ -835,5 +826,14 @@
     "city": "Online",
     "country": "Online",
     "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "HalfStack Charlotte",
+    "url": "https://halfstackconf.com/charlotte",
+    "startDate": "2020-12-11",
+    "endDate": "2020-12-11",
+    "city": "Charlotte, NC",
+    "country": "U.S.A.",
+    "twitter": "@halfstackconf"
   }
 ]

@@ -109,6 +109,17 @@
     "twitter": "@j4kio"
   },
   {
+    "name": "GIDS.JAVA Live",
+    "url": "https://www.wurreka.com/ict/virtual-conference/java",
+    "startDate": "2020-09-03",
+    "endDate": "2020-09-03",
+    "city": "Online",
+    "country": "Online",
+    "cfpUrl": "https://developersummit.wufoo.com/forms/gids-live-series-2020-call-for-proposals",
+    "cfpEndDate": "2020-08-24",
+    "twitter": "@developersummit"
+  },
+  {
     "name": "jbcnconf",
     "url": "https://www.jbcnconf.com",
     "startDate": "2020-09-07",
@@ -163,6 +174,15 @@
     "twitter": "@jconfdev"
   },
   {
+    "name": "Herbstcampus",
+    "url": "https://www.herbstcampus.de",
+    "startDate": "2020-10-01",
+    "endDate": "2020-10-03",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@Herbstcampus"
+  },
+  {
     "name": "Spring I/O",
     "url": "https://2020.springio.net",
     "startDate": "2020-10-08",
@@ -170,6 +190,15 @@
     "city": "Barcelona",
     "country": "Spain",
     "twitter": "@spring_io"
+  },
+  {
+    "name": "MakeIT Week",
+    "url": "https://makeit.si/index.php/en",
+    "startDate": "2020-10-12",
+    "endDate": "2020-10-16",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@makeitconf2020"
   },
   {
     "name": "EclipseCon",
@@ -190,6 +219,15 @@
     "city": "Düsseldorf",
     "country": "Germany",
     "twitter": "@jcon_conference"
+  },
+  {
+    "name": "JDConf",
+    "url": "https://jdconf.splashthat.com",
+    "startDate": "2020-10-27",
+    "endDate": "2020-10-29",
+    "city": "Online",
+    "country": "Online",
+    "offersSignLanguageOrCC": false
   },
   {
     "name": "Voxxed Days Minsk",
@@ -220,24 +258,6 @@
   },
   {
     "name": "Devoxx",
-    "url": "https://devoxx.be",
-    "startDate": "2020-11-09",
-    "endDate": "2020-11-13",
-    "city": "Antwerp",
-    "country": "Belgium",
-    "twitter": "@devoxx"
-  },
-  {
-    "name": "DevTernity",
-    "url": "https://devternity.com",
-    "startDate": "2020-12-03",
-    "endDate": "2020-12-04",
-    "city": "Riga",
-    "country": "Latvia",
-    "twitter": "@devternity"
-  },
-  {
-    "name": "Devoxx",
     "url": "https://devoxx.com.ua",
     "startDate": "2020-11-06",
     "endDate": "2020-11-07",
@@ -245,33 +265,13 @@
     "country": "Online"
   },
   {
-    "name": "Herbstcampus",
-    "url": "https://www.herbstcampus.de",
-    "startDate": "2020-10-01",
-    "endDate": "2020-10-03",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@Herbstcampus"
-  },
-  {
-    "name": "GIDS.JAVA Live",
-    "url": "https://www.wurreka.com/ict/virtual-conference/java",
-    "startDate": "2020-09-03",
-    "endDate": "2020-09-03",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@developersummit",
-    "cfpUrl": "https://developersummit.wufoo.com/forms/gids-live-series-2020-call-for-proposals",
-    "cfpEndDate": "2020-08-24"
-  },
-  {
-    "name": "MakeIT Week",
-    "url": "https://makeit.si/index.php/en",
-    "startDate": "2020-10-12",
-    "endDate": "2020-10-16",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@makeitconf2020"
+    "name": "Devoxx",
+    "url": "https://devoxx.be",
+    "startDate": "2020-11-09",
+    "endDate": "2020-11-13",
+    "city": "Antwerp",
+    "country": "Belgium",
+    "twitter": "@devoxx"
   },
   {
     "name": "Joker",
@@ -283,25 +283,25 @@
     "twitter": "@jugru"
   },
   {
+    "name": "DevTernity",
+    "url": "https://devternity.com",
+    "startDate": "2020-12-03",
+    "endDate": "2020-12-04",
+    "city": "Riga",
+    "country": "Latvia",
+    "twitter": "@devternity"
+  },
+  {
     "name": "jLove",
     "url": "https://jlove.konfy.care",
     "startDate": "2020-12-04",
     "endDate": "2020-12-05",
     "city": "Online",
     "country": "Online",
-    "twitter": "@jloveconf",
     "cfpUrl": "https://www.papercall.io/jlove",
     "cfpEndDate": "2020-11-01",
+    "twitter": "@jloveconf",
     "cocUrl": "https://berlincodeofconduct.org/",
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "JDConf",
-    "url": "https://jdconf.splashthat.com",
-    "startDate": "2020-10-27",
-    "endDate": "2020-10-29",
-    "city": "Online",
-    "country": "Online",
     "offersSignLanguageOrCC": false
   },
   {

@@ -297,6 +297,23 @@
     "twitter": "@teamrework"
   },
   {
+    "name": "Data and AI Virtual Forum",
+    "url": "https://data-ai-anz.coriniumintelligence.com",
+    "startDate": "2020-07-23",
+    "endDate": "2020-07-23",
+    "city": "Online",
+    "country": "Online"
+  },
+  {
+    "name": "Last Thursday in Privacy",
+    "url": "https://digital.privsec.info",
+    "startDate": "2020-07-30",
+    "endDate": "2020-07-30",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@PrivSecEvents"
+  },
+  {
     "name": "OpML",
     "url": "https://www.usenix.org/conference/opml20",
     "startDate": "2020-07-30",
@@ -396,6 +413,15 @@
     "twitter": "@teamrework"
   },
   {
+    "name": "ODSC Europe Virtual AI Expo",
+    "url": "https://odsc.com/europe/aiexpo",
+    "startDate": "2020-09-17",
+    "endDate": "2020-09-18",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@ODSC"
+  },
+  {
     "name": "ODSC Europe Virtual Conference",
     "url": "https://odsc.com/europe",
     "startDate": "2020-09-17",
@@ -416,6 +442,42 @@
     "twitter": "@PGDayAustria"
   },
   {
+    "name": "Data Fest",
+    "url": "https://fest.ai/2020",
+    "startDate": "2020-09-19",
+    "endDate": "2020-09-20",
+    "city": "Online",
+    "country": "Online"
+  },
+  {
+    "name": "DSS Virtual: Applying AI & ML to Media, Advertising & Entertainment",
+    "url": "https://www.datascience.salon/media-advertising-and-entertainment",
+    "startDate": "2020-09-22",
+    "endDate": "2020-09-25",
+    "city": "Online",
+    "country": "Online",
+    "cfpUrl": "https://formulatedby.typeform.com/to/cNIXwj",
+    "twitter": "@DataSciSalon"
+  },
+  {
+    "name": "AI Waves",
+    "url": "https://app.evenea.pl/event/aiwaves/index/index",
+    "startDate": "2020-09-23",
+    "endDate": "2020-09-23",
+    "city": "Online",
+    "country": "Online"
+  },
+  {
+    "name": "AI Dev Day",
+    "url": "https://konf.me/addconf",
+    "startDate": "2020-09-25",
+    "endDate": "2020-09-25",
+    "city": "Online",
+    "country": "Online",
+    "cfpUrl": "http://konf.me/addcfp",
+    "cfpEndDate": "2020-09-10"
+  },
+  {
     "name": "International Conference on Data Mining and Software Engineering",
     "url": "https://dmse2020.org",
     "startDate": "2020-09-26",
@@ -424,6 +486,15 @@
     "country": "Denmark",
     "cfpUrl": "https://dmse2020.org/submission.html",
     "cfpEndDate": "2020-08-28"
+  },
+  {
+    "name": "Big Data and AI Toronto",
+    "url": "https://www.bigdata-toronto.com/2020",
+    "startDate": "2020-09-29",
+    "endDate": "2020-09-30",
+    "city": "Toronto",
+    "country": "Canada",
+    "twitter": "@bigdataaito"
   },
   {
     "name": "SQLbits",
@@ -441,6 +512,15 @@
     "city": "Dubai",
     "country": "United Arab Emirates",
     "twitter": "@LetsTalkB2B"
+  },
+  {
+    "name": "AI Champions, Online - Trading & Investment",
+    "url": "https://aico-trading.coriniumintelligence.com",
+    "startDate": "2020-10-06",
+    "endDate": "2020-10-08",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@coriniumglobal"
   },
   {
     "name": "LatinR",
@@ -562,6 +642,16 @@
     "twitter": "@ODSC"
   },
   {
+    "name": "AIx West",
+    "url": "https://odsc.com/california/aix-west",
+    "startDate": "2020-10-28",
+    "endDate": "2020-10-28",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@ODSC",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "The Responsible AI Forum",
     "url": "http://www.responsibleaiforum.com",
     "startDate": "2020-11-04",
@@ -569,6 +659,17 @@
     "city": "Munich",
     "country": "Germany",
     "twitter": "@TRAIF2020"
+  },
+  {
+    "name": "MLConf EU",
+    "url": "https://mlconf.eu",
+    "startDate": "2020-11-05",
+    "endDate": "2020-11-06",
+    "city": "Online",
+    "country": "Online",
+    "cfpUrl": "https://forms.gle/xAeP2eKVc8yxV6Zo8",
+    "cfpEndDate": "2020-10-02",
+    "twitter": "@mlconfeu"
   },
   {
     "name": "Machine Learning Conference",
@@ -580,126 +681,6 @@
     "twitter": "@mlconference"
   },
   {
-    "name": "cybernetix.world",
-    "url": "https://www.kuppingercole.com/events/cybernetixworld2020",
-    "startDate": "2020-11-24",
-    "endDate": "2020-11-26",
-    "city": "Darmstadt",
-    "country": "Germany",
-    "cfpUrl": "https://www.kuppingercole.com/events/cybernetixworld2020/callforspeakers",
-    "cfpEndDate": "2020-09-07"
-  },
-  {
-    "name": "Data and AI Virtual Forum",
-    "url": "https://data-ai-anz.coriniumintelligence.com",
-    "startDate": "2020-07-23",
-    "endDate": "2020-07-23",
-    "city": "Online",
-    "country": "Online"
-  },
-  {
-    "name": "ODSC Europe Virtual AI Expo",
-    "url": "https://odsc.com/europe/aiexpo",
-    "startDate": "2020-09-17",
-    "endDate": "2020-09-18",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@ODSC"
-  },
-  {
-    "name": "Last Thursday in Privacy",
-    "url": "https://digital.privsec.info",
-    "startDate": "2020-07-30",
-    "endDate": "2020-07-30",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@PrivSecEvents"
-  },
-  {
-    "name": "Big Data and AI Toronto",
-    "url": "https://www.bigdata-toronto.com/2020",
-    "startDate": "2020-09-29",
-    "endDate": "2020-09-30",
-    "city": "Toronto",
-    "country": "Canada",
-    "twitter": "@bigdataaito"
-  },
-  {
-    "name": "DSS Virtual: Applying AI & Machine Learning to Finance & Technology",
-    "url": "https://www.datascience.salon/travel-finance-and-technology",
-    "startDate": "2020-12-08",
-    "endDate": "2020-12-11",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@DataSciSalon",
-    "cfpUrl": "https://formulatedby.typeform.com/to/cNIXwj"
-  },
-  {
-    "name": "DSS Virtual: Applying AI & Machine Learning to Retail & E-Commerce",
-    "url": "https://www.datascience.salon/retail-and-ecommerce",
-    "startDate": "2020-11-17",
-    "endDate": "2020-11-20",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@DataSciSalon",
-    "cfpUrl": "https://formulatedby.typeform.com/to/cNIXwj"
-  },
-  {
-    "name": "DSS Virtual: Applying AI & ML to Media, Advertising & Entertainment",
-    "url": "https://www.datascience.salon/media-advertising-and-entertainment",
-    "startDate": "2020-09-22",
-    "endDate": "2020-09-25",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@DataSciSalon",
-    "cfpUrl": "https://formulatedby.typeform.com/to/cNIXwj"
-  },
-  {
-    "name": "Voice Conference",
-    "url": "https://voicecon.net",
-    "startDate": "2020-12-07",
-    "endDate": "2020-12-09",
-    "city": "Berlin",
-    "country": "Germany",
-    "twitter": "@Voice_Con"
-  },
-  {
-    "name": "GIDS.AI/ML & DATA Live",
-    "url": "https://www.wurreka.com/ict/virtual-conference/aiml",
-    "startDate": "2020-12-03",
-    "endDate": "2020-12-03",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@developersummit"
-  },
-  {
-    "name": "AI Champions, Online - Trading & Investment",
-    "url": "https://aico-trading.coriniumintelligence.com",
-    "startDate": "2020-10-06",
-    "endDate": "2020-10-08",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@coriniumglobal"
-  },
-  {
-    "name": "AI Dev Day",
-    "url": "https://konf.me/addconf",
-    "startDate": "2020-09-25",
-    "endDate": "2020-09-25",
-    "city": "Online",
-    "country": "Online",
-    "cfpUrl": "http://konf.me/addcfp",
-    "cfpEndDate": "2020-09-10"
-  },
-  {
-    "name": "AI Waves",
-    "url": "https://app.evenea.pl/event/aiwaves/index/index",
-    "startDate": "2020-09-23",
-    "endDate": "2020-09-23",
-    "city": "Online",
-    "country": "Online"
-  },
-  {
     "name": "Rise of AI Summit",
     "url": "https://riseof.ai/summit",
     "startDate": "2020-11-17",
@@ -708,33 +689,24 @@
     "country": "Germany"
   },
   {
-    "name": "Data Fest",
-    "url": "https://fest.ai/2020",
-    "startDate": "2020-09-19",
-    "endDate": "2020-09-20",
-    "city": "Online",
-    "country": "Online"
-  },
-  {
-    "name": "MLConf EU",
-    "url": "https://mlconf.eu",
-    "startDate": "2020-11-05",
-    "endDate": "2020-11-06",
+    "name": "DSS Virtual: Applying AI & Machine Learning to Retail & E-Commerce",
+    "url": "https://www.datascience.salon/retail-and-ecommerce",
+    "startDate": "2020-11-17",
+    "endDate": "2020-11-20",
     "city": "Online",
     "country": "Online",
-    "twitter": "@mlconfeu",
-    "cfpUrl": "https://forms.gle/xAeP2eKVc8yxV6Zo8",
-    "cfpEndDate": "2020-10-02"
+    "cfpUrl": "https://formulatedby.typeform.com/to/cNIXwj",
+    "twitter": "@DataSciSalon"
   },
   {
-    "name": "AIx West",
-    "url": "https://odsc.com/california/aix-west",
-    "startDate": "2020-10-28",
-    "endDate": "2020-10-28",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@ODSC",
-    "offersSignLanguageOrCC": true
+    "name": "cybernetix.world",
+    "url": "https://www.kuppingercole.com/events/cybernetixworld2020",
+    "startDate": "2020-11-24",
+    "endDate": "2020-11-26",
+    "city": "Darmstadt",
+    "country": "Germany",
+    "cfpUrl": "https://www.kuppingercole.com/events/cybernetixworld2020/callforspeakers",
+    "cfpEndDate": "2020-09-07"
   },
   {
     "name": "WeAreDevelopers Live Week",
@@ -749,6 +721,24 @@
     "offersSignLanguageOrCC": false
   },
   {
+    "name": "GIDS.AI/ML & DATA Live",
+    "url": "https://www.wurreka.com/ict/virtual-conference/aiml",
+    "startDate": "2020-12-03",
+    "endDate": "2020-12-03",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@developersummit"
+  },
+  {
+    "name": "Voice Conference",
+    "url": "https://voicecon.net",
+    "startDate": "2020-12-07",
+    "endDate": "2020-12-09",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@Voice_Con"
+  },
+  {
     "name": "ODSC APAC",
     "url": "https://odsc.com/apac",
     "startDate": "2020-12-08",
@@ -757,5 +747,15 @@
     "country": "Online",
     "twitter": "@ODSC",
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "DSS Virtual: Applying AI & Machine Learning to Finance & Technology",
+    "url": "https://www.datascience.salon/travel-finance-and-technology",
+    "startDate": "2020-12-08",
+    "endDate": "2020-12-11",
+    "city": "Online",
+    "country": "Online",
+    "cfpUrl": "https://formulatedby.typeform.com/to/cNIXwj",
+    "twitter": "@DataSciSalon"
   }
 ]

@@ -71,6 +71,15 @@
     "twitter": "@dotnetby"
   },
   {
+    "name": ".Net Day Franken",
+    "url": "https://www.dotnet-day-franken.de",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-12",
+    "city": "Nuremberg",
+    "country": "Germany",
+    "twitter": "@NETDayFranken"
+  },
+  {
     "name": "Future Tech",
     "url": "https://futuretech.nl",
     "startDate": "2020-09-16",
@@ -106,6 +115,16 @@
     "country": "Online"
   },
   {
+    "name": "DotFest",
+    "url": "https://dotfest.ru",
+    "startDate": "2020-10-16",
+    "endDate": "2020-10-17",
+    "city": "Novosibirsk",
+    "country": "Russia",
+    "cfpUrl": "https://hardfest.ru/en/#rec216142907",
+    "cfpEndDate": "2020-09-14"
+  },
+  {
     "name": ".NET DeveloperDays",
     "url": "https://net.developerdays.pl",
     "startDate": "2020-10-20",
@@ -123,42 +142,6 @@
     "city": "Brussels",
     "country": "Belgium",
     "twitter": "@fsharp_eu"
-  },
-  {
-    "name": ".NET Developer Conference",
-    "url": "https://www.dotnet-developer-conference.de",
-    "startDate": "2020-11-23",
-    "endDate": "2020-11-27",
-    "city": "Cologne",
-    "country": "Germany",
-    "twitter": "@Herbstcampus"
-  },
-  {
-    "name": "Dev Intersection",
-    "url": "https://devintersection.com",
-    "startDate": "2020-12-08",
-    "endDate": "2020-12-10",
-    "city": "Orlando, FL",
-    "country": "U.S.A."
-  },
-  {
-    "name": ".Net Day Franken",
-    "url": "https://www.dotnet-day-franken.de",
-    "startDate": "2020-09-11",
-    "endDate": "2020-09-12",
-    "city": "Nuremberg",
-    "country": "Germany",
-    "twitter": "@NETDayFranken"
-  },
-  {
-    "name": "DotFest",
-    "url": "https://dotfest.ru",
-    "startDate": "2020-10-16",
-    "endDate": "2020-10-17",
-    "city": "Novosibirsk",
-    "country": "Russia",
-    "cfpUrl": "https://hardfest.ru/en/#rec216142907",
-    "cfpEndDate": "2020-09-14"
   },
   {
     "name": ".NET Conf",
@@ -180,6 +163,15 @@
     "twitter": "@update_conf"
   },
   {
+    "name": ".NET Developer Conference",
+    "url": "https://www.dotnet-developer-conference.de",
+    "startDate": "2020-11-23",
+    "endDate": "2020-11-27",
+    "city": "Cologne",
+    "country": "Germany",
+    "twitter": "@Herbstcampus"
+  },
+  {
     "name": "API Summit",
     "url": "https://api-summit.de",
     "startDate": "2020-11-30",
@@ -189,5 +181,13 @@
     "twitter": "@apisummit_de",
     "cocUrl": "https://api-summit.de/",
     "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Dev Intersection",
+    "url": "https://devintersection.com",
+    "startDate": "2020-12-08",
+    "endDate": "2020-12-10",
+    "city": "Orlando, FL",
+    "country": "U.S.A."
   }
 ]

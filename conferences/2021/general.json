@@ -10,6 +10,30 @@
     "cfpEndDate": "2020-10-30"
   },
   {
+    "name": "DeveloperWeek",
+    "url": "https://www.developerweek.com",
+    "startDate": "2021-02-17",
+    "endDate": "2021-02-19",
+    "city": "Online",
+    "country": "Online",
+    "cfpUrl": "https://www.developerweek.com/conference/call-for-speakers",
+    "cfpEndDate": "2020-10-30",
+    "twitter": "@developerweek",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Conf42: Chaos Engineering",
+    "url": "https://www.conf42.com",
+    "startDate": "2021-02-25",
+    "endDate": "2021-02-25",
+    "city": "Online",
+    "country": "Online",
+    "cfpUrl": "https://www.papercall.io/conf42-chaos-engineering-2021",
+    "cfpEndDate": "2021-01-11",
+    "twitter": "@conf42com"
+  },
+  {
     "name": "ReactiveConf",
     "url": "https://reactiveconf.com",
     "startDate": "2021-03-08",
@@ -28,6 +52,40 @@
     "country": "France",
     "twitter": "@DevoxxFR",
     "cocUrl": "https://www.devoxx.fr/code-of-conduct/"
+  },
+  {
+    "name": "Serverless Architecture Conference",
+    "url": "https://serverless-architecture.io/thehague",
+    "startDate": "2021-04-12",
+    "endDate": "2021-04-15",
+    "city": "The Hague",
+    "country": "Netherlands",
+    "cfpUrl": "https://serverless-architecture.io/call-for-papers",
+    "cfpEndDate": "2020-11-02",
+    "twitter": "@serverlesscon",
+    "cocUrl": "https://serverless-architecture.io/code-of-conduct/",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "GOTO Copenhagen",
+    "url": "https://gotocph.com/2021",
+    "startDate": "2021-04-19",
+    "endDate": "2021-04-21",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "twitter": "@GOTOcon",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Conf42: Cloud Native",
+    "url": "https://www.conf42.com",
+    "startDate": "2021-04-29",
+    "endDate": "2021-04-29",
+    "city": "Online",
+    "country": "Online",
+    "cfpUrl": "https://www.papercall.io/conf42-cloud-native-2021",
+    "cfpEndDate": "2021-03-15",
+    "twitter": "@conf42com"
   },
   {
     "name": "Codemotion",
@@ -49,6 +107,18 @@
     "cocUrl": "https://www.devbreak.io/code-of-conduct"
   },
   {
+    "name": "Voxxed Days Downunder",
+    "url": "https://australia.voxxeddays.com",
+    "startDate": "2021-08-23",
+    "endDate": "2021-08-24",
+    "city": "Melbourne",
+    "country": "Australia",
+    "cfpUrl": "https://vxmelb21.cfp.dev",
+    "cfpEndDate": "2021-03-31",
+    "twitter": "@VoxxedAustralia",
+    "cocUrl": "https://australia.voxxeddays.com/code-of-conduct/"
+  },
+  {
     "name": "Web Summer Camp",
     "url": "https://2021.websummercamp.com/",
     "startDate": "2021-08-25",
@@ -57,6 +127,17 @@
     "country": "Croatia",
     "twitter": "@WebSummerCamp",
     "cocUrl": "https://2021.websummercamp.com/code-of-conduct"
+  },
+  {
+    "name": "Voxxed Days Downunder",
+    "url": "https://australia.voxxeddays.com",
+    "startDate": "2021-08-26",
+    "endDate": "2021-08-27",
+    "city": "Sydney",
+    "country": "Australia",
+    "cfpUrl": "https://vxsyd21.cfp.dev",
+    "cfpEndDate": "2021-03-31",
+    "twitter": "@VoxxedAustralia"
   },
   {
     "name": "REFACTR.TECH",
@@ -90,6 +171,18 @@
     "cocUrl": "https://thestrangeloop.com/policies.html"
   },
   {
+    "name": "HackConf",
+    "url": "https://www.hackconf.bg",
+    "startDate": "2021-10-22",
+    "endDate": "2021-10-24",
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "cfpUrl": "https://www.hackconf.bg/#cfs",
+    "cfpEndDate": "2021-04-30",
+    "twitter": "@HackConf_",
+    "cocUrl": "https://drive.google.com/file/d/1YTce-qmjSxroN5vK9jthXZCWthlr0ul-/view"
+  },
+  {
     "name": "ITNEXT Summit",
     "url": "https://www.itnextsummit.com",
     "startDate": "2021-10-27",
@@ -98,98 +191,5 @@
     "country": "Netherlands",
     "twitter": "@itnext_io",
     "cocUrl": "https://www.itnextsummit.com/wp-content/uploads/2019/01/code-of-conduct.pdf"
-  },
-  {
-    "name": "HackConf",
-    "url": "https://www.hackconf.bg",
-    "startDate": "2021-10-22",
-    "endDate": "2021-10-24",
-    "city": "Sofia",
-    "country": "Bulgaria",
-    "twitter": "@HackConf_",
-    "cfpUrl": "https://www.hackconf.bg/#cfs",
-    "cfpEndDate": "2021-04-30",
-    "cocUrl": "https://drive.google.com/file/d/1YTce-qmjSxroN5vK9jthXZCWthlr0ul-/view"
-  },
-  {
-    "name": "Conf42: Cloud Native",
-    "url": "https://www.conf42.com",
-    "startDate": "2021-04-29",
-    "endDate": "2021-04-29",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@conf42com",
-    "cfpUrl": "https://www.papercall.io/conf42-cloud-native-2021",
-    "cfpEndDate": "2021-03-15"
-  },
-  {
-    "name": "Conf42: Chaos Engineering",
-    "url": "https://www.conf42.com",
-    "startDate": "2021-02-25",
-    "endDate": "2021-02-25",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@conf42com",
-    "cfpUrl": "https://www.papercall.io/conf42-chaos-engineering-2021",
-    "cfpEndDate": "2021-01-11"
-  },
-  {
-    "name": "Voxxed Days Downunder",
-    "url": "https://australia.voxxeddays.com",
-    "startDate": "2021-08-26",
-    "endDate": "2021-08-27",
-    "city": "Sydney",
-    "country": "Australia",
-    "twitter": "@VoxxedAustralia",
-    "cfpUrl": "https://vxsyd21.cfp.dev",
-    "cfpEndDate": "2021-03-31"
-  },
-  {
-    "name": "Voxxed Days Downunder",
-    "url": "https://australia.voxxeddays.com",
-    "startDate": "2021-08-23",
-    "endDate": "2021-08-24",
-    "city": "Melbourne",
-    "country": "Australia",
-    "twitter": "@VoxxedAustralia",
-    "cfpUrl": "https://vxmelb21.cfp.dev",
-    "cfpEndDate": "2021-03-31",
-    "cocUrl": "https://australia.voxxeddays.com/code-of-conduct/"
-  },
-  {
-    "name": "DeveloperWeek",
-    "url": "https://www.developerweek.com",
-    "startDate": "2021-02-17",
-    "endDate": "2021-02-19",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@developerweek",
-    "cfpUrl": "https://www.developerweek.com/conference/call-for-speakers",
-    "cfpEndDate": "2020-10-30",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "GOTO Copenhagen",
-    "url": "https://gotocph.com/2021",
-    "startDate": "2021-04-19",
-    "endDate": "2021-04-21",
-    "city": "Copenhagen",
-    "country": "Denmark",
-    "twitter": "@GOTOcon",
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "Serverless Architecture Conference",
-    "url": "https://serverless-architecture.io/thehague",
-    "startDate": "2021-04-12",
-    "endDate": "2021-04-15",
-    "city": "The Hague",
-    "country": "Netherlands",
-    "twitter": "@serverlesscon",
-    "cfpUrl": "https://serverless-architecture.io/call-for-papers",
-    "cfpEndDate": "2020-11-02",
-    "cocUrl": "https://serverless-architecture.io/code-of-conduct/",
-    "offersSignLanguageOrCC": false
   }
 ]
