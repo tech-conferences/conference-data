@@ -1,22 +1,20 @@
 [
   {
-    "name": "RuhrSec",
-    "url": "https://www.ruhrsec.de/2020",
-    "startDate": "2021-05-18",
-    "endDate": "2021-05-21",
-    "city": "Bochum",
-    "country": "Germany",
-    "twitter": "@ruhrsec",
-    "cocUrl": "https://www.ruhrsec.de/2020/codeofconduct.html"
-  },
-  {
     "name": "QuBit Conference Tatry",
     "url": "https://tatry.qubitconference.com",
     "startDate": "2021-03-24",
     "endDate": "2021-03-25",
     "city": "Jasna",
     "country": "Slovakia",
-    "twitter": "@QuBitCon",
-    "offersSignLanguageOrCC": false
+    "twitter": "@QuBitCon"
+  },
+  {
+    "name": "RuhrSec",
+    "url": "https://www.ruhrsec.de/2020",
+    "startDate": "2021-05-18",
+    "endDate": "2021-05-21",
+    "city": "Bochum",
+    "country": "Germany",
+    "twitter": "@ruhrsec"
   }
 ]

@@ -1,55 +1,34 @@
 [
   {
-    "name": "Canvas",
-    "url": "https://www.canvasconference.co.uk",
-    "startDate": "2021-03-18",
-    "endDate": "2021-03-18",
-    "city": "Birmingham",
-    "country": "U.K.",
-    "twitter": "@canvasconf",
-    "cocUrl": "https://docs.google.com/document/d/1E5eiXx868wRSLvExCctywlVulSUkFjlTX2J1PwM_aPA/edit"
-  },
-  {
-    "name": "CSSCAMP",
-    "url": "https://csscamp.tech",
-    "startDate": "2021-07-14",
-    "endDate": "2021-07-14",
-    "city": "Barcelona",
-    "country": "Spain",
-    "twitter": "@csscamp",
-    "cocUrl": "https://csscamp.tech/code-of-conduct/"
-  },
-  {
-    "name": "An Event Apart Orlando",
-    "url": "https://aneventapart.com/event/orlando-2021",
-    "startDate": "2021-08-30",
-    "endDate": "2021-09-01",
-    "city": "Orlando, FL",
-    "country": "U.S.A.",
-    "twitter": "@aneventapart",
-    "cocUrl": "https://aneventapart.com/registration-information#code-of-conduct"
-  },
-  {
-    "name": "CanUX",
-    "url": "https://canux.io",
-    "startDate": "2021-11-04",
-    "endDate": "2021-11-07",
-    "city": "Ottawa",
-    "country": "Canada",
-    "twitter": "@canuxconf",
-    "cocUrl": "https://canux.io/about/code-of-conduct/"
-  },
-  {
     "name": "UXOK",
     "url": "https://uxok.org",
     "startDate": "2021-02-05",
     "endDate": "2021-02-05",
     "city": "Tulsa, OK",
     "country": "U.S.A.",
-    "twitter": "@uxokconf",
     "cfpUrl": "https://www.papercall.io/uxok-2021",
     "cfpEndDate": "2020-10-01",
-    "cocUrl": "https://www.techlahoma.org/code-of-conduct"
+    "twitter": "@uxokconf"
+  },
+  {
+    "name": "Outcome",
+    "url": "https://outcomeconf.com",
+    "startDate": "2021-02-11",
+    "endDate": "2021-02-12",
+    "city": "Chandigarh",
+    "country": "India",
+    "cfpUrl": "https://outcomeconf.com/call-for-speakers",
+    "cfpEndDate": "2020-11-20",
+    "twitter": "@vingar"
+  },
+  {
+    "name": "UXDX APAC",
+    "url": "https://uxdx.com/apac",
+    "startDate": "2021-03-04",
+    "endDate": "2021-03-05",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@UXDXConf"
   },
   {
     "name": "axe-con",
@@ -62,26 +41,39 @@
     "cfpEndDate": "2020-10-23"
   },
   {
-    "name": "Outcome",
-    "url": "https://outcomeconf.com",
-    "startDate": "2021-02-11",
-    "endDate": "2021-02-12",
-    "city": "Chandigarh",
-    "country": "India",
-    "twitter": "@vingar",
-    "cfpUrl": "https://outcomeconf.com/call-for-speakers",
-    "cfpEndDate": "2020-11-20",
-    "cocUrl": "http://outcomeconf.com/code-of-conduct/",
-    "offersSignLanguageOrCC": false
+    "name": "Canvas",
+    "url": "https://www.canvasconference.co.uk",
+    "startDate": "2021-03-18",
+    "endDate": "2021-03-18",
+    "city": "Birmingham",
+    "country": "U.K.",
+    "twitter": "@canvasconf"
   },
   {
-    "name": "UXDX APAC",
-    "url": "https://uxdx.com/apac",
-    "startDate": "2021-03-04",
-    "endDate": "2021-03-05",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@UXDXConf",
-    "offersSignLanguageOrCC": false
+    "name": "CSSCAMP",
+    "url": "https://csscamp.tech",
+    "startDate": "2021-07-14",
+    "endDate": "2021-07-14",
+    "city": "Barcelona",
+    "country": "Spain",
+    "twitter": "@csscamp"
+  },
+  {
+    "name": "An Event Apart Orlando",
+    "url": "https://aneventapart.com/event/orlando-2021",
+    "startDate": "2021-08-30",
+    "endDate": "2021-09-01",
+    "city": "Orlando, FL",
+    "country": "U.S.A.",
+    "twitter": "@aneventapart"
+  },
+  {
+    "name": "CanUX",
+    "url": "https://canux.io",
+    "startDate": "2021-11-04",
+    "endDate": "2021-11-07",
+    "city": "Ottawa",
+    "country": "Canada",
+    "twitter": "@canuxconf"
   }
 ]

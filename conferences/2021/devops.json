@@ -1,83 +1,12 @@
 [
   {
-    "name": "Lead Dev London",
-    "url": "https://london2020.theleaddeveloper.com/",
-    "startDate": "2021-06-08",
-    "endDate": "2021-06-09",
-    "city": "London",
-    "country": "U.K.",
-    "twitter": "@TheLeadDev",
-    "cocUrl": "https://london2020.theleaddeveloper.com/code-of-conduct"
-  },
-  {
     "name": "Devopsdays Birmingham",
     "url": "https://devopsdays.org/events/2021-birmingham/welcome/",
     "startDate": "2021-03-04",
     "endDate": "2021-03-05",
     "city": "Birmingham",
     "country": "U.K.",
-    "twitter": "@devopsdaysbrum",
-    "cocUrl": "https://devopsdays.org/conduct/"
-  },
-  {
-    "name": "Devopsdays Aarhus",
-    "url": "https://devopsdays.org/events/2021-aarhus/welcome/",
-    "startDate": "2021-04-01",
-    "endDate": "2021-04-02",
-    "city": "Aarhus",
-    "country": "Denmark",
-    "twitter": "@devopsdayscph",
-    "cocUrl": "https://devopsdays.org/conduct/"
-  },
-  {
-    "name": "Devopsdays Nashville",
-    "url": "https://devopsdays.org/events/2021-nashville/welcome/",
-    "startDate": "2021-04-01",
-    "endDate": "2021-04-02",
-    "city": "Nashville, TN",
-    "country": "U.S.A.",
-    "twitter": "@nashvilledevops",
-    "cocUrl": "https://devopsdays.org/conduct/"
-  },
-  {
-    "name": "Devopsdays Boise",
-    "url": "https://devopsdays.org/events/2021-boise/welcome/",
-    "startDate": "2021-04-06",
-    "endDate": "2021-04-07",
-    "city": "Boise, ID",
-    "country": "U.S.A.",
-    "twitter": "@devopsdaysboise",
-    "cocUrl": "https://devopsdays.org/conduct/"
-  },
-  {
-    "name": "Devopsdays Zurich (Winterthur)",
-    "url": "https://devopsdays.org/events/2021-zurich/welcome/",
-    "startDate": "2021-04-21",
-    "endDate": "2021-04-22",
-    "city": "Zurich",
-    "country": "Switzerland",
-    "twitter": "@DevOpsZH",
-    "cocUrl": "https://devopsdays.org/conduct/"
-  },
-  {
-    "name": "Devopsdays Paris",
-    "url": "https://devopsdays.org/events/2021-paris/welcome/",
-    "startDate": "2021-05-18",
-    "endDate": "2021-05-18",
-    "city": "Paris",
-    "country": "France",
-    "twitter": "@devopsdaysparis",
-    "cocUrl": "https://devopsdays.org/conduct/"
-  },
-  {
-    "name": "Devopsdays Portugal",
-    "url": "https://devopsdays.org/events/2021-portugal/welcome/",
-    "startDate": "2021-05-24",
-    "endDate": "2021-05-25",
-    "city": "Porto",
-    "country": "Portugal",
-    "twitter": "@devopsdayspt",
-    "cocUrl": "https://devopsdays.org/conduct/"
+    "twitter": "@devopsdaysbrum"
   },
   {
     "name": "DevOps Talks Conference",
@@ -87,8 +16,61 @@
     "city": "Sydney",
     "country": "Australia",
     "cfpUrl": "https://devops.talksplus.com/submit_talk.html",
-    "twitter": "@DOTC20",
-    "cocUrl": "https://devops.talksplus.com/au/code-of-conduct.html"
+    "twitter": "@DOTC20"
+  },
+  {
+    "name": "Devopsdays Aarhus",
+    "url": "https://devopsdays.org/events/2021-aarhus/welcome/",
+    "startDate": "2021-04-01",
+    "endDate": "2021-04-02",
+    "city": "Aarhus",
+    "country": "Denmark",
+    "twitter": "@devopsdayscph"
+  },
+  {
+    "name": "Devopsdays Nashville",
+    "url": "https://devopsdays.org/events/2021-nashville/welcome/",
+    "startDate": "2021-04-01",
+    "endDate": "2021-04-02",
+    "city": "Nashville, TN",
+    "country": "U.S.A.",
+    "twitter": "@nashvilledevops"
+  },
+  {
+    "name": "Devopsdays Boise",
+    "url": "https://devopsdays.org/events/2021-boise/welcome/",
+    "startDate": "2021-04-06",
+    "endDate": "2021-04-07",
+    "city": "Boise, ID",
+    "country": "U.S.A.",
+    "twitter": "@devopsdaysboise"
+  },
+  {
+    "name": "Devopsdays Zurich (Winterthur)",
+    "url": "https://devopsdays.org/events/2021-zurich/welcome/",
+    "startDate": "2021-04-21",
+    "endDate": "2021-04-22",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "twitter": "@DevOpsZH"
+  },
+  {
+    "name": "Devopsdays Paris",
+    "url": "https://devopsdays.org/events/2021-paris/welcome/",
+    "startDate": "2021-05-18",
+    "endDate": "2021-05-18",
+    "city": "Paris",
+    "country": "France",
+    "twitter": "@devopsdaysparis"
+  },
+  {
+    "name": "Devopsdays Portugal",
+    "url": "https://devopsdays.org/events/2021-portugal/welcome/",
+    "startDate": "2021-05-24",
+    "endDate": "2021-05-25",
+    "city": "Porto",
+    "country": "Portugal",
+    "twitter": "@devopsdayspt"
   },
   {
     "name": "Paris Container Day",
@@ -100,15 +82,13 @@
     "twitter": "@ContainerDayFr"
   },
   {
-    "name": "Conf42: SRE",
-    "url": "https://www.conf42.com",
-    "startDate": "2021-09-30",
-    "endDate": "2021-09-30",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@conf42com",
-    "cfpUrl": "https://www.papercall.io/conf42-sre-2021",
-    "cfpEndDate": "2021-08-16"
+    "name": "Lead Dev London",
+    "url": "https://london2020.theleaddeveloper.com/",
+    "startDate": "2021-06-08",
+    "endDate": "2021-06-09",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@TheLeadDev"
   },
   {
     "name": "DevOps Conference Hybrid Edition",
@@ -117,8 +97,17 @@
     "endDate": "2021-06-17",
     "city": "Berlin",
     "country": "Germany",
-    "twitter": "@devops_con",
-    "cocUrl": "https://devopscon.io/code-of-conduct/",
-    "offersSignLanguageOrCC": false
+    "twitter": "@devops_con"
+  },
+  {
+    "name": "Conf42: SRE",
+    "url": "https://www.conf42.com",
+    "startDate": "2021-09-30",
+    "endDate": "2021-09-30",
+    "city": "Online",
+    "country": "Online",
+    "cfpUrl": "https://www.papercall.io/conf42-sre-2021",
+    "cfpEndDate": "2021-08-16",
+    "twitter": "@conf42com"
   }
 ]

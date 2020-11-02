@@ -1,13 +1,21 @@
 [
   {
+    "name": "BASTA!",
+    "url": "https://basta.net",
+    "startDate": "2021-02-15",
+    "endDate": "2021-02-19",
+    "city": "Frankfurt",
+    "country": "Germany",
+    "twitter": "@bastacon"
+  },
+  {
     "name": "dotnetdays",
     "url": "https://dotnetdays.ro",
     "startDate": "2021-02-18",
     "endDate": "2021-02-20",
     "city": "Iasi",
     "country": "Romania",
-    "twitter": "@dotnetdaysro",
-    "cocUrl": "https://dotnetdays.ro/2020/Home/CodeOfConduct"
+    "twitter": "@dotnetdaysro"
   },
   {
     "name": "Visual Studio Live! Microsoft Headquarters",
@@ -16,8 +24,7 @@
     "endDate": "2021-08-13",
     "city": "Redmond, WA",
     "country": "U.S.A.",
-    "twitter": "@vslive",
-    "cocUrl": "https://vslive.com/pages/harassment.aspx"
+    "twitter": "@vslive"
   },
   {
     "name": "Visual Studio Live! San Diego",
@@ -26,18 +33,6 @@
     "endDate": "2021-09-16",
     "city": "San Diego, CA",
     "country": "U.S.A.",
-    "twitter": "@vslive",
-    "cocUrl": "https://vslive.com/pages/harassment.aspx"
-  },
-  {
-    "name": "BASTA!",
-    "url": "https://basta.net",
-    "startDate": "2021-02-15",
-    "endDate": "2021-02-19",
-    "city": "Frankfurt",
-    "country": "Germany",
-    "twitter": "@bastacon",
-    "cocUrl": "https://basta.net/code-of-conduct/",
-    "offersSignLanguageOrCC": false
+    "twitter": "@vslive"
   }
 ]

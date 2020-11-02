@@ -8,6 +8,15 @@
     "country": "U.S.A."
   },
   {
+    "name": "JAX",
+    "url": "https://jax.de/mainz-en",
+    "startDate": "2021-05-03",
+    "endDate": "2021-05-07",
+    "city": "Mainz",
+    "country": "Germany",
+    "twitter": "@jaxcon"
+  },
+  {
     "name": "TECHSPO",
     "url": "https://techspotoronto.ca",
     "startDate": "2021-05-20",
@@ -30,17 +39,6 @@
     "startDate": "2021-08-25",
     "endDate": "2021-08-26",
     "city": "Sydney",
-    "country": "Australia",
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "JAX",
-    "url": "https://jax.de/mainz-en",
-    "startDate": "2021-05-03",
-    "endDate": "2021-05-07",
-    "city": "Mainz",
-    "country": "Germany",
-    "twitter": "@jaxcon",
-    "offersSignLanguageOrCC": false
+    "country": "Australia"
   }
 ]

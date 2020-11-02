@@ -100,6 +100,15 @@
     "twitter": "@swift_leeds"
   },
   {
+    "name": "MobileTech Conference",
+    "url": "https://mobiletechcon.de/de",
+    "startDate": "2020-10-26",
+    "endDate": "2020-10-28",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@mobiletechcon"
+  },
+  {
     "name": "Do iOS",
     "url": "https://do-ios.com",
     "startDate": "2020-11-06",
@@ -118,14 +127,5 @@
     "cfpUrl": "https://mobius-moscow.ru/en/cfp",
     "cfpEndDate": "2020-08-31",
     "twitter": "@MobiusConf"
-  },
-  {
-    "name": "MobileTech Conference",
-    "url": "https://mobiletechcon.de/de",
-    "startDate": "2020-10-26",
-    "endDate": "2020-10-28",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@mobiletechcon"
   }
 ]

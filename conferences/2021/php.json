@@ -1,27 +1,13 @@
 [
   {
-    "name": "ConFoo",
-    "url": "https://confoo.ca/en/yul2021",
-    "startDate": "2021-02-24",
-    "endDate": "2021-02-26",
-    "city": "Montreal",
-    "country": "Canada",
-    "twitter": "@confooca",
-    "cfpUrl": "https://confoo.ca/en/yul2021/call-for-papers",
-    "cfpEndDate": "2020-10-16",
-    "cocUrl": "https://confoo.ca/en/code-of-conduct"
-  },
-  {
     "name": "Laracon EU",
     "url": "https://laracon.eu",
     "startDate": "2021-01-18",
     "endDate": "2021-01-19",
     "city": "Amsterdam",
     "country": "Netherlands",
-    "twitter": "@LaraconEU",
     "cfpUrl": "https://laracon.eu/cfp",
-    "cocUrl": "https://laracon.eu/code-of-conduct",
-    "offersSignLanguageOrCC": false
+    "twitter": "@LaraconEU"
   },
   {
     "name": "The Online PHP Conference",
@@ -30,7 +16,17 @@
     "endDate": "2021-01-22",
     "city": "Online",
     "country": "Online",
-    "twitter": "@thephpcc",
-    "offersSignLanguageOrCC": false
+    "twitter": "@thephpcc"
+  },
+  {
+    "name": "ConFoo",
+    "url": "https://confoo.ca/en/yul2021",
+    "startDate": "2021-02-24",
+    "endDate": "2021-02-26",
+    "city": "Montreal",
+    "country": "Canada",
+    "cfpUrl": "https://confoo.ca/en/yul2021/call-for-papers",
+    "cfpEndDate": "2020-10-16",
+    "twitter": "@confooca"
   }
 ]
