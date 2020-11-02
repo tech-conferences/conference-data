@@ -1,5 +1,6 @@
 const parse = require('date-fns/parse');
 const validLocations = require('../../config/validLocations');
+const validFields = require('../../config/validFields');
 
 const twitterRegex = /@(\w){1,15}$/;
 const httpRegex = /^http(s?):\/\//;
@@ -14,10 +15,14 @@ const validLocationsHint = ' - Check/Maintain the file "config/validLocations.js
 
 module.exports = function checkConference(year, conference, assertField) {
     const { name, url, country, city, cfpUrl, twitter } = conference;
+
     REQUIRED_KEYS.forEach(requiredKey => {
         assertField(conference.hasOwnProperty(requiredKey), requiredKey, `is missing`);
     });
-    Object.keys(conference).forEach(key => assertField(!emptyStringRegex.test(conference[key]), key, `property should not be empty`));
+    Object.keys(conference).forEach(key => {
+        assertField(validFields.indexOf(key) !== -1, key, `property is not valid`);
+        assertField(!emptyStringRegex.test(conference[key]), key, `property should not be empty`);
+    });
     assertField(name.indexOf(year.substring(2, 4)) === -1, 'name', 'should not contain the year', name);
     checkUrl(conference, 'url');
     const startDate = parse(conference.startDate, dateFormat, new Date());

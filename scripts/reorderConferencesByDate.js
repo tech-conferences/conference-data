@@ -8,7 +8,7 @@ const BASE_DIR = 'conferences';
 
 const conferencesJSON = conferenceReader();
 
-const propertyOrder = ['name', 'url', 'startDate', 'endDate', 'city', 'country', 'cfpUrl', 'cfpEndDate', 'twitter'];
+const propertyOrder = require('../config/validFields');
 
 Object.keys(conferencesJSON).forEach((year) => {
   Object.keys(conferencesJSON[year]).forEach((topic) => {

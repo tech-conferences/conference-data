@@ -1,5 +1,50 @@
 [
   {
+    "name": "UXOK",
+    "url": "https://uxok.org",
+    "startDate": "2021-02-05",
+    "endDate": "2021-02-05",
+    "city": "Tulsa, OK",
+    "country": "U.S.A.",
+    "cfpUrl": "https://www.papercall.io/uxok-2021",
+    "cfpEndDate": "2020-10-01",
+    "twitter": "@uxokconf",
+    "cocUrl": "https://www.techlahoma.org/code-of-conduct"
+  },
+  {
+    "name": "Outcome",
+    "url": "https://outcomeconf.com",
+    "startDate": "2021-02-11",
+    "endDate": "2021-02-12",
+    "city": "Chandigarh",
+    "country": "India",
+    "cfpUrl": "https://outcomeconf.com/call-for-speakers",
+    "cfpEndDate": "2020-11-20",
+    "twitter": "@vingar",
+    "cocUrl": "http://outcomeconf.com/code-of-conduct/",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "UXDX APAC",
+    "url": "https://uxdx.com/apac",
+    "startDate": "2021-03-04",
+    "endDate": "2021-03-05",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@UXDXConf",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "axe-con",
+    "url": "http://deque.com/axe-con",
+    "startDate": "2021-03-10",
+    "endDate": "2021-03-11",
+    "city": "Online",
+    "country": "Online",
+    "cfpUrl": "https://www.deque.com/axe-con/call-for-papers",
+    "cfpEndDate": "2020-10-23"
+  },
+  {
     "name": "Canvas",
     "url": "https://www.canvasconference.co.uk",
     "startDate": "2021-03-18",
@@ -38,50 +83,5 @@
     "country": "Canada",
     "twitter": "@canuxconf",
     "cocUrl": "https://canux.io/about/code-of-conduct/"
-  },
-  {
-    "name": "UXOK",
-    "url": "https://uxok.org",
-    "startDate": "2021-02-05",
-    "endDate": "2021-02-05",
-    "city": "Tulsa, OK",
-    "country": "U.S.A.",
-    "twitter": "@uxokconf",
-    "cfpUrl": "https://www.papercall.io/uxok-2021",
-    "cfpEndDate": "2020-10-01",
-    "cocUrl": "https://www.techlahoma.org/code-of-conduct"
-  },
-  {
-    "name": "axe-con",
-    "url": "http://deque.com/axe-con",
-    "startDate": "2021-03-10",
-    "endDate": "2021-03-11",
-    "city": "Online",
-    "country": "Online",
-    "cfpUrl": "https://www.deque.com/axe-con/call-for-papers",
-    "cfpEndDate": "2020-10-23"
-  },
-  {
-    "name": "Outcome",
-    "url": "https://outcomeconf.com",
-    "startDate": "2021-02-11",
-    "endDate": "2021-02-12",
-    "city": "Chandigarh",
-    "country": "India",
-    "twitter": "@vingar",
-    "cfpUrl": "https://outcomeconf.com/call-for-speakers",
-    "cfpEndDate": "2020-11-20",
-    "cocUrl": "http://outcomeconf.com/code-of-conduct/",
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "UXDX APAC",
-    "url": "https://uxdx.com/apac",
-    "startDate": "2021-03-04",
-    "endDate": "2021-03-05",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@UXDXConf",
-    "offersSignLanguageOrCC": false
   }
 ]

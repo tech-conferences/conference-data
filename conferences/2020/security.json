@@ -120,17 +120,6 @@
     "twitter": "@SmartGridForums"
   },
   {
-    "name": "QuBit Cybersecurity Conference Sofia",
-    "url": "https://sofia.qubitconference.com",
-    "startDate": "2020-10-28",
-    "endDate": "2020-10-30",
-    "city": "Online",
-    "country": "Online",
-    "cfpUrl": "https://sofia.qubitconference.com/call-speakers-form-sofia",
-    "cfpEndDate": "2020-05-15",
-    "twitter": "@QuBitCon"
-  },
-  {
     "name": "DevSecCon24",
     "url": "https://www.devseccon.com/devseccon24-2020",
     "startDate": "2020-06-15",
@@ -166,6 +155,14 @@
     "country": "Italy"
   },
   {
+    "name": "Insider Risk Summit",
+    "url": "https://www.insiderrisksummit.com",
+    "startDate": "2020-09-17",
+    "endDate": "2020-09-17",
+    "city": "Online",
+    "country": "Online"
+  },
+  {
     "name": "QuBit Prague",
     "url": "https://prague.qubitconference.com",
     "startDate": "2020-09-23",
@@ -182,6 +179,17 @@
     "city": "Novi Sad",
     "country": "Serbia",
     "twitter": "@balcc0n"
+  },
+  {
+    "name": "WeAreDevelopers Live Week",
+    "url": "https://wearedevelopers.com/live#live-week",
+    "startDate": "2020-10-05",
+    "endDate": "2020-10-09",
+    "city": "Online",
+    "country": "Online",
+    "cfpUrl": "https://forms.gle/PHXGoo5AUaiT3J737",
+    "cfpEndDate": "2020-08-30",
+    "twitter": "@wearedevs"
   },
   {
     "name": "Serverless Architecture Conference Berlin",
@@ -203,44 +211,6 @@
     "twitter": "@PEPR"
   },
   {
-    "name": "IT Security Summit",
-    "url": "https://it-security-summit.de",
-    "startDate": "2020-11-23",
-    "endDate": "2020-11-25",
-    "city": "Munich",
-    "country": "Germany"
-  },
-  {
-    "name": "WeAreDevelopers Live Week",
-    "url": "https://wearedevelopers.com/live#live-week",
-    "startDate": "2020-10-05",
-    "endDate": "2020-10-09",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@wearedevs",
-    "cfpUrl": "https://forms.gle/PHXGoo5AUaiT3J737",
-    "cfpEndDate": "2020-08-30"
-  },
-  {
-    "name": "Insider Risk Summit",
-    "url": "https://www.insiderrisksummit.com",
-    "startDate": "2020-09-17",
-    "endDate": "2020-09-17",
-    "city": "Online",
-    "country": "Online"
-  },
-  {
-    "name": "SnykCon",
-    "url": "https://snyk.io/snykcon",
-    "startDate": "2020-10-21",
-    "endDate": "2020-10-22",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@snyksec",
-    "cfpUrl": "https://sessionize.com/snykcon-2020",
-    "cfpEndDate": "2020-09-25"
-  },
-  {
     "name": "Paubox SECURE @ Home",
     "url": "http://pauboxsecure.com",
     "startDate": "2020-10-21",
@@ -250,6 +220,28 @@
     "twitter": "@PauboxHQ"
   },
   {
+    "name": "SnykCon",
+    "url": "https://snyk.io/snykcon",
+    "startDate": "2020-10-21",
+    "endDate": "2020-10-22",
+    "city": "Online",
+    "country": "Online",
+    "cfpUrl": "https://sessionize.com/snykcon-2020",
+    "cfpEndDate": "2020-09-25",
+    "twitter": "@snyksec"
+  },
+  {
+    "name": "QuBit Cybersecurity Conference Sofia",
+    "url": "https://sofia.qubitconference.com",
+    "startDate": "2020-10-28",
+    "endDate": "2020-10-30",
+    "city": "Online",
+    "country": "Online",
+    "cfpUrl": "https://sofia.qubitconference.com/call-speakers-form-sofia",
+    "cfpEndDate": "2020-05-15",
+    "twitter": "@QuBitCon"
+  },
+  {
     "name": "IT Security Camp",
     "url": "https://it-security-camp.de",
     "startDate": "2020-11-16",
@@ -257,6 +249,14 @@
     "city": "Online",
     "country": "Online",
     "twitter": "@ITSecurityCamp"
+  },
+  {
+    "name": "IT Security Summit",
+    "url": "https://it-security-summit.de",
+    "startDate": "2020-11-23",
+    "endDate": "2020-11-25",
+    "city": "Munich",
+    "country": "Germany"
   },
   {
     "name": "QuBit Conference Belgrade",

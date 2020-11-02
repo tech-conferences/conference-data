@@ -32,6 +32,16 @@
     "twitter": "@api_conference"
   },
   {
+    "name": "Enterprise GraphQL Conf",
+    "url": "https://hasura.io/enterprisegraphql",
+    "startDate": "2020-10-21",
+    "endDate": "2020-10-22",
+    "city": "Online",
+    "country": "Online",
+    "cocUrl": "https://hasura.io/enterprisegraphql/code-of-conduct/",
+    "offersSignLanguageOrCC": false
+  },
+  {
     "name": "GraphQL Summit",
     "url": "https://summit.graphql.com",
     "startDate": "2020-10-27",
@@ -47,18 +57,8 @@
     "endDate": "2020-12-08",
     "city": "Online",
     "country": "Online",
-    "twitter": "@GraphQLGalaxy",
     "cfpUrl": "https://forms.gle/6ZSoZSv8QHMw7RDo9",
-    "cfpEndDate": "2020-11-01"
-  },
-  {
-    "name": "Enterprise GraphQL Conf",
-    "url": "https://hasura.io/enterprisegraphql",
-    "startDate": "2020-10-21",
-    "endDate": "2020-10-22",
-    "city": "Online",
-    "country": "Online",
-    "cocUrl": "https://hasura.io/enterprisegraphql/code-of-conduct/",
-    "offersSignLanguageOrCC": false
+    "cfpEndDate": "2020-11-01",
+    "twitter": "@GraphQLGalaxy"
   }
 ]

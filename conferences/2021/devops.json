@@ -1,15 +1,5 @@
 [
   {
-    "name": "Lead Dev London",
-    "url": "https://london2020.theleaddeveloper.com/",
-    "startDate": "2021-06-08",
-    "endDate": "2021-06-09",
-    "city": "London",
-    "country": "U.K.",
-    "twitter": "@TheLeadDev",
-    "cocUrl": "https://london2020.theleaddeveloper.com/code-of-conduct"
-  },
-  {
     "name": "Devopsdays Birmingham",
     "url": "https://devopsdays.org/events/2021-birmingham/welcome/",
     "startDate": "2021-03-04",
@@ -18,6 +8,17 @@
     "country": "U.K.",
     "twitter": "@devopsdaysbrum",
     "cocUrl": "https://devopsdays.org/conduct/"
+  },
+  {
+    "name": "DevOps Talks Conference",
+    "url": "https://devops.talksplus.com/sydney/devops.html",
+    "startDate": "2021-03-25",
+    "endDate": "2021-03-26",
+    "city": "Sydney",
+    "country": "Australia",
+    "cfpUrl": "https://devops.talksplus.com/submit_talk.html",
+    "twitter": "@DOTC20",
+    "cocUrl": "https://devops.talksplus.com/au/code-of-conduct.html"
   },
   {
     "name": "Devopsdays Aarhus",
@@ -80,17 +81,6 @@
     "cocUrl": "https://devopsdays.org/conduct/"
   },
   {
-    "name": "DevOps Talks Conference",
-    "url": "https://devops.talksplus.com/sydney/devops.html",
-    "startDate": "2021-03-25",
-    "endDate": "2021-03-26",
-    "city": "Sydney",
-    "country": "Australia",
-    "cfpUrl": "https://devops.talksplus.com/submit_talk.html",
-    "twitter": "@DOTC20",
-    "cocUrl": "https://devops.talksplus.com/au/code-of-conduct.html"
-  },
-  {
     "name": "Paris Container Day",
     "url": "https://paris-container-day.fr/en/",
     "startDate": "2021-06-01",
@@ -100,15 +90,14 @@
     "twitter": "@ContainerDayFr"
   },
   {
-    "name": "Conf42: SRE",
-    "url": "https://www.conf42.com",
-    "startDate": "2021-09-30",
-    "endDate": "2021-09-30",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@conf42com",
-    "cfpUrl": "https://www.papercall.io/conf42-sre-2021",
-    "cfpEndDate": "2021-08-16"
+    "name": "Lead Dev London",
+    "url": "https://london2020.theleaddeveloper.com/",
+    "startDate": "2021-06-08",
+    "endDate": "2021-06-09",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@TheLeadDev",
+    "cocUrl": "https://london2020.theleaddeveloper.com/code-of-conduct"
   },
   {
     "name": "DevOps Conference Hybrid Edition",
@@ -120,5 +109,16 @@
     "twitter": "@devops_con",
     "cocUrl": "https://devopscon.io/code-of-conduct/",
     "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Conf42: SRE",
+    "url": "https://www.conf42.com",
+    "startDate": "2021-09-30",
+    "endDate": "2021-09-30",
+    "city": "Online",
+    "country": "Online",
+    "cfpUrl": "https://www.papercall.io/conf42-sre-2021",
+    "cfpEndDate": "2021-08-16",
+    "twitter": "@conf42com"
   }
 ]

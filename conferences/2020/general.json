@@ -440,6 +440,15 @@
     "twitter": "@developersummit"
   },
   {
+    "name": "Shift Remote",
+    "url": "https://remote.shiftconf.co",
+    "startDate": "2020-07-14",
+    "endDate": "2020-07-14",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@shiftconf_co"
+  },
+  {
     "name": "DrupalCon Global",
     "url": "https://events.drupal.org/global2020",
     "startDate": "2020-07-14",
@@ -456,6 +465,15 @@
     "city": "Online",
     "country": "Online",
     "twitter": "@nofluff"
+  },
+  {
+    "name": "IBM Cloud Forum",
+    "url": "https://www.ibm.com/events/in-en/cloud-forum/index.html",
+    "startDate": "2020-07-16",
+    "endDate": "2020-07-17",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@CloudForum2020"
   },
   {
     "name": "Codeland",
@@ -504,6 +522,15 @@
     "twitter": "@devdotnext"
   },
   {
+    "name": "Byteconf Flutter",
+    "url": "https://www.bytesized.xyz/conferences/byteconf-flutter-2020",
+    "startDate": "2020-08-14",
+    "endDate": "2020-08-14",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@bytesizedcode"
+  },
+  {
     "name": "RenderATL",
     "url": "https://www.renderatl.com",
     "startDate": "2020-08-24",
@@ -547,6 +574,24 @@
     "city": "Sydney",
     "country": "Australia",
     "twitter": "@SREcon"
+  },
+  {
+    "name": "PAX Online",
+    "url": "https://online.paxsite.com",
+    "startDate": "2020-09-12",
+    "endDate": "2020-09-20",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@PAX"
+  },
+  {
+    "name": "Software Architecture Summit",
+    "url": "https://software-architecture-summit.de",
+    "startDate": "2020-09-14",
+    "endDate": "2020-09-16",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@SoftwArchSummit"
   },
   {
     "name": "DeveloperWeek Global: Architecture",
@@ -596,6 +641,17 @@
     "twitter": "@sddconf"
   },
   {
+    "name": "NE-RPC",
+    "url": "https://ne-rpc.co.uk",
+    "startDate": "2020-09-25",
+    "endDate": "2020-09-25",
+    "city": "Online",
+    "country": "Online",
+    "cfpUrl": "https://sessionize.com/ne-rpc-back-2-sk00l",
+    "cfpEndDate": "2020-07-31",
+    "twitter": "@rpc_ne"
+  },
+  {
     "name": "QA Fest",
     "url": "http://qafest.com/en",
     "startDate": "2020-09-25",
@@ -603,6 +659,17 @@
     "city": "Kiev",
     "country": "Ukraine",
     "twitter": "@qafestua"
+  },
+  {
+    "name": "DeveloperWeek Global: Cloud",
+    "url": "https://www.developerweek.com/global/conference/cloud",
+    "startDate": "2020-09-28",
+    "endDate": "2020-09-29",
+    "city": "Online",
+    "country": "Online",
+    "cfpUrl": "https://www.developerweek.com/global/conference/cloud/apply-to-speak",
+    "cfpEndDate": "2020-07-22",
+    "twitter": "@developerweek"
   },
   {
     "name": "DeveloperWeek Seattle: Cloud Edition",
@@ -614,12 +681,86 @@
     "twitter": "@devweeksea"
   },
   {
+    "name": "ApacheCon",
+    "url": "https://www.apachecon.com/acah2020/index.html",
+    "startDate": "2020-09-29",
+    "endDate": "2020-10-01",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@ApacheCon",
+    "cocUrl": "https://www.apachecon.com/acah2020/conduct.html"
+  },
+  {
+    "name": "Sustainable Software Engineering",
+    "url": "https://conference-hall.io/public/event/Yf2IjeDjHQ4LdBhl11ON",
+    "startDate": "2020-09-30",
+    "endDate": "2020-09-30",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@DevconGalaxy"
+  },
+  {
+    "name": "GIDS.WEB Live",
+    "url": "https://www.wurreka.com/ict/virtual-conference/web",
+    "startDate": "2020-10-01",
+    "endDate": "2020-10-01",
+    "city": "Online",
+    "country": "Online",
+    "cfpUrl": "https://developersummit.wufoo.com/forms/gids-live-series-2020-call-for-proposals",
+    "cfpEndDate": "2020-09-22",
+    "twitter": "@developersummit"
+  },
+  {
     "name": "TNW Conference",
     "url": "https://thenextweb.com/conference",
     "startDate": "2020-10-01",
     "endDate": "2020-10-02",
     "city": "Amsterdam",
     "country": "Netherlands"
+  },
+  {
+    "name": "CONTRIBUTING",
+    "url": "https://contributing.today",
+    "startDate": "2020-10-02",
+    "endDate": "2020-10-02",
+    "city": "Online",
+    "country": "Online"
+  },
+  {
+    "name": "FITC Web Unleashed",
+    "url": "https://fitc.ca/event/webu20",
+    "startDate": "2020-10-05",
+    "endDate": "2020-10-07",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@fitc"
+  },
+  {
+    "name": "Tableau Conference",
+    "url": "https://www.kyvosinsights.com/events/tableau-conference-2020",
+    "startDate": "2020-10-06",
+    "endDate": "2020-10-09",
+    "city": "Online",
+    "country": "Online"
+  },
+  {
+    "name": "Frontiers",
+    "url": "https://slack.com/frontiers",
+    "startDate": "2020-10-07",
+    "endDate": "2020-10-09",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@SlackHQ",
+    "cocUrl": "https://slack.com/intl/en-nl/frontiers/faq"
+  },
+  {
+    "name": "Google Assistant Developer Day",
+    "url": "http://goo.gle/assistant-devday-events-signup",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-08",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@ActionsOnGoogle"
   },
   {
     "name": "TEQnation Conference",
@@ -629,6 +770,15 @@
     "city": "Utrecht",
     "country": "Netherlands",
     "twitter": "@TEQnation2019"
+  },
+  {
+    "name": "TLA+ Community Event",
+    "url": "https://conf.tlapl.us/home",
+    "startDate": "2020-10-11",
+    "endDate": "2020-10-17",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@tlaplus"
   },
   {
     "name": "Serverless Architecture Conference",
@@ -651,6 +801,16 @@
     "twitter": "@NDC_Conferences"
   },
   {
+    "name": "TestCon Europe : The Hybrid Edition",
+    "url": "https://testcon.lt",
+    "startDate": "2020-10-13",
+    "endDate": "2020-10-15",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeNmGRtQ78ZY2dPGiwKOHlc59C6EcsQRKg5lJFOagT2Zu9UwA/viewform",
+    "cfpEndDate": "2020-09-30"
+  },
+  {
     "name": "Craft Conference",
     "url": "https://craft-conf.com",
     "startDate": "2020-10-13",
@@ -669,6 +829,16 @@
     "twitter": "@ministryoftest"
   },
   {
+    "name": "GDG DevFest Romania",
+    "url": "https://gdg.community.dev/events/details/google-gdg-bucharest-presents-devfest-romania-2020-with-gdg/#",
+    "startDate": "2020-10-17",
+    "endDate": "2020-10-17",
+    "city": "Bucharest",
+    "country": "Romania",
+    "twitter": "@DevFestRomania",
+    "offersSignLanguageOrCC": false
+  },
+  {
     "name": "All Things Open",
     "url": "https://2020.allthingsopen.org",
     "startDate": "2020-10-18",
@@ -676,6 +846,15 @@
     "city": "Raleigh, NC",
     "country": "U.S.A.",
     "twitter": "@AllThingsOpen"
+  },
+  {
+    "name": "Code Together",
+    "url": "https://ev.ringcentral.com/developerconferenceonline2020",
+    "startDate": "2020-10-20",
+    "endDate": "2020-10-22",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@RingCentralDevs"
   },
   {
     "name": "Evcon",
@@ -689,6 +868,16 @@
     "twitter": "@evcon20"
   },
   {
+    "name": "Power Platform Community Conference",
+    "url": "https://powerplatformconference.splashthat.com",
+    "startDate": "2020-10-22",
+    "endDate": "2020-10-22",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@MSPowerPlat",
+    "cocUrl": "https://powerplatformconference.splashthat.com"
+  },
+  {
     "name": "DevFest WI",
     "url": "https://devfestwi.com",
     "startDate": "2020-10-24",
@@ -698,6 +887,16 @@
     "cfpUrl": "https://sessionize.com/devfest-wi-2020",
     "cfpEndDate": "2020-08-15",
     "twitter": "@devfestwi"
+  },
+  {
+    "name": "IEEE International Conference on Image Processing",
+    "url": "https://2020.ieeeicip.org",
+    "startDate": "2020-10-25",
+    "endDate": "2020-10-28",
+    "city": "Abu Dhabi",
+    "country": "United Arab Emirates",
+    "cfpUrl": "https://cmsworkshops.com/ICIP2020/Papers.asp",
+    "twitter": "@ieeeICIP"
   },
   {
     "name": "ML Summit",
@@ -727,6 +926,14 @@
     "twitter": "@APIWorld"
   },
   {
+    "name": "ACCELERATE Global",
+    "url": "https://www.creatio.com/page/accelerate",
+    "startDate": "2020-10-28",
+    "endDate": "2020-10-28",
+    "city": "Online",
+    "country": "Online"
+  },
+  {
     "name": "BDX I/O",
     "url": "https://www.bdxio.fr",
     "startDate": "2020-10-30",
@@ -736,6 +943,16 @@
     "cfpUrl": "https://conference-hall.io/public/event/vzxtIlMnQqmNF2aOECVv",
     "cfpEndDate": "2020-06-30",
     "twitter": "@bdxio"
+  },
+  {
+    "name": "EKON 24",
+    "url": "https://entwickler-konferenz.de/speakers-en",
+    "startDate": "2020-11-02",
+    "endDate": "2020-11-04",
+    "city": "Düsseldorf",
+    "country": "Germany",
+    "twitter": "@EntwicklerKON",
+    "offersSignLanguageOrCC": false
   },
   {
     "name": "Web Directions Summit",
@@ -749,6 +966,17 @@
     "twitter": "@webdirections"
   },
   {
+    "name": "QCon Plus",
+    "url": "https://plus.qconferences.com",
+    "startDate": "2020-11-04",
+    "endDate": "2020-11-20",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@QCon",
+    "cocUrl": "https://plus.qconferences.com/code-conduct",
+    "offersSignLanguageOrCC": false
+  },
+  {
     "name": "Cloud Conf",
     "url": "https://2020.cloudconf.it",
     "startDate": "2020-11-05",
@@ -756,6 +984,17 @@
     "city": "Turin",
     "country": "Italy",
     "twitter": "@_CloudConf_"
+  },
+  {
+    "name": "GIDS.LANG Live",
+    "url": "https://www.wurreka.com/ict/virtual-conference/lang",
+    "startDate": "2020-11-05",
+    "endDate": "2020-11-05",
+    "city": "Online",
+    "country": "Online",
+    "cfpUrl": "https://developersummit.wufoo.com/forms/gids-live-series-2020-call-for-proposals",
+    "cfpEndDate": "2020-10-26",
+    "twitter": "@developersummit"
   },
   {
     "name": "The Developer's Conference",
@@ -795,6 +1034,47 @@
     "twitter": "@gotocph"
   },
   {
+    "name": "DeveloperWeek Global: Enterprise",
+    "url": "https://www.developerweek.com/global/conference/enterprise",
+    "startDate": "2020-11-10",
+    "endDate": "2020-11-11",
+    "city": "Online",
+    "country": "Online",
+    "cfpUrl": "https://www.developerweek.com/global/conference/enterprise/apply-to-speak",
+    "cfpEndDate": "2020-08-21",
+    "twitter": "@developerweek"
+  },
+  {
+    "name": "Buildstuff Software Development Conference",
+    "url": "https://www.buildstuff.events/events/build-stuff-lithuania-2020-combined-in-person-virtual-conference",
+    "startDate": "2020-11-11",
+    "endDate": "2020-11-15",
+    "city": "Online",
+    "country": "Online"
+  },
+  {
+    "name": "Scale By the Bay",
+    "url": "https://www.scale.bythebay.io",
+    "startDate": "2020-11-12",
+    "endDate": "2020-11-13",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@ScaleByTheBay",
+    "cocUrl": "https://github.com/bythebay/policies/blob/master/citizen_code_of_conduct.md",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Postman Galaxy",
+    "url": "https://www.postman.com/postman-galaxy",
+    "startDate": "2020-11-16",
+    "endDate": "2020-11-19",
+    "city": "Online",
+    "country": "Online",
+    "cfpUrl": "https://forms.gle/jg12tw9gmvft9kdh6",
+    "cfpEndDate": "2020-10-16",
+    "twitter": "@GetPostman"
+  },
+  {
     "name": "Tech Up For Women",
     "url": "https://techupforwomen.com/event-details",
     "startDate": "2020-11-17",
@@ -831,6 +1111,15 @@
     "cfpUrl": "https://callforpapers.sandsmedia.com",
     "cfpEndDate": "2020-05-28",
     "twitter": "@BCTechConf"
+  },
+  {
+    "name": " IoT, AI & Blockchain Summit",
+    "url": "https://www.virtueinsight.com/technology/7th-Annual-IoT-AI--Blockchain-Summit-2020-Virtual-Conference/",
+    "startDate": "2020-11-25",
+    "endDate": "2020-11-25",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@virtue_insight"
   },
   {
     "name": "DevDay",
@@ -898,293 +1187,6 @@
     "twitter": "@InformatikAktue"
   },
   {
-    "name": "DeveloperWeek",
-    "url": "https://www.developerweek.com/NYC",
-    "startDate": "2020-12-09",
-    "endDate": "2020-12-10",
-    "city": "New York, NY",
-    "country": "U.S.A.",
-    "twitter": "@devweeknyc"
-  },
-  {
-    "name": "IEEE International Conference on Image Processing",
-    "url": "https://2020.ieeeicip.org",
-    "startDate": "2020-10-25",
-    "endDate": "2020-10-28",
-    "city": "Abu Dhabi",
-    "country": "United Arab Emirates",
-    "twitter": "@ieeeICIP",
-    "cfpUrl": "https://cmsworkshops.com/ICIP2020/Papers.asp"
-  },
-  {
-    "name": "Shift Remote",
-    "url": "https://remote.shiftconf.co",
-    "startDate": "2020-07-14",
-    "endDate": "2020-07-14",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@shiftconf_co"
-  },
-  {
-    "name": "IBM Cloud Forum",
-    "url": "https://www.ibm.com/events/in-en/cloud-forum/index.html",
-    "startDate": "2020-07-16",
-    "endDate": "2020-07-17",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@CloudForum2020"
-  },
-  {
-    "name": "DeveloperWeek Global: Enterprise",
-    "url": "https://www.developerweek.com/global/conference/enterprise",
-    "startDate": "2020-11-10",
-    "endDate": "2020-11-11",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@developerweek",
-    "cfpUrl": "https://www.developerweek.com/global/conference/enterprise/apply-to-speak",
-    "cfpEndDate": "2020-08-21"
-  },
-  {
-    "name": "DeveloperWeek Global: Cloud",
-    "url": "https://www.developerweek.com/global/conference/cloud",
-    "startDate": "2020-09-28",
-    "endDate": "2020-09-29",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@developerweek",
-    "cfpUrl": "https://www.developerweek.com/global/conference/cloud/apply-to-speak",
-    "cfpEndDate": "2020-07-22"
-  },
-  {
-    "name": "TLA+ Community Event",
-    "url": "https://conf.tlapl.us/home",
-    "startDate": "2020-10-11",
-    "endDate": "2020-10-17",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@tlaplus"
-  },
-  {
-    "name": "NE-RPC",
-    "url": "https://ne-rpc.co.uk",
-    "startDate": "2020-09-25",
-    "endDate": "2020-09-25",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@rpc_ne",
-    "cfpUrl": "https://sessionize.com/ne-rpc-back-2-sk00l",
-    "cfpEndDate": "2020-07-31"
-  },
-  {
-    "name": "PAX Online",
-    "url": "https://online.paxsite.com",
-    "startDate": "2020-09-12",
-    "endDate": "2020-09-20",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@PAX"
-  },
-  {
-    "name": "TestCon Europe : The Hybrid Edition",
-    "url": "https://testcon.lt",
-    "startDate": "2020-10-13",
-    "endDate": "2020-10-15",
-    "city": "Vilnius",
-    "country": "Lithuania",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeNmGRtQ78ZY2dPGiwKOHlc59C6EcsQRKg5lJFOagT2Zu9UwA/viewform",
-    "cfpEndDate": "2020-09-30"
-  },
-  {
-    "name": "Byteconf Flutter",
-    "url": "https://www.bytesized.xyz/conferences/byteconf-flutter-2020",
-    "startDate": "2020-08-14",
-    "endDate": "2020-08-14",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@bytesizedcode"
-  },
-  {
-    "name": "Sustainable Software Engineering",
-    "url": "https://conference-hall.io/public/event/Yf2IjeDjHQ4LdBhl11ON",
-    "startDate": "2020-09-30",
-    "endDate": "2020-09-30",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@DevconGalaxy"
-  },
-  {
-    "name": "GIDS.LANG Live",
-    "url": "https://www.wurreka.com/ict/virtual-conference/lang",
-    "startDate": "2020-11-05",
-    "endDate": "2020-11-05",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@developersummit",
-    "cfpUrl": "https://developersummit.wufoo.com/forms/gids-live-series-2020-call-for-proposals",
-    "cfpEndDate": "2020-10-26"
-  },
-  {
-    "name": "GIDS.WEB Live",
-    "url": "https://www.wurreka.com/ict/virtual-conference/web",
-    "startDate": "2020-10-01",
-    "endDate": "2020-10-01",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@developersummit",
-    "cfpUrl": "https://developersummit.wufoo.com/forms/gids-live-series-2020-call-for-proposals",
-    "cfpEndDate": "2020-09-22"
-  },
-  {
-    "name": "FITC Web Unleashed",
-    "url": "https://fitc.ca/event/webu20",
-    "startDate": "2020-10-05",
-    "endDate": "2020-10-07",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@fitc"
-  },
-  {
-    "name": "ACCELERATE Global",
-    "url": "https://www.creatio.com/page/accelerate",
-    "startDate": "2020-10-28",
-    "endDate": "2020-10-28",
-    "city": "Online",
-    "country": "Online"
-  },
-  {
-    "name": "Software Architecture Summit",
-    "url": "https://software-architecture-summit.de",
-    "startDate": "2020-09-14",
-    "endDate": "2020-09-16",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@SoftwArchSummit"
-  },
-  {
-    "name": "CONTRIBUTING",
-    "url": "https://contributing.today",
-    "startDate": "2020-10-02",
-    "endDate": "2020-10-02",
-    "city": "Online",
-    "country": "Online"
-  },
-  {
-    "name": "Frontiers",
-    "url": "https://slack.com/frontiers",
-    "startDate": "2020-10-07",
-    "endDate": "2020-10-09",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@SlackHQ",
-    "cocUrl": "https://slack.com/intl/en-nl/frontiers/faq"
-  },
-  {
-    "name": "Buildstuff Software Development Conference",
-    "url": "https://www.buildstuff.events/events/build-stuff-lithuania-2020-combined-in-person-virtual-conference",
-    "startDate": "2020-11-11",
-    "endDate": "2020-11-15",
-    "city": "Online",
-    "country": "Online"
-  },
-  {
-    "name": " IoT, AI & Blockchain Summit",
-    "url": "https://www.virtueinsight.com/technology/7th-Annual-IoT-AI--Blockchain-Summit-2020-Virtual-Conference/",
-    "startDate": "2020-11-25",
-    "endDate": "2020-11-25",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@virtue_insight"
-  },
-  {
-    "name": "ApacheCon",
-    "url": "https://www.apachecon.com/acah2020/index.html",
-    "startDate": "2020-09-29",
-    "endDate": "2020-10-01",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@ApacheCon",
-    "cocUrl": "https://www.apachecon.com/acah2020/conduct.html"
-  },
-  {
-    "name": "Tableau Conference",
-    "url": "https://www.kyvosinsights.com/events/tableau-conference-2020",
-    "startDate": "2020-10-06",
-    "endDate": "2020-10-09",
-    "city": "Online",
-    "country": "Online"
-  },
-  {
-    "name": "Postman Galaxy",
-    "url": "https://www.postman.com/postman-galaxy",
-    "startDate": "2020-11-16",
-    "endDate": "2020-11-19",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@GetPostman",
-    "cfpUrl": "https://forms.gle/jg12tw9gmvft9kdh6",
-    "cfpEndDate": "2020-10-16"
-  },
-  {
-    "name": "Google Assistant Developer Day",
-    "url": "http://goo.gle/assistant-devday-events-signup",
-    "startDate": "2020-10-08",
-    "endDate": "2020-10-08",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@ActionsOnGoogle"
-  },
-  {
-    "name": "Power Platform Community Conference",
-    "url": "https://powerplatformconference.splashthat.com",
-    "startDate": "2020-10-22",
-    "endDate": "2020-10-22",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@MSPowerPlat",
-    "cocUrl": "https://powerplatformconference.splashthat.com"
-  },
-  {
-    "name": "Code Together",
-    "url": "https://ev.ringcentral.com/developerconferenceonline2020",
-    "startDate": "2020-10-20",
-    "endDate": "2020-10-22",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@RingCentralDevs"
-  },
-  {
-    "name": "Scale By the Bay",
-    "url": "https://www.scale.bythebay.io",
-    "startDate": "2020-11-12",
-    "endDate": "2020-11-13",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@ScaleByTheBay",
-    "cocUrl": "https://github.com/bythebay/policies/blob/master/citizen_code_of_conduct.md",
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "GDG DevFest Romania",
-    "url": "https://gdg.community.dev/events/details/google-gdg-bucharest-presents-devfest-romania-2020-with-gdg/#",
-    "startDate": "2020-10-17",
-    "endDate": "2020-10-17",
-    "city": "Bucharest",
-    "country": "Romania",
-    "twitter": "@DevFestRomania",
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "EKON 24",
-    "url": "https://entwickler-konferenz.de/speakers-en",
-    "startDate": "2020-11-02",
-    "endDate": "2020-11-04",
-    "city": "Düsseldorf",
-    "country": "Germany",
-    "twitter": "@EntwicklerKON",
-    "offersSignLanguageOrCC": false
-  },
-  {
     "name": "GitHub Universe",
     "url": "https://githubuniverse.com",
     "startDate": "2020-12-08",
@@ -1196,14 +1198,12 @@
     "offersSignLanguageOrCC": false
   },
   {
-    "name": "QCon Plus",
-    "url": "https://plus.qconferences.com",
-    "startDate": "2020-11-04",
-    "endDate": "2020-11-20",
-    "city": "Online",
-    "country": "Online",
-    "twitter": "@QCon",
-    "cocUrl": "https://plus.qconferences.com/code-conduct",
-    "offersSignLanguageOrCC": false
+    "name": "DeveloperWeek",
+    "url": "https://www.developerweek.com/NYC",
+    "startDate": "2020-12-09",
+    "endDate": "2020-12-10",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "twitter": "@devweeknyc"
   }
 ]
