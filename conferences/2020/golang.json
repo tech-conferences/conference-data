@@ -29,5 +29,16 @@
     "city": "Berlin",
     "country": "Germany",
     "twitter": "@gopherconEU"
+  },
+  {
+    "name": "All Systems Go!",
+    "url": "https://allsystemsgo.space",
+    "startDate": "2020-12-03",
+    "endDate": "2020-12-03",
+    "city": "Online",
+    "country": "Remote",
+    "twitter": "@AllSystemsGoCon",
+    "cocUrl": "https://discuss.dgraph.io/t/code-of-conduct-all-systems-go-conference/11220",
+    "offersSignLanguageOrCC": false
   }
 ]
