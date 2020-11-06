@@ -1,6 +1,6 @@
 [
   {
-    "name": "QuBit Conference Tatry",
+    "name": "QuBit Conference",
     "url": "https://tatry.qubitconference.com",
     "startDate": "2021-03-24",
     "endDate": "2021-03-25",
@@ -18,5 +18,17 @@
     "country": "Germany",
     "twitter": "@ruhrsec",
     "cocUrl": "https://www.ruhrsec.de/2020/codeofconduct.html"
+  },
+  {
+    "name": "QuBit Conference",
+    "url": "https://prague.qubitconference.com",
+    "startDate": "2021-06-02",
+    "endDate": "2021-06-03",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "twitter": "@QuBitCon",
+    "cfpUrl": "https://prague.qubitconference.com/call-speakers-form-prague",
+    "cfpEndDate": "2021-05-10",
+    "offersSignLanguageOrCC": false
   }
 ]
