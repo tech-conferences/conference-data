@@ -3,9 +3,9 @@
     "name": "Laracon EU",
     "url": "https://laracon.eu",
     "startDate": "2021-01-18",
-    "endDate": "2021-01-19",
-    "city": "Amsterdam",
-    "country": "Netherlands",
+    "endDate": "2021-01-22",
+    "city": "Online",
+    "country": "Online",
     "cfpUrl": "https://laracon.eu/cfp",
     "twitter": "@LaraconEU",
     "cocUrl": "https://laracon.eu/code-of-conduct",
@@ -32,15 +32,5 @@
     "cfpEndDate": "2020-10-16",
     "twitter": "@confooca",
     "cocUrl": "https://confoo.ca/en/code-of-conduct"
-  },
-  {
-    "name": "Laracon EU Online",
-    "url": "https://laracon.eu/online",
-    "startDate": "2021-01-18",
-    "endDate": "2021-01-22",
-    "city": "Online",
-    "country": "Worldwide",
-    "twitter": "@LaraconEU",
-    "offersSignLanguageOrCC": false
   }
 ]
