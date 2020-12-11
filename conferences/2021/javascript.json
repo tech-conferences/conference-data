@@ -139,6 +139,16 @@
     "offersSignLanguageOrCC": false
   },
   {
+    "name": "Angular Days",
+    "url": "https://javascript-days.de/angular",
+    "startDate": "2021-03-22",
+    "endDate": "2021-03-25",
+    "city": "Munich",
+    "country": "Germany",
+    "offersSignLanguageOrCC": false,
+    "cocUrl": "https://javascript-days.de/code-of-conduct/"
+  },
+  {
     "name": "React Days",
     "url": "https://javascript-days.de/react",
     "startDate": "2021-03-22",
@@ -146,7 +156,8 @@
     "city": "Munich",
     "country": "Germany",
     "twitter": "@React_Days",
-    "offersSignLanguageOrCC": false
+    "offersSignLanguageOrCC": false,
+    "cocUrl": "https://javascript-days.de/code-of-conduct/"
   },
   {
     "name": "JavaScript Days",
@@ -156,7 +167,6 @@
     "city": "Munich",
     "country": "Germany",
     "twitter": "@JS_Days",
-    "cocUrl": "https://javascript-days.de/code-of-conduct/",
-    "offersSignLanguageOrCC": false
+    "cocUrl": "https://javascript-days.de/code-of-conduct/"
   }
 ]
