@@ -10,6 +10,45 @@
     "cfpEndDate": "2020-10-30"
   },
   {
+    "name": "SheSharp Community Day",
+    "url": "https://communityday.shesharp.co/",
+    "startDate": "2021-01-22",
+    "endDate": "2021-01-22",
+    "city": "Online",
+    "country": "Online",
+    "cocUrl": "https://communityday.shesharp.co/code-of-conduct/",
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "Global Diversity CfP Day",
+    "url": "https://www.globaldiversitycfpday.com/",
+    "startDate": "2021-01-23",
+    "endDate": "2021-01-23",
+    "city": "Online",
+    "country": "Online",
+    "cocUrl": "https://www.globaldiversitycfpday.com/code-of-conduct",
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "AccessibilityCon",
+    "url": "https://accessibilitycon.devcongalaxy.io/",
+    "startDate": "2021-02-03",
+    "endDate": "2021-02-03",
+    "city": "Online",
+    "country": "Online",
+    "cocUrl": "https://accessibilitycon.devcongalaxy.io/event-code-of-conduct/",
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "FOSDEM",
+    "url": "https://fosdem.org/2021/",
+    "startDate": "2021-02-06",
+    "endDate": "2021-02-07",
+    "city": "Online",
+    "country": "Online",
+    "cocUrl": "https://fosdem.org/2021/practical/conduct/"  
+  },
+  {
     "name": "DeveloperWeek",
     "url": "https://www.developerweek.com",
     "startDate": "2021-02-17",
@@ -74,6 +113,7 @@
     "city": "Copenhagen",
     "country": "Denmark",
     "twitter": "@GOTOcon",
+    "cocUrl": "https://gotocph.com/2021/code-of-conduct",
     "offersSignLanguageOrCC": false
   },
   {
@@ -137,6 +177,7 @@
     "country": "Australia",
     "cfpUrl": "https://vxsyd21.cfp.dev",
     "cfpEndDate": "2021-03-31",
+    "cocUrl": "https://australia.voxxeddays.com/code-of-conduct/",
     "twitter": "@VoxxedAustralia"
   },
   {
