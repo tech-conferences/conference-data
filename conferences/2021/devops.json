@@ -61,6 +61,25 @@
     "cocUrl": "https://devopsdays.org/conduct/"
   },
   {
+    "name": "KubeCon + CloudNativeCon EU 2021",
+    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/",
+    "startDate": "2021-05-04",
+    "endDate": "2021-05-07",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@CloudNativeFdn",
+    "cocUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/code-of-conduct/"
+  },
+  {
+    "name": "DevOps Pro Europe 2021",
+    "url": "https://devopspro.lt/",
+    "startDate": "2021-05-11",
+    "endDate": "2021-05-13",
+    "city": "Online",
+    "country": "Online",
+    "cocUrl": "https://devopspro.lt/code-of-conduct/"
+  },
+  {
     "name": "Devopsdays Paris",
     "url": "https://devopsdays.org/events/2021-paris/welcome/",
     "startDate": "2021-05-18",
@@ -109,6 +128,14 @@
     "twitter": "@devops_con",
     "cocUrl": "https://devopscon.io/code-of-conduct/",
     "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Devoxx Poland",
+    "url": "http://devoxx.pl/",
+    "startDate": "2021-06-16",
+    "endDate": "2021-06-18",
+    "city": "Krakow",
+    "country": "Poland"
   },
   {
     "name": "Conf42: SRE",
