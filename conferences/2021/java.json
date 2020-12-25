@@ -19,5 +19,27 @@
     "cfpUrl": "https://www.papercall.io/conf42-java-2021",
     "cfpEndDate": "2021-02-08",
     "twitter": "@conf42com"
+  },
+  {
+    "name": "DawsCon",
+    "url": "https://www.dawsoncollege.qc.ca/dawscon",
+    "startDate": "2021-01-15",
+    "endDate": "2021-01-15",
+    "city": "Montreal",
+    "country": "Canada",
+    "twitter": "@omniprof",
+    "cocUrl": "https://www.dawsoncollege.qc.ca/dawscon/dawscon-code-of-conduct-code-de-conduite-pour-la-conference/",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "DevNexus",
+    "url": "https://devnexus.com",
+    "startDate": "2021-02-17",
+    "endDate": "2021-02-17",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@devnexus",
+    "cocUrl": "https://devnexus.com/code-of-conduct",
+    "offersSignLanguageOrCC": false
   }
 ]

@@ -534,5 +534,35 @@
     "city": "Hyderabad",
     "country": "India",
     "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Touch Digital Summit",
+    "url": "https://touch.ge/summit",
+    "startDate": "2020-11-20",
+    "endDate": "2020-11-29",
+    "city": "Online",
+    "country": "Online",
+    "cocUrl": "https://touch.ge/summit",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Savvy UX Summit",
+    "url": "https://www.savvyuxsummit.com",
+    "startDate": "2020-12-07",
+    "endDate": "2020-12-10",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@SavvyUXSummit",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "UXINDIA",
+    "url": "https://www.ux-india.org/uxindia2020",
+    "startDate": "2020-12-07",
+    "endDate": "2020-12-12",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@uxindiaconf",
+    "offersSignLanguageOrCC": true
   }
 ]

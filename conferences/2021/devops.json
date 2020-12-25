@@ -120,5 +120,50 @@
     "cfpUrl": "https://www.papercall.io/conf42-sre-2021",
     "cfpEndDate": "2021-08-16",
     "twitter": "@conf42com"
+  },
+  {
+    "name": "Continuous Lifecycle: Kubernetes Experts Day",
+    "url": "https://www.continuouslifecycle.de/kubernetes_2.php",
+    "startDate": "2021-01-20",
+    "endDate": "2021-01-20",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@ConLifecycle",
+    "cocUrl": "https://www.continuouslifecycle.de/code_of_conduct.php",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Continuous Lifecycle: Cloud Native Day",
+    "url": "https://www.continuouslifecycle.de/cloud_native.php",
+    "startDate": "2021-02-10",
+    "endDate": "2021-02-10",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@ConLifecycle",
+    "cocUrl": "https://www.continuouslifecycle.de/code_of_conduct.php",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Continuous Lifecycle: Dev(Sec)Ops",
+    "url": "https://www.continuouslifecycle.de/devsecops.php",
+    "startDate": "2021-03-03",
+    "endDate": "2021-03-03",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@ConLifecycle",
+    "cocUrl": "https://www.continuouslifecycle.de/code_of_conduct.php",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "stackconf online",
+    "url": "https://stackconf.eu",
+    "startDate": "2021-06-15",
+    "endDate": "2021-06-16",
+    "city": "Online",
+    "country": "Online",
+    "cfpUrl": "https://stackconf.eu/propose",
+    "cfpEndDate": "2021-02-28",
+    "cocUrl": "https://stackconf.eu/code-of-conduct/",
+    "offersSignLanguageOrCC": true
   }
 ]

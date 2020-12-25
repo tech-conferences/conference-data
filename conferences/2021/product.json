@@ -37,5 +37,26 @@
     "city": "Zurich",
     "country": "Switzerland",
     "twitter": "@europeanporeday"
+  },
+  {
+    "name": "UX & Product Conference",
+    "url": "http://conference.uxandproduct.com",
+    "startDate": "2021-02-04",
+    "endDate": "2021-02-04",
+    "city": "Online",
+    "country": "Online",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "ProductWorld",
+    "url": "https://productworld.co",
+    "startDate": "2021-02-17",
+    "endDate": "2021-02-19",
+    "city": "Online",
+    "country": "Online",
+    "cfpUrl": "https://productworld.co/conference/speakers/apply-to-speak",
+    "cfpEndDate": "2020-12-11",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
+    "offersSignLanguageOrCC": false
   }
 ]
