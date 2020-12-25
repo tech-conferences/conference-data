@@ -225,5 +225,70 @@
     "country": "Online",
     "twitter": "@esconfs",
     "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "GIDS Live",
+    "url": "https://www.developersummit.com/live/2021",
+    "startDate": "2021-04-27",
+    "endDate": "2021-04-30",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@developersummit",
+    "cfpUrl": "https://www.developersummit.com/live/2021/cfp",
+    "cfpEndDate": "2021-02-26",
+    "cocUrl": "https://wurreka.com/code-of-conduct",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "InfoQ Live",
+    "url": "https://live.infoq.com",
+    "startDate": "2021-02-16",
+    "endDate": "2021-02-16",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@InfoQ",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfexoSjgtnIFrnTqNdST6BPH5FTYFS4gV1w0k5DWzGhDvipXw/viewform",
+    "cfpEndDate": "2020-12-31",
+    "cocUrl": "https://live.infoq.com/code-conduct",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "QCon Plus",
+    "url": "https://plus.qconferences.com",
+    "startDate": "2021-05-10",
+    "endDate": "2021-05-28",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@QCon",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfexoSjgtnIFrnTqNdST6BPH5FTYFS4gV1w0k5DWzGhDvipXw/viewform",
+    "cfpEndDate": "2021-03-31",
+    "cocUrl": "https://plus.qconferences.com/code-conduct",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "QCon San Francisco",
+    "url": "https://qconsf.com",
+    "startDate": "2021-11-01",
+    "endDate": "2021-11-05",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "twitter": "@QConSF",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfexoSjgtnIFrnTqNdST6BPH5FTYFS4gV1w0k5DWzGhDvipXw/viewform",
+    "cfpEndDate": "2021-07-31",
+    "cocUrl": "https://qconferences.com/code-conduct",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Lazy Load",
+    "url": "https://www.webdirections.org/lazyload",
+    "startDate": "2021-05-14",
+    "endDate": "2021-05-21",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@webdirections",
+    "cfpUrl": "https://www.webdirections.org/lazyload/#speak",
+    "cfpEndDate": "2021-02-28",
+    "cocUrl": "https://www.webdirections.org/web-directions-event-code-of-conduct/",
+    "offersSignLanguageOrCC": true
   }
 ]
