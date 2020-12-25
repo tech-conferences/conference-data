@@ -45,5 +45,18 @@
     "cfpEndDate": "2021-03-01",
     "cocUrl": "https://www.phpconference.nl/code-of-conduct",
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "International PHP Conference",
+    "url": "https://phpconference.com/berlin-en",
+    "startDate": "2021-06-07",
+    "endDate": "2021-06-11",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@phpconference",
+    "cfpUrl": "https://phpconference.com/call-for-papers",
+    "cfpEndDate": "2021-01-14",
+    "cocUrl": "https://phpconference.com/code-of-conduct/",
+    "offersSignLanguageOrCC": false
   }
 ]
