@@ -34,6 +34,19 @@
     "cocUrl": "https://confoo.ca/en/code-of-conduct"
   },
   {
+    "name": "Dutch PHP Conference",
+    "url": "https://www.phpconference.nl",
+    "startDate": "2021-06-17",
+    "endDate": "2021-06-18",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@dpcon",
+    "cfpUrl": "https://www.phpconference.nl/node/150",
+    "cfpEndDate": "2021-03-01",
+    "cocUrl": "https://www.phpconference.nl/code-of-conduct",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "International PHP Conference",
     "url": "https://phpconference.com/berlin-en",
     "startDate": "2021-06-07",
