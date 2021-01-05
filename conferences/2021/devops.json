@@ -1,5 +1,15 @@
 [
   {
+    "name": "Devopsdays Texas",
+    "url": "https://devopsdays.org/events/2021-texas/welcome/",
+    "startDate": "2021-03-02",
+    "endDate": "2021-03-03",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@devopsdaystexas",
+    "cocUrl": "https://devopsdays.org/conduct/"
+  },
+  {
     "name": "Devopsdays Birmingham",
     "url": "https://devopsdays.org/events/2021-birmingham/welcome/",
     "startDate": "2021-03-04",
@@ -21,20 +31,10 @@
     "cocUrl": "https://devops.talksplus.com/au/code-of-conduct.html"
   },
   {
-    "name": "Devopsdays Aarhus",
-    "url": "https://devopsdays.org/events/2021-aarhus/welcome/",
-    "startDate": "2021-04-01",
-    "endDate": "2021-04-02",
-    "city": "Aarhus",
-    "country": "Denmark",
-    "twitter": "@devopsdayscph",
-    "cocUrl": "https://devopsdays.org/conduct/"
-  },
-  {
     "name": "Devopsdays Nashville",
     "url": "https://devopsdays.org/events/2021-nashville/welcome/",
-    "startDate": "2021-04-01",
-    "endDate": "2021-04-02",
+    "startDate": "2021-10-28",
+    "endDate": "2021-04-29",
     "city": "Nashville, TN",
     "country": "U.S.A.",
     "twitter": "@nashvilledevops",
@@ -48,6 +48,15 @@
     "city": "Boise, ID",
     "country": "U.S.A.",
     "twitter": "@devopsdaysboise",
+    "cocUrl": "https://devopsdays.org/conduct/"
+  },
+  {
+    "name": "Devopsdays Raleigh",
+    "url": "https://devopsdays.org/events/2021-raleigh/welcome/",
+    "startDate": "2021-04-08",
+    "endDate": "2021-04-08",
+    "city": "Raleigh, NC",
+    "country": "U.S.A.",
     "cocUrl": "https://devopsdays.org/conduct/"
   },
   {
@@ -80,6 +89,16 @@
     "cocUrl": "https://devopspro.lt/code-of-conduct/"
   },
   {
+    "name": "Devopsdays Seattle",
+    "url": "https://devopsdays.org/events/2021-seattle/welcome/",
+    "startDate": "2021-05-04",
+    "endDate": "2021-05-04",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@devopsdayssea",
+    "cocUrl": "https://devopsdays.org/conduct/"
+  },
+  {
     "name": "Devopsdays Paris",
     "url": "https://devopsdays.org/events/2021-paris/welcome/",
     "startDate": "2021-05-18",
@@ -97,6 +116,95 @@
     "city": "Porto",
     "country": "Portugal",
     "twitter": "@devopsdayspt",
+    "cocUrl": "https://devopsdays.org/conduct/"
+  },
+  {
+    "name": "Devopsdays Poznan",
+    "url": "https://devopsdays.org/events/2021-poznan/welcome/",
+    "startDate": "2021-05-24",
+    "endDate": "2021-05-25",
+    "city": "Porto",
+    "country": "Portugal",
+    "twitter": "@devopsdayspoz",
+    "cocUrl": "https://devopsdays.org/conduct/"
+  },
+  {
+    "name": "Devopsdays Prague",
+    "url": "https://devopsdays.org/events/2021-prague/welcome/",
+    "startDate": "2021-06-02",
+    "endDate": "2021-06-03",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "twitter": "@devopsdaysprg",
+    "cocUrl": "https://devopsdays.org/conduct/"
+  },
+  {
+    "name": "Devopsdays Minneapolis",
+    "url": "https://devopsdays.org/events/2021-minneapolis/welcome/",
+    "startDate": "2021-07-20",
+    "endDate": "2021-07-21",
+    "city": "Minneapolis",
+    "country": "U.S.A.",
+    "twitter": "@devopsdaysmsp",
+    "cocUrl": "https://devopsdays.org/conduct/"
+  },
+  {
+    "name": "Devopsdays Medellín",
+    "url": "https://devopsdays.org/events/2021-medellin/welcome/",
+    "startDate": "2021-07-30",
+    "endDate": "2021-07-31",
+    "city": "Medellín",
+    "country": "Columbia",
+    "twitter": "@devopsdaysmed",
+    "cocUrl": "https://devopsdays.org/conduct/"
+  },
+  {
+    "name": "Devopsdays Dallas",
+    "url": "https://devopsdays.org/events/2021-dallas/welcome/",
+    "startDate": "2021-08-25",
+    "endDate": "2021-08-26",
+    "city": "Dallas, TX",
+    "country": "U.S.A.",
+    "twitter": "@devopsdaysdfw",
+    "cocUrl": "https://devopsdays.org/conduct/"
+  },
+  {
+    "name": "Devopsdays Cairo",
+    "url": "https://devopsdays.org/events/2021-cairo/welcome/",
+    "startDate": "2021-09-09",
+    "endDate": "2021-09-09",
+    "city": "Cairo",
+    "country": "Egypt",
+    "cocUrl": "https://devopsdays.org/conduct/"
+  },
+  {
+    "name": "Devopsdays Houston",
+    "url": "https://devopsdays.org/events/2021-houston/welcome/",
+    "startDate": "2021-09-21",
+    "endDate": "2021-09-22",
+    "city": "Houston, TX",
+    "country": "U.S.A.",
+    "twitter": "@devopsdayshtown",
+    "cocUrl": "https://devopsdays.org/conduct/"
+  },
+  {
+    "name": "Devopsdays Bogotá",
+    "url": "https://devopsdays.org/events/2021-bogota/welcome/",
+    "startDate": "2021-09-22",
+    "endDate": "2021-09-23",
+    "city": "Bogotá",
+    "country": "Colombia",
+    "twitter": "@devopsdaysb",
+    "cocUrl": "https://devopsdays.org/conduct/"
+  },
+  {
+    "name": "Devopsdays Boston",
+    "url": "https://devopsdays.org/events/2021-boston/welcome/",
+    "startDate": "2021-09-27",
+    "endDate": "2021-09-27",
+    "city": "Boston",
+    "country": "U.S.A.",
+    "twitter": "@devopsdaysbos",
     "cocUrl": "https://devopsdays.org/conduct/"
   },
   {
