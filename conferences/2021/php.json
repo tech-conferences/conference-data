@@ -32,5 +32,31 @@
     "cfpEndDate": "2020-10-16",
     "twitter": "@confooca",
     "cocUrl": "https://confoo.ca/en/code-of-conduct"
+  },
+  {
+    "name": "Dutch PHP Conference",
+    "url": "https://www.phpconference.nl",
+    "startDate": "2021-06-17",
+    "endDate": "2021-06-18",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@dpcon",
+    "cfpUrl": "https://www.phpconference.nl/node/150",
+    "cfpEndDate": "2021-03-01",
+    "cocUrl": "https://www.phpconference.nl/code-of-conduct",
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "International PHP Conference",
+    "url": "https://phpconference.com/berlin-en",
+    "startDate": "2021-06-07",
+    "endDate": "2021-06-11",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@phpconference",
+    "cfpUrl": "https://phpconference.com/call-for-papers",
+    "cfpEndDate": "2021-01-14",
+    "cocUrl": "https://phpconference.com/code-of-conduct/",
+    "offersSignLanguageOrCC": false
   }
 ]
