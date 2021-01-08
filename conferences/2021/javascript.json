@@ -220,5 +220,27 @@
     "cfpEndDate": "2020-12-23",
     "cocUrl": "https://vuejs.amsterdam/code-of-conduct",
     "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "JavaScript and Friends",
+    "url": "https://www.javascriptandfriends.com",
+    "startDate": "2021-08-20",
+    "endDate": "2021-08-20",
+    "city": "Columbus, OH",
+    "country": "U.S.A.",
+    "twitter": "@JSFriendsConf",
+    "cocUrl": "https://www.javascriptandfriends.com/codeofconduct",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "TheJam.dev",
+    "url": "https://thejam.dev",
+    "startDate": "2021-01-28",
+    "endDate": "2021-01-29",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@cfe_dev",
+    "cocUrl": "https://cfe.dev/conduct/",
+    "offersSignLanguageOrCC": false
   }
 ]
