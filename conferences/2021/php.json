@@ -58,5 +58,16 @@
     "cfpEndDate": "2021-01-14",
     "cocUrl": "https://phpconference.com/code-of-conduct/",
     "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "DrupalCon North America",
+    "url": "https://events.drupal.org/drupalcon2021",
+    "startDate": "2021-04-12",
+    "endDate": "2021-04-16",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@drupalcon",
+    "cocUrl": "https://events.drupal.org/code-conduct",
+    "offersSignLanguageOrCC": true
   }
 ]
