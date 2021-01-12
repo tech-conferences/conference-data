@@ -46,7 +46,7 @@
     "endDate": "2021-02-07",
     "city": "Online",
     "country": "Online",
-    "cocUrl": "https://fosdem.org/2021/practical/conduct/"  
+    "cocUrl": "https://fosdem.org/2021/practical/conduct/"
   },
   {
     "name": "DeveloperWeek",
@@ -351,6 +351,17 @@
     "city": "Online",
     "country": "Online",
     "twitter": "@SoftwArchSummit",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Afro Future Summit",
+    "url": "http://afrofuturesummit.com",
+    "startDate": "2021-02-26",
+    "endDate": "2021-02-26",
+    "city": "Online",
+    "country": "Online",
+    "cfpUrl": "https://www.eventbrite.com/e/afro-future-summit-2021-tickets-135509678095",
+    "cfpEndDate": "2021-02-26",
     "offersSignLanguageOrCC": false
   }
 ]
