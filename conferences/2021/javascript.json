@@ -12,6 +12,24 @@
     "cocUrl": "https://halfstackconf.com/phoenix/code-of-conduct/"
   },
   {
+    "name": "Node Congress",
+    "url": "https://nodecongress.com/",
+    "startDate": "2021-01-18",
+    "endDate": "2021-01-19",
+    "city": "Online",
+    "country": "Online",
+    "cocUrl": "https://nodecongress.com/coc"
+  },
+  {
+    "name": "TestJS Summit",
+    "url": "https://testjssummit.com/",
+    "startDate": "2021-01-28",
+    "endDate": "2021-01-29",
+    "city": "Online",
+    "country": "Online",
+    "cocUrl": "https://testjssummit.com/coc"
+  },
+  {
     "name": "ReactiveConf",
     "url": "https://reactiveconf.com",
     "startDate": "2021-03-08",
@@ -22,6 +40,24 @@
     "cfpEndDate": "2020-11-01",
     "twitter": "@ReactiveConf",
     "cocUrl": "https://reactiveconf.com/code-of-conduct/"
+  },
+  {
+    "name": "DevOps.js Conference",
+    "url": "https://www.devopsjsconf.com/",
+    "startDate": "2021-03-10",
+    "endDate": "2021-03-11",
+    "city": "Online",
+    "country": "Online",
+    "cocUrl": "https://devopsjsconf.com/coc"
+  },
+    {
+    "name": "React Summit Remote Edition",
+    "url": "https://remote.reactsummit.com/",
+    "startDate": "2021-04-14",
+    "endDate": "2021-04-16",
+    "city": "Online",
+    "country": "Online",
+    "cocUrl": "https://remote.reactsummit.com/coc"
   },
   {
     "name": "JSHeroes",
@@ -53,6 +89,16 @@
     "country": "Ukraine",
     "twitter": "@LvivJS",
     "cocUrl": "https://lvivjs.org.ua/code_of_conduct.html"
+  },
+  {
+    "name": "JSNation Live",
+    "url": "https://live.jsnation.com/",
+    "startDate": "2021-06-06",
+    "endDate": "2021-06-06",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "thejsnation",
+    "cocUrl": "https://live.jsnation.com/coc"
   },
   {
     "name": "React Day Norway",
