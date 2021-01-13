@@ -50,7 +50,7 @@
     "country": "Online",
     "cocUrl": "https://devopsjsconf.com/coc"
   },
-    {
+  {
     "name": "React Summit Remote Edition",
     "url": "https://remote.reactsummit.com/",
     "startDate": "2021-04-14",
@@ -287,6 +287,15 @@
     "country": "Online",
     "twitter": "@cfe_dev",
     "cocUrl": "https://cfe.dev/conduct/",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Build a REST API using Fastify & HarperDB",
+    "url": "https://harperdb.io/build-a-rest-api-with-fastify-harperdb",
+    "startDate": "2021-01-26",
+    "endDate": "2021-01-26",
+    "city": "Online",
+    "country": "U.S.A.",
     "offersSignLanguageOrCC": false
   }
 ]
