@@ -9,5 +9,18 @@
     "cfpUrl": "https://www.papercall.io/conf42-golang-2021",
     "cfpEndDate": "2021-05-10",
     "twitter": "@conf42com"
+  },
+  {
+    "name": "GopherCon EU",
+    "url": "https://gophercon.eu",
+    "startDate": "2021-05-26",
+    "endDate": "2021-05-28",
+    "city": "Online",
+    "country": "Worldwide",
+    "twitter": "@gopherconeu",
+    "cfpUrl": "https://www.papercall.io/gophercon-2020",
+    "cfpEndDate": "2021-01-24",
+    "cocUrl": "https://golang.org/conduct",
+    "offersSignLanguageOrCC": false
   }
 ]
