@@ -165,6 +165,7 @@ module.exports = {
   "Germany": [
     "Bad Hersfeld",
     "Berlin",
+    "Bremen",
     "Bochum",
     "Bodensee",
     "Cologne",
