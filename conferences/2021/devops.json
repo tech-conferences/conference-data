@@ -302,14 +302,24 @@
     "offersSignLanguageOrCC": true
   },
   {
-    "name": "ShiftingLeft '21: A One-Day Virtual Event for AppSec and Devs!",
-    "url": "https://go.shiftleft.io/shifting-left-2023?utm_source=confstech&leadsource=confstech&lead_source_most_recent=confstech&utm_medium=advertising&utm_content=event&utm_campaign=event_shifting_left_01_2022&utm_term=&sfdc_campaign_id=",
+    "name": "ShiftingLeft",
+    "url": "https://go.shiftleft.io/shifting-left-2021",
     "startDate": "2021-01-28",
     "endDate": "2021-01-28",
-    "city": "Santa Clara",
-    "country": "U.S.A.",
+    "city": "Online",
+    "country": "Online",
     "twitter": "@shiftleftinc",
     "cocUrl": "https://www.shiftleft.io/privacy-security/",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "DevOps Fusion",
+    "url": "https://devops-fusion.com",
+    "startDate": "2021-06-30",
+    "endDate": "2021-06-30",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "twitter": "@DevOpsFusion",
     "offersSignLanguageOrCC": false
   }
 ]
