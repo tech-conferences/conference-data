@@ -171,8 +171,7 @@
     "url": "https://summit.fossasia.org",
     "startDate": "2020-03-19",
     "endDate": "2020-03-22",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@fossasiasg"
   },
   {
@@ -180,8 +179,7 @@
     "url": "https://perfmattersconf.com",
     "startDate": "2020-03-31",
     "endDate": "2020-04-01",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@perfMattersConf"
   },
   {
@@ -189,8 +187,7 @@
     "url": "https://connect.linaro.org/linaro-tech-days",
     "startDate": "2020-03-31",
     "endDate": "2020-04-02",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@linaroorg"
   },
   {
@@ -198,8 +195,7 @@
     "url": "https://ndccopenhagen.com",
     "startDate": "2020-04-01",
     "endDate": "2020-04-03",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@NDC_Conferences"
   },
   {
@@ -207,8 +203,7 @@
     "url": "http://microxchg.io/2020",
     "startDate": "2020-04-02",
     "endDate": "2020-04-03",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@microXchg"
   },
   {
@@ -224,8 +219,7 @@
     "url": "http://AllTheTalks.online",
     "startDate": "2020-04-15",
     "endDate": "2020-04-15",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@allthetalksconf"
   },
   {
@@ -233,8 +227,7 @@
     "url": "https://futuresync.co.uk",
     "startDate": "2020-04-16",
     "endDate": "2020-04-16",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@FutureSyncConf"
   },
   {
@@ -250,8 +243,7 @@
     "url": "https://ndcporto.com",
     "startDate": "2020-04-21",
     "endDate": "2020-04-24",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@NDC_Conferences"
   },
   {
@@ -259,8 +251,7 @@
     "url": "https://www.asyncapiconf.com",
     "startDate": "2020-04-22",
     "endDate": "2020-04-22",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@AsyncAPISpec"
   },
   {
@@ -268,8 +259,7 @@
     "url": "https://www.liferay.com/de/web/events-ldsf-dach",
     "startDate": "2020-04-22",
     "endDate": "2020-04-22",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@Liferay_DACH"
   },
   {
@@ -293,8 +283,7 @@
     "url": "http://gotochgo.com",
     "startDate": "2020-04-27",
     "endDate": "2020-05-01",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@gotochgo"
   },
   {
@@ -318,8 +307,7 @@
     "url": "https://devaroundthesun.org",
     "startDate": "2020-05-12",
     "endDate": "2020-05-12",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@devaroundthesun"
   },
   {
@@ -335,8 +323,7 @@
     "url": "https://hopin.to/events/mendercon-2020",
     "startDate": "2020-05-14",
     "endDate": "2020-05-14",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@corgibytes"
   },
   {
@@ -344,8 +331,7 @@
     "url": "https://www.softwarecircus.io",
     "startDate": "2020-05-21",
     "endDate": "2020-05-21",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@softwarecircus"
   },
   {
@@ -362,8 +348,7 @@
     "url": "https://cloud.developerdays.pl",
     "startDate": "2020-05-26",
     "endDate": "2020-05-27",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@DeveloperDaysPL"
   },
   {
@@ -371,8 +356,7 @@
     "url": "https://www.sea-con.de",
     "startDate": "2020-06-04",
     "endDate": "2020-06-05",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@seacon_de"
   },
   {
@@ -397,8 +381,7 @@
     "url": "https://ndcoslo.com",
     "startDate": "2020-06-08",
     "endDate": "2020-06-12",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@NDC_Conferences"
   },
   {
@@ -417,8 +400,7 @@
     "url": "https://collisionconf.com/",
     "startDate": "2020-06-22",
     "endDate": "2020-06-25",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@joyofcoding"
   },
   {
@@ -426,8 +408,7 @@
     "url": "http://gitcommit.show",
     "startDate": "2020-06-27",
     "endDate": "2020-06-28",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@invide_labs"
   },
   {
@@ -435,8 +416,7 @@
     "url": "https://www.developersummit.com",
     "startDate": "2020-07-01",
     "endDate": "2020-12-31",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@developersummit"
   },
   {
@@ -444,8 +424,7 @@
     "url": "https://remote.shiftconf.co",
     "startDate": "2020-07-14",
     "endDate": "2020-07-14",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@shiftconf_co"
   },
   {
@@ -453,8 +432,7 @@
     "url": "https://events.drupal.org/global2020",
     "startDate": "2020-07-14",
     "endDate": "2020-07-17",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@DrupalCon"
   },
   {
@@ -462,8 +440,7 @@
     "url": "https://uberconf.com",
     "startDate": "2020-07-14",
     "endDate": "2020-07-17",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@nofluff"
   },
   {
@@ -471,8 +448,7 @@
     "url": "https://www.ibm.com/events/in-en/cloud-forum/index.html",
     "startDate": "2020-07-16",
     "endDate": "2020-07-17",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@CloudForum2020"
   },
   {
@@ -480,8 +456,7 @@
     "url": "https://codelandconf.com",
     "startDate": "2020-07-23",
     "endDate": "2020-07-24",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@CodeLandConf"
   },
   {
@@ -497,8 +472,7 @@
     "url": "https://ndcmelbourne.com/",
     "startDate": "2020-07-27",
     "endDate": "2020-07-30",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@NDC_Conferences"
   },
   {
@@ -506,8 +480,7 @@
     "url": "https://developerweekglobal.com/conferences/dw-global-devops",
     "startDate": "2020-07-28",
     "endDate": "2020-07-28",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cfpUrl": "https://developerweekglobal.com/speakers/apply-to-speak",
     "cfpEndDate": "2020-06-26",
     "twitter": "@developerweek"
@@ -526,8 +499,7 @@
     "url": "https://www.bytesized.xyz/conferences/byteconf-flutter-2020",
     "startDate": "2020-08-14",
     "endDate": "2020-08-14",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@bytesizedcode"
   },
   {
@@ -580,8 +552,7 @@
     "url": "https://online.paxsite.com",
     "startDate": "2020-09-12",
     "endDate": "2020-09-20",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@PAX"
   },
   {
@@ -589,8 +560,7 @@
     "url": "https://software-architecture-summit.de",
     "startDate": "2020-09-14",
     "endDate": "2020-09-16",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@SoftwArchSummit"
   },
   {
@@ -598,8 +568,7 @@
     "url": "https://developerweekglobal.com/conferences/dw-global-architecture",
     "startDate": "2020-09-15",
     "endDate": "2020-09-15",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cfpUrl": "https://developerweekglobal.com/speakers/apply-to-speak",
     "cfpEndDate": "2020-07-31",
     "twitter": "@developerweek"
@@ -645,8 +614,7 @@
     "url": "https://ne-rpc.co.uk",
     "startDate": "2020-09-25",
     "endDate": "2020-09-25",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cfpUrl": "https://sessionize.com/ne-rpc-back-2-sk00l",
     "cfpEndDate": "2020-07-31",
     "twitter": "@rpc_ne"
@@ -665,8 +633,7 @@
     "url": "https://www.developerweek.com/global/conference/cloud",
     "startDate": "2020-09-28",
     "endDate": "2020-09-29",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cfpUrl": "https://www.developerweek.com/global/conference/cloud/apply-to-speak",
     "cfpEndDate": "2020-07-22",
     "twitter": "@developerweek"
@@ -685,8 +652,7 @@
     "url": "https://www.apachecon.com/acah2020/index.html",
     "startDate": "2020-09-29",
     "endDate": "2020-10-01",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@ApacheCon",
     "cocUrl": "https://www.apachecon.com/acah2020/conduct.html"
   },
@@ -695,8 +661,7 @@
     "url": "https://conference-hall.io/public/event/Yf2IjeDjHQ4LdBhl11ON",
     "startDate": "2020-09-30",
     "endDate": "2020-09-30",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@DevconGalaxy"
   },
   {
@@ -704,8 +669,7 @@
     "url": "https://www.wurreka.com/ict/virtual-conference/web",
     "startDate": "2020-10-01",
     "endDate": "2020-10-01",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cfpUrl": "https://developersummit.wufoo.com/forms/gids-live-series-2020-call-for-proposals",
     "cfpEndDate": "2020-09-22",
     "twitter": "@developersummit"
@@ -731,8 +695,7 @@
     "url": "https://fitc.ca/event/webu20",
     "startDate": "2020-10-05",
     "endDate": "2020-10-07",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@fitc"
   },
   {
@@ -748,8 +711,7 @@
     "url": "https://slack.com/frontiers",
     "startDate": "2020-10-07",
     "endDate": "2020-10-09",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@SlackHQ",
     "cocUrl": "https://slack.com/intl/en-nl/frontiers/faq"
   },
@@ -758,8 +720,7 @@
     "url": "http://goo.gle/assistant-devday-events-signup",
     "startDate": "2020-10-08",
     "endDate": "2020-10-08",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@ActionsOnGoogle"
   },
   {
@@ -776,8 +737,7 @@
     "url": "https://conf.tlapl.us/home",
     "startDate": "2020-10-11",
     "endDate": "2020-10-17",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@tlaplus"
   },
   {
@@ -824,8 +784,7 @@
     "url": "https://www.ministryoftesting.com/events/testbash-netherlands-online-2020",
     "startDate": "2020-10-15",
     "endDate": "2020-10-16",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@ministryoftest"
   },
   {
@@ -852,8 +811,7 @@
     "url": "https://ev.ringcentral.com/developerconferenceonline2020",
     "startDate": "2020-10-20",
     "endDate": "2020-10-22",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@RingCentralDevs"
   },
   {
@@ -872,8 +830,7 @@
     "url": "https://powerplatformconference.splashthat.com",
     "startDate": "2020-10-22",
     "endDate": "2020-10-22",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@MSPowerPlat",
     "cocUrl": "https://powerplatformconference.splashthat.com"
   },
@@ -882,8 +839,7 @@
     "url": "https://devfestwi.com",
     "startDate": "2020-10-24",
     "endDate": "2020-10-24",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cfpUrl": "https://sessionize.com/devfest-wi-2020",
     "cfpEndDate": "2020-08-15",
     "twitter": "@devfestwi"
@@ -970,8 +926,7 @@
     "url": "https://plus.qconferences.com",
     "startDate": "2020-11-04",
     "endDate": "2020-11-20",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@QCon",
     "cocUrl": "https://plus.qconferences.com/code-conduct",
     "offersSignLanguageOrCC": false
@@ -990,8 +945,7 @@
     "url": "https://www.wurreka.com/ict/virtual-conference/lang",
     "startDate": "2020-11-05",
     "endDate": "2020-11-05",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cfpUrl": "https://developersummit.wufoo.com/forms/gids-live-series-2020-call-for-proposals",
     "cfpEndDate": "2020-10-26",
     "twitter": "@developersummit"
@@ -1038,8 +992,7 @@
     "url": "https://www.developerweek.com/global/conference/enterprise",
     "startDate": "2020-11-10",
     "endDate": "2020-11-11",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cfpUrl": "https://www.developerweek.com/global/conference/enterprise/apply-to-speak",
     "cfpEndDate": "2020-08-21",
     "twitter": "@developerweek"
@@ -1057,8 +1010,7 @@
     "url": "https://www.scale.bythebay.io",
     "startDate": "2020-11-12",
     "endDate": "2020-11-13",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@ScaleByTheBay",
     "cocUrl": "https://github.com/bythebay/policies/blob/master/citizen_code_of_conduct.md",
     "offersSignLanguageOrCC": false
@@ -1068,8 +1020,7 @@
     "url": "https://www.postman.com/postman-galaxy",
     "startDate": "2020-11-16",
     "endDate": "2020-11-19",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cfpUrl": "https://forms.gle/jg12tw9gmvft9kdh6",
     "cfpEndDate": "2020-10-16",
     "twitter": "@GetPostman"
@@ -1117,8 +1068,7 @@
     "url": "https://www.virtueinsight.com/technology/7th-Annual-IoT-AI--Blockchain-Summit-2020-Virtual-Conference/",
     "startDate": "2020-11-25",
     "endDate": "2020-11-25",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@virtue_insight"
   },
   {
@@ -1180,8 +1130,7 @@
     "url": "https://www.ittage.informatik-aktuell.de",
     "startDate": "2020-12-07",
     "endDate": "2020-12-10",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cfpUrl": "https://www.ittage.informatik-aktuell.de/call-for-papers",
     "cfpEndDate": "2020-05-10",
     "twitter": "@InformatikAktue"
@@ -1191,8 +1140,7 @@
     "url": "https://githubuniverse.com",
     "startDate": "2020-12-08",
     "endDate": "2020-12-10",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@githubuniverse",
     "cocUrl": "https://githubuniverse.com/code-of-conduct/",
     "offersSignLanguageOrCC": false
@@ -1211,8 +1159,7 @@
     "url": "https://pod.bettercode.eu",
     "startDate": "2020-12-10",
     "endDate": "2020-12-10",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@bettercodeconf",
     "cocUrl": "https://pod.bettercode.eu/code_of_conduct.php",
     "offersSignLanguageOrCC": false
@@ -1222,8 +1169,7 @@
     "url": "https://www.eventbrite.com/e/nigeria-tech-summit-2020-tickets-87233115597",
     "startDate": "2020-12-04",
     "endDate": "2020-12-04",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "offersSignLanguageOrCC": false
   }
 ]

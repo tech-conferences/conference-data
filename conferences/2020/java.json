@@ -13,8 +13,7 @@
     "url": "https://www.intothebox.org",
     "startDate": "2020-05-06",
     "endDate": "2020-05-08",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@gointothebox"
   },
   {
@@ -22,8 +21,7 @@
     "url": "https://2020.springio.net/bridge",
     "startDate": "2020-05-15",
     "endDate": "2020-05-15",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@spring_io"
   },
   {
@@ -31,8 +29,7 @@
     "url": "https://blog.codefx.org/25-hours-of-java",
     "startDate": "2020-05-23",
     "endDate": "2020-05-24",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@nipafx"
   },
   {
@@ -40,8 +37,7 @@
     "url": "https://jax.de/online-edition-jax-2020",
     "startDate": "2020-05-25",
     "endDate": "2020-05-27",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@jaxcon"
   },
   {
@@ -49,8 +45,7 @@
     "url": "https://2020.jnation.pt",
     "startDate": "2020-06-02",
     "endDate": "2020-06-02",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@JNationConf"
   },
   {
@@ -75,8 +70,7 @@
     "url": "https://2020.accento.dev",
     "startDate": "2020-07-07",
     "endDate": "2020-07-07",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@AccentoDev"
   },
   {
@@ -93,8 +87,7 @@
     "url": "https://springone.io",
     "startDate": "2020-09-01",
     "endDate": "2020-09-04",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cfpUrl": "https://springone.io/2020/cfp",
     "cfpEndDate": "2020-05-20",
     "twitter": "@springone"
@@ -104,8 +97,7 @@
     "url": "http://j4k.io",
     "startDate": "2020-09-02",
     "endDate": "2020-09-03",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@j4kio"
   },
   {
@@ -113,8 +105,7 @@
     "url": "https://www.wurreka.com/ict/virtual-conference/java",
     "startDate": "2020-09-03",
     "endDate": "2020-09-03",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cfpUrl": "https://developersummit.wufoo.com/forms/gids-live-series-2020-call-for-proposals",
     "cfpEndDate": "2020-08-24",
     "twitter": "@developersummit"
@@ -178,8 +169,7 @@
     "url": "https://www.herbstcampus.de",
     "startDate": "2020-10-01",
     "endDate": "2020-10-03",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@Herbstcampus"
   },
   {
@@ -196,8 +186,7 @@
     "url": "https://makeit.si/index.php/en",
     "startDate": "2020-10-12",
     "endDate": "2020-10-16",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@makeitconf2020"
   },
   {
@@ -205,8 +194,7 @@
     "url": "https://www.eclipsecon.org",
     "startDate": "2020-10-20",
     "endDate": "2020-10-22",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cfpUrl": "https://www.eclipsecon.org/2020/cfp",
     "cfpEndDate": "2020-06-15",
     "twitter": "@EclipseCon"
@@ -225,8 +213,7 @@
     "url": "https://jdconf.splashthat.com",
     "startDate": "2020-10-27",
     "endDate": "2020-10-29",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "offersSignLanguageOrCC": false
   },
   {
@@ -296,8 +283,7 @@
     "url": "https://jlove.konfy.care",
     "startDate": "2020-12-04",
     "endDate": "2020-12-05",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cfpUrl": "https://www.papercall.io/jlove",
     "cfpEndDate": "2020-11-01",
     "twitter": "@jloveconf",
@@ -309,8 +295,7 @@
     "url": "https://future.works/techconference",
     "startDate": "2020-12-09",
     "endDate": "2020-12-09",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "offersSignLanguageOrCC": false
   },
   {

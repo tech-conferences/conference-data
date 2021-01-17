@@ -140,8 +140,7 @@
     "url": "https://event.afup.org/afup-day-2020/afup-day-2020-nantes",
     "startDate": "2020-06-19",
     "endDate": "2020-06-19",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@afup"
   },
   {
@@ -149,8 +148,7 @@
     "url": "https://event.afup.org/afup-day-2020/afup-day-2020-lyon",
     "startDate": "2020-06-24",
     "endDate": "2020-06-24",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@afup"
   },
   {
@@ -158,8 +156,7 @@
     "url": "https://phpconference.nl",
     "startDate": "2020-06-25",
     "endDate": "2020-06-26",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@dpcon"
   },
   {
@@ -167,8 +164,7 @@
     "url": "https://event.afup.org/afup-day-2020/afup-day-2020-lille",
     "startDate": "2020-06-26",
     "endDate": "2020-06-26",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@afup"
   },
   {
@@ -176,8 +172,7 @@
     "url": "https://event.afup.org/afup-day-2020/afup-day-2020-tours",
     "startDate": "2020-07-03",
     "endDate": "2020-07-03",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@afup"
   },
   {
@@ -308,8 +303,7 @@
     "url": "https://php.bettercode.eu",
     "startDate": "2020-11-26",
     "endDate": "2020-11-26",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@bettercodeconf",
     "cocUrl": "https://php.bettercode.eu/code_of_conduct.php",
     "offersSignLanguageOrCC": false

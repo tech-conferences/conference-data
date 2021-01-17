@@ -29,8 +29,7 @@
     "url": "https://railsconf.com",
     "startDate": "2020-05-05",
     "endDate": "2020-05-05",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@railsconf"
   },
   {
@@ -65,8 +64,7 @@
     "url": "https://noruko.org",
     "startDate": "2020-08-21",
     "endDate": "2020-08-21",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cfpUrl": "https://sessionize.com/NoRuKo",
     "cfpEndDate": "2020-08-17",
     "twitter": "@amsrb"
@@ -105,8 +103,7 @@
     "url": "https://rubyconf.com.br",
     "startDate": "2020-10-15",
     "endDate": "2020-10-16",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@rubyconfbr"
   },
   {
@@ -114,8 +111,7 @@
     "url": "https://www.rossconf.io/event/remote/",
     "startDate": "2020-10-23",
     "endDate": "2020-10-23",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@rossconf",
     "cocUrl": "https://www.rossconf.io/event/remote/"
   },

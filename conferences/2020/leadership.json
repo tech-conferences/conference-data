@@ -22,8 +22,7 @@
     "url": "https://events.technologyreview.com/emtech/digital",
     "startDate": "2020-03-23",
     "endDate": "2020-03-25",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@techreview"
   },
   {
@@ -31,8 +30,7 @@
     "url": "http://www.runningremote.com",
     "startDate": "2020-04-20",
     "endDate": "2020-04-21",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@runningremote"
   },
   {
@@ -48,8 +46,7 @@
     "url": "https://www.developer-first.com/conference",
     "startDate": "2020-06-12",
     "endDate": "2020-06-12",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@developer_first"
   },
   {
@@ -75,8 +72,7 @@
     "url": "https://www.wurreka.com/ict/virtual-conference/leaddev",
     "startDate": "2020-11-17",
     "endDate": "2020-11-17",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cfpUrl": "https://developersummit.wufoo.com/forms/gids-live-series-2020-call-for-proposals",
     "cfpEndDate": "2020-10-31",
     "twitter": "@developersummit"
@@ -86,8 +82,7 @@
     "url": "https://runningremote.com",
     "startDate": "2020-11-18",
     "endDate": "2020-11-18",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cfpUrl": "https://runningremote.com/apply-to-speak",
     "cfpEndDate": "2020-10-18",
     "twitter": "@runningremote"
@@ -97,8 +92,7 @@
     "url": "https://leaddev.com/events/leaddev-live-winter-2020",
     "startDate": "2020-12-02",
     "endDate": "2020-12-02",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cfpUrl": "https://leaddev.submittable.com/submit/175490/leaddev-live-2020",
     "cfpEndDate": "2020-10-25",
     "twitter": "@TheLeadDev"
