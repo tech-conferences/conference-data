@@ -208,8 +208,7 @@
     "url": "https://www.bytesized.xyz/react-2020",
     "startDate": "2020-05-01",
     "endDate": "2020-05-02",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@bytesizedcode"
   },
   {
@@ -234,8 +233,7 @@
     "url": "https://jsvidcon.com",
     "startDate": "2020-05-07",
     "endDate": "2020-05-08",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@jsvidcon"
   },
   {
@@ -243,8 +241,7 @@
     "url": "https://pickjs.com",
     "startDate": "2020-05-07",
     "endDate": "2020-05-08",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@PickConferences"
   },
   {
@@ -252,8 +249,7 @@
     "url": "http://jsremoteconf.com",
     "startDate": "2020-05-14",
     "endDate": "2020-05-15",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@jsremoteconf"
   },
   {
@@ -261,8 +257,7 @@
     "url": "https://halfstackconf.com/online/",
     "startDate": "2020-05-22",
     "endDate": "2020-05-22",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@halfstackconf"
   },
   {
@@ -270,8 +265,7 @@
     "url": "https://forwardjs.com/ottawa",
     "startDate": "2020-05-26",
     "endDate": "2020-05-29",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@forwardjs"
   },
   {
@@ -279,8 +273,7 @@
     "url": "https://jamstackconf.com",
     "startDate": "2020-05-27",
     "endDate": "2020-05-28",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@jamstackconf"
   },
   {
@@ -288,8 +281,7 @@
     "url": "http://jsnation.com",
     "startDate": "2020-06-18",
     "endDate": "2020-06-19",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@amsterdamjs"
   },
   {
@@ -297,8 +289,7 @@
     "url": "https://www.jsconf.be",
     "startDate": "2020-06-22",
     "endDate": "2020-06-23",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@jsconfbe"
   },
   {
@@ -306,8 +297,7 @@
     "url": "https://holyjs-piter.ru/en",
     "startDate": "2020-06-22",
     "endDate": "2020-06-26",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@HolyJSconf"
   },
   {
@@ -315,8 +305,7 @@
     "url": "https://events.linuxfoundation.org/openjs-world",
     "startDate": "2020-06-23",
     "endDate": "2020-06-24",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@openjsf"
   },
   {
@@ -324,8 +313,7 @@
     "url": "http://prisma.io/day",
     "startDate": "2020-06-26",
     "endDate": "2020-06-26",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@prisma"
   },
   {
@@ -351,8 +339,7 @@
     "url": "https://forwardjs.com/sanfrancisco",
     "startDate": "2020-07-20",
     "endDate": "2020-07-24",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@forwardjs"
   },
   {
@@ -360,8 +347,7 @@
     "url": "https://www.angularnl.com",
     "startDate": "2020-07-24",
     "endDate": "2020-07-24",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@angularnl"
   },
   {
@@ -377,8 +363,7 @@
     "url": "https://www.javascriptandfriends.com",
     "startDate": "2020-08-13",
     "endDate": "2020-08-14",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@JSFriendsConf"
   },
   {
@@ -404,8 +389,7 @@
     "url": "https://lithuania.yglfconf.com",
     "startDate": "2020-08-27",
     "endDate": "2020-08-28",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@yglf_lt"
   },
   {
@@ -413,8 +397,7 @@
     "url": "https://2020.cascadiajs.com",
     "startDate": "2020-09-01",
     "endDate": "2020-09-02",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@cascadiajs"
   },
   {
@@ -440,8 +423,7 @@
     "url": "https://www.react-native.eu",
     "startDate": "2020-09-03",
     "endDate": "2020-09-04",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@react_native_eu"
   },
   {
@@ -476,8 +458,7 @@
     "url": "http://www.reactlive.nl",
     "startDate": "2020-09-11",
     "endDate": "2020-09-11",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@reactlivenl"
   },
   {
@@ -521,8 +502,7 @@
     "url": "https://react.geekle.us",
     "startDate": "2020-09-15",
     "endDate": "2020-09-16",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cfpUrl": "https://forms.gle/oKZGBJSmxtigcKEG6",
     "cfpEndDate": "2020-09-14",
     "twitter": "@GeekleOfficial"
@@ -541,8 +521,7 @@
     "url": "https://www.vuejs.amsterdam",
     "startDate": "2020-09-17",
     "endDate": "2020-09-18",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@vuejsamsterdam"
   },
   {
@@ -577,8 +556,7 @@
     "url": "https://enterjs.de",
     "startDate": "2020-09-29",
     "endDate": "2020-10-01",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@enterjsconf"
   },
   {
@@ -595,8 +573,7 @@
     "url": "https://www.frontenddeveloperlove.com",
     "startDate": "2020-10-01",
     "endDate": "2020-10-02",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@Frontend_Love"
   },
   {
@@ -649,8 +626,7 @@
     "url": "https://tsconf.io",
     "startDate": "2020-10-09",
     "endDate": "2020-10-09",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@TypeScriptConf"
   },
   {
@@ -694,8 +670,7 @@
     "url": "https://reactsummit.com",
     "startDate": "2020-10-15",
     "endDate": "2020-10-16",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cfpUrl": "https://forms.gle/r2jCDTRVZLzrpYeX8",
     "cfpEndDate": "2020-08-21",
     "twitter": "@reactsummit"
@@ -803,8 +778,7 @@
     "url": "https://frontend-con.io",
     "startDate": "2020-12-08",
     "endDate": "2020-12-09",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@FrontEndConnect",
     "cocUrl": "https://frontend-con.io/code-of-conduct/",
     "offersSignLanguageOrCC": false
@@ -823,8 +797,7 @@
     "url": "https://future.works/techconference",
     "startDate": "2020-12-10",
     "endDate": "2020-12-10",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "offersSignLanguageOrCC": false
   },
   {

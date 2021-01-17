@@ -49,8 +49,7 @@
     "url": "https://www.microsoft.com/en-us/build",
     "startDate": "2020-05-19",
     "endDate": "2020-05-21",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@msdev"
   },
   {
@@ -66,8 +65,7 @@
     "url": "https://dotnetsummit.by",
     "startDate": "2020-08-07",
     "endDate": "2020-08-08",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@dotnetby"
   },
   {
@@ -148,8 +146,7 @@
     "url": "https://dotnetconf.net",
     "startDate": "2020-11-10",
     "endDate": "2020-11-12",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cfpUrl": "https://www.papercall.io/dotnetconf",
     "cfpEndDate": "2020-09-13"
   },
@@ -158,8 +155,7 @@
     "url": "https://www.updateconference.net",
     "startDate": "2020-11-23",
     "endDate": "2020-11-26",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@update_conf"
   },
   {
@@ -176,8 +172,7 @@
     "url": "https://api-summit.de",
     "startDate": "2020-11-30",
     "endDate": "2020-12-02",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@apisummit_de",
     "cocUrl": "https://api-summit.de/",
     "offersSignLanguageOrCC": false
@@ -195,8 +190,7 @@
     "url": "https://net50.bettercode.eu",
     "startDate": "2020-12-03",
     "endDate": "2020-12-03",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@bettercodeconf",
     "cocUrl": "https://net50.bettercode.eu/code_of_conduct.php",
     "offersSignLanguageOrCC": false

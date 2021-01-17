@@ -97,8 +97,7 @@
     "url": "https://it-security-camp.de/remote",
     "startDate": "2020-05-13",
     "endDate": "2020-05-15",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@ITSecurityCamp"
   },
   {
@@ -106,8 +105,7 @@
     "url": "https://www.brighttalk.com/summit/4756-cloud-cyber-security-summit/cloud-cyber-security-americas",
     "startDate": "2020-05-27",
     "endDate": "2020-05-27",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@CheckPointSW"
   },
   {
@@ -115,8 +113,7 @@
     "url": "https://www.smartgrid-forums.com/webconferences/ids-implementation",
     "startDate": "2020-06-12",
     "endDate": "2020-06-12",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@SmartGridForums"
   },
   {
@@ -124,8 +121,7 @@
     "url": "https://www.devseccon.com/devseccon24-2020",
     "startDate": "2020-06-15",
     "endDate": "2020-06-16",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cfpUrl": "https://www.devseccon.com/call-for-proposals",
     "twitter": "@devseccon"
   },
@@ -134,8 +130,7 @@
     "url": "https://virtual-us.checkpoint.com",
     "startDate": "2020-07-23",
     "endDate": "2020-07-23",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@CheckPointSW"
   },
   {
@@ -185,8 +180,7 @@
     "url": "https://wearedevelopers.com/live#live-week",
     "startDate": "2020-10-05",
     "endDate": "2020-10-09",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cfpUrl": "https://forms.gle/PHXGoo5AUaiT3J737",
     "cfpEndDate": "2020-08-30",
     "twitter": "@wearedevs"
@@ -215,8 +209,7 @@
     "url": "http://pauboxsecure.com",
     "startDate": "2020-10-21",
     "endDate": "2020-10-22",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@PauboxHQ"
   },
   {
@@ -224,8 +217,7 @@
     "url": "https://snyk.io/snykcon",
     "startDate": "2020-10-21",
     "endDate": "2020-10-22",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cfpUrl": "https://sessionize.com/snykcon-2020",
     "cfpEndDate": "2020-09-25",
     "twitter": "@snyksec"
@@ -235,8 +227,7 @@
     "url": "https://sofia.qubitconference.com",
     "startDate": "2020-10-28",
     "endDate": "2020-10-30",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cfpUrl": "https://sofia.qubitconference.com/call-speakers-form-sofia",
     "cfpEndDate": "2020-05-15",
     "twitter": "@QuBitCon"
@@ -246,8 +237,7 @@
     "url": "https://it-security-camp.de",
     "startDate": "2020-11-16",
     "endDate": "2020-11-18",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@ITSecurityCamp"
   },
   {

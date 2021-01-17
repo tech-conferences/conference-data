@@ -16,8 +16,7 @@
     "url": "https://nodecongress.com/",
     "startDate": "2021-01-18",
     "endDate": "2021-01-19",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cocUrl": "https://nodecongress.com/coc"
   },
   {
@@ -25,8 +24,7 @@
     "url": "https://testjssummit.com/",
     "startDate": "2021-01-28",
     "endDate": "2021-01-29",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cocUrl": "https://testjssummit.com/coc"
   },
   {
@@ -46,8 +44,7 @@
     "url": "https://www.devopsjsconf.com/",
     "startDate": "2021-03-10",
     "endDate": "2021-03-11",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cocUrl": "https://devopsjsconf.com/coc"
   },
     {
@@ -55,8 +52,7 @@
     "url": "https://remote.reactsummit.com/",
     "startDate": "2021-04-14",
     "endDate": "2021-04-16",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cocUrl": "https://remote.reactsummit.com/coc"
   },
   {
@@ -95,8 +91,7 @@
     "url": "https://live.jsnation.com/",
     "startDate": "2021-06-06",
     "endDate": "2021-06-06",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@thejsnation",
     "cocUrl": "https://live.jsnation.com/coc"
   },
@@ -156,8 +151,7 @@
     "url": "https://www.conf42.com",
     "startDate": "2021-10-28",
     "endDate": "2021-10-28",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cfpUrl": "https://www.papercall.io/conf42-javascript-2021",
     "cfpEndDate": "2021-09-13",
     "twitter": "@conf42com"
@@ -178,8 +172,7 @@
     "url": "https://javascript-days.de/muenchen",
     "startDate": "2021-03-22",
     "endDate": "2021-03-25",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@JS_Days",
     "cocUrl": "https://javascript-days.de/code-of-conduct/",
     "offersSignLanguageOrCC": false
@@ -220,8 +213,7 @@
     "url": "http://vueconf.us",
     "startDate": "2021-04-14",
     "endDate": "2021-04-14",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@vueconfus",
     "cfpUrl": "http://vueconf.us/cfp",
     "cfpEndDate": "2021-01-16",
@@ -233,8 +225,7 @@
     "url": "http://www.jsworldconference.com",
     "startDate": "2021-02-22",
     "endDate": "2021-02-27",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@Frontend_Love",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeIu75vqZm3_aPIyi8iLOtv5W2QRsFlj7fhOIDYVDjiaXwa9g/viewform",
     "cfpEndDate": "2020-12-23",
@@ -246,8 +237,7 @@
     "url": "https://www.webdirections.org/globalscope",
     "startDate": "2021-06-04",
     "endDate": "2021-06-25",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@webdirections",
     "cfpUrl": "https://www.webdirections.org/globalscope#speak",
     "cfpEndDate": "2021-03-05",
@@ -259,8 +249,7 @@
     "url": "http://www.vuejs.amsterdam",
     "startDate": "2021-02-26",
     "endDate": "2021-02-27",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@vuejsamsterdam",
     "cfpUrl": "https://forms.gle/4gMUH8yKnacDRxa17",
     "cfpEndDate": "2020-12-23",
@@ -283,8 +272,7 @@
     "url": "https://thejam.dev",
     "startDate": "2021-01-28",
     "endDate": "2021-01-29",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@cfe_dev",
     "cocUrl": "https://cfe.dev/conduct/",
     "offersSignLanguageOrCC": false
