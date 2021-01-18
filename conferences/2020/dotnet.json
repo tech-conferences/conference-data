@@ -57,8 +57,7 @@
     "url": "https://focus.dotnetconf.net/",
     "startDate": "2020-07-30",
     "endDate": "2020-07-30",
-    "city": "Online",
-    "country": "Online"
+    "online": true
   },
   {
     "name": ".NET Summit",
@@ -109,8 +108,7 @@
     "url": "https://msstage.com",
     "startDate": "2020-10-02",
     "endDate": "2021-10-02",
-    "city": "Online",
-    "country": "Online"
+    "online": true
   },
   {
     "name": "DotFest",

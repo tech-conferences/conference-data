@@ -183,16 +183,14 @@
     "url": "https://www.geekle.us",
     "startDate": "2020-04-02",
     "endDate": "2020-04-02",
-    "city": "Online",
-    "country": "Online"
+    "online": true
   },
   {
     "name": "MagnoliaJS",
     "url": "https://magnoliajs.com/",
     "startDate": "2020-04-15",
     "endDate": "2020-04-16",
-    "city": "Online",
-    "country": "Online"
+    "online": true
   },
   {
     "name": "NodeConf Armenia",
@@ -355,8 +353,7 @@
     "url": "https://createfrontenddevelopers.splashthat.com/",
     "startDate": "2020-07-29",
     "endDate": "2020-07-29",
-    "city": "Online",
-    "country": "Online"
+    "online": true
   },
   {
     "name": "JavaScript and Friends Conference",
@@ -707,8 +704,7 @@
     "url": "https://nextjs.org/conf",
     "startDate": "2020-10-27",
     "endDate": "2020-10-27",
-    "city": "Online",
-    "country": "Online"
+    "online": true
   },
   {
     "name": "Uphill Conf",

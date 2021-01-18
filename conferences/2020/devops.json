@@ -113,8 +113,7 @@
     "url": "https://devopspro.lt",
     "startDate": "2020-03-24",
     "endDate": "2020-03-26",
-    "city": "Online",
-    "country": "Online"
+    "online": true
   },
   {
     "name": "Virtual Rejekts",
@@ -137,8 +136,7 @@
     "url": "https://cloudnativesummit.online/",
     "startDate": "2020-04-07",
     "endDate": "2020-04-07",
-    "city": "Online",
-    "country": "Online"
+    "online": true
   },
   {
     "name": "All Day DevOps",
@@ -161,8 +159,7 @@
     "url": "https://www.redhat.com/en/summit",
     "startDate": "2020-04-28",
     "endDate": "2020-04-29",
-    "city": "Online",
-    "country": "Online"
+    "online": true
   },
   {
     "name": "ServerlessDays Amsterdam Online",
@@ -193,8 +190,7 @@
     "url": "https://events.redislabs.com/redisconf20/",
     "startDate": "2020-05-12",
     "endDate": "2020-05-13",
-    "city": "Online",
-    "country": "Online"
+    "online": true
   },
   {
     "name": "CloudBees Connect",
@@ -268,8 +264,7 @@
     "url": "https://stackconf.eu/",
     "startDate": "2020-06-17",
     "endDate": "2020-06-18",
-    "city": "Online",
-    "country": "Online"
+    "online": true
   },
   {
     "name": "HashiConf Digital",
@@ -369,8 +364,7 @@
     "url": "https://devopsdays.org/events/2020-zurich/welcome/",
     "startDate": "2020-09-01",
     "endDate": "2020-09-30",
-    "city": "Online",
-    "country": "Online"
+    "online": true
   },
   {
     "name": "Devopsdays Kiev",
@@ -422,8 +416,7 @@
     "url": "https://devopsdays.org/events/2020-cairo/welcome/",
     "startDate": "2020-09-21",
     "endDate": "2020-09-21",
-    "city": "Online",
-    "country": "Online"
+    "online": true
   },
   {
     "name": "DevOps World",

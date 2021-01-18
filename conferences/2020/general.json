@@ -211,8 +211,7 @@
     "url": "https://2020.phillyemergingtech.com/",
     "startDate": "2020-04-14",
     "endDate": "2020-04-15",
-    "city": "Online",
-    "country": "Online"
+    "online": true
   },
   {
     "name": "AllTheTalks",
@@ -235,8 +234,7 @@
     "url": "https://failover-conf.heysummit.com/",
     "startDate": "2020-04-21",
     "endDate": "2020-04-24",
-    "city": "Online",
-    "country": "Online"
+    "online": true
   },
   {
     "name": "NDC Porto",
@@ -267,16 +265,14 @@
     "url": "https://www.flink-forward.org/sf-2020",
     "startDate": "2020-04-22",
     "endDate": "2020-04-24",
-    "city": "Online",
-    "country": "Online"
+    "online": true
   },
   {
     "name": "Sparkbox UnConference",
     "url": "https://www.eventbrite.com/e/sparkbox-unconference-tickets-100168119542",
     "startDate": "2020-04-23",
     "endDate": "2020-04-23",
-    "city": "Online",
-    "country": "Online"
+    "online": true
   },
   {
     "name": "GOTO Chicago",
@@ -291,16 +287,14 @@
     "url": "https://www.ibm.com/events/think/",
     "startDate": "2020-05-05",
     "endDate": "2020-05-07",
-    "city": "Online",
-    "country": "Online"
+    "online": true
   },
   {
     "name": "GitHub Satellite",
     "url": "https://githubsatellite.com",
     "startDate": "2020-05-06",
     "endDate": "2020-05-06",
-    "city": "Online",
-    "country": "Online"
+    "online": true
   },
   {
     "name": "Dev Around The Sun",
@@ -315,8 +309,7 @@
     "url": "https://techinclusion.co/summit/",
     "startDate": "2020-05-12",
     "endDate": "2020-05-12",
-    "city": "Online",
-    "country": "Online"
+    "online": true
   },
   {
     "name": "MenderCon",
@@ -364,8 +357,7 @@
     "url": "https://www.webdirections.org/code",
     "startDate": "2020-06-04",
     "endDate": "2020-06-05",
-    "city": "Online",
-    "country": "Online"
+    "online": true
   },
   {
     "name": "ServerlessDays Milan",
@@ -464,8 +456,7 @@
     "url": "https://sigmahacks.org",
     "startDate": "2020-07-24",
     "endDate": "2020-07-26",
-    "city": "Online",
-    "country": "Online"
+    "online": true
   },
   {
     "name": "NDC Melbourne",
@@ -687,8 +678,7 @@
     "url": "https://contributing.today",
     "startDate": "2020-10-02",
     "endDate": "2020-10-02",
-    "city": "Online",
-    "country": "Online"
+    "online": true
   },
   {
     "name": "FITC Web Unleashed",
@@ -703,8 +693,7 @@
     "url": "https://www.kyvosinsights.com/events/tableau-conference-2020",
     "startDate": "2020-10-06",
     "endDate": "2020-10-09",
-    "city": "Online",
-    "country": "Online"
+    "online": true
   },
   {
     "name": "Frontiers",
@@ -886,8 +875,7 @@
     "url": "https://www.creatio.com/page/accelerate",
     "startDate": "2020-10-28",
     "endDate": "2020-10-28",
-    "city": "Online",
-    "country": "Online"
+    "online": true
   },
   {
     "name": "BDX I/O",
@@ -1002,8 +990,7 @@
     "url": "https://www.buildstuff.events/events/build-stuff-lithuania-2020-combined-in-person-virtual-conference",
     "startDate": "2020-11-11",
     "endDate": "2020-11-15",
-    "city": "Online",
-    "country": "Online"
+    "online": true
   },
   {
     "name": "Scale By the Bay",

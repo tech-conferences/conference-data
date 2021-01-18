@@ -30,8 +30,7 @@
     "url": "https://developer.apple.com/wwdc20",
     "startDate": "2020-06-22",
     "endDate": "2020-06-26",
-    "city": "Online",
-    "country": "Online"
+    "online": true
   },
   {
     "name": "Mobius",
@@ -49,8 +48,7 @@
     "url": "https://www.hackingwithswift.com/live",
     "startDate": "2020-07-13",
     "endDate": "2020-07-16",
-    "city": "Online",
-    "country": "Online"
+    "online": true
   },
   {
     "name": "try! Swift",
