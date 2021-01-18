@@ -5,6 +5,7 @@ module.exports = [
   "endDate",
   "city",
   "country",
+  "online",
   "cfpUrl",
   "cfpEndDate",
   "twitter",

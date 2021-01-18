@@ -362,9 +362,6 @@ module.exports = {
     "Oslo",
     "Sandefjord"
   ],
-  "Online": [
-    "Online"
-  ],
   "Panama": [
     "Panama City"
   ],
