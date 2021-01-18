@@ -15,8 +15,7 @@
     "url": "https://hasura.io/events/hasura-con-2020",
     "startDate": "2020-06-03",
     "endDate": "2020-06-10",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScW8-f8XBStaODlg_FgieTmtuv2XyqrvKYRBT7hzdmjHpVerw/viewform",
     "cfpEndDate": "2020-05-08",
     "twitter": "@hasurahq"
@@ -36,8 +35,7 @@
     "url": "https://hasura.io/enterprisegraphql",
     "startDate": "2020-10-21",
     "endDate": "2020-10-22",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cocUrl": "https://hasura.io/enterprisegraphql/code-of-conduct/",
     "offersSignLanguageOrCC": false
   },
@@ -55,8 +53,7 @@
     "url": "https://graphqlgalaxy.com",
     "startDate": "2020-12-07",
     "endDate": "2020-12-08",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cfpUrl": "https://forms.gle/6ZSoZSv8QHMw7RDo9",
     "cfpEndDate": "2020-11-01",
     "twitter": "@GraphQLGalaxy"

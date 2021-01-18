@@ -22,8 +22,7 @@
     "url": "https://remote.python.pizza",
     "startDate": "2020-04-25",
     "endDate": "2020-04-25",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeUaY-CDE_3EEjpwbLugFhTb9x4nZcu9ehbLrzL9HgWWt41lA/viewform",
     "cfpEndDate": "2020-04-06",
     "twitter": "@pythonpizzaconf"
@@ -33,8 +32,7 @@
     "url": "https://fwdays.com/en/event/python-fwdays-conference",
     "startDate": "2020-05-16",
     "endDate": "2020-05-16",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@fwdays"
   },
   {
@@ -52,8 +50,7 @@
     "url": "https://ep2020.europython.eu",
     "startDate": "2020-07-23",
     "endDate": "2020-07-26",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cfpUrl": "https://ep2020.europython.eu/call-for-proposals/",
     "cfpEndDate": "2020-04-12",
     "twitter": "@europython"
@@ -63,8 +60,7 @@
     "url": "https://pycon.lt",
     "startDate": "2020-07-31",
     "endDate": "2020-08-01",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cfpUrl": "https://pretalx.com/pyconlt2020/cfp",
     "cfpEndDate": "2020-07-10",
     "twitter": "@pyconlt"
@@ -74,8 +70,7 @@
     "url": "https://pybay.com",
     "startDate": "2020-08-15",
     "endDate": "2020-08-16",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cfpUrl": "https://sessionize.com/pybay2020-online-edition",
     "twitter": "@py_pay"
   },
@@ -84,8 +79,7 @@
     "url": "https://2020.pycon.org.au",
     "startDate": "2020-09-04",
     "endDate": "2020-09-06",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cfpUrl": "https://2020.pycon.org.au/speak",
     "cfpEndDate": "2020-07-12",
     "twitter": "@pyconau"
@@ -121,8 +115,7 @@
     "url": "https://events.linuxfoundation.org/ray-summit",
     "startDate": "2020-09-30",
     "endDate": "2020-10-01",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@raydistributed"
   },
   {
@@ -130,8 +123,7 @@
     "url": "https://in.pycon.org/2020",
     "startDate": "2020-10-02",
     "endDate": "2020-10-03",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cfpUrl": "https://in.pycon.org/cfp/2020/proposals",
     "cfpEndDate": "2020-08-14",
     "twitter": "@pyconindia"
@@ -168,8 +160,7 @@
     "url": "https://www.pycon.se",
     "startDate": "2020-11-12",
     "endDate": "2020-11-13",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cfpUrl": "https://forms.gle/kzydUY5miiLjXwmH6",
     "cfpEndDate": "2020-09-30",
     "twitter": "@pyconse"
@@ -189,8 +180,7 @@
     "url": "https://python.geekle.us",
     "startDate": "2020-11-19",
     "endDate": "2020-11-20",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSecbfc_qddR3mFeIcV4JhC5GJIpXEMO3fIqqM4WMe7ch0bp-A/viewform",
     "cfpEndDate": "2020-11-05"
   },
@@ -208,8 +198,7 @@
     "url": "https://pyconf.hydpy.org/2020",
     "startDate": "2020-12-05",
     "endDate": "2020-12-06",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cfpUrl": "https://www.papercall.io/pyconf-hyd-2020",
     "cfpEndDate": "2020-11-08",
     "twitter": "@pyconfhyd",

@@ -10,11 +10,11 @@ const usaStateRegex = /, ([A-Z][A-Z])|(D.C.)$/;
 const emptyStringRegex = /^\s+$|^$/gi;
 const onlineRegex = /online|remote|everywhere|world|web|global|virtual|www|http/i;
 const dateFormat = 'yyyy-MM-dd';
-const REQUIRED_KEYS = ['name', 'url', 'startDate', 'endDate', 'country', 'city'];
+const REQUIRED_KEYS = ['name', 'url', 'startDate', 'endDate'];
 const validLocationsHint = ' - Check/Maintain the file "config/validLocations.js"';
 
 module.exports = function checkConference(year, conference, assertField) {
-    const { name, url, country, city, cfpUrl, twitter } = conference;
+    const { name, url, cfpUrl, twitter } = conference;
 
     REQUIRED_KEYS.forEach(requiredKey => {
         assertField(conference.hasOwnProperty(requiredKey), requiredKey, `is missing`);
@@ -29,19 +29,15 @@ module.exports = function checkConference(year, conference, assertField) {
     assertField(startDate.getFullYear() == year, 'startDate', 'should be in the same year as file location', startDate.getFullYear());
     const endDate = parse(conference.endDate, dateFormat, new Date());
     assertField(startDate.getTime() <= endDate.getTime(), 'endDate', 'should be after start date', `${conference.startDate} <= ${conference.endDate}`);
-    const isCountryValid = validLocations[country];
-    const isCityValid = isCountryValid && validLocations[country].indexOf(city) !== -1;
-    const isOnline = onlineRegex.test(city) || onlineRegex.test(country);
-    if (isOnline) {
-        const onlineHint = 'for Online conferences shoule be "Online"';
-        assertField(city === 'Online', 'city', onlineHint, city);
-        assertField(country === 'Online', 'country', onlineHint, country);
-    } else {
-        assertField(isCityValid, 'city', 'is a not in the list of valid cities' + validLocationsHint, `"${city}" in "${country}"`);
-        assertField(isCountryValid, 'country', 'is a not in the list of valid countries' + validLocationsHint, country);
-        if (country === 'U.S.A.') {
-            assertField(usaStateRegex.test(city), 'city', 'in the US must also contain the state', city);
-        }
+    const hasCountry = conference.hasOwnProperty('country');
+    const hasCity = conference.hasOwnProperty('city');
+    var hasOnline = conference.hasOwnProperty('online');
+    if (!hasOnline) {
+        assertField(hasCountry, 'country', 'country should be maintained for in-person conferences', conference.country);
+        assertField(hasCity, 'city', 'city should be maintained for in-person conferences', conference.city);
+    }
+    if (hasCountry || hasCity) {
+        checkLocation(conference.country, conference.city);
     }
     if (cfpUrl) {
         checkUrl(conference, 'cfpUrl');
@@ -53,6 +49,22 @@ module.exports = function checkConference(year, conference, assertField) {
     }
     if (twitter && twitter.length > 0 && !twitterRegex.test(twitter)) {
         assertField(twitterRegex.test(twitter), 'twitter', 'should be formatted like @twitter', twitter);
+    }
+
+    function checkLocation(country, city) {
+        const isCountryValid = validLocations[country];
+        const isCityValid = isCountryValid && validLocations[country].indexOf(city) !== -1;
+        const isOnline = onlineRegex.test(city) || onlineRegex.test(country);
+        if (isOnline) {
+            assertField(false, 'city', 'for Online conferences please use the property "online" and no city', city);
+            assertField(false, 'country', 'for Online conferences please use the property "online" and no country', country);
+        } else {
+            assertField(isCityValid, 'city', 'is a not in the list of valid cities' + validLocationsHint, `"${city}" in "${country}"`);
+            assertField(isCountryValid, 'country', 'is a not in the list of valid countries' + validLocationsHint, country);
+            if (country === 'U.S.A.') {
+                assertField(usaStateRegex.test(city), 'city', 'in the US must also contain the state', city);
+            }
+        }
     }
     function checkUrl(conference, property) {
         const value = conference[property];

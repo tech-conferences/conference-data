@@ -4,8 +4,7 @@
     "url": "https://www.re-work.co/summits/deep-learning-summit-san-francisco-2021",
     "startDate": "2021-01-28",
     "endDate": "2021-01-29",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@teamrework"
   },
   {
@@ -13,8 +12,7 @@
     "url": "https://www.conf42.com",
     "startDate": "2021-07-29",
     "endDate": "2021-07-29",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cfpUrl": "https://www.papercall.io/conf42-machine-learning-2021",
     "cfpEndDate": "2021-06-14",
     "twitter": "@conf42com"
@@ -24,8 +22,7 @@
     "url": "https://reinforceconf.com",
     "startDate": "2021-03-03",
     "endDate": "2021-03-05",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@reinforceconf",
     "cfpUrl": "http://ReinforceConf",
     "cfpEndDate": "2021-03-03",
@@ -36,8 +33,7 @@
     "url": "https://odsc.com/boston/",
     "startDate": "2021-03-30",
     "endDate": "2021-04-01",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@ODSC",
     "cfpEndDate": "2021-03-23",
     "offersSignLanguageOrCC": false
@@ -47,8 +43,7 @@
     "url": "https://m3-konferenz.de",
     "startDate": "2021-04-27",
     "endDate": "2021-04-28",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@M3_Konferenz",
     "cfpUrl": "https://m3-konferenz.de/call_for_proposals_en.php",
     "cfpEndDate": "2021-01-17",
@@ -60,8 +55,7 @@
     "url": "https://odsc.com/bootcamp",
     "startDate": "2021-03-30",
     "endDate": "2021-04-01",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@ODSC",
     "offersSignLanguageOrCC": false
   },
@@ -70,8 +64,7 @@
     "url": "https://getaiplus.com/event",
     "startDate": "2021-02-03",
     "endDate": "2021-02-03",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@odsc",
     "offersSignLanguageOrCC": false
   },
@@ -80,8 +73,7 @@
     "url": "https://cdaofs.coriniumintelligence.com/",
     "startDate": "2021-03-02",
     "endDate": "2021-03-04",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@CoriniumGlobal",
     "offersSignLanguageOrCC": false
   },
@@ -90,8 +82,7 @@
     "url": "https://dco-dataops.coriniumintelligence.com/",
     "startDate": "2021-02-02",
     "endDate": "2021-02-04",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@CoriniumGlobal",
     "offersSignLanguageOrCC": false
   }

@@ -4,8 +4,7 @@
     "url": "https://devopsdays.org/events/2021-texas/welcome/",
     "startDate": "2021-03-02",
     "endDate": "2021-03-03",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@devopsdaystexas",
     "cocUrl": "https://devopsdays.org/conduct/"
   },
@@ -74,8 +73,7 @@
     "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/",
     "startDate": "2021-05-04",
     "endDate": "2021-05-07",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@CloudNativeFdn",
     "cocUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/code-of-conduct/"
   },
@@ -84,8 +82,7 @@
     "url": "https://devopspro.lt/",
     "startDate": "2021-05-11",
     "endDate": "2021-05-13",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cocUrl": "https://devopspro.lt/code-of-conduct/"
   },
   {
@@ -93,8 +90,7 @@
     "url": "https://devopsdays.org/events/2021-seattle/welcome/",
     "startDate": "2021-05-04",
     "endDate": "2021-05-04",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@devopsdayssea",
     "cocUrl": "https://devopsdays.org/conduct/"
   },
@@ -250,8 +246,7 @@
     "url": "https://www.conf42.com",
     "startDate": "2021-09-30",
     "endDate": "2021-09-30",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cfpUrl": "https://www.papercall.io/conf42-sre-2021",
     "cfpEndDate": "2021-08-16",
     "twitter": "@conf42com"
@@ -261,8 +256,7 @@
     "url": "https://www.continuouslifecycle.de/kubernetes_2.php",
     "startDate": "2021-01-20",
     "endDate": "2021-01-20",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@ConLifecycle",
     "cocUrl": "https://www.continuouslifecycle.de/code_of_conduct.php",
     "offersSignLanguageOrCC": false
@@ -272,8 +266,7 @@
     "url": "https://www.continuouslifecycle.de/cloud_native.php",
     "startDate": "2021-02-10",
     "endDate": "2021-02-10",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@ConLifecycle",
     "cocUrl": "https://www.continuouslifecycle.de/code_of_conduct.php",
     "offersSignLanguageOrCC": false
@@ -283,8 +276,7 @@
     "url": "https://www.continuouslifecycle.de/devsecops.php",
     "startDate": "2021-03-03",
     "endDate": "2021-03-03",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@ConLifecycle",
     "cocUrl": "https://www.continuouslifecycle.de/code_of_conduct.php",
     "offersSignLanguageOrCC": false
@@ -294,8 +286,7 @@
     "url": "https://stackconf.eu",
     "startDate": "2021-06-15",
     "endDate": "2021-06-16",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cfpUrl": "https://stackconf.eu/propose",
     "cfpEndDate": "2021-02-28",
     "cocUrl": "https://stackconf.eu/code-of-conduct/",
@@ -306,8 +297,7 @@
     "url": "https://go.shiftleft.io/shifting-left-2021",
     "startDate": "2021-01-28",
     "endDate": "2021-01-28",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@shiftleftinc",
     "cocUrl": "https://www.shiftleft.io/privacy-security/",
     "offersSignLanguageOrCC": false
@@ -327,9 +317,20 @@
     "url": "https://devopsinstitute.com/cns-2021",
     "startDate": "2021-02-25",
     "endDate": "2021-02-25",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@DEVOPSINST",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "DevOpsCon London",
+    "url": "https://devopscon.io/london",
+    "startDate": "2021-04-20",
+    "endDate": "2021-04-23",
+    "twitter": "@devops_con",
+    "cocUrl": "https://devopscon.io/code-of-conduct/",
+    "online": true,
+    "city": "London",
+    "country": "U.K.",
     "offersSignLanguageOrCC": false
   }
 ]

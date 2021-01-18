@@ -76,8 +76,7 @@
     "url": "https://seedsta.rs/2UglZGb",
     "startDate": "2020-04-03",
     "endDate": "2020-04-03",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@Seedstars"
   },
   {
@@ -95,16 +94,14 @@
     "url": "https://startupvillage.ru/en",
     "startDate": "2020-05-21",
     "endDate": "2020-05-22",
-    "city": "Online",
-    "country": "Online"
+    "online": true
   },
   {
     "name": "Coworking Symposium",
     "url": "https://www.coworkingsymposium.com",
     "startDate": "2020-05-27",
     "endDate": "2020-05-27",
-    "city": "Online",
-    "country": "Online"
+    "online": true
   },
   {
     "name": "Nomadays",
@@ -131,8 +128,7 @@
     "url": "https://summit.witi.com",
     "startDate": "2020-06-22",
     "endDate": "2020-06-24",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@witi"
   },
   {
@@ -158,8 +154,7 @@
     "url": "https://intelligenthealth.ai",
     "startDate": "2020-09-09",
     "endDate": "2020-09-10",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@IntHealthAI"
   },
   {
@@ -167,8 +162,7 @@
     "url": "https://conference.techexeter.uk",
     "startDate": "2020-09-09",
     "endDate": "2020-09-10",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@techexeter"
   },
   {
@@ -195,8 +189,7 @@
     "url": "https://www.clavent.com/testcon-2020-bangalore",
     "startDate": "2020-09-25",
     "endDate": "2020-09-26",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@Testcon2020"
   },
   {
@@ -204,8 +197,7 @@
     "url": "https://www.futuredeveloper.io",
     "startDate": "2020-09-29",
     "endDate": "2020-09-30",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@SlashDataHQ"
   },
   {
@@ -223,8 +215,7 @@
     "url": "https://conf.activitypub.rocks",
     "startDate": "2020-10-02",
     "endDate": "2020-10-05",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cfpUrl": "https://conf.activitypub.rocks/cfp",
     "cfpEndDate": "2020-07-08"
   },
@@ -233,8 +224,7 @@
     "url": "https://www.goodfirms.co/gfit-virtual-exhibition",
     "startDate": "2020-10-05",
     "endDate": "2020-10-09",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@GoodFirms"
   },
   {
@@ -272,8 +262,7 @@
     "url": "https://conference.eurostarsoftwaretesting.com",
     "startDate": "2020-10-17",
     "endDate": "2020-10-19",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@esconfs"
   },
   {
@@ -281,8 +270,7 @@
     "url": "https://arctic15.com",
     "startDate": "2020-10-19",
     "endDate": "2020-10-21",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@arctic15"
   },
   {
@@ -358,8 +346,7 @@
     "url": "https://linkupconferenceshow.com/",
     "startDate": "2020-11-12",
     "endDate": "2020-11-12",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@link_up_show"
   },
   {
@@ -403,8 +390,7 @@
     "url": "http://www.ghanatechsummit.com",
     "startDate": "2020-12-10",
     "endDate": "2020-12-10",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "offersSignLanguageOrCC": false
   }
 ]

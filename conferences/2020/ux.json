@@ -122,8 +122,7 @@
     "url": "https://uxcopenhagen.com",
     "startDate": "2020-03-30",
     "endDate": "2020-03-31",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@UXCopenhagen"
   },
   {
@@ -131,8 +130,7 @@
     "url": "https://www.nngroup.com/training/new-york-city",
     "startDate": "2020-04-18",
     "endDate": "2020-04-24",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@nngroup"
   },
   {
@@ -140,8 +138,7 @@
     "url": "https://knowbility.org/programs/accessu/2020",
     "startDate": "2020-05-13",
     "endDate": "2020-05-14",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@AccessU"
   },
   {
@@ -149,8 +146,7 @@
     "url": "https://uxhealthcare.co",
     "startDate": "2020-05-14",
     "endDate": "2020-05-15",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScaCNQf7_X9XG9v_Jw0BiL__s0IE3gOPLrA5vC8wYNq7fhcsg/viewform",
     "cfpEndDate": "2019-09-30",
     "twitter": "@uxdhealthcare"
@@ -160,8 +156,7 @@
     "url": "https://uikonf.com",
     "startDate": "2020-05-18",
     "endDate": "2020-05-19",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@uikonf"
   },
   {
@@ -169,8 +164,7 @@
     "url": "https://www.ux-lx.com",
     "startDate": "2020-05-19",
     "endDate": "2020-05-22",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@uxlx"
   },
   {
@@ -178,8 +172,7 @@
     "url": "https://ecommercedesignsummit.com/london",
     "startDate": "2020-05-20",
     "endDate": "2020-05-21",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@ecomDS"
   },
   {
@@ -187,8 +180,7 @@
     "url": "https://uxhealthcare.co",
     "startDate": "2020-06-02",
     "endDate": "2020-06-02",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScaCNQf7_X9XG9v_Jw0BiL__s0IE3gOPLrA5vC8wYNq7fhcsg/viewform",
     "twitter": "@uxdhealthcare"
   },
@@ -197,8 +189,7 @@
     "url": "https://www.fluxible.ca",
     "startDate": "2020-06-04",
     "endDate": "2020-06-04",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@Fluxible"
   },
   {
@@ -206,8 +197,7 @@
     "url": "https://thebadconference.com",
     "startDate": "2020-06-04",
     "endDate": "2020-06-04",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@TechCircus_"
   },
   {
@@ -215,8 +205,7 @@
     "url": "https://uxwriterconference.com",
     "startDate": "2020-06-09",
     "endDate": "2020-06-10",
-    "city": "Online",
-    "country": "Online"
+    "online": true
   },
   {
     "name": "dsgnday",
@@ -232,8 +221,7 @@
     "url": "https://aneventapart.com/event/online-0620",
     "startDate": "2020-06-15",
     "endDate": "2020-06-15",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@aneventapart"
   },
   {
@@ -241,16 +229,14 @@
     "url": "https://2020.sofaconf.com/",
     "startDate": "2020-06-22",
     "endDate": "2020-06-26",
-    "city": "Online",
-    "country": "Online"
+    "online": true
   },
   {
     "name": "#UXRConf",
     "url": "https://uxrconference.com",
     "startDate": "2020-06-25",
     "endDate": "2020-06-26",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@UXRCollective"
   },
   {
@@ -258,8 +244,7 @@
     "url": "https://fintechdesignsummit.com/new-york",
     "startDate": "2020-06-30",
     "endDate": "2020-06-30",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@fdsummit"
   },
   {
@@ -267,8 +252,7 @@
     "url": "https://aneventapart.com/event/online-0720",
     "startDate": "2020-07-20",
     "endDate": "2020-07-20",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@aneventapart"
   },
   {
@@ -276,8 +260,7 @@
     "url": "https://www.nngroup.com/training/july/",
     "startDate": "2020-07-25",
     "endDate": "2020-07-31",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@nngroup"
   },
   {
@@ -285,8 +268,7 @@
     "url": "https://www.nngroup.com/training/august/",
     "startDate": "2020-08-10",
     "endDate": "2020-08-21",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@nngroup"
   },
   {
@@ -321,8 +303,7 @@
     "url": "http://www.thebadconference.com",
     "startDate": "2020-09-15",
     "endDate": "2020-09-15",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@TechCircus_"
   },
   {
@@ -369,8 +350,7 @@
     "url": "https://uxdxconf.com",
     "startDate": "2020-10-06",
     "endDate": "2020-10-09",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cfpUrl": "https://uxdxconf.com/speak",
     "cfpEndDate": "2020-02-28",
     "twitter": "@uxdxconf"
@@ -380,8 +360,7 @@
     "url": "https://uxdx.com/europe/2020/agenda",
     "startDate": "2020-10-06",
     "endDate": "2020-10-09",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@UXDXconf",
     "offersSignLanguageOrCC": false
   },
@@ -418,8 +397,7 @@
     "url": "https://worldusabilitycongress.com",
     "startDate": "2020-10-19",
     "endDate": "2020-10-23",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@worlduxcongress"
   },
   {
@@ -427,8 +405,7 @@
     "url": "https://ecommercedesignsummit.com/new-york",
     "startDate": "2020-10-20",
     "endDate": "2020-10-20",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@ecomDS"
   },
   {
@@ -436,8 +413,7 @@
     "url": "https://aneventapart.com/event/online-1020",
     "startDate": "2020-10-26",
     "endDate": "2020-10-28",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@aneventapart"
   },
   {
@@ -445,8 +421,7 @@
     "url": "https://webdirections.org/product",
     "startDate": "2020-11-06",
     "endDate": "2020-12-04",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@webdirections",
     "cocUrl": "https://www.webdirections.org/web-directions-event-code-of-conduct/",
     "offersSignLanguageOrCC": true
@@ -456,8 +431,7 @@
     "url": "https://globalexperiencesummit.com",
     "startDate": "2020-11-09",
     "endDate": "2020-11-17",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@globalXsummit"
   },
   {
@@ -465,8 +439,7 @@
     "url": "https://hxlive.co.uk",
     "startDate": "2020-11-09",
     "endDate": "2020-11-17",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@hxlivelondon"
   },
   {
@@ -500,8 +473,7 @@
     "url": "https://ddd-summit.de",
     "startDate": "2020-11-30",
     "endDate": "2020-12-02",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@DDDSummit",
     "cocUrl": "https://ddd-summit.de/code-of-conduct/",
     "offersSignLanguageOrCC": false
@@ -540,8 +512,7 @@
     "url": "https://touch.ge/summit",
     "startDate": "2020-11-20",
     "endDate": "2020-11-29",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "cocUrl": "https://touch.ge/summit",
     "offersSignLanguageOrCC": false
   },
@@ -550,8 +521,7 @@
     "url": "https://www.savvyuxsummit.com",
     "startDate": "2020-12-07",
     "endDate": "2020-12-10",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@SavvyUXSummit",
     "offersSignLanguageOrCC": false
   },
@@ -560,8 +530,7 @@
     "url": "https://www.ux-india.org/uxindia2020",
     "startDate": "2020-12-07",
     "endDate": "2020-12-12",
-    "city": "Online",
-    "country": "Online",
+    "online": true,
     "twitter": "@uxindiaconf",
     "offersSignLanguageOrCC": true
   }
