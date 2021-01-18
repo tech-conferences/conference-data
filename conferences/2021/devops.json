@@ -311,5 +311,17 @@
     "country": "Switzerland",
     "twitter": "@DevOpsFusion",
     "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "DevOpsCon London",
+    "url": "https://devopscon.io/london",
+    "startDate": "2021-04-20",
+    "endDate": "2021-04-23",
+    "twitter": "@devops_con",
+    "cocUrl": "https://devopscon.io/code-of-conduct/",
+    "online": true,
+    "city": "London",
+    "country": "U.K.",
+    "offersSignLanguageOrCC": false
   }
 ]
