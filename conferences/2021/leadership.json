@@ -1,5 +1,15 @@
 [
   {
+    "name": "Pause Fest",
+    "url": "https://www.pausefest.com.au",
+    "startDate": "2021-03-01",
+    "endDate": "2021-03-12",
+    "online": true,
+    "twitter": "@pausefest",
+    "cocUrl": "https://www.pausefest.com.au/images/Documents/Pause-Fest-Code-of-Conduct.pdf",
+    "offersSignLanguageOrCC": false
+  },
+  {
     "name": "Agile meets Architecture",
     "url": "https://agile-meets-architecture.com",
     "startDate": "2021-03-10",
@@ -10,16 +20,6 @@
     "cfpEndDate": "2020-08-31",
     "twitter": "@ama_conf",
     "cocUrl": "https://agile-meets-architecture.com/code-of-conduct"
-  },
-  {
-    "name": "Pause Fest",
-    "url": "https://www.pausefest.com.au",
-    "startDate": "2021-03-01",
-    "endDate": "2021-03-12",
-    "online": true,
-    "twitter": "@pausefest",
-    "cocUrl": "https://www.pausefest.com.au/images/Documents/Pause-Fest-Code-of-Conduct.pdf",
-    "offersSignLanguageOrCC": false
   },
   {
     "name": "FINTECH WORLD FORUM",
@@ -36,9 +36,9 @@
     "startDate": "2021-05-07",
     "endDate": "2021-05-07",
     "online": true,
-    "twitter": "@developer_first",
     "cfpUrl": "https://www.developer-first.com/call-for-proposals",
     "cfpEndDate": "2021-02-05",
+    "twitter": "@developer_first",
     "cocUrl": "https://www.developer-first.com/code-of-conduct",
     "offersSignLanguageOrCC": false
   }

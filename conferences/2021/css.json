@@ -1,12 +1,15 @@
 [
   {
-    "name": "CSS Day",
-    "url": "https://cssday.nl",
-    "startDate": "2021-06-10",
-    "endDate": "2021-06-11",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "twitter": "@cssdayconf"
+    "name": "cssday Digital Edition",
+    "url": "https://2021.cssday.it",
+    "startDate": "2021-03-11",
+    "endDate": "2021-03-11",
+    "online": true,
+    "cfpUrl": "https://2021.cssday.it/welcome/cfp.html",
+    "cfpEndDate": "2021-01-31",
+    "twitter": "@cssday_it",
+    "cocUrl": "https://2021.cssday.it/welcome/coc.html",
+    "offersSignLanguageOrCC": false
   },
   {
     "name": "HTML & CSS Days",
@@ -24,22 +27,19 @@
     "startDate": "2021-04-16",
     "endDate": "2021-04-23",
     "online": true,
-    "twitter": "@webdirections",
     "cfpUrl": "https://www.webdirections.org/hover/#speak",
     "cfpEndDate": "2021-01-31",
+    "twitter": "@webdirections",
     "cocUrl": "https://www.webdirections.org/web-directions-event-code-of-conduct/",
     "offersSignLanguageOrCC": true
   },
   {
-    "name": "cssday Digital Edition",
-    "url": "https://2021.cssday.it",
-    "startDate": "2021-03-11",
-    "endDate": "2021-03-11",
-    "online": true,
-    "twitter": "@cssday_it",
-    "cfpUrl": "https://2021.cssday.it/welcome/cfp.html",
-    "cfpEndDate": "2021-01-31",
-    "cocUrl": "https://2021.cssday.it/welcome/coc.html",
-    "offersSignLanguageOrCC": false
+    "name": "CSS Day",
+    "url": "https://cssday.nl",
+    "startDate": "2021-06-10",
+    "endDate": "2021-06-11",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@cssdayconf"
   }
 ]

@@ -1095,6 +1095,14 @@
     "twitter": "@devternity"
   },
   {
+    "name": "Nigeria Tech Summit",
+    "url": "https://www.eventbrite.com/e/nigeria-tech-summit-2020-tickets-87233115597",
+    "startDate": "2020-12-04",
+    "endDate": "2020-12-04",
+    "online": true,
+    "offersSignLanguageOrCC": false
+  },
+  {
     "name": "SREcon",
     "url": "https://www.usenix.org/conference/srecon20americaswest",
     "startDate": "2020-12-07",
@@ -1149,14 +1157,6 @@
     "online": true,
     "twitter": "@bettercodeconf",
     "cocUrl": "https://pod.bettercode.eu/code_of_conduct.php",
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "Nigeria Tech Summit",
-    "url": "https://www.eventbrite.com/e/nigeria-tech-summit-2020-tickets-87233115597",
-    "startDate": "2020-12-04",
-    "endDate": "2020-12-04",
-    "online": true,
     "offersSignLanguageOrCC": false
   }
 ]

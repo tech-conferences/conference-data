@@ -469,6 +469,24 @@
     "twitter": "@SthlmXperience"
   },
   {
+    "name": "Touch Digital Summit",
+    "url": "https://touch.ge/summit",
+    "startDate": "2020-11-20",
+    "endDate": "2020-11-29",
+    "online": true,
+    "cocUrl": "https://touch.ge/summit",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Design Inspire Conference",
+    "url": "https://www.valuelabs.com/design-inspire/conference.html",
+    "startDate": "2020-11-28",
+    "endDate": "2020-11-28",
+    "city": "Hyderabad",
+    "country": "India",
+    "offersSignLanguageOrCC": false
+  },
+  {
     "name": "DDD Summit",
     "url": "https://ddd-summit.de",
     "startDate": "2020-11-30",
@@ -476,6 +494,15 @@
     "online": true,
     "twitter": "@DDDSummit",
     "cocUrl": "https://ddd-summit.de/code-of-conduct/",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Savvy UX Summit",
+    "url": "https://www.savvyuxsummit.com",
+    "startDate": "2020-12-07",
+    "endDate": "2020-12-10",
+    "online": true,
+    "twitter": "@SavvyUXSummit",
     "offersSignLanguageOrCC": false
   },
   {
@@ -490,42 +517,6 @@
     "twitter": "@webinale"
   },
   {
-    "name": "An Event Apart San Francisco",
-    "url": "https://aneventapart.com/event/san-francisco-2020",
-    "startDate": "2020-12-14",
-    "endDate": "2020-12-16",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "twitter": "@aneventapart"
-  },
-  {
-    "name": "Design Inspire Conference",
-    "url": "https://www.valuelabs.com/design-inspire/conference.html",
-    "startDate": "2020-11-28",
-    "endDate": "2020-11-28",
-    "city": "Hyderabad",
-    "country": "India",
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "Touch Digital Summit",
-    "url": "https://touch.ge/summit",
-    "startDate": "2020-11-20",
-    "endDate": "2020-11-29",
-    "online": true,
-    "cocUrl": "https://touch.ge/summit",
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "Savvy UX Summit",
-    "url": "https://www.savvyuxsummit.com",
-    "startDate": "2020-12-07",
-    "endDate": "2020-12-10",
-    "online": true,
-    "twitter": "@SavvyUXSummit",
-    "offersSignLanguageOrCC": false
-  },
-  {
     "name": "UXINDIA",
     "url": "https://www.ux-india.org/uxindia2020",
     "startDate": "2020-12-07",
@@ -533,5 +524,14 @@
     "online": true,
     "twitter": "@uxindiaconf",
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "An Event Apart San Francisco",
+    "url": "https://aneventapart.com/event/san-francisco-2020",
+    "startDate": "2020-12-14",
+    "endDate": "2020-12-16",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "twitter": "@aneventapart"
   }
 ]

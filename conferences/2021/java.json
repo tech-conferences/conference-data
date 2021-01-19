@@ -1,5 +1,38 @@
 [
   {
+    "name": "DawsCon",
+    "url": "https://www.dawsoncollege.qc.ca/dawscon",
+    "startDate": "2021-01-15",
+    "endDate": "2021-01-15",
+    "city": "Montreal",
+    "country": "Canada",
+    "twitter": "@omniprof",
+    "cocUrl": "https://www.dawsoncollege.qc.ca/dawscon/dawscon-code-of-conduct-code-de-conduite-pour-la-conference/",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "WeAreDevelopers Live – Java Day",
+    "url": "https://wearedevelopers.com/event/java-day",
+    "startDate": "2021-01-20",
+    "endDate": "2021-01-20",
+    "online": true,
+    "cfpUrl": "https://www.wearedevelopers.com/live/cfp",
+    "cfpEndDate": "2021-01-11",
+    "twitter": "@WeAreDevs",
+    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct/",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "DevNexus",
+    "url": "https://devnexus.com",
+    "startDate": "2021-02-17",
+    "endDate": "2021-02-17",
+    "online": true,
+    "twitter": "@devnexus",
+    "cocUrl": "https://devnexus.com/code-of-conduct",
+    "offersSignLanguageOrCC": false
+  },
+  {
     "name": "Node.TLV",
     "url": "https://www.nodetlv.com",
     "startDate": "2021-03-10",
@@ -20,27 +53,6 @@
     "twitter": "@conf42com"
   },
   {
-    "name": "DawsCon",
-    "url": "https://www.dawsoncollege.qc.ca/dawscon",
-    "startDate": "2021-01-15",
-    "endDate": "2021-01-15",
-    "city": "Montreal",
-    "country": "Canada",
-    "twitter": "@omniprof",
-    "cocUrl": "https://www.dawsoncollege.qc.ca/dawscon/dawscon-code-of-conduct-code-de-conduite-pour-la-conference/",
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "DevNexus",
-    "url": "https://devnexus.com",
-    "startDate": "2021-02-17",
-    "endDate": "2021-02-17",
-    "online": true,
-    "twitter": "@devnexus",
-    "cocUrl": "https://devnexus.com/code-of-conduct",
-    "offersSignLanguageOrCC": false
-  },
-  {
     "name": "JavaZone",
     "url": "http://javazone.no",
     "startDate": "2021-09-08",
@@ -49,18 +61,6 @@
     "country": "Norway",
     "cfpUrl": "https://2021.javazone.no/#/speakers",
     "cfpEndDate": "2021-04-09",
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "WeAreDevelopers Live – Java Day",
-    "url": "https://wearedevelopers.com/event/java-day",
-    "startDate": "2021-01-20",
-    "endDate": "2021-01-20",
-    "online": true,
-    "twitter": "@WeAreDevs",
-    "cfpUrl": "https://www.wearedevelopers.com/live/cfp",
-    "cfpEndDate": "2021-01-11",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct/",
     "offersSignLanguageOrCC": false
   }
 ]

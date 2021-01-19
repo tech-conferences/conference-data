@@ -28,6 +28,16 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Univention Summit",
+    "url": "https://www.univention-summit.com",
+    "startDate": "2021-01-28",
+    "endDate": "2021-01-28",
+    "city": "Bremen",
+    "country": "Germany",
+    "twitter": "@univention",
+    "offersSignLanguageOrCC": false
+  },
+  {
     "name": "AccessibilityCon",
     "url": "https://accessibilitycon.devcongalaxy.io/",
     "startDate": "2021-02-03",
@@ -43,6 +53,41 @@
     "endDate": "2021-02-07",
     "online": true,
     "cocUrl": "https://fosdem.org/2021/practical/conduct/"
+  },
+  {
+    "name": "Frontend Love",
+    "url": "https://www.frontenddeveloperlove.com",
+    "startDate": "2021-02-08",
+    "endDate": "2021-02-12",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "cfpUrl": "https://docs.google.com/forms/u/1/d/e/1FAIpQLSeIu75vqZm3_aPIyi8iLOtv5W2QRsFlj7fhOIDYVDjiaXwa9g/viewform",
+    "twitter": "@Frontend_Love",
+    "cocUrl": "https://www.frontenddeveloperlove.com/code-of-conduct",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "InfoQ Live",
+    "url": "https://live.infoq.com",
+    "startDate": "2021-02-16",
+    "endDate": "2021-02-16",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfexoSjgtnIFrnTqNdST6BPH5FTYFS4gV1w0k5DWzGhDvipXw/viewform",
+    "cfpEndDate": "2020-12-31",
+    "twitter": "@InfoQ",
+    "cocUrl": "https://live.infoq.com/code-conduct",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "CloudWorld",
+    "url": "https://cloudworldconf.com",
+    "startDate": "2021-02-17",
+    "endDate": "2021-02-19",
+    "online": true,
+    "cfpUrl": "https://cloudworldconf.com/conference/speakers/apply-to-speak",
+    "cfpEndDate": "2020-12-11",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
+    "offersSignLanguageOrCC": false
   },
   {
     "name": "DeveloperWeek",
@@ -67,6 +112,16 @@
     "twitter": "@conf42com"
   },
   {
+    "name": "Afro Future Summit",
+    "url": "http://afrofuturesummit.com",
+    "startDate": "2021-02-26",
+    "endDate": "2021-02-26",
+    "online": true,
+    "cfpUrl": "https://www.eventbrite.com/e/afro-future-summit-2021-tickets-135509678095",
+    "cfpEndDate": "2021-02-26",
+    "offersSignLanguageOrCC": false
+  },
+  {
     "name": "ReactiveConf",
     "url": "https://reactiveconf.com",
     "startDate": "2021-03-08",
@@ -75,6 +130,27 @@
     "country": "Czech Republic",
     "twitter": "@ReactiveConf",
     "cocUrl": "https://reactiveconf.com/code-of-conduct/"
+  },
+  {
+    "name": "Software Architecture Summit",
+    "url": "https://software-architecture-summit.de",
+    "startDate": "2021-03-10",
+    "endDate": "2021-03-12",
+    "online": true,
+    "twitter": "@SoftwArchSummit",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Codemotion Tech Conference - Italian Edition",
+    "url": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-italian-edition-spring",
+    "startDate": "2021-03-23",
+    "endDate": "2021-03-25",
+    "online": true,
+    "cfpUrl": "https://extra.codemotion.com/onlineconf-italian-2021-cfp",
+    "cfpEndDate": "2021-01-29",
+    "twitter": "@CodemotionIT",
+    "cocUrl": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-italian-edition-spring/code-of-conduct",
+    "offersSignLanguageOrCC": false
   },
   {
     "name": "Devoxx",
@@ -111,6 +187,18 @@
     "offersSignLanguageOrCC": false
   },
   {
+    "name": "GIDS Live",
+    "url": "https://www.developersummit.com/live/2021",
+    "startDate": "2021-04-27",
+    "endDate": "2021-04-30",
+    "online": true,
+    "cfpUrl": "https://www.developersummit.com/live/2021/cfp",
+    "cfpEndDate": "2021-02-26",
+    "twitter": "@developersummit",
+    "cocUrl": "https://wurreka.com/code-of-conduct",
+    "offersSignLanguageOrCC": false
+  },
+  {
     "name": "Conf42: Cloud Native",
     "url": "https://www.conf42.com",
     "startDate": "2021-04-29",
@@ -119,6 +207,30 @@
     "cfpUrl": "https://www.papercall.io/conf42-cloud-native-2021",
     "cfpEndDate": "2021-03-15",
     "twitter": "@conf42com"
+  },
+  {
+    "name": "QCon Plus",
+    "url": "https://plus.qconferences.com",
+    "startDate": "2021-05-10",
+    "endDate": "2021-05-28",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfexoSjgtnIFrnTqNdST6BPH5FTYFS4gV1w0k5DWzGhDvipXw/viewform",
+    "cfpEndDate": "2021-03-31",
+    "twitter": "@QCon",
+    "cocUrl": "https://plus.qconferences.com/code-conduct",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Lazy Load",
+    "url": "https://www.webdirections.org/lazyload",
+    "startDate": "2021-05-14",
+    "endDate": "2021-05-21",
+    "online": true,
+    "cfpUrl": "https://www.webdirections.org/lazyload/#speak",
+    "cfpEndDate": "2021-02-28",
+    "twitter": "@webdirections",
+    "cocUrl": "https://www.webdirections.org/web-directions-event-code-of-conduct/",
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "Codemotion",
@@ -138,6 +250,16 @@
     "country": "France",
     "twitter": "@DevBreak20",
     "cocUrl": "https://www.devbreak.io/code-of-conduct"
+  },
+  {
+    "name": "Swiss Testing Day",
+    "url": "https://www.swisstestingday.ch/en",
+    "startDate": "2021-06-30",
+    "endDate": "2021-06-30",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "twitter": "@SwissTesting",
+    "offersSignLanguageOrCC": false
   },
   {
     "name": "Voxxed Days Downunder",
@@ -170,8 +292,8 @@
     "country": "Australia",
     "cfpUrl": "https://vxsyd21.cfp.dev",
     "cfpEndDate": "2021-03-31",
-    "cocUrl": "https://australia.voxxeddays.com/code-of-conduct/",
-    "twitter": "@VoxxedAustralia"
+    "twitter": "@VoxxedAustralia",
+    "cocUrl": "https://australia.voxxeddays.com/code-of-conduct/"
   },
   {
     "name": "REFACTR.TECH",
@@ -205,6 +327,17 @@
     "cocUrl": "https://thestrangeloop.com/policies.html"
   },
   {
+    "name": "Pacific NW Software Quality Conference",
+    "url": "https://www.pnsqc.org",
+    "startDate": "2021-10-11",
+    "endDate": "2021-10-13",
+    "city": "Portland, OR",
+    "country": "U.S.A.",
+    "twitter": "@PNSQC",
+    "cocUrl": "https://www.pnsqc.org/about-pnsqc/governance/",
+    "offersSignLanguageOrCC": false
+  },
+  {
     "name": "HackConf",
     "url": "https://www.hackconf.bg",
     "startDate": "2021-10-22",
@@ -227,29 +360,6 @@
     "cocUrl": "https://www.itnextsummit.com/wp-content/uploads/2019/01/code-of-conduct.pdf"
   },
   {
-    "name": "Frontend Love",
-    "url": "https://www.frontenddeveloperlove.com",
-    "startDate": "2021-02-08",
-    "endDate": "2021-02-12",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "twitter": "@Frontend_Love",
-    "cfpUrl": "https://docs.google.com/forms/u/1/d/e/1FAIpQLSeIu75vqZm3_aPIyi8iLOtv5W2QRsFlj7fhOIDYVDjiaXwa9g/viewform",
-    "cocUrl": "https://www.frontenddeveloperlove.com/code-of-conduct",
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "CloudWorld",
-    "url": "https://cloudworldconf.com",
-    "startDate": "2021-02-17",
-    "endDate": "2021-02-19",
-    "online": true,
-    "cfpUrl": "https://cloudworldconf.com/conference/speakers/apply-to-speak",
-    "cfpEndDate": "2020-12-11",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "offersSignLanguageOrCC": false
-  },
-  {
     "name": "EuroSTAR Software Testing Conference",
     "url": "https://conference.eurostarsoftwaretesting.com/",
     "startDate": "2021-11-01",
@@ -259,126 +369,16 @@
     "offersSignLanguageOrCC": false
   },
   {
-    "name": "GIDS Live",
-    "url": "https://www.developersummit.com/live/2021",
-    "startDate": "2021-04-27",
-    "endDate": "2021-04-30",
-    "online": true,
-    "twitter": "@developersummit",
-    "cfpUrl": "https://www.developersummit.com/live/2021/cfp",
-    "cfpEndDate": "2021-02-26",
-    "cocUrl": "https://wurreka.com/code-of-conduct",
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "InfoQ Live",
-    "url": "https://live.infoq.com",
-    "startDate": "2021-02-16",
-    "endDate": "2021-02-16",
-    "online": true,
-    "twitter": "@InfoQ",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfexoSjgtnIFrnTqNdST6BPH5FTYFS4gV1w0k5DWzGhDvipXw/viewform",
-    "cfpEndDate": "2020-12-31",
-    "cocUrl": "https://live.infoq.com/code-conduct",
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "QCon Plus",
-    "url": "https://plus.qconferences.com",
-    "startDate": "2021-05-10",
-    "endDate": "2021-05-28",
-    "online": true,
-    "twitter": "@QCon",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfexoSjgtnIFrnTqNdST6BPH5FTYFS4gV1w0k5DWzGhDvipXw/viewform",
-    "cfpEndDate": "2021-03-31",
-    "cocUrl": "https://plus.qconferences.com/code-conduct",
-    "offersSignLanguageOrCC": false
-  },
-  {
     "name": "QCon San Francisco",
     "url": "https://qconsf.com",
     "startDate": "2021-11-01",
     "endDate": "2021-11-05",
     "city": "San Francisco, CA",
     "country": "U.S.A.",
-    "twitter": "@QConSF",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfexoSjgtnIFrnTqNdST6BPH5FTYFS4gV1w0k5DWzGhDvipXw/viewform",
     "cfpEndDate": "2021-07-31",
+    "twitter": "@QConSF",
     "cocUrl": "https://qconferences.com/code-conduct",
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "Lazy Load",
-    "url": "https://www.webdirections.org/lazyload",
-    "startDate": "2021-05-14",
-    "endDate": "2021-05-21",
-    "online": true,
-    "twitter": "@webdirections",
-    "cfpUrl": "https://www.webdirections.org/lazyload/#speak",
-    "cfpEndDate": "2021-02-28",
-    "cocUrl": "https://www.webdirections.org/web-directions-event-code-of-conduct/",
-    "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "Pacific NW Software Quality Conference",
-    "url": "https://www.pnsqc.org",
-    "startDate": "2021-10-11",
-    "endDate": "2021-10-13",
-    "city": "Portland, OR",
-    "country": "U.S.A.",
-    "twitter": "@PNSQC",
-    "cocUrl": "https://www.pnsqc.org/about-pnsqc/governance/",
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "Software Architecture Summit",
-    "url": "https://software-architecture-summit.de",
-    "startDate": "2021-03-10",
-    "endDate": "2021-03-12",
-    "online": true,
-    "twitter": "@SoftwArchSummit",
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "Codemotion Tech Conference - Italian Edition",
-    "url": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-italian-edition-spring",
-    "startDate": "2021-03-23",
-    "endDate": "2021-03-25",
-    "online": true,
-    "twitter": "@CodemotionIT",
-    "cfpUrl": "https://extra.codemotion.com/onlineconf-italian-2021-cfp",
-    "cfpEndDate": "2021-01-29",
-    "cocUrl": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-italian-edition-spring/code-of-conduct",
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "Afro Future Summit",
-    "url": "http://afrofuturesummit.com",
-    "startDate": "2021-02-26",
-    "endDate": "2021-02-26",
-    "online": true,
-    "cfpUrl": "https://www.eventbrite.com/e/afro-future-summit-2021-tickets-135509678095",
-    "cfpEndDate": "2021-02-26",
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "Univention Summit",
-    "url": "https://www.univention-summit.com",
-    "startDate": "2021-01-28",
-    "endDate": "2021-01-28",
-    "city": "Bremen",
-    "country": "Germany",
-    "twitter": "@univention",
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "Swiss Testing Day",
-    "url": "https://www.swisstestingday.ch/en",
-    "startDate": "2021-06-30",
-    "endDate": "2021-06-30",
-    "city": "Zurich",
-    "country": "Switzerland",
-    "twitter": "@SwissTesting",
     "offersSignLanguageOrCC": false
   }
 ]

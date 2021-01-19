@@ -265,6 +265,16 @@
     "twitter": "@phpconference"
   },
   {
+    "name": "betterCode PHP 8",
+    "url": "https://php.bettercode.eu",
+    "startDate": "2020-11-26",
+    "endDate": "2020-11-26",
+    "online": true,
+    "twitter": "@bettercodeconf",
+    "cocUrl": "https://php.bettercode.eu/code_of_conduct.php",
+    "offersSignLanguageOrCC": false
+  },
+  {
     "name": "laravelday",
     "url": "https://2020.laravelday.it",
     "startDate": "2020-11-26",
@@ -296,15 +306,5 @@
     "cfpUrl": "https://paris2020.symfony.com/cfp",
     "cfpEndDate": "2020-05-10",
     "twitter": "@symfonycon"
-  },
-  {
-    "name": "betterCode PHP 8",
-    "url": "https://php.bettercode.eu",
-    "startDate": "2020-11-26",
-    "endDate": "2020-11-26",
-    "online": true,
-    "twitter": "@bettercodeconf",
-    "cocUrl": "https://php.bettercode.eu/code_of_conduct.php",
-    "offersSignLanguageOrCC": false
   }
 ]

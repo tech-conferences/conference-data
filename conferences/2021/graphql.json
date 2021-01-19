@@ -1,5 +1,17 @@
 [
   {
+    "name": "GraphQL Asia",
+    "url": "https://graphql.asia",
+    "startDate": "2021-02-22",
+    "endDate": "2021-02-25",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdIKOPK9VaxhJptC7f2zk1PsvQMkxE7W7Jl1-xemCea9JpZng/viewform",
+    "cfpEndDate": "2021-01-07",
+    "twitter": "@graphqlasia",
+    "cocUrl": "https://www.graphql.asia/code-of-conduct/",
+    "offersSignLanguageOrCC": false
+  },
+  {
     "name": "API Conference",
     "url": "https://apiconference.net/thehague",
     "startDate": "2021-04-12",
@@ -10,18 +22,6 @@
     "cfpEndDate": "2020-11-02",
     "twitter": "@api_conference",
     "cocUrl": "https://apiconference.net/code-of-conduct/",
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "GraphQL Asia",
-    "url": "https://graphql.asia",
-    "startDate": "2021-02-22",
-    "endDate": "2021-02-25",
-    "online": true,
-    "twitter": "@graphqlasia",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdIKOPK9VaxhJptC7f2zk1PsvQMkxE7W7Jl1-xemCea9JpZng/viewform",
-    "cfpEndDate": "2021-01-07",
-    "cocUrl": "https://www.graphql.asia/code-of-conduct/",
     "offersSignLanguageOrCC": false
   }
 ]

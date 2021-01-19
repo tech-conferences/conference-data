@@ -1,5 +1,44 @@
 [
   {
+    "name": "Continuous Lifecycle: Kubernetes Experts Day",
+    "url": "https://www.continuouslifecycle.de/kubernetes_2.php",
+    "startDate": "2021-01-20",
+    "endDate": "2021-01-20",
+    "online": true,
+    "twitter": "@ConLifecycle",
+    "cocUrl": "https://www.continuouslifecycle.de/code_of_conduct.php",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "ShiftingLeft",
+    "url": "https://go.shiftleft.io/shifting-left-2021",
+    "startDate": "2021-01-28",
+    "endDate": "2021-01-28",
+    "online": true,
+    "twitter": "@shiftleftinc",
+    "cocUrl": "https://www.shiftleft.io/privacy-security/",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Continuous Lifecycle: Cloud Native Day",
+    "url": "https://www.continuouslifecycle.de/cloud_native.php",
+    "startDate": "2021-02-10",
+    "endDate": "2021-02-10",
+    "online": true,
+    "twitter": "@ConLifecycle",
+    "cocUrl": "https://www.continuouslifecycle.de/code_of_conduct.php",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "SKILup Day: Cloud Native and Serverless",
+    "url": "https://devopsinstitute.com/cns-2021",
+    "startDate": "2021-02-25",
+    "endDate": "2021-02-25",
+    "online": true,
+    "twitter": "@DEVOPSINST",
+    "offersSignLanguageOrCC": false
+  },
+  {
     "name": "Devopsdays Texas",
     "url": "https://devopsdays.org/events/2021-texas/welcome/",
     "startDate": "2021-03-02",
@@ -7,6 +46,16 @@
     "online": true,
     "twitter": "@devopsdaystexas",
     "cocUrl": "https://devopsdays.org/conduct/"
+  },
+  {
+    "name": "Continuous Lifecycle: Dev(Sec)Ops",
+    "url": "https://www.continuouslifecycle.de/devsecops.php",
+    "startDate": "2021-03-03",
+    "endDate": "2021-03-03",
+    "online": true,
+    "twitter": "@ConLifecycle",
+    "cocUrl": "https://www.continuouslifecycle.de/code_of_conduct.php",
+    "offersSignLanguageOrCC": false
   },
   {
     "name": "Devopsdays Birmingham",
@@ -30,16 +79,6 @@
     "cocUrl": "https://devops.talksplus.com/au/code-of-conduct.html"
   },
   {
-    "name": "Devopsdays Nashville",
-    "url": "https://devopsdays.org/events/2021-nashville/welcome/",
-    "startDate": "2021-10-28",
-    "endDate": "2021-10-29",
-    "city": "Nashville, TN",
-    "country": "U.S.A.",
-    "twitter": "@nashvilledevops",
-    "cocUrl": "https://devopsdays.org/conduct/"
-  },
-  {
     "name": "Devopsdays Boise",
     "url": "https://devopsdays.org/events/2021-boise/welcome/",
     "startDate": "2021-04-06",
@@ -59,6 +98,18 @@
     "cocUrl": "https://devopsdays.org/conduct/"
   },
   {
+    "name": "DevOpsCon London",
+    "url": "https://devopscon.io/london",
+    "startDate": "2021-04-20",
+    "endDate": "2021-04-23",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "twitter": "@devops_con",
+    "cocUrl": "https://devopscon.io/code-of-conduct/",
+    "offersSignLanguageOrCC": false
+  },
+  {
     "name": "Devopsdays Zurich (Winterthur)",
     "url": "https://devopsdays.org/events/2021-zurich/welcome/",
     "startDate": "2021-04-21",
@@ -66,6 +117,15 @@
     "city": "Zurich",
     "country": "Switzerland",
     "twitter": "@DevOpsZH",
+    "cocUrl": "https://devopsdays.org/conduct/"
+  },
+  {
+    "name": "Devopsdays Seattle",
+    "url": "https://devopsdays.org/events/2021-seattle/welcome/",
+    "startDate": "2021-05-04",
+    "endDate": "2021-05-04",
+    "online": true,
+    "twitter": "@devopsdayssea",
     "cocUrl": "https://devopsdays.org/conduct/"
   },
   {
@@ -84,15 +144,6 @@
     "endDate": "2021-05-13",
     "online": true,
     "cocUrl": "https://devopspro.lt/code-of-conduct/"
-  },
-  {
-    "name": "Devopsdays Seattle",
-    "url": "https://devopsdays.org/events/2021-seattle/welcome/",
-    "startDate": "2021-05-04",
-    "endDate": "2021-05-04",
-    "online": true,
-    "twitter": "@devopsdayssea",
-    "cocUrl": "https://devopsdays.org/conduct/"
   },
   {
     "name": "Devopsdays Paris",
@@ -125,6 +176,15 @@
     "cocUrl": "https://devopsdays.org/conduct/"
   },
   {
+    "name": "Paris Container Day",
+    "url": "https://paris-container-day.fr/en/",
+    "startDate": "2021-06-01",
+    "endDate": "2021-06-01",
+    "city": "Paris",
+    "country": "France",
+    "twitter": "@ContainerDayFr"
+  },
+  {
     "name": "Devopsdays Prague",
     "url": "https://devopsdays.org/events/2021-prague/welcome/",
     "startDate": "2021-06-02",
@@ -133,6 +193,56 @@
     "country": "Czech Republic",
     "twitter": "@devopsdaysprg",
     "cocUrl": "https://devopsdays.org/conduct/"
+  },
+  {
+    "name": "Lead Dev London",
+    "url": "https://london2020.theleaddeveloper.com/",
+    "startDate": "2021-06-08",
+    "endDate": "2021-06-09",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@TheLeadDev",
+    "cocUrl": "https://london2020.theleaddeveloper.com/code-of-conduct"
+  },
+  {
+    "name": "DevOps Conference Hybrid Edition",
+    "url": "https://devopscon.io/berlin",
+    "startDate": "2021-06-14",
+    "endDate": "2021-06-17",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@devops_con",
+    "cocUrl": "https://devopscon.io/code-of-conduct/",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "stackconf online",
+    "url": "https://stackconf.eu",
+    "startDate": "2021-06-15",
+    "endDate": "2021-06-16",
+    "online": true,
+    "cfpUrl": "https://stackconf.eu/propose",
+    "cfpEndDate": "2021-02-28",
+    "cocUrl": "https://stackconf.eu/code-of-conduct/",
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "Devoxx Poland",
+    "url": "http://devoxx.pl/",
+    "startDate": "2021-06-16",
+    "endDate": "2021-06-18",
+    "city": "Krakow",
+    "country": "Poland"
+  },
+  {
+    "name": "DevOps Fusion",
+    "url": "https://devops-fusion.com",
+    "startDate": "2021-06-30",
+    "endDate": "2021-06-30",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "twitter": "@DevOpsFusion",
+    "offersSignLanguageOrCC": false
   },
   {
     "name": "Devopsdays Minneapolis",
@@ -204,44 +314,6 @@
     "cocUrl": "https://devopsdays.org/conduct/"
   },
   {
-    "name": "Paris Container Day",
-    "url": "https://paris-container-day.fr/en/",
-    "startDate": "2021-06-01",
-    "endDate": "2021-06-01",
-    "city": "Paris",
-    "country": "France",
-    "twitter": "@ContainerDayFr"
-  },
-  {
-    "name": "Lead Dev London",
-    "url": "https://london2020.theleaddeveloper.com/",
-    "startDate": "2021-06-08",
-    "endDate": "2021-06-09",
-    "city": "London",
-    "country": "U.K.",
-    "twitter": "@TheLeadDev",
-    "cocUrl": "https://london2020.theleaddeveloper.com/code-of-conduct"
-  },
-  {
-    "name": "DevOps Conference Hybrid Edition",
-    "url": "https://devopscon.io/berlin",
-    "startDate": "2021-06-14",
-    "endDate": "2021-06-17",
-    "city": "Berlin",
-    "country": "Germany",
-    "twitter": "@devops_con",
-    "cocUrl": "https://devopscon.io/code-of-conduct/",
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "Devoxx Poland",
-    "url": "http://devoxx.pl/",
-    "startDate": "2021-06-16",
-    "endDate": "2021-06-18",
-    "city": "Krakow",
-    "country": "Poland"
-  },
-  {
     "name": "Conf42: SRE",
     "url": "https://www.conf42.com",
     "startDate": "2021-09-30",
@@ -252,85 +324,13 @@
     "twitter": "@conf42com"
   },
   {
-    "name": "Continuous Lifecycle: Kubernetes Experts Day",
-    "url": "https://www.continuouslifecycle.de/kubernetes_2.php",
-    "startDate": "2021-01-20",
-    "endDate": "2021-01-20",
-    "online": true,
-    "twitter": "@ConLifecycle",
-    "cocUrl": "https://www.continuouslifecycle.de/code_of_conduct.php",
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "Continuous Lifecycle: Cloud Native Day",
-    "url": "https://www.continuouslifecycle.de/cloud_native.php",
-    "startDate": "2021-02-10",
-    "endDate": "2021-02-10",
-    "online": true,
-    "twitter": "@ConLifecycle",
-    "cocUrl": "https://www.continuouslifecycle.de/code_of_conduct.php",
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "Continuous Lifecycle: Dev(Sec)Ops",
-    "url": "https://www.continuouslifecycle.de/devsecops.php",
-    "startDate": "2021-03-03",
-    "endDate": "2021-03-03",
-    "online": true,
-    "twitter": "@ConLifecycle",
-    "cocUrl": "https://www.continuouslifecycle.de/code_of_conduct.php",
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "stackconf online",
-    "url": "https://stackconf.eu",
-    "startDate": "2021-06-15",
-    "endDate": "2021-06-16",
-    "online": true,
-    "cfpUrl": "https://stackconf.eu/propose",
-    "cfpEndDate": "2021-02-28",
-    "cocUrl": "https://stackconf.eu/code-of-conduct/",
-    "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "ShiftingLeft",
-    "url": "https://go.shiftleft.io/shifting-left-2021",
-    "startDate": "2021-01-28",
-    "endDate": "2021-01-28",
-    "online": true,
-    "twitter": "@shiftleftinc",
-    "cocUrl": "https://www.shiftleft.io/privacy-security/",
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "DevOps Fusion",
-    "url": "https://devops-fusion.com",
-    "startDate": "2021-06-30",
-    "endDate": "2021-06-30",
-    "city": "Zurich",
-    "country": "Switzerland",
-    "twitter": "@DevOpsFusion",
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "SKILup Day: Cloud Native and Serverless",
-    "url": "https://devopsinstitute.com/cns-2021",
-    "startDate": "2021-02-25",
-    "endDate": "2021-02-25",
-    "online": true,
-    "twitter": "@DEVOPSINST",
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "DevOpsCon London",
-    "url": "https://devopscon.io/london",
-    "startDate": "2021-04-20",
-    "endDate": "2021-04-23",
-    "twitter": "@devops_con",
-    "cocUrl": "https://devopscon.io/code-of-conduct/",
-    "online": true,
-    "city": "London",
-    "country": "U.K.",
-    "offersSignLanguageOrCC": false
+    "name": "Devopsdays Nashville",
+    "url": "https://devopsdays.org/events/2021-nashville/welcome/",
+    "startDate": "2021-10-28",
+    "endDate": "2021-10-29",
+    "city": "Nashville, TN",
+    "country": "U.S.A.",
+    "twitter": "@nashvilledevops",
+    "cocUrl": "https://devopsdays.org/conduct/"
   }
 ]

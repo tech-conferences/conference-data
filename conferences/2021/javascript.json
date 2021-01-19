@@ -28,6 +28,40 @@
     "cocUrl": "https://testjssummit.com/coc"
   },
   {
+    "name": "TheJam.dev",
+    "url": "https://thejam.dev",
+    "startDate": "2021-01-28",
+    "endDate": "2021-01-29",
+    "online": true,
+    "twitter": "@cfe_dev",
+    "cocUrl": "https://cfe.dev/conduct/",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "JSworld",
+    "url": "http://www.jsworldconference.com",
+    "startDate": "2021-02-22",
+    "endDate": "2021-02-27",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeIu75vqZm3_aPIyi8iLOtv5W2QRsFlj7fhOIDYVDjiaXwa9g/viewform",
+    "cfpEndDate": "2020-12-23",
+    "twitter": "@Frontend_Love",
+    "cocUrl": "https://frontenddeveloperlove.com/code-of-conduct",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Vue.js Amsterdam",
+    "url": "http://www.vuejs.amsterdam",
+    "startDate": "2021-02-26",
+    "endDate": "2021-02-27",
+    "online": true,
+    "cfpUrl": "https://forms.gle/4gMUH8yKnacDRxa17",
+    "cfpEndDate": "2020-12-23",
+    "twitter": "@vuejsamsterdam",
+    "cocUrl": "https://vuejs.amsterdam/code-of-conduct",
+    "offersSignLanguageOrCC": false
+  },
+  {
     "name": "ReactiveConf",
     "url": "https://reactiveconf.com",
     "startDate": "2021-03-08",
@@ -47,7 +81,71 @@
     "online": true,
     "cocUrl": "https://devopsjsconf.com/coc"
   },
-    {
+  {
+    "name": "Angular Days",
+    "url": "https://javascript-days.de/angular",
+    "startDate": "2021-03-22",
+    "endDate": "2021-03-25",
+    "city": "Munich",
+    "country": "Germany",
+    "cocUrl": "https://javascript-days.de/code-of-conduct/",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "JavaScript Days",
+    "url": "https://javascript-days.de/muenchen",
+    "startDate": "2021-03-22",
+    "endDate": "2021-03-25",
+    "city": "Munich",
+    "country": "Germany",
+    "twitter": "@JS_Days",
+    "cocUrl": "https://javascript-days.de/code-of-conduct/"
+  },
+  {
+    "name": "JavsScript, Angular, React, HTML & CSS Days",
+    "url": "https://javascript-days.de/muenchen",
+    "startDate": "2021-03-22",
+    "endDate": "2021-03-25",
+    "online": true,
+    "twitter": "@JS_Days",
+    "cocUrl": "https://javascript-days.de/code-of-conduct/",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "React Days",
+    "url": "https://javascript-days.de/react",
+    "startDate": "2021-03-22",
+    "endDate": "2021-03-25",
+    "city": "Munich",
+    "country": "Germany",
+    "twitter": "@React_Days",
+    "cocUrl": "https://javascript-days.de/code-of-conduct/",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "CityJS",
+    "url": "https://cityjsconf.org",
+    "startDate": "2021-03-24",
+    "endDate": "2021-03-26",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@cityjsconf",
+    "cocUrl": "https://cityjsconf.org/coc",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Vueconf.US",
+    "url": "http://vueconf.us",
+    "startDate": "2021-04-14",
+    "endDate": "2021-04-14",
+    "online": true,
+    "cfpUrl": "http://vueconf.us/cfp",
+    "cfpEndDate": "2021-01-16",
+    "twitter": "@vueconfus",
+    "cocUrl": "http://vueconf.us/codeofconduct",
+    "offersSignLanguageOrCC": false
+  },
+  {
     "name": "React Summit Remote Edition",
     "url": "https://remote.reactsummit.com/",
     "startDate": "2021-04-14",
@@ -77,14 +175,16 @@
     "offersSignLanguageOrCC": false
   },
   {
-    "name": "LvivJS",
-    "url": "https://lvivjs.org.ua",
-    "startDate": "2021-06-06",
-    "endDate": "2021-06-06",
-    "city": "Lviv",
-    "country": "Ukraine",
-    "twitter": "@LvivJS",
-    "cocUrl": "https://lvivjs.org.ua/code_of_conduct.html"
+    "name": "Global Scope",
+    "url": "https://www.webdirections.org/globalscope",
+    "startDate": "2021-06-04",
+    "endDate": "2021-06-25",
+    "online": true,
+    "cfpUrl": "https://www.webdirections.org/globalscope#speak",
+    "cfpEndDate": "2021-03-05",
+    "twitter": "@webdirections",
+    "cocUrl": "https://www.webdirections.org/web-directions-event-code-of-conduct/",
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "JSNation Live",
@@ -94,6 +194,16 @@
     "online": true,
     "twitter": "@thejsnation",
     "cocUrl": "https://live.jsnation.com/coc"
+  },
+  {
+    "name": "LvivJS",
+    "url": "https://lvivjs.org.ua",
+    "startDate": "2021-06-06",
+    "endDate": "2021-06-06",
+    "city": "Lviv",
+    "country": "Ukraine",
+    "twitter": "@LvivJS",
+    "cocUrl": "https://lvivjs.org.ua/code_of_conduct.html"
   },
   {
     "name": "React Day Norway",
@@ -126,6 +236,17 @@
     "cocUrl": "https://jscamp.tech/code-of-conduct/"
   },
   {
+    "name": "JavaScript and Friends",
+    "url": "https://www.javascriptandfriends.com",
+    "startDate": "2021-08-20",
+    "endDate": "2021-08-20",
+    "city": "Columbus, OH",
+    "country": "U.S.A.",
+    "twitter": "@JSFriendsConf",
+    "cocUrl": "https://www.javascriptandfriends.com/codeofconduct",
+    "offersSignLanguageOrCC": false
+  },
+  {
     "name": "React Day New York",
     "url": "https://reactnewyork.com",
     "startDate": "2021-09-10",
@@ -155,126 +276,5 @@
     "cfpUrl": "https://www.papercall.io/conf42-javascript-2021",
     "cfpEndDate": "2021-09-13",
     "twitter": "@conf42com"
-  },
-  {
-    "name": "CityJS",
-    "url": "https://cityjsconf.org",
-    "startDate": "2021-03-24",
-    "endDate": "2021-03-26",
-    "city": "London",
-    "country": "U.K.",
-    "twitter": "@cityjsconf",
-    "cocUrl": "https://cityjsconf.org/coc",
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "JavsScript, Angular, React, HTML & CSS Days",
-    "url": "https://javascript-days.de/muenchen",
-    "startDate": "2021-03-22",
-    "endDate": "2021-03-25",
-    "online": true,
-    "twitter": "@JS_Days",
-    "cocUrl": "https://javascript-days.de/code-of-conduct/",
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "Angular Days",
-    "url": "https://javascript-days.de/angular",
-    "startDate": "2021-03-22",
-    "endDate": "2021-03-25",
-    "city": "Munich",
-    "country": "Germany",
-    "offersSignLanguageOrCC": false,
-    "cocUrl": "https://javascript-days.de/code-of-conduct/"
-  },
-  {
-    "name": "React Days",
-    "url": "https://javascript-days.de/react",
-    "startDate": "2021-03-22",
-    "endDate": "2021-03-25",
-    "city": "Munich",
-    "country": "Germany",
-    "twitter": "@React_Days",
-    "offersSignLanguageOrCC": false,
-    "cocUrl": "https://javascript-days.de/code-of-conduct/"
-  },
-  {
-    "name": "JavaScript Days",
-    "url": "https://javascript-days.de/muenchen",
-    "startDate": "2021-03-22",
-    "endDate": "2021-03-25",
-    "city": "Munich",
-    "country": "Germany",
-    "twitter": "@JS_Days",
-    "cocUrl": "https://javascript-days.de/code-of-conduct/"
-  },
-  {
-    "name": "Vueconf.US",
-    "url": "http://vueconf.us",
-    "startDate": "2021-04-14",
-    "endDate": "2021-04-14",
-    "online": true,
-    "twitter": "@vueconfus",
-    "cfpUrl": "http://vueconf.us/cfp",
-    "cfpEndDate": "2021-01-16",
-    "cocUrl": "http://vueconf.us/codeofconduct",
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "JSworld",
-    "url": "http://www.jsworldconference.com",
-    "startDate": "2021-02-22",
-    "endDate": "2021-02-27",
-    "online": true,
-    "twitter": "@Frontend_Love",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeIu75vqZm3_aPIyi8iLOtv5W2QRsFlj7fhOIDYVDjiaXwa9g/viewform",
-    "cfpEndDate": "2020-12-23",
-    "cocUrl": "https://frontenddeveloperlove.com/code-of-conduct",
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "Global Scope",
-    "url": "https://www.webdirections.org/globalscope",
-    "startDate": "2021-06-04",
-    "endDate": "2021-06-25",
-    "online": true,
-    "twitter": "@webdirections",
-    "cfpUrl": "https://www.webdirections.org/globalscope#speak",
-    "cfpEndDate": "2021-03-05",
-    "cocUrl": "https://www.webdirections.org/web-directions-event-code-of-conduct/",
-    "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "Vue.js Amsterdam",
-    "url": "http://www.vuejs.amsterdam",
-    "startDate": "2021-02-26",
-    "endDate": "2021-02-27",
-    "online": true,
-    "twitter": "@vuejsamsterdam",
-    "cfpUrl": "https://forms.gle/4gMUH8yKnacDRxa17",
-    "cfpEndDate": "2020-12-23",
-    "cocUrl": "https://vuejs.amsterdam/code-of-conduct",
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "JavaScript and Friends",
-    "url": "https://www.javascriptandfriends.com",
-    "startDate": "2021-08-20",
-    "endDate": "2021-08-20",
-    "city": "Columbus, OH",
-    "country": "U.S.A.",
-    "twitter": "@JSFriendsConf",
-    "cocUrl": "https://www.javascriptandfriends.com/codeofconduct",
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "TheJam.dev",
-    "url": "https://thejam.dev",
-    "startDate": "2021-01-28",
-    "endDate": "2021-01-29",
-    "online": true,
-    "twitter": "@cfe_dev",
-    "cocUrl": "https://cfe.dev/conduct/",
-    "offersSignLanguageOrCC": false
   }
 ]
