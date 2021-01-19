@@ -32,15 +32,13 @@
     "cocUrl": "https://confoo.ca/en/code-of-conduct"
   },
   {
-    "name": "Dutch PHP Conference",
-    "url": "https://www.phpconference.nl",
-    "startDate": "2021-06-17",
-    "endDate": "2021-06-18",
+    "name": "DrupalCon North America",
+    "url": "https://events.drupal.org/drupalcon2021",
+    "startDate": "2021-04-12",
+    "endDate": "2021-04-16",
     "online": true,
-    "twitter": "@dpcon",
-    "cfpUrl": "https://www.phpconference.nl/node/150",
-    "cfpEndDate": "2021-03-01",
-    "cocUrl": "https://www.phpconference.nl/code-of-conduct",
+    "twitter": "@drupalcon",
+    "cocUrl": "https://events.drupal.org/code-conduct",
     "offersSignLanguageOrCC": true
   },
   {
@@ -50,20 +48,22 @@
     "endDate": "2021-06-11",
     "city": "Berlin",
     "country": "Germany",
-    "twitter": "@phpconference",
     "cfpUrl": "https://phpconference.com/call-for-papers",
     "cfpEndDate": "2021-01-14",
+    "twitter": "@phpconference",
     "cocUrl": "https://phpconference.com/code-of-conduct/",
     "offersSignLanguageOrCC": false
   },
   {
-    "name": "DrupalCon North America",
-    "url": "https://events.drupal.org/drupalcon2021",
-    "startDate": "2021-04-12",
-    "endDate": "2021-04-16",
+    "name": "Dutch PHP Conference",
+    "url": "https://www.phpconference.nl",
+    "startDate": "2021-06-17",
+    "endDate": "2021-06-18",
     "online": true,
-    "twitter": "@drupalcon",
-    "cocUrl": "https://events.drupal.org/code-conduct",
+    "cfpUrl": "https://www.phpconference.nl/node/150",
+    "cfpEndDate": "2021-03-01",
+    "twitter": "@dpcon",
+    "cocUrl": "https://www.phpconference.nl/code-of-conduct",
     "offersSignLanguageOrCC": true
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "name": "UX & Product Conference",
+    "url": "http://conference.uxandproduct.com",
+    "startDate": "2021-02-04",
+    "endDate": "2021-02-04",
+    "online": true,
+    "offersSignLanguageOrCC": false
+  },
+  {
     "name": "#ProductCon",
     "url": "https://www.productschool.com/productcon/london/",
     "startDate": "2021-02-09",
@@ -8,6 +16,17 @@
     "country": "U.K.",
     "twitter": "@productschool",
     "cocUrl": "https://productschool.com/code-of-conduct/"
+  },
+  {
+    "name": "ProductWorld",
+    "url": "https://productworld.co",
+    "startDate": "2021-02-17",
+    "endDate": "2021-02-19",
+    "online": true,
+    "cfpUrl": "https://productworld.co/conference/speakers/apply-to-speak",
+    "cfpEndDate": "2020-12-11",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
+    "offersSignLanguageOrCC": false
   },
   {
     "name": "Mind the Product",
@@ -37,24 +56,5 @@
     "city": "Zurich",
     "country": "Switzerland",
     "twitter": "@europeanporeday"
-  },
-  {
-    "name": "UX & Product Conference",
-    "url": "http://conference.uxandproduct.com",
-    "startDate": "2021-02-04",
-    "endDate": "2021-02-04",
-    "online": true,
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "ProductWorld",
-    "url": "https://productworld.co",
-    "startDate": "2021-02-17",
-    "endDate": "2021-02-19",
-    "online": true,
-    "cfpUrl": "https://productworld.co/conference/speakers/apply-to-speak",
-    "cfpEndDate": "2020-12-11",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "offersSignLanguageOrCC": false
   }
 ]

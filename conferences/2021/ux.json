@@ -1,5 +1,13 @@
 [
   {
+    "name": "OLX D'Light",
+    "url": "https://olxdlight.com",
+    "startDate": "2021-01-21",
+    "endDate": "2021-01-22",
+    "online": true,
+    "offersSignLanguageOrCC": false
+  },
+  {
     "name": "UXOK",
     "url": "https://uxok.org",
     "startDate": "2021-02-05",
@@ -10,6 +18,15 @@
     "cfpEndDate": "2020-10-01",
     "twitter": "@uxokconf",
     "cocUrl": "https://www.techlahoma.org/code-of-conduct"
+  },
+  {
+    "name": "UXLx Masters",
+    "url": "https://masters.ux-lx.com",
+    "startDate": "2021-02-10",
+    "endDate": "2021-02-12",
+    "online": true,
+    "twitter": "@uxlx",
+    "offersSignLanguageOrCC": false
   },
   {
     "name": "Outcome",
@@ -23,6 +40,16 @@
     "twitter": "@vingar",
     "cocUrl": "http://outcomeconf.com/code-of-conduct/",
     "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "World-class Designer Conference",
+    "url": "http://conf.wcd.school",
+    "startDate": "2021-02-18",
+    "endDate": "2021-02-19",
+    "online": true,
+    "twitter": "@class_designer",
+    "cocUrl": "https://conf.wcd.school/code-of-conduct",
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "UXDX APAC",
@@ -53,6 +80,29 @@
     "cocUrl": "https://docs.google.com/document/d/1E5eiXx868wRSLvExCctywlVulSUkFjlTX2J1PwM_aPA/edit"
   },
   {
+    "name": "IAC",
+    "url": "https://www.theiaconference.com",
+    "startDate": "2021-04-28",
+    "endDate": "2021-04-30",
+    "online": true,
+    "twitter": "@theiaconf",
+    "cocUrl": "https://www.theiaconference.com/about/code-of-conduct/",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "webinale",
+    "url": "https://webinale.de/en",
+    "startDate": "2021-06-07",
+    "endDate": "2021-06-11",
+    "city": "Berlin",
+    "country": "Germany",
+    "cfpUrl": "https://webinale.de/call-for-papers",
+    "cfpEndDate": "2021-01-14",
+    "twitter": "@webinale",
+    "cocUrl": "https://webinale.de/code-of-conduct-en/",
+    "offersSignLanguageOrCC": false
+  },
+  {
     "name": "CSSCAMP",
     "url": "https://csscamp.tech",
     "startDate": "2021-07-14",
@@ -81,55 +131,5 @@
     "country": "Canada",
     "twitter": "@canuxconf",
     "cocUrl": "https://canux.io/about/code-of-conduct/"
-  },
-  {
-    "name": "UXLx Masters",
-    "url": "https://masters.ux-lx.com",
-    "startDate": "2021-02-10",
-    "endDate": "2021-02-12",
-    "online": true,
-    "twitter": "@uxlx",
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "webinale",
-    "url": "https://webinale.de/en",
-    "startDate": "2021-06-07",
-    "endDate": "2021-06-11",
-    "city": "Berlin",
-    "country": "Germany",
-    "twitter": "@webinale",
-    "cfpUrl": "https://webinale.de/call-for-papers",
-    "cfpEndDate": "2021-01-14",
-    "cocUrl": "https://webinale.de/code-of-conduct-en/",
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "World-class Designer Conference",
-    "url": "http://conf.wcd.school",
-    "startDate": "2021-02-18",
-    "endDate": "2021-02-19",
-    "online": true,
-    "twitter": "@class_designer",
-    "cocUrl": "https://conf.wcd.school/code-of-conduct",
-    "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "IAC",
-    "url": "https://www.theiaconference.com",
-    "startDate": "2021-04-28",
-    "endDate": "2021-04-30",
-    "online": true,
-    "twitter": "@theiaconf",
-    "cocUrl": "https://www.theiaconference.com/about/code-of-conduct/",
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "OLX D'Light",
-    "url": "https://olxdlight.com",
-    "startDate": "2021-01-21",
-    "endDate": "2021-01-22",
-    "online": true,
-    "offersSignLanguageOrCC": false
   }
 ]

@@ -1,5 +1,24 @@
 [
   {
+    "name": "Cloud Transformation Champions",
+    "url": "https://hctc-eu.coriniumintelligence.com/",
+    "startDate": "2021-03-02",
+    "endDate": "2021-03-03",
+    "online": true,
+    "twitter": "@CoriniumGlobal",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Her Future Summit",
+    "url": "http://herfuturesummit.org",
+    "startDate": "2021-03-31",
+    "endDate": "2021-03-31",
+    "online": true,
+    "cfpUrl": "https://www.eventbrite.com/e/her-future-summit-global-virtual-2021-tickets-135369992291",
+    "cfpEndDate": "2021-03-31",
+    "offersSignLanguageOrCC": false
+  },
+  {
     "name": "TECHSPO",
     "url": "https://techsponyc.com",
     "startDate": "2021-04-15",
@@ -41,25 +60,6 @@
     "endDate": "2021-08-26",
     "city": "Sydney",
     "country": "Australia",
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "Cloud Transformation Champions",
-    "url": "https://hctc-eu.coriniumintelligence.com/",
-    "startDate": "2021-03-02",
-    "endDate": "2021-03-03",
-    "online": true,
-    "twitter": "@CoriniumGlobal",
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "Her Future Summit",
-    "url": "http://herfuturesummit.org",
-    "startDate": "2021-03-31",
-    "endDate": "2021-03-31",
-    "online": true,
-    "cfpUrl": "https://www.eventbrite.com/e/her-future-summit-global-virtual-2021-tickets-135369992291",
-    "cfpEndDate": "2021-03-31",
     "offersSignLanguageOrCC": false
   }
 ]

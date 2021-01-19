@@ -1,5 +1,17 @@
 [
   {
+    "name": "GopherCon EU",
+    "url": "https://gophercon.eu",
+    "startDate": "2021-05-26",
+    "endDate": "2021-05-28",
+    "online": true,
+    "cfpUrl": "https://www.papercall.io/gceu2021",
+    "cfpEndDate": "2021-01-24",
+    "twitter": "@gopherconeu",
+    "cocUrl": "https://golang.org/conduct",
+    "offersSignLanguageOrCC": false
+  },
+  {
     "name": "Conf42: Go",
     "url": "https://www.conf42.com",
     "startDate": "2021-06-24",
@@ -8,17 +20,5 @@
     "cfpUrl": "https://www.papercall.io/conf42-golang-2021",
     "cfpEndDate": "2021-05-10",
     "twitter": "@conf42com"
-  },
-  {
-    "name": "GopherCon EU",
-    "url": "https://gophercon.eu",
-    "startDate": "2021-05-26",
-    "endDate": "2021-05-28",
-    "online": true,
-    "twitter": "@gopherconeu",
-    "cfpUrl": "https://www.papercall.io/gceu2021",
-    "cfpEndDate": "2021-01-24",
-    "cocUrl": "https://golang.org/conduct",
-    "offersSignLanguageOrCC": false
   }
 ]

@@ -1,5 +1,38 @@
 [
   {
+    "name": "sec4dev",
+    "url": "https://sec4dev.io",
+    "startDate": "2021-02-22",
+    "endDate": "2021-02-25",
+    "online": true,
+    "cfpUrl": "https://sec4dev.io/call-for-proposals",
+    "cfpEndDate": "2020-12-20",
+    "twitter": "@sec4dev",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "CPX 360",
+    "url": "https://virtual-cpx.checkpoint.com",
+    "startDate": "2021-02-23",
+    "endDate": "2021-02-24",
+    "online": true,
+    "twitter": "@CheckPointSW",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "B-Sides Tampa",
+    "url": "https://bsidestampa.net",
+    "startDate": "2021-02-27",
+    "endDate": "2021-02-27",
+    "city": "Tampa, FL",
+    "country": "U.S.A.",
+    "cfpUrl": "https://forms.zohopublic.com/isc2tampabaychapter/form/CFP/formperma/HBZJIUsxQk2aDT8raeZfK31PcUiCDL5Oomw4Dx0Pc5o",
+    "cfpEndDate": "2021-01-17",
+    "twitter": "@BSidesTampa",
+    "cocUrl": "https://bsidestampa.net/code-of-conduct/",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "QuBit Conference",
     "url": "https://tatry.qubitconference.com",
     "startDate": "2021-03-24",
@@ -20,48 +53,15 @@
     "cocUrl": "https://www.ruhrsec.de/2020/codeofconduct.html"
   },
   {
-    "name": "sec4dev",
-    "url": "https://sec4dev.io",
-    "startDate": "2021-02-22",
-    "endDate": "2021-02-25",
-    "online": true,
-    "twitter": "@sec4dev",
-    "cfpUrl": "https://sec4dev.io/call-for-proposals",
-    "cfpEndDate": "2020-12-20",
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "B-Sides Tampa",
-    "url": "https://bsidestampa.net",
-    "startDate": "2021-02-27",
-    "endDate": "2021-02-27",
-    "city": "Tampa, FL",
-    "country": "U.S.A.",
-    "twitter": "@BSidesTampa",
-    "cfpUrl": "https://forms.zohopublic.com/isc2tampabaychapter/form/CFP/formperma/HBZJIUsxQk2aDT8raeZfK31PcUiCDL5Oomw4Dx0Pc5o",
-    "cfpEndDate": "2021-01-17",
-    "cocUrl": "https://bsidestampa.net/code-of-conduct/",
-    "offersSignLanguageOrCC": true
-  },
-  {
     "name": "Qubit Conference",
     "url": "https://prague.qubitconference.com",
     "startDate": "2021-09-22",
     "endDate": "2021-09-23",
     "city": "Prague",
     "country": "Czech Republic",
-    "twitter": "@QuBitCon",
     "cfpUrl": "https://prague.qubitconference.com/call-speakers-form-prague",
     "cfpEndDate": "2021-04-10",
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "CPX 360",
-    "url": "https://virtual-cpx.checkpoint.com",
-    "startDate": "2021-02-23",
-    "endDate": "2021-02-24",
-    "twitter": "@CheckPointSW",
-    "online": true,
+    "twitter": "@QuBitCon",
     "offersSignLanguageOrCC": false
   }
 ]
