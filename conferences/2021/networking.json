@@ -63,13 +63,94 @@
     "offersSignLanguageOrCC": false
   },
   {
-    "name": "IEEE Women in Engineering International Leadership Conference (IEEE WIE ILC)",
+    "name": "Women in Tech Summit",
+    "url": "https://womenintechsummit.net/fall2021virtual",
+    "startDate": "2021-10-20",
+    "endDate": "2021-10-22",
+    "twitter": "@womentechsummit",
+    "cocUrl": "https://womenintechsummit.net/code-of-conduct/",
+    "online": true,
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Women in Tech Summit",
+    "url": "https://womenintechsummit.net/spring2021virtual",
+    "startDate": "2021-03-24",
+    "endDate": "2021-03-26",
+    "twitter": "@womentechsummit",
+    "cocUrl": "https://womenintechsummit.net/code-of-conduct/",
+    "online": true,
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Women in Technology Summit",
+    "url": "https://summit.witi.com",
+    "startDate": "2021-06-22",
+    "endDate": "2021-06-24",
+    "twitter": "@witi",
+    "cfpUrl": "https://witi.com/conferences/speakers/application",
+    "cocUrl": "https://witi.com/code-of-ethics/",
+    "online": true,
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Tech Up For Women",
+    "url": "https://techupforwomen.com/event-details",
+    "startDate": "2021-11-16",
+    "endDate": "2021-11-16",
+    "twitter": "@techupforwomen",
+    "cfpUrl": "https://techupforwomen.com/speakers/#speakers",
+    "online": true,
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Johnson Women in Tech",
+    "url": "https://www.johnsonwomenintech.com",
+    "startDate": "2021-03-26",
+    "endDate": "2021-03-27",
+    "twitter": "@CornellMBA",
+    "online": true,
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Women in Data Science (WiDS) Worldwide",
+    "url": "https://www.widsconference.org/conference.html",
+    "startDate": "2021-03-08",
+    "endDate": "2021-03-08",
+    "twitter": "@WiDS_Worldwide",
+    "cocUrl": "https://www.widsconference.org/codeofconduct.html",
+    "online": true,
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "IEEE Women in Engineering International Leadership Conference",
     "url": "http://ieee-wie-ilc.org",
     "startDate": "2021-04-27",
     "endDate": "2021-04-30",
     "twitter": "@wieilc",
     "cocUrl": "https://www.ieee.org/content/dam/ieee-org/ieee/web/org/about/ieee_code_of_conduct.pdf",
     "online": true,
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Women Transforming Technology Conference",
+    "url": "https://www.womentransformingtechnology.com",
+    "startDate": "2021-05-03",
+    "endDate": "2021-05-04",
+    "online": true,
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Women Techmakers",
+    "url": "https://www.wtmmontreal.com",
+    "startDate": "2021-03-20",
+    "endDate": "2021-03-20",
+    "city": "Montreal",
+    "country": "Canada",
+    "twitter": "@WTM_Montreal",
+    "cfpUrl": "https://www.papercall.io/wtmmontreal2021",
+    "cfpEndDate": "2021-01-31",
+    "online": false,
     "offersSignLanguageOrCC": false
   }
 ]
