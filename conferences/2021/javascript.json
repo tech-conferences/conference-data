@@ -285,5 +285,17 @@
     "twitter": "@ct_webdev",
     "online": true,
     "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Strapi Conference",
+    "url": "https://www.strapi.io/strapi-conf-2021",
+    "startDate": "2021-04-22",
+    "endDate": "2021-04-22",
+    "twitter": "@strapijs",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScUYkXm67c-yHccRYsskeUMWO4uwoWtFsBBElmVlrFYYfUyow/viewform",
+    "cfpEndDate": "2021-02-01",
+    "cocUrl": "https://forum.strapi.io/faq#coc",
+    "online": true,
+    "offersSignLanguageOrCC": false
   }
 ]
