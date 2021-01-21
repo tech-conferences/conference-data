@@ -121,5 +121,36 @@
     "cocUrl": "https://www.widsconference.org/codeofconduct.html",
     "online": true,
     "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "IEEE Women in Engineering International Leadership Conference",
+    "url": "http://ieee-wie-ilc.org",
+    "startDate": "2021-04-27",
+    "endDate": "2021-04-30",
+    "twitter": "@wieilc",
+    "cocUrl": "https://www.ieee.org/content/dam/ieee-org/ieee/web/org/about/ieee_code_of_conduct.pdf",
+    "online": true,
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Women Transforming Technology Conference",
+    "url": "https://www.womentransformingtechnology.com",
+    "startDate": "2021-05-03",
+    "endDate": "2021-05-04",
+    "online": true,
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Women Techmakers",
+    "url": "https://www.wtmmontreal.com",
+    "startDate": "2021-03-20",
+    "endDate": "2021-03-20",
+    "city": "Montreal",
+    "country": "Canada",
+    "twitter": "@WTM_Montreal",
+    "cfpUrl": "https://www.papercall.io/wtmmontreal2021",
+    "cfpEndDate": "2021-01-31",
+    "online": false,
+    "offersSignLanguageOrCC": false
   }
 ]
