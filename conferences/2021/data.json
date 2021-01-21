@@ -46,6 +46,15 @@
     "offersSignLanguageOrCC": false
   },
   {
+    "name": "Pharma AI, IoT & Blockchain",
+    "url": "https://www.virtueinsight.com/pharma/4th-Annual-Pharma-AI-IoT--Blockchain-2021-Virtual-Conference/",
+    "startDate": "2021-03-11",
+    "endDate": "2021-03-11",
+    "online": true,
+    "twitter": "@virtue_insight",
+    "offersSignLanguageOrCC": false
+  },
+  {
     "name": "ODSC East",
     "url": "https://odsc.com/boston/",
     "startDate": "2021-03-30",
@@ -77,6 +86,18 @@
     "offersSignLanguageOrCC": false
   },
   {
+    "name": "ODSC Europe Virtual Conference",
+    "url": "https://odsc.com/europe",
+    "startDate": "2021-06-08",
+    "endDate": "2021-06-10",
+    "online": true,
+    "cfpUrl": "https://odsc.com/europe/call-for-speakers-europe",
+    "cfpEndDate": "2021-05-01",
+    "twitter": "@odsc",
+    "cocUrl": "https://odsc.com/code-of-conduct/",
+    "offersSignLanguageOrCC": false
+  },
+  {
     "name": "ML Conference",
     "url": "https://mlconference.ai/munich",
     "startDate": "2021-06-21",
@@ -96,26 +117,5 @@
     "cfpUrl": "https://www.papercall.io/conf42-machine-learning-2021",
     "cfpEndDate": "2021-06-14",
     "twitter": "@conf42com"
-  },
-  {
-    "name": "ODSC Europe Virtual Conference",
-    "url": "https://odsc.com/europe",
-    "startDate": "2021-06-08",
-    "endDate": "2021-06-10",
-    "twitter": "@odsc",
-    "cfpUrl": "https://odsc.com/europe/call-for-speakers-europe",
-    "cfpEndDate": "2021-05-01",
-    "cocUrl": "https://odsc.com/code-of-conduct/",
-    "online": true,
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "Pharma AI, IoT & Blockchain",
-    "url": "https://www.virtueinsight.com/pharma/4th-Annual-Pharma-AI-IoT--Blockchain-2021-Virtual-Conference/",
-    "startDate": "2021-03-11",
-    "endDate": "2021-03-11",
-    "twitter": "@virtue_insight",
-    "online": true,
-    "offersSignLanguageOrCC": false
   }
 ]
