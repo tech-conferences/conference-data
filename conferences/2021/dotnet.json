@@ -47,5 +47,19 @@
     "country": "U.S.A.",
     "twitter": "@vslive",
     "cocUrl": "https://vslive.com/pages/harassment.aspx"
+  },
+  {
+    "name": "test",
+    "url": "http://google.de",
+    "startDate": "2021-01-22",
+    "endDate": "2021-01-23",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@cgrail",
+    "cfpUrl": "http://google.de",
+    "cfpEndDate": "2021-01-21",
+    "cocUrl": "http://google.de",
+    "online": false,
+    "offersSignLanguageOrCC": false
   }
 ]
