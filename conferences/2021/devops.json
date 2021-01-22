@@ -334,8 +334,29 @@
     "cocUrl": "https://devopsdays.org/conduct/"
   },
   {
+    "name": "cdCon",
+    "url": "https://events.linuxfoundation.org/cdcon",
+    "startDate": "2021-06-23",
+    "endDate": "2021-06-24",
+    "twitter": "@CDeliveryFdn",
+    "cfpUrl": "https://events.linuxfoundation.org/cdcon/program/cfp",
+    "cfpEndDate": "2021-03-05",
+    "cocUrl": "https://events.linuxfoundation.org/cdcon/attend/code-of-conduct/",
+    "online": true,
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "SKILup Day: Agile Transformation",
+    "url": "https://devopsinstitute.com/at-2021/",
+    "startDate": "2021-04-22",
+    "endDate": "2021-04-22",
+    "twitter": "@DEVOPSINST",
+    "online": true,
+    "offersSignLanguageOrCC": false
+  },
+  {
     "name": "SKILup Day: Value Stream Management",
-    "url": "https://devopsinstitute.com/vsm-2021/?utm_campaign=SKILup%20Day-VSM%20March%202021&utm_source=Confs.Tech&utm_medium=event%20listing",
+    "url": "https://devopsinstitute.com/vsm-2021",
     "startDate": "2021-03-18",
     "endDate": "2021-03-18",
     "twitter": "@DEVOPSINST",
