@@ -209,8 +209,7 @@
     "url": "https://hashiconf.com/europe/",
     "startDate": "2021-06-08",
     "endDate": "2021-06-11",
-    "city": "Online",
-    "country": "Online"
+    "online": true
   },
   {
     "name": "DevOps Conference Hybrid Edition",
@@ -336,8 +335,7 @@
     "url": "https://hashiconf.com/",
     "startDate": "2021-10-19",
     "endDate": "2021-10-22",
-    "city": "Online",
-    "country": "Online"
+    "online": true
   },
   {
     "name": "Devopsdays Nashville",
