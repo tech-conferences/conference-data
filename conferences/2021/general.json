@@ -397,5 +397,18 @@
     "twitter": "@WPEngine",
     "online": true,
     "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "fintech_devcon",
+    "url": "http://fintechdevcon.io",
+    "startDate": "2021-09-08",
+    "endDate": "2021-09-09",
+    "city": "Denver, CO",
+    "country": "U.S.A.",
+    "twitter": "@fintechdevcon",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSctiBK6uZdblbumlikeE9cA0HFM1sioJM4RDClSX8YV_sPcFQ/viewform",
+    "cfpEndDate": "2021-03-31",
+    "cocUrl": "https://github.com/moov-io/moov-slack-code-of-conduct",
+    "online": false
   }
 ]
