@@ -204,7 +204,7 @@
     "twitter": "@TheLeadDev",
     "cocUrl": "https://london2020.theleaddeveloper.com/code-of-conduct"
   },
-    {
+  {
     "name": "HashiConf Europe",
     "url": "https://hashiconf.com/europe/",
     "startDate": "2021-06-08",
@@ -430,6 +430,14 @@
     "cfpUrl": "https://www.thedevopsconference.com/call-for-papers",
     "cfpEndDate": "2021-01-31",
     "cocUrl": "https://www.thedevopsconference.com/code-of-conduct",
+    "online": true
+  },
+  {
+    "name": "DockerCon Live",
+    "url": "https://www.docker.com/dockercon",
+    "startDate": "2021-05-27",
+    "endDate": "2021-05-27",
+    "twitter": "@DockerCon",
     "online": true
   }
 ]
