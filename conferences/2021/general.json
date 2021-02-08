@@ -418,5 +418,16 @@
     "endDate": "2021-12-09",
     "twitter": "@InformatikAktue",
     "online": true
+  },
+  {
+    "name": "Percona Live ONLINE",
+    "url": "https://www.percona.com/live/conferences",
+    "startDate": "2021-05-12",
+    "endDate": "2021-05-13",
+    "twitter": "@percona",
+    "cfpUrl": "https://cfp.percona.com",
+    "cfpEndDate": "2021-02-28",
+    "cocUrl": "https://www.percona.com/live/code-conduct",
+    "online": true
   }
 ]
