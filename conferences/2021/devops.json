@@ -68,6 +68,26 @@
     "cocUrl": "https://devopsdays.org/conduct/"
   },
   {
+    "name": "SKILup Day: Value Stream Management",
+    "url": "https://devopsinstitute.com/vsm-2021",
+    "startDate": "2021-03-18",
+    "endDate": "2021-03-18",
+    "online": true,
+    "twitter": "@DEVOPSINST",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "The DEVOPS Conference",
+    "url": "https://www.thedevopsconference.com",
+    "startDate": "2021-03-23",
+    "endDate": "2021-03-24",
+    "online": true,
+    "cfpUrl": "https://www.thedevopsconference.com/call-for-papers",
+    "cfpEndDate": "2021-01-31",
+    "twitter": "@eficode",
+    "cocUrl": "https://www.thedevopsconference.com/code-of-conduct"
+  },
+  {
     "name": "DevOps Talks Conference",
     "url": "https://devops.talksplus.com/sydney/devops.html",
     "startDate": "2021-03-25",
@@ -120,6 +140,15 @@
     "cocUrl": "https://devopsdays.org/conduct/"
   },
   {
+    "name": "SKILup Day: Agile Transformation",
+    "url": "https://devopsinstitute.com/at-2021/",
+    "startDate": "2021-04-22",
+    "endDate": "2021-04-22",
+    "online": true,
+    "twitter": "@DEVOPSINST",
+    "offersSignLanguageOrCC": false
+  },
+  {
     "name": "Devopsdays Seattle",
     "url": "https://devopsdays.org/events/2021-seattle/welcome/",
     "startDate": "2021-05-04",
@@ -156,6 +185,17 @@
     "cocUrl": "https://devopsdays.org/conduct/"
   },
   {
+    "name": "DevOps Enterprise Summit Virtual - Europe",
+    "url": "https://events.itrevolution.com/virtual",
+    "startDate": "2021-05-18",
+    "endDate": "2021-05-20",
+    "online": true,
+    "cfpUrl": "https://doesvirtual.itrevolution.com/cfp",
+    "cfpEndDate": "2021-02-19",
+    "twitter": "@ITRevDOES",
+    "cocUrl": "https://itrevolution.com/privacy-policy/"
+  },
+  {
     "name": "Devopsdays Portugal",
     "url": "https://devopsdays.org/events/2021-portugal/welcome/",
     "startDate": "2021-05-24",
@@ -176,6 +216,24 @@
     "cocUrl": "https://devopsdays.org/conduct/"
   },
   {
+    "name": "swampUP",
+    "url": "https://swampup.jfrog.com",
+    "startDate": "2021-05-25",
+    "endDate": "2021-05-27",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/swampup-2021",
+    "cfpEndDate": "2021-02-01",
+    "twitter": "@swamp_up"
+  },
+  {
+    "name": "DockerCon Live",
+    "url": "https://www.docker.com/dockercon",
+    "startDate": "2021-05-27",
+    "endDate": "2021-05-27",
+    "online": true,
+    "twitter": "@DockerCon"
+  },
+  {
     "name": "Paris Container Day",
     "url": "https://paris-container-day.fr/en/",
     "startDate": "2021-06-01",
@@ -183,6 +241,18 @@
     "city": "Paris",
     "country": "France",
     "twitter": "@ContainerDayFr"
+  },
+  {
+    "name": "LISA",
+    "url": "https://www.usenix.org/conference/lisa21",
+    "startDate": "2021-06-01",
+    "endDate": "2021-06-03",
+    "online": true,
+    "cfpUrl": "https://www.usenix.org/conference/lisa21/call-for-participation",
+    "cfpEndDate": "2021-02-23",
+    "twitter": "@LISAConference",
+    "cocUrl": "https://www.usenix.org/conferences/coc",
+    "offersSignLanguageOrCC": false
   },
   {
     "name": "Devopsdays Prague",
@@ -240,6 +310,18 @@
     "endDate": "2021-06-18",
     "city": "Krakow",
     "country": "Poland"
+  },
+  {
+    "name": "cdCon",
+    "url": "https://events.linuxfoundation.org/cdcon",
+    "startDate": "2021-06-23",
+    "endDate": "2021-06-24",
+    "online": true,
+    "cfpUrl": "https://events.linuxfoundation.org/cdcon/program/cfp",
+    "cfpEndDate": "2021-03-05",
+    "twitter": "@CDeliveryFdn",
+    "cocUrl": "https://events.linuxfoundation.org/cdcon/attend/code-of-conduct/",
+    "offersSignLanguageOrCC": false
   },
   {
     "name": "DevOps Fusion",
@@ -331,6 +413,17 @@
     "twitter": "@conf42com"
   },
   {
+    "name": "DevOps Enterprise Summit Virtual - US",
+    "url": "https://events.itrevolution.com/virtual",
+    "startDate": "2021-10-05",
+    "endDate": "2021-10-07",
+    "online": true,
+    "cfpUrl": "https://doesvirtual.itrevolution.com/cfp",
+    "cfpEndDate": "2021-02-26",
+    "twitter": "@ITRevDOES",
+    "cocUrl": "https://itrevolution.com/privacy-policy/"
+  },
+  {
     "name": "HashiConf Global",
     "url": "https://hashiconf.com/",
     "startDate": "2021-10-19",
@@ -346,98 +439,5 @@
     "country": "U.S.A.",
     "twitter": "@nashvilledevops",
     "cocUrl": "https://devopsdays.org/conduct/"
-  },
-  {
-    "name": "cdCon",
-    "url": "https://events.linuxfoundation.org/cdcon",
-    "startDate": "2021-06-23",
-    "endDate": "2021-06-24",
-    "twitter": "@CDeliveryFdn",
-    "cfpUrl": "https://events.linuxfoundation.org/cdcon/program/cfp",
-    "cfpEndDate": "2021-03-05",
-    "cocUrl": "https://events.linuxfoundation.org/cdcon/attend/code-of-conduct/",
-    "online": true,
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "SKILup Day: Agile Transformation",
-    "url": "https://devopsinstitute.com/at-2021/",
-    "startDate": "2021-04-22",
-    "endDate": "2021-04-22",
-    "twitter": "@DEVOPSINST",
-    "online": true,
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "SKILup Day: Value Stream Management",
-    "url": "https://devopsinstitute.com/vsm-2021",
-    "startDate": "2021-03-18",
-    "endDate": "2021-03-18",
-    "twitter": "@DEVOPSINST",
-    "online": true,
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "LISA",
-    "url": "https://www.usenix.org/conference/lisa21",
-    "startDate": "2021-06-01",
-    "endDate": "2021-06-03",
-    "twitter": "@LISAConference",
-    "cfpUrl": "https://www.usenix.org/conference/lisa21/call-for-participation",
-    "cfpEndDate": "2021-02-23",
-    "cocUrl": "https://www.usenix.org/conferences/coc",
-    "online": true,
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "DevOps Enterprise Summit Virtual - US",
-    "url": "https://events.itrevolution.com/virtual",
-    "startDate": "2021-10-05",
-    "endDate": "2021-10-07",
-    "twitter": "@ITRevDOES",
-    "cfpUrl": "https://doesvirtual.itrevolution.com/cfp",
-    "cfpEndDate": "2021-02-26",
-    "cocUrl": "https://itrevolution.com/privacy-policy/",
-    "online": true
-  },
-  {
-    "name": "DevOps Enterprise Summit Virtual - Europe",
-    "url": "https://events.itrevolution.com/virtual",
-    "startDate": "2021-05-18",
-    "endDate": "2021-05-20",
-    "twitter": "@ITRevDOES",
-    "cfpUrl": "https://doesvirtual.itrevolution.com/cfp",
-    "cfpEndDate": "2021-02-19",
-    "cocUrl": "https://itrevolution.com/privacy-policy/",
-    "online": true
-  },
-  {
-    "name": "swampUP",
-    "url": "https://swampup.jfrog.com",
-    "startDate": "2021-05-25",
-    "endDate": "2021-05-27",
-    "twitter": "@swamp_up",
-    "cfpUrl": "https://sessionize.com/swampup-2021",
-    "cfpEndDate": "2021-02-01",
-    "online": true
-  },
-  {
-    "name": "The DEVOPS Conference",
-    "url": "https://www.thedevopsconference.com",
-    "startDate": "2021-03-23",
-    "endDate": "2021-03-24",
-    "twitter": "@eficode",
-    "cfpUrl": "https://www.thedevopsconference.com/call-for-papers",
-    "cfpEndDate": "2021-01-31",
-    "cocUrl": "https://www.thedevopsconference.com/code-of-conduct",
-    "online": true
-  },
-  {
-    "name": "DockerCon Live",
-    "url": "https://www.docker.com/dockercon",
-    "startDate": "2021-05-27",
-    "endDate": "2021-05-27",
-    "twitter": "@DockerCon",
-    "online": true
   }
 ]

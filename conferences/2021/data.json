@@ -26,6 +26,14 @@
     "offersSignLanguageOrCC": false
   },
   {
+    "name": "Darwin's Circle",
+    "url": "https://darwins-circle.com",
+    "startDate": "2021-02-18",
+    "endDate": "2021-02-18",
+    "online": true,
+    "twitter": "@DarwinsCircle"
+  },
+  {
     "name": "Chief Data & Analytics Officers Financial Services",
     "url": "https://cdaofs.coriniumintelligence.com/",
     "startDate": "2021-03-02",
@@ -74,6 +82,16 @@
     "offersSignLanguageOrCC": false
   },
   {
+    "name": "Geekle's Python for ML & AI Global Summit",
+    "url": "https://python.geekle.us/",
+    "startDate": "2021-04-08",
+    "endDate": "2021-04-09",
+    "online": true,
+    "cfpUrl": "https://forms.gle/ryKkiJtqBgs6zT119",
+    "cfpEndDate": "2021-03-31",
+    "cocUrl": "https://geekle.us/code-of-conduct"
+  },
+  {
     "name": "Minds Mastering Machines",
     "url": "https://m3-konferenz.de",
     "startDate": "2021-04-27",
@@ -117,23 +135,5 @@
     "cfpUrl": "https://www.papercall.io/conf42-machine-learning-2021",
     "cfpEndDate": "2021-06-14",
     "twitter": "@conf42com"
-  },
-  {
-    "name": "Geekle's Python for ML & AI Global Summit",
-    "url": "https://python.geekle.us/",
-    "startDate": "2021-04-08",
-    "endDate": "2021-04-09",
-    "cfpUrl": "https://forms.gle/ryKkiJtqBgs6zT119",
-    "cfpEndDate": "2021-03-31",
-    "cocUrl": "https://geekle.us/code-of-conduct",
-    "online": true
-  },
-  {
-    "name": "Darwin's Circle",
-    "url": "https://darwins-circle.com",
-    "startDate": "2021-02-18",
-    "endDate": "2021-02-18",
-    "twitter": "@DarwinsCircle",
-    "online": true
   }
 ]

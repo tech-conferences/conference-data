@@ -31,6 +31,28 @@
     "offersSignLanguageOrCC": false
   },
   {
+    "name": "DrupalCon North America",
+    "url": "https://events.drupal.org/drupalcon2021",
+    "startDate": "2021-04-12",
+    "endDate": "2021-04-16",
+    "online": true,
+    "cfpUrl": "https://events.drupal.org/drupalcon2021/sessions/cfp",
+    "cfpEndDate": "2021-02-14",
+    "twitter": "@drupalcon",
+    "cocUrl": "https://events.drupal.org/code-conduct",
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "LeadDev Together",
+    "url": "https://events.leaddev.com/together",
+    "startDate": "2021-04-13",
+    "endDate": "2021-06-22",
+    "online": true,
+    "twitter": "@theleaddev",
+    "cocUrl": "https://leaddev.com/code-conduct",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Tech Leadership Conference",
     "url": "https://www.developer-first.com/conference",
     "startDate": "2021-05-07",
@@ -41,27 +63,5 @@
     "twitter": "@developer_first",
     "cocUrl": "https://www.developer-first.com/code-of-conduct",
     "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "DrupalCon North America",
-    "url": "https://events.drupal.org/drupalcon2021",
-    "startDate": "2021-04-12",
-    "endDate": "2021-04-16",
-    "twitter": "@drupalcon",
-    "cfpUrl": "https://events.drupal.org/drupalcon2021/sessions/cfp",
-    "cfpEndDate": "2021-02-14",
-    "cocUrl": "https://events.drupal.org/code-conduct",
-    "online": true,
-    "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "LeadDev Together",
-    "url": "https://events.leaddev.com/together",
-    "startDate": "2021-04-13",
-    "endDate": "2021-06-22",
-    "twitter": "@theleaddev",
-    "cocUrl": "https://leaddev.com/code-conduct",
-    "online": true,
-    "offersSignLanguageOrCC": true
   }
 ]
