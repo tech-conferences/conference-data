@@ -21,6 +21,15 @@
   {
     "name": "enterPy",
     "url": "https://www.enterpy.de",
+    "startDate": "2021-03-09",
+    "endDate": "2021-03-09",
+    "online": true,
+    "twitter": "@enterpyconf",
+    "cocUrl": "https://www.enterpy.de/code_of_conduct.php"
+  },
+  {
+    "name": "enterPy",
+    "url": "https://www.enterpy.de",
     "startDate": "2021-04-15",
     "endDate": "2021-04-15",
     "online": true,
@@ -57,19 +66,10 @@
     "url": "https://xtremepython.dev",
     "startDate": "2021-11-24",
     "endDate": "2021-11-24",
-    "twitter": "@xtremepython",
+    "online": true,
     "cfpUrl": "https://forms.gle/DPp3CacWMRYXsjhZ8",
     "cfpEndDate": "2021-07-31",
-    "cocUrl": "https://bit.ly/2NL4ehr",
-    "online": true
-  },
-  {
-    "name": "enterPy",
-    "url": "https://www.enterpy.de",
-    "startDate": "2021-03-09",
-    "endDate": "2021-03-09",
-    "twitter": "@enterpyconf",
-    "cocUrl": "https://www.enterpy.de/code_of_conduct.php",
-    "online": true
+    "twitter": "@xtremepython",
+    "cocUrl": "https://bit.ly/2NL4ehr"
   }
 ]

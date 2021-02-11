@@ -1,5 +1,16 @@
 [
   {
+    "name": "FOSS Backstage",
+    "url": "https://foss-backstage.de",
+    "startDate": "2021-02-10",
+    "endDate": "2021-02-12",
+    "online": true,
+    "cfpUrl": "https://foss-backstage.de/call-participation",
+    "cfpEndDate": "2020-10-25",
+    "twitter": "@Fossbckstg",
+    "cocUrl": "https://foss-backstage.de/code-conduct"
+  },
+  {
     "name": "Cloud Transformation Champions",
     "url": "https://hctc-eu.coriniumintelligence.com/",
     "startDate": "2021-03-02",
@@ -105,6 +116,14 @@
     "country": "Canada"
   },
   {
+    "name": "CloudTalk Online MatchMaking Summit",
+    "url": "https://cloudtalksummit.online",
+    "startDate": "2021-05-26",
+    "endDate": "2021-05-27",
+    "online": true,
+    "twitter": "@cloudtalkglb"
+  },
+  {
     "name": "TECHSPO",
     "url": "https://techspohouston.com",
     "startDate": "2021-05-26",
@@ -152,24 +171,5 @@
     "cfpUrl": "https://techupforwomen.com/speakers/#speakers",
     "twitter": "@techupforwomen",
     "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "CloudTalk Online MatchMaking Summit",
-    "url": "https://cloudtalksummit.online",
-    "startDate": "2021-05-26",
-    "endDate": "2021-05-27",
-    "twitter": "@cloudtalkglb",
-    "online": true
-  },
-  {
-    "name": "FOSS Backstage",
-    "url": "https://foss-backstage.de",
-    "startDate": "2021-02-10",
-    "endDate": "2021-02-12",
-    "twitter": "@Fossbckstg",
-    "cfpUrl": "https://foss-backstage.de/call-participation",
-    "cfpEndDate": "2020-10-25",
-    "cocUrl": "https://foss-backstage.de/code-conduct",
-    "online": true
   }
 ]
