@@ -397,5 +397,86 @@
     "twitter": "@WPEngine",
     "online": true,
     "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "fintech_devcon",
+    "url": "http://fintechdevcon.io",
+    "startDate": "2021-09-08",
+    "endDate": "2021-09-09",
+    "city": "Denver, CO",
+    "country": "U.S.A.",
+    "twitter": "@fintechdevcon",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSctiBK6uZdblbumlikeE9cA0HFM1sioJM4RDClSX8YV_sPcFQ/viewform",
+    "cfpEndDate": "2021-03-31",
+    "cocUrl": "https://github.com/moov-io/moov-slack-code-of-conduct",
+    "online": false
+  },
+  {
+    "name": "IT-Tage Remote",
+    "url": "http://www.it-tage.org",
+    "startDate": "2021-12-06",
+    "endDate": "2021-12-09",
+    "twitter": "@InformatikAktue",
+    "online": true
+  },
+  {
+    "name": "DeveloperWeek Europe",
+    "url": "https://www.developerweek.com/europe",
+    "startDate": "2021-04-27",
+    "endDate": "2021-04-28",
+    "twitter": "@developerweek",
+    "cfpUrl": "https://www.developerweek.com/europe/speakers/apply-to-speak",
+    "cfpEndDate": "2021-03-05",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
+    "online": true
+  },
+  {
+    "name": "Percona Live ONLINE",
+    "url": "https://www.percona.com/live/conferences",
+    "startDate": "2021-05-12",
+    "endDate": "2021-05-13",
+    "twitter": "@percona",
+    "cfpUrl": "https://cfp.percona.com",
+    "cfpEndDate": "2021-02-28",
+    "cocUrl": "https://www.percona.com/live/code-conduct",
+    "online": true
+  },
+  {
+    "name": "betterCode API",
+    "url": "https://api.bettercode.eu",
+    "startDate": "2021-03-23",
+    "endDate": "2021-03-23",
+    "twitter": "@bettercodeconf",
+    "cocUrl": "https://api.bettercode.eu/code_of_conduct.php",
+    "online": true
+  },
+  {
+    "name": "betterCode API",
+    "url": "https://api.bettercode.eu",
+    "startDate": "2021-04-22",
+    "endDate": "2021-04-22",
+    "twitter": "@bettercodeconf",
+    "cocUrl": "https://api.bettercode.eu/code_of_conduct.php",
+    "online": true
+  },
+  {
+    "name": "DeveloperWeek Management",
+    "url": "https://www.developerweek.com/global/conference/management",
+    "startDate": "2021-05-11",
+    "endDate": "2021-05-12",
+    "twitter": "@developerweek",
+    "cfpUrl": "https://www.developerweek.com/global/conference/management/speakers",
+    "cfpEndDate": "2021-03-12",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
+    "online": true
+  },
+  {
+    "name": "SINFO",
+    "url": "https://sinfo.org",
+    "startDate": "2021-03-01",
+    "endDate": "2021-03-05",
+    "twitter": "@sinfoist",
+    "cocUrl": "https://sinfo.org/coc.html",
+    "online": true
   }
 ]

@@ -152,5 +152,24 @@
     "cfpUrl": "https://techupforwomen.com/speakers/#speakers",
     "twitter": "@techupforwomen",
     "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "CloudTalk Online MatchMaking Summit",
+    "url": "https://cloudtalksummit.online",
+    "startDate": "2021-05-26",
+    "endDate": "2021-05-27",
+    "twitter": "@cloudtalkglb",
+    "online": true
+  },
+  {
+    "name": "FOSS Backstage",
+    "url": "https://foss-backstage.de",
+    "startDate": "2021-02-10",
+    "endDate": "2021-02-12",
+    "twitter": "@Fossbckstg",
+    "cfpUrl": "https://foss-backstage.de/call-participation",
+    "cfpEndDate": "2020-10-25",
+    "cocUrl": "https://foss-backstage.de/code-conduct",
+    "online": true
   }
 ]

@@ -205,6 +205,13 @@
     "cocUrl": "https://london2020.theleaddeveloper.com/code-of-conduct"
   },
   {
+    "name": "HashiConf Europe",
+    "url": "https://hashiconf.com/europe/",
+    "startDate": "2021-06-08",
+    "endDate": "2021-06-11",
+    "online": true
+  },
+  {
     "name": "DevOps Conference Hybrid Edition",
     "url": "https://devopscon.io/berlin",
     "startDate": "2021-06-14",
@@ -324,6 +331,13 @@
     "twitter": "@conf42com"
   },
   {
+    "name": "HashiConf Global",
+    "url": "https://hashiconf.com/",
+    "startDate": "2021-10-19",
+    "endDate": "2021-10-22",
+    "online": true
+  },
+  {
     "name": "Devopsdays Nashville",
     "url": "https://devopsdays.org/events/2021-nashville/welcome/",
     "startDate": "2021-10-28",
@@ -376,6 +390,17 @@
     "offersSignLanguageOrCC": false
   },
   {
+    "name": "DevOps Enterprise Summit Virtual - US",
+    "url": "https://events.itrevolution.com/virtual",
+    "startDate": "2021-10-05",
+    "endDate": "2021-10-07",
+    "twitter": "@ITRevDOES",
+    "cfpUrl": "https://doesvirtual.itrevolution.com/cfp",
+    "cfpEndDate": "2021-02-26",
+    "cocUrl": "https://itrevolution.com/privacy-policy/",
+    "online": true
+  },
+  {
     "name": "DevOps Enterprise Summit Virtual - Europe",
     "url": "https://events.itrevolution.com/virtual",
     "startDate": "2021-05-18",
@@ -384,6 +409,35 @@
     "cfpUrl": "https://doesvirtual.itrevolution.com/cfp",
     "cfpEndDate": "2021-02-19",
     "cocUrl": "https://itrevolution.com/privacy-policy/",
+    "online": true
+  },
+  {
+    "name": "swampUP",
+    "url": "https://swampup.jfrog.com",
+    "startDate": "2021-05-25",
+    "endDate": "2021-05-27",
+    "twitter": "@swamp_up",
+    "cfpUrl": "https://sessionize.com/swampup-2021",
+    "cfpEndDate": "2021-02-01",
+    "online": true
+  },
+  {
+    "name": "The DEVOPS Conference",
+    "url": "https://www.thedevopsconference.com",
+    "startDate": "2021-03-23",
+    "endDate": "2021-03-24",
+    "twitter": "@eficode",
+    "cfpUrl": "https://www.thedevopsconference.com/call-for-papers",
+    "cfpEndDate": "2021-01-31",
+    "cocUrl": "https://www.thedevopsconference.com/code-of-conduct",
+    "online": true
+  },
+  {
+    "name": "DockerCon Live",
+    "url": "https://www.docker.com/dockercon",
+    "startDate": "2021-05-27",
+    "endDate": "2021-05-27",
+    "twitter": "@DockerCon",
     "online": true
   }
 ]
