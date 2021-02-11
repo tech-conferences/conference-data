@@ -444,10 +444,39 @@
   {
     "name": "betterCode API",
     "url": "https://api.bettercode.eu",
+    "startDate": "2021-03-23",
+    "endDate": "2021-03-23",
+    "twitter": "@bettercodeconf",
+    "cocUrl": "https://api.bettercode.eu/code_of_conduct.php",
+    "online": true
+  },
+  {
+    "name": "betterCode API",
+    "url": "https://api.bettercode.eu",
     "startDate": "2021-04-22",
     "endDate": "2021-04-22",
     "twitter": "@bettercodeconf",
     "cocUrl": "https://api.bettercode.eu/code_of_conduct.php",
+    "online": true
+  },
+  {
+    "name": "DeveloperWeek Management",
+    "url": "https://www.developerweek.com/global/conference/management",
+    "startDate": "2021-05-11",
+    "endDate": "2021-05-12",
+    "twitter": "@developerweek",
+    "cfpUrl": "https://www.developerweek.com/global/conference/management/speakers",
+    "cfpEndDate": "2021-03-12",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
+    "online": true
+  },
+  {
+    "name": "SINFO",
+    "url": "https://sinfo.org",
+    "startDate": "2021-03-01",
+    "endDate": "2021-03-05",
+    "twitter": "@sinfoist",
+    "cocUrl": "https://sinfo.org/coc.html",
     "online": true
   }
 ]
