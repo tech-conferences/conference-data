@@ -140,14 +140,12 @@
     "offersSignLanguageOrCC": false
   },
   {
-    "name": "ReactiveConf",
-    "url": "https://reactiveconf.com",
+    "name": "FTW Conf",
+    "url": "https://www.ftwconf.com/",
     "startDate": "2021-03-08",
-    "endDate": "2021-03-09",
-    "city": "Prague",
-    "country": "Czech Republic",
-    "twitter": "@ReactiveConf",
-    "cocUrl": "https://reactiveconf.com/code-of-conduct/"
+    "endDate": "2021-03-08",
+    "online": true,
+    "cocUrl": "https://www.ftwconf.com/code-of-conduct/"
   },
   {
     "name": "Software Architecture Summit",
@@ -182,8 +180,8 @@
   {
     "name": "Devoxx",
     "url": "https://www.devoxx.fr",
-    "startDate": "2021-04-07",
-    "endDate": "2021-04-09",
+    "startDate": "2021-06-30",
+    "endDate": "2021-07-02",
     "city": "Paris",
     "country": "France",
     "twitter": "@DevoxxFR",
@@ -205,8 +203,8 @@
   {
     "name": "GOTO Copenhagen",
     "url": "https://gotocph.com/2021",
-    "startDate": "2021-04-19",
-    "endDate": "2021-04-21",
+    "startDate": "2021-06-06",
+    "endDate": "2021-06-09",
     "city": "Copenhagen",
     "country": "Denmark",
     "twitter": "@GOTOcon",
