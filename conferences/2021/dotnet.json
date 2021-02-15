@@ -69,5 +69,15 @@
     "online": true,
     "twitter": "@update_conf",
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "JetBrains .NET Day Online",
+    "url": "https://blog.jetbrains.com/dotnet/2021/02/15/jetbrains-net-day-online-2021-call-for-speakers",
+    "startDate": "2021-05-12",
+    "endDate": "2021-05-12",
+    "cfpUrl": "https://sessionize.com/jetbrains-dotnet-day-2021",
+    "cfpEndDate": "2021-03-14",
+    "cocUrl": "https://info.jetbrains.com/code-of-conduct.html",
+    "online": true
   }
 ]
