@@ -178,16 +178,6 @@
     "offersSignLanguageOrCC": false
   },
   {
-    "name": "Devoxx",
-    "url": "https://www.devoxx.fr",
-    "startDate": "2021-06-30",
-    "endDate": "2021-07-02",
-    "city": "Paris",
-    "country": "France",
-    "twitter": "@DevoxxFR",
-    "cocUrl": "https://www.devoxx.fr/code-of-conduct/"
-  },
-  {
     "name": "Serverless Architecture Conference",
     "url": "https://serverless-architecture.io/thehague",
     "startDate": "2021-04-12",
@@ -198,17 +188,6 @@
     "cfpEndDate": "2020-11-02",
     "twitter": "@serverlesscon",
     "cocUrl": "https://serverless-architecture.io/code-of-conduct/",
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "GOTO Copenhagen",
-    "url": "https://gotocph.com/2021",
-    "startDate": "2021-06-06",
-    "endDate": "2021-06-09",
-    "city": "Copenhagen",
-    "country": "Denmark",
-    "twitter": "@GOTOcon",
-    "cocUrl": "https://gotocph.com/2021/code-of-conduct",
     "offersSignLanguageOrCC": false
   },
   {
@@ -309,6 +288,17 @@
     "cocUrl": "https://events.codemotion.com/conferences/amsterdam/2020/news/codemotion-is-an-inclusive-conference-check-our-coc/"
   },
   {
+    "name": "GOTO Copenhagen",
+    "url": "https://gotocph.com/2021",
+    "startDate": "2021-06-06",
+    "endDate": "2021-06-09",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "twitter": "@GOTOcon",
+    "cocUrl": "https://gotocph.com/2021/code-of-conduct",
+    "offersSignLanguageOrCC": false
+  },
+  {
     "name": "Women Tech Conference",
     "url": "https://www.womentech.net/women-tech-conference",
     "startDate": "2021-06-07",
@@ -335,6 +325,16 @@
     "country": "Switzerland",
     "twitter": "@SwissTesting",
     "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Devoxx",
+    "url": "https://www.devoxx.fr",
+    "startDate": "2021-06-30",
+    "endDate": "2021-07-02",
+    "city": "Paris",
+    "country": "France",
+    "twitter": "@DevoxxFR",
+    "cocUrl": "https://www.devoxx.fr/code-of-conduct/"
   },
   {
     "name": "Voxxed Days Downunder",

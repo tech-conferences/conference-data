@@ -253,17 +253,6 @@
     "offersSignLanguageOrCC": true
   },
   {
-    "name": "JSNation Live",
-    "url": "https://live.jsnation.com/",
-    "startDate": "2021-06-09",
-    "endDate": "2021-06-10",
-    "online": true,
-    "twitter": "@thejsnation",
-    "cocUrl": "https://live.jsnation.com/coc",
-    "cfpUrl": "https://forms.gle/epQxjjP2YjQA8uRk7",
-    "cfpEndDate": "2021-04-10"
-  },
-  {
     "name": "LvivJS",
     "url": "https://lvivjs.org.ua",
     "startDate": "2021-06-06",
@@ -272,6 +261,17 @@
     "country": "Ukraine",
     "twitter": "@LvivJS",
     "cocUrl": "https://lvivjs.org.ua/code_of_conduct.html"
+  },
+  {
+    "name": "JSNation Live",
+    "url": "https://live.jsnation.com/",
+    "startDate": "2021-06-09",
+    "endDate": "2021-06-10",
+    "online": true,
+    "cfpUrl": "https://forms.gle/epQxjjP2YjQA8uRk7",
+    "cfpEndDate": "2021-04-10",
+    "twitter": "@thejsnation",
+    "cocUrl": "https://live.jsnation.com/coc"
   },
   {
     "name": "React Day Norway",
