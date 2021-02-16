@@ -1,0 +1,20 @@
+name: Validate conferences
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Use Node.js
+      uses: actions/setup-node@v1
+    - run: npm ci --production
+    - run: npm test
+      env:
+        GITHUB_TOKEN: ${{ github.token }}
+        TERM: xterm-256color
