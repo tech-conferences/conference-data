@@ -30,6 +30,15 @@
     "offersSignLanguageOrCC": false
   },
   {
+    "name": "Future Developer Summit",
+    "url": "https://www.futuredeveloper.io",
+    "startDate": "2021-03-10",
+    "endDate": "2021-03-10",
+    "online": true,
+    "twitter": "@SlashDataHQ",
+    "cocUrl": "https://www.futuredeveloper.io/code-of-conduct"
+  },
+  {
     "name": "Women Techmakers",
     "url": "https://www.wtmmontreal.com",
     "startDate": "2021-03-20",
@@ -171,14 +180,5 @@
     "cfpUrl": "https://techupforwomen.com/speakers/#speakers",
     "twitter": "@techupforwomen",
     "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "Future Developer Summit",
-    "url": "https://www.futuredeveloper.io",
-    "startDate": "2021-03-10",
-    "endDate": "2021-03-10",
-    "twitter": "@SlashDataHQ",
-    "cocUrl": "https://www.futuredeveloper.io/code-of-conduct",
-    "online": true
   }
 ]
