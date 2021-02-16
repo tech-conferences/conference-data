@@ -14,6 +14,12 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v2
+      - name: Delete existing reorder branch
+        uses: dawidd6/action-delete-branch@v3
+        with:
+          github_token: ${{github.token}}
+          branches: reorder
+          soft_fail: true
       - name: Create reorder branch
         uses: peterjgrainger/action-create-branch@v2.0.1
         env:
@@ -39,5 +45,5 @@ jobs:
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           head: reorder
-          base: master
+          base: main
           title: "Reorder conferences"
