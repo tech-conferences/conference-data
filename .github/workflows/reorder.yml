@@ -26,4 +26,12 @@ jobs:
           author_name: Christian Grail
           author_email: cgrail@users.noreply.github.com
           message: 'Reorder conferences'
+          branch: reorder
           add: '*.json'
+      - name: Create pull request
+        uses: thomaseizinger/create-pull-request@master
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          head: reorder
+          base: master
+          title: "Reorder conferences"
