@@ -255,11 +255,13 @@
   {
     "name": "JSNation Live",
     "url": "https://live.jsnation.com/",
-    "startDate": "2021-06-06",
-    "endDate": "2021-06-06",
+    "startDate": "2021-06-09",
+    "endDate": "2021-06-10",
     "online": true,
     "twitter": "@thejsnation",
-    "cocUrl": "https://live.jsnation.com/coc"
+    "cocUrl": "https://live.jsnation.com/coc",
+    "cfpUrl": "https://forms.gle/epQxjjP2YjQA8uRk7",
+    "cfpEndDate": "2021-04-10"
   },
   {
     "name": "LvivJS",
