@@ -20,5 +20,14 @@
     "cfpUrl": "https://www.papercall.io/conf42-golang-2021",
     "cfpEndDate": "2021-05-10",
     "twitter": "@conf42com"
+  },
+  {
+    "name": "GopherCon",
+    "url": "https://gophercon.com",
+    "startDate": "2021-12-06",
+    "endDate": "2021-12-08",
+    "online": true,
+    "twitter": "@gophercon",
+    "cocUrl": "https://golang.org/conduct"  
   }
 ]
