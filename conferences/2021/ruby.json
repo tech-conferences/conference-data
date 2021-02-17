@@ -11,13 +11,14 @@
     "cocUrl": "https://2021.rubyday.it/welcome/coc.html"
   },
   {
-    "name": "Euruko",
+    "name": "EuRuKo",
     "url": "https://euruko2021.org",
     "startDate": "2021-05-28",
     "endDate": "2021-05-29",
-    "city": "Helsinki",
-    "country": "Finland",
+    "online": true,
     "twitter": "@euruko",
-    "cocUrl": "https://euruko2021.org/code_of_conduct/"
+    "cocUrl": "https://euruko2021.org/code_of_conduct/",
+    "cfpUrl": "https://sessionize.com/euruko-2021/",
+    "cfpEndDate": "2021-04-18"
   }
 ]
