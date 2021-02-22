@@ -43,7 +43,7 @@ jobs:
       - name: Create pull request
         uses: thomaseizinger/create-pull-request@master
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.CONFS_REORDER }}
           head: reorder
           base: main
           title: "Reorder conferences"
