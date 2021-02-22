@@ -177,6 +177,16 @@
     "offersSignLanguageOrCC": false
   },
   {
+    "name": "Ember Conf",
+    "url": "https://emberconf.com",
+    "startDate": "2021-03-29",
+    "endDate": "2021-03-30",
+    "online": true,
+    "twitter": "@emberconf",
+    "cocUrl": "https://emberconf.com/about/code-of-conduct",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Vueconf.US",
     "url": "http://vueconf.us",
     "startDate": "2021-04-14",
@@ -355,15 +365,5 @@
     "cfpEndDate": "2021-08-31",
     "twitter": "@xtremejsconf",
     "cocUrl": "https://bit.ly/2NL4ehr."
-  },
-  {
-    "name": "Ember Conf",
-    "url": "https://emberconf.com",
-    "startDate": "2021-03-29",
-    "endDate": "2021-03-30",
-    "twitter": "@emberconf",
-    "cocUrl": "https://emberconf.com/about/code-of-conduct",
-    "online": true,
-    "offersSignLanguageOrCC": true
   }
 ]

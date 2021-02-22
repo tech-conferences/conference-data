@@ -92,6 +92,28 @@
     "cocUrl": "https://geekle.us/code-of-conduct"
   },
   {
+    "name": "Data Love",
+    "url": "https://datalove.konfy.care",
+    "startDate": "2021-04-16",
+    "endDate": "2021-04-16",
+    "online": true,
+    "cfpUrl": "https://www.papercall.io/datalove",
+    "cfpEndDate": "2021-03-07",
+    "twitter": "@_datalove",
+    "cocUrl": "https://berlincodeofconduct.org/"
+  },
+  {
+    "name": "Data Science fwdays",
+    "url": "https://fwdays.com/en/event/data-science-fwdays-2021",
+    "startDate": "2021-04-24",
+    "endDate": "2021-04-24",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSd1rDUjEWA4R7j6iaq7-Isx0sVIAHe0sy8rXXV7E_7CxHqSSQ/viewform",
+    "cfpEndDate": "2021-03-15",
+    "twitter": "@fwdays",
+    "cocUrl": "https://bit.ly/3pBt0xG"
+  },
+  {
     "name": "Minds Mastering Machines",
     "url": "https://m3-konferenz.de",
     "startDate": "2021-04-27",
@@ -135,27 +157,5 @@
     "cfpUrl": "https://www.papercall.io/conf42-machine-learning-2021",
     "cfpEndDate": "2021-06-14",
     "twitter": "@conf42com"
-  },
-  {
-    "name": "Data Science fwdays",
-    "url": "https://fwdays.com/en/event/data-science-fwdays-2021",
-    "startDate": "2021-04-24",
-    "endDate": "2021-04-24",
-    "twitter": "@fwdays",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSd1rDUjEWA4R7j6iaq7-Isx0sVIAHe0sy8rXXV7E_7CxHqSSQ/viewform",
-    "cfpEndDate": "2021-03-15",
-    "cocUrl": "https://bit.ly/3pBt0xG",
-    "online": true
-  },
-  {
-    "name": "Data Love",
-    "url": "https://datalove.konfy.care",
-    "startDate": "2021-04-16",
-    "endDate": "2021-04-16",
-    "twitter": "@_datalove",
-    "cfpUrl": "https://www.papercall.io/datalove",
-    "cfpEndDate": "2021-03-07",
-    "cocUrl": "https://berlincodeofconduct.org/",
-    "online": true
   }
 ]
