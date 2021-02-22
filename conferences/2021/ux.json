@@ -80,6 +80,14 @@
     "cocUrl": "https://docs.google.com/document/d/1E5eiXx868wRSLvExCctywlVulSUkFjlTX2J1PwM_aPA/edit"
   },
   {
+    "name": "The BAD Conference",
+    "url": "https://thebadconference.com",
+    "startDate": "2021-04-14",
+    "endDate": "2021-04-15",
+    "online": true,
+    "twitter": "@techcircus_"
+  },
+  {
     "name": "IAC",
     "url": "https://www.theiaconference.com",
     "startDate": "2021-04-28",
@@ -131,13 +139,5 @@
     "country": "Canada",
     "twitter": "@canuxconf",
     "cocUrl": "https://canux.io/about/code-of-conduct/"
-  },
-  {
-    "name": "The BAD Conference",
-    "url": "https://thebadconference.com",
-    "startDate": "2021-04-14",
-    "endDate": "2021-04-15",
-    "twitter": "@techcircus_",
-    "online": true
   }
 ]
