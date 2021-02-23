@@ -60,6 +60,16 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Qubit Conference New York",
+    "url": "https://nyc.qubitconference.com",
+    "startDate": "2021-05-05",
+    "endDate": "2021-05-06",
+    "online": true,
+    "cfpUrl": "https://nyc.qubitconference.com/call-speakers",
+    "cfpEndDate": "2021-03-10",
+    "twitter": "@QuBitCon"
+  },
+  {
     "name": "RuhrSec",
     "url": "https://www.ruhrsec.de/2020",
     "startDate": "2021-05-18",
@@ -94,15 +104,5 @@
     "cfpEndDate": "2021-04-10",
     "twitter": "@QuBitCon",
     "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "Qubit Conference New York",
-    "url": "https://nyc.qubitconference.com",
-    "startDate": "2021-05-05",
-    "endDate": "2021-05-06",
-    "twitter": "@QuBitCon",
-    "cfpUrl": "https://nyc.qubitconference.com/call-speakers",
-    "cfpEndDate": "2021-03-10",
-    "online": true
   }
 ]
