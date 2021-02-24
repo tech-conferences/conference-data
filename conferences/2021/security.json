@@ -70,6 +70,14 @@
     "twitter": "@QuBitCon"
   },
   {
+    "name": "Cloud Native Security Day",
+    "url": "https://events.linuxfoundation.org/cloud-native-security-day-europe/",
+    "startDate": "2021-05-04",
+    "endDate": "2021-05-04",
+    "online": true,
+    "cocUrl": "https://events.linuxfoundation.org/cloud-native-security-day-europe/attend/code-of-conduct/"
+  },
+  {
     "name": "RuhrSec",
     "url": "https://www.ruhrsec.de/2020",
     "startDate": "2021-05-18",
@@ -104,5 +112,16 @@
     "cfpEndDate": "2021-04-10",
     "twitter": "@QuBitCon",
     "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Linux Security Summit Europe",
+    "url": "https://events.linuxfoundation.org/linux-security-summit-europe/",
+    "startDate": "2021-09-27",
+    "endDate": "2021-09-29",
+    "city": "Dublin",
+    "country": "Ireland",
+    "cfpUrl": "https://events.linuxfoundation.org/linux-security-summit-europe/program/cfp/",
+    "cfpEndDate": "2021-06-27",
+    "cocUrl": "https://events.linuxfoundation.org/linux-security-summit-europe/attend/code-of-conduct/"
   }
 ]
