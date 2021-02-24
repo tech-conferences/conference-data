@@ -60,6 +60,14 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Cloud Native Security Day",
+    "url": "https://events.linuxfoundation.org/cloud-native-security-day-europe/",
+    "startDate": "2021-05-04",
+    "endDate": "2021-05-04",
+    "online": true,
+    "cocUrl": "https://events.linuxfoundation.org/cloud-native-security-day-europe/attend/code-of-conduct/"
+  },
+  {
     "name": "Qubit Conference New York",
     "url": "https://nyc.qubitconference.com",
     "startDate": "2021-05-05",
@@ -68,14 +76,6 @@
     "cfpUrl": "https://nyc.qubitconference.com/call-speakers",
     "cfpEndDate": "2021-03-10",
     "twitter": "@QuBitCon"
-  },
-  {
-    "name": "Cloud Native Security Day",
-    "url": "https://events.linuxfoundation.org/cloud-native-security-day-europe/",
-    "startDate": "2021-05-04",
-    "endDate": "2021-05-04",
-    "online": true,
-    "cocUrl": "https://events.linuxfoundation.org/cloud-native-security-day-europe/attend/code-of-conduct/"
   },
   {
     "name": "RuhrSec",
