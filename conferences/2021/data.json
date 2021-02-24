@@ -70,6 +70,7 @@
     "online": true,
     "cfpEndDate": "2021-03-23",
     "twitter": "@ODSC",
+    "cocUrl": "https://odsc.com/code-of-conduct/"
     "offersSignLanguageOrCC": false
   },
   {
@@ -79,6 +80,7 @@
     "endDate": "2021-04-01",
     "online": true,
     "twitter": "@ODSC",
+    "cocUrl": "https://odsc.com/code-of-conduct/",
     "offersSignLanguageOrCC": false
   },
   {
@@ -122,8 +124,16 @@
     "cfpUrl": "https://m3-konferenz.de/call_for_proposals_en.php",
     "cfpEndDate": "2021-01-17",
     "twitter": "@M3_Konferenz",
-    "cocUrl": "ttps://m3-konferenz.de/code_of_conduct.php",
+    "cocUrl": "https://m3-konferenz.de/code_of_conduct.php",
     "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Kubernetes AI Day",
+    "url": "https://events.linuxfoundation.org/kubernetes-ai-day/",
+    "startDate": "2021-05-04",
+    "endDate": "2021-05-04",
+    "online": true,
+    "cocUrl": "https://events.linuxfoundation.org/kubernetes-ai-day/attend/code-of-conduct/"  
   },
   {
     "name": "ODSC Europe Virtual Conference",
@@ -168,13 +178,5 @@
     "cfpUrl": "https://www.papercall.io/conf42-machine-learning-2021",
     "cfpEndDate": "2021-06-14",
     "twitter": "@conf42com"
-  },
-  {
-    "name": "Datamatics Intelligent Automation Summit",
-    "url": "https://www.datamatics.com/events/lp/IASummit2021",
-    "startDate": "2021-03-17",
-    "endDate": "2021-03-17",
-    "twitter": "@Datamatics",
-    "online": true
   }
 ]
