@@ -169,6 +169,22 @@
     "cocUrl": "https://devopsdays.org/conduct/"
   },
   {
+    "name": "ServiceMeshCon",
+    "url": "https://events.linuxfoundation.org/servicemeshcon-europe/",
+    "startDate": "2021-05-04",
+    "endDate": "2021-05-04",
+    "online": true,
+    "cocUrl": "https://events.linuxfoundation.org/servicemeshcon-europe/attend/code-of-conduct/"
+  },
+  {
+    "name": "fluentcon",
+    "url": "https://events.linuxfoundation.org/fluentcon/",
+    "startDate": "2021-05-04",
+    "endDate": "2021-05-04",
+    "online": true,
+    "cocUrl": "https://events.linuxfoundation.org/fluentcon/attend/code-of-conduct/"
+  },
+  {
     "name": "KubeCon + CloudNativeCon EU",
     "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/",
     "startDate": "2021-05-04",
@@ -412,6 +428,25 @@
     "country": "U.S.A.",
     "twitter": "@devopsdaysbos",
     "cocUrl": "https://devopsdays.org/conduct/"
+  },
+  {
+    "name": "Linux Plumbers Conference",
+    "url": "https://linuxplumbersconf.org/",
+    "startDate": "2021-09-27",
+    "endDate": "2021-09-29",
+    "city": "Dublin",
+    "country": "Ireland",
+    "twitter": "@LinuxPlumbers",
+    "cocUrl": "https://linuxplumbersconf.org/event/11/page/113-anti-harassment-policy"
+  },
+  {
+    "name": "Embedded Linux Conference",
+    "url": "https://events.linuxfoundation.org/embedded-linux-conference-europe/",
+    "startDate": "2021-09-28",
+    "endDate": "2021-10-01",
+    "city": "Dublin",
+    "country": "Ireland",
+    "cocUrl": "https://events.linuxfoundation.org/embedded-linux-conference-europe/attend/code-of-conduct/"
   },
   {
     "name": "Conf42: SRE",
