@@ -50,14 +50,15 @@
     "offersSignLanguageOrCC": false
   },
   {
-    "name": "Embedded Linux Conference Europe",
+    "name": "Embedded Linux Conference",
     "url": "https://events.linuxfoundation.org/embedded-linux-conference-europe/",
     "startDate": "2021-09-28",
     "endDate": "2021-10-01",
     "city": "Dublin",
     "country": "Ireland",
+    "online": true,
     "cocUrl": "https://events.linuxfoundation.org/embedded-linux-conference-europe/attend/code-of-conduct/",
     "cfpUrl": "https://events.linuxfoundation.org/embedded-linux-conference-europe/program/cfp/",
-    "cfpEndDate": "2021-06-13"
+    "cfpEndDate": "2021-06-13"    
   }
 ]
