@@ -70,6 +70,17 @@
     "cocUrl": "https://vslive.com/pages/harassment.aspx"
   },
   {
+    "name": "BASTA! Hybrid",
+    "url": "https://basta.net/mainz",
+    "startDate": "2021-09-20",
+    "endDate": "2021-09-24",
+    "city": "Mainz",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@BASTAcon",
+    "cocUrl": "https://basta.net/code-of-conduct/"
+  },
+  {
     "name": "Update Conference Prague",
     "url": "https://www.updateconference.net",
     "startDate": "2021-11-18",
@@ -79,16 +90,5 @@
     "online": true,
     "twitter": "@update_conf",
     "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "BASTA! Hybrid",
-    "url": "https://basta.net/mainz",
-    "startDate": "2021-09-20",
-    "endDate": "2021-09-24",
-    "city": "Mainz",
-    "country": "Germany",
-    "twitter": "@BASTAcon",
-    "cocUrl": "https://basta.net/code-of-conduct/",
-    "online": true
   }
 ]

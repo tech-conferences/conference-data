@@ -131,6 +131,16 @@
     "cocUrl": "https://aneventapart.com/registration-information#code-of-conduct"
   },
   {
+    "name": "World Usability Congress",
+    "url": "https://worldusabilitycongress.com",
+    "startDate": "2021-10-13",
+    "endDate": "2021-10-14",
+    "city": "Graz",
+    "country": "Austria",
+    "online": false,
+    "twitter": "@worlduxcongress"
+  },
+  {
     "name": "CanUX",
     "url": "https://canux.io",
     "startDate": "2021-11-04",
@@ -139,15 +149,5 @@
     "country": "Canada",
     "twitter": "@canuxconf",
     "cocUrl": "https://canux.io/about/code-of-conduct/"
-  },
-  {
-    "name": "World Usability Congress",
-    "url": "https://worldusabilitycongress.com",
-    "startDate": "2021-10-13",
-    "endDate": "2021-10-14",
-    "city": "Graz",
-    "country": "Austria",
-    "twitter": "@worlduxcongress",
-    "online": false
   }
 ]

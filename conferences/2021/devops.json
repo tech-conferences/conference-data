@@ -160,6 +160,14 @@
     "offersSignLanguageOrCC": false
   },
   {
+    "name": "Cloud Native Wasm Day",
+    "url": "https://events.linuxfoundation.org/cloud-native-wasm-day/",
+    "startDate": "2021-05-04",
+    "endDate": "2021-05-04",
+    "online": true,
+    "cocUrl": "https://events.linuxfoundation.org/cloud-native-wasm-day/attend/code-of-conduct/"
+  },
+  {
     "name": "Devopsdays Seattle",
     "url": "https://devopsdays.org/events/2021-seattle/welcome/",
     "startDate": "2021-05-04",
@@ -167,14 +175,6 @@
     "online": true,
     "twitter": "@devopsdayssea",
     "cocUrl": "https://devopsdays.org/conduct/"
-  },
-  {
-    "name": "Cloud Native Wasm Day",
-    "url": "https://events.linuxfoundation.org/cloud-native-wasm-day/",
-    "startDate": "2021-05-04",
-    "endDate": "2021-05-04",
-    "online": true,
-    "cocUrl": "https://events.linuxfoundation.org/cloud-native-wasm-day/attend/code-of-conduct/"
   },
   {
     "name": "ServiceMeshCon",
