@@ -33,6 +33,14 @@
     "offersSignLanguageOrCC": false
   },
   {
+    "name": "Kubernetes on Edge Day",
+    "url": "https://events.linuxfoundation.org/kubernetes-on-edge-day/",
+    "startDate": "2021-05-04",
+    "endDate": "2021-05-04",
+    "online": true,
+    "cocUrl": "https://events.linuxfoundation.org/kubernetes-on-edge-day/attend/code-of-conduct/"  
+  },
+  {
     "name": "Internet of Things",
     "url": "https://iotcon.de",
     "startDate": "2021-06-21",
@@ -40,5 +48,17 @@
     "online": true,
     "twitter": "@iotconf",
     "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Embedded Linux Conference",
+    "url": "https://events.linuxfoundation.org/embedded-linux-conference-europe/",
+    "startDate": "2021-09-28",
+    "endDate": "2021-10-01",
+    "city": "Dublin",
+    "country": "Ireland",
+    "online": true,
+    "cocUrl": "https://events.linuxfoundation.org/embedded-linux-conference-europe/attend/code-of-conduct/",
+    "cfpUrl": "https://events.linuxfoundation.org/embedded-linux-conference-europe/program/cfp/",
+    "cfpEndDate": "2021-06-13"    
   }
 ]
