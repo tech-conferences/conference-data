@@ -486,6 +486,9 @@ module.exports = {
     "Rapperswil",
     "Zurich"
   ],
+  "Tanzania": [
+    "Dar es Salaam"
+  ],
   "Taiwan": [
     "Taipei"
   ],
