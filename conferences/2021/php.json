@@ -65,5 +65,18 @@
     "twitter": "@dpcon",
     "cocUrl": "https://www.phpconference.nl/code-of-conduct",
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "SymfonyCon Disneyland Paris",
+    "url": "https://live.symfony.com/2021-paris-con",
+    "startDate": "2021-12-02",
+    "endDate": "2021-12-03",
+    "city": "Paris",
+    "country": "France",
+    "twitter": "@SymfonyCon",
+    "cfpUrl": "https://live.symfony.com/2021-paris-con/cfp",
+    "cfpEndDate": "2021-03-29",
+    "cocUrl": "https://symfony.com/doc/current/contributing/code_of_conduct/care_team.html",
+    "online": false
   }
 ]
