@@ -1,11 +1,10 @@
 [
   {
-    "name": ".NET Conf Korea",
-    "url": "https://2021.dotnetdev.kr/",
-    "startDate": "2021-01-15",
-    "endDate": "2021-01-15",
-    "online": true,
-    "offersSignLanguageOrCC": false
+    "name": "poj",
+    "url": "https://confs.tech",
+    "startDate": "2021-03-24",
+    "endDate": "2021-03-24",
+    "online": true
   },
   {
     "name": "BASTA!",
@@ -90,5 +89,13 @@
     "online": true,
     "twitter": "@update_conf",
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": ".NET Conf Korea",
+    "url": "https://2021.dotnetdev.kr/",
+    "startDate": "2021-01-15",
+    "endDate": "2021-01-15",
+    "online": true,
+    "offersSignLanguageOrCC": false
   }
 ]
