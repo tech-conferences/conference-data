@@ -1,15 +1,11 @@
 [
   {
-    "name": "HalfStack Phoenix",
-    "url": "https://halfstackconf.com/phoenix",
-    "startDate": "2021-01-15",
-    "endDate": "2021-01-15",
-    "city": "Phoenix, AZ",
-    "country": "U.S.A.",
-    "cfpUrl": "https://halfstackconf.com/phoenix/",
-    "cfpEndDate": "2020-08-31",
-    "twitter": "@halfstackconf",
-    "cocUrl": "https://halfstackconf.com/phoenix/code-of-conduct/"
+    "name": "Test conf",
+    "url": "https://confs.tech",
+    "startDate": "2021-03-17",
+    "endDate": "2021-03-25",
+    "twitter": "@nimz_co",
+    "online": true
   },
   {
     "name": "TestJS Summit",
@@ -402,5 +398,17 @@
     "country": "Germany",
     "twitter": "@js_days",
     "online": true
+  },
+  {
+    "name": "HalfStack Phoenix",
+    "url": "https://halfstackconf.com/phoenix",
+    "startDate": "2021-01-15",
+    "endDate": "2021-01-15",
+    "city": "Phoenix, AZ",
+    "country": "U.S.A.",
+    "cfpUrl": "https://halfstackconf.com/phoenix/",
+    "cfpEndDate": "2020-08-31",
+    "twitter": "@halfstackconf",
+    "cocUrl": "https://halfstackconf.com/phoenix/code-of-conduct/"
   }
 ]
