@@ -402,5 +402,16 @@
     "country": "Germany",
     "twitter": "@js_days",
     "online": true
+  },
+  {
+    "name": "render(ATL)",
+    "url": "https://www.renderatl.com",
+    "startDate": "2021-09-13",
+    "endDate": "2021-09-15",
+    "city": "Atlanta, GA",
+    "country": "U.S.A.",
+    "twitter": "@renderATL",
+    "cocUrl": "https://www.renderatl.com/code-of-conduct",
+    "online": false
   }
 ]
