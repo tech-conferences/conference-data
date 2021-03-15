@@ -495,5 +495,16 @@
     "startDate": "2021-03-18",
     "endDate": "2021-03-18",
     "online": true
+  },
+  {
+    "name": "API Summit",
+    "url": "https://api-summit.de",
+    "startDate": "2021-06-07",
+    "endDate": "2021-06-09",
+    "city": "Munich",
+    "country": "Germany",
+    "twitter": "@apisummit_de",
+    "cocUrl": "https://api-summit.de/code-of-conduct/",
+    "online": true
   }
 ]
