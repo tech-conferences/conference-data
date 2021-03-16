@@ -57,6 +57,14 @@
     "cocUrl": "https://productschool.com/code-of-conduct/"
   },
   {
+    "name": "#mtpcon Digital APAC",
+    "url": "https://www.mindtheproduct.com/mtpcon/digital/apac",
+    "startDate": "2021-04-14",
+    "endDate": "2021-04-15",
+    "online": true,
+    "twitter": "@MindtheProduct"
+  },
+  {
     "name": "Integrate Remote - Microsoft Integration Conference",
     "url": "https://www.biztalk360.com/integrate-2021-remote",
     "startDate": "2021-06-01",
@@ -74,19 +82,11 @@
     "twitter": "@europeanporeday"
   },
   {
-    "name": "#mtpcon Digital APAC",
-    "url": "https://www.mindtheproduct.com/mtpcon/digital/apac",
-    "startDate": "2021-04-14",
-    "endDate": "2021-04-15",
-    "twitter": "@MindtheProduct",
-    "online": true
-  },
-  {
     "name": "#mtpcon Digital Americas",
     "url": "https://www.mindtheproduct.com/mtpcon/digital/#americas",
     "startDate": "2021-07-14",
     "endDate": "2021-07-15",
-    "twitter": "@MindtheProduct",
-    "online": true
+    "online": true,
+    "twitter": "@MindtheProduct"
   }
 ]

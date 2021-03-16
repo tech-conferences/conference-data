@@ -249,6 +249,15 @@
     "cocUrl": "https://www.2021.ng-conf.org/code-of-conduct"
   },
   {
+    "name": "React Case Study Festival",
+    "url": "https://react.geekle.us",
+    "startDate": "2021-04-27",
+    "endDate": "2021-04-28",
+    "online": true,
+    "twitter": "@GeekleOfficial",
+    "cocUrl": "https://react.geekle.us/code-of-conduct"
+  },
+  {
     "name": "vueday",
     "url": "https://2021.vueday.it",
     "startDate": "2021-04-29",
@@ -362,6 +371,27 @@
     "cocUrl": "https://berlincodeofconduct.org/"
   },
   {
+    "name": "render(ATL)",
+    "url": "https://www.renderatl.com",
+    "startDate": "2021-09-13",
+    "endDate": "2021-09-15",
+    "city": "Atlanta, GA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@renderATL",
+    "cocUrl": "https://www.renderatl.com/code-of-conduct"
+  },
+  {
+    "name": "javascript days",
+    "url": "https://javascript-days.de/berlin",
+    "startDate": "2021-10-04",
+    "endDate": "2021-10-07",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@js_days"
+  },
+  {
     "name": "Nordic.js",
     "url": "https://nordicjs.com",
     "startDate": "2021-10-07",
@@ -383,6 +413,17 @@
     "twitter": "@conf42com"
   },
   {
+    "name": "React India",
+    "url": "https://www.reactindia.io",
+    "startDate": "2021-11-12",
+    "endDate": "2021-11-13",
+    "city": "Mumbai",
+    "country": "India",
+    "online": false,
+    "twitter": "@react_india",
+    "cocUrl": "https://www.notion.so/CODE-OF-CONDUCT-46e5dc50604a44e1be53a34d4937682f"
+  },
+  {
     "name": "Xtreme JS",
     "url": "https://xtremejs.dev",
     "startDate": "2021-11-22",
@@ -392,46 +433,5 @@
     "cfpEndDate": "2021-08-31",
     "twitter": "@xtremejsconf",
     "cocUrl": "https://bit.ly/2NL4ehr."
-  },
-  {
-    "name": "javascript days",
-    "url": "https://javascript-days.de/berlin",
-    "startDate": "2021-10-04",
-    "endDate": "2021-10-07",
-    "city": "Berlin",
-    "country": "Germany",
-    "twitter": "@js_days",
-    "online": true
-  },
-  {
-    "name": "render(ATL)",
-    "url": "https://www.renderatl.com",
-    "startDate": "2021-09-13",
-    "endDate": "2021-09-15",
-    "city": "Atlanta, GA",
-    "country": "U.S.A.",
-    "twitter": "@renderATL",
-    "cocUrl": "https://www.renderatl.com/code-of-conduct",
-    "online": false
-  },
-  {
-    "name": "React Case Study Festival",
-    "url": "https://react.geekle.us",
-    "startDate": "2021-04-27",
-    "endDate": "2021-04-28",
-    "twitter": "@GeekleOfficial",
-    "cocUrl": "https://react.geekle.us/code-of-conduct",
-    "online": true
-  },
-  {
-    "name": "React India",
-    "url": "https://www.reactindia.io",
-    "startDate": "2021-11-12",
-    "endDate": "2021-11-13",
-    "city": "Mumbai",
-    "country": "India",
-    "twitter": "@react_india",
-    "cocUrl": "https://www.notion.so/CODE-OF-CONDUCT-46e5dc50604a44e1be53a34d4937682f",
-    "online": false
   }
 ]

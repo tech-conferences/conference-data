@@ -159,6 +159,17 @@
     "offersSignLanguageOrCC": false
   },
   {
+    "name": "Intercon Conference",
+    "url": "https://www.intercon.world",
+    "startDate": "2021-06-23",
+    "endDate": "2021-06-25",
+    "city": "Las Vegas, NV",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@InterConWorld",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Women in Analytics Conference",
     "url": "https://womeninanalytics.com/conference",
     "startDate": "2021-07-21",
@@ -170,6 +181,17 @@
     "cocUrl": "https://womeninanalytics.com/about/code-of-conduct/"
   },
   {
+    "name": "Kafka Summit APAC",
+    "url": "https://www.kafka-summit.org/events/kafka-summit-apac-2021",
+    "startDate": "2021-07-27",
+    "endDate": "2021-07-28",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/kafka-summit-apac-2021",
+    "cfpEndDate": "2021-04-05",
+    "twitter": "@ConfluentInc",
+    "cocUrl": "https://kafka-summit-org.netlify.app/code-of-c"
+  },
+  {
     "name": "Conf42: Machine learning",
     "url": "https://www.conf42.com",
     "startDate": "2021-07-29",
@@ -178,27 +200,5 @@
     "cfpUrl": "https://www.papercall.io/conf42-machine-learning-2021",
     "cfpEndDate": "2021-06-14",
     "twitter": "@conf42com"
-  },
-  {
-    "name": "Kafka Summit APAC",
-    "url": "https://www.kafka-summit.org/events/kafka-summit-apac-2021",
-    "startDate": "2021-07-27",
-    "endDate": "2021-07-28",
-    "twitter": "@ConfluentInc",
-    "cfpUrl": "https://sessionize.com/kafka-summit-apac-2021",
-    "cfpEndDate": "2021-04-05",
-    "cocUrl": "https://kafka-summit-org.netlify.app/code-of-c",
-    "online": true
-  },
-  {
-    "name": "Intercon Conference",
-    "url": "https://www.intercon.world",
-    "startDate": "2021-06-23",
-    "endDate": "2021-06-25",
-    "city": "Las Vegas, NV",
-    "country": "U.S.A.",
-    "twitter": "@InterConWorld",
-    "online": false,
-    "offersSignLanguageOrCC": true
   }
 ]

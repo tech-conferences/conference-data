@@ -157,6 +157,13 @@
     "offersSignLanguageOrCC": false
   },
   {
+    "name": "How To Bring Innovation To Your Business With AR x VR",
+    "url": "https://xrterra.com/events/bring-innovation-to-your-business-with-ar-x-vr",
+    "startDate": "2021-03-18",
+    "endDate": "2021-03-18",
+    "online": true
+  },
+  {
     "name": "betterCode API",
     "url": "https://api.bettercode.eu",
     "startDate": "2021-03-23",
@@ -299,6 +306,17 @@
     "twitter": "@GOTOcon",
     "cocUrl": "https://gotocph.com/2021/code-of-conduct",
     "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "API Summit",
+    "url": "https://api-summit.de",
+    "startDate": "2021-06-07",
+    "endDate": "2021-06-09",
+    "city": "Munich",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@apisummit_de",
+    "cocUrl": "https://api-summit.de/code-of-conduct/"
   },
   {
     "name": "Women Tech Conference",
@@ -488,23 +506,5 @@
     "endDate": "2021-12-09",
     "online": true,
     "twitter": "@InformatikAktue"
-  },
-  {
-    "name": "How To Bring Innovation To Your Business With AR x VR",
-    "url": "https://xrterra.com/events/bring-innovation-to-your-business-with-ar-x-vr",
-    "startDate": "2021-03-18",
-    "endDate": "2021-03-18",
-    "online": true
-  },
-  {
-    "name": "API Summit",
-    "url": "https://api-summit.de",
-    "startDate": "2021-06-07",
-    "endDate": "2021-06-09",
-    "city": "Munich",
-    "country": "Germany",
-    "twitter": "@apisummit_de",
-    "cocUrl": "https://api-summit.de/code-of-conduct/",
-    "online": true
   }
 ]

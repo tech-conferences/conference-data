@@ -53,6 +53,14 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Coworking Symposium",
+    "url": "https://www.coworkingsymposium.com",
+    "startDate": "2021-04-15",
+    "endDate": "2021-04-15",
+    "online": true,
+    "twitter": "@CoAssemblyEU"
+  },
+  {
     "name": "Tech Leadership Conference",
     "url": "https://www.developer-first.com/conference",
     "startDate": "2021-05-07",
@@ -72,13 +80,5 @@
     "online": true,
     "twitter": "@runningremote",
     "cocUrl": "https://runningremote.com/"
-  },
-  {
-    "name": "Coworking Symposium",
-    "url": "https://www.coworkingsymposium.com",
-    "startDate": "2021-04-15",
-    "endDate": "2021-04-15",
-    "twitter": "@CoAssemblyEU",
-    "online": true
   }
 ]
