@@ -88,6 +88,15 @@
     "offersSignLanguageOrCC": false
   },
   {
+    "name": "Solocon",
+    "url": "https://solocon.io",
+    "startDate": "2021-03-23",
+    "endDate": "2021-03-24",
+    "online": true,
+    "twitter": "@soloio_inc",
+    "cocUrl": "https://solocon.io/code-of-conduct/"
+  },
+  {
     "name": "The DEVOPS Conference",
     "url": "https://www.thedevopsconference.com",
     "startDate": "2021-03-23",
@@ -484,14 +493,5 @@
     "country": "U.S.A.",
     "twitter": "@nashvilledevops",
     "cocUrl": "https://devopsdays.org/conduct/"
-  },
-  {
-    "name": "Solocon",
-    "url": "https://solocon.io",
-    "startDate": "2021-03-23",
-    "endDate": "2021-03-24",
-    "twitter": "@soloio_inc",
-    "cocUrl": "https://solocon.io/code-of-conduct/",
-    "online": true
   }
 ]

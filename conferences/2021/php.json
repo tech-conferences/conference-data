@@ -73,10 +73,10 @@
     "endDate": "2021-12-03",
     "city": "Paris",
     "country": "France",
-    "twitter": "@SymfonyCon",
+    "online": false,
     "cfpUrl": "https://live.symfony.com/2021-paris-con/cfp",
     "cfpEndDate": "2021-03-29",
-    "cocUrl": "https://symfony.com/doc/current/contributing/code_of_conduct/care_team.html",
-    "online": false
+    "twitter": "@SymfonyCon",
+    "cocUrl": "https://symfony.com/doc/current/contributing/code_of_conduct/care_team.html"
   }
 ]

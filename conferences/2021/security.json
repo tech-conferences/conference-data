@@ -42,14 +42,11 @@
     "offersSignLanguageOrCC": true
   },
   {
-    "name": "QuBit Conference",
-    "url": "https://tatry.qubitconference.com",
-    "startDate": "2021-05-26",
-    "endDate": "2021-05-27",
-    "city": "Jasna",
-    "country": "Slovakia",
-    "twitter": "@QuBitCon",
-    "offersSignLanguageOrCC": false
+    "name": "Virtual Security Operation Center Summit Budapest",
+    "url": "https://www.socsummit.eu",
+    "startDate": "2021-03-18",
+    "endDate": "2021-03-19",
+    "online": true
   },
   {
     "name": "CAW-Cyber awareness week",
@@ -88,6 +85,16 @@
     "cocUrl": "https://www.ruhrsec.de/2020/codeofconduct.html"
   },
   {
+    "name": "QuBit Conference",
+    "url": "https://tatry.qubitconference.com",
+    "startDate": "2021-05-26",
+    "endDate": "2021-05-27",
+    "city": "Jasna",
+    "country": "Slovakia",
+    "twitter": "@QuBitCon",
+    "offersSignLanguageOrCC": false
+  },
+  {
     "name": "Women in CyberSecurity (WiCyS)",
     "url": "https://www.wicys.org/events/wicys-2021",
     "startDate": "2021-09-08",
@@ -123,12 +130,5 @@
     "cfpUrl": "https://events.linuxfoundation.org/linux-security-summit-europe/program/cfp/",
     "cfpEndDate": "2021-06-27",
     "cocUrl": "https://events.linuxfoundation.org/linux-security-summit-europe/attend/code-of-conduct/"
-  },
-  {
-    "name": "Virtual Security Operation Center Summit Budapest",
-    "url": "https://www.socsummit.eu",
-    "startDate": "2021-03-18",
-    "endDate": "2021-03-19",
-    "online": true
   }
 ]
