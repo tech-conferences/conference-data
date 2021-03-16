@@ -269,13 +269,25 @@
     "cocUrl": "https://2021.vueday.it/welcome/coc.html"
   },
   {
-    "name": "Global Scope",
-    "url": "https://www.webdirections.org/globalscope",
-    "startDate": "2021-06-04",
-    "endDate": "2021-06-25",
+    "name": "Lazy Load",
+    "url": "https://www.webdirections.org/lazyload",
+    "startDate": "2021-05-21",
+    "endDate": "2021-05-21",
     "online": true,
-    "cfpUrl": "https://www.webdirections.org/globalscope#speak",
-    "cfpEndDate": "2021-03-05",
+    "cfpUrl": "https://www.webdirections.org/lazyload/#speak",
+    "cfpEndDate": "2021-02-28",
+    "twitter": "@webdirections",
+    "cocUrl": "https://www.webdirections.org/web-directions-event-code-of-conduct/",
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "Lazy Load",
+    "url": "https://www.webdirections.org/lazyload",
+    "startDate": "2021-05-28",
+    "endDate": "2021-05-28",
+    "online": true,
+    "cfpUrl": "https://www.webdirections.org/lazyload/#speak",
+    "cfpEndDate": "2021-02-28",
     "twitter": "@webdirections",
     "cocUrl": "https://www.webdirections.org/web-directions-event-code-of-conduct/",
     "offersSignLanguageOrCC": true
@@ -320,6 +332,30 @@
     "cocUrl": "https://live.jsnation.com/coc"
   },
   {
+    "name": "Code",
+    "url": "https://www.webdirections.org/code",
+    "startDate": "2021-06-17",
+    "endDate": "2021-06-17",
+    "online": true,
+    "cfpUrl": "https://www.webdirections.org/code#speak",
+    "cfpEndDate": "2021-03-05",
+    "twitter": "@webdirections",
+    "cocUrl": "https://www.webdirections.org/web-directions-event-code-of-conduct/",
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "Global Scope",
+    "url": "https://www.webdirections.org/globalscope",
+    "startDate": "2021-06-18",
+    "endDate": "2021-06-18",
+    "online": true,
+    "cfpUrl": "https://www.webdirections.org/globalscope#speak",
+    "cfpEndDate": "2021-03-05",
+    "twitter": "@webdirections",
+    "cocUrl": "https://www.webdirections.org/web-directions-event-code-of-conduct/",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "React Day Norway",
     "url": "https://reactnorway.com",
     "startDate": "2021-06-18",
@@ -328,6 +364,30 @@
     "country": "Norway",
     "twitter": "@ReactNorway",
     "cocUrl": "https://berlincodeofconduct.org/"
+  },
+  {
+    "name": "Code",
+    "url": "https://www.webdirections.org/code",
+    "startDate": "2021-06-24",
+    "endDate": "2021-06-24",
+    "online": true,
+    "cfpUrl": "https://www.webdirections.org/code#speak",
+    "cfpEndDate": "2021-04-30",
+    "twitter": "@webdirections",
+    "cocUrl": "https://www.webdirections.org/web-directions-event-code-of-conduct/",
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "Global Scope",
+    "url": "https://www.webdirections.org/globalscope",
+    "startDate": "2021-06-25",
+    "endDate": "2021-06-25",
+    "online": true,
+    "cfpUrl": "https://www.webdirections.org/globalscope#speak",
+    "cfpEndDate": "2021-03-05",
+    "twitter": "@webdirections",
+    "cocUrl": "https://www.webdirections.org/web-directions-event-code-of-conduct/",
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "HalfStack Newquay",
