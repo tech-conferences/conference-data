@@ -503,5 +503,17 @@
     "cfpEndDate": "2021-04-12",
     "cocUrl": "https://enterjs.de/code_of_conduct_en.php",
     "online": true
+  },
+  {
+    "name": "JSConf Budapest",
+    "url": "https://jsconfbp.com",
+    "startDate": "2021-09-23",
+    "endDate": "2021-09-24",
+    "city": "Budapest",
+    "country": "Hungary",
+    "twitter": "@jsconfbp",
+    "cfpUrl": "https://jsconfbp.com/call-for-speakers-2021",
+    "cfpEndDate": "2021-03-31",
+    "online": false
   }
 ]
