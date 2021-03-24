@@ -520,5 +520,16 @@
     "endDate": "2021-05-20",
     "twitter": "@DEVOPSINST",
     "online": true
+  },
+  {
+    "name": "Microservices Summit",
+    "url": "https://microservices-summit.de",
+    "startDate": "2021-06-07",
+    "endDate": "2021-06-09",
+    "city": "Munich",
+    "country": "Germany",
+    "twitter": "@MicroservSummit",
+    "cocUrl": "https://microservices-summit.de/code-of-conduct/",
+    "online": true
   }
 ]
