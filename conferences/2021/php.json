@@ -67,6 +67,26 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "API Platform Conference",
+    "url": "https://api-platform.com/con/2021",
+    "startDate": "2021-09-10",
+    "endDate": "2021-09-10",
+    "city": "Lille",
+    "country": "France",
+    "online": true,
+    "twitter": "@ApiPlatform"
+  },
+  {
+    "name": "TYPO3 Camp RheinRuhr",
+    "url": "https://www.typo3camp-rheinruhr.de",
+    "startDate": "2021-11-05",
+    "endDate": "2021-11-07",
+    "city": "Essen",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@T3CRR"
+  },
+  {
     "name": "SymfonyCon Disneyland Paris",
     "url": "https://live.symfony.com/2021-paris-con",
     "startDate": "2021-12-02",
@@ -78,25 +98,5 @@
     "cfpEndDate": "2021-03-29",
     "twitter": "@SymfonyCon",
     "cocUrl": "https://symfony.com/doc/current/contributing/code_of_conduct/care_team.html"
-  },
-  {
-    "name": "TYPO3 Camp RheinRuhr",
-    "url": "https://www.typo3camp-rheinruhr.de",
-    "startDate": "2021-11-05",
-    "endDate": "2021-11-07",
-    "city": "Essen",
-    "country": "Germany",
-    "twitter": "@T3CRR",
-    "online": true
-  },
-  {
-    "name": "API Platform Conference",
-    "url": "https://api-platform.com/con/2021",
-    "startDate": "2021-09-10",
-    "endDate": "2021-09-10",
-    "city": "Lille",
-    "country": "France",
-    "twitter": "@ApiPlatform",
-    "online": true
   }
 ]

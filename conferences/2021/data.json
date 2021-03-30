@@ -105,6 +105,14 @@
     "cocUrl": "https://berlincodeofconduct.org/"
   },
   {
+    "name": "DataYap Virtual Conference",
+    "url": "https://conference.datayap.com",
+    "startDate": "2021-04-17",
+    "endDate": "2021-04-17",
+    "online": true,
+    "twitter": "@dataproducts"
+  },
+  {
     "name": "Data Science fwdays",
     "url": "https://fwdays.com/en/event/data-science-fwdays-2021",
     "startDate": "2021-04-24",
@@ -200,13 +208,5 @@
     "cfpUrl": "https://www.papercall.io/conf42-machine-learning-2021",
     "cfpEndDate": "2021-06-14",
     "twitter": "@conf42com"
-  },
-  {
-    "name": "DataYap Virtual Conference",
-    "url": "https://conference.datayap.com",
-    "startDate": "2021-04-17",
-    "endDate": "2021-04-17",
-    "twitter": "@dataproducts",
-    "online": true
   }
 ]

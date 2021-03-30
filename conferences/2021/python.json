@@ -73,6 +73,17 @@
     "twitter": "@conf42com"
   },
   {
+    "name": "PyCon India",
+    "url": "https://in.pycon.org/2021",
+    "startDate": "2021-09-17",
+    "endDate": "2021-09-20",
+    "online": true,
+    "cfpUrl": "https://in.pycon.org/cfp/2021/proposals",
+    "cfpEndDate": "2021-05-07",
+    "twitter": "@pyconindia",
+    "cocUrl": "https://in.pycon.org/2021/coc.html"
+  },
+  {
     "name": "Xtreme Python",
     "url": "https://xtremepython.dev",
     "startDate": "2021-11-24",
@@ -82,16 +93,5 @@
     "cfpEndDate": "2021-07-31",
     "twitter": "@xtremepython",
     "cocUrl": "https://bit.ly/2NL4ehr"
-  },
-  {
-    "name": "PyCon India",
-    "url": "https://in.pycon.org/2021",
-    "startDate": "2021-09-17",
-    "endDate": "2021-09-20",
-    "twitter": "@pyconindia",
-    "cfpUrl": "https://in.pycon.org/cfp/2021/proposals",
-    "cfpEndDate": "2021-05-07",
-    "cocUrl": "https://in.pycon.org/2021/coc.html",
-    "online": true
   }
 ]

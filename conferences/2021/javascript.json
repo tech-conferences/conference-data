@@ -269,6 +269,17 @@
     "cocUrl": "https://2021.vueday.it/welcome/coc.html"
   },
   {
+    "name": "JSWorld Conference USA",
+    "url": "https://usa.jsworldconference.com",
+    "startDate": "2021-05-21",
+    "endDate": "2021-05-21",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf7nvgyyhXvln0PFNdjW16AFVfD62ewJp_1InP78G_3YTAQeA/viewform",
+    "cfpEndDate": "2021-04-02",
+    "twitter": "@Frontend_Love",
+    "cocUrl": "https://usa.jsworldconference.com/code-of-conduct/"
+  },
+  {
     "name": "Lazy Load",
     "url": "https://www.webdirections.org/lazyload",
     "startDate": "2021-05-21",
@@ -279,6 +290,17 @@
     "twitter": "@webdirections",
     "cocUrl": "https://www.webdirections.org/web-directions-event-code-of-conduct/",
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "Online Angular Global Summit",
+    "url": "https://angular.geekle.us",
+    "startDate": "2021-06-01",
+    "endDate": "2021-06-02",
+    "online": true,
+    "cfpUrl": "https://forms.gle/hNi9NcH49mqrGHcEA",
+    "cfpEndDate": "2021-05-20",
+    "twitter": "@GeekleOfficial",
+    "cocUrl": "https://angular.geekle.us/code-of-conduct"
   },
   {
     "name": "JavaScript fwdays",
@@ -320,24 +342,23 @@
     "cocUrl": "https://live.jsnation.com/coc"
   },
   {
+    "name": "enterJS Vue Day",
+    "url": "https://enterjs.de/vueday.php",
+    "startDate": "2021-06-15",
+    "endDate": "2021-06-15",
+    "online": true,
+    "cfpUrl": "https://enterjs.de/proposal_einreichen_en.php",
+    "cfpEndDate": "2021-04-12",
+    "twitter": "@enterjsconf",
+    "cocUrl": "https://enterjs.de/code_of_conduct_en.php"
+  },
+  {
     "name": "Code",
     "url": "https://www.webdirections.org/code",
     "startDate": "2021-06-17",
     "endDate": "2021-06-24",
     "online": true,
     "cfpUrl": "https://www.webdirections.org/code#speak",
-    "cfpEndDate": "2021-03-05",
-    "twitter": "@webdirections",
-    "cocUrl": "https://www.webdirections.org/web-directions-event-code-of-conduct/",
-    "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "Global Scope",
-    "url": "https://www.webdirections.org/globalscope",
-    "startDate": "2021-06-18",
-    "endDate": "2021-06-25",
-    "online": true,
-    "cfpUrl": "https://www.webdirections.org/globalscope#speak",
     "cfpEndDate": "2021-03-05",
     "twitter": "@webdirections",
     "cocUrl": "https://www.webdirections.org/web-directions-event-code-of-conduct/",
@@ -352,6 +373,18 @@
     "country": "Norway",
     "twitter": "@ReactNorway",
     "cocUrl": "https://berlincodeofconduct.org/"
+  },
+  {
+    "name": "Global Scope",
+    "url": "https://www.webdirections.org/globalscope",
+    "startDate": "2021-06-18",
+    "endDate": "2021-06-25",
+    "online": true,
+    "cfpUrl": "https://www.webdirections.org/globalscope#speak",
+    "cfpEndDate": "2021-03-05",
+    "twitter": "@webdirections",
+    "cocUrl": "https://www.webdirections.org/web-directions-event-code-of-conduct/",
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "HalfStack Newquay",
@@ -406,6 +439,31 @@
     "cocUrl": "https://www.renderatl.com/code-of-conduct"
   },
   {
+    "name": "JSConf Budapest",
+    "url": "https://jsconfbp.com",
+    "startDate": "2021-09-23",
+    "endDate": "2021-09-24",
+    "city": "Budapest",
+    "country": "Hungary",
+    "online": false,
+    "cfpUrl": "https://jsconfbp.com/call-for-speakers-2021",
+    "cfpEndDate": "2021-03-31",
+    "twitter": "@jsconfbp"
+  },
+  {
+    "name": "enterJS",
+    "url": "https://enterjs.de",
+    "startDate": "2021-09-27",
+    "endDate": "2021-09-30",
+    "city": "Darmstadt",
+    "country": "Germany",
+    "online": true,
+    "cfpUrl": "https://enterjs.de/proposal_einreichen_en.php",
+    "cfpEndDate": "2021-05-10",
+    "twitter": "@enterjsconf",
+    "cocUrl": "https://enterjs.de/code_of_conduct_en.php"
+  },
+  {
     "name": "javascript days",
     "url": "https://javascript-days.de/berlin",
     "startDate": "2021-10-04",
@@ -457,63 +515,5 @@
     "cfpEndDate": "2021-08-31",
     "twitter": "@xtremejsconf",
     "cocUrl": "https://bit.ly/2NL4ehr."
-  },
-  {
-    "name": "JSWorld Conference USA",
-    "url": "https://usa.jsworldconference.com",
-    "startDate": "2021-05-21",
-    "endDate": "2021-05-21",
-    "twitter": "@Frontend_Love",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf7nvgyyhXvln0PFNdjW16AFVfD62ewJp_1InP78G_3YTAQeA/viewform",
-    "cfpEndDate": "2021-04-02",
-    "cocUrl": "https://usa.jsworldconference.com/code-of-conduct/",
-    "online": true
-  },
-  {
-    "name": "Online Angular Global Summit",
-    "url": "https://angular.geekle.us",
-    "startDate": "2021-06-01",
-    "endDate": "2021-06-02",
-    "twitter": "@GeekleOfficial",
-    "cfpUrl": "https://forms.gle/hNi9NcH49mqrGHcEA",
-    "cfpEndDate": "2021-05-20",
-    "cocUrl": "https://angular.geekle.us/code-of-conduct",
-    "online": true
-  },
-  {
-    "name": "enterJS",
-    "url": "https://enterjs.de",
-    "startDate": "2021-09-27",
-    "endDate": "2021-09-30",
-    "city": "Darmstadt",
-    "country": "Germany",
-    "twitter": "@enterjsconf",
-    "cfpUrl": "https://enterjs.de/proposal_einreichen_en.php",
-    "cfpEndDate": "2021-05-10",
-    "cocUrl": "https://enterjs.de/code_of_conduct_en.php",
-    "online": true
-  },
-  {
-    "name": "enterJS Vue Day",
-    "url": "https://enterjs.de/vueday.php",
-    "startDate": "2021-06-15",
-    "endDate": "2021-06-15",
-    "twitter": "@enterjsconf",
-    "cfpUrl": "https://enterjs.de/proposal_einreichen_en.php",
-    "cfpEndDate": "2021-04-12",
-    "cocUrl": "https://enterjs.de/code_of_conduct_en.php",
-    "online": true
-  },
-  {
-    "name": "JSConf Budapest",
-    "url": "https://jsconfbp.com",
-    "startDate": "2021-09-23",
-    "endDate": "2021-09-24",
-    "city": "Budapest",
-    "country": "Hungary",
-    "twitter": "@jsconfbp",
-    "cfpUrl": "https://jsconfbp.com/call-for-speakers-2021",
-    "cfpEndDate": "2021-03-31",
-    "online": false
   }
 ]
