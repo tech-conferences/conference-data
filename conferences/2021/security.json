@@ -85,6 +85,17 @@
     "cocUrl": "https://www.ruhrsec.de/2020/codeofconduct.html"
   },
   {
+    "name": "IT Security Summit",
+    "url": "https://it-security-summit.de/muenchen",
+    "startDate": "2021-05-19",
+    "endDate": "2021-05-21",
+    "city": "Munich",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@ITSecSummit",
+    "cocUrl": "https://it-security-summit.de/code-of-conduct/"
+  },
+  {
     "name": "QuBit Conference",
     "url": "https://tatry.qubitconference.com",
     "startDate": "2021-05-26",
@@ -130,16 +141,5 @@
     "cfpUrl": "https://events.linuxfoundation.org/linux-security-summit-europe/program/cfp/",
     "cfpEndDate": "2021-06-27",
     "cocUrl": "https://events.linuxfoundation.org/linux-security-summit-europe/attend/code-of-conduct/"
-  },
-  {
-    "name": "IT Security Summit",
-    "url": "https://it-security-summit.de/muenchen",
-    "startDate": "2021-05-19",
-    "endDate": "2021-05-21",
-    "city": "Munich",
-    "country": "Germany",
-    "twitter": "@ITSecSummit",
-    "cocUrl": "https://it-security-summit.de/code-of-conduct/",
-    "online": true
   }
 ]

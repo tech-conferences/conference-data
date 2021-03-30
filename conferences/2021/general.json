@@ -309,6 +309,14 @@
     "cocUrl": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-spring/code-of-conduct"
   },
   {
+    "name": "WEnnovate",
+    "url": "https://wennovate.tech",
+    "startDate": "2021-06-03",
+    "endDate": "2021-06-04",
+    "online": true,
+    "twitter": "@WE_nnovate"
+  },
+  {
     "name": "GOTO Copenhagen",
     "url": "https://gotocph.com/2021",
     "startDate": "2021-06-06",
@@ -347,6 +355,23 @@
     "country": "France",
     "twitter": "@DevBreak20",
     "cocUrl": "https://www.devbreak.io/code-of-conduct"
+  },
+  {
+    "name": "GitOps Summit",
+    "url": "https://events.linuxfoundation.org/gitops-summit",
+    "startDate": "2021-06-22",
+    "endDate": "2021-06-22",
+    "online": true,
+    "cocUrl": "https://events.linuxfoundation.org/gitops-summit/attend/code-of-conduct/"
+  },
+  {
+    "name": "Spinnaker Summit",
+    "url": "https://events.linuxfoundation.org/spinnaker-summit",
+    "startDate": "2021-06-22",
+    "endDate": "2021-06-24",
+    "online": true,
+    "twitter": "@SpinnakerSummit",
+    "cocUrl": "https://events.linuxfoundation.org/spinnaker-summit/attend/code-of-conduct/"
   },
   {
     "name": "Swiss Testing Day",
@@ -457,6 +482,17 @@
     "cocUrl": "https://thestrangeloop.com/policies.html"
   },
   {
+    "name": "Central Wisconsin IT Conference",
+    "url": "https://cwitc.org",
+    "startDate": "2021-10-09",
+    "endDate": "2021-10-09",
+    "online": true,
+    "cfpUrl": "https://cwitc.org/call-for-speakers",
+    "cfpEndDate": "2021-05-01",
+    "twitter": "@CenWI_ITConf",
+    "cocUrl": "https://cwitc.org/code-of-conduct"
+  },
+  {
     "name": "Pacific NW Software Quality Conference",
     "url": "https://www.pnsqc.org",
     "startDate": "2021-10-11",
@@ -466,6 +502,27 @@
     "twitter": "@PNSQC",
     "cocUrl": "https://www.pnsqc.org/about-pnsqc/governance/",
     "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "HackConf",
+    "url": "https://www.hackconf.bg",
+    "startDate": "2021-10-22",
+    "endDate": "2021-10-23",
+    "online": true,
+    "cfpUrl": "https://www.hackconf.bg/#cfs",
+    "cfpEndDate": "2021-05-31",
+    "twitter": "@HackConf_"
+  },
+  {
+    "name": "API World",
+    "url": "https://apiworld.co",
+    "startDate": "2021-10-26",
+    "endDate": "2021-10-28",
+    "online": true,
+    "cfpUrl": "https://apiworld.co/conference/apply-to-speak",
+    "cfpEndDate": "2021-07-09",
+    "twitter": "@apiworld",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/"
   },
   {
     "name": "ITNEXT Summit",
@@ -506,62 +563,5 @@
     "endDate": "2021-12-09",
     "online": true,
     "twitter": "@InformatikAktue"
-  },
-  {
-    "name": "WEnnovate",
-    "url": "https://wennovate.tech",
-    "startDate": "2021-06-03",
-    "endDate": "2021-06-04",
-    "twitter": "@WE_nnovate",
-    "online": true
-  },
-  {
-    "name": "API World",
-    "url": "https://apiworld.co",
-    "startDate": "2021-10-26",
-    "endDate": "2021-10-28",
-    "twitter": "@apiworld",
-    "cfpUrl": "https://apiworld.co/conference/apply-to-speak",
-    "cfpEndDate": "2021-07-09",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "online": true
-  },
-  {
-    "name": "Central Wisconsin IT Conference",
-    "url": "https://cwitc.org",
-    "startDate": "2021-10-09",
-    "endDate": "2021-10-09",
-    "twitter": "@CenWI_ITConf",
-    "cfpUrl": "https://cwitc.org/call-for-speakers",
-    "cfpEndDate": "2021-05-01",
-    "cocUrl": "https://cwitc.org/code-of-conduct",
-    "online": true
-  },
-  {
-    "name": "GitOps Summit",
-    "url": "https://events.linuxfoundation.org/gitops-summit",
-    "startDate": "2021-06-22",
-    "endDate": "2021-06-22",
-    "cocUrl": "https://events.linuxfoundation.org/gitops-summit/attend/code-of-conduct/",
-    "online": true
-  },
-  {
-    "name": "Spinnaker Summit",
-    "url": "https://events.linuxfoundation.org/spinnaker-summit",
-    "startDate": "2021-06-22",
-    "endDate": "2021-06-24",
-    "twitter": "@SpinnakerSummit",
-    "cocUrl": "https://events.linuxfoundation.org/spinnaker-summit/attend/code-of-conduct/",
-    "online": true
-  },
-  {
-    "name": "HackConf",
-    "url": "https://www.hackconf.bg",
-    "startDate": "2021-10-22",
-    "endDate": "2021-10-23",
-    "twitter": "@HackConf_",
-    "cfpUrl": "https://www.hackconf.bg/#cfs",
-    "cfpEndDate": "2021-05-31",
-    "online": true
   }
 ]

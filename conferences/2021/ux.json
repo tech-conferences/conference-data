@@ -131,6 +131,14 @@
     "cocUrl": "https://aneventapart.com/registration-information#code-of-conduct"
   },
   {
+    "name": "Savvy UX Summit",
+    "url": "https://www.savvyuxsummit.com",
+    "startDate": "2021-09-17",
+    "endDate": "2021-09-19",
+    "online": true,
+    "twitter": "@savvyuxsummit"
+  },
+  {
     "name": "World Usability Congress",
     "url": "https://worldusabilitycongress.com",
     "startDate": "2021-10-13",
@@ -149,13 +157,5 @@
     "country": "Canada",
     "twitter": "@canuxconf",
     "cocUrl": "https://canux.io/about/code-of-conduct/"
-  },
-  {
-    "name": "Savvy UX Summit",
-    "url": "https://www.savvyuxsummit.com",
-    "startDate": "2021-09-17",
-    "endDate": "2021-09-19",
-    "twitter": "@savvyuxsummit",
-    "online": true
   }
 ]

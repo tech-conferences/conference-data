@@ -50,6 +50,18 @@
     "cocUrl": "https://info.jetbrains.com/code-of-conduct.html"
   },
   {
+    "name": "Cloud Lunch and Learn Marathon",
+    "url": "https://www.cloudlunchlearn.com/marathon",
+    "startDate": "2021-05-13",
+    "endDate": "2021-05-14",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/cloud-lunch-and-learn-marathon-2021",
+    "cfpEndDate": "2021-03-31",
+    "twitter": "@CloudLunchLearn",
+    "cocUrl": "https://www.cloudlunchlearn.com/code-of-conduct",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Visual Studio Live! Microsoft Headquarters",
     "url": "https://vslive.com/events/redmond-2020/home.aspx",
     "startDate": "2021-08-09",
@@ -89,18 +101,6 @@
     "country": "Czech Republic",
     "online": true,
     "twitter": "@update_conf",
-    "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "Cloud Lunch and Learn Marathon",
-    "url": "https://www.cloudlunchlearn.com/marathon",
-    "startDate": "2021-05-13",
-    "endDate": "2021-05-14",
-    "twitter": "@CloudLunchLearn",
-    "cfpUrl": "https://sessionize.com/cloud-lunch-and-learn-marathon-2021",
-    "cfpEndDate": "2021-03-31",
-    "cocUrl": "https://www.cloudlunchlearn.com/code-of-conduct",
-    "online": true,
     "offersSignLanguageOrCC": true
   }
 ]

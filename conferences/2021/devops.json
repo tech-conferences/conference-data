@@ -169,6 +169,15 @@
     "offersSignLanguageOrCC": false
   },
   {
+    "name": "Failover Conf 2: Fail Smarter",
+    "url": "http://gremlin.registration.goldcast.io/events/207e0873-4af1-49f4-b437-a291b3d29a6a",
+    "startDate": "2021-04-27",
+    "endDate": "2021-04-27",
+    "online": true,
+    "twitter": "@GremlinInc",
+    "cocUrl": "www.GREMLIN.COM/CODEOFCONDUCT"
+  },
+  {
     "name": "Cloud Native Wasm Day",
     "url": "https://events.linuxfoundation.org/cloud-native-wasm-day/",
     "startDate": "2021-05-04",
@@ -240,6 +249,14 @@
     "cocUrl": "https://itrevolution.com/privacy-policy/"
   },
   {
+    "name": "SKILup Day: Site Reliability Engineering (SRE)",
+    "url": "https://devopsinstitute.com/sre-2021",
+    "startDate": "2021-05-20",
+    "endDate": "2021-05-20",
+    "online": true,
+    "twitter": "@DEVOPSINST"
+  },
+  {
     "name": "Devopsdays Portugal",
     "url": "https://devopsdays.org/events/2021-portugal/welcome/",
     "startDate": "2021-05-24",
@@ -309,6 +326,26 @@
     "cocUrl": "https://devopsdays.org/conduct/"
   },
   {
+    "name": "DDD Summit",
+    "url": "https://ddd-summit.de/muenchen",
+    "startDate": "2021-06-07",
+    "endDate": "2021-06-09",
+    "online": true,
+    "twitter": "@DDDSummit",
+    "cocUrl": "https://ddd-summit.de/code-of-conduct/"
+  },
+  {
+    "name": "Microservices Summit",
+    "url": "https://microservices-summit.de",
+    "startDate": "2021-06-07",
+    "endDate": "2021-06-09",
+    "city": "Munich",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@MicroservSummit",
+    "cocUrl": "https://microservices-summit.de/code-of-conduct/"
+  },
+  {
     "name": "Lead Dev London",
     "url": "https://london2020.theleaddeveloper.com/",
     "startDate": "2021-06-08",
@@ -354,6 +391,16 @@
     "endDate": "2021-06-18",
     "city": "Krakow",
     "country": "Poland"
+  },
+  {
+    "name": "PagerDuty Summit",
+    "url": "https://www.summit.pagerduty.com",
+    "startDate": "2021-06-22",
+    "endDate": "2021-06-24",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSetr48fPymiMbFz6uKqZOIv-dgYro0fmGcY3c66Dn4rOcFLqg/viewform",
+    "cfpEndDate": "2021-04-11",
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "cdCon",
@@ -502,52 +549,5 @@
     "country": "U.S.A.",
     "twitter": "@nashvilledevops",
     "cocUrl": "https://devopsdays.org/conduct/"
-  },
-  {
-    "name": "PagerDuty Summit",
-    "url": "https://www.summit.pagerduty.com",
-    "startDate": "2021-06-22",
-    "endDate": "2021-06-24",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSetr48fPymiMbFz6uKqZOIv-dgYro0fmGcY3c66Dn4rOcFLqg/viewform",
-    "cfpEndDate": "2021-04-11",
-    "online": true,
-    "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "SKILup Day: Site Reliability Engineering (SRE)",
-    "url": "https://devopsinstitute.com/sre-2021",
-    "startDate": "2021-05-20",
-    "endDate": "2021-05-20",
-    "twitter": "@DEVOPSINST",
-    "online": true
-  },
-  {
-    "name": "Microservices Summit",
-    "url": "https://microservices-summit.de",
-    "startDate": "2021-06-07",
-    "endDate": "2021-06-09",
-    "city": "Munich",
-    "country": "Germany",
-    "twitter": "@MicroservSummit",
-    "cocUrl": "https://microservices-summit.de/code-of-conduct/",
-    "online": true
-  },
-  {
-    "name": "Failover Conf 2: Fail Smarter",
-    "url": "http://gremlin.registration.goldcast.io/events/207e0873-4af1-49f4-b437-a291b3d29a6a",
-    "startDate": "2021-04-27",
-    "endDate": "2021-04-27",
-    "twitter": "@GremlinInc",
-    "cocUrl": "www.GREMLIN.COM/CODEOFCONDUCT",
-    "online": true
-  },
-  {
-    "name": "DDD Summit",
-    "url": "https://ddd-summit.de/muenchen",
-    "startDate": "2021-06-07",
-    "endDate": "2021-06-09",
-    "twitter": "@DDDSummit",
-    "cocUrl": "https://ddd-summit.de/code-of-conduct/",
-    "online": true
   }
 ]
