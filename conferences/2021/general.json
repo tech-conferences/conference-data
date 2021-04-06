@@ -563,5 +563,28 @@
     "endDate": "2021-12-09",
     "online": true,
     "twitter": "@InformatikAktue"
+  },
+  {
+    "name": "DevTernity",
+    "url": "https://devternity.com",
+    "startDate": "2021-12-10",
+    "endDate": "2021-12-11",
+    "city": "Riga",
+    "country": "Latvia",
+    "twitter": "@devternity",
+    "cocUrl": "https://devternity.com/code_of_conduct.html",
+    "online": false
+  },
+  {
+    "name": "!!Con",
+    "url": "http://bangbangcon.com",
+    "startDate": "2021-05-15",
+    "endDate": "2021-05-22",
+    "twitter": "@bangbangcon",
+    "cfpUrl": "http://bangbangcon.com/give-a-talk.html",
+    "cfpEndDate": "2021-04-21",
+    "cocUrl": "http://bangbangcon.com/conduct.html",
+    "online": true,
+    "offersSignLanguageOrCC": true
   }
 ]
