@@ -150,16 +150,6 @@
     "offersSignLanguageOrCC": false
   },
   {
-    "name": "Devopsdays Zurich (Winterthur)",
-    "url": "https://devopsdays.org/events/2021-zurich/welcome/",
-    "startDate": "2021-04-21",
-    "endDate": "2021-04-22",
-    "city": "Zurich",
-    "country": "Switzerland",
-    "twitter": "@DevOpsZH",
-    "cocUrl": "https://devopsdays.org/conduct/"
-  },
-  {
     "name": "SKILup Day: Agile Transformation",
     "url": "https://devopsinstitute.com/at-2021/",
     "startDate": "2021-04-22",
@@ -434,6 +424,16 @@
     "offersSignLanguageOrCC": false
   },
   {
+    "name": "ContainerDays",
+    "url": "https://www.containerdays.io/",
+    "startDate": "2021-07-06",
+    "endDate": "2021-07-08",
+    "online": true,
+    "twitter": "@devopsdaysmsp",
+    "cfpUrl": "https://sessionize.com/containerdays-2021/",
+    "cfpEndDate": "2021-04-30"
+  },
+  {
     "name": "Devopsdays Minneapolis",
     "url": "https://devopsdays.org/events/2021-minneapolis/welcome/",
     "startDate": "2021-07-20",
@@ -451,7 +451,9 @@
     "city": "Medellin",
     "country": "Colombia",
     "twitter": "@devopsdaysmed",
-    "cocUrl": "https://devopsdays.org/conduct/"
+    "cocUrl": "https://devopsdays.org/conduct/",
+    "cfpUrl": "https://www.papercall.io/devopsdaysmedellin",
+    "cfpEndDate": "2021-05-01"
   },
   {
     "name": "Devopsdays Dallas",
@@ -462,6 +464,18 @@
     "country": "U.S.A.",
     "twitter": "@devopsdaysdfw",
     "cocUrl": "https://devopsdays.org/conduct/"
+  },
+  {
+    "name": "Devopsdays Zurich",
+    "url": "https://devopsdays.org/events/2021-zurich/welcome/",
+    "startDate": "2021-09-07",
+    "endDate": "2021-09-08",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "twitter": "@DevOpsZH",
+    "cocUrl": "https://devopsdays.org/conduct/",
+    "cfpUrl": "https://sessionize.com/devopsdayszh-2021/",
+    "cfpEndDate": "2021-05-31"
   },
   {
     "name": "Devopsdays Cairo",
@@ -491,6 +505,17 @@
     "country": "Colombia",
     "twitter": "@devopsdaysb",
     "cocUrl": "https://devopsdays.org/conduct/"
+  },
+  {
+    "name": "Open Source Summit + Embedded Linux Conference",
+    "url": "https://events.linuxfoundation.org/open-source-summit-europe/",
+    "startDate": "2021-09-28",
+    "endDate": "2021-10-01",
+    "city": "Dublin",
+    "country": "Ireland",
+    "cocUrl": "https://events.linuxfoundation.org/open-source-summit-europe/attend/code-of-conduct/",
+    "cfpUrl": "https://linuxfoundation.smapply.io/prog/oss_elc_2021/",
+    "cfpEndDate": "2021-06-13"
   },
   {
     "name": "Devopsdays Boston",
@@ -534,6 +559,15 @@
     "cocUrl": "https://itrevolution.com/privacy-policy/"
   },
   {
+    "name": "KubeCon + CloudNativeCon North America",
+    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/",
+    "startDate": "2021-10-12",
+    "endDate": "2021-10-15",
+    "online": true,
+    "cfpUrl": "https://linuxfoundation.smapply.io/prog/kccncna2021/",
+    "cfpEndDate": "2021-05-23"
+  },
+  {
     "name": "HashiConf Global",
     "url": "https://hashiconf.com/",
     "startDate": "2021-10-19",
@@ -548,6 +582,8 @@
     "city": "Nashville, TN",
     "country": "U.S.A.",
     "twitter": "@nashvilledevops",
-    "cocUrl": "https://devopsdays.org/conduct/"
+    "cocUrl": "https://devopsdays.org/conduct/",
+    "cfpUrl": "https://sessionize.com/nashvilledevopsdays2021",
+    "cfpEndDate": "2021-07-06"
   }
 ]
