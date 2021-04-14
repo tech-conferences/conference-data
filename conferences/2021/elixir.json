@@ -15,5 +15,23 @@
     "cfpUrl": "https://www.papercall.io/alchemy-conf",
     "cfpEndDate": "2021-04-30",
     "online": true
+  },
+  {
+    "name": "Code BEAM V Europe",
+    "url": "https://codesync.global/conferences/code-beam-sto-2021",
+    "startDate": "2021-05-19",
+    "endDate": "2021-05-21",
+    "twitter": "@CodeSyncGlobal",
+    "cocUrl": "https://codesync.global/about-us/#Conduct",
+    "online": true
+  },
+  {
+    "name": "ElixirConf Africa",
+    "url": "https://elixirconf.africa",
+    "startDate": "2021-05-07",
+    "endDate": "2021-05-08",
+    "twitter": "@ElixirConfAfric",
+    "cocUrl": "https://github.com/beamkenya/elixirconfafrica_code_of_conduct/blob/main/README.md",
+    "online": true
   }
 ]
