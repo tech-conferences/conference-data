@@ -124,6 +124,16 @@
     "cocUrl": "https://bit.ly/3pBt0xG"
   },
   {
+    "name": "Global AI Student Conference",
+    "url": "https://aiconf.education",
+    "startDate": "2021-04-24",
+    "endDate": "2021-04-24",
+    "online": true,
+    "twitter": "@GlobAICommunity",
+    "cocUrl": "https://aiconf.education/code-of-conduct/",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Minds Mastering Machines",
     "url": "https://m3-konferenz.de",
     "startDate": "2021-04-27",
@@ -142,6 +152,14 @@
     "endDate": "2021-05-04",
     "online": true,
     "cocUrl": "https://events.linuxfoundation.org/kubernetes-ai-day/attend/code-of-conduct/"
+  },
+  {
+    "name": "DATA+AI Summit",
+    "url": "https://databricks.com/dataaisummit",
+    "startDate": "2021-05-24",
+    "endDate": "2021-05-28",
+    "online": true,
+    "twitter": "@Data_AI_Summit"
   },
   {
     "name": "ODSC Europe Virtual Conference",
@@ -208,23 +226,5 @@
     "cfpUrl": "https://www.papercall.io/conf42-machine-learning-2021",
     "cfpEndDate": "2021-06-14",
     "twitter": "@conf42com"
-  },
-  {
-    "name": "DATA+AI Summit",
-    "url": "https://databricks.com/dataaisummit",
-    "startDate": "2021-05-24",
-    "endDate": "2021-05-28",
-    "twitter": "@Data_AI_Summit",
-    "online": true
-  },
-  {
-    "name": "Global AI Student Conference",
-    "url": "https://aiconf.education",
-    "startDate": "2021-04-24",
-    "endDate": "2021-04-24",
-    "twitter": "@GlobAICommunity",
-    "cocUrl": "https://aiconf.education/code-of-conduct/",
-    "online": true,
-    "offersSignLanguageOrCC": true
   }
 ]
