@@ -82,21 +82,21 @@
     "cocUrl": "https://runningremote.com/"
   },
   {
-    "name": "Agile",
-    "url": "https://www.agilealliance.org/agile2021",
-    "startDate": "2021-07-19",
-    "endDate": "2021-07-22",
-    "cfpUrl": "https://www.agilealliance.org/agile2021/submissions",
-    "cfpEndDate": "2021-04-15",
-    "online": true
-  },
-  {
     "name": "XP",
     "url": "https://www.agilealliance.org/xp2021",
     "startDate": "2021-06-14",
     "endDate": "2021-06-18",
+    "online": true,
     "cfpUrl": "https://www.agilealliance.org/xp2021/call-for-submissions",
-    "cfpEndDate": "2021-04-30",
-    "online": true
+    "cfpEndDate": "2021-04-30"
+  },
+  {
+    "name": "Agile",
+    "url": "https://www.agilealliance.org/agile2021",
+    "startDate": "2021-07-19",
+    "endDate": "2021-07-22",
+    "online": true,
+    "cfpUrl": "https://www.agilealliance.org/agile2021/submissions",
+    "cfpEndDate": "2021-04-15"
   }
 ]

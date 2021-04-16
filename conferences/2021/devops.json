@@ -375,6 +375,17 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "{unscripted}",
+    "url": "https://www.unscriptedconf.io",
+    "startDate": "2021-06-16",
+    "endDate": "2021-06-17",
+    "online": true,
+    "cfpUrl": "https://www.cvent.com/c/abstracts/9cb8680d-1621-4d20-a797-d9261321acb5",
+    "cfpEndDate": "2021-04-30",
+    "twitter": "@UnscriptedConf",
+    "cocUrl": "https://web.cvent.com/event/0b933007-0102-43f0-b17c-25c92983ae39/summary"
+  },
+  {
     "name": "Devoxx Poland",
     "url": "http://devoxx.pl/",
     "startDate": "2021-06-16",
@@ -429,9 +440,9 @@
     "startDate": "2021-07-06",
     "endDate": "2021-07-08",
     "online": true,
-    "twitter": "@devopsdaysmsp",
     "cfpUrl": "https://sessionize.com/containerdays-2021/",
-    "cfpEndDate": "2021-04-30"
+    "cfpEndDate": "2021-04-30",
+    "twitter": "@devopsdaysmsp"
   },
   {
     "name": "Devopsdays Minneapolis",
@@ -450,10 +461,10 @@
     "endDate": "2021-07-31",
     "city": "Medellin",
     "country": "Colombia",
-    "twitter": "@devopsdaysmed",
-    "cocUrl": "https://devopsdays.org/conduct/",
     "cfpUrl": "https://www.papercall.io/devopsdaysmedellin",
-    "cfpEndDate": "2021-05-01"
+    "cfpEndDate": "2021-05-01",
+    "twitter": "@devopsdaysmed",
+    "cocUrl": "https://devopsdays.org/conduct/"
   },
   {
     "name": "Devopsdays Dallas",
@@ -472,10 +483,10 @@
     "endDate": "2021-09-08",
     "city": "Zurich",
     "country": "Switzerland",
-    "twitter": "@DevOpsZH",
-    "cocUrl": "https://devopsdays.org/conduct/",
     "cfpUrl": "https://sessionize.com/devopsdayszh-2021/",
-    "cfpEndDate": "2021-05-31"
+    "cfpEndDate": "2021-05-31",
+    "twitter": "@DevOpsZH",
+    "cocUrl": "https://devopsdays.org/conduct/"
   },
   {
     "name": "Devopsdays Cairo",
@@ -507,17 +518,6 @@
     "cocUrl": "https://devopsdays.org/conduct/"
   },
   {
-    "name": "Open Source Summit + Embedded Linux Conference",
-    "url": "https://events.linuxfoundation.org/open-source-summit-europe/",
-    "startDate": "2021-09-28",
-    "endDate": "2021-10-01",
-    "city": "Dublin",
-    "country": "Ireland",
-    "cocUrl": "https://events.linuxfoundation.org/open-source-summit-europe/attend/code-of-conduct/",
-    "cfpUrl": "https://linuxfoundation.smapply.io/prog/oss_elc_2021/",
-    "cfpEndDate": "2021-06-13"
-  },
-  {
     "name": "Devopsdays Boston",
     "url": "https://devopsdays.org/events/2021-boston/welcome/",
     "startDate": "2021-09-27",
@@ -536,6 +536,17 @@
     "country": "Ireland",
     "twitter": "@LinuxPlumbers",
     "cocUrl": "https://linuxplumbersconf.org/event/11/page/113-anti-harassment-policy"
+  },
+  {
+    "name": "Open Source Summit + Embedded Linux Conference",
+    "url": "https://events.linuxfoundation.org/open-source-summit-europe/",
+    "startDate": "2021-09-28",
+    "endDate": "2021-10-01",
+    "city": "Dublin",
+    "country": "Ireland",
+    "cfpUrl": "https://linuxfoundation.smapply.io/prog/oss_elc_2021/",
+    "cfpEndDate": "2021-06-13",
+    "cocUrl": "https://events.linuxfoundation.org/open-source-summit-europe/attend/code-of-conduct/"
   },
   {
     "name": "Conf42: SRE",
@@ -575,34 +586,23 @@
     "online": true
   },
   {
+    "name": "Dash",
+    "url": "https://www.dashcon.io",
+    "startDate": "2021-10-26",
+    "endDate": "2021-10-27",
+    "online": true,
+    "cocUrl": "https://www.dashcon.io/coc/"
+  },
+  {
     "name": "Devopsdays Nashville",
     "url": "https://devopsdays.org/events/2021-nashville/welcome/",
     "startDate": "2021-10-28",
     "endDate": "2021-10-29",
     "city": "Nashville, TN",
     "country": "U.S.A.",
-    "twitter": "@nashvilledevops",
-    "cocUrl": "https://devopsdays.org/conduct/",
     "cfpUrl": "https://sessionize.com/nashvilledevopsdays2021",
-    "cfpEndDate": "2021-07-06"
-  },
-  {
-    "name": "{unscripted}",
-    "url": "https://www.unscriptedconf.io",
-    "startDate": "2021-06-16",
-    "endDate": "2021-06-17",
-    "twitter": "@UnscriptedConf",
-    "cfpUrl": "https://www.cvent.com/c/abstracts/9cb8680d-1621-4d20-a797-d9261321acb5",
-    "cfpEndDate": "2021-04-30",
-    "cocUrl": "https://web.cvent.com/event/0b933007-0102-43f0-b17c-25c92983ae39/summary",
-    "online": true
-  },
-  {
-    "name": "Dash",
-    "url": "https://www.dashcon.io",
-    "startDate": "2021-10-26",
-    "endDate": "2021-10-27",
-    "cocUrl": "https://www.dashcon.io/coc/",
-    "online": true
+    "cfpEndDate": "2021-07-06",
+    "twitter": "@nashvilledevops",
+    "cocUrl": "https://devopsdays.org/conduct/"
   }
 ]
