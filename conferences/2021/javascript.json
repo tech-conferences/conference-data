@@ -220,18 +220,6 @@
     "offersSignLanguageOrCC": false
   },
   {
-    "name": "Strapi Conference",
-    "url": "https://www.strapi.io/strapi-conf-2021",
-    "startDate": "2021-04-22",
-    "endDate": "2021-04-22",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScUYkXm67c-yHccRYsskeUMWO4uwoWtFsBBElmVlrFYYfUyow/viewform",
-    "cfpEndDate": "2021-02-01",
-    "twitter": "@strapijs",
-    "cocUrl": "https://forum.strapi.io/faq#coc",
-    "offersSignLanguageOrCC": false
-  },
-  {
     "name": "ng-conf",
     "url": "https://www.2021.ng-conf.org",
     "startDate": "2021-04-22",
@@ -532,6 +520,7 @@
     "endDate": "2021-04-22",
     "twitter": "@strapijs",
     "cocUrl": "https://forum.strapi.io/faq#enforcement",
-    "online": true
+    "online": true,
+    "offersSignLanguageOrCC": false
   }
 ]
