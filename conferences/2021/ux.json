@@ -88,6 +88,15 @@
     "twitter": "@techcircus_"
   },
   {
+    "name": "Smashing Meets",
+    "url": "https://smashingconf.com/meets-actions",
+    "startDate": "2021-04-27",
+    "endDate": "2021-04-27",
+    "online": true,
+    "twitter": "@smashingmembers",
+    "cocUrl": "https://smashingconf.com/codeofconduct"
+  },
+  {
     "name": "IAC",
     "url": "https://www.theiaconference.com",
     "startDate": "2021-04-28",
@@ -96,6 +105,17 @@
     "twitter": "@theiaconf",
     "cocUrl": "https://www.theiaconference.com/about/code-of-conduct/",
     "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "UXcamp Europe",
+    "url": "https://www.uxcampeurope.org",
+    "startDate": "2021-06-05",
+    "endDate": "2021-06-06",
+    "online": true,
+    "cfpUrl": "https://www.uxcampeurope.org/session-registration.html",
+    "cfpEndDate": "2021-06-05",
+    "twitter": "@uxcampeurope",
+    "cocUrl": "https://www.uxcampeurope.org/code-of-conduct.html"
   },
   {
     "name": "webinale",
@@ -157,25 +177,5 @@
     "country": "Canada",
     "twitter": "@canuxconf",
     "cocUrl": "https://canux.io/about/code-of-conduct/"
-  },
-  {
-    "name": "UXcamp Europe",
-    "url": "https://www.uxcampeurope.org",
-    "startDate": "2021-06-05",
-    "endDate": "2021-06-06",
-    "twitter": "@uxcampeurope",
-    "cfpUrl": "https://www.uxcampeurope.org/session-registration.html",
-    "cfpEndDate": "2021-06-05",
-    "cocUrl": "https://www.uxcampeurope.org/code-of-conduct.html",
-    "online": true
-  },
-  {
-    "name": "Smashing Meets",
-    "url": "https://smashingconf.com/meets-actions",
-    "startDate": "2021-04-27",
-    "endDate": "2021-04-27",
-    "twitter": "@smashingmembers",
-    "cocUrl": "https://smashingconf.com/codeofconduct",
-    "online": true
   }
 ]

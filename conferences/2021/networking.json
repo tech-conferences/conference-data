@@ -117,6 +117,14 @@
     "offersSignLanguageOrCC": false
   },
   {
+    "name": "Wonder WebRTC unConference",
+    "url": "https://unconf.wonder.me",
+    "startDate": "2021-05-18",
+    "endDate": "2021-05-18",
+    "online": true,
+    "twitter": "@virtual_wonder"
+  },
+  {
     "name": "TECHSPO",
     "url": "https://techspotoronto.ca",
     "startDate": "2021-05-20",
@@ -202,13 +210,5 @@
     "cfpUrl": "https://techupforwomen.com/speakers/#speakers",
     "twitter": "@techupforwomen",
     "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "Wonder WebRTC unConference",
-    "url": "https://unconf.wonder.me",
-    "startDate": "2021-05-18",
-    "endDate": "2021-05-18",
-    "twitter": "@virtual_wonder",
-    "online": true
   }
 ]

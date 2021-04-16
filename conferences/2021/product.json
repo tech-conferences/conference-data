@@ -82,6 +82,17 @@
     "twitter": "@BizTalk360"
   },
   {
+    "name": "GrafanaCONline",
+    "url": "https://grafana.com/about/events/grafanacon/2021",
+    "startDate": "2021-06-07",
+    "endDate": "2021-06-17",
+    "online": true,
+    "cfpUrl": "https://grafana-labs.typeform.com/to/j4cDsPwi",
+    "cfpEndDate": "2021-04-09",
+    "twitter": "@Grafana",
+    "cocUrl": "https://grafana.com/about/events/events-code-of-conduct/"
+  },
+  {
     "name": "European Product Owner & Requirements Engineering Day",
     "url": "https://www.europeanporeday.com",
     "startDate": "2021-06-23",
@@ -97,16 +108,5 @@
     "endDate": "2021-07-15",
     "online": true,
     "twitter": "@MindtheProduct"
-  },
-  {
-    "name": "GrafanaCONline",
-    "url": "https://grafana.com/about/events/grafanacon/2021",
-    "startDate": "2021-06-07",
-    "endDate": "2021-06-17",
-    "twitter": "@Grafana",
-    "cfpUrl": "https://grafana-labs.typeform.com/to/j4cDsPwi",
-    "cfpEndDate": "2021-04-09",
-    "cocUrl": "https://grafana.com/about/events/events-code-of-conduct/",
-    "online": true
   }
 ]

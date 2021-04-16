@@ -220,15 +220,13 @@
     "offersSignLanguageOrCC": false
   },
   {
-    "name": "Strapi Conference",
-    "url": "https://www.strapi.io/strapi-conf-2021",
+    "name": "StrapiConf",
+    "url": "https://conf.strapi.io",
     "startDate": "2021-04-22",
     "endDate": "2021-04-22",
     "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScUYkXm67c-yHccRYsskeUMWO4uwoWtFsBBElmVlrFYYfUyow/viewform",
-    "cfpEndDate": "2021-02-01",
     "twitter": "@strapijs",
-    "cocUrl": "https://forum.strapi.io/faq#coc",
+    "cocUrl": "https://forum.strapi.io/faq#enforcement",
     "offersSignLanguageOrCC": false
   },
   {
@@ -340,6 +338,15 @@
     "cfpEndDate": "2021-04-10",
     "twitter": "@thejsnation",
     "cocUrl": "https://live.jsnation.com/coc"
+  },
+  {
+    "name": "JSworld Conference Africa",
+    "url": "https://africa.jsworldconference.com",
+    "startDate": "2021-06-11",
+    "endDate": "2021-06-11",
+    "online": true,
+    "twitter": "@Frontend_Love",
+    "cocUrl": "https://africa.jsworldconference.com/code-of-conduct/"
   },
   {
     "name": "enterJS Vue Day",
@@ -515,23 +522,5 @@
     "cfpEndDate": "2021-08-31",
     "twitter": "@xtremejsconf",
     "cocUrl": "https://bit.ly/2NL4ehr."
-  },
-  {
-    "name": "JSworld Conference Africa",
-    "url": "https://africa.jsworldconference.com",
-    "startDate": "2021-06-11",
-    "endDate": "2021-06-11",
-    "twitter": "@Frontend_Love",
-    "cocUrl": "https://africa.jsworldconference.com/code-of-conduct/",
-    "online": true
-  },
-  {
-    "name": "StrapiConf",
-    "url": "https://conf.strapi.io",
-    "startDate": "2021-04-22",
-    "endDate": "2021-04-22",
-    "twitter": "@strapijs",
-    "cocUrl": "https://forum.strapi.io/faq#enforcement",
-    "online": true
   }
 ]
