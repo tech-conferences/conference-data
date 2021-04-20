@@ -8,18 +8,18 @@
     "cfpUrl": "https://rustlab.it/en/call-for-proposal/"
   },
   {
-    "name": "Cloud Native Rust Day",
-    "url": "https://events.linuxfoundation.org/cloud-native-rust-day/",
-    "startDate": "2021-05-03",
-    "endDate": "2021-05-03",
-    "online": true
-  },
-  {
     "name": "Rust Day",
     "url": "https://kiosk.entwickler.de/rust-day",
     "startDate": "2021-04-28",
     "endDate": "2021-04-28",
-    "twitter": "@entwicklerkiosk",
+    "online": true,
+    "twitter": "@entwicklerkiosk"
+  },
+  {
+    "name": "Cloud Native Rust Day",
+    "url": "https://events.linuxfoundation.org/cloud-native-rust-day/",
+    "startDate": "2021-05-03",
+    "endDate": "2021-05-03",
     "online": true
   }
 ]
