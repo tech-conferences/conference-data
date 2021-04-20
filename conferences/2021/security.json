@@ -114,6 +114,16 @@
     "offersSignLanguageOrCC": false
   },
   {
+    "name": "IdentityNORTH Annual Summit",
+    "url": "https://www.identitynorth.ca/events/identitynorth2021",
+    "startDate": "2021-06-02",
+    "endDate": "2021-06-03",
+    "online": true,
+    "cfpUrl": "https://www.eventbrite.ca/e/identitynorth-virtual-annual-summit-2021-registration-131939403307",
+    "cfpEndDate": "2021-06-01",
+    "twitter": "@Identitynorth"
+  },
+  {
     "name": "Women in CyberSecurity (WiCyS)",
     "url": "https://www.wicys.org/events/wicys-2021",
     "startDate": "2021-09-08",
@@ -149,15 +159,5 @@
     "cfpUrl": "https://events.linuxfoundation.org/linux-security-summit-europe/program/cfp/",
     "cfpEndDate": "2021-06-27",
     "cocUrl": "https://events.linuxfoundation.org/linux-security-summit-europe/attend/code-of-conduct/"
-  },
-  {
-    "name": "IdentityNORTH Annual Summit",
-    "url": "https://www.identitynorth.ca/events/identitynorth2021",
-    "startDate": "2021-06-02",
-    "endDate": "2021-06-03",
-    "twitter": "@Identitynorth",
-    "cfpUrl": "https://www.eventbrite.ca/e/identitynorth-virtual-annual-summit-2021-registration-131939403307",
-    "cfpEndDate": "2021-06-01",
-    "online": true
   }
 ]
