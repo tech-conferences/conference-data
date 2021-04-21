@@ -196,6 +196,14 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "MongoDB.Live",
+    "url": "https://www.mongodb.com/live",
+    "startDate": "2021-07-13",
+    "endDate": "2021-07-14",
+    "online": true,
+    "twitter": "@MongoDB"
+  },
+  {
     "name": "Women in Analytics Conference",
     "url": "https://womeninanalytics.com/conference",
     "startDate": "2021-07-21",
@@ -226,13 +234,5 @@
     "cfpUrl": "https://www.papercall.io/conf42-machine-learning-2021",
     "cfpEndDate": "2021-06-14",
     "twitter": "@conf42com"
-  },
-  {
-    "name": "MongoDB.Live",
-    "url": "https://www.mongodb.com/live",
-    "startDate": "2021-07-13",
-    "endDate": "2021-07-14",
-    "twitter": "@MongoDB",
-    "online": true
   }
 ]
