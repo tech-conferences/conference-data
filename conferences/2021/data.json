@@ -236,7 +236,7 @@
     "twitter": "@conf42com"
   },
   {
-    "name": "CFP: The IEEE Third International Conference On Artificial Intelligence Testing",
+    "name": "IEEE Conference On Artificial Intelligence Testing",
     "url": "http://www.ieeeaitests.com/index.html",
     "startDate": "2021-08-23",
     "endDate": "2021-08-26",
@@ -244,5 +244,14 @@
     "cfpEndDate": "2021-04-30",
     "online": true,
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "IEEE Big Data Service",
+    "url": "http://www.big-dataservice.net",
+    "startDate": "2021-08-23",
+    "endDate": "2021-08-26",
+    "cfpUrl": "http://www.big-dataservice.net/#callForPaper",
+    "cfpEndDate": "2021-05-01",
+    "online": true
   }
 ]
