@@ -329,17 +329,6 @@
     "twitter": "@WE_nnovate"
   },
   {
-    "name": "GOTO Copenhagen",
-    "url": "https://gotocph.com/2021",
-    "startDate": "2021-06-06",
-    "endDate": "2021-06-09",
-    "city": "Copenhagen",
-    "country": "Denmark",
-    "twitter": "@GOTOcon",
-    "cocUrl": "https://gotocph.com/2021/code-of-conduct",
-    "offersSignLanguageOrCC": false
-  },
-  {
     "name": "API Summit",
     "url": "https://api-summit.de",
     "startDate": "2021-06-07",
@@ -604,6 +593,17 @@
     "online": false,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
+  },
+  {
+    "name": "GOTO Copenhagen",
+    "url": "https://gotocph.com",
+    "startDate": "2021-09-21",
+    "endDate": "2021-09-22",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "twitter": "@gotocon",
+    "cocUrl": "https://gotocph.com/2021/pages/code-of-conduct",
+    "online": false
   },
   {
     "name": "All Day Hey! Live",
