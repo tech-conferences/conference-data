@@ -169,6 +169,17 @@
     "twitter": "@worlduxcongress"
   },
   {
+    "name": "PUSH UX",
+    "url": "https://push-conference.com",
+    "startDate": "2021-10-21",
+    "endDate": "2021-10-22",
+    "online": true,
+    "cfpUrl": "https://pushconf.typeform.com/to/qAzkfCX3",
+    "cfpEndDate": "2021-05-07",
+    "twitter": "@pushconf",
+    "cocUrl": "https://push-conference.com/legal/terms.php#code-of-conduct"
+  },
+  {
     "name": "CanUX",
     "url": "https://canux.io",
     "startDate": "2021-11-04",
@@ -177,16 +188,5 @@
     "country": "Canada",
     "twitter": "@canuxconf",
     "cocUrl": "https://canux.io/about/code-of-conduct/"
-  },
-  {
-    "name": "PUSH UX",
-    "url": "https://push-conference.com",
-    "startDate": "2021-10-21",
-    "endDate": "2021-10-22",
-    "twitter": "@pushconf",
-    "cfpUrl": "https://pushconf.typeform.com/to/qAzkfCX3",
-    "cfpEndDate": "2021-05-07",
-    "cocUrl": "https://push-conference.com/legal/terms.php#code-of-conduct",
-    "online": true
   }
 ]

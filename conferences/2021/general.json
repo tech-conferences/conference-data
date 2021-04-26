@@ -242,6 +242,13 @@
     "cocUrl": "https://www.devnetwork.com/code-of-conduct/"
   },
   {
+    "name": "Red Hat Summit",
+    "url": "https://www.redhat.com/en/summit",
+    "startDate": "2021-04-27",
+    "endDate": "2021-04-28",
+    "online": true
+  },
+  {
     "name": "GIDS Live",
     "url": "https://www.developersummit.com/live/2021",
     "startDate": "2021-04-27",
@@ -254,6 +261,15 @@
     "offersSignLanguageOrCC": false
   },
   {
+    "name": "DevX",
+    "url": "https://devxconf.org",
+    "startDate": "2021-04-28",
+    "endDate": "2021-04-29",
+    "online": true,
+    "twitter": "@devxconf",
+    "cocUrl": "https://devxconf.org/code-of-conduct"
+  },
+  {
     "name": "Conf42: Cloud Native",
     "url": "https://www.conf42.com",
     "startDate": "2021-04-29",
@@ -262,6 +278,15 @@
     "cfpUrl": "https://www.papercall.io/conf42-cloud-native-2021",
     "cfpEndDate": "2021-03-15",
     "twitter": "@conf42com"
+  },
+  {
+    "name": "All Day Hey! Live",
+    "url": "https://alldayhey.com/live",
+    "startDate": "2021-05-06",
+    "endDate": "2021-05-06",
+    "online": true,
+    "twitter": "@hey_stac",
+    "cocUrl": "https://alldayhey.com/code-of-conduct"
   },
   {
     "name": "QCon Plus",
@@ -310,6 +335,14 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "DeepSource Next",
+    "url": "https://deepsource.io/next",
+    "startDate": "2021-05-18",
+    "endDate": "2021-05-18",
+    "online": true,
+    "twitter": "@DeepSourceHQ"
+  },
+  {
     "name": "Codemotion Online Tech Conference",
     "url": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-spring",
     "startDate": "2021-05-18",
@@ -319,6 +352,13 @@
     "cfpEndDate": "2021-03-05",
     "twitter": "@CodemotionWorld",
     "cocUrl": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-spring/code-of-conduct"
+  },
+  {
+    "name": "F8 Refresh",
+    "url": "https://developers.facebook.com/f8",
+    "startDate": "2021-06-02",
+    "endDate": "2021-06-02",
+    "online": true
   },
   {
     "name": "WEnnovate",
@@ -352,6 +392,13 @@
     "url": "https://www.proxyclick.com/proxyclick-connect-2021",
     "startDate": "2021-06-08",
     "endDate": "2021-06-10",
+    "online": true
+  },
+  {
+    "name": "Wild West Hackin’ Fest - Way West",
+    "url": "https://wildwesthackinfest.com/way-west",
+    "startDate": "2021-06-16",
+    "endDate": "2021-06-18",
     "online": true
   },
   {
@@ -425,6 +472,17 @@
     "cocUrl": "https://australia.voxxeddays.com/code-of-conduct/"
   },
   {
+    "name": "WebConf LATAM",
+    "url": "https://webconf.tech",
+    "startDate": "2021-08-23",
+    "endDate": "2021-08-27",
+    "online": true,
+    "cfpUrl": "https://webconf.tech/cfp",
+    "cfpEndDate": "2021-06-30",
+    "twitter": "@WebConfLATAM",
+    "cocUrl": "https://codear.org/coc"
+  },
+  {
     "name": "Web Summer Camp",
     "url": "https://2021.websummercamp.com/",
     "startDate": "2021-08-25",
@@ -468,6 +526,24 @@
     "country": "U.S.A.",
     "twitter": "@RefactrTech",
     "cocUrl": "https://www.refactr.tech/code-of-conduct/"
+  },
+  {
+    "name": "GOTO Copenhagen",
+    "url": "https://gotocph.com",
+    "startDate": "2021-09-21",
+    "endDate": "2021-09-22",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "online": false,
+    "twitter": "@gotocon",
+    "cocUrl": "https://gotocph.com/2021/pages/code-of-conduct"
+  },
+  {
+    "name": "Wild West Hackin’ Fest - Deadwood",
+    "url": "https://wildwesthackinfest.com/deadwood",
+    "startDate": "2021-09-22",
+    "endDate": "2021-09-24",
+    "online": true
   },
   {
     "name": "AdaLoversConf",
@@ -521,6 +597,13 @@
     "twitter": "@PNSQC",
     "cocUrl": "https://www.pnsqc.org/about-pnsqc/governance/",
     "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Google Cloud Next",
+    "url": "https://cloud.withgoogle.com/next/sf",
+    "startDate": "2021-10-12",
+    "endDate": "2021-10-14",
+    "online": true
   },
   {
     "name": "HackConf",
@@ -593,88 +676,5 @@
     "online": false,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "GOTO Copenhagen",
-    "url": "https://gotocph.com",
-    "startDate": "2021-09-21",
-    "endDate": "2021-09-22",
-    "city": "Copenhagen",
-    "country": "Denmark",
-    "twitter": "@gotocon",
-    "cocUrl": "https://gotocph.com/2021/pages/code-of-conduct",
-    "online": false
-  },
-  {
-    "name": "All Day Hey! Live",
-    "url": "https://alldayhey.com/live",
-    "startDate": "2021-05-06",
-    "endDate": "2021-05-06",
-    "twitter": "@hey_stac",
-    "cocUrl": "https://alldayhey.com/code-of-conduct",
-    "online": true
-  },
-  {
-    "name": "DeepSource Next",
-    "url": "https://deepsource.io/next",
-    "startDate": "2021-05-18",
-    "endDate": "2021-05-18",
-    "twitter": "@DeepSourceHQ",
-    "online": true
-  },
-  {
-    "name": "Wild West Hackin’ Fest - Way West",
-    "url": "https://wildwesthackinfest.com/way-west",
-    "startDate": "2021-06-16",
-    "endDate": "2021-06-18",
-    "online": true
-  },
-  {
-    "name": "Wild West Hackin’ Fest - Deadwood",
-    "url": "https://wildwesthackinfest.com/deadwood",
-    "startDate": "2021-09-22",
-    "endDate": "2021-09-24",
-    "online": true
-  },
-  {
-    "name": "Google Cloud Next",
-    "url": "https://cloud.withgoogle.com/next/sf",
-    "startDate": "2021-10-12",
-    "endDate": "2021-10-14",
-    "online": true
-  },
-  {
-    "name": "F8 Refresh",
-    "url": "https://developers.facebook.com/f8",
-    "startDate": "2021-06-02",
-    "endDate": "2021-06-02",
-    "online": true
-  },
-  {
-    "name": "Red Hat Summit",
-    "url": "https://www.redhat.com/en/summit",
-    "startDate": "2021-04-27",
-    "endDate": "2021-04-28",
-    "online": true
-  },
-  {
-    "name": "WebConf LATAM",
-    "url": "https://webconf.tech",
-    "startDate": "2021-08-23",
-    "endDate": "2021-08-27",
-    "twitter": "@WebConfLATAM",
-    "cfpUrl": "https://webconf.tech/cfp",
-    "cfpEndDate": "2021-06-30",
-    "cocUrl": "https://codear.org/coc",
-    "online": true
-  },
-  {
-    "name": "DevX",
-    "url": "https://devxconf.org",
-    "startDate": "2021-04-28",
-    "endDate": "2021-04-29",
-    "twitter": "@devxconf",
-    "cocUrl": "https://devxconf.org/code-of-conduct",
-    "online": true
   }
 ]
