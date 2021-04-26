@@ -189,6 +189,16 @@
     "offersSignLanguageOrCC": false
   },
   {
+    "name": "DevBreak",
+    "url": "https://www.devbreak.io",
+    "startDate": "2021-09-08",
+    "endDate": "2021-09-09",
+    "city": "Bouville",
+    "country": "France",
+    "online": false,
+    "cocUrl": "https://www.devbreak.io/code-of-conduct"
+  },
+  {
     "name": "International Conference on Digital Transformation",
     "url": "http://conference.ternet.or.tz",
     "startDate": "2021-09-12",
@@ -220,15 +230,5 @@
     "cfpUrl": "https://techupforwomen.com/speakers/#speakers",
     "twitter": "@techupforwomen",
     "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "DevBreak",
-    "url": "https://www.devbreak.io",
-    "startDate": "2021-09-08",
-    "endDate": "2021-09-09",
-    "city": "Bouville",
-    "country": "France",
-    "cocUrl": "https://www.devbreak.io/code-of-conduct",
-    "online": false
   }
 ]

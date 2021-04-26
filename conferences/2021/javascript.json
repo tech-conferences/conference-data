@@ -290,6 +290,17 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Angular Virtual COnference",
+    "url": "https://www.2020twenty.net/angular-virtual-conference",
+    "startDate": "2021-05-28",
+    "endDate": "2021-05-29",
+    "online": true,
+    "cfpUrl": "https://forms.gle/SNDT8KoCoi7pE6Go8",
+    "cfpEndDate": "2021-05-10",
+    "twitter": "@csharpcorner",
+    "cocUrl": "https://www.2020twenty.net/angular-virtual-conference/code-of-conduct/"
+  },
+  {
     "name": "Online Angular Global Summit",
     "url": "https://angular.geekle.us",
     "startDate": "2021-06-01",
@@ -394,6 +405,17 @@
     "cocUrl": "https://halfstackconf.com/newquay/code-of-conduct/"
   },
   {
+    "name": "jsday",
+    "url": "https://2021.jsday.it",
+    "startDate": "2021-07-06",
+    "endDate": "2021-07-06",
+    "online": true,
+    "cfpUrl": "https://2021.jsday.it/welcome/cfp.html",
+    "cfpEndDate": "2021-05-23",
+    "twitter": "@jsconfit",
+    "cocUrl": "https://2021.jsday.it/welcome/coc.html"
+  },
+  {
     "name": "JSCAMP",
     "url": "https://jscamp.tech",
     "startDate": "2021-07-15",
@@ -482,6 +504,17 @@
     "cocUrl": "https://nordicjs.com/code-of-conduct"
   },
   {
+    "name": "React Advanced London",
+    "url": "https://reactadvanced.com",
+    "startDate": "2021-10-20",
+    "endDate": "2021-10-22",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "twitter": "@ReactAdvanced",
+    "cocUrl": "https://reactadvanced.com/coc"
+  },
+  {
     "name": "Conf42: JavaScript",
     "url": "https://www.conf42.com",
     "startDate": "2021-10-28",
@@ -512,38 +545,5 @@
     "cfpEndDate": "2021-08-31",
     "twitter": "@xtremejsconf",
     "cocUrl": "https://bit.ly/2NL4ehr."
-  },
-  {
-    "name": "React Advanced London",
-    "url": "https://reactadvanced.com",
-    "startDate": "2021-10-20",
-    "endDate": "2021-10-22",
-    "city": "London",
-    "country": "U.K.",
-    "twitter": "@ReactAdvanced",
-    "cocUrl": "https://reactadvanced.com/coc",
-    "online": true
-  },
-  {
-    "name": "jsday",
-    "url": "https://2021.jsday.it",
-    "startDate": "2021-07-06",
-    "endDate": "2021-07-06",
-    "twitter": "@jsconfit",
-    "cfpUrl": "https://2021.jsday.it/welcome/cfp.html",
-    "cfpEndDate": "2021-05-23",
-    "cocUrl": "https://2021.jsday.it/welcome/coc.html",
-    "online": true
-  },
-  {
-    "name": "Angular Virtual COnference",
-    "url": "https://www.2020twenty.net/angular-virtual-conference",
-    "startDate": "2021-05-28",
-    "endDate": "2021-05-29",
-    "twitter": "@csharpcorner",
-    "cfpUrl": "https://forms.gle/SNDT8KoCoi7pE6Go8",
-    "cfpEndDate": "2021-05-10",
-    "cocUrl": "https://www.2020twenty.net/angular-virtual-conference/code-of-conduct/",
-    "online": true
   }
 ]

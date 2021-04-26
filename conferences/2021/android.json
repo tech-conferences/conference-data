@@ -1,5 +1,12 @@
 [
   {
+    "name": "Google I/O",
+    "url": "https://events.google.com/io",
+    "startDate": "2021-05-18",
+    "endDate": "2021-05-20",
+    "online": true
+  },
+  {
     "name": "ADDC - App Design & Development",
     "url": "https://addconf.com/2020",
     "startDate": "2021-06-23",
@@ -16,13 +23,6 @@
     "online": true
   },
   {
-    "name": "droidcon London",
-    "url": "https://www.london.droidcon.com",
-    "startDate": "2021-10-28",
-    "endDate": "2021-10-29",
-    "online": true
-  },
-  {
     "name": "droidcon Berlin",
     "url": "https://www.berlin.droidcon.com",
     "startDate": "2021-10-13",
@@ -30,17 +30,17 @@
     "online": true
   },
   {
+    "name": "droidcon London",
+    "url": "https://www.london.droidcon.com",
+    "startDate": "2021-10-28",
+    "endDate": "2021-10-29",
+    "online": true
+  },
+  {
     "name": "droidcon San Francisco",
     "url": "https://www.sf.droidcon.com",
     "startDate": "2021-12-13",
     "endDate": "2021-12-14",
-    "online": true
-  },
-  {
-    "name": "Google I/O",
-    "url": "https://events.google.com/io",
-    "startDate": "2021-05-18",
-    "endDate": "2021-05-20",
     "online": true
   }
 ]
