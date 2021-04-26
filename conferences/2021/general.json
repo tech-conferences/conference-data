@@ -621,5 +621,53 @@
     "endDate": "2021-05-18",
     "twitter": "@DeepSourceHQ",
     "online": true
+  },
+  {
+    "name": "Deadwood",
+    "url": "https://wildwesthackinfest.com/deadwood",
+    "startDate": "2021-09-22",
+    "endDate": "2021-09-24",
+    "online": true
+  },
+  {
+    "name": "Google Cloud Next",
+    "url": "https://cloud.withgoogle.com/next/sf",
+    "startDate": "2021-10-12",
+    "endDate": "2021-10-14",
+    "online": true
+  },
+  {
+    "name": "F8 Refresh",
+    "url": "https://developers.facebook.com/f8",
+    "startDate": "2021-06-02",
+    "endDate": "2021-06-02",
+    "online": true
+  },
+  {
+    "name": "Red Hat Summit",
+    "url": "https://www.redhat.com/en/summit",
+    "startDate": "2021-04-27",
+    "endDate": "2021-04-28",
+    "online": true
+  },
+  {
+    "name": "WebConf LATAM",
+    "url": "https://webconf.tech",
+    "startDate": "2021-08-23",
+    "endDate": "2021-08-27",
+    "twitter": "@WebConfLATAM",
+    "cfpUrl": "https://webconf.tech/cfp",
+    "cfpEndDate": "2021-06-30",
+    "cocUrl": "https://codear.org/coc",
+    "online": true
+  },
+  {
+    "name": "DevX",
+    "url": "https://devxconf.org",
+    "startDate": "2021-04-28",
+    "endDate": "2021-04-29",
+    "twitter": "@devxconf",
+    "cocUrl": "https://devxconf.org/code-of-conduct",
+    "online": true
   }
 ]
