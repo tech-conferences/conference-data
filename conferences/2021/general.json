@@ -329,17 +329,6 @@
     "twitter": "@WE_nnovate"
   },
   {
-    "name": "GOTO Copenhagen",
-    "url": "https://gotocph.com/2021",
-    "startDate": "2021-06-06",
-    "endDate": "2021-06-09",
-    "city": "Copenhagen",
-    "country": "Denmark",
-    "twitter": "@GOTOcon",
-    "cocUrl": "https://gotocph.com/2021/code-of-conduct",
-    "offersSignLanguageOrCC": false
-  },
-  {
     "name": "API Summit",
     "url": "https://api-summit.de",
     "startDate": "2021-06-07",
@@ -604,5 +593,63 @@
     "online": false,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
+  },
+  {
+    "name": "GOTO Copenhagen",
+    "url": "https://gotocph.com",
+    "startDate": "2021-09-21",
+    "endDate": "2021-09-22",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "twitter": "@gotocon",
+    "cocUrl": "https://gotocph.com/2021/pages/code-of-conduct",
+    "online": false
+  },
+  {
+    "name": "All Day Hey! Live",
+    "url": "https://alldayhey.com/live",
+    "startDate": "2021-05-06",
+    "endDate": "2021-05-06",
+    "twitter": "@hey_stac",
+    "cocUrl": "https://alldayhey.com/code-of-conduct",
+    "online": true
+  },
+  {
+    "name": "DeepSource Next",
+    "url": "https://deepsource.io/next",
+    "startDate": "2021-05-18",
+    "endDate": "2021-05-18",
+    "twitter": "@DeepSourceHQ",
+    "online": true
+  },
+  {
+    "name": "Google Cloud Next",
+    "url": "https://cloud.withgoogle.com/next/sf",
+    "startDate": "2021-10-12",
+    "endDate": "2021-10-14",
+    "online": true
+  },
+  {
+    "name": "F8 Refresh",
+    "url": "https://developers.facebook.com/f8",
+    "startDate": "2021-06-02",
+    "endDate": "2021-06-02",
+    "online": true
+  },
+  {
+    "name": "Red Hat Summit",
+    "url": "https://www.redhat.com/en/summit",
+    "startDate": "2021-04-27",
+    "endDate": "2021-04-28",
+    "online": true
+  },
+  {
+    "name": "DevX",
+    "url": "https://devxconf.org",
+    "startDate": "2021-04-28",
+    "endDate": "2021-04-29",
+    "twitter": "@devxconf",
+    "cocUrl": "https://devxconf.org/code-of-conduct",
+    "online": true
   }
 ]
