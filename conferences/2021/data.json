@@ -252,7 +252,8 @@
     "endDate": "2021-08-26",
     "cfpUrl": "http://www.ieeeaitests.com/html/callForPapers.html",
     "cfpEndDate": "2021-04-30",
-    "online": true
+    "online": true,
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "IEEE Big Data Service",
@@ -261,7 +262,6 @@
     "endDate": "2021-08-26",
     "cfpUrl": "http://www.big-dataservice.net/#callForPaper",
     "cfpEndDate": "2021-05-01",
-    "online": true,
-    "offersSignLanguageOrCC": true
+    "online": true
   }
 ]
