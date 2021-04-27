@@ -483,16 +483,6 @@
     "cocUrl": "https://codear.org/coc"
   },
   {
-    "name": "Web Summer Camp",
-    "url": "https://2021.websummercamp.com/",
-    "startDate": "2021-08-25",
-    "endDate": "2021-08-27",
-    "city": "Bol",
-    "country": "Croatia",
-    "twitter": "@WebSummerCamp",
-    "cocUrl": "https://2021.websummercamp.com/code-of-conduct"
-  },
-  {
     "name": "Voxxed Days Downunder",
     "url": "https://australia.voxxeddays.com",
     "startDate": "2021-08-26",
@@ -503,6 +493,17 @@
     "cfpEndDate": "2021-03-31",
     "twitter": "@VoxxedAustralia",
     "cocUrl": "https://australia.voxxeddays.com/code-of-conduct/"
+  },
+  {
+    "name": "Web Summer Camp",
+    "url": "https://2021.websummercamp.com",
+    "startDate": "2021-09-02",
+    "endDate": "2021-09-03",
+    "city": "Šibenik",
+    "country": "Croatia",
+    "online": false,
+    "twitter": "@WebSummerCamp",
+    "cocUrl": "https://2021.websummercamp.com/code-of-conduct"
   },
   {
     "name": "fintech_devcon",
@@ -676,16 +677,5 @@
     "online": false,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "Web Summer Camp",
-    "url": "https://2021.websummercamp.com",
-    "startDate": "2021-09-02",
-    "endDate": "2021-09-03",
-    "city": "Šibenik",
-    "country": "Croatia",
-    "twitter": "@WebSummerCamp",
-    "cocUrl": "https://2021.websummercamp.com/code-of-conduct",
-    "online": false
   }
 ]

@@ -515,6 +515,19 @@
     "cocUrl": "https://reactadvanced.com/coc"
   },
   {
+    "name": "International JavaScript Conference Munich",
+    "url": "https://javascript-conference.com/munich",
+    "startDate": "2021-10-25",
+    "endDate": "2021-10-29",
+    "city": "Munich",
+    "country": "Germany",
+    "online": true,
+    "cfpUrl": "https://javascript-conference.com/munich/call-for-papers-mun",
+    "cfpEndDate": "2021-04-26",
+    "twitter": "@JavaScriptCon",
+    "cocUrl": "https://javascript-conference.com/code-of-conduct/"
+  },
+  {
     "name": "Conf42: JavaScript",
     "url": "https://www.conf42.com",
     "startDate": "2021-10-28",
@@ -545,18 +558,5 @@
     "cfpEndDate": "2021-08-31",
     "twitter": "@xtremejsconf",
     "cocUrl": "https://bit.ly/2NL4ehr."
-  },
-  {
-    "name": "International JavaScript Conference Munich",
-    "url": "https://javascript-conference.com/munich",
-    "startDate": "2021-10-25",
-    "endDate": "2021-10-29",
-    "city": "Munich",
-    "country": "Germany",
-    "twitter": "@JavaScriptCon",
-    "cfpUrl": "https://javascript-conference.com/munich/call-for-papers-mun",
-    "cfpEndDate": "2021-04-26",
-    "cocUrl": "https://javascript-conference.com/code-of-conduct/",
-    "online": true
   }
 ]
