@@ -107,6 +107,7 @@ module.exports = {
     "Labin",
     "Osijek",
     "Rovinj",
+    "Šibenik",
     "Split",
     "Zagreb"
   ],
