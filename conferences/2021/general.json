@@ -697,6 +697,16 @@
     "city": "Berlin",
     "country": "Germany",
     "twitter": "@api_conference",
+    "online": true    
+  },
+  {
+    "name": "Serverless Architecture Conference Berlin",
+    "url": "https://serverless-architecture.io/berlin",
+    "startDate": "2021-10-11",
+    "endDate": "2021-10-13",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@serverlesscon",
     "online": true
   }
 ]
