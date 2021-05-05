@@ -697,7 +697,7 @@
     "city": "Berlin",
     "country": "Germany",
     "twitter": "@api_conference",
-    "online": true    
+    "online": true
   },
   {
     "name": "Serverless Architecture Conference Berlin",
@@ -707,6 +707,14 @@
     "city": "Berlin",
     "country": "Germany",
     "twitter": "@serverlesscon",
+    "online": true
+  },
+  {
+    "name": "PM GO",
+    "url": "https://pmgo.tech/en",
+    "startDate": "2021-05-14",
+    "endDate": "2021-05-14",
+    "twitter": "@ParimatchGlobal",
     "online": true
   }
 ]
