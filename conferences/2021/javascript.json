@@ -350,6 +350,17 @@
     "cocUrl": "https://africa.jsworldconference.com/code-of-conduct/"
   },
   {
+    "name": "React Virtual Conference",
+    "url": "https://www.2020twenty.net/react-virtual-conference-2021/",
+    "startDate": "2021-06-11",
+    "endDate": "2021-06-11",
+    "online": true,
+    "cfpUrl": "https://forms.gle/912gNrPYr41Rcw4HA",
+    "cfpEndDate": "2021-05-15",
+    "twitter": "@csharpcorner",
+    "cocUrl": "https://www.2020twenty.net/react-virtual-conference-2021/code-of-conduct/"
+  },
+  {
     "name": "enterJS Vue Day",
     "url": "https://enterjs.de/vueday.php",
     "startDate": "2021-06-15",
@@ -470,6 +481,16 @@
     "twitter": "@jsconfbp"
   },
   {
+    "name": "International JavaScript Conference New York",
+    "url": "https://javascript-conference.com/new-york",
+    "startDate": "2021-09-27",
+    "endDate": "2021-09-30",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@JavaScriptCon"
+  },
+  {
     "name": "enterJS",
     "url": "https://enterjs.de",
     "startDate": "2021-09-27",
@@ -558,26 +579,5 @@
     "cfpEndDate": "2021-08-31",
     "twitter": "@xtremejsconf",
     "cocUrl": "https://bit.ly/2NL4ehr."
-  },
-  {
-    "name": "International JavaScript Conference New York",
-    "url": "https://javascript-conference.com/new-york",
-    "startDate": "2021-09-27",
-    "endDate": "2021-09-30",
-    "city": "New York, NY",
-    "country": "U.S.A.",
-    "twitter": "@JavaScriptCon",
-    "online": true
-  },
-  {
-    "name": "React Virtual Conference",
-    "url": "https://www.2020twenty.net/react-virtual-conference-2021/",
-    "startDate": "2021-06-11",
-    "endDate": "2021-06-11",
-    "twitter": "@csharpcorner",
-    "cfpUrl": "https://forms.gle/912gNrPYr41Rcw4HA",
-    "cfpEndDate": "2021-05-15",
-    "cocUrl": "https://www.2020twenty.net/react-virtual-conference-2021/code-of-conduct/",
-    "online": true
   }
 ]

@@ -192,6 +192,14 @@
     "offersSignLanguageOrCC": false
   },
   {
+    "name": "Postgres Vision",
+    "url": "https://www.postgresvision.com",
+    "startDate": "2021-06-22",
+    "endDate": "2021-06-23",
+    "online": true,
+    "twitter": "@EDBPostgres"
+  },
+  {
     "name": "Intercon Conference",
     "url": "https://www.intercon.world",
     "startDate": "2021-06-23",
@@ -201,6 +209,17 @@
     "online": false,
     "twitter": "@InterConWorld",
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "Women Data Summit",
+    "url": "https://www.2020twenty.net/women-data-summit-2021",
+    "startDate": "2021-06-25",
+    "endDate": "2021-06-25",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/women-data-summit-2021",
+    "cfpEndDate": "2021-05-30",
+    "twitter": "@csharpcorner",
+    "cocUrl": "https://www.2020twenty.net/women-data-summit-2021/code-of-conduct/"
   },
   {
     "name": "MongoDB.Live",
@@ -270,24 +289,5 @@
     "cfpUrl": "https://www.mobile-cloud.net/#call-for-papers",
     "cfpEndDate": "2021-05-01",
     "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "Women Data Summit",
-    "url": "https://www.2020twenty.net/women-data-summit-2021",
-    "startDate": "2021-06-25",
-    "endDate": "2021-06-25",
-    "twitter": "@csharpcorner",
-    "cfpUrl": "https://sessionize.com/women-data-summit-2021",
-    "cfpEndDate": "2021-05-30",
-    "cocUrl": "https://www.2020twenty.net/women-data-summit-2021/code-of-conduct/",
-    "online": true
-  },
-  {
-    "name": "Postgres Vision",
-    "url": "https://www.postgresvision.com",
-    "startDate": "2021-06-22",
-    "endDate": "2021-06-23",
-    "twitter": "@EDBPostgres",
-    "online": true
   }
 ]

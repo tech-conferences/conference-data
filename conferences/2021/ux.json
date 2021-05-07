@@ -107,6 +107,14 @@
     "offersSignLanguageOrCC": false
   },
   {
+    "name": "Global FinTech Design Summit",
+    "url": "https://fintechdesignsummit.com",
+    "startDate": "2021-05-25",
+    "endDate": "2021-05-27",
+    "online": true,
+    "twitter": "@TechCircus_"
+  },
+  {
     "name": "UXcamp Europe",
     "url": "https://www.uxcampeurope.org",
     "startDate": "2021-06-05",
@@ -129,6 +137,15 @@
     "twitter": "@webinale",
     "cocUrl": "https://webinale.de/code-of-conduct-en/",
     "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "DDDx: Domain-Driven Design eXchange",
+    "url": "http://ddd-exchange.com",
+    "startDate": "2021-06-08",
+    "endDate": "2021-06-09",
+    "online": true,
+    "twitter": "@skillsmatter",
+    "cocUrl": "https://skillsmatter.com/go/code-of-conduct"
   },
   {
     "name": "CSSCAMP",
@@ -188,22 +205,5 @@
     "country": "Canada",
     "twitter": "@canuxconf",
     "cocUrl": "https://canux.io/about/code-of-conduct/"
-  },
-  {
-    "name": "Global FinTech Design Summit",
-    "url": "https://fintechdesignsummit.com",
-    "startDate": "2021-05-25",
-    "endDate": "2021-05-27",
-    "twitter": "@TechCircus_",
-    "online": true
-  },
-  {
-    "name": "DDDx: Domain-Driven Design eXchange",
-    "url": "http://ddd-exchange.com",
-    "startDate": "2021-06-08",
-    "endDate": "2021-06-09",
-    "twitter": "@skillsmatter",
-    "cocUrl": "https://skillsmatter.com/go/code-of-conduct",
-    "online": true
   }
 ]

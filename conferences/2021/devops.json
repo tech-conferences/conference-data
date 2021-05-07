@@ -218,6 +218,15 @@
     "cocUrl": "https://devopspro.lt/code-of-conduct/"
   },
   {
+    "name": "WeAreDevelopers Live – DevOps Day",
+    "url": "https://www.wearedevelopers.com/event/devops-day",
+    "startDate": "2021-05-12",
+    "endDate": "2021-05-12",
+    "online": true,
+    "twitter": "@wearedevs",
+    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct"
+  },
+  {
     "name": "Devopsdays Paris",
     "url": "https://devopsdays.org/events/2021-paris/welcome/",
     "startDate": "2021-05-18",
@@ -334,6 +343,14 @@
     "online": true,
     "twitter": "@MicroservSummit",
     "cocUrl": "https://microservices-summit.de/code-of-conduct/"
+  },
+  {
+    "name": "DeepSource Next",
+    "url": "https://deepsource.io/next",
+    "startDate": "2021-06-08",
+    "endDate": "2021-06-08",
+    "online": true,
+    "twitter": "@DeepSourceHQ"
   },
   {
     "name": "Lead Dev London",
@@ -547,6 +564,16 @@
     "cocUrl": "https://linuxplumbersconf.org/event/11/page/113-anti-harassment-policy"
   },
   {
+    "name": "DevOpsCon New York",
+    "url": "https://devopscon.io/new-york",
+    "startDate": "2021-09-27",
+    "endDate": "2021-09-30",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@devops_con"
+  },
+  {
     "name": "Open Source Summit + Embedded Linux Conference",
     "url": "https://events.linuxfoundation.org/open-source-summit-europe/",
     "startDate": "2021-09-28",
@@ -626,38 +653,11 @@
     "cocUrl": "https://agiletestingdays.com/code-of-conduct/"
   },
   {
-    "name": "DevOpsCon New York",
-    "url": "https://devopscon.io/new-york",
-    "startDate": "2021-09-27",
-    "endDate": "2021-09-30",
-    "city": "New York, NY",
-    "country": "U.S.A.",
-    "twitter": "@devops_con",
-    "online": true
-  },
-  {
     "name": "DevOpsCon Singapore",
     "url": "https://devopscon.io/singapore",
     "startDate": "2021-11-22",
     "endDate": "2021-11-25",
-    "twitter": "@devopscon",
-    "online": true
-  },
-  {
-    "name": "WeAreDevelopers Live – DevOps Day",
-    "url": "https://www.wearedevelopers.com/event/devops-day",
-    "startDate": "2021-05-12",
-    "endDate": "2021-05-12",
-    "twitter": "@wearedevs",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct",
-    "online": true
-  },
-  {
-    "name": "DeepSource Next",
-    "url": "https://deepsource.io/next",
-    "startDate": "2021-06-08",
-    "endDate": "2021-06-08",
-    "twitter": "@DeepSourceHQ",
-    "online": true
+    "online": true,
+    "twitter": "@devopscon"
   }
 ]

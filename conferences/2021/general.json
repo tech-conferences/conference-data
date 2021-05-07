@@ -301,6 +301,15 @@
     "offersSignLanguageOrCC": false
   },
   {
+    "name": "WeAreDevelopers Live – Future of Tech Day",
+    "url": "https://www.wearedevelopers.com/event/future-of-tech-day",
+    "startDate": "2021-05-11",
+    "endDate": "2021-05-11",
+    "online": true,
+    "twitter": "@wearedevs",
+    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct"
+  },
+  {
     "name": "DeveloperWeek Management",
     "url": "https://www.developerweek.com/global/conference/management",
     "startDate": "2021-05-11",
@@ -321,6 +330,23 @@
     "cfpEndDate": "2021-02-28",
     "twitter": "@percona",
     "cocUrl": "https://www.percona.com/live/code-conduct"
+  },
+  {
+    "name": "PM GO",
+    "url": "https://pmgo.tech/en",
+    "startDate": "2021-05-14",
+    "endDate": "2021-05-14",
+    "online": true,
+    "twitter": "@ParimatchGlobal"
+  },
+  {
+    "name": "Bitcoin SV DevCon",
+    "url": "https://www.wearedevelopers.com/event/bsv-devcon-2021",
+    "startDate": "2021-05-15",
+    "endDate": "2021-05-16",
+    "online": true,
+    "twitter": "@wearedevs",
+    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct"
   },
   {
     "name": "!!Con",
@@ -395,6 +421,17 @@
     "online": true
   },
   {
+    "name": "GOTO Aarhus",
+    "url": "https://gotoaarhus.com",
+    "startDate": "2021-06-08",
+    "endDate": "2021-06-11",
+    "city": "Aarhus",
+    "country": "Denmark",
+    "online": true,
+    "twitter": "@GOTOcon",
+    "cocUrl": "https://gotoaarhus.com/2021/pages/code-of-conduct"
+  },
+  {
     "name": "Wild West Hackin’ Fest - Way West",
     "url": "https://wildwesthackinfest.com/way-west",
     "startDate": "2021-06-16",
@@ -440,6 +477,17 @@
     "cocUrl": "https://hasura.io/events/hasura-con-2021/code-of-conduct/"
   },
   {
+    "name": "WeAreDevelopers World Congress",
+    "url": "https://www.wearedevelopers.com/world-congress",
+    "startDate": "2021-06-28",
+    "endDate": "2021-07-01",
+    "online": true,
+    "cfpUrl": "https://www.wearedevelopers.com/world-congress/call-for-speakers",
+    "cfpEndDate": "2021-05-31",
+    "twitter": "@wearedevs",
+    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct"
+  },
+  {
     "name": "Swiss Testing Day",
     "url": "https://www.swisstestingday.ch/en",
     "startDate": "2021-06-30",
@@ -481,6 +529,17 @@
     "cfpEndDate": "2021-06-30",
     "twitter": "@WebConfLATAM",
     "cocUrl": "https://codear.org/coc"
+  },
+  {
+    "name": "Reliable Web Summit",
+    "url": "https://reliablewebsummit.com",
+    "startDate": "2021-08-26",
+    "endDate": "2021-08-27",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScibByS8HM6fLgIxKSNnINkdGV2fHT04iNMAYENZzbwhWbcRg/viewform",
+    "cfpEndDate": "2021-05-15",
+    "twitter": "@ReliableSummit",
+    "cocUrl": "https://reliablewebsummit.com/code-of-conduct/"
   },
   {
     "name": "Voxxed Days Downunder",
@@ -578,6 +637,18 @@
     "cocUrl": "https://thestrangeloop.com/policies.html"
   },
   {
+    "name": "Paris Web",
+    "url": "https://www.paris-web.fr",
+    "startDate": "2021-10-07",
+    "endDate": "2021-10-08",
+    "online": true,
+    "cfpUrl": "https://appel.paris-web.fr",
+    "cfpEndDate": "2021-05-27",
+    "twitter": "@parisweb",
+    "cocUrl": "https://www.paris-web.fr/code-de-conduite.php",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Central Wisconsin IT Conference",
     "url": "https://cwitc.org",
     "startDate": "2021-10-09",
@@ -589,6 +660,16 @@
     "cocUrl": "https://cwitc.org/code-of-conduct"
   },
   {
+    "name": "API Conference Berlin",
+    "url": "https://apiconference.net/berlin",
+    "startDate": "2021-10-11",
+    "endDate": "2021-10-13",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@api_conference"
+  },
+  {
     "name": "Pacific NW Software Quality Conference",
     "url": "https://www.pnsqc.org",
     "startDate": "2021-10-11",
@@ -598,6 +679,27 @@
     "twitter": "@PNSQC",
     "cocUrl": "https://www.pnsqc.org/about-pnsqc/governance/",
     "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Serverless Architecture Conference Berlin",
+    "url": "https://serverless-architecture.io/berlin",
+    "startDate": "2021-10-11",
+    "endDate": "2021-10-13",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@serverlesscon"
+  },
+  {
+    "name": "Software Architecture Gathering – Digital",
+    "url": "http://conferences.isaqb.org",
+    "startDate": "2021-10-11",
+    "endDate": "2021-10-14",
+    "online": true,
+    "cfpUrl": "https://conferences.isaqb.org/program/#cfp",
+    "cfpEndDate": "2021-05-19",
+    "twitter": "@sag_conference",
+    "cocUrl": "https://conferences.isaqb.org/info/#code-of-conduct"
   },
   {
     "name": "Google Cloud Next",
@@ -677,107 +779,5 @@
     "online": false,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "GOTO Aarhus",
-    "url": "https://gotoaarhus.com",
-    "startDate": "2021-06-08",
-    "endDate": "2021-06-11",
-    "city": "Aarhus",
-    "country": "Denmark",
-    "twitter": "@GOTOcon",
-    "cocUrl": "https://gotoaarhus.com/2021/pages/code-of-conduct",
-    "online": true
-  },
-  {
-    "name": "API Conference Berlin",
-    "url": "https://apiconference.net/berlin",
-    "startDate": "2021-10-11",
-    "endDate": "2021-10-13",
-    "city": "Berlin",
-    "country": "Germany",
-    "twitter": "@api_conference",
-    "online": true
-  },
-  {
-    "name": "Serverless Architecture Conference Berlin",
-    "url": "https://serverless-architecture.io/berlin",
-    "startDate": "2021-10-11",
-    "endDate": "2021-10-13",
-    "city": "Berlin",
-    "country": "Germany",
-    "twitter": "@serverlesscon",
-    "online": true
-  },
-  {
-    "name": "PM GO",
-    "url": "https://pmgo.tech/en",
-    "startDate": "2021-05-14",
-    "endDate": "2021-05-14",
-    "twitter": "@ParimatchGlobal",
-    "online": true
-  },
-  {
-    "name": "Reliable Web Summit",
-    "url": "https://reliablewebsummit.com",
-    "startDate": "2021-08-26",
-    "endDate": "2021-08-27",
-    "twitter": "@ReliableSummit",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScibByS8HM6fLgIxKSNnINkdGV2fHT04iNMAYENZzbwhWbcRg/viewform",
-    "cfpEndDate": "2021-05-15",
-    "cocUrl": "https://reliablewebsummit.com/code-of-conduct/",
-    "online": true
-  },
-  {
-    "name": "Paris Web",
-    "url": "https://www.paris-web.fr",
-    "startDate": "2021-10-07",
-    "endDate": "2021-10-08",
-    "twitter": "@parisweb",
-    "cfpUrl": "https://appel.paris-web.fr",
-    "cfpEndDate": "2021-05-27",
-    "cocUrl": "https://www.paris-web.fr/code-de-conduite.php",
-    "online": true,
-    "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "WeAreDevelopers World Congress",
-    "url": "https://www.wearedevelopers.com/world-congress",
-    "startDate": "2021-06-28",
-    "endDate": "2021-07-01",
-    "twitter": "@wearedevs",
-    "cfpUrl": "https://www.wearedevelopers.com/world-congress/call-for-speakers",
-    "cfpEndDate": "2021-05-31",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct",
-    "online": true
-  },
-  {
-    "name": "Software Architecture Gathering – Digital",
-    "url": "http://conferences.isaqb.org",
-    "startDate": "2021-10-11",
-    "endDate": "2021-10-14",
-    "twitter": "@sag_conference",
-    "cfpUrl": "https://conferences.isaqb.org/program/#cfp",
-    "cfpEndDate": "2021-05-19",
-    "cocUrl": "https://conferences.isaqb.org/info/#code-of-conduct",
-    "online": true
-  },
-  {
-    "name": "WeAreDevelopers Live – Future of Tech Day",
-    "url": "https://www.wearedevelopers.com/event/future-of-tech-day",
-    "startDate": "2021-05-11",
-    "endDate": "2021-05-11",
-    "twitter": "@wearedevs",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct",
-    "online": true
-  },
-  {
-    "name": "Bitcoin SV DevCon",
-    "url": "https://www.wearedevelopers.com/event/bsv-devcon-2021",
-    "startDate": "2021-05-15",
-    "endDate": "2021-05-16",
-    "twitter": "@wearedevs",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct",
-    "online": true
   }
 ]
