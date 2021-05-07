@@ -93,5 +93,16 @@
     "cfpEndDate": "2021-07-31",
     "twitter": "@xtremepython",
     "cocUrl": "https://bit.ly/2NL4ehr"
+  },
+  {
+    "name": "PyCon Au",
+    "url": "http://2021.pycon.org.au",
+    "startDate": "2021-09-10",
+    "endDate": "2021-09-12",
+    "twitter": "@PyConAU",
+    "cfpUrl": "https://2021.pycon.org.au/speak",
+    "cfpEndDate": "2021-06-10",
+    "cocUrl": "https://2021.pycon.org.au/conduct/",
+    "online": true
   }
 ]

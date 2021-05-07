@@ -188,5 +188,22 @@
     "country": "Canada",
     "twitter": "@canuxconf",
     "cocUrl": "https://canux.io/about/code-of-conduct/"
+  },
+  {
+    "name": "Global FinTech Design Summit",
+    "url": "https://fintechdesignsummit.com",
+    "startDate": "2021-05-25",
+    "endDate": "2021-05-27",
+    "twitter": "@TechCircus_",
+    "online": true
+  },
+  {
+    "name": "DDDx: Domain-Driven Design eXchange",
+    "url": "http://ddd-exchange.com",
+    "startDate": "2021-06-08",
+    "endDate": "2021-06-09",
+    "twitter": "@skillsmatter",
+    "cocUrl": "https://skillsmatter.com/go/code-of-conduct",
+    "online": true
   }
 ]
