@@ -53,6 +53,15 @@
     "twitter": "@conf42com"
   },
   {
+    "name": "Extreme Java Camp",
+    "url": "https://extreme-java-camp.de",
+    "startDate": "2021-06-21",
+    "endDate": "2021-06-25",
+    "online": true,
+    "twitter": "@ExtremeJavaCamp",
+    "cocUrl": "https://extreme-java-camp.de/code-of-conduct/"
+  },
+  {
     "name": "JavaZone",
     "url": "http://javazone.no",
     "startDate": "2021-09-08",
@@ -70,16 +79,7 @@
     "endDate": "2021-10-07",
     "city": "London",
     "country": "U.K.",
-    "twitter": "@jaxlondon",
-    "online": true
-  },
-  {
-    "name": "Extreme Java Camp",
-    "url": "https://extreme-java-camp.de",
-    "startDate": "2021-06-21",
-    "endDate": "2021-06-25",
-    "twitter": "@ExtremeJavaCamp",
-    "cocUrl": "https://extreme-java-camp.de/code-of-conduct/",
-    "online": true
+    "online": true,
+    "twitter": "@jaxlondon"
   }
 ]
