@@ -81,5 +81,16 @@
     "country": "U.K.",
     "online": true,
     "twitter": "@jaxlondon"
+  },
+  {
+    "name": "UberConf",
+    "url": "http://uberconf.com",
+    "startDate": "2021-10-05",
+    "endDate": "2021-10-08",
+    "city": "Denver, CO",
+    "country": "U.S.A.",
+    "twitter": "@nofluff",
+    "cocUrl": "https://uberconf.com/home/code_of_conduct",
+    "online": true
   }
 ]
