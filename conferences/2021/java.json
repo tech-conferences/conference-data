@@ -89,9 +89,9 @@
     "endDate": "2021-10-08",
     "city": "Denver, CO",
     "country": "U.S.A.",
+    "online": true,
     "twitter": "@nofluff",
-    "cocUrl": "https://uberconf.com/home/code_of_conduct",
-    "online": true
+    "cocUrl": "https://uberconf.com/home/code_of_conduct"
   },
   {
     "name": "ArchConf",
@@ -100,8 +100,8 @@
     "endDate": "2021-12-16",
     "city": "Clearwater, FL",
     "country": "U.S.A.",
+    "online": true,
     "twitter": "@nofluff",
-    "cocUrl": "https://archconf.com/home/code_of_conduct",
-    "online": true
+    "cocUrl": "https://archconf.com/home/code_of_conduct"
   }
 ]
