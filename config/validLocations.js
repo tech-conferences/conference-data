@@ -655,6 +655,7 @@ module.exports = {
     "Santa Monica, CA",
     "Scottsdale, AZ",
     "Seattle, WA",
+    "Sparks, NV",
     "St. Augustine, FL",
     "St. Louis, MO",
     "St. Petersburg, FL",
