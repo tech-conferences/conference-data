@@ -361,14 +361,6 @@
     "offersSignLanguageOrCC": true
   },
   {
-    "name": "DeepSource Next",
-    "url": "https://deepsource.io/next",
-    "startDate": "2021-05-18",
-    "endDate": "2021-05-18",
-    "online": true,
-    "twitter": "@DeepSourceHQ"
-  },
-  {
     "name": "Codemotion Online Tech Conference",
     "url": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-spring",
     "startDate": "2021-05-18",
@@ -430,6 +422,14 @@
     "online": true,
     "twitter": "@GOTOcon",
     "cocUrl": "https://gotoaarhus.com/2021/pages/code-of-conduct"
+  },
+  {
+    "name": "DeepSource Next",
+    "url": "https://deepsource.io/next",
+    "startDate": "2021-06-08",
+    "endDate": "2021-06-08",
+    "online": true,
+    "twitter": "@DeepSourceHQ"
   },
   {
     "name": "Wild West Hackin’ Fest - Way West",
