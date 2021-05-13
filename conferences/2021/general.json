@@ -479,16 +479,6 @@
     "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct"
   },
   {
-    "name": "Swiss Testing Day",
-    "url": "https://www.swisstestingday.ch/en",
-    "startDate": "2021-06-30",
-    "endDate": "2021-06-30",
-    "city": "Zurich",
-    "country": "Switzerland",
-    "twitter": "@SwissTesting",
-    "offersSignLanguageOrCC": false
-  },
-  {
     "name": "Devoxx",
     "url": "https://www.devoxx.fr",
     "startDate": "2021-06-30",
@@ -597,6 +587,16 @@
     "cfpEndDate": "2021-07-31",
     "twitter": "@csharpcorner",
     "cocUrl": "https://azuresummit.live/code-of-conduct/"
+  },
+  {
+    "name": "Swiss Testing Day",
+    "url": "https://www.swisstestingday.ch/en",
+    "startDate": "2021-09-14",
+    "endDate": "2021-09-14",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "twitter": "@SwissTesting",
+    "offersSignLanguageOrCC": false
   },
   {
     "name": "REFACTR.TECH",
