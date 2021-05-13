@@ -479,16 +479,6 @@
     "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct"
   },
   {
-    "name": "Devoxx",
-    "url": "https://www.devoxx.fr",
-    "startDate": "2021-06-30",
-    "endDate": "2021-07-02",
-    "city": "Paris",
-    "country": "France",
-    "twitter": "@DevoxxFR",
-    "cocUrl": "https://www.devoxx.fr/code-of-conduct/"
-  },
-  {
     "name": "WorldFestival",
     "url": "https://worldfestival.com",
     "startDate": "2021-08-17",
@@ -644,6 +634,16 @@
     "cfpUrl": "https://events.linuxfoundation.org/open-source-summit-europe/program/cfp/",
     "cfpEndDate": "2021-06-13",
     "cocUrl": "https://events.linuxfoundation.org/open-source-summit-europe/attend/code-of-conduct/"
+  },
+  {
+    "name": "Devoxx",
+    "url": "https://www.devoxx.fr",
+    "startDate": "2021-09-29",
+    "endDate": "2021-10-01",
+    "city": "Paris",
+    "country": "France",
+    "twitter": "@DevoxxFR",
+    "cocUrl": "https://www.devoxx.fr/code-of-conduct/"
   },
   {
     "name": "Strange Loop",
