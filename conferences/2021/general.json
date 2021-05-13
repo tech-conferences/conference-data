@@ -440,16 +440,6 @@
     "country": "U.S.A."
   },
   {
-    "name": "DevBreak",
-    "url": "https://www.devbreak.io",
-    "startDate": "2021-06-17",
-    "endDate": "2021-06-18",
-    "city": "Bouville",
-    "country": "France",
-    "twitter": "@DevBreak20",
-    "cocUrl": "https://www.devbreak.io/code-of-conduct"
-  },
-  {
     "name": "GitOps Summit",
     "url": "https://events.linuxfoundation.org/gitops-summit",
     "startDate": "2021-06-22",
@@ -573,6 +563,16 @@
     "online": false,
     "twitter": "@WebSummerCamp",
     "cocUrl": "https://2021.websummercamp.com/code-of-conduct"
+  },
+  {
+    "name": "DevBreak",
+    "url": "https://www.devbreak.io",
+    "startDate": "2021-09-08",
+    "endDate": "2021-09-09",
+    "city": "Bouville",
+    "country": "France",
+    "twitter": "@DevBreak20",
+    "cocUrl": "https://www.devbreak.io/code-of-conduct"
   },
   {
     "name": "fintech_devcon",
