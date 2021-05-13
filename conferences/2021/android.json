@@ -15,13 +15,6 @@
     "twitter": "@addconf"
   },
   {
-    "name": "droidcon NYC",
-    "url": "https://www.nyc.droidcon.com",
-    "startDate": "2021-08-30",
-    "endDate": "2021-08-31",
-    "online": true
-  },
-  {
     "name": "droidcon Berlin",
     "url": "https://www.berlin.droidcon.com",
     "startDate": "2021-10-13",
@@ -34,6 +27,14 @@
     "startDate": "2021-10-28",
     "endDate": "2021-10-29",
     "online": true
+  },
+  {
+    "name": "droidcon NYC",
+    "url": "https://www.nyc.droidcon.com",
+    "startDate": "2021-11-10",
+    "endDate": "2021-11-11",
+    "city": "Brooklyn, NYC",
+    "country": "U.S.A."
   },
   {
     "name": "droidcon Italy",
