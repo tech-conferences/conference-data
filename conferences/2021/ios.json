@@ -20,6 +20,13 @@
     "twitter": "@swiftheroes_it"
   },
   {
+    "name": "WWDC - Apple Developer Conference",
+    "url": "https://developer.apple.com/wwdc21",
+    "startDate": "2021-06-07",
+    "endDate": "2021-06-11",
+    "online": true
+  },
+  {
     "name": "ADDC - App Design & Development",
     "url": "https://addconf.com/2020",
     "startDate": "2021-06-23",
@@ -35,12 +42,5 @@
     "city": "Leeds",
     "country": "U.K.",
     "twitter": "@Swift_Leeds"
-  },
-  {
-    "name": "WWDC - Apple Developer Conference",
-    "url": "https://developer.apple.com/wwdc21",
-    "startDate": "2021-06-07",
-    "endDate": "2021-06-11",
-    "online": true
   }
 ]

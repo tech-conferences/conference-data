@@ -278,18 +278,6 @@
     "cocUrl": "https://usa.jsworldconference.com/code-of-conduct/"
   },
   {
-    "name": "Lazy Load",
-    "url": "https://www.webdirections.org/lazyload",
-    "startDate": "2021-06-11",
-    "endDate": "2021-06-11",
-    "online": true,
-    "cfpUrl": "https://www.webdirections.org/lazyload/#speak",
-    "cfpEndDate": "2021-02-28",
-    "twitter": "@webdirections",
-    "cocUrl": "https://www.webdirections.org/web-directions-event-code-of-conduct/",
-    "offersSignLanguageOrCC": true
-  },
-  {
     "name": "Angular Virtual Conference",
     "url": "https://www.2020twenty.net/angular-virtual-conference-2021/",
     "startDate": "2021-05-28",
@@ -312,6 +300,14 @@
     "cocUrl": "https://angular.geekle.us/code-of-conduct"
   },
   {
+    "name": "OpenJS World",
+    "url": "https://openjsf.org/openjs-world-2021/",
+    "startDate": "2021-06-02",
+    "endDate": "2021-06-02",
+    "online": true,
+    "cocUrl": "https://events.linuxfoundation.org/about/code-of-conduct/"
+  },
+  {
     "name": "JavaScript fwdays",
     "url": "https://fwdays.com/en/event/javascript-fwdays-2021",
     "startDate": "2021-06-05",
@@ -322,12 +318,13 @@
     "twitter": "@fwdays"
   },
   {
-    "name": "OpenJS World",
-    "url": "https://openjsf.org/openjs-world-2021/",
-    "startDate": "2021-06-02",
-    "endDate": "2021-06-02",
+    "name": "React Day Norway",
+    "url": "https://reactnorway.com",
+    "startDate": "2021-06-09",
+    "endDate": "2021-06-09",
     "online": true,
-    "cocUrl": "https://events.linuxfoundation.org/about/code-of-conduct/"
+    "twitter": "@ReactNorway",
+    "cocUrl": "https://berlincodeofconduct.org/"
   },
   {
     "name": "JSNation Live",
@@ -348,6 +345,18 @@
     "online": true,
     "twitter": "@Frontend_Love",
     "cocUrl": "https://africa.jsworldconference.com/code-of-conduct/"
+  },
+  {
+    "name": "Lazy Load",
+    "url": "https://www.webdirections.org/lazyload",
+    "startDate": "2021-06-11",
+    "endDate": "2021-06-11",
+    "online": true,
+    "cfpUrl": "https://www.webdirections.org/lazyload/#speak",
+    "cfpEndDate": "2021-02-28",
+    "twitter": "@webdirections",
+    "cocUrl": "https://www.webdirections.org/web-directions-event-code-of-conduct/",
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "React Virtual Conference",
@@ -372,39 +381,6 @@
     "cocUrl": "https://enterjs.de/code_of_conduct_en.php"
   },
   {
-    "name": "Code",
-    "url": "https://www.webdirections.org/code",
-    "startDate": "2021-09-17",
-    "endDate": "2021-09-17",
-    "online": true,
-    "cfpUrl": "https://www.webdirections.org/code#speak",
-    "cfpEndDate": "2021-03-05",
-    "twitter": "@webdirections",
-    "cocUrl": "https://www.webdirections.org/web-directions-event-code-of-conduct/",
-    "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "React Day Norway",
-    "url": "https://reactnorway.com",
-    "startDate": "2021-06-09",
-    "endDate": "2021-06-09",
-    "online": true,
-    "twitter": "@ReactNorway",
-    "cocUrl": "https://berlincodeofconduct.org/"
-  },
-  {
-    "name": "Global Scope",
-    "url": "https://www.webdirections.org/globalscope",
-    "startDate": "2021-07-23",
-    "endDate": "2021-07-23",
-    "online": true,
-    "cfpUrl": "https://www.webdirections.org/globalscope#speak",
-    "cfpEndDate": "2021-03-05",
-    "twitter": "@webdirections",
-    "cocUrl": "https://www.webdirections.org/web-directions-event-code-of-conduct/",
-    "offersSignLanguageOrCC": true
-  },
-  {
     "name": "jsday",
     "url": "https://2021.jsday.it",
     "startDate": "2021-07-06",
@@ -424,6 +400,18 @@
     "country": "Spain",
     "twitter": "@jscamp",
     "cocUrl": "https://jscamp.tech/code-of-conduct/"
+  },
+  {
+    "name": "Global Scope",
+    "url": "https://www.webdirections.org/globalscope",
+    "startDate": "2021-07-23",
+    "endDate": "2021-07-23",
+    "online": true,
+    "cfpUrl": "https://www.webdirections.org/globalscope#speak",
+    "cfpEndDate": "2021-03-05",
+    "twitter": "@webdirections",
+    "cocUrl": "https://www.webdirections.org/web-directions-event-code-of-conduct/",
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "JavaScript and Friends",
@@ -456,6 +444,18 @@
     "online": false,
     "twitter": "@renderATL",
     "cocUrl": "https://www.renderatl.com/code-of-conduct"
+  },
+  {
+    "name": "Code",
+    "url": "https://www.webdirections.org/code",
+    "startDate": "2021-09-17",
+    "endDate": "2021-09-17",
+    "online": true,
+    "cfpUrl": "https://www.webdirections.org/code#speak",
+    "cfpEndDate": "2021-03-05",
+    "twitter": "@webdirections",
+    "cocUrl": "https://www.webdirections.org/web-directions-event-code-of-conduct/",
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "JSConf Budapest",
