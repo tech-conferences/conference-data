@@ -361,15 +361,7 @@
     "offersSignLanguageOrCC": true
   },
   {
-    "name": "DeepSource Next",
-    "url": "https://deepsource.io/next",
-    "startDate": "2021-05-18",
-    "endDate": "2021-05-18",
-    "online": true,
-    "twitter": "@DeepSourceHQ"
-  },
-  {
-    "name": "Codemotion Online Tech Conference",
+    "name": "Codemotion",
     "url": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-spring",
     "startDate": "2021-05-18",
     "endDate": "2021-05-20",
@@ -432,21 +424,20 @@
     "cocUrl": "https://gotoaarhus.com/2021/pages/code-of-conduct"
   },
   {
+    "name": "DeepSource Next",
+    "url": "https://deepsource.io/next",
+    "startDate": "2021-06-08",
+    "endDate": "2021-06-08",
+    "online": true,
+    "twitter": "@DeepSourceHQ"
+  },
+  {
     "name": "Wild West Hackin’ Fest - Way West",
     "url": "https://wildwesthackinfest.com/way-west",
     "startDate": "2021-06-16",
     "endDate": "2021-06-18",
-    "online": true
-  },
-  {
-    "name": "DevBreak",
-    "url": "https://www.devbreak.io",
-    "startDate": "2021-06-17",
-    "endDate": "2021-06-18",
-    "city": "Bouville",
-    "country": "France",
-    "twitter": "@DevBreak20",
-    "cocUrl": "https://www.devbreak.io/code-of-conduct"
+    "city": "Sparks, NV",
+    "country": "U.S.A."
   },
   {
     "name": "GitOps Summit",
@@ -486,26 +477,6 @@
     "cfpEndDate": "2021-05-31",
     "twitter": "@wearedevs",
     "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct"
-  },
-  {
-    "name": "Swiss Testing Day",
-    "url": "https://www.swisstestingday.ch/en",
-    "startDate": "2021-06-30",
-    "endDate": "2021-06-30",
-    "city": "Zurich",
-    "country": "Switzerland",
-    "twitter": "@SwissTesting",
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "Devoxx",
-    "url": "https://www.devoxx.fr",
-    "startDate": "2021-06-30",
-    "endDate": "2021-07-02",
-    "city": "Paris",
-    "country": "France",
-    "twitter": "@DevoxxFR",
-    "cocUrl": "https://www.devoxx.fr/code-of-conduct/"
   },
   {
     "name": "WorldFestival",
@@ -574,6 +545,16 @@
     "cocUrl": "https://2021.websummercamp.com/code-of-conduct"
   },
   {
+    "name": "DevBreak",
+    "url": "https://www.devbreak.io",
+    "startDate": "2021-09-08",
+    "endDate": "2021-09-09",
+    "city": "Bouville",
+    "country": "France",
+    "twitter": "@DevBreak20",
+    "cocUrl": "https://www.devbreak.io/code-of-conduct"
+  },
+  {
     "name": "fintech_devcon",
     "url": "http://fintechdevcon.io",
     "startDate": "2021-09-08",
@@ -596,6 +577,16 @@
     "cfpEndDate": "2021-07-31",
     "twitter": "@csharpcorner",
     "cocUrl": "https://azuresummit.live/code-of-conduct/"
+  },
+  {
+    "name": "Swiss Testing Day",
+    "url": "https://www.swisstestingday.ch/en",
+    "startDate": "2021-09-14",
+    "endDate": "2021-09-14",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "twitter": "@SwissTesting",
+    "offersSignLanguageOrCC": false
   },
   {
     "name": "REFACTR.TECH",
@@ -635,14 +626,26 @@
     "twitter": "@adalovedev"
   },
   {
-    "name": "Open Source Summit Europe",
+    "name": "Open Source Summit",
     "url": "https://events.linuxfoundation.org/open-source-summit-europe/",
-    "startDate": "2021-09-28",
-    "endDate": "2021-10-01",
+    "startDate": "2021-09-27",
+    "endDate": "2021-09-30",
+    "city": "Seattle, WA",
+    "country": "U.S.A.",
     "online": true,
     "cfpUrl": "https://events.linuxfoundation.org/open-source-summit-europe/program/cfp/",
     "cfpEndDate": "2021-06-13",
     "cocUrl": "https://events.linuxfoundation.org/open-source-summit-europe/attend/code-of-conduct/"
+  },
+  {
+    "name": "Devoxx",
+    "url": "https://www.devoxx.fr",
+    "startDate": "2021-09-29",
+    "endDate": "2021-10-01",
+    "city": "Paris",
+    "country": "France",
+    "twitter": "@DevoxxFR",
+    "cocUrl": "https://www.devoxx.fr/code-of-conduct/"
   },
   {
     "name": "Strange Loop",
@@ -680,7 +683,7 @@
     "cocUrl": "https://cwitc.org/code-of-conduct"
   },
   {
-    "name": "API Conference Berlin",
+    "name": "API Conference",
     "url": "https://apiconference.net/berlin",
     "startDate": "2021-10-11",
     "endDate": "2021-10-13",
@@ -701,7 +704,7 @@
     "offersSignLanguageOrCC": false
   },
   {
-    "name": "Serverless Architecture Conference Berlin",
+    "name": "Serverless Architecture Conference",
     "url": "https://serverless-architecture.io/berlin",
     "startDate": "2021-10-11",
     "endDate": "2021-10-13",
@@ -762,8 +765,8 @@
   {
     "name": "EuroSTAR Software Testing Conference",
     "url": "https://conference.eurostarsoftwaretesting.com/",
-    "startDate": "2021-11-01",
-    "endDate": "2021-11-04",
+    "startDate": "2021-09-28",
+    "endDate": "2021-09-30",
     "online": true,
     "twitter": "@esconfs",
     "offersSignLanguageOrCC": false
