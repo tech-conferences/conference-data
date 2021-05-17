@@ -117,5 +117,14 @@
     "cfpEndDate": "2021-03-29",
     "twitter": "@SymfonyCon",
     "cocUrl": "https://symfony.com/doc/current/contributing/code_of_conduct/care_team.html"
+  },
+  {
+    "name": "SymfonyWorld Online",
+    "url": "https://live.symfony.com/2021-world",
+    "startDate": "2021-06-17",
+    "endDate": "2021-06-18",
+    "twitter": "@symfony_live",
+    "cocUrl": "https://symfony.com/doc/current/contributing/code_of_conduct/care_team.html",
+    "online": true
   }
 ]
