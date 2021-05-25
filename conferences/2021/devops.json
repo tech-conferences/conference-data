@@ -438,9 +438,9 @@
     "startDate": "2021-06-29",
     "endDate": "2021-06-29",
     "online": true,
-    "twitter": "@devopsams",
     "cfpUrl": "https://sessionize.com/devopsdays-amsterdam-2021/",
     "cfpEndDate": "2021-05-31",
+    "twitter": "@devopsams",
     "cocUrl": "https://devopsdays.org/conduct/"
   },
   {
@@ -462,7 +462,7 @@
     "cfpUrl": "https://sessionize.com/containerdays-2021/",
     "cfpEndDate": "2021-04-30",
     "twitter": "@devopsdaysmsp"
-  },  
+  },
   {
     "name": "Devopsdays Porto Alegre",
     "url": "https://devopsdays.org/events/2021-porto-alegre/welcome/",
@@ -504,9 +504,9 @@
     "url": "https://devopsdays.org/events/2021-minneapolis/welcome/",
     "startDate": "2021-07-20",
     "endDate": "2021-07-21",
-    "online": true,
     "city": "Minneapolis, MN",
     "country": "U.S.A.",
+    "online": true,
     "twitter": "@devopsdaysmsp",
     "cocUrl": "https://devopsdays.org/conduct/"
   },
@@ -559,14 +559,6 @@
     "cfpUrl": "https://sessionize.com/devopsdayszh-2021/",
     "cfpEndDate": "2021-05-31",
     "twitter": "@DevOpsZH",
-    "cocUrl": "https://devopsdays.org/conduct/"
-  },
-  {
-    "name": "Devopsdays Cairo",
-    "url": "https://devopsdays.org/events/2021-cairo/welcome/",
-    "startDate": "2021-09-29",
-    "endDate": "2021-09-29",
-    "online": true,
     "cocUrl": "https://devopsdays.org/conduct/"
   },
   {
@@ -629,6 +621,14 @@
     "cfpUrl": "https://linuxfoundation.smapply.io/prog/oss_elc_2021/",
     "cfpEndDate": "2021-06-13",
     "cocUrl": "https://events.linuxfoundation.org/open-source-summit-europe/attend/code-of-conduct/"
+  },
+  {
+    "name": "Devopsdays Cairo",
+    "url": "https://devopsdays.org/events/2021-cairo/welcome/",
+    "startDate": "2021-09-29",
+    "endDate": "2021-09-29",
+    "online": true,
+    "cocUrl": "https://devopsdays.org/conduct/"
   },
   {
     "name": "Conf42: SRE",

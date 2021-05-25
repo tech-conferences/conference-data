@@ -370,6 +370,13 @@
     "cocUrl": "https://www.2020twenty.net/react-virtual-conference-2021/code-of-conduct/"
   },
   {
+    "name": "NextJs Conf",
+    "url": "https://nextjs.org/conf",
+    "startDate": "2021-06-15",
+    "endDate": "2021-06-15",
+    "online": true
+  },
+  {
     "name": "enterJS Vue Day",
     "url": "https://enterjs.de/vueday.php",
     "startDate": "2021-06-15",
@@ -557,12 +564,5 @@
     "cfpEndDate": "2021-08-31",
     "twitter": "@xtremejsconf",
     "cocUrl": "https://bit.ly/2NL4ehr."
-  },
-  {
-    "name": "NextJs Conf",
-    "url": "https://nextjs.org/conf",
-    "startDate": "2021-06-15",
-    "endDate": "2021-06-15",
-    "online": true
   }
 ]

@@ -372,6 +372,14 @@
     "cocUrl": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-spring/code-of-conduct"
   },
   {
+    "name": "Vewd.dev",
+    "url": "https://vewd.dev",
+    "startDate": "2021-05-26",
+    "endDate": "2021-05-27",
+    "online": true,
+    "twitter": "@vewd"
+  },
+  {
     "name": "F8 Refresh",
     "url": "https://developers.facebook.com/f8",
     "startDate": "2021-06-02",
@@ -554,6 +562,19 @@
     "online": false,
     "twitter": "@WebSummerCamp",
     "cocUrl": "https://2021.websummercamp.com/code-of-conduct"
+  },
+  {
+    "name": "Infobip Shift",
+    "url": "https://shift.infobip.com",
+    "startDate": "2021-09-07",
+    "endDate": "2021-09-08",
+    "city": "Split",
+    "country": "Croatia",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/shift-dev-2021",
+    "cfpEndDate": "2021-07-31",
+    "twitter": "@shiftconf_co",
+    "cocUrl": "https://shift.infobip.com/code/"
   },
   {
     "name": "DevBreak",
@@ -752,6 +773,16 @@
     "online": true
   },
   {
+    "name": "Infoshare",
+    "url": "https://infoshare.pl",
+    "startDate": "2021-10-14",
+    "endDate": "2021-10-15",
+    "city": "Gdansk",
+    "country": "Poland",
+    "online": true,
+    "cocUrl": "https://infoshare.pl/code-of-conduct.html"
+  },
+  {
     "name": "HackConf",
     "url": "https://www.hackconf.bg",
     "startDate": "2021-10-22",
@@ -826,36 +857,5 @@
     "online": false,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "Vewd.dev",
-    "url": "https://vewd.dev",
-    "startDate": "2021-05-26",
-    "endDate": "2021-05-27",
-    "twitter": "@vewd",
-    "online": true
-  },
-  {
-    "name": "Infoshare",
-    "url": "https://infoshare.pl",
-    "startDate": "2021-10-14",
-    "endDate": "2021-10-15",
-    "city": "Gdansk",
-    "country": "Poland",
-    "cocUrl": "https://infoshare.pl/code-of-conduct.html",
-    "online": true
-  },
-  {
-    "name": "Infobip Shift",
-    "url": "https://shift.infobip.com",
-    "startDate": "2021-09-07",
-    "endDate": "2021-09-08",
-    "city": "Split",
-    "country": "Croatia",
-    "twitter": "@shiftconf_co",
-    "cfpUrl": "https://sessionize.com/shift-dev-2021",
-    "cfpEndDate": "2021-07-31",
-    "cocUrl": "https://shift.infobip.com/code/",
-    "online": true
   }
 ]
