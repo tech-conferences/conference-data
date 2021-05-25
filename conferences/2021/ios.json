@@ -35,6 +35,18 @@
     "twitter": "@addconf"
   },
   {
+    "name": "iConf",
+    "url": "https://geekle.us/ios",
+    "startDate": "2021-09-02",
+    "endDate": "2021-09-03",
+    "online": true,
+    "cfpUrl": "https://forms.gle/3A3shzaDao9HWtAG9",
+    "cfpEndDate": "2021-08-27",
+    "twitter": "@GeekleOfficial",
+    "cocUrl": "https://wp.geekle.us/code-of-conduct",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "SwiftLeeds",
     "url": "https://www.swiftleeds.co.uk",
     "startDate": "2021-10-07",
@@ -42,17 +54,5 @@
     "city": "Leeds",
     "country": "U.K.",
     "twitter": "@Swift_Leeds"
-  },
-  {
-    "name": "iConf",
-    "url": "https://geekle.us/ios",
-    "startDate": "2021-09-02",
-    "endDate": "2021-09-03",
-    "twitter": "@GeekleOfficial",
-    "cfpUrl": "https://forms.gle/3A3shzaDao9HWtAG9",
-    "cfpEndDate": "2021-08-27",
-    "cocUrl": "https://wp.geekle.us/code-of-conduct",
-    "online": true,
-    "offersSignLanguageOrCC": true
   }
 ]
