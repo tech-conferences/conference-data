@@ -113,5 +113,18 @@
     "startDate": "2021-09-15",
     "endDate": "2021-09-16",
     "online": true
+  },
+  {
+    "name": "Washington Strategic Leadership Conference",
+    "url": "https://www.goldencri.us",
+    "startDate": "2021-09-12",
+    "endDate": "2021-09-14",
+    "city": "Greenbelt",
+    "country": "U.S.A.",
+    "twitter": "@goldencri",
+    "cfpUrl": "https://www.goldencri.us/call-for-papers",
+    "cfpEndDate": "2021-09-01",
+    "online": false,
+    "offersSignLanguageOrCC": true
   }
 ]
