@@ -105,6 +105,17 @@
     "twitter": "@ApiPlatform"
   },
   {
+    "name": "International PHP Conference Munich",
+    "url": "https://phpconference.com/munich",
+    "startDate": "2021-10-25",
+    "endDate": "2021-10-29",
+    "city": "Munich",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@phpconference",
+    "cocUrl": "https://phpconference.com/code-of-conduct/"
+  },
+  {
     "name": "TYPO3 Camp RheinRuhr",
     "url": "https://www.typo3camp-rheinruhr.de",
     "startDate": "2021-11-05",
@@ -126,16 +137,5 @@
     "cfpEndDate": "2021-03-29",
     "twitter": "@SymfonyCon",
     "cocUrl": "https://symfony.com/doc/current/contributing/code_of_conduct/care_team.html"
-  },
-  {
-    "name": "International PHP Conference Munich",
-    "url": "https://phpconference.com/munich",
-    "startDate": "2021-10-25",
-    "endDate": "2021-10-29",
-    "city": "Munich",
-    "country": "Germany",
-    "twitter": "@phpconference",
-    "cocUrl": "https://phpconference.com/code-of-conduct/",
-    "online": true
   }
 ]
