@@ -309,5 +309,16 @@
     "online": true,
     "twitter": "@ODSC",
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "ML Conference Singapore",
+    "url": "https://mlconference.ai/singapore",
+    "startDate": "2021-11-23",
+    "endDate": "2021-11-25",
+    "twitter": "@mlconference",
+    "cfpUrl": "https://mlconference.ai/call-for-papers",
+    "cfpEndDate": "2021-05-24",
+    "cocUrl": "https://mlconference.ai/code-of-conduct/",
+    "online": true
   }
 ]
