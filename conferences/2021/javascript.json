@@ -308,6 +308,14 @@
     "cocUrl": "https://events.linuxfoundation.org/about/code-of-conduct/"
   },
   {
+    "name": "React Wednesdays All-Day Edition",
+    "url": "https://www.telerik.com/react-wednesdays-all-day-edition",
+    "startDate": "2021-06-02",
+    "endDate": "2021-06-02",
+    "online": true,
+    "twitter": "@KendoUI"
+  },
+  {
     "name": "JavaScript fwdays",
     "url": "https://fwdays.com/en/event/javascript-fwdays-2021",
     "startDate": "2021-06-05",
@@ -564,13 +572,5 @@
     "cfpEndDate": "2021-08-31",
     "twitter": "@xtremejsconf",
     "cocUrl": "https://bit.ly/2NL4ehr."
-  },
-  {
-    "name": "React Wednesdays All-Day Edition",
-    "url": "https://www.telerik.com/react-wednesdays-all-day-edition",
-    "startDate": "2021-06-02",
-    "endDate": "2021-06-02",
-    "twitter": "@KendoUI",
-    "online": true
   }
 ]
