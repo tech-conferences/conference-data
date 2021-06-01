@@ -515,6 +515,17 @@
     "cfpEndDate": "2021-06-04"
   },
   {
+    "name": "mobileWeek",
+    "url": "https://mobileweek.co",
+    "startDate": "2021-08-17",
+    "endDate": "2021-08-19",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/mobileweek-2021",
+    "cfpEndDate": "2021-06-18",
+    "twitter": "@DevNetwork_",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/"
+  },
+  {
     "name": "Voxxed Days Downunder",
     "url": "https://australia.voxxeddays.com",
     "startDate": "2021-08-23",
@@ -865,16 +876,5 @@
     "online": false,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "mobileWeek",
-    "url": "https://mobileweek.co",
-    "startDate": "2021-08-17",
-    "endDate": "2021-08-19",
-    "twitter": "@DevNetwork_",
-    "cfpUrl": "https://sessionize.com/mobileweek-2021",
-    "cfpEndDate": "2021-06-18",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "online": true
   }
 ]
