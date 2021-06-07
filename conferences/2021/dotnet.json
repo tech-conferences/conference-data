@@ -135,5 +135,16 @@
     "online": true,
     "twitter": "@update_conf",
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "Music City Code",
+    "url": "https://www.musiccitytech.com/conferences/music-city-code",
+    "startDate": "2021-09-15",
+    "endDate": "2021-09-17",
+    "twitter": "@MusicCityTech",
+    "cfpUrl": "https://sessionize.com/music-city-tech-2021",
+    "cfpEndDate": "2021-06-30",
+    "cocUrl": "https://www.musiccitytech.com/about/code-of-conduct/",
+    "online": true
   }
 ]
