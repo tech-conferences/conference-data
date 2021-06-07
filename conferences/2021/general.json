@@ -878,7 +878,18 @@
     "cocUrl": "https://devternity.com/code_of_conduct.html"
   },
   {
-    "name": "Codemotion Online Tech Conference - English Autumn Edition",
+    "name": "Codemotion - Italian Edition",
+    "url": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-italian-edition-autumn",
+    "startDate": "2021-11-09",
+    "endDate": "2021-11-11",
+    "twitter": "@CodemotionIT",
+    "cfpUrl": "https://extra.codemotion.com/onlineconf21-autumn-cfp",
+    "cfpEndDate": "2021-07-09",
+    "cocUrl": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-italian-edition-autumn/code-of-conduct",
+    "online": true
+  },
+  {
+    "name": "Codemotion",
     "url": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-autumn",
     "startDate": "2021-11-30",
     "endDate": "2021-12-02",
