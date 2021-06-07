@@ -108,18 +108,18 @@
     "cfpEndDate": "2021-04-15"
   },
   {
-    "name": "RESHAPE VIRTUAL SUMMIT",
-    "url": "https://reshapesummit.com",
-    "startDate": "2021-09-15",
-    "endDate": "2021-09-16",
-    "online": true
-  },
-  {
     "name": "Roadmap to Billions Conference",
     "url": "https://www.blackwomentalktech.com",
     "startDate": "2021-08-12",
     "endDate": "2021-08-13",
-    "twitter": "@BWTalkTech",
+    "online": true,
+    "twitter": "@BWTalkTech"
+  },
+  {
+    "name": "RESHAPE VIRTUAL SUMMIT",
+    "url": "https://reshapesummit.com",
+    "startDate": "2021-09-15",
+    "endDate": "2021-09-16",
     "online": true
   }
 ]

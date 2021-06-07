@@ -802,6 +802,17 @@
     "cocUrl": "https://infoshare.pl/code-of-conduct.html"
   },
   {
+    "name": "Codemotion - Spanish Edition",
+    "url": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-spanish-edition-autumn",
+    "startDate": "2021-10-19",
+    "endDate": "2021-10-21",
+    "online": true,
+    "cfpUrl": "https://extra.codemotion.com/onlineconf21-autumn-cfp",
+    "cfpEndDate": "2021-07-09",
+    "twitter": "@CodemoMadrid",
+    "cocUrl": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-spanish-edition-autumn/code-of-conduct"
+  },
+  {
     "name": "HackConf",
     "url": "https://www.hackconf.bg",
     "startDate": "2021-10-22",
@@ -859,6 +870,28 @@
     "cocUrl": "https://www.thebigtransaction.com/policies/"
   },
   {
+    "name": "Codemotion - Italian Edition",
+    "url": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-italian-edition-autumn",
+    "startDate": "2021-11-09",
+    "endDate": "2021-11-11",
+    "online": true,
+    "cfpUrl": "https://extra.codemotion.com/onlineconf21-autumn-cfp",
+    "cfpEndDate": "2021-07-09",
+    "twitter": "@CodemotionIT",
+    "cocUrl": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-italian-edition-autumn/code-of-conduct"
+  },
+  {
+    "name": "Codemotion",
+    "url": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-autumn",
+    "startDate": "2021-11-30",
+    "endDate": "2021-12-02",
+    "online": true,
+    "cfpUrl": "https://extra.codemotion.com/onlineconf21-autumn-cfp",
+    "cfpEndDate": "2021-07-09",
+    "twitter": "@CodemotionWorld",
+    "cocUrl": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-autumn/code-of-conduct"
+  },
+  {
     "name": "IT-Tage Remote",
     "url": "http://www.it-tage.org",
     "startDate": "2021-12-06",
@@ -876,38 +909,5 @@
     "online": false,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "Codemotion - Spanish Edition",
-    "url": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-spanish-edition-autumn",
-    "startDate": "2021-10-19",
-    "endDate": "2021-10-21",
-    "twitter": "@CodemoMadrid",
-    "cfpUrl": "https://extra.codemotion.com/onlineconf21-autumn-cfp",
-    "cfpEndDate": "2021-07-09",
-    "cocUrl": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-spanish-edition-autumn/code-of-conduct",
-    "online": true
-  },
-  {
-    "name": "Codemotion - Italian Edition",
-    "url": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-italian-edition-autumn",
-    "startDate": "2021-11-09",
-    "endDate": "2021-11-11",
-    "twitter": "@CodemotionIT",
-    "cfpUrl": "https://extra.codemotion.com/onlineconf21-autumn-cfp",
-    "cfpEndDate": "2021-07-09",
-    "cocUrl": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-italian-edition-autumn/code-of-conduct",
-    "online": true
-  },
-  {
-    "name": "Codemotion",
-    "url": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-autumn",
-    "startDate": "2021-11-30",
-    "endDate": "2021-12-02",
-    "twitter": "@CodemotionWorld",
-    "cfpUrl": "https://extra.codemotion.com/onlineconf21-autumn-cfp",
-    "cfpEndDate": "2021-07-09",
-    "cocUrl": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-autumn/code-of-conduct",
-    "online": true
   }
 ]

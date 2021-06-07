@@ -69,6 +69,15 @@
     "cocUrl": "https://extreme-java-camp.de/code-of-conduct/"
   },
   {
+    "name": "jLove",
+    "url": "https://jlove.konfy.care",
+    "startDate": "2021-06-25",
+    "endDate": "2021-06-26",
+    "online": true,
+    "twitter": "@jloveconf",
+    "cocUrl": "https://berlincodeofconduct.org"
+  },
+  {
     "name": "JavaZone",
     "url": "http://javazone.no",
     "startDate": "2021-09-08",
@@ -134,14 +143,5 @@
     "online": true,
     "twitter": "@nofluff",
     "cocUrl": "https://archconf.com/home/code_of_conduct"
-  },
-  {
-    "name": "jLove",
-    "url": "https://jlove.konfy.care",
-    "startDate": "2021-06-25",
-    "endDate": "2021-06-26",
-    "twitter": "@jloveconf",
-    "cocUrl": "https://berlincodeofconduct.org",
-    "online": true
   }
 ]

@@ -73,6 +73,23 @@
     "twitter": "@conf42com"
   },
   {
+    "name": "Scipy",
+    "url": "https://scipy2021.scipy.org",
+    "startDate": "2021-07-12",
+    "endDate": "2021-07-16",
+    "online": true,
+    "twitter": "@SciPyConf"
+  },
+  {
+    "name": "EuroPython",
+    "url": "https://ep2021.europython.eu",
+    "startDate": "2021-07-26",
+    "endDate": "2021-08-01",
+    "online": true,
+    "twitter": "@europython",
+    "cocUrl": "https://ep2021.europython.eu/coc/"
+  },
+  {
     "name": "PyCon Au",
     "url": "http://2021.pycon.org.au",
     "startDate": "2021-09-10",
@@ -104,22 +121,5 @@
     "cfpEndDate": "2021-07-31",
     "twitter": "@xtremepython",
     "cocUrl": "https://bit.ly/2NL4ehr"
-  },
-  {
-    "name": "EuroPython",
-    "url": "https://ep2021.europython.eu",
-    "startDate": "2021-07-26",
-    "endDate": "2021-08-01",
-    "twitter": "@europython",
-    "cocUrl": "https://ep2021.europython.eu/coc/",
-    "online": true
-  },
-  {
-    "name": "Scipy",
-    "url": "https://scipy2021.scipy.org",
-    "startDate": "2021-07-12",
-    "endDate": "2021-07-16",
-    "twitter": "@SciPyConf",
-    "online": true
   }
 ]
