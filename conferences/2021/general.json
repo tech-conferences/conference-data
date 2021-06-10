@@ -918,5 +918,16 @@
     "twitter": "@scenicsummit",
     "cocUrl": "https://sceniccitysummit.com/code-of-conduct/",
     "online": true
+  },
+  {
+    "name": "Kansas City Developer Conference",
+    "url": "https://www.kcdc.info",
+    "startDate": "2021-09-15",
+    "endDate": "2021-09-17",
+    "city": "Kansas City, Mo",
+    "country": "U.S.A.",
+    "twitter": "@kc_dc",
+    "cocUrl": "https://www.kcdc.info/code-of-conduct",
+    "online": false
   }
 ]
