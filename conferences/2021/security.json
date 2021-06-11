@@ -159,5 +159,16 @@
     "cfpUrl": "https://events.linuxfoundation.org/linux-security-summit-europe/program/cfp/",
     "cfpEndDate": "2021-06-27",
     "cocUrl": "https://events.linuxfoundation.org/linux-security-summit-europe/attend/code-of-conduct/"
+  },
+  {
+    "name": "Qubit Conference Prague",
+    "url": "https://prague.qubitconference.com",
+    "startDate": "2021-09-08",
+    "endDate": "2021-09-09",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "cfpUrl": "https://prague.qubitconference.com/call-speakers-form-prague",
+    "cfpEndDate": "2021-06-30",
+    "online": true
   }
 ]
