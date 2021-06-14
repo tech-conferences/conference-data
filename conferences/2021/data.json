@@ -341,5 +341,12 @@
     "country": "United Arab Emirates",
     "online": false,
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "Apache Airflow Summit",
+    "url": "https://airflowsummit.org",
+    "startDate": "2021-07-08",
+    "endDate": "2021-07-16",
+    "online": true
   }
 ]
