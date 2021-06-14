@@ -931,11 +931,22 @@
     "online": false
   },
   {
-    "name": "BIG BFSI FUTURE TECH SHOW",
-    "url": "https://tresconglobal.com/conferences/bfsi/india/free-pass-registration",
+    "name": "Big BFSI Future Tech Show",
+    "url": "https://tresconglobal.com/conferences/bfsi/india/",
     "startDate": "2021-07-06",
     "endDate": "2021-07-06",
     "twitter": "@TresconIndia",
     "online": true
+  },
+  {
+    "name": "QA Fest",
+    "url": "http://qafest.com/en",
+    "startDate": "2021-10-01",
+    "endDate": "2021-10-02",
+    "city": "Kiev",
+    "country": "Ukraine",
+    "twitter": "@qafestua",
+    "cocUrl": "http://qafest.com/wp-content/uploads/2019/03/code_of_conduct.pdf",
+    "online": false
   }
 ]
