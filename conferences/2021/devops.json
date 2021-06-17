@@ -620,14 +620,15 @@
   },
   {
     "name": "Open Source Summit + Embedded Linux Conference",
-    "url": "https://events.linuxfoundation.org/open-source-summit-europe/",
-    "startDate": "2021-09-28",
-    "endDate": "2021-10-01",
-    "city": "Dublin",
-    "country": "Ireland",
+    "url": "https://events.linuxfoundation.org/open-source-summit-north-america/",
+    "startDate": "2021-09-27",
+    "endDate": "2021-09-30",
+    "city": "Seattle, WA",
+    "country": "U.S.A.",
+    "online": true,
     "cfpUrl": "https://linuxfoundation.smapply.io/prog/oss_elc_2021/",
     "cfpEndDate": "2021-06-13",
-    "cocUrl": "https://events.linuxfoundation.org/open-source-summit-europe/attend/code-of-conduct/"
+    "cocUrl": "https://events.linuxfoundation.org/open-source-summit-north-america/attend/code-of-conduct/"
   },
   {
     "name": "Devopsdays Cairo",
