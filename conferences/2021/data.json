@@ -311,6 +311,17 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "IT NonStop",
+    "url": "https://it-nonstop.net",
+    "startDate": "2021-11-18",
+    "endDate": "2021-11-20",
+    "online": true,
+    "cfpUrl": "https://it-nonstop.net/become-a-speaker",
+    "cfpEndDate": "2021-06-30",
+    "twitter": "@it_nonstop",
+    "cocUrl": "https://it-nonstop.net/about-the-conference/code-of-conduct"
+  },
+  {
     "name": "ML Conference Singapore",
     "url": "https://mlconference.ai/singapore",
     "startDate": "2021-11-23",
@@ -320,5 +331,29 @@
     "cfpEndDate": "2021-05-24",
     "twitter": "@mlconference",
     "cocUrl": "https://mlconference.ai/code-of-conduct/"
+  },
+  {
+    "name": "Big Data Analytics and Data Science",
+    "url": "https://crgconferences.com/datascience",
+    "startDate": "2021-11-03",
+    "endDate": "2021-11-04",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "online": false,
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "Apache Airflow Summit",
+    "url": "https://airflowsummit.org",
+    "startDate": "2021-07-08",
+    "endDate": "2021-07-16",
+    "online": true
+  },
+  {
+    "name": "DOAG (Biggest European Conference about Oracle DB topics)",
+    "url": "https://2021.doag.org/de/home",
+    "startDate": "2021-11-16",
+    "endDate": "2021-11-18",
+    "online": true
   }
 ]

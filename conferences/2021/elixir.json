@@ -33,5 +33,16 @@
     "cfpUrl": "https://www.papercall.io/alchemy-conf",
     "cfpEndDate": "2021-04-30",
     "twitter": "@Alchemy_Conf"
+  },
+  {
+    "name": "ElixirConf EU",
+    "url": "https://www.elixirconf.eu",
+    "startDate": "2021-09-09",
+    "endDate": "2021-09-10",
+    "city": "Warsaw",
+    "country": "Poland",
+    "twitter": "@elixirconfeu",
+    "cocUrl": "https://www.elixirconf.eu/assets/images/CoCEU.pdf",
+    "online": true
   }
 ]

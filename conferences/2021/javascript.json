@@ -473,18 +473,6 @@
     "offersSignLanguageOrCC": true
   },
   {
-    "name": "JSConf Budapest",
-    "url": "https://jsconfbp.com",
-    "startDate": "2021-09-23",
-    "endDate": "2021-09-24",
-    "city": "Budapest",
-    "country": "Hungary",
-    "online": false,
-    "cfpUrl": "https://jsconfbp.com/call-for-speakers-2021",
-    "cfpEndDate": "2021-03-31",
-    "twitter": "@jsconfbp"
-  },
-  {
     "name": "International JavaScript Conference New York",
     "url": "https://javascript-conference.com/new-york",
     "startDate": "2021-09-27",
@@ -516,6 +504,17 @@
     "country": "Germany",
     "online": true,
     "twitter": "@js_days"
+  },
+  {
+    "name": "React Conference Live",
+    "url": "https://www.reactlive.nl",
+    "startDate": "2021-10-07",
+    "endDate": "2021-10-08",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": true,
+    "twitter": "@reactlivenl",
+    "cocUrl": "https://reactlive.nl/code-of-conduct"
   },
   {
     "name": "React Advanced London",
@@ -582,6 +581,17 @@
     "country": "Netherlands",
     "twitter": "@Frontend_Love",
     "cocUrl": "https://jsworldconference.com/code-of-conduct/",
+    "online": true
+  },
+  {
+    "name": "Vue.js London Conference",
+    "url": "https://vuejs.london",
+    "startDate": "2021-10-20",
+    "endDate": "2021-10-21",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@vue_london",
+    "cocUrl": "https://vuejs.london/code-of-conduct",
     "online": true
   }
 ]

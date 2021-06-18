@@ -678,15 +678,15 @@
   },
   {
     "name": "Open Source Summit",
-    "url": "https://events.linuxfoundation.org/open-source-summit-europe/",
+    "url": "https://events.linuxfoundation.org/open-source-summit-north-america/",
     "startDate": "2021-09-27",
     "endDate": "2021-09-30",
     "city": "Seattle, WA",
     "country": "U.S.A.",
     "online": true,
-    "cfpUrl": "https://events.linuxfoundation.org/open-source-summit-europe/program/cfp/",
+    "cfpUrl": "https://events.linuxfoundation.org/open-source-summit-north-america/program/cfp/",
     "cfpEndDate": "2021-06-13",
-    "cocUrl": "https://events.linuxfoundation.org/open-source-summit-europe/attend/code-of-conduct/"
+    "cocUrl": "https://events.linuxfoundation.org/open-source-summit-north-america/attend/code-of-conduct/"
   },
   {
     "name": "EuroSTAR Software Testing Conference",
@@ -802,6 +802,17 @@
     "cocUrl": "https://infoshare.pl/code-of-conduct.html"
   },
   {
+    "name": "Codemotion - Spanish Edition",
+    "url": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-spanish-edition-autumn",
+    "startDate": "2021-10-19",
+    "endDate": "2021-10-21",
+    "online": true,
+    "cfpUrl": "https://extra.codemotion.com/onlineconf21-autumn-cfp",
+    "cfpEndDate": "2021-07-09",
+    "twitter": "@CodemoMadrid",
+    "cocUrl": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-spanish-edition-autumn/code-of-conduct"
+  },
+  {
     "name": "HackConf",
     "url": "https://www.hackconf.bg",
     "startDate": "2021-10-22",
@@ -859,6 +870,28 @@
     "cocUrl": "https://www.thebigtransaction.com/policies/"
   },
   {
+    "name": "Codemotion - Italian Edition",
+    "url": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-italian-edition-autumn",
+    "startDate": "2021-11-09",
+    "endDate": "2021-11-11",
+    "online": true,
+    "cfpUrl": "https://extra.codemotion.com/onlineconf21-autumn-cfp",
+    "cfpEndDate": "2021-07-09",
+    "twitter": "@CodemotionIT",
+    "cocUrl": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-italian-edition-autumn/code-of-conduct"
+  },
+  {
+    "name": "Codemotion",
+    "url": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-autumn",
+    "startDate": "2021-11-30",
+    "endDate": "2021-12-02",
+    "online": true,
+    "cfpUrl": "https://extra.codemotion.com/onlineconf21-autumn-cfp",
+    "cfpEndDate": "2021-07-09",
+    "twitter": "@CodemotionWorld",
+    "cocUrl": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-autumn/code-of-conduct"
+  },
+  {
     "name": "IT-Tage Remote",
     "url": "http://www.it-tage.org",
     "startDate": "2021-12-06",
@@ -876,5 +909,54 @@
     "online": false,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
+  },
+  {
+    "name": "Scenic City Summit",
+    "url": "https://sceniccitysummit.com",
+    "startDate": "2021-09-24",
+    "endDate": "2021-09-24",
+    "twitter": "@scenicsummit",
+    "cocUrl": "https://sceniccitysummit.com/code-of-conduct/",
+    "online": true
+  },
+  {
+    "name": "Kansas City Developer Conference",
+    "url": "https://www.kcdc.info",
+    "startDate": "2021-09-15",
+    "endDate": "2021-09-17",
+    "city": "Kansas City, MO",
+    "country": "U.S.A.",
+    "twitter": "@kc_dc",
+    "cocUrl": "https://www.kcdc.info/code-of-conduct",
+    "online": false
+  },
+  {
+    "name": "Big BFSI Future Tech Show",
+    "url": "https://tresconglobal.com/conferences/bfsi/india/",
+    "startDate": "2021-07-06",
+    "endDate": "2021-07-06",
+    "twitter": "@TresconIndia",
+    "online": true
+  },
+  {
+    "name": "QA Fest",
+    "url": "http://qafest.com/en",
+    "startDate": "2021-10-01",
+    "endDate": "2021-10-02",
+    "city": "Kiev",
+    "country": "Ukraine",
+    "twitter": "@qafestua",
+    "cocUrl": "http://qafest.com/wp-content/uploads/2019/03/code_of_conduct.pdf",
+    "online": false
+  },
+  {
+    "name": "Live! 360",
+    "url": "https://live360events.com/events/orlando-2021/Home.aspx",
+    "startDate": "2021-11-15",
+    "endDate": "2021-11-19",
+    "city": "Orlando, FL",
+    "country": "U.S.A.",
+    "twitter": "@live360events",
+    "online": false
   }
 ]
