@@ -115,6 +115,17 @@
     "cocUrl": "https://vslive.com/pages/harassment.aspx"
   },
   {
+    "name": "Music City Code",
+    "url": "https://www.musiccitytech.com/conferences/music-city-code",
+    "startDate": "2021-09-15",
+    "endDate": "2021-09-17",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/music-city-tech-2021",
+    "cfpEndDate": "2021-06-30",
+    "twitter": "@MusicCityTech",
+    "cocUrl": "https://www.musiccitytech.com/about/code-of-conduct/"
+  },
+  {
     "name": "BASTA! Hybrid",
     "url": "https://basta.net/mainz",
     "startDate": "2021-09-20",
@@ -126,6 +137,19 @@
     "cocUrl": "https://basta.net/code-of-conduct/"
   },
   {
+    "name": "Prairie Code",
+    "url": "https://prairiecode.amegala.com",
+    "startDate": "2021-09-23",
+    "endDate": "2021-09-24",
+    "city": "Des Moines, IA",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://www.amegala.com/#/cfp",
+    "cfpEndDate": "2021-06-15",
+    "twitter": "@amegala",
+    "cocUrl": "https://prairiecode.amegala.com/Conduct"
+  },
+  {
     "name": "Update Conference Prague",
     "url": "https://www.updateconference.net",
     "startDate": "2021-11-18",
@@ -135,29 +159,5 @@
     "online": true,
     "twitter": "@update_conf",
     "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "Prairie Code",
-    "url": "https://prairiecode.amegala.com",
-    "startDate": "2021-09-23",
-    "endDate": "2021-09-24",
-    "city": "Des Moines, IA",
-    "country": "U.S.A.",
-    "twitter": "@amegala",
-    "cfpUrl": "https://www.amegala.com/#/cfp",
-    "cfpEndDate": "2021-06-15",
-    "cocUrl": "https://prairiecode.amegala.com/Conduct",
-    "online": false
-  },
-  {
-    "name": "Music City Code",
-    "url": "https://www.musiccitytech.com/conferences/music-city-code",
-    "startDate": "2021-09-15",
-    "endDate": "2021-09-17",
-    "twitter": "@MusicCityTech",
-    "cfpUrl": "https://sessionize.com/music-city-tech-2021",
-    "cfpEndDate": "2021-06-30",
-    "cocUrl": "https://www.musiccitytech.com/about/code-of-conduct/",
-    "online": true
   }
 ]
