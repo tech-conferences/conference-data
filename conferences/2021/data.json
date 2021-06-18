@@ -233,6 +233,13 @@
     "cocUrl": "https://www.2020twenty.net/women-data-summit-2021/code-of-conduct/"
   },
   {
+    "name": "Apache Airflow Summit",
+    "url": "https://airflowsummit.org",
+    "startDate": "2021-07-08",
+    "endDate": "2021-07-16",
+    "online": true
+  },
+  {
     "name": "MongoDB.Live",
     "url": "https://www.mongodb.com/live",
     "startDate": "2021-07-13",
@@ -311,6 +318,23 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Big Data Analytics and Data Science",
+    "url": "https://crgconferences.com/datascience",
+    "startDate": "2021-11-03",
+    "endDate": "2021-11-04",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "online": false,
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "DOAG (Biggest European Conference about Oracle DB topics)",
+    "url": "https://2021.doag.org/de/home",
+    "startDate": "2021-11-16",
+    "endDate": "2021-11-18",
+    "online": true
+  },
+  {
     "name": "IT NonStop",
     "url": "https://it-nonstop.net",
     "startDate": "2021-11-18",
@@ -331,29 +355,5 @@
     "cfpEndDate": "2021-05-24",
     "twitter": "@mlconference",
     "cocUrl": "https://mlconference.ai/code-of-conduct/"
-  },
-  {
-    "name": "Big Data Analytics and Data Science",
-    "url": "https://crgconferences.com/datascience",
-    "startDate": "2021-11-03",
-    "endDate": "2021-11-04",
-    "city": "Dubai",
-    "country": "United Arab Emirates",
-    "online": false,
-    "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "Apache Airflow Summit",
-    "url": "https://airflowsummit.org",
-    "startDate": "2021-07-08",
-    "endDate": "2021-07-16",
-    "online": true
-  },
-  {
-    "name": "DOAG (Biggest European Conference about Oracle DB topics)",
-    "url": "https://2021.doag.org/de/home",
-    "startDate": "2021-11-16",
-    "endDate": "2021-11-18",
-    "online": true
   }
 ]

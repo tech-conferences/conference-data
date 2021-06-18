@@ -495,6 +495,14 @@
     "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct"
   },
   {
+    "name": "Big BFSI Future Tech Show",
+    "url": "https://tresconglobal.com/conferences/bfsi/india/",
+    "startDate": "2021-07-06",
+    "endDate": "2021-07-06",
+    "online": true,
+    "twitter": "@TresconIndia"
+  },
+  {
     "name": "Ignite Innovation - Developer Conference",
     "url": "https://www.igniteinnovationfl.com",
     "startDate": "2021-08-06",
@@ -640,6 +648,17 @@
     "offersSignLanguageOrCC": false
   },
   {
+    "name": "Kansas City Developer Conference",
+    "url": "https://www.kcdc.info",
+    "startDate": "2021-09-15",
+    "endDate": "2021-09-17",
+    "city": "Kansas City, MO",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@kc_dc",
+    "cocUrl": "https://www.kcdc.info/code-of-conduct"
+  },
+  {
     "name": "REFACTR.TECH",
     "url": "https://refactr.tech",
     "startDate": "2021-09-15",
@@ -666,6 +685,15 @@
     "startDate": "2021-09-22",
     "endDate": "2021-09-24",
     "online": true
+  },
+  {
+    "name": "Scenic City Summit",
+    "url": "https://sceniccitysummit.com",
+    "startDate": "2021-09-24",
+    "endDate": "2021-09-24",
+    "online": true,
+    "twitter": "@scenicsummit",
+    "cocUrl": "https://sceniccitysummit.com/code-of-conduct/"
   },
   {
     "name": "AdaLoversConf",
@@ -718,6 +746,17 @@
     "cfpEndDate": "2021-04-30",
     "twitter": "@strangeloop_stl",
     "cocUrl": "https://thestrangeloop.com/policies.html"
+  },
+  {
+    "name": "QA Fest",
+    "url": "http://qafest.com/en",
+    "startDate": "2021-10-01",
+    "endDate": "2021-10-02",
+    "city": "Kiev",
+    "country": "Ukraine",
+    "online": false,
+    "twitter": "@qafestua",
+    "cocUrl": "http://qafest.com/wp-content/uploads/2019/03/code_of_conduct.pdf"
   },
   {
     "name": "Paris Web",
@@ -881,6 +920,16 @@
     "cocUrl": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-italian-edition-autumn/code-of-conduct"
   },
   {
+    "name": "Live! 360",
+    "url": "https://live360events.com/events/orlando-2021/Home.aspx",
+    "startDate": "2021-11-15",
+    "endDate": "2021-11-19",
+    "city": "Orlando, FL",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@live360events"
+  },
+  {
     "name": "Codemotion",
     "url": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-autumn",
     "startDate": "2021-11-30",
@@ -909,54 +958,5 @@
     "online": false,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "Scenic City Summit",
-    "url": "https://sceniccitysummit.com",
-    "startDate": "2021-09-24",
-    "endDate": "2021-09-24",
-    "twitter": "@scenicsummit",
-    "cocUrl": "https://sceniccitysummit.com/code-of-conduct/",
-    "online": true
-  },
-  {
-    "name": "Kansas City Developer Conference",
-    "url": "https://www.kcdc.info",
-    "startDate": "2021-09-15",
-    "endDate": "2021-09-17",
-    "city": "Kansas City, MO",
-    "country": "U.S.A.",
-    "twitter": "@kc_dc",
-    "cocUrl": "https://www.kcdc.info/code-of-conduct",
-    "online": false
-  },
-  {
-    "name": "Big BFSI Future Tech Show",
-    "url": "https://tresconglobal.com/conferences/bfsi/india/",
-    "startDate": "2021-07-06",
-    "endDate": "2021-07-06",
-    "twitter": "@TresconIndia",
-    "online": true
-  },
-  {
-    "name": "QA Fest",
-    "url": "http://qafest.com/en",
-    "startDate": "2021-10-01",
-    "endDate": "2021-10-02",
-    "city": "Kiev",
-    "country": "Ukraine",
-    "twitter": "@qafestua",
-    "cocUrl": "http://qafest.com/wp-content/uploads/2019/03/code_of_conduct.pdf",
-    "online": false
-  },
-  {
-    "name": "Live! 360",
-    "url": "https://live360events.com/events/orlando-2021/Home.aspx",
-    "startDate": "2021-11-15",
-    "endDate": "2021-11-19",
-    "city": "Orlando, FL",
-    "country": "U.S.A.",
-    "twitter": "@live360events",
-    "online": false
   }
 ]
