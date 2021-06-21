@@ -569,6 +569,19 @@
     "cocUrl": "https://devopsdays.org/conduct/"
   },
   {
+    "name": "TestCon",
+    "url": "https://testcon.lt",
+    "startDate": "2021-09-07",
+    "endDate": "2021-09-09",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "online": true,
+    "cfpUrl": "https://testcon.lt/cfp",
+    "cfpEndDate": "2021-08-31",
+    "twitter": "@TestConEurope",
+    "cocUrl": "https://testcon.lt/code-of-conduct/"
+  },
+  {
     "name": "Devopsdays Houston",
     "url": "https://devopsdays.org/events/2021-houston/welcome/",
     "startDate": "2021-09-21",
@@ -713,18 +726,5 @@
     "endDate": "2021-11-25",
     "online": true,
     "twitter": "@devopscon"
-  },
-  {
-    "name": "TestCon",
-    "url": "https://testcon.lt",
-    "startDate": "2021-09-07",
-    "endDate": "2021-09-09",
-    "city": "Vilnius",
-    "country": "Lithuania",
-    "twitter": "@TestConEurope",
-    "cfpUrl": "https://testcon.lt/cfp",
-    "cfpEndDate": "2021-08-31",
-    "cocUrl": "https://testcon.lt/code-of-conduct/",
-    "online": true
   }
 ]
