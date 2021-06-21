@@ -958,5 +958,16 @@
     "online": false,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
+  },
+  {
+    "name": "The Raku Conference",
+    "url": "https://conf.raku.org",
+    "startDate": "2021-08-07",
+    "endDate": "2021-08-07",
+    "twitter": "@rakuconference",
+    "cfpUrl": "https://conf.raku.org",
+    "cfpEndDate": "2021-07-15",
+    "cocUrl": "https://conf.raku.org/coc",
+    "online": true
   }
 ]
