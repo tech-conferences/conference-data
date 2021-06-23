@@ -726,5 +726,18 @@
     "endDate": "2021-11-25",
     "online": true,
     "twitter": "@devopscon"
+  },
+  {
+    "name": "DevOps Days Buffalo",
+    "url": "https://devopsdays.org/events/2021-buffalo/welcome",
+    "startDate": "2021-10-13",
+    "endDate": "2021-10-14",
+    "city": "Buffalo, NY",
+    "country": "U.S.A.",
+    "twitter": "@DevOpsDaysBUF",
+    "cfpUrl": "https://www.papercall.io/dodbuf2021",
+    "cfpEndDate": "2021-07-31",
+    "cocUrl": "https://devopsdays.org/events/2021-buffalo/conduct",
+    "online": true
   }
 ]
