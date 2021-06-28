@@ -514,6 +514,17 @@
     "cocUrl": "https://www.igniteinnovationfl.com/code-of-conduct"
   },
   {
+    "name": "The Raku Conference",
+    "url": "https://conf.raku.org",
+    "startDate": "2021-08-07",
+    "endDate": "2021-08-07",
+    "online": true,
+    "cfpUrl": "https://conf.raku.org/talks/submit",
+    "cfpEndDate": "2021-07-15",
+    "twitter": "@rakuconference",
+    "cocUrl": "https://conf.raku.org/coc"
+  },
+  {
     "name": "WorldFestival",
     "url": "https://worldfestival.com",
     "startDate": "2021-08-17",
@@ -958,5 +969,58 @@
     "online": false,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
+  },
+  {
+    "name": "Tech Bash",
+    "url": "https://www.techbash.com",
+    "startDate": "2021-10-19",
+    "endDate": "2021-10-22",
+    "city": "Pocono Manor, PA",
+    "country": "U.S.A.",
+    "twitter": "@techbash",
+    "cocUrl": "https://www.techbash.com/code-of-conduct",
+    "online": false
+  },
+  {
+    "name": "DevSpace",
+    "url": "http://www.devspaceconf.com",
+    "startDate": "2021-09-09",
+    "endDate": "2021-09-10",
+    "city": "Huntsville, AL",
+    "country": "U.S.A.",
+    "twitter": "@devspaceconf",
+    "cocUrl": "http://www.devspaceconf.com/conduct.html",
+    "online": false
+  },
+  {
+    "name": "Thrive-WiSE Micro Conference",
+    "url": "https://www.thrive-wise.org/micro-conference-2021",
+    "startDate": "2021-06-30",
+    "endDate": "2021-06-30",
+    "twitter": "@Thrive_WiSE_Org",
+    "cocUrl": "https://www.thrive-wise.org/code-of-conduct/",
+    "online": true
+  },
+  {
+    "name": "Northern Virginia Software Symposium",
+    "url": "https://nofluffjuststuff.com/reston",
+    "startDate": "2021-10-29",
+    "endDate": "2021-10-30",
+    "city": "Reston, VA",
+    "country": "U.S.A.",
+    "twitter": "@nofluff",
+    "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct",
+    "online": true
+  },
+  {
+    "name": "DevNet Create",
+    "url": "https://developer.cisco.com/devnetcreate/2021/home",
+    "startDate": "2021-10-19",
+    "endDate": "2021-10-21",
+    "twitter": "@CiscoDevNet",
+    "cfpUrl": "https://developer.cisco.com/devnetcreate",
+    "cfpEndDate": "2021-07-09",
+    "cocUrl": "https://developer.cisco.com/devnetcreate/2021/codeofconduct",
+    "online": true
   }
 ]

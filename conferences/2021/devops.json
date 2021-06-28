@@ -569,6 +569,19 @@
     "cocUrl": "https://devopsdays.org/conduct/"
   },
   {
+    "name": "TestCon",
+    "url": "https://testcon.lt",
+    "startDate": "2021-09-07",
+    "endDate": "2021-09-09",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "online": true,
+    "cfpUrl": "https://testcon.lt/cfp",
+    "cfpEndDate": "2021-08-31",
+    "twitter": "@TestConEurope",
+    "cocUrl": "https://testcon.lt/code-of-conduct/"
+  },
+  {
     "name": "Devopsdays Houston",
     "url": "https://devopsdays.org/events/2021-houston/welcome/",
     "startDate": "2021-09-21",
@@ -713,5 +726,29 @@
     "endDate": "2021-11-25",
     "online": true,
     "twitter": "@devopscon"
+  },
+  {
+    "name": "DevOps Days Buffalo",
+    "url": "https://devopsdays.org/events/2021-buffalo/welcome",
+    "startDate": "2021-10-13",
+    "endDate": "2021-10-14",
+    "city": "Buffalo, NY",
+    "country": "U.S.A.",
+    "twitter": "@DevOpsDaysBUF",
+    "cfpUrl": "https://www.papercall.io/dodbuf2021",
+    "cfpEndDate": "2021-07-31",
+    "cocUrl": "https://devopsdays.org/events/2021-buffalo/conduct",
+    "online": true
+  },
+  {
+    "name": "Devopsdays",
+    "url": "https://devopsdays.org/events/2021-washington-dc/welcome",
+    "startDate": "2021-09-16",
+    "endDate": "2021-09-17",
+    "city": "Washington, D.C.",
+    "country": "U.S.A.",
+    "twitter": "@DevOpsDaysDC",
+    "cocUrl": "https://devopsdays.org/conduct/",
+    "online": false
   }
 ]
