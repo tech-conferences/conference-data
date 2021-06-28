@@ -6,5 +6,16 @@
     "endDate": "2021-05-07",
     "online": true,
     "cocUrl": "https://cppnow.org/about/code_of_conduct/"
+  },
+  {
+    "name": "CppCon",
+    "url": "https://cppcon.org",
+    "startDate": "2021-10-24",
+    "endDate": "2021-10-29",
+    "city": "Aurora, CO",
+    "country": "U.S.A.",
+    "twitter": "@cppcon",
+    "cocUrl": "https://cppcon.org/codeofconduct/",
+    "online": true
   }
 ]
