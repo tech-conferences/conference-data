@@ -396,6 +396,13 @@
     "cocUrl": "https://enterjs.de/code_of_conduct_en.php"
   },
   {
+    "name": "Ionic Conf",
+    "url": "https://ionic.io/ioniconf",
+    "startDate": "2021-06-23",
+    "endDate": "2021-06-23",
+    "online": true
+  },
+  {
     "name": "jsday",
     "url": "https://2021.jsday.it",
     "startDate": "2021-07-06",
@@ -496,6 +503,30 @@
     "cocUrl": "https://enterjs.de/code_of_conduct_en.php"
   },
   {
+    "name": "EmberFest",
+    "url": "https://emberfest.eu",
+    "startDate": "2021-09-30",
+    "endDate": "2021-10-01",
+    "city": "Rome",
+    "country": "Italy",
+    "online": true,
+    "cfpUrl": "https://cfp.emberfest.eu/events/emberfest-2021",
+    "cfpEndDate": "2021-08-13",
+    "twitter": "@EmberFest",
+    "cocUrl": "https://emberfest.eu/code-of-conduct/"
+  },
+  {
+    "name": "JSWORLD Conference",
+    "url": "https://jsworldconference.com",
+    "startDate": "2021-10-04",
+    "endDate": "2021-10-05",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": true,
+    "twitter": "@Frontend_Love",
+    "cocUrl": "https://jsworldconference.com/code-of-conduct/"
+  },
+  {
     "name": "javascript days",
     "url": "https://javascript-days.de/berlin",
     "startDate": "2021-10-04",
@@ -562,6 +593,33 @@
     "twitter": "@conf42com"
   },
   {
+    "name": "CascadiaJS",
+    "url": "https://2021.cascadiajs.com",
+    "startDate": "2021-11-03",
+    "endDate": "2021-11-04",
+    "city": "Seattle, WA",
+    "country": "U.S.A.",
+    "online": true,
+    "cfpUrl": "https://2021.cascadiajs.com/cfp",
+    "cfpEndDate": "2021-07-19",
+    "twitter": "@cascadiajs",
+    "cocUrl": "https://2021.cascadiajs.com/code-of-conduct",
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "CONNECT.TECH",
+    "url": "https://2021.connect.tech",
+    "startDate": "2021-11-08",
+    "endDate": "2021-11-10",
+    "city": "Atlanta, GA",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://2021.connect.tech/cfp",
+    "cfpEndDate": "2021-07-15",
+    "twitter": "@connect_js",
+    "cocUrl": "https://2021.connect.tech/codeofconduct/"
+  },
+  {
     "name": "React India",
     "url": "https://www.reactindia.io",
     "startDate": "2021-11-12",
@@ -573,6 +631,19 @@
     "cocUrl": "https://www.notion.so/CODE-OF-CONDUCT-46e5dc50604a44e1be53a34d4937682f"
   },
   {
+    "name": "Node.TLV",
+    "url": "https://www.nodetlv.com/",
+    "startDate": "2021-11-14",
+    "endDate": "2021-11-15",
+    "city": "Tel Aviv",
+    "country": "Israel",
+    "online": true,
+    "cfpUrl": "https://forms.gle/qp2SKjnCa7EggQ469",
+    "cfpEndDate": "2021-07-01",
+    "twitter": "@NodeTLV",
+    "cocUrl": "https://www.nodetlv.com/code-of-conduct"
+  },
+  {
     "name": "XtremeJS",
     "url": "https://xtremejs.dev/2021/",
     "startDate": "2021-12-22",
@@ -582,76 +653,5 @@
     "cfpEndDate": "2021-08-31",
     "twitter": "@xtremejsconf",
     "cocUrl": "https://bit.ly/2NL4ehr."
-  },
-  {
-    "name": "JSWORLD Conference",
-    "url": "https://jsworldconference.com",
-    "startDate": "2021-10-04",
-    "endDate": "2021-10-05",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "twitter": "@Frontend_Love",
-    "cocUrl": "https://jsworldconference.com/code-of-conduct/",
-    "online": true
-  },
-  {
-    "name": "CascadiaJS",
-    "url": "https://2021.cascadiajs.com",
-    "startDate": "2021-11-03",
-    "endDate": "2021-11-04",
-    "city": "Seattle, WA",
-    "country": "U.S.A.",
-    "twitter": "@cascadiajs",
-    "cfpUrl": "https://2021.cascadiajs.com/cfp",
-    "cfpEndDate": "2021-07-19",
-    "cocUrl": "https://2021.cascadiajs.com/code-of-conduct",
-    "online": true,
-    "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "Ionic Conf",
-    "url": "https://ionic.io/ioniconf",
-    "startDate": "2021-06-23",
-    "endDate": "2021-06-23",
-    "online": true
-  },
-  {
-    "name": "Node.TLV",
-    "url": "https://www.nodetlv.com/",
-    "startDate": "2021-11-14",
-    "endDate": "2021-11-15",
-    "city": "Tel Aviv",
-    "country": "Israel",
-    "twitter": "@NodeTLV",
-    "cfpUrl": "https://forms.gle/qp2SKjnCa7EggQ469",
-    "cfpEndDate": "2021-07-01",
-    "cocUrl": "https://www.nodetlv.com/code-of-conduct",
-    "online": true
-  },
-  {
-    "name": "EmberFest",
-    "url": "https://emberfest.eu",
-    "startDate": "2021-09-30",
-    "endDate": "2021-10-01",
-    "city": "Rome",
-    "country": "Italy",
-    "twitter": "@EmberFest",
-    "cfpUrl": "https://cfp.emberfest.eu/events/emberfest-2021",
-    "cfpEndDate": "2021-08-13",
-    "cocUrl": "https://emberfest.eu/code-of-conduct/",
-    "online": true
-  },
-  {
-    "name": "CONNECT.TECH",
-    "url": "https://2021.connect.tech",
-    "startDate": "2021-11-08",
-    "endDate": "2021-11-10",
-    "city": "Atlanta, GA",
-    "country": "U.S.A.",
-    "twitter": "@connect_js",
-    "cfpUrl": "https://2021.connect.tech/cfp",
-    "cfpEndDate": "2021-07-15",
-    "cocUrl": "https://2021.connect.tech/codeofconduct/",
-    "online": false
   }
 ]

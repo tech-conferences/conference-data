@@ -582,6 +582,17 @@
     "cocUrl": "https://testcon.lt/code-of-conduct/"
   },
   {
+    "name": "Devopsdays",
+    "url": "https://devopsdays.org/events/2021-washington-dc/welcome",
+    "startDate": "2021-09-16",
+    "endDate": "2021-09-17",
+    "city": "Washington, D.C.",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@DevOpsDaysDC",
+    "cocUrl": "https://devopsdays.org/conduct/"
+  },
+  {
     "name": "Devopsdays Houston",
     "url": "https://devopsdays.org/events/2021-houston/welcome/",
     "startDate": "2021-09-21",
@@ -682,6 +693,19 @@
     "cfpEndDate": "2021-05-23"
   },
   {
+    "name": "DevOps Days Buffalo",
+    "url": "https://devopsdays.org/events/2021-buffalo/welcome",
+    "startDate": "2021-10-13",
+    "endDate": "2021-10-14",
+    "city": "Buffalo, NY",
+    "country": "U.S.A.",
+    "online": true,
+    "cfpUrl": "https://www.papercall.io/dodbuf2021",
+    "cfpEndDate": "2021-07-31",
+    "twitter": "@DevOpsDaysBUF",
+    "cocUrl": "https://devopsdays.org/events/2021-buffalo/conduct"
+  },
+  {
     "name": "HashiConf Global",
     "url": "https://hashiconf.com/",
     "startDate": "2021-10-19",
@@ -726,29 +750,5 @@
     "endDate": "2021-11-25",
     "online": true,
     "twitter": "@devopscon"
-  },
-  {
-    "name": "DevOps Days Buffalo",
-    "url": "https://devopsdays.org/events/2021-buffalo/welcome",
-    "startDate": "2021-10-13",
-    "endDate": "2021-10-14",
-    "city": "Buffalo, NY",
-    "country": "U.S.A.",
-    "twitter": "@DevOpsDaysBUF",
-    "cfpUrl": "https://www.papercall.io/dodbuf2021",
-    "cfpEndDate": "2021-07-31",
-    "cocUrl": "https://devopsdays.org/events/2021-buffalo/conduct",
-    "online": true
-  },
-  {
-    "name": "Devopsdays",
-    "url": "https://devopsdays.org/events/2021-washington-dc/welcome",
-    "startDate": "2021-09-16",
-    "endDate": "2021-09-17",
-    "city": "Washington, D.C.",
-    "country": "U.S.A.",
-    "twitter": "@DevOpsDaysDC",
-    "cocUrl": "https://devopsdays.org/conduct/",
-    "online": false
   }
 ]

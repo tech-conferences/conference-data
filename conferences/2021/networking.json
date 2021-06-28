@@ -202,6 +202,15 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "EFWeek",
+    "url": "https://freelancersweek.org",
+    "startDate": "2021-10-18",
+    "endDate": "2021-10-24",
+    "online": true,
+    "twitter": "@FreelancersEU",
+    "cocUrl": "https://freelancersweek.org/about/"
+  },
+  {
     "name": "Women in Tech Summit",
     "url": "https://womenintechsummit.net/fall2021virtual",
     "startDate": "2021-10-20",
@@ -220,14 +229,5 @@
     "cfpUrl": "https://techupforwomen.com/speakers/#speakers",
     "twitter": "@techupforwomen",
     "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "EFWeek",
-    "url": "https://freelancersweek.org",
-    "startDate": "2021-10-18",
-    "endDate": "2021-10-24",
-    "twitter": "@FreelancersEU",
-    "cocUrl": "https://freelancersweek.org/about/",
-    "online": true
   }
 ]
