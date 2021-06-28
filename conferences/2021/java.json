@@ -154,5 +154,18 @@
     "online": true,
     "twitter": "@nofluff",
     "cocUrl": "https://archconf.com/home/code_of_conduct"
+  },
+  {
+    "name": "jConf.dev",
+    "url": "https://2021.jconf.dev",
+    "startDate": "2021-12-08",
+    "endDate": "2021-12-10",
+    "city": "Chicago, IL",
+    "country": "U.S.A.",
+    "twitter": "@jconfdev",
+    "cfpUrl": "https://2021.jconf.dev/cfp",
+    "cfpEndDate": "2021-08-01",
+    "cocUrl": "https://2021.jconf.dev/codeofconduct/",
+    "online": false
   }
 ]
