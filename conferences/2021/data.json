@@ -318,6 +318,18 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Global AI Student Conference",
+    "url": "https://aiconf.education",
+    "startDate": "2021-10-09",
+    "endDate": "2021-10-09",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/gais-conf-oct-21",
+    "cfpEndDate": "2021-09-12",
+    "twitter": "@GlobAICommunity",
+    "cocUrl": "https://aiconf.education/code-of-conduct/",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Big Data Analytics and Data Science",
     "url": "https://crgconferences.com/datascience",
     "startDate": "2021-11-03",
@@ -355,17 +367,5 @@
     "cfpEndDate": "2021-05-24",
     "twitter": "@mlconference",
     "cocUrl": "https://mlconference.ai/code-of-conduct/"
-  },
-  {
-    "name": "Global AI Student Conference",
-    "url": "https://aiconf.education",
-    "startDate": "2021-10-09",
-    "endDate": "2021-10-09",
-    "twitter": "@GlobAICommunity",
-    "cfpUrl": "https://sessionize.com/gais-conf-oct-21",
-    "cfpEndDate": "2021-09-12",
-    "cocUrl": "https://aiconf.education/code-of-conduct/",
-    "online": true,
-    "offersSignLanguageOrCC": true
   }
 ]
