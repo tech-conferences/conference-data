@@ -2,11 +2,6 @@
 
 name: Reorder
 
-# Controls when the action will run. 
-on:
-  schedule:
-    - cron: "*/30 * * * *"
-
 jobs:
   run:
     name: reorder
