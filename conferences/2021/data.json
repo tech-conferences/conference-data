@@ -369,25 +369,25 @@
     "cocUrl": "https://mlconference.ai/code-of-conduct/"
   },
   {
-    "name": "Voice Conference",
-    "startDate": "2021-12-06",
-    "endDate": "2021-12-08",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@Voice_Con",
-    "cocUrl": "https://voicecon.net/code-of-conduct/",
-    "url": "https://voicecon.net"
-  },
-  {
     "name": "ML Conference Berlin",
+    "url": "https://mlconference.ai/berlin",
     "startDate": "2021-12-06",
     "endDate": "2021-12-08",
     "city": "Berlin",
     "country": "Germany",
     "online": true,
     "twitter": "@mlconference",
-    "cocUrl": "https://mlconference.ai/code-of-conduct/",
-    "url": "https://mlconference.ai/berlin"
+    "cocUrl": "https://mlconference.ai/code-of-conduct/"
+  },
+  {
+    "name": "Voice Conference",
+    "url": "https://voicecon.net",
+    "startDate": "2021-12-06",
+    "endDate": "2021-12-08",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@Voice_Con",
+    "cocUrl": "https://voicecon.net/code-of-conduct/"
   }
 ]
