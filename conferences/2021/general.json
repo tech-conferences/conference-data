@@ -577,6 +577,17 @@
     "cocUrl": "https://codear.org/coc"
   },
   {
+    "name": "NDC Minnesota",
+    "url": "https://ndcminnesota.com",
+    "startDate": "2021-08-24",
+    "endDate": "2021-08-26",
+    "city": "Minneapolis, MN",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@NDC_Conferences",
+    "cocUrl": "https://ndcminnesota.com/code-of-conduct"
+  },
+  {
     "name": "Reliable Web Summit",
     "url": "https://reliablewebsummit.com",
     "startDate": "2021-08-26",
@@ -1020,16 +1031,5 @@
     "online": true,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "NDC Minnesota",
-    "startDate": "2021-08-24",
-    "endDate": "2021-08-26",
-    "city": "Minneapolis, MN",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@NDC_Conferences",
-    "cocUrl": "https://ndcminnesota.com/code-of-conduct",
-    "url": "https://ndcminnesota.com"
   }
 ]
