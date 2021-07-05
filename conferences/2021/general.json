@@ -1042,5 +1042,34 @@
     "twitter": "@SoftwareTestPro",
     "cocUrl": "https://www.milehightesting.com/code-of-conduct/",
     "url": "https://www.milehightesting.com"
+  },
+  {
+    "name": "NDC Oslo",
+    "startDate": "2021-11-29",
+    "endDate": "2021-12-03",
+    "city": "Oslo",
+    "country": "Norway",
+    "online": false,
+    "twitter": "@NDC_Conferences",
+    "cocUrl": "https://ndcoslo.com/code-of-conduct",
+    "url": "https://ndcoslo.com"
+  },
+  {
+    "name": "NDC Tech Town",
+    "startDate": "2021-10-17",
+    "endDate": "2021-10-20",
+    "city": "Kongsberg",
+    "country": "Norway",
+    "online": false,
+    "twitter": "@NDC_Conferences",
+    "cocUrl": "https://ndctechtown.com/code-of-conduct",
+    "url": "https://ndctechtown.com"
+  },
+  {
+    "name": "Geekfest",
+    "startDate": "2021-09-29",
+    "endDate": "2021-09-30",
+    "online": true,
+    "url": "https://geekfest.bellevent.ca/become-a-sponsor/about-overview.html"
   }
 ]
