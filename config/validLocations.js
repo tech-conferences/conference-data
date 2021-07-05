@@ -360,6 +360,7 @@ module.exports = {
     "Bergen",
     "Fornebu",
     "Larvik",
+    "Kongsberg",
     "Oslo",
     "Sandefjord"
   ],
