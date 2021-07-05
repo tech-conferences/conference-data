@@ -611,6 +611,17 @@
     "cocUrl": "https://australia.voxxeddays.com/code-of-conduct/"
   },
   {
+    "name": "Mile High Software Testing Conference",
+    "url": "https://www.milehightesting.com",
+    "startDate": "2021-08-27",
+    "endDate": "2021-08-28",
+    "city": "Denver, CO",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@SoftwareTestPro",
+    "cocUrl": "https://www.milehightesting.com/code-of-conduct/"
+  },
+  {
     "name": "Web Summer Camp",
     "url": "https://2021.websummercamp.com",
     "startDate": "2021-09-02",
@@ -768,6 +779,13 @@
     "offersSignLanguageOrCC": false
   },
   {
+    "name": "Geekfest",
+    "url": "https://geekfest.bellevent.ca/become-a-sponsor/about-overview.html",
+    "startDate": "2021-09-29",
+    "endDate": "2021-09-30",
+    "online": true
+  },
+  {
     "name": "Devoxx",
     "url": "https://www.devoxx.fr",
     "startDate": "2021-09-29",
@@ -883,6 +901,17 @@
     "cocUrl": "https://infoshare.pl/code-of-conduct.html"
   },
   {
+    "name": "NDC Tech Town",
+    "url": "https://ndctechtown.com",
+    "startDate": "2021-10-17",
+    "endDate": "2021-10-20",
+    "city": "Kongsberg",
+    "country": "Norway",
+    "online": false,
+    "twitter": "@NDC_Conferences",
+    "cocUrl": "https://ndctechtown.com/code-of-conduct"
+  },
+  {
     "name": "Codemotion - Spanish Edition",
     "url": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-spanish-edition-autumn",
     "startDate": "2021-10-19",
@@ -984,6 +1013,19 @@
     "cocUrl": "https://www.thebigtransaction.com/policies/"
   },
   {
+    "name": "AWE USA",
+    "url": "https://www.awexr.com",
+    "startDate": "2021-11-09",
+    "endDate": "2021-11-11",
+    "city": "Santa Clara, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://www.awexr.com/usa-2021/submit_a_talk",
+    "cfpEndDate": "2021-07-30",
+    "twitter": "@ARealityEvent",
+    "cocUrl": "https://www.awexr.com/usa-2021/anti_harrassment"
+  },
+  {
     "name": "Codemotion - Italian Edition",
     "url": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-italian-edition-autumn",
     "startDate": "2021-11-09",
@@ -1003,6 +1045,17 @@
     "country": "U.S.A.",
     "online": false,
     "twitter": "@live360events"
+  },
+  {
+    "name": "NDC Oslo",
+    "url": "https://ndcoslo.com",
+    "startDate": "2021-11-29",
+    "endDate": "2021-12-03",
+    "city": "Oslo",
+    "country": "Norway",
+    "online": false,
+    "twitter": "@NDC_Conferences",
+    "cocUrl": "https://ndcoslo.com/code-of-conduct"
   },
   {
     "name": "Codemotion",
@@ -1031,58 +1084,5 @@
     "online": true,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "AWE USA",
-    "startDate": "2021-11-09",
-    "endDate": "2021-11-11",
-    "city": "Santa Clara, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://www.awexr.com/usa-2021/submit_a_talk",
-    "cfpEndDate": "2021-07-30",
-    "twitter": "@ARealityEvent",
-    "cocUrl": "https://www.awexr.com/usa-2021/anti_harrassment",
-    "url": "https://www.awexr.com"
-  },
-  {
-    "name": "Mile High Software Testing Conference",
-    "startDate": "2021-08-27",
-    "endDate": "2021-08-28",
-    "city": "Denver, CO",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@SoftwareTestPro",
-    "cocUrl": "https://www.milehightesting.com/code-of-conduct/",
-    "url": "https://www.milehightesting.com"
-  },
-  {
-    "name": "NDC Oslo",
-    "startDate": "2021-11-29",
-    "endDate": "2021-12-03",
-    "city": "Oslo",
-    "country": "Norway",
-    "online": false,
-    "twitter": "@NDC_Conferences",
-    "cocUrl": "https://ndcoslo.com/code-of-conduct",
-    "url": "https://ndcoslo.com"
-  },
-  {
-    "name": "NDC Tech Town",
-    "startDate": "2021-10-17",
-    "endDate": "2021-10-20",
-    "city": "Kongsberg",
-    "country": "Norway",
-    "online": false,
-    "twitter": "@NDC_Conferences",
-    "cocUrl": "https://ndctechtown.com/code-of-conduct",
-    "url": "https://ndctechtown.com"
-  },
-  {
-    "name": "Geekfest",
-    "startDate": "2021-09-29",
-    "endDate": "2021-09-30",
-    "online": true,
-    "url": "https://geekfest.bellevent.ca/become-a-sponsor/about-overview.html"
   }
 ]
