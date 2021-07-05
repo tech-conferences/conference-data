@@ -480,24 +480,6 @@
     "cocUrl": "https://devopsdays.org/conduct/"
   },
   {
-    "name": "Devopsdays Poznań",
-    "url": "https://devopsdays.org/events/2021-poznan/welcome/",
-    "startDate": "2021-10-04",
-    "endDate": "2021-10-05",
-    "online": true,
-    "twitter": "@devopsdayspoz",
-    "cocUrl": "https://devopsdays.org/conduct/"
-  },
-  {
-    "name": "Devopsdays Istanbul",
-    "url": "https://devopsdays.org/events/2021-istanbul/welcome/",
-    "startDate": "2021-09-18",
-    "endDate": "2021-09-18",
-    "online": true,
-    "twitter": "@devopsdaysist",
-    "cocUrl": "https://devopsdays.org/conduct/"
-  },
-  {
     "name": "Devopsdays Minneapolis",
     "url": "https://devopsdays.org/events/2021-minneapolis/welcome/",
     "startDate": "2021-07-20",
@@ -584,6 +566,15 @@
     "cocUrl": "https://devopsdays.org/conduct/"
   },
   {
+    "name": "Devopsdays Istanbul",
+    "url": "https://devopsdays.org/events/2021-istanbul/welcome/",
+    "startDate": "2021-09-18",
+    "endDate": "2021-09-18",
+    "online": true,
+    "twitter": "@devopsdaysist",
+    "cocUrl": "https://devopsdays.org/conduct/"
+  },
+  {
     "name": "Devopsdays Houston",
     "url": "https://devopsdays.org/events/2021-houston/welcome/",
     "startDate": "2021-09-21",
@@ -591,16 +582,6 @@
     "city": "Houston, TX",
     "country": "U.S.A.",
     "twitter": "@devopsdayshtown",
-    "cocUrl": "https://devopsdays.org/conduct/"
-  },
-  {
-    "name": "Devopsdays Bogotá",
-    "url": "https://devopsdays.org/events/2021-bogota/welcome/",
-    "startDate": "2021-11-24",
-    "endDate": "2021-11-25",
-    "city": "Bogota",
-    "country": "Colombia",
-    "twitter": "@devopsdaysb",
     "cocUrl": "https://devopsdays.org/conduct/"
   },
   {
@@ -664,6 +645,15 @@
     "twitter": "@conf42com"
   },
   {
+    "name": "Devopsdays Poznań",
+    "url": "https://devopsdays.org/events/2021-poznan/welcome/",
+    "startDate": "2021-10-04",
+    "endDate": "2021-10-05",
+    "online": true,
+    "twitter": "@devopsdayspoz",
+    "cocUrl": "https://devopsdays.org/conduct/"
+  },
+  {
     "name": "DevOps Enterprise Summit Virtual - US",
     "url": "https://events.itrevolution.com/virtual",
     "startDate": "2021-10-05",
@@ -712,6 +702,15 @@
     "cocUrl": "https://www.dashcon.io/coc/"
   },
   {
+    "name": "Devopsdays Melbourne",
+    "url": "https://devopsdays.org/events/2021-melbourne/welcome/",
+    "startDate": "2021-10-28",
+    "endDate": "2021-10-29",
+    "city": "Melbourne",
+    "country": "Australia",
+    "cocUrl": "https://devopsdays.org/events/2021-melbourne/conduct"
+  },
+  {
     "name": "Devopsdays Nashville",
     "url": "https://devopsdays.org/events/2021-nashville/welcome/",
     "startDate": "2021-10-28",
@@ -722,15 +721,6 @@
     "cfpEndDate": "2021-07-06",
     "twitter": "@nashvilledevops",
     "cocUrl": "https://devopsdays.org/conduct/"
-  },
-  {
-    "name": "Devopsdays Melbourne",
-    "url": "https://devopsdays.org/events/2021-melbourne/welcome/",
-    "startDate": "2021-10-28",
-    "endDate": "2021-10-29",
-    "city": "Melbourne",
-    "country": "Australia",
-    "cocUrl": "https://devopsdays.org/events/2021-melbourne/conduct"
   },
   {
     "name": "Agile Testing Days",
@@ -750,5 +740,15 @@
     "endDate": "2021-11-25",
     "online": true,
     "twitter": "@devopscon"
+  },
+  {
+    "name": "Devopsdays Bogotá",
+    "url": "https://devopsdays.org/events/2021-bogota/welcome/",
+    "startDate": "2021-11-24",
+    "endDate": "2021-11-25",
+    "city": "Bogota",
+    "country": "Colombia",
+    "twitter": "@devopsdaysb",
+    "cocUrl": "https://devopsdays.org/conduct/"
   }
 ]

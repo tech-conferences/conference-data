@@ -23,6 +23,7 @@
   },
   {
     "name": "RubyConf",
+    "url": "http://rubyconf.org",
     "startDate": "2021-11-08",
     "endDate": "2021-11-10",
     "city": "Denver, CO",
@@ -31,7 +32,6 @@
     "cfpUrl": "https://cfp.rubycentral.org/events/rubyconf2021",
     "cfpEndDate": "2021-07-16",
     "twitter": "@rubyconf",
-    "cocUrl": "http://rubyconf.org/policies",
-    "url": "http://rubyconf.org"
+    "cocUrl": "http://rubyconf.org/policies"
   }
 ]
