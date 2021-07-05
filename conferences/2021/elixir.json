@@ -44,5 +44,17 @@
     "online": true,
     "twitter": "@elixirconfeu",
     "cocUrl": "https://www.elixirconf.eu/assets/images/CoCEU.pdf"
+  },
+  {
+    "name": "ElixirConf",
+    "startDate": "2021-10-12",
+    "endDate": "2021-10-13",
+    "city": "Austin, TX",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://2021.elixirconf.com/#cfp",
+    "cfpEndDate": "2021-07-11",
+    "twitter": "@elixirconf",
+    "url": "https://2021.elixirconf.com"
   }
 ]

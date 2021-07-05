@@ -1,4 +1,25 @@
 [
+   {
+    "name": "Devopsdays Geneva",
+    "url": "https://devopsdays.org/events/2022-geneva/welcome/",
+    "startDate": "2022-02-07",
+    "endDate": "2022-02-08",
+    "city": "Geneva",
+    "country": "Switzerland",
+    "online": false,
+    "twitter": "@DevopsdaysGe",
+    "cocUrl": "https://devopsdays.org/events/2022-geneva/conduct"
+  },
+  {
+    "name": "Devopsdays Raleigh",
+    "url": "https://devopsdays.org/events/2022-raleigh/welcome/",
+    "startDate": "2022-04-13",
+    "endDate": "2022-04-14",
+    "city": "Raleigh, NC",
+    "country": "U.S.A.",
+    "online": false,
+    "cocUrl": "https://devopsdays.org/events/2022-raleigh/conduct"
+  },
   {
     "name": "Agile Testing Days Open Air",
     "url": "https://openair.agiletestingdays.com",
@@ -20,5 +41,16 @@
     "online": false,
     "twitter": "@AgileTDUSA",
     "cocUrl": "https://agiletestingdays.us/code-of-conduct/"
+  },
+  {
+    "name": "Devopsdays Dallas",
+    "url": "https://devopsdays.org/events/2022-dallas/welcome/",
+    "startDate": "2022-08-24",
+    "endDate": "2022-08-25",
+    "city": "Dallas, TX",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@DevOpsDaysDFW",
+    "cocUrl": "https://devopsdays.org/events/2022-dallas/conduct"
   }
 ]
