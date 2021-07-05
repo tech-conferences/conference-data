@@ -482,26 +482,17 @@
   {
     "name": "Devopsdays Poznań",
     "url": "https://devopsdays.org/events/2021-poznan/welcome/",
-    "startDate": "2021-07-15",
-    "endDate": "2021-07-16",
+    "startDate": "2021-10-04",
+    "endDate": "2021-10-05",
     "online": true,
     "twitter": "@devopsdayspoz",
     "cocUrl": "https://devopsdays.org/conduct/"
   },
   {
-    "name": "Devopsdays Washington, D.C.",
-    "url": "https://devopsdays.org/events/2021-washington-dc/welcome/",
-    "startDate": "2021-07-16",
-    "endDate": "2021-07-17",
-    "online": true,
-    "twitter": "@DevOpsDaysDC",
-    "cocUrl": "https://devopsdays.org/conduct/"
-  },
-  {
     "name": "Devopsdays Istanbul",
     "url": "https://devopsdays.org/events/2021-istanbul/welcome/",
-    "startDate": "2021-07-18",
-    "endDate": "2021-07-18",
+    "startDate": "2021-09-18",
+    "endDate": "2021-09-18",
     "online": true,
     "twitter": "@devopsdaysist",
     "cocUrl": "https://devopsdays.org/conduct/"
@@ -547,16 +538,6 @@
     "cfpEndDate": "2021-04-30"
   },
   {
-    "name": "Devopsdays Dallas",
-    "url": "https://devopsdays.org/events/2021-dallas/welcome/",
-    "startDate": "2021-08-25",
-    "endDate": "2021-08-26",
-    "city": "Dallas, TX",
-    "country": "U.S.A.",
-    "twitter": "@devopsdaysdfw",
-    "cocUrl": "https://devopsdays.org/conduct/"
-  },
-  {
     "name": "Devopsdays Zurich",
     "url": "https://devopsdays.org/events/2021-zurich/welcome/",
     "startDate": "2021-09-07",
@@ -582,7 +563,17 @@
     "cocUrl": "https://testcon.lt/code-of-conduct/"
   },
   {
-    "name": "Devopsdays",
+    "name": "Devopsdays Blumenau",
+    "url": "https://devopsdays.org/events/2021-blumenau/welcome/",
+    "startDate": "2021-09-09",
+    "endDate": "2021-09-10",
+    "online": true,
+    "cfpUrl": "https://www.papercall.io/devopsdaysblumenau",
+    "cfpEndDate": "2021-08-13",
+    "cocUrl": "https://devopsdays.org/events/2021-blumenau/conduct"
+  },
+  {
+    "name": "Devopsdays Washington, D.C.",
     "url": "https://devopsdays.org/events/2021-washington-dc/welcome",
     "startDate": "2021-09-16",
     "endDate": "2021-09-17",
@@ -605,8 +596,8 @@
   {
     "name": "Devopsdays Bogotá",
     "url": "https://devopsdays.org/events/2021-bogota/welcome/",
-    "startDate": "2021-09-22",
-    "endDate": "2021-09-23",
+    "startDate": "2021-11-24",
+    "endDate": "2021-11-25",
     "city": "Bogota",
     "country": "Colombia",
     "twitter": "@devopsdaysb",
@@ -693,7 +684,7 @@
     "cfpEndDate": "2021-05-23"
   },
   {
-    "name": "DevOps Days Buffalo",
+    "name": "Devopsdays Buffalo",
     "url": "https://devopsdays.org/events/2021-buffalo/welcome",
     "startDate": "2021-10-13",
     "endDate": "2021-10-14",
@@ -731,6 +722,15 @@
     "cfpEndDate": "2021-07-06",
     "twitter": "@nashvilledevops",
     "cocUrl": "https://devopsdays.org/conduct/"
+  },
+  {
+    "name": "Devopsdays Melbourne",
+    "url": "https://devopsdays.org/events/2021-melbourne/welcome/",
+    "startDate": "2021-10-28",
+    "endDate": "2021-10-29",
+    "city": "Melbourne",
+    "country": "Australia",
+    "cocUrl": "https://devopsdays.org/events/2021-melbourne/conduct"
   },
   {
     "name": "Agile Testing Days",
