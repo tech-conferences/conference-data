@@ -181,10 +181,10 @@
     "cocUrl": "https://www.avast.com/privacy-policy"
   },
   {
-    "name": "Linus Security Summit",
+    "name": "Linux Security Summit",
     "startDate": "2021-09-29",
     "endDate": "2021-10-01",
-    "city": "Seattle, Wa",
+    "city": "Seattle, WA",
     "country": "U.S.A.",
     "online": true,
     "cfpUrl": "https://events.linuxfoundation.org/linux-security-summit-north-america/program/cfp",
@@ -192,5 +192,16 @@
     "twitter": "@linuxfoundation",
     "cocUrl": "https://events.linuxfoundation.org/linux-security-summit-north-america/attend/code-of-conduct/",
     "url": "https://events.linuxfoundation.org/linux-security-summit-north-america"
+  },
+  {
+    "name": "BlackHat USA",
+    "startDate": "2021-07-31",
+    "endDate": "2021-08-05",
+    "city": "Las Vegas, NV",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@BlackHatEvents",
+    "cocUrl": "https://www.blackhat.com/code-of-conduct.html",
+    "url": "https://blackhat.com/us-21"
   }
 ]
