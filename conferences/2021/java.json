@@ -123,6 +123,14 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "I Code Java Africa",
+    "url": "https://j-sa.co",
+    "startDate": "2021-10-12",
+    "endDate": "2021-10-12",
+    "online": true,
+    "twitter": "@JavaAfrica"
+  },
+  {
     "name": "W-JAX Hybrid",
     "url": "http://jax.de/muenchen",
     "startDate": "2021-11-08",
@@ -167,13 +175,5 @@
     "online": true,
     "twitter": "@nofluff",
     "cocUrl": "https://archconf.com/home/code_of_conduct"
-  },
-  {
-    "name": "I Code Java Africa",
-    "startDate": "2021-10-12",
-    "endDate": "2021-10-12",
-    "online": true,
-    "twitter": "@JavaAfrica",
-    "url": "https://j-sa.co"
   }
 ]
