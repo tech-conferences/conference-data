@@ -3,6 +3,7 @@ module.exports = [
   "clojure",
   "cpp",
   "css",
+  "cfml",
   "data",
   "devops",
   "dotnet",
