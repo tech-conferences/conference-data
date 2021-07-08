@@ -189,6 +189,16 @@
     "offersSignLanguageOrCC": false
   },
   {
+    "name": "Haskell Love",
+    "url": "https://haskell.love",
+    "startDate": "2021-09-10",
+    "endDate": "2021-09-10",
+    "online": true,
+    "cfpUrl": "https://papercall.io/haskelllove",
+    "cfpEndDate": "2021-07-11",
+    "twitter": "@_haskellove"
+  },
+  {
     "name": "International Conference on Digital Transformation",
     "url": "http://conference.ternet.or.tz",
     "startDate": "2021-09-12",
@@ -238,15 +248,5 @@
     "cfpUrl": "https://techupforwomen.com/speakers/#speakers",
     "twitter": "@techupforwomen",
     "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "Haskell Love",
-    "startDate": "2021-09-10",
-    "endDate": "2021-09-10",
-    "online": true,
-    "cfpUrl": "https://papercall.io/haskelllove",
-    "cfpEndDate": "2021-07-11",
-    "twitter": "@_haskellove",
-    "url": "https://haskell.love"
   }
 ]
