@@ -99,6 +99,15 @@
     "twitter": "@jaxlondon"
   },
   {
+    "name": "JCON",
+    "url": "https://jcon.one",
+    "startDate": "2021-10-05",
+    "endDate": "2021-10-08",
+    "online": true,
+    "twitter": "@jcon_conference",
+    "cocUrl": "https://jcon.one/code-of-conduct"
+  },
+  {
     "name": "UberConf",
     "url": "http://uberconf.com",
     "startDate": "2021-10-05",
@@ -175,14 +184,5 @@
     "online": true,
     "twitter": "@nofluff",
     "cocUrl": "https://archconf.com/home/code_of_conduct"
-  },
-  {
-    "name": "JCON",
-    "startDate": "2021-10-05",
-    "endDate": "2021-10-08",
-    "online": true,
-    "twitter": "@jcon_conference",
-    "cocUrl": "https://jcon.one/code-of-conduct",
-    "url": "https://jcon.one"
   }
 ]
