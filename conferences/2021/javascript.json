@@ -468,6 +468,17 @@
     "cocUrl": "https://www.renderatl.com/code-of-conduct"
   },
   {
+    "name": "CITYJS Conference",
+    "url": "https://cityjsconf.org",
+    "startDate": "2021-09-17",
+    "endDate": "2021-09-17",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "twitter": "@cityjsconf",
+    "cocUrl": "https://cityjsconf.org/coc/"
+  },
+  {
     "name": "Code",
     "url": "https://www.webdirections.org/code",
     "startDate": "2021-09-17",
@@ -687,16 +698,5 @@
     "cfpEndDate": "2021-08-31",
     "twitter": "@xtremejsconf",
     "cocUrl": "https://bit.ly/2NL4ehr."
-  },
-  {
-    "name": "CITYJS Conference",
-    "startDate": "2021-09-17",
-    "endDate": "2021-09-17",
-    "city": "London",
-    "country": "U.K.",
-    "online": true,
-    "twitter": "@cityjsconf",
-    "cocUrl": "https://cityjsconf.org/coc/",
-    "url": "https://cityjsconf.org"
   }
 ]
