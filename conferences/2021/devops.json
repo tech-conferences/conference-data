@@ -761,5 +761,18 @@
     "twitter": "@devops_con",
     "cocUrl": "https://devopscon.io/code-of-conduct/",
     "url": "https://devopscon.io/munich"
+  },
+  {
+    "name": "DevOpsDays Tel Aviv",
+    "startDate": "2021-11-24",
+    "endDate": "2021-11-25",
+    "city": "Tel Aviv",
+    "country": "Israel",
+    "online": false,
+    "cfpUrl": "https://www.papercall.io/devopsdays-tlv-2021",
+    "cfpEndDate": "2021-08-31",
+    "twitter": "@devopsdaystlv",
+    "cocUrl": "https://tlvcommunity.dev/code-of-conduct.html",
+    "url": "https://tlvcommunity.dev/devopsdays"
   }
 ]
