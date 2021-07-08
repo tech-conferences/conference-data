@@ -202,6 +202,15 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Community Summit North America",
+    "url": "https://www.summitna.com",
+    "startDate": "2021-10-12",
+    "endDate": "2021-10-15",
+    "city": "Houston, TX",
+    "country": "U.S.A.",
+    "online": false
+  },
+  {
     "name": "EFWeek",
     "url": "https://freelancersweek.org",
     "startDate": "2021-10-18",
@@ -229,14 +238,5 @@
     "cfpUrl": "https://techupforwomen.com/speakers/#speakers",
     "twitter": "@techupforwomen",
     "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "Community Summit North America",
-    "startDate": "2021-10-12",
-    "endDate": "2021-10-15",
-    "city": "Houston, TX",
-    "country": "U.S.A.",
-    "online": false,
-    "url": "https://www.summitna.com"
   }
 ]
