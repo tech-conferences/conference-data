@@ -318,6 +318,15 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "PostgresConf South Africa",
+    "url": "https://postgresconf.org/conferences/SouthAfrica2021",
+    "startDate": "2021-10-05",
+    "endDate": "2021-10-05",
+    "online": true,
+    "cfpUrl": "https://postgresconf.org/conferences/SouthAfrica2021/program/proposals",
+    "cfpEndDate": "2021-08-31"
+  },
+  {
     "name": "Global AI Student Conference",
     "url": "https://aiconf.education",
     "startDate": "2021-10-09",
@@ -400,14 +409,5 @@
     "online": true,
     "twitter": "@Voice_Con",
     "cocUrl": "https://voicecon.net/code-of-conduct/"
-  },
-  {
-    "name": "PostgresConf South Africa",
-    "startDate": "2021-10-05",
-    "endDate": "2021-10-05",
-    "online": true,
-    "cfpUrl": "https://postgresconf.org/conferences/SouthAfrica2021/program/proposals",
-    "cfpEndDate": "2021-08-31",
-    "url": "https://postgresconf.org/conferences/SouthAfrica2021"
   }
 ]

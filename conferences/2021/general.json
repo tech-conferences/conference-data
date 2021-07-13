@@ -565,6 +565,16 @@
     "cocUrl": "https://www.devnetwork.com/code-of-conduct/"
   },
   {
+    "name": "REFACTR.TECH",
+    "url": "https://www.refactr.tech",
+    "startDate": "2021-08-18",
+    "endDate": "2021-08-20",
+    "online": true,
+    "twitter": "@RefactrTech",
+    "cocUrl": "https://www.refactr.tech/code-of-conduct",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Voxxed Days Downunder",
     "url": "https://australia.voxxeddays.com",
     "startDate": "2021-08-23",
@@ -744,17 +754,6 @@
     "cocUrl": "https://www.fullstackday.com/codeofconduct.html"
   },
   {
-    "name": "GOTO Copenhagen",
-    "url": "https://gotocph.com",
-    "startDate": "2021-11-08",
-    "endDate": "2021-11-12",
-    "city": "Copenhagen",
-    "country": "Denmark",
-    "online": false,
-    "twitter": "@gotocon",
-    "cocUrl": "https://gotocph.com/2021/pages/code-of-conduct"
-  },
-  {
     "name": "Wild West Hackin’ Fest - Deadwood",
     "url": "https://wildwesthackinfest.com/deadwood",
     "startDate": "2021-09-22",
@@ -839,6 +838,15 @@
     "online": false,
     "twitter": "@qafestua",
     "cocUrl": "http://qafest.com/wp-content/uploads/2019/03/code_of_conduct.pdf"
+  },
+  {
+    "name": "LinuxConf [ZA]",
+    "url": "https://linuxconf.co.za",
+    "startDate": "2021-10-04",
+    "endDate": "2021-10-04",
+    "online": true,
+    "cfpUrl": "https://forms.gle/KxDAJFwhjFB6RVvR9",
+    "cfpEndDate": "2021-08-31"
   },
   {
     "name": "Paris Web",
@@ -1046,6 +1054,17 @@
     "cocUrl": "https://www.thebigtransaction.com/policies/"
   },
   {
+    "name": "GOTO Copenhagen",
+    "url": "https://gotocph.com",
+    "startDate": "2021-11-08",
+    "endDate": "2021-11-12",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "online": false,
+    "twitter": "@gotocon",
+    "cocUrl": "https://gotocph.com/2021/pages/code-of-conduct"
+  },
+  {
     "name": "AWE USA",
     "url": "https://www.awexr.com",
     "startDate": "2021-11-09",
@@ -1102,6 +1121,16 @@
     "cocUrl": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-autumn/code-of-conduct"
   },
   {
+    "name": "Embedded Fest",
+    "url": "https://embeddedfest.com",
+    "startDate": "2021-12-03",
+    "endDate": "2021-12-03",
+    "online": true,
+    "cfpUrl": "https://embeddedfest.com/speakers_eng.html",
+    "cfpEndDate": "2021-10-29",
+    "cocUrl": "https://embeddedfest.com/code%20of%20conduct.pdf"
+  },
+  {
     "name": "IT-Tage Remote",
     "url": "http://www.it-tage.org",
     "startDate": "2021-12-06",
@@ -1117,34 +1146,5 @@
     "online": true,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "REFACTR.TECH",
-    "startDate": "2021-08-18",
-    "endDate": "2021-08-20",
-    "online": true,
-    "twitter": "@RefactrTech",
-    "cocUrl": "https://www.refactr.tech/code-of-conduct",
-    "offersSignLanguageOrCC": true,
-    "url": "https://www.refactr.tech"
-  },
-  {
-    "name": "LinuxConf [ZA]",
-    "startDate": "2021-10-04",
-    "endDate": "2021-10-04",
-    "online": true,
-    "cfpUrl": "https://forms.gle/KxDAJFwhjFB6RVvR9",
-    "cfpEndDate": "2021-08-31",
-    "url": "https://linuxconf.co.za"
-  },
-  {
-    "name": "Embedded Fest",
-    "startDate": "2021-12-03",
-    "endDate": "2021-12-03",
-    "online": true,
-    "cfpUrl": "https://embeddedfest.com/speakers_eng.html",
-    "cfpEndDate": "2021-10-29",
-    "cocUrl": "https://embeddedfest.com/code%20of%20conduct.pdf",
-    "url": "https://embeddedfest.com"
   }
 ]
