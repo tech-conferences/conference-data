@@ -746,8 +746,8 @@
   {
     "name": "GOTO Copenhagen",
     "url": "https://gotocph.com",
-    "startDate": "2021-09-21",
-    "endDate": "2021-09-22",
+    "startDate": "2021-11-08",
+    "endDate": "2021-11-12",
     "city": "Copenhagen",
     "country": "Denmark",
     "online": false,
@@ -1136,5 +1136,15 @@
     "cfpUrl": "https://forms.gle/KxDAJFwhjFB6RVvR9",
     "cfpEndDate": "2021-08-31",
     "url": "https://linuxconf.co.za"
+  },
+  {
+    "name": "Embedded Fest",
+    "startDate": "2021-12-03",
+    "endDate": "2021-12-03",
+    "online": true,
+    "cfpUrl": "https://embeddedfest.com/speakers_eng.html",
+    "cfpEndDate": "2021-10-29",
+    "cocUrl": "https://embeddedfest.com/code%20of%20conduct.pdf",
+    "url": "https://embeddedfest.com"
   }
 ]
