@@ -112,6 +112,15 @@
     "cocUrl": "https://in.pycon.org/2021/coc.html"
   },
   {
+    "name": "PyConZA",
+    "url": "https://za.pycon.org",
+    "startDate": "2021-10-07",
+    "endDate": "2021-10-08",
+    "online": true,
+    "cfpUrl": "https://za.pycon.org/tickets/submit-talk",
+    "cfpEndDate": "2021-08-16"
+  },
+  {
     "name": "Xtreme Python",
     "url": "https://xtremepython.dev",
     "startDate": "2021-11-24",
@@ -121,14 +130,5 @@
     "cfpEndDate": "2021-07-31",
     "twitter": "@xtremepython",
     "cocUrl": "https://bit.ly/2NL4ehr"
-  },
-  {
-    "name": "PyConZA",
-    "startDate": "2021-10-07",
-    "endDate": "2021-10-08",
-    "online": true,
-    "cfpUrl": "https://za.pycon.org/tickets/submit-talk",
-    "cfpEndDate": "2021-08-16",
-    "url": "https://za.pycon.org"
   }
 ]
