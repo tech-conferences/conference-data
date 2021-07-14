@@ -194,6 +194,15 @@
     "cocUrl": "https://events.linuxfoundation.org/linux-security-summit-north-america/attend/code-of-conduct/"
   },
   {
+    "name": "IT Security Camp",
+    "url": "https://it-security-camp.de",
+    "startDate": "2021-10-11",
+    "endDate": "2021-10-13",
+    "online": true,
+    "twitter": "@ITSecurityCamp",
+    "cocUrl": "https://it-security-camp.de/code-of-conduct/"
+  },
+  {
     "name": "CyberSec&AI Connected",
     "url": "https://cybersecai.com",
     "startDate": "2021-11-04",
@@ -203,14 +212,5 @@
     "cfpEndDate": "2021-07-31",
     "twitter": "@CyberSecAI",
     "cocUrl": "https://www.avast.com/privacy-policy"
-  },
-  {
-    "name": "IT Security Camp",
-    "startDate": "2021-10-11",
-    "endDate": "2021-10-13",
-    "online": true,
-    "twitter": "@ITSecurityCamp",
-    "cocUrl": "https://it-security-camp.de/code-of-conduct/",
-    "url": "https://it-security-camp.de"
   }
 ]

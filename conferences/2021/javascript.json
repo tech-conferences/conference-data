@@ -447,6 +447,15 @@
     "offersSignLanguageOrCC": false
   },
   {
+    "name": "VinnytsiaJS",
+    "url": "https://vinnytsiajs.org",
+    "startDate": "2021-08-21",
+    "endDate": "2021-08-21",
+    "city": "Vinnytsia",
+    "country": "Ukraine",
+    "online": false
+  },
+  {
     "name": "React Day New York",
     "url": "https://reactnewyork.com",
     "startDate": "2021-09-10",
@@ -698,14 +707,5 @@
     "cfpEndDate": "2021-08-31",
     "twitter": "@xtremejsconf",
     "cocUrl": "https://bit.ly/2NL4ehr."
-  },
-  {
-    "name": "VinnytsiaJS",
-    "startDate": "2021-08-21",
-    "endDate": "2021-08-21",
-    "city": "Vinnytsia",
-    "country": "Ukraine",
-    "online": false,
-    "url": "https://vinnytsiajs.org"
   }
 ]
