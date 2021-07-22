@@ -674,6 +674,17 @@
     "cocUrl": "https://2021.connect.tech/codeofconduct/"
   },
   {
+    "name": "angularday",
+    "url": "https://2021.angularday.it",
+    "startDate": "2021-11-12",
+    "endDate": "2021-11-12",
+    "online": true,
+    "cfpUrl": "https://2021.angularday.it/welcome/cfp.html",
+    "cfpEndDate": "2021-09-15",
+    "twitter": "@angularday",
+    "cocUrl": "https://2021.angularday.it/welcome/coc.html"
+  },
+  {
     "name": "React India",
     "url": "https://www.reactindia.io",
     "startDate": "2021-11-12",
@@ -707,16 +718,5 @@
     "cfpEndDate": "2021-08-31",
     "twitter": "@xtremejsconf",
     "cocUrl": "https://bit.ly/2NL4ehr."
-  },
-  {
-    "name": "angularday",
-    "startDate": "2021-11-12",
-    "endDate": "2021-11-12",
-    "online": true,
-    "cfpUrl": "https://2021.angularday.it/welcome/cfp.html",
-    "cfpEndDate": "2021-09-15",
-    "twitter": "@angularday",
-    "cocUrl": "https://2021.angularday.it/welcome/coc.html",
-    "url": "https://2021.angularday.it"
   }
 ]
