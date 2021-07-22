@@ -866,6 +866,15 @@
     "cfpEndDate": "2021-08-31"
   },
   {
+    "name": "P99 CONF",
+    "url": "https://www.p99conf.io",
+    "startDate": "2021-10-06",
+    "endDate": "2021-10-07",
+    "online": true,
+    "twitter": "@p99conf",
+    "cocUrl": "https://www.p99conf.io/code-of-conduct/"
+  },
+  {
     "name": "Paris Web",
     "url": "https://www.paris-web.fr",
     "startDate": "2021-10-07",
@@ -1045,6 +1054,15 @@
     "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct"
   },
   {
+    "name": "QCon Plus",
+    "url": "https://plus.qconferences.com",
+    "startDate": "2021-11-01",
+    "endDate": "2021-11-05",
+    "online": true,
+    "twitter": "@QCon",
+    "cocUrl": "https://plus.qconferences.com/code-conduct"
+  },
+  {
     "name": "QCon San Francisco",
     "url": "https://qconsf.com",
     "startDate": "2021-11-01",
@@ -1163,23 +1181,5 @@
     "online": true,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "P99 CONF",
-    "startDate": "2021-10-06",
-    "endDate": "2021-10-07",
-    "online": true,
-    "twitter": "@p99conf",
-    "cocUrl": "https://www.p99conf.io/code-of-conduct/",
-    "url": "https://www.p99conf.io"
-  },
-  {
-    "name": "QCon Plus",
-    "startDate": "2021-11-01",
-    "endDate": "2021-11-05",
-    "online": true,
-    "twitter": "@QCon",
-    "cocUrl": "https://plus.qconferences.com/code-conduct",
-    "url": "https://plus.qconferences.com"
   }
 ]

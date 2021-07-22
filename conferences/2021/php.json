@@ -1,15 +1,4 @@
 [
-{
-    "name": "Italian LaravelDay",
-    "url": "https://2021.laravelday.it/",
-    "startDate": "2021-09-24",
-    "endDate": "2021-09-24",
-    "online": true,
-    "cfpUrl": "https://2021.laravelday.it/welcome/cfp.html",
-    "twitter": "@LaravelDayIt",
-    "cocUrl": "https://2021.laravelday.it/welcome/coc.html",
-    "offersSignLanguageOrCC": false
-  },  
   {
     "name": "Laracon EU",
     "url": "https://laracon.eu",
@@ -114,6 +103,17 @@
     "country": "France",
     "online": true,
     "twitter": "@ApiPlatform"
+  },
+  {
+    "name": "Italian LaravelDay",
+    "url": "https://2021.laravelday.it/",
+    "startDate": "2021-09-24",
+    "endDate": "2021-09-24",
+    "online": true,
+    "cfpUrl": "https://2021.laravelday.it/welcome/cfp.html",
+    "twitter": "@LaravelDayIt",
+    "cocUrl": "https://2021.laravelday.it/welcome/coc.html",
+    "offersSignLanguageOrCC": false
   },
   {
     "name": "Longhorn PHP",
