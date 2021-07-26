@@ -520,6 +520,16 @@
     "cfpEndDate": "2021-04-30"
   },
   {
+    "name": "Cloud-Native Days with Kubernetes",
+    "url": "https://www.mediaopsevents.com/cloudnative2021",
+    "startDate": "2021-08-04",
+    "endDate": "2021-08-05",
+    "online": true,
+    "cfpUrl": "https://www.mediaopsevents.com/cloudnative2021/home",
+    "cfpEndDate": "2021-06-01",
+    "twitter": "@ContainerBlog"
+  },
+  {
     "name": "Devopsdays Zurich",
     "url": "https://devopsdays.org/events/2021-zurich/welcome/",
     "startDate": "2021-09-07",
@@ -785,15 +795,5 @@
     "online": true,
     "twitter": "@devops_con",
     "cocUrl": "https://devopscon.io/code-of-conduct/"
-  },
-  {
-    "name": "Cloud-Native Days with Kubernetes",
-    "startDate": "2021-08-04",
-    "endDate": "2021-08-05",
-    "online": true,
-    "cfpUrl": "https://www.mediaopsevents.com/cloudnative2021/home",
-    "cfpEndDate": "2021-06-01",
-    "twitter": "@ContainerBlog",
-    "url": "https://www.mediaopsevents.com/cloudnative2021"
   }
 ]
