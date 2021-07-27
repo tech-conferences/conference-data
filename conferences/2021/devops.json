@@ -686,6 +686,17 @@
     "cocUrl": "https://itrevolution.com/privacy-policy/"
   },
   {
+    "name": "containerday Digital Edition",
+    "url": "https://2021.containerday.it",
+    "startDate": "2021-10-08",
+    "endDate": "2021-10-08",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfCSEUR2arZA8qKXGljxG6CscXEyBmJYqfeyAu8Vhd_in00aA/viewform",
+    "cfpEndDate": "2021-07-31",
+    "twitter": "@containerdayit",
+    "cocUrl": "https://2021.containerday.it/welcome/coc.html"
+  },
+  {
     "name": "KubeCon + CloudNativeCon North America",
     "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/",
     "startDate": "2021-10-12",
@@ -795,16 +806,5 @@
     "online": true,
     "twitter": "@devops_con",
     "cocUrl": "https://devopscon.io/code-of-conduct/"
-  },
-  {
-    "name": "containerday Digital Edition",
-    "startDate": "2021-10-08",
-    "endDate": "2021-10-08",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfCSEUR2arZA8qKXGljxG6CscXEyBmJYqfeyAu8Vhd_in00aA/viewform",
-    "cfpEndDate": "2021-07-31",
-    "twitter": "@containerdayit",
-    "cocUrl": "https://2021.containerday.it/welcome/coc.html",
-    "url": "https://2021.containerday.it"
   }
 ]

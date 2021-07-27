@@ -545,6 +545,15 @@
     "cocUrl": "https://conf.raku.org/coc"
   },
   {
+    "name": "Moar Serverless!!",
+    "url": "https://moarserverless.com",
+    "startDate": "2021-08-12",
+    "endDate": "2021-08-12",
+    "online": true,
+    "twitter": "@cfe_dev",
+    "cocUrl": "https://cfe.dev/conduct"
+  },
+  {
     "name": "WorldFestival",
     "url": "https://worldfestival.com",
     "startDate": "2021-08-17",
@@ -1190,14 +1199,5 @@
     "online": true,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "Moar Serverless!!",
-    "startDate": "2021-08-12",
-    "endDate": "2021-08-12",
-    "online": true,
-    "twitter": "@cfe_dev",
-    "cocUrl": "https://cfe.dev/conduct",
-    "url": "https://moarserverless.com"
   }
 ]
