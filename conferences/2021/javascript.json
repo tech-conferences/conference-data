@@ -539,17 +539,6 @@
     "twitter": "@vuejsamsterdam"
   },
   {
-    "name": "JSWorld Conference",
-    "url": "https://jsworldconference.com",
-    "startDate": "2021-10-05",
-    "endDate": "2021-10-06",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "online": true,
-    "twitter": "@Frontend_Love",
-    "cocUrl": "https://jsworldconference.com/code-of-conduct/"
-  },
-  {
     "name": "Angular Days",
     "url": "https://javascript-days.de/angular/",
     "startDate": "2021-10-04",
@@ -580,6 +569,17 @@
     "country": "Germany",
     "online": true,
     "twitter": "@js_days"
+  },
+  {
+    "name": "JSWorld Conference",
+    "url": "https://jsworldconference.com",
+    "startDate": "2021-10-05",
+    "endDate": "2021-10-06",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": true,
+    "twitter": "@Frontend_Love",
+    "cocUrl": "https://jsworldconference.com/code-of-conduct/"
   },
   {
     "name": "React Conference Live",
@@ -637,7 +637,7 @@
     "cfpEndDate": "2021-09-13",
     "twitter": "@conf42com"
   },
-   {
+  {
     "name": "JSworld Conference Africa",
     "url": "https://africa.jsworldconference.com",
     "startDate": "2021-10-29",
