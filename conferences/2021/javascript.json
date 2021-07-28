@@ -346,15 +346,6 @@
     "cocUrl": "https://live.jsnation.com/coc"
   },
   {
-    "name": "JSworld Conference Africa",
-    "url": "https://africa.jsworldconference.com",
-    "startDate": "2021-06-11",
-    "endDate": "2021-06-11",
-    "online": true,
-    "twitter": "@Frontend_Love",
-    "cocUrl": "https://africa.jsworldconference.com/code-of-conduct/"
-  },
-  {
     "name": "Lazy Load",
     "url": "https://www.webdirections.org/lazyload",
     "startDate": "2021-06-11",
@@ -548,10 +539,10 @@
     "twitter": "@vuejsamsterdam"
   },
   {
-    "name": "JSWORLD Conference",
+    "name": "JSWorld Conference",
     "url": "https://jsworldconference.com",
-    "startDate": "2021-10-04",
-    "endDate": "2021-10-05",
+    "startDate": "2021-10-05",
+    "endDate": "2021-10-06",
     "city": "Amsterdam",
     "country": "Netherlands",
     "online": true,
@@ -645,6 +636,15 @@
     "cfpUrl": "https://www.papercall.io/conf42-javascript-2021",
     "cfpEndDate": "2021-09-13",
     "twitter": "@conf42com"
+  },
+   {
+    "name": "JSworld Conference Africa",
+    "url": "https://africa.jsworldconference.com",
+    "startDate": "2021-10-29",
+    "endDate": "2021-10-29",
+    "online": true,
+    "twitter": "@Frontend_Love",
+    "cocUrl": "https://africa.jsworldconference.com/code-of-conduct/"
   },
   {
     "name": "CascadiaJS",
