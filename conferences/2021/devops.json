@@ -675,6 +675,19 @@
     "cocUrl": "https://devopsdays.org/conduct/"
   },
   {
+    "name": "Demuxed",
+    "url": "https://2021.demuxed.com",
+    "startDate": "2021-10-5",
+    "endDate": "2021-10-7",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": true,
+    "cfpUrl": "https://2021.demuxed.com/submit",
+    "cfpEndDate": "2021-07-31",
+    "twitter": "@demuxed",
+    "cocUrl": "https://demuxed.com/code-of-conduct/"
+  },
+  {
     "name": "DevOps Enterprise Summit Virtual - US",
     "url": "https://events.itrevolution.com/virtual",
     "startDate": "2021-10-05",
@@ -806,18 +819,5 @@
     "online": true,
     "twitter": "@devops_con",
     "cocUrl": "https://devopscon.io/code-of-conduct/"
-  },
-  {
-    "name": "Demuxed",
-    "startDate": "2021-10-5",
-    "endDate": "2021-10-7",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": true,
-    "cfpUrl": "https://2021.demuxed.com/submit",
-    "cfpEndDate": "2021-07-31",
-    "twitter": "@demuxed",
-    "cocUrl": "https://demuxed.com/code-of-conduct/",
-    "url": "https://2021.demuxed.com"
   }
 ]

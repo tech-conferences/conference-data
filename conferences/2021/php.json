@@ -127,6 +127,17 @@
     "cocUrl": "https://www.longhornphp.com/code-of-conduct"
   },
   {
+    "name": "ScotlandPHP",
+    "url": "https://conference.scotlandphp.co.uk/2021",
+    "startDate": "2021-10-22",
+    "endDate": "2021-10-23",
+    "city": "Edinburgh",
+    "country": "Scotland",
+    "online": false,
+    "twitter": "@scotlandphp",
+    "cocUrl": "https://conference.scotlandphp.co.uk/2021/code-of-conduct"
+  },
+  {
     "name": "International PHP Conference Munich",
     "url": "https://phpconference.com/munich",
     "startDate": "2021-10-25",
@@ -159,16 +170,5 @@
     "cfpEndDate": "2021-03-29",
     "twitter": "@SymfonyCon",
     "cocUrl": "https://symfony.com/doc/current/contributing/code_of_conduct/care_team.html"
-  },
-  {
-    "name": "ScotlandPHP",
-    "startDate": "2021-10-22",
-    "endDate": "2021-10-23",
-    "city": "Edinburgh",
-    "country": "Scotland",
-    "online": false,
-    "twitter": "@scotlandphp",
-    "cocUrl": "https://conference.scotlandphp.co.uk/2021/code-of-conduct",
-    "url": "https://conference.scotlandphp.co.uk/2021"
   }
 ]
