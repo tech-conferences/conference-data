@@ -164,6 +164,16 @@
     "twitter": "@savvyuxsummit"
   },
   {
+    "name": "Amuse",
+    "url": "https://amuseconf.com",
+    "startDate": "2021-10-04",
+    "endDate": "2021-10-06",
+    "city": "Budapest",
+    "country": "Hungary",
+    "online": true,
+    "twitter": "@amuseconf"
+  },
+  {
     "name": "World Usability Congress",
     "url": "https://worldusabilitycongress.com",
     "startDate": "2021-10-13",
@@ -193,15 +203,5 @@
     "country": "Canada",
     "twitter": "@canuxconf",
     "cocUrl": "https://canux.io/about/code-of-conduct/"
-  },
-  {
-    "name": "Amuse",
-    "startDate": "2021-10-04",
-    "endDate": "2021-10-06",
-    "city": "Budapest",
-    "country": "Hungary",
-    "online": true,
-    "twitter": "@amuseconf",
-    "url": "https://amuseconf.com"
   }
 ]

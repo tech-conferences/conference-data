@@ -84,6 +84,15 @@
     "cocUrl": "https://nebraskacode.amegala.com/Conduct"
   },
   {
+    "name": ".NET fwdays",
+    "url": "https://fwdays.com/en/event/dotnet-fwdays-2021",
+    "startDate": "2021-08-07",
+    "endDate": "2021-08-07",
+    "online": true,
+    "twitter": "@fwdays",
+    "cocUrl": "https://bit.ly/3xgRcJL"
+  },
+  {
     "name": "Visual Studio Live! Microsoft Headquarters",
     "url": "https://vslive.com/events/redmond-2020/home.aspx",
     "startDate": "2021-08-09",
@@ -159,14 +168,5 @@
     "online": true,
     "twitter": "@update_conf",
     "offersSignLanguageOrCC": true
-  },
-  {
-    "name": ".NET fwdays",
-    "startDate": "2021-08-07",
-    "endDate": "2021-08-07",
-    "online": true,
-    "twitter": "@fwdays",
-    "cocUrl": "https://bit.ly/3xgRcJL",
-    "url": "https://fwdays.com/en/event/dotnet-fwdays-2021"
   }
 ]
