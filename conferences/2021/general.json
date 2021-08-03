@@ -1030,6 +1030,17 @@
     "cocUrl": "https://www.techbash.com/code-of-conduct"
   },
   {
+    "name": "TechBash",
+    "url": "https://www.techbash.com",
+    "startDate": "2021-10-19",
+    "endDate": "2021-10-22",
+    "city": "Mt Pocono, PA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@techbash",
+    "cocUrl": "https://techbash.com/code-of-conduct"
+  },
+  {
     "name": "HackConf",
     "url": "https://www.hackconf.bg",
     "startDate": "2021-10-22",
@@ -1199,16 +1210,5 @@
     "online": true,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "TechBash",
-    "startDate": "2021-10-19",
-    "endDate": "2021-10-22",
-    "city": "Mt Pocono, PA",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@techbash",
-    "cocUrl": "https://techbash.com/code-of-conduct",
-    "url": "https://www.techbash.com"
   }
 ]

@@ -121,6 +121,15 @@
     "cfpEndDate": "2021-08-16"
   },
   {
+    "name": "Machine Learning Summit",
+    "url": "https://mlsummit.ai",
+    "startDate": "2021-10-11",
+    "endDate": "2021-10-13",
+    "online": true,
+    "twitter": "@MLSummit_DE",
+    "cocUrl": "https://mlsummit.ai/code-of-conduct/"
+  },
+  {
     "name": "Xtreme Python",
     "url": "https://xtremepython.dev",
     "startDate": "2021-11-24",
@@ -130,14 +139,5 @@
     "cfpEndDate": "2021-07-31",
     "twitter": "@xtremepython",
     "cocUrl": "https://bit.ly/2NL4ehr"
-  },
-  {
-    "name": "Machine Learning Summit",
-    "startDate": "2021-10-11",
-    "endDate": "2021-10-13",
-    "online": true,
-    "twitter": "@MLSummit_DE",
-    "cocUrl": "https://mlsummit.ai/code-of-conduct/",
-    "url": "https://mlsummit.ai"
   }
 ]
