@@ -10,6 +10,7 @@ const usaStateRegex = /, ([A-Z][A-Z])|(D.C.)$/;
 const emptyStringRegex = /^\s+$|^$/gi;
 const onlineRegex = /online|remote|everywhere|world|web|global|virtual|www|http/i;
 const dateFormat = 'yyyy-MM-dd';
+const dateRegex = /(2\d\d\d)-(0[1-9])|(1[012])-(0[1-9])|([12][0-9])|(3[01])/;
 const REQUIRED_KEYS = ['name', 'url', 'startDate', 'endDate'];
 const validLocationsHint = ' - Check/Maintain the file "config/validLocations.js"';
 
@@ -25,12 +26,14 @@ module.exports = function checkConference(year, conference, assertField) {
     });
     assertField(name.indexOf(year.substring(2, 4)) === -1, 'name', 'should not contain the year', name);
     checkUrl(conference, 'url');
+    assertField(dateRegex.test(conference.startDate), 'startDate', 'should be of format yyyy-mm-dd', conference.startDate);
+    assertField(conference.startDate.length === 10, 'startDate', 'should have a length of 10 characters', conference.startDate);
     const startDate = parse(conference.startDate, dateFormat, new Date());
-    assertField(conference.startDate.length === 10, 'startDate', 'should be of format yyyy-mm-dd', conference.startDate);
     assertField(startDate.getFullYear() == year, 'startDate', 'should be in the same year as file location', startDate.getFullYear());
+    assertField(dateRegex.test(conference.endDate), 'endDate', 'should be of format yyyy-mm-dd', conference.endDate);
+    assertField(conference.endDate.length === 10, 'endDate', 'should have a length of 10 characters', conference.endDate);
     const endDate = parse(conference.endDate, dateFormat, new Date());
     assertField(startDate.getTime() <= endDate.getTime(), 'endDate', 'should be after start date', `${conference.startDate} <= ${conference.endDate}`);
-    assertField(conference.endDate.length === 10, 'endDate', 'should be of format yyyy-mm-dd', conference.endDate);
     const hasCountry = conference.hasOwnProperty('country');
     const hasCity = conference.hasOwnProperty('city');
     var hasOnline = conference.hasOwnProperty('online');
