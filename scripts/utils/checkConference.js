@@ -26,9 +26,11 @@ module.exports = function checkConference(year, conference, assertField) {
     assertField(name.indexOf(year.substring(2, 4)) === -1, 'name', 'should not contain the year', name);
     checkUrl(conference, 'url');
     const startDate = parse(conference.startDate, dateFormat, new Date());
+    assertField(conference.startDate.length === 10, 'startDate', 'should be of format yyyy-mm-dd', conference.startDate);
     assertField(startDate.getFullYear() == year, 'startDate', 'should be in the same year as file location', startDate.getFullYear());
     const endDate = parse(conference.endDate, dateFormat, new Date());
     assertField(startDate.getTime() <= endDate.getTime(), 'endDate', 'should be after start date', `${conference.startDate} <= ${conference.endDate}`);
+    assertField(conference.endDate.length === 10, 'endDate', 'should be of format yyyy-mm-dd', conference.endDate);
     const hasCountry = conference.hasOwnProperty('country');
     const hasCity = conference.hasOwnProperty('city');
     var hasOnline = conference.hasOwnProperty('online');
