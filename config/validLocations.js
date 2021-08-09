@@ -11,7 +11,8 @@ module.exports = {
     "Melbourne",
     "Perth",
     "Sidney",
-    "Sydney"
+    "Sydney",
+    "South Wharf"
   ],
   "Austria": [
     "Dornbirn",
@@ -94,6 +95,7 @@ module.exports = {
     "Nanjing",
     "Shanghai",
     "Shenzhen",
+    "Hainan Island",
     "Zhengzhou"
   ],
   "Colombia": [
@@ -621,6 +623,7 @@ module.exports = {
     "Oakland, CA",
     "Oklahoma City, OK",
     "Omaha, NE",
+    "Oxon Hill, MD",
     "Orlando, FL",
     "Palm Springs, CA",
     "Palo Alto, CA",

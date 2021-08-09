@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Software Quality Days",
+    "url": "https://www.software-quality-days.com/",
+    "startDate": "2022-01-18",
+    "endDate": "2022-01-20",
+    "city": "Vienna",
+    "country": "Austria"
+  },
+  {
+    "name": "QA or the Highway",
+    "url": "https://www.qaorthehighway.com/",
+    "startDate": "2022-02-22",
+    "endDate": "2022-02-22",
+    "twitter": "@QAortheHighway",
+    "city": "Columbus, OH",
+    "country": "U.S.A."
+  },
+  {
+    "name": "QA & TEST Safety and Security Online",
+    "url": "https://safety.qatest.org/",
+    "startDate": "2022-03-17",
+    "endDate": "2022-03-18",
+    "twitter": "@QATestBilbao",
+    "online": true
+  },
+  {
+    "name": "Agile Testing Days Open Air",
+    "url": "https://openair.agiletestingdays.com",
+    "startDate": "2022-05-18",
+    "endDate": "2022-05-19",
+    "city": "Cologne",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@AgileTD",
+    "cocUrl": "https://agiletestingdays.com/code-of-conduct/"
+  },
+  {
+    "name": "expo:QA",
+    "url": "http://www.expoqa.com/",
+    "startDate": "2022-05-31",
+    "endDate": "2022-06-2",
+    "twitter": "@expoqa",
+    "city": "Madrid",
+    "country": "Spain"
+  },
+  {
+    "name": "Agile Testing Days USA",
+    "url": "https://agiletestingdays.us",
+    "startDate": "2022-06-05",
+    "endDate": "2022-06-09",
+    "city": "Chicago, IL",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@AgileTDUSA",
+    "cocUrl": "https://agiletestingdays.us/code-of-conduct/"
+  },
+  {
+    "name": "IEEE AUTOTESTCON",
+    "url": "https://www.autotestcon.com/",
+    "startDate": "2022-08-28",
+    "endDate": "2022-08-31",
+    "city": "Oxon Hill, MD",
+    "country": "U.S.A."
+  }
+]

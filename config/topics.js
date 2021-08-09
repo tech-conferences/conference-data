@@ -1,9 +1,9 @@
 module.exports = [
   "android",
+  "cfml",
   "clojure",
   "cpp",
   "css",
-  "cfml",
   "data",
   "devops",
   "dotnet",
@@ -28,6 +28,7 @@ module.exports = [
   "scala",
   "security",
   "tech-comm",
+  "testing",
   "typescript",
   "ux"
 ];
