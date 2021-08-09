@@ -60,4 +60,5 @@ Conference data have the following structure:
 - [See all TypeScript conferences](https://confs.tech/typescript)
 - [See all Product conferences](https://confs.tech/product)
 - [See all Leadership conferences](https://confs.tech/product)
+- [See all Testing conferences](https://confs.tech/testing)
 - [See general conferences](https://confs.tech/general)
