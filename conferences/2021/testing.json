@@ -4,24 +4,24 @@
     "url": "https://testinguy.org/edition-2021/",
     "startDate": "2021-08-02",
     "endDate": "2021-08-07",
-    "twitter": "@testingUY",
-    "online": true
+    "online": true,
+    "twitter": "@testingUY"
   },
   {
     "name": "Agile, DevOps and Testing - New Directions in Methods and Tools",
     "url": "https://www.unicomlearning.com/2021/ADT-August/",
     "startDate": "2021-08-04",
     "endDate": "2021-08-05",
-    "twitter": "@UNICOMLearning",
-    "online": true
+    "online": true,
+    "twitter": "@UNICOMLearning"
   },
   {
     "name": "Future of Testing: Mobile",
     "url": "https://applitools.com/future-of-testing-mobile-apac-2021/",
     "startDate": "2021-08-10",
     "endDate": "2021-08-10",
-    "twitter": "@applitools",
-    "online": true
+    "online": true,
+    "twitter": "@applitools"
   },
   {
     "name": "QA Global Summit Volume 2",
@@ -35,18 +35,18 @@
     "url": "http://www.testcon.lt/",
     "startDate": "2021-09-07",
     "endDate": "2021-09-09",
-    "twitter": "@TestConEurope",
     "city": "Vilnius",
-    "country": "Lithuania"
+    "country": "Lithuania",
+    "twitter": "@TestConEurope"
   },
   {
     "name": "Swiss Testing Day",
     "url": "https://swisstestingday.ch/",
     "startDate": "2021-09-14",
     "endDate": "2021-09-14",
-    "twitter": "@SwissTesting",
     "city": "Zurich",
-    "country": "Switzerland"
+    "country": "Switzerland",
+    "twitter": "@SwissTesting"
   },
   {
     "name": "Tesena Fest Online",
@@ -74,19 +74,19 @@
     "url": "https://seetest.org/",
     "startDate": "2021-09-27",
     "endDate": "2021-09-29",
-    "twitter": "@SEETESTConf",
     "city": "Belgrade",
     "country": "Serbia",
-    "online": true
+    "online": true,
+    "twitter": "@SEETESTConf"
   },
   {
     "name": "STPCon Fall",
     "url": "https://stpcon.com/",
     "startDate": "2021-09-27",
     "endDate": "2021-09-29",
-    "twitter": "@SoftwareTestPro",
     "city": "St. Louis, MO",
-    "country": "U.S.A."
+    "country": "U.S.A.",
+    "twitter": "@SoftwareTestPro"
   },
   {
     "name": "EuroSTAR Software Testing Conference",
@@ -102,8 +102,8 @@
     "url": "https://www.inflectracon.com/",
     "startDate": "2021-10-01",
     "endDate": "2021-10-01",
-    "twitter": "@InflectraCon",
-    "online": true
+    "online": true,
+    "twitter": "@InflectraCon"
   },
   {
     "name": "QA: Challenge Accepted 007",
@@ -119,10 +119,10 @@
     "url": "https://starwest.techwell.com/",
     "startDate": "2021-10-03",
     "endDate": "2021-10-08",
-    "twitter": "@techwell",
     "city": "Anaheim, CA",
     "country": "U.S.A.",
-    "online": true
+    "online": true,
+    "twitter": "@techwell"
   },
   {
     "name": "SANAE BEER.EX Software Testing Conference",
@@ -137,24 +137,24 @@
     "url": "https://www.pnsqc.org/2021-conference",
     "startDate": "2021-10-11",
     "endDate": "2021-10-13",
-    "twitter": "@PNSQC",
-    "online": true
+    "online": true,
+    "twitter": "@PNSQC"
   },
   {
     "name": "HUSTEF - Hungarian Software Testing Forum",
     "url": "https://hustef.hu/",
     "startDate": "2021-10-18",
     "endDate": "2021-10-21",
-    "twitter": "@HUSTEF2021",
-    "online": true
+    "online": true,
+    "twitter": "@HUSTEF2021"
   },
   {
     "name": "QA & TEST Embedded",
     "url": "https://embedded.qatest.org/",
     "startDate": "2021-10-20",
     "endDate": "2021-10-22",
-    "twitter": "@QATestBilbao",
-    "online": true
+    "online": true,
+    "twitter": "@QATestBilbao"
   },
   {
     "name": "ICSSTVV - International Conference on Software System Testing, Validation and Verification",
@@ -169,25 +169,25 @@
     "url": "https://www.thetesttribe.com/testflix-2021/",
     "startDate": "2021-10-23",
     "endDate": "2021-10-24",
-    "twitter": "@the_test_tribe",
-    "online": true
+    "online": true,
+    "twitter": "@the_test_tribe"
   },
   {
     "name": "Testing Talks Online",
     "url": "https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2021",
     "startDate": "2021-10-28",
     "endDate": "2021-10-28",
-    "twitter": "@testingtalks",
     "city": "South Wharf",
-    "country": "Australia"
+    "country": "Australia",
+    "twitter": "@testingtalks"
   },
   {
     "name": "OnlineTestConf Fall",
     "url": "https://www.onlinetestconf.com/",
     "startDate": "2021-11-03",
     "endDate": "2021-11-04",
-    "twitter": "@OnlineTestConf",
-    "online": true
+    "online": true,
+    "twitter": "@OnlineTestConf"
   },
   {
     "name": "CAST",
@@ -210,9 +210,9 @@
     "url": "https://testingunited.com/",
     "startDate": "2021-11-11",
     "endDate": "2021-11-12",
-    "twitter": "@testing_united",
     "city": "Prague",
-    "country": "Czech Republic"
+    "country": "Czech Republic",
+    "twitter": "@testing_united"
   },
   {
     "name": "Agile Testing Days",
@@ -230,8 +230,8 @@
     "url": "https://paristestconf.com/",
     "startDate": "2021-11-22",
     "endDate": "2021-11-26",
-    "twitter": "@ParisTestConf",
-    "online": true
+    "online": true,
+    "twitter": "@ParisTestConf"
   },
   {
     "name": "System Testing and Validation (STV) Workshop at IEEE QRS conference",

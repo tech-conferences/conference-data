@@ -12,17 +12,17 @@
     "url": "https://www.qaorthehighway.com/",
     "startDate": "2022-02-22",
     "endDate": "2022-02-22",
-    "twitter": "@QAortheHighway",
     "city": "Columbus, OH",
-    "country": "U.S.A."
+    "country": "U.S.A.",
+    "twitter": "@QAortheHighway"
   },
   {
     "name": "QA & TEST Safety and Security Online",
     "url": "https://safety.qatest.org/",
     "startDate": "2022-03-17",
     "endDate": "2022-03-18",
-    "twitter": "@QATestBilbao",
-    "online": true
+    "online": true,
+    "twitter": "@QATestBilbao"
   },
   {
     "name": "Agile Testing Days Open Air",
@@ -40,9 +40,9 @@
     "url": "http://www.expoqa.com/",
     "startDate": "2022-05-31",
     "endDate": "2022-06-02",
-    "twitter": "@expoqa",
     "city": "Madrid",
-    "country": "Spain"
+    "country": "Spain",
+    "twitter": "@expoqa"
   },
   {
     "name": "Agile Testing Days USA",
