@@ -205,6 +205,26 @@
     "cocUrl": "https://events.linuxfoundation.org/linux-security-summit-north-america/attend/code-of-conduct/"
   },
   {
+    "name": "Security Onion Conference",
+    "url": "https://securityonionsolutions.com/conference",
+    "startDate": "2021-10-01",
+    "endDate": "2021-10-01",
+    "city": "Augusta, GA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@securityonion"
+  },
+  {
+    "name": "BSides",
+    "url": "https://bsidesaugusta.org",
+    "startDate": "2021-10-02",
+    "endDate": "2021-10-02",
+    "city": "Augusta, GA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@bsidesaugusta"
+  },
+  {
     "name": "IT Security Camp",
     "url": "https://it-security-camp.de",
     "startDate": "2021-10-11",
@@ -223,25 +243,5 @@
     "cfpEndDate": "2021-07-31",
     "twitter": "@CyberSecAI",
     "cocUrl": "https://www.avast.com/privacy-policy"
-  },
-  {
-    "name": "BSides",
-    "startDate": "2021-10-02",
-    "endDate": "2021-10-02",
-    "city": "Augusta, GA",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@bsidesaugusta",
-    "url": "https://bsidesaugusta.org"
-  },
-  {
-    "name": "Security Onion Conference",
-    "startDate": "2021-10-01",
-    "endDate": "2021-10-01",
-    "city": "Augusta, GA",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@securityonion",
-    "url": "https://securityonionsolutions.com/conference"
   }
 ]

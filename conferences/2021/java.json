@@ -78,6 +78,15 @@
     "cocUrl": "https://berlincodeofconduct.org"
   },
   {
+    "name": "WeAreDevelopers Live - Java Day",
+    "url": "https://www.wearedevelopers.com/event/java-day-0921",
+    "startDate": "2021-09-01",
+    "endDate": "2021-09-01",
+    "online": true,
+    "twitter": "@wearedevs",
+    "cocUrl": "https://www.wearedevelopers.com/about/legal/diversity-inclusion"
+  },
+  {
     "name": "JavaZone",
     "url": "http://javazone.no",
     "startDate": "2021-09-08",
@@ -204,14 +213,5 @@
     "online": true,
     "twitter": "@nofluff",
     "cocUrl": "https://archconf.com/home/code_of_conduct"
-  },
-  {
-    "name": "WeAreDevelopers Live - Java Day",
-    "startDate": "2021-09-01",
-    "endDate": "2021-09-01",
-    "online": true,
-    "twitter": "@wearedevs",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/diversity-inclusion",
-    "url": "https://www.wearedevelopers.com/event/java-day-0921"
   }
 ]

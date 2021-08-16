@@ -782,6 +782,17 @@
     "cocUrl": "https://www.fullstackday.com/codeofconduct.html"
   },
   {
+    "name": "WeAreDevelopers Live - Cloud Day",
+    "url": "https://www.wearedevelopers.com/event/cloud-day",
+    "startDate": "2021-09-22",
+    "endDate": "2021-09-22",
+    "online": true,
+    "cfpUrl": "https://www.wearedevelopers.com/speakers/call-for-speakers",
+    "cfpEndDate": "2021-08-25",
+    "twitter": "@wearedevs",
+    "cocUrl": "https://www.wearedevelopers.com/about/legal/diversity-inclusion"
+  },
+  {
     "name": "Wild West Hackin’ Fest - Deadwood",
     "url": "https://wildwesthackinfest.com/deadwood",
     "startDate": "2021-09-22",
@@ -967,6 +978,17 @@
     "online": true
   },
   {
+    "name": "WeAreDevelopers Live - Machine Learning Day",
+    "url": "https://www.wearedevelopers.com/event/machine-learning-day-1021",
+    "startDate": "2021-10-13",
+    "endDate": "2021-10-13",
+    "online": true,
+    "cfpUrl": "https://www.wearedevelopers.com/speakers/call-for-speakers",
+    "cfpEndDate": "2021-09-15",
+    "twitter": "@wearedevs",
+    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct"
+  },
+  {
     "name": "Infoshare",
     "url": "https://infoshare.pl",
     "startDate": "2021-10-14",
@@ -1042,6 +1064,16 @@
     "twitter": "@HackConf_"
   },
   {
+    "name": "BlaBlaConf",
+    "url": "https://www.blablaconf.com",
+    "startDate": "2021-10-22",
+    "endDate": "2021-10-26",
+    "online": true,
+    "cfpUrl": "https://forms.gle/9HoaASXAQLJFWbmP9",
+    "cfpEndDate": "2021-08-31",
+    "twitter": "@geeksblabla"
+  },
+  {
     "name": "API World",
     "url": "https://apiworld.co",
     "startDate": "2021-10-26",
@@ -1096,6 +1128,17 @@
     "offersSignLanguageOrCC": false
   },
   {
+    "name": "WeAreDevelopers Live - Mobile Day",
+    "url": "https://www.wearedevelopers.com/event/mobile-day",
+    "startDate": "2021-11-03",
+    "endDate": "2021-11-03",
+    "online": true,
+    "cfpUrl": "https://www.wearedevelopers.com/speakers/call-for-speakers",
+    "cfpEndDate": "2021-10-06",
+    "twitter": "@wearedevs",
+    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct"
+  },
+  {
     "name": "The Big Transaction",
     "url": "https://www.thebigtransaction.com",
     "startDate": "2021-11-04",
@@ -1142,6 +1185,17 @@
     "cfpEndDate": "2021-07-09",
     "twitter": "@CodemotionIT",
     "cocUrl": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-italian-edition-autumn/code-of-conduct"
+  },
+  {
+    "name": "Haskell eXchange",
+    "url": "https://events.skillsmatter.com/haskellx2021",
+    "startDate": "2021-11-15",
+    "endDate": "2021-11-17",
+    "online": true,
+    "cfpUrl": "https://skillsmatter.com/conferences/13256-haskell-exchange-2021#get_involved",
+    "cfpEndDate": "2021-09-26",
+    "twitter": "@skillsmatter",
+    "cocUrl": "https://skillsmatter.com/go/code-of-conduct"
   },
   {
     "name": "Live! 360",
@@ -1203,68 +1257,14 @@
     "cocUrl": "https://devternity.com/code_of_conduct.html"
   },
   {
-    "name": "Haskell eXchange",
-    "startDate": "2021-11-15",
-    "endDate": "2021-11-17",
-    "online": true,
-    "cfpUrl": "https://skillsmatter.com/conferences/13256-haskell-exchange-2021#get_involved",
-    "cfpEndDate": "2021-09-26",
-    "twitter": "@skillsmatter",
-    "cocUrl": "https://skillsmatter.com/go/code-of-conduct",
-    "url": "https://events.skillsmatter.com/haskellx2021"
-  },
-  {
     "name": "WeAreDevelopers Live - Game Development Day",
+    "url": "https://www.wearedevelopers.com/event/game-development-day",
     "startDate": "2021-12-15",
     "endDate": "2021-12-15",
     "online": true,
     "cfpUrl": "https://www.wearedevelopers.com/speakers/call-for-speakers",
     "cfpEndDate": "2021-11-17",
     "twitter": "@wearedevs",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct",
-    "url": "https://www.wearedevelopers.com/event/game-development-day"
-  },
-  {
-    "name": "WeAreDevelopers Live - Mobile Day",
-    "startDate": "2021-11-03",
-    "endDate": "2021-11-03",
-    "online": true,
-    "cfpUrl": "https://www.wearedevelopers.com/speakers/call-for-speakers",
-    "cfpEndDate": "2021-10-06",
-    "twitter": "@wearedevs",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct",
-    "url": "https://www.wearedevelopers.com/event/mobile-day"
-  },
-  {
-    "name": "WeAreDevelopers Live - Machine Learning Day",
-    "startDate": "2021-10-13",
-    "endDate": "2021-10-13",
-    "online": true,
-    "cfpUrl": "https://www.wearedevelopers.com/speakers/call-for-speakers",
-    "cfpEndDate": "2021-09-15",
-    "twitter": "@wearedevs",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct",
-    "url": "https://www.wearedevelopers.com/event/machine-learning-day-1021"
-  },
-  {
-    "name": "WeAreDevelopers Live - Cloud Day",
-    "startDate": "2021-09-22",
-    "endDate": "2021-09-22",
-    "online": true,
-    "cfpUrl": "https://www.wearedevelopers.com/speakers/call-for-speakers",
-    "cfpEndDate": "2021-08-25",
-    "twitter": "@wearedevs",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/diversity-inclusion",
-    "url": "https://www.wearedevelopers.com/event/cloud-day"
-  },
-  {
-    "name": "BlaBlaConf",
-    "startDate": "2021-10-22",
-    "endDate": "2021-10-26",
-    "online": true,
-    "cfpUrl": "https://forms.gle/9HoaASXAQLJFWbmP9",
-    "cfpEndDate": "2021-08-31",
-    "twitter": "@geeksblabla",
-    "url": "https://www.blablaconf.com"
+    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct"
   }
 ]
