@@ -159,6 +159,17 @@
     "cocUrl": "https://prairiecode.amegala.com/Conduct"
   },
   {
+    "name": "WeAreDevelopers Live - .NET Day",
+    "url": "https://www.wearedevelopers.com/event/net-day",
+    "startDate": "2021-10-27",
+    "endDate": "2021-10-27",
+    "online": true,
+    "cfpUrl": "https://www.wearedevelopers.com/speakers/call-for-speakers",
+    "cfpEndDate": "2021-09-30",
+    "twitter": "@wearedevs",
+    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct"
+  },
+  {
     "name": "Update Conference Prague",
     "url": "https://www.updateconference.net",
     "startDate": "2021-11-18",
@@ -181,16 +192,5 @@
     "cfpEndDate": "2021-07-31",
     "twitter": "@devintersection",
     "cocUrl": "https://devintersection.com/#!/conduct"
-  },
-  {
-    "name": "WeAreDevelopers Live - .NET Day",
-    "startDate": "2021-10-27",
-    "endDate": "2021-10-27",
-    "online": true,
-    "cfpUrl": "https://www.wearedevelopers.com/speakers/call-for-speakers",
-    "cfpEndDate": "2021-09-30",
-    "twitter": "@wearedevs",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct",
-    "url": "https://www.wearedevelopers.com/event/net-day"
   }
 ]
