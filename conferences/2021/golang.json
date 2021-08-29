@@ -29,5 +29,16 @@
     "online": true,
     "twitter": "@gophercon",
     "cocUrl": "https://golang.org/conduct"
+  },
+  {
+    "name": "GopherCon Poland",
+    "startDate": "2021-09-15",
+    "endDate": "2021-09-15",
+    "online": true,
+    "cfpUrl": "https://eventil.com/events/gophercon-poland/cfp",
+    "cfpEndDate": "2021-08-31",
+    "twitter": "@GopherConPL",
+    "cocUrl": "https://gophercon.pl/code-of-conduct.html#section-code-of-conduct",
+    "url": "https://gophercon.pl"
   }
 ]
