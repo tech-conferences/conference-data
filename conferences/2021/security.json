@@ -169,6 +169,15 @@
     "cocUrl": "https://it-security-summit.de/code-of-conduct/"
   },
   {
+    "name": "HexCon",
+    "url": "https://www.hexnode.com/events/hexcon21",
+    "startDate": "2021-09-21",
+    "endDate": "2021-09-23",
+    "online": true,
+    "twitter": "@thehexnode",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Qubit Conference",
     "url": "https://prague.qubitconference.com",
     "startDate": "2021-09-22",
@@ -243,14 +252,5 @@
     "cfpEndDate": "2021-07-31",
     "twitter": "@CyberSecAI",
     "cocUrl": "https://www.avast.com/privacy-policy"
-  },
-  {
-    "name": "HexCon",
-    "startDate": "2021-09-21",
-    "endDate": "2021-09-23",
-    "online": true,
-    "twitter": "@thehexnode",
-    "offersSignLanguageOrCC": true,
-    "url": "https://www.hexnode.com/events/hexcon21"
   }
 ]

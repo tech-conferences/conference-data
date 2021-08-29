@@ -121,6 +121,13 @@
     "cocUrl": "https://skillsmatter.com/go/code-of-conduct"
   },
   {
+    "name": "ProductCamp",
+    "url": "https://productcamp.pl",
+    "startDate": "2021-09-14",
+    "endDate": "2021-09-15",
+    "online": true
+  },
+  {
     "name": "Business of Software",
     "url": "https://businessofsoftware.org",
     "startDate": "2021-09-27",
@@ -148,12 +155,5 @@
     "online": true,
     "twitter": "@canvasconf",
     "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "ProductCamp",
-    "startDate": "2021-09-14",
-    "endDate": "2021-09-15",
-    "online": true,
-    "url": "https://productcamp.pl"
   }
 ]

@@ -350,6 +350,15 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Big Data and AI Toronto",
+    "url": "https://www.bigdata-toronto.com",
+    "startDate": "2021-10-13",
+    "endDate": "2021-10-14",
+    "online": true,
+    "twitter": "@BigDataAITO",
+    "cocUrl": "https://www.bigdata-toronto.com/terms-and-conditions/"
+  },
+  {
     "name": "Web Summit; Developers & Data",
     "url": "https://websummit.com/themes/developers-and-data",
     "startDate": "2021-11-01",
@@ -430,14 +439,5 @@
     "online": true,
     "twitter": "@Voice_Con",
     "cocUrl": "https://voicecon.net/code-of-conduct/"
-  },
-  {
-    "name": "Big Data and AI Toronto",
-    "startDate": "2021-10-13",
-    "endDate": "2021-10-14",
-    "online": true,
-    "twitter": "@BigDataAITO",
-    "cocUrl": "https://www.bigdata-toronto.com/terms-and-conditions/",
-    "url": "https://www.bigdata-toronto.com"
   }
 ]

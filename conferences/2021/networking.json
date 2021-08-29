@@ -240,6 +240,15 @@
     "offersSignLanguageOrCC": false
   },
   {
+    "name": "PASS Data Community Summit",
+    "url": "https://passdatacommunitysummit.com",
+    "startDate": "2021-11-08",
+    "endDate": "2021-11-12",
+    "online": true,
+    "twitter": "@PASSDataSummit",
+    "cocUrl": "https://passdatacommunitysummit.com/code-of-conduct"
+  },
+  {
     "name": "Tech Up For Women",
     "url": "https://techupforwomen.com/event-details",
     "startDate": "2021-11-16",
@@ -250,23 +259,14 @@
     "offersSignLanguageOrCC": false
   },
   {
-    "name": "PASS Data Community Summit",
-    "startDate": "2021-11-08",
-    "endDate": "2021-11-12",
-    "online": true,
-    "twitter": "@PASSDataSummit",
-    "cocUrl": "https://passdatacommunitysummit.com/code-of-conduct",
-    "url": "https://passdatacommunitysummit.com"
-  },
-  {
     "name": "AWS re:Invent",
+    "url": "https://reinvent.awsevents.com",
     "startDate": "2021-11-29",
     "endDate": "2021-12-03",
     "city": "Las Vegas, NV",
     "country": "U.S.A.",
     "online": true,
     "twitter": "@awsreinvent",
-    "cocUrl": "https://aws.amazon.com/codeofconduct",
-    "url": "https://reinvent.awsevents.com"
+    "cocUrl": "https://aws.amazon.com/codeofconduct"
   }
 ]
