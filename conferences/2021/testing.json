@@ -32,12 +32,14 @@
   },
   {
     "name": "TestCon Europe",
-    "url": "http://www.testcon.lt/",
+    "url": "https://www.testcon.lt/",
     "startDate": "2021-09-07",
     "endDate": "2021-09-09",
-    "city": "Vilnius",
-    "country": "Lithuania",
-    "twitter": "@TestConEurope"
+    "online": true,
+    "cfpUrl": "https://testcon.lt/cfp",
+    "cfpEndDate": "2021-08-31",
+    "twitter": "@TestConEurope",
+    "cocUrl": "https://testcon.lt/code-of-conduct/"
   },
   {
     "name": "Swiss Testing Day",
