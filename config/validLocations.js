@@ -554,6 +554,7 @@ module.exports = {
     "Brooklyn, NY",
     "Broomfield, CO",
     "Buffalo, NY",
+    "Burlingame, CA",
     "Burlington, VT",
     "Cambridge, MA",
     "Camden, MN",
