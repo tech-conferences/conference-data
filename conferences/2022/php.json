@@ -8,5 +8,18 @@
     "country": "U.S.A.",
     "online": false,
     "twitter": "@midwestphp"
+  },
+  {
+    "name": "ConFoo Montreal",
+    "startDate": "2022-02-22",
+    "endDate": "2022-02-25",
+    "city": "Montreal",
+    "country": "Canda",
+    "online": true,
+    "cfpUrl": "https://confoo.ca/en/2022/call-for-papers",
+    "cfpEndDate": "2021-10-06",
+    "twitter": "@confooca",
+    "cocUrl": "https://confoo.ca/en/code-of-conduct",
+    "url": "https://confoo.ca/en/2022"
   }
 ]
