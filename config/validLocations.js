@@ -674,6 +674,7 @@ module.exports = {
     "Truckee, CA",
     "Tulsa, OK",
     "Virginia Beach, VA",
+    "Wall, NJ",
     "Walker Creek Ranch, CA",
     "Washington, D.C.",
     "Waterloo, ON",
