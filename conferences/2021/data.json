@@ -380,6 +380,17 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "ODSC West AIx Summit",
+    "url": "https://odsc.com/california/aix-west",
+    "startDate": "2021-11-16",
+    "endDate": "2021-11-16",
+    "city": "Burlingame, CA",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@ODSC",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "DOAG (Biggest European Conference about Oracle DB topics)",
     "url": "https://2021.doag.org/de/home",
     "startDate": "2021-11-16",
@@ -439,16 +450,5 @@
     "online": true,
     "twitter": "@Voice_Con",
     "cocUrl": "https://voicecon.net/code-of-conduct/"
-  },
-  {
-    "name": "ODSC West AIx Summit",
-    "startDate": "2021-11-16",
-    "endDate": "2021-11-16",
-    "city": "Burlingame, CA",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@ODSC",
-    "offersSignLanguageOrCC": true,
-    "url": "https://odsc.com/california/aix-west"
   }
 ]

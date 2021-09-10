@@ -171,6 +171,18 @@
     "cocUrl": "https://devoxx.com.ua/code-of-conduct/"
   },
   {
+    "name": "JavaZone",
+    "url": "https://javazone.no",
+    "startDate": "2021-12-08",
+    "endDate": "2021-12-09",
+    "city": "Oslo",
+    "country": "Norway",
+    "cfpUrl": "https://2021.javazone.no/#/speakers",
+    "cfpEndDate": "2021-08-05",
+    "cocUrl": "https://www.java.no/principles#",
+    "offersSignLanguageOrCC": false
+  },
+  {
     "name": "jConf.dev",
     "url": "https://2021.jconf.dev",
     "startDate": "2021-12-08",
@@ -182,18 +194,6 @@
     "cfpEndDate": "2021-08-01",
     "twitter": "@jconfdev",
     "cocUrl": "https://2021.jconf.dev/codeofconduct/"
-  },
-  {
-    "name": "JavaZone",
-    "url": "https://javazone.no",
-    "startDate": "2021-12-08",
-    "endDate": "2021-12-09",
-    "city": "Oslo",
-    "country": "Norway",
-    "cfpUrl": "https://2021.javazone.no/#/speakers",
-    "cfpEndDate": "2021-08-05",
-    "offersSignLanguageOrCC": false,
-    "cocUrl": "https://www.java.no/principles#"
   },
   {
     "name": "DevTernity",

@@ -189,6 +189,14 @@
     "offersSignLanguageOrCC": false
   },
   {
+    "name": "DSS Elevate",
+    "url": "https://www.datascience.salon/dsse-virtual-2021",
+    "startDate": "2021-09-09",
+    "endDate": "2021-09-09",
+    "online": true,
+    "twitter": "@DataSciSalon"
+  },
+  {
     "name": "Haskell Love",
     "url": "https://haskell.love",
     "startDate": "2021-09-10",
@@ -268,13 +276,5 @@
     "online": true,
     "twitter": "@awsreinvent",
     "cocUrl": "https://aws.amazon.com/codeofconduct"
-  },
-  {
-    "name": "DSS Elevate",
-    "startDate": "2021-09-09",
-    "endDate": "2021-09-09",
-    "online": true,
-    "twitter": "@DataSciSalon",
-    "url": "https://www.datascience.salon/dsse-virtual-2021"
   }
 ]
