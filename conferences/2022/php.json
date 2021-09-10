@@ -1,16 +1,7 @@
 [
   {
-    "name": "Midwest PHP",
-    "url": "https://midwestphp.org",
-    "startDate": "2022-04-21",
-    "endDate": "2022-04-23",
-    "city": "Minneapolis, MN",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@midwestphp"
-  },
-  {
     "name": "ConFoo Montreal",
+    "url": "https://confoo.ca/en/2022",
     "startDate": "2022-02-22",
     "endDate": "2022-02-25",
     "city": "Montreal",
@@ -19,7 +10,16 @@
     "cfpUrl": "https://confoo.ca/en/2022/call-for-papers",
     "cfpEndDate": "2021-10-06",
     "twitter": "@confooca",
-    "cocUrl": "https://confoo.ca/en/code-of-conduct",
-    "url": "https://confoo.ca/en/2022"
+    "cocUrl": "https://confoo.ca/en/code-of-conduct"
+  },
+  {
+    "name": "Midwest PHP",
+    "url": "https://midwestphp.org",
+    "startDate": "2022-04-21",
+    "endDate": "2022-04-23",
+    "city": "Minneapolis, MN",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@midwestphp"
   }
 ]

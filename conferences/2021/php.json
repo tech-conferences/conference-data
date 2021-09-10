@@ -159,6 +159,15 @@
     "twitter": "@T3CRR"
   },
   {
+    "name": "betterCode() PHP",
+    "url": "https://php.bettercode.eu",
+    "startDate": "2021-11-25",
+    "endDate": "2021-11-25",
+    "online": true,
+    "twitter": "@bettercodeconf",
+    "cocUrl": "https://php.bettercode.eu/code_of_conduct.php"
+  },
+  {
     "name": "SymfonyCon Disneyland Paris",
     "url": "https://live.symfony.com/2021-paris-con",
     "startDate": "2021-12-02",
@@ -170,14 +179,5 @@
     "cfpEndDate": "2021-03-29",
     "twitter": "@SymfonyCon",
     "cocUrl": "https://symfony.com/doc/current/contributing/code_of_conduct/care_team.html"
-  },
-  {
-    "name": "betterCode() PHP",
-    "startDate": "2021-11-25",
-    "endDate": "2021-11-25",
-    "online": true,
-    "twitter": "@bettercodeconf",
-    "cocUrl": "https://php.bettercode.eu/code_of_conduct.php",
-    "url": "https://php.bettercode.eu"
   }
 ]

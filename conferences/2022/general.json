@@ -33,6 +33,17 @@
     "cocUrl": "https://ndcoslo.com/code-of-conduct"
   },
   {
+    "name": "axe-con",
+    "url": "https://deque.com/axe-con",
+    "startDate": "2022-03-15",
+    "endDate": "2022-03-17",
+    "online": true,
+    "cfpUrl": "https://deque.com/axe-con/call-for-speakers",
+    "cfpEndDate": "2021-10-29",
+    "cocUrl": "https://www.deque.com/axe-con/code-of-conduct/",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "CodeStock",
     "url": "https://www.codestock.org",
     "startDate": "2022-04-07",
@@ -53,17 +64,6 @@
     "online": true,
     "twitter": "@devnexus",
     "cocUrl": "https://devnexus.com/code-of-conduct"
-  },
-  {
-    "name": "axe-con",
-    "startDate": "2022-03-15",
-    "endDate": "2022-03-17",
-    "online": true,
-    "cfpUrl": "https://deque.com/axe-con/call-for-speakers",
-    "cfpEndDate": "2021-10-29",
-    "cocUrl": "https://www.deque.com/axe-con/code-of-conduct/",
-    "offersSignLanguageOrCC": true,
-    "url": "https://deque.com/axe-con"
   },
   {
     "name": "TechBash",
