@@ -229,6 +229,16 @@
     "online": false
   },
   {
+    "name": "DEEP Startup Ecosystem Conference",
+    "url": "https://www.startupheatmap.eu/conference",
+    "startDate": "2021-10-18",
+    "endDate": "2021-10-18",
+    "city": "Essen",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@eustartup"
+  },
+  {
     "name": "EFWeek",
     "url": "https://freelancersweek.org",
     "startDate": "2021-10-18",
@@ -276,15 +286,5 @@
     "online": true,
     "twitter": "@awsreinvent",
     "cocUrl": "https://aws.amazon.com/codeofconduct"
-  },
-  {
-    "name": "DEEP Startup Ecosystem Conference",
-    "startDate": "2021-10-18",
-    "endDate": "2021-10-18",
-    "city": "Essen",
-    "country": "Germany",
-    "online": false,
-    "twitter": "@eustartup",
-    "url": "https://www.startupheatmap.eu/conference"
   }
 ]

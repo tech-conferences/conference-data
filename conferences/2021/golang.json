@@ -33,6 +33,15 @@
     "cocUrl": "https://gophercon.pl/code-of-conduct.html#section-code-of-conduct"
   },
   {
+    "name": "GopherCon UK",
+    "url": "https://www.gophercon.co.uk",
+    "startDate": "2021-10-25",
+    "endDate": "2021-10-27",
+    "city": "London",
+    "country": "U.K.",
+    "online": false
+  },
+  {
     "name": "GopherCon",
     "url": "https://gophercon.com",
     "startDate": "2021-12-06",
@@ -40,14 +49,5 @@
     "online": true,
     "twitter": "@gophercon",
     "cocUrl": "https://golang.org/conduct"
-  },
-  {
-    "name": "GopherCon UK",
-    "startDate": "2021-10-25",
-    "endDate": "2021-10-27",
-    "city": "London",
-    "country": "U.K.",
-    "online": false,
-    "url": "https://www.gophercon.co.uk"
   }
 ]
