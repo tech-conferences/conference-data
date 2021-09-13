@@ -40,5 +40,14 @@
     "online": true,
     "twitter": "@gophercon",
     "cocUrl": "https://golang.org/conduct"
+  },
+  {
+    "name": "GopherCon UK",
+    "startDate": "2021-10-25",
+    "endDate": "2021-10-27",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "url": "https://www.gophercon.co.uk"
   }
 ]
