@@ -1,4 +1,26 @@
-[
+[  
+  {
+    "name": "JSWorld Conference",
+    "url": "https://jsworldconference.com",
+    "startDate": "2022-02-09",
+    "endDate": "2022-02-11",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "twitter": "@Frontend_Love",
+    "cocUrl": "https://jsworldconference.com/code-of-conduct"
+  },
+  {
+    "name": "Vue Amsterdam",
+    "url": "https://vuejs.amsterdam",
+    "startDate": "2022-02-10",
+    "endDate": "2022-02-11",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "twitter": "@vuejsamsterdam",
+    "cocUrl": "https://vuejs.amsterdam/code-of-conduct"
+  },
   {
     "name": "JSConf Budapest",
     "url": "https://jsconfbp.com",
@@ -29,27 +51,5 @@
     "online": false,
     "twitter": "@nordicjs",
     "cocUrl": "https://nordicjs.com/code-of-conduct"
-  },
-  {
-     "name": "VueJS Amsterdam",
-     "startDate": "2022-02-10",
-     "endDate": "2022-02-11",
-     "city": "Amsterdam",
-     "country": "Netherlands",
-     "online": true,
-     "twitter": "@vuejsamsterdam",
-     "cocUrl": "https://vuejs.amsterdam/code-of-conduct",
-     "url": "https://vuejs.amsterdam"
-  },
-  {
-    "name": "JSWorld",
-    "startDate": "2022-02-09",
-    "endDate": "2022-02-11",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "online": true,
-    "twitter": "@Frontend_Love",
-    "cocUrl": "https://jsworldconference.com/code-of-conduct",
-    "url": "https://jsworldconference.com"
   }
 ]
