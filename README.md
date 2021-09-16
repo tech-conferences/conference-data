@@ -37,7 +37,7 @@ Conference data have the following structure:
 
 - [See all .NET conferences](https://confs.tech/dotnet)
 - [See all Android conferences](https://confs.tech/android)
-- [See all Closure conferences](https://confs.tech/closure)
+- [See all Clojure conferences](https://confs.tech/clojure)
 - [See all CSS conferences](https://confs.tech/css)
 - [See all Data conferences](https://confs.tech/data)
 - [See all Design / UX conferences](https://confs.tech/ux)
