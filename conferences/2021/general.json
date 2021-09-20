@@ -1042,6 +1042,14 @@
     "cocUrl": "https://developer.cisco.com/devnetcreate/2021/codeofconduct"
   },
   {
+    "name": "F# eXchange",
+    "url": "https://skillsmatter.com/conferences/13254-f-sharp-exchange-2021#program",
+    "startDate": "2021-10-20",
+    "endDate": "2021-10-20",
+    "online": true,
+    "twitter": "@skillsmatter"
+  },
+  {
     "name": "HackConf",
     "url": "https://www.hackconf.bg",
     "startDate": "2021-10-22",
@@ -1091,6 +1099,14 @@
     "twitter": "@Electric_AI",
     "cocUrl": "https://hopin.com/events/elevate-2021",
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "OpenPOWER Summit NA",
+    "url": "https://events.linuxfoundation.org/openpower-summit-north-america/",
+    "startDate": "2021-10-28",
+    "endDate": "2021-10-28",
+    "online": true,
+    "cocUrl": "https://events.linuxfoundation.org/openpower-summit-north-america/attend/code-of-conduct/"
   },
   {
     "name": "Northern Virginia Software Symposium",
@@ -1275,13 +1291,5 @@
     "cfpEndDate": "2021-11-17",
     "twitter": "@wearedevs",
     "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct"
-  },
-  {
-    "name": "F# eXchange",
-    "startDate": "2021-10-20",
-    "endDate": "2021-10-20",
-    "online": true,
-    "twitter": "@skillsmatter",
-    "url": "https://skillsmatter.com/conferences/13254-f-sharp-exchange-2021#program"
   }
 ]
