@@ -20,6 +20,19 @@
     "cocUrl": "https://linux.conf.au/attend/code-of-conduct/"
   },
   {
+    "name": "Tech Intersections: Women of Color in Computing",
+    "url": "https://techintersections.org",
+    "startDate": "2022-01-29",
+    "endDate": "2022-01-29",
+    "city": "Oakland, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://techintersections.org/call-for-speakers",
+    "cfpEndDate": "2021-09-30",
+    "twitter": "@tech_intersect",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Developer Week",
     "url": "https://www.developerweek.com",
     "startDate": "2022-02-02",
@@ -84,18 +97,5 @@
     "online": false,
     "twitter": "@techbash",
     "cocUrl": "https://techbash.com/code-of-conduct"
-  },
-  {
-    "name": "Tech Intersections: Women of Color in Computing",
-    "startDate": "2022-01-29",
-    "endDate": "2022-01-29",
-    "city": "Oakland, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://techintersections.org/call-for-speakers",
-    "cfpEndDate": "2021-09-30",
-    "twitter": "@tech_intersect",
-    "offersSignLanguageOrCC": true,
-    "url": "https://techintersections.org"
   }
 ]
