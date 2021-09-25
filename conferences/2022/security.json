@@ -9,5 +9,16 @@
     "online": false,
     "twitter": "@NDC_Conferences",
     "cocUrl": "https://ndcoslo.com/code-of-conduct"
+  },
+  {
+    "name": "Qubit Conference Prague",
+    "startDate": "2022-05-24",
+    "endDate": "2022-05-26",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "online": true,
+    "twitter": "@QubitCon",
+    "offersSignLanguageOrCC": true,
+    "url": "https://prague.qubitconference.com"
   }
 ]
