@@ -1313,5 +1313,16 @@
     "twitter": "@wearedevs",
     "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct",
     "url": "https://www.wearedevelopers.com/event/coding-the-future-of-mobility"
+  },
+  {
+    "name": "AsyncAPI Conference",
+    "startDate": "2021-11-16",
+    "endDate": "2021-11-18",
+    "online": true,
+    "cfpUrl": "https://linuxfoundation.smapply.io/prog/asyncapi_conference_2021",
+    "cfpEndDate": "2021-10-17",
+    "twitter": "@AsyncAPISpec",
+    "cocUrl": "https://events.linuxfoundation.org/about/code-of-conduct/",
+    "url": "https://conference.asyncapi.com"
   }
 ]
