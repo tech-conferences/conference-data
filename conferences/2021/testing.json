@@ -208,6 +208,15 @@
     "country": "Italy"
   },
   {
+    "name": "Testit",
+    "url": "https://www.knowit.se/event/testit2021",
+    "startDate": "2021-11-11",
+    "endDate": "2021-11-11",
+    "city": "Malmö",
+    "country": "Sweden",
+    "online": false
+  },
+  {
     "name": "Testing United",
     "url": "https://testingunited.com/",
     "startDate": "2021-11-11",
@@ -242,14 +251,5 @@
     "endDate": "2021-12-10",
     "city": "Hainan Island",
     "country": "China"
-  },
-  {
-    "name": "Testit",
-    "startDate": "2021-11-11",
-    "endDate": "2021-11-11",
-    "city": "Malmö",
-    "country": "Sweden",
-    "online": false,
-    "url": "https://www.knowit.se/event/testit2021"
   }
 ]
