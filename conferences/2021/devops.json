@@ -793,6 +793,17 @@
     "online": true
   },
   {
+    "name": "EKON",
+    "url": "https://entwickler-konferenz.de/de",
+    "startDate": "2021-11-08",
+    "endDate": "2021-11-10",
+    "city": "Düsseldorf",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@EntwicklerKON",
+    "cocUrl": "https://entwickler-konferenz.de/sicherheitshinweise/"
+  },
+  {
     "name": "Grafana ObservabilityCon",
     "url": "https://grafana.com/about/events/observabilitycon/2021/",
     "startDate": "2021-11-08",
@@ -874,16 +885,5 @@
     "online": true,
     "twitter": "@devops_con",
     "cocUrl": "https://devopscon.io/code-of-conduct/"
-  },
-  {
-    "name": "EKON",
-    "startDate": "2021-11-08",
-    "endDate": "2021-11-10",
-    "city": "Düsseldorf",
-    "country": "Germany",
-    "online": false,
-    "twitter": "@EntwicklerKON",
-    "cocUrl": "https://entwickler-konferenz.de/sicherheitshinweise/",
-    "url": "https://entwickler-konferenz.de/de"
   }
 ]
