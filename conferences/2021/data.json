@@ -390,6 +390,15 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Minds Mastering Machines – Special Day NLP",
+    "url": "https://m3-konferenz.de/nlp.php",
+    "startDate": "2021-11-09",
+    "endDate": "2021-11-09",
+    "online": true,
+    "twitter": "@M3_Konferenz",
+    "cocUrl": "https://m3-konferenz.de/code_of_conduct.php"
+  },
+  {
     "name": "ODSC West AIx Summit",
     "url": "https://odsc.com/california/aix-west",
     "startDate": "2021-11-16",
@@ -429,6 +438,17 @@
     "cocUrl": "https://it-nonstop.net/about-the-conference/code-of-conduct"
   },
   {
+    "name": "API Summit, DDD Summit & Microservices Summit",
+    "url": "https://api-summit.de/berlin",
+    "startDate": "2021-11-22",
+    "endDate": "2021-11-24",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@apisummit_de",
+    "cocUrl": "https://api-summit.de/code-of-conduct/"
+  },
+  {
     "name": "ML Conference Singapore",
     "url": "https://mlconference.ai/singapore",
     "startDate": "2021-11-23",
@@ -438,6 +458,15 @@
     "cfpEndDate": "2021-05-24",
     "twitter": "@mlconference",
     "cocUrl": "https://mlconference.ai/code-of-conduct/"
+  },
+  {
+    "name": "Minds Mastering Machines – Special Day MLOps",
+    "url": "https://m3-konferenz.de/mlops.php",
+    "startDate": "2021-11-24",
+    "endDate": "2021-11-24",
+    "online": true,
+    "twitter": "@M3_Konferenz",
+    "cocUrl": "https://m3-konferenz.de/code_of_conduct.php"
   },
   {
     "name": "International Conference on Artificial Intelligence and Education",
@@ -480,41 +509,12 @@
     "cocUrl": "https://voicecon.net/code-of-conduct/"
   },
   {
-    "name": "Minds Mastering Machines – Special Day MLOps",
-    "startDate": "2021-11-24",
-    "endDate": "2021-11-24",
-    "online": true,
-    "twitter": "@M3_Konferenz",
-    "cocUrl": "https://m3-konferenz.de/code_of_conduct.php",
-    "url": "https://m3-konferenz.de/mlops.php"
-  },
-  {
-    "name": "API Summit, DDD Summit & Microservices Summit",
-    "startDate": "2021-11-22",
-    "endDate": "2021-11-24",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@apisummit_de",
-    "cocUrl": "https://api-summit.de/code-of-conduct/",
-    "url": "https://api-summit.de/berlin"
-  },
-  {
-    "name": "Minds Mastering Machines – Special Day NLP",
-    "startDate": "2021-11-09",
-    "endDate": "2021-11-09",
-    "online": true,
-    "twitter": "@M3_Konferenz",
-    "cocUrl": "https://m3-konferenz.de/code_of_conduct.php",
-    "url": "https://m3-konferenz.de/nlp.php"
-  },
-  {
     "name": "data2day",
+    "url": "https://www.data2day.de",
     "startDate": "2021-12-08",
     "endDate": "2021-12-08",
     "online": true,
     "twitter": "@data2day",
-    "cocUrl": "https://www.data2day.de/code_of_conduct.php",
-    "url": "https://www.data2day.de"
+    "cocUrl": "https://www.data2day.de/code_of_conduct.php"
   }
 ]
