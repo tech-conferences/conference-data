@@ -181,6 +181,15 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "betterCode() .NET 6",
+    "url": "https://net.bettercode.eu",
+    "startDate": "2021-11-23",
+    "endDate": "2021-11-23",
+    "online": true,
+    "twitter": "@bettercodeconf",
+    "cocUrl": "https://net.bettercode.eu/code_of_conduct.php"
+  },
+  {
     "name": "DevIntersection",
     "url": "https://devintersection.com",
     "startDate": "2021-12-05",
@@ -192,14 +201,5 @@
     "cfpEndDate": "2021-07-31",
     "twitter": "@devintersection",
     "cocUrl": "https://devintersection.com/#!/conduct"
-  },
-  {
-    "name": "betterCode() .NET 6",
-    "startDate": "2021-11-23",
-    "endDate": "2021-11-23",
-    "online": true,
-    "twitter": "@bettercodeconf",
-    "cocUrl": "https://net.bettercode.eu/code_of_conduct.php",
-    "url": "https://net.bettercode.eu"
   }
 ]
