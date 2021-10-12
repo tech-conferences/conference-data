@@ -43,5 +43,16 @@
     "online": true,
     "twitter": "@htmlcssdays",
     "cocUrl": "https://javascript-days.de/code-of-conduct/"
+  },
+  {
+    "name": "CSS Conf Armenia",
+    "startDate": "2021-11-13",
+    "endDate": "2021-11-13",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "online": false,
+    "twitter": "@cssconfam",
+    "offersSignLanguageOrCC": true,
+    "url": "https://cssconf.am"
   }
 ]
