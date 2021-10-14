@@ -20,5 +20,18 @@
     "online": true,
     "twitter": "@QubitCon",
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "Nullcon International Security Conference",
+    "startDate": "2022-03-04",
+    "endDate": "2022-03-05",
+    "city": "Goa",
+    "country": "India",
+    "online": false,
+    "cfpUrl": "https://nullcon.net/goa-2022/cfp",
+    "cfpEndDate": "2021-11-30",
+    "twitter": "@nullcon",
+    "cocUrl": "https://nullcon.net/goa-2022/cfp/",
+    "url": "https://nullcon.net"
   }
 ]
