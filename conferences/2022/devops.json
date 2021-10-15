@@ -1,5 +1,25 @@
 [
   {
+    "name": "Devopsdays Aarhus",
+    "url": "https://devopsdays.org/events/2022-aarhus/welcome/",
+    "startDate": "2022-01-25",
+    "endDate": "2022-01-26",
+    "city": "Aarhus",
+    "country": "Denmark",
+    "online": false,
+    "cocUrl": "https://devopsdays.org/events/2022-aarhus/conduct"
+  },
+  {
+    "name": "Devopsdays Atlanta",
+    "url": "https://devopsdays.org/events/2022-atlanta/welcome/",
+    "startDate": "2022-01-26",
+    "endDate": "2022-01-27",
+    "city": "Atlanta, GA",
+    "country": "U.S.A.",
+    "online": false,
+    "cocUrl": "https://devopsdays.org/events/2022-atlanta/conduct"
+  },
+  {
     "name": "Devopsdays Geneva",
     "url": "https://devopsdays.org/events/2022-geneva/welcome/",
     "startDate": "2022-02-07",
@@ -11,6 +31,32 @@
     "cocUrl": "https://devopsdays.org/events/2022-geneva/conduct"
   },
   {
+    "name": "Devopsdays Vitoria",
+    "url": "https://devopsdays.org/events/2022-vitoria/welcome/",
+    "startDate": "2022-02-11",
+    "endDate": "2022-02-12",
+    "city": "Vitoria",
+    "country": "Brazil",
+    "online": false,
+    "twitter": "@Devopsdaysvix",
+    "cfpUrl": "https://www.papercall.io/devopsdaysvitoria2022",
+    "cfpEndDate": "2021-10-27",
+    "cocUrl": "https://devopsdays.org/events/2022-vitoria/conduct"
+  },
+  {
+    "name": "Devopsdays Los Angeles",
+    "url": "https://devopsdays.org/events/2022-los-angeles/welcome/",
+    "startDate": "2022-03-04",
+    "endDate": "2022-03-04",
+    "city": "Los Angeles, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@Devopsdayla2022",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSewxucXuZ5nmZYX-nBitrmnr1ZA-O7oc33kheNvoRw1ufEbgg/viewform",
+    "cfpEndDate": "2021-11-30",
+    "cocUrl": "https://devopsdays.org/events/2022-los-angeles/conduct"
+  },
+  {
     "name": "Devopsdays Raleigh",
     "url": "https://devopsdays.org/events/2022-raleigh/welcome/",
     "startDate": "2022-04-13",
@@ -19,6 +65,36 @@
     "country": "U.S.A.",
     "online": false,
     "cocUrl": "https://devopsdays.org/events/2022-raleigh/conduct"
+  },
+  {
+    "name": "Devopsdays Denver",
+    "url": "https://devopsdays.org/events/2022-denver/welcome/",
+    "startDate": "2022-04-25",
+    "endDate": "2022-04-26",
+    "city": "Denver, CO",
+    "country": "U.S.A.",
+    "online": false,
+    "cocUrl": "https://devopsdays.org/events/2022-denver/conduct"
+  },
+  {
+    "name": "Devopsdays Austin",
+    "url": "https://devopsdays.org/events/2022-austin/welcome/",
+    "startDate": "2022-05-04",
+    "endDate": "2022-05-05",
+    "city": "Austin, TX",
+    "country": "U.S.A.",
+    "online": false,
+    "cocUrl": "https://devopsdays.org/events/2022-austin/conduct"
+  },
+  {
+    "name": "Devopsdays Chicago",
+    "url": "https://devopsdays.org/events/2022-chicago/welcome/",
+    "startDate": "2022-05-10",
+    "endDate": "2022-05-11",
+    "city": "Chicago, IL",
+    "country": "U.S.A.",
+    "online": false,
+    "cocUrl": "https://devopsdays.org/events/2022-chicago/conduct"
   },
   {
     "name": "Agile Testing Days Open Air",
@@ -32,6 +108,19 @@
     "cocUrl": "https://agiletestingdays.com/code-of-conduct/"
   },
   {
+    "name": "Devopsdays Prague",
+    "url": "https://devopsdays.org/events/2022-prague/welcome/",
+    "startDate": "2022-05-24",
+    "endDate": "2022-05-25",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "online": false,
+    "twitter": "@Devopsdaysprg",
+    "cfpUrl": "https://www.papercall.io/devopsdays-prague-2022",
+    "cfpEndDate": "2022-01-31",
+    "cocUrl": "https://devopsdays.org/events/2022-prague/conduct"
+  },
+  {
     "name": "Agile Testing Days USA",
     "url": "https://agiletestingdays.us",
     "startDate": "2022-06-05",
@@ -41,6 +130,17 @@
     "online": false,
     "twitter": "@AgileTDUSA",
     "cocUrl": "https://agiletestingdays.us/code-of-conduct/"
+  },
+  {
+    "name": "Devopsdays Amsterdam",
+    "url": "https://devopsdays.org/events/2022-amsterdam/welcome/",
+    "startDate": "2022-06-22",
+    "endDate": "2022-06-24",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "twitter": "@Devopsams",
+    "cocUrl": "https://devopsdays.org/events/2022-amsterdam/conduct"
   },
   {
     "name": "Devopsdays Dallas",
