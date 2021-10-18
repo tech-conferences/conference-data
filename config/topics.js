@@ -20,6 +20,7 @@ module.exports = [
   "kotlin",
   "leadership",
   "networking",
+  "performance",
   "php",
   "product",
   "python",
