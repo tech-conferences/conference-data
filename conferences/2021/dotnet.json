@@ -1,11 +1,10 @@
 [
   {
-    "name": ".NET Conf Korea",
-    "url": "https://2021.dotnetdev.kr/",
-    "startDate": "2021-01-15",
-    "endDate": "2021-01-15",
+    "name": "azd",
+    "startDate": "2021-10-18",
+    "endDate": "2021-10-18",
     "online": true,
-    "offersSignLanguageOrCC": false
+    "url": "https://azon.co"
   },
   {
     "name": "BASTA!",
@@ -201,5 +200,13 @@
     "cfpEndDate": "2021-07-31",
     "twitter": "@devintersection",
     "cocUrl": "https://devintersection.com/#!/conduct"
+  },
+  {
+    "name": ".NET Conf Korea",
+    "url": "https://2021.dotnetdev.kr/",
+    "startDate": "2021-01-15",
+    "endDate": "2021-01-15",
+    "online": true,
+    "offersSignLanguageOrCC": false
   }
 ]
