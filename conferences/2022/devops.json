@@ -152,5 +152,17 @@
     "online": false,
     "twitter": "@DevOpsDaysDFW",
     "cocUrl": "https://devopsdays.org/events/2022-dallas/conduct"
+  },
+  {
+    "name": "Lazy Load",
+    "startDate": "2022-05-06",
+    "endDate": "2022-05-13",
+    "online": true,
+    "cfpUrl": "https://webdirections.org/speaking",
+    "cfpEndDate": "2022-01-14",
+    "twitter": "@webdirections",
+    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
+    "offersSignLanguageOrCC": true,
+    "url": "https://webdirections.org/lazyload"
   }
 ]
