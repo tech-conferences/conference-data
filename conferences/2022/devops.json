@@ -164,5 +164,16 @@
     "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
     "offersSignLanguageOrCC": true,
     "url": "https://webdirections.org/lazyload"
+  },
+  {
+    "name": "KubeCon EU",
+    "startDate": "2022-05-17",
+    "endDate": "2022-05-20",
+    "city": "Valencia",
+    "country": "Spain",
+    "online": true,
+    "twitter": "@kubecon_",
+    "offersSignLanguageOrCC": true,
+    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe"
   }
 ]
