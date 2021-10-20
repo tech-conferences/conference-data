@@ -18,5 +18,17 @@
     "country": "Ireland",
     "online": false,
     "url": "https://www.python.org/events/python-events/989"
+  },
+  {
+    "name": "Pycascades",
+    "startDate": "2022-02-05",
+    "endDate": "2022-02-06",
+    "online": true,
+    "cfpUrl": "https://pretalx.com/pycascades-2022/cfp",
+    "cfpEndDate": "2021-10-24",
+    "twitter": "@pycascades",
+    "cocUrl": "https://2021.pycascades.com/about/code-of-conduct/",
+    "offersSignLanguageOrCC": true,
+    "url": "https://2022.pycascades.com"
   }
 ]
