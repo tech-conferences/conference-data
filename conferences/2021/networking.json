@@ -277,6 +277,13 @@
     "offersSignLanguageOrCC": false
   },
   {
+    "name": "Git Commit Show",
+    "url": "https://gitcommit.show",
+    "startDate": "2021-11-27",
+    "endDate": "2021-11-28",
+    "online": true
+  },
+  {
     "name": "AWS re:Invent",
     "url": "https://reinvent.awsevents.com",
     "startDate": "2021-11-29",
@@ -297,12 +304,5 @@
     "online": true,
     "cocUrl": "https://www.ic4irb.org/",
     "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "Git Commit Show",
-    "startDate": "2021-11-27",
-    "endDate": "2021-11-28",
-    "online": true,
-    "url": "https://gitcommit.show"
   }
 ]
