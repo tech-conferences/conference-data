@@ -97,5 +97,18 @@
     "online": false,
     "twitter": "@techbash",
     "cocUrl": "https://techbash.com/code-of-conduct"
+  },
+  {
+    "name": "Serverless Architecture Conference",
+    "startDate": "2022-04-04",
+    "endDate": "2022-04-06",
+    "city": "The Hague",
+    "country": "Netherlands",
+    "online": true,
+    "cfpUrl": "https://serverless-architecture.io/call-for-papers",
+    "cfpEndDate": "2021-11-01",
+    "twitter": "@serverlesscon",
+    "cocUrl": "https://serverless-architecture.io/code-of-conduct/",
+    "url": "https://serverless-architecture.io/thehague"
   }
 ]
