@@ -400,7 +400,7 @@ module.exports = {
     "Coimbra",
     "Estreito de Câmara de Lobos",
     "Faro",
-    "Lisboa",
+    "Lisbon",
     "Porto"
   ],
   "Puerto Rico": [
