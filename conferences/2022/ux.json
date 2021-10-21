@@ -1,5 +1,17 @@
 [
   {
+    "name": "UXLx: User Experience Lisbon",
+    "url": "https://www.ux-lx.com",
+    "startDate": "2022-05-01",
+    "endDate": "2022-05-31",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "online": false,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeAwx-Xt73X0vK_fa5bG4vb2y6aHswQUFX6W11lQ7ncVjYmEw/viewform",
+    "cfpEndDate": "2021-10-31",
+    "twitter": "@uxlx"
+  },
+  {
     "name": "Pixel Pioneers",
     "url": "https://pixelpioneers.co/events/bristol-2022",
     "startDate": "2022-06-09",
@@ -11,17 +23,5 @@
     "cfpEndDate": "2022-02-01",
     "twitter": "@pixelpioneers",
     "cocUrl": "https://pixelpioneers.co/code-of-conduct"
-  },
-  {
-    "name": "UXLx: User Experience Lisbon",
-    "startDate": "2022-05-01",
-    "endDate": "2022-05-31",
-    "city": "Lisbon",
-    "country": "Portugal",
-    "online": false,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeAwx-Xt73X0vK_fa5bG4vb2y6aHswQUFX6W11lQ7ncVjYmEw/viewform",
-    "cfpEndDate": "2021-10-31",
-    "twitter": "@uxlx",
-    "url": "https://www.ux-lx.com"
   }
 ]

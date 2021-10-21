@@ -38,9 +38,9 @@
     "city": "Vitoria",
     "country": "Brazil",
     "online": false,
-    "twitter": "@Devopsdaysvix",
     "cfpUrl": "https://www.papercall.io/devopsdaysvitoria2022",
     "cfpEndDate": "2021-10-27",
+    "twitter": "@Devopsdaysvix",
     "cocUrl": "https://devopsdays.org/events/2022-vitoria/conduct"
   },
   {
@@ -51,9 +51,9 @@
     "city": "Los Angeles, CA",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@Devopsdayla2022",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSewxucXuZ5nmZYX-nBitrmnr1ZA-O7oc33kheNvoRw1ufEbgg/viewform",
     "cfpEndDate": "2021-11-30",
+    "twitter": "@Devopsdayla2022",
     "cocUrl": "https://devopsdays.org/events/2022-los-angeles/conduct"
   },
   {
@@ -87,6 +87,18 @@
     "cocUrl": "https://devopsdays.org/events/2022-austin/conduct"
   },
   {
+    "name": "Lazy Load",
+    "url": "https://webdirections.org/lazyload",
+    "startDate": "2022-05-06",
+    "endDate": "2022-05-13",
+    "online": true,
+    "cfpUrl": "https://webdirections.org/speaking",
+    "cfpEndDate": "2022-01-14",
+    "twitter": "@webdirections",
+    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Devopsdays Chicago",
     "url": "https://devopsdays.org/events/2022-chicago/welcome/",
     "startDate": "2022-05-10",
@@ -95,6 +107,17 @@
     "country": "U.S.A.",
     "online": false,
     "cocUrl": "https://devopsdays.org/events/2022-chicago/conduct"
+  },
+  {
+    "name": "KubeCon EU",
+    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe",
+    "startDate": "2022-05-17",
+    "endDate": "2022-05-20",
+    "city": "Valencia",
+    "country": "Spain",
+    "online": true,
+    "twitter": "@kubecon_",
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "Agile Testing Days Open Air",
@@ -115,9 +138,9 @@
     "city": "Prague",
     "country": "Czech Republic",
     "online": false,
-    "twitter": "@Devopsdaysprg",
     "cfpUrl": "https://www.papercall.io/devopsdays-prague-2022",
     "cfpEndDate": "2022-01-31",
+    "twitter": "@Devopsdaysprg",
     "cocUrl": "https://devopsdays.org/events/2022-prague/conduct"
   },
   {
@@ -152,28 +175,5 @@
     "online": false,
     "twitter": "@DevOpsDaysDFW",
     "cocUrl": "https://devopsdays.org/events/2022-dallas/conduct"
-  },
-  {
-    "name": "Lazy Load",
-    "startDate": "2022-05-06",
-    "endDate": "2022-05-13",
-    "online": true,
-    "cfpUrl": "https://webdirections.org/speaking",
-    "cfpEndDate": "2022-01-14",
-    "twitter": "@webdirections",
-    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
-    "offersSignLanguageOrCC": true,
-    "url": "https://webdirections.org/lazyload"
-  },
-  {
-    "name": "KubeCon EU",
-    "startDate": "2022-05-17",
-    "endDate": "2022-05-20",
-    "city": "Valencia",
-    "country": "Spain",
-    "online": true,
-    "twitter": "@kubecon_",
-    "offersSignLanguageOrCC": true,
-    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe"
   }
 ]

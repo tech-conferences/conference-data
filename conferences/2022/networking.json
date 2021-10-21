@@ -1,16 +1,7 @@
 [
   {
-    "name": "International Congress on Ad-Hoc Networks",
-    "url": "https://intcongress.com/international-congress-on-ad-hoc-networks-2022",
-    "startDate": "2022-08-11",
-    "endDate": "2022-08-12",
-    "city": "Hong Kong",
-    "country": "Hong Kong",
-    "online": false,
-    "offersSignLanguageOrCC": true
-  },
-  {
     "name": "FOSS Backstage",
+    "url": "https://foss-backstage.de",
     "startDate": "2022-03-17",
     "endDate": "2022-03-18",
     "city": "Berlin",
@@ -19,16 +10,25 @@
     "cfpUrl": "https://pretalx.com/foss-backstage-2022",
     "cfpEndDate": "2021-11-15",
     "twitter": "@Fossbckstg",
-    "cocUrl": "https://foss-backstage.de/code-conduct",
-    "url": "https://foss-backstage.de"
+    "cocUrl": "https://foss-backstage.de/code-conduct"
   },
   {
     "name": "<CODE/CRAFTS>",
+    "url": "https://code-crafts.com",
     "startDate": "2022-05-26",
     "endDate": "2022-05-26",
     "city": "Vienna",
     "country": "Austria",
+    "online": false
+  },
+  {
+    "name": "International Congress on Ad-Hoc Networks",
+    "url": "https://intcongress.com/international-congress-on-ad-hoc-networks-2022",
+    "startDate": "2022-08-11",
+    "endDate": "2022-08-12",
+    "city": "Hong Kong",
+    "country": "Hong Kong",
     "online": false,
-    "url": "https://code-crafts.com"
+    "offersSignLanguageOrCC": true
   }
 ]
