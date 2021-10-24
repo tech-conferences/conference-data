@@ -400,7 +400,7 @@ module.exports = {
     "Coimbra",
     "Estreito de Câmara de Lobos",
     "Faro",
-    "Lisboa",
+    "Lisbon",
     "Porto"
   ],
   "Puerto Rico": [
@@ -467,6 +467,7 @@ module.exports = {
     "Seville",
     "Sitges, Barcelona",
     "Tenerife",
+    "Valencia",
     "Vigo"
   ],
   "Sri Lanka": [

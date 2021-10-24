@@ -11,6 +11,32 @@
     "cocUrl": "https://ndcoslo.com/code-of-conduct"
   },
   {
+    "name": "B-Sides Tampa IT Security Conference",
+    "url": "https://bsidestampa.net",
+    "startDate": "2022-03-04",
+    "endDate": "2022-03-05",
+    "city": "Tampa, FL",
+    "country": "U.S.A.",
+    "online": true,
+    "cfpUrl": "https://forms.zohopublic.com/isc2tampabaychapter/form/CFP/formperma/HBZJIUsxQk2aDT8raeZfK31PcUiCDL5Oomw4Dx0Pc5o",
+    "cfpEndDate": "2022-01-16",
+    "twitter": "@BSidesTampa",
+    "cocUrl": "https://bsidestampa.net/code-of-conduct/"
+  },
+  {
+    "name": "Nullcon International Security Conference",
+    "url": "https://nullcon.net",
+    "startDate": "2022-03-04",
+    "endDate": "2022-03-05",
+    "city": "Goa",
+    "country": "India",
+    "online": false,
+    "cfpUrl": "https://nullcon.net/goa-2022/cfp",
+    "cfpEndDate": "2021-11-30",
+    "twitter": "@nullcon",
+    "cocUrl": "https://nullcon.net/goa-2022/cfp/"
+  },
+  {
     "name": "Qubit Conference Prague",
     "url": "https://prague.qubitconference.com",
     "startDate": "2022-05-24",
@@ -20,18 +46,5 @@
     "online": true,
     "twitter": "@QubitCon",
     "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "Nullcon International Security Conference",
-    "startDate": "2022-03-04",
-    "endDate": "2022-03-05",
-    "city": "Goa",
-    "country": "India",
-    "online": false,
-    "cfpUrl": "https://nullcon.net/goa-2022/cfp",
-    "cfpEndDate": "2021-11-30",
-    "twitter": "@nullcon",
-    "cocUrl": "https://nullcon.net/goa-2022/cfp/",
-    "url": "https://nullcon.net"
   }
 ]
