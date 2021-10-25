@@ -843,6 +843,14 @@
     "cocUrl": "https://agiletestingdays.com/code-of-conduct/"
   },
   {
+    "name": "deploy",
+    "url": "https://deploy.digitalocean.com",
+    "startDate": "2021-11-16",
+    "endDate": "2021-11-17",
+    "online": true,
+    "twitter": "@digitalocean"
+  },
+  {
     "name": "Continuous Lifecycle",
     "url": "https://www.continuouslifecycle.de",
     "startDate": "2021-11-17",
@@ -892,13 +900,5 @@
     "online": true,
     "twitter": "@devops_con",
     "cocUrl": "https://devopscon.io/code-of-conduct/"
-  },
-  {
-    "name": "deploy",
-    "startDate": "2021-11-16",
-    "endDate": "2021-11-17",
-    "online": true,
-    "twitter": "@digitalocean",
-    "url": "https://deploy.digitalocean.com"
   }
 ]

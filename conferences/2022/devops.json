@@ -178,16 +178,6 @@
     "cocUrl": "https://devopsdays.org/events/2022-amsterdam/conduct"
   },
   {
-    "name": "SREcon EMEA",
-    "url": "https://www.usenix.org/conferences",
-    "startDate": "2022-10-25",
-    "endDate": "2022-10-27",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "online": false,
-    "cocUrl": "https://www.usenix.org/conferences/coc"
-  },
-  {
     "name": "Devopsdays Dallas",
     "url": "https://devopsdays.org/events/2022-dallas/welcome/",
     "startDate": "2022-08-24",
@@ -197,6 +187,16 @@
     "online": false,
     "twitter": "@DevOpsDaysDFW",
     "cocUrl": "https://devopsdays.org/events/2022-dallas/conduct"
+  },
+  {
+    "name": "SREcon EMEA",
+    "url": "https://www.usenix.org/conferences",
+    "startDate": "2022-10-25",
+    "endDate": "2022-10-27",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "cocUrl": "https://www.usenix.org/conferences/coc"
   },
   {
     "name": "SREcon Asia/Pacific",
