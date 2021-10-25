@@ -67,6 +67,18 @@
     "cocUrl": "https://devopsdays.org/events/2022-raleigh/conduct"
   },
   {
+    "name": "SREcon Americas",
+    "url": "https://www.usenix.org/conference/srecon22americas",
+    "startDate": "2022-04-13",
+    "endDate": "2022-04-14",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://www.usenix.org/conference/srecon22americas/call-for-participation",
+    "cfpEndDate": "2021-11-17",
+    "cocUrl": "https://www.usenix.org/conferences/coc"
+  },
+  {
     "name": "Devopsdays Denver",
     "url": "https://devopsdays.org/events/2022-denver/welcome/",
     "startDate": "2022-04-25",
@@ -166,6 +178,16 @@
     "cocUrl": "https://devopsdays.org/events/2022-amsterdam/conduct"
   },
   {
+    "name": "SREcon EMEA",
+    "url": "https://www.usenix.org/conferences",
+    "startDate": "2022-10-25",
+    "endDate": "2022-10-27",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "cocUrl": "https://www.usenix.org/conferences/coc"
+  },
+  {
     "name": "Devopsdays Dallas",
     "url": "https://devopsdays.org/events/2022-dallas/welcome/",
     "startDate": "2022-08-24",
@@ -175,5 +197,15 @@
     "online": false,
     "twitter": "@DevOpsDaysDFW",
     "cocUrl": "https://devopsdays.org/events/2022-dallas/conduct"
+  },
+  {
+    "name": "SREcon Asia/Pacific",
+    "url": "https://www.usenix.org/conferences",
+    "startDate": "2022-12-07",
+    "endDate": "2022-12-09",
+    "city": "Sydney",
+    "country": "Australia",
+    "online": false,
+    "cocUrl": "https://www.usenix.org/conferences/coc"
   }
 ]
