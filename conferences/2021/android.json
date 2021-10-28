@@ -45,20 +45,20 @@
     "cocUrl": "https://it.droidcon.com/2021/code-of-conduct/"
   },
   {
-    "name": "droidcon San Francisco",
-    "url": "https://www.sf.droidcon.com",
-    "startDate": "2021-12-13",
-    "endDate": "2021-12-14",
-    "online": true
-  },
-  {
     "name": "DartUP",
+    "url": "https://dartup.ru/EN",
     "startDate": "2021-12-03",
     "endDate": "2021-12-04",
     "online": true,
     "cfpUrl": "https://www.papercall.io/dartup21",
     "cfpEndDate": "2021-11-15",
-    "twitter": "@dartup_conf",
-    "url": "https://dartup.ru/EN"
+    "twitter": "@dartup_conf"
+  },
+  {
+    "name": "droidcon San Francisco",
+    "url": "https://www.sf.droidcon.com",
+    "startDate": "2021-12-13",
+    "endDate": "2021-12-14",
+    "online": true
   }
 ]
