@@ -61,5 +61,15 @@
     "online": false,
     "twitter": "@nordicjs",
     "cocUrl": "https://nordicjs.com/code-of-conduct"
+  },
+  {
+    "name": "StrapiConf",
+    "startDate": "2022-03-16",
+    "endDate": "2022-03-17",
+    "online": true,
+    "cfpUrl": "https://forms.gle/5YzPpJz7WKxx1mdb9",
+    "cfpEndDate": "2021-11-30",
+    "twitter": "@strapijs",
+    "url": "https://conf.strapi.io"
   }
 ]
