@@ -1287,6 +1287,16 @@
     "cocUrl": "https://embeddedfest.com/code%20of%20conduct.pdf"
   },
   {
+    "name": "DartUP",
+    "url": "https://dartup.ru/EN",
+    "startDate": "2021-12-03",
+    "endDate": "2021-12-04",
+    "online": true,
+    "cfpUrl": "https://www.papercall.io/dartup21",
+    "cfpEndDate": "2021-11-15",
+    "twitter": "@dartup_conf"
+  },
+  {
     "name": "Progressive Web Experience",
     "url": "https://progressivewebexperience.io",
     "startDate": "2021-12-05",
@@ -1324,15 +1334,5 @@
     "cfpEndDate": "2021-11-17",
     "twitter": "@wearedevs",
     "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct"
-  },
-  {
-    "name": "DartUP",
-    "startDate": "2021-12-03",
-    "endDate": "2021-12-04",
-    "online": true,
-    "cfpUrl": "https://www.papercall.io/dartup21",
-    "cfpEndDate": "2021-11-15",
-    "twitter": "@dartup_conf",
-    "url": "https://dartup.ru/EN"
   }
 ]
