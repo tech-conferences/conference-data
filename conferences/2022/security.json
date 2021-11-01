@@ -46,5 +46,18 @@
     "online": true,
     "twitter": "@QubitCon",
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "DevOpsCon London",
+    "startDate": "2022-04-26",
+    "endDate": "2022-04-29",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "cfpUrl": "https://devopscon.io/call-for-papers",
+    "cfpEndDate": "2021-11-08",
+    "twitter": "@devops_con",
+    "cocUrl": "https://devopscon.io/code-of-conduct/",
+    "url": "https://devopscon.io/london"
   }
 ]
