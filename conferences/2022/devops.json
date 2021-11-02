@@ -57,6 +57,19 @@
     "cocUrl": "https://devopsdays.org/events/2022-los-angeles/conduct"
   },
   {
+    "name": "Incontro DevOps Italia",
+    "url": "https://incontrodevops.it",
+    "startDate": "2022-03-18",
+    "endDate": "2022-03-18",
+    "city": "Bologna",
+    "country": "Italy",
+    "online": true,
+    "cfpUrl": "https://grusp.org/CFPIDI",
+    "cfpEndDate": "2022-01-06",
+    "twitter": "@incontrodevops",
+    "cocUrl": "https://www.grusp.org/coc/"
+  },
+  {
     "name": "Devopsdays Raleigh",
     "url": "https://devopsdays.org/events/2022-raleigh/welcome/",
     "startDate": "2022-04-13",
@@ -87,6 +100,19 @@
     "country": "U.S.A.",
     "online": false,
     "cocUrl": "https://devopsdays.org/events/2022-denver/conduct"
+  },
+  {
+    "name": "DevOpsCon London",
+    "url": "https://devopscon.io/london",
+    "startDate": "2022-04-26",
+    "endDate": "2022-04-29",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "cfpUrl": "https://devopscon.io/call-for-papers",
+    "cfpEndDate": "2021-11-08",
+    "twitter": "@devops_con",
+    "cocUrl": "https://devopscon.io/code-of-conduct/"
   },
   {
     "name": "Devopsdays Austin",
@@ -207,31 +233,5 @@
     "country": "Australia",
     "online": false,
     "cocUrl": "https://www.usenix.org/conferences/coc"
-  },
-  {
-    "name": "DevOpsCon London",
-    "startDate": "2022-04-26",
-    "endDate": "2022-04-29",
-    "city": "London",
-    "country": "U.K.",
-    "online": true,
-    "cfpUrl": "https://devopscon.io/call-for-papers",
-    "cfpEndDate": "2021-11-08",
-    "twitter": "@devops_con",
-    "cocUrl": "https://devopscon.io/code-of-conduct/",
-    "url": "https://devopscon.io/london"
-  },
-  {
-    "name": "Incontro DevOps Italia",
-    "startDate": "2022-03-18",
-    "endDate": "2022-03-18",
-    "city": "Bologna",
-    "country": "Italy",
-    "online": true,
-    "cfpUrl": "https://grusp.org/CFPIDI",
-    "cfpEndDate": "2022-01-06",
-    "twitter": "@incontrodevops",
-    "cocUrl": "https://www.grusp.org/coc/",
-    "url": "https://incontrodevops.it"
   }
 ]
