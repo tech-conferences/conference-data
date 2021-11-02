@@ -277,6 +277,15 @@
     "offersSignLanguageOrCC": false
   },
   {
+    "name": "Prisma Serverless Conference",
+    "url": "https://www.prisma.io/serverless",
+    "startDate": "2021-11-18",
+    "endDate": "2021-11-18",
+    "online": true,
+    "twitter": "@Prisma",
+    "cocUrl": "https://github.com/prisma/Prisma-Day/blob/master/code-of-conduct.md"
+  },
+  {
     "name": "Git Commit Show",
     "url": "https://gitcommit.show",
     "startDate": "2021-11-27",
@@ -304,14 +313,5 @@
     "online": true,
     "cocUrl": "https://www.ic4irb.org/",
     "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "Prisma Serverless Conference",
-    "startDate": "2021-11-18",
-    "endDate": "2021-11-18",
-    "online": true,
-    "twitter": "@Prisma",
-    "cocUrl": "https://github.com/prisma/Prisma-Day/blob/master/code-of-conduct.md",
-    "url": "https://www.prisma.io/serverless"
   }
 ]
