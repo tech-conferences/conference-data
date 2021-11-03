@@ -1177,6 +1177,15 @@
     "cocUrl": "https://www.thebigtransaction.com/policies/"
   },
   {
+    "name": "SeaGL",
+    "url": "https://seagl.org/",
+    "startDate": "2021-11-05",
+    "endDate": "2021-11-06",
+    "online": true,
+    "twitter": "@seagl",
+    "cocUrl": "https://seagl.org/code_of_conduct.html"
+  },
+  {
     "name": "GOTO Copenhagen",
     "url": "https://gotocph.com",
     "startDate": "2021-11-08",
@@ -1242,6 +1251,15 @@
     "cfpEndDate": "2021-10-17",
     "twitter": "@AsyncAPISpec",
     "cocUrl": "https://events.linuxfoundation.org/about/code-of-conduct/"
+  },
+  {
+    "name": "DeveloperWeek Austin",
+    "url": "https://www.developerweek.com/Austin",
+    "startDate": "2021-11-17",
+    "endDate": "2021-11-18",
+    "online": true,
+    "twitter": "@DevWeekATX",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/"
   },
   {
     "name": "EmacsConf",
@@ -1334,14 +1352,5 @@
     "cfpEndDate": "2021-11-17",
     "twitter": "@wearedevs",
     "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct"
-  },
-  {
-    "name": "DeveloperWeek Austin",
-    "startDate": "2021-11-17",
-    "endDate": "2021-11-18",
-    "online": true,
-    "twitter": "@DevWeekATX",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "url": "https://www.developerweek.com/Austin"
   }
 ]
