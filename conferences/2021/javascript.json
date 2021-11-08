@@ -708,6 +708,15 @@
     "cocUrl": "https://www.nodetlv.com/code-of-conduct"
   },
   {
+    "name": "DeveloperWeek Austin",
+    "url": "https://www.developerweek.com/Austin",
+    "startDate": "2021-11-17",
+    "endDate": "2021-11-18",
+    "online": true,
+    "twitter": "@DevWeekATX",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/"
+  },
+  {
     "name": "WeAreDevelopers JavaScript Congress",
     "url": "https://www.wearedevelopers.com/javascript-congress",
     "startDate": "2021-11-23",
@@ -748,14 +757,5 @@
     "cfpEndDate": "2021-08-31",
     "twitter": "@xtremejsconf",
     "cocUrl": "https://bit.ly/2NL4ehr."
-  },
-  {
-    "name": "DeveloperWeek Austin",
-    "startDate": "2021-11-17",
-    "endDate": "2021-11-18",
-    "online": true,
-    "twitter": "@DevWeekATX",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "url": "https://www.developerweek.com/Austin"
   }
 ]

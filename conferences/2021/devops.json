@@ -860,6 +860,15 @@
     "cocUrl": "https://www.continuouslifecycle.de/code_of_conduct.php"
   },
   {
+    "name": "DeveloperWeek Austin",
+    "url": "https://www.developerweek.com/Austin",
+    "startDate": "2021-11-17",
+    "endDate": "2021-11-18",
+    "online": true,
+    "twitter": "@DevWeekATX",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/"
+  },
+  {
     "name": "DevOpsCon Singapore",
     "url": "https://devopscon.io/singapore",
     "startDate": "2021-11-22",
@@ -900,14 +909,5 @@
     "online": true,
     "twitter": "@devops_con",
     "cocUrl": "https://devopscon.io/code-of-conduct/"
-  },
-  {
-    "name": "DeveloperWeek Austin",
-    "startDate": "2021-11-17",
-    "endDate": "2021-11-18",
-    "online": true,
-    "twitter": "@DevWeekATX",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "url": "https://www.developerweek.com/Austin"
   }
 ]

@@ -105,6 +105,30 @@
     "cocUrl": "https://serverless-architecture.io/code-of-conduct/"
   },
   {
+    "name": "DevConf",
+    "url": "https://www.devconf.co.za/capetown",
+    "startDate": "2022-04-05",
+    "endDate": "2022-04-05",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/devconf-2022",
+    "cfpEndDate": "2021-11-12",
+    "twitter": "@devconfza"
+  },
+  {
+    "name": "DevConf",
+    "url": "https://www.devconf.co.za/joburg",
+    "startDate": "2022-04-07",
+    "endDate": "2022-04-07",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/devconf-2022",
+    "cfpEndDate": "2021-11-12",
+    "twitter": "@devconfza"
+  },
+  {
     "name": "CodeStock",
     "url": "https://www.codestock.org",
     "startDate": "2022-04-07",
@@ -136,29 +160,5 @@
     "online": false,
     "twitter": "@techbash",
     "cocUrl": "https://techbash.com/code-of-conduct"
-  },
-  {
-    "name": "DevConf",
-    "startDate": "2022-04-05",
-    "endDate": "2022-04-05",
-    "city": "Cape Town",
-    "country": "South Africa",
-    "online": false,
-    "cfpUrl": "https://sessionize.com/devconf-2022",
-    "cfpEndDate": "2021-11-12",
-    "twitter": "@devconfza",
-    "url": "https://www.devconf.co.za/capetown"
-  },
-  {
-    "name": "DevConf",
-    "startDate": "2022-04-07",
-    "endDate": "2022-04-07",
-    "city": "Johannesburg",
-    "country": "South Africa",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/devconf-2022",
-    "cfpEndDate": "2021-11-12",
-    "twitter": "@devconfza",
-    "url": "https://www.devconf.co.za/joburg"
   }
 ]
