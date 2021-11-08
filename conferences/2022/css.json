@@ -12,17 +12,8 @@
     "offersSignLanguageOrCC": true
   },
   {
-    "name": "CSS Day",
-    "url": "https://cssday.nl/2022",
-    "startDate": "2022-06-09",
-    "endDate": "2022-06-10",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "twitter": "@cssdayconf",
-    "cocUrl": "https://cssday.nl/2022/contact#code-of-conduct"
-  },
-  {
     "name": "cssday",
+    "url": "https://cssday.it",
     "startDate": "2022-04-01",
     "endDate": "2022-04-01",
     "city": "Faenza",
@@ -31,7 +22,16 @@
     "cfpUrl": "https://grusp.org/CFPcssday",
     "cfpEndDate": "2022-01-06",
     "twitter": "@cssday_it",
-    "cocUrl": "https://grusp.org/coc",
-    "url": "https://cssday.it"
+    "cocUrl": "https://grusp.org/coc"
+  },
+  {
+    "name": "CSS Day",
+    "url": "https://cssday.nl/2022",
+    "startDate": "2022-06-09",
+    "endDate": "2022-06-10",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@cssdayconf",
+    "cocUrl": "https://cssday.nl/2022/contact#code-of-conduct"
   }
 ]
