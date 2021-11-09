@@ -59,6 +59,7 @@ Conference data have the following structure:
 - [See all Rust conferences](https://confs.tech/rust)
 - [See all Scala conferences](https://confs.tech/scala)
 - [See all Security conferences](https://confs.tech/security)
+- [See all Solidity conferences](https://confs.tech/solidity)
 - [See all Technical communication conferences](https://confs.tech/tech-comm)
 - [See all Testing conferences](https://confs.tech/testing)
 - [See all TypeScript conferences](https://confs.tech/typescript)
