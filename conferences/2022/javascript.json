@@ -80,5 +80,16 @@
     "online": false,
     "twitter": "@nordicjs",
     "cocUrl": "https://nordicjs.com/code-of-conduct"
+  },
+  {
+    "name": "CityJS Conference London",
+    "startDate": "2022-03-23",
+    "endDate": "2022-03-25",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdhXejorIkVvL2T-9_R9NdMHsqbBisGxcZZKobRdDrvp5ui8w/viewform",
+    "cfpEndDate": "2001-01-15",
+    "twitter": "@cityjsconf",
+    "cocUrl": "https://cityjsconf.org/coc/",
+    "url": "https://cityjsconf.org"
   }
 ]
