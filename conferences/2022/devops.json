@@ -233,5 +233,19 @@
     "country": "Australia",
     "online": false,
     "cocUrl": "https://www.usenix.org/conferences/coc"
+  },
+  {
+    "name": "SREcon Americas",
+    "startDate": "2022-03-14",
+    "endDate": "2022-03-16",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://www.usenix.org/conference/srecon22americas/call-for-participation",
+    "cfpEndDate": "2021-11-17",
+    "twitter": "@SREcon",
+    "cocUrl": "https://www.usenix.org/conferences/coc",
+    "offersSignLanguageOrCC": true,
+    "url": "https://usenix.org/conference/srecon22americas"
   }
 ]
