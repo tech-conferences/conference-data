@@ -30,5 +30,16 @@
     "city": "Dublin",
     "country": "Ireland",
     "online": false
+  },
+  {
+    "name": "Conf42 Python",
+    "startDate": "2022-01-27",
+    "endDate": "2022-01-27",
+    "online": true,
+    "cfpUrl": "https://www.papercall.io/conf42-python-2022",
+    "cfpEndDate": "2021-12-27",
+    "twitter": "@conf42com",
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
+    "url": "https://www.conf42.com/python2022"
   }
 ]
