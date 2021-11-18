@@ -21,5 +21,18 @@
     "country": "U.S.A.",
     "online": false,
     "twitter": "@midwestphp"
+  },
+  {
+    "name": "International PHP Conference",
+    "startDate": "2022-05-30",
+    "endDate": "2022-06-03",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "cfpUrl": "https://callforpapers.sandsmedia.com",
+    "cfpEndDate": "2022-01-13",
+    "twitter": "@phpconference",
+    "cocUrl": "https://phpconference.com/code-of-conduct/",
+    "url": "https://phpconference.com/berlin-en"
   }
 ]
