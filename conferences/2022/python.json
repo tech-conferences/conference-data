@@ -30,5 +30,16 @@
     "city": "Dublin",
     "country": "Ireland",
     "online": false
+  },
+  {
+    "name": "Conf42 Machine Learning",
+    "startDate": "2022-05-19",
+    "endDate": "2022-05-19",
+    "online": true,
+    "cfpUrl": "https://www.papercall.io/conf42-machine-learning-2022",
+    "cfpEndDate": "2022-04-08",
+    "twitter": "@conf42com",
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
+    "url": "https://www.conf42.com/ml2022"
   }
 ]
