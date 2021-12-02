@@ -156,5 +156,18 @@
     "cocUrl": "https://miami.jsworldconference.com/code-of-conduct",
     "offersSignLanguageOrCC": true,
     "url": "https://www.reactmiami.com"
+  },
+  {
+    "name": "React Conference Live",
+    "startDate": "2022-04-01",
+    "endDate": "2022-04-01",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": true,
+    "cfpUrl": "https://reactlive.nl/speakers",
+    "cfpEndDate": "2022-01-01",
+    "twitter": "@reactlivenl",
+    "cocUrl": "https://reactlive.nl/code-of-conduct",
+    "url": "https://reactlive.nl"
   }
 ]
