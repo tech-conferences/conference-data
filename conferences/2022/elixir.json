@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Lambda Days",
+    "url": "https://www.lambdadays.org/lambdadays2022/",
+    "startDate": "2022-02-10",
+    "endDate": "2022-02-11",
+    "online": true,
+    "city": "Krakow",
+    "country": "Poland",
+    "twitter": "@LambdaDays",
+    "cocUrl": "https://www.lambdadays.org/lambdadays2022/#code-of-conduct"
+  },
+  {
+    "name": "Code BEAM Europe",
+    "url": "https://codesync.global/conferences/code-beam-sto-2022/",
+    "startDate": "2022-05-19",
+    "endDate": "2022-05-20",
+    "online": true,
+    "city": "Stockholm",
+    "country": "Sweden",
+    "twitter": "@CodeSyncGlobal",
+    "cocUrl": "https://codesync.global/about-us/#Conduct"
+  },
+  {
+    "name": "ElixirConf EU",
+    "url": "https://www.elixirconf.eu",
+    "startDate": "2022-04-07",
+    "endDate": "2022-04-07",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "twitter": "@elixirconfeu",
+    "cocUrl": "https://www.elixirconf.eu/assets/images/CoCEU.pdf",
+    "cfpUrl": "https://eventil.com/events/elixirconf-eu-2022/cfp",
+    "cfpEndDate": "2021-12-09"
+  }
+]
