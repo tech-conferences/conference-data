@@ -243,6 +243,7 @@ module.exports = {
     "Tehran"
   ],
   "Ireland": [
+    "Athlone",
     "Dublin",
     "Galway",
     "Kilkenny"
