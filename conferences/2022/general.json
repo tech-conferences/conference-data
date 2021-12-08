@@ -203,5 +203,17 @@
     "online": true,
     "twitter": "@SoftwArchSummit",
     "url": "https://software-architecture-summit.de/muenchen"
+  },
+  {
+    "name": "ACM Multimedia Systems Conference - MMSys",
+    "startDate": "2022-06-14",
+    "endDate": "2022-06-17",
+    "city": "Athlone",
+    "country": "Ireland",
+    "online": false,
+    "cfpUrl": "https://mmsys2022.ie/downloads/MMSys2022_CallForPapers.pdf",
+    "cfpEndDate": "2022-01-21",
+    "twitter": "@acmmmsys",
+    "url": "https://mmsys2022.ie"
   }
 ]
