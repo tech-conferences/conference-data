@@ -41,5 +41,29 @@
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct",
     "url": "https://www.conf42.com/python2022"
+  },
+  {
+    "name": "PyCon",
+    "startDate": "2022-04-27",
+    "endDate": "2022-05-03",
+    "city": "Salt Lake City, UT",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@pycon",
+    "cocUrl": "https://us.pycon.org/2022/about/code-of-conduct/",
+    "url": "https://us.pycon.org/2022"
+  },
+  {
+    "name": "Python Pizza Holguín",
+    "startDate": "2022-01-15",
+    "endDate": "2022-01-15",
+    "city": "Holguín",
+    "country": "Cuba",
+    "online": true,
+    "cfpUrl": "https://forms.gle/feQmZLe2vb2LQJyN9",
+    "cfpEndDate": "2021-12-18",
+    "twitter": "@pythonpizzaconf",
+    "cocUrl": "https://holguin.python.pizza/",
+    "url": "https://holguin.python.pizza"
   }
 ]
