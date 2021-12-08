@@ -114,6 +114,7 @@ module.exports = {
     "Zagreb"
   ],
   "Cuba": [
+    "Holguín",
     "Villa Clara"
   ],
   "Cyprus": [
