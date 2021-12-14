@@ -347,5 +347,18 @@
     "twitter": "@jcon_conference",
     "cocUrl": "https://jcon.one/code-of-conduct",
     "url": "https://jcon.one"
+  },
+  {
+    "name": "DevOpsCon Berlin",
+    "startDate": "2022-06-20",
+    "endDate": "2022-06-23",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "cfpUrl": "https://callforpapers.sandsmedia.com",
+    "cfpEndDate": "2022-05-01",
+    "twitter": "@devops_con",
+    "cocUrl": "https://devopscon.io/code-of-conduct/",
+    "url": "https://devopscon.io/berlin"
   }
 ]
