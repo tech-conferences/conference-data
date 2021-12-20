@@ -1,5 +1,60 @@
 [
   {
+    "name": "Workforce Identity Governance & Access Management Summit",
+    "url": "https://www.altrusiaglobal.com/wigam",
+    "startDate": "2022-02-24",
+    "endDate": "2022-02-24",
+    "online": true,
+    "twitter": "@altrusiaglobal",
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "Nullcon International Conference and Training Berlin",
+    "url": "https://nullcon.net",
+    "startDate": "2022-04-08",
+    "endDate": "2022-04-09",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://nullcon.net/berlin-2022/cfp",
+    "cfpEndDate": "2022-01-15",
+    "twitter": "@nullcon",
+    "cocUrl": "https://nullcon.net/about-conferencepolicy/"
+  },
+  {
+    "name": "ODSC East",
+    "url": "https://odsc.com/boston",
+    "startDate": "2022-04-19",
+    "endDate": "2022-04-21",
+    "city": "Boston, MA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@ODSC"
+  },
+  {
+    "name": "Conf42 Machine Learning",
+    "url": "https://www.conf42.com/ml2022",
+    "startDate": "2022-05-19",
+    "endDate": "2022-05-19",
+    "online": true,
+    "cfpUrl": "https://www.papercall.io/conf42-machine-learning-2022",
+    "cfpEndDate": "2022-04-08",
+    "twitter": "@conf42com",
+    "cocUrl": "https://www.conf42.com/code-of-conduct"
+  },
+  {
+    "name": "Render-Atlanta (RenderATL)",
+    "url": "https://www.renderatl.com",
+    "startDate": "2022-06-01",
+    "endDate": "2022-06-04",
+    "city": "Atlanta, GA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@RenderATL",
+    "cocUrl": "RenderATL.com/thecode",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "MongoDB World",
     "url": "https://www.mongodb.com/world",
     "startDate": "2022-06-07",
@@ -12,67 +67,5 @@
     "twitter": "@MongoDB",
     "cocUrl": "https://www.mongodb.com/mongodb-world-code-conduct",
     "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "Conf42 Machine Learning",
-    "startDate": "2022-05-19",
-    "endDate": "2022-05-19",
-    "online": true,
-    "cfpUrl": "https://www.papercall.io/conf42-machine-learning-2022",
-    "cfpEndDate": "2022-04-08",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "url": "https://www.conf42.com/ml2022"
-  },
-  {
-    "name": "ODSC East",
-    "startDate": "2022-04-19",
-    "endDate": "2022-04-21",
-    "city": "Boston, MA",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@ODSC",
-    "url": "https://odsc.com/boston"
-  },
-  {
-    "name": "Nullcon International Conference and Training Berlin",
-    "startDate": "2022-04-08",
-    "endDate": "2022-04-09",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://nullcon.net/berlin-2022/cfp",
-    "cfpEndDate": "2022-01-15",
-    "twitter": "@nullcon",
-    "cocUrl": "https://nullcon.net/about-conferencepolicy/",
-    "url": "https://nullcon.net"
-  },
-  {
-    "name": "Workforce Identity Governance & Access Management Summit",
-    "startDate": "2022-02-24",
-    "endDate": "2022-02-24",
-    "online": true,
-    "twitter": "@altrusiaglobal",
-    "offersSignLanguageOrCC": true,
-    "url": "https://www.altrusiaglobal.com/wigam"
-  },
-  {
-    "name": "CPX 360 APAC",
-    "startDate": "2022-01-19",
-    "endDate": "2022-01-20",
-    "online": true,
-    "url": "https://www.checkpoint.com/cpx"
-  },
-  {
-    "name": "Render-Atlanta (RenderATL)",
-    "startDate": "2022-06-01",
-    "endDate": "2022-06-04",
-    "city": "Atlanta, GA",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@RenderATL",
-    "cocUrl": "RenderATL.com/thecode",
-    "offersSignLanguageOrCC": true,
-    "url": "https://www.renderatl.com"
   }
 ]

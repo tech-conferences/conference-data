@@ -20,15 +20,6 @@
     "offersSignLanguageOrCC": false
   },
   {
-    "name": "CPX 360",
-    "url": "https://virtual-cpx.checkpoint.com",
-    "startDate": "2021-02-23",
-    "endDate": "2021-02-24",
-    "online": true,
-    "twitter": "@CheckPointSW",
-    "offersSignLanguageOrCC": false
-  },
-  {
     "name": "B-Sides Tampa",
     "url": "https://bsidestampa.net",
     "startDate": "2021-02-27",
@@ -264,11 +255,11 @@
   },
   {
     "name": "MuleSoft Transform",
+    "url": "https://www.mulesoft.com/transform",
     "startDate": "2021-12-07",
     "endDate": "2021-12-09",
     "online": true,
     "twitter": "@MuleSoft",
-    "offersSignLanguageOrCC": true,
-    "url": "https://www.mulesoft.com/transform"
+    "offersSignLanguageOrCC": true
   }
 ]

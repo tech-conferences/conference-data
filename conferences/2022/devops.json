@@ -44,6 +44,17 @@
     "cocUrl": "https://devopsdays.org/events/2022-vitoria/conduct"
   },
   {
+    "name": "sec4dev Conference & Bootcamp",
+    "url": "https://sec4dev.io",
+    "startDate": "2022-02-21",
+    "endDate": "2022-02-24",
+    "city": "Vienna",
+    "country": "Austria",
+    "online": false,
+    "twitter": "@sec4dev",
+    "cocUrl": "https://sec4dev.io/code-of-conduct"
+  },
+  {
     "name": "Devopsdays Los Angeles",
     "url": "https://devopsdays.org/events/2022-los-angeles/welcome/",
     "startDate": "2022-03-04",
@@ -57,6 +68,31 @@
     "cocUrl": "https://devopsdays.org/events/2022-los-angeles/conduct"
   },
   {
+    "name": "Chaos Engineering",
+    "url": "https://www.conf42.com/ce2022",
+    "startDate": "2022-03-10",
+    "endDate": "2022-03-10",
+    "online": true,
+    "cfpUrl": "https://www.papercall.io/conf42-chaos-engineering-2022",
+    "cfpEndDate": "2022-02-02",
+    "twitter": "@conf42com",
+    "cocUrl": "https://www.conf42.com/code-of-conduct"
+  },
+  {
+    "name": "SREcon Americas",
+    "url": "https://usenix.org/conference/srecon22americas",
+    "startDate": "2022-03-14",
+    "endDate": "2022-03-16",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://www.usenix.org/conference/srecon22americas/call-for-participation",
+    "cfpEndDate": "2021-11-17",
+    "twitter": "@SREcon",
+    "cocUrl": "https://www.usenix.org/conferences/coc",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Incontro DevOps Italia",
     "url": "https://incontrodevops.it",
     "startDate": "2022-03-18",
@@ -68,6 +104,19 @@
     "cfpEndDate": "2022-01-06",
     "twitter": "@incontrodevops",
     "cocUrl": "https://www.grusp.org/coc/"
+  },
+  {
+    "name": "Nullcon International Conference and Training Berlin",
+    "url": "https://nullcon.net",
+    "startDate": "2022-04-08",
+    "endDate": "2022-04-09",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://nullcon.net/berlin-2022/cfp",
+    "cfpEndDate": "2022-01-15",
+    "twitter": "@nullcon",
+    "cocUrl": "https://nullcon.net/about-conferencepolicy/"
   },
   {
     "name": "Devopsdays Raleigh",
@@ -113,6 +162,17 @@
     "cfpEndDate": "2021-11-08",
     "twitter": "@devops_con",
     "cocUrl": "https://devopscon.io/code-of-conduct/"
+  },
+  {
+    "name": "Conf42 Cloud Native",
+    "url": "https://www.conf42.com/cloud2022",
+    "startDate": "2022-04-28",
+    "endDate": "2022-04-28",
+    "online": true,
+    "cfpUrl": "https://www.papercall.io/conf42-cloud-native-2022",
+    "cfpEndDate": "2022-03-25",
+    "twitter": "@conf42com",
+    "cocUrl": "https://www.conf42.com/code-of-conduct"
   },
   {
     "name": "Devopsdays Austin",
@@ -182,6 +242,18 @@
     "cocUrl": "https://devopsdays.org/events/2022-prague/conduct"
   },
   {
+    "name": "Render-Atlanta (RenderATL)",
+    "url": "https://www.renderatl.com",
+    "startDate": "2022-06-01",
+    "endDate": "2022-06-04",
+    "city": "Atlanta, GA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@RenderATL",
+    "cocUrl": "RenderATL.com/thecode",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Agile Testing Days USA",
     "url": "https://agiletestingdays.us",
     "startDate": "2022-06-05",
@@ -191,6 +263,30 @@
     "online": false,
     "twitter": "@AgileTDUSA",
     "cocUrl": "https://agiletestingdays.us/code-of-conduct/"
+  },
+  {
+    "name": "Conf42 Site Reliability Engineering (SRE)",
+    "url": "https://www.conf42.com/sre2022",
+    "startDate": "2022-06-09",
+    "endDate": "2022-06-09",
+    "online": true,
+    "cfpUrl": "https://www.papercall.io/conf42-sre-2022",
+    "cfpEndDate": "2022-05-06",
+    "twitter": "@conf42com",
+    "cocUrl": "https://www.conf42.com/code-of-conduct"
+  },
+  {
+    "name": "DevOpsCon Berlin",
+    "url": "https://devopscon.io/berlin",
+    "startDate": "2022-06-20",
+    "endDate": "2022-06-23",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "cfpUrl": "https://callforpapers.sandsmedia.com",
+    "cfpEndDate": "2022-05-01",
+    "twitter": "@devops_con",
+    "cocUrl": "https://devopscon.io/code-of-conduct/"
   },
   {
     "name": "Devopsdays Amsterdam",
@@ -215,6 +311,38 @@
     "cocUrl": "https://devopsdays.org/events/2022-dallas/conduct"
   },
   {
+    "name": "CascadiaJS",
+    "url": "https://2022.cascadiajs.com",
+    "startDate": "2022-08-30",
+    "endDate": "2022-09-02",
+    "city": "Bend, OR",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@cascadiajs",
+    "cocUrl": "https://2022.cascadiajs.com/code-of-conduct",
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "Conf42 Incident Management",
+    "url": "https://www.conf42.com/im2022",
+    "startDate": "2022-09-29",
+    "endDate": "2022-09-29",
+    "online": true,
+    "cfpUrl": "https://www.papercall.io/conf42-incident-management-2022",
+    "cfpEndDate": "2022-08-26",
+    "twitter": "@conf42com",
+    "cocUrl": "https://www.conf42.com/code-of-conduct"
+  },
+  {
+    "name": "JCON",
+    "url": "https://jcon.one",
+    "startDate": "2022-10-18",
+    "endDate": "2022-10-21",
+    "online": true,
+    "twitter": "@jcon_conference",
+    "cocUrl": "https://jcon.one/code-of-conduct"
+  },
+  {
     "name": "SREcon EMEA",
     "url": "https://www.usenix.org/conferences",
     "startDate": "2022-10-25",
@@ -225,6 +353,17 @@
     "cocUrl": "https://www.usenix.org/conferences/coc"
   },
   {
+    "name": "Conf42 DevSecOps",
+    "url": "https://www.conf42.com/devsecops2022",
+    "startDate": "2022-12-01",
+    "endDate": "2022-12-01",
+    "online": true,
+    "cfpUrl": "https://www.papercall.io/conf42-devsecops-2022",
+    "cfpEndDate": "2022-10-28",
+    "twitter": "@conf42com",
+    "cocUrl": "https://www.conf42.com/code-of-conduct"
+  },
+  {
     "name": "SREcon Asia/Pacific",
     "url": "https://www.usenix.org/conferences",
     "startDate": "2022-12-07",
@@ -233,144 +372,5 @@
     "country": "Australia",
     "online": false,
     "cocUrl": "https://www.usenix.org/conferences/coc"
-  },
-  {
-    "name": "SREcon Americas",
-    "startDate": "2022-03-14",
-    "endDate": "2022-03-16",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://www.usenix.org/conference/srecon22americas/call-for-participation",
-    "cfpEndDate": "2021-11-17",
-    "twitter": "@SREcon",
-    "cocUrl": "https://www.usenix.org/conferences/coc",
-    "offersSignLanguageOrCC": true,
-    "url": "https://usenix.org/conference/srecon22americas"
-  },
-  {
-    "name": "Conf42 Incident Management",
-    "startDate": "2022-09-29",
-    "endDate": "2022-09-29",
-    "online": true,
-    "cfpUrl": "https://www.papercall.io/conf42-incident-management-2022",
-    "cfpEndDate": "2022-08-26",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "url": "https://www.conf42.com/im2022"
-  },
-  {
-    "name": "Conf42 Site Reliability Engineering (SRE)",
-    "startDate": "2022-06-09",
-    "endDate": "2022-06-09",
-    "online": true,
-    "cfpUrl": "https://www.papercall.io/conf42-sre-2022",
-    "cfpEndDate": "2022-05-06",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "url": "https://www.conf42.com/sre2022"
-  },
-  {
-    "name": "Conf42 Cloud Native",
-    "startDate": "2022-04-28",
-    "endDate": "2022-04-28",
-    "online": true,
-    "cfpUrl": "https://www.papercall.io/conf42-cloud-native-2022",
-    "cfpEndDate": "2022-03-25",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "url": "https://www.conf42.com/cloud2022"
-  },
-  {
-    "name": "Chaos Engineering",
-    "startDate": "2022-03-10",
-    "endDate": "2022-03-10",
-    "online": true,
-    "cfpUrl": "https://www.papercall.io/conf42-chaos-engineering-2022",
-    "cfpEndDate": "2022-02-02",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "url": "https://www.conf42.com/ce2022"
-  },
-  {
-    "name": "Conf42 DevSecOps",
-    "startDate": "2022-12-01",
-    "endDate": "2022-12-01",
-    "online": true,
-    "cfpUrl": "https://www.papercall.io/conf42-devsecops-2022",
-    "cfpEndDate": "2022-10-28",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "url": "https://www.conf42.com/devsecops2022"
-  },
-  {
-    "name": "sec4dev Conference & Bootcamp",
-    "startDate": "2022-02-21",
-    "endDate": "2022-02-24",
-    "city": "Vienna",
-    "country": "Austria",
-    "online": false,
-    "twitter": "@sec4dev",
-    "cocUrl": "https://sec4dev.io/code-of-conduct",
-    "url": "https://sec4dev.io"
-  },
-  {
-    "name": "CascadiaJS",
-    "startDate": "2022-08-30",
-    "endDate": "2022-09-02",
-    "city": "Bend, OR",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@cascadiajs",
-    "cocUrl": "https://2022.cascadiajs.com/code-of-conduct",
-    "offersSignLanguageOrCC": true,
-    "url": "https://2022.cascadiajs.com"
-  },
-  {
-    "name": "Nullcon International Conference and Training Berlin",
-    "startDate": "2022-04-08",
-    "endDate": "2022-04-09",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://nullcon.net/berlin-2022/cfp",
-    "cfpEndDate": "2022-01-15",
-    "twitter": "@nullcon",
-    "cocUrl": "https://nullcon.net/about-conferencepolicy/",
-    "url": "https://nullcon.net"
-  },
-  {
-    "name": "JCON",
-    "startDate": "2022-10-18",
-    "endDate": "2022-10-21",
-    "online": true,
-    "twitter": "@jcon_conference",
-    "cocUrl": "https://jcon.one/code-of-conduct",
-    "url": "https://jcon.one"
-  },
-  {
-    "name": "DevOpsCon Berlin",
-    "startDate": "2022-06-20",
-    "endDate": "2022-06-23",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "cfpUrl": "https://callforpapers.sandsmedia.com",
-    "cfpEndDate": "2022-05-01",
-    "twitter": "@devops_con",
-    "cocUrl": "https://devopscon.io/code-of-conduct/",
-    "url": "https://devopscon.io/berlin"
-  },
-  {
-    "name": "Render-Atlanta (RenderATL)",
-    "startDate": "2022-06-01",
-    "endDate": "2022-06-04",
-    "city": "Atlanta, GA",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@RenderATL",
-    "cocUrl": "RenderATL.com/thecode",
-    "offersSignLanguageOrCC": true,
-    "url": "https://www.renderatl.com"
   }
 ]

@@ -1,19 +1,7 @@
 [
   {
-    "name": "building IoT",
-    "startDate": "2022-05-10",
-    "endDate": "2022-05-11",
-    "city": "Karlsruhe",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://www.buildingiot.de/cfp_en.php",
-    "cfpEndDate": "2022-01-10",
-    "twitter": "@building_iot",
-    "cocUrl": "https://www.buildingiot.de/code_of_conduct.php",
-    "url": "https://www.buildingiot.de"
-  },
-  {
     "name": "Nullcon International Conference and Training Berlin",
+    "url": "https://nullcon.net",
     "startDate": "2022-04-08",
     "endDate": "2022-04-09",
     "city": "Berlin",
@@ -22,16 +10,28 @@
     "cfpUrl": "https://nullcon.net/berlin-2022/cfp",
     "cfpEndDate": "2022-01-15",
     "twitter": "@nullcon",
-    "cocUrl": "https://nullcon.net/about-conferencepolicy/",
-    "url": "https://nullcon.net"
+    "cocUrl": "https://nullcon.net/about-conferencepolicy/"
+  },
+  {
+    "name": "building IoT",
+    "url": "https://www.buildingiot.de",
+    "startDate": "2022-05-10",
+    "endDate": "2022-05-11",
+    "city": "Karlsruhe",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://www.buildingiot.de/cfp_en.php",
+    "cfpEndDate": "2022-01-10",
+    "twitter": "@building_iot",
+    "cocUrl": "https://www.buildingiot.de/code_of_conduct.php"
   },
   {
     "name": "JCON",
+    "url": "https://jcon.one",
     "startDate": "2022-10-18",
     "endDate": "2022-10-21",
     "online": true,
     "twitter": "@jcon_conference",
-    "cocUrl": "https://jcon.one/code-of-conduct",
-    "url": "https://jcon.one"
+    "cocUrl": "https://jcon.one/code-of-conduct"
   }
 ]

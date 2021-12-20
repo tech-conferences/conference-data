@@ -25,6 +25,18 @@
     "cocUrl": "https://grusp.org/coc"
   },
   {
+    "name": "Render-Atlanta (RenderATL)",
+    "url": "https://www.renderatl.com",
+    "startDate": "2022-06-01",
+    "endDate": "2022-06-04",
+    "city": "Atlanta, GA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@RenderATL",
+    "cocUrl": "RenderATL.com/thecode",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "CSS Day",
     "url": "https://cssday.nl/2022",
     "startDate": "2022-06-09",
@@ -36,6 +48,7 @@
   },
   {
     "name": "CascadiaJS",
+    "url": "https://2022.cascadiajs.com",
     "startDate": "2022-08-30",
     "endDate": "2022-09-02",
     "city": "Bend, OR",
@@ -43,19 +56,6 @@
     "online": false,
     "twitter": "@cascadiajs",
     "cocUrl": "https://2022.cascadiajs.com/code-of-conduct",
-    "offersSignLanguageOrCC": true,
-    "url": "https://2022.cascadiajs.com"
-  },
-  {
-    "name": "Render-Atlanta (RenderATL)",
-    "startDate": "2022-06-01",
-    "endDate": "2022-06-04",
-    "city": "Atlanta, GA",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@RenderATL",
-    "cocUrl": "RenderATL.com/thecode",
-    "offersSignLanguageOrCC": true,
-    "url": "https://www.renderatl.com"
+    "offersSignLanguageOrCC": true
   }
 ]

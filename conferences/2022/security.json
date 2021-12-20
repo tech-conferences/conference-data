@@ -1,5 +1,13 @@
 [
   {
+    "name": "The Online PHP Conference",
+    "url": "https://2022.phpconference.online",
+    "startDate": "2022-01-17",
+    "endDate": "2022-01-21",
+    "online": true,
+    "twitter": "@thephpcc"
+  },
+  {
     "name": "NDC Security",
     "url": "https://ndc-security.com",
     "startDate": "2022-01-18",
@@ -20,6 +28,17 @@
     "cfpEndDate": "2021-12-07",
     "twitter": "@EdgelessSystems",
     "cocUrl": "https://www.oc3.dev/code-of-conduct"
+  },
+  {
+    "name": "sec4dev Conference & Bootcamp",
+    "url": "https://sec4dev.io",
+    "startDate": "2022-02-21",
+    "endDate": "2022-02-24",
+    "city": "Vienna",
+    "country": "Austria",
+    "online": false,
+    "twitter": "@sec4dev",
+    "cocUrl": "https://sec4dev.io/code-of-conduct"
   },
   {
     "name": "B-Sides Tampa IT Security Conference",
@@ -48,6 +67,30 @@
     "cocUrl": "https://nullcon.net/goa-2022/cfp/"
   },
   {
+    "name": "Chaos Engineering",
+    "url": "https://www.conf42.com/ce2022",
+    "startDate": "2022-03-10",
+    "endDate": "2022-03-10",
+    "online": true,
+    "cfpUrl": "https://www.papercall.io/conf42-chaos-engineering-2022",
+    "cfpEndDate": "2022-02-02",
+    "twitter": "@conf42com",
+    "cocUrl": "https://www.conf42.com/code-of-conduct"
+  },
+  {
+    "name": "Nullcon International Conference and Training Berlin",
+    "url": "https://nullcon.net",
+    "startDate": "2022-04-08",
+    "endDate": "2022-04-09",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://nullcon.net/berlin-2022/cfp",
+    "cfpEndDate": "2022-01-15",
+    "twitter": "@nullcon",
+    "cocUrl": "https://nullcon.net/about-conferencepolicy/"
+  },
+  {
     "name": "DevOpsCon London",
     "url": "https://devopscon.io/london",
     "startDate": "2022-04-26",
@@ -72,40 +115,8 @@
     "offersSignLanguageOrCC": true
   },
   {
-    "name": "Chaos Engineering",
-    "startDate": "2022-03-10",
-    "endDate": "2022-03-10",
-    "online": true,
-    "cfpUrl": "https://www.papercall.io/conf42-chaos-engineering-2022",
-    "cfpEndDate": "2022-02-02",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "url": "https://www.conf42.com/ce2022"
-  },
-  {
-    "name": "Conf42 DevSecOps",
-    "startDate": "2022-12-01",
-    "endDate": "2022-12-01",
-    "online": true,
-    "cfpUrl": "https://www.papercall.io/conf42-devsecops-2022",
-    "cfpEndDate": "2022-10-28",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "url": "https://www.conf42.com/devsecops2022"
-  },
-  {
-    "name": "sec4dev Conference & Bootcamp",
-    "startDate": "2022-02-21",
-    "endDate": "2022-02-24",
-    "city": "Vienna",
-    "country": "Austria",
-    "online": false,
-    "twitter": "@sec4dev",
-    "cocUrl": "https://sec4dev.io/code-of-conduct",
-    "url": "https://sec4dev.io"
-  },
-  {
     "name": "CascadiaJS",
+    "url": "https://2022.cascadiajs.com",
     "startDate": "2022-08-30",
     "endDate": "2022-09-02",
     "city": "Bend, OR",
@@ -113,58 +124,26 @@
     "online": false,
     "twitter": "@cascadiajs",
     "cocUrl": "https://2022.cascadiajs.com/code-of-conduct",
-    "offersSignLanguageOrCC": true,
-    "url": "https://2022.cascadiajs.com"
-  },
-  {
-    "name": "Nullcon International Conference and Training Berlin",
-    "startDate": "2022-04-08",
-    "endDate": "2022-04-09",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://nullcon.net/berlin-2022/cfp",
-    "cfpEndDate": "2022-01-15",
-    "twitter": "@nullcon",
-    "cocUrl": "https://nullcon.net/about-conferencepolicy/",
-    "url": "https://nullcon.net"
-  },
-  {
-    "name": "CPX 360 Americas",
-    "startDate": "2022-01-26",
-    "endDate": "2022-01-27",
-    "online": true,
-    "url": "https://www.checkpoint.com/cpx"
-  },
-  {
-    "name": "CPX 360 EMEA",
-    "startDate": "2022-02-02",
-    "endDate": "2022-02-03",
-    "online": true,
-    "url": "https://www.checkpoint.com/cpx"
-  },
-  {
-    "name": "CPX 360 APAC",
-    "startDate": "2022-01-19",
-    "endDate": "2022-01-20",
-    "online": true,
-    "url": "https://www.checkpoint.com/cpx"
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "JCON",
+    "url": "https://jcon.one",
     "startDate": "2022-10-18",
     "endDate": "2022-10-21",
     "online": true,
     "twitter": "@jcon_conference",
-    "cocUrl": "https://jcon.one/code-of-conduct",
-    "url": "https://jcon.one"
+    "cocUrl": "https://jcon.one/code-of-conduct"
   },
   {
-    "name": "The Online PHP Conference",
-    "startDate": "2022-01-17",
-    "endDate": "2022-01-21",
+    "name": "Conf42 DevSecOps",
+    "url": "https://www.conf42.com/devsecops2022",
+    "startDate": "2022-12-01",
+    "endDate": "2022-12-01",
     "online": true,
-    "twitter": "@thephpcc",
-    "url": "https://2022.phpconference.online"
+    "cfpUrl": "https://www.papercall.io/conf42-devsecops-2022",
+    "cfpEndDate": "2022-10-28",
+    "twitter": "@conf42com",
+    "cocUrl": "https://www.conf42.com/code-of-conduct"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "name": "Software Architecture Summit",
+    "url": "https://software-architecture-summit.de/muenchen",
+    "startDate": "2022-03-14",
+    "endDate": "2022-03-16",
+    "city": "Munich",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@SoftwArchSummit"
+  },
+  {
     "name": "UXLx: User Experience Lisbon",
     "url": "https://www.ux-lx.com",
     "startDate": "2022-05-01",
@@ -10,6 +20,39 @@
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeAwx-Xt73X0vK_fa5bG4vb2y6aHswQUFX6W11lQ7ncVjYmEw/viewform",
     "cfpEndDate": "2021-10-31",
     "twitter": "@uxlx"
+  },
+  {
+    "name": "UXLx: User Experience Lisbon",
+    "url": "https://www.ux-lx.com",
+    "startDate": "2022-05-24",
+    "endDate": "2022-05-27",
+    "online": true,
+    "twitter": "@uxlx"
+  },
+  {
+    "name": "webinale",
+    "url": "https://webinale.de/en",
+    "startDate": "2022-05-30",
+    "endDate": "2022-06-03",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "cfpUrl": "https://callforpapers.sandsmedia.com",
+    "cfpEndDate": "2022-01-13",
+    "twitter": "@webinale",
+    "cocUrl": "https://webinale.de/code-of-conduct-en/"
+  },
+  {
+    "name": "Render-Atlanta (RenderATL)",
+    "url": "https://www.renderatl.com",
+    "startDate": "2022-06-01",
+    "endDate": "2022-06-04",
+    "city": "Atlanta, GA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@RenderATL",
+    "cocUrl": "RenderATL.com/thecode",
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "Pixel Pioneers",
@@ -25,38 +68,8 @@
     "cocUrl": "https://pixelpioneers.co/code-of-conduct"
   },
   {
-    "name": "UXLx: User Experience Lisbon",
-    "startDate": "2022-05-24",
-    "endDate": "2022-05-27",
-    "online": true,
-    "twitter": "@uxlx",
-    "url": "https://www.ux-lx.com"
-  },
-  {
-    "name": "webinale",
-    "startDate": "2022-05-30",
-    "endDate": "2022-06-03",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "cfpUrl": "https://callforpapers.sandsmedia.com",
-    "cfpEndDate": "2022-01-13",
-    "twitter": "@webinale",
-    "cocUrl": "https://webinale.de/code-of-conduct-en/",
-    "url": "https://webinale.de/en"
-  },
-  {
-    "name": "Software Architecture Summit",
-    "startDate": "2022-03-14",
-    "endDate": "2022-03-16",
-    "city": "Munich",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@SoftwArchSummit",
-    "url": "https://software-architecture-summit.de/muenchen"
-  },
-  {
     "name": "CascadiaJS",
+    "url": "https://2022.cascadiajs.com",
     "startDate": "2022-08-30",
     "endDate": "2022-09-02",
     "city": "Bend, OR",
@@ -64,19 +77,6 @@
     "online": false,
     "twitter": "@cascadiajs",
     "cocUrl": "https://2022.cascadiajs.com/code-of-conduct",
-    "offersSignLanguageOrCC": true,
-    "url": "https://2022.cascadiajs.com"
-  },
-  {
-    "name": "Render-Atlanta (RenderATL)",
-    "startDate": "2022-06-01",
-    "endDate": "2022-06-04",
-    "city": "Atlanta, GA",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@RenderATL",
-    "cocUrl": "RenderATL.com/thecode",
-    "offersSignLanguageOrCC": true,
-    "url": "https://www.renderatl.com"
+    "offersSignLanguageOrCC": true
   }
 ]

@@ -31,6 +31,36 @@
     "cocUrl": "https://vuejs.amsterdam/code-of-conduct"
   },
   {
+    "name": "CityJS India",
+    "url": "https://india.cityjsconf.org",
+    "startDate": "2022-02-17",
+    "endDate": "2022-02-18",
+    "city": "Tamil Nadu",
+    "country": "India",
+    "online": true,
+    "cfpUrl": "https://tinyurl.com/cityjsconfindia",
+    "cfpEndDate": "2000-12-31",
+    "twitter": "@cityjsindia",
+    "cocUrl": "https://india.cityjsconf.org/coc/"
+  },
+  {
+    "name": "GatsbyConf",
+    "url": "https://www.gatsbyjs.com/gatsbyconf-2022",
+    "startDate": "2022-03-02",
+    "endDate": "2022-03-03",
+    "online": true
+  },
+  {
+    "name": "Software Architecture Summit",
+    "url": "https://software-architecture-summit.de/muenchen",
+    "startDate": "2022-03-14",
+    "endDate": "2022-03-16",
+    "city": "Munich",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@SoftwArchSummit"
+  },
+  {
     "name": "StrapiConf",
     "url": "https://conf.strapi.io",
     "startDate": "2022-03-16",
@@ -39,6 +69,42 @@
     "cfpUrl": "https://forms.gle/5YzPpJz7WKxx1mdb9",
     "cfpEndDate": "2021-11-30",
     "twitter": "@strapijs"
+  },
+  {
+    "name": "CityJS Conference London",
+    "url": "https://cityjsconf.org",
+    "startDate": "2022-03-23",
+    "endDate": "2022-03-25",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdhXejorIkVvL2T-9_R9NdMHsqbBisGxcZZKobRdDrvp5ui8w/viewform",
+    "cfpEndDate": "2001-01-15",
+    "twitter": "@cityjsconf",
+    "cocUrl": "https://cityjsconf.org/coc/"
+  },
+  {
+    "name": "React Conference Live",
+    "url": "https://reactlive.nl",
+    "startDate": "2022-04-01",
+    "endDate": "2022-04-01",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": true,
+    "cfpUrl": "https://reactlive.nl/speakers",
+    "cfpEndDate": "2022-01-01",
+    "twitter": "@reactlivenl",
+    "cocUrl": "https://reactlive.nl/code-of-conduct"
+  },
+  {
+    "name": "React Conference Miami",
+    "url": "https://www.reactmiami.com",
+    "startDate": "2022-04-18",
+    "endDate": "2022-04-19",
+    "city": "Miami, FL",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@reactmiamiconf",
+    "cocUrl": "https://miami.jsworldconference.com/code-of-conduct",
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "International JavaScript Conference London",
@@ -51,6 +117,18 @@
     "twitter": "@JavaScriptCon"
   },
   {
+    "name": "Render-Atlanta (RenderATL)",
+    "url": "https://www.renderatl.com",
+    "startDate": "2022-06-01",
+    "endDate": "2022-06-04",
+    "city": "Atlanta, GA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@RenderATL",
+    "cocUrl": "RenderATL.com/thecode",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "JSConf Budapest",
     "url": "https://jsconfbp.com",
     "startDate": "2022-06-02",
@@ -61,6 +139,19 @@
     "twitter": "@jsconfbp"
   },
   {
+    "name": "enterJS",
+    "url": "https://enterjs.de",
+    "startDate": "2022-06-22",
+    "endDate": "2022-06-23",
+    "city": "Darmstadt",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://enterjs.de/cfp_en.php",
+    "cfpEndDate": "2022-01-17",
+    "twitter": "@enterjsconf",
+    "cocUrl": "https://enterjs.de/code_of_conduct.php"
+  },
+  {
     "name": "HalfStack Newquay",
     "url": "https://halfstackconf.com/newquay/",
     "startDate": "2022-07-01",
@@ -69,6 +160,18 @@
     "country": "U.K.",
     "twitter": "@halfstackconf",
     "cocUrl": "https://halfstackconf.com/newquay/code-of-conduct/"
+  },
+  {
+    "name": "CascadiaJS",
+    "url": "https://2022.cascadiajs.com",
+    "startDate": "2022-08-30",
+    "endDate": "2022-09-02",
+    "city": "Bend, OR",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@cascadiajs",
+    "cocUrl": "https://2022.cascadiajs.com/code-of-conduct",
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "Nordic.js",
@@ -82,117 +185,14 @@
     "cocUrl": "https://nordicjs.com/code-of-conduct"
   },
   {
-    "name": "CityJS Conference London",
-    "startDate": "2022-03-23",
-    "endDate": "2022-03-25",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdhXejorIkVvL2T-9_R9NdMHsqbBisGxcZZKobRdDrvp5ui8w/viewform",
-    "cfpEndDate": "2001-01-15",
-    "twitter": "@cityjsconf",
-    "cocUrl": "https://cityjsconf.org/coc/",
-    "url": "https://cityjsconf.org"
-  },
-  {
-    "name": "enterJS",
-    "startDate": "2022-06-22",
-    "endDate": "2022-06-23",
-    "city": "Darmstadt",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://enterjs.de/cfp_en.php",
-    "cfpEndDate": "2022-01-17",
-    "twitter": "@enterjsconf",
-    "cocUrl": "https://enterjs.de/code_of_conduct.php",
-    "url": "https://enterjs.de"
-  },
-  {
     "name": "Conf42 JavaScript",
+    "url": "https://www.conf42.com/js2022",
     "startDate": "2022-11-17",
     "endDate": "2022-11-17",
     "online": true,
     "cfpUrl": "https://www.papercall.io/conf42-javascript-2022",
     "cfpEndDate": "2022-10-14",
     "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "url": "https://www.conf42.com/js2022"
-  },
-  {
-    "name": "Software Architecture Summit",
-    "startDate": "2022-03-14",
-    "endDate": "2022-03-16",
-    "city": "Munich",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@SoftwArchSummit",
-    "url": "https://software-architecture-summit.de/muenchen"
-  },
-  {
-    "name": "GatsbyConf",
-    "startDate": "2022-03-02",
-    "endDate": "2022-03-03",
-    "online": true,
-    "url": "https://www.gatsbyjs.com/gatsbyconf-2022"
-  },
-  {
-    "name": "CascadiaJS",
-    "startDate": "2022-08-30",
-    "endDate": "2022-09-02",
-    "city": "Bend, OR",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@cascadiajs",
-    "cocUrl": "https://2022.cascadiajs.com/code-of-conduct",
-    "offersSignLanguageOrCC": true,
-    "url": "https://2022.cascadiajs.com"
-  },
-  {
-    "name": "React Conference Miami",
-    "startDate": "2022-04-18",
-    "endDate": "2022-04-19",
-    "city": "Miami, FL",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@reactmiamiconf",
-    "cocUrl": "https://miami.jsworldconference.com/code-of-conduct",
-    "offersSignLanguageOrCC": true,
-    "url": "https://www.reactmiami.com"
-  },
-  {
-    "name": "React Conference Live",
-    "startDate": "2022-04-01",
-    "endDate": "2022-04-01",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "online": true,
-    "cfpUrl": "https://reactlive.nl/speakers",
-    "cfpEndDate": "2022-01-01",
-    "twitter": "@reactlivenl",
-    "cocUrl": "https://reactlive.nl/code-of-conduct",
-    "url": "https://reactlive.nl"
-  },
-  {
-    "name": "CityJS India",
-    "startDate": "2022-02-17",
-    "endDate": "2022-02-18",
-    "city": "Tamil Nadu",
-    "country": "India",
-    "online": true,
-    "cfpUrl": "https://tinyurl.com/cityjsconfindia",
-    "cfpEndDate": "2000-12-31",
-    "twitter": "@cityjsindia",
-    "cocUrl": "https://india.cityjsconf.org/coc/",
-    "url": "https://india.cityjsconf.org"
-  },
-  {
-    "name": "Render-Atlanta (RenderATL)",
-    "startDate": "2022-06-01",
-    "endDate": "2022-06-04",
-    "city": "Atlanta, GA",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@RenderATL",
-    "cocUrl": "RenderATL.com/thecode",
-    "offersSignLanguageOrCC": true,
-    "url": "https://www.renderatl.com"
+    "cocUrl": "https://www.conf42.com/code-of-conduct"
   }
 ]

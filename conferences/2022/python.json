@@ -1,5 +1,29 @@
 [
   {
+    "name": "Python Pizza Holguín",
+    "url": "https://holguin.python.pizza",
+    "startDate": "2022-01-15",
+    "endDate": "2022-01-15",
+    "city": "Holguín",
+    "country": "Cuba",
+    "online": true,
+    "cfpUrl": "https://forms.gle/feQmZLe2vb2LQJyN9",
+    "cfpEndDate": "2021-12-18",
+    "twitter": "@pythonpizzaconf",
+    "cocUrl": "https://holguin.python.pizza/"
+  },
+  {
+    "name": "Conf42 Python",
+    "url": "https://www.conf42.com/python2022",
+    "startDate": "2022-01-27",
+    "endDate": "2022-01-27",
+    "online": true,
+    "cfpUrl": "https://www.papercall.io/conf42-python-2022",
+    "cfpEndDate": "2021-12-27",
+    "twitter": "@conf42com",
+    "cocUrl": "https://www.conf42.com/code-of-conduct"
+  },
+  {
     "name": "Pycascades",
     "url": "https://2022.pycascades.com",
     "startDate": "2022-02-05",
@@ -10,6 +34,17 @@
     "twitter": "@pycascades",
     "cocUrl": "https://2021.pycascades.com/about/code-of-conduct/",
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "PyCon",
+    "url": "https://us.pycon.org/2022",
+    "startDate": "2022-04-27",
+    "endDate": "2022-05-03",
+    "city": "Salt Lake City, UT",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@pycon",
+    "cocUrl": "https://us.pycon.org/2022/about/code-of-conduct/"
   },
   {
     "name": "PyCon Italy",
@@ -30,40 +65,5 @@
     "city": "Dublin",
     "country": "Ireland",
     "online": false
-  },
-  {
-    "name": "Conf42 Python",
-    "startDate": "2022-01-27",
-    "endDate": "2022-01-27",
-    "online": true,
-    "cfpUrl": "https://www.papercall.io/conf42-python-2022",
-    "cfpEndDate": "2021-12-27",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "url": "https://www.conf42.com/python2022"
-  },
-  {
-    "name": "PyCon",
-    "startDate": "2022-04-27",
-    "endDate": "2022-05-03",
-    "city": "Salt Lake City, UT",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@pycon",
-    "cocUrl": "https://us.pycon.org/2022/about/code-of-conduct/",
-    "url": "https://us.pycon.org/2022"
-  },
-  {
-    "name": "Python Pizza Holguín",
-    "startDate": "2022-01-15",
-    "endDate": "2022-01-15",
-    "city": "Holguín",
-    "country": "Cuba",
-    "online": true,
-    "cfpUrl": "https://forms.gle/feQmZLe2vb2LQJyN9",
-    "cfpEndDate": "2021-12-18",
-    "twitter": "@pythonpizzaconf",
-    "cocUrl": "https://holguin.python.pizza/",
-    "url": "https://holguin.python.pizza"
   }
 ]
