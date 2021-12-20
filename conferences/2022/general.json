@@ -215,5 +215,27 @@
     "cfpEndDate": "2022-01-21",
     "twitter": "@acmmmsys",
     "url": "https://mmsys2022.ie"
+  },
+  {
+    "name": "Codemotion Spanish Edition",
+    "startDate": "2022-05-10",
+    "endDate": "2022-05-12",
+    "online": true,
+    "cfpUrl": "https://extra.codemotion.com/onlineconf22-spring-cfp",
+    "cfpEndDate": "2022-03-12",
+    "twitter": "@CodemoMadrid",
+    "cocUrl": "https://events.codemotion.com/conferences/online/2022/online-tech-conference-2022-spanish-edition-spring/code-of-conduct",
+    "url": "https://events.codemotion.com/conferences/online/2022/online-tech-conference-2022-spanish-edition-spring"
+  },
+  {
+    "name": "Codemotion Italian Edition",
+    "startDate": "2022-03-23",
+    "endDate": "2022-03-24",
+    "online": true,
+    "cfpUrl": "https://extra.codemotion.com/onlineconf22-spring-cfp",
+    "cfpEndDate": "2022-01-21",
+    "twitter": "@CodemoIT",
+    "cocUrl": "https://events.codemotion.com/conferences/online/2022/online-tech-conference-2022-italian-edition-spring/code-of-conduct",
+    "url": "https://events.codemotion.com/conferences/online/2022/online-tech-conference-2022-italian-edition-spring"
   }
 ]
