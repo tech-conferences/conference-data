@@ -63,7 +63,7 @@
   {
     "name": "Qubit Conference Prague",
     "url": "https://prague.qubitconference.com",
-    "startDate": "2022-05-24",
+    "startDate": "2022-05-25",
     "endDate": "2022-05-26",
     "city": "Prague",
     "country": "Czech Republic",
@@ -130,16 +130,20 @@
     "url": "https://nullcon.net"
   },
   {
-    "name": "Qubit Conference Prague",
-    "startDate": "2022-05-25",
-    "endDate": "2022-05-26",
-    "city": "Prague",
-    "country": "Czech Republic",
+    "name": "JCON",
+    "startDate": "2022-10-18",
+    "endDate": "2022-10-21",
     "online": true,
-    "cfpUrl": "https://prague.qubitconference.com/call-speakers-form-prague",
-    "cfpEndDate": "2022-03-15",
-    "twitter": "@QuBitCon",
-    "cocUrl": "https://twitter.com/QuBitCon",
-    "url": "https://prague.qubitconference.com"
+    "twitter": "@jcon_conference",
+    "cocUrl": "https://jcon.one/code-of-conduct",
+    "url": "https://jcon.one"
+  },
+  {
+    "name": "The Online PHP Conference",
+    "startDate": "2022-01-17",
+    "endDate": "2022-01-21",
+    "online": true,
+    "twitter": "@thephpcc",
+    "url": "https://2022.phpconference.online"
   }
 ]
