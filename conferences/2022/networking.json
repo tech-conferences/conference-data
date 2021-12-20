@@ -13,6 +13,19 @@
     "cocUrl": "https://foss-backstage.de/code-conduct"
   },
   {
+    "name": "Nullcon International Conference and Training Berlin",
+    "url": "https://nullcon.net",
+    "startDate": "2022-04-08",
+    "endDate": "2022-04-09",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://nullcon.net/berlin-2022/cfp",
+    "cfpEndDate": "2022-01-15",
+    "twitter": "@nullcon",
+    "cocUrl": "https://nullcon.net/about-conferencepolicy/"
+  },
+  {
     "name": "stackconf",
     "url": "https://stackconf.eu",
     "startDate": "2022-05-16",
@@ -32,6 +45,30 @@
     "online": false
   },
   {
+    "name": "Render-Atlanta (RenderATL)",
+    "url": "https://www.renderatl.com",
+    "startDate": "2022-06-01",
+    "endDate": "2022-06-04",
+    "city": "Atlanta, GA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@RenderATL",
+    "cocUrl": "RenderATL.com/thecode",
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "ACM Multimedia Systems Conference - MMSys",
+    "url": "https://mmsys2022.ie",
+    "startDate": "2022-06-14",
+    "endDate": "2022-06-17",
+    "city": "Athlone",
+    "country": "Ireland",
+    "online": false,
+    "cfpUrl": "https://mmsys2022.ie/downloads/MMSys2022_CallForPapers.pdf",
+    "cfpEndDate": "2022-01-21",
+    "twitter": "@acmmmsys"
+  },
+  {
     "name": "International Congress on Ad-Hoc Networks",
     "url": "https://intcongress.com/international-congress-on-ad-hoc-networks-2022",
     "startDate": "2022-08-11",
@@ -43,6 +80,7 @@
   },
   {
     "name": "CascadiaJS",
+    "url": "https://2022.cascadiajs.com",
     "startDate": "2022-08-30",
     "endDate": "2022-09-02",
     "city": "Bend, OR",
@@ -50,44 +88,6 @@
     "online": false,
     "twitter": "@cascadiajs",
     "cocUrl": "https://2022.cascadiajs.com/code-of-conduct",
-    "offersSignLanguageOrCC": true,
-    "url": "https://2022.cascadiajs.com"
-  },
-  {
-    "name": "ACM Multimedia Systems Conference - MMSys",
-    "startDate": "2022-06-14",
-    "endDate": "2022-06-17",
-    "city": "Athlone",
-    "country": "Ireland",
-    "online": false,
-    "cfpUrl": "https://mmsys2022.ie/downloads/MMSys2022_CallForPapers.pdf",
-    "cfpEndDate": "2022-01-21",
-    "twitter": "@acmmmsys",
-    "url": "https://mmsys2022.ie"
-  },
-  {
-    "name": "Nullcon International Conference and Training Berlin",
-    "startDate": "2022-04-08",
-    "endDate": "2022-04-09",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://nullcon.net/berlin-2022/cfp",
-    "cfpEndDate": "2022-01-15",
-    "twitter": "@nullcon",
-    "cocUrl": "https://nullcon.net/about-conferencepolicy/",
-    "url": "https://nullcon.net"
-  },
-  {
-    "name": "Render-Atlanta (RenderATL)",
-    "startDate": "2022-06-01",
-    "endDate": "2022-06-04",
-    "city": "Atlanta, GA",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@RenderATL",
-    "cocUrl": "RenderATL.com/thecode",
-    "offersSignLanguageOrCC": true,
-    "url": "https://www.renderatl.com"
+    "offersSignLanguageOrCC": true
   }
 ]

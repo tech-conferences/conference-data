@@ -1,5 +1,33 @@
 [
   {
+    "name": "The Online PHP Conference",
+    "url": "https://2022.phpconference.online",
+    "startDate": "2022-01-17",
+    "endDate": "2022-01-21",
+    "online": true,
+    "twitter": "@thephpcc"
+  },
+  {
+    "name": "Leadership eXchange Forum",
+    "url": "https://skillsmatter.com/conferences/13598-leadership-xf#overview",
+    "startDate": "2022-01-27",
+    "endDate": "2022-01-27",
+    "online": true,
+    "twitter": "@skillsmatter"
+  },
+  {
+    "name": "Render-Atlanta (RenderATL)",
+    "url": "https://www.renderatl.com",
+    "startDate": "2022-06-01",
+    "endDate": "2022-06-04",
+    "city": "Atlanta, GA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@RenderATL",
+    "cocUrl": "RenderATL.com/thecode",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Agile Testing Days USA",
     "url": "https://agiletestingdays.us",
     "startDate": "2022-06-05",
@@ -9,33 +37,5 @@
     "online": false,
     "twitter": "@AgileTDUSA",
     "cocUrl": "https://agiletestingdays.us/code-of-conduct/"
-  },
-  {
-    "name": "Leadership eXchange Forum",
-    "startDate": "2022-01-27",
-    "endDate": "2022-01-27",
-    "online": true,
-    "twitter": "@skillsmatter",
-    "url": "https://skillsmatter.com/conferences/13598-leadership-xf#overview"
-  },
-  {
-    "name": "The Online PHP Conference",
-    "startDate": "2022-01-17",
-    "endDate": "2022-01-21",
-    "online": true,
-    "twitter": "@thephpcc",
-    "url": "https://2022.phpconference.online"
-  },
-  {
-    "name": "Render-Atlanta (RenderATL)",
-    "startDate": "2022-06-01",
-    "endDate": "2022-06-04",
-    "city": "Atlanta, GA",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@RenderATL",
-    "cocUrl": "RenderATL.com/thecode",
-    "offersSignLanguageOrCC": true,
-    "url": "https://www.renderatl.com"
   }
 ]

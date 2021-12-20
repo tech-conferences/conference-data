@@ -1,6 +1,7 @@
 [
   {
     "name": "JAX Hybrid",
+    "url": "https://jax.de/mainz-en",
     "startDate": "2022-05-02",
     "endDate": "2022-05-06",
     "city": "Mainz",
@@ -9,16 +10,15 @@
     "cfpUrl": "https://callforpapers.sandsmedia.com",
     "cfpEndDate": "2021-11-15",
     "twitter": "@jaxcon",
-    "cocUrl": "https://jax.de/code-of-conduct-en/",
-    "url": "https://jax.de/mainz-en"
+    "cocUrl": "https://jax.de/code-of-conduct-en/"
   },
   {
     "name": "JCON",
+    "url": "https://jcon.one",
     "startDate": "2022-10-18",
     "endDate": "2022-10-21",
     "online": true,
     "twitter": "@jcon_conference",
-    "cocUrl": "https://jcon.one/code-of-conduct",
-    "url": "https://jcon.one"
+    "cocUrl": "https://jcon.one/code-of-conduct"
   }
 ]

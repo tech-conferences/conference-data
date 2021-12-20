@@ -1,17 +1,18 @@
 [
   {
     "name": "sec4dev Conference & Bootcamp",
+    "url": "https://sec4dev.io",
     "startDate": "2022-02-21",
     "endDate": "2022-02-24",
     "city": "Vienna",
     "country": "Austria",
     "online": false,
     "twitter": "@sec4dev",
-    "cocUrl": "https://sec4dev.io/code-of-conduct",
-    "url": "https://sec4dev.io"
+    "cocUrl": "https://sec4dev.io/code-of-conduct"
   },
   {
     "name": "Nullcon International Conference and Training Berlin",
+    "url": "https://nullcon.net",
     "startDate": "2022-04-08",
     "endDate": "2022-04-09",
     "city": "Berlin",
@@ -20,7 +21,6 @@
     "cfpUrl": "https://nullcon.net/berlin-2022/cfp",
     "cfpEndDate": "2022-01-15",
     "twitter": "@nullcon",
-    "cocUrl": "https://nullcon.net/about-conferencepolicy/",
-    "url": "https://nullcon.net"
+    "cocUrl": "https://nullcon.net/about-conferencepolicy/"
   }
 ]

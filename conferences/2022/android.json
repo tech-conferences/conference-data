@@ -14,17 +14,18 @@
   },
   {
     "name": "Conf42 Mobile",
+    "url": "https://www.conf42.com/mobile2022",
     "startDate": "2022-02-17",
     "endDate": "2022-02-17",
     "online": true,
     "cfpUrl": "https://www.papercall.io/conf42-mobile-2022",
     "cfpEndDate": "2022-01-06",
     "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "url": "https://www.conf42.com/mobile2022"
+    "cocUrl": "https://www.conf42.com/code-of-conduct"
   },
   {
     "name": "Nullcon International Conference and Training Berlin",
+    "url": "https://nullcon.net",
     "startDate": "2022-04-08",
     "endDate": "2022-04-09",
     "city": "Berlin",
@@ -33,7 +34,6 @@
     "cfpUrl": "https://nullcon.net/berlin-2022/cfp",
     "cfpEndDate": "2022-01-15",
     "twitter": "@nullcon",
-    "cocUrl": "https://nullcon.net/about-conferencepolicy/",
-    "url": "https://nullcon.net"
+    "cocUrl": "https://nullcon.net/about-conferencepolicy/"
   }
 ]
