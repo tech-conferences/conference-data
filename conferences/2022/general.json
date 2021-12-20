@@ -237,5 +237,16 @@
     "twitter": "@CodemoIT",
     "cocUrl": "https://events.codemotion.com/conferences/online/2022/online-tech-conference-2022-italian-edition-spring/code-of-conduct",
     "url": "https://events.codemotion.com/conferences/online/2022/online-tech-conference-2022-italian-edition-spring"
+  },
+  {
+    "name": "ETHDubai",
+    "url": "https://www.ethdubaiconf.org/",
+    "startDate": "2022-03-29",
+    "endDate": "2022-03-30",
+    "online": false,
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "twitter": "@ETHDubaiConf",
+    "cocUrl": "https://www.ethdubaiconf.org/coc.html"
   }
 ]
