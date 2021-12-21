@@ -34,5 +34,19 @@
     "cfpEndDate": "2022-01-13",
     "twitter": "@phpconference",
     "cocUrl": "https://phpconference.com/code-of-conduct/"
+  },
+  {
+    "name": "Dutch PHP Conference",
+    "startDate": "2022-07-01",
+    "endDate": "2022-07-02",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "cfpUrl": "https://cfp.phpconference.nl",
+    "cfpEndDate": "2022-01-30",
+    "twitter": "@dpcon",
+    "cocUrl": "https://www.phpconference.nl/code-of-conduct",
+    "offersSignLanguageOrCC": true,
+    "url": "https://phpconference.nl"
   }
 ]
