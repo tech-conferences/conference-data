@@ -1,5 +1,15 @@
 [
   {
+    "name": "NVIDIA GTC",
+    "url": "https://www.nvidia.com/gtc",
+    "startDate": "2022-03-21",
+    "endDate": "2022-03-24",
+    "city": "San Jose, CA",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@NVIDIAGTC"
+  },
+  {
     "name": "Nullcon International Conference and Training Berlin",
     "url": "https://nullcon.net",
     "startDate": "2022-04-08",
@@ -33,15 +43,5 @@
     "online": true,
     "twitter": "@jcon_conference",
     "cocUrl": "https://jcon.one/code-of-conduct"
-  },
-  {
-    "name": "NVIDIA GTC",
-    "startDate": "2022-03-21",
-    "endDate": "2022-03-24",
-    "city": "San Jose, CA",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@NVIDIAGTC",
-    "url": "https://www.nvidia.com/gtc"
   }
 ]

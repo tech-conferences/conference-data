@@ -44,6 +44,18 @@
     "cocUrl": "https://india.cityjsconf.org/coc/"
   },
   {
+    "name": "React fwdays",
+    "url": "https://fwdays.com/en/event/react-fwdays-2022",
+    "startDate": "2022-02-26",
+    "endDate": "2022-02-26",
+    "city": "Kiev",
+    "country": "Ukraine",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdHqJjJH6MUwsJ-TIMZf-Kzc2FDCtzTiQqR__mcDOVEgusPhg/viewform",
+    "cfpEndDate": "2022-01-28",
+    "twitter": "@fwdays"
+  },
+  {
     "name": "GatsbyConf",
     "url": "https://www.gatsbyjs.com/gatsbyconf-2022",
     "startDate": "2022-03-02",
@@ -139,6 +151,17 @@
     "twitter": "@jsconfbp"
   },
   {
+    "name": "WeAreDevelopers World Congress",
+    "url": "https://www.wearedevelopers.com/world-congress/#",
+    "startDate": "2022-06-14",
+    "endDate": "2022-06-15",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/wearedevs2022",
+    "cfpEndDate": "2022-01-31"
+  },
+  {
     "name": "enterJS",
     "url": "https://enterjs.de",
     "startDate": "2022-06-22",
@@ -194,28 +217,5 @@
     "cfpEndDate": "2022-10-14",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
-  },
-  {
-    "name": "WeAreDevelopers World Congress",
-    "startDate": "2022-06-14",
-    "endDate": "2022-06-15",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/wearedevs2022",
-    "cfpEndDate": "2022-01-31",
-    "url": "https://www.wearedevelopers.com/world-congress/#"
-  },
-  {
-    "name": "React fwdays",
-    "startDate": "2022-02-26",
-    "endDate": "2022-02-26",
-    "online": true,
-    "city": "Kiev",
-    "country": "Ukraine",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdHqJjJH6MUwsJ-TIMZf-Kzc2FDCtzTiQqR__mcDOVEgusPhg/viewform",
-    "cfpEndDate": "2022-01-28",
-    "twitter": "@fwdays",
-    "url": "https://fwdays.com/en/event/react-fwdays-2022"
   }
 ]

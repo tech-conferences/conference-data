@@ -1,5 +1,15 @@
 [
   {
+    "name": "NVIDIA GTC",
+    "url": "https://www.nvidia.com/gtc",
+    "startDate": "2022-03-21",
+    "endDate": "2022-03-24",
+    "city": "San Jose, CA",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@NVIDIAGTC"
+  },
+  {
     "name": "C++ Now",
     "url": "https://cppnow.org",
     "startDate": "2022-05-01",
@@ -11,6 +21,17 @@
     "cocUrl": "https://cppnow.org/about/code_of_conduct/"
   },
   {
+    "name": "WeAreDevelopers World Congress",
+    "url": "https://www.wearedevelopers.com/world-congress/#",
+    "startDate": "2022-06-14",
+    "endDate": "2022-06-15",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/wearedevs2022",
+    "cfpEndDate": "2022-01-31"
+  },
+  {
     "name": "CppNorth",
     "url": "https://cppnorth.ca",
     "startDate": "2022-07-15",
@@ -20,26 +41,5 @@
     "online": false,
     "twitter": "@cppnorth",
     "cocUrl": "https://cppnorth.ca/code-of-conduct.html"
-  },
-  {
-    "name": "WeAreDevelopers World Congress",
-    "startDate": "2022-06-14",
-    "endDate": "2022-06-15",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/wearedevs2022",
-    "cfpEndDate": "2022-01-31",
-    "url": "https://www.wearedevelopers.com/world-congress/#"
-  },
-  {
-    "name": "NVIDIA GTC",
-    "startDate": "2022-03-21",
-    "endDate": "2022-03-24",
-    "city": "San Jose, CA",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@NVIDIAGTC",
-    "url": "https://www.nvidia.com/gtc"
   }
 ]
