@@ -41,5 +41,16 @@
     "online": true,
     "twitter": "@jcon_conference",
     "cocUrl": "https://jcon.one/code-of-conduct"
+  },
+  {
+    "name": "JBCNConf",
+    "startDate": "2022-07-18",
+    "endDate": "2022-07-20",
+    "city": "Barcelona",
+    "country": "Spain",
+    "online": false,
+    "twitter": "@jbcnconf",
+    "cocUrl": "https://www.jbcnconf.com/2022/coc.html",
+    "url": "https://www.jbcnconf.com/2022"
   }
 ]
