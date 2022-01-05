@@ -47,5 +47,19 @@
     "online": false,
     "twitter": "@AgileTDUSA",
     "cocUrl": "https://agiletestingdays.us/code-of-conduct/"
+  },
+  {
+    "name": "LeadDev London",
+    "startDate": "2022-06-07",
+    "endDate": "2022-06-08",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "cfpUrl": "https://leaddev.com/leaddev-call-proposals",
+    "cfpEndDate": "2022-02-13",
+    "twitter": "@TheLeadDev",
+    "cocUrl": "https://leaddev.com/code-conduct",
+    "offersSignLanguageOrCC": true,
+    "url": "https://leaddev.com/leaddev-london"
   }
 ]
