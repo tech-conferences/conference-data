@@ -93,6 +93,19 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Devopsdays Melbourne",
+    "url": "https://devopsdays.org/events/2022-melbourne/welcome/",
+    "startDate": "2022-03-17",
+    "endDate": "2022-03-18",
+    "city": "Melbourne",
+    "country": "Australia",
+    "online": false,
+    "cfpUrl": "https://www.papercall.io/devopsdays-melb-2022",
+    "cfpEndDate": "2022-02-01",
+    "twitter": "@Devopsdownunder",
+    "cocUrl": "https://devopsdays.org/events/2022-melbourne/conduct"
+  },
+  {
     "name": "Incontro DevOps Italia",
     "url": "https://incontrodevops.it",
     "startDate": "2022-03-18",
@@ -151,6 +164,31 @@
     "cocUrl": "https://www.usenix.org/conferences/coc"
   },
   {
+    "name": "Devopsdays Kyiv",
+    "url": "https://devopsdays.org/events/2022-kyiv/welcome/",
+    "startDate": "2022-04-15",
+    "endDate": "2022-04-16",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "online": false,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfzPfxuSu828AHNnPs48zLitMg1oXUeMUqTDs7uNwaEugW9hg/viewform"
+    "cfpEndDate": "2022-03-15",
+    "twitter": "@days_dev",
+    "cocUrl": "https://devopsdays.org/events/2022-kyiv/conduct"
+  },
+    {
+    "name": "Devopsdays Birmingham",
+    "url": "https://devopsdays.org/events/2022-birmingham-al/welcome/",
+    "startDate": "2022-04-18",
+    "endDate": "2022-04-19",
+    "city": "Birmingham, AL",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://www.papercall.io/devopsdays-2022-birmingham-al"
+    "cfpEndDate": "2022-01-31",
+    "cocUrl": "https://devopsdays.org/events/2022-birmingham-al/contact"
+  },
+  {
     "name": "Devopsdays Denver",
     "url": "https://devopsdays.org/events/2022-denver/welcome/",
     "startDate": "2022-04-25",
@@ -193,6 +231,40 @@
     "country": "U.S.A.",
     "online": false,
     "cocUrl": "https://devopsdays.org/events/2022-austin/conduct"
+  },
+  {
+    "name": "Devopsdays Boise",
+    "url": "https://devopsdays.org/events/2022-boise/welcome/",
+    "startDate": "2022-05-03",
+    "endDate": "2022-05-03",
+    "city": "Boise, ID",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@devopsdaysboise"
+  },
+  {
+    "name": "Devopsdays Nashville",
+    "url": "https://devopsdays.org/events/2022-nashville/welcome/",
+    "startDate": "2022-05-05",
+    "endDate": "2022-05-06",
+    "city": "Nashville",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://devopsdays.org/events/2022-nashville/propose",
+    "twitter": "@nashvilledevops",
+    "cocUrl": "https://devopsdays.org/events/2022-nashville/conduct"
+  },
+  {
+    "name": "Devopsdays Birmingham",
+    "url": "https://devopsdays.org/events/2022-birmingham-uk/welcome/",
+    "startDate": "2022-05-05",
+    "endDate": "2022-05-06",
+    "city": "Birmingham",
+    "country": "UK",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/devopsdays-birmingham-uk-2022/",
+    "cfpEndDate": "2022-02-20",
+    "cocUrl": "https://devopsdays.org/events/2022-birmingham-uk/conduct"
   },
   {
     "name": "Lazy Load",
@@ -250,6 +322,29 @@
     "cfpEndDate": "2022-01-31",
     "twitter": "@Devopsdaysprg",
     "cocUrl": "https://devopsdays.org/events/2022-prague/conduct"
+  },
+  {
+    "name": "Devopsdays Tampa Bay",
+    "url": "https://devopsdays.org/events/2022-tampa/welcome/",
+    "startDate": "2022-05-27",
+    "endDate": "2022-05-27",
+    "city": "Tampa Bay, FL",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@devopsdaystb",
+    "cocUrl": "https://devopsdays.org/events/2022-tampa/conduct"
+  },
+  {
+    "name": "Devopsdays Zurich",
+    "url": "https://devopsdays.org/events/2022-zurich/welcome/",
+    "startDate": "2022-05-31",
+    "endDate": "2022-06-01",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "online": false,
+    "cfpUrl": "https://devopsdays.org/events/2022-zurich/propose",
+    "cfpEndDate": "2022-02-28",
+    "cocUrl": "https://devopsdays.org/events/2022-zurich/conduct"
   },
   {
     "name": "Render-Atlanta (RenderATL)",
@@ -362,6 +457,39 @@
     "online": true,
     "twitter": "@jcon_conference",
     "cocUrl": "https://jcon.one/code-of-conduct"
+  },
+  {
+    "name": "Devopsdays Portland",
+    "url": "https://devopsdays.org/events/2022-portland-or/welcome/",
+    "startDate": "2022-09-19",
+    "endDate": "2022-09-21",
+    "online": false,
+    "city": "Portland, OR",
+    "country": "U.S.A.",
+    "cocUrl": "https://devopsdays.org/events/2022-portland-or/conduct"
+  },
+  {
+    "name": "Devopsdays Cairo",
+    "url": "https://devopsdays.org/events/2022-cairo/welcome/",
+    "startDate": "2022-09-22",
+    "endDate": "2022-09-22",
+    "online": false,
+    "city": "Cairo",
+    "country": "Egypt",
+    "cocUrl": "https://devopsdays.org/events/2022-cairo/conduct"
+  },
+  {
+    "name": "Devopsdays Eindhoven",
+    "url": "https://devopsdays.org/events/2022-eindhoven/welcome/",
+    "startDate": "2022-10-19",
+    "endDate": "2022-10-21",
+    "city": "Eindhoven",
+    "country": "Netherlands",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/devopsdays-eindhoven-2022/",
+    "cfpEndDate": "2022-08-24",
+    "twitter": "@devopsdaysehv",
+    "cocUrl": "https://devopsdays.org/events/2022-eindhoven/conduct"
   },
   {
     "name": "SREcon EMEA",
