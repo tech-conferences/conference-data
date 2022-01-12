@@ -49,15 +49,57 @@
     "cocUrl": "https://agiletestingdays.us/code-of-conduct/"
   },
   {
-    "name": "IEEE Women in Engineering International Leadership Conference (IEEE WIE ILC)",
+    "name": "IEEE Women in Engineering International Leadership Conference",
     "startDate": "2022-06-06",
     "endDate": "2022-06-07",
-    "city": "San Diego, California",
+    "city": "San Diego, CA",
     "country": "U.S.A.",
     "online": true,
     "cfpUrl": "https://ieee-wie-ilc.org/cfs2022",
     "cfpEndDate": "2022-02-01",
     "twitter": "@wieilc",
     "url": "https://ieee-wie-ilc.org"
+  },
+  {
+    "name": "StaffPlus New York",
+    "startDate": "2022-04-04",
+    "endDate": "2022-04-05",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://leaddev.com/leaddev-call-proposals",
+    "cfpEndDate": "2021-12-13",
+    "twitter": "@TheLeadDev",
+    "cocUrl": "https://leaddev.com/code-conduct",
+    "offersSignLanguageOrCC": true,
+    "url": "https://leaddev.com/staffplus-new-york"
+  },
+  {
+    "name": "LeadingEng New York",
+    "startDate": "2022-04-07",
+    "endDate": "2022-04-08",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://leaddev.com/leaddev-call-proposals",
+    "cfpEndDate": "2021-12-13",
+    "twitter": "@TheLeadDev",
+    "cocUrl": "https://leaddev.com/code-conduct",
+    "offersSignLanguageOrCC": true,
+    "url": "https://leaddev.com/leadingeng-new-york"
+  },
+  {
+    "name": "LeadDev London",
+    "startDate": "2022-06-07",
+    "endDate": "2022-06-08",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "cfpUrl": "https://leaddev.com/leaddev-call-proposals",
+    "cfpEndDate": "2022-02-13",
+    "twitter": "@TheLeadDev",
+    "cocUrl": "https://leaddev.com/code-conduct",
+    "offersSignLanguageOrCC": true,
+    "url": "https://leaddev.com/leaddev-london"
   }
 ]

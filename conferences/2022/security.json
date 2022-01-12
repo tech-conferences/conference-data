@@ -10,8 +10,8 @@
   {
     "name": "NDC Security",
     "url": "https://ndc-security.com",
-    "startDate": "2022-01-18",
-    "endDate": "2022-01-21",
+    "startDate": "2022-04-04",
+    "endDate": "2022-04-07",
     "city": "Oslo",
     "country": "Norway",
     "online": false,
@@ -32,8 +32,8 @@
   {
     "name": "sec4dev Conference & Bootcamp",
     "url": "https://sec4dev.io",
-    "startDate": "2022-02-21",
-    "endDate": "2022-02-24",
+    "startDate": "2022-09-06",
+    "endDate": "2022-09-09",
     "city": "Vienna",
     "country": "Austria",
     "online": false,
@@ -166,5 +166,26 @@
     "cfpEndDate": "2022-10-28",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
+  },
+  {
+    "name": "Security Visionaries",
+    "startDate": "2022-01-18",
+    "endDate": "2022-01-18",
+    "online": true,
+    "twitter": "@goteleport",
+    "url": "https://goteleport.com/security-visionaries-2022"
+  },
+  {
+    "name": "Nullcon Berlin",
+    "startDate": "2022-04-08",
+    "endDate": "2022-04-09",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://nullcon.net/berlin-2022/cfp",
+    "cfpEndDate": "2022-01-15",
+    "twitter": "@nullcon",
+    "cocUrl": "https://nullcon.net/about-conferencepolicy/",
+    "url": "https://nullcon.net/berlin-2022"
   }
 ]
