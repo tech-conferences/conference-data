@@ -11,6 +11,17 @@
     "cocUrl": "https://www.codemash.org/codemash-code-conduct/"
   },
   {
+    "name": "Code Freeze: DevEx",
+    "url": "https://cse.umn.edu/umsec/events/code-freeze-2022-developer-experience",
+    "startDate": "2022-01-13",
+    "endDate": "2022-01-13",
+    "online": true,
+    "cfpUrl": "https://cse.umn.edu/cs/news/code-freeze-2022-explores-developer-experience",
+    "cfpEndDate": "2022-01-12",
+    "twitter": "@StephenThere",
+    "cocUrl": "https://docs.google.com/document/u/2/d/e/2PACX-1vQYpW0tp7UO9oHm9dJAjTIKfEkaONMJucKAsCNww2p1JijSt1Etd21ocz1A8GUiYIsChdUXVyhkWZCf/pub"
+  },
+  {
     "name": "linux.conf.au",
     "url": "https://linux.conf.au",
     "startDate": "2022-01-14",
@@ -121,6 +132,20 @@
     "cocUrl": "https://www.ethdubaiconf.org/coc.html"
   },
   {
+    "name": "StaffPlus New York",
+    "url": "https://leaddev.com/staffplus-new-york",
+    "startDate": "2022-04-04",
+    "endDate": "2022-04-05",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://leaddev.com/leaddev-call-proposals",
+    "cfpEndDate": "2021-12-13",
+    "twitter": "@TheLeadDev",
+    "cocUrl": "https://leaddev.com/code-conduct",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "API Conference",
     "url": "https://apiconference.net/thehague",
     "startDate": "2022-04-04",
@@ -182,6 +207,20 @@
     "cocUrl": "https://www.codestock.org/code-of-conduct"
   },
   {
+    "name": "LeadingEng New York",
+    "url": "https://leaddev.com/leadingeng-new-york",
+    "startDate": "2022-04-07",
+    "endDate": "2022-04-08",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://leaddev.com/leaddev-call-proposals",
+    "cfpEndDate": "2021-12-13",
+    "twitter": "@TheLeadDev",
+    "cocUrl": "https://leaddev.com/code-conduct",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Dev Nexus",
     "url": "https://devnexus.com",
     "startDate": "2022-04-11",
@@ -215,6 +254,31 @@
     "cocUrl": "https://events.codemotion.com/conferences/online/2022/online-tech-conference-2022-spanish-edition-spring/code-of-conduct"
   },
   {
+    "name": "THAT Conference",
+    "url": "https://that.us/events/tx/2022",
+    "startDate": "2022-05-23",
+    "endDate": "2022-05-26",
+    "city": "Round Rock, TX",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@thatconference",
+    "cocUrl": "https://that.us/support/code-of-conduct/"
+  },
+  {
+    "name": "LeadDev London",
+    "url": "https://leaddev.com/leaddev-london",
+    "startDate": "2022-06-07",
+    "endDate": "2022-06-08",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "cfpUrl": "https://leaddev.com/leaddev-call-proposals",
+    "cfpEndDate": "2022-02-13",
+    "twitter": "@TheLeadDev",
+    "cocUrl": "https://leaddev.com/code-conduct",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "ACM Multimedia Systems Conference - MMSys",
     "url": "https://mmsys2022.ie",
     "startDate": "2022-06-14",
@@ -238,6 +302,19 @@
     "cocUrl": "https://www.conf42.com/code-of-conduct"
   },
   {
+    "name": "THAT Conference",
+    "url": "https://that.us/events/wi/2022",
+    "startDate": "2022-07-25",
+    "endDate": "2022-07-28",
+    "city": "Wisconsin Dells, WI",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://that.us/call-for-counselors/wi/2022",
+    "cfpEndDate": "2022-03-01",
+    "twitter": "@thatconference",
+    "cocUrl": "https://that.us/support/code-of-conduct/"
+  },
+  {
     "name": "Conf42 Web 3.0",
     "url": "https://www.conf42.com/web2022",
     "startDate": "2022-10-20",
@@ -258,82 +335,5 @@
     "online": false,
     "twitter": "@techbash",
     "cocUrl": "https://techbash.com/code-of-conduct"
-  },
-  {
-    "name": "Code Freeze: DevEx",
-    "startDate": "2022-01-13",
-    "endDate": "2022-01-13",
-    "online": true,
-    "cfpUrl": "https://cse.umn.edu/cs/news/code-freeze-2022-explores-developer-experience",
-    "cfpEndDate": "2022-01-12",
-    "twitter": "@StephenThere",
-    "cocUrl": "https://docs.google.com/document/u/2/d/e/2PACX-1vQYpW0tp7UO9oHm9dJAjTIKfEkaONMJucKAsCNww2p1JijSt1Etd21ocz1A8GUiYIsChdUXVyhkWZCf/pub",
-    "url": "https://cse.umn.edu/umsec/events/code-freeze-2022-developer-experience"
-  },
-  {
-    "name": "StaffPlus New York",
-    "startDate": "2022-04-04",
-    "endDate": "2022-04-05",
-    "city": "New York, NY",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://leaddev.com/leaddev-call-proposals",
-    "cfpEndDate": "2021-12-13",
-    "twitter": "@TheLeadDev",
-    "cocUrl": "https://leaddev.com/code-conduct",
-    "offersSignLanguageOrCC": true,
-    "url": "https://leaddev.com/staffplus-new-york"
-  },
-  {
-    "name": "LeadingEng New York",
-    "startDate": "2022-04-07",
-    "endDate": "2022-04-08",
-    "city": "New York, NY",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://leaddev.com/leaddev-call-proposals",
-    "cfpEndDate": "2021-12-13",
-    "twitter": "@TheLeadDev",
-    "cocUrl": "https://leaddev.com/code-conduct",
-    "offersSignLanguageOrCC": true,
-    "url": "https://leaddev.com/leadingeng-new-york"
-  },
-  {
-    "name": "LeadDev London",
-    "startDate": "2022-06-07",
-    "endDate": "2022-06-08",
-    "city": "London",
-    "country": "U.K.",
-    "online": false,
-    "cfpUrl": "https://leaddev.com/leaddev-call-proposals",
-    "cfpEndDate": "2022-02-13",
-    "twitter": "@TheLeadDev",
-    "cocUrl": "https://leaddev.com/code-conduct",
-    "offersSignLanguageOrCC": true,
-    "url": "https://leaddev.com/leaddev-london"
-  },
-  {
-    "name": "THAT Conference",
-    "startDate": "2022-05-23",
-    "endDate": "2022-05-26",
-    "city": "Round Rock, TX",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@thatconference",
-    "cocUrl": "https://that.us/support/code-of-conduct/",
-    "url": "https://that.us/events/tx/2022"
-  },
-  {
-    "name": "THAT Conference",
-    "startDate": "2022-07-25",
-    "endDate": "2022-07-28",
-    "city": "Wisconsin Dells, WI",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://that.us/call-for-counselors/wi/2022",
-    "cfpEndDate": "2022-03-01",
-    "twitter": "@thatconference",
-    "cocUrl": "https://that.us/support/code-of-conduct/",
-    "url": "https://that.us/events/wi/2022"
   }
 ]

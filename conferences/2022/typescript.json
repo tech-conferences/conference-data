@@ -1,5 +1,18 @@
 [
   {
+    "name": "TypeVille",
+    "url": "https://www.typeville.io",
+    "startDate": "2022-04-19",
+    "endDate": "2022-04-23",
+    "city": "Krynica Zdrój",
+    "country": "Poland",
+    "online": false,
+    "cfpUrl": "https://sml.io/typeville",
+    "cfpEndDate": "2022-01-09",
+    "twitter": "@typevilleconf",
+    "cocUrl": "https://www.typeville.io/"
+  },
+  {
     "name": "Render-Atlanta (RenderATL)",
     "url": "https://www.renderatl.com",
     "startDate": "2022-06-01",
@@ -22,18 +35,5 @@
     "twitter": "@cascadiajs",
     "cocUrl": "https://2022.cascadiajs.com/code-of-conduct",
     "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "TypeVille",
-    "startDate": "2022-04-19",
-    "endDate": "2022-04-23",
-    "city": "Krynica Zdrój",
-    "country": "Poland",
-    "online": false,
-    "cfpUrl": "https://sml.io/typeville",
-    "cfpEndDate": "2022-01-09",
-    "twitter": "@typevilleconf",
-    "cocUrl": "https://www.typeville.io/",
-    "url": "https://www.typeville.io"
   }
 ]

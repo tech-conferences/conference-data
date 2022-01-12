@@ -1,5 +1,16 @@
 [
   {
+    "name": "Code Freeze: DevEx",
+    "url": "https://cse.umn.edu/umsec/events/code-freeze-2022-developer-experience",
+    "startDate": "2022-01-13",
+    "endDate": "2022-01-13",
+    "online": true,
+    "cfpUrl": "https://cse.umn.edu/cs/news/code-freeze-2022-explores-developer-experience",
+    "cfpEndDate": "2022-01-12",
+    "twitter": "@StephenThere",
+    "cocUrl": "https://docs.google.com/document/u/2/d/e/2PACX-1vQYpW0tp7UO9oHm9dJAjTIKfEkaONMJucKAsCNww2p1JijSt1Etd21ocz1A8GUiYIsChdUXVyhkWZCf/pub"
+  },
+  {
     "name": "Workforce Identity Governance & Access Management Summit",
     "url": "https://www.altrusiaglobal.com/wigam",
     "startDate": "2022-02-24",
@@ -7,6 +18,17 @@
     "online": true,
     "twitter": "@altrusiaglobal",
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "Global Artificial Intelligence Virtual Conference",
+    "url": "http://www.globalbigdataconference.com/santa-clara/global-artificial-intelligence-virtual-conference/event-129.html",
+    "startDate": "2022-03-17",
+    "endDate": "2022-03-19",
+    "online": true,
+    "cfpUrl": "http://www.globalbigdataconference.com/santa-clara/global-artificial-intelligence-virtual-conference/event-129.html#registration",
+    "cfpEndDate": "2022-03-15",
+    "twitter": "@bigdataconf",
+    "cocUrl": "http://www.globalbigdataconference.com/santa-clara/global-artificial-intelligence-virtual-conference/event-129.html"
   },
   {
     "name": "NVIDIA GTC",
@@ -88,27 +110,5 @@
     "online": true,
     "cfpUrl": "https://sessionize.com/wearedevs2022",
     "cfpEndDate": "2022-01-31"
-  },
-  {
-    "name": "Code Freeze: DevEx",
-    "startDate": "2022-01-13",
-    "endDate": "2022-01-13",
-    "online": true,
-    "cfpUrl": "https://cse.umn.edu/cs/news/code-freeze-2022-explores-developer-experience",
-    "cfpEndDate": "2022-01-12",
-    "twitter": "@StephenThere",
-    "cocUrl": "https://docs.google.com/document/u/2/d/e/2PACX-1vQYpW0tp7UO9oHm9dJAjTIKfEkaONMJucKAsCNww2p1JijSt1Etd21ocz1A8GUiYIsChdUXVyhkWZCf/pub",
-    "url": "https://cse.umn.edu/umsec/events/code-freeze-2022-developer-experience"
-  },
-  {
-    "name": "Global Artificial Intelligence Virtual Conference",
-    "startDate": "2022-03-17",
-    "endDate": "2022-03-19",
-    "online": true,
-    "cfpUrl": "http://www.globalbigdataconference.com/santa-clara/global-artificial-intelligence-virtual-conference/event-129.html#registration",
-    "cfpEndDate": "2022-03-15",
-    "twitter": "@bigdataconf",
-    "cocUrl": "http://www.globalbigdataconference.com/santa-clara/global-artificial-intelligence-virtual-conference/event-129.html",
-    "url": "http://www.globalbigdataconference.com/santa-clara/global-artificial-intelligence-virtual-conference/event-129.html"
   }
 ]

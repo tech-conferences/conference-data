@@ -26,6 +26,34 @@
     "twitter": "@NVIDIAGTC"
   },
   {
+    "name": "StaffPlus New York",
+    "url": "https://leaddev.com/staffplus-new-york",
+    "startDate": "2022-04-04",
+    "endDate": "2022-04-05",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://leaddev.com/leaddev-call-proposals",
+    "cfpEndDate": "2021-12-13",
+    "twitter": "@TheLeadDev",
+    "cocUrl": "https://leaddev.com/code-conduct",
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "LeadingEng New York",
+    "url": "https://leaddev.com/leadingeng-new-york",
+    "startDate": "2022-04-07",
+    "endDate": "2022-04-08",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://leaddev.com/leaddev-call-proposals",
+    "cfpEndDate": "2021-12-13",
+    "twitter": "@TheLeadDev",
+    "cocUrl": "https://leaddev.com/code-conduct",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Render-Atlanta (RenderATL)",
     "url": "https://www.renderatl.com",
     "startDate": "2022-06-01",
@@ -50,6 +78,7 @@
   },
   {
     "name": "IEEE Women in Engineering International Leadership Conference",
+    "url": "https://ieee-wie-ilc.org",
     "startDate": "2022-06-06",
     "endDate": "2022-06-07",
     "city": "San Diego, CA",
@@ -57,39 +86,11 @@
     "online": true,
     "cfpUrl": "https://ieee-wie-ilc.org/cfs2022",
     "cfpEndDate": "2022-02-01",
-    "twitter": "@wieilc",
-    "url": "https://ieee-wie-ilc.org"
-  },
-  {
-    "name": "StaffPlus New York",
-    "startDate": "2022-04-04",
-    "endDate": "2022-04-05",
-    "city": "New York, NY",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://leaddev.com/leaddev-call-proposals",
-    "cfpEndDate": "2021-12-13",
-    "twitter": "@TheLeadDev",
-    "cocUrl": "https://leaddev.com/code-conduct",
-    "offersSignLanguageOrCC": true,
-    "url": "https://leaddev.com/staffplus-new-york"
-  },
-  {
-    "name": "LeadingEng New York",
-    "startDate": "2022-04-07",
-    "endDate": "2022-04-08",
-    "city": "New York, NY",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://leaddev.com/leaddev-call-proposals",
-    "cfpEndDate": "2021-12-13",
-    "twitter": "@TheLeadDev",
-    "cocUrl": "https://leaddev.com/code-conduct",
-    "offersSignLanguageOrCC": true,
-    "url": "https://leaddev.com/leadingeng-new-york"
+    "twitter": "@wieilc"
   },
   {
     "name": "LeadDev London",
+    "url": "https://leaddev.com/leaddev-london",
     "startDate": "2022-06-07",
     "endDate": "2022-06-08",
     "city": "London",
@@ -99,7 +100,6 @@
     "cfpEndDate": "2022-02-13",
     "twitter": "@TheLeadDev",
     "cocUrl": "https://leaddev.com/code-conduct",
-    "offersSignLanguageOrCC": true,
-    "url": "https://leaddev.com/leaddev-london"
+    "offersSignLanguageOrCC": true
   }
 ]

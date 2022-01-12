@@ -8,15 +8,12 @@
     "twitter": "@thephpcc"
   },
   {
-    "name": "NDC Security",
-    "url": "https://ndc-security.com",
-    "startDate": "2022-04-04",
-    "endDate": "2022-04-07",
-    "city": "Oslo",
-    "country": "Norway",
-    "online": false,
-    "twitter": "@NDC_Conferences",
-    "cocUrl": "https://ndcoslo.com/code-of-conduct"
+    "name": "Security Visionaries",
+    "url": "https://goteleport.com/security-visionaries-2022",
+    "startDate": "2022-01-18",
+    "endDate": "2022-01-18",
+    "online": true,
+    "twitter": "@goteleport"
   },
   {
     "name": "Open Confidential Computing Conference",
@@ -28,17 +25,6 @@
     "cfpEndDate": "2021-12-07",
     "twitter": "@EdgelessSystems",
     "cocUrl": "https://www.oc3.dev/code-of-conduct"
-  },
-  {
-    "name": "sec4dev Conference & Bootcamp",
-    "url": "https://sec4dev.io",
-    "startDate": "2022-09-06",
-    "endDate": "2022-09-09",
-    "city": "Vienna",
-    "country": "Austria",
-    "online": false,
-    "twitter": "@sec4dev",
-    "cocUrl": "https://sec4dev.io/code-of-conduct"
   },
   {
     "name": "B-Sides Tampa IT Security Conference",
@@ -86,6 +72,30 @@
     "country": "U.S.A.",
     "online": true,
     "twitter": "@NVIDIAGTC"
+  },
+  {
+    "name": "NDC Security",
+    "url": "https://ndc-security.com",
+    "startDate": "2022-04-04",
+    "endDate": "2022-04-07",
+    "city": "Oslo",
+    "country": "Norway",
+    "online": false,
+    "twitter": "@NDC_Conferences",
+    "cocUrl": "https://ndcoslo.com/code-of-conduct"
+  },
+  {
+    "name": "Nullcon Berlin",
+    "url": "https://nullcon.net/berlin-2022",
+    "startDate": "2022-04-08",
+    "endDate": "2022-04-09",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://nullcon.net/berlin-2022/cfp",
+    "cfpEndDate": "2022-01-15",
+    "twitter": "@nullcon",
+    "cocUrl": "https://nullcon.net/about-conferencepolicy/"
   },
   {
     "name": "Nullcon International Conference and Training Berlin",
@@ -148,6 +158,17 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "sec4dev Conference & Bootcamp",
+    "url": "https://sec4dev.io",
+    "startDate": "2022-09-06",
+    "endDate": "2022-09-09",
+    "city": "Vienna",
+    "country": "Austria",
+    "online": false,
+    "twitter": "@sec4dev",
+    "cocUrl": "https://sec4dev.io/code-of-conduct"
+  },
+  {
     "name": "JCON",
     "url": "https://jcon.one",
     "startDate": "2022-10-18",
@@ -166,26 +187,5 @@
     "cfpEndDate": "2022-10-28",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
-  },
-  {
-    "name": "Security Visionaries",
-    "startDate": "2022-01-18",
-    "endDate": "2022-01-18",
-    "online": true,
-    "twitter": "@goteleport",
-    "url": "https://goteleport.com/security-visionaries-2022"
-  },
-  {
-    "name": "Nullcon Berlin",
-    "startDate": "2022-04-08",
-    "endDate": "2022-04-09",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://nullcon.net/berlin-2022/cfp",
-    "cfpEndDate": "2022-01-15",
-    "twitter": "@nullcon",
-    "cocUrl": "https://nullcon.net/about-conferencepolicy/",
-    "url": "https://nullcon.net/berlin-2022"
   }
 ]
