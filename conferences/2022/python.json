@@ -46,17 +46,6 @@
     "twitter": "@NVIDIAGTC"
   },
   {
-    "name": "PyCon",
-    "url": "https://us.pycon.org/2022",
-    "startDate": "2022-04-27",
-    "endDate": "2022-05-03",
-    "city": "Salt Lake City, UT",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@pycon",
-    "cocUrl": "https://us.pycon.org/2022/about/code-of-conduct/"
-  },
-  {
     "name": "PyCon DE & PyData",
     "url": "https://2022.pycon.de",
     "startDate": "2022-04-11",
@@ -66,6 +55,17 @@
     "online": false,
     "twitter": "@PyConDE",
     "cocUrl": "https://2022.pycon.de/code-of-conduct/"
+  },
+  {
+    "name": "PyCon",
+    "url": "https://us.pycon.org/2022",
+    "startDate": "2022-04-27",
+    "endDate": "2022-05-03",
+    "city": "Salt Lake City, UT",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@pycon",
+    "cocUrl": "https://us.pycon.org/2022/about/code-of-conduct/"
   },
   {
     "name": "PyCon Italy",

@@ -1,5 +1,14 @@
 [
   {
+    "name": "FOSDEM",
+    "url": "https://fosdem.org",
+    "startDate": "2022-02-05",
+    "endDate": "2022-02-06",
+    "online": true,
+    "twitter": "@fosdem",
+    "cocUrl": "https://fosdem.org/2022/practical/conduct/"
+  },
+  {
     "name": "FOSS Backstage",
     "url": "https://foss-backstage.de",
     "startDate": "2022-03-17",
@@ -21,6 +30,47 @@
     "country": "U.S.A.",
     "online": true,
     "twitter": "@NVIDIAGTC"
+  },
+  {
+    "name": "StaffPlus New York",
+    "url": "https://leaddev.com/staffplus-new-york",
+    "startDate": "2022-04-04",
+    "endDate": "2022-04-05",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://leaddev.com/leaddev-call-proposals",
+    "cfpEndDate": "2021-12-13",
+    "twitter": "@TheLeadDev",
+    "cocUrl": "https://leaddev.com/code-conduct",
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "LeadingEng New York",
+    "url": "https://leaddev.com/leadingeng-new-york",
+    "startDate": "2022-04-07",
+    "endDate": "2022-04-08",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://leaddev.com/leaddev-call-proposals",
+    "cfpEndDate": "2021-12-13",
+    "twitter": "@TheLeadDev",
+    "cocUrl": "https://leaddev.com/code-conduct",
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "Nullcon Berlin",
+    "url": "https://nullcon.net/berlin-2022",
+    "startDate": "2022-04-08",
+    "endDate": "2022-04-09",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://nullcon.net/berlin-2022/cfp",
+    "cfpEndDate": "2022-01-15",
+    "twitter": "@nullcon",
+    "cocUrl": "https://nullcon.net/about-conferencepolicy/"
   },
   {
     "name": "Nullcon International Conference and Training Berlin",
@@ -46,6 +96,17 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "THAT Conference",
+    "url": "https://that.us/events/tx/2022",
+    "startDate": "2022-05-23",
+    "endDate": "2022-05-26",
+    "city": "Round Rock, TX",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@thatconference",
+    "cocUrl": "https://that.us/support/code-of-conduct/"
+  },
+  {
     "name": "<CODE/CRAFTS>",
     "url": "https://code-crafts.com",
     "startDate": "2022-05-26",
@@ -67,6 +128,20 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "LeadDev London",
+    "url": "https://leaddev.com/leaddev-london",
+    "startDate": "2022-06-07",
+    "endDate": "2022-06-08",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "cfpUrl": "https://leaddev.com/leaddev-call-proposals",
+    "cfpEndDate": "2022-02-13",
+    "twitter": "@TheLeadDev",
+    "cocUrl": "https://leaddev.com/code-conduct",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "ACM Multimedia Systems Conference - MMSys",
     "url": "https://mmsys2022.ie",
     "startDate": "2022-06-14",
@@ -77,6 +152,19 @@
     "cfpUrl": "https://mmsys2022.ie/downloads/MMSys2022_CallForPapers.pdf",
     "cfpEndDate": "2022-01-21",
     "twitter": "@acmmmsys"
+  },
+  {
+    "name": "THAT Conference",
+    "url": "https://that.us/events/wi/2022",
+    "startDate": "2022-07-25",
+    "endDate": "2022-07-28",
+    "city": "Wisconsin Dells, WI",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://that.us/call-for-counselors/wi/2022",
+    "cfpEndDate": "2022-03-01",
+    "twitter": "@thatconference",
+    "cocUrl": "https://that.us/support/code-of-conduct/"
   },
   {
     "name": "International Congress on Ad-Hoc Networks",
@@ -99,93 +187,5 @@
     "twitter": "@cascadiajs",
     "cocUrl": "https://2022.cascadiajs.com/code-of-conduct",
     "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "StaffPlus New York",
-    "startDate": "2022-04-04",
-    "endDate": "2022-04-05",
-    "city": "New York, NY",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://leaddev.com/leaddev-call-proposals",
-    "cfpEndDate": "2021-12-13",
-    "twitter": "@TheLeadDev",
-    "cocUrl": "https://leaddev.com/code-conduct",
-    "offersSignLanguageOrCC": true,
-    "url": "https://leaddev.com/staffplus-new-york"
-  },
-  {
-    "name": "LeadingEng New York",
-    "startDate": "2022-04-07",
-    "endDate": "2022-04-08",
-    "city": "New York, NY",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://leaddev.com/leaddev-call-proposals",
-    "cfpEndDate": "2021-12-13",
-    "twitter": "@TheLeadDev",
-    "cocUrl": "https://leaddev.com/code-conduct",
-    "offersSignLanguageOrCC": true,
-    "url": "https://leaddev.com/leadingeng-new-york"
-  },
-  {
-    "name": "LeadDev London",
-    "startDate": "2022-06-07",
-    "endDate": "2022-06-08",
-    "city": "London",
-    "country": "U.K.",
-    "online": false,
-    "cfpUrl": "https://leaddev.com/leaddev-call-proposals",
-    "cfpEndDate": "2022-02-13",
-    "twitter": "@TheLeadDev",
-    "cocUrl": "https://leaddev.com/code-conduct",
-    "offersSignLanguageOrCC": true,
-    "url": "https://leaddev.com/leaddev-london"
-  },
-  {
-    "name": "Nullcon Berlin",
-    "startDate": "2022-04-08",
-    "endDate": "2022-04-09",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://nullcon.net/berlin-2022/cfp",
-    "cfpEndDate": "2022-01-15",
-    "twitter": "@nullcon",
-    "cocUrl": "https://nullcon.net/about-conferencepolicy/",
-    "url": "https://nullcon.net/berlin-2022"
-  },
-  {
-    "name": "FOSDEM",
-    "startDate": "2022-02-05",
-    "endDate": "2022-02-06",
-    "online": true,
-    "twitter": "@fosdem",
-    "cocUrl": "https://fosdem.org/2022/practical/conduct/",
-    "url": "https://fosdem.org"
-  },
-  {
-    "name": "THAT Conference",
-    "startDate": "2022-05-23",
-    "endDate": "2022-05-26",
-    "city": "Round Rock, TX",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@thatconference",
-    "cocUrl": "https://that.us/support/code-of-conduct/",
-    "url": "https://that.us/events/tx/2022"
-  },
-  {
-    "name": "THAT Conference",
-    "startDate": "2022-07-25",
-    "endDate": "2022-07-28",
-    "city": "Wisconsin Dells, WI",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://that.us/call-for-counselors/wi/2022",
-    "cfpEndDate": "2022-03-01",
-    "twitter": "@thatconference",
-    "cocUrl": "https://that.us/support/code-of-conduct/",
-    "url": "https://that.us/events/wi/2022"
   }
 ]

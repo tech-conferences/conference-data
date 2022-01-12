@@ -1,5 +1,14 @@
 [
   {
+    "name": "TheJam.dev",
+    "url": "https://thejam.dev",
+    "startDate": "2022-01-26",
+    "endDate": "2022-01-27",
+    "online": true,
+    "twitter": "@cfe_dev",
+    "cocUrl": "https://cfe.dev/conduct/"
+  },
+  {
     "name": "JSWORLD Conference Africa",
     "url": "https://africa.jsworldconference.com",
     "startDate": "2022-02-08",
@@ -42,6 +51,16 @@
     "cfpEndDate": "2000-12-31",
     "twitter": "@cityjsindia",
     "cocUrl": "https://india.cityjsconf.org/coc/"
+  },
+  {
+    "name": "Node Congress",
+    "url": "https://nodecongress.com",
+    "startDate": "2022-02-17",
+    "endDate": "2022-02-18",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSckKl2WIOrjF2mfaqp78IGBsVDo2ZTa9N6TgYkjkkprZpCLug/viewform",
+    "cfpEndDate": "2022-01-16",
+    "twitter": "@NodeCongress"
   },
   {
     "name": "React fwdays",
@@ -129,6 +148,17 @@
     "twitter": "@JavaScriptCon"
   },
   {
+    "name": "THAT Conference",
+    "url": "https://that.us/events/tx/2022",
+    "startDate": "2022-05-23",
+    "endDate": "2022-05-26",
+    "city": "Round Rock, TX",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@thatconference",
+    "cocUrl": "https://that.us/support/code-of-conduct/"
+  },
+  {
     "name": "Render-Atlanta (RenderATL)",
     "url": "https://www.renderatl.com",
     "startDate": "2022-06-01",
@@ -185,6 +215,19 @@
     "cocUrl": "https://halfstackconf.com/newquay/code-of-conduct/"
   },
   {
+    "name": "THAT Conference",
+    "url": "https://that.us/events/wi/2022",
+    "startDate": "2022-07-25",
+    "endDate": "2022-07-28",
+    "city": "Wisconsin Dells, WI",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://that.us/call-for-counselors/wi/2022",
+    "cfpEndDate": "2022-03-01",
+    "twitter": "@thatconference",
+    "cocUrl": "https://that.us/support/code-of-conduct/"
+  },
+  {
     "name": "CascadiaJS",
     "url": "https://2022.cascadiajs.com",
     "startDate": "2022-08-30",
@@ -217,48 +260,5 @@
     "cfpEndDate": "2022-10-14",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
-  },
-  {
-    "name": "Node Congress",
-    "startDate": "2022-02-17",
-    "endDate": "2022-02-18",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSckKl2WIOrjF2mfaqp78IGBsVDo2ZTa9N6TgYkjkkprZpCLug/viewform",
-    "cfpEndDate": "2022-01-16",
-    "twitter": "@NodeCongress",
-    "url": "https://nodecongress.com"
-  },
-  {
-    "name": "TheJam.dev",
-    "startDate": "2022-01-26",
-    "endDate": "2022-01-27",
-    "online": true,
-    "twitter": "@cfe_dev",
-    "cocUrl": "https://cfe.dev/conduct/",
-    "url": "https://thejam.dev"
-  },
-  {
-    "name": "THAT Conference",
-    "startDate": "2022-05-23",
-    "endDate": "2022-05-26",
-    "city": "Round Rock, TX",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@thatconference",
-    "cocUrl": "https://that.us/support/code-of-conduct/",
-    "url": "https://that.us/events/tx/2022"
-  },
-  {
-    "name": "THAT Conference",
-    "startDate": "2022-07-25",
-    "endDate": "2022-07-28",
-    "city": "Wisconsin Dells, WI",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://that.us/call-for-counselors/wi/2022",
-    "cfpEndDate": "2022-03-01",
-    "twitter": "@thatconference",
-    "cocUrl": "https://that.us/support/code-of-conduct/",
-    "url": "https://that.us/events/wi/2022"
   }
 ]

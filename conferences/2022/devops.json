@@ -1,5 +1,16 @@
 [
   {
+    "name": "Code Freeze: DevEx",
+    "url": "https://cse.umn.edu/umsec/events/code-freeze-2022-developer-experience",
+    "startDate": "2022-01-13",
+    "endDate": "2022-01-13",
+    "online": true,
+    "cfpUrl": "https://cse.umn.edu/cs/news/code-freeze-2022-explores-developer-experience",
+    "cfpEndDate": "2022-01-12",
+    "twitter": "@StephenThere",
+    "cocUrl": "https://docs.google.com/document/u/2/d/e/2PACX-1vQYpW0tp7UO9oHm9dJAjTIKfEkaONMJucKAsCNww2p1JijSt1Etd21ocz1A8GUiYIsChdUXVyhkWZCf/pub"
+  },
+  {
     "name": "Devopsdays Aarhus",
     "url": "https://devopsdays.org/events/2022-aarhus/welcome/",
     "startDate": "2022-01-25",
@@ -8,6 +19,16 @@
     "country": "Denmark",
     "online": false,
     "cocUrl": "https://devopsdays.org/events/2022-aarhus/conduct"
+  },
+  {
+    "name": "WeAreDevelopers Live - DevOps Day",
+    "url": "https://www.wearedevelopers.com/event/devops-day-2601",
+    "startDate": "2022-01-26",
+    "endDate": "2022-01-26",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/wearedevelopers-live-2022",
+    "cfpEndDate": "2022-01-16",
+    "twitter": "@WeAreDevs"
   },
   {
     "name": "Devopsdays Atlanta",
@@ -129,6 +150,31 @@
     "twitter": "@NVIDIAGTC"
   },
   {
+    "name": "Voxxed Days Bucharest",
+    "url": "https://romania.voxxeddays.com/bucharest/voxxed-days-bucharest-2022",
+    "startDate": "2022-03-23",
+    "endDate": "2022-03-25",
+    "city": "Bucharest",
+    "country": "Romania",
+    "online": true,
+    "cfpUrl": "https://vdbuh22.cfp.dev/#",
+    "cfpEndDate": "2022-01-20",
+    "twitter": "@VoxxedBucharest"
+  },
+  {
+    "name": "Nullcon Berlin",
+    "url": "https://nullcon.net/berlin-2022",
+    "startDate": "2022-04-08",
+    "endDate": "2022-04-09",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://nullcon.net/berlin-2022/cfp",
+    "cfpEndDate": "2022-01-15",
+    "twitter": "@nullcon",
+    "cocUrl": "https://nullcon.net/about-conferencepolicy/"
+  },
+  {
     "name": "Nullcon International Conference and Training Berlin",
     "url": "https://nullcon.net",
     "startDate": "2022-04-08",
@@ -176,7 +222,7 @@
     "twitter": "@days_dev",
     "cocUrl": "https://devopsdays.org/events/2022-kyiv/conduct"
   },
-    {
+  {
     "name": "Devopsdays Birmingham",
     "url": "https://devopsdays.org/events/2022-birmingham-al/welcome/",
     "startDate": "2022-04-18",
@@ -223,16 +269,6 @@
     "cocUrl": "https://www.conf42.com/code-of-conduct"
   },
   {
-    "name": "Devopsdays Austin",
-    "url": "https://devopsdays.org/events/2022-austin/welcome/",
-    "startDate": "2022-05-04",
-    "endDate": "2022-05-05",
-    "city": "Austin, TX",
-    "country": "U.S.A.",
-    "online": false,
-    "cocUrl": "https://devopsdays.org/events/2022-austin/conduct"
-  },
-  {
     "name": "Devopsdays Boise",
     "url": "https://devopsdays.org/events/2022-boise/welcome/",
     "startDate": "2022-05-03",
@@ -243,16 +279,14 @@
     "twitter": "@devopsdaysboise"
   },
   {
-    "name": "Devopsdays Nashville",
-    "url": "https://devopsdays.org/events/2022-nashville/welcome/",
-    "startDate": "2022-05-05",
-    "endDate": "2022-05-06",
-    "city": "Nashville, TN",
+    "name": "Devopsdays Austin",
+    "url": "https://devopsdays.org/events/2022-austin/welcome/",
+    "startDate": "2022-05-04",
+    "endDate": "2022-05-05",
+    "city": "Austin, TX",
     "country": "U.S.A.",
     "online": false,
-    "cfpUrl": "https://devopsdays.org/events/2022-nashville/propose",
-    "twitter": "@nashvilledevops",
-    "cocUrl": "https://devopsdays.org/events/2022-nashville/conduct"
+    "cocUrl": "https://devopsdays.org/events/2022-austin/conduct"
   },
   {
     "name": "Devopsdays Birmingham",
@@ -265,6 +299,18 @@
     "cfpUrl": "https://sessionize.com/devopsdays-birmingham-uk-2022/",
     "cfpEndDate": "2022-02-20",
     "cocUrl": "https://devopsdays.org/events/2022-birmingham-uk/conduct"
+  },
+  {
+    "name": "Devopsdays Nashville",
+    "url": "https://devopsdays.org/events/2022-nashville/welcome/",
+    "startDate": "2022-05-05",
+    "endDate": "2022-05-06",
+    "city": "Nashville, TN",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://devopsdays.org/events/2022-nashville/propose",
+    "twitter": "@nashvilledevops",
+    "cocUrl": "https://devopsdays.org/events/2022-nashville/conduct"
   },
   {
     "name": "Lazy Load",
@@ -309,6 +355,17 @@
     "online": false,
     "twitter": "@AgileTD",
     "cocUrl": "https://agiletestingdays.com/code-of-conduct/"
+  },
+  {
+    "name": "THAT Conference",
+    "url": "https://that.us/events/tx/2022",
+    "startDate": "2022-05-23",
+    "endDate": "2022-05-26",
+    "city": "Round Rock, TX",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@thatconference",
+    "cocUrl": "https://that.us/support/code-of-conduct/"
   },
   {
     "name": "Devopsdays Prague",
@@ -416,6 +473,19 @@
     "cocUrl": "https://devopsdays.org/events/2022-amsterdam/conduct"
   },
   {
+    "name": "THAT Conference",
+    "url": "https://that.us/events/wi/2022",
+    "startDate": "2022-07-25",
+    "endDate": "2022-07-28",
+    "city": "Wisconsin Dells, WI",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://that.us/call-for-counselors/wi/2022",
+    "cfpEndDate": "2022-03-01",
+    "twitter": "@thatconference",
+    "cocUrl": "https://that.us/support/code-of-conduct/"
+  },
+  {
     "name": "Devopsdays Dallas",
     "url": "https://devopsdays.org/events/2022-dallas/welcome/",
     "startDate": "2022-08-24",
@@ -439,6 +509,26 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Devopsdays Portland",
+    "url": "https://devopsdays.org/events/2022-portland-or/welcome/",
+    "startDate": "2022-09-19",
+    "endDate": "2022-09-21",
+    "city": "Portland, OR",
+    "country": "U.S.A.",
+    "online": false,
+    "cocUrl": "https://devopsdays.org/events/2022-portland-or/conduct"
+  },
+  {
+    "name": "Devopsdays Cairo",
+    "url": "https://devopsdays.org/events/2022-cairo/welcome/",
+    "startDate": "2022-09-22",
+    "endDate": "2022-09-22",
+    "city": "Cairo",
+    "country": "Egypt",
+    "online": false,
+    "cocUrl": "https://devopsdays.org/events/2022-cairo/conduct"
+  },
+  {
     "name": "Conf42 Incident Management",
     "url": "https://www.conf42.com/im2022",
     "startDate": "2022-09-29",
@@ -457,26 +547,6 @@
     "online": true,
     "twitter": "@jcon_conference",
     "cocUrl": "https://jcon.one/code-of-conduct"
-  },
-  {
-    "name": "Devopsdays Portland",
-    "url": "https://devopsdays.org/events/2022-portland-or/welcome/",
-    "startDate": "2022-09-19",
-    "endDate": "2022-09-21",
-    "online": false,
-    "city": "Portland, OR",
-    "country": "U.S.A.",
-    "cocUrl": "https://devopsdays.org/events/2022-portland-or/conduct"
-  },
-  {
-    "name": "Devopsdays Cairo",
-    "url": "https://devopsdays.org/events/2022-cairo/welcome/",
-    "startDate": "2022-09-22",
-    "endDate": "2022-09-22",
-    "online": false,
-    "city": "Cairo",
-    "country": "Egypt",
-    "cocUrl": "https://devopsdays.org/events/2022-cairo/conduct"
   },
   {
     "name": "Devopsdays Eindhoven",
@@ -521,75 +591,5 @@
     "country": "Australia",
     "online": false,
     "cocUrl": "https://www.usenix.org/conferences/coc"
-  },
-  {
-    "name": "Code Freeze: DevEx",
-    "startDate": "2022-01-13",
-    "endDate": "2022-01-13",
-    "online": true,
-    "cfpUrl": "https://cse.umn.edu/cs/news/code-freeze-2022-explores-developer-experience",
-    "cfpEndDate": "2022-01-12",
-    "twitter": "@StephenThere",
-    "cocUrl": "https://docs.google.com/document/u/2/d/e/2PACX-1vQYpW0tp7UO9oHm9dJAjTIKfEkaONMJucKAsCNww2p1JijSt1Etd21ocz1A8GUiYIsChdUXVyhkWZCf/pub",
-    "url": "https://cse.umn.edu/umsec/events/code-freeze-2022-developer-experience"
-  },
-  {
-    "name": "Nullcon Berlin",
-    "startDate": "2022-04-08",
-    "endDate": "2022-04-09",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://nullcon.net/berlin-2022/cfp",
-    "cfpEndDate": "2022-01-15",
-    "twitter": "@nullcon",
-    "cocUrl": "https://nullcon.net/about-conferencepolicy/",
-    "url": "https://nullcon.net/berlin-2022"
-  },
-  {
-    "name": "Voxxed Days Bucharest",
-    "startDate": "2022-03-23",
-    "endDate": "2022-03-25",
-    "city": "Bucharest",
-    "country": "Romania",
-    "online": true,
-    "cfpUrl": "https://vdbuh22.cfp.dev/#",
-    "cfpEndDate": "2022-01-20",
-    "twitter": "@VoxxedBucharest",
-    "url": "https://romania.voxxeddays.com/bucharest/voxxed-days-bucharest-2022"
-  },
-  {
-    "name": "THAT Conference",
-    "startDate": "2022-05-23",
-    "endDate": "2022-05-26",
-    "city": "Round Rock, TX",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@thatconference",
-    "cocUrl": "https://that.us/support/code-of-conduct/",
-    "url": "https://that.us/events/tx/2022"
-  },
-  {
-    "name": "THAT Conference",
-    "startDate": "2022-07-25",
-    "endDate": "2022-07-28",
-    "city": "Wisconsin Dells, WI",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://that.us/call-for-counselors/wi/2022",
-    "cfpEndDate": "2022-03-01",
-    "twitter": "@thatconference",
-    "cocUrl": "https://that.us/support/code-of-conduct/",
-    "url": "https://that.us/events/wi/2022"
-  },
-  {
-    "name": "WeAreDevelopers Live - DevOps Day",
-    "startDate": "2022-01-26",
-    "endDate": "2022-01-26",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/wearedevelopers-live-2022",
-    "cfpEndDate": "2022-01-16",
-    "twitter": "@WeAreDevs",
-    "url": "https://www.wearedevelopers.com/event/devops-day-2601"
   }
 ]

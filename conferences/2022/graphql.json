@@ -1,17 +1,18 @@
 [
   {
     "name": "THAT Conference",
+    "url": "https://that.us/events/tx/2022",
     "startDate": "2022-05-23",
     "endDate": "2022-05-26",
     "city": "Round Rock, TX",
     "country": "U.S.A.",
     "online": false,
     "twitter": "@thatconference",
-    "cocUrl": "https://that.us/support/code-of-conduct/",
-    "url": "https://that.us/events/tx/2022"
+    "cocUrl": "https://that.us/support/code-of-conduct/"
   },
   {
     "name": "THAT Conference",
+    "url": "https://that.us/events/wi/2022",
     "startDate": "2022-07-25",
     "endDate": "2022-07-28",
     "city": "Wisconsin Dells, WI",
@@ -20,7 +21,6 @@
     "cfpUrl": "https://that.us/call-for-counselors/wi/2022",
     "cfpEndDate": "2022-03-01",
     "twitter": "@thatconference",
-    "cocUrl": "https://that.us/support/code-of-conduct/",
-    "url": "https://that.us/events/wi/2022"
+    "cocUrl": "https://that.us/support/code-of-conduct/"
   }
 ]

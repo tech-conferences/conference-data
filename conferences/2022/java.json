@@ -1,5 +1,22 @@
 [
   {
+    "name": "Java Day",
+    "url": "https://www.wearedevelopers.com/event/java-day-1201",
+    "startDate": "2022-01-12",
+    "endDate": "2022-01-12",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/wearedevelopers-live-2022",
+    "cfpEndDate": "2022-01-03"
+  },
+  {
+    "name": "JChampionsConf",
+    "url": "https://jchampionsconf.com",
+    "startDate": "2022-01-20",
+    "endDate": "2022-01-25",
+    "online": true,
+    "twitter": "@JChampionsConf"
+  },
+  {
     "name": "NVIDIA GTC",
     "url": "https://www.nvidia.com/gtc",
     "startDate": "2022-03-21",
@@ -8,6 +25,31 @@
     "country": "U.S.A.",
     "online": true,
     "twitter": "@NVIDIAGTC"
+  },
+  {
+    "name": "Voxxed Days Bucharest",
+    "url": "https://romania.voxxeddays.com/bucharest/voxxed-days-bucharest-2022",
+    "startDate": "2022-03-23",
+    "endDate": "2022-03-25",
+    "city": "Bucharest",
+    "country": "Romania",
+    "online": true,
+    "cfpUrl": "https://vdbuh22.cfp.dev/#",
+    "cfpEndDate": "2022-01-20",
+    "twitter": "@VoxxedBucharest"
+  },
+  {
+    "name": "TypeVille",
+    "url": "https://www.typeville.io",
+    "startDate": "2022-04-19",
+    "endDate": "2022-04-23",
+    "city": "Krynica Zdrój",
+    "country": "Poland",
+    "online": false,
+    "cfpUrl": "https://sml.io/typeville",
+    "cfpEndDate": "2022-01-09",
+    "twitter": "@typevilleconf",
+    "cocUrl": "https://www.typeville.io/"
   },
   {
     "name": "JAX Hybrid",
@@ -34,6 +76,17 @@
     "cfpEndDate": "2022-01-31"
   },
   {
+    "name": "JBCNConf",
+    "url": "https://www.jbcnconf.com/2022",
+    "startDate": "2022-07-18",
+    "endDate": "2022-07-20",
+    "city": "Barcelona",
+    "country": "Spain",
+    "online": false,
+    "twitter": "@jbcnconf",
+    "cocUrl": "https://www.jbcnconf.com/2022/coc.html"
+  },
+  {
     "name": "JCON",
     "url": "https://jcon.one",
     "startDate": "2022-10-18",
@@ -41,58 +94,5 @@
     "online": true,
     "twitter": "@jcon_conference",
     "cocUrl": "https://jcon.one/code-of-conduct"
-  },
-  {
-    "name": "JBCNConf",
-    "startDate": "2022-07-18",
-    "endDate": "2022-07-20",
-    "city": "Barcelona",
-    "country": "Spain",
-    "online": false,
-    "twitter": "@jbcnconf",
-    "cocUrl": "https://www.jbcnconf.com/2022/coc.html",
-    "url": "https://www.jbcnconf.com/2022"
-  },
-  {
-    "name": "Java Day",
-    "startDate": "2022-01-12",
-    "endDate": "2022-01-12",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/wearedevelopers-live-2022",
-    "cfpEndDate": "2022-01-03",
-    "url": "https://www.wearedevelopers.com/event/java-day-1201"
-  },
-  {
-    "name": "TypeVille",
-    "startDate": "2022-04-19",
-    "endDate": "2022-04-23",
-    "city": "Krynica Zdrój",
-    "country": "Poland",
-    "online": false,
-    "cfpUrl": "https://sml.io/typeville",
-    "cfpEndDate": "2022-01-09",
-    "twitter": "@typevilleconf",
-    "cocUrl": "https://www.typeville.io/",
-    "url": "https://www.typeville.io"
-  },
-  {
-    "name": "JChampionsConf",
-    "startDate": "2022-01-20",
-    "endDate": "2022-01-25",
-    "online": true,
-    "twitter": "@JChampionsConf",
-    "url": "https://jchampionsconf.com"
-  },
-  {
-    "name": "Voxxed Days Bucharest",
-    "startDate": "2022-03-23",
-    "endDate": "2022-03-25",
-    "city": "Bucharest",
-    "country": "Romania",
-    "online": true,
-    "cfpUrl": "https://vdbuh22.cfp.dev/#",
-    "cfpEndDate": "2022-01-20",
-    "twitter": "@VoxxedBucharest",
-    "url": "https://romania.voxxeddays.com/bucharest/voxxed-days-bucharest-2022"
   }
 ]
