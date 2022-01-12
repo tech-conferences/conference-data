@@ -652,6 +652,7 @@ module.exports = {
     "Richmond, VA",
     "Rochester, NY",
     "Rockville, MD",
+    "Round Rock, TX",
     "Saint Paul, MN",
     "Salt Lake City, UT",
     "San Antonio, TX",
