@@ -48,5 +48,18 @@
     "twitter": "@dpcon",
     "cocUrl": "https://www.phpconference.nl/code-of-conduct",
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "phpday",
+    "startDate": "2022-05-19",
+    "endDate": "2022-05-20",
+    "city": "Verona",
+    "country": "Italy",
+    "online": true,
+    "cfpUrl": "https://grusp.org/CFPphpday",
+    "cfpEndDate": "2022-02-01",
+    "twitter": "@phpday",
+    "cocUrl": "https://www.grusp.org/en/coc/",
+    "url": "https://www.phpday.it"
   }
 ]
