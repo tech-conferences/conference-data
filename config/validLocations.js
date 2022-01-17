@@ -609,6 +609,7 @@ module.exports = {
     "Las Vegas, NV",
     "Little Rock, AR",
     "Lincoln, NE",
+    "Louisville, KY",
     "Long Beach, CA",
     "Los Angeles, CA",
     "Madison, WI",
