@@ -17,5 +17,16 @@
     "city": "Bangkok",
     "country": "Thailand",
     "online": true
+  },
+  {
+    "name": "QCon London Software Conferenc",
+    "startDate": "2022-04-04",
+    "endDate": "2022-04-06",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "twitter": "@qconlondon",
+    "offersSignLanguageOrCC": true,
+    "url": "https://qconlondon.com"
   }
 ]
