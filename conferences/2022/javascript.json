@@ -82,6 +82,15 @@
     "online": true
   },
   {
+    "name": "Svelte Day",
+    "url": "https://enterjs.de/svelteday.php",
+    "startDate": "2022-03-10",
+    "endDate": "2022-03-10",
+    "online": true,
+    "twitter": "@enterjsconf",
+    "cocUrl": "https://enterjs.de/code_of_conduct.php"
+  },
+  {
     "name": "Software Architecture Summit",
     "url": "https://software-architecture-summit.de/muenchen",
     "startDate": "2022-03-14",
@@ -100,6 +109,37 @@
     "cfpUrl": "https://forms.gle/5YzPpJz7WKxx1mdb9",
     "cfpEndDate": "2021-11-30",
     "twitter": "@strapijs"
+  },
+  {
+    "name": "Angular Days",
+    "url": "https://javascript-days.de/angular",
+    "startDate": "2022-03-21",
+    "endDate": "2022-03-24",
+    "city": "Munich",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@AngularDays",
+    "cocUrl": "https://javascript-days.de/code-of-conduct/"
+  },
+  {
+    "name": "JavaScript Days",
+    "url": "https://javascript-days.de/javascript",
+    "startDate": "2022-03-21",
+    "endDate": "2022-03-24",
+    "city": "Munich",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@JS_Days",
+    "cocUrl": "https://javascript-days.de/code-of-conduct/"
+  },
+  {
+    "name": "React Days",
+    "url": "https://javascript-days.de/react",
+    "startDate": "2022-03-21",
+    "endDate": "2022-03-24",
+    "online": true,
+    "twitter": "@React_Days",
+    "cocUrl": "https://javascript-days.de/code-of-conduct/"
   },
   {
     "name": "CityJS Conference London",
@@ -157,6 +197,19 @@
     "online": false,
     "twitter": "@thatconference",
     "cocUrl": "https://that.us/support/code-of-conduct/"
+  },
+  {
+    "name": "CityJS Athens",
+    "url": "https://greece.cityjsconf.org",
+    "startDate": "2022-05-25",
+    "endDate": "2022-05-27",
+    "city": "Athens",
+    "country": "Greece",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfZlld4FzlWKg-2nc-JpIdzWSOgcLQ2jGYFSlK9K4X1b-waHQ/viewform",
+    "cfpEndDate": "2022-03-25",
+    "twitter": "@cityjsconf",
+    "cocUrl": "https://cityjsconf.org/coc/"
   },
   {
     "name": "Render-Atlanta (RenderATL)",
@@ -260,58 +313,5 @@
     "cfpEndDate": "2022-10-14",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
-  },
-  {
-    "name": "CityJS Athens",
-    "startDate": "2022-05-25",
-    "endDate": "2022-05-27",
-    "city": "Athens",
-    "country": "Greece",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfZlld4FzlWKg-2nc-JpIdzWSOgcLQ2jGYFSlK9K4X1b-waHQ/viewform",
-    "cfpEndDate": "2022-03-25",
-    "twitter": "@cityjsconf",
-    "cocUrl": "https://cityjsconf.org/coc/",
-    "url": "https://greece.cityjsconf.org"
-  },
-  {
-    "name": "Svelte Day",
-    "startDate": "2022-03-10",
-    "endDate": "2022-03-10",
-    "online": true,
-    "twitter": "@enterjsconf",
-    "cocUrl": "https://enterjs.de/code_of_conduct.php",
-    "url": "https://enterjs.de/svelteday.php"
-  },
-  {
-    "name": "JavaScript Days",
-    "startDate": "2022-03-21",
-    "endDate": "2022-03-24",
-    "city": "Munich",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@JS_Days",
-    "cocUrl": "https://javascript-days.de/code-of-conduct/",
-    "url": "https://javascript-days.de/javascript"
-  },
-  {
-    "name": "React Days",
-    "startDate": "2022-03-21",
-    "endDate": "2022-03-24",
-    "online": true,
-    "twitter": "@React_Days",
-    "cocUrl": "https://javascript-days.de/code-of-conduct/",
-    "url": "https://javascript-days.de/react"
-  },
-  {
-    "name": "Angular Days",
-    "startDate": "2022-03-21",
-    "endDate": "2022-03-24",
-    "city": "Munich",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@AngularDays",
-    "cocUrl": "https://javascript-days.de/code-of-conduct/",
-    "url": "https://javascript-days.de/angular"
   }
 ]

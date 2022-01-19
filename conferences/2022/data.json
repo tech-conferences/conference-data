@@ -20,6 +20,28 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "The DEVOPS Conference",
+    "url": "https://www.thedevopsconference.com",
+    "startDate": "2022-03-08",
+    "endDate": "2022-03-09",
+    "online": true,
+    "cfpUrl": "https://www.thedevopsconference.com/call-for-papers",
+    "cfpEndDate": "2021-12-16",
+    "twitter": "@eficode",
+    "cocUrl": "https://www.thedevopsconference.com/code-of-conduct"
+  },
+  {
+    "name": "Reinforce AI Conference",
+    "url": "https://reinforceconf.com",
+    "startDate": "2022-03-08",
+    "endDate": "2022-03-10",
+    "online": true,
+    "cfpUrl": "https://www.papercall.io/reinforce2022",
+    "cfpEndDate": "2022-01-31",
+    "twitter": "@reinforceconf",
+    "cocUrl": "https://reinforceconf.com/code-of-conduct"
+  },
+  {
     "name": "Global Artificial Intelligence Virtual Conference",
     "url": "http://www.globalbigdataconference.com/santa-clara/global-artificial-intelligence-virtual-conference/event-129.html",
     "startDate": "2022-03-17",
@@ -112,36 +134,14 @@
     "cfpEndDate": "2022-01-31"
   },
   {
-    "name": "Reinforce AI Conference",
-    "startDate": "2022-03-08",
-    "endDate": "2022-03-10",
-    "online": true,
-    "cfpUrl": "https://www.papercall.io/reinforce2022",
-    "cfpEndDate": "2022-01-31",
-    "twitter": "@reinforceconf",
-    "cocUrl": "https://reinforceconf.com/code-of-conduct",
-    "url": "https://reinforceconf.com"
-  },
-  {
     "name": "ML Conference Munich",
+    "url": "https://mlconference.ai/munich",
     "startDate": "2022-06-27",
     "endDate": "2022-06-29",
     "city": "Munich",
     "country": "Germany",
     "online": true,
     "twitter": "@mlconference",
-    "cocUrl": "https://mlconference.ai/code-of-conduct/",
-    "url": "https://mlconference.ai/munich"
-  },
-  {
-    "name": "The DEVOPS Conference",
-    "startDate": "2022-03-08",
-    "endDate": "2022-03-09",
-    "online": true,
-    "cfpUrl": "https://www.thedevopsconference.com/call-for-papers",
-    "cfpEndDate": "2021-12-16",
-    "twitter": "@eficode",
-    "cocUrl": "https://www.thedevopsconference.com/code-of-conduct",
-    "url": "https://www.thedevopsconference.com"
+    "cocUrl": "https://mlconference.ai/code-of-conduct/"
   }
 ]
