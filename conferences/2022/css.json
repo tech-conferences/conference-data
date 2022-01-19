@@ -12,6 +12,17 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "HTML & CSS Days",
+    "url": "https://javascript-days.de/html-css",
+    "startDate": "2022-03-21",
+    "endDate": "2022-03-24",
+    "city": "Munich",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@htmlcssdays",
+    "cocUrl": "https://javascript-days.de/code-of-conduct/"
+  },
+  {
     "name": "NVIDIA GTC",
     "url": "https://www.nvidia.com/gtc",
     "startDate": "2022-03-21",
@@ -78,16 +89,5 @@
     "twitter": "@cascadiajs",
     "cocUrl": "https://2022.cascadiajs.com/code-of-conduct",
     "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "HTML & CSS Days",
-    "startDate": "2022-03-21",
-    "endDate": "2022-03-24",
-    "city": "Munich",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@htmlcssdays",
-    "cocUrl": "https://javascript-days.de/code-of-conduct/",
-    "url": "https://javascript-days.de/html-css"
   }
 ]

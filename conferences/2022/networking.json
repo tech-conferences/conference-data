@@ -9,6 +9,17 @@
     "cocUrl": "https://fosdem.org/2022/practical/conduct/"
   },
   {
+    "name": "The DEVOPS Conference",
+    "url": "https://www.thedevopsconference.com",
+    "startDate": "2022-03-08",
+    "endDate": "2022-03-09",
+    "online": true,
+    "cfpUrl": "https://www.thedevopsconference.com/call-for-papers",
+    "cfpEndDate": "2021-12-16",
+    "twitter": "@eficode",
+    "cocUrl": "https://www.thedevopsconference.com/code-of-conduct"
+  },
+  {
     "name": "FOSS Backstage",
     "url": "https://foss-backstage.de",
     "startDate": "2022-03-17",
@@ -154,6 +165,17 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "INTEGRATE",
+    "url": "https://www.kovai.co/integrate-2022",
+    "startDate": "2022-06-13",
+    "endDate": "2022-06-15",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "cfpUrl": "https://www.kovai.co/integrate-2022/terms-and-conditions.html",
+    "cfpEndDate": "2022-01-18"
+  },
+  {
     "name": "ACM Multimedia Systems Conference - MMSys",
     "url": "https://mmsys2022.ie",
     "startDate": "2022-06-14",
@@ -199,27 +221,5 @@
     "twitter": "@cascadiajs",
     "cocUrl": "https://2022.cascadiajs.com/code-of-conduct",
     "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "INTEGRATE",
-    "startDate": "2022-06-13",
-    "endDate": "2022-06-15",
-    "city": "London",
-    "country": "U.K.",
-    "online": true,
-    "cfpUrl": "https://www.kovai.co/integrate-2022/terms-and-conditions.html",
-    "cfpEndDate": "2022-01-18",
-    "url": "https://www.kovai.co/integrate-2022"
-  },
-  {
-    "name": "The DEVOPS Conference",
-    "startDate": "2022-03-08",
-    "endDate": "2022-03-09",
-    "online": true,
-    "cfpUrl": "https://www.thedevopsconference.com/call-for-papers",
-    "cfpEndDate": "2021-12-16",
-    "twitter": "@eficode",
-    "cocUrl": "https://www.thedevopsconference.com/code-of-conduct",
-    "url": "https://www.thedevopsconference.com"
   }
 ]

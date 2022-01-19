@@ -1,5 +1,16 @@
 [
   {
+    "name": "The DEVOPS Conference",
+    "url": "https://www.thedevopsconference.com",
+    "startDate": "2022-03-08",
+    "endDate": "2022-03-09",
+    "online": true,
+    "cfpUrl": "https://www.thedevopsconference.com/call-for-papers",
+    "cfpEndDate": "2021-12-16",
+    "twitter": "@eficode",
+    "cocUrl": "https://www.thedevopsconference.com/code-of-conduct"
+  },
+  {
     "name": "Software Architecture Summit",
     "url": "https://software-architecture-summit.de/muenchen",
     "startDate": "2022-03-14",
@@ -112,16 +123,5 @@
     "twitter": "@cascadiajs",
     "cocUrl": "https://2022.cascadiajs.com/code-of-conduct",
     "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "The DEVOPS Conference",
-    "startDate": "2022-03-08",
-    "endDate": "2022-03-09",
-    "online": true,
-    "cfpUrl": "https://www.thedevopsconference.com/call-for-papers",
-    "cfpEndDate": "2021-12-16",
-    "twitter": "@eficode",
-    "cocUrl": "https://www.thedevopsconference.com/code-of-conduct",
-    "url": "https://www.thedevopsconference.com"
   }
 ]

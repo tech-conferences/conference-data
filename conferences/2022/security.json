@@ -53,6 +53,17 @@
     "cocUrl": "https://nullcon.net/goa-2022/cfp/"
   },
   {
+    "name": "The DEVOPS Conference",
+    "url": "https://www.thedevopsconference.com",
+    "startDate": "2022-03-08",
+    "endDate": "2022-03-09",
+    "online": true,
+    "cfpUrl": "https://www.thedevopsconference.com/call-for-papers",
+    "cfpEndDate": "2021-12-16",
+    "twitter": "@eficode",
+    "cocUrl": "https://www.thedevopsconference.com/code-of-conduct"
+  },
+  {
     "name": "Chaos Engineering",
     "url": "https://www.conf42.com/ce2022",
     "startDate": "2022-03-10",
@@ -75,6 +86,7 @@
   },
   {
     "name": "NDC Security",
+    "url": "https://ndc-security.com",
     "startDate": "2022-04-03",
     "endDate": "2022-04-06",
     "city": "Oslo",
@@ -83,8 +95,7 @@
     "cfpUrl": "https://ndc-security.com/call-for-papers",
     "cfpEndDate": "2022-01-15",
     "twitter": "@NDC_Conferences",
-    "cocUrl": "https://ndcminnesota.com/code-of-conduct",
-    "url": "https://ndc-security.com"
+    "cocUrl": "https://ndcminnesota.com/code-of-conduct"
   },
   {
     "name": "Nullcon Berlin",
@@ -189,16 +200,5 @@
     "cfpEndDate": "2022-10-28",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
-  },
-  {
-    "name": "The DEVOPS Conference",
-    "startDate": "2022-03-08",
-    "endDate": "2022-03-09",
-    "online": true,
-    "cfpUrl": "https://www.thedevopsconference.com/call-for-papers",
-    "cfpEndDate": "2021-12-16",
-    "twitter": "@eficode",
-    "cocUrl": "https://www.thedevopsconference.com/code-of-conduct",
-    "url": "https://www.thedevopsconference.com"
   }
 ]
