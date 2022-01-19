@@ -313,5 +313,14 @@
     "cfpEndDate": "2022-10-14",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
+  },
+  {
+    "name": "QCon Plus Online Software Conference",
+    "startDate": "2022-05-10",
+    "endDate": "2022-05-20",
+    "online": true,
+    "twitter": "@QCon",
+    "offersSignLanguageOrCC": true,
+    "url": "https://plus.qconferences.com"
   }
 ]
