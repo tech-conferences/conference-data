@@ -600,5 +600,16 @@
     "twitter": "@QCon",
     "offersSignLanguageOrCC": true,
     "url": "https://plus.qconferences.com"
+  },
+  {
+    "name": "QCon London",
+    "startDate": "2022-04-04",
+    "endDate": "2022-04-06",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "twitter": "@qconlondon",
+    "offersSignLanguageOrCC": true,
+    "url": "https://qconlondon.com"
   }
 ]
