@@ -17,5 +17,14 @@
     "city": "Bangkok",
     "country": "Thailand",
     "online": true
+  },
+  {
+    "name": "QCon Plus Online Software Conference",
+    "startDate": "2022-05-10",
+    "endDate": "2022-05-20",
+    "online": true,
+    "twitter": "@QCon",
+    "offersSignLanguageOrCC": true,
+    "url": "https://plus.qconferences.com"
   }
 ]
