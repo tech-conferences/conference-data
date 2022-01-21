@@ -132,11 +132,23 @@
     "startDate": "2022-05-27",
     "endDate": "2022-05-28",
     "city": "Istanbul",
-    "country": "Turkiye",
+    "country": "Turkey",
     "online": true,
     "cfpUrl": "https://www.papercall.io/javadayistanbul2022",
     "cfpEndDate": "2022-03-31",
     "twitter": "@javadayistanbul",
     "url": "https://www.javaday.istanbul"
+  },
+  {
+    "name": "Devoxx UK",
+    "startDate": "2022-05-11",
+    "endDate": "2022-05-13",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "cfpUrl": "https://devoxxuk22.cfp.dev/#",
+    "cfpEndDate": "2022-01-28",
+    "twitter": "@DevoxxUK",
+    "url": "https://www.devoxx.co.uk"
   }
 ]
