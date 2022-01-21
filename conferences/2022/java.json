@@ -126,5 +126,17 @@
     "twitter": "@qconlondon",
     "offersSignLanguageOrCC": true,
     "url": "https://qconlondon.com"
+  },
+  {
+    "name": "Devoxx UK",
+    "startDate": "2022-05-11",
+    "endDate": "2022-05-13",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "cfpUrl": "https://devoxxuk22.cfp.dev/#",
+    "cfpEndDate": "2022-01-28",
+    "twitter": "@DevoxxUK",
+    "url": "https://www.devoxx.co.uk"
   }
 ]
