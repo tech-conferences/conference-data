@@ -31,6 +31,17 @@
     "twitter": "@NVIDIAGTC"
   },
   {
+    "name": "QCon London",
+    "url": "https://qconlondon.com",
+    "startDate": "2022-04-04",
+    "endDate": "2022-04-06",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "twitter": "@qconlondon",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "UXLx: User Experience Lisbon",
     "url": "https://www.ux-lx.com",
     "startDate": "2022-05-01",
@@ -41,6 +52,15 @@
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeAwx-Xt73X0vK_fa5bG4vb2y6aHswQUFX6W11lQ7ncVjYmEw/viewform",
     "cfpEndDate": "2021-10-31",
     "twitter": "@uxlx"
+  },
+  {
+    "name": "QCon Plus Online Software Conference",
+    "url": "https://plus.qconferences.com",
+    "startDate": "2022-05-10",
+    "endDate": "2022-05-20",
+    "online": true,
+    "twitter": "@QCon",
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "THAT Conference",
@@ -123,25 +143,5 @@
     "twitter": "@cascadiajs",
     "cocUrl": "https://2022.cascadiajs.com/code-of-conduct",
     "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "QCon Plus Online Software Conference",
-    "startDate": "2022-05-10",
-    "endDate": "2022-05-20",
-    "online": true,
-    "twitter": "@QCon",
-    "offersSignLanguageOrCC": true,
-    "url": "https://plus.qconferences.com"
-  },
-  {
-    "name": "QCon London",
-    "startDate": "2022-04-04",
-    "endDate": "2022-04-06",
-    "city": "London",
-    "country": "U.K.",
-    "online": false,
-    "twitter": "@qconlondon",
-    "offersSignLanguageOrCC": true,
-    "url": "https://qconlondon.com"
   }
 ]
