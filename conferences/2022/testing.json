@@ -216,5 +216,18 @@
     "cfpUrl": "https://airtable.com/shrnlAKGCLYEtzHar",
     "twitter": "@TestConEurope",
     "cocUrl": "https://testcon.lt/code-of-conduct/"
+  },
+  {
+    "name": "React Summit",
+    "startDate": "2022-06-17",
+    "endDate": "2022-06-21",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfVG_bNAebxhlERx1do33ekcmkLx25f1wh478MPv2CW6UvMlw/viewform",
+    "cfpEndDate": "2022-03-20",
+    "twitter": "@ReactSummit",
+    "cocUrl": "https://reactsummit.com/coc",
+    "url": "https://reactsummit.com"
   }
 ]
