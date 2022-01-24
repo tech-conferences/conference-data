@@ -1,5 +1,15 @@
 [
   {
+    "name": "PHP UK Conference",
+    "url": "https://www.phpconference.co.uk",
+    "startDate": "2022-02-16",
+    "endDate": "2022-02-18",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "twitter": "@phpukconference"
+  },
+  {
     "name": "ConFoo Montreal",
     "url": "https://confoo.ca/en/2022",
     "startDate": "2022-02-22",
@@ -13,6 +23,17 @@
     "cocUrl": "https://confoo.ca/en/code-of-conduct"
   },
   {
+    "name": "QCon London",
+    "url": "https://qconlondon.com",
+    "startDate": "2022-04-04",
+    "endDate": "2022-04-06",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "twitter": "@qconlondon",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Midwest PHP",
     "url": "https://midwestphp.org",
     "startDate": "2022-04-21",
@@ -21,6 +42,15 @@
     "country": "U.S.A.",
     "online": false,
     "twitter": "@midwestphp"
+  },
+  {
+    "name": "QCon Plus Online Software Conference",
+    "url": "https://plus.qconferences.com",
+    "startDate": "2022-05-10",
+    "endDate": "2022-05-20",
+    "online": true,
+    "twitter": "@QCon",
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "phpday",
@@ -61,35 +91,5 @@
     "twitter": "@dpcon",
     "cocUrl": "https://www.phpconference.nl/code-of-conduct",
     "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "QCon Plus Online Software Conference",
-    "startDate": "2022-05-10",
-    "endDate": "2022-05-20",
-    "online": true,
-    "twitter": "@QCon",
-    "offersSignLanguageOrCC": true,
-    "url": "https://plus.qconferences.com"
-  },
-  {
-    "name": "QCon London",
-    "startDate": "2022-04-04",
-    "endDate": "2022-04-06",
-    "city": "London",
-    "country": "U.K.",
-    "online": false,
-    "twitter": "@qconlondon",
-    "offersSignLanguageOrCC": true,
-    "url": "https://qconlondon.com"
-  },
-  {
-    "name": "PHP UK Conference",
-    "startDate": "2022-02-16",
-    "endDate": "2022-02-18",
-    "city": "London",
-    "country": "U.K.",
-    "online": false,
-    "twitter": "@phpukconference",
-    "url": "https://www.phpconference.co.uk"
   }
 ]

@@ -266,6 +266,15 @@
     "cocUrl": "https://events.codemotion.com/conferences/online/2022/online-tech-conference-2022-spanish-edition-spring/code-of-conduct"
   },
   {
+    "name": "QCon Plus Online Software Conference",
+    "url": "https://plus.qconferences.com",
+    "startDate": "2022-05-10",
+    "endDate": "2022-05-20",
+    "online": true,
+    "twitter": "@QCon",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "THAT Conference",
     "url": "https://that.us/events/tx/2022",
     "startDate": "2022-05-23",
@@ -370,25 +379,27 @@
     "cocUrl": "https://techbash.com/code-of-conduct"
   },
   {
-    "name": "QCon Plus Online Software Conference",
-    "startDate": "2022-05-10",
-    "endDate": "2022-05-20",
-    "online": true,
-    "twitter": "@QCon",
-    "offersSignLanguageOrCC": true,
-    "url": "https://plus.qconferences.com"
-  },
-  {
     "name": "Kansas City Developer Conference",
     "startDate": "2022-08-08",
     "endDate": "2022-08-10",
-    "city": "Kansas City",
-    "country": "Mo",
+    "city": "Kansas City, MO",
+    "country": "U.S.A.",
     "online": false,
     "cfpUrl": "https://sessionize.com/kcdc-2022",
     "cfpEndDate": "2022-01-28",
     "twitter": "@kc_dc",
     "cocUrl": "https://www.kcdc.info/code-of-conduct",
     "url": "https://www.kcdc.info"
+  },
+  {
+    "name": "NDC Porto",
+    "startDate": "2022-04-24",
+    "endDate": "2022-04-28",
+    "city": "Porto",
+    "country": "Portugal",
+    "online": false,
+    "twitter": "@NDC_Conferences",
+    "cocUrl": "https://ndcporto.com/code-of-conduct",
+    "url": "https://ndcporto.com"
   }
 ]

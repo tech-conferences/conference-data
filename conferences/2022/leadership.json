@@ -51,6 +51,17 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "QCon London",
+    "url": "https://qconlondon.com",
+    "startDate": "2022-04-04",
+    "endDate": "2022-04-06",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "twitter": "@qconlondon",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "LeadDev New York",
     "url": "https://leaddev.com/leaddev-new-york",
     "startDate": "2022-04-05",
@@ -74,6 +85,15 @@
     "cfpEndDate": "2021-12-13",
     "twitter": "@TheLeadDev",
     "cocUrl": "https://leaddev.com/code-conduct",
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "QCon Plus Online Software Conference",
+    "url": "https://plus.qconferences.com",
+    "startDate": "2022-05-10",
+    "endDate": "2022-05-20",
+    "online": true,
+    "twitter": "@QCon",
     "offersSignLanguageOrCC": true
   },
   {
@@ -124,25 +144,5 @@
     "twitter": "@TheLeadDev",
     "cocUrl": "https://leaddev.com/code-conduct",
     "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "QCon Plus Online Software Conference",
-    "startDate": "2022-05-10",
-    "endDate": "2022-05-20",
-    "online": true,
-    "twitter": "@QCon",
-    "offersSignLanguageOrCC": true,
-    "url": "https://plus.qconferences.com"
-  },
-  {
-    "name": "QCon London",
-    "startDate": "2022-04-04",
-    "endDate": "2022-04-06",
-    "city": "London",
-    "country": "U.K.",
-    "online": false,
-    "twitter": "@qconlondon",
-    "offersSignLanguageOrCC": true,
-    "url": "https://qconlondon.com"
   }
 ]
