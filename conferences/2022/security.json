@@ -179,6 +179,19 @@
     "cfpEndDate": "2022-01-31"
   },
   {
+    "name": "React Summit",
+    "url": "https://reactsummit.com",
+    "startDate": "2022-06-17",
+    "endDate": "2022-06-21",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfVG_bNAebxhlERx1do33ekcmkLx25f1wh478MPv2CW6UvMlw/viewform",
+    "cfpEndDate": "2022-03-20",
+    "twitter": "@ReactSummit",
+    "cocUrl": "https://reactsummit.com/coc"
+  },
+  {
     "name": "CascadiaJS",
     "url": "https://2022.cascadiajs.com",
     "startDate": "2022-08-30",
@@ -220,18 +233,5 @@
     "cfpEndDate": "2022-10-28",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
-  },
-  {
-    "name": "React Summit",
-    "startDate": "2022-06-17",
-    "endDate": "2022-06-21",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfVG_bNAebxhlERx1do33ekcmkLx25f1wh478MPv2CW6UvMlw/viewform",
-    "cfpEndDate": "2022-03-20",
-    "twitter": "@ReactSummit",
-    "cocUrl": "https://reactsummit.com/coc",
-    "url": "https://reactsummit.com"
   }
 ]

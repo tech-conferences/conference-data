@@ -290,6 +290,32 @@
     "cfpEndDate": "2022-01-31"
   },
   {
+    "name": "JSNation Conference",
+    "url": "https://jsnation.com",
+    "startDate": "2022-06-16",
+    "endDate": "2022-06-20",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdg61J505yUnt5StZHobWplb2gQx9XcCc1MFU9KeZW52RAC6g/viewform",
+    "cfpEndDate": "2022-03-20",
+    "twitter": "@thejsnation",
+    "cocUrl": "https://jsnation.com/coc"
+  },
+  {
+    "name": "React Summit",
+    "url": "https://reactsummit.com",
+    "startDate": "2022-06-17",
+    "endDate": "2022-06-21",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfVG_bNAebxhlERx1do33ekcmkLx25f1wh478MPv2CW6UvMlw/viewform",
+    "cfpEndDate": "2022-03-20",
+    "twitter": "@ReactSummit",
+    "cocUrl": "https://reactsummit.com/coc"
+  },
+  {
     "name": "enterJS",
     "url": "https://enterjs.de",
     "startDate": "2022-06-22",
@@ -358,31 +384,5 @@
     "cfpEndDate": "2022-10-14",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
-  },
-  {
-    "name": "React Summit",
-    "startDate": "2022-06-17",
-    "endDate": "2022-06-21",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfVG_bNAebxhlERx1do33ekcmkLx25f1wh478MPv2CW6UvMlw/viewform",
-    "cfpEndDate": "2022-03-20",
-    "twitter": "@ReactSummit",
-    "cocUrl": "https://reactsummit.com/coc",
-    "url": "https://reactsummit.com"
-  },
-  {
-    "name": "JSNation Conference",
-    "startDate": "2022-06-16",
-    "endDate": "2022-06-20",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdg61J505yUnt5StZHobWplb2gQx9XcCc1MFU9KeZW52RAC6g/viewform",
-    "cfpEndDate": "2022-03-20",
-    "twitter": "@thejsnation",
-    "cocUrl": "https://jsnation.com/coc",
-    "url": "https://jsnation.com"
   }
 ]
