@@ -333,5 +333,19 @@
     "cfpEndDate": "2022-10-14",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
+  },
+  {
+    "name": "CityJS Brazil",
+    "startDate": "2022-04-27",
+    "endDate": "2022-04-29",
+    "city": "São Paulo",
+    "country": "Brazil",
+    "online": true,
+    "cfpUrl": "https://forms.gle/3stLQ4oj5kNP7BWZ6",
+    "cfpEndDate": "2022-03-15",
+    "twitter": "@cityjsconf",
+    "cocUrl": "cityjsconf.org/coc",
+    "offersSignLanguageOrCC": true,
+    "url": "https://brazil.cityjsconf.org"
   }
 ]
