@@ -162,6 +162,17 @@
     "twitter": "@VoxxedBucharest"
   },
   {
+    "name": "DevOps.js Conference",
+    "url": "https://devopsjsconf.com",
+    "startDate": "2022-03-24",
+    "endDate": "2022-03-25",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeFvGGcqRe8U0DJX7G_0bm_7wwnzXV5dzsAKnqE0rfxw86hlA/viewform",
+    "cfpEndDate": "2022-02-01",
+    "twitter": "@DevOpsJS",
+    "cocUrl": "https://devopsjsconf.com/coc"
+  },
+  {
     "name": "QCon London",
     "url": "https://qconlondon.com",
     "startDate": "2022-04-04",
@@ -611,16 +622,5 @@
     "country": "Australia",
     "online": false,
     "cocUrl": "https://www.usenix.org/conferences/coc"
-  },
-  {
-    "name": "DevOps.js Conference",
-    "startDate": "2022-03-24",
-    "endDate": "2022-03-25",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeFvGGcqRe8U0DJX7G_0bm_7wwnzXV5dzsAKnqE0rfxw86hlA/viewform",
-    "cfpEndDate": "2022-02-01",
-    "twitter": "@DevOpsJS",
-    "cocUrl": "https://devopsjsconf.com/coc",
-    "url": "https://devopsjsconf.com"
   }
 ]

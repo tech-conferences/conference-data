@@ -153,6 +153,17 @@
     "cocUrl": "https://cityjsconf.org/coc/"
   },
   {
+    "name": "DevOps.js Conference",
+    "url": "https://devopsjsconf.com",
+    "startDate": "2022-03-24",
+    "endDate": "2022-03-25",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeFvGGcqRe8U0DJX7G_0bm_7wwnzXV5dzsAKnqE0rfxw86hlA/viewform",
+    "cfpEndDate": "2022-02-01",
+    "twitter": "@DevOpsJS",
+    "cocUrl": "https://devopsjsconf.com/coc"
+  },
+  {
     "name": "React Conference Live",
     "url": "https://reactlive.nl",
     "startDate": "2022-04-01",
@@ -197,6 +208,20 @@
     "country": "U.K.",
     "online": true,
     "twitter": "@JavaScriptCon"
+  },
+  {
+    "name": "CityJS Brazil",
+    "url": "https://brazil.cityjsconf.org",
+    "startDate": "2022-04-27",
+    "endDate": "2022-04-29",
+    "city": "São Paulo",
+    "country": "Brazil",
+    "online": true,
+    "cfpUrl": "https://forms.gle/3stLQ4oj5kNP7BWZ6",
+    "cfpEndDate": "2022-03-15",
+    "twitter": "@cityjsconf",
+    "cocUrl": "cityjsconf.org/coc",
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "QCon Plus Online Software Conference",
@@ -333,30 +358,5 @@
     "cfpEndDate": "2022-10-14",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
-  },
-  {
-    "name": "CityJS Brazil",
-    "startDate": "2022-04-27",
-    "endDate": "2022-04-29",
-    "city": "São Paulo",
-    "country": "Brazil",
-    "online": true,
-    "cfpUrl": "https://forms.gle/3stLQ4oj5kNP7BWZ6",
-    "cfpEndDate": "2022-03-15",
-    "twitter": "@cityjsconf",
-    "cocUrl": "cityjsconf.org/coc",
-    "offersSignLanguageOrCC": true,
-    "url": "https://brazil.cityjsconf.org"
-  },
-  {
-    "name": "DevOps.js Conference",
-    "startDate": "2022-03-24",
-    "endDate": "2022-03-25",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeFvGGcqRe8U0DJX7G_0bm_7wwnzXV5dzsAKnqE0rfxw86hlA/viewform",
-    "cfpEndDate": "2022-02-01",
-    "twitter": "@DevOpsJS",
-    "cocUrl": "https://devopsjsconf.com/coc",
-    "url": "https://devopsjsconf.com"
   }
 ]
