@@ -244,6 +244,17 @@
     "cocUrl": "https://devnexus.com/code-of-conduct"
   },
   {
+    "name": "NDC Porto",
+    "url": "https://ndcporto.com",
+    "startDate": "2022-04-24",
+    "endDate": "2022-04-28",
+    "city": "Porto",
+    "country": "Portugal",
+    "online": false,
+    "twitter": "@NDC_Conferences",
+    "cocUrl": "https://ndcporto.com/code-of-conduct"
+  },
+  {
     "name": "Conf42 Cloud Native",
     "url": "https://www.conf42.com/cloud2022",
     "startDate": "2022-04-28",
@@ -336,6 +347,19 @@
     "cocUrl": "https://that.us/support/code-of-conduct/"
   },
   {
+    "name": "Kansas City Developer Conference",
+    "url": "https://www.kcdc.info",
+    "startDate": "2022-08-08",
+    "endDate": "2022-08-10",
+    "city": "Kansas City, MO",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/kcdc-2022",
+    "cfpEndDate": "2022-01-28",
+    "twitter": "@kc_dc",
+    "cocUrl": "https://www.kcdc.info/code-of-conduct"
+  },
+  {
     "name": "Code PaLOUsa",
     "url": "https://www.codepalousa.com",
     "startDate": "2022-08-17",
@@ -377,29 +401,5 @@
     "online": false,
     "twitter": "@techbash",
     "cocUrl": "https://techbash.com/code-of-conduct"
-  },
-  {
-    "name": "Kansas City Developer Conference",
-    "startDate": "2022-08-08",
-    "endDate": "2022-08-10",
-    "city": "Kansas City, MO",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://sessionize.com/kcdc-2022",
-    "cfpEndDate": "2022-01-28",
-    "twitter": "@kc_dc",
-    "cocUrl": "https://www.kcdc.info/code-of-conduct",
-    "url": "https://www.kcdc.info"
-  },
-  {
-    "name": "NDC Porto",
-    "startDate": "2022-04-24",
-    "endDate": "2022-04-28",
-    "city": "Porto",
-    "country": "Portugal",
-    "online": false,
-    "twitter": "@NDC_Conferences",
-    "cocUrl": "https://ndcporto.com/code-of-conduct",
-    "url": "https://ndcporto.com"
   }
 ]
