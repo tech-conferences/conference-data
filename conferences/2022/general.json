@@ -266,6 +266,15 @@
     "cocUrl": "https://events.codemotion.com/conferences/online/2022/online-tech-conference-2022-spanish-edition-spring/code-of-conduct"
   },
   {
+    "name": "QCon Plus Online Software Conference",
+    "url": "https://plus.qconferences.com",
+    "startDate": "2022-05-10",
+    "endDate": "2022-05-20",
+    "online": true,
+    "twitter": "@QCon",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "THAT Conference",
     "url": "https://that.us/events/tx/2022",
     "startDate": "2022-05-23",
@@ -368,15 +377,6 @@
     "online": false,
     "twitter": "@techbash",
     "cocUrl": "https://techbash.com/code-of-conduct"
-  },
-  {
-    "name": "QCon Plus Online Software Conference",
-    "startDate": "2022-05-10",
-    "endDate": "2022-05-20",
-    "online": true,
-    "twitter": "@QCon",
-    "offersSignLanguageOrCC": true,
-    "url": "https://plus.qconferences.com"
   },
   {
     "name": "NDC Porto",
