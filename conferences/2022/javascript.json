@@ -188,6 +188,17 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "WebGameDev Summit",
+    "url": "https://webgamedevsummit.com",
+    "startDate": "2022-04-07",
+    "endDate": "2022-04-08",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeGl9fE327OqlzqSW8pXODzSd6dBXytrnsJm5qWf9DkzyIRiA/viewform",
+    "cfpEndDate": "2022-02-07",
+    "twitter": "@webgamedevconf",
+    "cocUrl": "https://webgamedevsummit.com/coc"
+  },
+  {
     "name": "React Conference Miami",
     "url": "https://www.reactmiami.com",
     "startDate": "2022-04-18",
@@ -384,16 +395,5 @@
     "cfpEndDate": "2022-10-14",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
-  },
-  {
-    "name": "WebGameDev Summit",
-    "startDate": "2022-04-07",
-    "endDate": "2022-04-08",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeGl9fE327OqlzqSW8pXODzSd6dBXytrnsJm5qWf9DkzyIRiA/viewform",
-    "cfpEndDate": "2022-02-07",
-    "twitter": "@webgamedevconf",
-    "cocUrl": "https://webgamedevsummit.com/coc",
-    "url": "https://webgamedevsummit.com"
   }
 ]
