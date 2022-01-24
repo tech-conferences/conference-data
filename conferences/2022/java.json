@@ -39,6 +39,17 @@
     "twitter": "@VoxxedBucharest"
   },
   {
+    "name": "QCon London",
+    "url": "https://qconlondon.com",
+    "startDate": "2022-04-04",
+    "endDate": "2022-04-06",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "twitter": "@qconlondon",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "TypeVille",
     "url": "https://www.typeville.io",
     "startDate": "2022-04-19",
@@ -63,6 +74,51 @@
     "cfpEndDate": "2021-11-15",
     "twitter": "@jaxcon",
     "cocUrl": "https://jax.de/code-of-conduct-en/"
+  },
+  {
+    "name": "QCon Plus Online Software Conference",
+    "url": "https://plus.qconferences.com",
+    "startDate": "2022-05-10",
+    "endDate": "2022-05-20",
+    "online": true,
+    "twitter": "@QCon",
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "Devoxx UK",
+    "url": "https://www.devoxx.co.uk",
+    "startDate": "2022-05-11",
+    "endDate": "2022-05-13",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "cfpUrl": "https://devoxxuk22.cfp.dev/#",
+    "cfpEndDate": "2022-01-28",
+    "twitter": "@DevoxxUK"
+  },
+  {
+    "name": "JavaDay Istanbul",
+    "url": "https://www.javaday.istanbul",
+    "startDate": "2022-05-27",
+    "endDate": "2022-05-28",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "online": true,
+    "cfpUrl": "https://www.papercall.io/javadayistanbul2022",
+    "cfpEndDate": "2022-03-31",
+    "twitter": "@javadayistanbul"
+  },
+  {
+    "name": "MakeIT",
+    "url": "https://makeit.si/index.php/en",
+    "startDate": "2022-06-02",
+    "endDate": "2022-06-03",
+    "city": "Portorož",
+    "country": "Slovenia",
+    "online": false,
+    "cfpUrl": "https://makeit.si/index.php/en/conference/cfp-submission-2",
+    "cfpEndDate": "2022-02-28",
+    "twitter": "@makeitconf2022"
   },
   {
     "name": "WeAreDevelopers World Congress",
@@ -94,61 +150,5 @@
     "online": true,
     "twitter": "@jcon_conference",
     "cocUrl": "https://jcon.one/code-of-conduct"
-  },
-  {
-    "name": "MakeIT",
-    "startDate": "2022-06-02",
-    "endDate": "2022-06-03",
-    "city": "Portorož",
-    "country": "Slovenia",
-    "online": false,
-    "cfpUrl": "https://makeit.si/index.php/en/conference/cfp-submission-2",
-    "cfpEndDate": "2022-02-28",
-    "twitter": "@makeitconf2022",
-    "url": "https://makeit.si/index.php/en"
-  },
-  {
-    "name": "QCon Plus Online Software Conference",
-    "startDate": "2022-05-10",
-    "endDate": "2022-05-20",
-    "online": true,
-    "twitter": "@QCon",
-    "offersSignLanguageOrCC": true,
-    "url": "https://plus.qconferences.com"
-  },
-  {
-    "name": "QCon London",
-    "startDate": "2022-04-04",
-    "endDate": "2022-04-06",
-    "city": "London",
-    "country": "U.K.",
-    "online": false,
-    "twitter": "@qconlondon",
-    "offersSignLanguageOrCC": true,
-    "url": "https://qconlondon.com"
-  },
-  {
-    "name": "JavaDay Istanbul",
-    "startDate": "2022-05-27",
-    "endDate": "2022-05-28",
-    "city": "Istanbul",
-    "country": "Turkey",
-    "online": true,
-    "cfpUrl": "https://www.papercall.io/javadayistanbul2022",
-    "cfpEndDate": "2022-03-31",
-    "twitter": "@javadayistanbul",
-    "url": "https://www.javaday.istanbul"
-  },
-  {
-    "name": "Devoxx UK",
-    "startDate": "2022-05-11",
-    "endDate": "2022-05-13",
-    "city": "London",
-    "country": "U.K.",
-    "online": true,
-    "cfpUrl": "https://devoxxuk22.cfp.dev/#",
-    "cfpEndDate": "2022-01-28",
-    "twitter": "@DevoxxUK",
-    "url": "https://www.devoxx.co.uk"
   }
 ]

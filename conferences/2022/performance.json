@@ -12,6 +12,15 @@
     "cocUrl": "https://conf.ontico.ru/code-of-conduct.html"
   },
   {
+    "name": "QCon Plus Online Software Conference",
+    "url": "https://plus.qconferences.com",
+    "startDate": "2022-05-10",
+    "endDate": "2022-05-20",
+    "online": true,
+    "twitter": "@QCon",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Render-Atlanta (RenderATL)",
     "url": "https://www.renderatl.com",
     "startDate": "2022-06-01",
@@ -66,14 +75,5 @@
     "online": true,
     "twitter": "@jcon_conference",
     "cocUrl": "https://jcon.one/code-of-conduct"
-  },
-  {
-    "name": "QCon Plus Online Software Conference",
-    "startDate": "2022-05-10",
-    "endDate": "2022-05-20",
-    "online": true,
-    "twitter": "@QCon",
-    "offersSignLanguageOrCC": true,
-    "url": "https://plus.qconferences.com"
   }
 ]
