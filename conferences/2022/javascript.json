@@ -166,6 +166,17 @@
     "cocUrl": "https://reactlive.nl/code-of-conduct"
   },
   {
+    "name": "QCon London",
+    "url": "https://qconlondon.com",
+    "startDate": "2022-04-04",
+    "endDate": "2022-04-06",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "twitter": "@qconlondon",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "React Conference Miami",
     "url": "https://www.reactmiami.com",
     "startDate": "2022-04-18",
@@ -186,6 +197,15 @@
     "country": "U.K.",
     "online": true,
     "twitter": "@JavaScriptCon"
+  },
+  {
+    "name": "QCon Plus Online Software Conference",
+    "url": "https://plus.qconferences.com",
+    "startDate": "2022-05-10",
+    "endDate": "2022-05-20",
+    "online": true,
+    "twitter": "@QCon",
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "THAT Conference",
@@ -315,30 +335,10 @@
     "cocUrl": "https://www.conf42.com/code-of-conduct"
   },
   {
-    "name": "QCon Plus Online Software Conference",
-    "startDate": "2022-05-10",
-    "endDate": "2022-05-20",
-    "online": true,
-    "twitter": "@QCon",
-    "offersSignLanguageOrCC": true,
-    "url": "https://plus.qconferences.com"
-  },
-  {
-    "name": "QCon London",
-    "startDate": "2022-04-04",
-    "endDate": "2022-04-06",
-    "city": "London",
-    "country": "U.K.",
-    "online": false,
-    "twitter": "@qconlondon",
-    "offersSignLanguageOrCC": true,
-    "url": "https://qconlondon.com"
-  },
-  {
     "name": "CityJS Brazil",
     "startDate": "2022-04-27",
     "endDate": "2022-04-29",
-    "city": "Sao Paolo",
+    "city": "São Paulo",
     "country": "Brazil",
     "online": true,
     "cfpUrl": "https://forms.gle/3stLQ4oj5kNP7BWZ6",
