@@ -377,5 +377,16 @@
     "twitter": "@QCon",
     "offersSignLanguageOrCC": true,
     "url": "https://plus.qconferences.com"
+  },
+  {
+    "name": "NDC Porto",
+    "startDate": "2022-04-24",
+    "endDate": "2022-04-28",
+    "city": "Porto",
+    "country": "Portugal",
+    "online": false,
+    "twitter": "@NDC_Conferences",
+    "cocUrl": "https://ndcporto.com/code-of-conduct",
+    "url": "https://ndcporto.com"
   }
 ]
