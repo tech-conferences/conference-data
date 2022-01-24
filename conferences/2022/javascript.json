@@ -371,5 +371,18 @@
     "twitter": "@ReactSummit",
     "cocUrl": "https://reactsummit.com/coc",
     "url": "https://reactsummit.com"
+  },
+  {
+    "name": "JSNation Conference",
+    "startDate": "2022-06-16",
+    "endDate": "2022-06-20",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdg61J505yUnt5StZHobWplb2gQx9XcCc1MFU9KeZW52RAC6g/viewform",
+    "cfpEndDate": "2022-03-20",
+    "twitter": "@thejsnation",
+    "cocUrl": "https://jsnation.com/coc",
+    "url": "https://jsnation.com"
   }
 ]
