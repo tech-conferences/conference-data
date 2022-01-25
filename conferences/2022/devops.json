@@ -366,17 +366,6 @@
     "offersSignLanguageOrCC": true
   },
   {
-    "name": "KubeCon EU",
-    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe",
-    "startDate": "2022-05-17",
-    "endDate": "2022-05-20",
-    "city": "Valencia",
-    "country": "Spain",
-    "online": true,
-    "twitter": "@kubecon_",
-    "offersSignLanguageOrCC": true
-  },
-  {
     "name": "AgileTD Open Air",
     "url": "https://openair.agiletestingdays.com",
     "startDate": "2022-05-17",
@@ -386,6 +375,17 @@
     "online": false,
     "twitter": "@AgileTD",
     "cocUrl": "https://agiletestingdays.com/code-of-conduct/"
+  },
+  {
+    "name": "KubeCon EU",
+    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe",
+    "startDate": "2022-05-17",
+    "endDate": "2022-05-20",
+    "city": "Valencia",
+    "country": "Spain",
+    "online": true,
+    "twitter": "@kubecon_",
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "THAT Conference",
@@ -603,6 +603,19 @@
     "cocUrl": "https://www.usenix.org/conferences/coc"
   },
   {
+    "name": "Agile Testing Days",
+    "url": "https://agiletestingdays.com",
+    "startDate": "2022-11-21",
+    "endDate": "2022-11-24",
+    "city": "Potsdam",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://agiletestingdays.com/call-for-papers",
+    "cfpEndDate": "2022-03-20",
+    "twitter": "@AgileTD",
+    "cocUrl": "https://agiletestingdays.com/code-of-conduct/"
+  },
+  {
     "name": "Conf42 DevSecOps",
     "url": "https://www.conf42.com/devsecops2022",
     "startDate": "2022-12-01",
@@ -622,18 +635,5 @@
     "country": "Australia",
     "online": false,
     "cocUrl": "https://www.usenix.org/conferences/coc"
-  },
-  {
-    "name": "Agile Testing Days",
-    "startDate": "2022-11-21",
-    "endDate": "2022-11-24",
-    "city": "Potsdam",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://agiletestingdays.com/call-for-papers",
-    "cfpEndDate": "2022-03-20",
-    "twitter": "@AgileTD",
-    "cocUrl": "https://agiletestingdays.com/code-of-conduct/",
-    "url": "https://agiletestingdays.com"
   }
 ]
