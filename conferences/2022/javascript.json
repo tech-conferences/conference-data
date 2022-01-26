@@ -211,6 +211,19 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "jsday",
+    "url": "https://2022.jsday.it",
+    "startDate": "2022-04-21",
+    "endDate": "2022-04-22",
+    "city": "Verona",
+    "country": "Italy",
+    "online": true,
+    "cfpUrl": "https://2022.jsday.it/welcome/cfp.html",
+    "cfpEndDate": "2022-02-01",
+    "twitter": "@jsconfit",
+    "cocUrl": "https://2022.jsday.it/welcome/coc.html"
+  },
+  {
     "name": "International JavaScript Conference London",
     "url": "https://javascript-conference.com/london",
     "startDate": "2022-04-25",
@@ -235,6 +248,17 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "TS Congress",
+    "url": "https://typescriptcongress.com",
+    "startDate": "2022-04-29",
+    "endDate": "2022-04-29",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScq-aWVf_oGvLdstVdsKJAfWzxpAsWoQNz_KrrGN2gqfASQ1A/viewform",
+    "cfpEndDate": "2022-03-01",
+    "twitter": "@ts_congress",
+    "cocUrl": "https://typescriptcongress.com/coc"
+  },
+  {
     "name": "QCon Plus Online Software Conference",
     "url": "https://plus.qconferences.com",
     "startDate": "2022-05-10",
@@ -253,6 +277,19 @@
     "online": false,
     "twitter": "@thatconference",
     "cocUrl": "https://that.us/support/code-of-conduct/"
+  },
+  {
+    "name": "Remix Conf",
+    "url": "https://remix.run/conf",
+    "startDate": "2022-05-24",
+    "endDate": "2022-05-25",
+    "city": "Salt Lake City, UT",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://remix.run/conf/speakers/you",
+    "cfpEndDate": "2022-02-28",
+    "twitter": "@remix_run",
+    "cocUrl": "https://remix.run/conf/coc"
   },
   {
     "name": "CityJS Athens",
@@ -395,42 +432,5 @@
     "cfpEndDate": "2022-10-14",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
-  },
-  {
-    "name": "Remix Conf",
-    "startDate": "2022-05-24",
-    "endDate": "2022-05-25",
-    "city": "Salt Lake City, UT",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://remix.run/conf/speakers/you",
-    "cfpEndDate": "2022-02-28",
-    "twitter": "@remix_run",
-    "cocUrl": "https://remix.run/conf/coc",
-    "url": "https://remix.run/conf"
-  },
-  {
-    "name": "TS Congress",
-    "startDate": "2022-04-29",
-    "endDate": "2022-04-29",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScq-aWVf_oGvLdstVdsKJAfWzxpAsWoQNz_KrrGN2gqfASQ1A/viewform",
-    "cfpEndDate": "2022-03-01",
-    "twitter": "@ts_congress",
-    "cocUrl": "https://typescriptcongress.com/coc",
-    "url": "https://typescriptcongress.com"
-  },
-  {
-    "name": "jsday",
-    "startDate": "2022-04-21",
-    "endDate": "2022-04-22",
-    "city": "Verona",
-    "country": "Italy",
-    "online": true,
-    "cfpUrl": "https://2022.jsday.it/welcome/cfp.html",
-    "cfpEndDate": "2022-02-01",
-    "twitter": "@jsconfit",
-    "cocUrl": "https://2022.jsday.it/welcome/coc.html",
-    "url": "https://2022.jsday.it"
   }
 ]
