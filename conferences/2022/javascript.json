@@ -419,5 +419,18 @@
     "twitter": "@ts_congress",
     "cocUrl": "https://typescriptcongress.com/coc",
     "url": "https://typescriptcongress.com"
+  },
+  {
+    "name": "jsday",
+    "startDate": "2022-04-21",
+    "endDate": "2022-04-22",
+    "city": "Verona",
+    "country": "Italy",
+    "online": true,
+    "cfpUrl": "https://2022.jsday.it/welcome/cfp.html",
+    "cfpEndDate": "2022-02-01",
+    "twitter": "@jsconfit",
+    "cocUrl": "https://2022.jsday.it/welcome/coc.html",
+    "url": "https://2022.jsday.it"
   }
 ]
