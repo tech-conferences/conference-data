@@ -386,10 +386,9 @@ module.exports = {
   ],
   "Poland": [
     "Bydgoszcz",
-    "Cracow",
     "Gdansk",
     "Gdynia",
-    "Krakow",
+    "Kraków",
     "Krynica Zdrój",
     "Lodz",
     "Poznań",
