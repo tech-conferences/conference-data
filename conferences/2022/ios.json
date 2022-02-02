@@ -33,17 +33,8 @@
     "cocUrl": "https://www.conf42.com/code-of-conduct"
   },
   {
-    "name": "360iDev",
-    "url": "https://360idev.com",
-    "startDate": "2022-08-28",
-    "endDate": "2022-08-31",
-    "city": "Denver, CO",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@360idev"
-  },
-  {
     "name": "App.js Conf",
+    "url": "https://appjs.co",
     "startDate": "2022-06-08",
     "endDate": "2022-06-10",
     "city": "Kraków",
@@ -53,7 +44,16 @@
     "cfpEndDate": "2022-02-22",
     "twitter": "@appjsconf",
     "cocUrl": "https://appjs.co/Code-of-Conduct.pdf",
-    "offersSignLanguageOrCC": true,
-    "url": "https://appjs.co"
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "360iDev",
+    "url": "https://360idev.com",
+    "startDate": "2022-08-28",
+    "endDate": "2022-08-31",
+    "city": "Denver, CO",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@360idev"
   }
 ]
