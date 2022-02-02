@@ -111,7 +111,8 @@ module.exports = {
     "Rovinj",
     "Šibenik",
     "Split",
-    "Zagreb"
+    "Zagreb",
+    "Zadar"
   ],
   "Cuba": [
     "Holguín",
