@@ -50,18 +50,8 @@
     "cocUrl": "https://nullcon.net/about-conferencepolicy/"
   },
   {
-    "name": "WeAreDevelopers World Congress",
-    "url": "https://www.wearedevelopers.com/world-congress/#",
-    "startDate": "2022-06-14",
-    "endDate": "2022-06-15",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/wearedevs2022",
-    "cfpEndDate": "2022-01-31"
-  },
-  {
     "name": "App.js Conf",
+    "url": "https://appjs.co",
     "startDate": "2022-06-08",
     "endDate": "2022-06-10",
     "city": "Kraków",
@@ -71,7 +61,17 @@
     "cfpEndDate": "2022-02-22",
     "twitter": "@appjsconf",
     "cocUrl": "https://appjs.co/Code-of-Conduct.pdf",
-    "offersSignLanguageOrCC": true,
-    "url": "https://appjs.co"
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "WeAreDevelopers World Congress",
+    "url": "https://www.wearedevelopers.com/world-congress/#",
+    "startDate": "2022-06-14",
+    "endDate": "2022-06-15",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/wearedevs2022",
+    "cfpEndDate": "2022-01-31"
   }
 ]

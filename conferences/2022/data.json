@@ -165,6 +165,16 @@
     "cocUrl": "https://mlconference.ai/code-of-conduct/"
   },
   {
+    "name": "Data + AI Summit",
+    "url": "https://databricks.com/dataaisummit/north-america-2022",
+    "startDate": "2022-06-27",
+    "endDate": "2022-06-30",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": true,
+    "cocUrl": "https://databricks.com/dataaisummit/north-america-2022/code-of-conduct"
+  },
+  {
     "name": "Agile Testing Days",
     "url": "https://agiletestingdays.com",
     "startDate": "2022-11-21",
@@ -176,15 +186,5 @@
     "cfpEndDate": "2022-03-20",
     "twitter": "@AgileTD",
     "cocUrl": "https://agiletestingdays.com/code-of-conduct/"
-  },
-  {
-    "name": "Data + AI Summit",
-    "startDate": "2022-06-27",
-    "endDate": "2022-06-30",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": true,
-    "cocUrl": "https://databricks.com/dataaisummit/north-america-2022/code-of-conduct",
-    "url": "https://databricks.com/dataaisummit/north-america-2022"
   }
 ]

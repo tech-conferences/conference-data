@@ -76,19 +76,6 @@
     "cocUrl": "https://sec4dev.io/code-of-conduct"
   },
   {
-    "name": "Devopsdays Los Angeles",
-    "url": "https://devopsdays.org/events/2022-los-angeles/welcome/",
-    "startDate": "2022-07-29",
-    "endDate": "2022-07-29",
-    "city": "Los Angeles, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSewxucXuZ5nmZYX-nBitrmnr1ZA-O7oc33kheNvoRw1ufEbgg/viewform",
-    "cfpEndDate": "2021-11-30",
-    "twitter": "@Devopsdayla2022",
-    "cocUrl": "https://devopsdays.org/events/2022-los-angeles/conduct"
-  },
-  {
     "name": "Chaos Engineering",
     "url": "https://www.conf42.com/ce2022",
     "startDate": "2022-03-10",
@@ -515,6 +502,19 @@
     "cfpEndDate": "2022-03-01",
     "twitter": "@thatconference",
     "cocUrl": "https://that.us/support/code-of-conduct/"
+  },
+  {
+    "name": "Devopsdays Los Angeles",
+    "url": "https://devopsdays.org/events/2022-los-angeles/welcome/",
+    "startDate": "2022-07-29",
+    "endDate": "2022-07-29",
+    "city": "Los Angeles, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSewxucXuZ5nmZYX-nBitrmnr1ZA-O7oc33kheNvoRw1ufEbgg/viewform",
+    "cfpEndDate": "2021-11-30",
+    "twitter": "@Devopsdayla2022",
+    "cocUrl": "https://devopsdays.org/events/2022-los-angeles/conduct"
   },
   {
     "name": "Devopsdays Dallas",
