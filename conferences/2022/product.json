@@ -30,16 +30,8 @@
     "offersSignLanguageOrCC": true
   },
   {
-    "name": "InfoComm Southeast Asia",
-    "url": "https://infocomm-sea.com/en",
-    "startDate": "2022-11-02",
-    "endDate": "2022-11-04",
-    "city": "Bangkok",
-    "country": "Thailand",
-    "online": true
-  },
-  {
     "name": "Infobip Shift",
+    "url": "https://shift.infobip.com",
     "startDate": "2022-09-19",
     "endDate": "2022-09-20",
     "city": "Zadar",
@@ -48,7 +40,15 @@
     "cfpUrl": "https://sessionize.com/infobipshift",
     "cfpEndDate": "2022-07-01",
     "twitter": "@infobipshift",
-    "cocUrl": "https://shift.infobip.com/code/",
-    "url": "https://shift.infobip.com"
+    "cocUrl": "https://shift.infobip.com/code/"
+  },
+  {
+    "name": "InfoComm Southeast Asia",
+    "url": "https://infocomm-sea.com/en",
+    "startDate": "2022-11-02",
+    "endDate": "2022-11-04",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "online": true
   }
 ]

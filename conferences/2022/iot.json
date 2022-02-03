@@ -91,16 +91,8 @@
     "cocUrl": "https://that.us/support/code-of-conduct/"
   },
   {
-    "name": "JCON",
-    "url": "https://jcon.one",
-    "startDate": "2022-10-18",
-    "endDate": "2022-10-21",
-    "online": true,
-    "twitter": "@jcon_conference",
-    "cocUrl": "https://jcon.one/code-of-conduct"
-  },
-  {
     "name": "Infobip Shift",
+    "url": "https://shift.infobip.com",
     "startDate": "2022-09-19",
     "endDate": "2022-09-20",
     "city": "Zadar",
@@ -109,7 +101,15 @@
     "cfpUrl": "https://sessionize.com/infobipshift",
     "cfpEndDate": "2022-07-01",
     "twitter": "@infobipshift",
-    "cocUrl": "https://shift.infobip.com/code/",
-    "url": "https://shift.infobip.com"
+    "cocUrl": "https://shift.infobip.com/code/"
+  },
+  {
+    "name": "JCON",
+    "url": "https://jcon.one",
+    "startDate": "2022-10-18",
+    "endDate": "2022-10-21",
+    "online": true,
+    "twitter": "@jcon_conference",
+    "cocUrl": "https://jcon.one/code-of-conduct"
   }
 ]

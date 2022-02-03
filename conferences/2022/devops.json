@@ -65,6 +65,14 @@
     "cocUrl": "https://devopsdays.org/events/2022-vitoria/conduct"
   },
   {
+    "name": "SKILup Day: Site Reliability Engineering",
+    "url": "https://www.skilupdays.io/Sre-22",
+    "startDate": "2022-02-17",
+    "endDate": "2022-02-17",
+    "online": true,
+    "twitter": "@DEVOPSINST"
+  },
+  {
     "name": "sec4dev Conference & Bootcamp",
     "url": "https://sec4dev.io",
     "startDate": "2022-02-21",
@@ -540,6 +548,19 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Infobip Shift",
+    "url": "https://shift.infobip.com",
+    "startDate": "2022-09-19",
+    "endDate": "2022-09-20",
+    "city": "Zadar",
+    "country": "Croatia",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/infobipshift",
+    "cfpEndDate": "2022-07-01",
+    "twitter": "@infobipshift",
+    "cocUrl": "https://shift.infobip.com/code/"
+  },
+  {
     "name": "Devopsdays Portland",
     "url": "https://devopsdays.org/events/2022-portland-or/welcome/",
     "startDate": "2022-09-19",
@@ -635,26 +656,5 @@
     "country": "Australia",
     "online": false,
     "cocUrl": "https://www.usenix.org/conferences/coc"
-  },
-  {
-    "name": "Infobip Shift",
-    "startDate": "2022-09-19",
-    "endDate": "2022-09-20",
-    "city": "Zadar",
-    "country": "Croatia",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/infobipshift",
-    "cfpEndDate": "2022-07-01",
-    "twitter": "@infobipshift",
-    "cocUrl": "https://shift.infobip.com/code/",
-    "url": "https://shift.infobip.com"
-  },
-  {
-    "name": "SKILup Day: Site Reliability Engineering",
-    "startDate": "2022-02-17",
-    "endDate": "2022-02-17",
-    "online": true,
-    "twitter": "@DEVOPSINST",
-    "url": "https://www.skilupdays.io/Sre-22"
   }
 ]

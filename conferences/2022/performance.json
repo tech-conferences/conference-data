@@ -70,6 +70,19 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Infobip Shift",
+    "url": "https://shift.infobip.com",
+    "startDate": "2022-09-19",
+    "endDate": "2022-09-20",
+    "city": "Zadar",
+    "country": "Croatia",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/infobipshift",
+    "cfpEndDate": "2022-07-01",
+    "twitter": "@infobipshift",
+    "cocUrl": "https://shift.infobip.com/code/"
+  },
+  {
     "name": "Conf42 Incident Management",
     "url": "https://www.conf42.com/im2022",
     "startDate": "2022-09-29",
@@ -101,18 +114,5 @@
     "cfpEndDate": "2022-03-20",
     "twitter": "@AgileTD",
     "cocUrl": "https://agiletestingdays.com/code-of-conduct/"
-  },
-  {
-    "name": "Infobip Shift",
-    "startDate": "2022-09-19",
-    "endDate": "2022-09-20",
-    "city": "Zadar",
-    "country": "Croatia",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/infobipshift",
-    "cfpEndDate": "2022-07-01",
-    "twitter": "@infobipshift",
-    "cocUrl": "https://shift.infobip.com/code/",
-    "url": "https://shift.infobip.com"
   }
 ]
