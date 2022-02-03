@@ -494,7 +494,9 @@
     "endDate": "2022-06-24",
     "city": "Amsterdam",
     "country": "Netherlands",
-    "online": false,
+    "online": true,
+    "cfpUrl": "https://sessionize.com/devopsdays-amsterdam-2022/",
+    "cfpEndDate": "2022-03-01",
     "twitter": "@Devopsams",
     "cocUrl": "https://devopsdays.org/events/2022-amsterdam/conduct"
   },
@@ -603,7 +605,7 @@
   {
     "name": "Devopsdays Eindhoven",
     "url": "https://devopsdays.org/events/2022-eindhoven/welcome/",
-    "startDate": "2022-10-19",
+    "startDate": "2022-10-20",
     "endDate": "2022-10-21",
     "city": "Eindhoven",
     "country": "Netherlands",
