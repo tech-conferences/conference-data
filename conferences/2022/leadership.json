@@ -88,6 +88,16 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "YOW! London",
+    "url": "https://skillsmatter.com/conferences/13690-yow-london",
+    "startDate": "2022-05-10",
+    "endDate": "2022-05-11",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "twitter": "@yowconf"
+  },
+  {
     "name": "QCon Plus Online Software Conference",
     "url": "https://plus.qconferences.com",
     "startDate": "2022-05-10",
@@ -147,6 +157,7 @@
   },
   {
     "name": "Infobip Shift",
+    "url": "https://shift.infobip.com",
     "startDate": "2022-09-19",
     "endDate": "2022-09-20",
     "city": "Zadar",
@@ -155,17 +166,6 @@
     "cfpUrl": "https://sessionize.com/infobipshift",
     "cfpEndDate": "2022-07-01",
     "twitter": "@infobipshift",
-    "cocUrl": "https://shift.infobip.com/code/",
-    "url": "https://shift.infobip.com"
-  },
-  {
-    "name": "YOW! London",
-    "startDate": "2022-05-10",
-    "endDate": "2022-05-11",
-    "city": "London",
-    "country": "U.K.",
-    "online": true,
-    "twitter": "@yowconf",
-    "url": "https://skillsmatter.com/conferences/13690-yow-london"
+    "cocUrl": "https://shift.infobip.com/code/"
   }
 ]
