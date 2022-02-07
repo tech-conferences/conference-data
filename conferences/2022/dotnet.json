@@ -22,6 +22,15 @@
     "cocUrl": "https://basta.net/terms-of-participation/"
   },
   {
+    "name": "dotnetdays romania",
+    "url": "https://dotnetdays.ro",
+    "startDate": "2022-03-21",
+    "endDate": "2022-03-24",
+    "online": true,
+    "twitter": "@dotnetdaysro",
+    "cocUrl": "https://dotnetdays.ro/Home/CodeOfConduct"
+  },
+  {
     "name": "Nullcon Berlin",
     "url": "https://nullcon.net/berlin-2022",
     "startDate": "2022-04-08",
@@ -44,14 +53,5 @@
     "online": true,
     "cfpUrl": "https://sessionize.com/wearedevs2022",
     "cfpEndDate": "2022-01-31"
-  },
-  {
-    "name": "dotnetdays romania",
-    "startDate": "2022-03-21",
-    "endDate": "2022-03-24",
-    "online": true,
-    "twitter": "@dotnetdaysro",
-    "cocUrl": "https://dotnetdays.ro/Home/CodeOfConduct",
-    "url": "https://dotnetdays.ro"
   }
 ]

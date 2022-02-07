@@ -168,6 +168,19 @@
     "cocUrl": "https://devopsjsconf.com/coc"
   },
   {
+    "name": "Open Source Festival",
+    "url": "https://festival.oscafrica.org",
+    "startDate": "2022-03-24",
+    "endDate": "2022-03-26",
+    "city": "Lagos",
+    "country": "Nigeria",
+    "online": true,
+    "cfpUrl": "https://www.papercall.io/cfps/4213/submissions/new",
+    "cfpEndDate": "2022-01-27",
+    "twitter": "@oscafrica",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "QCon London",
     "url": "https://qconlondon.com",
     "startDate": "2022-04-04",
@@ -658,18 +671,5 @@
     "country": "Australia",
     "online": false,
     "cocUrl": "https://www.usenix.org/conferences/coc"
-  },
-  {
-    "name": "Open Source Festival",
-    "startDate": "2022-03-24",
-    "endDate": "2022-03-26",
-    "city": "Lagos",
-    "country": "Nigeria",
-    "online": true,
-    "cfpUrl": "https://www.papercall.io/cfps/4213/submissions/new",
-    "cfpEndDate": "2022-01-27",
-    "twitter": "@oscafrica",
-    "offersSignLanguageOrCC": true,
-    "url": "https://festival.oscafrica.org"
   }
 ]
