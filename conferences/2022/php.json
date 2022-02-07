@@ -1,5 +1,13 @@
 [
   {
+    "name": "LARACON Online",
+    "url": "https://laracon.net",
+    "startDate": "2022-02-09",
+    "endDate": "2022-02-09",
+    "online": true,
+    "twitter": "@LaraconOnline"
+  },
+  {
     "name": "PHP UK Conference",
     "url": "https://www.phpconference.co.uk",
     "startDate": "2022-02-16",
@@ -79,6 +87,16 @@
     "cocUrl": "https://phpconference.com/code-of-conduct/"
   },
   {
+    "name": "Dutch PHP Conference - Online Edition",
+    "url": "https://www.phpconference.nl",
+    "startDate": "2022-06-24",
+    "endDate": "2022-06-24",
+    "online": true,
+    "twitter": "@dpcon",
+    "cocUrl": "https://www.phpconference.nl/code-of-conduct",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Dutch PHP Conference",
     "url": "https://phpconference.nl",
     "startDate": "2022-07-01",
@@ -117,23 +135,5 @@
     "cfpEndDate": "2022-03-20",
     "twitter": "@AgileTD",
     "cocUrl": "https://agiletestingdays.com/code-of-conduct/"
-  },
-  {
-    "name": "Dutch PHP Conference - Online Edition",
-    "startDate": "2022-06-24",
-    "endDate": "2022-06-24",
-    "online": true,
-    "twitter": "@dpcon",
-    "cocUrl": "https://www.phpconference.nl/code-of-conduct",
-    "offersSignLanguageOrCC": true,
-    "url": "https://www.phpconference.nl"
-  },
-  {
-    "name": "LARACON Online",
-    "startDate": "2022-02-09",
-    "endDate": "2022-02-09",
-    "online": true,
-    "twitter": "@LaraconOnline",
-    "url": "https://laracon.net"
   }
 ]
