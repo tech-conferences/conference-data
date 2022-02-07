@@ -480,6 +480,7 @@ module.exports = {
   ],
   "Sweden": [
     "Gothenburg",
+    "Helsingborg",
     "Malmö",
     "Stockholm"
   ],
