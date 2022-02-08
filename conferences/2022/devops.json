@@ -671,5 +671,15 @@
     "country": "Australia",
     "online": false,
     "cocUrl": "https://www.usenix.org/conferences/coc"
+  },
+  {
+    "name": "QCon San Francisco Software Conference",
+    "startDate": "2022-10-24",
+    "endDate": "2022-10-28",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@QCon",
+    "url": "https://qconsf.com"
   }
 ]
