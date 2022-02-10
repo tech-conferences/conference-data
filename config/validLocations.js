@@ -553,6 +553,7 @@ module.exports = {
     "Beckenridge, CO",
     "Bellevue, WA",
     "Bend, OR",
+    "Berkeley, CA",
     "Bloomington, MN",
     "Boise, ID",
     "Boston, MA",
