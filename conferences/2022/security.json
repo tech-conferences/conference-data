@@ -192,6 +192,15 @@
     "cocUrl": "https://reactsummit.com/coc"
   },
   {
+    "name": "Smart Cyber City",
+    "url": "https://smart-cyber.city",
+    "startDate": "2022-06-20",
+    "endDate": "2022-06-20",
+    "city": "Helsingborg",
+    "country": "Sweden",
+    "online": true
+  },
+  {
     "name": "CascadiaJS",
     "url": "https://2022.cascadiajs.com",
     "startDate": "2022-08-30",
@@ -233,14 +242,5 @@
     "cfpEndDate": "2022-10-28",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
-  },
-  {
-    "name": "Smart Cyber City",
-    "startDate": "2022-06-20",
-    "endDate": "2022-06-20",
-    "city": "Helsingborg",
-    "country": "Sweden",
-    "online": true,
-    "url": "https://smart-cyber.city"
   }
 ]
