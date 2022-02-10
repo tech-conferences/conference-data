@@ -385,6 +385,18 @@
     "cocUrl": "https://agiletestingdays.com/code-of-conduct/"
   },
   {
+    "name": "FutureStack",
+    "url": "https://newrelic.com/futurestack",
+    "startDate": "2022-05-17",
+    "endDate": "2022-05-19",
+    "city": "Las Vegas, NV",
+    "country": "U.S.A.",
+    "online": true,
+    "cfpUrl": "https://web.cvent.com/event/cb0816b2-21d0-4aba-8dd4-021c83deb937/summary",
+    "cfpEndDate": "2022-03-01",
+    "twitter": "@newrelic"
+  },
+  {
     "name": "KubeCon EU",
     "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe",
     "startDate": "2022-05-17",
@@ -629,6 +641,16 @@
     "cocUrl": "https://devopsdays.org/events/2022-eindhoven/conduct"
   },
   {
+    "name": "QCon San Francisco Software Conference",
+    "url": "https://qconsf.com",
+    "startDate": "2022-10-24",
+    "endDate": "2022-10-28",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@QCon"
+  },
+  {
     "name": "SREcon EMEA",
     "url": "https://www.usenix.org/conferences",
     "startDate": "2022-10-25",
@@ -671,27 +693,5 @@
     "country": "Australia",
     "online": false,
     "cocUrl": "https://www.usenix.org/conferences/coc"
-  },
-  {
-    "name": "QCon San Francisco Software Conference",
-    "startDate": "2022-10-24",
-    "endDate": "2022-10-28",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@QCon",
-    "url": "https://qconsf.com"
-  },
-  {
-    "name": "FutureStack",
-    "startDate": "2022-05-17",
-    "endDate": "2022-05-19",
-    "city": "Las Vegas, NV",
-    "country": "U.S.A.",
-    "online": true,
-    "cfpUrl": "https://web.cvent.com/event/cb0816b2-21d0-4aba-8dd4-021c83deb937/summary",
-    "cfpEndDate": "2022-03-01",
-    "twitter": "@newrelic",
-    "url": "https://newrelic.com/futurestack"
   }
 ]
