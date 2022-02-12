@@ -257,5 +257,18 @@
     "cfpEndDate": "2022-07-01",
     "twitter": "@infobipshift",
     "cocUrl": "https://shift.infobip.com/code/"
+  },
+  {
+    "name": "Open Source Monitoring Conference",
+    "startDate": "2022-11-14",
+    "endDate": "2022-11-16",
+    "city": "Nuremberg",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://osmc.de/call-for-papers",
+    "cfpEndDate": "2022-06-30",
+    "twitter": "@netwaysevents",
+    "cocUrl": "https://osmc.de/code-of-conduct/",
+    "url": "https://osmc.de"
   }
 ]
