@@ -693,5 +693,16 @@
     "country": "Australia",
     "online": false,
     "cocUrl": "https://www.usenix.org/conferences/coc"
+  },
+  {
+    "name": "GOTO Aarhus",
+    "startDate": "2022-06-13",
+    "endDate": "2022-06-16",
+    "city": "Aarhus",
+    "country": "Denmark",
+    "online": false,
+    "twitter": "@GOTOcon",
+    "cocUrl": "https://gotoaarhus.com/2022/pages/code-of-conduct",
+    "url": "https://gotoaarhus.com"
   }
 ]
