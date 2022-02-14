@@ -21,6 +21,20 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "DrupalCon",
+    "url": "https://events.drupal.org",
+    "startDate": "2022-04-25",
+    "endDate": "2022-04-28",
+    "city": "Portland, OR",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/drupalcon-portland-2022",
+    "cfpEndDate": "2021-10-29",
+    "twitter": "@DrupalCon",
+    "cocUrl": "https://events.drupal.org/code-conduct",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "QCon Plus Online Software Conference",
     "url": "https://plus.qconferences.com",
     "startDate": "2022-05-10",
@@ -50,19 +64,5 @@
     "city": "Bangkok",
     "country": "Thailand",
     "online": true
-  },
-  {
-    "name": "DrupalCon",
-    "startDate": "2022-04-25",
-    "endDate": "2022-04-28",
-    "city": "Portland, OR",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://sessionize.com/drupalcon-portland-2022",
-    "cfpEndDate": "2021-10-29",
-    "twitter": "@DrupalCon",
-    "cocUrl": "https://events.drupal.org/code-conduct",
-    "offersSignLanguageOrCC": true,
-    "url": "https://events.drupal.org"
   }
 ]
