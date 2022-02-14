@@ -365,6 +365,19 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Vueconf.US",
+    "url": "https://vueconf.us",
+    "startDate": "2022-06-08",
+    "endDate": "2022-06-10",
+    "city": "Fort Lauderdale, FL",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://vueconf.us/call-for-papers",
+    "cfpEndDate": "2022-02-28",
+    "twitter": "@vueconfus",
+    "cocUrl": "https://vueconf.us/codeofconduct/"
+  },
+  {
     "name": "WeAreDevelopers World Congress",
     "url": "https://www.wearedevelopers.com/world-congress/#",
     "startDate": "2022-06-14",
@@ -470,18 +483,5 @@
     "cfpEndDate": "2022-10-14",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
-  },
-  {
-    "name": "Vueconf.US",
-    "startDate": "2022-06-08",
-    "endDate": "2022-06-10",
-    "city": "Fort Lauderdale, FL",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://vueconf.us/call-for-papers",
-    "cfpEndDate": "2022-02-28",
-    "twitter": "@vueconfus",
-    "cocUrl": "https://vueconf.us/codeofconduct/",
-    "url": "https://vueconf.us"
   }
 ]

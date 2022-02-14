@@ -76,6 +76,17 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Timescale Community Day",
+    "url": "https://www.timescale.com/community-day",
+    "startDate": "2022-03-31",
+    "endDate": "2022-03-31",
+    "online": true,
+    "cfpUrl": "https://www.papercall.io/timescale-community-day-2022",
+    "cfpEndDate": "2022-02-28",
+    "twitter": "@TimescaleDB",
+    "cocUrl": "https://www.timescale.com/code-of-conduct"
+  },
+  {
     "name": "QCon London",
     "url": "https://qconlondon.com",
     "startDate": "2022-04-04",
@@ -210,16 +221,5 @@
     "cfpEndDate": "2022-03-20",
     "twitter": "@AgileTD",
     "cocUrl": "https://agiletestingdays.com/code-of-conduct/"
-  },
-  {
-    "name": "Timescale Community Day",
-    "startDate": "2022-03-31",
-    "endDate": "2022-03-31",
-    "online": true,
-    "cfpUrl": "https://www.papercall.io/timescale-community-day-2022",
-    "cfpEndDate": "2022-02-28",
-    "twitter": "@TimescaleDB",
-    "cocUrl": "https://www.timescale.com/code-of-conduct",
-    "url": "https://www.timescale.com/community-day"
   }
 ]

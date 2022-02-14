@@ -128,6 +128,19 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Vueconf.US",
+    "url": "https://vueconf.us",
+    "startDate": "2022-06-08",
+    "endDate": "2022-06-10",
+    "city": "Fort Lauderdale, FL",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://vueconf.us/call-for-papers",
+    "cfpEndDate": "2022-02-28",
+    "twitter": "@vueconfus",
+    "cocUrl": "https://vueconf.us/codeofconduct/"
+  },
+  {
     "name": "Pixel Pioneers",
     "url": "https://pixelpioneers.co/events/bristol-2022",
     "startDate": "2022-06-09",
@@ -177,18 +190,5 @@
     "cfpEndDate": "2022-07-01",
     "twitter": "@infobipshift",
     "cocUrl": "https://shift.infobip.com/code/"
-  },
-  {
-    "name": "Vueconf.US",
-    "startDate": "2022-06-08",
-    "endDate": "2022-06-10",
-    "city": "Fort Lauderdale, FL",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://vueconf.us/call-for-papers",
-    "cfpEndDate": "2022-02-28",
-    "twitter": "@vueconfus",
-    "cocUrl": "https://vueconf.us/codeofconduct/",
-    "url": "https://vueconf.us"
   }
 ]
