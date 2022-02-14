@@ -444,5 +444,16 @@
     "country": "Germany",
     "online": false,
     "url": "https://entwicklertag.de/karlsruhe/2022"
+  },
+  {
+    "name": "Nepal Cloud Summit",
+    "startDate": "2022-04-16",
+    "endDate": "2022-04-16",
+    "city": "Kathmandu",
+    "country": "Nepal",
+    "online": true,
+    "twitter": "@cloudsummitlive",
+    "cocUrl": "https://nepal.cloudsummit.live/code-of-conduct/",
+    "url": "https://nepal.cloudsummit.live"
   }
 ]
