@@ -55,5 +55,17 @@
     "country": "U.S.A.",
     "online": true,
     "twitter": "@360idev"
+  },
+  {
+    "name": "SwiftConf",
+    "startDate": "2022-08-17",
+    "endDate": "2022-08-18",
+    "city": "Cologne",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://swiftconf.com/#:~:text=Call For Papers",
+    "cfpEndDate": "2022-04-30",
+    "twitter": "@SwiftConf",
+    "url": "https://swiftconf.com"
   }
 ]
