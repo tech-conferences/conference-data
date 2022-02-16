@@ -121,6 +121,17 @@
     "twitter": "@makeitconf2022"
   },
   {
+    "name": "GOTO Aarhus",
+    "url": "https://gotoaarhus.com",
+    "startDate": "2022-06-13",
+    "endDate": "2022-06-16",
+    "city": "Aarhus",
+    "country": "Denmark",
+    "online": false,
+    "twitter": "@GOTOcon",
+    "cocUrl": "https://gotoaarhus.com/2022/pages/code-of-conduct"
+  },
+  {
     "name": "WeAreDevelopers World Congress",
     "url": "https://www.wearedevelopers.com/world-congress/#",
     "startDate": "2022-06-14",
@@ -163,16 +174,5 @@
     "online": true,
     "twitter": "@jcon_conference",
     "cocUrl": "https://jcon.one/code-of-conduct"
-  },
-  {
-    "name": "GOTO Aarhus",
-    "startDate": "2022-06-13",
-    "endDate": "2022-06-16",
-    "city": "Aarhus",
-    "country": "Denmark",
-    "online": false,
-    "twitter": "@GOTOcon",
-    "cocUrl": "https://gotoaarhus.com/2022/pages/code-of-conduct",
-    "url": "https://gotoaarhus.com"
   }
 ]

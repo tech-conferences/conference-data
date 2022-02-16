@@ -84,6 +84,14 @@
     "cocUrl": "https://sec4dev.io/code-of-conduct"
   },
   {
+    "name": "The DEVOPS Conference",
+    "url": "https://www.thedevopsconference.com",
+    "startDate": "2022-03-08",
+    "endDate": "2022-03-09",
+    "online": true,
+    "twitter": "@eficode"
+  },
+  {
     "name": "Chaos Engineering",
     "url": "https://www.conf42.com/ce2022",
     "startDate": "2022-03-10",
@@ -343,6 +351,17 @@
     "cocUrl": "https://devopsdays.org/events/2022-nashville/conduct"
   },
   {
+    "name": "InflectraCon",
+    "url": "https://www.inflectracon.com",
+    "startDate": "2022-05-05",
+    "endDate": "2022-05-06",
+    "city": "Washington, D.C.",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@inflectraCon",
+    "cocUrl": "https://www.inflectracon.com/code-of-conduct-2022"
+  },
+  {
     "name": "Lazy Load",
     "url": "https://webdirections.org/lazyload",
     "startDate": "2022-05-06",
@@ -487,6 +506,17 @@
     "cfpEndDate": "2022-05-06",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
+  },
+  {
+    "name": "GOTO Aarhus",
+    "url": "https://gotoaarhus.com",
+    "startDate": "2022-06-13",
+    "endDate": "2022-06-16",
+    "city": "Aarhus",
+    "country": "Denmark",
+    "online": false,
+    "twitter": "@GOTOcon",
+    "cocUrl": "https://gotoaarhus.com/2022/pages/code-of-conduct"
   },
   {
     "name": "WeAreDevelopers World Congress",
@@ -693,35 +723,5 @@
     "country": "Australia",
     "online": false,
     "cocUrl": "https://www.usenix.org/conferences/coc"
-  },
-  {
-    "name": "GOTO Aarhus",
-    "startDate": "2022-06-13",
-    "endDate": "2022-06-16",
-    "city": "Aarhus",
-    "country": "Denmark",
-    "online": false,
-    "twitter": "@GOTOcon",
-    "cocUrl": "https://gotoaarhus.com/2022/pages/code-of-conduct",
-    "url": "https://gotoaarhus.com"
-  },
-  {
-    "name": "The DEVOPS Conference",
-    "startDate": "2022-03-08",
-    "endDate": "2022-03-09",
-    "online": true,
-    "twitter": "@eficode",
-    "url": "https://www.thedevopsconference.com"
-  },
-  {
-    "name": "InflectraCon",
-    "startDate": "2022-05-05",
-    "endDate": "2022-05-06",
-    "city": "Washington, D.C.",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@inflectraCon",
-    "cocUrl": "https://www.inflectracon.com/code-of-conduct-2022",
-    "url": "https://www.inflectracon.com"
   }
 ]
