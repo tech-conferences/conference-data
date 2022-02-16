@@ -111,6 +111,17 @@
     "cocUrl": "https://nullcon.net/about-conferencepolicy/"
   },
   {
+    "name": "Nepal Cloud Summit",
+    "url": "https://nepal.cloudsummit.live",
+    "startDate": "2022-04-16",
+    "endDate": "2022-04-16",
+    "city": "Kathmandu",
+    "country": "Nepal",
+    "online": true,
+    "twitter": "@cloudsummitlive",
+    "cocUrl": "https://nepal.cloudsummit.live/code-of-conduct/"
+  },
+  {
     "name": "ODSC East",
     "url": "https://odsc.com/boston",
     "startDate": "2022-04-19",
@@ -221,16 +232,5 @@
     "cfpEndDate": "2022-03-20",
     "twitter": "@AgileTD",
     "cocUrl": "https://agiletestingdays.com/code-of-conduct/"
-  },
-  {
-    "name": "Nepal Cloud Summit",
-    "startDate": "2022-04-16",
-    "endDate": "2022-04-16",
-    "city": "Kathmandu",
-    "country": "Nepal",
-    "online": true,
-    "twitter": "@cloudsummitlive",
-    "cocUrl": "https://nepal.cloudsummit.live/code-of-conduct/",
-    "url": "https://nepal.cloudsummit.live"
   }
 ]

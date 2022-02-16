@@ -88,6 +88,17 @@
     "cocUrl": "https://conf.ontico.ru/code-of-conduct.html"
   },
   {
+    "name": "InflectraCon",
+    "url": "https://www.inflectracon.com",
+    "startDate": "2022-05-05",
+    "endDate": "2022-05-06",
+    "city": "Washington, D.C.",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@inflectraCon",
+    "cocUrl": "https://www.inflectracon.com/code-of-conduct-2022"
+  },
+  {
     "name": "AgileTD Open Air",
     "url": "https://openair.agiletestingdays.com",
     "startDate": "2022-05-17",
@@ -251,16 +262,5 @@
     "cfpEndDate": "2022-03-20",
     "twitter": "@AgileTD",
     "cocUrl": "https://agiletestingdays.com/code-of-conduct/"
-  },
-  {
-    "name": "InflectraCon",
-    "startDate": "2022-05-05",
-    "endDate": "2022-05-06",
-    "city": "Washington, D.C.",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@inflectraCon",
-    "cocUrl": "https://www.inflectracon.com/code-of-conduct-2022",
-    "url": "https://www.inflectracon.com"
   }
 ]

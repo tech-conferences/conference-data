@@ -244,6 +244,27 @@
     "cocUrl": "https://devnexus.com/code-of-conduct"
   },
   {
+    "name": "Nepal Cloud Summit",
+    "url": "https://nepal.cloudsummit.live",
+    "startDate": "2022-04-16",
+    "endDate": "2022-04-16",
+    "city": "Kathmandu",
+    "country": "Nepal",
+    "online": true,
+    "twitter": "@cloudsummitlive",
+    "cocUrl": "https://nepal.cloudsummit.live/code-of-conduct/"
+  },
+  {
+    "name": "Northern Virginia Software Symposium",
+    "url": "https://nofluffjuststuff.com/reston",
+    "startDate": "2022-04-22",
+    "endDate": "2022-04-23",
+    "city": "Reston, VA",
+    "country": "U.S.A.",
+    "online": true,
+    "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct"
+  },
+  {
     "name": "NDC Porto",
     "url": "https://ndcporto.com",
     "startDate": "2022-04-24",
@@ -296,6 +317,15 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Karlsruher Entwicklertag",
+    "url": "https://www.entwicklertag.de/karlsruhe/2022/",
+    "startDate": "2022-05-16",
+    "endDate": "2022-05-18",
+    "city": "Karlsruhe",
+    "country": "Germany",
+    "online": false
+  },
+  {
     "name": "THAT Conference",
     "url": "https://that.us/events/tx/2022",
     "startDate": "2022-05-23",
@@ -319,6 +349,17 @@
     "twitter": "@TheLeadDev",
     "cocUrl": "https://leaddev.com/code-conduct",
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "GOTO Aarhus",
+    "url": "https://gotoaarhus.com",
+    "startDate": "2022-06-13",
+    "endDate": "2022-06-16",
+    "city": "Aarhus",
+    "country": "Denmark",
+    "online": false,
+    "twitter": "@GOTOcon",
+    "cocUrl": "https://gotoaarhus.com/2022/pages/code-of-conduct"
   },
   {
     "name": "ACM Multimedia Systems Conference - MMSys",
@@ -424,46 +465,5 @@
     "online": false,
     "twitter": "@techbash",
     "cocUrl": "https://techbash.com/code-of-conduct"
-  },
-  {
-    "name": "GOTO Aarhus",
-    "startDate": "2022-06-13",
-    "endDate": "2022-06-16",
-    "city": "Aarhus",
-    "country": "Denmark",
-    "online": false,
-    "twitter": "@GOTOcon",
-    "cocUrl": "https://gotoaarhus.com/2022/pages/code-of-conduct",
-    "url": "https://gotoaarhus.com"
-  },
-  {
-    "name": "Karlsruher Entwicklertag",
-    "startDate": "2022-05-16",
-    "endDate": "2022-05-18",
-    "city": "Karlsruhe",
-    "country": "Germany",
-    "online": false,
-    "url": "https://www.entwicklertag.de/karlsruhe/2022/"
-  },
-  {
-    "name": "Nepal Cloud Summit",
-    "startDate": "2022-04-16",
-    "endDate": "2022-04-16",
-    "city": "Kathmandu",
-    "country": "Nepal",
-    "online": true,
-    "twitter": "@cloudsummitlive",
-    "cocUrl": "https://nepal.cloudsummit.live/code-of-conduct/",
-    "url": "https://nepal.cloudsummit.live"
-  },
-  {
-    "name": "Northern Virginia Software Symposium",
-    "startDate": "2022-04-22",
-    "endDate": "2022-04-23",
-    "city": "Reston, VA",
-    "country": "U.S.A.",
-    "online": true,
-    "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct",
-    "url": "https://nofluffjuststuff.com/reston"
   }
 ]
