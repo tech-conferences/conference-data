@@ -337,6 +337,17 @@
     "cocUrl": "https://that.us/support/code-of-conduct/"
   },
   {
+    "name": "NDC Copenhagen",
+    "url": "https://ndccopenhagen.com",
+    "startDate": "2022-05-29",
+    "endDate": "2022-06-01",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "online": false,
+    "twitter": "@NDC_Conferences",
+    "cocUrl": "https://ndccopenhagen.com/code-of-conduct"
+  },
+  {
     "name": "LeadDev London",
     "url": "https://leaddev.com/leaddev-london",
     "startDate": "2022-06-07",
@@ -465,16 +476,5 @@
     "online": false,
     "twitter": "@techbash",
     "cocUrl": "https://techbash.com/code-of-conduct"
-  },
-  {
-    "name": "NDC Copenhagen",
-    "startDate": "2022-05-29",
-    "endDate": "2022-06-01",
-    "city": "Copenhagen",
-    "country": "Denmark",
-    "online": false,
-    "twitter": "@NDC_Conferences",
-    "cocUrl": "https://ndccopenhagen.com/code-of-conduct",
-    "url": "https://ndccopenhagen.com"
   }
 ]

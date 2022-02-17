@@ -97,6 +97,19 @@
     "twitter": "@DevoxxUK"
   },
   {
+    "name": "Spring I/O",
+    "url": "https://2022.springio.net",
+    "startDate": "2022-05-26",
+    "endDate": "2022-05-27",
+    "city": "Barcelona",
+    "country": "Spain",
+    "online": false,
+    "cfpUrl": "https://www.papercall.io/springio22",
+    "cfpEndDate": "2022-03-01",
+    "twitter": "@spring_io",
+    "cocUrl": "https://2022.springio.net/codeofconduct"
+  },
+  {
     "name": "JavaDay Istanbul",
     "url": "https://www.javaday.istanbul",
     "startDate": "2022-05-27",
@@ -174,18 +187,5 @@
     "online": true,
     "twitter": "@jcon_conference",
     "cocUrl": "https://jcon.one/code-of-conduct"
-  },
-  {
-    "name": "Spring I/O",
-    "startDate": "2022-05-26",
-    "endDate": "2022-05-27",
-    "city": "Barcelona",
-    "country": "Spain",
-    "online": false,
-    "cfpUrl": "https://www.papercall.io/springio22",
-    "cfpEndDate": "2022-03-01",
-    "twitter": "@spring_io",
-    "cocUrl": "https://2022.springio.net/codeofconduct",
-    "url": "https://2022.springio.net"
   }
 ]
