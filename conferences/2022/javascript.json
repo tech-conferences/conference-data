@@ -428,6 +428,32 @@
     "cocUrl": "https://enterjs.de/code_of_conduct.php"
   },
   {
+    "name": "ReactNext",
+    "url": "https://www.react-next.com",
+    "startDate": "2022-06-28",
+    "endDate": "2022-06-28",
+    "city": "Tel Aviv",
+    "country": "Israel",
+    "online": false,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSe6Y96XYmzgk9kBbE1vk7KeHK45XwQ8FvsM2X0kywSrbe5D7Q/viewform",
+    "cfpEndDate": "2022-04-20",
+    "twitter": "@ReactNext",
+    "cocUrl": "https://www.react-next.com/conference-code-of-conduct/"
+  },
+  {
+    "name": "NodeTLV",
+    "url": "https://www.nodetlv.com",
+    "startDate": "2022-06-29",
+    "endDate": "2022-06-29",
+    "city": "Tel Aviv",
+    "country": "Israel",
+    "online": false,
+    "cfpUrl": "https://forms.gle/ab9nCbpigvqT4bW9A",
+    "cfpEndDate": "2022-04-15",
+    "twitter": "@NodeTLV",
+    "cocUrl": "https://www.nodetlv.com/conference-code-of-conduct/"
+  },
+  {
     "name": "HalfStack Newquay",
     "url": "https://halfstackconf.com/newquay/",
     "startDate": "2022-07-01",
@@ -483,31 +509,5 @@
     "cfpEndDate": "2022-10-14",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
-  },
-  {
-    "name": "NodeTLV",
-    "startDate": "2022-06-29",
-    "endDate": "2022-06-29",
-    "city": "Tel Aviv",
-    "country": "Israel",
-    "online": false,
-    "cfpUrl": "https://forms.gle/ab9nCbpigvqT4bW9A",
-    "cfpEndDate": "2022-04-15",
-    "twitter": "@NodeTLV",
-    "cocUrl": "https://www.nodetlv.com/conference-code-of-conduct/",
-    "url": "https://www.nodetlv.com"
-  },
-  {
-    "name": "ReactNext",
-    "startDate": "2022-06-28",
-    "endDate": "2022-06-28",
-    "city": "Tel Aviv",
-    "country": "Israel",
-    "online": false,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSe6Y96XYmzgk9kBbE1vk7KeHK45XwQ8FvsM2X0kywSrbe5D7Q/viewform",
-    "cfpEndDate": "2022-04-20",
-    "twitter": "@ReactNext",
-    "cocUrl": "https://www.react-next.com/conference-code-of-conduct/",
-    "url": "https://www.react-next.com"
   }
 ]
