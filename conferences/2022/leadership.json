@@ -98,6 +98,16 @@
     "twitter": "@yowconf"
   },
   {
+    "name": "DevOps Enterprise Summit Virtual - Europe",
+    "url": "https://events.itrevolution.com/virtual",
+    "startDate": "2022-05-10",
+    "endDate": "2022-05-12",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/devopsenterprisesummiteurope",
+    "cfpEndDate": "2022-02-28",
+    "twitter": "@ITRevDOES"
+  },
+  {
     "name": "QCon Plus Online Software Conference",
     "url": "https://plus.qconferences.com",
     "startDate": "2022-05-10",
@@ -156,6 +166,17 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Agile Nashville",
+    "url": "https://www.agilealliance.org/agile2022",
+    "startDate": "2022-07-18",
+    "endDate": "2022-07-22",
+    "city": "Nashville, TN",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@AgileAlliance",
+    "cocUrl": "https://www.agilealliance.org/code_of_conduct/"
+  },
+  {
     "name": "Infobip Shift",
     "url": "https://shift.infobip.com",
     "startDate": "2022-09-19",
@@ -167,26 +188,5 @@
     "cfpEndDate": "2022-07-01",
     "twitter": "@infobipshift",
     "cocUrl": "https://shift.infobip.com/code/"
-  },
-  {
-    "name": "DevOps Enterprise Summit Virtual - Europe",
-    "startDate": "2022-05-10",
-    "endDate": "2022-05-12",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/devopsenterprisesummiteurope",
-    "cfpEndDate": "2022-02-28",
-    "twitter": "@ITRevDOES",
-    "url": "https://events.itrevolution.com/virtual"
-  },
-  {
-    "name": "Agile Nashville",
-    "startDate": "2022-07-18",
-    "endDate": "2022-07-22",
-    "city": "Nashville, TN",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@AgileAlliance",
-    "cocUrl": "https://www.agilealliance.org/code_of_conduct/",
-    "url": "https://www.agilealliance.org/agile2022"
   }
 ]
