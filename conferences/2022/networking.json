@@ -259,6 +259,16 @@
     "cocUrl": "https://shift.infobip.com/code/"
   },
   {
+    "name": "UK Cyber Week",
+    "url": "https://www.ukcyberweek.co.uk",
+    "startDate": "2022-11-03",
+    "endDate": "2022-11-04",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "twitter": "@UKCyberWeek"
+  },
+  {
     "name": "Open Source Monitoring Conference",
     "url": "https://osmc.de",
     "startDate": "2022-11-14",
@@ -270,15 +280,5 @@
     "cfpEndDate": "2022-06-30",
     "twitter": "@netwaysevents",
     "cocUrl": "https://osmc.de/code-of-conduct/"
-  },
-  {
-    "name": "UK Cyber Week",
-    "startDate": "2022-11-03",
-    "endDate": "2022-11-04",
-    "city": "London",
-    "country": "U.K.",
-    "online": true,
-    "twitter": "@UKCyberWeek",
-    "url": "https://www.ukcyberweek.co.uk"
   }
 ]

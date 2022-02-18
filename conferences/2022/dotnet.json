@@ -31,6 +31,17 @@
     "cocUrl": "https://dotnetdays.ro/Home/CodeOfConduct"
   },
   {
+    "name": "DEVintersection",
+    "url": "https://devintersection.com",
+    "startDate": "2022-04-05",
+    "endDate": "2022-04-08",
+    "city": "Las Vegas, NV",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@DEVintersection",
+    "cocUrl": "https://devintersection.com/#!/conduct"
+  },
+  {
     "name": "Nullcon Berlin",
     "url": "https://nullcon.net/berlin-2022",
     "startDate": "2022-04-08",
@@ -44,6 +55,16 @@
     "cocUrl": "https://nullcon.net/about-conferencepolicy/"
   },
   {
+    "name": "DotNetOS",
+    "url": "https://conf.dotnetos.org",
+    "startDate": "2022-04-25",
+    "endDate": "2022-04-27",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdeac6A4qCBajPGFdkJ6PuWVMiAWsjW-9dS7rb62dGnywnlpA/viewform",
+    "cfpEndDate": "2022-03-14",
+    "twitter": "@dotnetosorg"
+  },
+  {
     "name": "WeAreDevelopers World Congress",
     "url": "https://www.wearedevelopers.com/world-congress/#",
     "startDate": "2022-06-14",
@@ -53,26 +74,5 @@
     "online": true,
     "cfpUrl": "https://sessionize.com/wearedevs2022",
     "cfpEndDate": "2022-01-31"
-  },
-  {
-    "name": "DEVintersection",
-    "startDate": "2022-04-05",
-    "endDate": "2022-04-08",
-    "city": "Las Vegas, NV",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@DEVintersection",
-    "cocUrl": "https://devintersection.com/#!/conduct",
-    "url": "https://devintersection.com"
-  },
-  {
-    "name": "DotNetOS",
-    "startDate": "2022-04-25",
-    "endDate": "2022-04-27",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdeac6A4qCBajPGFdkJ6PuWVMiAWsjW-9dS7rb62dGnywnlpA/viewform",
-    "cfpEndDate": "2022-03-14",
-    "twitter": "@dotnetosorg",
-    "url": "https://conf.dotnetos.org"
   }
 ]

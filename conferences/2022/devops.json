@@ -384,6 +384,16 @@
     "cocUrl": "https://devopsdays.org/events/2022-chicago/conduct"
   },
   {
+    "name": "DevOps Enterprise Summit Virtual - Europe",
+    "url": "https://events.itrevolution.com/virtual",
+    "startDate": "2022-05-10",
+    "endDate": "2022-05-12",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/devopsenterprisesummiteurope",
+    "cfpEndDate": "2022-02-28",
+    "twitter": "@ITRevDOES"
+  },
+  {
     "name": "QCon Plus Online Software Conference",
     "url": "https://plus.qconferences.com",
     "startDate": "2022-05-10",
@@ -723,15 +733,5 @@
     "country": "Australia",
     "online": false,
     "cocUrl": "https://www.usenix.org/conferences/coc"
-  },
-  {
-    "name": "DevOps Enterprise Summit Virtual - Europe",
-    "startDate": "2022-05-10",
-    "endDate": "2022-05-12",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/devopsenterprisesummiteurope",
-    "cfpEndDate": "2022-02-28",
-    "twitter": "@ITRevDOES",
-    "url": "https://events.itrevolution.com/virtual"
   }
 ]
