@@ -374,6 +374,18 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "O11yfest",
+    "url": "https://o11yfest.org",
+    "startDate": "2022-05-09",
+    "endDate": "2022-05-12",
+    "online": true,
+    "cfpUrl": "https://o11yfest.org/cfp",
+    "cfpEndDate": "2022-05-01",
+    "twitter": "@o11yfest",
+    "cocUrl": "https://o11yfest.org/code-of-conduct",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Devopsdays Chicago",
     "url": "https://devopsdays.org/events/2022-chicago/welcome/",
     "startDate": "2022-05-10",
@@ -733,17 +745,5 @@
     "country": "Australia",
     "online": false,
     "cocUrl": "https://www.usenix.org/conferences/coc"
-  },
-  {
-    "name": "O11yfest",
-    "startDate": "2022-05-09",
-    "endDate": "2022-05-12",
-    "online": true,
-    "cfpUrl": "https://o11yfest.org/cfp",
-    "cfpEndDate": "2022-05-01",
-    "twitter": "@o11yfest",
-    "cocUrl": "https://o11yfest.org/code-of-conduct",
-    "offersSignLanguageOrCC": true,
-    "url": "https://o11yfest.org"
   }
 ]
