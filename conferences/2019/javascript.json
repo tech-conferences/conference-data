@@ -1639,25 +1639,6 @@
     "twitter": "@jsdc_tw"
   },
   {
-    "name": "FEConf",
-    "url": "https://2019.feconf.kr/",
-    "startDate": "2019-11-26",
-    "endDate": "2019-11-26",
-    "city": "Seoul",
-    "country": "Korea",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfrp8ZbPTqiKDHSFs8e3STLvn1ZHLKGJliY1NPc8pnPhZdT7Q/viewform",
-    "cfpEndDate": "2019-07-31"
-  },
-  {
-    "name": "vuecamp",
-    "url": "https://vuecamp.de/",
-    "startDate": "2019-11-26",
-    "endDate": "2019-11-27",
-    "city": "Berlin",
-    "country": "Germany",
-    "twitter": "@VueCamp_de"
-  },
-  {
     "name": "ITNEXT Summit",
     "url": "https://itnextsummit.com",
     "startDate": "2019-10-30",
@@ -1827,6 +1808,16 @@
     "twitter": "@ngPolandConf"
   },
   {
+    "name": "FEConf",
+    "url": "https://2019.feconf.kr/",
+    "startDate": "2019-11-26",
+    "endDate": "2019-11-26",
+    "city": "Seoul",
+    "country": "Korea",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfrp8ZbPTqiKDHSFs8e3STLvn1ZHLKGJliY1NPc8pnPhZdT7Q/viewform",
+    "cfpEndDate": "2019-07-31"
+  },
+  {
     "name": "FRONTEND CON",
     "url": "https://frontend-con.io",
     "startDate": "2019-11-26",
@@ -1836,6 +1827,15 @@
     "cfpUrl": "https://goo.gl/forms/V13IzNhrB7IMBiuA2",
     "cfpEndDate": "2019-06-05",
     "twitter": "@FrontEndConnect"
+  },
+  {
+    "name": "vuecamp",
+    "url": "https://vuecamp.de/",
+    "startDate": "2019-11-26",
+    "endDate": "2019-11-27",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@VueCamp_de"
   },
   {
     "name": "ColdFront",

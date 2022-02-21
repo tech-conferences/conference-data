@@ -63,18 +63,6 @@
     "offersSignLanguageOrCC": true
   },
   {
-    "name": "UXLx: User Experience Lisbon",
-    "url": "https://www.ux-lx.com",
-    "startDate": "2022-05-24",
-    "endDate": "2022-05-27",
-    "city": "Lisbon",
-    "country": "Portugal",
-    "online": false,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeAwx-Xt73X0vK_fa5bG4vb2y6aHswQUFX6W11lQ7ncVjYmEw/viewform",
-    "cfpEndDate": "2021-10-31",
-    "twitter": "@uxlx"
-  },
-  {
     "name": "QCon Plus Online Software Conference",
     "url": "https://plus.qconferences.com",
     "startDate": "2022-05-10",
@@ -93,6 +81,18 @@
     "online": false,
     "twitter": "@thatconference",
     "cocUrl": "https://that.us/support/code-of-conduct/"
+  },
+  {
+    "name": "UXLx: User Experience Lisbon",
+    "url": "https://www.ux-lx.com",
+    "startDate": "2022-05-24",
+    "endDate": "2022-05-27",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "online": false,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeAwx-Xt73X0vK_fa5bG4vb2y6aHswQUFX6W11lQ7ncVjYmEw/viewform",
+    "cfpEndDate": "2021-10-31",
+    "twitter": "@uxlx"
   },
   {
     "name": "UXLx: User Experience Lisbon",

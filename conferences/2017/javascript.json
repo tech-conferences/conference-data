@@ -471,14 +471,6 @@
     "country": "South Africa"
   },
   {
-    "name": "Node Summit",
-    "url": "http://nodesummit.com",
-    "startDate": "2017-08-25",
-    "endDate": "2017-08-27",
-    "city": "San Francisco, CA",
-    "country": "U.S.A."
-  },
-  {
     "name": "JSChannel",
     "url": "http://2017.jschannel.com",
     "startDate": "2017-07-28",
@@ -525,6 +517,14 @@
     "endDate": "2017-08-25",
     "city": "Porto Alegre",
     "country": "Brazil"
+  },
+  {
+    "name": "Node Summit",
+    "url": "http://nodesummit.com",
+    "startDate": "2017-08-25",
+    "endDate": "2017-08-27",
+    "city": "San Francisco, CA",
+    "country": "U.S.A."
   },
   {
     "name": "Frontend Conference Zurich",
