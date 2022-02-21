@@ -899,6 +899,16 @@
     "offersSignLanguageOrCC": false
   },
   {
+    "name": "QCon Plus",
+    "url": "https://plus.qconferences.com",
+    "startDate": "2020-11-04",
+    "endDate": "2020-11-04",
+    "online": true,
+    "twitter": "@QCon",
+    "cocUrl": "https://plus.qconferences.com/code-conduct",
+    "offersSignLanguageOrCC": false
+  },
+  {
     "name": "Web Directions Summit",
     "url": "https://www.webdirections.org/wds/",
     "startDate": "2020-11-04",
@@ -908,16 +918,6 @@
     "cfpUrl": "https://www.webdirections.org/speaking/",
     "cfpEndDate": "2020-05-01",
     "twitter": "@webdirections"
-  },
-  {
-    "name": "QCon Plus",
-    "url": "https://plus.qconferences.com",
-    "startDate": "2020-11-04",
-    "endDate": "2020-11-04",
-    "online": true,
-    "twitter": "@QCon",
-    "cocUrl": "https://plus.qconferences.com/code-conduct",
-    "offersSignLanguageOrCC": false
   },
   {
     "name": "Cloud Conf",
