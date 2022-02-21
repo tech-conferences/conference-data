@@ -1,7 +1,9 @@
 const parse = require('date-fns/parse');
+const differenceInDays = require('date-fns/differenceInDays');
 const validLocations = require('../../config/validLocations');
 const validFields = require('../../config/validFields');
 
+const maxDurationInDays = 10;
 const twitterRegex = /@(\w){1,15}$/;
 const httpRegex = /^http(s?):\/\//;
 const httpNoQuestionmarkRegex = /\?/;
@@ -34,6 +36,8 @@ module.exports = function checkConference(year, conference, assertField) {
     assertField(conference.endDate.length === 10, 'endDate', 'should have a length of 10 characters', conference.endDate);
     const endDate = parse(conference.endDate, dateFormat, new Date());
     assertField(startDate.getTime() <= endDate.getTime(), 'endDate', 'should be after start date', `${conference.startDate} <= ${conference.endDate}`);
+    const durationInDays = differenceInDays(endDate, startDate);
+    assertField(durationInDays <= maxDurationInDays, 'endDate', `the duration of the conference is above the max limit of ${maxDurationInDays} days`, durationInDays);
     const hasCountry = conference.hasOwnProperty('country');
     const hasCity = conference.hasOwnProperty('city');
     var hasOnline = conference.hasOwnProperty('online');
