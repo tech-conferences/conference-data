@@ -35,5 +35,17 @@
     "cfpEndDate": "2022-03-01",
     "twitter": "@thatconference",
     "cocUrl": "https://that.us/support/code-of-conduct/"
+  },
+  {
+    "name": "HasuraCon",
+    "startDate": "2022-06-28",
+    "endDate": "2022-06-30",
+    "online": true,
+    "cfpUrl": "https://forms.hasura.io/hascon22-cfp",
+    "cfpEndDate": "2022-04-30",
+    "twitter": "@hasurahq",
+    "cocUrl": "https://hasura.io/events/hasura-con-2022/code-of-conduct/",
+    "offersSignLanguageOrCC": true,
+    "url": "https://hasura.io/events/hasura-con-2022"
   }
 ]
