@@ -122,16 +122,6 @@
     "cocUrl": "https://nullcon.net/about-conferencepolicy/"
   },
   {
-    "name": "YOW! London",
-    "url": "https://skillsmatter.com/conferences/13690-yow-london",
-    "startDate": "2022-09-22",
-    "endDate": "2022-09-23",
-    "city": "London",
-    "country": "U.K.",
-    "online": true,
-    "twitter": "@yowconf"
-  },
-  {
     "name": "stackconf",
     "url": "https://stackconf.eu",
     "startDate": "2022-05-16",
@@ -160,6 +150,25 @@
     "city": "Vienna",
     "country": "Austria",
     "online": false
+  },
+  {
+    "name": "YOW! Data",
+    "url": "https://skillsmatter.com/conferences/13659-yow-data-2022",
+    "startDate": "2022-05-30",
+    "endDate": "2022-05-31",
+    "online": true,
+    "twitter": "@yow_conf",
+    "cocUrl": "https://skillsmatter.com/go/code-of-conduct"
+  },
+  {
+    "name": "EMERGE",
+    "url": "https://emergeconf.io",
+    "startDate": "2022-06-01",
+    "endDate": "2022-06-02",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "online": true,
+    "twitter": "@EmergeConfHQ"
   },
   {
     "name": "Render-Atlanta (RenderATL)",
@@ -209,6 +218,18 @@
     "cfpUrl": "https://mmsys2022.ie/downloads/MMSys2022_CallForPapers.pdf",
     "cfpEndDate": "2022-01-21",
     "twitter": "@acmmmsys"
+  },
+  {
+    "name": "stackconf",
+    "url": "https://stackconf.eu",
+    "startDate": "2022-07-19",
+    "endDate": "2022-07-20",
+    "online": true,
+    "cfpUrl": "https://stackconf.eu/cfp_info",
+    "cfpEndDate": "2022-03-31",
+    "twitter": "@stackconf",
+    "cocUrl": "https://stackconf.eu/code-of-conduct/",
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "THAT Conference",
@@ -271,6 +292,16 @@
     "cocUrl": "https://shift.infobip.com/code/"
   },
   {
+    "name": "YOW! London",
+    "url": "https://skillsmatter.com/conferences/13690-yow-london",
+    "startDate": "2022-09-22",
+    "endDate": "2022-09-23",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "twitter": "@yowconf"
+  },
+  {
     "name": "UK Cyber Week",
     "url": "https://www.ukcyberweek.co.uk",
     "startDate": "2022-11-03",
@@ -292,36 +323,5 @@
     "cfpEndDate": "2022-06-30",
     "twitter": "@netwaysevents",
     "cocUrl": "https://osmc.de/code-of-conduct/"
-  },
-  {
-    "name": "YOW! Data",
-    "startDate": "2022-05-30",
-    "endDate": "2022-05-31",
-    "online": true,
-    "twitter": "@yow_conf",
-    "cocUrl": "https://skillsmatter.com/go/code-of-conduct",
-    "url": "https://skillsmatter.com/conferences/13659-yow-data-2022"
-  },
-  {
-    "name": "EMERGE",
-    "startDate": "2022-06-01",
-    "endDate": "2022-06-02",
-    "city": "Yerevan",
-    "country": "Armenia",
-    "online": true,
-    "twitter": "@EmergeConfHQ",
-    "url": "https://emergeconf.io"
-  },
-  {
-    "name": "stackconf",
-    "startDate": "2022-07-19",
-    "endDate": "2022-07-20",
-    "online": true,
-    "cfpUrl": "https://stackconf.eu/cfp_info",
-    "cfpEndDate": "2022-03-31",
-    "twitter": "@stackconf",
-    "cocUrl": "https://stackconf.eu/code-of-conduct/",
-    "offersSignLanguageOrCC": true,
-    "url": "https://stackconf.eu"
   }
 ]

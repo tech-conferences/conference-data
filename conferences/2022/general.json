@@ -287,16 +287,6 @@
     "cocUrl": "https://www.conf42.com/code-of-conduct"
   },
   {
-    "name": "YOW! London",
-    "url": "https://skillsmatter.com/conferences/13690-yow-london",
-    "startDate": "2022-09-22",
-    "endDate": "2022-09-23",
-    "city": "London",
-    "country": "U.K.",
-    "online": true,
-    "twitter": "@yowconf"
-  },
-  {
     "name": "Codemotion Spanish Edition",
     "url": "https://events.codemotion.com/conferences/online/2022/online-tech-conference-2022-spanish-edition-spring",
     "startDate": "2022-05-10",
@@ -324,6 +314,15 @@
     "city": "Karlsruhe",
     "country": "Germany",
     "online": false
+  },
+  {
+    "name": "YOW! Lambda Jam",
+    "url": "https://skillsmatter.com/conferences/13660-yow-lambdajam-2022",
+    "startDate": "2022-05-17",
+    "endDate": "2022-05-18",
+    "online": true,
+    "twitter": "@yow_conf",
+    "cocUrl": "https://skillsmatter.com/go/code-of-conduct"
   },
   {
     "name": "THAT Conference",
@@ -383,6 +382,17 @@
     "cfpUrl": "https://mmsys2022.ie/downloads/MMSys2022_CallForPapers.pdf",
     "cfpEndDate": "2022-01-21",
     "twitter": "@acmmmsys"
+  },
+  {
+    "name": "Bazel eXchange",
+    "url": "https://skillsmatter.com/conferences/13682-bazel-exchange",
+    "startDate": "2022-06-21",
+    "endDate": "2022-06-22",
+    "online": true,
+    "cfpUrl": "https://skillsmatter.com/conferences/13682-bazel-exchange#get_involved",
+    "cfpEndDate": "2022-03-23",
+    "twitter": "@skillsmatter",
+    "cocUrl": "https://skillsmatter.com/go/code-of-conduct"
   },
   {
     "name": "Conf42 Quantum Computing",
@@ -456,6 +466,16 @@
     "cocUrl": "https://shift.infobip.com/code/"
   },
   {
+    "name": "YOW! London",
+    "url": "https://skillsmatter.com/conferences/13690-yow-london",
+    "startDate": "2022-09-22",
+    "endDate": "2022-09-23",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "twitter": "@yowconf"
+  },
+  {
     "name": "NDC Oslo",
     "url": "https://ndcoslo.com",
     "startDate": "2022-09-25",
@@ -513,25 +533,5 @@
     "online": false,
     "twitter": "@techbash",
     "cocUrl": "https://techbash.com/code-of-conduct"
-  },
-  {
-    "name": "Bazel eXchange",
-    "startDate": "2022-06-21",
-    "endDate": "2022-06-22",
-    "online": true,
-    "cfpUrl": "https://skillsmatter.com/conferences/13682-bazel-exchange#get_involved",
-    "cfpEndDate": "2022-03-23",
-    "twitter": "@skillsmatter",
-    "cocUrl": "https://skillsmatter.com/go/code-of-conduct",
-    "url": "https://skillsmatter.com/conferences/13682-bazel-exchange"
-  },
-  {
-    "name": "YOW! Lambda Jam",
-    "startDate": "2022-05-17",
-    "endDate": "2022-05-18",
-    "online": true,
-    "twitter": "@yow_conf",
-    "cocUrl": "https://skillsmatter.com/go/code-of-conduct",
-    "url": "https://skillsmatter.com/conferences/13660-yow-lambdajam-2022"
   }
 ]

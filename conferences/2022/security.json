@@ -226,6 +226,19 @@
     "online": true
   },
   {
+    "name": "JCON-PEOPLE",
+    "url": "https://jcon.one",
+    "startDate": "2022-06-21",
+    "endDate": "2022-06-22",
+    "city": "Munich",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/jcon-2022-people",
+    "cfpEndDate": "2022-03-31",
+    "twitter": "@jcon_conference",
+    "cocUrl": "https://2022.jcon.one/code-of-conduct"
+  },
+  {
     "name": "CascadiaJS",
     "url": "https://2022.cascadiajs.com",
     "startDate": "2022-08-30",
@@ -267,18 +280,5 @@
     "cfpEndDate": "2022-10-28",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
-  },
-  {
-    "name": "JCON-PEOPLE",
-    "startDate": "2022-06-21",
-    "endDate": "2022-06-22",
-    "city": "Munich",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://sessionize.com/jcon-2022-people",
-    "cfpEndDate": "2022-03-31",
-    "twitter": "@jcon_conference",
-    "cocUrl": "https://2022.jcon.one/code-of-conduct",
-    "url": "https://jcon.one"
   }
 ]

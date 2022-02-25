@@ -156,6 +156,19 @@
     "cfpEndDate": "2022-01-31"
   },
   {
+    "name": "JCON-PEOPLE",
+    "url": "https://jcon.one",
+    "startDate": "2022-06-21",
+    "endDate": "2022-06-22",
+    "city": "Munich",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/jcon-2022-people",
+    "cfpEndDate": "2022-03-31",
+    "twitter": "@jcon_conference",
+    "cocUrl": "https://2022.jcon.one/code-of-conduct"
+  },
+  {
     "name": "JBCNConf",
     "url": "https://www.jbcnconf.com/2022",
     "startDate": "2022-07-18",
@@ -189,18 +202,5 @@
     "cfpEndDate": "2022-03-31",
     "twitter": "@jcon_conference",
     "cocUrl": "https://jcon.one/code-of-conduct"
-  },
-  {
-    "name": "JCON-PEOPLE",
-    "startDate": "2022-06-21",
-    "endDate": "2022-06-22",
-    "city": "Munich",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://sessionize.com/jcon-2022-people",
-    "cfpEndDate": "2022-03-31",
-    "twitter": "@jcon_conference",
-    "cocUrl": "https://2022.jcon.one/code-of-conduct",
-    "url": "https://jcon.one"
   }
 ]

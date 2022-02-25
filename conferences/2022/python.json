@@ -92,6 +92,17 @@
     "cocUrl": "https://github.com/pythonitalia/code-of-conducts/blob/master/online/english.md"
   },
   {
+    "name": "Bazel eXchange",
+    "url": "https://skillsmatter.com/conferences/13682-bazel-exchange",
+    "startDate": "2022-06-21",
+    "endDate": "2022-06-22",
+    "online": true,
+    "cfpUrl": "https://skillsmatter.com/conferences/13682-bazel-exchange#get_involved",
+    "cfpEndDate": "2022-03-23",
+    "twitter": "@skillsmatter",
+    "cocUrl": "https://skillsmatter.com/go/code-of-conduct"
+  },
+  {
     "name": "EuroPython",
     "url": "https://www.python.org/events/python-events/989",
     "startDate": "2022-07-11",
@@ -112,16 +123,5 @@
     "cfpEndDate": "2022-03-20",
     "twitter": "@AgileTD",
     "cocUrl": "https://agiletestingdays.com/code-of-conduct/"
-  },
-  {
-    "name": "Bazel eXchange",
-    "startDate": "2022-06-21",
-    "endDate": "2022-06-22",
-    "online": true,
-    "cfpUrl": "https://skillsmatter.com/conferences/13682-bazel-exchange#get_involved",
-    "cfpEndDate": "2022-03-23",
-    "twitter": "@skillsmatter",
-    "cocUrl": "https://skillsmatter.com/go/code-of-conduct",
-    "url": "https://skillsmatter.com/conferences/13682-bazel-exchange"
   }
 ]
