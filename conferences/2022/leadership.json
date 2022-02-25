@@ -88,16 +88,6 @@
     "offersSignLanguageOrCC": true
   },
   {
-    "name": "YOW! London",
-    "url": "https://skillsmatter.com/conferences/13690-yow-london",
-    "startDate": "2022-09-22",
-    "endDate": "2022-09-23",
-    "city": "London",
-    "country": "U.K.",
-    "online": true,
-    "twitter": "@yowconf"
-  },
-  {
     "name": "DevOps Enterprise Summit Virtual - Europe",
     "url": "https://events.itrevolution.com/virtual",
     "startDate": "2022-05-10",
@@ -188,5 +178,15 @@
     "cfpEndDate": "2022-07-01",
     "twitter": "@infobipshift",
     "cocUrl": "https://shift.infobip.com/code/"
+  },
+  {
+    "name": "YOW! London",
+    "url": "https://skillsmatter.com/conferences/13690-yow-london",
+    "startDate": "2022-09-22",
+    "endDate": "2022-09-23",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "twitter": "@yowconf"
   }
 ]
