@@ -44,6 +44,30 @@
     "cocUrl": "https://nullcon.net/about-conferencepolicy/"
   },
   {
+    "name": "Droidcon Lisbon",
+    "url": "https://www.lisbon.droidcon.com",
+    "startDate": "2022-04-21",
+    "endDate": "2022-04-22",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/droidcon-lisbon2022",
+    "cfpEndDate": "2022-02-28",
+    "cocUrl": "https://www.lisbon.droidcon.com/code-of-conduct"
+  },
+  {
+    "name": "Droidcon San Francisco",
+    "url": "https://www.sf.droidcon.com",
+    "startDate": "2022-06-02",
+    "endDate": "2022-06-03",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/droidcon-sf-2022",
+    "cfpEndDate": "2022-04-01",
+    "cocUrl": "https://www.sf.droidcon.com/code-of-conduct"
+  },
+  {
     "name": "App.js Conf",
     "url": "https://appjs.co",
     "startDate": "2022-06-08",
@@ -69,31 +93,8 @@
     "cfpEndDate": "2022-01-31"
   },
   {
-    "name": "Droidcon San Francisco",
-    "startDate": "2022-06-02",
-    "endDate": "2022-06-03",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://sessionize.com/droidcon-sf-2022",
-    "cfpEndDate": "2022-04-01",
-    "cocUrl": "https://www.sf.droidcon.com/code-of-conduct",
-    "url": "https://www.sf.droidcon.com"
-  },
-  {
-    "name": "Droidcon Lisbon",
-    "startDate": "2022-04-21",
-    "endDate": "2022-04-22",
-    "city": "Lisbon",
-    "country": "Portugal",
-    "online": false,
-    "cfpUrl": "https://sessionize.com/droidcon-lisbon2022",
-    "cfpEndDate": "2022-02-28",
-    "cocUrl": "https://www.lisbon.droidcon.com/code-of-conduct",
-    "url": "https://www.lisbon.droidcon.com"
-  },
-  {
     "name": "Droidcon Berlin",
+    "url": "https://www.berlin.droidcon.com",
     "startDate": "2022-07-06",
     "endDate": "2022-07-08",
     "city": "Berlin",
@@ -101,27 +102,26 @@
     "online": false,
     "cfpUrl": "https://sessionize.com/droidcon-berlin-2022",
     "cfpEndDate": "2022-05-20",
-    "cocUrl": "https://www.berlin.droidcon.com/code-of-conduct",
-    "url": "https://www.berlin.droidcon.com"
+    "cocUrl": "https://www.berlin.droidcon.com/code-of-conduct"
   },
   {
     "name": "Droidcon New York",
+    "url": "https://www.nyc.droidcon.com",
     "startDate": "2022-09-01",
     "endDate": "2022-09-02",
     "city": "New York, NY",
     "country": "U.S.A.",
     "online": false,
-    "cocUrl": "https://www.nyc.droidcon.com/code-of-conduct",
-    "url": "https://www.nyc.droidcon.com"
+    "cocUrl": "https://www.nyc.droidcon.com/code-of-conduct"
   },
   {
     "name": "Droidcon London",
+    "url": "https://www.london.droidcon.com",
     "startDate": "2022-10-27",
     "endDate": "2022-10-28",
     "city": "London",
     "country": "U.K.",
     "online": false,
-    "cocUrl": "https://www.london.droidcon.com/code-of-conduct",
-    "url": "https://www.london.droidcon.com"
+    "cocUrl": "https://www.london.droidcon.com/code-of-conduct"
   }
 ]
