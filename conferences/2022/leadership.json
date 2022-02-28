@@ -188,5 +188,16 @@
     "country": "U.K.",
     "online": true,
     "twitter": "@yowconf"
+  },
+  {
+    "name": "inside agile",
+    "startDate": "2022-05-03",
+    "endDate": "2022-05-04",
+    "city": "Darmstadt",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@inside_agile",
+    "cocUrl": "https://konf.inside-agile.de/code_of_conduct.php",
+    "url": "https://konf.inside-agile.de"
   }
 ]
