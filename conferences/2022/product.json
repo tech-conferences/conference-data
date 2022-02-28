@@ -35,6 +35,17 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "inside agile",
+    "url": "https://konf.inside-agile.de",
+    "startDate": "2022-05-03",
+    "endDate": "2022-05-04",
+    "city": "Darmstadt",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@inside_agile",
+    "cocUrl": "https://konf.inside-agile.de/code_of_conduct.php"
+  },
+  {
     "name": "PUSH Discovery",
     "url": "https://push-conference.com/discovery",
     "startDate": "2022-05-10",
@@ -75,16 +86,5 @@
     "city": "Bangkok",
     "country": "Thailand",
     "online": true
-  },
-  {
-    "name": "inside agile",
-    "startDate": "2022-05-03",
-    "endDate": "2022-05-04",
-    "city": "Darmstadt",
-    "country": "Germany",
-    "online": false,
-    "twitter": "@inside_agile",
-    "cocUrl": "https://konf.inside-agile.de/code_of_conduct.php",
-    "url": "https://konf.inside-agile.de"
   }
 ]

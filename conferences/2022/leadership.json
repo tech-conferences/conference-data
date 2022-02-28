@@ -88,6 +88,17 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "inside agile",
+    "url": "https://konf.inside-agile.de",
+    "startDate": "2022-05-03",
+    "endDate": "2022-05-04",
+    "city": "Darmstadt",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@inside_agile",
+    "cocUrl": "https://konf.inside-agile.de/code_of_conduct.php"
+  },
+  {
     "name": "DevOps Enterprise Summit Virtual - Europe",
     "url": "https://events.itrevolution.com/virtual",
     "startDate": "2022-05-10",
@@ -188,16 +199,5 @@
     "country": "U.K.",
     "online": true,
     "twitter": "@yowconf"
-  },
-  {
-    "name": "inside agile",
-    "startDate": "2022-05-03",
-    "endDate": "2022-05-04",
-    "city": "Darmstadt",
-    "country": "Germany",
-    "online": false,
-    "twitter": "@inside_agile",
-    "cocUrl": "https://konf.inside-agile.de/code_of_conduct.php",
-    "url": "https://konf.inside-agile.de"
   }
 ]

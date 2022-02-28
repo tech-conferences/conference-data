@@ -540,6 +540,18 @@
     "cfpEndDate": "2022-01-31"
   },
   {
+    "name": "HashiConf Europe",
+    "url": "https://hashiconf.com/europe",
+    "startDate": "2022-06-20",
+    "endDate": "2022-06-22",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": true,
+    "twitter": "@hashiconf",
+    "cocUrl": "https://hashiconf.com/europe/code-of-conduct/",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "DevOpsCon Berlin",
     "url": "https://devopscon.io/berlin",
     "startDate": "2022-06-20",
@@ -758,17 +770,5 @@
     "country": "Australia",
     "online": false,
     "cocUrl": "https://www.usenix.org/conferences/coc"
-  },
-  {
-    "name": "HashiConf Europe",
-    "startDate": "2022-06-20",
-    "endDate": "2022-06-22",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "online": true,
-    "twitter": "@hashiconf",
-    "cocUrl": "https://hashiconf.com/europe/code-of-conduct/",
-    "offersSignLanguageOrCC": true,
-    "url": "https://hashiconf.com/europe"
   }
 ]
