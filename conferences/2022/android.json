@@ -80,5 +80,17 @@
     "online": true,
     "cfpUrl": "https://sessionize.com/wearedevs2022",
     "cfpEndDate": "2022-01-31"
+  },
+  {
+    "name": "Droidcon Lisbon",
+    "startDate": "2022-04-21",
+    "endDate": "2022-04-22",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/droidcon-lisbon2022",
+    "cfpEndDate": "2022-02-28",
+    "cocUrl": "https://www.lisbon.droidcon.com/code-of-conduct",
+    "url": "https://www.lisbon.droidcon.com"
   }
 ]
