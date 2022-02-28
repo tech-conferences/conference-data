@@ -230,6 +230,19 @@
     "cocUrl": "https://github.com/aiven/uptime-conference-2022/blob/main/code-of-conduct.md"
   },
   {
+    "name": "data2day",
+    "url": "https://www.data2day.de",
+    "startDate": "2022-09-20",
+    "endDate": "2022-09-21",
+    "city": "Karlsruhe",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://www.data2day.de/cfp_en.php",
+    "cfpEndDate": "2022-05-02",
+    "twitter": "@data2day",
+    "cocUrl": "https://www.data2day.de/code_of_conduct.php"
+  },
+  {
     "name": "Agile Testing Days",
     "url": "https://agiletestingdays.com",
     "startDate": "2022-11-21",
@@ -241,18 +254,5 @@
     "cfpEndDate": "2022-03-20",
     "twitter": "@AgileTD",
     "cocUrl": "https://agiletestingdays.com/code-of-conduct/"
-  },
-  {
-    "name": "data2day",
-    "startDate": "2022-09-20",
-    "endDate": "2022-09-21",
-    "city": "Karlsruhe",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://www.data2day.de/cfp_en.php",
-    "cfpEndDate": "2022-05-02",
-    "twitter": "@data2day",
-    "cocUrl": "https://www.data2day.de/code_of_conduct.php",
-    "url": "https://www.data2day.de"
   }
 ]
