@@ -758,5 +758,17 @@
     "country": "Australia",
     "online": false,
     "cocUrl": "https://www.usenix.org/conferences/coc"
+  },
+  {
+    "name": "HashiConf Europe",
+    "startDate": "2022-06-20",
+    "endDate": "2022-06-22",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": true,
+    "twitter": "@hashiconf",
+    "cocUrl": "https://hashiconf.com/europe/code-of-conduct/",
+    "offersSignLanguageOrCC": true,
+    "url": "https://hashiconf.com/europe"
   }
 ]
