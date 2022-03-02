@@ -75,6 +75,13 @@
     "cocUrl": "https://www.conf42.com/code-of-conduct"
   },
   {
+    "name": "1337up Live",
+    "url": "https://www.intigriti.com/1337uplive",
+    "startDate": "2022-03-12",
+    "endDate": "2022-03-12",
+    "online": true
+  },
+  {
     "name": "NVIDIA GTC",
     "url": "https://www.nvidia.com/gtc",
     "startDate": "2022-03-21",
@@ -267,12 +274,5 @@
     "cfpEndDate": "2022-10-28",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
-  },
-  {
-    "name": "1337up Live",
-    "startDate": "2022-03-12",
-    "endDate": "2022-03-12",
-    "online": true,
-    "url": "https://www.intigriti.com/1337uplive"
   }
 ]
