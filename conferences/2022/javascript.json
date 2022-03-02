@@ -477,6 +477,19 @@
     "cocUrl": "https://that.us/support/code-of-conduct/"
   },
   {
+    "name": "FullStack eXchange",
+    "url": "https://skillsmatter.com/conferences/13770-fullstack-exchange-2022",
+    "startDate": "2022-07-27",
+    "endDate": "2022-07-28",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "cfpUrl": "https://skillsmatter.com/conferences/13727-fullstack-exchange-online#get_involved",
+    "cfpEndDate": "2022-04-28",
+    "twitter": "@skillsmatter",
+    "cocUrl": "https://skillsmatter.com/go/code-of-conduct"
+  },
+  {
     "name": "CascadiaJS",
     "url": "https://2022.cascadiajs.com",
     "startDate": "2022-08-30",
@@ -509,18 +522,5 @@
     "cfpEndDate": "2022-10-14",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
-  },
-  {
-    "name": "FullStack eXchange",
-    "startDate": "2022-07-27",
-    "endDate": "2022-07-28",
-    "city": "London",
-    "country": "U.K.",
-    "online": true,
-    "cfpUrl": "https://skillsmatter.com/conferences/13727-fullstack-exchange-online#get_involved",
-    "cfpEndDate": "2022-04-28",
-    "twitter": "@skillsmatter",
-    "cocUrl": "https://skillsmatter.com/go/code-of-conduct",
-    "url": "https://skillsmatter.com/conferences/13770-fullstack-exchange-2022"
   }
 ]

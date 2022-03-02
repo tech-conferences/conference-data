@@ -466,6 +466,17 @@
     "cocUrl": "https://shift.infobip.com/code/"
   },
   {
+    "name": "JCON-ONLINE",
+    "url": "https://jcon.one",
+    "startDate": "2022-09-20",
+    "endDate": "2022-09-23",
+    "online": true,
+    "cfpUrl": "https://2022.jcon.one/call-for-papers",
+    "cfpEndDate": "2022-03-31",
+    "twitter": "@jcon_conference",
+    "cocUrl": "https://2022.jcon.one/code-of-conduct"
+  },
+  {
     "name": "YOW! London",
     "url": "https://skillsmatter.com/conferences/13690-yow-london",
     "startDate": "2022-09-22",
@@ -536,22 +547,11 @@
   },
   {
     "name": "DevTernity",
+    "url": "https://devternity.com",
     "startDate": "2022-12-08",
     "endDate": "2022-12-09",
     "online": true,
     "twitter": "@devternity",
-    "cocUrl": "https://devternity.com/code_of_conduct.html",
-    "url": "https://devternity.com"
-  },
-  {
-    "name": "JCON-ONLINE",
-    "startDate": "2022-09-20",
-    "endDate": "2022-09-23",
-    "online": true,
-    "cfpUrl": "https://2022.jcon.one/call-for-papers",
-    "cfpEndDate": "2022-03-31",
-    "twitter": "@jcon_conference",
-    "cocUrl": "https://2022.jcon.one/code-of-conduct",
-    "url": "https://jcon.one"
+    "cocUrl": "https://devternity.com/code_of_conduct.html"
   }
 ]
