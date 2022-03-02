@@ -552,6 +552,16 @@
     "cocUrl": "https://devopscon.io/code-of-conduct/"
   },
   {
+    "name": "DevOps-Fusion",
+    "url": "http://devops-fusion.com",
+    "startDate": "2022-06-21",
+    "endDate": "2022-06-21",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "online": false,
+    "twitter": "@DevOpsFusion"
+  },
+  {
     "name": "JCON-PEOPLE",
     "url": "https://jcon.one",
     "startDate": "2022-06-21",
@@ -757,15 +767,5 @@
     "country": "Australia",
     "online": false,
     "cocUrl": "https://www.usenix.org/conferences/coc"
-  },
-  {
-    "name": "DevOps-Fusion",
-    "startDate": "2022-06-21",
-    "endDate": "2022-06-21",
-    "city": "Zurich",
-    "country": "Switzerland",
-    "online": false,
-    "twitter": "@DevOpsFusion",
-    "url": "http://devops-fusion.com"
   }
 ]
