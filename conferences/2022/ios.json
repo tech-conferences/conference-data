@@ -33,6 +33,15 @@
     "cocUrl": "https://www.conf42.com/code-of-conduct"
   },
   {
+    "name": "betterCode() Flutter",
+    "url": "https://flutter.bettercode.eu",
+    "startDate": "2022-05-24",
+    "endDate": "2022-05-24",
+    "online": true,
+    "twitter": "@bettercodeconf",
+    "cocUrl": "https://flutter.bettercode.eu/code_of_conduct.php"
+  },
+  {
     "name": "App.js Conf",
     "url": "https://appjs.co",
     "startDate": "2022-06-08",
@@ -72,6 +81,7 @@
   },
   {
     "name": "SwiftLeeds",
+    "url": "https://swiftleeds.co.uk",
     "startDate": "2022-10-17",
     "endDate": "2022-10-17",
     "city": "Leeds",
@@ -79,16 +89,6 @@
     "online": true,
     "cfpUrl": "https://sessionize.com/swiftleeds",
     "cfpEndDate": "2022-04-30",
-    "twitter": "@swift_leeds",
-    "url": "https://swiftleeds.co.uk"
-  },
-  {
-    "name": "betterCode() Flutter",
-    "startDate": "2022-05-24",
-    "endDate": "2022-05-24",
-    "online": true,
-    "twitter": "@bettercodeconf",
-    "cocUrl": "https://flutter.bettercode.eu/code_of_conduct.php",
-    "url": "https://flutter.bettercode.eu"
+    "twitter": "@swift_leeds"
   }
 ]

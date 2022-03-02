@@ -56,6 +56,15 @@
     "cocUrl": "https://www.lisbon.droidcon.com/code-of-conduct"
   },
   {
+    "name": "betterCode() Flutter",
+    "url": "https://flutter.bettercode.eu",
+    "startDate": "2022-05-24",
+    "endDate": "2022-05-24",
+    "online": true,
+    "twitter": "@bettercodeconf",
+    "cocUrl": "https://flutter.bettercode.eu/code_of_conduct.php"
+  },
+  {
     "name": "Droidcon San Francisco",
     "url": "https://www.sf.droidcon.com",
     "startDate": "2022-06-02",
@@ -123,14 +132,5 @@
     "country": "U.K.",
     "online": false,
     "cocUrl": "https://www.london.droidcon.com/code-of-conduct"
-  },
-  {
-    "name": "betterCode() Flutter",
-    "startDate": "2022-05-24",
-    "endDate": "2022-05-24",
-    "online": true,
-    "twitter": "@bettercodeconf",
-    "cocUrl": "https://flutter.bettercode.eu/code_of_conduct.php",
-    "url": "https://flutter.bettercode.eu"
   }
 ]
