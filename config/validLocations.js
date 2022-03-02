@@ -126,7 +126,8 @@ module.exports = {
   ],
   "Denmark": [
     "Aarhus",
-    "Copenhagen"
+    "Copenhagen",
+    "Odense"
   ],
   "Dominican Republic": [
     "Punta Cana",
