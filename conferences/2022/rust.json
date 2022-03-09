@@ -13,6 +13,16 @@
     "cocUrl": "https://www.typeville.io/"
   },
   {
+    "name": "Rust Summit: Das große Trainingsevent für alle Rust-Beginner & Rust-Enthusiasten",
+    "url": "https://entwickler.de/rust-summit",
+    "startDate": "2022-05-19",
+    "endDate": "2022-05-20",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@rust_summit"
+  },
+  {
     "name": "Conf42 Rustlang",
     "url": "https://www.conf42.com/rustlang2022",
     "startDate": "2022-09-01",
@@ -22,15 +32,5 @@
     "cfpEndDate": "2022-07-22",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
-  },
-  {
-    "name": "Rust Summit: Das große Trainingsevent für alle Rust-Beginner & Rust-Enthusiasten",
-    "startDate": "2022-05-19",
-    "endDate": "2022-05-20",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": false,
-    "twitter": "@rust_summit",
-    "url": "https://entwickler.de/rust-summit"
   }
 ]

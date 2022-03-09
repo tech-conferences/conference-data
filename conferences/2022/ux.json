@@ -139,6 +139,16 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "ProductCamp",
+    "url": "https://www.productcamp.pl",
+    "startDate": "2022-06-02",
+    "endDate": "2022-06-03",
+    "city": "Gdynia",
+    "country": "Poland",
+    "online": false,
+    "twitter": "@productcamppl"
+  },
+  {
     "name": "Vueconf.US",
     "url": "https://vueconf.us",
     "startDate": "2022-06-08",
@@ -163,6 +173,17 @@
     "cfpEndDate": "2022-02-01",
     "twitter": "@pixelpioneers",
     "cocUrl": "https://pixelpioneers.co/code-of-conduct"
+  },
+  {
+    "name": "uxday",
+    "url": "https://uxday.it",
+    "startDate": "2022-06-10",
+    "endDate": "2022-06-10",
+    "city": "Faenza",
+    "country": "Italy",
+    "online": true,
+    "twitter": "@uxdayit",
+    "cocUrl": "https://grusp.org/en/coc"
   },
   {
     "name": "THAT Conference",
@@ -201,26 +222,5 @@
     "cfpEndDate": "2022-07-01",
     "twitter": "@infobipshift",
     "cocUrl": "https://shift.infobip.com/code/"
-  },
-  {
-    "name": "ProductCamp",
-    "startDate": "2022-06-02",
-    "endDate": "2022-06-03",
-    "city": "Gdynia",
-    "country": "Poland",
-    "online": false,
-    "twitter": "@productcamppl",
-    "url": "https://www.productcamp.pl"
-  },
-  {
-    "name": "uxday",
-    "startDate": "2022-06-10",
-    "endDate": "2022-06-10",
-    "city": "Faenza",
-    "country": "Italy",
-    "online": true,
-    "twitter": "@uxdayit",
-    "cocUrl": "https://grusp.org/en/coc",
-    "url": "https://uxday.it"
   }
 ]
