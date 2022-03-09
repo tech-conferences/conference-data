@@ -44,5 +44,19 @@
     "online": true,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
+  },
+  {
+    "name": "Open Source Monitoring Confernce",
+    "startDate": "2022-11-14",
+    "endDate": "2022-11-16",
+    "city": "Nuremberg",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://osmc.de/call-for-papers",
+    "cfpEndDate": "2022-07-31",
+    "twitter": "@osmc",
+    "cocUrl": "https://osmc.de/code-of-conduct/",
+    "offersSignLanguageOrCC": true,
+    "url": "https://osmc.de"
   }
 ]
