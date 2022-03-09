@@ -413,6 +413,18 @@
     "twitter": "@newrelic"
   },
   {
+    "name": "FutureStack",
+    "url": "https://www.futurestack.com",
+    "startDate": "2022-05-17",
+    "endDate": "2022-05-19",
+    "city": "Las Vegas, NV",
+    "country": "U.S.A.",
+    "online": true,
+    "cfpUrl": "https://web.cvent.com/event/cb0816b2-21d0-4aba-8dd4-021c83deb937/summary",
+    "cfpEndDate": "2022-03-15",
+    "twitter": "@newrelic"
+  },
+  {
     "name": "KubeCon EU",
     "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe",
     "startDate": "2022-05-17",
@@ -787,17 +799,5 @@
     "online": true,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "FutureStack",
-    "startDate": "2022-05-17",
-    "endDate": "2022-05-19",
-    "city": "Las Vegas, NV",
-    "country": "U.S.A.",
-    "online": true,
-    "cfpUrl": "https://web.cvent.com/event/cb0816b2-21d0-4aba-8dd4-021c83deb937/summary",
-    "cfpEndDate": "2022-03-15",
-    "twitter": "@newrelic",
-    "url": "https://www.futurestack.com"
   }
 ]

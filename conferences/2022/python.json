@@ -46,6 +46,13 @@
     "twitter": "@NVIDIAGTC"
   },
   {
+    "name": "WeAreDevelopers Machine Learning Day",
+    "url": "https://www.wearedevelopers.com/event/machine-learning-day-2303",
+    "startDate": "2022-03-23",
+    "endDate": "2022-03-23",
+    "online": true
+  },
+  {
     "name": "Open Source Festival",
     "url": "https://festival.oscafrica.org",
     "startDate": "2022-03-24",
@@ -123,12 +130,5 @@
     "cfpEndDate": "2022-03-20",
     "twitter": "@AgileTD",
     "cocUrl": "https://agiletestingdays.com/code-of-conduct/"
-  },
-  {
-    "name": "WeAreDevelopers Machine Learning Day",
-    "startDate": "2022-03-23",
-    "endDate": "2022-03-23",
-    "online": true,
-    "url": "https://www.wearedevelopers.com/event/machine-learning-day-2303"
   }
 ]

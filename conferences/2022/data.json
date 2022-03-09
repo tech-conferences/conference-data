@@ -76,6 +76,17 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "IoT Forum Africa",
+    "url": "https://itnewsafrica.com/events/event/iot-forum-africa-2022",
+    "startDate": "2022-03-29",
+    "endDate": "2022-03-30",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "online": true,
+    "twitter": "@ITNewsAfrica",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Timescale Community Day",
     "url": "https://www.timescale.com/community-day",
     "startDate": "2022-03-31",
@@ -265,16 +276,5 @@
     "cfpEndDate": "2022-03-20",
     "twitter": "@AgileTD",
     "cocUrl": "https://agiletestingdays.com/code-of-conduct/"
-  },
-  {
-    "name": "IoT Forum Africa",
-    "startDate": "2022-03-29",
-    "endDate": "2022-03-30",
-    "city": "Johannesburg",
-    "country": "South Africa",
-    "online": true,
-    "twitter": "@ITNewsAfrica",
-    "offersSignLanguageOrCC": true,
-    "url": "https://itnewsafrica.com/events/event/iot-forum-africa-2022"
   }
 ]

@@ -66,6 +66,16 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "ProductCamp",
+    "url": "https://www.productcamp.pl",
+    "startDate": "2022-06-02",
+    "endDate": "2022-06-03",
+    "city": "Gdynia",
+    "country": "Poland",
+    "online": false,
+    "twitter": "@productcamppl"
+  },
+  {
     "name": "Infobip Shift",
     "url": "https://shift.infobip.com",
     "startDate": "2022-09-19",
@@ -95,15 +105,5 @@
     "online": true,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "ProductCamp",
-    "startDate": "2022-06-02",
-    "endDate": "2022-06-03",
-    "city": "Gdynia",
-    "country": "Poland",
-    "online": false,
-    "twitter": "@productcamppl",
-    "url": "https://www.productcamp.pl"
   }
 ]
