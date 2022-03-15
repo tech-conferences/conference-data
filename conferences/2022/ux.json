@@ -52,6 +52,13 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Design Value Conference",
+    "url": "https://get.uxpin.com/design-value-conference-2022",
+    "startDate": "2022-03-29",
+    "endDate": "2022-03-29",
+    "online": true
+  },
+  {
     "name": "QCon London",
     "url": "https://qconlondon.com",
     "startDate": "2022-04-04",
@@ -222,12 +229,5 @@
     "cfpEndDate": "2022-07-01",
     "twitter": "@infobipshift",
     "cocUrl": "https://shift.infobip.com/code/"
-  },
-  {
-    "name": "Design Value Conference",
-    "startDate": "2022-03-29",
-    "endDate": "2022-03-29",
-    "online": true,
-    "url": "https://get.uxpin.com/design-value-conference-2022"
   }
 ]
