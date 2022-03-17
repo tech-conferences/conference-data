@@ -129,6 +129,17 @@
     "cocUrl": "https://nullcon.net/about-conferencepolicy/"
   },
   {
+    "name": "WeAreDevelopers Security day",
+    "url": "https://www.wearedevelopers.com/event/security-day-0203",
+    "startDate": "2022-04-20",
+    "endDate": "2022-04-20",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/wearedevelopers-live-2022",
+    "cfpEndDate": "2022-03-31",
+    "twitter": "@WeAreDevs",
+    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form."
+  },
+  {
     "name": "DevOpsCon London",
     "url": "https://devopscon.io/london",
     "startDate": "2022-04-26",
@@ -161,6 +172,17 @@
     "online": true,
     "twitter": "@QCon",
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "IT Security Summit",
+    "url": "https://it-security-summit.de/muenchen",
+    "startDate": "2022-05-16",
+    "endDate": "2022-05-18",
+    "city": "Munich",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@ITSecSummit",
+    "cocUrl": "https://it-security-summit.de/code-of-conduct/"
   },
   {
     "name": "Qubit Conference Prague",
@@ -292,27 +314,5 @@
     "cfpEndDate": "2022-10-28",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
-  },
-  {
-    "name": "IT Security Summit",
-    "startDate": "2022-05-16",
-    "endDate": "2022-05-18",
-    "city": "Munich",
-    "country": "Germany",
-    "online": false,
-    "twitter": "@ITSecSummit",
-    "cocUrl": "https://it-security-summit.de/code-of-conduct/",
-    "url": "https://it-security-summit.de/muenchen"
-  },
-  {
-    "name": "WeAreDevelopers Security day",
-    "startDate": "2022-04-20",
-    "endDate": "2022-04-20",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/wearedevelopers-live-2022",
-    "cfpEndDate": "2022-03-31",
-    "twitter": "@WeAreDevs",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form.",
-    "url": "https://www.wearedevelopers.com/event/security-day-0203"
   }
 ]

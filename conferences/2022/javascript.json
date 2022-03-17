@@ -292,6 +292,17 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "WeAreDevelopers JavaScript Day",
+    "url": "https://www.wearedevelopers.com/event/javascript-day-0518",
+    "startDate": "2022-05-18",
+    "endDate": "2022-05-18",
+    "online": true,
+    "cfpUrl": "https://www.wearedevelopers.com/speakers/cfp",
+    "cfpEndDate": "2022-04-27",
+    "twitter": "@WeAreDevs",
+    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form."
+  },
+  {
     "name": "THAT Conference",
     "url": "https://that.us/events/tx/2022",
     "startDate": "2022-05-23",
@@ -504,6 +515,16 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Full Stack Europe",
+    "url": "https://fullstackeurope.com/2022",
+    "startDate": "2022-10-05",
+    "endDate": "2022-10-07",
+    "city": "Antwerp",
+    "country": "Belgium",
+    "online": false,
+    "twitter": "@fullstackeu"
+  },
+  {
     "name": "Nordic.js",
     "url": "https://nordicjs.com",
     "startDate": "2022-10-06",
@@ -524,26 +545,5 @@
     "cfpEndDate": "2022-10-14",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
-  },
-  {
-    "name": "Full Stack Europe",
-    "startDate": "2022-10-05",
-    "endDate": "2022-10-07",
-    "city": "Antwerp",
-    "country": "Belgium",
-    "online": false,
-    "twitter": "@fullstackeu",
-    "url": "https://fullstackeurope.com/2022"
-  },
-  {
-    "name": "WeAreDevelopers JavaScript Day",
-    "startDate": "2022-05-18",
-    "endDate": "2022-05-18",
-    "online": true,
-    "cfpUrl": "https://www.wearedevelopers.com/speakers/cfp",
-    "cfpEndDate": "2022-04-27",
-    "twitter": "@WeAreDevs",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form.",
-    "url": "https://www.wearedevelopers.com/event/javascript-day-0518"
   }
 ]

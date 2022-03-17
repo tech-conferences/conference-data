@@ -163,6 +163,16 @@
     "cocUrl": "https://www.conf42.com/code-of-conduct"
   },
   {
+    "name": "Spatial Data Science Conference London",
+    "url": "https://spatial-data-science-conference.com/2022/london",
+    "startDate": "2022-05-19",
+    "endDate": "2022-05-19",
+    "online": true,
+    "cfpUrl": "https://cartohq.typeform.com/to/xLRgZpEy",
+    "cfpEndDate": "2022-04-08",
+    "twitter": "@CARTO"
+  },
+  {
     "name": "YOW! Data",
     "url": "https://skillsmatter.com/conferences/13659-yow-data-2022",
     "startDate": "2022-05-30",
@@ -276,15 +286,5 @@
     "cfpEndDate": "2022-03-20",
     "twitter": "@AgileTD",
     "cocUrl": "https://agiletestingdays.com/code-of-conduct/"
-  },
-  {
-    "name": "Spatial Data Science Conference London",
-    "startDate": "2022-05-19",
-    "endDate": "2022-05-19",
-    "online": true,
-    "cfpUrl": "https://cartohq.typeform.com/to/xLRgZpEy",
-    "cfpEndDate": "2022-04-08",
-    "twitter": "@CARTO",
-    "url": "https://spatial-data-science-conference.com/2022/london"
   }
 ]

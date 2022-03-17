@@ -417,6 +417,17 @@
     "cocUrl": "https://www.agilealliance.org/code_of_conduct/"
   },
   {
+    "name": "Code On The Beach",
+    "url": "https://www.codeonthebeach.com",
+    "startDate": "2022-07-25",
+    "endDate": "2022-07-27",
+    "city": "Atlantic Beach, FL",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@codeonthebeach",
+    "cocUrl": "https://www.codeonthebeach.com/code-of-conduct-and-privacy-policy"
+  },
+  {
     "name": "THAT Conference",
     "url": "https://that.us/events/wi/2022",
     "startDate": "2022-07-25",
@@ -487,6 +498,20 @@
     "twitter": "@yowconf"
   },
   {
+    "name": "Strange Loop",
+    "url": "https://thestrangeloop.com",
+    "startDate": "2022-09-22",
+    "endDate": "2022-09-24",
+    "city": "St. Louis, MO",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://thestrangeloop.com/cfp.html",
+    "cfpEndDate": "2022-04-20",
+    "twitter": "@strangeloop_stl",
+    "cocUrl": "https://thestrangeloop.com/policies.html",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "NDC Oslo",
     "url": "https://ndcoslo.com",
     "startDate": "2022-09-25",
@@ -553,30 +578,5 @@
     "online": true,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "Strange Loop",
-    "startDate": "2022-09-22",
-    "endDate": "2022-09-24",
-    "city": "St. Louis, MO",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://thestrangeloop.com/cfp.html",
-    "cfpEndDate": "2022-04-20",
-    "twitter": "@strangeloop_stl",
-    "cocUrl": "https://thestrangeloop.com/policies.html",
-    "offersSignLanguageOrCC": true,
-    "url": "https://thestrangeloop.com"
-  },
-  {
-    "name": "Code On The Beach",
-    "startDate": "2022-07-25",
-    "endDate": "2022-07-27",
-    "city": "Atlantic Beach, FL",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@codeonthebeach",
-    "cocUrl": "https://www.codeonthebeach.com/code-of-conduct-and-privacy-policy",
-    "url": "https://www.codeonthebeach.com"
   }
 ]
