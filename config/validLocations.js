@@ -541,6 +541,7 @@ module.exports = {
     "Arlington, VA",
     "Aspen, CO",
     "Atlanta, GA",
+    "Atlantic Beach, FL",
     "Augusta, GA",
     "Aurora, CO",
     "Austin, TX",
