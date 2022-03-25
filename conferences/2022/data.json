@@ -143,6 +143,17 @@
     "twitter": "@ODSC"
   },
   {
+    "name": "Developer Growth Summit",
+    "url": "https://www.codementor.io/events/developer-growth-summit",
+    "startDate": "2022-04-20",
+    "endDate": "2022-04-21",
+    "online": true,
+    "cfpUrl": "https://arcdotdev.typeform.com/to/JcAdJQgW",
+    "cfpEndDate": "2022-04-13",
+    "twitter": "@CodementorIO",
+    "cocUrl": "https://codementor.notion.site/Codementor-Events-Code-of-Conduct-37b9714c926c47b4a222429b6e873f48"
+  },
+  {
     "name": "QCon Plus Online Software Conference",
     "url": "https://plus.qconferences.com",
     "startDate": "2022-05-10",
@@ -171,6 +182,17 @@
     "cfpUrl": "https://cartohq.typeform.com/to/xLRgZpEy",
     "cfpEndDate": "2022-04-08",
     "twitter": "@CARTO"
+  },
+  {
+    "name": "Graph + AI Summit",
+    "url": "https://www.tigergraph.com/graphaisummit",
+    "startDate": "2022-05-24",
+    "endDate": "2022-05-25",
+    "online": true,
+    "cfpUrl": "https://events.bizzabo.com/390232/page/2084487/call-for-speakers",
+    "cfpEndDate": "2022-04-11",
+    "twitter": "@TigerGraphDB",
+    "cocUrl": "https://www.tigergraph.com/privacy-policy/"
   },
   {
     "name": "YOW! Data",
@@ -286,27 +308,5 @@
     "cfpEndDate": "2022-03-20",
     "twitter": "@AgileTD",
     "cocUrl": "https://agiletestingdays.com/code-of-conduct/"
-  },
-  {
-    "name": "Graph + AI Summit",
-    "startDate": "2022-05-24",
-    "endDate": "2022-05-25",
-    "online": true,
-    "cfpUrl": "https://events.bizzabo.com/390232/page/2084487/call-for-speakers",
-    "cfpEndDate": "2022-04-11",
-    "twitter": "@TigerGraphDB",
-    "cocUrl": "https://www.tigergraph.com/privacy-policy/",
-    "url": "https://www.tigergraph.com/graphaisummit"
-  },
-  {
-    "name": "Developer Growth Summit",
-    "startDate": "2022-04-20",
-    "endDate": "2022-04-21",
-    "online": true,
-    "cfpUrl": "https://arcdotdev.typeform.com/to/JcAdJQgW",
-    "cfpEndDate": "2022-04-13",
-    "twitter": "@CodementorIO",
-    "cocUrl": "https://codementor.notion.site/Codementor-Events-Code-of-Conduct-37b9714c926c47b4a222429b6e873f48",
-    "url": "https://www.codementor.io/events/developer-growth-summit"
   }
 ]

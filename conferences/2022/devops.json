@@ -259,6 +259,17 @@
     "cocUrl": "https://devopsdays.org/events/2022-birmingham-al/contact"
   },
   {
+    "name": "Developer Growth Summit",
+    "url": "https://www.codementor.io/events/developer-growth-summit",
+    "startDate": "2022-04-20",
+    "endDate": "2022-04-21",
+    "online": true,
+    "cfpUrl": "https://arcdotdev.typeform.com/to/JcAdJQgW",
+    "cfpEndDate": "2022-04-13",
+    "twitter": "@CodementorIO",
+    "cocUrl": "https://codementor.notion.site/Codementor-Events-Code-of-Conduct-37b9714c926c47b4a222429b6e873f48"
+  },
+  {
     "name": "Devopsdays Denver",
     "url": "https://devopsdays.org/events/2022-denver/welcome/",
     "startDate": "2022-04-25",
@@ -727,6 +738,17 @@
     "cocUrl": "https://www.conf42.com/code-of-conduct"
   },
   {
+    "name": "BASTA!",
+    "url": "https://basta.net/mainz-en",
+    "startDate": "2022-10-10",
+    "endDate": "2022-10-14",
+    "city": "Mainz",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@BASTAcon",
+    "cocUrl": "https://basta.net/code-of-conduct-en/"
+  },
+  {
     "name": "JCON",
     "url": "https://jcon.one",
     "startDate": "2022-10-18",
@@ -810,27 +832,5 @@
     "online": true,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "BASTA!",
-    "startDate": "2022-10-10",
-    "endDate": "2022-10-14",
-    "city": "Mainz",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@BASTAcon",
-    "cocUrl": "https://basta.net/code-of-conduct-en/",
-    "url": "https://basta.net/mainz-en"
-  },
-  {
-    "name": "Developer Growth Summit",
-    "startDate": "2022-04-20",
-    "endDate": "2022-04-21",
-    "online": true,
-    "cfpUrl": "https://arcdotdev.typeform.com/to/JcAdJQgW",
-    "cfpEndDate": "2022-04-13",
-    "twitter": "@CodementorIO",
-    "cocUrl": "https://codementor.notion.site/Codementor-Events-Code-of-Conduct-37b9714c926c47b4a222429b6e873f48",
-    "url": "https://www.codementor.io/events/developer-growth-summit"
   }
 ]

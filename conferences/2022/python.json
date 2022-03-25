@@ -77,6 +77,17 @@
     "cocUrl": "https://2022.pycon.de/code-of-conduct/"
   },
   {
+    "name": "Developer Growth Summit",
+    "url": "https://www.codementor.io/events/developer-growth-summit",
+    "startDate": "2022-04-20",
+    "endDate": "2022-04-21",
+    "online": true,
+    "cfpUrl": "https://arcdotdev.typeform.com/to/JcAdJQgW",
+    "cfpEndDate": "2022-04-13",
+    "twitter": "@CodementorIO",
+    "cocUrl": "https://codementor.notion.site/Codementor-Events-Code-of-Conduct-37b9714c926c47b4a222429b6e873f48"
+  },
+  {
     "name": "PyCon",
     "url": "https://us.pycon.org/2022",
     "startDate": "2022-04-27",
@@ -130,16 +141,5 @@
     "cfpEndDate": "2022-03-20",
     "twitter": "@AgileTD",
     "cocUrl": "https://agiletestingdays.com/code-of-conduct/"
-  },
-  {
-    "name": "Developer Growth Summit",
-    "startDate": "2022-04-20",
-    "endDate": "2022-04-21",
-    "online": true,
-    "cfpUrl": "https://arcdotdev.typeform.com/to/JcAdJQgW",
-    "cfpEndDate": "2022-04-13",
-    "twitter": "@CodementorIO",
-    "cocUrl": "https://codementor.notion.site/Codementor-Events-Code-of-Conduct-37b9714c926c47b4a222429b6e873f48",
-    "url": "https://www.codementor.io/events/developer-growth-summit"
   }
 ]

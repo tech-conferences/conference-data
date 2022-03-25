@@ -186,6 +186,17 @@
     "twitter": "@acmmmsys"
   },
   {
+    "name": "Romanian Testing Conference",
+    "url": "https://romaniatesting.ro",
+    "startDate": "2022-06-16",
+    "endDate": "2022-06-17",
+    "city": "Cluj-Napoca",
+    "country": "Romania",
+    "online": true,
+    "twitter": "@romaniatesting",
+    "cocUrl": "https://romaniatesting.ro/code-of-conduct/"
+  },
+  {
     "name": "React Summit",
     "url": "https://reactsummit.com",
     "startDate": "2022-06-17",
@@ -283,6 +294,17 @@
     "cocUrl": "https://jcon.one/code-of-conduct"
   },
   {
+    "name": "Testing Talks",
+    "url": "https://www.testingtalks.com.au",
+    "startDate": "2022-10-20",
+    "endDate": "2022-10-20",
+    "city": "Melbourne",
+    "country": "Australia",
+    "online": false,
+    "twitter": "@testingtalks",
+    "cocUrl": "https://www.testingtalks.com.au/terms_and_conditions"
+  },
+  {
     "name": "TestCon Europe",
     "url": "https://testcon.lt",
     "startDate": "2022-10-24",
@@ -293,6 +315,16 @@
     "cfpUrl": "https://airtable.com/shrnlAKGCLYEtzHar",
     "twitter": "@TestConEurope",
     "cocUrl": "https://testcon.lt/code-of-conduct/"
+  },
+  {
+    "name": "National Software Testing Conference",
+    "url": "http://softwaretesting.news/national-software-testing-conference",
+    "startDate": "2022-10-25",
+    "endDate": "2022-10-26",
+    "city": "Toronto",
+    "country": "Canada",
+    "online": false,
+    "cocUrl": "http://softwaretesting.news/national-software-testing-conference/code-of-conduct/"
   },
   {
     "name": "Agile Testing Days",
@@ -315,37 +347,5 @@
     "online": true,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "Romanian Testing Conference",
-    "startDate": "2022-06-16",
-    "endDate": "2022-06-17",
-    "city": "Cluj-Napoca",
-    "country": "Romania",
-    "online": true,
-    "twitter": "@romaniatesting",
-    "cocUrl": "https://romaniatesting.ro/code-of-conduct/",
-    "url": "https://romaniatesting.ro"
-  },
-  {
-    "name": "National Software Testing Conference",
-    "startDate": "2022-10-25",
-    "endDate": "2022-10-26",
-    "city": "Toronto",
-    "country": "Canada",
-    "online": false,
-    "cocUrl": "http://softwaretesting.news/national-software-testing-conference/code-of-conduct/",
-    "url": "http://softwaretesting.news/national-software-testing-conference"
-  },
-  {
-    "name": "Testing Talks",
-    "startDate": "2022-10-20",
-    "endDate": "2022-10-20",
-    "city": "Melbourne",
-    "country": "Australia",
-    "online": false,
-    "twitter": "@testingtalks",
-    "cocUrl": "https://www.testingtalks.com.au/terms_and_conditions",
-    "url": "https://www.testingtalks.com.au"
   }
 ]

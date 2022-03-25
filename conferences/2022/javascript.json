@@ -224,6 +224,26 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "EmberConf",
+    "url": "https://2022.emberconf.com",
+    "startDate": "2022-04-19",
+    "endDate": "2022-04-19",
+    "online": true,
+    "twitter": "@EmberConf",
+    "cocUrl": "https://2022.emberconf.com/code-of-conduct"
+  },
+  {
+    "name": "Developer Growth Summit",
+    "url": "https://www.codementor.io/events/developer-growth-summit",
+    "startDate": "2022-04-20",
+    "endDate": "2022-04-21",
+    "online": true,
+    "cfpUrl": "https://arcdotdev.typeform.com/to/JcAdJQgW",
+    "cfpEndDate": "2022-04-13",
+    "twitter": "@CodementorIO",
+    "cocUrl": "https://codementor.notion.site/Codementor-Events-Code-of-Conduct-37b9714c926c47b4a222429b6e873f48"
+  },
+  {
     "name": "jsday",
     "url": "https://2022.jsday.it",
     "startDate": "2022-04-21",
@@ -536,6 +556,17 @@
     "cocUrl": "https://nordicjs.com/code-of-conduct"
   },
   {
+    "name": "BASTA!",
+    "url": "https://basta.net/mainz-en",
+    "startDate": "2022-10-10",
+    "endDate": "2022-10-14",
+    "city": "Mainz",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@BASTAcon",
+    "cocUrl": "https://basta.net/code-of-conduct-en/"
+  },
+  {
     "name": "Conf42 JavaScript",
     "url": "https://www.conf42.com/js2022",
     "startDate": "2022-11-17",
@@ -545,36 +576,5 @@
     "cfpEndDate": "2022-10-14",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
-  },
-  {
-    "name": "BASTA!",
-    "startDate": "2022-10-10",
-    "endDate": "2022-10-14",
-    "city": "Mainz",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@BASTAcon",
-    "cocUrl": "https://basta.net/code-of-conduct-en/",
-    "url": "https://basta.net/mainz-en"
-  },
-  {
-    "name": "EmberConf",
-    "startDate": "2022-04-19",
-    "endDate": "2022-04-19",
-    "online": true,
-    "twitter": "@EmberConf",
-    "cocUrl": "https://2022.emberconf.com/code-of-conduct",
-    "url": "https://2022.emberconf.com"
-  },
-  {
-    "name": "Developer Growth Summit",
-    "startDate": "2022-04-20",
-    "endDate": "2022-04-21",
-    "online": true,
-    "cfpUrl": "https://arcdotdev.typeform.com/to/JcAdJQgW",
-    "cfpEndDate": "2022-04-13",
-    "twitter": "@CodementorIO",
-    "cocUrl": "https://codementor.notion.site/Codementor-Events-Code-of-Conduct-37b9714c926c47b4a222429b6e873f48",
-    "url": "https://www.codementor.io/events/developer-growth-summit"
   }
 ]
