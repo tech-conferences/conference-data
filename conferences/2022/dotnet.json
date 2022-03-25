@@ -76,6 +76,17 @@
     "cocUrl": "https://codegarden.umbraco.com/code-of-conduct/"
   },
   {
+    "name": "BASTA!",
+    "url": "https://basta.net/mainz-en",
+    "startDate": "2022-10-10",
+    "endDate": "2022-10-14",
+    "city": "Mainz",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@BASTAcon",
+    "cocUrl": "https://basta.net/code-of-conduct-en/"
+  },
+  {
     "name": "DevTernity",
     "url": "https://devternity.com",
     "startDate": "2022-12-08",
@@ -83,16 +94,5 @@
     "online": true,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "BASTA!",
-    "startDate": "2022-10-10",
-    "endDate": "2022-10-14",
-    "city": "Mainz",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@BASTAcon",
-    "cocUrl": "https://basta.net/code-of-conduct-en/",
-    "url": "https://basta.net/mainz-en"
   }
 ]

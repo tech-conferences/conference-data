@@ -206,6 +206,15 @@
     "cocUrl": "https://that.us/support/code-of-conduct/"
   },
   {
+    "name": "UX Nordic",
+    "url": "https://www.uxnordic.com",
+    "startDate": "2022-08-26",
+    "endDate": "2022-08-26",
+    "city": "Aarhus",
+    "country": "Denmark",
+    "online": true
+  },
+  {
     "name": "CascadiaJS",
     "url": "https://2022.cascadiajs.com",
     "startDate": "2022-08-30",
@@ -229,14 +238,5 @@
     "cfpEndDate": "2022-07-01",
     "twitter": "@infobipshift",
     "cocUrl": "https://shift.infobip.com/code/"
-  },
-  {
-    "name": "UX Nordic",
-    "startDate": "2022-08-26",
-    "endDate": "2022-08-26",
-    "city": "Aarhus",
-    "country": "Denmark",
-    "online": true,
-    "url": "https://www.uxnordic.com"
   }
 ]

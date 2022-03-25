@@ -138,6 +138,14 @@
     "cocUrl": "https://shift.infobip.com/code/"
   },
   {
+    "name": "CakeFest",
+    "url": "https://cakefest.org",
+    "startDate": "2022-09-29",
+    "endDate": "2022-09-30",
+    "online": true,
+    "twitter": "@cakephp"
+  },
+  {
     "name": "Agile Testing Days",
     "url": "https://agiletestingdays.com",
     "startDate": "2022-11-21",
@@ -149,13 +157,5 @@
     "cfpEndDate": "2022-03-20",
     "twitter": "@AgileTD",
     "cocUrl": "https://agiletestingdays.com/code-of-conduct/"
-  },
-  {
-    "name": "CakeFest",
-    "startDate": "2022-09-29",
-    "endDate": "2022-09-30",
-    "online": true,
-    "twitter": "@cakephp",
-    "url": "https://cakefest.org"
   }
 ]

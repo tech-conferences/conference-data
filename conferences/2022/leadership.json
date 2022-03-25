@@ -88,6 +88,28 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Developer Growth Summit",
+    "url": "https://www.codementor.io/events/developer-growth-summit",
+    "startDate": "2022-04-20",
+    "endDate": "2022-04-21",
+    "online": true,
+    "cfpUrl": "https://arcdotdev.typeform.com/to/JcAdJQgW",
+    "cfpEndDate": "2022-04-13",
+    "twitter": "@CodementorIO",
+    "cocUrl": "https://codementor.notion.site/Codementor-Events-Code-of-Conduct-37b9714c926c47b4a222429b6e873f48"
+  },
+  {
+    "name": "Central Ohio Software Symposium",
+    "url": "https://nofluffjuststuff.com/columbus",
+    "startDate": "2022-04-29",
+    "endDate": "2022-05-01",
+    "city": "Columbus, OH",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@nofluff",
+    "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct"
+  },
+  {
     "name": "inside agile",
     "url": "https://konf.inside-agile.de",
     "startDate": "2022-05-03",
@@ -219,27 +241,5 @@
     "online": true,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "Developer Growth Summit",
-    "startDate": "2022-04-20",
-    "endDate": "2022-04-21",
-    "online": true,
-    "cfpUrl": "https://arcdotdev.typeform.com/to/JcAdJQgW",
-    "cfpEndDate": "2022-04-13",
-    "twitter": "@CodementorIO",
-    "cocUrl": "https://codementor.notion.site/Codementor-Events-Code-of-Conduct-37b9714c926c47b4a222429b6e873f48",
-    "url": "https://www.codementor.io/events/developer-growth-summit"
-  },
-  {
-    "name": "Central Ohio Software Symposium",
-    "startDate": "2022-04-29",
-    "endDate": "2022-05-01",
-    "city": "Columbus, OH",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@nofluff",
-    "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct",
-    "url": "https://nofluffjuststuff.com/columbus"
   }
 ]
