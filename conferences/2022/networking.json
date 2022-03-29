@@ -224,12 +224,12 @@
     "url": "https://stackconf.eu",
     "startDate": "2022-07-19",
     "endDate": "2022-07-20",
-    "online": true,
+    "online": false,
     "cfpUrl": "https://stackconf.eu/cfp_info",
     "cfpEndDate": "2022-03-31",
     "twitter": "@stackconf",
     "cocUrl": "https://stackconf.eu/code-of-conduct/",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": false
   },
   {
     "name": "THAT Conference",
