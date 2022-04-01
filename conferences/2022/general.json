@@ -622,5 +622,18 @@
     "twitter": "@prisma",
     "cocUrl": "https://github.com/prisma/prisma/blob/main/CODE_OF_CONDUCT.md",
     "url": "https://www.prisma.io/day"
+  },
+  {
+    "name": "EMF Camp",
+    "startDate": "2022-06-02",
+    "endDate": "2022-06-05",
+    "city": "Eastnor , Herefordshire",
+    "country": "U.K.",
+    "online": false,
+    "cfpUrl": "https://www.emfcamp.org/cfp",
+    "cfpEndDate": "2001-04-30",
+    "twitter": "@emfcamp",
+    "cocUrl": "https://www.emfcamp.org/code-of-conduct",
+    "url": "https://emfcamp.org"
   }
 ]
