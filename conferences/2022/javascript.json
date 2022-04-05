@@ -610,7 +610,7 @@
     "cocUrl": "https://github.com/prisma/prisma/blob/main/CODE_OF_CONDUCT.md",
     "url": "https://www.prisma.io/day"
   },
-    {
+  {
     "name": "SmashingConf San Francisco",
     "startDate": "2022-06-20",
     "endDate": "2022-06-23",
@@ -642,5 +642,16 @@
     "twitter": "@smashingconf",
     "cocUrl": "https://smashingconf.com/codeofconduct",
     "url": "https://smashingconf.com/freiburg-2022"
+  },
+  {
+    "name": "SmashingConf New York",
+    "startDate": "2022-10-10",
+    "endDate": "2022-10-13",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@smashingconf",
+    "cocUrl": "https://smashingconf.com/codeofconduct",
+    "url": "https://smashingconf.com/ny-2022"
   }
 ]
