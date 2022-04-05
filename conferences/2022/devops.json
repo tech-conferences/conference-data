@@ -842,5 +842,18 @@
     "cfpEndDate": "2022-04-10",
     "cocUrl": "https://platformcon.com/code-of-conuct",
     "url": "https://platformcon.com"
+  },
+  {
+    "name": "Devops Barcelona Conference",
+    "startDate": "2022-11-03",
+    "endDate": "2022-11-04",
+    "city": "Barcelona",
+    "country": "Spain",
+    "online": false,
+    "cfpUrl": "https://devops.barcelona/call-for-papers",
+    "cfpEndDate": "2022-06-30",
+    "twitter": "@devopsbarcelona",
+    "cocUrl": "https://devops.barcelona/code-of-conduct",
+    "url": "https://devops.barcelona"
   }
 ]
