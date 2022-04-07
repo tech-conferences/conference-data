@@ -190,7 +190,7 @@ module.exports = {
     "Mainz",
     "Mannheim",
     "Munich",
-    "Nuremberg",
+    "Nürnberg",
     "Ostfildern",
     "Potsdam",
     "Rostock",
