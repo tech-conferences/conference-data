@@ -632,5 +632,18 @@
     "cfpEndDate": "2022-05-03",
     "twitter": "@InformatikAktue",
     "url": "https://www.it-tage.org"
+  },
+  {
+    "name": "Herbstcampus",
+    "startDate": "2022-09-06",
+    "endDate": "2022-09-08",
+    "city": "Nürnberg",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://www.herbstcampus.de/cfp.php",
+    "cfpEndDate": "2022-05-09",
+    "twitter": "@Herbstcampus",
+    "cocUrl": "https://www.herbstcampus.de/code_of_conduct.php",
+    "url": "https://www.herbstcampus.de"
   }
 ]
