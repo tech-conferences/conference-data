@@ -865,5 +865,16 @@
     "online": true,
     "twitter": "@devops_con",
     "url": "https://devopscon.io/new-york"
+  },
+  {
+    "name": "DevOpsDays Tel Aviv",
+    "startDate": "2022-12-14",
+    "endDate": "2022-12-15",
+    "city": "Tel Aviv",
+    "country": "Israel",
+    "online": true,
+    "twitter": "@devopsdaystlv",
+    "cocUrl": "https://tlvcommunity.dev/code-of-conduct.html",
+    "url": "https://tlvcommunity.dev"
   }
 ]
