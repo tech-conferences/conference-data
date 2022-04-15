@@ -153,5 +153,18 @@
     "cfpEndDate": "2022-05-02",
     "twitter": "@odoo",
     "url": "https://www.odoo.com/de_DE/event/odoo-roadshow-berlin-3199"
+  },
+  {
+    "name": "Heapcon",
+    "startDate": "2022-11-03",
+    "endDate": "2022-11-04",
+    "city": "Belgrade",
+    "country": "Serbia",
+    "online": true,
+    "cfpUrl": "https://heapcon.io/call-for-papers",
+    "cfpEndDate": "2022-05-31",
+    "twitter": "@Heapconf",
+    "cocUrl": "https://heapcon.io/code-of-conduct/",
+    "url": "https://heapcon.io"
   }
 ]
