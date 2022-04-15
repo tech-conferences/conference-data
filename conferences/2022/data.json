@@ -345,5 +345,18 @@
     "twitter": "@ODSC",
     "offersSignLanguageOrCC": true,
     "url": "https://odsc.com/europe/"
+  },
+  {
+    "name": "Heapcon",
+    "startDate": "2022-11-03",
+    "endDate": "2022-11-04",
+    "city": "Belgrade",
+    "country": "Serbia",
+    "online": true,
+    "cfpUrl": "https://heapcon.io/call-for-papers",
+    "cfpEndDate": "2022-05-31",
+    "twitter": "@Heapconf",
+    "cocUrl": "https://heapcon.io/code-of-conduct/",
+    "url": "https://heapcon.io"
   }
 ]
