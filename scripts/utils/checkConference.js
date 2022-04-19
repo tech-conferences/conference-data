@@ -4,7 +4,7 @@ const validLocations = require('../../config/validLocations');
 const validFields = require('../../config/validFields');
 
 const maxDurationInDays = 10;
-const twitterRegex = /@(\w){1,15}$/;
+const twitterRegex = /@\w([\w\.]){1,15}$/;
 const httpRegex = /^http(s?):\/\//;
 const httpNoQuestionmarkRegex = /\?/;
 const urlShortener = /(\/bit\.ly)|(\/t\.co)/;
