@@ -658,5 +658,25 @@
     "twitter": "@DayOfAgile",
     "cocUrl": "https://www.cincydeliver.org/Home/CodeOfConduct",
     "url": "http://www.cincydeliver.org"
+  },
+  {
+    "name": "DeveloperWeek Europe",
+    "startDate": "2022-04-27",
+    "endDate": "2022-04-28",
+    "online": true,
+    "twitter": "@developerweek",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
+    "url": "https://www.developerweek.com/europe"
+  },
+  {
+    "name": "REFACTR.TECH",
+    "startDate": "2022-09-14",
+    "endDate": "2022-09-16",
+    "city": "Atlanta, GA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@RefactrTech",
+    "cocUrl": "https://www.refactr.tech/code-of-conduct/",
+    "url": "https://www.refactr.tech"
   }
 ]

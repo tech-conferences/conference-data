@@ -375,5 +375,15 @@
     "twitter": "@hub.berlin",
     "cocUrl": "https://www.hub.berlin/join-us/faq",
     "url": "https://www.hub.berlin"
+  },
+  {
+    "name": "DevX Conf",
+    "startDate": "2022-05-02",
+    "endDate": "2022-05-03",
+    "online": true,
+    "twitter": "@devxconf",
+    "cocUrl": "https://devxconf.org/code-of-conduct",
+    "offersSignLanguageOrCC": true,
+    "url": "https://devxconf.org"
   }
 ]
