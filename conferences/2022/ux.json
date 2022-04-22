@@ -248,7 +248,7 @@
     "cocUrl": "https://aneventapart.com/registration-information#code-of-conduct",
     "url": "https://aneventapart.com/event/spring-summit-2022"
   },
-    {
+  {
     "name": "SmashingConf San Francisco",
     "startDate": "2022-06-20",
     "endDate": "2022-06-23",
@@ -291,5 +291,15 @@
     "twitter": "@smashingconf",
     "cocUrl": "https://smashingconf.com/codeofconduct",
     "url": "https://smashingconf.com/ny-2022"
+  },
+  {
+    "name": "CBF Fest",
+    "startDate": "2022-06-30",
+    "endDate": "2022-07-01",
+    "online": true,
+    "cfpUrl": "https://fest.codingblackfemales.com/call-for-papers",
+    "cfpEndDate": "2022-05-03",
+    "twitter": "@codingblackfems",
+    "url": "https://fest.codingblackfemales.com"
   }
 ]
