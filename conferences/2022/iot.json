@@ -91,6 +91,30 @@
     "cocUrl": "https://hardwear.io/code-of-conduct/"
   },
   {
+    "name": "hub.berlin",
+    "url": "https://www.hub.berlin",
+    "startDate": "2022-06-22",
+    "endDate": "2022-06-23",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://www.hub.berlin/business-festival-tickets-2022",
+    "cfpEndDate": "2022-06-21",
+    "twitter": "@hub.berlin",
+    "cocUrl": "https://www.hub.berlin/join-us/faq"
+  },
+  {
+    "name": "Industrial IoT Conference",
+    "url": "https://www.iiot-conference.de",
+    "startDate": "2022-06-23",
+    "endDate": "2022-06-23",
+    "city": "Munich",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@IIoTConf",
+    "cocUrl": "https://www.iiot-conference.de/code_of_conduct.php"
+  },
+  {
     "name": "Internet of Things Conference",
     "url": "https://iotcon.de/en",
     "startDate": "2022-06-27",
@@ -152,40 +176,8 @@
     "cocUrl": "https://2022.jcon.one/code-of-conduct"
   },
   {
-    "name": "JCON",
-    "url": "https://jcon.one",
-    "startDate": "2022-10-18",
-    "endDate": "2022-10-21",
-    "online": true,
-    "twitter": "@jcon_conference",
-    "cocUrl": "https://jcon.one/code-of-conduct"
-  },
-  {
-    "name": "hub.berlin",
-    "startDate": "2022-06-22",
-    "endDate": "2022-06-23",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://www.hub.berlin/business-festival-tickets-2022",
-    "cfpEndDate": "2022-06-21",
-    "twitter": "@hub.berlin",
-    "cocUrl": "https://www.hub.berlin/join-us/faq",
-    "url": "https://www.hub.berlin"
-  },
-  {
-    "name": "Industrial IoT Conference",
-    "startDate": "2022-06-23",
-    "endDate": "2022-06-23",
-    "city": "Munich",
-    "country": "Germany",
-    "online": false,
-    "twitter": "@IIoTConf",
-    "cocUrl": "https://www.iiot-conference.de/code_of_conduct.php",
-    "url": "https://www.iiot-conference.de"
-  },
-  {
     "name": "TestFlix",
+    "url": "https://www.thetesttribe.com/testflix-2022",
     "startDate": "2022-10-08",
     "endDate": "2022-10-09",
     "online": true,
@@ -193,7 +185,15 @@
     "cfpEndDate": "2022-05-15",
     "twitter": "@the_test_tribe",
     "cocUrl": "https://www.thetesttribe.com/event-policy-and-code-of-conduct/",
-    "offersSignLanguageOrCC": true,
-    "url": "https://www.thetesttribe.com/testflix-2022"
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "JCON",
+    "url": "https://jcon.one",
+    "startDate": "2022-10-18",
+    "endDate": "2022-10-21",
+    "online": true,
+    "twitter": "@jcon_conference",
+    "cocUrl": "https://jcon.one/code-of-conduct"
   }
 ]

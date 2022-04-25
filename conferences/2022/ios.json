@@ -92,6 +92,17 @@
     "twitter": "@360idev"
   },
   {
+    "name": "FrenchKit",
+    "url": "https://frenchkit.fr",
+    "startDate": "2022-09-29",
+    "endDate": "2022-09-30",
+    "city": "Paris",
+    "country": "France",
+    "online": false,
+    "twitter": "@frenchkitconf",
+    "cocUrl": "https://github.com/FrenchKit/FrenchKitCodeOfConduct/"
+  },
+  {
     "name": "SwiftLeeds",
     "url": "https://swiftleeds.co.uk",
     "startDate": "2022-10-20",
@@ -101,16 +112,5 @@
     "cfpUrl": "https://sessionize.com/swiftleeds",
     "cfpEndDate": "2022-04-30",
     "twitter": "@swift_leeds"
-  },
-  {
-    "name": "FrenchKit",
-    "startDate": "2022-09-29",
-    "endDate": "2022-09-30",
-    "city": "Paris",
-    "country": "France",
-    "online": false,
-    "twitter": "@frenchkitconf",
-    "cocUrl": "https://github.com/FrenchKit/FrenchKitCodeOfConduct/",
-    "url": "https://frenchkit.fr"
   }
 ]

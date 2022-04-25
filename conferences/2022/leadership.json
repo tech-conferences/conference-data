@@ -189,6 +189,19 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "hub.berlin",
+    "url": "https://www.hub.berlin",
+    "startDate": "2022-06-22",
+    "endDate": "2022-06-23",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://www.hub.berlin/business-festival-tickets-2022",
+    "cfpEndDate": "2022-06-21",
+    "twitter": "@hub.berlin",
+    "cocUrl": "https://www.hub.berlin/join-us/faq"
+  },
+  {
     "name": "Agile Nashville",
     "url": "https://www.agilealliance.org/agile2022",
     "startDate": "2022-07-18",
@@ -234,30 +247,20 @@
     "twitter": "@yowconf"
   },
   {
-    "name": "DevTernity",
-    "url": "https://devternity.com",
-    "startDate": "2022-12-08",
-    "endDate": "2022-12-09",
+    "name": "TestFlix",
+    "url": "https://www.thetesttribe.com/testflix-2022",
+    "startDate": "2022-10-08",
+    "endDate": "2022-10-09",
     "online": true,
-    "twitter": "@devternity",
-    "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "LeadDev Berlin",
-    "startDate": "2022-11-02",
-    "endDate": "2022-11-04",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://leaddev.submittable.com/submit/9d57534a-1130-42df-82e2-f8992d7a1a6b/leaddev-berlin-2022-call-for-proposals",
-    "cfpEndDate": "2022-04-29",
-    "twitter": "@TheLeadDev",
-    "cocUrl": "https://leaddev.com/code-conduct",
-    "offersSignLanguageOrCC": true,
-    "url": "https://leaddev.com/leaddev-berlin"
+    "cfpUrl": "https://www.thetesttribe.com/testflix-2022-call-for-papers",
+    "cfpEndDate": "2022-05-15",
+    "twitter": "@the_test_tribe",
+    "cocUrl": "https://www.thetesttribe.com/event-policy-and-code-of-conduct/",
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "LeadDev San Francisco",
+    "url": "https://leaddev.com/leaddev-san-francisco",
     "startDate": "2022-10-25",
     "endDate": "2022-10-27",
     "city": "San Francisco, CA",
@@ -267,32 +270,29 @@
     "cfpEndDate": "2022-04-29",
     "twitter": "@TheLeadDev",
     "cocUrl": "https://leaddev.com/code-conduct",
-    "offersSignLanguageOrCC": true,
-    "url": "https://leaddev.com/leaddev-san-francisco"
+    "offersSignLanguageOrCC": true
   },
   {
-    "name": "hub.berlin",
-    "startDate": "2022-06-22",
-    "endDate": "2022-06-23",
+    "name": "LeadDev Berlin",
+    "url": "https://leaddev.com/leaddev-berlin",
+    "startDate": "2022-11-02",
+    "endDate": "2022-11-04",
     "city": "Berlin",
     "country": "Germany",
     "online": false,
-    "cfpUrl": "https://www.hub.berlin/business-festival-tickets-2022",
-    "cfpEndDate": "2022-06-21",
-    "twitter": "@hub.berlin",
-    "cocUrl": "https://www.hub.berlin/join-us/faq",
-    "url": "https://www.hub.berlin"
+    "cfpUrl": "https://leaddev.submittable.com/submit/9d57534a-1130-42df-82e2-f8992d7a1a6b/leaddev-berlin-2022-call-for-proposals",
+    "cfpEndDate": "2022-04-29",
+    "twitter": "@TheLeadDev",
+    "cocUrl": "https://leaddev.com/code-conduct",
+    "offersSignLanguageOrCC": true
   },
   {
-    "name": "TestFlix",
-    "startDate": "2022-10-08",
-    "endDate": "2022-10-09",
+    "name": "DevTernity",
+    "url": "https://devternity.com",
+    "startDate": "2022-12-08",
+    "endDate": "2022-12-09",
     "online": true,
-    "cfpUrl": "https://www.thetesttribe.com/testflix-2022-call-for-papers",
-    "cfpEndDate": "2022-05-15",
-    "twitter": "@the_test_tribe",
-    "cocUrl": "https://www.thetesttribe.com/event-policy-and-code-of-conduct/",
-    "offersSignLanguageOrCC": true,
-    "url": "https://www.thetesttribe.com/testflix-2022"
+    "twitter": "@devternity",
+    "cocUrl": "https://devternity.com/code_of_conduct.html"
   }
 ]

@@ -76,6 +76,16 @@
     "twitter": "@productcamppl"
   },
   {
+    "name": "#mtpEngage Hamburg",
+    "url": "https://www.mindtheproduct.com/mtpengage/hamburg",
+    "startDate": "2022-06-17",
+    "endDate": "2022-06-17",
+    "city": "Hamburg",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@MTPEngageHH"
+  },
+  {
     "name": "Infobip Shift",
     "url": "https://shift.infobip.com",
     "startDate": "2022-09-19",
@@ -105,15 +115,5 @@
     "online": true,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "#mtpEngage Hamburg",
-    "startDate": "2022-06-17",
-    "endDate": "2022-06-17",
-    "city": "Hamburg",
-    "country": "Germany",
-    "online": false,
-    "twitter": "@MTPEngageHH",
-    "url": "https://www.mindtheproduct.com/mtpengage/hamburg"
   }
 ]

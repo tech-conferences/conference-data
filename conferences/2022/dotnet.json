@@ -76,6 +76,32 @@
     "cocUrl": "https://codegarden.umbraco.com/code-of-conduct/"
   },
   {
+    "name": "CincyDeliver()",
+    "url": "http://www.cincydeliver.org",
+    "startDate": "2022-07-29",
+    "endDate": "2022-07-29",
+    "city": "Cincinnati, OH",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://www.cincydeliver.org/Sessions/Create",
+    "cfpEndDate": "2022-04-30",
+    "twitter": "@DayOfAgile",
+    "cocUrl": "https://www.cincydeliver.org/Home/CodeOfConduct"
+  },
+  {
+    "name": "Herbstcampus",
+    "url": "https://www.herbstcampus.de",
+    "startDate": "2022-09-06",
+    "endDate": "2022-09-08",
+    "city": "Nürnberg",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://www.herbstcampus.de/cfp.php",
+    "cfpEndDate": "2022-05-09",
+    "twitter": "@Herbstcampus",
+    "cocUrl": "https://www.herbstcampus.de/code_of_conduct.php"
+  },
+  {
     "name": "BASTA!",
     "url": "https://basta.net/mainz-en",
     "startDate": "2022-10-10",
@@ -94,31 +120,5 @@
     "online": true,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "Herbstcampus",
-    "startDate": "2022-09-06",
-    "endDate": "2022-09-08",
-    "city": "Nürnberg",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://www.herbstcampus.de/cfp.php",
-    "cfpEndDate": "2022-05-09",
-    "twitter": "@Herbstcampus",
-    "cocUrl": "https://www.herbstcampus.de/code_of_conduct.php",
-    "url": "https://www.herbstcampus.de"
-  },
-  {
-    "name": "CincyDeliver()",
-    "startDate": "2022-07-29",
-    "endDate": "2022-07-29",
-    "city": "Cincinnati, OH",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://www.cincydeliver.org/Sessions/Create",
-    "cfpEndDate": "2022-04-30",
-    "twitter": "@DayOfAgile",
-    "cocUrl": "https://www.cincydeliver.org/Home/CodeOfConduct",
-    "url": "http://www.cincydeliver.org"
   }
 ]

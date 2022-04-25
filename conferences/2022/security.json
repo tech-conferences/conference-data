@@ -185,6 +185,17 @@
     "cocUrl": "https://it-security-summit.de/code-of-conduct/"
   },
   {
+    "name": "Voxxed Days",
+    "url": "https://voxxeddays.com/zurich",
+    "startDate": "2022-05-17",
+    "endDate": "2022-05-17",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "online": false,
+    "twitter": "@voxxedzurich",
+    "cocUrl": "https://voxxeddays.com/zurich/code-of-conduct/"
+  },
+  {
     "name": "Qubit Conference Prague",
     "url": "https://prague.qubitconference.com",
     "startDate": "2022-05-25",
@@ -289,6 +300,18 @@
     "cocUrl": "https://2022.jcon.one/code-of-conduct"
   },
   {
+    "name": "TestFlix",
+    "url": "https://www.thetesttribe.com/testflix-2022",
+    "startDate": "2022-10-08",
+    "endDate": "2022-10-09",
+    "online": true,
+    "cfpUrl": "https://www.thetesttribe.com/testflix-2022-call-for-papers",
+    "cfpEndDate": "2022-05-15",
+    "twitter": "@the_test_tribe",
+    "cocUrl": "https://www.thetesttribe.com/event-policy-and-code-of-conduct/",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "BASTA!",
     "url": "https://basta.net/mainz-en",
     "startDate": "2022-10-10",
@@ -325,28 +348,5 @@
     "cfpEndDate": "2022-10-28",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
-  },
-  {
-    "name": "TestFlix",
-    "startDate": "2022-10-08",
-    "endDate": "2022-10-09",
-    "online": true,
-    "cfpUrl": "https://www.thetesttribe.com/testflix-2022-call-for-papers",
-    "cfpEndDate": "2022-05-15",
-    "twitter": "@the_test_tribe",
-    "cocUrl": "https://www.thetesttribe.com/event-policy-and-code-of-conduct/",
-    "offersSignLanguageOrCC": true,
-    "url": "https://www.thetesttribe.com/testflix-2022"
-  },
-  {
-    "name": "Voxxed Days",
-    "startDate": "2022-05-17",
-    "endDate": "2022-05-17",
-    "city": "Zurich",
-    "country": "Switzerland",
-    "online": false,
-    "twitter": "@voxxedzurich",
-    "cocUrl": "https://voxxeddays.com/zurich/code-of-conduct/",
-    "url": "https://voxxeddays.com/zurich"
   }
 ]
