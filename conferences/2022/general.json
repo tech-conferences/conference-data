@@ -276,6 +276,15 @@
     "cocUrl": "https://ndcporto.com/code-of-conduct"
   },
   {
+    "name": "DeveloperWeek Europe",
+    "url": "https://www.developerweek.com/europe",
+    "startDate": "2022-04-27",
+    "endDate": "2022-04-28",
+    "online": true,
+    "twitter": "@developerweek",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/"
+  },
+  {
     "name": "Conf42 Cloud Native",
     "url": "https://www.conf42.com/cloud2022",
     "startDate": "2022-04-28",
@@ -381,6 +390,14 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "SUSECON",
+    "url": "https://www.susecon.com",
+    "startDate": "2022-06-07",
+    "endDate": "2022-06-09",
+    "online": true,
+    "twitter": "@SUSE"
+  },
+  {
     "name": "GOTO Aarhus",
     "url": "https://gotoaarhus.com",
     "startDate": "2022-06-13",
@@ -404,6 +421,19 @@
     "twitter": "@acmmmsys"
   },
   {
+    "name": "Prisma Day",
+    "url": "https://www.prisma.io/day",
+    "startDate": "2022-06-15",
+    "endDate": "2022-06-16",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "cfpUrl": "https://prisma103696.typeform.com/to/Gm9zMrKA",
+    "cfpEndDate": "2022-04-25",
+    "twitter": "@prisma",
+    "cocUrl": "https://github.com/prisma/prisma/blob/main/CODE_OF_CONDUCT.md"
+  },
+  {
     "name": "Bazel eXchange",
     "url": "https://skillsmatter.com/conferences/13682-bazel-exchange",
     "startDate": "2022-06-21",
@@ -424,6 +454,16 @@
     "cfpEndDate": "2022-05-27",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
+  },
+  {
+    "name": "CBF Fest",
+    "url": "https://fest.codingblackfemales.com",
+    "startDate": "2022-06-30",
+    "endDate": "2022-07-01",
+    "online": true,
+    "cfpUrl": "https://fest.codingblackfemales.com/call-for-papers",
+    "cfpEndDate": "2022-05-03",
+    "twitter": "@codingblackfems"
   },
   {
     "name": "Agile Nashville",
@@ -461,6 +501,19 @@
     "cocUrl": "https://that.us/support/code-of-conduct/"
   },
   {
+    "name": "CincyDeliver()",
+    "url": "http://www.cincydeliver.org",
+    "startDate": "2022-07-29",
+    "endDate": "2022-07-29",
+    "city": "Cincinnati, OH",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://www.cincydeliver.org/Sessions/Create",
+    "cfpEndDate": "2022-04-30",
+    "twitter": "@DayOfAgile",
+    "cocUrl": "https://www.cincydeliver.org/Home/CodeOfConduct"
+  },
+  {
     "name": "Kansas City Developer Conference",
     "url": "https://www.kcdc.info",
     "startDate": "2022-08-08",
@@ -482,6 +535,43 @@
     "country": "U.S.A.",
     "online": true,
     "twitter": "@CodePaLOUsa"
+  },
+  {
+    "name": "GambiConf",
+    "url": "https://gambiconf.dev",
+    "startDate": "2022-09-03",
+    "endDate": "2022-09-10",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "online": true,
+    "cfpUrl": "https://gambiconf.dev/cfp",
+    "cfpEndDate": "2022-05-22",
+    "twitter": "@gambiconf",
+    "cocUrl": "https://gambiconf.dev/code-of-conduct"
+  },
+  {
+    "name": "Herbstcampus",
+    "url": "https://www.herbstcampus.de",
+    "startDate": "2022-09-06",
+    "endDate": "2022-09-08",
+    "city": "Nürnberg",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://www.herbstcampus.de/cfp.php",
+    "cfpEndDate": "2022-05-09",
+    "twitter": "@Herbstcampus",
+    "cocUrl": "https://www.herbstcampus.de/code_of_conduct.php"
+  },
+  {
+    "name": "REFACTR.TECH",
+    "url": "https://www.refactr.tech",
+    "startDate": "2022-09-14",
+    "endDate": "2022-09-16",
+    "city": "Atlanta, GA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@RefactrTech",
+    "cocUrl": "https://www.refactr.tech/code-of-conduct/"
   },
   {
     "name": "Infobip Shift",
@@ -569,6 +659,29 @@
     "cocUrl": "https://ndcsydney.com/code-of-conduct"
   },
   {
+    "name": "Indy.Code()",
+    "url": "https://indycode.amegala.com",
+    "startDate": "2022-10-19",
+    "endDate": "2022-10-19",
+    "city": "Indianapolis, IN",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://www.amegala.com/#/cfp/indycode/2022",
+    "cfpEndDate": "2022-06-01",
+    "twitter": "@amegala"
+  },
+  {
+    "name": "Conf42 Kube Native",
+    "url": "https://www.conf42.com/kubenative2022",
+    "startDate": "2022-10-20",
+    "endDate": "2022-10-20",
+    "online": true,
+    "cfpUrl": "https://www.papercall.io/conf42-kube-native-2022",
+    "cfpEndDate": "2022-09-05",
+    "twitter": "@conf42com",
+    "cocUrl": "https://www.conf42.com/code-of-conduct"
+  },
+  {
     "name": "Conf42 Web 3.0",
     "url": "https://www.conf42.com/web2022",
     "startDate": "2022-10-20",
@@ -578,6 +691,19 @@
     "cfpEndDate": "2022-09-16",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
+  },
+  {
+    "name": "Heapcon",
+    "url": "https://heapcon.io",
+    "startDate": "2022-11-03",
+    "endDate": "2022-11-04",
+    "city": "Belgrade",
+    "country": "Serbia",
+    "online": true,
+    "cfpUrl": "https://heapcon.io/call-for-papers",
+    "cfpEndDate": "2022-05-31",
+    "twitter": "@Heapconf",
+    "cocUrl": "https://heapcon.io/code-of-conduct/"
   },
   {
     "name": "TechBash",
@@ -600,139 +726,13 @@
     "cocUrl": "https://devternity.com/code_of_conduct.html"
   },
   {
-    "name": "Conf42 Kube Native",
-    "startDate": "2022-10-20",
-    "endDate": "2022-10-20",
-    "online": true,
-    "cfpUrl": "https://www.papercall.io/conf42-kube-native-2022",
-    "cfpEndDate": "2022-09-05",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "url": "https://www.conf42.com/kubenative2022"
-  },
-  {
-    "name": "Prisma Day",
-    "startDate": "2022-06-15",
-    "endDate": "2022-06-16",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "cfpUrl": "https://prisma103696.typeform.com/to/Gm9zMrKA",
-    "cfpEndDate": "2022-04-25",
-    "twitter": "@prisma",
-    "cocUrl": "https://github.com/prisma/prisma/blob/main/CODE_OF_CONDUCT.md",
-    "url": "https://www.prisma.io/day"
-  },
-  {
     "name": "IT-Tage Remote",
+    "url": "https://www.it-tage.org",
     "startDate": "2022-12-12",
     "endDate": "2022-12-15",
     "online": true,
     "cfpUrl": "https://www.ittage.informatik-aktuell.de/call-for-papers.html",
     "cfpEndDate": "2022-05-03",
-    "twitter": "@InformatikAktue",
-    "url": "https://www.it-tage.org"
-  },
-  {
-    "name": "Herbstcampus",
-    "startDate": "2022-09-06",
-    "endDate": "2022-09-08",
-    "city": "Nürnberg",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://www.herbstcampus.de/cfp.php",
-    "cfpEndDate": "2022-05-09",
-    "twitter": "@Herbstcampus",
-    "cocUrl": "https://www.herbstcampus.de/code_of_conduct.php",
-    "url": "https://www.herbstcampus.de"
-  },
-  {
-    "name": "CincyDeliver()",
-    "startDate": "2022-07-29",
-    "endDate": "2022-07-29",
-    "city": "Cincinnati, OH",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://www.cincydeliver.org/Sessions/Create",
-    "cfpEndDate": "2022-04-30",
-    "twitter": "@DayOfAgile",
-    "cocUrl": "https://www.cincydeliver.org/Home/CodeOfConduct",
-    "url": "http://www.cincydeliver.org"
-  },
-  {
-    "name": "DeveloperWeek Europe",
-    "startDate": "2022-04-27",
-    "endDate": "2022-04-28",
-    "online": true,
-    "twitter": "@developerweek",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "url": "https://www.developerweek.com/europe"
-  },
-  {
-    "name": "REFACTR.TECH",
-    "startDate": "2022-09-14",
-    "endDate": "2022-09-16",
-    "city": "Atlanta, GA",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@RefactrTech",
-    "cocUrl": "https://www.refactr.tech/code-of-conduct/",
-    "url": "https://www.refactr.tech"
-  },
-  {
-    "name": "Heapcon",
-    "startDate": "2022-11-03",
-    "endDate": "2022-11-04",
-    "city": "Belgrade",
-    "country": "Serbia",
-    "online": true,
-    "cfpUrl": "https://heapcon.io/call-for-papers",
-    "cfpEndDate": "2022-05-31",
-    "twitter": "@Heapconf",
-    "cocUrl": "https://heapcon.io/code-of-conduct/",
-    "url": "https://heapcon.io"
-  },
-  {
-    "name": "GambiConf",
-    "startDate": "2022-09-03",
-    "endDate": "2022-09-10",
-    "city": "Lisbon",
-    "country": "Portugal",
-    "online": true,
-    "cfpUrl": "https://gambiconf.dev/cfp",
-    "cfpEndDate": "2022-05-22",
-    "twitter": "@gambiconf",
-    "cocUrl": "https://gambiconf.dev/code-of-conduct",
-    "url": "https://gambiconf.dev"
-  },
-  {
-    "name": "Indy.Code()",
-    "startDate": "2022-10-19",
-    "endDate": "2022-10-19",
-    "city": "Indianapolis, IN",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://www.amegala.com/#/cfp/indycode/2022",
-    "cfpEndDate": "2022-06-01",
-    "twitter": "@amegala",
-    "url": "https://indycode.amegala.com"
-  },
-  {
-    "name": "SUSECON",
-    "startDate": "2022-06-07",
-    "endDate": "2022-06-09",
-    "online": true,
-    "twitter": "@SUSE",
-    "url": "https://www.susecon.com"
-  },
-  {
-    "name": "CBF Fest",
-    "startDate": "2022-06-30",
-    "endDate": "2022-07-01",
-    "online": true,
-    "cfpUrl": "https://fest.codingblackfemales.com/call-for-papers",
-    "cfpEndDate": "2022-05-03",
-    "twitter": "@codingblackfems",
-    "url": "https://fest.codingblackfemales.com"
+    "twitter": "@InformatikAktue"
   }
 ]

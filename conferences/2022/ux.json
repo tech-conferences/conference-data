@@ -70,6 +70,15 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "An Event Apart Spring Summit",
+    "url": "https://aneventapart.com/event/spring-summit-2022",
+    "startDate": "2022-04-18",
+    "endDate": "2022-04-20",
+    "online": true,
+    "twitter": "@aneventapart",
+    "cocUrl": "https://aneventapart.com/registration-information#code-of-conduct"
+  },
+  {
     "name": "PUSH Discovery",
     "url": "https://push-conference.com/discovery",
     "startDate": "2022-05-10",
@@ -193,6 +202,28 @@
     "cocUrl": "https://grusp.org/en/coc"
   },
   {
+    "name": "SmashingConf San Francisco",
+    "url": "https://smashingconf.com/sf-2022",
+    "startDate": "2022-06-20",
+    "endDate": "2022-06-23",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@smashingconf",
+    "cocUrl": "https://smashingconf.com/codeofconduct"
+  },
+  {
+    "name": "SmashingConf Austin",
+    "url": "https://smashingconf.com/austin-2022",
+    "startDate": "2022-06-27",
+    "endDate": "2022-06-30",
+    "city": "Austin, TX",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@smashingconf",
+    "cocUrl": "https://smashingconf.com/codeofconduct"
+  },
+  {
     "name": "THAT Conference",
     "url": "https://that.us/events/wi/2022",
     "startDate": "2022-07-25",
@@ -227,6 +258,17 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "SmashingConf Freiburg",
+    "url": "https://smashingconf.com/freiburg-2022",
+    "startDate": "2022-09-05",
+    "endDate": "2022-09-07",
+    "city": "Freiburg",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@smashingconf",
+    "cocUrl": "https://smashingconf.com/codeofconduct"
+  },
+  {
     "name": "Infobip Shift",
     "url": "https://shift.infobip.com",
     "startDate": "2022-09-19",
@@ -240,56 +282,14 @@
     "cocUrl": "https://shift.infobip.com/code/"
   },
   {
-    "name": "An Event Apart Spring Summit",
-    "startDate": "2022-04-18",
-    "endDate": "2022-04-20",
-    "online": true,
-    "twitter": "@aneventapart",
-    "cocUrl": "https://aneventapart.com/registration-information#code-of-conduct",
-    "url": "https://aneventapart.com/event/spring-summit-2022"
-  },
-    {
-    "name": "SmashingConf San Francisco",
-    "startDate": "2022-06-20",
-    "endDate": "2022-06-23",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@smashingconf",
-    "cocUrl": "https://smashingconf.com/codeofconduct",
-    "url": "https://smashingconf.com/sf-2022"
-  },
-  {
-    "name": "SmashingConf Austin",
-    "startDate": "2022-06-27",
-    "endDate": "2022-06-30",
-    "city": "Austin, TX",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@smashingconf",
-    "cocUrl": "https://smashingconf.com/codeofconduct",
-    "url": "https://smashingconf.com/austin-2022"
-  },
-  {
-    "name": "SmashingConf Freiburg",
-    "startDate": "2022-09-05",
-    "endDate": "2022-09-07",
-    "city": "Freiburg",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@smashingconf",
-    "cocUrl": "https://smashingconf.com/codeofconduct",
-    "url": "https://smashingconf.com/freiburg-2022"
-  },
-  {
     "name": "SmashingConf New York",
+    "url": "https://smashingconf.com/ny-2022",
     "startDate": "2022-10-10",
     "endDate": "2022-10-13",
     "city": "New York, NY",
     "country": "U.S.A.",
     "online": true,
     "twitter": "@smashingconf",
-    "cocUrl": "https://smashingconf.com/codeofconduct",
-    "url": "https://smashingconf.com/ny-2022"
+    "cocUrl": "https://smashingconf.com/codeofconduct"
   }
 ]

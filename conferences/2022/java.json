@@ -97,6 +97,17 @@
     "twitter": "@DevoxxUK"
   },
   {
+    "name": "Voxxed Days",
+    "url": "https://voxxeddays.com/zurich",
+    "startDate": "2022-05-17",
+    "endDate": "2022-05-17",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "online": false,
+    "twitter": "@voxxedzurich",
+    "cocUrl": "https://voxxeddays.com/zurich/code-of-conduct/"
+  },
+  {
     "name": "Spring I/O",
     "url": "https://2022.springio.net",
     "startDate": "2022-05-26",
@@ -134,6 +145,16 @@
     "twitter": "@makeitconf2022"
   },
   {
+    "name": "J-Spring - The NLJUG Java Spring Conference",
+    "url": "https://jspring.nl",
+    "startDate": "2022-06-08",
+    "endDate": "2022-06-08",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "online": false,
+    "twitter": "@nljug"
+  },
+  {
     "name": "GOTO Aarhus",
     "url": "https://gotoaarhus.com",
     "startDate": "2022-06-13",
@@ -169,6 +190,17 @@
     "cocUrl": "https://2022.jcon.one/code-of-conduct"
   },
   {
+    "name": "UberConf",
+    "url": "https://uberconf.com",
+    "startDate": "2022-07-12",
+    "endDate": "2022-07-15",
+    "city": "Denver, CO",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@nofluff",
+    "cocUrl": "https://uberconf.com/home/code_of_conduct"
+  },
+  {
     "name": "JBCNConf",
     "url": "https://www.jbcnconf.com/2022",
     "startDate": "2022-07-18",
@@ -178,6 +210,19 @@
     "online": false,
     "twitter": "@jbcnconf",
     "cocUrl": "https://www.jbcnconf.com/2022/coc.html"
+  },
+  {
+    "name": "Herbstcampus",
+    "url": "https://www.herbstcampus.de",
+    "startDate": "2022-09-06",
+    "endDate": "2022-09-08",
+    "city": "Nürnberg",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://www.herbstcampus.de/cfp.php",
+    "cfpEndDate": "2022-05-09",
+    "twitter": "@Herbstcampus",
+    "cocUrl": "https://www.herbstcampus.de/code_of_conduct.php"
   },
   {
     "name": "Infobip Shift",
@@ -222,50 +267,5 @@
     "online": true,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "Herbstcampus",
-    "startDate": "2022-09-06",
-    "endDate": "2022-09-08",
-    "city": "Nürnberg",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://www.herbstcampus.de/cfp.php",
-    "cfpEndDate": "2022-05-09",
-    "twitter": "@Herbstcampus",
-    "cocUrl": "https://www.herbstcampus.de/code_of_conduct.php",
-    "url": "https://www.herbstcampus.de"
-  },
-  {
-    "name": "UberConf",
-    "startDate": "2022-07-12",
-    "endDate": "2022-07-15",
-    "city": "Denver, CO",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@nofluff",
-    "cocUrl": "https://uberconf.com/home/code_of_conduct",
-    "url": "https://uberconf.com"
-  },
-  {
-    "name": "J-Spring - The NLJUG Java Spring Conference",
-    "startDate": "2022-06-08",
-    "endDate": "2022-06-08",
-    "city": "Utrecht",
-    "country": "Netherlands",
-    "online": false,
-    "twitter": "@nljug",
-    "url": "https://jspring.nl"
-  },
-  {
-    "name": "Voxxed Days",
-    "startDate": "2022-05-17",
-    "endDate": "2022-05-17",
-    "city": "Zurich",
-    "country": "Switzerland",
-    "online": false,
-    "twitter": "@voxxedzurich",
-    "cocUrl": "https://voxxeddays.com/zurich/code-of-conduct/",
-    "url": "https://voxxeddays.com/zurich"
   }
 ]

@@ -539,6 +539,16 @@
     "cocUrl": "https://www.conf42.com/code-of-conduct"
   },
   {
+    "name": "PlatformCon",
+    "url": "https://platformcon.com",
+    "startDate": "2022-06-09",
+    "endDate": "2022-06-10",
+    "online": true,
+    "cfpUrl": "https://platformcon.com/submit-talk",
+    "cfpEndDate": "2022-04-10",
+    "cocUrl": "https://platformcon.com/code-of-conuct"
+  },
+  {
     "name": "GOTO Aarhus",
     "url": "https://gotoaarhus.com",
     "startDate": "2022-06-13",
@@ -727,6 +737,16 @@
     "cocUrl": "https://devopsdays.org/events/2022-cairo/conduct"
   },
   {
+    "name": "DevOpsCon New York",
+    "url": "https://devopscon.io/new-york",
+    "startDate": "2022-09-26",
+    "endDate": "2022-09-29",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@devops_con"
+  },
+  {
     "name": "Conf42 Incident Management",
     "url": "https://www.conf42.com/im2022",
     "startDate": "2022-09-29",
@@ -736,6 +756,18 @@
     "cfpEndDate": "2022-08-26",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
+  },
+  {
+    "name": "TestFlix",
+    "url": "https://www.thetesttribe.com/testflix-2022",
+    "startDate": "2022-10-08",
+    "endDate": "2022-10-09",
+    "online": true,
+    "cfpUrl": "https://www.thetesttribe.com/testflix-2022-call-for-papers",
+    "cfpEndDate": "2022-05-15",
+    "twitter": "@the_test_tribe",
+    "cocUrl": "https://www.thetesttribe.com/event-policy-and-code-of-conduct/",
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "BASTA!",
@@ -791,6 +823,19 @@
     "cocUrl": "https://www.usenix.org/conferences/coc"
   },
   {
+    "name": "Devops Barcelona Conference",
+    "url": "https://devops.barcelona",
+    "startDate": "2022-11-03",
+    "endDate": "2022-11-04",
+    "city": "Barcelona",
+    "country": "Spain",
+    "online": false,
+    "cfpUrl": "https://devops.barcelona/call-for-papers",
+    "cfpEndDate": "2022-06-30",
+    "twitter": "@devopsbarcelona",
+    "cocUrl": "https://devops.barcelona/code-of-conduct"
+  },
+  {
     "name": "Agile Testing Days",
     "url": "https://agiletestingdays.com",
     "startDate": "2022-11-21",
@@ -834,59 +879,14 @@
     "cocUrl": "https://devternity.com/code_of_conduct.html"
   },
   {
-    "name": "PlatformCon",
-    "startDate": "2022-06-09",
-    "endDate": "2022-06-10",
-    "online": true,
-    "cfpUrl": "https://platformcon.com/submit-talk",
-    "cfpEndDate": "2022-04-10",
-    "cocUrl": "https://platformcon.com/code-of-conuct",
-    "url": "https://platformcon.com"
-  },
-  {
-    "name": "Devops Barcelona Conference",
-    "startDate": "2022-11-03",
-    "endDate": "2022-11-04",
-    "city": "Barcelona",
-    "country": "Spain",
-    "online": false,
-    "cfpUrl": "https://devops.barcelona/call-for-papers",
-    "cfpEndDate": "2022-06-30",
-    "twitter": "@devopsbarcelona",
-    "cocUrl": "https://devops.barcelona/code-of-conduct",
-    "url": "https://devops.barcelona"
-  },
-  {
-    "name": "DevOpsCon New York",
-    "startDate": "2022-09-26",
-    "endDate": "2022-09-29",
-    "city": "New York, NY",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@devops_con",
-    "url": "https://devopscon.io/new-york"
-  },
-  {
     "name": "DevOpsDays Tel Aviv",
+    "url": "https://tlvcommunity.dev/devopsdays.html",
     "startDate": "2022-12-14",
     "endDate": "2022-12-15",
     "city": "Tel Aviv",
     "country": "Israel",
     "online": false,
     "twitter": "@devopsdaystlv",
-    "cocUrl": "https://tlvcommunity.dev/code-of-conduct.html",
-    "url": "https://tlvcommunity.dev/devopsdays.html"
-  },
-  {
-    "name": "TestFlix",
-    "startDate": "2022-10-08",
-    "endDate": "2022-10-09",
-    "online": true,
-    "cfpUrl": "https://www.thetesttribe.com/testflix-2022-call-for-papers",
-    "cfpEndDate": "2022-05-15",
-    "twitter": "@the_test_tribe",
-    "cocUrl": "https://www.thetesttribe.com/event-policy-and-code-of-conduct/",
-    "offersSignLanguageOrCC": true,
-    "url": "https://www.thetesttribe.com/testflix-2022"
+    "cocUrl": "https://tlvcommunity.dev/code-of-conduct.html"
   }
 ]

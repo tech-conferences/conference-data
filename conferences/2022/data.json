@@ -109,6 +109,13 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Walmart AI Summit - Cognitive Retail At Scale",
+    "url": "https://one.walmart.com/content/globaltechindia/en_in/events/ai-summit.html",
+    "startDate": "2022-04-06",
+    "endDate": "2022-04-07",
+    "online": true
+  },
+  {
     "name": "Nullcon International Conference and Training Berlin",
     "url": "https://nullcon.net",
     "startDate": "2022-04-08",
@@ -155,13 +162,21 @@
   },
   {
     "name": "DMML",
+    "url": "https://www.necom2022.org/dmml/index",
     "startDate": "2022-04-23",
     "endDate": "2022-04-24",
     "online": true,
     "cfpUrl": "https://www.necom2022.org/dmml/submission",
     "cfpEndDate": "2022-04-02",
-    "offersSignLanguageOrCC": true,
-    "url": "https://www.necom2022.org/dmml/index"
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "Appsilon Shiny Conference",
+    "url": "https://hopin.com/events/shinyconference2022",
+    "startDate": "2022-04-27",
+    "endDate": "2022-04-29",
+    "online": true,
+    "twitter": "@appsilon"
   },
   {
     "name": "QCon Plus Online Software Conference",
@@ -171,6 +186,17 @@
     "online": true,
     "twitter": "@QCon",
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "Voxxed Days",
+    "url": "https://voxxeddays.com/zurich",
+    "startDate": "2022-05-17",
+    "endDate": "2022-05-17",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "online": false,
+    "twitter": "@voxxedzurich",
+    "cocUrl": "https://voxxeddays.com/zurich/code-of-conduct/"
   },
   {
     "name": "Conf42 Machine Learning",
@@ -262,6 +288,41 @@
     "cfpEndDate": "2022-01-31"
   },
   {
+    "name": "ODSC Europe",
+    "url": "https://odsc.com/europe/",
+    "startDate": "2022-06-15",
+    "endDate": "2022-06-16",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "twitter": "@ODSC",
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "hub.berlin",
+    "url": "https://www.hub.berlin",
+    "startDate": "2022-06-22",
+    "endDate": "2022-06-23",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://www.hub.berlin/business-festival-tickets-2022",
+    "cfpEndDate": "2022-06-21",
+    "twitter": "@hub.berlin",
+    "cocUrl": "https://www.hub.berlin/join-us/faq"
+  },
+  {
+    "name": "BCI Summit - Big Data Management",
+    "url": "https://bcisummit.com/summit-2022-big-data-management.html",
+    "startDate": "2022-06-23",
+    "endDate": "2022-06-23",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@BCISummit",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "ML Conference Munich",
     "url": "https://mlconference.ai/munich",
     "startDate": "2022-06-27",
@@ -281,6 +342,15 @@
     "country": "U.S.A.",
     "online": true,
     "cocUrl": "https://databricks.com/dataaisummit/north-america-2022/code-of-conduct"
+  },
+  {
+    "name": "Common Sense Data & Analytics APAC",
+    "url": "https://www.commonsense.events/cs22-data-analytics-summit-apac",
+    "startDate": "2022-09-07",
+    "endDate": "2022-09-09",
+    "city": "Singapore",
+    "country": "Singapore",
+    "online": false
   },
   {
     "name": "Uptime by Aiven",
@@ -307,6 +377,18 @@
     "cocUrl": "https://www.data2day.de/code_of_conduct.php"
   },
   {
+    "name": "TestFlix",
+    "url": "https://www.thetesttribe.com/testflix-2022",
+    "startDate": "2022-10-08",
+    "endDate": "2022-10-09",
+    "online": true,
+    "cfpUrl": "https://www.thetesttribe.com/testflix-2022-call-for-papers",
+    "cfpEndDate": "2022-05-15",
+    "twitter": "@the_test_tribe",
+    "cocUrl": "https://www.thetesttribe.com/event-policy-and-code-of-conduct/",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Agile Testing Days",
     "url": "https://agiletestingdays.com",
     "startDate": "2022-11-21",
@@ -318,87 +400,5 @@
     "cfpEndDate": "2022-03-20",
     "twitter": "@AgileTD",
     "cocUrl": "https://agiletestingdays.com/code-of-conduct/"
-  },
-  {
-    "name": "Common Sense Data & Analytics APAC",
-    "startDate": "2022-09-07",
-    "endDate": "2022-09-09",
-    "city": "Singapore",
-    "country": "Singapore",
-    "online": false,
-    "url": "https://www.commonsense.events/cs22-data-analytics-summit-apac"
-  },
-  {
-    "name": "Walmart AI Summit - Cognitive Retail At Scale",
-    "startDate": "2022-04-06",
-    "endDate": "2022-04-07",
-    "online": true,
-    "url": "https://one.walmart.com/content/globaltechindia/en_in/events/ai-summit.html"
-  },
-  {
-    "name": "ODSC Europe",
-    "startDate": "2022-06-15",
-    "endDate": "2022-06-16",
-    "city": "London",
-    "country": "U.K.",
-    "online": true,
-    "twitter": "@ODSC",
-    "offersSignLanguageOrCC": true,
-    "url": "https://odsc.com/europe/"
-  },
-  {
-    "name": "hub.berlin",
-    "startDate": "2022-06-22",
-    "endDate": "2022-06-23",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://www.hub.berlin/business-festival-tickets-2022",
-    "cfpEndDate": "2022-06-21",
-    "twitter": "@hub.berlin",
-    "cocUrl": "https://www.hub.berlin/join-us/faq",
-    "url": "https://www.hub.berlin"
-  },
-  {
-    "name": "Appsilon Shiny Conference",
-    "startDate": "2022-04-27",
-    "endDate": "2022-04-29",
-    "online": true,
-    "twitter": "@appsilon",
-    "url": "https://hopin.com/events/shinyconference2022"
-  },
-  {
-    "name": "BCI Summit - Big Data Management",
-    "startDate": "2022-06-23",
-    "endDate": "2022-06-23",
-    "city": "New York, NY",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@BCISummit",
-    "offersSignLanguageOrCC": true,
-    "url": "https://bcisummit.com/summit-2022-big-data-management.html"
-  },
-  {
-    "name": "TestFlix",
-    "startDate": "2022-10-08",
-    "endDate": "2022-10-09",
-    "online": true,
-    "cfpUrl": "https://www.thetesttribe.com/testflix-2022-call-for-papers",
-    "cfpEndDate": "2022-05-15",
-    "twitter": "@the_test_tribe",
-    "cocUrl": "https://www.thetesttribe.com/event-policy-and-code-of-conduct/",
-    "offersSignLanguageOrCC": true,
-    "url": "https://www.thetesttribe.com/testflix-2022"
-  },
-  {
-    "name": "Voxxed Days",
-    "startDate": "2022-05-17",
-    "endDate": "2022-05-17",
-    "city": "Zurich",
-    "country": "Switzerland",
-    "online": false,
-    "twitter": "@voxxedzurich",
-    "cocUrl": "https://voxxeddays.com/zurich/code-of-conduct/",
-    "url": "https://voxxeddays.com/zurich"
   }
 ]

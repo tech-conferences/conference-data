@@ -224,6 +224,15 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "An Event Apart Spring Summit",
+    "url": "https://aneventapart.com/event/spring-summit-2022",
+    "startDate": "2022-04-18",
+    "endDate": "2022-04-20",
+    "online": true,
+    "twitter": "@aneventapart",
+    "cocUrl": "https://aneventapart.com/registration-information#code-of-conduct"
+  },
+  {
     "name": "EmberConf",
     "url": "https://2022.emberconf.com",
     "startDate": "2022-04-19",
@@ -409,6 +418,17 @@
     "cocUrl": "https://vueconf.us/codeofconduct/"
   },
   {
+    "name": "JSHeroes",
+    "url": "https://jsheroes.io",
+    "startDate": "2022-06-09",
+    "endDate": "2022-06-09",
+    "city": "Cluj-Napoca",
+    "country": "Romania",
+    "online": false,
+    "twitter": "@jsheroes",
+    "cocUrl": "https://jsheroes.io/code-of-conduct"
+  },
+  {
     "name": "WeAreDevelopers World Congress",
     "url": "https://www.wearedevelopers.com/world-congress/#",
     "startDate": "2022-06-14",
@@ -418,6 +438,19 @@
     "online": true,
     "cfpUrl": "https://sessionize.com/wearedevs2022",
     "cfpEndDate": "2022-01-31"
+  },
+  {
+    "name": "Prisma Day",
+    "url": "https://www.prisma.io/day",
+    "startDate": "2022-06-15",
+    "endDate": "2022-06-16",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "cfpUrl": "https://prisma103696.typeform.com/to/Gm9zMrKA",
+    "cfpEndDate": "2022-04-25",
+    "twitter": "@prisma",
+    "cocUrl": "https://github.com/prisma/prisma/blob/main/CODE_OF_CONDUCT.md"
   },
   {
     "name": "JSNation Conference",
@@ -446,6 +479,17 @@
     "cocUrl": "https://reactsummit.com/coc"
   },
   {
+    "name": "SmashingConf San Francisco",
+    "url": "https://smashingconf.com/sf-2022",
+    "startDate": "2022-06-20",
+    "endDate": "2022-06-23",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@smashingconf",
+    "cocUrl": "https://smashingconf.com/codeofconduct"
+  },
+  {
     "name": "enterJS",
     "url": "https://enterjs.de",
     "startDate": "2022-06-22",
@@ -460,6 +504,7 @@
   },
   {
     "name": "React Norway",
+    "url": "https://reactnorway.com",
     "startDate": "2022-06-24",
     "endDate": "2022-06-24",
     "city": "Larvik",
@@ -468,8 +513,18 @@
     "cfpUrl": "https://forms.gle/ZKhA3LNk7rRjRFuw5",
     "cfpEndDate": "2022-05-06",
     "twitter": "@ReactNorway",
-    "cocUrl": "https://berlincodeofconduct.org/",
-    "url": "https://reactnorway.com"
+    "cocUrl": "https://berlincodeofconduct.org/"
+  },
+  {
+    "name": "SmashingConf Austin",
+    "url": "https://smashingconf.com/austin-2022",
+    "startDate": "2022-06-27",
+    "endDate": "2022-06-30",
+    "city": "Austin, TX",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@smashingconf",
+    "cocUrl": "https://smashingconf.com/codeofconduct"
   },
   {
     "name": "ReactNext",
@@ -548,6 +603,30 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "SmashingConf Freiburg",
+    "url": "https://smashingconf.com/freiburg-2022",
+    "startDate": "2022-09-05",
+    "endDate": "2022-09-07",
+    "city": "Freiburg",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@smashingconf",
+    "cocUrl": "https://smashingconf.com/codeofconduct"
+  },
+  {
+    "name": "Herbstcampus",
+    "url": "https://www.herbstcampus.de",
+    "startDate": "2022-09-06",
+    "endDate": "2022-09-08",
+    "city": "Nürnberg",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://www.herbstcampus.de/cfp.php",
+    "cfpEndDate": "2022-05-09",
+    "twitter": "@Herbstcampus",
+    "cocUrl": "https://www.herbstcampus.de/code_of_conduct.php"
+  },
+  {
     "name": "React Finland",
     "url": "https://react-finland.fi/",
     "startDate": "2022-09-12",
@@ -580,6 +659,17 @@
     "cocUrl": "https://nordicjs.com/code-of-conduct"
   },
   {
+    "name": "SmashingConf New York",
+    "url": "https://smashingconf.com/ny-2022",
+    "startDate": "2022-10-10",
+    "endDate": "2022-10-13",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@smashingconf",
+    "cocUrl": "https://smashingconf.com/codeofconduct"
+  },
+  {
     "name": "BASTA!",
     "url": "https://basta.net/mainz-en",
     "startDate": "2022-10-10",
@@ -600,95 +690,5 @@
     "cfpEndDate": "2022-10-14",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
-  },
-  {
-    "name": "An Event Apart Spring Summit",
-    "startDate": "2022-04-18",
-    "endDate": "2022-04-20",
-    "online": true,
-    "twitter": "@aneventapart",
-    "cocUrl": "https://aneventapart.com/registration-information#code-of-conduct",
-    "url": "https://aneventapart.com/event/spring-summit-2022"
-  },
-  {
-    "name": "Prisma Day",
-    "startDate": "2022-06-15",
-    "endDate": "2022-06-16",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "cfpUrl": "https://prisma103696.typeform.com/to/Gm9zMrKA",
-    "cfpEndDate": "2022-04-25",
-    "twitter": "@prisma",
-    "cocUrl": "https://github.com/prisma/prisma/blob/main/CODE_OF_CONDUCT.md",
-    "url": "https://www.prisma.io/day"
-  },
-  {
-    "name": "SmashingConf San Francisco",
-    "startDate": "2022-06-20",
-    "endDate": "2022-06-23",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@smashingconf",
-    "cocUrl": "https://smashingconf.com/codeofconduct",
-    "url": "https://smashingconf.com/sf-2022"
-  },
-  {
-    "name": "SmashingConf Austin",
-    "startDate": "2022-06-27",
-    "endDate": "2022-06-30",
-    "city": "Austin, TX",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@smashingconf",
-    "cocUrl": "https://smashingconf.com/codeofconduct",
-    "url": "https://smashingconf.com/austin-2022"
-  },
-  {
-    "name": "SmashingConf Freiburg",
-    "startDate": "2022-09-05",
-    "endDate": "2022-09-07",
-    "city": "Freiburg",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@smashingconf",
-    "cocUrl": "https://smashingconf.com/codeofconduct",
-    "url": "https://smashingconf.com/freiburg-2022"
-  },
-  {
-    "name": "SmashingConf New York",
-    "startDate": "2022-10-10",
-    "endDate": "2022-10-13",
-    "city": "New York, NY",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@smashingconf",
-    "cocUrl": "https://smashingconf.com/codeofconduct",
-    "url": "https://smashingconf.com/ny-2022"
-  },
-  {
-    "name": "Herbstcampus",
-    "startDate": "2022-09-06",
-    "endDate": "2022-09-08",
-    "city": "Nürnberg",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://www.herbstcampus.de/cfp.php",
-    "cfpEndDate": "2022-05-09",
-    "twitter": "@Herbstcampus",
-    "cocUrl": "https://www.herbstcampus.de/code_of_conduct.php",
-    "url": "https://www.herbstcampus.de"
-  },
-  {
-    "name": "JSHeroes",
-    "startDate": "2022-06-09",
-    "endDate": "2022-06-09",
-    "city": "Cluj-Napoca",
-    "country": "Romania",
-    "online": false,
-    "twitter": "@jsheroes",
-    "cocUrl": "https://jsheroes.io/code-of-conduct",
-    "url": "https://jsheroes.io"
   }
 ]
