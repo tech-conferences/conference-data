@@ -134,12 +134,13 @@
   },
   {
     "name": "EuroPython",
-    "url": "https://www.python.org/events/python-events/989",
+    "url": "https://ep2022.europython.eu",
     "startDate": "2022-07-11",
     "endDate": "2022-07-17",
     "city": "Dublin",
     "country": "Ireland",
-    "online": false
+    "online": false,
+    "cocUrl": "https://www.europython-society.org/coc/"
   },
   {
     "name": "Agile Testing Days",
