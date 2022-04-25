@@ -691,5 +691,38 @@
     "twitter": "@Heapconf",
     "cocUrl": "https://heapcon.io/code-of-conduct/",
     "url": "https://heapcon.io"
+  },
+  {
+    "name": "GambiConf",
+    "startDate": "2022-09-03",
+    "endDate": "2022-09-10",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "online": true,
+    "cfpUrl": "https://gambiconf.dev/cfp",
+    "cfpEndDate": "2022-05-22",
+    "twitter": "@gambiconf",
+    "cocUrl": "https://gambiconf.dev/code-of-conduct",
+    "url": "https://gambiconf.dev"
+  },
+  {
+    "name": "Indy.Code()",
+    "startDate": "2022-10-19",
+    "endDate": "2022-10-19",
+    "city": "Indianapolis, IN",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://www.amegala.com/#/cfp/indycode/2022",
+    "cfpEndDate": "2022-06-01",
+    "twitter": "@amegala",
+    "url": "https://indycode.amegala.com"
+  },
+  {
+    "name": "SUSECON",
+    "startDate": "2022-06-07",
+    "endDate": "2022-06-09",
+    "online": true,
+    "twitter": "@SUSE",
+    "url": "https://www.susecon.com"
   }
 ]
