@@ -470,7 +470,8 @@ module.exports = {
     "Sitges, Barcelona",
     "Tenerife",
     "Valencia",
-    "Vigo"
+    "Vigo",
+    "Zaragoza"
   ],
   "Sri Lanka": [
     "Colombo"
