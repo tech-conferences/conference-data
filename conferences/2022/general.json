@@ -734,5 +734,18 @@
     "cfpUrl": "https://www.ittage.informatik-aktuell.de/call-for-papers.html",
     "cfpEndDate": "2022-05-03",
     "twitter": "@InformatikAktue"
+  },
+  {
+    "name": "Valencia Tech Festival",
+    "startDate": "2022-06-18",
+    "endDate": "2022-06-18",
+    "city": "Valencia",
+    "country": "Spain",
+    "online": false,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdjQybze8ikwe_gkNMOPO1UfDo9_AAAl6u_WJdO8-CR_pO13Q/viewform",
+    "cfpEndDate": "2022-05-27",
+    "twitter": "@vlctechfest",
+    "cocUrl": "https://vlctechfest.org/es/code_of_conduct.html",
+    "url": "https://vlctechfest.org"
   }
 ]
