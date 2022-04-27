@@ -58,5 +58,16 @@
     "cfpEndDate": "2022-03-01",
     "twitter": "@thatconference",
     "cocUrl": "https://that.us/support/code-of-conduct/"
+  },
+  {
+    "name": "API Conference Berlin",
+    "startDate": "2022-10-17",
+    "endDate": "2022-10-19",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@api_conference",
+    "cocUrl": "https://apiconference.net/code-of-conduct/",
+    "url": "https://apiconference.net/berlin"
   }
 ]
