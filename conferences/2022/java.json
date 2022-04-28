@@ -290,5 +290,18 @@
     "online": true,
     "twitter": "@jaxlondon",
     "url": "https://jaxlondon.com"
+  },
+  {
+    "name": "EclipseCon",
+    "startDate": "2022-10-24",
+    "endDate": "2022-10-27",
+    "city": "Ludwigsburg",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://www.eclipsecon.org/2022/cfp",
+    "cfpEndDate": "2022-06-15",
+    "twitter": "@eclipsecon",
+    "cocUrl": "https://www.eclipsecon.org/2022/eclipse-community-events-code-conduct",
+    "url": "https://www.eclipsecon.org/2022"
   }
 ]
