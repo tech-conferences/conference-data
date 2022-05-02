@@ -293,5 +293,25 @@
     "twitter": "@javazone",
     "cocUrl": "https://www.java.no/principles#",
     "url": "https://2022.javazone.no"
+  },
+  {
+    "name": "JAX London",
+    "startDate": "2022-10-03",
+    "endDate": "2022-10-06",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "twitter": "@jaxlondon",
+    "url": "https://jaxlondon.com"
+  },
+  {
+    "name": "JavaOne",
+    "startDate": "2022-10-16",
+    "endDate": "2022-10-20",
+    "city": "Las Vegas, NV",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@JavaOne",
+    "url": "https://www.oracle.com/cloudworld/javaone"
   }
 ]
