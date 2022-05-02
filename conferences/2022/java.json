@@ -282,6 +282,19 @@
     "url": "https://nullcon.net/goa-2022"
   },
   {
+    "name": "JavaZone",
+    "startDate": "2022-09-07",
+    "endDate": "2022-09-08",
+    "city": "Oslo",
+    "country": "Norway",
+    "online": false,
+    "cfpUrl": "https://2022.javazone.no/#/speakers",
+    "cfpEndDate": "2022-04-30",
+    "twitter": "@javazone",
+    "cocUrl": "https://www.java.no/principles#",
+    "url": "https://2022.javazone.no"
+  },
+  {
     "name": "JAX London",
     "startDate": "2022-10-03",
     "endDate": "2022-10-06",
@@ -303,5 +316,15 @@
     "twitter": "@eclipsecon",
     "cocUrl": "https://www.eclipsecon.org/2022/eclipse-community-events-code-conduct",
     "url": "https://www.eclipsecon.org/2022"
+  },
+  {
+    "name": "JavaOne",
+    "startDate": "2022-10-16",
+    "endDate": "2022-10-20",
+    "city": "Las Vegas, NV",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@JavaOne",
+    "url": "https://www.oracle.com/cloudworld/javaone"
   }
 ]
