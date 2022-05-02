@@ -290,5 +290,15 @@
     "online": true,
     "twitter": "@jaxlondon",
     "url": "https://jaxlondon.com"
+  },
+  {
+    "name": "JavaOne",
+    "startDate": "2022-10-16",
+    "endDate": "2022-10-20",
+    "city": "Las Vegas, NV",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@JavaOne",
+    "url": "https://www.oracle.com/cloudworld/javaone"
   }
 ]
