@@ -187,6 +187,7 @@ module.exports = {
     "Karlsruhe",
     "Kiel",
     "Leipzig",
+    "Ludwigsburg",
     "Mainz",
     "Mannheim",
     "Munich",
