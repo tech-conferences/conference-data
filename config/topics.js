@@ -1,5 +1,5 @@
 module.exports = [
-  "accessbility",
+  "accessibility",
   "android",
   "api",
   "cfml",
