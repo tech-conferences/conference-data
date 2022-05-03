@@ -920,5 +920,18 @@
     "twitter": "@DEVOPSINST",
     "offersSignLanguageOrCC": true,
     "url": "https://www.skilupfestival.io/denver-22"
+  },
+  {
+    "name": "stackconf",
+    "startDate": "2022-07-19",
+    "endDate": "2022-07-20",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://stackconf.eu/propose",
+    "cfpEndDate": "2022-03-31",
+    "twitter": "@netwaysevents",
+    "cocUrl": "https://stackconf.eu/code-of-conduct/",
+    "url": "https://stackconf.eu"
   }
 ]
