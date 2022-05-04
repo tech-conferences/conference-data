@@ -933,5 +933,18 @@
     "twitter": "@netwaysevents",
     "cocUrl": "https://stackconf.eu/code-of-conduct/",
     "url": "https://stackconf.eu"
+  },
+  {
+    "name": "DevopsDays Berlin",
+    "startDate": "2022-09-21",
+    "endDate": "2022-09-22",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://cfp.devopsdays.berlin/2022/cfp",
+    "cfpEndDate": "2022-06-30",
+    "twitter": "@blndevops",
+    "cocUrl": "https://devopsdays.org/events/2022-berlin/conduct",
+    "url": "https://devopsdays.org/events/2022-berlin/welcome"
   }
 ]
