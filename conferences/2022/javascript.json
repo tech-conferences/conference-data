@@ -700,5 +700,16 @@
     "online": true,
     "twitter": "@JavaScriptCon",
     "url": "https://javascript-conference.com/new-york"
+  },
+  {
+    "name": "XtremeJS Online Conference",
+    "startDate": "2022-11-29",
+    "endDate": "2022-11-29",
+    "online": true,
+    "cfpUrl": "https://xtremejs.dev/2022/speakers",
+    "cfpEndDate": "2022-08-31",
+    "twitter": "@xtremejsconf",
+    "offersSignLanguageOrCC": true,
+    "url": "https://xtremejs.dev"
   }
 ]
