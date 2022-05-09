@@ -291,5 +291,16 @@
     "online": true,
     "twitter": "@smashingconf",
     "cocUrl": "https://smashingconf.com/codeofconduct"
+  },
+  {
+    "name": "STHLM Xperience Conference",
+    "startDate": "2022-11-10",
+    "endDate": "2022-11-10",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "online": true,
+    "twitter": "@SthlmXperience",
+    "offersSignLanguageOrCC": true,
+    "url": "https://sthlm.xconf.co"
   }
 ]
