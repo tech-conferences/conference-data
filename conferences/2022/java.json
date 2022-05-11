@@ -326,5 +326,18 @@
     "online": false,
     "twitter": "@JavaOne",
     "url": "https://www.oracle.com/cloudworld/javaone"
+  },
+  {
+    "name": "JNation",
+    "startDate": "2022-06-07",
+    "endDate": "2022-06-07",
+    "city": "Coimbra",
+    "country": "Portugal",
+    "online": false,
+    "cfpUrl": "https://jnation.pt/cfp",
+    "cfpEndDate": "2022-05-01",
+    "twitter": "@jnation",
+    "cocUrl": "https://jnation.pt/code-of-conduct/",
+    "url": "https://jnation.pt"
   }
 ]
