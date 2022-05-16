@@ -172,6 +172,7 @@ module.exports = {
     "Bochum",
     "Bodensee",
     "Bremen",
+    "Brühl",
     "Cologne",
     "Darmstadt",
     "Dresden",
