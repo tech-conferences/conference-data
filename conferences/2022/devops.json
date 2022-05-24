@@ -1039,5 +1039,18 @@
     "cfpEndDate": "2022-05-25",
     "twitter": "@PerconaBytes",
     "url": "http://percona.community/events/percona-community-live-2022"
+  },
+  {
+    "name": "containerday",
+    "startDate": "2022-10-28",
+    "endDate": "2022-10-28",
+    "city": "Bologna",
+    "country": "Italy",
+    "online": true,
+    "cfpUrl": "https://grusp.org/CFPcontainerday",
+    "cfpEndDate": "2022-07-01",
+    "twitter": "@containerayit",
+    "cocUrl": "https://grusp.org/coc",
+    "url": "https://containerday.it"
   }
 ]
