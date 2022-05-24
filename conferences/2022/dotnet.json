@@ -145,5 +145,16 @@
     "cfpEndDate": "2022-04-30",
     "twitter": "@PSHChatt",
     "url": "https://www.powershellchatt.com"
+  },
+  {
+    "name": "dotnetdays Romania",
+    "startDate": "2022-10-20",
+    "endDate": "2022-10-22",
+    "city": "Iasi",
+    "country": "Romania",
+    "online": false,
+    "twitter": "@dotnetdaysro",
+    "cocUrl": "https://dotnetdays.ro/2022/Home/CodeOfConduct",
+    "url": "https://dotnetdays.ro"
   }
 ]
