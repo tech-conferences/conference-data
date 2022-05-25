@@ -733,5 +733,19 @@
     "twitter": "@JS_Days",
     "cocUrl": "https://javascript-days.de/code-of-conduct/",
     "url": "https://javascript-days.de/berlin"
+  },
+  {
+    "name": "JSConf Korea",
+    "startDate": "2022-09-16",
+    "endDate": "2022-09-17",
+    "city": "Seoul",
+    "country": "Republic Of Korea",
+    "online": false,
+    "cfpUrl": "https://2022.jsconf.kr/en/call-for-proposals",
+    "cfpEndDate": "2022-06-24",
+    "twitter": "@jsconfkorea",
+    "cocUrl": "https://2022.jsconf.kr/en/code-of-conduct",
+    "offersSignLanguageOrCC": true,
+    "url": "https://2022.jsconf.kr/ko"
   }
 ]
