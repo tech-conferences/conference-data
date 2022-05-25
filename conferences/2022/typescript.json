@@ -114,6 +114,16 @@
     "cocUrl": "https://shift.infobip.com/code/"
   },
   {
+    "name": "International JavaScript Conference",
+    "url": "https://javascript-conference.com/new-york",
+    "startDate": "2022-09-26",
+    "endDate": "2022-09-29",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@JavaScriptCon"
+  },
+  {
     "name": "DevTernity",
     "url": "https://devternity.com",
     "startDate": "2022-12-08",
@@ -121,15 +131,5 @@
     "online": true,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "International JavaScript Conference",
-    "startDate": "2022-09-26",
-    "endDate": "2022-09-29",
-    "city": "New York, NY",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@JavaScriptCon",
-    "url": "https://javascript-conference.com/new-york"
   }
 ]

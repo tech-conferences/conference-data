@@ -161,6 +161,16 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "performance.now()",
+    "url": "https://perfnow.nl",
+    "startDate": "2022-10-27",
+    "endDate": "2022-10-28",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": true,
+    "twitter": "@perfnowconf"
+  },
+  {
     "name": "Agile Testing Days",
     "url": "https://agiletestingdays.com",
     "startDate": "2022-11-21",
@@ -172,15 +182,5 @@
     "cfpEndDate": "2022-03-20",
     "twitter": "@AgileTD",
     "cocUrl": "https://agiletestingdays.com/code-of-conduct/"
-  },
-  {
-    "name": "performance.now()",
-    "startDate": "2022-10-27",
-    "endDate": "2022-10-28",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "online": true,
-    "twitter": "@perfnowconf",
-    "url": "https://perfnow.nl"
   }
 ]

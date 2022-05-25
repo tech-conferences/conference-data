@@ -589,6 +589,17 @@
     "cocUrl": "https://skillsmatter.com/go/code-of-conduct"
   },
   {
+    "name": "JavaScript and Friends Conference",
+    "url": "https://www.javascriptandfriends.com",
+    "startDate": "2022-07-29",
+    "endDate": "2022-07-29",
+    "city": "Columbus, OH",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@JSFriendsConf",
+    "cocUrl": "https://www.javascriptandfriends.com/codeofconduct"
+  },
+  {
     "name": "CascadiaJS",
     "url": "https://2022.cascadiajs.com",
     "startDate": "2022-08-30",
@@ -638,6 +649,30 @@
     "cocUrl": "https://berlincodeofconduct.org/"
   },
   {
+    "name": "JSConf Korea",
+    "url": "https://2022.jsconf.kr/en",
+    "startDate": "2022-09-16",
+    "endDate": "2022-09-17",
+    "city": "Seoul",
+    "country": "Korea",
+    "online": false,
+    "cfpUrl": "https://2022.jsconf.kr/en/call-for-proposals",
+    "cfpEndDate": "2022-06-24",
+    "twitter": "@jsconfkorea",
+    "cocUrl": "https://2022.jsconf.kr/en/code-of-conduct",
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "International JavaScript Conference",
+    "url": "https://javascript-conference.com/new-york",
+    "startDate": "2022-09-26",
+    "endDate": "2022-09-29",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@JavaScriptCon"
+  },
+  {
     "name": "Full Stack Europe",
     "url": "https://fullstackeurope.com/2022",
     "startDate": "2022-10-05",
@@ -681,6 +716,17 @@
     "cocUrl": "https://basta.net/code-of-conduct-en/"
   },
   {
+    "name": "JavaScript/Angular/React/HTML & CSS Days",
+    "url": "https://javascript-days.de/berlin",
+    "startDate": "2022-10-17",
+    "endDate": "2022-10-20",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@JS_Days",
+    "cocUrl": "https://javascript-days.de/code-of-conduct/"
+  },
+  {
     "name": "Conf42 JavaScript",
     "url": "https://www.conf42.com/js2022",
     "startDate": "2022-11-17",
@@ -692,60 +738,14 @@
     "cocUrl": "https://www.conf42.com/code-of-conduct"
   },
   {
-    "name": "International JavaScript Conference",
-    "startDate": "2022-09-26",
-    "endDate": "2022-09-29",
-    "city": "New York, NY",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@JavaScriptCon",
-    "url": "https://javascript-conference.com/new-york"
-  },
-  {
     "name": "XtremeJS Online Conference",
+    "url": "https://xtremejs.dev",
     "startDate": "2022-11-29",
     "endDate": "2022-11-29",
     "online": true,
     "cfpUrl": "https://xtremejs.dev/2022/speakers",
     "cfpEndDate": "2022-08-31",
     "twitter": "@xtremejsconf",
-    "offersSignLanguageOrCC": true,
-    "url": "https://xtremejs.dev"
-  },
-  {
-    "name": "JavaScript and Friends Conference",
-    "startDate": "2022-07-29",
-    "endDate": "2022-07-29",
-    "city": "Columbus, OH",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@JSFriendsConf",
-    "cocUrl": "https://www.javascriptandfriends.com/codeofconduct",
-    "url": "https://www.javascriptandfriends.com"
-  },
-  {
-    "name": "JavaScript/Angular/React/HTML & CSS Days",
-    "startDate": "2022-10-17",
-    "endDate": "2022-10-20",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@JS_Days",
-    "cocUrl": "https://javascript-days.de/code-of-conduct/",
-    "url": "https://javascript-days.de/berlin"
-  },
-  {
-    "name": "JSConf Korea",
-    "startDate": "2022-09-16",
-    "endDate": "2022-09-17",
-    "city": "Seoul",
-    "country": "Korea",
-    "online": false,
-    "cfpUrl": "https://2022.jsconf.kr/en/call-for-proposals",
-    "cfpEndDate": "2022-06-24",
-    "twitter": "@jsconfkorea",
-    "cocUrl": "https://2022.jsconf.kr/en/code-of-conduct",
-    "offersSignLanguageOrCC": true,
-    "url": "https://2022.jsconf.kr/en"
+    "offersSignLanguageOrCC": true
   }
 ]

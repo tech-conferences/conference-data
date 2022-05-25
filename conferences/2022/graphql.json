@@ -61,13 +61,13 @@
   },
   {
     "name": "API Conference Berlin",
+    "url": "https://apiconference.net/berlin",
     "startDate": "2022-10-17",
     "endDate": "2022-10-19",
     "city": "Berlin",
     "country": "Germany",
     "online": true,
     "twitter": "@api_conference",
-    "cocUrl": "https://apiconference.net/code-of-conduct/",
-    "url": "https://apiconference.net/berlin"
+    "cocUrl": "https://apiconference.net/code-of-conduct/"
   }
 ]

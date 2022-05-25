@@ -13,16 +13,8 @@
     "cocUrl": "https://www.typeville.io/"
   },
   {
-    "name": "DevTernity",
-    "url": "https://devternity.com",
-    "startDate": "2022-12-08",
-    "endDate": "2022-12-09",
-    "online": true,
-    "twitter": "@devternity",
-    "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
     "name": "JNation",
+    "url": "https://jnation.pt",
     "startDate": "2022-06-07",
     "endDate": "2022-06-07",
     "city": "Coimbra",
@@ -31,7 +23,15 @@
     "cfpUrl": "https://jnation.pt/cfp",
     "cfpEndDate": "2022-05-01",
     "twitter": "@jnationConf",
-    "cocUrl": "https://jnation.pt/code-of-conduct/",
-    "url": "https://jnation.pt"
+    "cocUrl": "https://jnation.pt/code-of-conduct/"
+  },
+  {
+    "name": "DevTernity",
+    "url": "https://devternity.com",
+    "startDate": "2022-12-08",
+    "endDate": "2022-12-09",
+    "online": true,
+    "twitter": "@devternity",
+    "cocUrl": "https://devternity.com/code_of_conduct.html"
   }
 ]

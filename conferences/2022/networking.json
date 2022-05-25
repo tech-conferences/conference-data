@@ -142,6 +142,18 @@
     "twitter": "@newrelic"
   },
   {
+    "name": "Infoshare F3",
+    "url": "https://f3.infoshare.pl",
+    "startDate": "2022-05-19",
+    "endDate": "2022-05-19",
+    "city": "Gdansk",
+    "country": "Poland",
+    "online": false,
+    "cfpUrl": "https://f3.infoshare.pl/rejestracja",
+    "cfpEndDate": "2022-05-18",
+    "twitter": "@infosharepl"
+  },
+  {
     "name": "THAT Conference",
     "url": "https://that.us/events/tx/2022",
     "startDate": "2022-05-23",
@@ -256,6 +268,16 @@
     "cocUrl": "https://www.hub.berlin/join-us/faq"
   },
   {
+    "name": "DEEP Startup Ecosystem Conference",
+    "url": "https://www.deepecosystems.com/conference",
+    "startDate": "2022-06-23",
+    "endDate": "2022-06-24",
+    "city": "Stuttgart",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@eustartup"
+  },
+  {
     "name": "Webit Global Impact Forum",
     "url": "https://www.webit.org/2022/impact",
     "startDate": "2022-06-28",
@@ -305,6 +327,17 @@
     "cocUrl": "https://www.cincydeliver.org/Home/CodeOfConduct"
   },
   {
+    "name": "Selenium Conf",
+    "url": "https://2022.seleniumconf.in",
+    "startDate": "2022-07-29",
+    "endDate": "2022-07-30",
+    "online": true,
+    "cfpUrl": "https://confengine.com/conferences/selenium-conf-2022",
+    "cfpEndDate": "2022-05-31",
+    "twitter": "@seleniumconf",
+    "cocUrl": "https://2022.seleniumconf.in/code-of-conduct.html"
+  },
+  {
     "name": "International Congress on Ad-Hoc Networks",
     "url": "https://intcongress.com/international-congress-on-ad-hoc-networks-2022",
     "startDate": "2022-08-11",
@@ -337,6 +370,19 @@
     "cfpUrl": "https://sessionize.com/containerdays-2022",
     "cfpEndDate": "2022-04-30",
     "twitter": "@ConDaysEU"
+  },
+  {
+    "name": "Nullcon International Security Conference and Training Goa",
+    "url": "https://nullcon.net/goa-2022",
+    "startDate": "2022-09-09",
+    "endDate": "2022-09-10",
+    "city": "Goa",
+    "country": "India",
+    "online": false,
+    "cfpUrl": "https://nullcon.net/goa-2022/cfp",
+    "cfpEndDate": "2022-06-05",
+    "twitter": "@nullcon",
+    "cocUrl": "https://nullcon.net/about-conferencepolicy/"
   },
   {
     "name": "Infobip Shift",
@@ -383,51 +429,5 @@
     "cfpEndDate": "2022-06-30",
     "twitter": "@netwaysevents",
     "cocUrl": "https://osmc.de/code-of-conduct/"
-  },
-  {
-    "name": "Nullcon International Security Conference and Training Goa",
-    "startDate": "2022-09-09",
-    "endDate": "2022-09-10",
-    "city": "Goa",
-    "country": "India",
-    "online": false,
-    "cfpUrl": "https://nullcon.net/goa-2022/cfp",
-    "cfpEndDate": "2022-06-05",
-    "twitter": "@nullcon",
-    "cocUrl": "https://nullcon.net/about-conferencepolicy/",
-    "url": "https://nullcon.net/goa-2022"
-  },
-  {
-    "name": "DEEP Startup Ecosystem Conference",
-    "startDate": "2022-06-23",
-    "endDate": "2022-06-24",
-    "city": "Stuttgart",
-    "country": "Germany",
-    "online": false,
-    "twitter": "@eustartup",
-    "url": "https://www.deepecosystems.com/conference"
-  },
-  {
-    "name": "Infoshare F3",
-    "startDate": "2022-05-19",
-    "endDate": "2022-05-19",
-    "city": "Gdansk",
-    "country": "Poland",
-    "online": false,
-    "cfpUrl": "https://f3.infoshare.pl/rejestracja",
-    "cfpEndDate": "2022-05-18",
-    "twitter": "@infosharepl",
-    "url": "https://f3.infoshare.pl"
-  },
-  {
-    "name": "Selenium Conf",
-    "startDate": "2022-07-29",
-    "endDate": "2022-07-30",
-    "online": true,
-    "cfpUrl": "https://confengine.com/conferences/selenium-conf-2022",
-    "cfpEndDate": "2022-05-31",
-    "twitter": "@seleniumconf",
-    "cocUrl": "https://2022.seleniumconf.in/code-of-conduct.html",
-    "url": "https://2022.seleniumconf.in"
   }
 ]

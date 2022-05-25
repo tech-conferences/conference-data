@@ -145,6 +145,19 @@
     "twitter": "@makeitconf2022"
   },
   {
+    "name": "JNation",
+    "url": "https://jnation.pt",
+    "startDate": "2022-06-07",
+    "endDate": "2022-06-07",
+    "city": "Coimbra",
+    "country": "Portugal",
+    "online": false,
+    "cfpUrl": "https://jnation.pt/cfp",
+    "cfpEndDate": "2022-05-01",
+    "twitter": "@jnationConf",
+    "cocUrl": "https://jnation.pt/code-of-conduct/"
+  },
+  {
     "name": "J-Spring - The NLJUG Java Spring Conference",
     "url": "https://jspring.nl",
     "startDate": "2022-06-08",
@@ -225,6 +238,32 @@
     "cocUrl": "https://www.herbstcampus.de/code_of_conduct.php"
   },
   {
+    "name": "JavaZone",
+    "url": "https://2022.javazone.no",
+    "startDate": "2022-09-07",
+    "endDate": "2022-09-08",
+    "city": "Oslo",
+    "country": "Norway",
+    "online": false,
+    "cfpUrl": "https://2022.javazone.no/#/speakers",
+    "cfpEndDate": "2022-04-30",
+    "twitter": "@javazone",
+    "cocUrl": "https://www.java.no/principles#"
+  },
+  {
+    "name": "Nullcon International Security Conference and Training Goa",
+    "url": "https://nullcon.net/goa-2022",
+    "startDate": "2022-09-09",
+    "endDate": "2022-09-10",
+    "city": "Goa",
+    "country": "India",
+    "online": false,
+    "cfpUrl": "https://nullcon.net/goa-2022/cfp",
+    "cfpEndDate": "2022-06-05",
+    "twitter": "@nullcon",
+    "cocUrl": "https://nullcon.net/about-conferencepolicy/"
+  },
+  {
     "name": "Infobip Shift",
     "url": "https://shift.infobip.com",
     "startDate": "2022-09-19",
@@ -249,6 +288,37 @@
     "cocUrl": "https://2022.jcon.one/code-of-conduct"
   },
   {
+    "name": "JAX London",
+    "url": "https://jaxlondon.com",
+    "startDate": "2022-10-03",
+    "endDate": "2022-10-06",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "twitter": "@jaxlondon"
+  },
+  {
+    "name": "GOTO Copenhagen",
+    "url": "https://gotocph.com",
+    "startDate": "2022-10-03",
+    "endDate": "2022-10-07",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "online": false,
+    "twitter": "@GOTOcon",
+    "cocUrl": "https://gotocph.com/2022/code-of-conduct"
+  },
+  {
+    "name": "JavaOne",
+    "url": "https://www.oracle.com/cloudworld/javaone",
+    "startDate": "2022-10-16",
+    "endDate": "2022-10-20",
+    "city": "Las Vegas, NV",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@JavaOne"
+  },
+  {
     "name": "JCON",
     "url": "https://jcon.one",
     "startDate": "2022-10-18",
@@ -260,52 +330,8 @@
     "cocUrl": "https://jcon.one/code-of-conduct"
   },
   {
-    "name": "DevTernity",
-    "url": "https://devternity.com",
-    "startDate": "2022-12-08",
-    "endDate": "2022-12-09",
-    "online": true,
-    "twitter": "@devternity",
-    "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "Nullcon International Security Conference and Training Goa",
-    "startDate": "2022-09-09",
-    "endDate": "2022-09-10",
-    "city": "Goa",
-    "country": "India",
-    "online": false,
-    "cfpUrl": "https://nullcon.net/goa-2022/cfp",
-    "cfpEndDate": "2022-06-05",
-    "twitter": "@nullcon",
-    "cocUrl": "https://nullcon.net/about-conferencepolicy/",
-    "url": "https://nullcon.net/goa-2022"
-  },
-  {
-    "name": "JavaZone",
-    "startDate": "2022-09-07",
-    "endDate": "2022-09-08",
-    "city": "Oslo",
-    "country": "Norway",
-    "online": false,
-    "cfpUrl": "https://2022.javazone.no/#/speakers",
-    "cfpEndDate": "2022-04-30",
-    "twitter": "@javazone",
-    "cocUrl": "https://www.java.no/principles#",
-    "url": "https://2022.javazone.no"
-  },
-  {
-    "name": "JAX London",
-    "startDate": "2022-10-03",
-    "endDate": "2022-10-06",
-    "city": "London",
-    "country": "U.K.",
-    "online": true,
-    "twitter": "@jaxlondon",
-    "url": "https://jaxlondon.com"
-  },
-  {
     "name": "EclipseCon",
+    "url": "https://www.eclipsecon.org/2022",
     "startDate": "2022-10-24",
     "endDate": "2022-10-27",
     "city": "Ludwigsburg",
@@ -314,41 +340,15 @@
     "cfpUrl": "https://www.eclipsecon.org/2022/cfp",
     "cfpEndDate": "2022-06-15",
     "twitter": "@eclipsecon",
-    "cocUrl": "https://www.eclipsecon.org/2022/eclipse-community-events-code-conduct",
-    "url": "https://www.eclipsecon.org/2022"
+    "cocUrl": "https://www.eclipsecon.org/2022/eclipse-community-events-code-conduct"
   },
   {
-    "name": "JavaOne",
-    "startDate": "2022-10-16",
-    "endDate": "2022-10-20",
-    "city": "Las Vegas, NV",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@JavaOne",
-    "url": "https://www.oracle.com/cloudworld/javaone"
-  },
-  {
-    "name": "JNation",
-    "startDate": "2022-06-07",
-    "endDate": "2022-06-07",
-    "city": "Coimbra",
-    "country": "Portugal",
-    "online": false,
-    "cfpUrl": "https://jnation.pt/cfp",
-    "cfpEndDate": "2022-05-01",
-    "twitter": "@jnationConf",
-    "cocUrl": "https://jnation.pt/code-of-conduct/",
-    "url": "https://jnation.pt"
-  },
-  {
-    "name": "GOTO Copenhagen",
-    "startDate": "2022-10-03",
-    "endDate": "2022-10-07",
-    "city": "Copenhagen",
-    "country": "Denmark",
-    "online": false,
-    "twitter": "@GOTOcon",
-    "cocUrl": "https://gotocph.com/2022/code-of-conduct",
-    "url": "https://gotocph.com"
+    "name": "DevTernity",
+    "url": "https://devternity.com",
+    "startDate": "2022-12-08",
+    "endDate": "2022-12-09",
+    "online": true,
+    "twitter": "@devternity",
+    "cocUrl": "https://devternity.com/code_of_conduct.html"
   }
 ]

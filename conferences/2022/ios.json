@@ -54,6 +54,14 @@
     "twitter": "@swift_pl"
   },
   {
+    "name": "WWDC",
+    "url": "https://developer.apple.com/wwdc22",
+    "startDate": "2022-06-06",
+    "endDate": "2022-06-10",
+    "online": true,
+    "twitter": "@Apple"
+  },
+  {
     "name": "App.js Conf",
     "url": "https://appjs.co",
     "startDate": "2022-06-08",
@@ -112,13 +120,5 @@
     "cfpUrl": "https://sessionize.com/swiftleeds",
     "cfpEndDate": "2022-04-30",
     "twitter": "@swift_leeds"
-  },
-  {
-    "name": "WWDC",
-    "startDate": "2022-06-06",
-    "endDate": "2022-06-10",
-    "online": true,
-    "twitter": "@Apple",
-    "url": "https://developer.apple.com/wwdc22"
   }
 ]

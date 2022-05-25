@@ -289,6 +289,19 @@
     "cocUrl": "https://sec4dev.io/code-of-conduct"
   },
   {
+    "name": "Nullcon International Security Conference and Training Goa",
+    "url": "https://nullcon.net/goa-2022",
+    "startDate": "2022-09-09",
+    "endDate": "2022-09-10",
+    "city": "Goa",
+    "country": "India",
+    "online": false,
+    "cfpUrl": "https://nullcon.net/goa-2022/cfp",
+    "cfpEndDate": "2022-06-05",
+    "twitter": "@nullcon",
+    "cocUrl": "https://nullcon.net/about-conferencepolicy/"
+  },
+  {
     "name": "JCON-ONLINE",
     "url": "https://jcon.one",
     "startDate": "2022-09-20",
@@ -298,6 +311,17 @@
     "cfpEndDate": "2022-03-31",
     "twitter": "@jcon_conference",
     "cocUrl": "https://2022.jcon.one/code-of-conduct"
+  },
+  {
+    "name": "GOTO Copenhagen",
+    "url": "https://gotocph.com",
+    "startDate": "2022-10-03",
+    "endDate": "2022-10-07",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "online": false,
+    "twitter": "@GOTOcon",
+    "cocUrl": "https://gotocph.com/2022/code-of-conduct"
   },
   {
     "name": "TestFlix",
@@ -348,29 +372,5 @@
     "cfpEndDate": "2022-10-28",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
-  },
-  {
-    "name": "Nullcon International Security Conference and Training Goa",
-    "startDate": "2022-09-09",
-    "endDate": "2022-09-10",
-    "city": "Goa",
-    "country": "India",
-    "online": false,
-    "cfpUrl": "https://nullcon.net/goa-2022/cfp",
-    "cfpEndDate": "2022-06-05",
-    "twitter": "@nullcon",
-    "cocUrl": "https://nullcon.net/about-conferencepolicy/",
-    "url": "https://nullcon.net/goa-2022"
-  },
-  {
-    "name": "GOTO Copenhagen",
-    "startDate": "2022-10-03",
-    "endDate": "2022-10-07",
-    "city": "Copenhagen",
-    "country": "Denmark",
-    "online": false,
-    "twitter": "@GOTOcon",
-    "cocUrl": "https://gotocph.com/2022/code-of-conduct",
-    "url": "https://gotocph.com"
   }
 ]

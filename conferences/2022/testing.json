@@ -246,12 +246,36 @@
     "cocUrl": "https://2022.jcon.one/code-of-conduct"
   },
   {
+    "name": "Selenium Conf",
+    "url": "https://2022.seleniumconf.in",
+    "startDate": "2022-07-29",
+    "endDate": "2022-07-30",
+    "online": true,
+    "cfpUrl": "https://confengine.com/conferences/selenium-conf-2022",
+    "cfpEndDate": "2022-05-31",
+    "twitter": "@seleniumconf",
+    "cocUrl": "https://2022.seleniumconf.in/code-of-conduct.html"
+  },
+  {
     "name": "IEEE AUTOTESTCON",
     "url": "https://www.autotestcon.com/",
     "startDate": "2022-08-28",
     "endDate": "2022-08-31",
     "city": "Oxon Hill, MD",
     "country": "U.S.A."
+  },
+  {
+    "name": "Nullcon International Security Conference and Training Goa",
+    "url": "https://nullcon.net/goa-2022",
+    "startDate": "2022-09-09",
+    "endDate": "2022-09-10",
+    "city": "Goa",
+    "country": "India",
+    "online": false,
+    "cfpUrl": "https://nullcon.net/goa-2022/cfp",
+    "cfpEndDate": "2022-06-05",
+    "twitter": "@nullcon",
+    "cocUrl": "https://nullcon.net/about-conferencepolicy/"
   },
   {
     "name": "JCON-ONLINE",
@@ -317,6 +341,19 @@
     "cocUrl": "https://www.testingtalks.com.au/terms_and_conditions"
   },
   {
+    "name": "EclipseCon",
+    "url": "https://www.eclipsecon.org/2022",
+    "startDate": "2022-10-24",
+    "endDate": "2022-10-27",
+    "city": "Ludwigsburg",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://www.eclipsecon.org/2022/cfp",
+    "cfpEndDate": "2022-06-15",
+    "twitter": "@eclipsecon",
+    "cocUrl": "https://www.eclipsecon.org/2022/eclipse-community-events-code-conduct"
+  },
+  {
     "name": "TestCon Europe",
     "url": "https://testcon.lt",
     "startDate": "2022-10-24",
@@ -359,42 +396,5 @@
     "online": true,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "Nullcon International Security Conference and Training Goa",
-    "startDate": "2022-09-09",
-    "endDate": "2022-09-10",
-    "city": "Goa",
-    "country": "India",
-    "online": false,
-    "cfpUrl": "https://nullcon.net/goa-2022/cfp",
-    "cfpEndDate": "2022-06-05",
-    "twitter": "@nullcon",
-    "cocUrl": "https://nullcon.net/about-conferencepolicy/",
-    "url": "https://nullcon.net/goa-2022"
-  },
-  {
-    "name": "EclipseCon",
-    "startDate": "2022-10-24",
-    "endDate": "2022-10-27",
-    "city": "Ludwigsburg",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://www.eclipsecon.org/2022/cfp",
-    "cfpEndDate": "2022-06-15",
-    "twitter": "@eclipsecon",
-    "cocUrl": "https://www.eclipsecon.org/2022/eclipse-community-events-code-conduct",
-    "url": "https://www.eclipsecon.org/2022"
-  },
-  {
-    "name": "Selenium Conf",
-    "startDate": "2022-07-29",
-    "endDate": "2022-07-30",
-    "online": true,
-    "cfpUrl": "https://confengine.com/conferences/selenium-conf-2022",
-    "cfpEndDate": "2022-05-31",
-    "twitter": "@seleniumconf",
-    "cocUrl": "https://2022.seleniumconf.in/code-of-conduct.html",
-    "url": "https://2022.seleniumconf.in"
   }
 ]

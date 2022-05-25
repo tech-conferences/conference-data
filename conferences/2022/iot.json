@@ -188,6 +188,16 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "MASCOTS 30th International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems",
+    "url": "https://mascots.iitis.pl",
+    "startDate": "2022-10-18",
+    "endDate": "2022-10-20",
+    "online": true,
+    "cfpUrl": "https://mascots.iitis.pl/cfp",
+    "cfpEndDate": "2022-06-01",
+    "twitter": "@iitis"
+  },
+  {
     "name": "JCON",
     "url": "https://jcon.one",
     "startDate": "2022-10-18",
@@ -198,6 +208,7 @@
   },
   {
     "name": "EclipseCon",
+    "url": "https://www.eclipsecon.org/2022",
     "startDate": "2022-10-24",
     "endDate": "2022-10-27",
     "city": "Ludwigsburg",
@@ -206,17 +217,6 @@
     "cfpUrl": "https://www.eclipsecon.org/2022/cfp",
     "cfpEndDate": "2022-06-15",
     "twitter": "@eclipsecon",
-    "cocUrl": "https://www.eclipsecon.org/2022/eclipse-community-events-code-conduct",
-    "url": "https://www.eclipsecon.org/2022"
-  },
-  {
-    "name": "MASCOTS 30th International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems",
-    "startDate": "2022-10-18",
-    "endDate": "2022-10-20",
-    "online": true,
-    "cfpUrl": "https://mascots.iitis.pl/cfp",
-    "cfpEndDate": "2022-06-01",
-    "twitter": "@iitis",
-    "url": "https://mascots.iitis.pl"
+    "cocUrl": "https://www.eclipsecon.org/2022/eclipse-community-events-code-conduct"
   }
 ]

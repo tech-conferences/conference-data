@@ -1,5 +1,13 @@
 [
   {
+    "name": "Adobe ColdFusion Developer Week",
+    "url": "https://adobe-coldfusion-devweek-2022.attendease.com/registration/form",
+    "startDate": "2022-07-18",
+    "endDate": "2022-07-22",
+    "online": true,
+    "twitter": "@coldfusion"
+  },
+  {
     "name": "Into the Box",
     "url": "https://intothebox.org",
     "startDate": "2022-09-27",
@@ -11,13 +19,5 @@
     "cfpEndDate": "2022-04-17",
     "twitter": "@GoIntoTheBox",
     "cocUrl": "https://docs.google.com/document/d/1H0VYBocfPfgnCPlCTvLrVNi2HdkCsGvKmvx8R6SPKjU/edit"
-  },
-  {
-    "name": "Adobe ColdFusion Developer Week",
-    "startDate": "2022-07-18",
-    "endDate": "2022-07-22",
-    "online": true,
-    "twitter": "@coldfusion",
-    "url": "https://adobe-coldfusion-devweek-2022.attendease.com/registration/form"
   }
 ]

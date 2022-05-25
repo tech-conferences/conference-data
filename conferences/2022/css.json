@@ -146,6 +146,16 @@
     "cocUrl": "https://shift.infobip.com/code/"
   },
   {
+    "name": "International JavaScript Conference",
+    "url": "https://javascript-conference.com/new-york",
+    "startDate": "2022-09-26",
+    "endDate": "2022-09-29",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@JavaScriptCon"
+  },
+  {
     "name": "SmashingConf New York",
     "url": "https://smashingconf.com/ny-2022",
     "startDate": "2022-10-10",
@@ -157,24 +167,14 @@
     "cocUrl": "https://smashingconf.com/codeofconduct"
   },
   {
-    "name": "International JavaScript Conference",
-    "startDate": "2022-09-26",
-    "endDate": "2022-09-29",
-    "city": "New York, NY",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@JavaScriptCon",
-    "url": "https://javascript-conference.com/new-york"
-  },
-  {
     "name": "JavaScript/Angular/React/HTML & CSS Days",
+    "url": "https://javascript-days.de/berlin",
     "startDate": "2022-10-17",
     "endDate": "2022-10-20",
     "city": "Berlin",
     "country": "Germany",
     "online": true,
     "twitter": "@JS_Days",
-    "cocUrl": "https://javascript-days.de/code-of-conduct/",
-    "url": "https://javascript-days.de/berlin"
+    "cocUrl": "https://javascript-days.de/code-of-conduct/"
   }
 ]

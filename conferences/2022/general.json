@@ -345,6 +345,18 @@
     "cocUrl": "https://skillsmatter.com/go/code-of-conduct"
   },
   {
+    "name": "Infoshare F3",
+    "url": "https://f3.infoshare.pl",
+    "startDate": "2022-05-19",
+    "endDate": "2022-05-19",
+    "city": "Gdansk",
+    "country": "Poland",
+    "online": false,
+    "cfpUrl": "https://f3.infoshare.pl/rejestracja",
+    "cfpEndDate": "2022-05-18",
+    "twitter": "@infosharepl"
+  },
+  {
     "name": "THAT Conference",
     "url": "https://that.us/events/tx/2022",
     "startDate": "2022-05-23",
@@ -354,6 +366,16 @@
     "online": false,
     "twitter": "@thatconference",
     "cocUrl": "https://that.us/support/code-of-conduct/"
+  },
+  {
+    "name": "Web à Québec",
+    "url": "https://webaquebec.org",
+    "startDate": "2022-05-24",
+    "endDate": "2022-05-26",
+    "city": "Quebec",
+    "country": "Canada",
+    "online": true,
+    "twitter": "@webaquebec"
   },
   {
     "name": "No-Code Days: Freedom to Create",
@@ -434,6 +456,19 @@
     "cocUrl": "https://github.com/prisma/prisma/blob/main/CODE_OF_CONDUCT.md"
   },
   {
+    "name": "Valencia Tech Festival",
+    "url": "https://vlctechfest.org",
+    "startDate": "2022-06-18",
+    "endDate": "2022-06-18",
+    "city": "Valencia",
+    "country": "Spain",
+    "online": false,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdjQybze8ikwe_gkNMOPO1UfDo9_AAAl6u_WJdO8-CR_pO13Q/viewform",
+    "cfpEndDate": "2022-05-27",
+    "twitter": "@vlctechfest",
+    "cocUrl": "https://vlctechfest.org/es/code_of_conduct.html"
+  },
+  {
     "name": "Bazel eXchange",
     "url": "https://skillsmatter.com/conferences/13682-bazel-exchange",
     "startDate": "2022-06-21",
@@ -443,6 +478,16 @@
     "cfpEndDate": "2022-03-23",
     "twitter": "@skillsmatter",
     "cocUrl": "https://skillsmatter.com/go/code-of-conduct"
+  },
+  {
+    "name": "DEEP Startup Ecosystem Conference",
+    "url": "https://www.deepecosystems.com/conference",
+    "startDate": "2022-06-23",
+    "endDate": "2022-06-24",
+    "city": "Stuttgart",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@eustartup"
   },
   {
     "name": "Conf42 Quantum Computing",
@@ -646,6 +691,17 @@
     "cocUrl": "https://ndcminnesota.com/code-of-conduct"
   },
   {
+    "name": "GOTO Copenhagen",
+    "url": "https://gotocph.com",
+    "startDate": "2022-10-03",
+    "endDate": "2022-10-07",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "online": false,
+    "twitter": "@GOTOcon",
+    "cocUrl": "https://gotocph.com/2022/code-of-conduct"
+  },
+  {
     "name": "NDC Sydney",
     "url": "https://ndcsydney.com",
     "startDate": "2022-10-09",
@@ -657,6 +713,27 @@
     "cfpEndDate": "2022-06-01",
     "twitter": "@NDC_Conferences",
     "cocUrl": "https://ndcsydney.com/code-of-conduct"
+  },
+  {
+    "name": "Serverless Architecture Conference",
+    "url": "https://serverless-architecture.io/berlin",
+    "startDate": "2022-10-17",
+    "endDate": "2022-10-19",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@serverlesscon"
+  },
+  {
+    "name": "JavaScript/Angular/React/HTML & CSS Days",
+    "url": "https://javascript-days.de/berlin",
+    "startDate": "2022-10-17",
+    "endDate": "2022-10-20",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@JS_Days",
+    "cocUrl": "https://javascript-days.de/code-of-conduct/"
   },
   {
     "name": "Indy.Code()",
@@ -693,6 +770,16 @@
     "cocUrl": "https://www.conf42.com/code-of-conduct"
   },
   {
+    "name": "performance.now()",
+    "url": "https://perfnow.nl",
+    "startDate": "2022-10-27",
+    "endDate": "2022-10-28",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": true,
+    "twitter": "@perfnowconf"
+  },
+  {
     "name": "Heapcon",
     "url": "https://heapcon.io",
     "startDate": "2022-11-03",
@@ -717,6 +804,17 @@
     "cocUrl": "https://techbash.com/code-of-conduct"
   },
   {
+    "name": "iSAQB® Software Architecture Gathering - Digital",
+    "url": "https://conferences.isaqb.org/software-architecture-gathering",
+    "startDate": "2022-11-14",
+    "endDate": "2022-11-17",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/sag-digital-2022",
+    "cfpEndDate": "2022-05-25",
+    "twitter": "@sag_conference",
+    "cocUrl": "https://conferences.isaqb.org/software-architecture-gathering/code-of-conduct/"
+  },
+  {
     "name": "DevTernity",
     "url": "https://devternity.com",
     "startDate": "2022-12-08",
@@ -734,103 +832,5 @@
     "cfpUrl": "https://www.ittage.informatik-aktuell.de/call-for-papers.html",
     "cfpEndDate": "2022-05-03",
     "twitter": "@InformatikAktue"
-  },
-  {
-    "name": "Valencia Tech Festival",
-    "startDate": "2022-06-18",
-    "endDate": "2022-06-18",
-    "city": "Valencia",
-    "country": "Spain",
-    "online": false,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdjQybze8ikwe_gkNMOPO1UfDo9_AAAl6u_WJdO8-CR_pO13Q/viewform",
-    "cfpEndDate": "2022-05-27",
-    "twitter": "@vlctechfest",
-    "cocUrl": "https://vlctechfest.org/es/code_of_conduct.html",
-    "url": "https://vlctechfest.org"
-  },
-  {
-    "name": "Serverless Architecture Conference",
-    "startDate": "2022-10-17",
-    "endDate": "2022-10-19",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@serverlesscon",
-    "url": "https://serverless-architecture.io/berlin"
-  },
-  {
-    "name": "Web à Québec",
-    "startDate": "2022-05-24",
-    "endDate": "2022-05-26",
-    "city": "Quebec",
-    "country": "Canada",
-    "online": true,
-    "twitter": "@webaquebec",
-    "url": "https://webaquebec.org"
-  },
-  {
-    "name": "DEEP Startup Ecosystem Conference",
-    "startDate": "2022-06-23",
-    "endDate": "2022-06-24",
-    "city": "Stuttgart",
-    "country": "Germany",
-    "online": false,
-    "twitter": "@eustartup",
-    "url": "https://www.deepecosystems.com/conference"
-  },
-  {
-    "name": "Infoshare F3",
-    "startDate": "2022-05-19",
-    "endDate": "2022-05-19",
-    "city": "Gdansk",
-    "country": "Poland",
-    "online": false,
-    "cfpUrl": "https://f3.infoshare.pl/rejestracja",
-    "cfpEndDate": "2022-05-18",
-    "twitter": "@infosharepl",
-    "url": "https://f3.infoshare.pl"
-  },
-  {
-    "name": "iSAQB® Software Architecture Gathering - Digital",
-    "startDate": "2022-11-14",
-    "endDate": "2022-11-17",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/sag-digital-2022",
-    "cfpEndDate": "2022-05-25",
-    "twitter": "@sag_conference",
-    "cocUrl": "https://conferences.isaqb.org/software-architecture-gathering/code-of-conduct/",
-    "url": "https://conferences.isaqb.org/software-architecture-gathering"
-  },
-  {
-    "name": "GOTO Copenhagen",
-    "startDate": "2022-10-03",
-    "endDate": "2022-10-07",
-    "city": "Copenhagen",
-    "country": "Denmark",
-    "online": false,
-    "twitter": "@GOTOcon",
-    "cocUrl": "https://gotocph.com/2022/code-of-conduct",
-    "url": "https://gotocph.com"
-  },
-  {
-    "name": "JavaScript/Angular/React/HTML & CSS Days",
-    "startDate": "2022-10-17",
-    "endDate": "2022-10-20",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@JS_Days",
-    "cocUrl": "https://javascript-days.de/code-of-conduct/",
-    "url": "https://javascript-days.de/berlin"
-  },
-  {
-    "name": "performance.now()",
-    "startDate": "2022-10-27",
-    "endDate": "2022-10-28",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "online": true,
-    "twitter": "@perfnowconf",
-    "url": "https://perfnow.nl"
   }
 ]

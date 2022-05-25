@@ -73,6 +73,17 @@
     "cocUrl": "https://basta.net/code-of-conduct-en/"
   },
   {
+    "name": "API Conference Berlin",
+    "url": "https://apiconference.net/berlin",
+    "startDate": "2022-10-17",
+    "endDate": "2022-10-19",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@api_conference",
+    "cocUrl": "https://apiconference.net/code-of-conduct/"
+  },
+  {
     "name": "DevTernity",
     "url": "https://devternity.com",
     "startDate": "2022-12-08",
@@ -80,16 +91,5 @@
     "online": true,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "API Conference Berlin",
-    "startDate": "2022-10-17",
-    "endDate": "2022-10-19",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@api_conference",
-    "cocUrl": "https://apiconference.net/code-of-conduct/",
-    "url": "https://apiconference.net/berlin"
   }
 ]
