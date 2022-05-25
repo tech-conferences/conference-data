@@ -143,6 +143,30 @@
     "cocUrl": "https://www.europython-society.org/coc/"
   },
   {
+    "name": "Swiss Python Summit",
+    "url": "https://www.python-summit.ch",
+    "startDate": "2022-09-22",
+    "endDate": "2022-09-22",
+    "city": "Rapperswil",
+    "country": "Switzerland",
+    "online": false,
+    "cfpUrl": "https://www.python-summit.ch/cfp",
+    "cfpEndDate": "2022-06-30",
+    "twitter": "@pythonsummit",
+    "cocUrl": "https://www.python-summit.ch/coc/"
+  },
+  {
+    "name": "enterPy",
+    "url": "https://www.enterpy.de",
+    "startDate": "2022-10-25",
+    "endDate": "2022-10-25",
+    "online": true,
+    "cfpUrl": "https://www.enterpy.de/cfp_en.php",
+    "cfpEndDate": "2022-06-27",
+    "twitter": "@enterpyconf",
+    "cocUrl": "https://www.enterpy.de/code_of_conduct.php"
+  },
+  {
     "name": "Agile Testing Days",
     "url": "https://agiletestingdays.com",
     "startDate": "2022-11-21",
@@ -157,37 +181,13 @@
   },
   {
     "name": "XtremePython Online Conference",
+    "url": "https://xtremepython.dev",
     "startDate": "2022-12-27",
     "endDate": "2022-12-27",
     "online": true,
     "cfpUrl": "https://xtremepython.dev/2022/speakers",
     "cfpEndDate": "2022-08-31",
     "twitter": "@xtremepython",
-    "offersSignLanguageOrCC": true,
-    "url": "https://xtremepython.dev"
-  },
-  {
-    "name": "enterPy",
-    "startDate": "2022-10-25",
-    "endDate": "2022-10-25",
-    "online": true,
-    "cfpUrl": "https://www.enterpy.de/cfp_en.php",
-    "cfpEndDate": "2022-06-27",
-    "twitter": "@enterpyconf",
-    "cocUrl": "https://www.enterpy.de/code_of_conduct.php",
-    "url": "https://www.enterpy.de"
-  },
-  {
-    "name": "Swiss Python Summit",
-    "startDate": "2022-09-22",
-    "endDate": "2022-09-22",
-    "city": "Rapperswil",
-    "country": "Switzerland",
-    "online": false,
-    "cfpUrl": "https://www.python-summit.ch/cfp",
-    "cfpEndDate": "2022-06-30",
-    "twitter": "@pythonsummit",
-    "cocUrl": "https://www.python-summit.ch/coc/",
-    "url": "https://www.python-summit.ch"
+    "offersSignLanguageOrCC": true
   }
 ]

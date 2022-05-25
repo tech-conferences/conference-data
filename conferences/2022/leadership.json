@@ -140,6 +140,28 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Infoshare F3",
+    "url": "https://f3.infoshare.pl",
+    "startDate": "2022-05-19",
+    "endDate": "2022-05-19",
+    "city": "Gdansk",
+    "country": "Poland",
+    "online": false,
+    "cfpUrl": "https://f3.infoshare.pl/rejestracja",
+    "cfpEndDate": "2022-05-18",
+    "twitter": "@infosharepl"
+  },
+  {
+    "name": "CTO Craft MiniCon: The Complete Hiring Arc",
+    "url": "https://conference.ctocraft.com",
+    "startDate": "2022-05-31",
+    "endDate": "2022-05-31",
+    "online": true,
+    "twitter": "@CTOCraft",
+    "cocUrl": "https://conference.ctocraft.com/code-of-conduct/",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Render-Atlanta (RenderATL)",
     "url": "https://www.renderatl.com",
     "startDate": "2022-06-01",
@@ -200,6 +222,16 @@
     "cfpEndDate": "2022-06-21",
     "twitter": "@hub.berlin",
     "cocUrl": "https://www.hub.berlin/join-us/faq"
+  },
+  {
+    "name": "DEEP Startup Ecosystem Conference",
+    "url": "https://www.deepecosystems.com/conference",
+    "startDate": "2022-06-23",
+    "endDate": "2022-06-24",
+    "city": "Stuttgart",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@eustartup"
   },
   {
     "name": "Agile Nashville",
@@ -294,37 +326,5 @@
     "online": true,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "CTO Craft MiniCon: The Complete Hiring Arc",
-    "startDate": "2022-05-31",
-    "endDate": "2022-05-31",
-    "online": true,
-    "twitter": "@CTOCraft",
-    "cocUrl": "https://conference.ctocraft.com/code-of-conduct/",
-    "offersSignLanguageOrCC": true,
-    "url": "https://conference.ctocraft.com"
-  },
-  {
-    "name": "DEEP Startup Ecosystem Conference",
-    "startDate": "2022-06-23",
-    "endDate": "2022-06-24",
-    "city": "Stuttgart",
-    "country": "Germany",
-    "online": false,
-    "twitter": "@eustartup",
-    "url": "https://www.deepecosystems.com/conference"
-  },
-  {
-    "name": "Infoshare F3",
-    "startDate": "2022-05-19",
-    "endDate": "2022-05-19",
-    "city": "Gdansk",
-    "country": "Poland",
-    "online": false,
-    "cfpUrl": "https://f3.infoshare.pl/rejestracja",
-    "cfpEndDate": "2022-05-18",
-    "twitter": "@infosharepl",
-    "url": "https://f3.infoshare.pl"
   }
 ]

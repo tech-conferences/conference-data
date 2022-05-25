@@ -101,6 +101,17 @@
     "cocUrl": "https://phpconference.com/code-of-conduct/"
   },
   {
+    "name": "Drupalcamp Spain",
+    "url": "https://2022.drupalcamp.es",
+    "startDate": "2022-06-03",
+    "endDate": "2022-06-05",
+    "city": "Zaragoza",
+    "country": "Spain",
+    "online": false,
+    "twitter": "@drupalcampspain",
+    "cocUrl": "https://2022.drupalcamp.es/codigo-conducta"
+  },
+  {
     "name": "Dutch PHP Conference - Online Edition",
     "url": "https://www.phpconference.nl",
     "startDate": "2022-06-24",
@@ -157,16 +168,5 @@
     "cfpEndDate": "2022-03-20",
     "twitter": "@AgileTD",
     "cocUrl": "https://agiletestingdays.com/code-of-conduct/"
-  },
-  {
-    "name": "Drupalcamp Spain",
-    "startDate": "2022-06-03",
-    "endDate": "2022-06-05",
-    "city": "Zaragoza",
-    "country": "Spain",
-    "online": false,
-    "twitter": "@drupalcampspain",
-    "cocUrl": "https://2022.drupalcamp.es/codigo-conducta",
-    "url": "https://2022.drupalcamp.es"
   }
 ]

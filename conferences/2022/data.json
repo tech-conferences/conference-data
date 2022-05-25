@@ -323,6 +323,16 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "DEEP Startup Ecosystem Conference",
+    "url": "https://www.deepecosystems.com/conference",
+    "startDate": "2022-06-23",
+    "endDate": "2022-06-24",
+    "city": "Stuttgart",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@eustartup"
+  },
+  {
     "name": "ML Conference Munich",
     "url": "https://mlconference.ai/munich",
     "startDate": "2022-06-27",
@@ -377,6 +387,17 @@
     "cocUrl": "https://www.data2day.de/code_of_conduct.php"
   },
   {
+    "name": "GOTO Copenhagen",
+    "url": "https://gotocph.com",
+    "startDate": "2022-10-03",
+    "endDate": "2022-10-07",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "online": false,
+    "twitter": "@GOTOcon",
+    "cocUrl": "https://gotocph.com/2022/code-of-conduct"
+  },
+  {
     "name": "TestFlix",
     "url": "https://www.thetesttribe.com/testflix-2022",
     "startDate": "2022-10-08",
@@ -386,6 +407,38 @@
     "cfpEndDate": "2022-05-15",
     "twitter": "@the_test_tribe",
     "cocUrl": "https://www.thetesttribe.com/event-policy-and-code-of-conduct/",
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "MASCOTS 30th International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems",
+    "url": "https://mascots.iitis.pl",
+    "startDate": "2022-10-18",
+    "endDate": "2022-10-20",
+    "online": true,
+    "cfpUrl": "https://mascots.iitis.pl/cfp",
+    "cfpEndDate": "2022-06-01",
+    "twitter": "@iitis"
+  },
+  {
+    "name": "enterPy",
+    "url": "https://www.enterpy.de",
+    "startDate": "2022-10-25",
+    "endDate": "2022-10-25",
+    "online": true,
+    "cfpUrl": "https://www.enterpy.de/cfp_en.php",
+    "cfpEndDate": "2022-06-27",
+    "twitter": "@enterpyconf",
+    "cocUrl": "https://www.enterpy.de/code_of_conduct.php"
+  },
+  {
+    "name": "ODSC West",
+    "url": "https://odsc.com/california",
+    "startDate": "2022-11-01",
+    "endDate": "2022-11-03",
+    "city": "Burlingame, CA",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@ODSC",
     "offersSignLanguageOrCC": true
   },
   {
@@ -400,58 +453,5 @@
     "cfpEndDate": "2022-03-20",
     "twitter": "@AgileTD",
     "cocUrl": "https://agiletestingdays.com/code-of-conduct/"
-  },
-  {
-    "name": "DEEP Startup Ecosystem Conference",
-    "startDate": "2022-06-23",
-    "endDate": "2022-06-24",
-    "city": "Stuttgart",
-    "country": "Germany",
-    "online": false,
-    "twitter": "@eustartup",
-    "url": "https://www.deepecosystems.com/conference"
-  },
-  {
-    "name": "MASCOTS 30th International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems",
-    "startDate": "2022-10-18",
-    "endDate": "2022-10-20",
-    "online": true,
-    "cfpUrl": "https://mascots.iitis.pl/cfp",
-    "cfpEndDate": "2022-06-01",
-    "twitter": "@iitis",
-    "url": "https://mascots.iitis.pl"
-  },
-  {
-    "name": "GOTO Copenhagen",
-    "startDate": "2022-10-03",
-    "endDate": "2022-10-07",
-    "city": "Copenhagen",
-    "country": "Denmark",
-    "online": false,
-    "twitter": "@GOTOcon",
-    "cocUrl": "https://gotocph.com/2022/code-of-conduct",
-    "url": "https://gotocph.com"
-  },
-  {
-    "name": "enterPy",
-    "startDate": "2022-10-25",
-    "endDate": "2022-10-25",
-    "online": true,
-    "cfpUrl": "https://www.enterpy.de/cfp_en.php",
-    "cfpEndDate": "2022-06-27",
-    "twitter": "@enterpyconf",
-    "cocUrl": "https://www.enterpy.de/code_of_conduct.php",
-    "url": "https://www.enterpy.de"
-  },
-  {
-    "name": "ODSC West",
-    "startDate": "2022-11-01",
-    "endDate": "2022-11-03",
-    "city": "Burlingame, CA",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@ODSC",
-    "offersSignLanguageOrCC": true,
-    "url": "https://odsc.com/california"
   }
 ]

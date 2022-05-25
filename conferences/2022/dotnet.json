@@ -89,6 +89,18 @@
     "cocUrl": "https://www.cincydeliver.org/Home/CodeOfConduct"
   },
   {
+    "name": "PowerShell on the River",
+    "url": "https://www.powershellchatt.com",
+    "startDate": "2022-08-12",
+    "endDate": "2022-08-13",
+    "city": "Chattanooga, TN",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://www.powershellchatt.com/speakers/becomeaspeaker",
+    "cfpEndDate": "2022-04-30",
+    "twitter": "@PSHChatt"
+  },
+  {
     "name": "Herbstcampus",
     "url": "https://www.herbstcampus.de",
     "startDate": "2022-09-06",
@@ -102,6 +114,19 @@
     "cocUrl": "https://www.herbstcampus.de/code_of_conduct.php"
   },
   {
+    "name": "Nullcon International Security Conference and Training Goa",
+    "url": "https://nullcon.net/goa-2022",
+    "startDate": "2022-09-09",
+    "endDate": "2022-09-10",
+    "city": "Goa",
+    "country": "India",
+    "online": false,
+    "cfpUrl": "https://nullcon.net/goa-2022/cfp",
+    "cfpEndDate": "2022-06-05",
+    "twitter": "@nullcon",
+    "cocUrl": "https://nullcon.net/about-conferencepolicy/"
+  },
+  {
     "name": "BASTA!",
     "url": "https://basta.net/mainz-en",
     "startDate": "2022-10-10",
@@ -113,6 +138,17 @@
     "cocUrl": "https://basta.net/code-of-conduct-en/"
   },
   {
+    "name": "dotnetdays Romania",
+    "url": "https://dotnetdays.ro",
+    "startDate": "2022-10-20",
+    "endDate": "2022-10-22",
+    "city": "Iasi",
+    "country": "Romania",
+    "online": false,
+    "twitter": "@dotnetdaysro",
+    "cocUrl": "https://dotnetdays.ro/2022/Home/CodeOfConduct"
+  },
+  {
     "name": "DevTernity",
     "url": "https://devternity.com",
     "startDate": "2022-12-08",
@@ -120,41 +156,5 @@
     "online": true,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "Nullcon International Security Conference and Training Goa",
-    "startDate": "2022-09-09",
-    "endDate": "2022-09-10",
-    "city": "Goa",
-    "country": "India",
-    "online": false,
-    "cfpUrl": "https://nullcon.net/goa-2022/cfp",
-    "cfpEndDate": "2022-06-05",
-    "twitter": "@nullcon",
-    "cocUrl": "https://nullcon.net/about-conferencepolicy/",
-    "url": "https://nullcon.net/goa-2022"
-  },
-  {
-    "name": "PowerShell on the River",
-    "startDate": "2022-08-12",
-    "endDate": "2022-08-13",
-    "city": "Chattanooga, TN",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://www.powershellchatt.com/speakers/becomeaspeaker",
-    "cfpEndDate": "2022-04-30",
-    "twitter": "@PSHChatt",
-    "url": "https://www.powershellchatt.com"
-  },
-  {
-    "name": "dotnetdays Romania",
-    "startDate": "2022-10-20",
-    "endDate": "2022-10-22",
-    "city": "Iasi",
-    "country": "Romania",
-    "online": false,
-    "twitter": "@dotnetdaysro",
-    "cocUrl": "https://dotnetdays.ro/2022/Home/CodeOfConduct",
-    "url": "https://dotnetdays.ro"
   }
 ]

@@ -458,6 +458,26 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Infoshare F3",
+    "url": "https://f3.infoshare.pl",
+    "startDate": "2022-05-19",
+    "endDate": "2022-05-19",
+    "city": "Gdansk",
+    "country": "Poland",
+    "online": false,
+    "cfpUrl": "https://f3.infoshare.pl/rejestracja",
+    "cfpEndDate": "2022-05-18",
+    "twitter": "@infosharepl"
+  },
+  {
+    "name": "SKILup Day: DevSecOps",
+    "url": "https://www.skilupdays.io/devsecops-22",
+    "startDate": "2022-05-19",
+    "endDate": "2022-05-19",
+    "online": true,
+    "twitter": "@DEVOPSINST"
+  },
+  {
     "name": "THAT Conference",
     "url": "https://that.us/events/tx/2022",
     "startDate": "2022-05-23",
@@ -528,6 +548,19 @@
     "cocUrl": "https://agiletestingdays.us/code-of-conduct/"
   },
   {
+    "name": "JNation",
+    "url": "https://jnation.pt",
+    "startDate": "2022-06-07",
+    "endDate": "2022-06-07",
+    "city": "Coimbra",
+    "country": "Portugal",
+    "online": false,
+    "cfpUrl": "https://jnation.pt/cfp",
+    "cfpEndDate": "2022-05-01",
+    "twitter": "@jnationConf",
+    "cocUrl": "https://jnation.pt/code-of-conduct/"
+  },
+  {
     "name": "Conf42 Site Reliability Engineering (SRE)",
     "url": "https://www.conf42.com/sre2022",
     "startDate": "2022-06-09",
@@ -569,6 +602,17 @@
     "online": true,
     "cfpUrl": "https://sessionize.com/wearedevs2022",
     "cfpEndDate": "2022-01-31"
+  },
+  {
+    "name": "SKILup Festival: Denver",
+    "url": "https://www.skilupfestival.io/denver-22",
+    "startDate": "2022-06-15",
+    "endDate": "2022-06-16",
+    "city": "Denver, CO",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@DEVOPSINST",
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "HashiConf Europe",
@@ -619,6 +663,16 @@
     "cocUrl": "https://2022.jcon.one/code-of-conduct"
   },
   {
+    "name": "Percona Community Live Virtual",
+    "url": "http://percona.community/events/percona-community-live-2022",
+    "startDate": "2022-06-21",
+    "endDate": "2022-06-23",
+    "online": true,
+    "cfpUrl": "https://forms.gle/QfQ2uBgPmB9AN4EJA",
+    "cfpEndDate": "2022-05-25",
+    "twitter": "@PerconaBytes"
+  },
+  {
     "name": "Devopsdays Amsterdam",
     "url": "https://devopsdays.org/events/2022-amsterdam/welcome/",
     "startDate": "2022-06-22",
@@ -630,6 +684,30 @@
     "cfpEndDate": "2022-03-01",
     "twitter": "@Devopsams",
     "cocUrl": "https://devopsdays.org/events/2022-amsterdam/conduct"
+  },
+  {
+    "name": "CloudLand",
+    "url": "https://www.cloudland.org",
+    "startDate": "2022-06-29",
+    "endDate": "2022-07-02",
+    "city": "Brühl",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@Cloudlandorg",
+    "cocUrl": "https://www.cloudland.org/de/verhaltenskodex/"
+  },
+  {
+    "name": "stackconf",
+    "url": "https://stackconf.eu",
+    "startDate": "2022-07-19",
+    "endDate": "2022-07-20",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://stackconf.eu/propose",
+    "cfpEndDate": "2022-03-31",
+    "twitter": "@netwaysevents",
+    "cocUrl": "https://stackconf.eu/code-of-conduct/"
   },
   {
     "name": "THAT Conference",
@@ -656,6 +734,17 @@
     "cfpEndDate": "2021-11-30",
     "twitter": "@Devopsdayla2022",
     "cocUrl": "https://devopsdays.org/events/2022-los-angeles/conduct"
+  },
+  {
+    "name": "Selenium Conf",
+    "url": "https://2022.seleniumconf.in",
+    "startDate": "2022-07-29",
+    "endDate": "2022-07-30",
+    "online": true,
+    "cfpUrl": "https://confengine.com/conferences/selenium-conf-2022",
+    "cfpEndDate": "2022-05-31",
+    "twitter": "@seleniumconf",
+    "cocUrl": "https://2022.seleniumconf.in/code-of-conduct.html"
   },
   {
     "name": "Devopsdays Dallas",
@@ -693,6 +782,19 @@
     "twitter": "@ConDaysEU"
   },
   {
+    "name": "Nullcon International Security Conference and Training Goa",
+    "url": "https://nullcon.net/goa-2022",
+    "startDate": "2022-09-09",
+    "endDate": "2022-09-10",
+    "city": "Goa",
+    "country": "India",
+    "online": false,
+    "cfpUrl": "https://nullcon.net/goa-2022/cfp",
+    "cfpEndDate": "2022-06-05",
+    "twitter": "@nullcon",
+    "cocUrl": "https://nullcon.net/about-conferencepolicy/"
+  },
+  {
     "name": "Infobip Shift",
     "url": "https://shift.infobip.com",
     "startDate": "2022-09-19",
@@ -727,6 +829,19 @@
     "cocUrl": "https://2022.jcon.one/code-of-conduct"
   },
   {
+    "name": "DevopsDays Berlin",
+    "url": "https://devopsdays.org/events/2022-berlin/welcome",
+    "startDate": "2022-09-21",
+    "endDate": "2022-09-22",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://cfp.devopsdays.berlin/2022/cfp",
+    "cfpEndDate": "2022-06-30",
+    "twitter": "@blndevops",
+    "cocUrl": "https://devopsdays.org/events/2022-berlin/conduct"
+  },
+  {
     "name": "Devopsdays Cairo",
     "url": "https://devopsdays.org/events/2022-cairo/welcome/",
     "startDate": "2022-09-22",
@@ -756,6 +871,31 @@
     "cfpEndDate": "2022-08-26",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
+  },
+  {
+    "name": "DevOps Days Buffalo",
+    "url": "https://devopsdays.org/events/2022-buffalo/welcome",
+    "startDate": "2022-09-29",
+    "endDate": "2022-09-30",
+    "city": "Buffalo, NY",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/devops-days-buffalo",
+    "cfpEndDate": "2022-06-08",
+    "twitter": "@DevOpsDaysBUF",
+    "cocUrl": "https://devopsdays.org/events/2022-buffalo/conduct",
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "GOTO Copenhagen",
+    "url": "https://gotocph.com",
+    "startDate": "2022-10-03",
+    "endDate": "2022-10-07",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "online": false,
+    "twitter": "@GOTOcon",
+    "cocUrl": "https://gotocph.com/2022/code-of-conduct"
   },
   {
     "name": "TestFlix",
@@ -823,6 +963,19 @@
     "cocUrl": "https://www.usenix.org/conferences/coc"
   },
   {
+    "name": "containerday",
+    "url": "https://containerday.it",
+    "startDate": "2022-10-28",
+    "endDate": "2022-10-28",
+    "city": "Bologna",
+    "country": "Italy",
+    "online": true,
+    "cfpUrl": "https://grusp.org/CFPcontainerday",
+    "cfpEndDate": "2022-07-01",
+    "twitter": "@containerayit",
+    "cocUrl": "https://grusp.org/coc"
+  },
+  {
     "name": "Devops Barcelona Conference",
     "url": "https://devops.barcelona",
     "startDate": "2022-11-03",
@@ -834,6 +987,17 @@
     "cfpEndDate": "2022-06-30",
     "twitter": "@devopsbarcelona",
     "cocUrl": "https://devops.barcelona/code-of-conduct"
+  },
+  {
+    "name": "Continuous Lifecycle",
+    "url": "https://www.continuouslifecycle.de",
+    "startDate": "2022-11-15",
+    "endDate": "2022-11-19",
+    "city": "Mannheim",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@ConLifecycle",
+    "cocUrl": "https://www.continuouslifecycle.de/code_of_conduct.php"
   },
   {
     "name": "Agile Testing Days",
@@ -888,169 +1052,5 @@
     "online": false,
     "twitter": "@devopsdaystlv",
     "cocUrl": "https://tlvcommunity.dev/code-of-conduct.html"
-  },
-  {
-    "name": "Nullcon International Security Conference and Training Goa",
-    "startDate": "2022-09-09",
-    "endDate": "2022-09-10",
-    "city": "Goa",
-    "country": "India",
-    "online": false,
-    "cfpUrl": "https://nullcon.net/goa-2022/cfp",
-    "cfpEndDate": "2022-06-05",
-    "twitter": "@nullcon",
-    "cocUrl": "https://nullcon.net/about-conferencepolicy/",
-    "url": "https://nullcon.net/goa-2022"
-  },
-  {
-    "name": "SKILup Day: DevSecOps",
-    "startDate": "2022-05-19",
-    "endDate": "2022-05-19",
-    "online": true,
-    "twitter": "@DEVOPSINST",
-    "url": "https://www.skilupdays.io/devsecops-22"
-  },
-  {
-    "name": "SKILup Festival: Denver",
-    "startDate": "2022-06-15",
-    "endDate": "2022-06-16",
-    "city": "Denver, CO",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@DEVOPSINST",
-    "offersSignLanguageOrCC": true,
-    "url": "https://www.skilupfestival.io/denver-22"
-  },
-  {
-    "name": "stackconf",
-    "startDate": "2022-07-19",
-    "endDate": "2022-07-20",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://stackconf.eu/propose",
-    "cfpEndDate": "2022-03-31",
-    "twitter": "@netwaysevents",
-    "cocUrl": "https://stackconf.eu/code-of-conduct/",
-    "url": "https://stackconf.eu"
-  },
-  {
-    "name": "DevopsDays Berlin",
-    "startDate": "2022-09-21",
-    "endDate": "2022-09-22",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://cfp.devopsdays.berlin/2022/cfp",
-    "cfpEndDate": "2022-06-30",
-    "twitter": "@blndevops",
-    "cocUrl": "https://devopsdays.org/events/2022-berlin/conduct",
-    "url": "https://devopsdays.org/events/2022-berlin/welcome"
-  },
-  {
-    "name": "Infoshare F3",
-    "startDate": "2022-05-19",
-    "endDate": "2022-05-19",
-    "city": "Gdansk",
-    "country": "Poland",
-    "online": false,
-    "cfpUrl": "https://f3.infoshare.pl/rejestracja",
-    "cfpEndDate": "2022-05-18",
-    "twitter": "@infosharepl",
-    "url": "https://f3.infoshare.pl"
-  },
-  {
-    "name": "DevOps Days Buffalo",
-    "startDate": "2022-09-29",
-    "endDate": "2022-09-30",
-    "city": "Buffalo, NY",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://sessionize.com/devops-days-buffalo",
-    "cfpEndDate": "2022-06-08",
-    "twitter": "@DevOpsDaysBUF",
-    "cocUrl": "https://devopsdays.org/events/2022-buffalo/conduct",
-    "offersSignLanguageOrCC": true,
-    "url": "https://devopsdays.org/events/2022-buffalo/welcome"
-  },
-  {
-    "name": "JNation",
-    "startDate": "2022-06-07",
-    "endDate": "2022-06-07",
-    "city": "Coimbra",
-    "country": "Portugal",
-    "online": false,
-    "cfpUrl": "https://jnation.pt/cfp",
-    "cfpEndDate": "2022-05-01",
-    "twitter": "@jnationConf",
-    "cocUrl": "https://jnation.pt/code-of-conduct/",
-    "url": "https://jnation.pt"
-  },
-  {
-    "name": "GOTO Copenhagen",
-    "startDate": "2022-10-03",
-    "endDate": "2022-10-07",
-    "city": "Copenhagen",
-    "country": "Denmark",
-    "online": false,
-    "twitter": "@GOTOcon",
-    "cocUrl": "https://gotocph.com/2022/code-of-conduct",
-    "url": "https://gotocph.com"
-  },
-  {
-    "name": "Continuous Lifecycle",
-    "startDate": "2022-11-15",
-    "endDate": "2022-11-19",
-    "city": "Mannheim",
-    "country": "Germany",
-    "online": false,
-    "twitter": "@ConLifecycle",
-    "cocUrl": "https://www.continuouslifecycle.de/code_of_conduct.php",
-    "url": "https://www.continuouslifecycle.de"
-  },
-  {
-    "name": "CloudLand",
-    "startDate": "2022-06-29",
-    "endDate": "2022-07-02",
-    "city": "Brühl",
-    "country": "Germany",
-    "online": false,
-    "twitter": "@Cloudlandorg",
-    "cocUrl": "https://www.cloudland.org/de/verhaltenskodex/",
-    "url": "https://www.cloudland.org"
-  },
-  {
-    "name": "Selenium Conf",
-    "startDate": "2022-07-29",
-    "endDate": "2022-07-30",
-    "online": true,
-    "cfpUrl": "https://confengine.com/conferences/selenium-conf-2022",
-    "cfpEndDate": "2022-05-31",
-    "twitter": "@seleniumconf",
-    "cocUrl": "https://2022.seleniumconf.in/code-of-conduct.html",
-    "url": "https://2022.seleniumconf.in"
-  },
-  {
-    "name": "Percona Community Live Virtual",
-    "startDate": "2022-06-21",
-    "endDate": "2022-06-23",
-    "online": true,
-    "cfpUrl": "https://forms.gle/QfQ2uBgPmB9AN4EJA",
-    "cfpEndDate": "2022-05-25",
-    "twitter": "@PerconaBytes",
-    "url": "http://percona.community/events/percona-community-live-2022"
-  },
-  {
-    "name": "containerday",
-    "startDate": "2022-10-28",
-    "endDate": "2022-10-28",
-    "city": "Bologna",
-    "country": "Italy",
-    "online": true,
-    "cfpUrl": "https://grusp.org/CFPcontainerday",
-    "cfpEndDate": "2022-07-01",
-    "twitter": "@containerayit",
-    "cocUrl": "https://grusp.org/coc",
-    "url": "https://containerday.it"
   }
 ]
