@@ -1,14 +1,13 @@
 [
   {
-    "name": "Code Freeze: DevEx",
-    "url": "https://cse.umn.edu/umsec/events/code-freeze-2022-developer-experience",
-    "startDate": "2022-01-13",
-    "endDate": "2022-01-13",
+    "name": "Conf42 SRE",
+    "startDate": "2022-06-08",
+    "endDate": "2022-06-08",
     "online": true,
-    "cfpUrl": "https://cse.umn.edu/cs/news/code-freeze-2022-explores-developer-experience",
-    "cfpEndDate": "2022-01-12",
-    "twitter": "@StephenThere",
-    "cocUrl": "https://docs.google.com/document/u/2/d/e/2PACX-1vQYpW0tp7UO9oHm9dJAjTIKfEkaONMJucKAsCNww2p1JijSt1Etd21ocz1A8GUiYIsChdUXVyhkWZCf/pub"
+    "cfpUrl": "https://www.papercall.io/conf42-sre-2022",
+    "cfpEndDate": "2022-05-07",
+    "twitter": "@conf42com",
+    "url": "https://www.conf42.com/sre20223"
   },
   {
     "name": "Devopsdays Aarhus",
@@ -1052,5 +1051,16 @@
     "online": false,
     "twitter": "@devopsdaystlv",
     "cocUrl": "https://tlvcommunity.dev/code-of-conduct.html"
+  },
+  {
+    "name": "Code Freeze: DevEx",
+    "url": "https://cse.umn.edu/umsec/events/code-freeze-2022-developer-experience",
+    "startDate": "2022-01-13",
+    "endDate": "2022-01-13",
+    "online": true,
+    "cfpUrl": "https://cse.umn.edu/cs/news/code-freeze-2022-explores-developer-experience",
+    "cfpEndDate": "2022-01-12",
+    "twitter": "@StephenThere",
+    "cocUrl": "https://docs.google.com/document/u/2/d/e/2PACX-1vQYpW0tp7UO9oHm9dJAjTIKfEkaONMJucKAsCNww2p1JijSt1Etd21ocz1A8GUiYIsChdUXVyhkWZCf/pub"
   }
 ]
