@@ -167,6 +167,17 @@
     "cocUrl": "https://www.enterpy.de/code_of_conduct.php"
   },
   {
+    "name": "Python at Scale",
+    "url": "https://www.pythonatscale.com",
+    "startDate": "2022-10-27",
+    "endDate": "2022-10-28",
+    "city": "Austin, TX",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@CoiledHQ",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Agile Testing Days",
     "url": "https://agiletestingdays.com",
     "startDate": "2022-11-21",
@@ -189,16 +200,5 @@
     "cfpEndDate": "2022-08-31",
     "twitter": "@xtremepython",
     "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "Python at Scale",
-    "startDate": "2022-10-27",
-    "endDate": "2022-10-28",
-    "city": "Austin, TX",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@CoiledHQ",
-    "offersSignLanguageOrCC": true,
-    "url": "https://www.pythonatscale.com"
   }
 ]
