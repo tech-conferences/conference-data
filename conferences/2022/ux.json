@@ -301,6 +301,17 @@
     "cocUrl": "https://shift.infobip.com/code/"
   },
   {
+    "name": "Intersection Conference",
+    "url": "https://www.intersection-conference.eu",
+    "startDate": "2022-10-07",
+    "endDate": "2022-10-08",
+    "city": "Turin",
+    "country": "Italy",
+    "online": false,
+    "twitter": "@Intersection_eu",
+    "cocUrl": "https://www.intersection-conference.eu/code-of-conduct"
+  },
+  {
     "name": "SmashingConf New York",
     "url": "https://smashingconf.com/ny-2022",
     "startDate": "2022-10-10",
@@ -332,16 +343,5 @@
     "online": true,
     "twitter": "@SthlmXperience",
     "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "Intersection Conference",
-    "startDate": "2022-10-07",
-    "endDate": "2022-10-08",
-    "city": "Turin",
-    "country": "Italy",
-    "online": false,
-    "twitter": "@Intersection_eu",
-    "cocUrl": "https://www.intersection-conference.eu/code-of-conduct",
-    "url": "https://www.intersection-conference.eu"
   }
 ]
