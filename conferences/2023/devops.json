@@ -9,5 +9,15 @@
     "online": false,
     "twitter": "@JavaLandConf",
     "cocUrl": "https://www.javaland.eu/de/verhaltenscodex/"
+  },
+  {
+    "name": "KubeCon EU",
+    "startDate": "2023-04-17",
+    "endDate": "2023-04-21",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": true,
+    "twitter": "@cncf",
+    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2023"
   }
 ]
