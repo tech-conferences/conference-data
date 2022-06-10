@@ -1073,5 +1073,18 @@
     "online": true,
     "twitter": "@bigdataconf",
     "url": "https://www.globalbigdataconference.com/santa-clara/global-sre-virtual-conference/speakers-131.html"
+  },
+  {
+    "name": "DevOpsDays Seattle",
+    "startDate": "2022-07-19",
+    "endDate": "2022-07-20",
+    "city": "Seattle, WA",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/devopsdays-seattle-2022",
+    "cfpEndDate": "2022-03-25",
+    "twitter": "@devopsdayssea",
+    "cocUrl": "https://devopsdays.org/conduct/",
+    "url": "https://devopsdays.org/events/2022-seattle/welcome"
   }
 ]
