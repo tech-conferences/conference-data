@@ -120,5 +120,16 @@
     "cfpUrl": "https://sessionize.com/swiftleeds",
     "cfpEndDate": "2022-04-30",
     "twitter": "@swift_leeds"
+  },
+  {
+    "name": "Appdevcon",
+    "startDate": "2022-06-21",
+    "endDate": "2022-06-24",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "twitter": "@appdevconNL",
+    "cocUrl": "https://appdevcon.nl/code-of-conduct/",
+    "url": "https://appdevcon.nl"
   }
 ]

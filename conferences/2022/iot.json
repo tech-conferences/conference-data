@@ -218,5 +218,38 @@
     "cfpEndDate": "2022-06-15",
     "twitter": "@eclipsecon",
     "cocUrl": "https://www.eclipsecon.org/2022/eclipse-community-events-code-conduct"
+  },
+  {
+    "name": "2nd Annual Pharma Innovation Tech Congress",
+    "startDate": "2022-08-25",
+    "endDate": "2022-08-25",
+    "city": "Mumbai",
+    "country": "India",
+    "online": false,
+    "twitter": "@virtue_insight",
+    "url": "https://www.virtueinsight.com/event/2nd-annual-pharma-innovation-tech-congress-2022"
+  },
+  {
+    "name": "Weave Sphere",
+    "startDate": "2022-11-15",
+    "endDate": "2022-11-17",
+    "city": "Toronto",
+    "country": "Canada",
+    "online": false,
+    "twitter": "@weavesphere",
+    "url": "http://weavesphere.co"
+  },
+  {
+    "name": "Update Conference Prague",
+    "startDate": "2022-11-10",
+    "endDate": "2022-11-11",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "online": true,
+    "cfpUrl": "https://www.updateconference.net/2022/call-for-speakers",
+    "cfpEndDate": "2022-06-26",
+    "twitter": "@update_conf",
+    "cocUrl": "https://www.updateconference.net/en/code-of-conduct",
+    "url": "https://www.updateconference.net"
   }
 ]
