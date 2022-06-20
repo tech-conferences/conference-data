@@ -165,6 +165,7 @@ module.exports = {
     "Rennes",
     "Rouen",
     "Sophia-Antipolis",
+    "Strasbourg",
     "Toulouse"
   ],
   "Germany": [
