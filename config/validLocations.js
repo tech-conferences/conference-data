@@ -42,6 +42,7 @@ module.exports = {
     "Cochabamba"
   ],
   "Bosnia and Herzegovina": [
+    "Banja Luka",
     "Sarajevo"
   ],
   "Brazil": [
