@@ -783,5 +783,51 @@
     "twitter": "@React_Days",
     "cocUrl": "https://javascript-days.de/code-of-conduct/",
     "url": "https://javascript-days.de/react"
+  },
+  {
+    "name": "CONNECT.TECH",
+    "startDate": "2022-11-07",
+    "endDate": "2022-11-09",
+    "city": "Atlanta, GA",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/connect-tech-2022",
+    "cfpEndDate": "2022-06-18",
+    "twitter": "@connect_js",
+    "cocUrl": "https://2022.connect.tech/codeofconduct/",
+    "url": "https://2022.connect.tech"
+  },
+  {
+    "name": "NG-DE",
+    "startDate": "2022-10-06",
+    "endDate": "2022-10-07",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@ngdeconf",
+    "cocUrl": "https://ng-de.org/code-of-conduct/",
+    "url": "https://ng-de.org"
+  },
+  {
+    "name": "International JavaScript Conference",
+    "startDate": "2022-10-24",
+    "endDate": "2022-10-28",
+    "city": "Munich",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@JavaScriptCon",
+    "cocUrl": "https://javascript-conference.com/code-of-conduct/",
+    "url": "https://javascript-conference.com/munich"
+  },
+  {
+    "name": "vuejs.de Conf",
+    "startDate": "2022-10-05",
+    "endDate": "2022-10-05",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@vue_js_de",
+    "cocUrl": "https://conf.vuejs.de/code-of-conduct/",
+    "url": "https://conf.vuejs.de"
   }
 ]
