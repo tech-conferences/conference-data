@@ -837,5 +837,18 @@
     "online": true,
     "twitter": "@fwdays",
     "url": "https://fwdays.com/event/react-fwdays-2022"
+  },
+  {
+    "name": "angularday",
+    "startDate": "2022-10-07",
+    "endDate": "2022-10-07",
+    "city": "Verona",
+    "country": "Italy",
+    "online": true,
+    "cfpUrl": "https://grusp.org/CFPangularday",
+    "cfpEndDate": "2022-06-30",
+    "twitter": "@angularday",
+    "cocUrl": "https://grusp.org/en/coc",
+    "url": "https://angularday.it"
   }
 ]
