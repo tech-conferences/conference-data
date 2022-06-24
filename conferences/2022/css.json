@@ -178,7 +178,19 @@
     "cocUrl": "https://javascript-days.de/code-of-conduct/"
   },
   {
+    "name": "International JavaScript Conference",
+    "url": "https://javascript-conference.com/munich",
+    "startDate": "2022-10-24",
+    "endDate": "2022-10-28",
+    "city": "Munich",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@JavaScriptCon",
+    "cocUrl": "https://javascript-conference.com/code-of-conduct/"
+  },
+  {
     "name": "CONNECT.TECH",
+    "url": "https://2022.connect.tech",
     "startDate": "2022-11-07",
     "endDate": "2022-11-09",
     "city": "Atlanta, GA",
@@ -187,18 +199,6 @@
     "cfpUrl": "https://sessionize.com/connect-tech-2022",
     "cfpEndDate": "2022-06-18",
     "twitter": "@connect_js",
-    "cocUrl": "https://2022.connect.tech/codeofconduct/",
-    "url": "https://2022.connect.tech"
-  },
-  {
-    "name": "International JavaScript Conference",
-    "startDate": "2022-10-24",
-    "endDate": "2022-10-28",
-    "city": "Munich",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@JavaScriptCon",
-    "cocUrl": "https://javascript-conference.com/code-of-conduct/",
-    "url": "https://javascript-conference.com/munich"
+    "cocUrl": "https://2022.connect.tech/codeofconduct/"
   }
 ]

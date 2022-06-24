@@ -480,6 +480,16 @@
     "cocUrl": "https://skillsmatter.com/go/code-of-conduct"
   },
   {
+    "name": "DDD europe",
+    "url": "https://dddeurope.com",
+    "startDate": "2022-06-23",
+    "endDate": "2022-06-24",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "twitter": "@ddd_eu"
+  },
+  {
     "name": "DEEP Startup Ecosystem Conference",
     "url": "https://www.deepecosystems.com/conference",
     "startDate": "2022-06-23",
@@ -570,6 +580,15 @@
     "cfpEndDate": "2022-01-28",
     "twitter": "@kc_dc",
     "cocUrl": "https://www.kcdc.info/code-of-conduct"
+  },
+  {
+    "name": "Moar Serverless!!",
+    "url": "https://moarserverless.com",
+    "startDate": "2022-08-11",
+    "endDate": "2022-08-11",
+    "online": true,
+    "twitter": "@cfe_dev",
+    "cocUrl": "https://cfe.dev/conduct/"
   },
   {
     "name": "Code PaLOUsa",
@@ -667,6 +686,29 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Digital Labin Conference - The new perspectives",
+    "url": "https://digital-labin.com",
+    "startDate": "2022-09-23",
+    "endDate": "2022-09-24",
+    "city": "Labin",
+    "country": "Croatia",
+    "online": false,
+    "twitter": "@DigitalLabin"
+  },
+  {
+    "name": "Init",
+    "url": "https://initconf.org",
+    "startDate": "2022-09-24",
+    "endDate": "2022-09-24",
+    "city": "Banja Luka",
+    "country": "Bosnia and Herzegovina",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/init-2022",
+    "cfpEndDate": "2022-06-15",
+    "twitter": "@InitConfBL",
+    "cocUrl": "https://github.com/init-conference/codeofconduct"
+  },
+  {
     "name": "NDC Oslo",
     "url": "https://ndcoslo.com",
     "startDate": "2022-09-25",
@@ -689,6 +731,17 @@
     "online": true,
     "twitter": "@NDC_Conferences",
     "cocUrl": "https://ndcminnesota.com/code-of-conduct"
+  },
+  {
+    "name": "Git Commit Show",
+    "url": "https://gitcommit.show",
+    "startDate": "2022-10-01",
+    "endDate": "2022-10-02",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdFuHEOT9i5KBEOL56nbwn6HNGpsgGL55JGwwXYFdjC4kqnHw/viewform",
+    "cfpEndDate": "2022-09-30",
+    "twitter": "@gitcommitshow",
+    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub"
   },
   {
     "name": "GOTO Copenhagen",
@@ -736,6 +789,18 @@
     "cocUrl": "https://javascript-days.de/code-of-conduct/"
   },
   {
+    "name": "Codemotion Milan",
+    "url": "https://extra.codemotion.com/conference-milan-2022",
+    "startDate": "2022-10-18",
+    "endDate": "2022-10-19",
+    "city": "Milano",
+    "country": "Italy",
+    "online": true,
+    "cfpUrl": "https://extra.codemotion.com/conferencemilan2022-cfp",
+    "cfpEndDate": "2022-07-08",
+    "twitter": "@CodemotionIT"
+  },
+  {
     "name": "Indy.Code()",
     "url": "https://indycode.amegala.com",
     "startDate": "2022-10-19",
@@ -770,6 +835,17 @@
     "cocUrl": "https://www.conf42.com/code-of-conduct"
   },
   {
+    "name": "International PHP Conference",
+    "url": "https://phpconference.com/munich",
+    "startDate": "2022-10-24",
+    "endDate": "2022-10-28",
+    "city": "Munich",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@phpconference",
+    "cocUrl": "https://phpconference.com/code-of-conduct/"
+  },
+  {
     "name": "performance.now()",
     "url": "https://perfnow.nl",
     "startDate": "2022-10-27",
@@ -778,6 +854,17 @@
     "country": "Netherlands",
     "online": true,
     "twitter": "@perfnowconf"
+  },
+  {
+    "name": "KanDDDinsky",
+    "url": "https://kandddinsky.de",
+    "startDate": "2022-10-31",
+    "endDate": "2022-11-02",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@KanDDDinsky",
+    "cocUrl": "https://kandddinsky.de/codeofconduct"
   },
   {
     "name": "Heapcon",
@@ -791,6 +878,17 @@
     "cfpEndDate": "2022-05-31",
     "twitter": "@Heapconf",
     "cocUrl": "https://heapcon.io/code-of-conduct/"
+  },
+  {
+    "name": "W-JAX",
+    "url": "https://jax.de/munich",
+    "startDate": "2022-11-07",
+    "endDate": "2022-11-11",
+    "city": "Munich",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@jaxcon",
+    "cocUrl": "https://jax.de/code-of-conduct-en/"
   },
   {
     "name": "TechBash",
@@ -815,6 +913,19 @@
     "cocUrl": "https://conferences.isaqb.org/software-architecture-gathering/code-of-conduct/"
   },
   {
+    "name": "Devfest Strasbourg",
+    "url": "https://devfest.gdgstrasbourg.fr",
+    "startDate": "2022-11-18",
+    "endDate": "2022-11-18",
+    "city": "Strasbourg",
+    "country": "France",
+    "online": false,
+    "cfpUrl": "https://conference-hall.io/public/event/wgaja45IBdGT4sw4CXDB",
+    "cfpEndDate": "2022-06-30",
+    "twitter": "@DevfestSXB",
+    "cocUrl": "https://devfest.gdgstrasbourg.fr/coc"
+  },
+  {
     "name": "DevTernity",
     "url": "https://devternity.com",
     "startDate": "2022-12-08",
@@ -832,116 +943,5 @@
     "cfpUrl": "https://www.ittage.informatik-aktuell.de/call-for-papers.html",
     "cfpEndDate": "2022-05-03",
     "twitter": "@InformatikAktue"
-  },
-  {
-    "name": "Git Commit Show",
-    "startDate": "2022-10-01",
-    "endDate": "2022-10-02",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdFuHEOT9i5KBEOL56nbwn6HNGpsgGL55JGwwXYFdjC4kqnHw/viewform",
-    "cfpEndDate": "2022-09-30",
-    "twitter": "@gitcommitshow",
-    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub",
-    "url": "https://gitcommit.show"
-  },
-  {
-    "name": "Codemotion Milan",
-    "startDate": "2022-10-18",
-    "endDate": "2022-10-19",
-    "city": "Milano",
-    "country": "Italy",
-    "online": true,
-    "cfpUrl": "https://extra.codemotion.com/conferencemilan2022-cfp",
-    "cfpEndDate": "2022-07-08",
-    "twitter": "@CodemotionIT",
-    "url": "https://extra.codemotion.com/conference-milan-2022"
-  },
-  {
-    "name": "Init",
-    "startDate": "2022-09-24",
-    "endDate": "2022-09-24",
-    "online": false,
-    "city": "Banja Luka",
-    "country": "Bosnia and Herzegovina",
-    "cfpUrl": "https://sessionize.com/init-2022",
-    "cfpEndDate": "2022-06-15",
-    "twitter": "@InitConfBL",
-    "cocUrl": "https://github.com/init-conference/codeofconduct",
-    "url": "https://initconf.org"
-  },
-  {
-    "name": "Moar Serverless!!",
-    "startDate": "2022-08-11",
-    "endDate": "2022-08-11",
-    "online": true,
-    "twitter": "@cfe_dev",
-    "cocUrl": "https://cfe.dev/conduct/",
-    "url": "https://moarserverless.com"
-  },
-  {
-    "name": "KanDDDinsky",
-    "startDate": "2022-10-31",
-    "endDate": "2022-11-02",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": false,
-    "twitter": "@KanDDDinsky",
-    "cocUrl": "https://kandddinsky.de/codeofconduct",
-    "url": "https://kandddinsky.de"
-  },
-  {
-    "name": "DDD europe",
-    "startDate": "2022-06-23",
-    "endDate": "2022-06-24",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "online": false,
-    "twitter": "@ddd_eu",
-    "url": "https://dddeurope.com"
-  },
-  {
-    "name": "International PHP Conference",
-    "startDate": "2022-10-24",
-    "endDate": "2022-10-28",
-    "city": "Munich",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@phpconference",
-    "cocUrl": "https://phpconference.com/code-of-conduct/",
-    "url": "https://phpconference.com/munich"
-  },
-  {
-    "name": "W-JAX",
-    "startDate": "2022-11-07",
-    "endDate": "2022-11-11",
-    "city": "Munich",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@jaxcon",
-    "cocUrl": "https://jax.de/code-of-conduct-en/",
-    "url": "https://jax.de/munich"
-  },
-  {
-    "name": "Devfest Strasbourg",
-    "startDate": "2022-11-18",
-    "endDate": "2022-11-18",
-    "city": "Strasbourg",
-    "country": "France",
-    "online": false,
-    "cfpUrl": "https://conference-hall.io/public/event/wgaja45IBdGT4sw4CXDB",
-    "cfpEndDate": "2022-06-30",
-    "twitter": "@DevfestSXB",
-    "cocUrl": "https://devfest.gdgstrasbourg.fr/coc",
-    "url": "https://devfest.gdgstrasbourg.fr"
-  },
-  {
-    "name": "Digital Labin Conference - The new perspectives",
-    "startDate": "2022-09-23",
-    "endDate": "2022-09-24",
-    "city": "Labin",
-    "country": "Croatia",
-    "online": false,
-    "twitter": "@DigitalLabin",
-    "url": "https://digital-labin.com"
   }
 ]

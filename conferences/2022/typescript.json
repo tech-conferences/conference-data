@@ -124,16 +124,8 @@
     "twitter": "@JavaScriptCon"
   },
   {
-    "name": "DevTernity",
-    "url": "https://devternity.com",
-    "startDate": "2022-12-08",
-    "endDate": "2022-12-09",
-    "online": true,
-    "twitter": "@devternity",
-    "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
     "name": "Update Conference Prague",
+    "url": "https://www.updateconference.net",
     "startDate": "2022-11-10",
     "endDate": "2022-11-11",
     "city": "Prague",
@@ -142,7 +134,15 @@
     "cfpUrl": "https://www.updateconference.net/2022/call-for-speakers",
     "cfpEndDate": "2022-06-26",
     "twitter": "@update_conf",
-    "cocUrl": "https://www.updateconference.net/en/code-of-conduct",
-    "url": "https://www.updateconference.net"
+    "cocUrl": "https://www.updateconference.net/en/code-of-conduct"
+  },
+  {
+    "name": "DevTernity",
+    "url": "https://devternity.com",
+    "startDate": "2022-12-08",
+    "endDate": "2022-12-09",
+    "online": true,
+    "twitter": "@devternity",
+    "cocUrl": "https://devternity.com/code_of_conduct.html"
   }
 ]

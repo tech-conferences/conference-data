@@ -12,16 +12,17 @@
   },
   {
     "name": "KubeCon EU",
+    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2023",
     "startDate": "2023-04-17",
     "endDate": "2023-04-21",
     "city": "Amsterdam",
     "country": "Netherlands",
     "online": true,
-    "twitter": "@cncf",
-    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2023"
+    "twitter": "@cncf"
   },
   {
     "name": "AgileTD Open Air",
+    "url": "https://openair.agiletestingdays.com",
     "startDate": "2023-06-13",
     "endDate": "2023-06-15",
     "city": "Cologne",
@@ -29,7 +30,6 @@
     "online": false,
     "cfpUrl": "https://cfp.trendig.com/AgileTD_OpenAir_2023",
     "cfpEndDate": "2022-08-31",
-    "twitter": "@AgileTDOpenAir",
-    "url": "https://openair.agiletestingdays.com"
+    "twitter": "@AgileTDOpenAir"
   }
 ]

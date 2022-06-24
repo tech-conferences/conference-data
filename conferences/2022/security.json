@@ -324,6 +324,17 @@
     "cocUrl": "https://gotocph.com/2022/code-of-conduct"
   },
   {
+    "name": "Infoshare",
+    "url": "https://infoshare.pl/conference",
+    "startDate": "2022-10-06",
+    "endDate": "2022-10-07",
+    "city": "Gdansk",
+    "country": "Poland",
+    "online": true,
+    "twitter": "@infosharepl",
+    "cocUrl": "https://infoshare.pl/code-of-conduct.html"
+  },
+  {
     "name": "TestFlix",
     "url": "https://www.thetesttribe.com/testflix-2022",
     "startDate": "2022-10-08",
@@ -363,6 +374,29 @@
     "online": true
   },
   {
+    "name": "Update Conference Prague",
+    "url": "https://www.updateconference.net",
+    "startDate": "2022-11-10",
+    "endDate": "2022-11-11",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "online": true,
+    "cfpUrl": "https://www.updateconference.net/2022/call-for-speakers",
+    "cfpEndDate": "2022-06-26",
+    "twitter": "@update_conf",
+    "cocUrl": "https://www.updateconference.net/en/code-of-conduct"
+  },
+  {
+    "name": "Weave Sphere",
+    "url": "http://weavesphere.co",
+    "startDate": "2022-11-15",
+    "endDate": "2022-11-17",
+    "city": "Toronto",
+    "country": "Canada",
+    "online": false,
+    "twitter": "@weavesphere"
+  },
+  {
     "name": "Conf42 DevSecOps",
     "url": "https://www.conf42.com/devsecops2022",
     "startDate": "2022-12-01",
@@ -372,39 +406,5 @@
     "cfpEndDate": "2022-10-28",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
-  },
-  {
-    "name": "Weave Sphere",
-    "startDate": "2022-11-15",
-    "endDate": "2022-11-17",
-    "city": "Toronto",
-    "country": "Canada",
-    "online": false,
-    "twitter": "@weavesphere",
-    "url": "http://weavesphere.co"
-  },
-  {
-    "name": "Update Conference Prague",
-    "startDate": "2022-11-10",
-    "endDate": "2022-11-11",
-    "city": "Prague",
-    "country": "Czech Republic",
-    "online": true,
-    "cfpUrl": "https://www.updateconference.net/2022/call-for-speakers",
-    "cfpEndDate": "2022-06-26",
-    "twitter": "@update_conf",
-    "cocUrl": "https://www.updateconference.net/en/code-of-conduct",
-    "url": "https://www.updateconference.net"
-  },
-  {
-    "name": "Infoshare",
-    "startDate": "2022-10-06",
-    "endDate": "2022-10-07",
-    "city": "Gdansk",
-    "country": "Poland",
-    "online": true,
-    "twitter": "@infosharepl",
-    "cocUrl": "https://infoshare.pl/code-of-conduct.html",
-    "url": "https://infoshare.pl/conference"
   }
 ]

@@ -563,6 +563,14 @@
     "cocUrl": "https://halfstackconf.com/newquay/code-of-conduct/"
   },
   {
+    "name": "JS + React fwdays conference",
+    "url": "https://fwdays.com/event/react-fwdays-2022",
+    "startDate": "2022-07-09",
+    "endDate": "2022-07-09",
+    "online": true,
+    "twitter": "@fwdays"
+  },
+  {
     "name": "THAT Conference",
     "url": "https://that.us/events/wi/2022",
     "startDate": "2022-07-25",
@@ -612,6 +620,15 @@
     "twitter": "@cascadiajs",
     "cocUrl": "https://2022.cascadiajs.com/code-of-conduct",
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "React Native EU",
+    "url": "https://www.react-native.eu",
+    "startDate": "2022-09-01",
+    "endDate": "2022-09-02",
+    "online": true,
+    "twitter": "@react_native_eu",
+    "cocUrl": "https://www.react-native.eu/code-of-conduct"
   },
   {
     "name": "SmashingConf Freiburg",
@@ -673,6 +690,28 @@
     "twitter": "@JavaScriptCon"
   },
   {
+    "name": "Git Commit Show",
+    "url": "https://gitcommit.show",
+    "startDate": "2022-10-01",
+    "endDate": "2022-10-02",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdFuHEOT9i5KBEOL56nbwn6HNGpsgGL55JGwwXYFdjC4kqnHw/viewform",
+    "cfpEndDate": "2022-09-30",
+    "twitter": "@gitcommitshow",
+    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub"
+  },
+  {
+    "name": "vuejs.de Conf",
+    "url": "https://conf.vuejs.de",
+    "startDate": "2022-10-05",
+    "endDate": "2022-10-05",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@vue_js_de",
+    "cocUrl": "https://conf.vuejs.de/code-of-conduct/"
+  },
+  {
     "name": "Full Stack Europe",
     "url": "https://fullstackeurope.com/2022",
     "startDate": "2022-10-05",
@@ -681,6 +720,17 @@
     "country": "Belgium",
     "online": false,
     "twitter": "@fullstackeu"
+  },
+  {
+    "name": "NG-DE",
+    "url": "https://ng-de.org",
+    "startDate": "2022-10-06",
+    "endDate": "2022-10-07",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@ngdeconf",
+    "cocUrl": "https://ng-de.org/code-of-conduct/"
   },
   {
     "name": "Nordic.js",
@@ -692,6 +742,19 @@
     "online": false,
     "twitter": "@nordicjs",
     "cocUrl": "https://nordicjs.com/code-of-conduct"
+  },
+  {
+    "name": "angularday",
+    "url": "https://angularday.it",
+    "startDate": "2022-10-07",
+    "endDate": "2022-10-07",
+    "city": "Verona",
+    "country": "Italy",
+    "online": true,
+    "cfpUrl": "https://grusp.org/CFPangularday",
+    "cfpEndDate": "2022-06-30",
+    "twitter": "@angularday",
+    "cocUrl": "https://grusp.org/en/coc"
   },
   {
     "name": "SmashingConf New York",
@@ -727,6 +790,55 @@
     "cocUrl": "https://javascript-days.de/code-of-conduct/"
   },
   {
+    "name": "React Days",
+    "url": "https://javascript-days.de/react",
+    "startDate": "2022-10-17",
+    "endDate": "2022-10-20",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@React_Days",
+    "cocUrl": "https://javascript-days.de/code-of-conduct/"
+  },
+  {
+    "name": "React Advanced London",
+    "url": "https://www.reactadvanced.com",
+    "startDate": "2022-10-21",
+    "endDate": "2022-10-25",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScDO_8VuVGKp_PZAepiJe6WHEbdc7UeDS4jX3PzgMO4OeMFQQ/viewform",
+    "cfpEndDate": "2022-07-31",
+    "twitter": "@ReactAdvanced",
+    "cocUrl": "https://reactadvanced.com/coc",
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "International JavaScript Conference",
+    "url": "https://javascript-conference.com/munich",
+    "startDate": "2022-10-24",
+    "endDate": "2022-10-28",
+    "city": "Munich",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@JavaScriptCon",
+    "cocUrl": "https://javascript-conference.com/code-of-conduct/"
+  },
+  {
+    "name": "CONNECT.TECH",
+    "url": "https://2022.connect.tech",
+    "startDate": "2022-11-07",
+    "endDate": "2022-11-09",
+    "city": "Atlanta, GA",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/connect-tech-2022",
+    "cfpEndDate": "2022-06-18",
+    "twitter": "@connect_js",
+    "cocUrl": "https://2022.connect.tech/codeofconduct/"
+  },
+  {
     "name": "Conf42 JavaScript",
     "url": "https://www.conf42.com/js2022",
     "startDate": "2022-11-17",
@@ -747,117 +859,5 @@
     "cfpEndDate": "2022-08-31",
     "twitter": "@xtremejsconf",
     "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "Git Commit Show",
-    "startDate": "2022-10-01",
-    "endDate": "2022-10-02",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdFuHEOT9i5KBEOL56nbwn6HNGpsgGL55JGwwXYFdjC4kqnHw/viewform",
-    "cfpEndDate": "2022-09-30",
-    "twitter": "@gitcommitshow",
-    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub",
-    "url": "https://gitcommit.show"
-  },
-  {
-    "name": "React Advanced London",
-    "startDate": "2022-10-21",
-    "endDate": "2022-10-25",
-    "city": "London",
-    "country": "U.K.",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScDO_8VuVGKp_PZAepiJe6WHEbdc7UeDS4jX3PzgMO4OeMFQQ/viewform",
-    "cfpEndDate": "2022-07-31",
-    "twitter": "@ReactAdvanced",
-    "cocUrl": "https://reactadvanced.com/coc",
-    "offersSignLanguageOrCC": true,
-    "url": "https://www.reactadvanced.com"
-  },
-  {
-    "name": "React Days",
-    "startDate": "2022-10-17",
-    "endDate": "2022-10-20",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@React_Days",
-    "cocUrl": "https://javascript-days.de/code-of-conduct/",
-    "url": "https://javascript-days.de/react"
-  },
-  {
-    "name": "CONNECT.TECH",
-    "startDate": "2022-11-07",
-    "endDate": "2022-11-09",
-    "city": "Atlanta, GA",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://sessionize.com/connect-tech-2022",
-    "cfpEndDate": "2022-06-18",
-    "twitter": "@connect_js",
-    "cocUrl": "https://2022.connect.tech/codeofconduct/",
-    "url": "https://2022.connect.tech"
-  },
-  {
-    "name": "NG-DE",
-    "startDate": "2022-10-06",
-    "endDate": "2022-10-07",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": false,
-    "twitter": "@ngdeconf",
-    "cocUrl": "https://ng-de.org/code-of-conduct/",
-    "url": "https://ng-de.org"
-  },
-  {
-    "name": "International JavaScript Conference",
-    "startDate": "2022-10-24",
-    "endDate": "2022-10-28",
-    "city": "Munich",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@JavaScriptCon",
-    "cocUrl": "https://javascript-conference.com/code-of-conduct/",
-    "url": "https://javascript-conference.com/munich"
-  },
-  {
-    "name": "vuejs.de Conf",
-    "startDate": "2022-10-05",
-    "endDate": "2022-10-05",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": false,
-    "twitter": "@vue_js_de",
-    "cocUrl": "https://conf.vuejs.de/code-of-conduct/",
-    "url": "https://conf.vuejs.de"
-  },
-  {
-    "name": "JS + React fwdays conference",
-    "startDate": "2022-07-09",
-    "endDate": "2022-07-09",
-    "online": true,
-    "twitter": "@fwdays",
-    "url": "https://fwdays.com/event/react-fwdays-2022"
-  },
-  {
-    "name": "angularday",
-    "startDate": "2022-10-07",
-    "endDate": "2022-10-07",
-    "city": "Verona",
-    "country": "Italy",
-    "online": true,
-    "cfpUrl": "https://grusp.org/CFPangularday",
-    "cfpEndDate": "2022-06-30",
-    "twitter": "@angularday",
-    "cocUrl": "https://grusp.org/en/coc",
-    "url": "https://angularday.it"
-  },
-  {
-    "name": "React Native EU",
-    "startDate": "2022-09-01",
-    "endDate": "2022-09-02",
-    "online": true,
-    "twitter": "@react_native_eu",
-    "cocUrl": "https://www.react-native.eu/code-of-conduct",
-    "url": "https://www.react-native.eu"
   }
 ]
