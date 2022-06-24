@@ -288,6 +288,16 @@
     "cocUrl": "https://smashingconf.com/codeofconduct"
   },
   {
+    "name": "uxcon vienna",
+    "url": "https://www.uxcon.at",
+    "startDate": "2022-09-15",
+    "endDate": "2022-09-16",
+    "city": "Vienna",
+    "country": "Austria",
+    "online": false,
+    "twitter": "@uxconvienna"
+  },
+  {
     "name": "Infobip Shift",
     "url": "https://shift.infobip.com",
     "startDate": "2022-09-19",
@@ -334,6 +344,19 @@
     "cocUrl": "https://push-conference.com/legal/terms.php#code-of-conduct"
   },
   {
+    "name": "CONNECT.TECH",
+    "url": "https://2022.connect.tech",
+    "startDate": "2022-11-07",
+    "endDate": "2022-11-09",
+    "city": "Atlanta, GA",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/connect-tech-2022",
+    "cfpEndDate": "2022-06-18",
+    "twitter": "@connect_js",
+    "cocUrl": "https://2022.connect.tech/codeofconduct/"
+  },
+  {
     "name": "STHLM Xperience Conference",
     "url": "https://sthlm.xconf.co",
     "startDate": "2022-11-10",
@@ -343,28 +366,5 @@
     "online": true,
     "twitter": "@SthlmXperience",
     "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "uxcon vienna",
-    "startDate": "2022-09-15",
-    "endDate": "2022-09-16",
-    "city": "Vienna",
-    "country": "Austria",
-    "online": false,
-    "twitter": "@uxconvienna",
-    "url": "https://www.uxcon.at"
-  },
-  {
-    "name": "CONNECT.TECH",
-    "startDate": "2022-11-07",
-    "endDate": "2022-11-09",
-    "city": "Atlanta, GA",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://sessionize.com/connect-tech-2022",
-    "cfpEndDate": "2022-06-18",
-    "twitter": "@connect_js",
-    "cocUrl": "https://2022.connect.tech/codeofconduct/",
-    "url": "https://2022.connect.tech"
   }
 ]

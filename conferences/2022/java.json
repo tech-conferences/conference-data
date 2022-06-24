@@ -288,6 +288,30 @@
     "cocUrl": "https://2022.jcon.one/code-of-conduct"
   },
   {
+    "name": "jconf.dev",
+    "url": "https://2022.jconf.dev",
+    "startDate": "2022-09-26",
+    "endDate": "2022-09-28",
+    "city": "Chicago, IL",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/jconf-dev-2022",
+    "cfpEndDate": "2022-07-05",
+    "twitter": "@jconfdev",
+    "cocUrl": "https://2022.jconf.dev/codeofconduct/"
+  },
+  {
+    "name": "Git Commit Show",
+    "url": "https://gitcommit.show",
+    "startDate": "2022-10-01",
+    "endDate": "2022-10-02",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdFuHEOT9i5KBEOL56nbwn6HNGpsgGL55JGwwXYFdjC4kqnHw/viewform",
+    "cfpEndDate": "2022-09-30",
+    "twitter": "@gitcommitshow",
+    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub"
+  },
+  {
     "name": "JAX London",
     "url": "https://jaxlondon.com",
     "startDate": "2022-10-03",
@@ -343,6 +367,17 @@
     "cocUrl": "https://www.eclipsecon.org/2022/eclipse-community-events-code-conduct"
   },
   {
+    "name": "W-JAX",
+    "url": "https://jax.de/munich",
+    "startDate": "2022-11-07",
+    "endDate": "2022-11-11",
+    "city": "Munich",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@jaxcon",
+    "cocUrl": "https://jax.de/code-of-conduct-en/"
+  },
+  {
     "name": "DevTernity",
     "url": "https://devternity.com",
     "startDate": "2022-12-08",
@@ -350,40 +385,5 @@
     "online": true,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "Git Commit Show",
-    "startDate": "2022-10-01",
-    "endDate": "2022-10-02",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdFuHEOT9i5KBEOL56nbwn6HNGpsgGL55JGwwXYFdjC4kqnHw/viewform",
-    "cfpEndDate": "2022-09-30",
-    "twitter": "@gitcommitshow",
-    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub",
-    "url": "https://gitcommit.show"
-  },
-  {
-    "name": "jconf.dev",
-    "startDate": "2022-09-26",
-    "endDate": "2022-09-28",
-    "city": "Chicago, IL",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://sessionize.com/jconf-dev-2022",
-    "cfpEndDate": "2022-07-05",
-    "twitter": "@jconfdev",
-    "cocUrl": "https://2022.jconf.dev/codeofconduct/",
-    "url": "https://2022.jconf.dev"
-  },
-  {
-    "name": "W-JAX",
-    "startDate": "2022-11-07",
-    "endDate": "2022-11-11",
-    "city": "Munich",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@jaxcon",
-    "cocUrl": "https://jax.de/code-of-conduct-en/",
-    "url": "https://jax.de/munich"
   }
 ]

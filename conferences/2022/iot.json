@@ -152,6 +152,24 @@
     "cocUrl": "https://skillsmatter.com/go/code-of-conduct"
   },
   {
+    "name": "2nd Annual Pharma Innovation Tech Congress",
+    "url": "https://www.virtueinsight.com/event/2nd-annual-pharma-innovation-tech-congress-2022",
+    "startDate": "2022-08-25",
+    "endDate": "2022-08-25",
+    "city": "Mumbai",
+    "country": "India",
+    "online": false,
+    "twitter": "@virtue_insight"
+  },
+  {
+    "name": "Silicon Labs Works With",
+    "url": "https://workswith.silabs.com",
+    "startDate": "2022-09-13",
+    "endDate": "2022-09-15",
+    "online": true,
+    "twitter": "@siliconlabs"
+  },
+  {
     "name": "Infobip Shift",
     "url": "https://shift.infobip.com",
     "startDate": "2022-09-19",
@@ -220,27 +238,8 @@
     "cocUrl": "https://www.eclipsecon.org/2022/eclipse-community-events-code-conduct"
   },
   {
-    "name": "2nd Annual Pharma Innovation Tech Congress",
-    "startDate": "2022-08-25",
-    "endDate": "2022-08-25",
-    "city": "Mumbai",
-    "country": "India",
-    "online": false,
-    "twitter": "@virtue_insight",
-    "url": "https://www.virtueinsight.com/event/2nd-annual-pharma-innovation-tech-congress-2022"
-  },
-  {
-    "name": "Weave Sphere",
-    "startDate": "2022-11-15",
-    "endDate": "2022-11-17",
-    "city": "Toronto",
-    "country": "Canada",
-    "online": false,
-    "twitter": "@weavesphere",
-    "url": "http://weavesphere.co"
-  },
-  {
     "name": "Update Conference Prague",
+    "url": "https://www.updateconference.net",
     "startDate": "2022-11-10",
     "endDate": "2022-11-11",
     "city": "Prague",
@@ -249,15 +248,16 @@
     "cfpUrl": "https://www.updateconference.net/2022/call-for-speakers",
     "cfpEndDate": "2022-06-26",
     "twitter": "@update_conf",
-    "cocUrl": "https://www.updateconference.net/en/code-of-conduct",
-    "url": "https://www.updateconference.net"
+    "cocUrl": "https://www.updateconference.net/en/code-of-conduct"
   },
   {
-    "name": "Silicon Labs Works With",
-    "startDate": "2022-09-13",
-    "endDate": "2022-09-15",
-    "online": true,
-    "twitter": "@siliconlabs",
-    "url": "https://workswith.silabs.com"
+    "name": "Weave Sphere",
+    "url": "http://weavesphere.co",
+    "startDate": "2022-11-15",
+    "endDate": "2022-11-17",
+    "city": "Toronto",
+    "country": "Canada",
+    "online": false,
+    "twitter": "@weavesphere"
   }
 ]

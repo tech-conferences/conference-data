@@ -323,6 +323,14 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Exploring the Future of Behaviour AI",
+    "url": "https://www.linkedin.com/events/exploringthefutureofbehaviourai6939538210767183872/about",
+    "startDate": "2022-06-23",
+    "endDate": "2022-06-23",
+    "online": true,
+    "twitter": "@humanisingauto"
+  },
+  {
     "name": "DEEP Startup Ecosystem Conference",
     "url": "https://www.deepecosystems.com/conference",
     "startDate": "2022-06-23",
@@ -398,6 +406,17 @@
     "cocUrl": "https://gotocph.com/2022/code-of-conduct"
   },
   {
+    "name": "Infoshare",
+    "url": "https://infoshare.pl/conference",
+    "startDate": "2022-10-06",
+    "endDate": "2022-10-07",
+    "city": "Gdansk",
+    "country": "Poland",
+    "online": true,
+    "twitter": "@infosharepl",
+    "cocUrl": "https://infoshare.pl/code-of-conduct.html"
+  },
+  {
     "name": "TestFlix",
     "url": "https://www.thetesttribe.com/testflix-2022",
     "startDate": "2022-10-08",
@@ -418,6 +437,16 @@
     "cfpUrl": "https://mascots.iitis.pl/cfp",
     "cfpEndDate": "2022-06-01",
     "twitter": "@iitis"
+  },
+  {
+    "name": "Middle East Enterprise AI & Analytics Summit",
+    "url": "https://meenterpriseai.com",
+    "startDate": "2022-10-20",
+    "endDate": "2022-10-20",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "online": false,
+    "twitter": "@@LetsTalkB2B"
   },
   {
     "name": "enterPy",
@@ -442,6 +471,29 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Update Conference Prague",
+    "url": "https://www.updateconference.net",
+    "startDate": "2022-11-10",
+    "endDate": "2022-11-11",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "online": true,
+    "cfpUrl": "https://www.updateconference.net/2022/call-for-speakers",
+    "cfpEndDate": "2022-06-26",
+    "twitter": "@update_conf",
+    "cocUrl": "https://www.updateconference.net/en/code-of-conduct"
+  },
+  {
+    "name": "Weave Sphere",
+    "url": "http://weavesphere.co",
+    "startDate": "2022-11-15",
+    "endDate": "2022-11-17",
+    "city": "Toronto",
+    "country": "Canada",
+    "online": false,
+    "twitter": "@weavesphere"
+  },
+  {
     "name": "Agile Testing Days",
     "url": "https://agiletestingdays.com",
     "startDate": "2022-11-21",
@@ -453,57 +505,5 @@
     "cfpEndDate": "2022-03-20",
     "twitter": "@AgileTD",
     "cocUrl": "https://agiletestingdays.com/code-of-conduct/"
-  },
-  {
-    "name": "Middle East Enterprise AI & Analytics Summit",
-    "startDate": "2022-10-20",
-    "endDate": "2022-10-20",
-    "city": "Dubai",
-    "country": "United Arab Emirates",
-    "online": false,
-    "twitter": "@@LetsTalkB2B",
-    "url": "https://meenterpriseai.com"
-  },
-  {
-    "name": "Exploring the Future of Behaviour AI",
-    "startDate": "2022-06-23",
-    "endDate": "2022-06-23",
-    "online": true,
-    "twitter": "@humanisingauto",
-    "url": "https://www.linkedin.com/events/exploringthefutureofbehaviourai6939538210767183872/about"
-  },
-  {
-    "name": "Weave Sphere",
-    "startDate": "2022-11-15",
-    "endDate": "2022-11-17",
-    "city": "Toronto",
-    "country": "Canada",
-    "online": false,
-    "twitter": "@weavesphere",
-    "url": "http://weavesphere.co"
-  },
-  {
-    "name": "Update Conference Prague",
-    "startDate": "2022-11-10",
-    "endDate": "2022-11-11",
-    "city": "Prague",
-    "country": "Czech Republic",
-    "online": true,
-    "cfpUrl": "https://www.updateconference.net/2022/call-for-speakers",
-    "cfpEndDate": "2022-06-26",
-    "twitter": "@update_conf",
-    "cocUrl": "https://www.updateconference.net/en/code-of-conduct",
-    "url": "https://www.updateconference.net"
-  },
-  {
-    "name": "Infoshare",
-    "startDate": "2022-10-06",
-    "endDate": "2022-10-07",
-    "city": "Gdansk",
-    "country": "Poland",
-    "online": true,
-    "twitter": "@infosharepl",
-    "cocUrl": "https://infoshare.pl/code-of-conduct.html",
-    "url": "https://infoshare.pl/conference"
   }
 ]

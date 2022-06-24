@@ -246,6 +246,15 @@
     "cocUrl": "https://2022.jcon.one/code-of-conduct"
   },
   {
+    "name": "Agile, DevOps & Testing: People, Process and Technology",
+    "url": "https://conference.unicom.co.uk/agile-devops-software-testing-conference/apac-july",
+    "startDate": "2022-07-20",
+    "endDate": "2022-07-21",
+    "online": true,
+    "twitter": "@UNICOMLearning",
+    "cocUrl": "https://conference.unicomseminars.org/agile-devops-software-testing-conference/apac-july/#code"
+  },
+  {
     "name": "Selenium Conf",
     "url": "https://2022.seleniumconf.in",
     "startDate": "2022-07-29",
@@ -376,6 +385,30 @@
     "cocUrl": "http://softwaretesting.news/national-software-testing-conference/code-of-conduct/"
   },
   {
+    "name": "TestCon Europe",
+    "url": "https://testcon.lt",
+    "startDate": "2022-10-26",
+    "endDate": "2022-10-27",
+    "online": true,
+    "cfpUrl": "https://testcon.lt/cfp",
+    "cfpEndDate": "2022-06-30",
+    "twitter": "@TestConEurope",
+    "cocUrl": "https://testcon.lt/code-of-conduct/"
+  },
+  {
+    "name": "Update Conference Prague",
+    "url": "https://www.updateconference.net",
+    "startDate": "2022-11-10",
+    "endDate": "2022-11-11",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "online": true,
+    "cfpUrl": "https://www.updateconference.net/2022/call-for-speakers",
+    "cfpEndDate": "2022-06-26",
+    "twitter": "@update_conf",
+    "cocUrl": "https://www.updateconference.net/en/code-of-conduct"
+  },
+  {
     "name": "Agile Testing Days",
     "url": "https://agiletestingdays.com",
     "startDate": "2022-11-21",
@@ -396,38 +429,5 @@
     "online": true,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "TestCon Europe",
-    "startDate": "2022-10-26",
-    "endDate": "2022-10-27",
-    "online": true,
-    "cfpUrl": "https://testcon.lt/cfp",
-    "cfpEndDate": "2022-06-30",
-    "twitter": "@TestConEurope",
-    "cocUrl": "https://testcon.lt/code-of-conduct/",
-    "url": "https://testcon.lt"
-  },
-  {
-    "name": "Update Conference Prague",
-    "startDate": "2022-11-10",
-    "endDate": "2022-11-11",
-    "city": "Prague",
-    "country": "Czech Republic",
-    "online": true,
-    "cfpUrl": "https://www.updateconference.net/2022/call-for-speakers",
-    "cfpEndDate": "2022-06-26",
-    "twitter": "@update_conf",
-    "cocUrl": "https://www.updateconference.net/en/code-of-conduct",
-    "url": "https://www.updateconference.net"
-  },
-  {
-    "name": "Agile, DevOps & Testing: People, Process and Technology",
-    "startDate": "2022-07-20",
-    "endDate": "2022-07-21",
-    "online": true,
-    "twitter": "@UNICOMLearning",
-    "cocUrl": "https://conference.unicomseminars.org/agile-devops-software-testing-conference/apac-july/#code",
-    "url": "https://conference.unicom.co.uk/agile-devops-software-testing-conference/apac-july"
   }
 ]

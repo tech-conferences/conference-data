@@ -161,6 +161,28 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "International JavaScript Conference",
+    "url": "https://javascript-conference.com/munich",
+    "startDate": "2022-10-24",
+    "endDate": "2022-10-28",
+    "city": "Munich",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@JavaScriptCon",
+    "cocUrl": "https://javascript-conference.com/code-of-conduct/"
+  },
+  {
+    "name": "International PHP Conference",
+    "url": "https://phpconference.com/munich",
+    "startDate": "2022-10-24",
+    "endDate": "2022-10-28",
+    "city": "Munich",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@phpconference",
+    "cocUrl": "https://phpconference.com/code-of-conduct/"
+  },
+  {
     "name": "performance.now()",
     "url": "https://perfnow.nl",
     "startDate": "2022-10-27",
@@ -169,6 +191,19 @@
     "country": "Netherlands",
     "online": true,
     "twitter": "@perfnowconf"
+  },
+  {
+    "name": "Update Conference Prague",
+    "url": "https://www.updateconference.net",
+    "startDate": "2022-11-10",
+    "endDate": "2022-11-11",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "online": true,
+    "cfpUrl": "https://www.updateconference.net/2022/call-for-speakers",
+    "cfpEndDate": "2022-06-26",
+    "twitter": "@update_conf",
+    "cocUrl": "https://www.updateconference.net/en/code-of-conduct"
   },
   {
     "name": "Agile Testing Days",
@@ -182,40 +217,5 @@
     "cfpEndDate": "2022-03-20",
     "twitter": "@AgileTD",
     "cocUrl": "https://agiletestingdays.com/code-of-conduct/"
-  },
-  {
-    "name": "Update Conference Prague",
-    "startDate": "2022-11-10",
-    "endDate": "2022-11-11",
-    "city": "Prague",
-    "country": "Czech Republic",
-    "online": true,
-    "cfpUrl": "https://www.updateconference.net/2022/call-for-speakers",
-    "cfpEndDate": "2022-06-26",
-    "twitter": "@update_conf",
-    "cocUrl": "https://www.updateconference.net/en/code-of-conduct",
-    "url": "https://www.updateconference.net"
-  },
-    {
-    "name": "International JavaScript Conference",
-    "startDate": "2022-10-24",
-    "endDate": "2022-10-28",
-    "city": "Munich",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@JavaScriptCon",
-    "cocUrl": "https://javascript-conference.com/code-of-conduct/",
-    "url": "https://javascript-conference.com/munich"
-  },
-  {
-    "name": "International PHP Conference",
-    "startDate": "2022-10-24",
-    "endDate": "2022-10-28",
-    "city": "Munich",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@phpconference",
-    "cocUrl": "https://phpconference.com/code-of-conduct/",
-    "url": "https://phpconference.com/munich"
   }
 ]

@@ -76,6 +76,17 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Appdevcon",
+    "url": "https://appdevcon.nl",
+    "startDate": "2022-06-21",
+    "endDate": "2022-06-24",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "twitter": "@appdevconNL",
+    "cocUrl": "https://appdevcon.nl/code-of-conduct/"
+  },
+  {
     "name": "SwiftConf",
     "url": "https://swiftconf.com",
     "startDate": "2022-08-17",
@@ -100,6 +111,27 @@
     "twitter": "@360idev"
   },
   {
+    "name": "iOSDev UK",
+    "url": "https://www.iosdevuk.com",
+    "startDate": "2022-09-05",
+    "endDate": "2022-09-08",
+    "city": "Aberystwyth",
+    "country": "U.K.",
+    "online": false,
+    "twitter": "@IOSDEVUK",
+    "cocUrl": "https://www.iosdevuk.com/inclusivity"
+  },
+  {
+    "name": "NSSpain",
+    "url": "https://2022.nsspain.com",
+    "startDate": "2022-09-15",
+    "endDate": "2022-09-16",
+    "city": "Logroño",
+    "country": "Spain",
+    "online": false,
+    "twitter": "@nsspain"
+  },
+  {
     "name": "FrenchKit",
     "url": "https://frenchkit.fr",
     "startDate": "2022-09-29",
@@ -120,37 +152,5 @@
     "cfpUrl": "https://sessionize.com/swiftleeds",
     "cfpEndDate": "2022-04-30",
     "twitter": "@swift_leeds"
-  },
-  {
-    "name": "Appdevcon",
-    "startDate": "2022-06-21",
-    "endDate": "2022-06-24",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "online": false,
-    "twitter": "@appdevconNL",
-    "cocUrl": "https://appdevcon.nl/code-of-conduct/",
-    "url": "https://appdevcon.nl"
-  },
-  {
-    "name": "iOSDev UK",
-    "startDate": "2022-09-05",
-    "endDate": "2022-09-08",
-    "city": "Aberystwyth",
-    "country": "U.K.",
-    "online": false,
-    "twitter": "@IOSDEVUK",
-    "cocUrl": "https://www.iosdevuk.com/inclusivity",
-    "url": "https://www.iosdevuk.com"
-  },
-  {
-    "name": "NSSpain",
-    "startDate": "2022-09-15",
-    "endDate": "2022-09-16",
-    "city": "Logroño",
-    "country": "Spain",
-    "online": false,
-    "twitter": "@nsspain",
-    "url": "https://2022.nsspain.com"
   }
 ]

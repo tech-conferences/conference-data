@@ -408,6 +408,31 @@
     "twitter": "@yowconf"
   },
   {
+    "name": "Git Commit Show",
+    "url": "https://gitcommit.show",
+    "startDate": "2022-10-01",
+    "endDate": "2022-10-02",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdFuHEOT9i5KBEOL56nbwn6HNGpsgGL55JGwwXYFdjC4kqnHw/viewform",
+    "cfpEndDate": "2022-09-30",
+    "twitter": "@gitcommitshow",
+    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub"
+  },
+  {
+    "name": "React Advanced London",
+    "url": "https://www.reactadvanced.com",
+    "startDate": "2022-10-21",
+    "endDate": "2022-10-25",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScDO_8VuVGKp_PZAepiJe6WHEbdc7UeDS4jX3PzgMO4OeMFQQ/viewform",
+    "cfpEndDate": "2022-07-31",
+    "twitter": "@ReactAdvanced",
+    "cocUrl": "https://reactadvanced.com/coc",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "UK Cyber Week",
     "url": "https://www.ukcyberweek.co.uk",
     "startDate": "2022-11-03",
@@ -431,38 +456,13 @@
     "cocUrl": "https://osmc.de/code-of-conduct/"
   },
   {
-    "name": "Git Commit Show",
-    "startDate": "2022-10-01",
-    "endDate": "2022-10-02",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdFuHEOT9i5KBEOL56nbwn6HNGpsgGL55JGwwXYFdjC4kqnHw/viewform",
-    "cfpEndDate": "2022-09-30",
-    "twitter": "@gitcommitshow",
-    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub",
-    "url": "https://gitcommit.show"
-  },
-  {
-    "name": "React Advanced London",
-    "startDate": "2022-10-21",
-    "endDate": "2022-10-25",
-    "city": "London",
-    "country": "U.K.",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScDO_8VuVGKp_PZAepiJe6WHEbdc7UeDS4jX3PzgMO4OeMFQQ/viewform",
-    "cfpEndDate": "2022-07-31",
-    "twitter": "@ReactAdvanced",
-    "cocUrl": "https://reactadvanced.com/coc",
-    "offersSignLanguageOrCC": true,
-    "url": "https://www.reactadvanced.com"
-  },
-  {
     "name": "Weave Sphere",
+    "url": "http://weavesphere.co",
     "startDate": "2022-11-15",
     "endDate": "2022-11-17",
     "city": "Toronto",
     "country": "Canada",
     "online": false,
-    "twitter": "@weavesphere",
-    "url": "http://weavesphere.co"
+    "twitter": "@weavesphere"
   }
 ]

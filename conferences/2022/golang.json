@@ -11,6 +11,17 @@
     "cocUrl": "https://www.conf42.com/code-of-conduct"
   },
   {
+    "name": "Hugo Conf",
+    "url": "https://hugoconf.io",
+    "startDate": "2022-07-08",
+    "endDate": "2022-07-09",
+    "online": true,
+    "cfpUrl": "https://hugoconf.io/code-of-conduct",
+    "cfpEndDate": "2022-06-15",
+    "twitter": "@hugoconf",
+    "cocUrl": "https://hugoconf.io/code-of-conduct"
+  },
+  {
     "name": "Gophercon Europe",
     "url": "https://gophercon.eu",
     "startDate": "2022-07-28",
@@ -19,16 +30,5 @@
     "country": "Germany",
     "online": true,
     "twitter": "@gopherconeu"
-  },
-  {
-    "name": "Hugo Conf",
-    "startDate": "2022-07-08",
-    "endDate": "2022-07-09",
-    "online": true,
-    "cfpUrl": "https://hugoconf.io/code-of-conduct",
-    "cfpEndDate": "2022-06-15",
-    "twitter": "@hugoconf",
-    "cocUrl": "https://hugoconf.io/code-of-conduct",
-    "url": "https://hugoconf.io"
   }
 ]
