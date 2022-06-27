@@ -82,5 +82,18 @@
     "cfpEndDate": "2022-06-26",
     "twitter": "@update_conf",
     "cocUrl": "https://www.updateconference.net/en/code-of-conduct"
+  },
+  {
+    "name": "GraphQL Summit",
+    "startDate": "2022-10-03",
+    "endDate": "2022-10-05",
+    "city": "San Diego, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://forms.gle/jhzZHGdnxRjx8q8R7",
+    "cfpEndDate": "2022-06-29",
+    "twitter": "@graphqlsummit",
+    "cocUrl": "https://www.apollographql.com/docs/community/code-of-conduct/",
+    "url": "https://summit.graphql.com"
   }
 ]
