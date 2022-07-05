@@ -1138,7 +1138,20 @@
     "startDate": "2022-11-21",
     "endDate": "2022-11-24",
     "online": true,
-    "twitter": "@DOC @DOCSING",
+    "twitter": "@devops_con",
     "url": "https://devopscon.io/singapore"
+  },
+  {
+    "name": "DevOpsDays Bengaluru",
+    "startDate": "2022-11-18",
+    "endDate": "2022-11-19",
+    "city": "Bengaluru",
+    "country": "India",
+    "online": false,
+    "cfpUrl": "https://forms.gle/LmCGgZse3Lp4XNgz9",
+    "cfpEndDate": "2022-08-07",
+    "twitter": "@DevOpsDaysIN",
+    "cocUrl": "https://devopsdaysindia.org/cod/",
+    "url": "https://devopsdaysindia.org"
   }
 ]
