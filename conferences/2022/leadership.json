@@ -327,6 +327,16 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Startup Eurasia Conference",
+    "url": "https://startup-eurasia.com",
+    "startDate": "2022-10-27",
+    "endDate": "2022-10-30",
+    "city": "Varna",
+    "country": "Bulgaria",
+    "online": false,
+    "twitter": "@EurasiaStartup"
+  },
+  {
     "name": "LeadDev Berlin",
     "url": "https://leaddev.com/leaddev-berlin",
     "startDate": "2022-11-02",
@@ -348,15 +358,5 @@
     "online": true,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "Startup Eurasia Conference",
-    "startDate": "2022-10-27",
-    "endDate": "2022-10-30",
-    "city": "Varna",
-    "country": "Bulgaria",
-    "online": false,
-    "twitter": "@EurasiaStartup",
-    "url": "https://startup-eurasia.com"
   }
 ]

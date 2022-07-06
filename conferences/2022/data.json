@@ -362,6 +362,14 @@
     "cocUrl": "https://databricks.com/dataaisummit/north-america-2022/code-of-conduct"
   },
   {
+    "name": "ODSC APAC Virtual Conference",
+    "url": "https://odsc.com/apac",
+    "startDate": "2022-09-07",
+    "endDate": "2022-09-08",
+    "online": true,
+    "twitter": "@ODSC"
+  },
+  {
     "name": "Common Sense Data & Analytics APAC",
     "url": "https://www.commonsense.events/cs22-data-analytics-summit-apac",
     "startDate": "2022-09-07",
@@ -471,6 +479,16 @@
     "cocUrl": "https://www.enterpy.de/code_of_conduct.php"
   },
   {
+    "name": "Startup Eurasia Conference",
+    "url": "https://startup-eurasia.com",
+    "startDate": "2022-10-27",
+    "endDate": "2022-10-30",
+    "city": "Varna",
+    "country": "Bulgaria",
+    "online": false,
+    "twitter": "@EurasiaStartup"
+  },
+  {
     "name": "ODSC West",
     "url": "https://odsc.com/california",
     "startDate": "2022-11-01",
@@ -516,23 +534,5 @@
     "cfpEndDate": "2022-03-20",
     "twitter": "@AgileTD",
     "cocUrl": "https://agiletestingdays.com/code-of-conduct/"
-  },
-  {
-    "name": "Startup Eurasia Conference",
-    "startDate": "2022-10-27",
-    "endDate": "2022-10-30",
-    "city": "Varna",
-    "country": "Bulgaria",
-    "online": false,
-    "twitter": "@EurasiaStartup",
-    "url": "https://startup-eurasia.com"
-  },
-  {
-    "name": "ODSC APAC Virtual Conference",
-    "startDate": "2022-09-07",
-    "endDate": "2022-09-08",
-    "online": true,
-    "twitter": "@ODSC",
-    "url": "https://odsc.com/apac"
   }
 ]

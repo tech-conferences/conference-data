@@ -444,6 +444,16 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Startup Eurasia Conference",
+    "url": "https://startup-eurasia.com",
+    "startDate": "2022-10-27",
+    "endDate": "2022-10-30",
+    "city": "Varna",
+    "country": "Bulgaria",
+    "online": false,
+    "twitter": "@EurasiaStartup"
+  },
+  {
     "name": "UK Cyber Week",
     "url": "https://www.ukcyberweek.co.uk",
     "startDate": "2022-11-03",
@@ -475,15 +485,5 @@
     "country": "Canada",
     "online": false,
     "twitter": "@weavesphere"
-  },
-  {
-    "name": "Startup Eurasia Conference",
-    "startDate": "2022-10-27",
-    "endDate": "2022-10-30",
-    "city": "Varna",
-    "country": "Bulgaria",
-    "online": false,
-    "twitter": "@EurasiaStartup",
-    "url": "https://startup-eurasia.com"
   }
 ]
