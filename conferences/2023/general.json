@@ -1,5 +1,18 @@
 [
   {
+    "name": "ConFoo",
+    "url": "https://confoo.ca/en/2023",
+    "startDate": "2023-02-22",
+    "endDate": "2023-02-24",
+    "city": "Montreal",
+    "country": "Canada",
+    "online": false,
+    "cfpUrl": "https://confoo.ca/en/2023/call-for-papers",
+    "cfpEndDate": "2022-10-06",
+    "twitter": "@confooca",
+    "cocUrl": "https://confoo.ca/en/code-of-conduct"
+  },
+  {
     "name": "Tech Unite Africa",
     "url": "https://techuniteafrica.com",
     "startDate": "2023-03-29",
@@ -20,18 +33,5 @@
     "country": "U.S.A.",
     "online": false,
     "twitter": "@EP_NATES"
-  },
-  {
-    "name": "ConFoo",
-    "startDate": "2023-02-22",
-    "endDate": "2023-02-24",
-    "city": "Montreal",
-    "country": "Canada",
-    "online": false,
-    "cfpUrl": "https://confoo.ca/en/2023/call-for-papers",
-    "cfpEndDate": "2022-10-06",
-    "twitter": "@confooca",
-    "cocUrl": "https://confoo.ca/en/code-of-conduct",
-    "url": "https://confoo.ca/en/2023"
   }
 ]

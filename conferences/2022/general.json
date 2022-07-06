@@ -569,6 +569,15 @@
     "cocUrl": "https://www.cincydeliver.org/Home/CodeOfConduct"
   },
   {
+    "name": "MobileWeek",
+    "url": "https://mobileweek.co",
+    "startDate": "2022-08-03",
+    "endDate": "2022-08-04",
+    "online": true,
+    "twitter": "@worldfestivalhq",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/"
+  },
+  {
     "name": "Kansas City Developer Conference",
     "url": "https://www.kcdc.info",
     "startDate": "2022-08-08",
@@ -625,6 +634,17 @@
     "cfpEndDate": "2022-05-09",
     "twitter": "@Herbstcampus",
     "cocUrl": "https://www.herbstcampus.de/code_of_conduct.php"
+  },
+  {
+    "name": "DeveloperWeek Cloud",
+    "url": "https://www.developerweek.com/global/conference/cloud",
+    "startDate": "2022-09-07",
+    "endDate": "2022-09-14",
+    "city": "Austin, TX",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@DeveloperWeek",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/"
   },
   {
     "name": "REFACTR.TECH",
@@ -943,25 +963,5 @@
     "cfpUrl": "https://www.ittage.informatik-aktuell.de/call-for-papers.html",
     "cfpEndDate": "2022-05-03",
     "twitter": "@InformatikAktue"
-  },
-  {
-    "name": "DeveloperWeek Cloud",
-    "startDate": "2022-09-07",
-    "endDate": "2022-09-14",
-    "city": "Austin, TX",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@DeveloperWeek",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "url": "https://www.developerweek.com/global/conference/cloud"
-  },
-  {
-    "name": "MobileWeek",
-    "startDate": "2022-08-03",
-    "endDate": "2022-08-04",
-    "online": true,
-    "twitter": "@worldfestivalhq",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "url": "https://mobileweek.co"
   }
 ]
