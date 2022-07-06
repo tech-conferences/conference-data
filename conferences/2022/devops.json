@@ -816,6 +816,18 @@
     "cocUrl": "https://nullcon.net/about-conferencepolicy/"
   },
   {
+    "name": "Unscripted",
+    "url": "https://www.unscriptedconf.io",
+    "startDate": "2022-09-14",
+    "endDate": "2022-09-14",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/unscripted-2022/#",
+    "cfpEndDate": "2022-07-15",
+    "twitter": "@UnscriptedConf"
+  },
+  {
     "name": "Infobip Shift",
     "url": "https://shift.infobip.com",
     "startDate": "2022-09-19",
@@ -1078,6 +1090,19 @@
     "cocUrl": "https://www.continuouslifecycle.de/code_of_conduct.php"
   },
   {
+    "name": "DevOpsDays Bengaluru",
+    "url": "https://devopsdaysindia.org",
+    "startDate": "2022-11-18",
+    "endDate": "2022-11-19",
+    "city": "Bengaluru",
+    "country": "India",
+    "online": false,
+    "cfpUrl": "https://forms.gle/LmCGgZse3Lp4XNgz9",
+    "cfpEndDate": "2022-08-07",
+    "twitter": "@DevOpsDaysIN",
+    "cocUrl": "https://devopsdaysindia.org/cod/"
+  },
+  {
     "name": "Agile Testing Days",
     "url": "https://agiletestingdays.com",
     "startDate": "2022-11-21",
@@ -1089,6 +1114,14 @@
     "cfpEndDate": "2022-03-20",
     "twitter": "@AgileTD",
     "cocUrl": "https://agiletestingdays.com/code-of-conduct/"
+  },
+  {
+    "name": "DevOpsCon Singapore",
+    "url": "https://devopscon.io/singapore",
+    "startDate": "2022-11-21",
+    "endDate": "2022-11-24",
+    "online": true,
+    "twitter": "@devops_con"
   },
   {
     "name": "Conf42 DevSecOps",
@@ -1132,5 +1165,18 @@
     "cfpEndDate": "2022-08-31",
     "twitter": "@devopsdaystlv",
     "cocUrl": "https://tlvcommunity.dev/code-of-conduct.html"
+  },
+  {
+    "name": "DevOps Enterprise Summit",
+    "startDate": "2022-10-18",
+    "endDate": "2022-10-20",
+    "city": "Las Vegas, NV",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/devops-enterprise-summit-virtual-US",
+    "cfpEndDate": "2022-07-07",
+    "twitter": "@ITRevDOES",
+    "cocUrl": "https://itrevolution.com/privacy-policy/?_ga=2.174781995.86558463.1656339916-788038858.1652717119",
+    "url": "https://events.itrevolution.com/lasvegas"
   }
 ]

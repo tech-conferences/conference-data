@@ -382,6 +382,17 @@
     "cocUrl": "https://github.com/aiven/uptime-conference-2022/blob/main/code-of-conduct.md"
   },
   {
+    "name": "LeanIX Connect Summit Europe",
+    "url": "https://www.leanix-connect.com/europe",
+    "startDate": "2022-09-20",
+    "endDate": "2022-09-21",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@leanix_net",
+    "cocUrl": "https://www.leanix-connect.com/code-of-conduct"
+  },
+  {
     "name": "data2day",
     "url": "https://www.data2day.de",
     "startDate": "2022-09-20",
@@ -515,5 +526,13 @@
     "online": false,
     "twitter": "@EurasiaStartup",
     "url": "https://startup-eurasia.com"
+  },
+  {
+    "name": "ODSC APAC Virtual Conference",
+    "startDate": "2022-09-07",
+    "endDate": "2022-09-08",
+    "online": true,
+    "twitter": "@ODSC",
+    "url": "https://odsc.com/apac"
   }
 ]

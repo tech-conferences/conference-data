@@ -1,5 +1,18 @@
 [
   {
+    "name": "ConFoo",
+    "url": "https://confoo.ca/en/2023",
+    "startDate": "2023-02-22",
+    "endDate": "2023-02-24",
+    "city": "Montreal",
+    "country": "Canada",
+    "online": false,
+    "cfpUrl": "https://confoo.ca/en/2023/call-for-papers",
+    "cfpEndDate": "2022-10-06",
+    "twitter": "@confooca",
+    "cocUrl": "https://confoo.ca/en/code-of-conduct"
+  },
+  {
     "name": "AgileTD Open Air",
     "url": "https://openair.agiletestingdays.com",
     "startDate": "2023-06-13",
@@ -10,5 +23,18 @@
     "cfpUrl": "https://cfp.trendig.com/AgileTD_OpenAir_2023",
     "cfpEndDate": "2022-08-31",
     "twitter": "@AgileTDOpenAir"
+  },
+  {
+    "name": "EuroSTAR Conference",
+    "url": "https://conference.eurostarsoftwaretesting.com",
+    "startDate": "2023-06-13",
+    "endDate": "2023-06-16",
+    "city": "Antwerp",
+    "country": "Belgium",
+    "online": false,
+    "cfpUrl": "https://conference.eurostarsoftwaretesting.com/call-for-submissions",
+    "cfpEndDate": "2022-09-09",
+    "twitter": "@esconfs",
+    "cocUrl": "https://conference.eurostarsoftwaretesting.com/anti-harassment-policy/"
   }
 ]
