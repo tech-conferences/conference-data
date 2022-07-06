@@ -179,5 +179,18 @@
     "cfpEndDate": "2022-03-20",
     "twitter": "@AgileTD",
     "cocUrl": "https://agiletestingdays.com/code-of-conduct/"
+  },
+  {
+    "name": "SymfonyCon Disneyland Paris",
+    "startDate": "2022-11-17",
+    "endDate": "2022-11-18",
+    "city": "Paris",
+    "country": "France",
+    "online": false,
+    "cfpUrl": "https://live.symfony.com/2022-paris-con/cfp",
+    "cfpEndDate": "2022-08-29",
+    "twitter": "@SymfonyCon",
+    "cocUrl": "https://symfony.com/doc/current/contributing/code_of_conduct/care_team.html",
+    "url": "https://live.symfony.com/2022-paris-con"
   }
 ]
