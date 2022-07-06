@@ -948,11 +948,20 @@
     "name": "DeveloperWeek Cloud",
     "startDate": "2022-09-07",
     "endDate": "2022-09-14",
-    "city": "Austin, Tx 78704",
+    "city": "Austin, TX",
     "country": "U.S.A.",
     "online": true,
     "twitter": "@DeveloperWeek",
     "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
     "url": "https://www.developerweek.com/global/conference/cloud"
+  },
+  {
+    "name": "MobileWeek",
+    "startDate": "2022-08-03",
+    "endDate": "2022-08-04",
+    "online": true,
+    "twitter": "@worldfestivalhq",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
+    "url": "https://mobileweek.co"
   }
 ]

@@ -1,17 +1,5 @@
 [
   {
-    "name": "AgileTD Open Air",
-    "url": "https://openair.agiletestingdays.com",
-    "startDate": "2023-06-13",
-    "endDate": "2023-06-15",
-    "city": "Cologne",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://cfp.trendig.com/AgileTD_OpenAir_2023",
-    "cfpEndDate": "2022-08-31",
-    "twitter": "@AgileTDOpenAir"
-  },
-  {
     "name": "ConFoo",
     "startDate": "2023-02-22",
     "endDate": "2023-02-24",
@@ -23,5 +11,16 @@
     "twitter": "@confooca",
     "cocUrl": "https://confoo.ca/en/code-of-conduct",
     "url": "https://confoo.ca/en/2023"
+  },
+  {
+    "name": "JSDayIE",
+    "startDate": "2023-09-26",
+    "endDate": "2023-09-26",
+    "online": true,
+    "cfpUrl": "https://www.jsday.ie/call-for-proposals",
+    "cfpEndDate": "2023-02-28",
+    "twitter": "@jsdayie",
+    "cocUrl": "https://www.jsday.ie/code-of-conduct",
+    "url": "https://www.jsday.ie"
   }
 ]
