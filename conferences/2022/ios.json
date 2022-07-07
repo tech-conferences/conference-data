@@ -87,6 +87,14 @@
     "cocUrl": "https://appdevcon.nl/code-of-conduct/"
   },
   {
+    "name": "Women Who Code Mobile Summit",
+    "url": "https://hopin.com/events/women-who-code-mobile-summit/registration",
+    "startDate": "2022-07-27",
+    "endDate": "2022-07-27",
+    "online": true,
+    "twitter": "@WWCodeMobile"
+  },
+  {
     "name": "SwiftConf",
     "url": "https://swiftconf.com",
     "startDate": "2022-08-17",
@@ -152,13 +160,5 @@
     "cfpUrl": "https://sessionize.com/swiftleeds",
     "cfpEndDate": "2022-04-30",
     "twitter": "@swift_leeds"
-  },
-  {
-    "name": "Women Who Code Mobile Summit",
-    "startDate": "2022-07-27",
-    "endDate": "2022-07-27",
-    "online": true,
-    "twitter": "@WWCodeMobile",
-    "url": "https://hopin.com/events/women-who-code-mobile-summit/registration"
   }
 ]

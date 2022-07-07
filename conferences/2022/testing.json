@@ -255,6 +255,15 @@
     "cocUrl": "https://conference.unicomseminars.org/agile-devops-software-testing-conference/apac-july/#code"
   },
   {
+    "name": "Testμ",
+    "url": "https://www.lambdatest.com/testuconf-2022",
+    "startDate": "2022-07-23",
+    "endDate": "2022-07-25",
+    "online": true,
+    "twitter": "@lambdatesting",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Selenium Conf",
     "url": "https://2022.seleniumconf.in",
     "startDate": "2022-07-29",
@@ -440,14 +449,5 @@
     "online": true,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "Testμ",
-    "startDate": "2022-07-23",
-    "endDate": "2022-07-25",
-    "online": true,
-    "twitter": "@lambdatesting",
-    "offersSignLanguageOrCC": true,
-    "url": "https://www.lambdatest.com/testuconf-2022"
   }
 ]
