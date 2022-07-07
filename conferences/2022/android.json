@@ -114,6 +114,14 @@
     "cocUrl": "https://www.berlin.droidcon.com/code-of-conduct"
   },
   {
+    "name": "Women Who Code Mobile Summit",
+    "url": "https://hopin.com/events/women-who-code-mobile-summit/registration",
+    "startDate": "2022-07-27",
+    "endDate": "2022-07-27",
+    "online": true,
+    "twitter": "@WWCodeMobile"
+  },
+  {
     "name": "Droidcon New York",
     "url": "https://www.nyc.droidcon.com",
     "startDate": "2022-09-01",
@@ -155,13 +163,5 @@
     "country": "Bulgaria",
     "online": false,
     "twitter": "@EurasiaStartup"
-  },
-  {
-    "name": "Women Who Code Mobile Summit",
-    "startDate": "2022-07-27",
-    "endDate": "2022-07-27",
-    "online": true,
-    "twitter": "@WWCodeMobile",
-    "url": "https://hopin.com/events/women-who-code-mobile-summit/registration"
   }
 ]
