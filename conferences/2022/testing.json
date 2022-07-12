@@ -246,6 +246,15 @@
     "cocUrl": "https://2022.jcon.one/code-of-conduct"
   },
   {
+    "name": "Selenium Conf Lite",
+    "url": "https://2022.seleniumconf.in/seconf-lite.html",
+    "startDate": "2022-07-14",
+    "endDate": "2022-07-14",
+    "online": true,
+    "twitter": "@seleniumconf",
+    "cocUrl": "https://2022.seleniumconf.in/code-of-conduct.html"
+  },
+  {
     "name": "Agile, DevOps & Testing: People, Process and Technology",
     "url": "https://conference.unicom.co.uk/agile-devops-software-testing-conference/apac-july",
     "startDate": "2022-07-20",
@@ -350,6 +359,18 @@
     "cocUrl": "https://automation.eurostarsoftwaretesting.com/code-of-conduct/"
   },
   {
+    "name": "QA Global Summit",
+    "url": "https://events.geekle.us/qa22",
+    "startDate": "2022-10-18",
+    "endDate": "2022-10-19",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSemM0xLLOL--WU5Ix9yRjpWwN-xbyHaaio21fLWAsZVb2PxeQ/viewform",
+    "cfpEndDate": "2022-10-01",
+    "twitter": "@GeekleOfficial",
+    "cocUrl": "https://geekle.us/code-of-conduct",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "JCON",
     "url": "https://jcon.one",
     "startDate": "2022-10-18",
@@ -449,26 +470,5 @@
     "online": true,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "QA Global Summit",
-    "startDate": "2022-10-18",
-    "endDate": "2022-10-19",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSemM0xLLOL--WU5Ix9yRjpWwN-xbyHaaio21fLWAsZVb2PxeQ/viewform",
-    "cfpEndDate": "2022-10-01",
-    "twitter": "@GeekleOfficial",
-    "cocUrl": "https://geekle.us/code-of-conduct",
-    "offersSignLanguageOrCC": true,
-    "url": "https://events.geekle.us/qa22"
-  },
-  {
-    "name": "Selenium Conf Lite",
-    "startDate": "2022-07-14",
-    "endDate": "2022-07-14",
-    "online": true,
-    "twitter": "@seleniumconf",
-    "cocUrl": "https://2022.seleniumconf.in/code-of-conduct.html",
-    "url": "https://2022.seleniumconf.in/seconf-lite.html"
   }
 ]

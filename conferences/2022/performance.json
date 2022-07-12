@@ -104,6 +104,15 @@
     "cocUrl": "https://2022.jcon.one/code-of-conduct"
   },
   {
+    "name": "Agile India",
+    "url": "https://2022.agileindia.org",
+    "startDate": "2022-09-22",
+    "endDate": "2022-09-24",
+    "online": true,
+    "twitter": "@agileindia",
+    "cocUrl": "https://2022.agileindia.org/agile-india-values/"
+  },
+  {
     "name": "Conf42 Incident Management",
     "url": "https://www.conf42.com/im2022",
     "startDate": "2022-09-29",
@@ -217,14 +226,5 @@
     "cfpEndDate": "2022-03-20",
     "twitter": "@AgileTD",
     "cocUrl": "https://agiletestingdays.com/code-of-conduct/"
-  },
-  {
-    "name": "Agile India",
-    "startDate": "2022-09-22",
-    "endDate": "2022-09-24",
-    "online": true,
-    "twitter": "@agileindia",
-    "cocUrl": "https://2022.agileindia.org/agile-india-values/",
-    "url": "https://2022.agileindia.org"
   }
 ]

@@ -885,6 +885,15 @@
     "cocUrl": "https://devopsdays.org/events/2022-cairo/conduct"
   },
   {
+    "name": "Agile India",
+    "url": "https://2022.agileindia.org",
+    "startDate": "2022-09-22",
+    "endDate": "2022-09-24",
+    "online": true,
+    "twitter": "@agileindia",
+    "cocUrl": "https://2022.agileindia.org/agile-india-values/"
+  },
+  {
     "name": "DevOpsCon New York",
     "url": "https://devopscon.io/new-york",
     "startDate": "2022-09-26",
@@ -929,6 +938,18 @@
     "online": false,
     "twitter": "@GOTOcon",
     "cocUrl": "https://gotocph.com/2022/code-of-conduct"
+  },
+  {
+    "name": "DevOps Global Summit",
+    "url": "https://events.geekle.us/devops",
+    "startDate": "2022-10-04",
+    "endDate": "2022-10-05",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdxPSKwh1bdLLClGCfvfz4FkfCVfTy7ANflVKLy4tAz-N2zRA/viewform",
+    "cfpEndDate": "2022-09-20",
+    "twitter": "@GeekleOfficial",
+    "cocUrl": "https://geekle.us/code-of-conduct",
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "Infoshare",
@@ -1178,26 +1199,5 @@
     "cfpEndDate": "2022-08-31",
     "twitter": "@devopsdaystlv",
     "cocUrl": "https://tlvcommunity.dev/code-of-conduct.html"
-  },
-  {
-    "name": "DevOps Global Summit",
-    "startDate": "2022-10-04",
-    "endDate": "2022-10-05",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdxPSKwh1bdLLClGCfvfz4FkfCVfTy7ANflVKLy4tAz-N2zRA/viewform",
-    "cfpEndDate": "2022-09-20",
-    "twitter": "@GeekleOfficial",
-    "cocUrl": "https://geekle.us/code-of-conduct",
-    "offersSignLanguageOrCC": true,
-    "url": "https://events.geekle.us/devops"
-  },
-  {
-    "name": "Agile India",
-    "startDate": "2022-09-22",
-    "endDate": "2022-09-24",
-    "online": true,
-    "twitter": "@agileindia",
-    "cocUrl": "https://2022.agileindia.org/agile-india-values/",
-    "url": "https://2022.agileindia.org"
   }
 ]

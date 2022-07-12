@@ -143,6 +143,18 @@
     "cocUrl": "https://www.europython-society.org/coc/"
   },
   {
+    "name": "PyGeekle",
+    "url": "https://events.geekle.us/python",
+    "startDate": "2022-09-06",
+    "endDate": "2022-09-07",
+    "online": true,
+    "cfpUrl": "https://forms.gle/tRxZeSmsuee4v6ux8",
+    "cfpEndDate": "2022-08-24",
+    "twitter": "@GeekleOfficial",
+    "cocUrl": "https://geekle.us/code-of-conduct",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Swiss Python Summit",
     "url": "https://www.python-summit.ch",
     "startDate": "2022-09-22",
@@ -211,17 +223,5 @@
     "cfpEndDate": "2022-08-31",
     "twitter": "@xtremepython",
     "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "PyGeekle",
-    "startDate": "2022-09-06",
-    "endDate": "2022-09-07",
-    "online": true,
-    "cfpUrl": "https://forms.gle/tRxZeSmsuee4v6ux8",
-    "cfpEndDate": "2022-08-24",
-    "twitter": "@GeekleOfficial",
-    "cocUrl": "https://geekle.us/code-of-conduct",
-    "offersSignLanguageOrCC": true,
-    "url": "https://events.geekle.us/python"
   }
 ]
