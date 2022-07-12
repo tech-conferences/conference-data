@@ -362,6 +362,17 @@
     "cocUrl": "https://databricks.com/dataaisummit/north-america-2022/code-of-conduct"
   },
   {
+    "name": "Ai4",
+    "url": "http://ai4.io/usa",
+    "startDate": "2022-08-16",
+    "endDate": "2022-08-18",
+    "city": "Las Vegas, NV",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@Ai4Conferences",
+    "cocUrl": "https://ai4.io/usa/health-and-safety/"
+  },
+  {
     "name": "ODSC APAC Virtual Conference",
     "url": "https://odsc.com/apac",
     "startDate": "2022-09-07",
@@ -388,6 +399,15 @@
     "cfpUrl": "https://sessionize.com/uptime-conference-2022/",
     "cfpEndDate": "2022-03-09",
     "cocUrl": "https://github.com/aiven/uptime-conference-2022/blob/main/code-of-conduct.md"
+  },
+  {
+    "name": "NVIDIA GTC",
+    "url": "https://www.nvidia.com/gtc",
+    "startDate": "2022-09-19",
+    "endDate": "2022-09-22",
+    "online": true,
+    "twitter": "@nvidiagtc",
+    "cocUrl": "https://www.nvidia.com/gtc/code-of-conduct/"
   },
   {
     "name": "LeanIX Connect Summit Europe",
@@ -537,6 +557,7 @@
   },
   {
     "name": "Data Science Global Summit",
+    "url": "https://events.geekle.us/data-science2",
     "startDate": "2022-11-22",
     "endDate": "2022-11-24",
     "online": true,
@@ -544,38 +565,17 @@
     "cfpEndDate": "2022-11-08",
     "twitter": "@DataScienceGlob",
     "cocUrl": "https://geekle.us/code-of-conduct",
-    "offersSignLanguageOrCC": true,
-    "url": "https://events.geekle.us/data-science2"
-  },
-  {
-    "name": "NVIDIA GTC",
-    "startDate": "2022-09-19",
-    "endDate": "2022-09-22",
-    "online": true,
-    "twitter": "@nvidiagtc",
-    "cocUrl": "https://www.nvidia.com/gtc/code-of-conduct/",
-    "url": "https://www.nvidia.com/gtc"
-  },
-  {
-    "name": "Ai4",
-    "startDate": "2022-08-16",
-    "endDate": "2022-08-18",
-    "city": "Las Vegas, NV",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@Ai4Conferences",
-    "cocUrl": "https://ai4.io/usa/health-and-safety/",
-    "url": "http://ai4.io/usa"
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "Big Data Conference Europe",
+    "url": "https://bigdataconference.eu",
     "startDate": "2022-11-23",
     "endDate": "2022-11-24",
     "online": true,
-    "twitter": "@BigDataConfEU",
-    "cocUrl": "https://bigdataconference.eu/code-of-conduct/",
-    "url": "https://bigdataconference.eu",
     "cfpUrl": "https://bigdataconference.eu/call-for-track-hosts/",
-    "cfpEndDate": "2022-11-03"
+    "cfpEndDate": "2022-11-03",
+    "twitter": "@BigDataConfEU",
+    "cocUrl": "https://bigdataconference.eu/code-of-conduct/"
   }
 ]

@@ -311,6 +311,15 @@
     "cocUrl": "https://shift.infobip.com/code/"
   },
   {
+    "name": "Agile India",
+    "url": "https://2022.agileindia.org",
+    "startDate": "2022-09-22",
+    "endDate": "2022-09-24",
+    "online": true,
+    "twitter": "@agileindia",
+    "cocUrl": "https://2022.agileindia.org/agile-india-values/"
+  },
+  {
     "name": "Design Matters",
     "url": "https://designmatters.io",
     "startDate": "2022-09-28",
@@ -377,14 +386,5 @@
     "online": true,
     "twitter": "@SthlmXperience",
     "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "Agile India",
-    "startDate": "2022-09-22",
-    "endDate": "2022-09-24",
-    "online": true,
-    "twitter": "@agileindia",
-    "cocUrl": "https://2022.agileindia.org/agile-india-values/",
-    "url": "https://2022.agileindia.org"
   }
 ]
