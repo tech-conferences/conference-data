@@ -28,8 +28,10 @@ jobs:
         uses: actions/setup-node@v1
       - name: Install dependencies
         run: npm install
-      - name: Update source code
+      - name: Reorder conferences
         run: npm run reorder-confs
+      - name: Reorder valid locations
+        run: npm run updateValidLocations
       - name: Commit changes
         uses: EndBug/add-and-commit@v7
         with:
@@ -37,7 +39,7 @@ jobs:
           author_email: cgrail@users.noreply.github.com
           message: 'Reorder conferences'
           branch: reorder
-          add: '*.json'
+          add: "['*.json', 'config/validLocations.js']"
       - name: Create pull request
         uses: thomaseizinger/create-pull-request@master
         with:
