@@ -568,12 +568,14 @@
     "url": "http://ai4.io/usa"
   },
   {
-    "name": "BIG DATA CONFERENCE EUROPE",
+    "name": "Big Data Conference Europe",
     "startDate": "2022-11-23",
     "endDate": "2022-11-24",
     "online": true,
     "twitter": "@BigDataConfEU",
     "cocUrl": "https://bigdataconference.eu/code-of-conduct/",
-    "url": "https://bigdataconference.eu"
+    "url": "https://bigdataconference.eu",
+    "cfpUrl": "https://bigdataconference.eu/call-for-track-hosts/",
+    "cfpEndDate": "2022-11-03",
   }
 ]
