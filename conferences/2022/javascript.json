@@ -899,6 +899,19 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Codeurs en Seine",
+    "url": "https://www.codeursenseine.com/2022",
+    "startDate": "2022-11-17",
+    "endDate": "2022-11-17",
+    "city": "Rouen",
+    "country": "France",
+    "online": false,
+    "cfpUrl": "https://conference-hall.io/public/event/Uv6XULhgmt7z2YuoJ8nq",
+    "cfpEndDate": "2022-09-16",
+    "twitter": "@codeursenseine",
+    "cocUrl": "https://www.codeursenseine.com/2022/code-of-conduct"
+  },
+  {
     "name": "Conf42 JavaScript",
     "url": "https://www.conf42.com/js2022",
     "startDate": "2022-11-17",
@@ -919,18 +932,5 @@
     "cfpEndDate": "2022-08-31",
     "twitter": "@xtremejsconf",
     "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "Codeurs en Seine",
-    "startDate": "2022-11-17",
-    "endDate": "2022-11-17",
-    "city": "Rouen",
-    "country": "France",
-    "online": false,
-    "cfpUrl": "https://conference-hall.io/public/event/Uv6XULhgmt7z2YuoJ8nq",
-    "cfpEndDate": "2022-09-16",
-    "twitter": "@codeursenseine",
-    "cocUrl": "https://www.codeursenseine.com/2022/code-of-conduct",
-    "url": "https://www.codeursenseine.com/2022"
   }
 ]

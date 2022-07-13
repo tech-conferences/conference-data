@@ -179,6 +179,19 @@
     "cocUrl": "https://phpconference.com/code-of-conduct/"
   },
   {
+    "name": "Codeurs en Seine",
+    "url": "https://www.codeursenseine.com/2022",
+    "startDate": "2022-11-17",
+    "endDate": "2022-11-17",
+    "city": "Rouen",
+    "country": "France",
+    "online": false,
+    "cfpUrl": "https://conference-hall.io/public/event/Uv6XULhgmt7z2YuoJ8nq",
+    "cfpEndDate": "2022-09-16",
+    "twitter": "@codeursenseine",
+    "cocUrl": "https://www.codeursenseine.com/2022/code-of-conduct"
+  },
+  {
     "name": "SymfonyCon Disneyland Paris",
     "url": "https://live.symfony.com/2022-paris-con",
     "startDate": "2022-11-17",
@@ -203,18 +216,5 @@
     "cfpEndDate": "2022-03-20",
     "twitter": "@AgileTD",
     "cocUrl": "https://agiletestingdays.com/code-of-conduct/"
-  },
-  {
-    "name": "Codeurs en Seine",
-    "startDate": "2022-11-17",
-    "endDate": "2022-11-17",
-    "city": "Rouen",
-    "country": "France",
-    "online": false,
-    "cfpUrl": "https://conference-hall.io/public/event/Uv6XULhgmt7z2YuoJ8nq",
-    "cfpEndDate": "2022-09-16",
-    "twitter": "@codeursenseine",
-    "cocUrl": "https://www.codeursenseine.com/2022/code-of-conduct",
-    "url": "https://www.codeursenseine.com/2022"
   }
 ]

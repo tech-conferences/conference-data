@@ -409,6 +409,16 @@
     "cocUrl": "https://www.leanix-connect.com/code-of-conduct"
   },
   {
+    "name": "Grace Hopper Celebration",
+    "url": "https://ghc.anitab.org",
+    "startDate": "2022-09-20",
+    "endDate": "2022-09-23",
+    "city": "Orlando, FL",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@AnitaB_Org"
+  },
+  {
     "name": "YOW! London",
     "url": "https://skillsmatter.com/conferences/13690-yow-london",
     "startDate": "2022-09-22",
@@ -494,15 +504,5 @@
     "country": "Canada",
     "online": false,
     "twitter": "@weavesphere"
-  },
-  {
-    "name": "Grace Hopper Celebration",
-    "startDate": "2022-09-20",
-    "endDate": "2022-09-23",
-    "city": "Orlando, FL",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@AnitaB_Org",
-    "url": "https://ghc.anitab.org"
   }
 ]
