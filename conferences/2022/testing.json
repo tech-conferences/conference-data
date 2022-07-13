@@ -470,5 +470,18 @@
     "online": true,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
+  },
+  {
+    "name": "SREday",
+    "startDate": "2022-09-15",
+    "endDate": "2022-09-16",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "cfpUrl": "https://www.papercall.io/sreday-2022",
+    "cfpEndDate": "2022-08-01",
+    "twitter": "@conf42com",
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
+    "url": "https://www.sreday.com"
   }
 ]
