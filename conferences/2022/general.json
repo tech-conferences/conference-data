@@ -698,6 +698,16 @@
     "cocUrl": "https://shift.infobip.com/code/"
   },
   {
+    "name": "Grace Hopper Celebration",
+    "url": "https://ghc.anitab.org",
+    "startDate": "2022-09-20",
+    "endDate": "2022-09-23",
+    "city": "Orlando, FL",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@AnitaB_Org"
+  },
+  {
     "name": "JCON-ONLINE",
     "url": "https://jcon.one",
     "startDate": "2022-09-20",
@@ -979,6 +989,19 @@
     "cocUrl": "https://conferences.isaqb.org/software-architecture-gathering/code-of-conduct/"
   },
   {
+    "name": "Codeurs en Seine",
+    "url": "https://www.codeursenseine.com/2022",
+    "startDate": "2022-11-17",
+    "endDate": "2022-11-17",
+    "city": "Rouen",
+    "country": "France",
+    "online": false,
+    "cfpUrl": "https://conference-hall.io/public/event/Uv6XULhgmt7z2YuoJ8nq",
+    "cfpEndDate": "2022-09-16",
+    "twitter": "@codeursenseine",
+    "cocUrl": "https://www.codeursenseine.com/2022/code-of-conduct"
+  },
+  {
     "name": "Devfest Strasbourg",
     "url": "https://devfest.gdgstrasbourg.fr",
     "startDate": "2022-11-18",
@@ -1009,28 +1032,5 @@
     "cfpUrl": "https://www.ittage.informatik-aktuell.de/call-for-papers.html",
     "cfpEndDate": "2022-05-03",
     "twitter": "@InformatikAktue"
-  },
-  {
-    "name": "Codeurs en Seine",
-    "startDate": "2022-11-17",
-    "endDate": "2022-11-17",
-    "city": "Rouen",
-    "country": "France",
-    "online": false,
-    "cfpUrl": "https://conference-hall.io/public/event/Uv6XULhgmt7z2YuoJ8nq",
-    "cfpEndDate": "2022-09-16",
-    "twitter": "@codeursenseine",
-    "cocUrl": "https://www.codeursenseine.com/2022/code-of-conduct",
-    "url": "https://www.codeursenseine.com/2022"
-  },
-  {
-    "name": "Grace Hopper Celebration",
-    "startDate": "2022-09-20",
-    "endDate": "2022-09-23",
-    "city": "Orlando, FL",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@AnitaB_Org",
-    "url": "https://ghc.anitab.org"
   }
 ]
