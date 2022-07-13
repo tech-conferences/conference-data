@@ -494,5 +494,15 @@
     "country": "Canada",
     "online": false,
     "twitter": "@weavesphere"
+  },
+  {
+    "name": "Grace Hopper Celebration",
+    "startDate": "2022-09-20",
+    "endDate": "2022-09-23",
+    "city": "Orlando, FL",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@AnitaB_Org",
+    "url": "https://ghc.anitab.org"
   }
 ]
