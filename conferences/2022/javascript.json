@@ -954,5 +954,18 @@
     "twitter": "@midudev",
     "cocUrl": "https://miduconf.com/codigo-de-conducta",
     "url": "https://miduconf.com"
+  },
+  {
+    "name": "Svelte Summit",
+    "startDate": "2022-09-08",
+    "endDate": "2022-09-09",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/svelte-summit-fall-2022",
+    "cfpEndDate": "2022-06-23",
+    "twitter": "@sveltesociety",
+    "cocUrl": "https://github.com/sveltejs/community/blob/main/CODE_OF_CONDUCT.md",
+    "url": "https://www.sveltesummit.com"
   }
 ]
