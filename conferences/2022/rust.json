@@ -13,7 +13,7 @@
     "cocUrl": "https://www.typeville.io/"
   },
   {
-    "name": "Rust Summit: Das große Trainingsevent für alle Rust-Beginner & Rust-Enthusiasten",
+    "name": "Rust Summit",
     "url": "https://entwickler.de/rust-summit",
     "startDate": "2022-05-19",
     "endDate": "2022-05-20",
@@ -56,5 +56,16 @@
     "cfpEndDate": "2022-08-28",
     "twitter": "@euro_rust",
     "cocUrl": "https://eurorust.eu/code-of-conduct/"
+  },
+  {
+    "name": "RustConf",
+    "startDate": "2022-08-05",
+    "endDate": "2022-08-05",
+    "city": "Portland, OR",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@rustconf",
+    "cocUrl": "https://rustconf.com/about#code-of-conduct",
+    "url": "https://rustconf.com"
   }
 ]
