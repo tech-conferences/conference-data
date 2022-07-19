@@ -967,5 +967,31 @@
     "twitter": "@sveltesociety",
     "cocUrl": "https://github.com/sveltejs/community/blob/main/CODE_OF_CONDUCT.md",
     "url": "https://www.sveltesummit.com"
+  },
+  {
+    "name": "vueday",
+    "startDate": "2022-11-18",
+    "endDate": "2022-11-18",
+    "city": "Verona",
+    "country": "Italy",
+    "online": true,
+    "cfpUrl": "https://2022.vueday.it/welcome/cfp.html",
+    "cfpEndDate": "2022-08-21",
+    "twitter": "@vuedayit",
+    "cocUrl": "https://2022.vueday.it/welcome/coc.html",
+    "url": "https://2022.vueday.it"
+  },
+  {
+    "name": "reactjsday",
+    "startDate": "2022-10-21",
+    "endDate": "2022-10-21",
+    "city": "Verona",
+    "country": "Italy",
+    "online": true,
+    "cfpUrl": "https://2022.reactjsday.it/welcome/cfp.html",
+    "cfpEndDate": "2022-07-24",
+    "twitter": "@reactjsday",
+    "cocUrl": "https://2022.reactjsday.it/welcome/coc.html",
+    "url": "https://2022.reactjsday.it"
   }
 ]
