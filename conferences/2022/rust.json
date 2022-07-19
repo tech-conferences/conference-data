@@ -34,6 +34,17 @@
     "cocUrl": "https://www.conf42.com/code-of-conduct"
   },
   {
+    "name": "RustLab",
+    "url": "https://rustlab.it",
+    "startDate": "2022-10-02",
+    "endDate": "2022-10-04",
+    "city": "Florence",
+    "country": "Italy",
+    "online": true,
+    "twitter": "@rustlab_conf",
+    "cocUrl": "https://rustlab.it/code-of-conduct/"
+  },
+  {
     "name": "EuroRust",
     "url": "https://eurorust.eu",
     "startDate": "2022-10-13",
@@ -45,16 +56,5 @@
     "cfpEndDate": "2022-08-28",
     "twitter": "@euro_rust",
     "cocUrl": "https://eurorust.eu/code-of-conduct/"
-  },
-  {
-    "name": "RustLab",
-    "startDate": "2022-10-02",
-    "endDate": "2022-10-04",
-    "city": "Florence",
-    "country": "Italy",
-    "online": true,
-    "twitter": "@rustlab_conf",
-    "cocUrl": "https://rustlab.it/code-of-conduct/",
-    "url": "https://rustlab.it"
   }
 ]
