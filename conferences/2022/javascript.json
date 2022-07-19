@@ -655,6 +655,19 @@
     "cocUrl": "https://www.herbstcampus.de/code_of_conduct.php"
   },
   {
+    "name": "Svelte Summit",
+    "url": "https://www.sveltesummit.com",
+    "startDate": "2022-09-08",
+    "endDate": "2022-09-09",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/svelte-summit-fall-2022",
+    "cfpEndDate": "2022-06-23",
+    "twitter": "@sveltesociety",
+    "cocUrl": "https://github.com/sveltejs/community/blob/main/CODE_OF_CONDUCT.md"
+  },
+  {
     "name": "React Finland",
     "url": "https://react-finland.fi/",
     "startDate": "2022-09-12",
@@ -664,6 +677,17 @@
     "online": false,
     "twitter": "@ReactFinland",
     "cocUrl": "https://berlincodeofconduct.org/"
+  },
+  {
+    "name": "MiduConf",
+    "url": "https://miduconf.com",
+    "startDate": "2022-09-13",
+    "endDate": "2022-09-13",
+    "online": true,
+    "cfpUrl": "https://forms.gle/1Jtfi7Fh4iee7Qv29",
+    "cfpEndDate": "2022-08-15",
+    "twitter": "@midudev",
+    "cocUrl": "https://miduconf.com/codigo-de-conducta"
   },
   {
     "name": "JSConf Korea",
@@ -712,6 +736,17 @@
     "cfpEndDate": "2022-09-01",
     "cocUrl": "https://geekle.us/code-of-conduct",
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "React Alicante",
+    "url": "https://reactalicante.es",
+    "startDate": "2022-09-29",
+    "endDate": "2022-10-01",
+    "city": "Alicante",
+    "country": "Spain",
+    "online": true,
+    "twitter": "@reactalicante",
+    "cocUrl": "https://reactalicante.es/code-of-conduct"
   },
   {
     "name": "Git Commit Show",
@@ -849,6 +884,19 @@
     "cocUrl": "https://javascript-days.de/code-of-conduct/"
   },
   {
+    "name": "reactjsday",
+    "url": "https://2022.reactjsday.it",
+    "startDate": "2022-10-21",
+    "endDate": "2022-10-21",
+    "city": "Verona",
+    "country": "Italy",
+    "online": true,
+    "cfpUrl": "https://2022.reactjsday.it/welcome/cfp.html",
+    "cfpEndDate": "2022-07-24",
+    "twitter": "@reactjsday",
+    "cocUrl": "https://2022.reactjsday.it/welcome/coc.html"
+  },
+  {
     "name": "React Advanced London",
     "url": "https://www.reactadvanced.com",
     "startDate": "2022-10-21",
@@ -923,6 +971,19 @@
     "cocUrl": "https://www.conf42.com/code-of-conduct"
   },
   {
+    "name": "vueday",
+    "url": "https://2022.vueday.it",
+    "startDate": "2022-11-18",
+    "endDate": "2022-11-18",
+    "city": "Verona",
+    "country": "Italy",
+    "online": true,
+    "cfpUrl": "https://2022.vueday.it/welcome/cfp.html",
+    "cfpEndDate": "2022-08-21",
+    "twitter": "@vuedayit",
+    "cocUrl": "https://2022.vueday.it/welcome/coc.html"
+  },
+  {
     "name": "XtremeJS Online Conference",
     "url": "https://xtremejs.dev",
     "startDate": "2022-11-29",
@@ -932,66 +993,5 @@
     "cfpEndDate": "2022-08-31",
     "twitter": "@xtremejsconf",
     "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "React Alicante",
-    "startDate": "2022-09-29",
-    "endDate": "2022-10-01",
-    "city": "Alicante",
-    "country": "Spain",
-    "online": true,
-    "twitter": "@reactalicante",
-    "cocUrl": "https://reactalicante.es/code-of-conduct",
-    "url": "https://reactalicante.es"
-  },
-  {
-    "name": "MiduConf",
-    "startDate": "2022-09-13",
-    "endDate": "2022-09-13",
-    "online": true,
-    "cfpUrl": "https://forms.gle/1Jtfi7Fh4iee7Qv29",
-    "cfpEndDate": "2022-08-15",
-    "twitter": "@midudev",
-    "cocUrl": "https://miduconf.com/codigo-de-conducta",
-    "url": "https://miduconf.com"
-  },
-  {
-    "name": "Svelte Summit",
-    "startDate": "2022-09-08",
-    "endDate": "2022-09-09",
-    "city": "Stockholm",
-    "country": "Sweden",
-    "online": false,
-    "cfpUrl": "https://sessionize.com/svelte-summit-fall-2022",
-    "cfpEndDate": "2022-06-23",
-    "twitter": "@sveltesociety",
-    "cocUrl": "https://github.com/sveltejs/community/blob/main/CODE_OF_CONDUCT.md",
-    "url": "https://www.sveltesummit.com"
-  },
-  {
-    "name": "vueday",
-    "startDate": "2022-11-18",
-    "endDate": "2022-11-18",
-    "city": "Verona",
-    "country": "Italy",
-    "online": true,
-    "cfpUrl": "https://2022.vueday.it/welcome/cfp.html",
-    "cfpEndDate": "2022-08-21",
-    "twitter": "@vuedayit",
-    "cocUrl": "https://2022.vueday.it/welcome/coc.html",
-    "url": "https://2022.vueday.it"
-  },
-  {
-    "name": "reactjsday",
-    "startDate": "2022-10-21",
-    "endDate": "2022-10-21",
-    "city": "Verona",
-    "country": "Italy",
-    "online": true,
-    "cfpUrl": "https://2022.reactjsday.it/welcome/cfp.html",
-    "cfpEndDate": "2022-07-24",
-    "twitter": "@reactjsday",
-    "cocUrl": "https://2022.reactjsday.it/welcome/coc.html",
-    "url": "https://2022.reactjsday.it"
   }
 ]

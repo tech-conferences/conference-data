@@ -151,6 +151,18 @@
     "cocUrl": "https://github.com/FrenchKit/FrenchKitCodeOfConduct/"
   },
   {
+    "name": "iOS Developers Global Summit",
+    "url": "https://events.geekle.us/ios",
+    "startDate": "2022-10-11",
+    "endDate": "2022-10-12",
+    "online": true,
+    "cfpUrl": "https://forms.gle/PpuzPRaf6mSWrW268",
+    "cfpEndDate": "2022-10-01",
+    "twitter": "@geekleofficial",
+    "cocUrl": "https://geekle.us/code-of-conduct",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "SwiftLeeds",
     "url": "https://swiftleeds.co.uk",
     "startDate": "2022-10-20",
@@ -160,17 +172,5 @@
     "cfpUrl": "https://sessionize.com/swiftleeds",
     "cfpEndDate": "2022-04-30",
     "twitter": "@swift_leeds"
-  },
-  {
-    "name": "iOS Developers Global Summit",
-    "startDate": "2022-10-11",
-    "endDate": "2022-10-12",
-    "online": true,
-    "cfpUrl": "https://forms.gle/PpuzPRaf6mSWrW268",
-    "cfpEndDate": "2022-10-01",
-    "twitter": "@geekleofficial",
-    "cocUrl": "https://geekle.us/code-of-conduct",
-    "offersSignLanguageOrCC": true,
-    "url": "https://events.geekle.us/ios"
   }
 ]
