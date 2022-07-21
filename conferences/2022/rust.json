@@ -23,6 +23,17 @@
     "twitter": "@rust_summit"
   },
   {
+    "name": "RustConf",
+    "url": "https://rustconf.com",
+    "startDate": "2022-08-05",
+    "endDate": "2022-08-05",
+    "city": "Portland, OR",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@rustconf",
+    "cocUrl": "https://rustconf.com/about#code-of-conduct"
+  },
+  {
     "name": "Conf42 Rustlang",
     "url": "https://www.conf42.com/rustlang2022",
     "startDate": "2022-09-01",
@@ -56,16 +67,5 @@
     "cfpEndDate": "2022-08-28",
     "twitter": "@euro_rust",
     "cocUrl": "https://eurorust.eu/code-of-conduct/"
-  },
-  {
-    "name": "RustConf",
-    "startDate": "2022-08-05",
-    "endDate": "2022-08-05",
-    "city": "Portland, OR",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@rustconf",
-    "cocUrl": "https://rustconf.com/about#code-of-conduct",
-    "url": "https://rustconf.com"
   }
 ]

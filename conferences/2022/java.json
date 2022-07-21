@@ -251,6 +251,19 @@
     "cocUrl": "https://www.java.no/principles#"
   },
   {
+    "name": "NodeJS One Africa",
+    "url": "https://nodejsone.com",
+    "startDate": "2022-09-07",
+    "endDate": "2022-09-09",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeyo0Du4V5FTGeR2_grPN6vkHUi_UVHBKerTmnh3tjolTUU1Q/viewform",
+    "cfpEndDate": "2022-08-01",
+    "twitter": "@nodejsone",
+    "cocUrl": "https://nodejsone.com/code-of-conduct/"
+  },
+  {
     "name": "Nullcon International Security Conference and Training Goa",
     "url": "https://nullcon.net/goa-2022",
     "startDate": "2022-09-09",
@@ -396,18 +409,5 @@
     "online": true,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "NodeJS One Africa",
-    "startDate": "2022-09-07",
-    "endDate": "2022-09-09",
-    "city": "Johannesburg",
-    "country": "South Africa",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeyo0Du4V5FTGeR2_grPN6vkHUi_UVHBKerTmnh3tjolTUU1Q/viewform",
-    "cfpEndDate": "2022-08-01",
-    "twitter": "@nodejsone",
-    "cocUrl": "https://nodejsone.com/code-of-conduct/",
-    "url": "https://nodejsone.com"
   }
 ]

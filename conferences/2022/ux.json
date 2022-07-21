@@ -353,6 +353,18 @@
     "cocUrl": "https://smashingconf.com/codeofconduct"
   },
   {
+    "name": "CWIC: The Hyperconnected Human",
+    "url": "https://www.cambridgewireless.co.uk/events/conferences/cwic",
+    "startDate": "2022-11-02",
+    "endDate": "2022-11-02",
+    "city": "Cambridge",
+    "country": "U.K.",
+    "online": true,
+    "cfpUrl": "https://www.cambridgewireless.co.uk/events/conferences/cwic/cwic-call-speakers",
+    "cfpEndDate": "2022-08-19",
+    "twitter": "@CambWireless"
+  },
+  {
     "name": "PUSH UX",
     "url": "https://push-conference.com/ux-2022",
     "startDate": "2022-11-03",
@@ -399,17 +411,5 @@
     "cfpEndDate": "2022-09-16",
     "twitter": "@codeursenseine",
     "cocUrl": "https://www.codeursenseine.com/2022/code-of-conduct"
-  },
-  {
-    "name": "CWIC: The Hyperconnected Human",
-    "startDate": "2022-11-02",
-    "endDate": "2022-11-02",
-    "city": "Cambridge",
-    "country": "U.K.",
-    "online": true,
-    "cfpUrl": "https://www.cambridgewireless.co.uk/events/conferences/cwic/cwic-call-speakers",
-    "cfpEndDate": "2022-08-19",
-    "twitter": "@CambWireless",
-    "url": "https://www.cambridgewireless.co.uk/events/conferences/cwic"
   }
 ]
