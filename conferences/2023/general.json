@@ -1,5 +1,17 @@
 [
   {
+    "name": "You Got This Broadcasting Service",
+    "url": "https://yougotthis.io/events/broadcasting-service",
+    "startDate": "2023-01-14",
+    "endDate": "2023-01-15",
+    "online": true,
+    "cfpUrl": "https://airtable.com/shruPP1zoptlV7TYt",
+    "cfpEndDate": "2022-08-31",
+    "twitter": "@YouGotThisConf",
+    "cocUrl": "https://yougotthis.io/conduct",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "THAT Conference",
     "url": "https://that.us/events/tx/2023",
     "startDate": "2023-01-16",
@@ -46,17 +58,5 @@
     "country": "U.S.A.",
     "online": false,
     "twitter": "@EP_NATES"
-  },
-  {
-    "name": "You Got This Broadcasting Service",
-    "startDate": "2023-01-14",
-    "endDate": "2023-01-15",
-    "online": true,
-    "cfpUrl": "https://airtable.com/shruPP1zoptlV7TYt",
-    "cfpEndDate": "2022-08-31",
-    "twitter": "@YouGotThisConf",
-    "cocUrl": "https://yougotthis.io/conduct",
-    "offersSignLanguageOrCC": true,
-    "url": "https://yougotthis.io/events/broadcasting-service"
   }
 ]

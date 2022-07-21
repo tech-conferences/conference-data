@@ -520,6 +520,18 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "CWIC: The Hyperconnected Human",
+    "url": "https://www.cambridgewireless.co.uk/events/conferences/cwic",
+    "startDate": "2022-11-02",
+    "endDate": "2022-11-02",
+    "city": "Cambridge",
+    "country": "U.K.",
+    "online": true,
+    "cfpUrl": "https://www.cambridgewireless.co.uk/events/conferences/cwic/cwic-call-speakers",
+    "cfpEndDate": "2022-08-19",
+    "twitter": "@CambWireless"
+  },
+  {
     "name": "Update Conference Prague",
     "url": "https://www.updateconference.net",
     "startDate": "2022-11-10",
@@ -577,17 +589,5 @@
     "cfpEndDate": "2022-11-03",
     "twitter": "@BigDataConfEU",
     "cocUrl": "https://bigdataconference.eu/code-of-conduct/"
-  },
-  {
-    "name": "CWIC: The Hyperconnected Human",
-    "startDate": "2022-11-02",
-    "endDate": "2022-11-02",
-    "city": "Cambridge",
-    "country": "U.K.",
-    "online": true,
-    "cfpUrl": "https://www.cambridgewireless.co.uk/events/conferences/cwic/cwic-call-speakers",
-    "cfpEndDate": "2022-08-19",
-    "twitter": "@CambWireless",
-    "url": "https://www.cambridgewireless.co.uk/events/conferences/cwic"
   }
 ]

@@ -674,6 +674,19 @@
     "cocUrl": "https://www.devnetwork.com/code-of-conduct/"
   },
   {
+    "name": "React Day New York",
+    "url": "https://www.reactnewyork.com",
+    "startDate": "2022-09-09",
+    "endDate": "2022-09-09",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeZGFyO9ee5-ZLvu4s3eTXx7noSjGs-2469kovhLuA1QzA1rw/viewform",
+    "cfpEndDate": "2022-08-01",
+    "twitter": "@ReactNewYork",
+    "cocUrl": "https://berlincodeofconduct.org/"
+  },
+  {
     "name": "REFACTR.TECH",
     "url": "https://www.refactr.tech",
     "startDate": "2022-09-14",
@@ -932,6 +945,16 @@
     "twitter": "@EurasiaStartup"
   },
   {
+    "name": "QCon Plus",
+    "url": "https://plus.qconferences.com",
+    "startDate": "2022-10-29",
+    "endDate": "2022-10-29",
+    "online": true,
+    "twitter": "@QCon",
+    "cocUrl": "https://qconferences.com/code-conduct",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "KanDDDinsky",
     "url": "https://kandddinsky.de",
     "startDate": "2022-10-31",
@@ -1057,28 +1080,5 @@
     "cfpUrl": "https://www.ittage.informatik-aktuell.de/call-for-papers.html",
     "cfpEndDate": "2022-05-03",
     "twitter": "@InformatikAktue"
-  },
-  {
-    "name": "React Day New York",
-    "startDate": "2022-09-09",
-    "endDate": "2022-09-09",
-    "city": "New York, NY",
-    "country": "U.S.A.",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeZGFyO9ee5-ZLvu4s3eTXx7noSjGs-2469kovhLuA1QzA1rw/viewform",
-    "cfpEndDate": "2022-08-01",
-    "twitter": "@ReactNewYork",
-    "cocUrl": "https://berlincodeofconduct.org/",
-    "url": "https://www.reactnewyork.com"
-  },
-  {
-    "name": "QCon Plus",
-    "startDate": "2022-10-29",
-    "endDate": "2022-10-29",
-    "online": true,
-    "twitter": "@QCon",
-    "cocUrl": "https://qconferences.com/code-conduct",
-    "offersSignLanguageOrCC": true,
-    "url": "https://plus.qconferences.com"
   }
 ]
