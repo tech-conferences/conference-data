@@ -15,6 +15,7 @@ module.exports = [
   "golang",
   "graphql",
   "groovy",
+  "haskell",
   "ios",
   "iot",
   "java",
