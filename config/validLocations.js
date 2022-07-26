@@ -57,7 +57,9 @@ module.exports = {
     "Maringá",
     "Porto Alegre",
     "Porto de Galinhas",
+    "Recife",
     "Ribeirão Preto",
+    "Rio De Janeiro",
     "Salvador",
     "Santa Maria",
     "São Paulo",
@@ -100,9 +102,9 @@ module.exports = {
     "Zhengzhou"
   ],
   "Colombia": [
-    "Bogota",
+    "Bogotá",
     "Duitama, Boyacá",
-    "Medellin"
+    "Medellín"
   ],
   "Croatia": [
     "Dubrovnik",
@@ -650,8 +652,8 @@ module.exports = {
     "Prince William Forest Park, VA",
     "Princeton, NJ",
     "Providence, RI",
-    "Raleigh, NC",
     "Raleigh-Durham, NC",
+    "Raleigh, NC",
     "Redmond, WA",
     "Redwood City, CA",
     "Reston, VA",
@@ -682,6 +684,7 @@ module.exports = {
     "Stanford, CA",
     "Sunnyvale, CA",
     "Tacoma, WA",
+    "Tampa Bay, FL",
     "Tampa, FL",
     "Texas, IL",
     "Truckee, CA",
@@ -689,7 +692,7 @@ module.exports = {
     "Virginia Beach, VA",
     "Walker Creek Ranch, CA",
     "Wall, NJ",
-    "Washington, D.C.",
+    "Washington, DC",
     "Waterloo, ON",
     "Wisconsin Dells, WI"
   ],
