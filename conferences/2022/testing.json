@@ -495,5 +495,18 @@
     "online": true,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
+  },
+  {
+    "name": "Chaos Conf",
+    "startDate": "2022-10-04",
+    "endDate": "2022-10-05",
+    "city": "Denver, Co",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://www.papercall.io/chaosconf22",
+    "cfpEndDate": "2022-08-05",
+    "twitter": "@ChaosConf",
+    "cocUrl": "https://res.cloudinary.com/gremlin/image/upload/v1601079832/Chaos%20Conf/Chaos-Conf-Code-of-Conduct.pdf",
+    "url": "https://www.chaosconf.io"
   }
 ]
