@@ -13,6 +13,27 @@
     "cocUrl": "https://confoo.ca/en/code-of-conduct"
   },
   {
+    "name": "Devopsdays Los Angeles",
+    "url": "https://devopsdays.org/events/2023-los-angeles/welcome/",
+    "startDate": "2023-03-10",
+    "endDate": "2023-03-10",
+    "city": "Los Angeles, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@socaldevops",
+    "cocUrl": "https://devopsdays.org/events/2023-los-angeles/conduct"
+  },
+  {
+    "name": "Devopsdays Salt Lake City",
+    "url": "https://devopsdays.org/events/2023-salt-lake-city/welcome/",
+    "startDate": "2023-03-14",
+    "endDate": "2023-03-15",
+    "city": "Salt Lake City, UT",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@devopsdaysslc"
+  },
+  {
     "name": "Java Land",
     "url": "https://www.javaland.eu",
     "startDate": "2023-03-21",
@@ -34,6 +55,17 @@
     "twitter": "@cncf"
   },
   {
+    "name": "Devopsdays Zurich (Winterthur)",
+    "url": "https://devopsdays.org/events/2023-zurich/welcome/",
+    "startDate": "2023-05-03",
+    "endDate": "2023-05-04",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "online": false,
+    "twitter": "@DevOpsZH",
+    "cocUrl": "https://devopsdays.org/events/2023-zurich/conduct"
+  },
+  {
     "name": "AgileTD Open Air",
     "url": "https://openair.agiletestingdays.com",
     "startDate": "2023-06-13",
@@ -44,5 +76,15 @@
     "cfpUrl": "https://cfp.trendig.com/AgileTD_OpenAir_2023",
     "cfpEndDate": "2022-08-31",
     "twitter": "@AgileTDOpenAir"
+  },
+  {
+    "name": "Devopsdays Birmingham",
+    "url": "https://devopsdays.org/events/2023-birmingham-uk/welcome/",
+    "startDate": "2023-06-15",
+    "endDate": "2023-06-16",
+    "city": "Birmingham",
+    "country": "U.K.",
+    "online": false,
+    "twitter": "@devopsdaysbrum"
   }
 ]
