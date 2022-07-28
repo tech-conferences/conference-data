@@ -966,6 +966,15 @@
     "cocUrl": "https://kandddinsky.de/codeofconduct"
   },
   {
+    "name": "SIGNAL",
+    "url": "https://www.signal2022.com",
+    "startDate": "2022-11-02",
+    "endDate": "2022-11-04",
+    "online": true,
+    "twitter": "@SIGNALConf",
+    "cocUrl": "https://www.signal2022.com/twilio/codeofconduct"
+  },
+  {
     "name": "Heapcon",
     "url": "https://heapcon.io",
     "startDate": "2022-11-03",
@@ -1001,6 +1010,17 @@
     "cocUrl": "https://techbash.com/code-of-conduct"
   },
   {
+    "name": "GitHub Universe",
+    "url": "https://www.githubuniverse.com",
+    "startDate": "2022-11-09",
+    "endDate": "2022-11-10",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@github",
+    "cocUrl": "https://docs.github.com/en/site-policy/github-terms/github-event-code-of-conduct"
+  },
+  {
     "name": "TechRadarCon",
     "url": "https://techradarcon.com",
     "startDate": "2022-11-14",
@@ -1022,6 +1042,15 @@
     "cfpEndDate": "2022-05-25",
     "twitter": "@sag_conference",
     "cocUrl": "https://conferences.isaqb.org/software-architecture-gathering/code-of-conduct/"
+  },
+  {
+    "name": "EDGE: A global undergraduate STEM Conference",
+    "url": "https://www.edge-stem.org",
+    "startDate": "2022-11-15",
+    "endDate": "2022-11-15",
+    "online": true,
+    "twitter": "@edgestem",
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "Codeurs en Seine",
@@ -1063,6 +1092,20 @@
     "cocUrl": "https://devfest.gdgstrasbourg.fr/coc"
   },
   {
+    "name": "Oπe\\n Conf Athens",
+    "url": "https://www.open-conf.gr/",
+    "startDate": "2022-12-02",
+    "endDate": "2022-12-03",
+    "city": "Athens",
+    "country": "Greece",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/open_conf/",
+    "cfpEndDate": "2022-08-31",
+    "twitter": "@open_conf",
+    "cocUrl": "https://www.open-conf.gr/code-of-conduct/",
+    "offersSignLanguageOrCC": false
+  },
+  {
     "name": "DevTernity",
     "url": "https://devternity.com",
     "startDate": "2022-12-08",
@@ -1080,48 +1123,5 @@
     "cfpUrl": "https://www.ittage.informatik-aktuell.de/call-for-papers.html",
     "cfpEndDate": "2022-05-03",
     "twitter": "@InformatikAktue"
-  },
-  {
-    "name": "EDGE: A global undergraduate STEM Conference",
-    "startDate": "2022-11-15",
-    "endDate": "2022-11-15",
-    "online": true,
-    "twitter": "@edgestem",
-    "offersSignLanguageOrCC": true,
-    "url": "https://www.edge-stem.org"
-  },
-  {
-    "name": "GitHub Universe",
-    "startDate": "2022-11-09",
-    "endDate": "2022-11-10",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@github",
-    "cocUrl": "https://docs.github.com/en/site-policy/github-terms/github-event-code-of-conduct",
-    "url": "https://www.githubuniverse.com"
-  },
-  {
-    "name": "Oπe\\n Conf Athens",
-    "startDate": "2022-12-02",
-    "endDate": "2022-12-03",
-    "city": "Athens",
-    "country": "Greece",
-    "online": false,
-    "twitter": "@open_conf",
-    "cocUrl": "https://www.open-conf.gr/code-of-conduct/",
-    "url": "https://www.open-conf.gr/",
-    "cfpUrl": "https://sessionize.com/open_conf/",
-    "cfpEndDate": "2022-08-31",
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "SIGNAL",
-    "startDate": "2022-11-02",
-    "endDate": "2022-11-04",
-    "online": true,
-    "twitter": "@SIGNALConf",
-    "cocUrl": "https://www.signal2022.com/twilio/codeofconduct",
-    "url": "https://www.signal2022.com"
   }
 ]

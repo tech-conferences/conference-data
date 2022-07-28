@@ -362,6 +362,15 @@
     "cocUrl": "https://databricks.com/dataaisummit/north-america-2022/code-of-conduct"
   },
   {
+    "name": "Neo4j Connections",
+    "url": "https://neo4j.com/event/neo4j-connections-solving-real-world-problems-with-graphs-asia-pacific-copy-july-28",
+    "startDate": "2022-07-28",
+    "endDate": "2022-07-28",
+    "online": true,
+    "twitter": "@neo4j",
+    "cocUrl": "https://neo4j.com/connections/solving-real-world-problems-with-graphs-apac/"
+  },
+  {
     "name": "Ai4",
     "url": "http://ai4.io/usa",
     "startDate": "2022-08-16",
@@ -466,6 +475,14 @@
     "twitter": "@the_test_tribe",
     "cocUrl": "https://www.thetesttribe.com/event-policy-and-code-of-conduct/",
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "Feature Store Summit",
+    "url": "https://www.featurestoresummit.com",
+    "startDate": "2022-10-11",
+    "endDate": "2022-10-11",
+    "online": true,
+    "twitter": "@FeaturestoreOrg"
   },
   {
     "name": "MASCOTS 30th International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems",
@@ -589,22 +606,5 @@
     "cfpEndDate": "2022-11-03",
     "twitter": "@BigDataConfEU",
     "cocUrl": "https://bigdataconference.eu/code-of-conduct/"
-  },
-  {
-    "name": "Neo4j Connections",
-    "startDate": "2022-07-28",
-    "endDate": "2022-07-28",
-    "online": true,
-    "twitter": "@neo4j",
-    "cocUrl": "https://neo4j.com/connections/solving-real-world-problems-with-graphs-apac/",
-    "url": "https://neo4j.com/event/neo4j-connections-solving-real-world-problems-with-graphs-asia-pacific-copy-july-28"
-  },
-  {
-    "name": "Feature Store Summit",
-    "startDate": "2022-10-11",
-    "endDate": "2022-10-11",
-    "online": true,
-    "twitter": "@FeaturestoreOrg",
-    "url": "https://www.featurestoresummit.com"
   }
 ]
