@@ -215,6 +215,17 @@
     "cocUrl": "https://www.updateconference.net/en/code-of-conduct"
   },
   {
+    "name": "WeAreDevelopers Container Day",
+    "url": "https://www.wearedevelopers.com/event/container-day-1611",
+    "startDate": "2022-11-16",
+    "endDate": "2022-11-16",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/wadlive2022",
+    "cfpEndDate": "2022-11-09",
+    "twitter": "@WeAreDevs",
+    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form."
+  },
+  {
     "name": "Agile Testing Days",
     "url": "https://agiletestingdays.com",
     "startDate": "2022-11-21",
@@ -228,25 +239,14 @@
     "cocUrl": "https://agiletestingdays.com/code-of-conduct/"
   },
   {
-    "name": "WeAreDevelopers Container Day",
-    "startDate": "2022-11-16",
-    "endDate": "2022-11-16",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/wadlive2022",
-    "cfpEndDate": "2022-11-09",
-    "twitter": "@WeAreDevs",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form.",
-    "url": "https://www.wearedevelopers.com/event/container-day-1611"
-  },
-  {
     "name": "WeAreDevelopers Machine Learning Day",
+    "url": "https://www.wearedevelopers.com/event/machine-learning-day-1412",
     "startDate": "2022-12-14",
     "endDate": "2022-12-14",
     "online": true,
     "cfpUrl": "https://sessionize.com/wadlive2022",
     "cfpEndDate": "2022-12-07",
     "twitter": "@WeAreDevs",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form.",
-    "url": "https://www.wearedevelopers.com/event/machine-learning-day-1412"
+    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form."
   }
 ]

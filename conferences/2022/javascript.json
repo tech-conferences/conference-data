@@ -935,6 +935,17 @@
     "cocUrl": "https://javascript-conference.com/code-of-conduct/"
   },
   {
+    "name": "WeAreDevelopers React Day",
+    "url": "https://www.wearedevelopers.com/event/react-day",
+    "startDate": "2022-11-02",
+    "endDate": "2022-11-02",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/wadlive2022",
+    "cfpEndDate": "2022-10-26",
+    "twitter": "@WeAreDevs",
+    "cocUrl": "https://sessionize.com/wadlive2022/"
+  },
+  {
     "name": "CONNECT.TECH",
     "url": "https://2022.connect.tech",
     "startDate": "2022-11-07",
@@ -1006,16 +1017,5 @@
     "cfpEndDate": "2022-08-31",
     "twitter": "@xtremejsconf",
     "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "WeAreDevelopers React Day",
-    "startDate": "2022-11-02",
-    "endDate": "2022-11-02",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/wadlive2022",
-    "cfpEndDate": "2022-10-26",
-    "twitter": "@WeAreDevs",
-    "cocUrl": "https://sessionize.com/wadlive2022/",
-    "url": "https://www.wearedevelopers.com/event/react-day"
   }
 ]

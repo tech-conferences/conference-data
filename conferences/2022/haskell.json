@@ -1,6 +1,16 @@
 [
   {
+    "name": "Haskell Symposium",
+    "url": "https://www.haskell.org/haskell-symposium/2022",
+    "startDate": "2022-09-15",
+    "endDate": "2022-09-16",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "online": false
+  },
+  {
     "name": "Haskell eXchange",
+    "url": "https://events.skillsmatter.com/haskellx2022",
     "startDate": "2022-12-07",
     "endDate": "2022-12-09",
     "city": "London",
@@ -9,16 +19,6 @@
     "cfpUrl": "https://skillsmatter.com/conferences/13830-haskell-exchange-2022#get_involved",
     "cfpEndDate": "2022-09-04",
     "twitter": "@skillsmatter",
-    "cocUrl": "https://skillsmatter.com/go/code-of-conduct",
-    "url": "https://events.skillsmatter.com/haskellx2022"
-  },
-  {
-    "name": "Haskell Symposium",
-    "startDate": "2022-09-15",
-    "endDate": "2022-09-16",
-    "city": "Ljubljana",
-    "country": "Slovenia",
-    "online": false,
-    "url": "https://www.haskell.org/haskell-symposium/2022"
+    "cocUrl": "https://skillsmatter.com/go/code-of-conduct"
   }
 ]
