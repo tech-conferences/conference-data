@@ -446,6 +446,7 @@ module.exports = {
   "Slovakia": [
     "Bratislava",
     "Jasna",
+    "Tatras",
     "Nitra"
   ],
   "Slovenia": [
