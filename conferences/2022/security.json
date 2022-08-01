@@ -410,6 +410,30 @@
     "online": true
   },
   {
+    "name": "Qubit Conference Tatry",
+    "url": "https://tatry.qubitconference.com",
+    "startDate": "2022-11-09",
+    "endDate": "2022-11-10",
+    "city": "Tatras",
+    "country": "Slovakia",
+    "online": false,
+    "cfpUrl": "https://tatry.qubitconference.com/call-for-papers-svk/call-speakers-form",
+    "cfpEndDate": "2022-09-20",
+    "twitter": "@qubitcon"
+  },
+  {
+    "name": "Qubit Conference Tatry",
+    "url": "https://tatry.qubitconference.com",
+    "startDate": "2022-11-09",
+    "endDate": "2022-11-10",
+    "city": "Liptovský Mikuláš",
+    "country": "Slovakia",
+    "online": false,
+    "cfpUrl": "https://tatry.qubitconference.com/call-for-papers-svk",
+    "cfpEndDate": "2022-09-20",
+    "twitter": "@qubitcon"
+  },
+  {
     "name": "Update Conference Prague",
     "url": "https://www.updateconference.net",
     "startDate": "2022-11-10",
@@ -444,6 +468,18 @@
     "cocUrl": "https://www.conf42.com/code-of-conduct"
   },
   {
+    "name": "AVAR's 25th Annual Cybersecurity Conference",
+    "url": "https://aavar.org/cybersecurity-conference",
+    "startDate": "2022-12-01",
+    "endDate": "2022-12-02",
+    "city": "Singapore",
+    "country": "Singapore",
+    "online": false,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdJealAuVztW-li5eAIeEJe_bTq-_qZF3Qy5umNQ7g0bd2PyQ/viewform",
+    "cfpEndDate": "2022-08-20",
+    "twitter": "@avar_asia"
+  },
+  {
     "name": "DevOpsCon Munich",
     "url": "https://devopscon.io/munich",
     "startDate": "2022-12-05",
@@ -452,41 +488,5 @@
     "country": "Germany",
     "online": true,
     "twitter": "@devops_con"
-  },
-  {
-    "name": "AVAR's 25th Annual Cybersecurity Conference",
-    "startDate": "2022-12-01",
-    "endDate": "2022-12-02",
-    "city": "Singapore",
-    "country": "Singapore",
-    "online": false,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdJealAuVztW-li5eAIeEJe_bTq-_qZF3Qy5umNQ7g0bd2PyQ/viewform",
-    "cfpEndDate": "2022-08-20",
-    "twitter": "@avar_asia",
-    "url": "https://aavar.org/cybersecurity-conference"
-  },
-  {
-    "name": "Qubit Conference Tatry",
-    "startDate": "2022-11-09",
-    "endDate": "2022-11-10",
-    "city": "Tatras",
-    "country": "Slovakia",
-    "online": false,
-    "cfpUrl": "https://tatry.qubitconference.com/call-for-papers-svk/call-speakers-form",
-    "cfpEndDate": "2022-09-20",
-    "twitter": "@qubitcon",
-    "url": "https://tatry.qubitconference.com"
-  },
-  {
-    "name": "Qubit Conference Tatry",
-    "startDate": "2022-11-09",
-    "endDate": "2022-11-10",
-    "city": "Liptovský Mikuláš",
-    "country": "Slovakia",
-    "online": false,
-    "cfpUrl": "https://tatry.qubitconference.com/call-for-papers-svk",
-    "cfpEndDate": "2022-09-20",
-    "twitter": "@qubitcon",
-    "url": "https://tatry.qubitconference.com"
   }
 ]

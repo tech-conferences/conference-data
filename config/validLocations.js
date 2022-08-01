@@ -445,10 +445,10 @@ module.exports = {
   ],
   "Slovakia": [
     "Bratislava",
-    "Liptovský Mikuláš",
     "Jasna",
-    "Tatras",
-    "Nitra"
+    "Liptovský Mikuláš",
+    "Nitra",
+    "Tatras"
   ],
   "Slovenia": [
     "Ljubljana",
