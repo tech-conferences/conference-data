@@ -488,5 +488,18 @@
     "country": "Germany",
     "online": true,
     "twitter": "@devops_con"
+  },
+  {
+    "name": "Dash",
+    "startDate": "2022-10-18",
+    "endDate": "2022-10-19",
+    "city": "New Yrok",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://www.dashcon.io/cfp",
+    "cfpEndDate": "2022-08-12",
+    "twitter": "@dashconio",
+    "cocUrl": "https://www.dashcon.io/coc/",
+    "url": "https://www.dashcon.io"
   }
 ]
