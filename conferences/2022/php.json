@@ -217,6 +217,19 @@
     "twitter": "@SymfonyCon",
     "cocUrl": "https://symfony.com/doc/current/contributing/code_of_conduct/care_team.html"
   },
+    {
+    "name": "Italian LaravelDay",
+    "url": "https://2022.laravelday.it/",
+    "startDate": "2022-11-17",
+    "endDate": "2022-11-17",
+    "online": false,
+    "city": "Verona",
+    "country": "Italy",
+    "cfpUrl": "https://2022.laravelday.it/welcome/cfp.html",
+    "twitter": "@LaravelDayIt",
+    "cocUrl": "https://2022.laravelday.it/welcome/coc.html",
+    "offersSignLanguageOrCC": false
+  },  
   {
     "name": "Agile Testing Days",
     "url": "https://agiletestingdays.com",
