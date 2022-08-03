@@ -261,5 +261,19 @@
     "twitter": "@dashconio",
     "cocUrl": "https://www.dashcon.io/coc/",
     "url": "https://www.dashcon.io"
+  },
+  {
+    "name": "Jamstack Conf",
+    "startDate": "2022-11-07",
+    "endDate": "2022-11-08",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc-z50GyD7zXzr_JCn2M1NBFZ-h65kSdu7zn43V1u2qAKO3ew/viewform",
+    "cfpEndDate": "2022-11-04",
+    "twitter": "@jamstackconf",
+    "cocUrl": "https://jamstack.org/code-of-conduct/",
+    "offersSignLanguageOrCC": true,
+    "url": "https://jamstack.org/conf"
   }
 ]
