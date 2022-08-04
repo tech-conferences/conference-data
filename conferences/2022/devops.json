@@ -1521,5 +1521,18 @@
     "twitter": "@SpinnakerSummit",
     "cocUrl": "https://events.linuxfoundation.org/about/code-of-conduct/",
     "url": "https://events.linuxfoundation.org/spinnaker-summit"
+  },
+  {
+    "name": "Continuous Delivery Mini Summit",
+    "startDate": "2022-09-12",
+    "endDate": "2022-09-12",
+    "city": "Dublin",
+    "country": "Ireland",
+    "online": false,
+    "cfpUrl": "https://cd.foundation/blog/2022/08/02/continuous-delivery-mini-summit-2022-call-for-papers-open",
+    "cfpEndDate": "2022-08-10",
+    "twitter": "@CDeliveryFdn",
+    "cocUrl": "https://events.linuxfoundation.org/open-source-summit-europe/attend/code-of-conduct/",
+    "url": "https://cd.foundation/event/continuous-delivery-mini-summit"
   }
 ]
