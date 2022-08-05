@@ -572,5 +572,16 @@
     "online": true,
     "twitter": "@getsentry",
     "url": "https://sentry.io/events/dex"
+  },
+  {
+    "name": "Agile meets Architecture",
+    "startDate": "2022-09-06",
+    "endDate": "2022-09-07",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@AmA_conf",
+    "cocUrl": "https://www.agile-meets-architecture.com/code-of-conduct",
+    "url": "https://www.agile-meets-architecture.com"
   }
 ]
