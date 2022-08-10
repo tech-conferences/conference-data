@@ -650,6 +650,17 @@
     "cocUrl": "https://gambiconf.dev/code-of-conduct"
   },
   {
+    "name": "Agile meets Architecture",
+    "url": "https://www.agile-meets-architecture.com",
+    "startDate": "2022-09-06",
+    "endDate": "2022-09-07",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@AmA_conf",
+    "cocUrl": "https://www.agile-meets-architecture.com/code-of-conduct"
+  },
+  {
     "name": "Herbstcampus",
     "url": "https://www.herbstcampus.de",
     "startDate": "2022-09-06",
@@ -810,6 +821,16 @@
     "online": true,
     "twitter": "@NDC_Conferences",
     "cocUrl": "https://ndcminnesota.com/code-of-conduct"
+  },
+  {
+    "name": "DEX",
+    "url": "https://sentry.io/events/dex",
+    "startDate": "2022-09-28",
+    "endDate": "2022-09-28",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@getsentry"
   },
   {
     "name": "Git Commit Show",
@@ -988,6 +1009,20 @@
     "cocUrl": "https://heapcon.io/code-of-conduct/"
   },
   {
+    "name": "Jamstack Conf",
+    "url": "https://jamstack.org/conf",
+    "startDate": "2022-11-07",
+    "endDate": "2022-11-08",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc-z50GyD7zXzr_JCn2M1NBFZ-h65kSdu7zn43V1u2qAKO3ew/viewform",
+    "cfpEndDate": "2022-11-04",
+    "twitter": "@jamstackconf",
+    "cocUrl": "https://jamstack.org/code-of-conduct/",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "W-JAX",
     "url": "https://jax.de/munich",
     "startDate": "2022-11-07",
@@ -1019,6 +1054,17 @@
     "online": true,
     "twitter": "@github",
     "cocUrl": "https://docs.github.com/en/site-policy/github-terms/github-event-code-of-conduct"
+  },
+  {
+    "name": "BUILD STUFF",
+    "url": "https://www.buildstuff.events",
+    "startDate": "2022-11-09",
+    "endDate": "2022-11-11",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "online": true,
+    "twitter": "@BuildStuffConf",
+    "cocUrl": "https://www.buildstuff.events/code-of-conduct"
   },
   {
     "name": "TechRadarCon",
@@ -1123,51 +1169,5 @@
     "cfpUrl": "https://www.ittage.informatik-aktuell.de/call-for-papers.html",
     "cfpEndDate": "2022-05-03",
     "twitter": "@InformatikAktue"
-  },
-  {
-    "name": "BUILD STUFF",
-    "startDate": "2022-11-09",
-    "endDate": "2022-11-11",
-    "city": "Vilnius",
-    "country": "Lithuania",
-    "online": true,
-    "twitter": "@BuildStuffConf",
-    "cocUrl": "https://www.buildstuff.events/code-of-conduct",
-    "url": "https://www.buildstuff.events"
-  },
-  {
-    "name": "Jamstack Conf",
-    "startDate": "2022-11-07",
-    "endDate": "2022-11-08",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc-z50GyD7zXzr_JCn2M1NBFZ-h65kSdu7zn43V1u2qAKO3ew/viewform",
-    "cfpEndDate": "2022-11-04",
-    "twitter": "@jamstackconf",
-    "cocUrl": "https://jamstack.org/code-of-conduct/",
-    "offersSignLanguageOrCC": true,
-    "url": "https://jamstack.org/conf"
-  },
-  {
-    "name": "DEX",
-    "startDate": "2022-09-28",
-    "endDate": "2022-09-28",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@getsentry",
-    "url": "https://sentry.io/events/dex"
-  },
-  {
-    "name": "Agile meets Architecture",
-    "startDate": "2022-09-06",
-    "endDate": "2022-09-07",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": false,
-    "twitter": "@AmA_conf",
-    "cocUrl": "https://www.agile-meets-architecture.com/code-of-conduct",
-    "url": "https://www.agile-meets-architecture.com"
   }
 ]

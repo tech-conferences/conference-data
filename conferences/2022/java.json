@@ -225,6 +225,15 @@
     "cocUrl": "https://www.jbcnconf.com/2022/coc.html"
   },
   {
+    "name": "Cloud Builders: Java Conf",
+    "url": "https://www.cloud-builders.tech",
+    "startDate": "2022-08-23",
+    "endDate": "2022-08-23",
+    "online": true,
+    "twitter": "@cloudbuildersua",
+    "cocUrl": "https://www.cloud-builders.tech/code-of-conduct"
+  },
+  {
     "name": "Java Forum",
     "url": "https://events.skillsmatter.com/java-forum-2022",
     "startDate": "2022-08-31",
@@ -433,6 +442,17 @@
     "cocUrl": "https://jax.de/code-of-conduct-en/"
   },
   {
+    "name": "BUILD STUFF",
+    "url": "https://www.buildstuff.events",
+    "startDate": "2022-11-09",
+    "endDate": "2022-11-11",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "online": true,
+    "twitter": "@BuildStuffConf",
+    "cocUrl": "https://www.buildstuff.events/code-of-conduct"
+  },
+  {
     "name": "DevTernity",
     "url": "https://devternity.com",
     "startDate": "2022-12-08",
@@ -440,25 +460,5 @@
     "online": true,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "BUILD STUFF",
-    "startDate": "2022-11-09",
-    "endDate": "2022-11-11",
-    "city": "Vilnius",
-    "country": "Lithuania",
-    "online": true,
-    "twitter": "@BuildStuffConf",
-    "cocUrl": "https://www.buildstuff.events/code-of-conduct",
-    "url": "https://www.buildstuff.events"
-  },
-  {
-    "name": "Cloud Builders: Java Conf",
-    "startDate": "2022-08-23",
-    "endDate": "2022-08-23",
-    "online": true,
-    "twitter": "@cloudbuildersua",
-    "cocUrl": "https://www.cloud-builders.tech/code-of-conduct",
-    "url": "https://www.cloud-builders.tech"
   }
 ]

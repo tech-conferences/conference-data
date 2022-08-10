@@ -799,6 +799,16 @@
     "cocUrl": "https://devopsdays.org/events/2022-jakarta/conduct"
   },
   {
+    "name": "FutureStack Brisbane",
+    "url": "https://newrelic.com/events/2022-08-18/anz-futurestack-brisbane",
+    "startDate": "2022-08-18",
+    "endDate": "2022-08-18",
+    "city": "Brisbane",
+    "country": "Australia",
+    "online": false,
+    "twitter": "@newrelic"
+  },
+  {
     "name": "Devopsdays Dallas",
     "url": "https://devopsdays.org/events/2022-dallas/welcome/",
     "startDate": "2022-08-24",
@@ -876,6 +886,19 @@
     "cfpEndDate": "2022-06-05",
     "twitter": "@nullcon",
     "cocUrl": "https://nullcon.net/about-conferencepolicy/"
+  },
+  {
+    "name": "Continuous Delivery Mini Summit",
+    "url": "https://cd.foundation/event/continuous-delivery-mini-summit",
+    "startDate": "2022-09-12",
+    "endDate": "2022-09-12",
+    "city": "Dublin",
+    "country": "Ireland",
+    "online": false,
+    "cfpUrl": "https://cd.foundation/blog/2022/08/02/continuous-delivery-mini-summit-2022-call-for-papers-open",
+    "cfpEndDate": "2022-08-10",
+    "twitter": "@CDeliveryFdn",
+    "cocUrl": "https://events.linuxfoundation.org/open-source-summit-europe/attend/code-of-conduct/"
   },
   {
     "name": "Devopsdays Boston",
@@ -968,6 +991,20 @@
     "online": false,
     "twitter": "@devopsdayschi",
     "cocUrl": "https://devopsdays.org/events/2022-chicago/conduct"
+  },
+  {
+    "name": "Enterprise DevOps Summit",
+    "url": "https://www.enterprise-devops-summit.com",
+    "startDate": "2022-09-21",
+    "endDate": "2022-09-23",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://www.enterprise-devops-summit.com/sprecher",
+    "cfpEndDate": "2022-09-18",
+    "twitter": "@weCONECT",
+    "cocUrl": "https://www.we-conect.com/terms-and-conditions",
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "Devopsdays Cairo",
@@ -1163,6 +1200,19 @@
     "cocUrl": "https://basta.net/code-of-conduct-en/"
   },
   {
+    "name": "Dash",
+    "url": "https://www.dashcon.io",
+    "startDate": "2022-10-18",
+    "endDate": "2022-10-19",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://www.dashcon.io/cfp",
+    "cfpEndDate": "2022-08-12",
+    "twitter": "@dashconio",
+    "cocUrl": "https://www.dashcon.io/coc/"
+  },
+  {
     "name": "DevOps Enterprise Summit",
     "url": "https://events.itrevolution.com/lasvegas",
     "startDate": "2022-10-18",
@@ -1218,6 +1268,19 @@
     "online": false,
     "twitter": "@devopsdaystb",
     "cocUrl": "https://devopsdays.org/events/2022-tampa/conduct"
+  },
+  {
+    "name": "Spinnaker Summit",
+    "url": "https://events.linuxfoundation.org/spinnaker-summit",
+    "startDate": "2022-10-23",
+    "endDate": "2022-10-24",
+    "city": "Detroit, MI",
+    "country": "U.S.A.",
+    "online": true,
+    "cfpUrl": "https://events.linuxfoundation.org/spinnaker-summit/program/cfp",
+    "cfpEndDate": "2022-08-03",
+    "twitter": "@SpinnakerSummit",
+    "cocUrl": "https://events.linuxfoundation.org/about/code-of-conduct/"
   },
   {
     "name": "Devopsdays Warsaw",
@@ -1485,68 +1548,5 @@
     "cfpEndDate": "2022-08-31",
     "twitter": "@devopsdaystlv",
     "cocUrl": "https://tlvcommunity.dev/code-of-conduct.html"
-  },
-  {
-    "name": "Dash",
-    "startDate": "2022-10-18",
-    "endDate": "2022-10-19",
-    "city": "New York, NY",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://www.dashcon.io/cfp",
-    "cfpEndDate": "2022-08-12",
-    "twitter": "@dashconio",
-    "cocUrl": "https://www.dashcon.io/coc/",
-    "url": "https://www.dashcon.io"
-  },
-  {
-    "name": "FutureStack Brisbane",
-    "startDate": "2022-08-18",
-    "endDate": "2022-08-18",
-    "city": "Brisbane",
-    "country": "Australia",
-    "online": false,
-    "twitter": "@newrelic",
-    "url": "https://newrelic.com/events/2022-08-18/anz-futurestack-brisbane"
-  },
-  {
-    "name": "Spinnaker Summit",
-    "startDate": "2022-10-23",
-    "endDate": "2022-10-24",
-    "city": "Detroit, MI",
-    "country": "U.S.A.",
-    "online": true,
-    "cfpUrl": "https://events.linuxfoundation.org/spinnaker-summit/program/cfp",
-    "cfpEndDate": "2022-08-03",
-    "twitter": "@SpinnakerSummit",
-    "cocUrl": "https://events.linuxfoundation.org/about/code-of-conduct/",
-    "url": "https://events.linuxfoundation.org/spinnaker-summit"
-  },
-  {
-    "name": "Continuous Delivery Mini Summit",
-    "startDate": "2022-09-12",
-    "endDate": "2022-09-12",
-    "city": "Dublin",
-    "country": "Ireland",
-    "online": false,
-    "cfpUrl": "https://cd.foundation/blog/2022/08/02/continuous-delivery-mini-summit-2022-call-for-papers-open",
-    "cfpEndDate": "2022-08-10",
-    "twitter": "@CDeliveryFdn",
-    "cocUrl": "https://events.linuxfoundation.org/open-source-summit-europe/attend/code-of-conduct/",
-    "url": "https://cd.foundation/event/continuous-delivery-mini-summit"
-  },
-  {
-    "name": "Enterprise DevOps Summit",
-    "startDate": "2022-09-21",
-    "endDate": "2022-09-23",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://www.enterprise-devops-summit.com/sprecher",
-    "cfpEndDate": "2022-09-18",
-    "twitter": "@weCONECT",
-    "cocUrl": "https://www.we-conect.com/terms-and-conditions",
-    "offersSignLanguageOrCC": true,
-    "url": "https://www.enterprise-devops-summit.com"
   }
 ]

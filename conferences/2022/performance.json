@@ -149,6 +149,19 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Dash",
+    "url": "https://www.dashcon.io",
+    "startDate": "2022-10-18",
+    "endDate": "2022-10-19",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://www.dashcon.io/cfp",
+    "cfpEndDate": "2022-08-12",
+    "twitter": "@dashconio",
+    "cocUrl": "https://www.dashcon.io/coc/"
+  },
+  {
     "name": "JCON",
     "url": "https://jcon.one",
     "startDate": "2022-10-18",
@@ -202,6 +215,20 @@
     "twitter": "@perfnowconf"
   },
   {
+    "name": "Jamstack Conf",
+    "url": "https://jamstack.org/conf",
+    "startDate": "2022-11-07",
+    "endDate": "2022-11-08",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc-z50GyD7zXzr_JCn2M1NBFZ-h65kSdu7zn43V1u2qAKO3ew/viewform",
+    "cfpEndDate": "2022-11-04",
+    "twitter": "@jamstackconf",
+    "cocUrl": "https://jamstack.org/code-of-conduct/",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Update Conference Prague",
     "url": "https://www.updateconference.net",
     "startDate": "2022-11-10",
@@ -248,32 +275,5 @@
     "cfpEndDate": "2022-12-07",
     "twitter": "@WeAreDevs",
     "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form."
-  },
-  {
-    "name": "Dash",
-    "startDate": "2022-10-18",
-    "endDate": "2022-10-19",
-    "city": "New York, NY",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://www.dashcon.io/cfp",
-    "cfpEndDate": "2022-08-12",
-    "twitter": "@dashconio",
-    "cocUrl": "https://www.dashcon.io/coc/",
-    "url": "https://www.dashcon.io"
-  },
-  {
-    "name": "Jamstack Conf",
-    "startDate": "2022-11-07",
-    "endDate": "2022-11-08",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc-z50GyD7zXzr_JCn2M1NBFZ-h65kSdu7zn43V1u2qAKO3ew/viewform",
-    "cfpEndDate": "2022-11-04",
-    "twitter": "@jamstackconf",
-    "cocUrl": "https://jamstack.org/code-of-conduct/",
-    "offersSignLanguageOrCC": true,
-    "url": "https://jamstack.org/conf"
   }
 ]
