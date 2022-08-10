@@ -1534,5 +1534,19 @@
     "twitter": "@CDeliveryFdn",
     "cocUrl": "https://events.linuxfoundation.org/open-source-summit-europe/attend/code-of-conduct/",
     "url": "https://cd.foundation/event/continuous-delivery-mini-summit"
+  },
+  {
+    "name": "Enterprise DevOps Summit",
+    "startDate": "2022-09-21",
+    "endDate": "2022-09-23",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://www.enterprise-devops-summit.com/sprecher",
+    "cfpEndDate": "2022-09-18",
+    "twitter": "@weCONECT",
+    "cocUrl": "https://www.we-conect.com/terms-and-conditions",
+    "offersSignLanguageOrCC": true,
+    "url": "https://www.enterprise-devops-summit.com"
   }
 ]
