@@ -69,6 +69,15 @@
     "cocUrl": "https://neo4j.com/connections/solving-real-world-problems-with-graphs-apac/"
   },
   {
+    "name": "GraphQL Conf.",
+    "url": "https://graphqlconf.org",
+    "startDate": "2022-09-29",
+    "endDate": "2022-09-29",
+    "online": true,
+    "twitter": "@thegraphqlconf",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "GraphQL Summit",
     "url": "https://summit.graphql.com",
     "startDate": "2022-10-03",
@@ -107,6 +116,7 @@
   },
   {
     "name": "GraphQL Galaxy",
+    "url": "https://graphqlgalaxy.com",
     "startDate": "2022-12-09",
     "endDate": "2022-12-09",
     "city": "Berlin",
@@ -115,16 +125,6 @@
     "cfpUrl": "https://forms.gle/u1xMobfq8MVQGdDx5",
     "cfpEndDate": "2022-09-24",
     "twitter": "@graphqlgalaxy",
-    "cocUrl": "https://graphqlgalaxy.com/coc",
-    "url": "https://graphqlgalaxy.com"
-  },
-  {
-    "name": "GraphQL Conf.",
-    "startDate": "2022-09-29",
-    "endDate": "2022-09-29",
-    "online": true,
-    "twitter": "@thegraphqlconf",
-    "offersSignLanguageOrCC": true,
-    "url": "https://graphqlconf.org"
+    "cocUrl": "https://graphqlgalaxy.com/coc"
   }
 ]

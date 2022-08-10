@@ -315,6 +315,19 @@
     "cocUrl": "https://www.conf42.com/code-of-conduct"
   },
   {
+    "name": "Rethink! IT Security Herbst",
+    "url": "https://www.rethink-it-security-herbst.de",
+    "startDate": "2022-09-18",
+    "endDate": "2022-09-20",
+    "city": "Hamburg",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://www.rethink-it-security-herbst.de/sprecher#",
+    "cfpEndDate": "2022-09-15",
+    "twitter": "@weCONECT",
+    "cocUrl": "https://www.we-conect.com/terms-and-conditions"
+  },
+  {
     "name": "LeanIX Connect Summit Europe",
     "url": "https://www.leanix-connect.com/europe",
     "startDate": "2022-09-20",
@@ -380,6 +393,19 @@
     "online": true,
     "twitter": "@BASTAcon",
     "cocUrl": "https://basta.net/code-of-conduct-en/"
+  },
+  {
+    "name": "Dash",
+    "url": "https://www.dashcon.io",
+    "startDate": "2022-10-18",
+    "endDate": "2022-10-19",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://www.dashcon.io/cfp",
+    "cfpEndDate": "2022-08-12",
+    "twitter": "@dashconio",
+    "cocUrl": "https://www.dashcon.io/coc/"
   },
   {
     "name": "JCON",
@@ -488,31 +514,5 @@
     "country": "Germany",
     "online": true,
     "twitter": "@devops_con"
-  },
-  {
-    "name": "Dash",
-    "startDate": "2022-10-18",
-    "endDate": "2022-10-19",
-    "city": "New York, NY",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://www.dashcon.io/cfp",
-    "cfpEndDate": "2022-08-12",
-    "twitter": "@dashconio",
-    "cocUrl": "https://www.dashcon.io/coc/",
-    "url": "https://www.dashcon.io"
-  },
-  {
-    "name": "Rethink! IT Security Herbst",
-    "startDate": "2022-09-18",
-    "endDate": "2022-09-20",
-    "city": "Hamburg",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://www.rethink-it-security-herbst.de/sprecher#",
-    "cfpEndDate": "2022-09-15",
-    "twitter": "@weCONECT",
-    "cocUrl": "https://www.we-conect.com/terms-and-conditions",
-    "url": "https://www.rethink-it-security-herbst.de"
   }
 ]

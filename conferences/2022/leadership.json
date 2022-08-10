@@ -245,6 +245,17 @@
     "cocUrl": "https://www.agilealliance.org/code_of_conduct/"
   },
   {
+    "name": "Agile meets Architecture",
+    "url": "https://www.agile-meets-architecture.com",
+    "startDate": "2022-09-06",
+    "endDate": "2022-09-07",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@AmA_conf",
+    "cocUrl": "https://www.agile-meets-architecture.com/code-of-conduct"
+  },
+  {
     "name": "Infobip Shift",
     "url": "https://shift.infobip.com",
     "startDate": "2022-09-19",
@@ -370,6 +381,17 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "BUILD STUFF",
+    "url": "https://www.buildstuff.events",
+    "startDate": "2022-11-09",
+    "endDate": "2022-11-11",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "online": true,
+    "twitter": "@BuildStuffConf",
+    "cocUrl": "https://www.buildstuff.events/code-of-conduct"
+  },
+  {
     "name": "DevTernity",
     "url": "https://devternity.com",
     "startDate": "2022-12-08",
@@ -377,27 +399,5 @@
     "online": true,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "BUILD STUFF",
-    "startDate": "2022-11-09",
-    "endDate": "2022-11-11",
-    "city": "Vilnius",
-    "country": "Lithuania",
-    "online": true,
-    "twitter": "@BuildStuffConf",
-    "cocUrl": "https://www.buildstuff.events/code-of-conduct",
-    "url": "https://www.buildstuff.events"
-  },
-  {
-    "name": "Agile meets Architecture",
-    "startDate": "2022-09-06",
-    "endDate": "2022-09-07",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": false,
-    "twitter": "@AmA_conf",
-    "cocUrl": "https://www.agile-meets-architecture.com/code-of-conduct",
-    "url": "https://www.agile-meets-architecture.com"
   }
 ]

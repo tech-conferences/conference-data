@@ -935,6 +935,16 @@
     "cocUrl": "https://javascript-conference.com/code-of-conduct/"
   },
   {
+    "name": "Web Summit",
+    "url": "https://websummit.com",
+    "startDate": "2022-11-01",
+    "endDate": "2022-11-04",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "online": false,
+    "twitter": "@WebSummit"
+  },
+  {
     "name": "WeAreDevelopers React Day",
     "url": "https://www.wearedevelopers.com/event/react-day",
     "startDate": "2022-11-02",
@@ -944,6 +954,17 @@
     "cfpEndDate": "2022-10-26",
     "twitter": "@WeAreDevs",
     "cocUrl": "https://sessionize.com/wadlive2022/"
+  },
+  {
+    "name": "TestJS Summit",
+    "url": "https://testjssummit.com",
+    "startDate": "2022-11-04",
+    "endDate": "2022-11-04",
+    "online": true,
+    "cfpUrl": "https://forms.gle/xLZ8omTK4TAyeGVt7",
+    "cfpEndDate": "2022-09-16",
+    "twitter": "@TestJSSummit",
+    "cocUrl": "https://testjssummit.com/coc"
   },
   {
     "name": "CONNECT.TECH",
@@ -969,6 +990,17 @@
     "twitter": "@reactfellows",
     "cocUrl": "https://geekle.us/code-of-conduct",
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "BUILD STUFF",
+    "url": "https://www.buildstuff.events",
+    "startDate": "2022-11-09",
+    "endDate": "2022-11-11",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "online": true,
+    "twitter": "@BuildStuffConf",
+    "cocUrl": "https://www.buildstuff.events/code-of-conduct"
   },
   {
     "name": "Codeurs en Seine",
@@ -1019,18 +1051,8 @@
     "offersSignLanguageOrCC": true
   },
   {
-    "name": "BUILD STUFF",
-    "startDate": "2022-11-09",
-    "endDate": "2022-11-11",
-    "city": "Vilnius",
-    "country": "Lithuania",
-    "online": true,
-    "twitter": "@BuildStuffConf",
-    "cocUrl": "https://www.buildstuff.events/code-of-conduct",
-    "url": "https://www.buildstuff.events"
-  },
-  {
     "name": "React Day Berlin",
+    "url": "https://reactday.berlin",
     "startDate": "2022-12-02",
     "endDate": "2022-12-02",
     "city": "Berlin",
@@ -1039,32 +1061,11 @@
     "cfpUrl": "https://forms.gle/fvEuTAsn7cSGGzXN7",
     "cfpEndDate": "2022-09-25",
     "twitter": "@reactdayberlin",
-    "cocUrl": "https://reactday.berlin/coc",
-    "url": "https://reactday.berlin"
-  },
-  {
-    "name": "Web Summit",
-    "startDate": "2022-11-01",
-    "endDate": "2022-11-04",
-    "city": "Lisbon",
-    "country": "Portugal",
-    "online": false,
-    "twitter": "@WebSummit",
-    "url": "https://websummit.com"
-  },
-  {
-    "name": "TestJS Summit",
-    "startDate": "2022-11-04",
-    "endDate": "2022-11-04",
-    "online": true,
-    "cfpUrl": "https://forms.gle/xLZ8omTK4TAyeGVt7",
-    "cfpEndDate": "2022-09-16",
-    "twitter": "@TestJSSummit",
-    "cocUrl": "https://testjssummit.com/coc",
-    "url": "https://testjssummit.com"
+    "cocUrl": "https://reactday.berlin/coc"
   },
   {
     "name": "GraphQL Galaxy",
+    "url": "https://graphqlgalaxy.com",
     "startDate": "2022-12-09",
     "endDate": "2022-12-09",
     "city": "Berlin",
@@ -1073,7 +1074,6 @@
     "cfpUrl": "https://forms.gle/u1xMobfq8MVQGdDx5",
     "cfpEndDate": "2022-09-24",
     "twitter": "@graphqlgalaxy",
-    "cocUrl": "https://graphqlgalaxy.com/coc",
-    "url": "https://graphqlgalaxy.com"
+    "cocUrl": "https://graphqlgalaxy.com/coc"
   }
 ]
