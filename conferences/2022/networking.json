@@ -596,5 +596,18 @@
     "cfpEndDate": "2022-09-25",
     "twitter": "@reactdayberlin",
     "cocUrl": "https://reactday.berlin/coc"
+  },
+  {
+    "name": "PGConf NYC",
+    "startDate": "2022-09-22",
+    "endDate": "2022-09-23",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://2022.pgconf.nyc/callforpapers",
+    "cfpEndDate": "2022-05-31",
+    "twitter": "@pgconfnyc",
+    "cocUrl": "https://2022.pgconf.nyc/inclusion/",
+    "url": "https://2022.pgconf.nyc"
   }
 ]
