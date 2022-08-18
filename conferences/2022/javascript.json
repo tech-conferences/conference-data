@@ -897,6 +897,19 @@
     "cocUrl": "https://javascript-days.de/code-of-conduct/"
   },
   {
+    "name": "CityJS Nigeria",
+    "url": "https://cityjsconf.org",
+    "startDate": "2022-10-20",
+    "endDate": "2022-10-22",
+    "city": "Lagos",
+    "country": "Nigeria",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScahrtHfQ9rcpqvOHVQERUZ2SaHhGrZE9qzk023j7KMyUU_Nw/viewform",
+    "cfpEndDate": "2022-09-30",
+    "twitter": "@cityjsconf",
+    "cocUrl": "https://cityjsconf.org/coc"
+  },
+  {
     "name": "reactjsday",
     "url": "https://2022.reactjsday.it",
     "startDate": "2022-10-21",
@@ -1003,6 +1016,16 @@
     "cocUrl": "https://www.buildstuff.events/code-of-conduct"
   },
   {
+    "name": "NODES",
+    "url": "https://neo4j.com/nodes-2022",
+    "startDate": "2022-11-16",
+    "endDate": "2022-11-17",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/neo4j-nodes-2022",
+    "cfpEndDate": "2022-08-20",
+    "twitter": "@neo4j"
+  },
+  {
     "name": "Codeurs en Seine",
     "url": "https://www.codeursenseine.com/2022",
     "startDate": "2022-11-17",
@@ -1064,6 +1087,17 @@
     "cocUrl": "https://reactday.berlin/coc"
   },
   {
+    "name": "Progressive Web Experience",
+    "url": "http://progressivewebexperience.io",
+    "startDate": "2022-12-04",
+    "endDate": "2022-12-07",
+    "city": "Clearwater, FL",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@nofluff",
+    "cocUrl": "https://progressivewebexperience.io/home/code_of_conduct"
+  },
+  {
     "name": "GraphQL Galaxy",
     "url": "https://graphqlgalaxy.com",
     "startDate": "2022-12-09",
@@ -1075,39 +1109,5 @@
     "cfpEndDate": "2022-09-24",
     "twitter": "@graphqlgalaxy",
     "cocUrl": "https://graphqlgalaxy.com/coc"
-  },
-  {
-    "name": "Progressive Web Experience",
-    "startDate": "2022-12-04",
-    "endDate": "2022-12-07",
-    "city": "Clearwater, FL",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@nofluff",
-    "cocUrl": "https://progressivewebexperience.io/home/code_of_conduct",
-    "url": "http://progressivewebexperience.io"
-  },
-  {
-    "name": "NODES",
-    "startDate": "2022-11-16",
-    "endDate": "2022-11-17",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/neo4j-nodes-2022",
-    "cfpEndDate": "2022-08-20",
-    "twitter": "@neo4j",
-    "url": "https://neo4j.com/nodes-2022"
-  },
-  {
-    "name": "CityJS Nigeria",
-    "startDate": "2022-10-20",
-    "endDate": "2022-10-22",
-    "city": "Lagos",
-    "country": "Nigeria",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScahrtHfQ9rcpqvOHVQERUZ2SaHhGrZE9qzk023j7KMyUU_Nw/viewform",
-    "cfpEndDate": "2022-09-30",
-    "twitter": "@cityjsconf",
-    "cocUrl": "https://cityjsconf.org/coc",
-    "url": "https://cityjsconf.org"
   }
 ]

@@ -155,6 +155,15 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "PyCon UK",
+    "url": "https://2022.pyconuk.org",
+    "startDate": "2022-09-16",
+    "endDate": "2022-09-18",
+    "city": "Cardiff",
+    "country": "U.K.",
+    "online": true
+  },
+  {
     "name": "Swiss Python Summit",
     "url": "https://www.python-summit.ch",
     "startDate": "2022-09-22",
@@ -222,6 +231,16 @@
     "cocUrl": "https://www.buildstuff.events/code-of-conduct"
   },
   {
+    "name": "NODES",
+    "url": "https://neo4j.com/nodes-2022",
+    "startDate": "2022-11-16",
+    "endDate": "2022-11-17",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/neo4j-nodes-2022",
+    "cfpEndDate": "2022-08-20",
+    "twitter": "@neo4j"
+  },
+  {
     "name": "Agile Testing Days",
     "url": "https://agiletestingdays.com",
     "startDate": "2022-11-21",
@@ -244,24 +263,5 @@
     "cfpEndDate": "2022-08-31",
     "twitter": "@xtremepython",
     "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "PyCon UK",
-    "startDate": "2022-09-16",
-    "endDate": "2022-09-18",
-    "city": "Cardiff",
-    "country": "U.K.",
-    "online": true,
-    "url": "https://2022.pyconuk.org"
-  },
-  {
-    "name": "NODES",
-    "startDate": "2022-11-16",
-    "endDate": "2022-11-17",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/neo4j-nodes-2022",
-    "cfpEndDate": "2022-08-20",
-    "twitter": "@neo4j",
-    "url": "https://neo4j.com/nodes-2022"
   }
 ]

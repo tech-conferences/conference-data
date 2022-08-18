@@ -443,6 +443,17 @@
     "cocUrl": "https://www.data2day.de/code_of_conduct.php"
   },
   {
+    "name": "Web Data Extraction Summit",
+    "url": "https://www.extractsummit.io",
+    "startDate": "2022-09-29",
+    "endDate": "2022-09-29",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "twitter": "@ExtractSummit",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "GOTO Copenhagen",
     "url": "https://gotocph.com",
     "startDate": "2022-10-03",
@@ -497,6 +508,17 @@
     "twitter": "@Common_Sense_BF"
   },
   {
+    "name": "ScaleUp 360° Smart Data Architectures & Data Engineering",
+    "url": "https://www.scale-up-360.com/de/data-architectures-engineering",
+    "startDate": "2022-10-18",
+    "endDate": "2022-10-18",
+    "online": true,
+    "cfpUrl": "https://www.scale-up-360.com/de/data-architectures-engineering/speakers",
+    "cfpEndDate": "2022-10-15",
+    "twitter": "@weCONECT",
+    "cocUrl": "https://www.we-conect.com/terms-and-conditions"
+  },
+  {
     "name": "MASCOTS 30th International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems",
     "url": "https://mascots.iitis.pl",
     "startDate": "2022-10-18",
@@ -549,6 +571,17 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "ODSC West - Mini-Bootcamp",
+    "url": "https://odsc.com/california/bootcamp/",
+    "startDate": "2022-11-01",
+    "endDate": "2022-11-03",
+    "city": "Burlingame, CA",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@ODSC",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "CWIC: The Hyperconnected Human",
     "url": "https://www.cambridgewireless.co.uk/events/conferences/cwic",
     "startDate": "2022-11-02",
@@ -585,6 +618,16 @@
     "cocUrl": "https://www.updateconference.net/en/code-of-conduct"
   },
   {
+    "name": "Open Source Analytics Conference",
+    "url": "https://altinity.com/osa-con",
+    "startDate": "2022-11-15",
+    "endDate": "2022-11-15",
+    "online": true,
+    "cfpUrl": "https://forms.gle/mxPdPfVYEo2ATMHp9",
+    "cfpEndDate": "2022-09-15",
+    "twitter": "@AltinityDB"
+  },
+  {
     "name": "Weave Sphere",
     "url": "http://weavesphere.co",
     "startDate": "2022-11-15",
@@ -593,6 +636,16 @@
     "country": "Canada",
     "online": false,
     "twitter": "@weavesphere"
+  },
+  {
+    "name": "NODES",
+    "url": "https://neo4j.com/nodes-2022",
+    "startDate": "2022-11-16",
+    "endDate": "2022-11-17",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/neo4j-nodes-2022",
+    "cfpEndDate": "2022-08-20",
+    "twitter": "@neo4j"
   },
   {
     "name": "Agile Testing Days",
@@ -606,6 +659,17 @@
     "cfpEndDate": "2022-03-20",
     "twitter": "@AgileTD",
     "cocUrl": "https://agiletestingdays.com/code-of-conduct/"
+  },
+  {
+    "name": "ScaleUp 360° Big Data Europe",
+    "url": "https://www.scale-up-360.com/en/big-data-europe",
+    "startDate": "2022-11-22",
+    "endDate": "2022-11-22",
+    "online": true,
+    "cfpUrl": "https://www.scale-up-360.com/en/big-data-europe/speakers",
+    "cfpEndDate": "2022-11-19",
+    "twitter": "@weCONECT",
+    "cocUrl": "https://www.we-conect.com/terms-and-conditions"
   },
   {
     "name": "Data Science Global Summit",
@@ -631,88 +695,24 @@
     "cocUrl": "https://bigdataconference.eu/code-of-conduct/"
   },
   {
-    "name": "ScaleUp 360° Smart Data Architectures & Data Engineering",
-    "startDate": "2022-10-18",
-    "endDate": "2022-10-18",
-    "online": true,
-    "cfpUrl": "https://www.scale-up-360.com/de/data-architectures-engineering/speakers",
-    "cfpEndDate": "2022-10-15",
-    "twitter": "@weCONECT",
-    "cocUrl": "https://www.we-conect.com/terms-and-conditions",
-    "url": "https://www.scale-up-360.com/de/data-architectures-engineering"
-  },
-  {
     "name": "ScaleUp 360° Enterprise Cloud Governance",
+    "url": "https://www.scale-up-360.com/de/enterprise-cloud-governance",
     "startDate": "2022-12-06",
     "endDate": "2022-12-06",
     "online": true,
     "cfpUrl": "https://www.scale-up-360.com/de/enterprise-cloud-governance/speakers",
     "cfpEndDate": "2022-12-03",
     "twitter": "@weCONECT",
-    "cocUrl": "https://www.we-conect.com/terms-and-conditions",
-    "url": "https://www.scale-up-360.com/de/enterprise-cloud-governance"
-  },
-  {
-    "name": "ScaleUp 360° Big Data Europe",
-    "startDate": "2022-11-22",
-    "endDate": "2022-11-22",
-    "online": true,
-    "cfpUrl": "https://www.scale-up-360.com/en/big-data-europe/speakers",
-    "cfpEndDate": "2022-11-19",
-    "twitter": "@weCONECT",
-    "cocUrl": "https://www.we-conect.com/terms-and-conditions",
-    "url": "https://www.scale-up-360.com/en/big-data-europe"
-  },
-  {
-    "name": "NODES",
-    "startDate": "2022-11-16",
-    "endDate": "2022-11-17",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/neo4j-nodes-2022",
-    "cfpEndDate": "2022-08-20",
-    "twitter": "@neo4j",
-    "url": "https://neo4j.com/nodes-2022"
-  },
-  {
-    "name": "ODSC West - Mini-Bootcamp",
-    "startDate": "2022-11-01",
-    "endDate": "2022-11-03",
-    "city": "Burlingame, CA",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@ODSC",
-    "offersSignLanguageOrCC": true,
-    "url": "https://odsc.com/california/bootcamp/"
-  },
-  {
-    "name": "Open Source Analytics Conference",
-    "startDate": "2022-11-15",
-    "endDate": "2022-11-15",
-    "online": true,
-    "cfpUrl": "https://forms.gle/mxPdPfVYEo2ATMHp9",
-    "cfpEndDate": "2022-09-15",
-    "twitter": "@AltinityDB",
-    "url": "https://altinity.com/osa-con"
+    "cocUrl": "https://www.we-conect.com/terms-and-conditions"
   },
   {
     "name": "WEBCONGRESS MIAMI",
+    "url": "https://www.webcongress.com/miami",
     "startDate": "2022-12-07",
     "endDate": "2022-12-07",
     "city": "Miami, FL",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@webcongress",
-    "url": "https://www.webcongress.com/miami"
-  },
-  {
-    "name": "Web Data Extraction Summit",
-    "startDate": "2022-09-29",
-    "endDate": "2022-09-29",
-    "city": "London",
-    "country": "U.K.",
-    "online": false,
-    "twitter": "@ExtractSummit",
-    "offersSignLanguageOrCC": true,
-    "url": "https://www.extractsummit.io"
+    "twitter": "@webcongress"
   }
 ]

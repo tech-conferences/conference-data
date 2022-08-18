@@ -115,6 +115,16 @@
     "cocUrl": "https://www.updateconference.net/en/code-of-conduct"
   },
   {
+    "name": "NODES",
+    "url": "https://neo4j.com/nodes-2022",
+    "startDate": "2022-11-16",
+    "endDate": "2022-11-17",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/neo4j-nodes-2022",
+    "cfpEndDate": "2022-08-20",
+    "twitter": "@neo4j"
+  },
+  {
     "name": "GraphQL Galaxy",
     "url": "https://graphqlgalaxy.com",
     "startDate": "2022-12-09",
@@ -126,15 +136,5 @@
     "cfpEndDate": "2022-09-24",
     "twitter": "@graphqlgalaxy",
     "cocUrl": "https://graphqlgalaxy.com/coc"
-  },
-  {
-    "name": "NODES",
-    "startDate": "2022-11-16",
-    "endDate": "2022-11-17",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/neo4j-nodes-2022",
-    "cfpEndDate": "2022-08-20",
-    "twitter": "@neo4j",
-    "url": "https://neo4j.com/nodes-2022"
   }
 ]

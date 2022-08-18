@@ -506,6 +506,17 @@
     "twitter": "@avar_asia"
   },
   {
+    "name": "Progressive Web Experience",
+    "url": "http://progressivewebexperience.io",
+    "startDate": "2022-12-04",
+    "endDate": "2022-12-07",
+    "city": "Clearwater, FL",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@nofluff",
+    "cocUrl": "https://progressivewebexperience.io/home/code_of_conduct"
+  },
+  {
     "name": "DevOpsCon Munich",
     "url": "https://devopscon.io/munich",
     "startDate": "2022-12-05",
@@ -514,16 +525,5 @@
     "country": "Germany",
     "online": true,
     "twitter": "@devops_con"
-  },
-  {
-    "name": "Progressive Web Experience",
-    "startDate": "2022-12-04",
-    "endDate": "2022-12-07",
-    "city": "Clearwater, FL",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@nofluff",
-    "cocUrl": "https://progressivewebexperience.io/home/code_of_conduct",
-    "url": "http://progressivewebexperience.io"
   }
 ]

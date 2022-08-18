@@ -1019,6 +1019,19 @@
     "cocUrl": "https://devopsdays.org/events/2022-cairo/conduct"
   },
   {
+    "name": "PGConf NYC",
+    "url": "https://2022.pgconf.nyc",
+    "startDate": "2022-09-22",
+    "endDate": "2022-09-23",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://2022.pgconf.nyc/callforpapers",
+    "cfpEndDate": "2022-05-31",
+    "twitter": "@pgconfnyc",
+    "cocUrl": "https://2022.pgconf.nyc/inclusion/"
+  },
+  {
     "name": "Agile India",
     "url": "https://2022.agileindia.org",
     "startDate": "2022-09-22",
@@ -1412,6 +1425,16 @@
     "cocUrl": "https://www.updateconference.net/en/code-of-conduct"
   },
   {
+    "name": "Open Source Analytics Conference",
+    "url": "https://altinity.com/osa-con",
+    "startDate": "2022-11-15",
+    "endDate": "2022-11-15",
+    "online": true,
+    "cfpUrl": "https://forms.gle/mxPdPfVYEo2ATMHp9",
+    "cfpEndDate": "2022-09-15",
+    "twitter": "@AltinityDB"
+  },
+  {
     "name": "Continuous Lifecycle",
     "url": "https://www.continuouslifecycle.de",
     "startDate": "2022-11-15",
@@ -1494,6 +1517,17 @@
     "cocUrl": "https://www.conf42.com/code-of-conduct"
   },
   {
+    "name": "ScaleUp 360° Enterprise Cloud Governance",
+    "url": "https://www.scale-up-360.com/de/enterprise-cloud-governance",
+    "startDate": "2022-12-06",
+    "endDate": "2022-12-06",
+    "online": true,
+    "cfpUrl": "https://www.scale-up-360.com/de/enterprise-cloud-governance/speakers",
+    "cfpEndDate": "2022-12-03",
+    "twitter": "@weCONECT",
+    "cocUrl": "https://www.we-conect.com/terms-and-conditions"
+  },
+  {
     "name": "SREcon Asia/Pacific",
     "url": "https://www.usenix.org/conferences",
     "startDate": "2022-12-07",
@@ -1535,39 +1569,5 @@
     "cfpEndDate": "2022-08-31",
     "twitter": "@devopsdaystlv",
     "cocUrl": "https://tlvcommunity.dev/code-of-conduct.html"
-  },
-  {
-    "name": "ScaleUp 360° Enterprise Cloud Governance",
-    "startDate": "2022-12-06",
-    "endDate": "2022-12-06",
-    "online": true,
-    "cfpUrl": "https://www.scale-up-360.com/de/enterprise-cloud-governance/speakers",
-    "cfpEndDate": "2022-12-03",
-    "twitter": "@weCONECT",
-    "cocUrl": "https://www.we-conect.com/terms-and-conditions",
-    "url": "https://www.scale-up-360.com/de/enterprise-cloud-governance"
-  },
-  {
-    "name": "PGConf NYC",
-    "startDate": "2022-09-22",
-    "endDate": "2022-09-23",
-    "city": "New York, NY",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://2022.pgconf.nyc/callforpapers",
-    "cfpEndDate": "2022-05-31",
-    "twitter": "@pgconfnyc",
-    "cocUrl": "https://2022.pgconf.nyc/inclusion/",
-    "url": "https://2022.pgconf.nyc"
-  },
-  {
-    "name": "Open Source Analytics Conference",
-    "startDate": "2022-11-15",
-    "endDate": "2022-11-15",
-    "online": true,
-    "cfpUrl": "https://forms.gle/mxPdPfVYEo2ATMHp9",
-    "cfpEndDate": "2022-09-15",
-    "twitter": "@AltinityDB",
-    "url": "https://altinity.com/osa-con"
   }
 ]
