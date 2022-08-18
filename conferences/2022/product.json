@@ -110,6 +110,15 @@
     "cocUrl": "https://shift.infobip.com/code/"
   },
   {
+    "name": "Flight Levels Day",
+    "url": "https://fld.inside-agile.com",
+    "startDate": "2022-10-10",
+    "endDate": "2022-10-10",
+    "online": true,
+    "twitter": "@inside_agile",
+    "cocUrl": "https://fld.inside-agile.com/code_of_conduct.php"
+  },
+  {
     "name": "InfoComm Southeast Asia",
     "url": "https://infocomm-sea.com/en",
     "startDate": "2022-11-02",
@@ -126,14 +135,5 @@
     "online": true,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "Flight Levels Day",
-    "startDate": "2022-10-10",
-    "endDate": "2022-10-10",
-    "online": true,
-    "twitter": "@inside_agile",
-    "cocUrl": "https://fld.inside-agile.com/code_of_conduct.php",
-    "url": "https://fld.inside-agile.com"
   }
 ]
