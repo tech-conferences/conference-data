@@ -431,6 +431,17 @@
     "cocUrl": "https://www.eclipsecon.org/2022/eclipse-community-events-code-conduct"
   },
   {
+    "name": "Lone Star Software Symposium",
+    "url": "https://nofluffjuststuff.com/austin",
+    "startDate": "2022-11-04",
+    "endDate": "2022-11-06",
+    "city": "Austin, TX",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@nofluff",
+    "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct"
+  },
+  {
     "name": "W-JAX",
     "url": "https://jax.de/munich",
     "startDate": "2022-11-07",
@@ -481,16 +492,5 @@
     "online": true,
     "twitter": "@nofluff",
     "cocUrl": "https://archconf.com/home/code_of_conduct"
-  },
-  {
-    "name": "Lone Star Software Symposium",
-    "startDate": "2022-11-04",
-    "endDate": "2022-11-06",
-    "city": "Austin, TX",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@nofluff",
-    "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct",
-    "url": "https://nofluffjuststuff.com/austin"
   }
 ]

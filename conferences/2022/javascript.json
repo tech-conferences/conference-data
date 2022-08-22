@@ -980,6 +980,17 @@
     "cocUrl": "https://testjssummit.com/coc"
   },
   {
+    "name": "Lone Star Software Symposium",
+    "url": "https://nofluffjuststuff.com/austin",
+    "startDate": "2022-11-04",
+    "endDate": "2022-11-06",
+    "city": "Austin, TX",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@nofluff",
+    "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct"
+  },
+  {
     "name": "CONNECT.TECH",
     "url": "https://2022.connect.tech",
     "startDate": "2022-11-07",
@@ -1109,16 +1120,5 @@
     "cfpEndDate": "2022-09-24",
     "twitter": "@graphqlgalaxy",
     "cocUrl": "https://graphqlgalaxy.com/coc"
-  },
-  {
-    "name": "Lone Star Software Symposium",
-    "startDate": "2022-11-04",
-    "endDate": "2022-11-06",
-    "city": "Austin, TX",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@nofluff",
-    "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct",
-    "url": "https://nofluffjuststuff.com/austin"
   }
 ]

@@ -637,6 +637,20 @@
     "twitter": "@CodePaLOUsa"
   },
   {
+    "name": "FlutterVikings",
+    "url": "https://fluttervikings.com",
+    "startDate": "2022-08-31",
+    "endDate": "2022-09-01",
+    "city": "Oslo",
+    "country": "Norway",
+    "online": true,
+    "cfpUrl": "https://fluttervikings.com/cfp",
+    "cfpEndDate": "2022-05-01",
+    "twitter": "@fluttervikings",
+    "cocUrl": "https://fluttervikings.com/code-of-conduct/",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "GambiConf",
     "url": "https://gambiconf.dev",
     "startDate": "2022-09-03",
@@ -799,6 +813,17 @@
     "twitter": "@DigitalLabin"
   },
   {
+    "name": "New England Software Symposium",
+    "url": "https://nofluffjuststuff.com/boston",
+    "startDate": "2022-09-23",
+    "endDate": "2022-09-25",
+    "city": "Boston, MA",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@nofluff",
+    "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct"
+  },
+  {
     "name": "Init",
     "url": "https://initconf.org",
     "startDate": "2022-09-24",
@@ -844,6 +869,17 @@
     "country": "U.S.A.",
     "online": true,
     "twitter": "@getsentry"
+  },
+  {
+    "name": "Pacific Northwest Software Symposium",
+    "url": "https://nofluffjuststuff.com/seattle",
+    "startDate": "2022-09-30",
+    "endDate": "2022-10-02",
+    "city": "Seattle, WA",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@nofluff",
+    "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct"
   },
   {
     "name": "Git Commit Show",
@@ -1220,41 +1256,5 @@
     "cfpUrl": "https://www.ittage.informatik-aktuell.de/call-for-papers.html",
     "cfpEndDate": "2022-05-03",
     "twitter": "@InformatikAktue"
-  },
-  {
-    "name": "FlutterVikings",
-    "startDate": "2022-08-31",
-    "endDate": "2022-09-01",
-    "city": "Oslo",
-    "country": "Norway",
-    "online": true,
-    "cfpUrl": "https://fluttervikings.com/cfp",
-    "cfpEndDate": "2022-05-01",
-    "twitter": "@fluttervikings",
-    "cocUrl": "https://fluttervikings.com/code-of-conduct/",
-    "offersSignLanguageOrCC": true,
-    "url": "https://fluttervikings.com"
-  },
-  {
-    "name": "Pacific Northwest Software Symposium",
-    "startDate": "2022-09-30",
-    "endDate": "2022-10-02",
-    "city": "Seattle, WA",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@nofluff",
-    "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct",
-    "url": "https://nofluffjuststuff.com/seattle"
-  },
-  {
-    "name": "New England Software Symposium",
-    "startDate": "2022-09-23",
-    "endDate": "2022-09-25",
-    "city": "Boston, MA",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@nofluff",
-    "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct",
-    "url": "https://nofluffjuststuff.com/boston"
   }
 ]

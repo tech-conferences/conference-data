@@ -122,6 +122,20 @@
     "twitter": "@WWCodeMobile"
   },
   {
+    "name": "FlutterVikings",
+    "url": "https://fluttervikings.com",
+    "startDate": "2022-08-31",
+    "endDate": "2022-09-01",
+    "city": "Oslo",
+    "country": "Norway",
+    "online": true,
+    "cfpUrl": "https://fluttervikings.com/cfp",
+    "cfpEndDate": "2022-05-01",
+    "twitter": "@fluttervikings",
+    "cocUrl": "https://fluttervikings.com/code-of-conduct/",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Droidcon New York",
     "url": "https://www.nyc.droidcon.com",
     "startDate": "2022-09-01",
@@ -163,19 +177,5 @@
     "country": "Bulgaria",
     "online": false,
     "twitter": "@EurasiaStartup"
-  },
-  {
-    "name": "FlutterVikings",
-    "startDate": "2022-08-31",
-    "endDate": "2022-09-01",
-    "city": "Oslo",
-    "country": "Norway",
-    "online": true,
-    "cfpUrl": "https://fluttervikings.com/cfp",
-    "cfpEndDate": "2022-05-01",
-    "twitter": "@fluttervikings",
-    "cocUrl": "https://fluttervikings.com/code-of-conduct/",
-    "offersSignLanguageOrCC": true,
-    "url": "https://fluttervikings.com"
   }
 ]
