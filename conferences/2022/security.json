@@ -525,5 +525,17 @@
     "country": "Germany",
     "online": true,
     "twitter": "@devops_con"
+  },
+  {
+    "name": "Global Conference On Cyber Security And Cloud Engineering",
+    "startDate": "2022-12-03",
+    "endDate": "2022-12-03",
+    "city": "Vancouver",
+    "country": "Canada",
+    "online": false,
+    "cfpUrl": "https://gcbme.org",
+    "cfpEndDate": "2022-11-26",
+    "twitter": "@GCBME",
+    "url": "https://gcbme.org/gccsce-december-3-2022"
   }
 ]
