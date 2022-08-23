@@ -764,5 +764,18 @@
     "country": "U.S.A.",
     "online": false,
     "twitter": "@webcongress"
+  },
+  {
+    "name": "UbuCon Asia",
+    "startDate": "2022-11-26",
+    "endDate": "2022-11-27",
+    "city": "Seoul",
+    "country": "South Korea",
+    "online": true,
+    "cfpUrl": "https://2022.ubucon.asia/call-for-proposals",
+    "cfpEndDate": "2022-09-14",
+    "twitter": "@UbuConAsia",
+    "cocUrl": "https://github.com/ubucon-asia/CodeOfConduct",
+    "url": "https://2022.ubucon.asia"
   }
 ]
