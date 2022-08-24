@@ -745,6 +745,19 @@
     "cocUrl": "https://bigdataconference.eu/code-of-conduct/"
   },
   {
+    "name": "UbuCon Asia",
+    "url": "https://2022.ubucon.asia",
+    "startDate": "2022-11-26",
+    "endDate": "2022-11-27",
+    "city": "Seoul",
+    "country": "South Korea",
+    "online": true,
+    "cfpUrl": "https://2022.ubucon.asia/call-for-proposals",
+    "cfpEndDate": "2022-09-14",
+    "twitter": "@UbuConAsia",
+    "cocUrl": "https://github.com/ubucon-asia/CodeOfConduct"
+  },
+  {
     "name": "ScaleUp 360° Enterprise Cloud Governance",
     "url": "https://www.scale-up-360.com/de/enterprise-cloud-governance",
     "startDate": "2022-12-06",
@@ -764,18 +777,5 @@
     "country": "U.S.A.",
     "online": false,
     "twitter": "@webcongress"
-  },
-  {
-    "name": "UbuCon Asia",
-    "startDate": "2022-11-26",
-    "endDate": "2022-11-27",
-    "city": "Seoul",
-    "country": "South Korea",
-    "online": true,
-    "cfpUrl": "https://2022.ubucon.asia/call-for-proposals",
-    "cfpEndDate": "2022-09-14",
-    "twitter": "@UbuConAsia",
-    "cocUrl": "https://github.com/ubucon-asia/CodeOfConduct",
-    "url": "https://2022.ubucon.asia"
   }
 ]

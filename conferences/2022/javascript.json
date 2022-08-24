@@ -1027,6 +1027,19 @@
     "cocUrl": "https://www.buildstuff.events/code-of-conduct"
   },
   {
+    "name": "JSWORLD Conference USA",
+    "url": "https://usa.jsworldconference.com",
+    "startDate": "2022-11-11",
+    "endDate": "2022-11-11",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": true,
+    "cfpUrl": "https://forms.gle/35eQbm4vnb82ezBS6",
+    "cfpEndDate": "2022-09-09",
+    "twitter": "@jsworldconf",
+    "cocUrl": "https://usa.jsworldconference.com/code-of-conduct"
+  },
+  {
     "name": "NODES",
     "url": "https://neo4j.com/nodes-2022",
     "startDate": "2022-11-16",
@@ -1120,18 +1133,5 @@
     "cfpEndDate": "2022-09-24",
     "twitter": "@graphqlgalaxy",
     "cocUrl": "https://graphqlgalaxy.com/coc"
-  },
-  {
-    "name": "JSWORLD Conference USA",
-    "startDate": "2022-11-11",
-    "endDate": "2022-11-11",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": true,
-    "cfpUrl": "https://forms.gle/35eQbm4vnb82ezBS6",
-    "cfpEndDate": "2022-09-09",
-    "twitter": "@jsworldconf",
-    "cocUrl": "https://usa.jsworldconference.com/code-of-conduct",
-    "url": "https://usa.jsworldconference.com"
   }
 ]

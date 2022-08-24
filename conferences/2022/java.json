@@ -343,6 +343,14 @@
     "cocUrl": "https://2022.jconf.dev/codeofconduct/"
   },
   {
+    "name": "IntelliJ IDEA Conf",
+    "url": "https://pages.jetbrains.com/intellij-idea-conf-2022",
+    "startDate": "2022-09-29",
+    "endDate": "2022-09-30",
+    "online": true,
+    "cocUrl": "https://berlincodeofconduct.org"
+  },
+  {
     "name": "Git Commit Show",
     "url": "https://gitcommit.show",
     "startDate": "2022-10-01",
@@ -492,13 +500,5 @@
     "online": true,
     "twitter": "@nofluff",
     "cocUrl": "https://archconf.com/home/code_of_conduct"
-  },
-  {
-    "name": "IntelliJ IDEA Conf",
-    "startDate": "2022-09-29",
-    "endDate": "2022-09-30",
-    "online": true,
-    "cocUrl": "https://berlincodeofconduct.org",
-    "url": "https://pages.jetbrains.com/intellij-idea-conf-2022"
   }
 ]
