@@ -233,6 +233,7 @@ module.exports = {
     "Belagavi",
     "Bengaluru",
     "Chandigarh",
+    "Chennai",
     "Coimbatore",
     "Delhi",
     "Goa",
