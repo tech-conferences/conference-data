@@ -30,5 +30,19 @@
     "country": "Germany",
     "online": true,
     "twitter": "@gopherconeu"
+  },
+  {
+    "name": "Az Community Conference",
+    "startDate": "2022-10-19",
+    "endDate": "2022-10-21",
+    "city": "Chennai",
+    "country": "India",
+    "online": false,
+    "cfpUrl": "https://azconf.dev/cfs",
+    "cfpEndDate": "2022-08-31",
+    "twitter": "@AzConfDev",
+    "cocUrl": "https://azconf.dev/code-of-conduct",
+    "offersSignLanguageOrCC": true,
+    "url": "https://azconf.dev"
   }
 ]
