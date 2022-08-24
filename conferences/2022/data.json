@@ -777,5 +777,14 @@
     "country": "U.S.A.",
     "online": false,
     "twitter": "@webcongress"
+  },
+  {
+    "name": "Feature Store Summit",
+    "startDate": "2022-10-11",
+    "endDate": "2022-10-11",
+    "online": true,
+    "twitter": "@FeaturestoreOrg",
+    "cocUrl": "https://www.featurestore.org/code-of-conduct",
+    "url": "https://www.featurestoresummit.com"
   }
 ]
