@@ -712,6 +712,17 @@
     "cocUrl": "https://berlincodeofconduct.org/"
   },
   {
+    "name": "SADA Impact",
+    "url": "https://sada.com/impact",
+    "startDate": "2022-09-14",
+    "endDate": "2022-09-15",
+    "city": "Los Angeles, CA",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@SADA",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "REFACTR.TECH",
     "url": "https://www.refactr.tech",
     "startDate": "2022-09-14",
@@ -971,6 +982,20 @@
     "twitter": "@amegala"
   },
   {
+    "name": "Az Community Conference",
+    "url": "https://azconf.dev",
+    "startDate": "2022-10-19",
+    "endDate": "2022-10-21",
+    "city": "Chennai",
+    "country": "India",
+    "online": false,
+    "cfpUrl": "https://azconf.dev/cfs",
+    "cfpEndDate": "2022-08-31",
+    "twitter": "@AzConfDev",
+    "cocUrl": "https://azconf.dev/code-of-conduct",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Conf42 Kube Native",
     "url": "https://www.conf42.com/kubenative2022",
     "startDate": "2022-10-20",
@@ -1215,6 +1240,19 @@
     "cocUrl": "https://devfest.gdgstrasbourg.fr/coc"
   },
   {
+    "name": "UbuCon Asia",
+    "url": "https://2022.ubucon.asia",
+    "startDate": "2022-11-26",
+    "endDate": "2022-11-27",
+    "city": "Seoul",
+    "country": "South Korea",
+    "online": true,
+    "cfpUrl": "https://2022.ubucon.asia/call-for-proposals",
+    "cfpEndDate": "2022-09-14",
+    "twitter": "@UbuConAsia",
+    "cocUrl": "https://github.com/ubucon-asia/CodeOfConduct"
+  },
+  {
     "name": "Oπe\\n Conf Athens",
     "url": "https://www.open-conf.gr/",
     "startDate": "2022-12-02",
@@ -1256,43 +1294,5 @@
     "cfpUrl": "https://www.ittage.informatik-aktuell.de/call-for-papers.html",
     "cfpEndDate": "2022-05-03",
     "twitter": "@InformatikAktue"
-  },
-  {
-    "name": "UbuCon Asia",
-    "startDate": "2022-11-26",
-    "endDate": "2022-11-27",
-    "city": "Seoul",
-    "country": "South Korea",
-    "online": true,
-    "cfpUrl": "https://2022.ubucon.asia/call-for-proposals",
-    "cfpEndDate": "2022-09-14",
-    "twitter": "@UbuConAsia",
-    "cocUrl": "https://github.com/ubucon-asia/CodeOfConduct",
-    "url": "https://2022.ubucon.asia"
-  },
-  {
-    "name": "SADA Impact",
-    "startDate": "2022-09-14",
-    "endDate": "2022-09-15",
-    "city": "Los Angeles, CA",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@SADA",
-    "offersSignLanguageOrCC": true,
-    "url": "https://sada.com/impact"
-  },
-  {
-    "name": "Az Community Conference",
-    "startDate": "2022-10-19",
-    "endDate": "2022-10-21",
-    "city": "Chennai",
-    "country": "India",
-    "online": false,
-    "cfpUrl": "https://azconf.dev/cfs",
-    "cfpEndDate": "2022-08-31",
-    "twitter": "@AzConfDev",
-    "cocUrl": "https://azconf.dev/code-of-conduct",
-    "offersSignLanguageOrCC": true,
-    "url": "https://azconf.dev"
   }
 ]

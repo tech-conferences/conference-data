@@ -1530,6 +1530,19 @@
     "cocUrl": "https://devopsdays.org/events/2022-bogota/conduct"
   },
   {
+    "name": "UbuCon Asia",
+    "url": "https://2022.ubucon.asia",
+    "startDate": "2022-11-26",
+    "endDate": "2022-11-27",
+    "city": "Seoul",
+    "country": "South Korea",
+    "online": true,
+    "cfpUrl": "https://2022.ubucon.asia/call-for-proposals",
+    "cfpEndDate": "2022-09-14",
+    "twitter": "@UbuConAsia",
+    "cocUrl": "https://github.com/ubucon-asia/CodeOfConduct"
+  },
+  {
     "name": "Conf42 DevSecOps",
     "url": "https://www.conf42.com/devsecops2022",
     "startDate": "2022-12-01",
@@ -1593,18 +1606,5 @@
     "cfpEndDate": "2022-08-31",
     "twitter": "@devopsdaystlv",
     "cocUrl": "https://tlvcommunity.dev/code-of-conduct.html"
-  },
-  {
-    "name": "UbuCon Asia",
-    "startDate": "2022-11-26",
-    "endDate": "2022-11-27",
-    "city": "Seoul",
-    "country": "South Korea",
-    "online": true,
-    "cfpUrl": "https://2022.ubucon.asia/call-for-proposals",
-    "cfpEndDate": "2022-09-14",
-    "twitter": "@UbuConAsia",
-    "cocUrl": "https://github.com/ubucon-asia/CodeOfConduct",
-    "url": "https://2022.ubucon.asia"
   }
 ]
