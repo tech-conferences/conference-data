@@ -618,5 +618,16 @@
     "country": "U.S.A.",
     "online": false,
     "twitter": "@webcongress"
+  },
+  {
+    "name": "Software Architecture Summit | 12. - 14. September | Berlin",
+    "startDate": "2022-09-12",
+    "endDate": "2022-09-14",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@SoftwArchSummit",
+    "offersSignLanguageOrCC": true,
+    "url": "https://software-architecture-summit.de/berlin"
   }
 ]
