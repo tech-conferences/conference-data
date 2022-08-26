@@ -777,5 +777,15 @@
     "country": "U.S.A.",
     "online": false,
     "twitter": "@webcongress"
+  },
+  {
+    "name": "Crunch Conference",
+    "startDate": "2022-10-03",
+    "endDate": "2022-10-05",
+    "city": "Budapest",
+    "country": "Hungary",
+    "online": true,
+    "twitter": "@crunchbp",
+    "url": "https://crunchconf.com"
   }
 ]
