@@ -443,5 +443,16 @@
     "country": "U.S.A.",
     "online": false,
     "twitter": "@webcongress"
+  },
+  {
+    "name": "Amuse Conference",
+    "startDate": "2022-10-05",
+    "endDate": "2022-10-07",
+    "city": "Budapest",
+    "country": "Hungary",
+    "online": true,
+    "twitter": "@amuseconf",
+    "offersSignLanguageOrCC": true,
+    "url": "https://amuseconf.com"
   }
 ]
