@@ -639,5 +639,18 @@
     "online": false,
     "twitter": "@TechstrongJen",
     "url": "http://www.Innotechhouston.com"
+  },
+  {
+    "name": "WebConf LATAM",
+    "startDate": "2022-11-18",
+    "endDate": "2022-11-18",
+    "city": "Córdoba",
+    "country": "Argentina",
+    "online": true,
+    "cfpUrl": "https://webconf.tech/cfp",
+    "cfpEndDate": "2022-10-01",
+    "twitter": "@WebConfLATAM",
+    "cocUrl": "https://codear.org/coc",
+    "url": "https://webconf.tech"
   }
 ]
