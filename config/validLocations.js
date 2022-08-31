@@ -1,6 +1,7 @@
 module.exports = {
   "Argentina": [
-    "Buenos Aires"
+    "Buenos Aires",
+    "Córdoba"
   ],
   "Armenia": [
     "Yerevan"
