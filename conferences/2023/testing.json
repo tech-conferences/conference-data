@@ -49,5 +49,18 @@
     "cfpEndDate": "2022-09-09",
     "twitter": "@esconfs",
     "cocUrl": "https://conference.eurostarsoftwaretesting.com/anti-harassment-policy/"
+  },
+  {
+    "name": "RoboCon",
+    "startDate": "2023-01-19",
+    "endDate": "2023-01-20",
+    "city": "Helsinki",
+    "country": "Finland",
+    "online": false,
+    "cfpUrl": "https://cfp.robocon.io/robocon-2023",
+    "cfpEndDate": "2022-09-16",
+    "twitter": "@robocon",
+    "cocUrl": "https://robotframework.org/code-of-conduct",
+    "url": "https://robocon.io"
   }
 ]
