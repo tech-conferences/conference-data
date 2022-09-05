@@ -343,7 +343,8 @@ module.exports = {
     "Chișinău"
   ],
   "Morocco": [
-    "Casablanca"
+    "Casablanca",
+    "Taghazout, Agadir"
   ],
   "Nepal": [
     "Bharatpur",
