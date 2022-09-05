@@ -712,6 +712,17 @@
     "cocUrl": "https://berlincodeofconduct.org/"
   },
   {
+    "name": "Software Architecture Summit",
+    "url": "https://software-architecture-summit.de/berlin",
+    "startDate": "2022-09-12",
+    "endDate": "2022-09-14",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@SoftwArchSummit",
+    "cocUrl": "https://software-architecture-summit.de/code-of-conduct/"
+  },
+  {
     "name": "SADA Impact",
     "url": "https://sada.com/impact",
     "startDate": "2022-09-14",
@@ -882,6 +893,16 @@
     "twitter": "@getsentry"
   },
   {
+    "name": "Immerse Global Summit",
+    "url": "https://www.immerseglobalnetwork.com/igs-europe",
+    "startDate": "2022-09-28",
+    "endDate": "2022-09-30",
+    "city": "Funchal",
+    "country": "Portugal",
+    "online": true,
+    "twitter": "@ImmerseSummit"
+  },
+  {
     "name": "Pacific Northwest Software Symposium",
     "url": "https://nofluffjuststuff.com/seattle",
     "startDate": "2022-09-30",
@@ -1036,6 +1057,16 @@
     "online": true,
     "twitter": "@inside_agile",
     "cocUrl": "https://teams.inside-agile.de/code_of_conduct.php"
+  },
+  {
+    "name": "Arm DevSummit",
+    "url": "https://devsummit.arm.com",
+    "startDate": "2022-10-26",
+    "endDate": "2022-10-27",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@Arm"
   },
   {
     "name": "performance.now()",
@@ -1201,6 +1232,17 @@
     "twitter": "@AltinityDB"
   },
   {
+    "name": "DeveloperWeek Enterprise",
+    "url": "https://www.developerweek.com/global/conference/enterprise",
+    "startDate": "2022-11-16",
+    "endDate": "2022-11-17",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/developerweek-enterprise2022",
+    "cfpEndDate": "2022-09-23",
+    "twitter": "@DeveloperWeek",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/"
+  },
+  {
     "name": "Codeurs en Seine",
     "url": "https://www.codeursenseine.com/2022",
     "startDate": "2022-11-17",
@@ -1238,6 +1280,30 @@
     "cfpEndDate": "2022-06-30",
     "twitter": "@DevfestSXB",
     "cocUrl": "https://devfest.gdgstrasbourg.fr/coc"
+  },
+  {
+    "name": "WebConf LATAM",
+    "url": "https://webconf.tech",
+    "startDate": "2022-11-18",
+    "endDate": "2022-11-18",
+    "city": "Córdoba",
+    "country": "Argentina",
+    "online": true,
+    "cfpUrl": "https://webconf.tech/cfp",
+    "cfpEndDate": "2022-10-01",
+    "twitter": "@WebConfLATAM",
+    "cocUrl": "https://codear.org/coc"
+  },
+  {
+    "name": "Codemotion Online Conference Spanish Edition",
+    "url": "https://events.codemotion.com/conferences/online/2022/online-tech-conference-2022-spanish-edition-autumn",
+    "startDate": "2022-11-22",
+    "endDate": "2022-11-23",
+    "online": true,
+    "cfpUrl": "https://extra.codemotion.com/onlineconf22-spanish-cfp",
+    "cfpEndDate": "2022-09-14",
+    "twitter": "@CodemoMadrid",
+    "cocUrl": "https://events.codemotion.com/conferences/online/2022/online-tech-conference-2022-spanish-edition-autumn/code-of-conduct"
   },
   {
     "name": "UbuCon Asia",
@@ -1297,79 +1363,13 @@
   },
   {
     "name": "EuroSymposium on Digital Transformation",
+    "url": "http://eurosymposium.eu",
     "startDate": "2022-12-15",
     "endDate": "2022-12-15",
     "city": "Gdansk",
     "country": "Poland",
     "online": true,
     "cfpUrl": "https://equinocs.springernature.com/service/PLAISEuroSymposium2022",
-    "cfpEndDate": "2022-09-19",
-    "url": "http://eurosymposium.eu"
-  },
-  {
-    "name": "Codemotion Online Conference Spanish Edition",
-    "startDate": "2022-11-22",
-    "endDate": "2022-11-23",
-    "online": true,
-    "cfpUrl": "https://extra.codemotion.com/onlineconf22-spanish-cfp",
-    "cfpEndDate": "2022-09-14",
-    "twitter": "@CodemoMadrid",
-    "cocUrl": "https://events.codemotion.com/conferences/online/2022/online-tech-conference-2022-spanish-edition-autumn/code-of-conduct",
-    "url": "https://events.codemotion.com/conferences/online/2022/online-tech-conference-2022-spanish-edition-autumn"
-  },
-  {
-    "name": "Software Architecture Summit",
-    "startDate": "2022-09-12",
-    "endDate": "2022-09-14",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@SoftwArchSummit",
-    "cocUrl": "https://software-architecture-summit.de/code-of-conduct/",
-    "url": "https://software-architecture-summit.de/berlin"
-  },
-  {
-    "name": "WebConf LATAM",
-    "startDate": "2022-11-18",
-    "endDate": "2022-11-18",
-    "city": "Córdoba",
-    "country": "Argentina",
-    "online": true,
-    "cfpUrl": "https://webconf.tech/cfp",
-    "cfpEndDate": "2022-10-01",
-    "twitter": "@WebConfLATAM",
-    "cocUrl": "https://codear.org/coc",
-    "url": "https://webconf.tech"
-  },
-  {
-    "name": "Arm DevSummit",
-    "startDate": "2022-10-26",
-    "endDate": "2022-10-27",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@Arm",
-    "url": "https://devsummit.arm.com"
-  },
-  {
-    "name": "Immerse Global Summit",
-    "startDate": "2022-09-28",
-    "endDate": "2022-09-30",
-    "city": "Funchal",
-    "country": "Portugal",
-    "online": true,
-    "twitter": "@ImmerseSummit",
-    "url": "https://www.immerseglobalnetwork.com/igs-europe"
-  },
-  {
-    "name": "DeveloperWeek Enterprise",
-    "startDate": "2022-11-16",
-    "endDate": "2022-11-17",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/developerweek-enterprise2022",
-    "cfpEndDate": "2022-09-23",
-    "twitter": "@DeveloperWeek",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "url": "https://www.developerweek.com/global/conference/enterprise"
+    "cfpEndDate": "2022-09-19"
   }
 ]

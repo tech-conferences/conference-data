@@ -480,6 +480,16 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Crunch Conference",
+    "url": "https://crunchconf.com",
+    "startDate": "2022-10-03",
+    "endDate": "2022-10-05",
+    "city": "Budapest",
+    "country": "Hungary",
+    "online": true,
+    "twitter": "@crunchbp"
+  },
+  {
     "name": "GOTO Copenhagen",
     "url": "https://gotocph.com",
     "startDate": "2022-10-03",
@@ -520,6 +530,13 @@
     "endDate": "2022-10-11",
     "online": true,
     "twitter": "@FeaturestoreOrg"
+  },
+  {
+    "name": "Matillion Data Unlocked",
+    "url": "https://www.matillion.com/data-unlocked",
+    "startDate": "2022-10-12",
+    "endDate": "2022-10-12",
+    "online": true
   },
   {
     "name": "Common Sense Data and Analytics Summit North America",
@@ -574,6 +591,16 @@
     "cfpEndDate": "2022-06-27",
     "twitter": "@enterpyconf",
     "cocUrl": "https://www.enterpy.de/code_of_conduct.php"
+  },
+  {
+    "name": "Arm DevSummit",
+    "url": "https://devsummit.arm.com",
+    "startDate": "2022-10-26",
+    "endDate": "2022-10-27",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@Arm"
   },
   {
     "name": "Startup Eurasia Conference",
@@ -777,32 +804,5 @@
     "country": "U.S.A.",
     "online": false,
     "twitter": "@webcongress"
-  },
-  {
-    "name": "Crunch Conference",
-    "startDate": "2022-10-03",
-    "endDate": "2022-10-05",
-    "city": "Budapest",
-    "country": "Hungary",
-    "online": true,
-    "twitter": "@crunchbp",
-    "url": "https://crunchconf.com"
-  },
-  {
-    "name": "Arm DevSummit",
-    "startDate": "2022-10-26",
-    "endDate": "2022-10-27",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@Arm",
-    "url": "https://devsummit.arm.com"
-  },
-  {
-    "name": "Matillion Data Unlocked",
-    "startDate": "2022-10-12",
-    "endDate": "2022-10-12",
-    "online": true,
-    "url": "https://www.matillion.com/data-unlocked"
   }
 ]

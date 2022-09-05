@@ -207,6 +207,17 @@
     "cocUrl": "https://www.we-conect.com/terms-and-conditions"
   },
   {
+    "name": "Devoxx Morocco",
+    "url": "https://devoxx.ma",
+    "startDate": "2022-10-04",
+    "endDate": "2022-10-06",
+    "city": "Taghazout, Agadir",
+    "country": "Morocco",
+    "online": false,
+    "twitter": "@DevoxxMA",
+    "cocUrl": "https://devoxx.ma/code-of-conduct/"
+  },
+  {
     "name": "TestFlix",
     "url": "https://www.thetesttribe.com/testflix-2022",
     "startDate": "2022-10-08",
@@ -249,6 +260,16 @@
     "cfpEndDate": "2022-06-15",
     "twitter": "@eclipsecon",
     "cocUrl": "https://www.eclipsecon.org/2022/eclipse-community-events-code-conduct"
+  },
+  {
+    "name": "Arm DevSummit",
+    "url": "https://devsummit.arm.com",
+    "startDate": "2022-10-26",
+    "endDate": "2022-10-27",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@Arm"
   },
   {
     "name": "CWIC: The Hyperconnected Human",
@@ -295,26 +316,5 @@
     "country": "Canada",
     "online": false,
     "twitter": "@weavesphere"
-  },
-  {
-    "name": "Arm DevSummit",
-    "startDate": "2022-10-26",
-    "endDate": "2022-10-27",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@Arm",
-    "url": "https://devsummit.arm.com"
-  },
-  {
-    "name": "Devoxx Morocco",
-    "startDate": "2022-10-04",
-    "endDate": "2022-10-06",
-    "city": "Taghazout, Agadir",
-    "country": "Morocco",
-    "online": false,
-    "twitter": "@DevoxxMA",
-    "cocUrl": "https://devoxx.ma/code-of-conduct/",
-    "url": "https://devoxx.ma"
   }
 ]

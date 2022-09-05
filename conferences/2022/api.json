@@ -84,6 +84,29 @@
     "cocUrl": "https://apiconference.net/code-of-conduct/"
   },
   {
+    "name": "API World",
+    "url": "https://apiworld.co",
+    "startDate": "2022-10-25",
+    "endDate": "2022-11-03",
+    "city": "San Jose, CA",
+    "country": "U.S.A.",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/api-world-2022",
+    "cfpEndDate": "2022-07-08",
+    "twitter": "@APIWorld",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/"
+  },
+  {
+    "name": "Arm DevSummit",
+    "url": "https://devsummit.arm.com",
+    "startDate": "2022-10-26",
+    "endDate": "2022-10-27",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@Arm"
+  },
+  {
     "name": "Update Conference Prague",
     "url": "https://www.updateconference.net",
     "startDate": "2022-11-10",
@@ -97,6 +120,17 @@
     "cocUrl": "https://www.updateconference.net/en/code-of-conduct"
   },
   {
+    "name": "MAD Summit",
+    "url": "https://mad-summit.de/berlin",
+    "startDate": "2022-11-28",
+    "endDate": "2022-11-30",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@mad_summit",
+    "cocUrl": "https://mad-summit.de/code-of-conduct/"
+  },
+  {
     "name": "DevTernity",
     "url": "https://devternity.com",
     "startDate": "2022-12-08",
@@ -104,39 +138,5 @@
     "online": true,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "MAD Summit",
-    "startDate": "2022-11-28",
-    "endDate": "2022-11-30",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@mad_summit",
-    "cocUrl": "https://mad-summit.de/code-of-conduct/",
-    "url": "https://mad-summit.de/berlin"
-  },
-  {
-    "name": "Arm DevSummit",
-    "startDate": "2022-10-26",
-    "endDate": "2022-10-27",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@Arm",
-    "url": "https://devsummit.arm.com"
-  },
-  {
-    "name": "API World",
-    "startDate": "2022-10-25",
-    "endDate": "2022-11-03",
-    "city": "San Jose, CA",
-    "country": "U.S.A.",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/api-world-2022",
-    "cfpEndDate": "2022-07-08",
-    "twitter": "@APIWorld",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "url": "https://apiworld.co"
   }
 ]

@@ -110,6 +110,16 @@
     "cocUrl": "https://shift.infobip.com/code/"
   },
   {
+    "name": "Impact Conference",
+    "url": "https://impact-conf.com",
+    "startDate": "2022-10-05",
+    "endDate": "2022-10-05",
+    "city": "Budapest",
+    "country": "Hungary",
+    "online": true,
+    "twitter": "@impact_conf"
+  },
+  {
     "name": "Flight Levels Day",
     "url": "https://fld.inside-agile.com",
     "startDate": "2022-10-10",
@@ -135,15 +145,5 @@
     "online": true,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "Impact Conference",
-    "startDate": "2022-10-05",
-    "endDate": "2022-10-05",
-    "city": "Budapest",
-    "country": "Hungary",
-    "online": true,
-    "twitter": "@impact_conf",
-    "url": "https://impact-conf.com"
   }
 ]

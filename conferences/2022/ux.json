@@ -342,6 +342,17 @@
     "cocUrl": "https://designmatters.io/"
   },
   {
+    "name": "Amuse Conference",
+    "url": "https://amuseconf.com",
+    "startDate": "2022-10-05",
+    "endDate": "2022-10-07",
+    "city": "Budapest",
+    "country": "Hungary",
+    "online": true,
+    "twitter": "@amuseconf",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Intersection Conference",
     "url": "https://www.intersection-conference.eu",
     "startDate": "2022-10-07",
@@ -443,16 +454,5 @@
     "country": "U.S.A.",
     "online": false,
     "twitter": "@webcongress"
-  },
-  {
-    "name": "Amuse Conference",
-    "startDate": "2022-10-05",
-    "endDate": "2022-10-07",
-    "city": "Budapest",
-    "country": "Hungary",
-    "online": true,
-    "twitter": "@amuseconf",
-    "offersSignLanguageOrCC": true,
-    "url": "https://amuseconf.com"
   }
 ]
