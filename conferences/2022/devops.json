@@ -1327,6 +1327,16 @@
     "cocUrl": "https://www.usenix.org/conferences/coc"
   },
   {
+    "name": "Arm DevSummit",
+    "url": "https://devsummit.arm.com",
+    "startDate": "2022-10-26",
+    "endDate": "2022-10-27",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@Arm"
+  },
+  {
     "name": "Devopsdays Montréal",
     "url": "https://devopsdays.org/events/2022-montreal/welcome/",
     "startDate": "2022-10-26",
@@ -1362,6 +1372,16 @@
     "cfpEndDate": "2022-07-01",
     "twitter": "@containerayit",
     "cocUrl": "https://grusp.org/coc"
+  },
+  {
+    "name": "Innotech Houston",
+    "url": "http://www.Innotechhouston.com",
+    "startDate": "2022-11-02",
+    "endDate": "2022-11-02",
+    "city": "Houston, TX",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@TechstrongJen"
   },
   {
     "name": "Devops Barcelona Conference",
@@ -1543,6 +1563,17 @@
     "cocUrl": "https://github.com/ubucon-asia/CodeOfConduct"
   },
   {
+    "name": "MAD Summit",
+    "url": "https://mad-summit.de/berlin",
+    "startDate": "2022-11-28",
+    "endDate": "2022-11-30",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@mad_summit",
+    "cocUrl": "https://mad-summit.de/code-of-conduct/"
+  },
+  {
     "name": "Conf42 DevSecOps",
     "url": "https://www.conf42.com/devsecops2022",
     "startDate": "2022-12-01",
@@ -1606,36 +1637,5 @@
     "cfpEndDate": "2022-08-31",
     "twitter": "@devopsdaystlv",
     "cocUrl": "https://tlvcommunity.dev/code-of-conduct.html"
-  },
-  {
-    "name": "MAD Summit",
-    "startDate": "2022-11-28",
-    "endDate": "2022-11-30",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@mad_summit",
-    "cocUrl": "https://mad-summit.de/code-of-conduct/",
-    "url": "https://mad-summit.de/berlin"
-  },
-  {
-    "name": "Innotech Houston",
-    "startDate": "2022-11-02",
-    "endDate": "2022-11-02",
-    "city": "Houston, TX",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@TechstrongJen",
-    "url": "http://www.Innotechhouston.com"
-  },
-  {
-    "name": "Arm DevSummit",
-    "startDate": "2022-10-26",
-    "endDate": "2022-10-27",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@Arm",
-    "url": "https://devsummit.arm.com"
   }
 ]

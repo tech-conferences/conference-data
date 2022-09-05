@@ -266,6 +266,16 @@
     "cocUrl": "https://2022.jcon.one/code-of-conduct"
   },
   {
+    "name": "BlackBerry Security Summit",
+    "url": "https://www.blackberry.com/us/en/events/2022/blackberry-security-summit",
+    "startDate": "2022-08-26",
+    "endDate": "2022-08-27",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@BlackBerrySpark"
+  },
+  {
     "name": "CascadiaJS",
     "url": "https://2022.cascadiajs.com",
     "startDate": "2022-08-30",
@@ -429,6 +439,16 @@
     "twitter": "@CambWireless"
   },
   {
+    "name": "Innotech Houston",
+    "url": "http://www.Innotechhouston.com",
+    "startDate": "2022-11-02",
+    "endDate": "2022-11-02",
+    "city": "Houston, TX",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@TechstrongJen"
+  },
+  {
     "name": "SnykCon",
     "url": "https://snyk.io/snykcon",
     "startDate": "2022-11-08",
@@ -537,25 +557,5 @@
     "country": "Germany",
     "online": true,
     "twitter": "@devops_con"
-  },
-  {
-    "name": "BlackBerry Security Summit",
-    "startDate": "2022-08-26",
-    "endDate": "2022-08-27",
-    "city": "New York, NY",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@BlackBerrySpark",
-    "url": "https://www.blackberry.com/us/en/events/2022/blackberry-security-summit"
-  },
-  {
-    "name": "Innotech Houston",
-    "startDate": "2022-11-02",
-    "endDate": "2022-11-02",
-    "city": "Houston, TX",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@TechstrongJen",
-    "url": "http://www.Innotechhouston.com"
   }
 ]

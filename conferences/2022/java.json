@@ -383,6 +383,17 @@
     "cocUrl": "https://gotocph.com/2022/code-of-conduct"
   },
   {
+    "name": "Devoxx Morocco",
+    "url": "https://devoxx.ma",
+    "startDate": "2022-10-04",
+    "endDate": "2022-10-06",
+    "city": "Taghazout, Agadir",
+    "country": "Morocco",
+    "online": false,
+    "twitter": "@DevoxxMA",
+    "cocUrl": "https://devoxx.ma/code-of-conduct/"
+  },
+  {
     "name": "Java Forum Nord",
     "url": "https://javaforumnord.de",
     "startDate": "2022-10-06",
@@ -500,16 +511,5 @@
     "online": true,
     "twitter": "@nofluff",
     "cocUrl": "https://archconf.com/home/code_of_conduct"
-  },
-  {
-    "name": "Devoxx Morocco",
-    "startDate": "2022-10-04",
-    "endDate": "2022-10-06",
-    "city": "Taghazout, Agadir",
-    "country": "Morocco",
-    "online": false,
-    "twitter": "@DevoxxMA",
-    "cocUrl": "https://devoxx.ma/code-of-conduct/",
-    "url": "https://devoxx.ma"
   }
 ]

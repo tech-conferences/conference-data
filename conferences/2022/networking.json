@@ -409,6 +409,17 @@
     "cocUrl": "https://nullcon.net/about-conferencepolicy/"
   },
   {
+    "name": "Software Architecture Summit",
+    "url": "https://software-architecture-summit.de/berlin",
+    "startDate": "2022-09-12",
+    "endDate": "2022-09-14",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@SoftwArchSummit",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Infobip Shift",
     "url": "https://shift.infobip.com",
     "startDate": "2022-09-19",
@@ -510,6 +521,16 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Arm DevSummit",
+    "url": "https://devsummit.arm.com",
+    "startDate": "2022-10-26",
+    "endDate": "2022-10-27",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@Arm"
+  },
+  {
     "name": "Startup Eurasia Conference",
     "url": "https://startup-eurasia.com",
     "startDate": "2022-10-27",
@@ -530,6 +551,16 @@
     "cfpUrl": "https://www.cambridgewireless.co.uk/events/conferences/cwic/cwic-call-speakers",
     "cfpEndDate": "2022-08-19",
     "twitter": "@CambWireless"
+  },
+  {
+    "name": "Innotech Houston",
+    "url": "http://www.Innotechhouston.com",
+    "startDate": "2022-11-02",
+    "endDate": "2022-11-02",
+    "city": "Houston, TX",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@TechstrongJen"
   },
   {
     "name": "SIGNAL",
@@ -585,6 +616,19 @@
     "twitter": "@weavesphere"
   },
   {
+    "name": "WebConf LATAM",
+    "url": "https://webconf.tech",
+    "startDate": "2022-11-18",
+    "endDate": "2022-11-18",
+    "city": "Córdoba",
+    "country": "Argentina",
+    "online": true,
+    "cfpUrl": "https://webconf.tech/cfp",
+    "cfpEndDate": "2022-10-01",
+    "twitter": "@WebConfLATAM",
+    "cocUrl": "https://codear.org/coc"
+  },
+  {
     "name": "React Day Berlin",
     "url": "https://reactday.berlin",
     "startDate": "2022-12-02",
@@ -618,49 +662,5 @@
     "country": "U.S.A.",
     "online": false,
     "twitter": "@webcongress"
-  },
-  {
-    "name": "Software Architecture Summit",
-    "startDate": "2022-09-12",
-    "endDate": "2022-09-14",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@SoftwArchSummit",
-    "offersSignLanguageOrCC": true,
-    "url": "https://software-architecture-summit.de/berlin"
-  },
-  {
-    "name": "Innotech Houston",
-    "startDate": "2022-11-02",
-    "endDate": "2022-11-02",
-    "city": "Houston, TX",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@TechstrongJen",
-    "url": "http://www.Innotechhouston.com"
-  },
-  {
-    "name": "WebConf LATAM",
-    "startDate": "2022-11-18",
-    "endDate": "2022-11-18",
-    "city": "Córdoba",
-    "country": "Argentina",
-    "online": true,
-    "cfpUrl": "https://webconf.tech/cfp",
-    "cfpEndDate": "2022-10-01",
-    "twitter": "@WebConfLATAM",
-    "cocUrl": "https://codear.org/coc",
-    "url": "https://webconf.tech"
-  },
-  {
-    "name": "Arm DevSummit",
-    "startDate": "2022-10-26",
-    "endDate": "2022-10-27",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@Arm",
-    "url": "https://devsummit.arm.com"
   }
 ]

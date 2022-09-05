@@ -320,6 +320,16 @@
     "cocUrl": "https://2022.agileindia.org/agile-india-values/"
   },
   {
+    "name": "Immerse Global Summit",
+    "url": "https://www.immerseglobalnetwork.com/igs-europe",
+    "startDate": "2022-09-28",
+    "endDate": "2022-09-30",
+    "city": "Funchal",
+    "country": "Portugal",
+    "online": true,
+    "twitter": "@ImmerseSummit"
+  },
+  {
     "name": "Git Commit Show",
     "url": "https://gitcommit.show",
     "startDate": "2022-10-01",
@@ -431,15 +441,5 @@
     "online": true,
     "twitter": "@nofluff",
     "cocUrl": "https://archconf.com/home/code_of_conduct"
-  },
-  {
-    "name": "Immerse Global Summit",
-    "startDate": "2022-09-28",
-    "endDate": "2022-09-30",
-    "city": "Funchal",
-    "country": "Portugal",
-    "online": true,
-    "twitter": "@ImmerseSummit",
-    "url": "https://www.immerseglobalnetwork.com/igs-europe"
   }
 ]

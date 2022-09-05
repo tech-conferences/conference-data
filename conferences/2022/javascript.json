@@ -692,6 +692,15 @@
     "cocUrl": "https://berlincodeofconduct.org/"
   },
   {
+    "name": "Front-end Foxes Day",
+    "url": "https://cfe.dev/events/frontend-foxes-day-2022",
+    "startDate": "2022-09-13",
+    "endDate": "2022-09-13",
+    "online": true,
+    "twitter": "@cfe_dev",
+    "cocUrl": "https://cfe.dev/conduct"
+  },
+  {
     "name": "MiduConf",
     "url": "https://miduconf.com",
     "startDate": "2022-09-13",
@@ -1133,14 +1142,5 @@
     "cfpEndDate": "2022-09-24",
     "twitter": "@graphqlgalaxy",
     "cocUrl": "https://graphqlgalaxy.com/coc"
-  },
-  {
-    "name": "Front-end Foxes Day",
-    "startDate": "2022-09-13",
-    "endDate": "2022-09-13",
-    "online": true,
-    "twitter": "@cfe_dev",
-    "cocUrl": "https://cfe.dev/conduct",
-    "url": "https://cfe.dev/events/frontend-foxes-day-2022"
   }
 ]
