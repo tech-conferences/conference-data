@@ -411,6 +411,7 @@ module.exports = {
     "Coimbra",
     "Estreito de Câmara de Lobos",
     "Faro",
+    "Funchal",
     "Lisbon",
     "Porto"
   ],
