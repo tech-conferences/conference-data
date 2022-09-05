@@ -305,5 +305,16 @@
     "online": false,
     "twitter": "@Arm",
     "url": "https://devsummit.arm.com"
+  },
+  {
+    "name": "Devoxx Morocco",
+    "startDate": "2022-10-04",
+    "endDate": "2022-10-06",
+    "city": "Taghazout, Agadir",
+    "country": "Morocco",
+    "online": false,
+    "twitter": "@DevoxxMA",
+    "cocUrl": "https://devoxx.ma/code-of-conduct/",
+    "url": "https://devoxx.ma"
   }
 ]
