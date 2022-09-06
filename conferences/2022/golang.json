@@ -30,5 +30,18 @@
     "country": "Germany",
     "online": true,
     "twitter": "@gopherconeu"
+  },
+  {
+    "name": "Ory Summit",
+    "startDate": "2022-10-20",
+    "endDate": "2022-10-20",
+    "city": "Munich",
+    "country": "Germany",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/ory-summit",
+    "cfpEndDate": "2022-08-30",
+    "twitter": "@OryCorp",
+    "cocUrl": "https://www.ory.sh/code-of-conduct/",
+    "url": "https://summit.ory.sh"
   }
 ]
