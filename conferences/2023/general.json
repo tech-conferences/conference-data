@@ -63,6 +63,14 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "WomenTech Global Conference",
+    "url": "https://www.womentech.net/women-tech-conference",
+    "startDate": "2023-05-09",
+    "endDate": "2023-05-11",
+    "online": true,
+    "twitter": "@womentechnet"
+  },
+  {
     "name": "North American Technology Executive Summit",
     "url": "https://cto-summit.com",
     "startDate": "2023-06-05",
@@ -71,13 +79,5 @@
     "country": "U.S.A.",
     "online": false,
     "twitter": "@EP_NATES"
-  },
-  {
-    "name": "WomenTech Global Conference",
-    "startDate": "2023-05-09",
-    "endDate": "2023-05-11",
-    "online": true,
-    "twitter": "@womentechnet",
-    "url": "https://www.womentech.net/women-tech-conference"
   }
 ]

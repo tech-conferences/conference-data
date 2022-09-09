@@ -507,6 +507,19 @@
     "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub"
   },
   {
+    "name": "Ory Summit",
+    "url": "https://summit.ory.sh",
+    "startDate": "2022-10-20",
+    "endDate": "2022-10-20",
+    "city": "Munich",
+    "country": "Germany",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/ory-summit",
+    "cfpEndDate": "2022-08-30",
+    "twitter": "@OryCorp",
+    "cocUrl": "https://www.ory.sh/code-of-conduct/"
+  },
+  {
     "name": "React Advanced London",
     "url": "https://www.reactadvanced.com",
     "startDate": "2022-10-21",
@@ -662,18 +675,5 @@
     "country": "U.S.A.",
     "online": false,
     "twitter": "@webcongress"
-  },
-  {
-    "name": "Ory Summit",
-    "startDate": "2022-10-20",
-    "endDate": "2022-10-20",
-    "city": "Munich",
-    "country": "Germany",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/ory-summit",
-    "cfpEndDate": "2022-08-30",
-    "twitter": "@OryCorp",
-    "cocUrl": "https://www.ory.sh/code-of-conduct/",
-    "url": "https://summit.ory.sh"
   }
 ]

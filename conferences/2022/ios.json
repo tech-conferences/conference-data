@@ -188,6 +188,19 @@
     "twitter": "@swift_leeds"
   },
   {
+    "name": "Do iOS",
+    "url": "https://do-ios.com",
+    "startDate": "2022-11-08",
+    "endDate": "2022-11-09",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "cfpUrl": "https://www.papercall.io/do-ios-2022",
+    "cfpEndDate": "2022-09-23",
+    "twitter": "@iosconf",
+    "cocUrl": "https://confcodeofconduct.com/"
+  },
+  {
     "name": "Swiftable",
     "url": "https://www.swiftable.co",
     "startDate": "2022-12-01",
@@ -200,20 +213,8 @@
     "twitter": "@baswiftable"
   },
   {
-    "name": "Do iOS",
-    "startDate": "2022-11-08",
-    "endDate": "2022-11-09",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "online": false,
-    "cfpUrl": "https://www.papercall.io/do-ios-2022",
-    "cfpEndDate": "2022-09-23",
-    "twitter": "@iosconf",
-    "cocUrl": "https://confcodeofconduct.com/",
-    "url": "https://do-ios.com"
-  },
-  {
     "name": "ServerSide.swift",
+    "url": "https://www.serversideswift.info",
     "startDate": "2022-12-09",
     "endDate": "2022-12-09",
     "city": "London",
@@ -222,7 +223,6 @@
     "cfpUrl": "https://forms.gle/tWMWZpChcuPL6q2C8",
     "cfpEndDate": "2022-09-30",
     "twitter": "@SwiftServerConf",
-    "cocUrl": "https://www.serversideswift.info/coc/",
-    "url": "https://www.serversideswift.info"
+    "cocUrl": "https://www.serversideswift.info/coc/"
   }
 ]

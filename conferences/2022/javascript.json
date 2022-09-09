@@ -884,6 +884,17 @@
     "cocUrl": "https://basta.net/code-of-conduct-en/"
   },
   {
+    "name": "Nx Conf",
+    "url": "https://nx.dev/conf",
+    "startDate": "2022-10-17",
+    "endDate": "2022-10-17",
+    "city": "Tempe, AZ",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@NxDevTools",
+    "cocUrl": "https://docs.google.com/document/d/1biFWD08Wrd99gRZNv4Q1tawEYGZEI3bd3J55E5uG2ZU/edit"
+  },
+  {
     "name": "JavaScript/Angular/React/HTML & CSS Days",
     "url": "https://javascript-days.de/berlin",
     "startDate": "2022-10-17",
@@ -1142,16 +1153,5 @@
     "cfpEndDate": "2022-09-24",
     "twitter": "@graphqlgalaxy",
     "cocUrl": "https://graphqlgalaxy.com/coc"
-  },
-  {
-    "name": "Nx Conf",
-    "startDate": "2022-10-17",
-    "endDate": "2022-10-17",
-    "city": "Tempe, AZ",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@NxDevTools",
-    "cocUrl": "https://docs.google.com/document/d/1biFWD08Wrd99gRZNv4Q1tawEYGZEI3bd3J55E5uG2ZU/edit",
-    "url": "https://nx.dev/conf"
   }
 ]
