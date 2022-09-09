@@ -1,5 +1,18 @@
 [
   {
+    "name": "JFokus",
+    "url": "https://www.jfokus.se",
+    "startDate": "2023-02-06",
+    "endDate": "2023-02-08",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "online": true,
+    "cfpUrl": "https://www.jfokus.se/iamahero",
+    "cfpEndDate": "2022-09-30",
+    "twitter": "@Jfokus",
+    "cocUrl": "https://www.jfokus.se/articles/code-of-conduct"
+  },
+  {
     "name": "ConFoo",
     "url": "https://confoo.ca/en/2023",
     "startDate": "2023-02-22",
@@ -44,18 +57,5 @@
     "online": false,
     "twitter": "@DevoxxUK",
     "cocUrl": "https://www.devoxx.co.uk/code-of-conduct/"
-  },
-  {
-    "name": "JFokus",
-    "startDate": "2023-02-06",
-    "endDate": "2023-02-08",
-    "city": "Stockholm",
-    "country": "Sweden",
-    "online": true,
-    "cfpUrl": "https://www.jfokus.se/iamahero",
-    "cfpEndDate": "2022-09-30",
-    "twitter": "@Jfokus",
-    "cocUrl": "https://www.jfokus.se/articles/code-of-conduct",
-    "url": "https://www.jfokus.se"
   }
 ]

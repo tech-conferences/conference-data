@@ -427,6 +427,19 @@
     "cocUrl": "https://jcon.one/code-of-conduct"
   },
   {
+    "name": "Ory Summit",
+    "url": "https://summit.ory.sh",
+    "startDate": "2022-10-20",
+    "endDate": "2022-10-20",
+    "city": "Munich",
+    "country": "Germany",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/ory-summit",
+    "cfpEndDate": "2022-08-30",
+    "twitter": "@OryCorp",
+    "cocUrl": "https://www.ory.sh/code-of-conduct/"
+  },
+  {
     "name": "CWIC: The Hyperconnected Human",
     "url": "https://www.cambridgewireless.co.uk/events/conferences/cwic",
     "startDate": "2022-11-02",
@@ -557,18 +570,5 @@
     "country": "Germany",
     "online": true,
     "twitter": "@devops_con"
-  },
-  {
-    "name": "Ory Summit",
-    "startDate": "2022-10-20",
-    "endDate": "2022-10-20",
-    "city": "Munich",
-    "country": "Germany",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/ory-summit",
-    "cfpEndDate": "2022-08-30",
-    "twitter": "@OryCorp",
-    "cocUrl": "https://www.ory.sh/code-of-conduct/",
-    "url": "https://summit.ory.sh"
   }
 ]
