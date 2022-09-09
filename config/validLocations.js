@@ -692,6 +692,7 @@ module.exports = {
     "Tacoma, WA",
     "Tampa Bay, FL",
     "Tampa, FL",
+    "Tempe, AZ",
     "Texas, IL",
     "Truckee, CA",
     "Tulsa, OK",
