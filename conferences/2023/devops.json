@@ -45,6 +45,17 @@
     "cocUrl": "https://www.javaland.eu/de/verhaltenscodex/"
   },
   {
+    "name": "QCon London International Software Development Conference",
+    "url": "https://qconlondon.com",
+    "startDate": "2023-03-27",
+    "endDate": "2023-03-29",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "twitter": "@QCon",
+    "cocUrl": "https://qconferences.com/code-conduct"
+  },
+  {
     "name": "KubeCon EU",
     "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2023",
     "startDate": "2023-04-17",
@@ -86,16 +97,5 @@
     "country": "U.K.",
     "online": false,
     "twitter": "@devopsdaysbrum"
-  },
-  {
-    "name": "QCon London International Software Development Conference",
-    "startDate": "2023-03-27",
-    "endDate": "2023-03-29",
-    "city": "London",
-    "country": "U.K.",
-    "online": false,
-    "twitter": "@QCon",
-    "cocUrl": "https://qconferences.com/code-conduct",
-    "url": "https://qconlondon.com"
   }
 ]
