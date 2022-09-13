@@ -496,6 +496,16 @@
     "cocUrl": "https://www.updateconference.net/en/code-of-conduct"
   },
   {
+    "name": "{unscripted}",
+    "url": "https://www.unscriptedconf.io",
+    "startDate": "2022-11-16",
+    "endDate": "2022-11-16",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@UnscriptedConf"
+  },
+  {
     "name": "Agile Testing Days",
     "url": "https://agiletestingdays.com",
     "startDate": "2022-11-21",
@@ -527,15 +537,5 @@
     "online": true,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "{unscripted}",
-    "startDate": "2022-11-16",
-    "endDate": "2022-11-16",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@UnscriptedConf",
-    "url": "https://www.unscriptedconf.io"
   }
 ]
