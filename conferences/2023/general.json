@@ -79,5 +79,16 @@
     "country": "U.S.A.",
     "online": false,
     "twitter": "@EP_NATES"
+  },
+  {
+    "name": "Fosdem",
+    "startDate": "2023-02-04",
+    "endDate": "2023-02-05",
+    "city": "Brussels",
+    "country": "Belgium",
+    "online": false,
+    "twitter": "@fosdem",
+    "cocUrl": "https://fosdem.org/2022/practical/conduct/",
+    "url": "https://fosdem.org/2022/news/2022-09-14-fosdem-2023-dates"
   }
 ]
