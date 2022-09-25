@@ -454,5 +454,16 @@
     "country": "U.S.A.",
     "online": false,
     "twitter": "@webcongress"
+  },
+  {
+    "name": "Touch Summit",
+    "startDate": "2022-12-07",
+    "endDate": "2022-12-08",
+    "city": "Tbilisi",
+    "country": "Georgia",
+    "online": false,
+    "twitter": "@twitterhandle",
+    "cocUrl": "https://touch.ge/summit",
+    "url": "https://touch.ge/summit"
   }
 ]
