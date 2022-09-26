@@ -208,6 +208,9 @@ module.exports = {
     "Tegernsee",
     "Wuerzburg"
   ],
+  "Georgia": [
+    "Tbilisi"
+  ],
   "Ghana": [
     "Accra"
   ],
