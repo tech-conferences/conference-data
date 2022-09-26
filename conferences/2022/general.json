@@ -1050,6 +1050,16 @@
     "cocUrl": "https://phpconference.com/code-of-conduct/"
   },
   {
+    "name": "Activate: BitGo Developer Conference",
+    "url": "https://activate.bitgo.com",
+    "startDate": "2022-10-25",
+    "endDate": "2022-10-25",
+    "city": "Mountain View, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@ActivateDevs"
+  },
+  {
     "name": "Team Up!",
     "url": "https://teams.inside-agile.de",
     "startDate": "2022-10-26",
@@ -1306,6 +1316,17 @@
     "cocUrl": "https://events.codemotion.com/conferences/online/2022/online-tech-conference-2022-spanish-edition-autumn/code-of-conduct"
   },
   {
+    "name": "Git Commit Show",
+    "url": "https://gitcommit.show",
+    "startDate": "2022-11-26",
+    "endDate": "2022-11-27",
+    "online": true,
+    "cfpUrl": "http://push.gitcommit.show",
+    "cfpEndDate": "2022-10-26",
+    "twitter": "@gitcommitshow",
+    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub"
+  },
+  {
     "name": "UbuCon Asia",
     "url": "https://2022.ubucon.asia",
     "startDate": "2022-11-26",
@@ -1356,6 +1377,16 @@
     "twitter": "@webcongress"
   },
   {
+    "name": "Touch Summit",
+    "url": "https://touch.ge/summit",
+    "startDate": "2022-12-07",
+    "endDate": "2022-12-08",
+    "city": "Tbilisi",
+    "country": "Georgia",
+    "online": false,
+    "twitter": "@touch_summit"
+  },
+  {
     "name": "DevTernity",
     "url": "https://devternity.com",
     "startDate": "2022-12-08",
@@ -1384,36 +1415,5 @@
     "online": true,
     "cfpUrl": "https://equinocs.springernature.com/service/PLAISEuroSymposium2022",
     "cfpEndDate": "2022-09-19"
-  },
-  {
-    "name": "Activate: BitGo Developer Conference",
-    "startDate": "2022-10-25",
-    "endDate": "2022-10-25",
-    "city": "Mountain View, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@ActivateDevs",
-    "url": "https://activate.bitgo.com"
-  },
-  {
-    "name": "Git Commit Show",
-    "startDate": "2022-11-26",
-    "endDate": "2022-11-27",
-    "online": true,
-    "cfpUrl": "http://push.gitcommit.show",
-    "cfpEndDate": "2022-10-26",
-    "twitter": "@gitcommitshow",
-    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub",
-    "url": "https://gitcommit.show"
-  },
-  {
-    "name": "Touch Summit",
-    "startDate": "2022-12-07",
-    "endDate": "2022-12-08",
-    "city": "Tbilisi",
-    "country": "Georgia",
-    "online": false,
-    "twitter": "@touch_summit",
-    "url": "https://touch.ge/summit"
   }
 ]

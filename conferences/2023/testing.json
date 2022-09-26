@@ -50,6 +50,27 @@
     "cocUrl": "https://agiletestingdays.us/code-of-conduct/"
   },
   {
+    "name": "UXLx User Experience Lisbon",
+    "url": "https://www.ux-lx.com",
+    "startDate": "2023-05-23",
+    "endDate": "2023-05-26",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "online": false,
+    "twitter": "@uxlx"
+  },
+  {
+    "name": "RenderATL",
+    "url": "https://www.renderatl.com",
+    "startDate": "2023-05-31",
+    "endDate": "2023-06-02",
+    "city": "Atlanta, GA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@RenderATL",
+    "cocUrl": "https://www.renderatl.com/codepolicy"
+  },
+  {
     "name": "AgileTD Open Air",
     "url": "https://openair.agiletestingdays.com",
     "startDate": "2023-06-13",
@@ -73,26 +94,5 @@
     "cfpEndDate": "2022-09-09",
     "twitter": "@esconfs",
     "cocUrl": "https://conference.eurostarsoftwaretesting.com/anti-harassment-policy/"
-  },
-  {
-    "name": "UXLx User Experience Lisbon",
-    "startDate": "2023-05-23",
-    "endDate": "2023-05-26",
-    "city": "Lisbon",
-    "country": "Portugal",
-    "online": false,
-    "twitter": "@uxlx",
-    "url": "https://www.ux-lx.com"
-  },
-  {
-    "name": "RenderATL",
-    "startDate": "2023-05-31",
-    "endDate": "2023-06-02",
-    "city": "Atlanta, GA",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@RenderATL",
-    "cocUrl": "https://www.renderatl.com/codepolicy",
-    "url": "https://www.renderatl.com"
   }
 ]

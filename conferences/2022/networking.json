@@ -420,6 +420,16 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "STARTTOUGH TALKS: BOOST YOUR STARTUP",
+    "url": "https://events.lemon.io",
+    "startDate": "2022-09-15",
+    "endDate": "2022-09-15",
+    "online": true,
+    "twitter": "@lemoneye",
+    "cocUrl": "https://events.lemon.io/privacy-policy",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Infobip Shift",
     "url": "https://shift.infobip.com",
     "startDate": "2022-09-19",
@@ -576,6 +586,18 @@
     "twitter": "@TechstrongJen"
   },
   {
+    "name": "Developer Productivity Summit",
+    "url": "https://dpesummit.com",
+    "startDate": "2022-11-02",
+    "endDate": "2022-11-03",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://dpesummit.com/#speakers",
+    "cfpEndDate": "2022-11-01",
+    "twitter": "@dpesummit"
+  },
+  {
     "name": "SIGNAL",
     "url": "https://www.signal2022.com",
     "startDate": "2022-11-02",
@@ -642,6 +664,17 @@
     "cocUrl": "https://codear.org/coc"
   },
   {
+    "name": "Git Commit Show",
+    "url": "https://gitcommit.show",
+    "startDate": "2022-11-26",
+    "endDate": "2022-11-27",
+    "online": true,
+    "cfpUrl": "http://push.gitcommit.show",
+    "cfpEndDate": "2022-10-26",
+    "twitter": "@gitcommitshow",
+    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub"
+  },
+  {
     "name": "React Day Berlin",
     "url": "https://reactday.berlin",
     "startDate": "2022-12-02",
@@ -675,38 +708,5 @@
     "country": "U.S.A.",
     "online": false,
     "twitter": "@webcongress"
-  },
-  {
-    "name": "STARTTOUGH TALKS: BOOST YOUR STARTUP",
-    "startDate": "2022-09-15",
-    "endDate": "2022-09-15",
-    "online": true,
-    "twitter": "@lemoneye",
-    "cocUrl": "https://events.lemon.io/privacy-policy",
-    "offersSignLanguageOrCC": true,
-    "url": "https://events.lemon.io"
-  },
-  {
-    "name": "Developer Productivity Summit",
-    "startDate": "2022-11-02",
-    "endDate": "2022-11-03",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://dpesummit.com/#speakers",
-    "cfpEndDate": "2022-11-01",
-    "twitter": "@dpesummit",
-    "url": "https://dpesummit.com"
-  },
-  {
-    "name": "Git Commit Show",
-    "startDate": "2022-11-26",
-    "endDate": "2022-11-27",
-    "online": true,
-    "cfpUrl": "http://push.gitcommit.show",
-    "cfpEndDate": "2022-10-26",
-    "twitter": "@gitcommitshow",
-    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub",
-    "url": "https://gitcommit.show"
   }
 ]

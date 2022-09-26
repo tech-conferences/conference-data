@@ -968,6 +968,32 @@
     "cocUrl": "https://javascript-conference.com/code-of-conduct/"
   },
   {
+    "name": "NG Poland",
+    "url": "https://www.ng-poland.pl",
+    "startDate": "2022-10-25",
+    "endDate": "2022-10-25",
+    "city": "Warsaw",
+    "country": "Poland",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeVsK-OA9HudBjk7CpkKNCK8M_DD4_DF-AsFLAP8wdHeZ3O-g/viewform",
+    "cfpEndDate": "2022-10-16",
+    "twitter": "@ngPolandConf",
+    "cocUrl": "https://www.ng-poland.pl/code-of-conduct/"
+  },
+  {
+    "name": "JS Poland",
+    "url": "https://www.js-poland.pl",
+    "startDate": "2022-10-26",
+    "endDate": "2022-10-26",
+    "city": "Warsaw",
+    "country": "Poland",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeVsK-OA9HudBjk7CpkKNCK8M_DD4_DF-AsFLAP8wdHeZ3O-g/viewform",
+    "cfpEndDate": "2022-10-16",
+    "twitter": "@jsPolandConf",
+    "cocUrl": "https://www.js-poland.pl/code-of-conduct/"
+  },
+  {
     "name": "Web Summit",
     "url": "https://websummit.com",
     "startDate": "2022-11-01",
@@ -1107,6 +1133,17 @@
     "cocUrl": "https://2022.vueday.it/welcome/coc.html"
   },
   {
+    "name": "Git Commit Show",
+    "url": "https://gitcommit.show",
+    "startDate": "2022-11-26",
+    "endDate": "2022-11-27",
+    "online": true,
+    "cfpUrl": "http://push.gitcommit.show",
+    "cfpEndDate": "2022-10-26",
+    "twitter": "@gitcommitshow",
+    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub"
+  },
+  {
     "name": "XtremeJS Online Conference",
     "url": "https://xtremejs.dev",
     "startDate": "2022-11-29",
@@ -1153,42 +1190,5 @@
     "cfpEndDate": "2022-09-24",
     "twitter": "@graphqlgalaxy",
     "cocUrl": "https://graphqlgalaxy.com/coc"
-  },
-  {
-    "name": "JS Poland",
-    "startDate": "2022-10-26",
-    "endDate": "2022-10-26",
-    "city": "Warsaw",
-    "country": "Poland",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeVsK-OA9HudBjk7CpkKNCK8M_DD4_DF-AsFLAP8wdHeZ3O-g/viewform",
-    "cfpEndDate": "2022-10-16",
-    "twitter": "@jsPolandConf",
-    "cocUrl": "https://www.js-poland.pl/code-of-conduct/",
-    "url": "https://www.js-poland.pl"
-  },
-  {
-    "name": "NG Poland",
-    "startDate": "2022-10-25",
-    "endDate": "2022-10-25",
-    "city": "Warsaw",
-    "country": "Poland",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeVsK-OA9HudBjk7CpkKNCK8M_DD4_DF-AsFLAP8wdHeZ3O-g/viewform",
-    "cfpEndDate": "2022-10-16",
-    "twitter": "@ngPolandConf",
-    "cocUrl": "https://www.ng-poland.pl/code-of-conduct/",
-    "url": "https://www.ng-poland.pl"
-  },
-  {
-    "name": "Git Commit Show",
-    "startDate": "2022-11-26",
-    "endDate": "2022-11-27",
-    "online": true,
-    "cfpUrl": "http://push.gitcommit.show",
-    "cfpEndDate": "2022-10-26",
-    "twitter": "@gitcommitshow",
-    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub",
-    "url": "https://gitcommit.show"
   }
 ]

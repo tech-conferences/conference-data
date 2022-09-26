@@ -1142,6 +1142,17 @@
     "cocUrl": "https://devopsdays.org/events/2022-houston/conduct"
   },
   {
+    "name": "HashiConf Global",
+    "url": "https://hashiconf.com/global",
+    "startDate": "2022-10-04",
+    "endDate": "2022-10-06",
+    "city": "Los Angeles, CA",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@HashiConf",
+    "cocUrl": "https://hashiconf.com/global/code-of-conduct/"
+  },
+  {
     "name": "Infoshare",
     "url": "https://infoshare.pl/conference",
     "startDate": "2022-10-06",
@@ -1384,6 +1395,18 @@
     "twitter": "@TechstrongJen"
   },
   {
+    "name": "Developer Productivity Summit",
+    "url": "https://dpesummit.com",
+    "startDate": "2022-11-02",
+    "endDate": "2022-11-03",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://dpesummit.com/#speakers",
+    "cfpEndDate": "2022-11-01",
+    "twitter": "@dpesummit"
+  },
+  {
     "name": "Devops Barcelona Conference",
     "url": "https://devops.barcelona",
     "startDate": "2022-11-03",
@@ -1560,6 +1583,17 @@
     "cocUrl": "https://devopsdays.org/events/2022-bogota/conduct"
   },
   {
+    "name": "Git Commit Show",
+    "url": "https://gitcommit.show",
+    "startDate": "2022-11-26",
+    "endDate": "2022-11-27",
+    "online": true,
+    "cfpUrl": "http://push.gitcommit.show",
+    "cfpEndDate": "2022-10-26",
+    "twitter": "@gitcommitshow",
+    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub"
+  },
+  {
     "name": "UbuCon Asia",
     "url": "https://2022.ubucon.asia",
     "startDate": "2022-11-26",
@@ -1647,39 +1681,5 @@
     "cfpEndDate": "2022-08-31",
     "twitter": "@devopsdaystlv",
     "cocUrl": "https://tlvcommunity.dev/code-of-conduct.html"
-  },
-  {
-    "name": "HashiConf Global",
-    "startDate": "2022-10-04",
-    "endDate": "2022-10-06",
-    "city": "Los Angeles, CA",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@HashiConf",
-    "cocUrl": "https://hashiconf.com/global/code-of-conduct/",
-    "url": "https://hashiconf.com/global"
-  },
-  {
-    "name": "Developer Productivity Summit",
-    "startDate": "2022-11-02",
-    "endDate": "2022-11-03",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://dpesummit.com/#speakers",
-    "cfpEndDate": "2022-11-01",
-    "twitter": "@dpesummit",
-    "url": "https://dpesummit.com"
-  },
-  {
-    "name": "Git Commit Show",
-    "startDate": "2022-11-26",
-    "endDate": "2022-11-27",
-    "online": true,
-    "cfpUrl": "http://push.gitcommit.show",
-    "cfpEndDate": "2022-10-26",
-    "twitter": "@gitcommitshow",
-    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub",
-    "url": "https://gitcommit.show"
   }
 ]

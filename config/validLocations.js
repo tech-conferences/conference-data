@@ -172,6 +172,9 @@ module.exports = {
     "Strasbourg",
     "Toulouse"
   ],
+  "Georgia": [
+    "Tbilisi"
+  ],
   "Germany": [
     "Bad Hersfeld",
     "Berlin",
@@ -207,9 +210,6 @@ module.exports = {
     "Stuttgart",
     "Tegernsee",
     "Wuerzburg"
-  ],
-  "Georgia": [
-    "Tbilisi"
   ],
   "Ghana": [
     "Accra"

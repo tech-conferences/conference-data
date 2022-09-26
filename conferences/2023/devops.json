@@ -1,5 +1,16 @@
 [
   {
+    "name": "Config Mgmt Camp",
+    "url": "https://cfgmgmtcamp.eu",
+    "startDate": "2023-02-07",
+    "endDate": "2023-02-09",
+    "city": "Ghent",
+    "country": "Belgium",
+    "online": false,
+    "twitter": "@cfgmgmtcamp",
+    "cocUrl": "https://cfgmgmtcamp.eu/ghent2022/codeofconduct/"
+  },
+  {
     "name": "ConFoo",
     "url": "https://confoo.ca/en/2023",
     "startDate": "2023-02-22",
@@ -97,16 +108,5 @@
     "country": "U.K.",
     "online": false,
     "twitter": "@devopsdaysbrum"
-  },
-  {
-    "name": "Config Mgmt Camp",
-    "startDate": "2023-02-07",
-    "endDate": "2023-02-09",
-    "city": "Ghent",
-    "country": "Belgium",
-    "online": false,
-    "twitter": "@cfgmgmtcamp",
-    "cocUrl": "https://cfgmgmtcamp.eu/ghent2022/codeofconduct/",
-    "url": "https://cfgmgmtcamp.eu"
   }
 ]
