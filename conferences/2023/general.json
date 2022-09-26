@@ -1,5 +1,16 @@
 [
   {
+    "name": "CodeMash",
+    "url": "https://www.codemash.org",
+    "startDate": "2023-01-10",
+    "endDate": "2023-01-13",
+    "city": "Sandusky, OH",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@codemash",
+    "cocUrl": "https://www.codemash.org/codemash-code-conduct/"
+  },
+  {
     "name": "You Got This Broadcasting Service",
     "url": "https://yougotthis.io/events/broadcasting-service",
     "startDate": "2023-01-14",
@@ -36,6 +47,17 @@
     "cfpEndDate": "2022-10-15",
     "twitter": "@SnowCampIO",
     "cocUrl": "https://snowcamp.io/fr/coc/"
+  },
+  {
+    "name": "Fosdem",
+    "url": "https://fosdem.org/2022/news/2022-09-14-fosdem-2023-dates",
+    "startDate": "2023-02-04",
+    "endDate": "2023-02-05",
+    "city": "Brussels",
+    "country": "Belgium",
+    "online": false,
+    "twitter": "@fosdem",
+    "cocUrl": "https://fosdem.org/2022/practical/conduct/"
   },
   {
     "name": "ConFoo",
@@ -79,27 +101,5 @@
     "country": "U.S.A.",
     "online": false,
     "twitter": "@EP_NATES"
-  },
-  {
-    "name": "Fosdem",
-    "startDate": "2023-02-04",
-    "endDate": "2023-02-05",
-    "city": "Brussels",
-    "country": "Belgium",
-    "online": false,
-    "twitter": "@fosdem",
-    "cocUrl": "https://fosdem.org/2022/practical/conduct/",
-    "url": "https://fosdem.org/2022/news/2022-09-14-fosdem-2023-dates"
-  },
-  {
-    "name": "CodeMash",
-    "startDate": "2023-01-10",
-    "endDate": "2023-01-13",
-    "city": "Sandusky, OH",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@codemash",
-    "cocUrl": "https://www.codemash.org/codemash-code-conduct/",
-    "url": "https://www.codemash.org"
   }
 ]

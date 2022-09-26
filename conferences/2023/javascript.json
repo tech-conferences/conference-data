@@ -50,6 +50,17 @@
     "cocUrl": "https://qconferences.com/code-conduct"
   },
   {
+    "name": "RenderATL",
+    "url": "https://www.renderatl.com",
+    "startDate": "2023-05-31",
+    "endDate": "2023-06-02",
+    "city": "Atlanta, GA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@RenderATL",
+    "cocUrl": "https://www.renderatl.com/codepolicy"
+  },
+  {
     "name": "JSDayIE",
     "url": "https://www.jsday.ie",
     "startDate": "2023-09-26",
@@ -61,16 +72,5 @@
     "cfpEndDate": "2023-02-28",
     "twitter": "@jsdayie",
     "cocUrl": "https://www.jsday.ie/code-of-conduct"
-  },
-  {
-    "name": "RenderATL",
-    "startDate": "2023-05-31",
-    "endDate": "2023-06-02",
-    "city": "Atlanta, GA",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@RenderATL",
-    "cocUrl": "https://www.renderatl.com/codepolicy",
-    "url": "https://www.renderatl.com"
   }
 ]

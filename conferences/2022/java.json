@@ -450,6 +450,18 @@
     "cocUrl": "https://www.eclipsecon.org/2022/eclipse-community-events-code-conduct"
   },
   {
+    "name": "Developer Productivity Summit",
+    "url": "https://dpesummit.com",
+    "startDate": "2022-11-02",
+    "endDate": "2022-11-03",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://dpesummit.com/#speakers",
+    "cfpEndDate": "2022-11-01",
+    "twitter": "@dpesummit"
+  },
+  {
     "name": "Lone Star Software Symposium",
     "url": "https://nofluffjuststuff.com/austin",
     "startDate": "2022-11-04",
@@ -511,17 +523,5 @@
     "online": true,
     "twitter": "@nofluff",
     "cocUrl": "https://archconf.com/home/code_of_conduct"
-  },
-  {
-    "name": "Developer Productivity Summit",
-    "startDate": "2022-11-02",
-    "endDate": "2022-11-03",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://dpesummit.com/#speakers",
-    "cfpEndDate": "2022-11-01",
-    "twitter": "@dpesummit",
-    "url": "https://dpesummit.com"
   }
 ]
