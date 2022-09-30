@@ -108,5 +108,16 @@
     "country": "U.K.",
     "online": false,
     "twitter": "@devopsdaysbrum"
+  },
+  {
+    "name": "Conf42 DevOps",
+    "startDate": "2023-01-26",
+    "endDate": "2023-01-26",
+    "online": true,
+    "cfpUrl": "https://www.papercall.io/conf42-devops-2023",
+    "cfpEndDate": "2022-12-26",
+    "twitter": "@conf42com",
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
+    "url": "https://www.conf42.com/devops2023"
   }
 ]
