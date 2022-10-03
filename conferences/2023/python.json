@@ -36,14 +36,13 @@
     "twitter": "@AgileTDOpenAir"
   },
   {
-  "name": "PyCon Italia",
-  "url": "https://pycon.it/",
-  "startDate": "2023-05-25",
-  "endDate": "2023-05-28",
-  "city": "Florence",
-  "country": "Italy",
-  "online": false,
-  "twitter": "@pyconit",
-  "cocUrl": "https://github.com/pythonitalia/code-of-conducts/blob/master/online/english.md"
-}
-]
+    "name": "PyCon Italia",
+    "url": "https://pycon.it/",
+    "startDate": "2023-05-25",
+    "endDate": "2023-05-28",
+    "city": "Florence",
+    "country": "Italy",
+    "online": false,
+    "twitter": "@pyconit",
+    "cocUrl": "https://github.com/pythonitalia/code-of-conducts/blob/master/online/english.md"
+}]
