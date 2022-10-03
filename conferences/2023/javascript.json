@@ -83,5 +83,18 @@
     "twitter": "@magnoliajsconf",
     "cocUrl": "https://www.magnoliajs.com/conduct",
     "url": "https://www.magnoliajs.com"
+  },
+  {
+    "name": "CityJS Conference London",
+    "startDate": "2023-03-29",
+    "endDate": "2023-03-31",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeHxOmoGqlJtUptbh4390ywKnzqiFUG1W-qgwCGUWKwRLj19w/viewform",
+    "cfpEndDate": "2022-12-31",
+    "twitter": "@cityjsconf",
+    "cocUrl": "cityjsconf.org/coc",
+    "url": "https://london.cityjsconf.org"
   }
 ]
