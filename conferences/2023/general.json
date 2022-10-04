@@ -60,6 +60,17 @@
     "cocUrl": "https://fosdem.org/2022/practical/conduct/"
   },
   {
+    "name": "Conf42 Chaos Engineering",
+    "url": "https://www.conf42.com/ce2023",
+    "startDate": "2023-02-16",
+    "endDate": "2023-02-16",
+    "online": true,
+    "cfpUrl": "https://www.papercall.io/conf42-chaos-engineering-2023",
+    "cfpEndDate": "2023-01-16",
+    "twitter": "@conf42com",
+    "cocUrl": "https://www.conf42.com/code-of-conduct"
+  },
+  {
     "name": "ConFoo",
     "url": "https://confoo.ca/en/2023",
     "startDate": "2023-02-22",
@@ -85,6 +96,17 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Conf42 Site Reliability Engineering",
+    "url": "https://www.conf42.com/sre2023",
+    "startDate": "2023-05-04",
+    "endDate": "2023-05-04",
+    "online": true,
+    "cfpUrl": "https://www.papercall.io/conf42-sre-2023",
+    "cfpEndDate": "2023-04-04",
+    "twitter": "@conf42com",
+    "cocUrl": "https://www.conf42.com/code-of-conduct"
+  },
+  {
     "name": "WomenTech Global Conference",
     "url": "https://www.womentech.net/women-tech-conference",
     "startDate": "2023-05-09",
@@ -103,62 +125,30 @@
     "twitter": "@EP_NATES"
   },
   {
-    "name": "Conf42 Chaos Engineering",
-    "startDate": "2023-02-16",
-    "endDate": "2023-02-16",
-    "online": true,
-    "cfpUrl": "https://www.papercall.io/conf42-chaos-engineering-2023",
-    "cfpEndDate": "2023-01-16",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "url": "https://www.conf42.com/ce2023"
-  },
-  {
-    "name": "Conf42 Site Reliability Engineering",
-    "startDate": "2023-05-04",
-    "endDate": "2023-05-04",
-    "online": true,
-    "cfpUrl": "https://www.papercall.io/conf42-sre-2023",
-    "cfpEndDate": "2023-04-04",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "url": "https://www.conf42.com/sre2023"
-  },
-  {
     "name": "Conf42 Observability",
+    "url": "https://www.conf42.com/obs2023",
     "startDate": "2023-06-08",
     "endDate": "2023-06-08",
     "online": true,
     "cfpUrl": "https://www.papercall.io/conf42-observability-2023",
     "cfpEndDate": "2023-05-08",
     "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "url": "https://www.conf42.com/obs2023"
+    "cocUrl": "https://www.conf42.com/code-of-conduct"
   },
   {
     "name": "Conf42 Quantum Computing",
+    "url": "https://www.conf42.com/quantum2023",
     "startDate": "2023-06-29",
     "endDate": "2023-06-29",
     "online": true,
     "cfpUrl": "https://www.papercall.io/conf42-quantum-computing-2023",
     "cfpEndDate": "2023-05-29",
     "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "url": "https://www.conf42.com/quantum2023"
-  },
-  {
-    "name": "Conf42 Incident Management",
-    "startDate": "2023-10-19",
-    "endDate": "2023-10-19",
-    "online": true,
-    "cfpUrl": "https://www.papercall.io/conf42-incident-management-2023",
-    "cfpEndDate": "2023-09-19",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "url": "https://www.conf42.com/im2023"
+    "cocUrl": "https://www.conf42.com/code-of-conduct"
   },
   {
     "name": "SREday",
+    "url": "https://www.sreday.com",
     "startDate": "2023-09-14",
     "endDate": "2023-09-15",
     "city": "London",
@@ -167,7 +157,17 @@
     "cfpUrl": "https://www.papercall.io/sreday-2023",
     "cfpEndDate": "2023-07-14",
     "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "url": "https://www.sreday.com"
+    "cocUrl": "https://www.conf42.com/code-of-conduct"
+  },
+  {
+    "name": "Conf42 Incident Management",
+    "url": "https://www.conf42.com/im2023",
+    "startDate": "2023-10-19",
+    "endDate": "2023-10-19",
+    "online": true,
+    "cfpUrl": "https://www.papercall.io/conf42-incident-management-2023",
+    "cfpEndDate": "2023-09-19",
+    "twitter": "@conf42com",
+    "cocUrl": "https://www.conf42.com/code-of-conduct"
   }
 ]

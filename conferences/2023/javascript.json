@@ -50,6 +50,19 @@
     "cocUrl": "https://qconferences.com/code-conduct"
   },
   {
+    "name": "CityJS Conference London",
+    "url": "https://london.cityjsconf.org",
+    "startDate": "2023-03-29",
+    "endDate": "2023-03-31",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeHxOmoGqlJtUptbh4390ywKnzqiFUG1W-qgwCGUWKwRLj19w/viewform",
+    "cfpEndDate": "2022-12-31",
+    "twitter": "@cityjsconf",
+    "cocUrl": "cityjsconf.org/coc"
+  },
+  {
     "name": "RenderATL",
     "url": "https://www.renderatl.com",
     "startDate": "2023-05-31",
@@ -75,37 +88,24 @@
   },
   {
     "name": "MagnoliaJS",
+    "url": "https://www.magnoliajs.com",
     "startDate": "2023-10-17",
     "endDate": "2023-10-18",
     "city": "Jackson, MS",
     "country": "U.S.A.",
     "online": true,
     "twitter": "@magnoliajsconf",
-    "cocUrl": "https://www.magnoliajs.com/conduct",
-    "url": "https://www.magnoliajs.com"
+    "cocUrl": "https://www.magnoliajs.com/conduct"
   },
   {
     "name": "Conf42 JavaScript",
+    "url": "https://www.conf42.com/js2023",
     "startDate": "2023-11-16",
     "endDate": "2023-11-16",
     "online": true,
     "cfpUrl": "https://www.papercall.io/conf42-javascript-2023",
     "cfpEndDate": "2023-10-16",
     "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "url": "https://www.conf42.com/js2023"
-  },
-  {
-    "name": "CityJS Conference London",
-    "startDate": "2023-03-29",
-    "endDate": "2023-03-31",
-    "city": "London",
-    "country": "U.K.",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeHxOmoGqlJtUptbh4390ywKnzqiFUG1W-qgwCGUWKwRLj19w/viewform",
-    "cfpEndDate": "2022-12-31",
-    "twitter": "@cityjsconf",
-    "cocUrl": "cityjsconf.org/coc",
-    "url": "https://london.cityjsconf.org"
+    "cocUrl": "https://www.conf42.com/code-of-conduct"
   }
 ]

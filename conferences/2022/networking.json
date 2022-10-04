@@ -517,6 +517,25 @@
     "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub"
   },
   {
+    "name": "Linq",
+    "url": "https://linqconf.com",
+    "startDate": "2022-10-13",
+    "endDate": "2022-10-14",
+    "city": "Paphos",
+    "country": "Cyprus",
+    "online": false
+  },
+  {
+    "name": "Manchester Tech Festivalk",
+    "url": "https://www.manchestertechfestival.co.uk",
+    "startDate": "2022-10-17",
+    "endDate": "2022-10-21",
+    "city": "Manchester",
+    "country": "U.K.",
+    "online": false,
+    "twitter": "@manctechfest"
+  },
+  {
     "name": "Ory Summit",
     "url": "https://summit.ory.sh",
     "startDate": "2022-10-20",
@@ -628,6 +647,16 @@
     "cocUrl": "https://www.buildstuff.events/code-of-conduct"
   },
   {
+    "name": "CTO Craft - Winter Conference",
+    "url": "https://conference.ctocraft.com",
+    "startDate": "2022-11-14",
+    "endDate": "2022-11-16",
+    "online": true,
+    "twitter": "@CTOCraft",
+    "cocUrl": "https://conference.ctocraft.com/code-of-conduct/",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Open Source Monitoring Conference",
     "url": "https://osmc.de",
     "startDate": "2022-11-14",
@@ -700,6 +729,17 @@
     "twitter": "@GCBME"
   },
   {
+    "name": "SpringOne",
+    "url": "https://springone.io",
+    "startDate": "2022-12-06",
+    "endDate": "2022-12-08",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@springone",
+    "cocUrl": "https://springone.io/code-of-conduct"
+  },
+  {
     "name": "WEBCONGRESS MIAMI",
     "url": "https://www.webcongress.com/miami",
     "startDate": "2022-12-07",
@@ -708,45 +748,5 @@
     "country": "U.S.A.",
     "online": false,
     "twitter": "@webcongress"
-  },
-  {
-    "name": "Linq",
-    "startDate": "2022-10-13",
-    "endDate": "2022-10-14",
-    "city": "Paphos",
-    "country": "Cyprus",
-    "online": false,
-    "url": "https://linqconf.com"
-  },
-  {
-    "name": "CTO Craft - Winter Conference",
-    "startDate": "2022-11-14",
-    "endDate": "2022-11-16",
-    "online": true,
-    "twitter": "@CTOCraft",
-    "cocUrl": "https://conference.ctocraft.com/code-of-conduct/",
-    "offersSignLanguageOrCC": true,
-    "url": "https://conference.ctocraft.com"
-  },
-  {
-    "name": "SpringOne",
-    "startDate": "2022-12-06",
-    "endDate": "2022-12-08",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@springone",
-    "cocUrl": "https://springone.io/code-of-conduct",
-    "url": "https://springone.io"
-  },
-  {
-    "name": "Manchester Tech Festivalk",
-    "startDate": "2022-10-17",
-    "endDate": "2022-10-21",
-    "city": "Manchester",
-    "country": "U.K.",
-    "online": false,
-    "twitter": "@manctechfest",
-    "url": "https://www.manchestertechfestival.co.uk"
   }
 ]

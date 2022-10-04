@@ -402,6 +402,16 @@
     "cocUrl": "https://www.buildstuff.events/code-of-conduct"
   },
   {
+    "name": "CTO Craft - Winter Conference",
+    "url": "https://conference.ctocraft.com",
+    "startDate": "2022-11-14",
+    "endDate": "2022-11-16",
+    "online": true,
+    "twitter": "@CTOCraft",
+    "cocUrl": "https://conference.ctocraft.com/code-of-conduct/",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Git Commit Show",
     "url": "https://gitcommit.show",
     "startDate": "2022-11-26",
@@ -411,6 +421,17 @@
     "cfpEndDate": "2022-10-26",
     "twitter": "@gitcommitshow",
     "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub"
+  },
+  {
+    "name": "SpringOne",
+    "url": "https://springone.io",
+    "startDate": "2022-12-06",
+    "endDate": "2022-12-08",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@springone",
+    "cocUrl": "https://springone.io/code-of-conduct"
   },
   {
     "name": "WEBCONGRESS MIAMI",
@@ -452,26 +473,5 @@
     "online": true,
     "twitter": "@nofluff",
     "cocUrl": "https://archconf.com/home/code_of_conduct"
-  },
-  {
-    "name": "CTO Craft - Winter Conference",
-    "startDate": "2022-11-14",
-    "endDate": "2022-11-16",
-    "online": true,
-    "twitter": "@CTOCraft",
-    "cocUrl": "https://conference.ctocraft.com/code-of-conduct/",
-    "offersSignLanguageOrCC": true,
-    "url": "https://conference.ctocraft.com"
-  },
-  {
-    "name": "SpringOne",
-    "startDate": "2022-12-06",
-    "endDate": "2022-12-08",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@springone",
-    "cocUrl": "https://springone.io/code-of-conduct",
-    "url": "https://springone.io"
   }
 ]
