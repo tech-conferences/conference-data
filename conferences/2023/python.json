@@ -34,5 +34,26 @@
     "cfpUrl": "https://cfp.trendig.com/AgileTD_OpenAir_2023",
     "cfpEndDate": "2022-08-31",
     "twitter": "@AgileTDOpenAir"
-  }
-]
+  },
+  {
+    "name": "Conf42 Python",
+    "startDate": "2023-03-09",
+    "endDate": "2023-03-09",
+    "online": true,
+    "cfpUrl": "https://www.papercall.io/conf42-python-2023",
+    "cfpEndDate": "2023-02-09",
+    "twitter": "@conf42com",
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
+    "url": "https://www.conf42.com/python2023"
+  },
+  {
+    "name": "PyCon Italia",
+    "url": "https://pycon.it/",
+    "startDate": "2023-05-25",
+    "endDate": "2023-05-28",
+    "city": "Florence",
+    "country": "Italy",
+    "online": false,
+    "twitter": "@pyconit",
+    "cocUrl": "https://github.com/pythonitalia/code-of-conducts/blob/master/online/english.md"
+}]
