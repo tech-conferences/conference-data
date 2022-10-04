@@ -138,6 +138,16 @@
     "online": true
   },
   {
+    "name": "CTO Craft - Winter Conference",
+    "url": "https://conference.ctocraft.com",
+    "startDate": "2022-11-14",
+    "endDate": "2022-11-16",
+    "online": true,
+    "twitter": "@CTOCraft",
+    "cocUrl": "https://conference.ctocraft.com/code-of-conduct/",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Git Commit Show",
     "url": "https://gitcommit.show",
     "startDate": "2022-11-26",
@@ -156,15 +166,5 @@
     "online": true,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "CTO Craft - Winter Conference",
-    "startDate": "2022-11-14",
-    "endDate": "2022-11-16",
-    "online": true,
-    "twitter": "@CTOCraft",
-    "cocUrl": "https://conference.ctocraft.com/code-of-conduct/",
-    "offersSignLanguageOrCC": true,
-    "url": "https://conference.ctocraft.com"
   }
 ]

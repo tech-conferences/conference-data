@@ -1039,6 +1039,17 @@
     "cocUrl": "https://www.conf42.com/code-of-conduct"
   },
   {
+    "name": "NixCon",
+    "url": "https://2022.nixcon.org",
+    "startDate": "2022-10-20",
+    "endDate": "2022-10-22",
+    "city": "Paris",
+    "country": "France",
+    "online": true,
+    "twitter": "@nixcon_org",
+    "cocUrl": "https://2022.nixcon.org/code-of-conduct.html"
+  },
+  {
     "name": "International PHP Conference",
     "url": "https://phpconference.com/munich",
     "startDate": "2022-10-24",
@@ -1156,6 +1167,16 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "c't <webdev>",
+    "url": "https://ctwebdev.de",
+    "startDate": "2022-11-07",
+    "endDate": "2022-11-09",
+    "city": "Cologne",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@ct_webdev"
+  },
+  {
     "name": "W-JAX",
     "url": "https://jax.de/munich",
     "startDate": "2022-11-07",
@@ -1210,6 +1231,16 @@
     "cfpUrl": "https://forms.gle/SJPUsPNnT6xotyaC8",
     "cfpEndDate": "2022-07-31",
     "twitter": "@tikalk"
+  },
+  {
+    "name": "CTO Craft - Winter Conference",
+    "url": "https://conference.ctocraft.com",
+    "startDate": "2022-11-14",
+    "endDate": "2022-11-16",
+    "online": true,
+    "twitter": "@CTOCraft",
+    "cocUrl": "https://conference.ctocraft.com/code-of-conduct/",
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "iSAQB® Software Architecture Gathering - Digital",
@@ -1316,6 +1347,16 @@
     "cocUrl": "https://events.codemotion.com/conferences/online/2022/online-tech-conference-2022-spanish-edition-autumn/code-of-conduct"
   },
   {
+    "name": "Pozitive Technologies",
+    "url": "https://pozitive.tech/en",
+    "startDate": "2022-11-24",
+    "endDate": "2022-11-24",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScEUCjrmo5m2zhE_0-5xMzTp19-eMiMbZcY7_yNR4fYykTw6A/viewform",
+    "cfpEndDate": "2022-11-23",
+    "twitter": "@pozitivetech"
+  },
+  {
     "name": "Git Commit Show",
     "url": "https://gitcommit.show",
     "startDate": "2022-11-26",
@@ -1367,6 +1408,15 @@
     "cocUrl": "https://www.dddbrisbane.com/Main/CodeOfConduct"
   },
   {
+    "name": "betterCode() Clean Architecture",
+    "url": "https://clean-architecture.bettercode.eu",
+    "startDate": "2022-12-06",
+    "endDate": "2022-12-06",
+    "online": true,
+    "twitter": "@bettercodeconf",
+    "cocUrl": "https://clean-architecture.bettercode.eu/code_of_conduct.php"
+  },
+  {
     "name": "WEBCONGRESS MIAMI",
     "url": "https://www.webcongress.com/miami",
     "startDate": "2022-12-07",
@@ -1415,55 +1465,5 @@
     "online": true,
     "cfpUrl": "https://equinocs.springernature.com/service/PLAISEuroSymposium2022",
     "cfpEndDate": "2022-09-19"
-  },
-  {
-    "name": "Pozitive Technologies",
-    "startDate": "2022-11-24",
-    "endDate": "2022-11-24",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScEUCjrmo5m2zhE_0-5xMzTp19-eMiMbZcY7_yNR4fYykTw6A/viewform",
-    "cfpEndDate": "2022-11-23",
-    "twitter": "@pozitivetech",
-    "url": "https://pozitive.tech/en"
-  },
-  {
-    "name": "CTO Craft - Winter Conference",
-    "startDate": "2022-11-14",
-    "endDate": "2022-11-16",
-    "online": true,
-    "twitter": "@CTOCraft",
-    "cocUrl": "https://conference.ctocraft.com/code-of-conduct/",
-    "offersSignLanguageOrCC": true,
-    "url": "https://conference.ctocraft.com"
-  },
-  {
-    "name": "c't <webdev>",
-    "startDate": "2022-11-07",
-    "endDate": "2022-11-09",
-    "city": "Cologne",
-    "country": "Germany",
-    "online": false,
-    "twitter": "@ct_webdev",
-    "url": "https://ctwebdev.de"
-  },
-  {
-    "name": "betterCode() Clean Architecture",
-    "startDate": "2022-12-06",
-    "endDate": "2022-12-06",
-    "online": true,
-    "twitter": "@bettercodeconf",
-    "cocUrl": "https://clean-architecture.bettercode.eu/code_of_conduct.php",
-    "url": "https://clean-architecture.bettercode.eu"
-  },
-  {
-    "name": "NixCon",
-    "startDate": "2022-10-20",
-    "endDate": "2022-10-22",
-    "city": "Paris",
-    "country": "France",
-    "online": true,
-    "twitter": "@nixcon_org",
-    "cocUrl": "https://2022.nixcon.org/code-of-conduct.html",
-    "url": "https://2022.nixcon.org"
   }
 ]

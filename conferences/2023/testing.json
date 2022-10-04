@@ -13,6 +13,17 @@
     "cocUrl": "https://robotframework.org/code-of-conduct"
   },
   {
+    "name": "Conf42 Chaos Engineering",
+    "url": "https://www.conf42.com/ce2023",
+    "startDate": "2023-02-16",
+    "endDate": "2023-02-16",
+    "online": true,
+    "cfpUrl": "https://www.papercall.io/conf42-chaos-engineering-2023",
+    "cfpEndDate": "2023-01-16",
+    "twitter": "@conf42com",
+    "cocUrl": "https://www.conf42.com/code-of-conduct"
+  },
+  {
     "name": "ConFoo",
     "url": "https://confoo.ca/en/2023",
     "startDate": "2023-02-22",
@@ -35,6 +46,17 @@
     "cfpEndDate": "2022-10-14",
     "twitter": "@robocon",
     "cocUrl": "https://robotframework.org/code-of-conduct"
+  },
+  {
+    "name": "Conf42 Site Reliability Engineering",
+    "url": "https://www.conf42.com/sre2023",
+    "startDate": "2023-05-04",
+    "endDate": "2023-05-04",
+    "online": true,
+    "cfpUrl": "https://www.papercall.io/conf42-sre-2023",
+    "cfpEndDate": "2023-04-04",
+    "twitter": "@conf42com",
+    "cocUrl": "https://www.conf42.com/code-of-conduct"
   },
   {
     "name": "Agile Testing Days USA",
@@ -71,6 +93,17 @@
     "cocUrl": "https://www.renderatl.com/codepolicy"
   },
   {
+    "name": "Conf42 Observability",
+    "url": "https://www.conf42.com/obs2023",
+    "startDate": "2023-06-08",
+    "endDate": "2023-06-08",
+    "online": true,
+    "cfpUrl": "https://www.papercall.io/conf42-observability-2023",
+    "cfpEndDate": "2023-05-08",
+    "twitter": "@conf42com",
+    "cocUrl": "https://www.conf42.com/code-of-conduct"
+  },
+  {
     "name": "AgileTD Open Air",
     "url": "https://openair.agiletestingdays.com",
     "startDate": "2023-06-13",
@@ -96,47 +129,14 @@
     "cocUrl": "https://conference.eurostarsoftwaretesting.com/anti-harassment-policy/"
   },
   {
-    "name": "Conf42 Chaos Engineering",
-    "startDate": "2023-02-16",
-    "endDate": "2023-02-16",
-    "online": true,
-    "cfpUrl": "https://www.papercall.io/conf42-chaos-engineering-2023",
-    "cfpEndDate": "2023-01-16",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "url": "https://www.conf42.com/ce2023"
-  },
-  {
-    "name": "Conf42 Site Reliability Engineering",
-    "startDate": "2023-05-04",
-    "endDate": "2023-05-04",
-    "online": true,
-    "cfpUrl": "https://www.papercall.io/conf42-sre-2023",
-    "cfpEndDate": "2023-04-04",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "url": "https://www.conf42.com/sre2023"
-  },
-  {
-    "name": "Conf42 Observability",
-    "startDate": "2023-06-08",
-    "endDate": "2023-06-08",
-    "online": true,
-    "cfpUrl": "https://www.papercall.io/conf42-observability-2023",
-    "cfpEndDate": "2023-05-08",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "url": "https://www.conf42.com/obs2023"
-  },
-  {
     "name": "Conf42 Incident Management",
+    "url": "https://www.conf42.com/im2023",
     "startDate": "2023-10-19",
     "endDate": "2023-10-19",
     "online": true,
     "cfpUrl": "https://www.papercall.io/conf42-incident-management-2023",
     "cfpEndDate": "2023-09-19",
     "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "url": "https://www.conf42.com/im2023"
+    "cocUrl": "https://www.conf42.com/code-of-conduct"
   }
 ]

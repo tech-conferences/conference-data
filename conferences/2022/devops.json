@@ -1270,6 +1270,17 @@
     "cocUrl": "https://devopsdays.org/events/2022-eindhoven/conduct"
   },
   {
+    "name": "NixCon",
+    "url": "https://2022.nixcon.org",
+    "startDate": "2022-10-20",
+    "endDate": "2022-10-22",
+    "city": "Paris",
+    "country": "France",
+    "online": true,
+    "twitter": "@nixcon_org",
+    "cocUrl": "https://2022.nixcon.org/code-of-conduct.html"
+  },
+  {
     "name": "Devopsdays Tampa Bay",
     "url": "https://devopsdays.org/events/2022-tampa/welcome/",
     "startDate": "2022-10-21",
@@ -1640,6 +1651,17 @@
     "cocUrl": "https://www.we-conect.com/terms-and-conditions"
   },
   {
+    "name": "SpringOne",
+    "url": "https://springone.io",
+    "startDate": "2022-12-06",
+    "endDate": "2022-12-08",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@springone",
+    "cocUrl": "https://springone.io/code-of-conduct"
+  },
+  {
     "name": "SREcon Asia/Pacific",
     "url": "https://www.usenix.org/conferences",
     "startDate": "2022-12-07",
@@ -1681,27 +1703,5 @@
     "cfpEndDate": "2022-08-31",
     "twitter": "@devopsdaystlv",
     "cocUrl": "https://tlvcommunity.dev/code-of-conduct.html"
-  },
-  {
-    "name": "SpringOne",
-    "startDate": "2022-12-06",
-    "endDate": "2022-12-08",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@springone",
-    "cocUrl": "https://springone.io/code-of-conduct",
-    "url": "https://springone.io"
-  },
-  {
-    "name": "NixCon",
-    "startDate": "2022-10-20",
-    "endDate": "2022-10-22",
-    "city": "Paris",
-    "country": "France",
-    "online": true,
-    "twitter": "@nixcon_org",
-    "cocUrl": "https://2022.nixcon.org/code-of-conduct.html",
-    "url": "https://2022.nixcon.org"
   }
 ]

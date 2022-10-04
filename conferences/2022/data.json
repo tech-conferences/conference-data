@@ -551,6 +551,15 @@
     "twitter": "@Common_Sense_BF"
   },
   {
+    "name": "Linq",
+    "url": "https://linqconf.com",
+    "startDate": "2022-10-13",
+    "endDate": "2022-10-14",
+    "city": "Paphos",
+    "country": "Cyprus",
+    "online": false
+  },
+  {
     "name": "ScaleUp 360° Smart Data Architectures & Data Engineering",
     "url": "https://www.scale-up-360.com/de/data-architectures-engineering",
     "startDate": "2022-10-18",
@@ -807,6 +816,17 @@
     "cocUrl": "https://www.we-conect.com/terms-and-conditions"
   },
   {
+    "name": "SpringOne",
+    "url": "https://springone.io",
+    "startDate": "2022-12-06",
+    "endDate": "2022-12-08",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@springone",
+    "cocUrl": "https://springone.io/code-of-conduct"
+  },
+  {
     "name": "WEBCONGRESS MIAMI",
     "url": "https://www.webcongress.com/miami",
     "startDate": "2022-12-07",
@@ -815,25 +835,5 @@
     "country": "U.S.A.",
     "online": false,
     "twitter": "@webcongress"
-  },
-  {
-    "name": "Linq",
-    "startDate": "2022-10-13",
-    "endDate": "2022-10-14",
-    "city": "Paphos",
-    "country": "Cyprus",
-    "online": false,
-    "url": "https://linqconf.com"
-  },
-  {
-    "name": "SpringOne",
-    "startDate": "2022-12-06",
-    "endDate": "2022-12-08",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@springone",
-    "cocUrl": "https://springone.io/code-of-conduct",
-    "url": "https://springone.io"
   }
 ]

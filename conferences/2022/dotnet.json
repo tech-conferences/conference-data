@@ -162,6 +162,26 @@
     "cocUrl": "https://www.updateconference.net/en/code-of-conduct"
   },
   {
+    "name": "betterCode() .NET 7",
+    "url": "https://net.bettercode.eu",
+    "startDate": "2022-11-22",
+    "endDate": "2022-11-22",
+    "online": true,
+    "twitter": "@bettercodeconf",
+    "cocUrl": "https://net.bettercode.eu/code_of_conduct.php"
+  },
+  {
+    "name": "SpringOne",
+    "url": "https://springone.io",
+    "startDate": "2022-12-06",
+    "endDate": "2022-12-08",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@springone",
+    "cocUrl": "https://springone.io/code-of-conduct"
+  },
+  {
     "name": "DevTernity",
     "url": "https://devternity.com",
     "startDate": "2022-12-08",
@@ -169,25 +189,5 @@
     "online": true,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "SpringOne",
-    "startDate": "2022-12-06",
-    "endDate": "2022-12-08",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@springone",
-    "cocUrl": "https://springone.io/code-of-conduct",
-    "url": "https://springone.io"
-  },
-  {
-    "name": "betterCode() .NET 7",
-    "startDate": "2022-11-22",
-    "endDate": "2022-11-22",
-    "online": true,
-    "twitter": "@bettercodeconf",
-    "cocUrl": "https://net.bettercode.eu/code_of_conduct.php",
-    "url": "https://net.bettercode.eu"
   }
 ]
