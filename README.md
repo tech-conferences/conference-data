@@ -28,10 +28,9 @@ Conference data have the following structure:
 
 ## Active contributors
 
+- [Christian Grail](https://twitter.com/cgrail)
 - [Nima Izadi](https://nimz.co)
 - [Ekaterina Prigara](https://twitter.com/katyaprigara)
-- [Trivikram Kamat](https://twitter.com/trivikram)
-- [Christian Grail](https://twitter.com/cgrail)
 
 ## See all conferences
 
