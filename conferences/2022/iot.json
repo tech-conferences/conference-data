@@ -316,5 +316,16 @@
     "country": "Canada",
     "online": false,
     "twitter": "@weavesphere"
+  },
+  {
+    "name": "AWS Pop Hub",
+    "startDate": "2022-10-10",
+    "endDate": "2022-10-14",
+    "city": "Warsaw",
+    "country": "Poland",
+    "online": false,
+    "twitter": "@awscloud",
+    "offersSignLanguageOrCC": true,
+    "url": "https://www.aws-hub.pl"
   }
 ]
