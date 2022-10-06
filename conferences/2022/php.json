@@ -262,5 +262,19 @@
     "cfpEndDate": "2022-10-15",
     "twitter": "@sfdayit",
     "cocUrl": "grusp.org/coc"
+  },
+  {
+    "name": "WordCamp Italia",
+    "startDate": "2022-11-11",
+    "endDate": "2022-11-12",
+    "city": "Milano",
+    "country": "Italy",
+    "online": true,
+    "cfpUrl": "https://italia.wordcamp.org/2022/en/call-for-speakers",
+    "cfpEndDate": "2022-09-15",
+    "twitter": "@WordCampItalia",
+    "cocUrl": "https://italia.wordcamp.org/2022/code-of-conduct/",
+    "offersSignLanguageOrCC": true,
+    "url": "https://italia.wordcamp.org"
   }
 ]
