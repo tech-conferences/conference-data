@@ -45,6 +45,20 @@
     "twitter": "@CambWireless"
   },
   {
+    "name": "WordCamp Italia",
+    "url": "https://italia.wordcamp.org",
+    "startDate": "2022-11-11",
+    "endDate": "2022-11-12",
+    "city": "Milano",
+    "country": "Italy",
+    "online": true,
+    "cfpUrl": "https://italia.wordcamp.org/2022/en/call-for-speakers",
+    "cfpEndDate": "2022-09-15",
+    "twitter": "@WordCampItalia",
+    "cocUrl": "https://italia.wordcamp.org/2022/code-of-conduct/",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Global Conference On Cyber Security And Cloud Engineering",
     "url": "https://gcbme.org/gccsce-december-3-2022",
     "startDate": "2022-12-03",
@@ -55,19 +69,5 @@
     "cfpUrl": "https://gcbme.org",
     "cfpEndDate": "2022-11-26",
     "twitter": "@GCBME"
-  },
-  {
-    "name": "WordCamp Italia",
-    "startDate": "2022-11-11",
-    "endDate": "2022-11-12",
-    "city": "Milano",
-    "country": "Italy",
-    "online": true,
-    "cfpUrl": "https://italia.wordcamp.org/2022/en/call-for-speakers",
-    "cfpEndDate": "2022-09-15",
-    "twitter": "@WordCampItalia",
-    "cocUrl": "https://italia.wordcamp.org/2022/code-of-conduct/",
-    "offersSignLanguageOrCC": true,
-    "url": "https://italia.wordcamp.org"
   }
 ]

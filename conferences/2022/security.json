@@ -440,6 +440,14 @@
     "cocUrl": "https://www.ory.sh/code-of-conduct/"
   },
   {
+    "name": "BlackBerry Security Summt",
+    "url": "https://www.blackberry.com/us/en/events/2022/blackberry-security-summit",
+    "startDate": "2022-10-26",
+    "endDate": "2022-10-27",
+    "online": true,
+    "twitter": "@blackberry"
+  },
+  {
     "name": "CWIC: The Hyperconnected Human",
     "url": "https://www.cambridgewireless.co.uk/events/conferences/cwic",
     "startDate": "2022-11-02",
@@ -602,13 +610,5 @@
     "online": false,
     "twitter": "@springone",
     "cocUrl": "https://springone.io/code-of-conduct"
-  },
-  {
-    "name": "BlackBerry Security Summt",
-    "startDate": "2022-10-26",
-    "endDate": "2022-10-27",
-    "online": true,
-    "twitter": "@blackberry",
-    "url": "https://www.blackberry.com/us/en/events/2022/blackberry-security-summit"
   }
 ]

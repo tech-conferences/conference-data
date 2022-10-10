@@ -138,6 +138,20 @@
     "online": true
   },
   {
+    "name": "WordCamp Italia",
+    "url": "https://italia.wordcamp.org",
+    "startDate": "2022-11-11",
+    "endDate": "2022-11-12",
+    "city": "Milano",
+    "country": "Italy",
+    "online": true,
+    "cfpUrl": "https://italia.wordcamp.org/2022/en/call-for-speakers",
+    "cfpEndDate": "2022-09-15",
+    "twitter": "@WordCampItalia",
+    "cocUrl": "https://italia.wordcamp.org/2022/code-of-conduct/",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "CTO Craft - Winter Conference",
     "url": "https://conference.ctocraft.com",
     "startDate": "2022-11-14",
@@ -166,19 +180,5 @@
     "online": true,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "WordCamp Italia",
-    "startDate": "2022-11-11",
-    "endDate": "2022-11-12",
-    "city": "Milano",
-    "country": "Italy",
-    "online": true,
-    "cfpUrl": "https://italia.wordcamp.org/2022/en/call-for-speakers",
-    "cfpEndDate": "2022-09-15",
-    "twitter": "@WordCampItalia",
-    "cocUrl": "https://italia.wordcamp.org/2022/code-of-conduct/",
-    "offersSignLanguageOrCC": true,
-    "url": "https://italia.wordcamp.org"
   }
 ]

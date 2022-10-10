@@ -230,6 +230,17 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "AWS Pop Hub",
+    "url": "https://www.aws-hub.pl",
+    "startDate": "2022-10-10",
+    "endDate": "2022-10-14",
+    "city": "Warsaw",
+    "country": "Poland",
+    "online": false,
+    "twitter": "@awscloud",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "MASCOTS 30th International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems",
     "url": "https://mascots.iitis.pl",
     "startDate": "2022-10-18",
@@ -316,16 +327,5 @@
     "country": "Canada",
     "online": false,
     "twitter": "@weavesphere"
-  },
-  {
-    "name": "AWS Pop Hub",
-    "startDate": "2022-10-10",
-    "endDate": "2022-10-14",
-    "city": "Warsaw",
-    "country": "Poland",
-    "online": false,
-    "twitter": "@awscloud",
-    "offersSignLanguageOrCC": true,
-    "url": "https://www.aws-hub.pl"
   }
 ]
