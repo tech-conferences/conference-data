@@ -524,6 +524,17 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "AWS Pop Hub",
+    "url": "https://www.aws-hub.pl",
+    "startDate": "2022-10-10",
+    "endDate": "2022-10-14",
+    "city": "Warsaw",
+    "country": "Poland",
+    "online": false,
+    "twitter": "@awscloud",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Feature Store Summit",
     "url": "https://www.featurestoresummit.com",
     "startDate": "2022-10-11",
@@ -676,6 +687,14 @@
     "online": true,
     "twitter": "@BuildStuffConf",
     "cocUrl": "https://www.buildstuff.events/code-of-conduct"
+  },
+  {
+    "name": "Enterprise GraphQL Conference",
+    "url": "https://hasura.io/enterprisegraphql",
+    "startDate": "2022-11-10",
+    "endDate": "2022-11-10",
+    "online": true,
+    "twitter": "@hasurahq"
   },
   {
     "name": "Update Conference Prague",
@@ -835,24 +854,5 @@
     "country": "U.S.A.",
     "online": false,
     "twitter": "@webcongress"
-  },
-  {
-    "name": "AWS Pop Hub",
-    "startDate": "2022-10-10",
-    "endDate": "2022-10-14",
-    "city": "Warsaw",
-    "country": "Poland",
-    "online": false,
-    "twitter": "@awscloud",
-    "offersSignLanguageOrCC": true,
-    "url": "https://www.aws-hub.pl"
-  },
-  {
-    "name": "Enterprise GraphQL Conference",
-    "startDate": "2022-11-10",
-    "endDate": "2022-11-10",
-    "online": true,
-    "twitter": "@hasurahq",
-    "url": "https://hasura.io/enterprisegraphql"
   }
 ]

@@ -1200,6 +1200,17 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "AWS Pop Hub",
+    "url": "https://www.aws-hub.pl",
+    "startDate": "2022-10-10",
+    "endDate": "2022-10-14",
+    "city": "Warsaw",
+    "country": "Poland",
+    "online": false,
+    "twitter": "@awscloud",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "BASTA!",
     "url": "https://basta.net/mainz-en",
     "startDate": "2022-10-10",
@@ -1477,6 +1488,14 @@
     "cocUrl": "https://docs.github.com/en/site-policy/github-terms/github-event-code-of-conduct"
   },
   {
+    "name": "Enterprise GraphQL Conference",
+    "url": "https://hasura.io/enterprisegraphql",
+    "startDate": "2022-11-10",
+    "endDate": "2022-11-10",
+    "online": true,
+    "twitter": "@hasurahq"
+  },
+  {
     "name": "Update Conference Prague",
     "url": "https://www.updateconference.net",
     "startDate": "2022-11-10",
@@ -1703,24 +1722,5 @@
     "cfpEndDate": "2022-08-31",
     "twitter": "@devopsdaystlv",
     "cocUrl": "https://tlvcommunity.dev/code-of-conduct.html"
-  },
-  {
-    "name": "AWS Pop Hub",
-    "startDate": "2022-10-10",
-    "endDate": "2022-10-14",
-    "city": "Warsaw",
-    "country": "Poland",
-    "online": false,
-    "twitter": "@awscloud",
-    "offersSignLanguageOrCC": true,
-    "url": "https://www.aws-hub.pl"
-  },
-  {
-    "name": "Enterprise GraphQL Conference",
-    "startDate": "2022-11-10",
-    "endDate": "2022-11-10",
-    "online": true,
-    "twitter": "@hasurahq",
-    "url": "https://hasura.io/enterprisegraphql"
   }
 ]

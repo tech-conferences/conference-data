@@ -529,6 +529,16 @@
     "cocUrl": "https://agiletestingdays.com/code-of-conduct/"
   },
   {
+    "name": "JConf Peru",
+    "url": "https://jconf.perujug.org",
+    "startDate": "2022-11-26",
+    "endDate": "2022-11-26",
+    "online": true,
+    "cfpUrl": "https://www.papercall.io/jconfperu2022",
+    "cfpEndDate": "2022-11-06",
+    "twitter": "@perujug"
+  },
+  {
     "name": "Git Commit Show",
     "url": "https://gitcommit.show",
     "startDate": "2022-11-26",
@@ -558,15 +568,5 @@
     "online": true,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "JConf Peru",
-    "startDate": "2022-11-26",
-    "endDate": "2022-11-26",
-    "online": true,
-    "cfpUrl": "https://www.papercall.io/jconfperu2022",
-    "cfpEndDate": "2022-11-06",
-    "twitter": "@perujug",
-    "url": "https://jconf.perujug.org"
   }
 ]

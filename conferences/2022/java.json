@@ -505,6 +505,16 @@
     "twitter": "@neo4j"
   },
   {
+    "name": "JConf Peru",
+    "url": "https://jconf.perujug.org",
+    "startDate": "2022-11-26",
+    "endDate": "2022-11-26",
+    "online": true,
+    "cfpUrl": "https://www.papercall.io/jconfperu2022",
+    "cfpEndDate": "2022-11-06",
+    "twitter": "@perujug"
+  },
+  {
     "name": "SpringOne",
     "url": "https://springone.io",
     "startDate": "2022-12-06",
@@ -534,15 +544,5 @@
     "online": true,
     "twitter": "@nofluff",
     "cocUrl": "https://archconf.com/home/code_of_conduct"
-  },
-  {
-    "name": "JConf Peru",
-    "startDate": "2022-11-26",
-    "endDate": "2022-11-26",
-    "online": true,
-    "cfpUrl": "https://www.papercall.io/jconfperu2022",
-    "cfpEndDate": "2022-11-06",
-    "twitter": "@perujug",
-    "url": "https://jconf.perujug.org"
   }
 ]

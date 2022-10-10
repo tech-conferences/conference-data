@@ -102,6 +102,14 @@
     "cocUrl": "https://apiconference.net/code-of-conduct/"
   },
   {
+    "name": "Enterprise GraphQL Conference",
+    "url": "https://hasura.io/enterprisegraphql",
+    "startDate": "2022-11-10",
+    "endDate": "2022-11-10",
+    "online": true,
+    "twitter": "@hasurahq"
+  },
+  {
     "name": "Update Conference Prague",
     "url": "https://www.updateconference.net",
     "startDate": "2022-11-10",
@@ -136,13 +144,5 @@
     "cfpEndDate": "2022-09-24",
     "twitter": "@graphqlgalaxy",
     "cocUrl": "https://graphqlgalaxy.com/coc"
-  },
-  {
-    "name": "Enterprise GraphQL Conference",
-    "startDate": "2022-11-10",
-    "endDate": "2022-11-10",
-    "online": true,
-    "twitter": "@hasurahq",
-    "url": "https://hasura.io/enterprisegraphql"
   }
 ]
