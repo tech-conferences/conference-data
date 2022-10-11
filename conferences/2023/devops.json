@@ -12,14 +12,16 @@
   },
   {
     "name": "Config Mgmt Camp",
-    "url": "https://cfgmgmtcamp.eu",
+    "url": "https://cfgmgmtcamp.eu/ghent2023/",
     "startDate": "2023-02-07",
     "endDate": "2023-02-09",
     "city": "Ghent",
     "country": "Belgium",
     "online": false,
+    "cfpUrl": "https://cfp.cfgmgmtcamp.be/2023/cfp",
+    "cfpEndDate": "2022-12-04",
     "twitter": "@cfgmgmtcamp",
-    "cocUrl": "https://cfgmgmtcamp.eu/ghent2022/codeofconduct/"
+    "cocUrl": "https://cfgmgmtcamp.eu/ghent2023/codeofconduct/"
   },
   {
     "name": "ConFoo",
@@ -33,6 +35,17 @@
     "cfpEndDate": "2022-10-06",
     "twitter": "@confooca",
     "cocUrl": "https://confoo.ca/en/code-of-conduct"
+  },
+  {
+    "name": "Devopsdays Goiânia",
+    "url": "https://devopsdays.org/events/2023-goiania/welcome/",
+    "startDate": "2023-03-03",
+    "endDate": "2023-03-04",
+    "city": "Goiânia",
+    "country": "Brazil",
+    "online": false,
+    "twitter": "@devopsdaysgyn",
+    "cocUrl": "https://devopsdays.org/events/2023-los-angeles/conduct"
   },
   {
     "name": "Devopsdays Los Angeles",
@@ -89,6 +102,19 @@
     "cocUrl": "https://www.conf42.com/code-of-conduct"
   },
   {
+    "name": "Devopsdays Nashville",
+    "url": "https://devopsdays.org/events/2023-nashville/welcome/",
+    "startDate": "2023-04-06",
+    "endDate": "2023-04-07",
+    "city": "Nashville, TN",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/nashvilledevopsdays2023/",
+    "cfpEndDate": "2023-01-15",
+    "twitter": "@nashvilledevops",
+    "cocUrl": "https://devopsdays.org/events/2023-nashville/conduct"
+  },
+  {
     "name": "KubeCon EU",
     "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2023",
     "startDate": "2023-04-17",
@@ -97,6 +123,30 @@
     "country": "Netherlands",
     "online": true,
     "twitter": "@cncf"
+  },
+  {
+    "name": "Devopsdays Birmingham, AL",
+    "url": "https://devopsdays.org/events/2023-nashville/welcome/",
+    "startDate": "2023-04-20",
+    "endDate": "2023-04-21",
+    "city": "Birmingham, AL",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://devopsdays.org/events/2023-birmingham-al/propose",
+    "cfpEndDate": "2022-12-01",
+    "twitter": "@DevOpsDaysBham",
+    "cocUrl": "https://devopsdays.org/events/2023-birmingham-al/conduct"
+  },
+  {
+    "name": "Devopsdays Denver",
+    "url": "https://devopsdays.org/events/2023-denver/welcome/",
+    "startDate": "2023-04-23",
+    "endDate": "2023-04-24",
+    "city": "Denver, CO",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@devopsdaysrox",
+    "cocUrl": "https://devopsdays.org/events/2023-denver/conduct"
   },
   {
     "name": "Devopsdays Zurich (Winterthur)",
@@ -141,6 +191,16 @@
     "cfpEndDate": "2023-08-28",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
+  },
+  {
+    "name": "Devopsdays Indianapolis",
+    "url": "https://devopsdays.org/events/2023-indianapolis/welcome/",
+    "startDate": "2023-10-05",
+    "endDate": "2023-10-06",
+    "city": "Indianapolis, IN",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@devopsdaysindy"
   },
   {
     "name": "Conf42 DevSecOps",
