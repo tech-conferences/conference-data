@@ -189,6 +189,14 @@
     "cocUrl": "https://javascript-conference.com/code-of-conduct/"
   },
   {
+    "name": "Front Stage",
+    "url": "https://frontdevstage.com",
+    "startDate": "2022-11-04",
+    "endDate": "2022-11-04",
+    "online": true,
+    "twitter": "@FrontStage"
+  },
+  {
     "name": "CONNECT.TECH",
     "url": "https://2022.connect.tech",
     "startDate": "2022-11-07",
@@ -202,6 +210,15 @@
     "cocUrl": "https://2022.connect.tech/codeofconduct/"
   },
   {
+    "name": "enterJS Web-Performance Day",
+    "url": "https://enterjs.de/web-performance.php",
+    "startDate": "2022-12-01",
+    "endDate": "2022-12-01",
+    "online": true,
+    "twitter": "@enterjsconf",
+    "cocUrl": "https://enterjs.de/code_of_conduct.php"
+  },
+  {
     "name": "Frontrunners JS/Web",
     "url": "https://frontrunners.tech",
     "startDate": "2022-12-08",
@@ -213,22 +230,5 @@
     "cfpEndDate": "2022-10-17",
     "twitter": "@frontrunnersdc",
     "cocUrl": "https://frontrunners.tech//policies/conduct.html"
-  },
-  {
-    "name": "enterJS Web-Performance Day",
-    "startDate": "2022-12-01",
-    "endDate": "2022-12-01",
-    "online": true,
-    "twitter": "@enterjsconf",
-    "cocUrl": "https://enterjs.de/code_of_conduct.php",
-    "url": "https://enterjs.de/web-performance.php"
-  },
-  {
-    "name": "Front Stage",
-    "startDate": "2022-11-04",
-    "endDate": "2022-11-04",
-    "online": true,
-    "twitter": "@FrontStage",
-    "url": "https://frontdevstage.com"
   }
 ]

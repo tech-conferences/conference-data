@@ -990,6 +990,14 @@
     "cocUrl": "https://www.ng-poland.pl/code-of-conduct/"
   },
   {
+    "name": "Next.js Conf",
+    "url": "https://nextjs.org/conf",
+    "startDate": "2022-10-25",
+    "endDate": "2022-10-25",
+    "online": true,
+    "twitter": "@nextjs"
+  },
+  {
     "name": "JS Poland",
     "url": "https://www.js-poland.pl",
     "startDate": "2022-10-26",
@@ -1022,6 +1030,14 @@
     "cfpEndDate": "2022-10-26",
     "twitter": "@WeAreDevs",
     "cocUrl": "https://sessionize.com/wadlive2022/"
+  },
+  {
+    "name": "Front Stage",
+    "url": "https://frontdevstage.com",
+    "startDate": "2022-11-04",
+    "endDate": "2022-11-04",
+    "online": true,
+    "twitter": "@FrontStage"
   },
   {
     "name": "TestJS Summit",
@@ -1095,6 +1111,18 @@
     "cocUrl": "https://usa.jsworldconference.com/code-of-conduct"
   },
   {
+    "name": "HalfStack on the shore(ditch)",
+    "url": "https://halfstackconf.com/london",
+    "startDate": "2022-11-16",
+    "endDate": "2022-11-16",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "cfpUrl": "https://halfstackconf.com/cfp",
+    "cfpEndDate": "2022-11-15",
+    "twitter": "@halfstackconf"
+  },
+  {
     "name": "NODES",
     "url": "https://neo4j.com/nodes-2022",
     "startDate": "2022-11-16",
@@ -1164,6 +1192,15 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "enterJS Web-Performance Day",
+    "url": "https://enterjs.de/web-performance.php",
+    "startDate": "2022-12-01",
+    "endDate": "2022-12-01",
+    "online": true,
+    "twitter": "@enterjsconf",
+    "cocUrl": "https://enterjs.de/code_of_conduct.php"
+  },
+  {
     "name": "React Day Berlin",
     "url": "https://reactday.berlin",
     "startDate": "2022-12-02",
@@ -1212,42 +1249,5 @@
     "cfpEndDate": "2022-09-24",
     "twitter": "@graphqlgalaxy",
     "cocUrl": "https://graphqlgalaxy.com/coc"
-  },
-  {
-    "name": "Next.js Conf",
-    "startDate": "2022-10-25",
-    "endDate": "2022-10-25",
-    "online": true,
-    "twitter": "@nextjs",
-    "url": "https://nextjs.org/conf"
-  },
-  {
-    "name": "HalfStack on the shore(ditch)",
-    "startDate": "2022-11-16",
-    "endDate": "2022-11-16",
-    "city": "London",
-    "country": "U.K.",
-    "online": false,
-    "cfpUrl": "https://halfstackconf.com/cfp",
-    "cfpEndDate": "2022-11-15",
-    "twitter": "@halfstackconf",
-    "url": "https://halfstackconf.com/london"
-  },
-  {
-    "name": "enterJS Web-Performance Day",
-    "startDate": "2022-12-01",
-    "endDate": "2022-12-01",
-    "online": true,
-    "twitter": "@enterjsconf",
-    "cocUrl": "https://enterjs.de/code_of_conduct.php",
-    "url": "https://enterjs.de/web-performance.php"
-  },
-  {
-    "name": "Front Stage",
-    "startDate": "2022-11-04",
-    "endDate": "2022-11-04",
-    "online": true,
-    "twitter": "@FrontStage",
-    "url": "https://frontdevstage.com"
   }
 ]
