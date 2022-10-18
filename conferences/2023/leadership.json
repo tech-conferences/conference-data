@@ -25,6 +25,15 @@
     "cocUrl": "https://confoo.ca/en/code-of-conduct"
   },
   {
+    "name": "Cloudfest",
+    "url": "https://www.cloudfest.com",
+    "startDate": "2023-03-21",
+    "endDate": "2023-03-23",
+    "city": "Rust",
+    "country": "Germany",
+    "online": false
+  },
+  {
     "name": "RenderATL",
     "url": "https://www.renderatl.com",
     "startDate": "2023-05-31",
@@ -34,14 +43,5 @@
     "online": false,
     "twitter": "@RenderATL",
     "cocUrl": "https://www.renderatl.com/codepolicy"
-  },
-  {
-    "name": "Cloudfest",
-    "startDate": "2023-03-21",
-    "endDate": "2023-03-23",
-    "city": "Rust",
-    "country": "Germany",
-    "online": false,
-    "url": "https://www.cloudfest.com"
   }
 ]

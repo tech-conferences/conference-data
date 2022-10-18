@@ -135,6 +135,14 @@
     "cocUrl": "https://docs.google.com/document/d/1biFWD08Wrd99gRZNv4Q1tawEYGZEI3bd3J55E5uG2ZU/edit"
   },
   {
+    "name": "Front Stage",
+    "url": "https://frontdevstage.com",
+    "startDate": "2022-11-04",
+    "endDate": "2022-11-04",
+    "online": true,
+    "twitter": "@FrontStage"
+  },
+  {
     "name": "BUILD STUFF",
     "url": "https://www.buildstuff.events",
     "startDate": "2022-11-09",
@@ -159,6 +167,15 @@
     "cocUrl": "https://www.updateconference.net/en/code-of-conduct"
   },
   {
+    "name": "enterJS Web-Performance Day",
+    "url": "https://enterjs.de/web-performance.php",
+    "startDate": "2022-12-01",
+    "endDate": "2022-12-01",
+    "online": true,
+    "twitter": "@enterjsconf",
+    "cocUrl": "https://enterjs.de/code_of_conduct.php"
+  },
+  {
     "name": "Progressive Web Experience",
     "url": "http://progressivewebexperience.io",
     "startDate": "2022-12-04",
@@ -177,22 +194,5 @@
     "online": true,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "enterJS Web-Performance Day",
-    "startDate": "2022-12-01",
-    "endDate": "2022-12-01",
-    "online": true,
-    "twitter": "@enterjsconf",
-    "cocUrl": "https://enterjs.de/code_of_conduct.php",
-    "url": "https://enterjs.de/web-performance.php"
-  },
-  {
-    "name": "Front Stage",
-    "startDate": "2022-11-04",
-    "endDate": "2022-11-04",
-    "online": true,
-    "twitter": "@FrontStage",
-    "url": "https://frontdevstage.com"
   }
 ]

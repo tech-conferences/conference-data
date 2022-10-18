@@ -120,6 +120,19 @@
     "cocUrl": "https://www.updateconference.net/en/code-of-conduct"
   },
   {
+    "name": "API Camp",
+    "url": "https://apicamp.org",
+    "startDate": "2022-11-19",
+    "endDate": "2022-11-19",
+    "city": "Bangalore",
+    "country": "India",
+    "online": false,
+    "cfpUrl": "https://confengine.com/conferences/api-camp-2022/position-papers",
+    "cfpEndDate": "2022-10-30",
+    "twitter": "@apicamp_org",
+    "cocUrl": "https://apicamp.org/code-of-conduct/"
+  },
+  {
     "name": "Git Commit Show",
     "url": "https://gitcommit.show",
     "startDate": "2022-11-26",
@@ -149,18 +162,5 @@
     "online": true,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "API Camp",
-    "startDate": "2022-11-19",
-    "endDate": "2022-11-19",
-    "city": "Bangalore",
-    "country": "India",
-    "online": false,
-    "cfpUrl": "https://confengine.com/conferences/api-camp-2022/position-papers",
-    "cfpEndDate": "2022-10-30",
-    "twitter": "@apicamp_org",
-    "cocUrl": "https://apicamp.org/code-of-conduct/",
-    "url": "https://apicamp.org"
   }
 ]

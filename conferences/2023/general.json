@@ -97,6 +97,40 @@
     "cocUrl": "https://www.socallinuxexpo.org/scale/20x/code-conduct"
   },
   {
+    "name": "Bob Konferenz",
+    "url": "https://bobkonf.de/2023/en",
+    "startDate": "2023-03-17",
+    "endDate": "2023-03-17",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://bobkonf.de/2023/en/cfc.html",
+    "cfpEndDate": "2022-11-21",
+    "twitter": "@BOBKonf"
+  },
+  {
+    "name": "Cloudfest",
+    "url": "https://www.cloudfest.com",
+    "startDate": "2023-03-21",
+    "endDate": "2023-03-23",
+    "city": "Rust",
+    "country": "Germany",
+    "online": false
+  },
+  {
+    "name": "Wasm I/O",
+    "url": "https://wasmio.tech",
+    "startDate": "2023-03-23",
+    "endDate": "2023-03-24",
+    "city": "Barcelona",
+    "country": "Spain",
+    "online": false,
+    "cfpUrl": "https://www.papercall.io/wasmio23",
+    "cfpEndDate": "2023-01-17",
+    "twitter": "@wasm_io",
+    "cocUrl": "https://wasmio.tech/coc"
+  },
+  {
     "name": "Tech Unite Africa",
     "url": "https://techuniteafrica.com",
     "startDate": "2023-03-29",
@@ -126,6 +160,17 @@
     "endDate": "2023-05-11",
     "online": true,
     "twitter": "@womentechnet"
+  },
+  {
+    "name": "DevDays",
+    "url": "https://devdays.lt",
+    "startDate": "2023-05-23",
+    "endDate": "2023-05-26",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "online": true,
+    "twitter": "@DevDaysEurope",
+    "cocUrl": "https://devdays.lt/code-of-conduct/"
   },
   {
     "name": "North American Technology Executive Summit",
@@ -182,50 +227,5 @@
     "cfpEndDate": "2023-09-19",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
-  },
-  {
-    "name": "DevDays",
-    "startDate": "2023-05-23",
-    "endDate": "2023-05-26",
-    "city": "Vilnius",
-    "country": "Lithuania",
-    "online": true,
-    "twitter": "@DevDaysEurope",
-    "cocUrl": "https://devdays.lt/code-of-conduct/",
-    "url": "https://devdays.lt"
-  },
-  {
-    "name": "Bob Konferenz",
-    "startDate": "2023-03-17",
-    "endDate": "2023-03-17",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://bobkonf.de/2023/en/cfc.html",
-    "cfpEndDate": "2022-11-21",
-    "twitter": "@BOBKonf",
-    "url": "https://bobkonf.de/2023/en"
-  },
-  {
-    "name": "Wasm I/O",
-    "startDate": "2023-03-23",
-    "endDate": "2023-03-24",
-    "city": "Barcelona",
-    "country": "Spain",
-    "online": false,
-    "cfpUrl": "https://www.papercall.io/wasmio23",
-    "cfpEndDate": "2023-01-17",
-    "twitter": "@wasm_io",
-    "cocUrl": "https://wasmio.tech/coc",
-    "url": "https://wasmio.tech"
-  },
-  {
-    "name": "Cloudfest",
-    "startDate": "2023-03-21",
-    "endDate": "2023-03-23",
-    "city": "Rust",
-    "country": "Germany",
-    "online": false,
-    "url": "https://www.cloudfest.com"
   }
 ]

@@ -824,6 +824,17 @@
     "cocUrl": "https://github.com/ubucon-asia/CodeOfConduct"
   },
   {
+    "name": "YOW! London",
+    "url": "https://yowlondon.com/2022",
+    "startDate": "2022-11-28",
+    "endDate": "2022-11-30",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "twitter": "@gotocon",
+    "cocUrl": "https://yowlondon.com/2022/code-of-conduct"
+  },
+  {
     "name": "ScaleUp 360° Enterprise Cloud Governance",
     "url": "https://www.scale-up-360.com/de/enterprise-cloud-governance",
     "startDate": "2022-12-06",
@@ -854,16 +865,5 @@
     "country": "U.S.A.",
     "online": false,
     "twitter": "@webcongress"
-  },
-  {
-    "name": "YOW! London",
-    "startDate": "2022-11-28",
-    "endDate": "2022-11-30",
-    "city": "London",
-    "country": "U.K.",
-    "online": true,
-    "twitter": "@gotocon",
-    "cocUrl": "https://yowlondon.com/2022/code-of-conduct",
-    "url": "https://yowlondon.com/2022"
   }
 ]

@@ -285,6 +285,15 @@
     "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub"
   },
   {
+    "name": "enterJS Web-Performance Day",
+    "url": "https://enterjs.de/web-performance.php",
+    "startDate": "2022-12-01",
+    "endDate": "2022-12-01",
+    "online": true,
+    "twitter": "@enterjsconf",
+    "cocUrl": "https://enterjs.de/code_of_conduct.php"
+  },
+  {
     "name": "WEBCONGRESS MIAMI",
     "url": "https://www.webcongress.com/miami",
     "startDate": "2022-12-07",
@@ -304,14 +313,5 @@
     "cfpEndDate": "2022-12-07",
     "twitter": "@WeAreDevs",
     "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form."
-  },
-  {
-    "name": "enterJS Web-Performance Day",
-    "startDate": "2022-12-01",
-    "endDate": "2022-12-01",
-    "online": true,
-    "twitter": "@enterjsconf",
-    "cocUrl": "https://enterjs.de/code_of_conduct.php",
-    "url": "https://enterjs.de/web-performance.php"
   }
 ]
