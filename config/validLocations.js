@@ -205,7 +205,6 @@ module.exports = {
     "Ostfildern",
     "Potsdam",
     "Rostock",
-    "Rust",
     "Sankt Augustin",
     "St. Leon-Rot",
     "Stuttgart",

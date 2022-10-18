@@ -25,18 +25,6 @@
     "cocUrl": "https://confoo.ca/en/code-of-conduct"
   },
   {
-    "name": "axe-con",
-    "url": "https://www.deque.com/axe-con",
-    "startDate": "2023-03-15",
-    "endDate": "2023-03-16",
-    "online": true,
-    "cfpUrl": "https://www.deque.com/axe-con/call-for-speakers",
-    "cfpEndDate": "2022-12-02",
-    "twitter": "@dequesystems",
-    "cocUrl": "https://www.deque.com/axe-con/code-of-conduct/",
-    "offersSignLanguageOrCC": true
-  },
-  {
     "name": "UXLx User Experience Lisbon",
     "url": "https://www.ux-lx.com",
     "startDate": "2023-05-23",
@@ -56,5 +44,17 @@
     "online": true,
     "twitter": "@magnoliajsconf",
     "cocUrl": "https://www.magnoliajs.com/conduct"
+  },
+  {
+    "name": "axe-con",
+    "startDate": "2023-03-15",
+    "endDate": "2023-03-16",
+    "online": true,
+    "cfpUrl": "https://www.deque.com/axe-con/call-for-speakers",
+    "cfpEndDate": "2022-12-02",
+    "twitter": "@dequesystems",
+    "cocUrl": "https://www.deque.com/axe-con/code-of-conduct/",
+    "offersSignLanguageOrCC": true,
+    "url": "https://www.deque.com/axe-con"
   }
 ]

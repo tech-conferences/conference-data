@@ -1392,17 +1392,6 @@
     "cocUrl": "https://github.com/ubucon-asia/CodeOfConduct"
   },
   {
-    "name": "YOW! London",
-    "url": "https://yowlondon.com/2022",
-    "startDate": "2022-11-28",
-    "endDate": "2022-11-30",
-    "city": "London",
-    "country": "U.K.",
-    "online": true,
-    "twitter": "@gotocon",
-    "cocUrl": "https://yowlondon.com/2022/code-of-conduct"
-  },
-  {
     "name": "Oπe\\n Conf Athens",
     "url": "https://www.open-conf.gr/",
     "startDate": "2022-12-02",
@@ -1487,5 +1476,16 @@
     "online": true,
     "cfpUrl": "https://equinocs.springernature.com/service/PLAISEuroSymposium2022",
     "cfpEndDate": "2022-09-19"
+  },
+  {
+    "name": "YOW! London",
+    "startDate": "2022-11-28",
+    "endDate": "2022-11-30",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "twitter": "@gotocon",
+    "cocUrl": "https://yowlondon.com/2022/code-of-conduct",
+    "url": "https://yowlondon.com/2022"
   }
 ]

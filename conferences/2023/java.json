@@ -48,19 +48,6 @@
     "cocUrl": "https://nofluffjuststuff.com/app/contact/request"
   },
   {
-    "name": "Devnexus",
-    "url": "https://devnexus.com",
-    "startDate": "2023-04-04",
-    "endDate": "2023-04-06",
-    "city": "Atlanta, GA",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://sessionize.com/devnexus-2023",
-    "cfpEndDate": "2022-11-15",
-    "twitter": "@devnexus",
-    "cocUrl": "https://devnexus.com/code-of-conduct"
-  },
-  {
     "name": "Devoxx UK",
     "url": "https://www.devoxx.co.uk",
     "startDate": "2023-05-10",
@@ -70,5 +57,18 @@
     "online": false,
     "twitter": "@DevoxxUK",
     "cocUrl": "https://www.devoxx.co.uk/code-of-conduct/"
+  },
+  {
+    "name": "Devnexus",
+    "startDate": "2023-04-04",
+    "endDate": "2023-04-06",
+    "city": "Atlanta, GA",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/devnexus-2023",
+    "cfpEndDate": "2022-11-15",
+    "twitter": "@devnexus",
+    "cocUrl": "https://devnexus.com/code-of-conduct",
+    "url": "https://devnexus.com"
   }
 ]

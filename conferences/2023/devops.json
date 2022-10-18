@@ -24,18 +24,6 @@
     "cocUrl": "https://cfgmgmtcamp.eu/ghent2023/codeofconduct/"
   },
   {
-    "name": "DevOps Asia Conference",
-    "url": "https://devopsasiasummit.com",
-    "startDate": "2023-02-10",
-    "endDate": "2023-02-10",
-    "city": "Singapore",
-    "country": "Singapore",
-    "online": true,
-    "cfpUrl": "https://devopsasiasummit.com/devops-asia-summit-2023",
-    "cfpEndDate": "2022-11-30",
-    "cocUrl": "https://devopsasiasummit.com/devops-asia-summit-2023/"
-  },
-  {
     "name": "ConFoo",
     "url": "https://confoo.ca/en/2023",
     "startDate": "2023-02-22",
@@ -224,5 +212,17 @@
     "cfpEndDate": "2023-10-30",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
+  },
+  {
+    "name": "DevOps Asia Conference",
+    "startDate": "2023-02-10",
+    "endDate": "2023-02-10",
+    "city": "Singapore",
+    "country": "Singapore",
+    "online": true,
+    "cfpUrl": "https://devopsasiasummit.com/devops-asia-summit-2023",
+    "cfpEndDate": "2022-11-30",
+    "cocUrl": "https://devopsasiasummit.com/devops-asia-summit-2023/",
+    "url": "https://devopsasiasummit.com"
   }
 ]

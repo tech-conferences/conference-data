@@ -102,15 +102,6 @@
     "cocUrl": "https://apiconference.net/code-of-conduct/"
   },
   {
-    "name": "Adobe Developers Live: Headless",
-    "url": "https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-headless",
-    "startDate": "2022-11-09",
-    "endDate": "2022-11-09",
-    "online": true,
-    "twitter": "@adobedevs",
-    "cocUrl": "In signup and event day page"
-  },
-  {
     "name": "Enterprise GraphQL Conference",
     "url": "https://hasura.io/enterprisegraphql",
     "startDate": "2022-11-10",
@@ -153,5 +144,14 @@
     "cfpEndDate": "2022-09-24",
     "twitter": "@graphqlgalaxy",
     "cocUrl": "https://graphqlgalaxy.com/coc"
+  },
+  {
+    "name": "Adobe Developers Live: Headless",
+    "startDate": "2022-11-09",
+    "endDate": "2022-11-09",
+    "online": true,
+    "twitter": "@adobedevs",
+    "cocUrl": "In signup and event day page",
+    "url": "https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-headless"
   }
 ]
