@@ -119,5 +119,18 @@
     "cfpEndDate": "2023-02-02",
     "twitter": "@halfstackconf",
     "url": "https://halfstackconf.com/phoenix"
+  },
+  {
+    "name": "Wasm I/O",
+    "startDate": "2023-03-23",
+    "endDate": "2023-03-24",
+    "city": "Barcelona",
+    "country": "Spain",
+    "online": false,
+    "cfpUrl": "https://www.papercall.io/wasmio23",
+    "cfpEndDate": "2023-01-17",
+    "twitter": "@wasm_io",
+    "cocUrl": "https://wasmio.tech/coc",
+    "url": "https://wasmio.tech"
   }
 ]
