@@ -218,5 +218,17 @@
     "twitter": "@wasm_io",
     "cocUrl": "https://wasmio.tech/coc",
     "url": "https://wasmio.tech"
+  },
+  {
+    "name": "Cloudfest",
+    "startDate": "2023-03-21",
+    "endDate": "2023-03-23",
+    "city": "Rust",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://www.cloudfest.com/cloudfest-call-for-submissions",
+    "cfpEndDate": "2022-12-31",
+    "twitter": "@cloudfest",
+    "url": "https://www.cloudfest.com"
   }
 ]
