@@ -13,6 +13,19 @@
     "cocUrl": "https://confoo.ca/en/code-of-conduct"
   },
   {
+    "name": "Nullcon International Security Conference & Training - Berlin",
+    "url": "https://nullcon.net/berlin-2023",
+    "startDate": "2023-03-09",
+    "endDate": "2023-03-10",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://nullcon.net/berlin-2023/cfp",
+    "cfpEndDate": "2022-11-30",
+    "twitter": "@nullcon",
+    "cocUrl": "https://nullcon.net/about-conferencepolicy/"
+  },
+  {
     "name": "RenderATL",
     "url": "https://www.renderatl.com",
     "startDate": "2023-05-31",
@@ -22,18 +35,5 @@
     "online": false,
     "twitter": "@RenderATL",
     "cocUrl": "https://www.renderatl.com/codepolicy"
-  },
-  {
-    "name": "Nullcon International Security Conference & Training - Berlin",
-    "startDate": "2023-03-09",
-    "endDate": "2023-03-10",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://nullcon.net/berlin-2023/cfp",
-    "cfpEndDate": "2022-11-30",
-    "twitter": "@nullcon",
-    "cocUrl": "https://nullcon.net/about-conferencepolicy/",
-    "url": "https://nullcon.net/berlin-2023"
   }
 ]
