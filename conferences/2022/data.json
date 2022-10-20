@@ -865,5 +865,13 @@
     "country": "U.S.A.",
     "online": false,
     "twitter": "@webcongress"
+  },
+  {
+    "name": "TWIMLcon",
+    "startDate": "2022-10-04",
+    "endDate": "2022-10-07",
+    "online": true,
+    "twitter": "@twimlai",
+    "url": "https://twimlai.com/conf/twimlcon"
   }
 ]
