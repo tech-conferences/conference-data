@@ -762,5 +762,15 @@
     "country": "U.S.A.",
     "online": false,
     "twitter": "@webcongress"
+  },
+  {
+    "name": "API Conference",
+    "startDate": "2022-12-12",
+    "endDate": "2022-12-12",
+    "city": "Brussels",
+    "country": "Belgium",
+    "online": true,
+    "twitter": "@heliviewconf",
+    "url": "https://heliview.be/api"
   }
 ]
