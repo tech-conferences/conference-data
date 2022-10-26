@@ -1087,6 +1087,15 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "JS Fwdays Europe",
+    "url": "https://fwdays.com/en/event/javascript-fwdays-2022",
+    "startDate": "2022-11-09",
+    "endDate": "2022-11-10",
+    "online": true,
+    "twitter": "@fwdays",
+    "cocUrl": "https://fwdays.com/en/page/code-of-conduct"
+  },
+  {
     "name": "BUILD STUFF",
     "url": "https://www.buildstuff.events",
     "startDate": "2022-11-09",
@@ -1225,6 +1234,17 @@
     "cocUrl": "https://progressivewebexperience.io/home/code_of_conduct"
   },
   {
+    "name": "Progressive Web Experience",
+    "url": "https://progressivewebexperience.io",
+    "startDate": "2022-12-04",
+    "endDate": "2022-12-07",
+    "city": "Clearwater, FL",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@nofluff",
+    "cocUrl": "https://progressivewebexperience.io/home/code_of_conduct"
+  },
+  {
     "name": "Frontrunners JS/Web",
     "url": "https://frontrunners.tech",
     "startDate": "2022-12-08",
@@ -1249,25 +1269,5 @@
     "cfpEndDate": "2022-09-24",
     "twitter": "@graphqlgalaxy",
     "cocUrl": "https://graphqlgalaxy.com/coc"
-  },
-  {
-    "name": "Progressive Web Experience",
-    "startDate": "2022-12-04",
-    "endDate": "2022-12-07",
-    "city": "Clearwater, FL",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@nofluff",
-    "cocUrl": "https://progressivewebexperience.io/home/code_of_conduct",
-    "url": "https://progressivewebexperience.io"
-  },
-  {
-    "name": "JS Fwdays Europe",
-    "startDate": "2022-11-09",
-    "endDate": "2022-11-10",
-    "online": true,
-    "twitter": "@fwdays",
-    "cocUrl": "https://fwdays.com/en/page/code-of-conduct",
-    "url": "https://fwdays.com/en/event/javascript-fwdays-2022"
   }
 ]

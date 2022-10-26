@@ -24,6 +24,19 @@
     "cocUrl": "https://www.renderatl.com/codepolicy"
   },
   {
+    "name": "enterJS",
+    "url": "https://enterjs.de",
+    "startDate": "2023-06-21",
+    "endDate": "2023-06-22",
+    "city": "Darmstadt",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://enterjs.de/cfp_en.php",
+    "cfpEndDate": "2023-01-16",
+    "twitter": "@enterjsconf",
+    "cocUrl": "https://enterjs.de/code_of_conduct_en.php"
+  },
+  {
     "name": "MagnoliaJS",
     "url": "https://www.magnoliajs.com",
     "startDate": "2023-10-17",
@@ -33,18 +46,5 @@
     "online": true,
     "twitter": "@magnoliajsconf",
     "cocUrl": "https://www.magnoliajs.com/conduct"
-  },
-  {
-    "name": "enterJS",
-    "startDate": "2023-06-21",
-    "endDate": "2023-06-22",
-    "city": "Darmstadt",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://enterjs.de/cfp_en.php",
-    "cfpEndDate": "2023-01-16",
-    "twitter": "@enterjsconf",
-    "cocUrl": "https://enterjs.de/code_of_conduct_en.php",
-    "url": "https://enterjs.de"
   }
 ]

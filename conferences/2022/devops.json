@@ -1527,6 +1527,17 @@
     "twitter": "@AltinityDB"
   },
   {
+    "name": "PASS Data Community SUMMIT",
+    "url": "https://passdatacommunitysummit.com",
+    "startDate": "2022-11-15",
+    "endDate": "2022-11-18",
+    "city": "Seattle, WA",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@PASSDataSummit",
+    "cocUrl": "https://passdatacommunitysummit.com/about/code-of-conduct"
+  },
+  {
     "name": "Continuous Lifecycle",
     "url": "https://www.continuouslifecycle.de",
     "startDate": "2022-11-15",
@@ -1667,6 +1678,15 @@
     "cocUrl": "https://yowlondon.com/2022/code-of-conduct"
   },
   {
+    "name": "INNOQ Technology Day",
+    "url": "https://technologyday.innoq.com",
+    "startDate": "2022-11-30",
+    "endDate": "2022-11-30",
+    "online": true,
+    "twitter": "@INNOQ",
+    "cocUrl": "https://berlincodeofconduct.org/"
+  },
+  {
     "name": "Conf42 DevSecOps",
     "url": "https://www.conf42.com/devsecops2022",
     "startDate": "2022-12-01",
@@ -1752,25 +1772,5 @@
     "cfpEndDate": "2022-08-31",
     "twitter": "@devopsdaystlv",
     "cocUrl": "https://tlvcommunity.dev/code-of-conduct.html"
-  },
-  {
-    "name": "PASS Data Community SUMMIT",
-    "startDate": "2022-11-15",
-    "endDate": "2022-11-18",
-    "city": "Seattle, WA",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@PASSDataSummit",
-    "cocUrl": "https://passdatacommunitysummit.com/about/code-of-conduct",
-    "url": "https://passdatacommunitysummit.com"
-  },
-  {
-    "name": "INNOQ Technology Day",
-    "startDate": "2022-11-30",
-    "endDate": "2022-11-30",
-    "online": true,
-    "twitter": "@INNOQ",
-    "cocUrl": "https://berlincodeofconduct.org/",
-    "url": "https://technologyday.innoq.com"
   }
 ]
