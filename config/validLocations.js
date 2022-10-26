@@ -471,7 +471,8 @@ module.exports = {
     "Busan",
     "Incheon",
     "Seoul",
-    "Suwon"
+    "Suwon",
+    "Pohang"
   ],
   "Spain": [
     "Alicante",
