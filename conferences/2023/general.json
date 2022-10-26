@@ -165,6 +165,19 @@
     "twitter": "@womentechnet"
   },
   {
+    "name": "Web à Quebec",
+    "url": "https://webaquebec.org",
+    "startDate": "2023-05-23",
+    "endDate": "2023-05-25",
+    "city": "Quebec",
+    "country": "Canada",
+    "online": true,
+    "cfpUrl": "https://yr21i4wwzuv.typeform.com/to/vgbK9zTW",
+    "cfpEndDate": "2022-12-31",
+    "twitter": "@webaquebec",
+    "cocUrl": "https://webaquebec.org/code-de-conduite"
+  },
+  {
     "name": "DevDays",
     "url": "https://devdays.lt",
     "startDate": "2023-05-23",
@@ -230,18 +243,5 @@
     "cfpEndDate": "2023-09-19",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
-  },
-  {
-    "name": "Web à Quebec",
-    "startDate": "2023-05-23",
-    "endDate": "2023-05-25",
-    "city": "Quebec",
-    "country": "Canada",
-    "online": true,
-    "cfpUrl": "https://yr21i4wwzuv.typeform.com/to/vgbK9zTW",
-    "cfpEndDate": "2022-12-31",
-    "twitter": "@webaquebec",
-    "cocUrl": "https://webaquebec.org/code-de-conduite",
-    "url": "https://webaquebec.org"
   }
 ]

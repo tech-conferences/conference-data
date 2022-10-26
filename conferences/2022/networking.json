@@ -718,6 +718,15 @@
     "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub"
   },
   {
+    "name": "INNOQ Technology Day",
+    "url": "https://technologyday.innoq.com",
+    "startDate": "2022-11-30",
+    "endDate": "2022-11-30",
+    "online": true,
+    "twitter": "@INNOQ",
+    "cocUrl": "https://berlincodeofconduct.org/"
+  },
+  {
     "name": "React Day Berlin",
     "url": "https://reactday.berlin",
     "startDate": "2022-12-02",
@@ -765,21 +774,12 @@
   },
   {
     "name": "API Conference",
+    "url": "https://heliview.be/api",
     "startDate": "2022-12-12",
     "endDate": "2022-12-12",
     "city": "Brussels",
     "country": "Belgium",
     "online": true,
-    "twitter": "@heliviewconf",
-    "url": "https://heliview.be/api"
-  },
-  {
-    "name": "INNOQ Technology Day",
-    "startDate": "2022-11-30",
-    "endDate": "2022-11-30",
-    "online": true,
-    "twitter": "@INNOQ",
-    "cocUrl": "https://berlincodeofconduct.org/",
-    "url": "https://technologyday.innoq.com"
+    "twitter": "@heliviewconf"
   }
 ]

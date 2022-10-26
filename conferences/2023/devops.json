@@ -36,6 +36,16 @@
     "cocUrl": "https://devopsasiasummit.com/devops-asia-summit-2023/"
   },
   {
+    "name": "HashiTalks",
+    "url": "https://events.hashicorp.com/hashitalks2023",
+    "startDate": "2023-02-16",
+    "endDate": "2023-02-17",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/hashitalks-2023",
+    "cfpEndDate": "2022-12-07",
+    "cocUrl": "https://www.hashicorp.com/community-guidelines"
+  },
+  {
     "name": "ConFoo",
     "url": "https://confoo.ca/en/2023",
     "startDate": "2023-02-22",
@@ -224,15 +234,5 @@
     "cfpEndDate": "2023-10-30",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
-  },
-  {
-    "name": "HashiTalks",
-    "startDate": "2023-02-16",
-    "endDate": "2023-02-17",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/hashitalks-2023",
-    "cfpEndDate": "2022-12-07",
-    "cocUrl": "https://www.hashicorp.com/community-guidelines",
-    "url": "https://events.hashicorp.com/hashitalks2023"
   }
 ]

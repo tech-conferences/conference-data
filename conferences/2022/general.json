@@ -1403,6 +1403,15 @@
     "cocUrl": "https://yowlondon.com/2022/code-of-conduct"
   },
   {
+    "name": "INNOQ Technology Day",
+    "url": "https://technologyday.innoq.com",
+    "startDate": "2022-11-30",
+    "endDate": "2022-11-30",
+    "online": true,
+    "twitter": "@INNOQ",
+    "cocUrl": "https://berlincodeofconduct.org/"
+  },
+  {
     "name": "Oπe\\n Conf Athens",
     "url": "https://www.open-conf.gr/",
     "startDate": "2022-12-02",
@@ -1468,6 +1477,16 @@
     "cocUrl": "https://devternity.com/code_of_conduct.html"
   },
   {
+    "name": "API Conference",
+    "url": "https://heliview.be/api",
+    "startDate": "2022-12-12",
+    "endDate": "2022-12-12",
+    "city": "Brussels",
+    "country": "Belgium",
+    "online": true,
+    "twitter": "@heliviewconf"
+  },
+  {
     "name": "IT-Tage Remote",
     "url": "https://www.it-tage.org",
     "startDate": "2022-12-12",
@@ -1487,24 +1506,5 @@
     "online": true,
     "cfpUrl": "https://equinocs.springernature.com/service/PLAISEuroSymposium2022",
     "cfpEndDate": "2022-09-19"
-  },
-  {
-    "name": "API Conference",
-    "startDate": "2022-12-12",
-    "endDate": "2022-12-12",
-    "city": "Brussels",
-    "country": "Belgium",
-    "online": true,
-    "twitter": "@heliviewconf",
-    "url": "https://heliview.be/api"
-  },
-  {
-    "name": "INNOQ Technology Day",
-    "startDate": "2022-11-30",
-    "endDate": "2022-11-30",
-    "online": true,
-    "twitter": "@INNOQ",
-    "cocUrl": "https://berlincodeofconduct.org/",
-    "url": "https://technologyday.innoq.com"
   }
 ]

@@ -188,6 +188,15 @@
     "twitter": "@swift_leeds"
   },
   {
+    "name": "Let us: Go!",
+    "url": "https://let-us-go-2022-fall.vercel.app",
+    "startDate": "2022-11-05",
+    "endDate": "2022-11-05",
+    "city": "Seoul",
+    "country": "South Korea",
+    "online": false
+  },
+  {
     "name": "Do iOS",
     "url": "https://do-ios.com",
     "startDate": "2022-11-08",
@@ -199,6 +208,25 @@
     "cfpEndDate": "2022-09-23",
     "twitter": "@iosconf",
     "cocUrl": "https://confcodeofconduct.com/"
+  },
+  {
+    "name": "SyncSwift",
+    "url": "https://asyncswift.org",
+    "startDate": "2022-11-12",
+    "endDate": "2022-11-12",
+    "city": "Pohang",
+    "country": "South Korea",
+    "online": false,
+    "twitter": "@AsyncSwift"
+  },
+  {
+    "name": "Let’Swift",
+    "url": "https://letswift.kr/2022",
+    "startDate": "2022-11-30",
+    "endDate": "2022-11-30",
+    "city": "Seoul",
+    "country": "South Korea",
+    "online": false
   },
   {
     "name": "Swiftable",
@@ -224,33 +252,5 @@
     "cfpEndDate": "2022-09-30",
     "twitter": "@SwiftServerConf",
     "cocUrl": "https://www.serversideswift.info/coc/"
-  },
-  {
-    "name": "Let’Swift",
-    "startDate": "2022-11-30",
-    "endDate": "2022-11-30",
-    "city": "Seoul",
-    "country": "South Korea",
-    "online": false,
-    "url": "https://letswift.kr/2022"
-  },
-  {
-    "name": "SyncSwift",
-    "startDate": "2022-11-12",
-    "endDate": "2022-11-12",
-    "city": "Pohang",
-    "country": "South Korea",
-    "online": false,
-    "twitter": "@AsyncSwift",
-    "url": "https://asyncswift.org"
-  },
-  {
-    "name": "Let us: Go!",
-    "startDate": "2022-11-05",
-    "endDate": "2022-11-05",
-    "city": "Seoul",
-    "country": "South Korea",
-    "online": false,
-    "url": "https://let-us-go-2022-fall.vercel.app"
   }
 ]
