@@ -33,5 +33,19 @@
     "cfpUrl": "https://cfp.trendig.com/AgileTD_OpenAir_2023",
     "cfpEndDate": "2022-08-31",
     "twitter": "@AgileTDOpenAir"
+  },
+  {
+    "name": "stackconf",
+    "startDate": "2023-09-13",
+    "endDate": "2023-09-14",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://stackconf.eu/cfp_info",
+    "cfpEndDate": "2023-03-31",
+    "twitter": "@stackonf",
+    "cocUrl": "https://stackconf.eu/code-of-conduct/",
+    "offersSignLanguageOrCC": true,
+    "url": "https://stackconf.eu"
   }
 ]
