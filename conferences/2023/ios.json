@@ -1,5 +1,25 @@
 [
   {
+    "name": "iOS Conf SG",
+    "url": "https://iosconf.sg",
+    "startDate": "2023-01-12",
+    "endDate": "2023-01-13",
+    "city": "Singapore",
+    "country": "Singapore",
+    "online": false,
+    "twitter": "@iosconfsg"
+  },
+  {
+    "name": "plSwift",
+    "url": "https://plswift.com",
+    "startDate": "2023-05-30",
+    "endDate": "2023-05-31",
+    "city": "Warsaw",
+    "country": "Poland",
+    "online": false,
+    "twitter": "@swift_pl"
+  },
+  {
     "name": "iOSDevUK",
     "url": "https://www.iosdevuk.com",
     "startDate": "2023-09-04",
@@ -8,25 +28,5 @@
     "country": "U.K.",
     "online": false,
     "twitter": "@IOSDEVUK"
-  },
-  {
-    "name": "plSwift",
-    "startDate": "2023-05-30",
-    "endDate": "2023-05-31",
-    "city": "Warsaw",
-    "country": "Poland",
-    "online": false,
-    "twitter": "@swift_pl",
-    "url": "https://plswift.com"
-  },
-  {
-    "name": "iOS Conf SG",
-    "startDate": "2023-01-12",
-    "endDate": "2023-01-13",
-    "city": "Singapore",
-    "country": "Singapore",
-    "online": false,
-    "twitter": "@iosconfsg",
-    "url": "https://iosconf.sg"
   }
 ]
