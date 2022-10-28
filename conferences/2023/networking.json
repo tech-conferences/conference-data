@@ -1,5 +1,25 @@
 [
   {
+    "name": "International Space Convention",
+    "url": "https://www.internationalspaceconvention.com",
+    "startDate": "2023-03-16",
+    "endDate": "2023-03-19",
+    "online": true,
+    "twitter": "@isconvention",
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "App.js Conf",
+    "url": "https://appjs.co",
+    "startDate": "2023-05-10",
+    "endDate": "2023-05-12",
+    "city": "Kraków",
+    "country": "Poland",
+    "online": false,
+    "twitter": "@appjsconf",
+    "cocUrl": "https://appjs.co/Code-of-Conduct.pdf"
+  },
+  {
     "name": "Agile Testing Days USA",
     "url": "https://agiletestingdays.us",
     "startDate": "2023-05-22",
@@ -36,6 +56,7 @@
   },
   {
     "name": "stackconf",
+    "url": "https://stackconf.eu",
     "startDate": "2023-09-13",
     "endDate": "2023-09-14",
     "city": "Berlin",
@@ -45,27 +66,6 @@
     "cfpEndDate": "2023-03-31",
     "twitter": "@stackonf",
     "cocUrl": "https://stackconf.eu/code-of-conduct/",
-    "offersSignLanguageOrCC": true,
-    "url": "https://stackconf.eu"
-  },
-  {
-    "name": "International Space Convention",
-    "startDate": "2023-03-16",
-    "endDate": "2023-03-19",
-    "online": true,
-    "twitter": "@isconvention",
-    "offersSignLanguageOrCC": true,
-    "url": "https://www.internationalspaceconvention.com"
-  },
-  {
-    "name": "App.js Conf",
-    "startDate": "2023-05-10",
-    "endDate": "2023-05-12",
-    "city": "Kraków",
-    "country": "Poland",
-    "online": false,
-    "twitter": "@appjsconf",
-    "cocUrl": "https://appjs.co/Code-of-Conduct.pdf",
-    "url": "https://appjs.co"
+    "offersSignLanguageOrCC": true
   }
 ]

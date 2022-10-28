@@ -42,6 +42,16 @@
     "cocUrl": "https://www.conf42.com/code-of-conduct"
   },
   {
+    "name": "Intelligent Health",
+    "url": "https://intelligenthealth.ai",
+    "startDate": "2023-05-24",
+    "endDate": "2023-05-25",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "twitter": "@IntHealthAI"
+  },
+  {
     "name": "DataConnect Conference",
     "url": "https://www.dataconnectconf.com",
     "startDate": "2023-07-20",
@@ -51,15 +61,5 @@
     "online": true,
     "twitter": "@dataconnectconf",
     "cocUrl": "https://www.womeninanalytics.com/code-of-conduct"
-  },
-  {
-    "name": "Intelligent Health",
-    "startDate": "2023-05-24",
-    "endDate": "2023-05-25",
-    "city": "London",
-    "country": "U.K.",
-    "online": false,
-    "twitter": "@IntHealthAI",
-    "url": "https://intelligenthealth.ai"
   }
 ]
