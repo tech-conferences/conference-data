@@ -13,6 +13,14 @@
     "cocUrl": "https://confoo.ca/en/code-of-conduct"
   },
   {
+    "name": "LevelUp",
+    "url": "https://clickup.com/events/levelup",
+    "startDate": "2023-02-28",
+    "endDate": "2023-02-28",
+    "online": true,
+    "twitter": "@clickup"
+  },
+  {
     "name": "Wasm I/O",
     "url": "https://wasmio.tech",
     "startDate": "2023-03-23",
@@ -36,13 +44,5 @@
     "cfpUrl": "https://cfp.trendig.com/AgileTD_OpenAir_2023",
     "cfpEndDate": "2022-08-31",
     "twitter": "@AgileTDOpenAir"
-  },
-  {
-    "name": "LevelUp",
-    "startDate": "2023-02-28",
-    "endDate": "2023-02-28",
-    "online": true,
-    "twitter": "@clickup",
-    "url": "https://clickup.com/events/levelup"
   }
 ]
