@@ -10,5 +10,6 @@ module.exports = [
   "cfpEndDate",
   "twitter",
   "cocUrl",
+  "locales",
   "offersSignLanguageOrCC"
 ];
