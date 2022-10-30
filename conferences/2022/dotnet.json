@@ -1,14 +1,13 @@
 [
   {
-    "name": ".Net Virtual Conference",
-    "url": "https://dotnetconference.com",
-    "startDate": "2022-01-24",
-    "endDate": "2022-01-26",
+    "name": "qowdj",
+    "startDate": "2022-11-01",
+    "endDate": "2022-11-23",
     "online": true,
-    "cfpUrl": "https://sessionize.com/dotnet-virtual-conference-2022",
-    "cfpEndDate": "2021-12-20",
-    "twitter": "@csharpcorner",
-    "cocUrl": "https://dotnetconference.com/code-of-conduct/"
+    "url": "https://cowqd.com",
+    "locales": [
+
+    ]
   },
   {
     "name": "BASTA! Spring",
@@ -189,5 +188,16 @@
     "online": true,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
+  },
+  {
+    "name": ".Net Virtual Conference",
+    "url": "https://dotnetconference.com",
+    "startDate": "2022-01-24",
+    "endDate": "2022-01-26",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/dotnet-virtual-conference-2022",
+    "cfpEndDate": "2021-12-20",
+    "twitter": "@csharpcorner",
+    "cocUrl": "https://dotnetconference.com/code-of-conduct/"
   }
 ]
