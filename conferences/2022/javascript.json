@@ -1,12 +1,11 @@
 [
   {
-    "name": "TheJam.dev",
-    "url": "https://thejam.dev",
-    "startDate": "2022-01-26",
-    "endDate": "2022-01-27",
+    "name": "Test conference with lang",
+    "startDate": "2022-10-30",
+    "endDate": "2022-10-31",
     "online": true,
-    "twitter": "@cfe_dev",
-    "cocUrl": "https://cfe.dev/conduct/"
+    "url": "https://confs.tech",
+    "locales": "EN,FR"
   },
   {
     "name": "JSWORLD Conference Africa",
@@ -1269,5 +1268,14 @@
     "cfpEndDate": "2022-09-24",
     "twitter": "@graphqlgalaxy",
     "cocUrl": "https://graphqlgalaxy.com/coc"
+  },
+  {
+    "name": "TheJam.dev",
+    "url": "https://thejam.dev",
+    "startDate": "2022-01-26",
+    "endDate": "2022-01-27",
+    "online": true,
+    "twitter": "@cfe_dev",
+    "cocUrl": "https://cfe.dev/conduct/"
   }
 ]
