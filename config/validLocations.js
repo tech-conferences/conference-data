@@ -143,7 +143,8 @@ module.exports = {
     "Cairo"
   ],
   "Estonia": [
-    "Tallinn"
+    "Tallinn",
+    "Tartu"
   ],
   "Ethiopia": [
     "Addis Ababa"
