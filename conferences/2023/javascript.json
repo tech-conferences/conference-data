@@ -155,5 +155,18 @@
     "country": "Estonia",
     "online": false,
     "twitter": "@RefreshRocks"
+  },
+  {
+    "name": "JSConf India",
+    "url": "https://www.jsconf.in",
+    "startDate": "2023-06-02",
+    "endDate": "2023-06-02",
+    "online": true,
+    "city": "Bengaluru",
+    "country": "India",
+    "twitter": "@jsconf_india",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScK_4aWEcrERtJPZX9kaA9cUlMdFYVp0xX55r8poVCavdTW2Q/viewform",
+    "cfpEndDate": "2023-04-25",
+    "cocUrl": "https://www.jsconf.in/code-of-conduct/"
   }
 ]
