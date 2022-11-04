@@ -893,5 +893,14 @@
     "country": "U.S.A.",
     "online": false,
     "twitter": "@webcongress"
+  },
+  {
+    "name": "Microsoft Azure Connected Learning Program",
+    "startDate": "2022-11-11",
+    "endDate": "2022-11-11",
+    "online": true,
+    "twitter": "@cloudlabsAI",
+    "url": "https://aka.ms/azureclx",
+    "locales": "EN"
   }
 ]
