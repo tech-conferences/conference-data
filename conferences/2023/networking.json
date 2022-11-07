@@ -67,5 +67,17 @@
     "twitter": "@stackonf",
     "cocUrl": "https://stackconf.eu/code-of-conduct/",
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "React Summit",
+    "startDate": "2023-06-02",
+    "endDate": "2023-06-06",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": true,
+    "twitter": "@reactsummit",
+    "cocUrl": "https://reactsummit.com/coc",
+    "url": "https://reactsummit.com",
+    "locales": "EN"
   }
 ]
