@@ -48,6 +48,34 @@
     "cocUrl": "https://www.jfokus.se/articles/code-of-conduct"
   },
   {
+    "name": "JSworld Conference",
+    "url": "https://jsworldconference.com",
+    "startDate": "2023-02-08",
+    "endDate": "2023-02-10",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "cfpUrl": "https://forms.gle/TCsV7fo1gfKLCA3c8",
+    "cfpEndDate": "2022-12-01",
+    "twitter": "@jsworldconf",
+    "cocUrl": "https://jsworldconference.com/code-of-conduct",
+    "locales": "EN"
+  },
+  {
+    "name": "Vuejs Amsterdam",
+    "url": "https://vuejs.amsterdam",
+    "startDate": "2023-02-09",
+    "endDate": "2023-02-10",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "cfpUrl": "https://docs.google.com/forms/u/6/d/e/1FAIpQLSfzVZWyEZADpAlD8xUrEXvnbpqrtL37050Nla6zrZVX_UhNxQ/viewform",
+    "cfpEndDate": "2022-12-01",
+    "twitter": "@vuejsamsterdam",
+    "cocUrl": "https://vuejs.amsterdam/code-of-conduct",
+    "locales": "EN"
+  },
+  {
     "name": "ConFoo",
     "url": "https://confoo.ca/en/2023",
     "startDate": "2023-02-22",
@@ -98,6 +126,21 @@
     "cocUrl": "cityjsconf.org/coc"
   },
   {
+    "name": "React Miami",
+    "url": "https://reactmiami.com",
+    "startDate": "2023-04-20",
+    "endDate": "2023-04-21",
+    "city": "Miami, FL",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSe9svVYULzmGn7Jnt3shELrO9elHetBIykgK4yacUEVcPoP4w/viewform",
+    "cfpEndDate": "2022-12-16",
+    "twitter": "@reactmiamiconf",
+    "cocUrl": "https://github.com/React-Miami-Conf/React-Miami-Code-of-Conduct/blob/main/code-of-conduct.md",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "RenderATL",
     "url": "https://www.renderatl.com",
     "startDate": "2023-05-31",
@@ -107,6 +150,18 @@
     "online": false,
     "twitter": "@RenderATL",
     "cocUrl": "https://www.renderatl.com/codepolicy"
+  },
+  {
+    "name": "JSNation",
+    "url": "https://jsnation.com",
+    "startDate": "2023-06-01",
+    "endDate": "2023-06-05",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": true,
+    "twitter": "@thejsnation",
+    "cocUrl": "https://jsnation.com/coc",
+    "locales": "EN"
   },
   {
     "name": "JSConf India",
@@ -168,60 +223,5 @@
     "cfpEndDate": "2023-10-16",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
-  },
-  {
-    "name": "JSNation",
-    "startDate": "2023-06-01",
-    "endDate": "2023-06-05",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "online": true,
-    "twitter": "@thejsnation",
-    "cocUrl": "https://jsnation.com/coc",
-    "url": "https://jsnation.com",
-    "locales": "EN"
-  },
-  {
-    "name": "React Miami",
-    "startDate": "2023-04-20",
-    "endDate": "2023-04-21",
-    "city": "Miami, FL",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSe9svVYULzmGn7Jnt3shELrO9elHetBIykgK4yacUEVcPoP4w/viewform",
-    "cfpEndDate": "2022-12-16",
-    "twitter": "@reactmiamiconf",
-    "cocUrl": "https://github.com/React-Miami-Conf/React-Miami-Code-of-Conduct/blob/main/code-of-conduct.md",
-    "offersSignLanguageOrCC": true,
-    "url": "https://reactmiami.com",
-    "locales": "EN"
-  },
-  {
-    "name": "Vuejs Amsterdam",
-    "startDate": "2023-02-09",
-    "endDate": "2023-02-10",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "online": false,
-    "cfpUrl": "https://docs.google.com/forms/u/6/d/e/1FAIpQLSfzVZWyEZADpAlD8xUrEXvnbpqrtL37050Nla6zrZVX_UhNxQ/viewform",
-    "cfpEndDate": "2022-12-01",
-    "twitter": "@vuejsamsterdam",
-    "cocUrl": "https://vuejs.amsterdam/code-of-conduct",
-    "url": "https://vuejs.amsterdam",
-    "locales": "EN"
-  },
-  {
-    "name": "JSworld Conference",
-    "startDate": "2023-02-08",
-    "endDate": "2023-02-10",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "online": false,
-    "cfpUrl": "https://forms.gle/TCsV7fo1gfKLCA3c8",
-    "cfpEndDate": "2022-12-01",
-    "twitter": "@jsworldconf",
-    "cocUrl": "https://jsworldconference.com/code-of-conduct",
-    "url": "https://jsworldconference.com",
-    "locales": "EN"
   }
 ]
