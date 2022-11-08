@@ -1698,6 +1698,16 @@
     "cocUrl": "https://www.conf42.com/code-of-conduct"
   },
   {
+    "name": "Unblock - a CI/CD conference",
+    "url": "https://buildkite.com/unblock",
+    "startDate": "2022-12-05",
+    "endDate": "2022-12-06",
+    "online": true,
+    "twitter": "@buildkite",
+    "cocUrl": "https://buildkite.com/unblock/code-of-conduct",
+    "locales": "EN"
+  },
+  {
     "name": "ScaleUp 360° Enterprise Cloud Governance",
     "url": "https://www.scale-up-360.com/de/enterprise-cloud-governance",
     "startDate": "2022-12-06",
@@ -1772,15 +1782,5 @@
     "cfpEndDate": "2022-08-31",
     "twitter": "@devopsdaystlv",
     "cocUrl": "https://tlvcommunity.dev/code-of-conduct.html"
-  },
-  {
-    "name": "Unblock - a CI/CD conference",
-    "startDate": "2022-12-05",
-    "endDate": "2022-12-06",
-    "online": true,
-    "twitter": "@buildkite",
-    "cocUrl": "https://buildkite.com/unblock/code-of-conduct",
-    "url": "https://buildkite.com/unblock",
-    "locales": "EN"
   }
 ]

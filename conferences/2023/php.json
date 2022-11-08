@@ -1,5 +1,19 @@
 [
   {
+    "name": "PHP UK Conference",
+    "url": "https://www.phpconference.co.uk",
+    "startDate": "2023-02-14",
+    "endDate": "2023-02-16",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/php-uk-2023",
+    "cfpEndDate": "2022-09-30",
+    "twitter": "@PHPUKConference",
+    "cocUrl": "https://www.phpconference.co.uk/conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "ConFoo",
     "url": "https://confoo.ca/en/2023",
     "startDate": "2023-02-22",
@@ -23,19 +37,5 @@
     "cfpUrl": "https://cfp.trendig.com/AgileTD_OpenAir_2023",
     "cfpEndDate": "2022-08-31",
     "twitter": "@AgileTDOpenAir"
-  },
-  {
-    "name": "PHP UK Conference",
-    "startDate": "2023-02-14",
-    "endDate": "2023-02-16",
-    "city": "London",
-    "country": "U.K.",
-    "online": false,
-    "cfpUrl": "https://sessionize.com/php-uk-2023",
-    "cfpEndDate": "2022-09-30",
-    "twitter": "@PHPUKConference",
-    "cocUrl": "https://www.phpconference.co.uk/conduct/",
-    "url": "https://www.phpconference.co.uk",
-    "locales": "EN"
   }
 ]
