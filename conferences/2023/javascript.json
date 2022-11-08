@@ -194,5 +194,19 @@
     "cocUrl": "https://vuejs.amsterdam/code-of-conduct",
     "url": "https://vuejs.amsterdam",
     "locales": "EN"
+  },
+  {
+    "name": "JSworld Conference",
+    "startDate": "2023-02-08",
+    "endDate": "2023-02-10",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "cfpUrl": "https://forms.gle/TCsV7fo1gfKLCA3c8",
+    "cfpEndDate": "2022-12-01",
+    "twitter": "@jsworldconf",
+    "cocUrl": "https://jsworldconference.com/code-of-conduct",
+    "url": "https://jsworldconference.com",
+    "locales": "EN"
   }
 ]
