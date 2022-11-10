@@ -35,5 +35,17 @@
     "online": false,
     "twitter": "@RenderATL",
     "cocUrl": "https://www.renderatl.com/codepolicy"
+  },
+  {
+    "name": "DevOps Conference London",
+    "startDate": "2023-04-24",
+    "endDate": "2023-04-27",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "twitter": "@devops_con",
+    "cocUrl": "https://devopscon.io/code-of-conduct/",
+    "url": "https://devopscon.io/london",
+    "locales": "EN"
   }
 ]
