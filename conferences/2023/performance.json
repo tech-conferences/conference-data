@@ -44,5 +44,19 @@
     "cfpUrl": "https://cfp.trendig.com/AgileTD_OpenAir_2023",
     "cfpEndDate": "2022-08-31",
     "twitter": "@AgileTDOpenAir"
+  },
+  {
+    "name": "Open Source Day",
+    "startDate": "2023-03-24",
+    "endDate": "2023-03-24",
+    "city": "Florence",
+    "country": "Italy",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/opensourceday23",
+    "cfpEndDate": "2023-02-05",
+    "twitter": "@OSDayDev",
+    "cocUrl": "https://www.schrodinger-hat.it/code-of-conduct",
+    "url": "https://2023.osday.dev",
+    "locales": "EN,IT"
   }
 ]
