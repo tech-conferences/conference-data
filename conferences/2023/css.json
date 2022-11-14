@@ -10,6 +10,18 @@
     "twitter": "@RefreshRocks"
   },
   {
+    "name": "International JavaScript Conference London",
+    "url": "https://javascript-conference.com/london",
+    "startDate": "2023-04-24",
+    "endDate": "2023-04-27",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "twitter": "@JavaScriptCon",
+    "cocUrl": "https://javascript-conference.com/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "RenderATL",
     "url": "https://www.renderatl.com",
     "startDate": "2023-05-31",
@@ -30,17 +42,5 @@
     "online": true,
     "twitter": "@magnoliajsconf",
     "cocUrl": "https://www.magnoliajs.com/conduct"
-  },
-  {
-    "name": "International JavaScript Conference London",
-    "startDate": "2023-04-24",
-    "endDate": "2023-04-27",
-    "city": "London",
-    "country": "U.K.",
-    "online": true,
-    "twitter": "@JavaScriptCon",
-    "cocUrl": "https://javascript-conference.com/code-of-conduct/",
-    "url": "https://javascript-conference.com/london",
-    "locales": "EN"
   }
 ]

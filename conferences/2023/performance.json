@@ -34,6 +34,32 @@
     "cocUrl": "https://wasmio.tech/coc"
   },
   {
+    "name": "Open Source Day",
+    "url": "https://2023.osday.dev",
+    "startDate": "2023-03-24",
+    "endDate": "2023-03-24",
+    "city": "Florence",
+    "country": "Italy",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/opensourceday23",
+    "cfpEndDate": "2023-02-05",
+    "twitter": "@OSDayDev",
+    "cocUrl": "https://www.schrodinger-hat.it/code-of-conduct",
+    "locales": "EN,IT"
+  },
+  {
+    "name": "DevOps Conference London",
+    "url": "https://devopscon.io/london",
+    "startDate": "2023-04-24",
+    "endDate": "2023-04-27",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "twitter": "@devops_con",
+    "cocUrl": "https://devopscon.io/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "AgileTD Open Air",
     "url": "https://openair.agiletestingdays.com",
     "startDate": "2023-06-13",
@@ -44,31 +70,5 @@
     "cfpUrl": "https://cfp.trendig.com/AgileTD_OpenAir_2023",
     "cfpEndDate": "2022-08-31",
     "twitter": "@AgileTDOpenAir"
-  },
-  {
-    "name": "Open Source Day",
-    "startDate": "2023-03-24",
-    "endDate": "2023-03-24",
-    "city": "Florence",
-    "country": "Italy",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/opensourceday23",
-    "cfpEndDate": "2023-02-05",
-    "twitter": "@OSDayDev",
-    "cocUrl": "https://www.schrodinger-hat.it/code-of-conduct",
-    "url": "https://2023.osday.dev",
-    "locales": "EN,IT"
-  },
-  {
-    "name": "DevOps Conference London",
-    "startDate": "2023-04-24",
-    "endDate": "2023-04-27",
-    "city": "London",
-    "country": "U.K.",
-    "online": true,
-    "twitter": "@devops_con",
-    "cocUrl": "https://devopscon.io/code-of-conduct/",
-    "url": "https://devopscon.io/london",
-    "locales": "EN"
   }
 ]

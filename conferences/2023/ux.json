@@ -13,6 +13,20 @@
     "cocUrl": "https://confoo.ca/en/code-of-conduct"
   },
   {
+    "name": "Open Source Day",
+    "url": "https://2023.osday.dev",
+    "startDate": "2023-03-24",
+    "endDate": "2023-03-24",
+    "city": "Florence",
+    "country": "Italy",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/opensourceday23",
+    "cfpEndDate": "2023-02-05",
+    "twitter": "@OSDayDev",
+    "cocUrl": "https://www.schrodinger-hat.it/code-of-conduct",
+    "locales": "EN,IT"
+  },
+  {
     "name": "QCon London International Software Development Conference",
     "url": "https://qconlondon.com",
     "startDate": "2023-03-27",
@@ -43,19 +57,5 @@
     "online": false,
     "twitter": "@RenderATL",
     "cocUrl": "https://www.renderatl.com/codepolicy"
-  },
-  {
-    "name": "Open Source Day",
-    "startDate": "2023-03-24",
-    "endDate": "2023-03-24",
-    "city": "Florence",
-    "country": "Italy",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/opensourceday23",
-    "cfpEndDate": "2023-02-05",
-    "twitter": "@OSDayDev",
-    "cocUrl": "https://www.schrodinger-hat.it/code-of-conduct",
-    "url": "https://2023.osday.dev",
-    "locales": "EN,IT"
   }
 ]
