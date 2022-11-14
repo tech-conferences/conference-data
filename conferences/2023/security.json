@@ -26,6 +26,18 @@
     "cocUrl": "https://nullcon.net/about-conferencepolicy/"
   },
   {
+    "name": "DevOps Conference London",
+    "url": "https://devopscon.io/london",
+    "startDate": "2023-04-24",
+    "endDate": "2023-04-27",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "twitter": "@devops_con",
+    "cocUrl": "https://devopscon.io/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "RenderATL",
     "url": "https://www.renderatl.com",
     "startDate": "2023-05-31",
@@ -35,17 +47,5 @@
     "online": false,
     "twitter": "@RenderATL",
     "cocUrl": "https://www.renderatl.com/codepolicy"
-  },
-  {
-    "name": "DevOps Conference London",
-    "startDate": "2023-04-24",
-    "endDate": "2023-04-27",
-    "city": "London",
-    "country": "U.K.",
-    "online": true,
-    "twitter": "@devops_con",
-    "cocUrl": "https://devopscon.io/code-of-conduct/",
-    "url": "https://devopscon.io/london",
-    "locales": "EN"
   }
 ]

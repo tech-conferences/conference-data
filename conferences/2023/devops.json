@@ -102,6 +102,20 @@
     "cocUrl": "https://www.javaland.eu/de/verhaltenscodex/"
   },
   {
+    "name": "Open Source Day",
+    "url": "https://2023.osday.dev",
+    "startDate": "2023-03-24",
+    "endDate": "2023-03-24",
+    "city": "Florence",
+    "country": "Italy",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/opensourceday23",
+    "cfpEndDate": "2023-02-05",
+    "twitter": "@OSDayDev",
+    "cocUrl": "https://www.schrodinger-hat.it/code-of-conduct",
+    "locales": "EN,IT"
+  },
+  {
     "name": "QCon London International Software Development Conference",
     "url": "https://qconlondon.com",
     "startDate": "2023-03-27",
@@ -171,6 +185,18 @@
     "cocUrl": "https://devopsdays.org/events/2023-denver/conduct"
   },
   {
+    "name": "DevOps Conference London",
+    "url": "https://devopscon.io/london",
+    "startDate": "2023-04-24",
+    "endDate": "2023-04-27",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "twitter": "@devops_con",
+    "cocUrl": "https://devopscon.io/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "Devopsdays Zurich (Winterthur)",
     "url": "https://devopsdays.org/events/2023-zurich/welcome/",
     "startDate": "2023-05-03",
@@ -234,31 +260,5 @@
     "cfpEndDate": "2023-10-30",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
-  },
-  {
-    "name": "Open Source Day",
-    "startDate": "2023-03-24",
-    "endDate": "2023-03-24",
-    "city": "Florence",
-    "country": "Italy",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/opensourceday23",
-    "cfpEndDate": "2023-02-05",
-    "twitter": "@OSDayDev",
-    "cocUrl": "https://www.schrodinger-hat.it/code-of-conduct",
-    "url": "https://2023.osday.dev",
-    "locales": "EN,IT"
-  },
-  {
-    "name": "DevOps Conference London",
-    "startDate": "2023-04-24",
-    "endDate": "2023-04-27",
-    "city": "London",
-    "country": "U.K.",
-    "online": true,
-    "twitter": "@devops_con",
-    "cocUrl": "https://devopscon.io/code-of-conduct/",
-    "url": "https://devopscon.io/london",
-    "locales": "EN"
   }
 ]

@@ -1457,6 +1457,15 @@
     "cocUrl": "https://clean-architecture.bettercode.eu/code_of_conduct.php"
   },
   {
+    "name": "ABAPConf",
+    "url": "https://www.abapconf.org",
+    "startDate": "2022-12-07",
+    "endDate": "2022-12-07",
+    "online": true,
+    "twitter": "@AbapConf",
+    "locales": "EN,DE"
+  },
+  {
     "name": "WEBCONGRESS MIAMI",
     "url": "https://www.webcongress.com/miami",
     "startDate": "2022-12-07",
@@ -1515,14 +1524,5 @@
     "online": true,
     "cfpUrl": "https://equinocs.springernature.com/service/PLAISEuroSymposium2022",
     "cfpEndDate": "2022-09-19"
-  },
-  {
-    "name": "ABAPConf",
-    "startDate": "2022-12-07",
-    "endDate": "2022-12-07",
-    "online": true,
-    "twitter": "@AbapConf",
-    "url": "https://www.abapconf.org",
-    "locales": "EN,DE"
   }
 ]
