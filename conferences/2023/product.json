@@ -1,12 +1,42 @@
 [
   {
-    "name": "New York Product Conference",
+    "name": "The New York Product Conference",
     "startDate": "2023-05-04",
     "endDate": "2023-05-04",
     "city": "New York, NY",
     "country": "U.S.A.",
     "online": false,
     "url": "http://INDUSTRYconference.com/new-york",
+    "locales": "EN"
+  },
+  {
+    "name": "The Product Conference",
+    "startDate": "2023-03-20",
+    "endDate": "2023-03-22",
+    "city": "Dublin",
+    "country": "Ireland",
+    "online": false,
+    "twitter": "@prodcollective",
+    "url": "http://INDUSTRYconference.com/europe",
+    "locales": "EN"
+  },
+  {
+    "name": "The Product Conference",
+    "startDate": "2023-10-02",
+    "endDate": "2023-10-04",
+    "city": "Cleveland, OH",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@prodcollective",
+    "url": "http://INDUSTRYconference.com/global",
+    "locales": "EN"
+  },
+  {
+    "name": "The Product Conference",
+    "startDate": "2023-05-18",
+    "endDate": "2023-05-18",
+    "online": true,
+    "url": "http://INDUSTRYconference.com/virtual",
     "locales": "EN"
   }
 ]
