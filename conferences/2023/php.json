@@ -37,5 +37,18 @@
     "cfpUrl": "https://cfp.trendig.com/AgileTD_OpenAir_2023",
     "cfpEndDate": "2022-08-31",
     "twitter": "@AgileTDOpenAir"
+  },
+  {
+    "name": "DrupalCon",
+    "startDate": "2023-06-05",
+    "endDate": "2023-06-08",
+    "city": "Pittsburgh, PA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@drupalcon",
+    "cocUrl": "https://events.drupal.org/code-conduct",
+    "offersSignLanguageOrCC": true,
+    "url": "https://events.drupal.org/drupalcon",
+    "locales": "EN"
   }
 ]
