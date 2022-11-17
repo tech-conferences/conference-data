@@ -22,5 +22,19 @@
     "online": false,
     "twitter": "@RenderATL",
     "cocUrl": "https://www.renderatl.com/codepolicy"
+  },
+  {
+    "name": "Develop",
+    "startDate": "2023-04-05",
+    "endDate": "2023-04-06",
+    "city": "Mountain View, CA",
+    "country": "U.S.A.",
+    "online": true,
+    "cfpUrl": "http://developer.cisco.com/site/develop",
+    "cfpEndDate": "2022-12-31",
+    "twitter": "@CiscoDevNet",
+    "cocUrl": "http://developer.cisco.com/site/develop/2023?utm_source=confs&utm_medium=webpage&utm_campaign=develop2023",
+    "url": "http://developer.cisco.com/site/develop/2023",
+    "locales": "EN"
   }
 ]
