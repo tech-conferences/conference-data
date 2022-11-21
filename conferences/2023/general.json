@@ -11,6 +11,18 @@
     "cocUrl": "https://www.codemash.org/codemash-code-conduct/"
   },
   {
+    "name": "MetaVsummit Dubai",
+    "url": "https://metavsummit.com",
+    "startDate": "2023-01-11",
+    "endDate": "2023-01-12",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "online": true,
+    "twitter": "@metavsummit",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "You Got This Broadcasting Service",
     "url": "https://yougotthis.io/events/broadcasting-service",
     "startDate": "2023-01-14",
@@ -165,6 +177,20 @@
     "twitter": "@womentechnet"
   },
   {
+    "name": "Software Quality Days",
+    "url": "https://www.software-quality-days.com",
+    "startDate": "2023-05-23",
+    "endDate": "2023-05-25",
+    "city": "Munich",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://www.software-quality-days.com/en/lecturers/call-for-practical-papers",
+    "cfpEndDate": "2022-11-30",
+    "twitter": "@swqd",
+    "cocUrl": "https://www.software-quality-days.com/en/general-event-conditions",
+    "locales": "EN,DE"
+  },
+  {
     "name": "Web à Quebec",
     "url": "https://webaquebec.org",
     "startDate": "2023-05-23",
@@ -245,38 +271,12 @@
     "cocUrl": "https://www.conf42.com/code-of-conduct"
   },
   {
-    "name": "MetaVsummit Dubai",
-    "startDate": "2023-01-11",
-    "endDate": "2023-01-12",
-    "city": "Dubai",
-    "country": "United Arab Emirates",
-    "online": true,
-    "twitter": "@metavsummit",
-    "offersSignLanguageOrCC": true,
-    "url": "https://metavsummit.com",
-    "locales": "EN"
-  },
-  {
     "name": "Big Boys Toys",
+    "url": "https://bbtvegas.com",
     "startDate": "2023-10-20",
     "endDate": "2023-10-22",
     "online": true,
     "twitter": "@globalbbt",
-    "url": "https://bbtvegas.com",
     "locales": "EN"
-  },
-  {
-    "name": "Software Quality Days",
-    "startDate": "2023-05-23",
-    "endDate": "2023-05-25",
-    "city": "Munich",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://www.software-quality-days.com/en/lecturers/call-for-practical-papers",
-    "cfpEndDate": "2022-11-30",
-    "twitter": "@swqd",
-    "cocUrl": "https://www.software-quality-days.com/en/general-event-conditions",
-    "url": "https://www.software-quality-days.com",
-    "locales": "EN,DE"
   }
 ]

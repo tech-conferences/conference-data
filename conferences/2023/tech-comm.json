@@ -11,6 +11,7 @@
   },
   {
     "name": "DrupalCon",
+    "url": "https://events.drupal.org/drupalcon",
     "startDate": "2023-06-05",
     "endDate": "2023-06-08",
     "city": "Pittsburgh, PA",
@@ -18,8 +19,7 @@
     "online": false,
     "twitter": "@drupalcon",
     "cocUrl": "https://events.drupal.org/code-conduct",
-    "offersSignLanguageOrCC": true,
-    "url": "https://events.drupal.org/drupalcon",
-    "locales": "EN"
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
   }
 ]
