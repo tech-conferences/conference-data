@@ -13,18 +13,8 @@
     "cocUrl": "https://confoo.ca/en/code-of-conduct"
   },
   {
-    "name": "RenderATL",
-    "url": "https://www.renderatl.com",
-    "startDate": "2023-05-31",
-    "endDate": "2023-06-02",
-    "city": "Atlanta, GA",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@RenderATL",
-    "cocUrl": "https://www.renderatl.com/codepolicy"
-  },
-  {
     "name": "Develop",
+    "url": "https://developer.cisco.com/develop/2023",
     "startDate": "2023-04-05",
     "endDate": "2023-04-06",
     "city": "Mountain View, CA",
@@ -34,7 +24,17 @@
     "cfpEndDate": "2022-12-31",
     "twitter": "@CiscoDevNet",
     "cocUrl": "https://developer.cisco.com/develop/codeofconduct",
-    "url": "https://developer.cisco.com/develop/2023",
     "locales": "EN"
+  },
+  {
+    "name": "RenderATL",
+    "url": "https://www.renderatl.com",
+    "startDate": "2023-05-31",
+    "endDate": "2023-06-02",
+    "city": "Atlanta, GA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@RenderATL",
+    "cocUrl": "https://www.renderatl.com/codepolicy"
   }
 ]

@@ -138,6 +138,20 @@
     "cocUrl": "https://www.conf42.com/code-of-conduct"
   },
   {
+    "name": "Develop",
+    "url": "https://developer.cisco.com/develop/2023",
+    "startDate": "2023-04-05",
+    "endDate": "2023-04-06",
+    "city": "Mountain View, CA",
+    "country": "U.S.A.",
+    "online": true,
+    "cfpUrl": "https://www.cvent.com/c/abstracts/2afe6360-109d-4894-86be-54e8de013d7c",
+    "cfpEndDate": "2022-12-31",
+    "twitter": "@CiscoDevNet",
+    "cocUrl": "https://developer.cisco.com/develop/codeofconduct",
+    "locales": "EN"
+  },
+  {
     "name": "Devopsdays Nashville",
     "url": "https://devopsdays.org/events/2023-nashville/welcome/",
     "startDate": "2023-04-06",
@@ -208,6 +222,19 @@
     "cocUrl": "https://devopsdays.org/events/2023-zurich/conduct"
   },
   {
+    "name": "DrupalCon",
+    "url": "https://events.drupal.org/drupalcon",
+    "startDate": "2023-06-05",
+    "endDate": "2023-06-08",
+    "city": "Pittsburgh, PA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@drupalcon",
+    "cocUrl": "https://events.drupal.org/code-conduct",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "AgileTD Open Air",
     "url": "https://openair.agiletestingdays.com",
     "startDate": "2023-06-13",
@@ -260,32 +287,5 @@
     "cfpEndDate": "2023-10-30",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
-  },
-  {
-    "name": "Develop",
-    "startDate": "2023-04-05",
-    "endDate": "2023-04-06",
-    "city": "Mountain View, CA",
-    "country": "U.S.A.",
-    "online": true,
-    "cfpUrl": "https://www.cvent.com/c/abstracts/2afe6360-109d-4894-86be-54e8de013d7c",
-    "cfpEndDate": "2022-12-31",
-    "twitter": "@CiscoDevNet",
-    "cocUrl": "https://developer.cisco.com/develop/codeofconduct",
-    "url": "https://developer.cisco.com/develop/2023",
-    "locales": "EN"
-  },
-  {
-    "name": "DrupalCon",
-    "startDate": "2023-06-05",
-    "endDate": "2023-06-08",
-    "city": "Pittsburgh, PA",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@drupalcon",
-    "cocUrl": "https://events.drupal.org/code-conduct",
-    "offersSignLanguageOrCC": true,
-    "url": "https://events.drupal.org/drupalcon",
-    "locales": "EN"
   }
 ]

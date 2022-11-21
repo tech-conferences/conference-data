@@ -173,6 +173,17 @@
     "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub"
   },
   {
+    "name": "International Product Conference",
+    "url": "https://parimatch.tech/event/product-conference-prague",
+    "startDate": "2022-12-02",
+    "endDate": "2022-12-02",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "online": true,
+    "twitter": "@ParimatchTech",
+    "locales": "EN"
+  },
+  {
     "name": "DevTernity",
     "url": "https://devternity.com",
     "startDate": "2022-12-08",
@@ -180,16 +191,5 @@
     "online": true,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
-    "name": "International Product Conference",
-    "startDate": "2022-12-02",
-    "endDate": "2022-12-02",
-    "city": "Prague",
-    "country": "Czech Republic",
-    "online": true,
-    "twitter": "@ParimatchTech",
-    "url": "https://parimatch.tech/event/product-conference-prague",
-    "locales": "EN"
   }
 ]
