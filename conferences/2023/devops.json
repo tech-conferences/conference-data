@@ -274,5 +274,18 @@
     "cocUrl": "https://developer.cisco.com/develop/codeofconduct",
     "url": "https://developer.cisco.com/develop/2023",
     "locales": "EN"
+  },
+  {
+    "name": "DrupalCon",
+    "startDate": "2023-06-05",
+    "endDate": "2023-06-08",
+    "city": "Pittsburgh, PA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@drupalcon",
+    "cocUrl": "https://events.drupal.org/code-conduct",
+    "offersSignLanguageOrCC": true,
+    "url": "https://events.drupal.org/drupalcon",
+    "locales": "EN"
   }
 ]
