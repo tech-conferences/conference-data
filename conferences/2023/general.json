@@ -252,5 +252,19 @@
     "twitter": "@globalbbt",
     "url": "https://bbtvegas.com",
     "locales": "EN"
+  },
+  {
+    "name": "Software Quality Days",
+    "startDate": "2023-05-23",
+    "endDate": "2023-05-25",
+    "city": "Munich",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://www.software-quality-days.com/en/lecturers/call-for-practical-papers",
+    "cfpEndDate": "2022-11-30",
+    "twitter": "@swqd",
+    "cocUrl": "https://www.software-quality-days.com/en/general-event-conditions",
+    "url": "https://www.software-quality-days.com",
+    "locales": "EN,DE"
   }
 ]
