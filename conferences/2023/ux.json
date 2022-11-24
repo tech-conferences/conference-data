@@ -57,5 +57,19 @@
     "online": false,
     "twitter": "@RenderATL",
     "cocUrl": "https://www.renderatl.com/codepolicy"
+  },
+  {
+    "name": "Hatch Conference",
+    "startDate": "2023-10-05",
+    "endDate": "2023-10-06",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "cfpUrl": "https://speak.hatchconference.com",
+    "cfpEndDate": "2023-02-15",
+    "twitter": "@hatchconference",
+    "cocUrl": "https://www.hatchconference.com/code-of-conduct",
+    "url": "https://www.hatchconference.com",
+    "locales": "EN"
   }
 ]
