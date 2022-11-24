@@ -89,6 +89,18 @@
     "cocUrl": "https://confoo.ca/en/code-of-conduct"
   },
   {
+    "name": "JavaScript Days",
+    "url": "https://javascript-days.de/muenchen",
+    "startDate": "2023-03-20",
+    "endDate": "2023-03-23",
+    "city": "Munich",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@JS_Days",
+    "cocUrl": "https://javascript-days.de/code-of-conduct/",
+    "locales": "DE"
+  },
+  {
     "name": "Wasm I/O",
     "url": "https://wasmio.tech",
     "startDate": "2023-03-23",
@@ -260,17 +272,5 @@
     "cfpEndDate": "2023-10-16",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
-  },
-  {
-    "name": "JavaScript Days",
-    "startDate": "2023-03-20",
-    "endDate": "2023-03-23",
-    "city": "Munich",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@JS_Days",
-    "cocUrl": "https://javascript-days.de/code-of-conduct/",
-    "url": "https://javascript-days.de/muenchen",
-    "locales": "DE"
   }
 ]
