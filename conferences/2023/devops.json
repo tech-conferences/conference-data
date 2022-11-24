@@ -24,6 +24,18 @@
     "cocUrl": "https://cfgmgmtcamp.eu/ghent2023/codeofconduct/"
   },
   {
+    "name": "Testing, Agile, DevOps and Lowcode Showcase: Methods and Tools",
+    "url": "https://conference.unicomseminars.org/agile-devops-software-testing-conference/manchester",
+    "startDate": "2023-02-09",
+    "endDate": "2023-02-09",
+    "city": "Manchester",
+    "country": "U.K.",
+    "online": false,
+    "twitter": "@UNICOMSeminars",
+    "cocUrl": "https://conference.unicomseminars.org/agile-devops-software-testing-conference/manchester/#Code-Of-Conduct",
+    "locales": "EN"
+  },
+  {
     "name": "DevOps Asia Conference",
     "url": "https://devopsasiasummit.com",
     "startDate": "2023-02-10",
@@ -57,6 +69,16 @@
     "cfpEndDate": "2022-10-06",
     "twitter": "@confooca",
     "cocUrl": "https://confoo.ca/en/code-of-conduct"
+  },
+  {
+    "name": "Pink: International IT Service Management Conference & Exhibition",
+    "url": "https://www.pinkelephant.com/en-us/Pink23/home",
+    "startDate": "2023-02-26",
+    "endDate": "2023-03-01",
+    "city": "Las Vegas, NV",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN"
   },
   {
     "name": "Devopsdays Goiânia",
@@ -287,27 +309,5 @@
     "cfpEndDate": "2023-10-30",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
-  },
-  {
-    "name": "Pink: International IT Service Management Conference & Exhibition",
-    "startDate": "2023-02-26",
-    "endDate": "2023-03-01",
-    "city": "Las Vegas, NV",
-    "country": "U.S.A.",
-    "online": false,
-    "url": "https://www.pinkelephant.com/en-us/Pink23/home",
-    "locales": "EN"
-  },
-  {
-    "name": "Testing, Agile, DevOps and Lowcode Showcase: Methods and Tools",
-    "startDate": "2023-02-09",
-    "endDate": "2023-02-09",
-    "city": "Manchester",
-    "country": "U.K.",
-    "online": false,
-    "twitter": "@UNICOMSeminars",
-    "cocUrl": "https://conference.unicomseminars.org/agile-devops-software-testing-conference/manchester/#Code-Of-Conduct",
-    "url": "https://conference.unicomseminars.org/agile-devops-software-testing-conference/manchester",
-    "locales": "EN"
   }
 ]
