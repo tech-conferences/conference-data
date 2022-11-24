@@ -61,5 +61,17 @@
     "online": false,
     "twitter": "@RenderATL",
     "cocUrl": "https://www.renderatl.com/codepolicy"
+  },
+  {
+    "name": "Chemnitzer Linuxtage",
+    "startDate": "2023-03-11",
+    "endDate": "2023-03-12",
+    "online": true,
+    "cfpUrl": "https://chemnitzer.linux-tage.de/2023/en/programm/anmeldung/live",
+    "cfpEndDate": "2023-01-04",
+    "twitter": "@clt_news",
+    "cocUrl": "https://chemnitzer.linux-tage.de/2023/en/info/miteinander",
+    "url": "https://chemnitzer.linux-tage.de",
+    "locales": "DE"
   }
 ]
