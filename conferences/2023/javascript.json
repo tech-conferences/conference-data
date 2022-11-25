@@ -272,5 +272,19 @@
     "cfpEndDate": "2023-10-16",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
+  },
+  {
+    "name": "Vueconf.US",
+    "startDate": "2023-05-24",
+    "endDate": "2023-05-26",
+    "city": "New Orleans, LA",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/vueconf-us-2023",
+    "cfpEndDate": "2023-01-15",
+    "twitter": "@vueconf.us",
+    "cocUrl": "https://vueconf.us/codeofconduct",
+    "url": "https://vueconf.us",
+    "locales": "EN"
   }
 ]
