@@ -35,5 +35,19 @@
     "cfpEndDate": "2023-11-14",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
+  },
+  {
+    "name": "building IoT",
+    "startDate": "2023-04-26",
+    "endDate": "2023-04-27",
+    "city": "Munich",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://www.buildingiot.de/cfp_en.php",
+    "cfpEndDate": "2022-12-12",
+    "twitter": "@building_iot",
+    "cocUrl": "https://www.buildingiot.de/code_of_conduct.php",
+    "url": "https://www.buildingiot.de",
+    "locales": "EN,DE"
   }
 ]
