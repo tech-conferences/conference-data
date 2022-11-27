@@ -228,17 +228,6 @@
     "cocUrl": "https://enterjs.de/code_of_conduct_en.php"
   },
   {
-    "name": "React Next",
-    "url": "https://www.react-next.com",
-    "startDate": "2023-06-27",
-    "endDate": "2023-06-27",
-    "city": "Tel Aviv",
-    "country": "Israel",
-    "online": false,
-    "twitter": "@eventhandlerPro",
-    "locales": "EN"
-  },
-  {
     "name": "JSDayIE",
     "url": "https://www.jsday.ie",
     "startDate": "2023-09-26",
@@ -302,6 +291,20 @@
     "locales": "EN"
   },
   {
+    "name": "ReactNext",
+    "startDate": "2023-06-27",
+    "endDate": "2023-06-27",
+    "city": "Tel Aviv",
+    "country": "Israel",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/Reactnext23",
+    "cfpEndDate": "2023-01-31",
+    "twitter": "@ReactNext",
+    "cocUrl": "https://www.react-next.com/conference-code-of-conduct/",
+    "url": "https://www.react-next.com",
+    "locales": "EN"
+   },
+   {
     "name": "NodeTLV",
     "startDate": "2023-06-28",
     "endDate": "2023-06-28",
