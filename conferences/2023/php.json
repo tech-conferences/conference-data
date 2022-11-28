@@ -50,5 +50,17 @@
     "cfpUrl": "https://cfp.trendig.com/AgileTD_OpenAir_2023",
     "cfpEndDate": "2022-08-31",
     "twitter": "@AgileTDOpenAir"
+  },
+  {
+    "name": "Laracon EU",
+    "startDate": "2023-01-26",
+    "endDate": "2023-01-27",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "online": false,
+    "twitter": "@LaraconEU",
+    "cocUrl": "https://laracon.eu/code-of-conduct",
+    "url": "https://laracon.eu",
+    "locales": "EN"
   }
 ]
