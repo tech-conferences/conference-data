@@ -50,5 +50,15 @@
     "cfpUrl": "https://cfp.trendig.com/AgileTD_OpenAir_2023",
     "cfpEndDate": "2022-08-31",
     "twitter": "@AgileTDOpenAir"
+  },
+  {
+    "name": "Laracon India",
+    "startDate": "2023-02-25",
+    "endDate": "2023-02-26",
+    "online": true,
+    "twitter": "@LaraconIN",
+    "cocUrl": "https://laracon.in/code-of-conduct.html",
+    "url": "https://laracon.in",
+    "locales": "EN"
   }
 ]
