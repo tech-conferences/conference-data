@@ -60,5 +60,17 @@
     "cocUrl": "https://laracon.in/code-of-conduct.html",
     "url": "https://laracon.in",
     "locales": "EN"
+  },
+  {
+    "name": "Laracon EU",
+    "startDate": "2023-01-26",
+    "endDate": "2023-01-27",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "online": false,
+    "twitter": "@LaraconEU",
+    "cocUrl": "https://laracon.eu/code-of-conduct",
+    "url": "https://laracon.eu",
+    "locales": "EN"
   }
 ]
