@@ -94,5 +94,19 @@
     "online": true,
     "twitter": "@ODSC",
     "locales": "EN"
+  },
+  {
+    "name": "PyData",
+    "startDate": "2023-04-26",
+    "endDate": "2023-04-28",
+    "city": "Seattle, WA",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://pydata.org/seattle2023/present",
+    "cfpEndDate": "2023-02-06",
+    "twitter": "@PyData",
+    "cocUrl": "https://pydata.org/seattle2023/conduct/",
+    "url": "https://pydata.org/seattle2023",
+    "locales": "EN"
   }
 ]
