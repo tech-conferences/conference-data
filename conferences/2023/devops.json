@@ -323,5 +323,18 @@
     "cocUrl": "https://shift.infobip.com/code/",
     "url": "https://shift.infobip.com",
     "locales": "EN"
+  },
+  {
+    "name": "KubeCon + CloudNativeCon Europe",
+    "startDate": "2023-04-17",
+    "endDate": "2023-04-21",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": true,
+    "cfpUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/cfp",
+    "cfpEndDate": "2022-11-18",
+    "cocUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/code-of-conduct/",
+    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe",
+    "locales": "EN"
   }
 ]
