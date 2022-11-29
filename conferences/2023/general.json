@@ -290,5 +290,20 @@
     "cocUrl": "https://chemnitzer.linux-tage.de/2023/en/info/miteinander",
     "url": "https://chemnitzer.linux-tage.de",
     "locales": "EN,DE"
+  },
+  {
+    "name": "13th World Congress on Breast Cancer",
+    "startDate": "2023-02-20",
+    "endDate": "2023-02-21",
+    "city": "Madrid",
+    "country": "Spain",
+    "online": false,
+    "cfpUrl": "https://breastcancer.conferenceseries.com/registration.php",
+    "cfpEndDate": "2023-01-15",
+    "twitter": "@JennyJa06022923",
+    "cocUrl": "https://breastcancer.conferenceseries.com/",
+    "offersSignLanguageOrCC": true,
+    "url": "https://breastcancer.conferenceseries.com",
+    "locales": "EN"
   }
 ]
