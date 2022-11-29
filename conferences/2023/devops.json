@@ -323,5 +323,15 @@
     "cocUrl": "https://shift.infobip.com/code/",
     "url": "https://shift.infobip.com",
     "locales": "EN"
+  },
+  {
+    "name": "KubeCon + CloudNativeCon North America",
+    "startDate": "2023-11-06",
+    "endDate": "2023-11-10",
+    "city": "Chicago, IL",
+    "country": "U.S.A.",
+    "online": true,
+    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2023",
+    "locales": "EN"
   }
 ]
