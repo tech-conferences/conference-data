@@ -752,6 +752,17 @@
     "twitter": "@GCBME"
   },
   {
+    "name": "Immerse Global Summit",
+    "url": "https://www.immerseglobalsummit.com",
+    "startDate": "2022-12-05",
+    "endDate": "2022-12-07",
+    "city": "Miami, FL",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@ImmerseSummit",
+    "locales": "EN"
+  },
+  {
     "name": "SpringOne",
     "url": "https://springone.io",
     "startDate": "2022-12-06",
@@ -781,16 +792,5 @@
     "country": "Belgium",
     "online": true,
     "twitter": "@heliviewconf"
-  },
-  {
-    "name": "Immerse Global Summit",
-    "startDate": "2022-12-05",
-    "endDate": "2022-12-07",
-    "city": "Miami, FL",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@ImmerseSummit",
-    "url": "https://www.immerseglobalsummit.com",
-    "locales": "EN"
   }
 ]

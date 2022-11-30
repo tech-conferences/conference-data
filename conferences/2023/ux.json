@@ -13,6 +13,20 @@
     "cocUrl": "https://confoo.ca/en/code-of-conduct"
   },
   {
+    "name": "Apprise Conf",
+    "url": "https://appriseconf.com",
+    "startDate": "2023-03-23",
+    "endDate": "2023-03-23",
+    "city": "Oslo",
+    "country": "Norway",
+    "online": false,
+    "cfpUrl": "https://forms.gle/63C6sSAbzFLFzpX17",
+    "cfpEndDate": "2023-01-31",
+    "twitter": "@appriseconf",
+    "cocUrl": "https://appriseconf.com/coc.html",
+    "locales": "EN"
+  },
+  {
     "name": "Open Source Day",
     "url": "https://2023.osday.dev",
     "startDate": "2023-03-24",
@@ -60,6 +74,7 @@
   },
   {
     "name": "Hatch Conference",
+    "url": "https://www.hatchconference.com",
     "startDate": "2023-10-05",
     "endDate": "2023-10-06",
     "city": "Berlin",
@@ -69,21 +84,6 @@
     "cfpEndDate": "2023-02-15",
     "twitter": "@hatchconference",
     "cocUrl": "https://www.hatchconference.com/code-of-conduct",
-    "url": "https://www.hatchconference.com",
-    "locales": "EN"
-  },
-  {
-    "name": "Apprise Conf",
-    "startDate": "2023-03-23",
-    "endDate": "2023-03-23",
-    "city": "Oslo",
-    "country": "Norway",
-    "online": false,
-    "cfpUrl": "https://forms.gle/63C6sSAbzFLFzpX17",
-    "cfpEndDate": "2023-01-31",
-    "twitter": "@appriseconf",
-    "cocUrl": "https://appriseconf.com/coc.html",
-    "url": "https://appriseconf.com",
     "locales": "EN"
   }
 ]

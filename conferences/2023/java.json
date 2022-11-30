@@ -73,18 +73,8 @@
     "cocUrl": "https://devnexus.com/code-of-conduct"
   },
   {
-    "name": "Devoxx UK",
-    "url": "https://www.devoxx.co.uk",
-    "startDate": "2023-05-10",
-    "endDate": "2023-05-12",
-    "city": "London",
-    "country": "U.K.",
-    "online": false,
-    "twitter": "@DevoxxUK",
-    "cocUrl": "https://www.devoxx.co.uk/code-of-conduct/"
-  },
-  {
     "name": "Devoxx France",
+    "url": "https://devoxx.fr",
     "startDate": "2023-04-12",
     "endDate": "2023-04-14",
     "city": "Paris",
@@ -94,7 +84,17 @@
     "cfpEndDate": "2023-01-08",
     "twitter": "@DevoxxFR",
     "cocUrl": "https://www.devoxx.fr/presenter-a-devoxx/code-de-conduite/",
-    "url": "https://devoxx.fr",
     "locales": "EN,FR"
+  },
+  {
+    "name": "Devoxx UK",
+    "url": "https://www.devoxx.co.uk",
+    "startDate": "2023-05-10",
+    "endDate": "2023-05-12",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "twitter": "@DevoxxUK",
+    "cocUrl": "https://www.devoxx.co.uk/code-of-conduct/"
   }
 ]

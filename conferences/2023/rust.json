@@ -13,6 +13,20 @@
     "cocUrl": "https://wasmio.tech/coc"
   },
   {
+    "name": "Devoxx France",
+    "url": "https://devoxx.fr",
+    "startDate": "2023-04-12",
+    "endDate": "2023-04-14",
+    "city": "Paris",
+    "country": "France",
+    "online": false,
+    "cfpUrl": "https://cfp.devoxx.fr",
+    "cfpEndDate": "2023-01-08",
+    "twitter": "@DevoxxFR",
+    "cocUrl": "https://www.devoxx.fr/presenter-a-devoxx/code-de-conduite/",
+    "locales": "EN,FR"
+  },
+  {
     "name": "Conf42 Rustlang",
     "url": "https://www.conf42.com/rustlang2023",
     "startDate": "2023-09-07",
@@ -31,19 +45,5 @@
     "online": true,
     "twitter": "@euro_rust",
     "cocUrl": "https://eurorust.eu/2022/code-of-conduct/"
-  },
-  {
-    "name": "Devoxx France",
-    "startDate": "2023-04-12",
-    "endDate": "2023-04-14",
-    "city": "Paris",
-    "country": "France",
-    "online": false,
-    "cfpUrl": "https://cfp.devoxx.fr",
-    "cfpEndDate": "2023-01-08",
-    "twitter": "@DevoxxFR",
-    "cocUrl": "https://www.devoxx.fr/presenter-a-devoxx/code-de-conduite/",
-    "url": "https://devoxx.fr",
-    "locales": "EN,FR"
   }
 ]
