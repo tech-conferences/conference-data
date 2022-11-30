@@ -94,5 +94,19 @@
     "online": true,
     "twitter": "@ODSC",
     "locales": "EN"
+  },
+  {
+    "name": "Devoxx France",
+    "startDate": "2023-04-12",
+    "endDate": "2023-04-14",
+    "city": "Paris",
+    "country": "France",
+    "online": false,
+    "cfpUrl": "https://cfp.devoxx.fr",
+    "cfpEndDate": "2023-01-08",
+    "twitter": "@DevoxxFR",
+    "cocUrl": "https://www.devoxx.fr/presenter-a-devoxx/code-de-conduite/",
+    "url": "https://devoxx.fr",
+    "locales": "EN,FR"
   }
 ]
