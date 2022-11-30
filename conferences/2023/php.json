@@ -1,5 +1,17 @@
 [
   {
+    "name": "Laracon EU",
+    "url": "https://laracon.eu",
+    "startDate": "2023-01-26",
+    "endDate": "2023-01-27",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "online": false,
+    "twitter": "@LaraconEU",
+    "cocUrl": "https://laracon.eu/code-of-conduct",
+    "locales": "EN"
+  },
+  {
     "name": "PHP UK Conference",
     "url": "https://www.phpconference.co.uk",
     "startDate": "2023-02-14",
@@ -27,6 +39,18 @@
     "cocUrl": "https://confoo.ca/en/code-of-conduct"
   },
   {
+    "name": "Laracon India",
+    "url": "https://laracon.in",
+    "startDate": "2023-02-25",
+    "endDate": "2023-02-26",
+    "city": "Ahmedabad",
+    "country": "India",
+    "online": false,
+    "twitter": "@LaraconIN",
+    "cocUrl": "https://laracon.in/code-of-conduct.html",
+    "locales": "EN"
+  },
+  {
     "name": "DrupalCon",
     "url": "https://events.drupal.org/drupalcon",
     "startDate": "2023-06-05",
@@ -50,29 +74,5 @@
     "cfpUrl": "https://cfp.trendig.com/AgileTD_OpenAir_2023",
     "cfpEndDate": "2022-08-31",
     "twitter": "@AgileTDOpenAir"
-  },
-  {
-    "name": "Laracon India",
-    "startDate": "2023-02-25",
-    "endDate": "2023-02-26",
-    "online": false,
-    "city": "Ahmedabad",
-    "country": "India",
-    "twitter": "@LaraconIN",
-    "cocUrl": "https://laracon.in/code-of-conduct.html",
-    "url": "https://laracon.in",
-    "locales": "EN"
-  },
-  {
-    "name": "Laracon EU",
-    "startDate": "2023-01-26",
-    "endDate": "2023-01-27",
-    "city": "Lisbon",
-    "country": "Portugal",
-    "online": false,
-    "twitter": "@LaraconEU",
-    "cocUrl": "https://laracon.eu/code-of-conduct",
-    "url": "https://laracon.eu",
-    "locales": "EN"
   }
 ]

@@ -187,6 +187,19 @@
     "cocUrl": "https://devopsdays.org/events/2023-nashville/conduct"
   },
   {
+    "name": "KubeCon + CloudNativeCon Europe",
+    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe",
+    "startDate": "2023-04-17",
+    "endDate": "2023-04-21",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": true,
+    "cfpUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/cfp",
+    "cfpEndDate": "2022-11-18",
+    "cocUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "KubeCon EU",
     "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2023",
     "startDate": "2023-04-17",
@@ -279,6 +292,20 @@
     "twitter": "@devopsdaysbrum"
   },
   {
+    "name": "Infobip Shift",
+    "url": "https://shift.infobip.com",
+    "startDate": "2023-09-18",
+    "endDate": "2023-09-19",
+    "city": "Zadar",
+    "country": "Croatia",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/infobip-shift-2023",
+    "cfpEndDate": "2023-05-15",
+    "twitter": "@InfobipShift",
+    "cocUrl": "https://shift.infobip.com/code/",
+    "locales": "EN"
+  },
+  {
     "name": "Conf42 Kube Native",
     "url": "https://www.conf42.com/kubenative2023",
     "startDate": "2023-09-28",
@@ -300,6 +327,16 @@
     "twitter": "@devopsdaysindy"
   },
   {
+    "name": "KubeCon + CloudNativeCon North America",
+    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2023",
+    "startDate": "2023-11-06",
+    "endDate": "2023-11-10",
+    "city": "Chicago, IL",
+    "country": "U.S.A.",
+    "online": true,
+    "locales": "EN"
+  },
+  {
     "name": "Conf42 DevSecOps",
     "url": "https://www.conf42.com/devsecops2023",
     "startDate": "2023-11-30",
@@ -309,42 +346,5 @@
     "cfpEndDate": "2023-10-30",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
-  },
-  {
-    "name": "Infobip Shift",
-    "startDate": "2023-09-18",
-    "endDate": "2023-09-19",
-    "city": "Zadar",
-    "country": "Croatia",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/infobip-shift-2023",
-    "cfpEndDate": "2023-05-15",
-    "twitter": "@InfobipShift",
-    "cocUrl": "https://shift.infobip.com/code/",
-    "url": "https://shift.infobip.com",
-    "locales": "EN"
-  },
-  {
-    "name": "KubeCon + CloudNativeCon North America",
-    "startDate": "2023-11-06",
-    "endDate": "2023-11-10",
-    "city": "Chicago, IL",
-    "country": "U.S.A.",
-    "online": true,
-    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2023",
-    "locales": "EN"
-  },
-  {
-    "name": "KubeCon + CloudNativeCon Europe",
-    "startDate": "2023-04-17",
-    "endDate": "2023-04-21",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "online": true,
-    "cfpUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/cfp",
-    "cfpEndDate": "2022-11-18",
-    "cocUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/code-of-conduct/",
-    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe",
-    "locales": "EN"
   }
 ]

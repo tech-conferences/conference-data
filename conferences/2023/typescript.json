@@ -23,6 +23,20 @@
     "cocUrl": "https://confoo.ca/en/code-of-conduct"
   },
   {
+    "name": "Apprise Conf",
+    "url": "https://appriseconf.com",
+    "startDate": "2023-03-23",
+    "endDate": "2023-03-23",
+    "city": "Oslo",
+    "country": "Norway",
+    "online": false,
+    "cfpUrl": "https://forms.gle/63C6sSAbzFLFzpX17",
+    "cfpEndDate": "2023-01-31",
+    "twitter": "@appriseconf",
+    "cocUrl": "https://appriseconf.com/coc.html",
+    "locales": "EN"
+  },
+  {
     "name": "International JavaScript Conference London",
     "url": "https://javascript-conference.com/london",
     "startDate": "2023-04-24",
@@ -81,19 +95,5 @@
     "online": true,
     "twitter": "@magnoliajsconf",
     "cocUrl": "https://www.magnoliajs.com/conduct"
-  },
-  {
-    "name": "Apprise Conf",
-    "startDate": "2023-03-23",
-    "endDate": "2023-03-23",
-    "city": "Oslo",
-    "country": "Norway",
-    "online": false,
-    "cfpUrl": "https://forms.gle/63C6sSAbzFLFzpX17",
-    "cfpEndDate": "2023-01-31",
-    "twitter": "@appriseconf",
-    "cocUrl": "https://appriseconf.com/coc.html",
-    "url": "https://appriseconf.com",
-    "locales": "EN"
   }
 ]

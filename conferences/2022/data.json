@@ -362,6 +362,17 @@
     "cocUrl": "https://databricks.com/dataaisummit/north-america-2022/code-of-conduct"
   },
   {
+    "name": "Common Sense Data & Analytics Predict, SG",
+    "url": "https://www.commonsense.events/cs23-data-analytics-predict-sg",
+    "startDate": "2022-07-24",
+    "endDate": "2022-07-26",
+    "city": "Singapore",
+    "country": "Singapore",
+    "online": false,
+    "twitter": "@Common_Sense_BF",
+    "locales": "EN"
+  },
+  {
     "name": "Neo4j Connections",
     "url": "https://neo4j.com/event/neo4j-connections-solving-real-world-problems-with-graphs-asia-pacific-copy-july-28",
     "startDate": "2022-07-28",
@@ -893,16 +904,5 @@
     "country": "U.S.A.",
     "online": false,
     "twitter": "@webcongress"
-  },
-  {
-    "name": "Common Sense Data & Analytics Predict, SG",
-    "startDate": "2022-07-24",
-    "endDate": "2022-07-26",
-    "city": "Singapore",
-    "country": "Singapore",
-    "online": false,
-    "twitter": "@Common_Sense_BF",
-    "url": "https://www.commonsense.events/cs23-data-analytics-predict-sg",
-    "locales": "EN"
   }
 ]

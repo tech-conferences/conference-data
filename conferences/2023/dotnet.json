@@ -25,6 +25,20 @@
     "cocUrl": "https://confoo.ca/en/code-of-conduct"
   },
   {
+    "name": "Apprise Conf",
+    "url": "https://appriseconf.com",
+    "startDate": "2023-03-23",
+    "endDate": "2023-03-23",
+    "city": "Oslo",
+    "country": "Norway",
+    "online": false,
+    "cfpUrl": "https://forms.gle/63C6sSAbzFLFzpX17",
+    "cfpEndDate": "2023-01-31",
+    "twitter": "@appriseconf",
+    "cocUrl": "https://appriseconf.com/coc.html",
+    "locales": "EN"
+  },
+  {
     "name": "Wasm I/O",
     "url": "https://wasmio.tech",
     "startDate": "2023-03-23",
@@ -36,19 +50,5 @@
     "cfpEndDate": "2023-01-17",
     "twitter": "@wasm_io",
     "cocUrl": "https://wasmio.tech/coc"
-  },
-  {
-    "name": "Apprise Conf",
-    "startDate": "2023-03-23",
-    "endDate": "2023-03-23",
-    "city": "Oslo",
-    "country": "Norway",
-    "online": false,
-    "cfpUrl": "https://forms.gle/63C6sSAbzFLFzpX17",
-    "cfpEndDate": "2023-01-31",
-    "twitter": "@appriseconf",
-    "cocUrl": "https://appriseconf.com/coc.html",
-    "url": "https://appriseconf.com",
-    "locales": "EN"
   }
 ]

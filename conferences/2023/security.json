@@ -1,5 +1,18 @@
 [
   {
+    "name": "CloudNativeSecurityCon",
+    "url": "https://events.linuxfoundation.org/cloudnativesecuritycon-north-america",
+    "startDate": "2023-02-01",
+    "endDate": "2023-02-02",
+    "city": "Seattle, WA",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/program/cfp",
+    "cfpEndDate": "2022-11-13",
+    "cocUrl": "https://events.linuxfoundation.org/about/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "ConFoo",
     "url": "https://confoo.ca/en/2023",
     "startDate": "2023-02-22",
@@ -24,6 +37,20 @@
     "cfpEndDate": "2022-11-30",
     "twitter": "@nullcon",
     "cocUrl": "https://nullcon.net/about-conferencepolicy/"
+  },
+  {
+    "name": "Apprise Conf",
+    "url": "https://appriseconf.com",
+    "startDate": "2023-03-23",
+    "endDate": "2023-03-23",
+    "city": "Oslo",
+    "country": "Norway",
+    "online": false,
+    "cfpUrl": "https://forms.gle/63C6sSAbzFLFzpX17",
+    "cfpEndDate": "2023-01-31",
+    "twitter": "@appriseconf",
+    "cocUrl": "https://appriseconf.com/coc.html",
+    "locales": "EN"
   },
   {
     "name": "Develop",
@@ -61,32 +88,5 @@
     "online": false,
     "twitter": "@RenderATL",
     "cocUrl": "https://www.renderatl.com/codepolicy"
-  },
-  {
-    "name": "CloudNativeSecurityCon",
-    "startDate": "2023-02-01",
-    "endDate": "2023-02-02",
-    "online": false,
-    "city": "Seattle, WA",
-    "country": "U.S.A.",
-    "cfpUrl": "https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/program/cfp",
-    "cfpEndDate": "2022-11-13",
-    "cocUrl": "https://events.linuxfoundation.org/about/code-of-conduct/",
-    "url": "https://events.linuxfoundation.org/cloudnativesecuritycon-north-america",
-    "locales": "EN"
-  },
-  {
-    "name": "Apprise Conf",
-    "startDate": "2023-03-23",
-    "endDate": "2023-03-23",
-    "city": "Oslo",
-    "country": "Norway",
-    "online": false,
-    "cfpUrl": "https://forms.gle/63C6sSAbzFLFzpX17",
-    "cfpEndDate": "2023-01-31",
-    "twitter": "@appriseconf",
-    "cocUrl": "https://appriseconf.com/coc.html",
-    "url": "https://appriseconf.com",
-    "locales": "EN"
   }
 ]

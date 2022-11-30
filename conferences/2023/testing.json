@@ -60,6 +60,20 @@
     "cocUrl": "https://robotframework.org/code-of-conduct"
   },
   {
+    "name": "Apprise Conf",
+    "url": "https://appriseconf.com",
+    "startDate": "2023-03-23",
+    "endDate": "2023-03-23",
+    "city": "Oslo",
+    "country": "Norway",
+    "online": false,
+    "cfpUrl": "https://forms.gle/63C6sSAbzFLFzpX17",
+    "cfpEndDate": "2023-01-31",
+    "twitter": "@appriseconf",
+    "cocUrl": "https://appriseconf.com/coc.html",
+    "locales": "EN"
+  },
+  {
     "name": "Conf42 Site Reliability Engineering",
     "url": "https://www.conf42.com/sre2023",
     "startDate": "2023-05-04",
@@ -164,19 +178,5 @@
     "cfpEndDate": "2023-09-19",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
-  },
-  {
-    "name": "Apprise Conf",
-    "startDate": "2023-03-23",
-    "endDate": "2023-03-23",
-    "city": "Oslo",
-    "country": "Norway",
-    "online": false,
-    "cfpUrl": "https://forms.gle/63C6sSAbzFLFzpX17",
-    "cfpEndDate": "2023-01-31",
-    "twitter": "@appriseconf",
-    "cocUrl": "https://appriseconf.com/coc.html",
-    "url": "https://appriseconf.com",
-    "locales": "EN"
   }
 ]

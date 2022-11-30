@@ -26,18 +26,8 @@
     "cocUrl": "https://wasmio.tech/coc"
   },
   {
-    "name": "Conf42 Internet of Things (IoT)",
-    "url": "https://www.conf42.com/iot2023",
-    "startDate": "2023-12-14",
-    "endDate": "2023-12-14",
-    "online": true,
-    "cfpUrl": "https://www.papercall.io/conf42-iot-2023",
-    "cfpEndDate": "2023-11-14",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct"
-  },
-  {
     "name": "building IoT",
+    "url": "https://www.buildingiot.de",
     "startDate": "2023-04-26",
     "endDate": "2023-04-27",
     "city": "Munich",
@@ -47,7 +37,17 @@
     "cfpEndDate": "2022-12-12",
     "twitter": "@building_iot",
     "cocUrl": "https://www.buildingiot.de/code_of_conduct.php",
-    "url": "https://www.buildingiot.de",
     "locales": "EN,DE"
+  },
+  {
+    "name": "Conf42 Internet of Things (IoT)",
+    "url": "https://www.conf42.com/iot2023",
+    "startDate": "2023-12-14",
+    "endDate": "2023-12-14",
+    "online": true,
+    "cfpUrl": "https://www.papercall.io/conf42-iot-2023",
+    "cfpEndDate": "2023-11-14",
+    "twitter": "@conf42com",
+    "cocUrl": "https://www.conf42.com/code-of-conduct"
   }
 ]
