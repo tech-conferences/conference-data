@@ -85,5 +85,17 @@
     "twitter": "@hatchconference",
     "cocUrl": "https://www.hatchconference.com/code-of-conduct",
     "locales": "EN"
+  },
+  {
+    "name": "webinale",
+    "startDate": "2023-05-22",
+    "endDate": "2023-05-26",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@webinale",
+    "cocUrl": "https://webinale.de/code-of-conduct/",
+    "url": "https://webinale.de",
+    "locales": "EN"
   }
 ]
