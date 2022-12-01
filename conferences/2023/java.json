@@ -108,5 +108,17 @@
     "cocUrl": "https://jax.de/code-of-conduct/",
     "url": "https://jax.de/mainz",
     "locales": "EN"
+  },
+  {
+    "name": "Azure Cosmos Conf",
+    "startDate": "2023-03-28",
+    "endDate": "2023-03-28",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/azure-cosmos-db-conf-2023",
+    "cfpEndDate": "2023-02-01",
+    "twitter": "@AzureCosmosDB",
+    "cocUrl": "https://learn.microsoft.com/en-us/legal/learnevents/codeofconduct",
+    "url": "https://aka.ms/AzureCosmosDBConf",
+    "locales": "EN"
   }
 ]
