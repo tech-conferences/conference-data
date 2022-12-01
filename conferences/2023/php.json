@@ -74,5 +74,17 @@
     "cfpUrl": "https://cfp.trendig.com/AgileTD_OpenAir_2023",
     "cfpEndDate": "2022-08-31",
     "twitter": "@AgileTDOpenAir"
+  },
+  {
+    "name": "International PHP Conference Berlin",
+    "startDate": "2023-05-22",
+    "endDate": "2023-05-26",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@phpconference",
+    "cocUrl": "https://phpconference.com/code-of-conduct/",
+    "url": "https://phpconference.com/berlin-en",
+    "locales": "EN"
   }
 ]

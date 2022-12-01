@@ -88,5 +88,17 @@
     "online": false,
     "twitter": "@RenderATL",
     "cocUrl": "https://www.renderatl.com/codepolicy"
+  },
+  {
+    "name": "International PHP Conference Berlin",
+    "startDate": "2023-05-22",
+    "endDate": "2023-05-26",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@phpconference",
+    "cocUrl": "https://phpconference.com/code-of-conduct/",
+    "url": "https://phpconference.com/berlin-en",
+    "locales": "EN"
   }
 ]
