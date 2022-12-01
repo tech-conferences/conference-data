@@ -69,5 +69,17 @@
     "cfpUrl": "https://cfp.trendig.com/AgileTD_OpenAir_2023",
     "cfpEndDate": "2022-08-31",
     "twitter": "@AgileTDOpenAir"
+  },
+  {
+    "name": "JAX",
+    "startDate": "2023-05-08",
+    "endDate": "2023-05-12",
+    "city": "Mainz",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@jaxcon",
+    "cocUrl": "https://jax.de/code-of-conduct/",
+    "url": "https://jax.de/mainz",
+    "locales": "EN"
   }
 ]
