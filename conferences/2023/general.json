@@ -302,5 +302,17 @@
     "cocUrl": "https://learn.microsoft.com/en-us/legal/learnevents/codeofconduct",
     "url": "https://aka.ms/AzureCosmosDBConf",
     "locales": "EN"
+  },
+  {
+    "name": "Serverless Architecture Conference London",
+    "startDate": "2023-04-24",
+    "endDate": "2023-04-27",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "twitter": "@serverlesscon",
+    "cocUrl": "https://serverless-architecture.io/code-of-conduct/",
+    "url": "https://serverless-architecture.io/london",
+    "locales": "EN"
   }
 ]
