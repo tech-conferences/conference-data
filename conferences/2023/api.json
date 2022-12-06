@@ -48,5 +48,18 @@
     "online": false,
     "twitter": "@RenderATL",
     "cocUrl": "https://www.renderatl.com/codepolicy"
+  },
+  {
+    "name": "Serverless Architecture",
+    "startDate": "2023-04-23",
+    "endDate": "2023-04-27",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "twitter": "@serverlesscon",
+    "cocUrl": "https://serverless-architecture.io/code-of-conduct/",
+    "offersSignLanguageOrCC": true,
+    "url": "https://serverless-architecture.io/london",
+    "locales": "EN"
   }
 ]
