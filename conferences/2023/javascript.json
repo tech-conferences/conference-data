@@ -1,5 +1,18 @@
 [
   {
+    "name": "Global Summit for Node.js",
+    "url": "https://events.geekle.us/nodejs2",
+    "startDate": "2023-01-25",
+    "endDate": "2023-01-26",
+    "online": true,
+    "cfpUrl": "https://forms.gle/znRPpmw9CywZz5YJ8",
+    "cfpEndDate": "2022-12-15",
+    "twitter": "@node_fellows",
+    "cocUrl": "https://geekle.us/code-of-conduct",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Refresh",
     "url": "https://refresh.rocks/",
     "startDate": "2023-01-26",
@@ -74,6 +87,16 @@
     "twitter": "@vuejsamsterdam",
     "cocUrl": "https://vuejs.amsterdam/code-of-conduct",
     "locales": "EN"
+  },
+  {
+    "name": "enterJS Web-Performance Day",
+    "url": "https://enterjs.de/web-performance.php",
+    "startDate": "2023-02-15",
+    "endDate": "2023-02-15",
+    "online": true,
+    "twitter": "@enterjsconf",
+    "cocUrl": "https://enterjs.de/code_of_conduct.php",
+    "locales": "DE"
   },
   {
     "name": "ConFoo",
@@ -180,6 +203,20 @@
     "locales": "EN,FR"
   },
   {
+    "name": "Node Congress",
+    "url": "https://nodecongress.com",
+    "startDate": "2023-04-14",
+    "endDate": "2023-04-17",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "cfpUrl": "https://forms.gle/jexnQbSsUZKefsqMA",
+    "cfpEndDate": "2023-01-15",
+    "twitter": "@NodeCongress",
+    "cocUrl": "https://nodecongress.com/coc",
+    "locales": "EN"
+  },
+  {
     "name": "React Miami",
     "url": "https://reactmiami.com",
     "startDate": "2023-04-20",
@@ -218,6 +255,32 @@
     "cfpEndDate": "2023-01-28",
     "twitter": "@cityjsconf",
     "cocUrl": "https://brazil.cityjsconf.org/coc",
+    "locales": "EN"
+  },
+  {
+    "name": "JAX",
+    "url": "https://jax.de/mainz",
+    "startDate": "2023-05-08",
+    "endDate": "2023-05-12",
+    "city": "Mainz",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@jaxcon",
+    "cocUrl": "https://jax.de/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
+    "name": "Vue.js Live Conference",
+    "url": "https://vuejslive.com",
+    "startDate": "2023-05-12",
+    "endDate": "2023-05-15",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "cfpUrl": "https://forms.gle/V1727ta24LLFBqKD7",
+    "cfpEndDate": "2023-02-05",
+    "twitter": "@VueJSLive",
+    "cocUrl": "https://vuejslive.com/coc",
     "locales": "EN"
   },
   {
@@ -345,68 +408,5 @@
     "cfpEndDate": "2023-10-16",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
-  },
-  {
-    "name": "JAX",
-    "startDate": "2023-05-08",
-    "endDate": "2023-05-12",
-    "city": "Mainz",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@jaxcon",
-    "cocUrl": "https://jax.de/code-of-conduct/",
-    "url": "https://jax.de/mainz",
-    "locales": "EN"
-  },
-  {
-    "name": "Vue.js Live Conference",
-    "startDate": "2023-05-12",
-    "endDate": "2023-05-15",
-    "city": "London",
-    "country": "U.K.",
-    "online": true,
-    "cfpUrl": "https://forms.gle/V1727ta24LLFBqKD7",
-    "cfpEndDate": "2023-02-05",
-    "twitter": "@VueJSLive",
-    "cocUrl": "https://vuejslive.com/coc",
-    "url": "https://vuejslive.com",
-    "locales": "EN"
-  },
-  {
-    "name": "enterJS Web-Performance Day",
-    "startDate": "2023-02-15",
-    "endDate": "2023-02-15",
-    "online": true,
-    "twitter": "@enterjsconf",
-    "cocUrl": "https://enterjs.de/code_of_conduct.php",
-    "url": "https://enterjs.de/web-performance.php",
-    "locales": "DE"
-  },
-  {
-    "name": "Global Summit for Node.js",
-    "startDate": "2023-01-25",
-    "endDate": "2023-01-26",
-    "online": true,
-    "cfpUrl": "https://forms.gle/znRPpmw9CywZz5YJ8",
-    "cfpEndDate": "2022-12-15",
-    "twitter": "@node_fellows",
-    "cocUrl": "https://geekle.us/code-of-conduct",
-    "offersSignLanguageOrCC": true,
-    "url": "https://events.geekle.us/nodejs2",
-    "locales": "EN"
-  },
-  {
-    "name": "Node Congress",
-    "startDate": "2023-04-14",
-    "endDate": "2023-04-17",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "cfpUrl": "https://forms.gle/jexnQbSsUZKefsqMA",
-    "cfpEndDate": "2023-01-15",
-    "twitter": "@NodeCongress",
-    "cocUrl": "https://nodecongress.com/coc",
-    "url": "https://nodecongress.com",
-    "locales": "EN"
   }
 ]

@@ -61,6 +61,18 @@
     "locales": "EN"
   },
   {
+    "name": "webinale",
+    "url": "https://webinale.de",
+    "startDate": "2023-05-22",
+    "endDate": "2023-05-26",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@webinale",
+    "cocUrl": "https://webinale.de/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "UXLx User Experience Lisbon",
     "url": "https://www.ux-lx.com",
     "startDate": "2023-05-23",
@@ -80,17 +92,5 @@
     "online": true,
     "twitter": "@magnoliajsconf",
     "cocUrl": "https://www.magnoliajs.com/conduct"
-  },
-  {
-    "name": "webinale",
-    "startDate": "2023-05-22",
-    "endDate": "2023-05-26",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@webinale",
-    "cocUrl": "https://webinale.de/code-of-conduct/",
-    "url": "https://webinale.de",
-    "locales": "EN"
   }
 ]

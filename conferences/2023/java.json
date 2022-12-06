@@ -49,6 +49,18 @@
     "cocUrl": "https://www.javaland.eu/de/verhaltenscodex/"
   },
   {
+    "name": "Azure Cosmos Conf",
+    "url": "https://aka.ms/AzureCosmosDBConf",
+    "startDate": "2023-03-28",
+    "endDate": "2023-03-28",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/azure-cosmos-db-conf-2023",
+    "cfpEndDate": "2023-02-01",
+    "twitter": "@AzureCosmosDB",
+    "cocUrl": "https://learn.microsoft.com/en-us/legal/learnevents/codeofconduct",
+    "locales": "EN"
+  },
+  {
     "name": "Gateway Software Symposium",
     "url": "https://nofluffjuststuff.com/stlouis",
     "startDate": "2023-03-31",
@@ -87,6 +99,18 @@
     "locales": "EN,FR"
   },
   {
+    "name": "JAX",
+    "url": "https://jax.de/mainz",
+    "startDate": "2023-05-08",
+    "endDate": "2023-05-12",
+    "city": "Mainz",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@jaxcon",
+    "cocUrl": "https://jax.de/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "Devoxx UK",
     "url": "https://www.devoxx.co.uk",
     "startDate": "2023-05-10",
@@ -96,29 +120,5 @@
     "online": false,
     "twitter": "@DevoxxUK",
     "cocUrl": "https://www.devoxx.co.uk/code-of-conduct/"
-  },
-  {
-    "name": "JAX",
-    "startDate": "2023-05-08",
-    "endDate": "2023-05-12",
-    "city": "Mainz",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@jaxcon",
-    "cocUrl": "https://jax.de/code-of-conduct/",
-    "url": "https://jax.de/mainz",
-    "locales": "EN"
-  },
-  {
-    "name": "Azure Cosmos Conf",
-    "startDate": "2023-03-28",
-    "endDate": "2023-03-28",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/azure-cosmos-db-conf-2023",
-    "cfpEndDate": "2023-02-01",
-    "twitter": "@AzureCosmosDB",
-    "cocUrl": "https://learn.microsoft.com/en-us/legal/learnevents/codeofconduct",
-    "url": "https://aka.ms/AzureCosmosDBConf",
-    "locales": "EN"
   }
 ]

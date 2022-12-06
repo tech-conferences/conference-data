@@ -27,6 +27,18 @@
     "locales": "EN,FR"
   },
   {
+    "name": "JAX",
+    "url": "https://jax.de/mainz",
+    "startDate": "2023-05-08",
+    "endDate": "2023-05-12",
+    "city": "Mainz",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@jaxcon",
+    "cocUrl": "https://jax.de/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "Conf42 Rustlang",
     "url": "https://www.conf42.com/rustlang2023",
     "startDate": "2023-09-07",
@@ -45,17 +57,5 @@
     "online": true,
     "twitter": "@euro_rust",
     "cocUrl": "https://eurorust.eu/2022/code-of-conduct/"
-  },
-  {
-    "name": "JAX",
-    "startDate": "2023-05-08",
-    "endDate": "2023-05-12",
-    "city": "Mainz",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@jaxcon",
-    "cocUrl": "https://jax.de/code-of-conduct/",
-    "url": "https://jax.de/mainz",
-    "locales": "EN"
   }
 ]
