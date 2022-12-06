@@ -39,6 +39,20 @@
     "cocUrl": "https://nullcon.net/about-conferencepolicy/"
   },
   {
+    "name": "SREcon Americas",
+    "url": "https://www.usenix.org/conference/srecon23americas",
+    "startDate": "2023-03-21",
+    "endDate": "2023-03-23",
+    "city": "Santa Clara, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://www.usenix.org/conference/srecon23americas/call-for-participation",
+    "cfpEndDate": "2022-12-01",
+    "twitter": "@srecon",
+    "cocUrl": "https://www.usenix.org/conferences/coc",
+    "locales": "EN"
+  },
+  {
     "name": "Apprise Conf",
     "url": "https://appriseconf.com",
     "startDate": "2023-03-23",
@@ -67,6 +81,18 @@
     "locales": "EN"
   },
   {
+    "name": "API Conference London",
+    "url": "https://apiconference.net/london",
+    "startDate": "2023-04-24",
+    "endDate": "2023-04-27",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "twitter": "@api_conference",
+    "cocUrl": "https://apiconference.net/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "DevOps Conference London",
     "url": "https://devopscon.io/london",
     "startDate": "2023-04-24",
@@ -79,6 +105,42 @@
     "locales": "EN"
   },
   {
+    "name": "Serverless Architecture Conference London",
+    "url": "https://serverless-architecture.io/london",
+    "startDate": "2023-04-24",
+    "endDate": "2023-04-27",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "twitter": "@serverlesscon",
+    "cocUrl": "https://serverless-architecture.io/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
+    "name": "JAX",
+    "url": "https://jax.de/mainz",
+    "startDate": "2023-05-08",
+    "endDate": "2023-05-12",
+    "city": "Mainz",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@jaxcon",
+    "cocUrl": "https://jax.de/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
+    "name": "International PHP Conference Berlin",
+    "url": "https://phpconference.com/berlin-en",
+    "startDate": "2023-05-22",
+    "endDate": "2023-05-26",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@phpconference",
+    "cocUrl": "https://phpconference.com/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "RenderATL",
     "url": "https://www.renderatl.com",
     "startDate": "2023-05-31",
@@ -88,67 +150,5 @@
     "online": false,
     "twitter": "@RenderATL",
     "cocUrl": "https://www.renderatl.com/codepolicy"
-  },
-  {
-    "name": "International PHP Conference Berlin",
-    "startDate": "2023-05-22",
-    "endDate": "2023-05-26",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@phpconference",
-    "cocUrl": "https://phpconference.com/code-of-conduct/",
-    "url": "https://phpconference.com/berlin-en",
-    "locales": "EN"
-  },
-  {
-    "name": "JAX",
-    "startDate": "2023-05-08",
-    "endDate": "2023-05-12",
-    "city": "Mainz",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@jaxcon",
-    "cocUrl": "https://jax.de/code-of-conduct/",
-    "url": "https://jax.de/mainz",
-    "locales": "EN"
-  },
-  {
-    "name": "Serverless Architecture Conference London",
-    "startDate": "2023-04-24",
-    "endDate": "2023-04-27",
-    "city": "London",
-    "country": "U.K.",
-    "online": true,
-    "twitter": "@serverlesscon",
-    "cocUrl": "https://serverless-architecture.io/code-of-conduct/",
-    "url": "https://serverless-architecture.io/london",
-    "locales": "EN"
-  },
-  {
-    "name": "API Conference London",
-    "startDate": "2023-04-24",
-    "endDate": "2023-04-27",
-    "city": "London",
-    "country": "U.K.",
-    "online": true,
-    "twitter": "@api_conference",
-    "cocUrl": "https://apiconference.net/code-of-conduct/",
-    "url": "https://apiconference.net/london",
-    "locales": "EN"
-  },
-  {
-    "name": "SREcon Americas",
-    "startDate": "2023-03-21",
-    "endDate": "2023-03-23",
-    "city": "Santa Clara, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://www.usenix.org/conference/srecon23americas/call-for-participation",
-    "cfpEndDate": "2022-12-01",
-    "twitter": "@srecon",
-    "cocUrl": "https://www.usenix.org/conferences/coc",
-    "url": "https://www.usenix.org/conference/srecon23americas",
-    "locales": "EN"
   }
 ]

@@ -49,6 +49,18 @@
     "cocUrl": "https://confoo.ca/en/code-of-conduct"
   },
   {
+    "name": "Testing, Agile, DevOps and Low code Showcase: Methods and Tools",
+    "url": "https://www.unicomlearning.com/agile-devops-software-testing-conference/bengaluru-india-2023",
+    "startDate": "2023-02-23",
+    "endDate": "2023-02-23",
+    "city": "Bengaluru",
+    "country": "India",
+    "online": true,
+    "twitter": "@UNICOMLearning",
+    "cocUrl": "https://www.unicomlearning.com/agile-devops-software-testing-conference/bengaluru-india-2023/#codeofconduct",
+    "locales": "EN"
+  },
+  {
     "name": "RoboCon",
     "url": "https://robocon.io",
     "startDate": "2023-02-28",
@@ -85,6 +97,18 @@
     "cocUrl": "https://www.conf42.com/code-of-conduct"
   },
   {
+    "name": "JAX",
+    "url": "https://jax.de/mainz",
+    "startDate": "2023-05-08",
+    "endDate": "2023-05-12",
+    "city": "Mainz",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@jaxcon",
+    "cocUrl": "https://jax.de/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "Agile Testing Days USA",
     "url": "https://agiletestingdays.us",
     "startDate": "2023-05-22",
@@ -96,6 +120,18 @@
     "cfpEndDate": "2022-09-30",
     "twitter": "@AgileTDZone",
     "cocUrl": "https://agiletestingdays.us/code-of-conduct/"
+  },
+  {
+    "name": "International PHP Conference Berlin",
+    "url": "https://phpconference.com/berlin-en",
+    "startDate": "2023-05-22",
+    "endDate": "2023-05-26",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@phpconference",
+    "cocUrl": "https://phpconference.com/code-of-conduct/",
+    "locales": "EN"
   },
   {
     "name": "Software Quality Days",
@@ -178,41 +214,5 @@
     "cfpEndDate": "2023-09-19",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
-  },
-  {
-    "name": "International PHP Conference Berlin",
-    "startDate": "2023-05-22",
-    "endDate": "2023-05-26",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@phpconference",
-    "cocUrl": "https://phpconference.com/code-of-conduct/",
-    "url": "https://phpconference.com/berlin-en",
-    "locales": "EN"
-  },
-  {
-    "name": "JAX",
-    "startDate": "2023-05-08",
-    "endDate": "2023-05-12",
-    "city": "Mainz",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@jaxcon",
-    "cocUrl": "https://jax.de/code-of-conduct/",
-    "url": "https://jax.de/mainz",
-    "locales": "EN"
-  },
-  {
-    "name": "Testing, Agile, DevOps and Low code Showcase: Methods and Tools",
-    "startDate": "2023-02-23",
-    "endDate": "2023-02-23",
-    "city": "Bengaluru",
-    "country": "India",
-    "online": true,
-    "twitter": "@UNICOMLearning",
-    "cocUrl": "https://www.unicomlearning.com/agile-devops-software-testing-conference/bengaluru-india-2023/#codeofconduct",
-    "url": "https://www.unicomlearning.com/agile-devops-software-testing-conference/bengaluru-india-2023",
-    "locales": "EN"
   }
 ]

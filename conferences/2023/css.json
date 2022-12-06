@@ -10,6 +10,28 @@
     "twitter": "@RefreshRocks"
   },
   {
+    "name": "enterJS Web-Performance Day",
+    "url": "https://enterjs.de/web-performance.php",
+    "startDate": "2023-02-15",
+    "endDate": "2023-02-15",
+    "online": true,
+    "twitter": "@enterjsconf",
+    "cocUrl": "https://enterjs.de/code_of_conduct.php",
+    "locales": "DE"
+  },
+  {
+    "name": "HTML & CSS Days",
+    "url": "https://javascript-days.de/html-css",
+    "startDate": "2023-03-20",
+    "endDate": "2023-03-23",
+    "city": "Munich",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@htmlcssdays",
+    "cocUrl": "https://javascript-days.de/code-of-conduct/",
+    "locales": "DE"
+  },
+  {
     "name": "International JavaScript Conference London",
     "url": "https://javascript-conference.com/london",
     "startDate": "2023-04-24",
@@ -19,6 +41,18 @@
     "online": true,
     "twitter": "@JavaScriptCon",
     "cocUrl": "https://javascript-conference.com/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
+    "name": "webinale",
+    "url": "https://webinale.de",
+    "startDate": "2023-05-22",
+    "endDate": "2023-05-26",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@webinale",
+    "cocUrl": "https://webinale.de/code-of-conduct/",
     "locales": "EN"
   },
   {
@@ -55,39 +89,5 @@
     "online": true,
     "twitter": "@magnoliajsconf",
     "cocUrl": "https://www.magnoliajs.com/conduct"
-  },
-  {
-    "name": "webinale",
-    "startDate": "2023-05-22",
-    "endDate": "2023-05-26",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@webinale",
-    "cocUrl": "https://webinale.de/code-of-conduct/",
-    "url": "https://webinale.de",
-    "locales": "EN"
-  },
-  {
-    "name": "HTML & CSS Days",
-    "startDate": "2023-03-20",
-    "endDate": "2023-03-23",
-    "city": "Munich",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@htmlcssdays",
-    "cocUrl": "https://javascript-days.de/code-of-conduct/",
-    "url": "https://javascript-days.de/html-css",
-    "locales": "DE"
-  },
-  {
-    "name": "enterJS Web-Performance Day",
-    "startDate": "2023-02-15",
-    "endDate": "2023-02-15",
-    "online": true,
-    "twitter": "@enterjsconf",
-    "cocUrl": "https://enterjs.de/code_of_conduct.php",
-    "url": "https://enterjs.de/web-performance.php",
-    "locales": "DE"
   }
 ]

@@ -9,6 +9,20 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Node Congress",
+    "url": "https://nodecongress.com",
+    "startDate": "2023-04-14",
+    "endDate": "2023-04-17",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "cfpUrl": "https://forms.gle/jexnQbSsUZKefsqMA",
+    "cfpEndDate": "2023-01-15",
+    "twitter": "@NodeCongress",
+    "cocUrl": "https://nodecongress.com/coc",
+    "locales": "EN"
+  },
+  {
     "name": "App.js Conf",
     "url": "https://appjs.co",
     "startDate": "2023-05-10",
@@ -18,6 +32,20 @@
     "online": false,
     "twitter": "@appjsconf",
     "cocUrl": "https://appjs.co/Code-of-Conduct.pdf"
+  },
+  {
+    "name": "Vue.js Live Conference",
+    "url": "https://vuejslive.com",
+    "startDate": "2023-05-12",
+    "endDate": "2023-05-15",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "cfpUrl": "https://forms.gle/V1727ta24LLFBqKD7",
+    "cfpEndDate": "2023-02-05",
+    "twitter": "@VueJSLive",
+    "cocUrl": "https://vuejslive.com/coc",
+    "locales": "EN"
   },
   {
     "name": "Agile Testing Days USA",
@@ -79,33 +107,5 @@
     "twitter": "@stackonf",
     "cocUrl": "https://stackconf.eu/code-of-conduct/",
     "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "Vue.js Live Conference",
-    "startDate": "2023-05-12",
-    "endDate": "2023-05-15",
-    "city": "London",
-    "country": "U.K.",
-    "online": true,
-    "cfpUrl": "https://forms.gle/V1727ta24LLFBqKD7",
-    "cfpEndDate": "2023-02-05",
-    "twitter": "@VueJSLive",
-    "cocUrl": "https://vuejslive.com/coc",
-    "url": "https://vuejslive.com",
-    "locales": "EN"
-  },
-  {
-    "name": "Node Congress",
-    "startDate": "2023-04-14",
-    "endDate": "2023-04-17",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "cfpUrl": "https://forms.gle/jexnQbSsUZKefsqMA",
-    "cfpEndDate": "2023-01-15",
-    "twitter": "@NodeCongress",
-    "cocUrl": "https://nodecongress.com/coc",
-    "url": "https://nodecongress.com",
-    "locales": "EN"
   }
 ]
