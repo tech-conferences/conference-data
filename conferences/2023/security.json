@@ -124,5 +124,19 @@
     "cocUrl": "https://apiconference.net/code-of-conduct/",
     "url": "https://apiconference.net/london",
     "locales": "EN"
+  },
+  {
+    "name": "SREcon Americas",
+    "startDate": "2023-03-21",
+    "endDate": "2023-03-23",
+    "city": "Santa Clara, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://www.usenix.org/conference/srecon23americas/call-for-participation",
+    "cfpEndDate": "2022-12-01",
+    "twitter": "@srecon",
+    "cocUrl": "https://www.usenix.org/conferences/coc",
+    "url": "https://www.usenix.org/conference/srecon23americas",
+    "locales": "EN"
   }
 ]

@@ -79,5 +79,33 @@
     "twitter": "@stackonf",
     "cocUrl": "https://stackconf.eu/code-of-conduct/",
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "Vue.js Live Conference",
+    "startDate": "2023-05-12",
+    "endDate": "2023-05-15",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "cfpUrl": "https://forms.gle/V1727ta24LLFBqKD7",
+    "cfpEndDate": "2023-02-05",
+    "twitter": "@VueJSLive",
+    "cocUrl": "https://vuejslive.com/coc",
+    "url": "https://vuejslive.com",
+    "locales": "EN"
+  },
+  {
+    "name": "Node Congress",
+    "startDate": "2023-04-14",
+    "endDate": "2023-04-17",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "cfpUrl": "https://forms.gle/jexnQbSsUZKefsqMA",
+    "cfpEndDate": "2023-01-15",
+    "twitter": "@NodeCongress",
+    "cocUrl": "https://nodecongress.com/coc",
+    "url": "https://nodecongress.com",
+    "locales": "EN"
   }
 ]
