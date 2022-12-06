@@ -55,5 +55,18 @@
     "country": "U.K.",
     "online": false,
     "twitter": "@IOSDEVUK"
+  },
+  {
+    "name": "Flutter Global Summit",
+    "startDate": "2023-02-07",
+    "endDate": "2023-02-08",
+    "online": true,
+    "cfpUrl": "https://forms.gle/rTgVNu3ZVT6KY9mF7",
+    "cfpEndDate": "2022-12-15",
+    "twitter": "@FlutterSummit",
+    "cocUrl": "https://geekle.us/code-of-conduct",
+    "offersSignLanguageOrCC": true,
+    "url": "https://events.geekle.us/flutter23",
+    "locales": "EN"
   }
 ]
