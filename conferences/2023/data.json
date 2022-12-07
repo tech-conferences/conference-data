@@ -134,5 +134,19 @@
     "online": true,
     "twitter": "@ODSC",
     "locales": "EN"
+  },
+  {
+    "name": "DevDays & DevOps Pro Europe",
+    "startDate": "2023-05-23",
+    "endDate": "2023-05-26",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "online": true,
+    "cfpUrl": "https://devdays.lt/call-for-papers",
+    "cfpEndDate": "2023-05-01",
+    "twitter": "@DevDaysEurope",
+    "offersSignLanguageOrCC": true,
+    "url": "https://devdays.lt",
+    "locales": "EN"
   }
 ]
