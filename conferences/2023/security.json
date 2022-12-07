@@ -150,5 +150,18 @@
     "online": false,
     "twitter": "@RenderATL",
     "cocUrl": "https://www.renderatl.com/codepolicy"
+  },
+  {
+    "name": "Qubit Conference Prague",
+    "startDate": "2023-05-17",
+    "endDate": "2023-05-18",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "online": false,
+    "cfpUrl": "https://prague.qubitconference.com/call-speakers-form-prague",
+    "cfpEndDate": "2023-02-28",
+    "twitter": "@QuBitCon",
+    "url": "https://prague.qubitconference.com",
+    "locales": "EN"
   }
 ]
