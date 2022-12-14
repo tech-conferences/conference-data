@@ -314,5 +314,19 @@
     "online": true,
     "twitter": "@globalbbt",
     "locales": "EN"
+  },
+  {
+    "name": "DeveloperWeek",
+    "startDate": "2023-02-15",
+    "endDate": "2023-02-23",
+    "city": "Oakland, CA",
+    "country": "U.S.A.",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/developerweek-2023",
+    "cfpEndDate": "2022-10-26",
+    "twitter": "@developerweek",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
+    "url": "https://www.developerweek.com",
+    "locales": "EN"
   }
 ]
