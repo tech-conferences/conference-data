@@ -129,6 +129,19 @@
     "locales": "EN"
   },
   {
+    "name": "Qubit Conference Prague",
+    "url": "https://prague.qubitconference.com",
+    "startDate": "2023-05-17",
+    "endDate": "2023-05-18",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "online": false,
+    "cfpUrl": "https://prague.qubitconference.com/call-speakers-form-prague",
+    "cfpEndDate": "2023-02-28",
+    "twitter": "@QuBitCon",
+    "locales": "EN"
+  },
+  {
     "name": "International PHP Conference Berlin",
     "url": "https://phpconference.com/berlin-en",
     "startDate": "2023-05-22",
@@ -150,18 +163,5 @@
     "online": false,
     "twitter": "@RenderATL",
     "cocUrl": "https://www.renderatl.com/codepolicy"
-  },
-  {
-    "name": "Qubit Conference Prague",
-    "startDate": "2023-05-17",
-    "endDate": "2023-05-18",
-    "city": "Prague",
-    "country": "Czech Republic",
-    "online": false,
-    "cfpUrl": "https://prague.qubitconference.com/call-speakers-form-prague",
-    "cfpEndDate": "2023-02-28",
-    "twitter": "@QuBitCon",
-    "url": "https://prague.qubitconference.com",
-    "locales": "EN"
   }
 ]

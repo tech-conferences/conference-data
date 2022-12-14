@@ -1,5 +1,32 @@
 [
   {
+    "name": "VeryTechTrip",
+    "url": "https://verytechtrip.com",
+    "startDate": "2023-02-02",
+    "endDate": "2023-02-02",
+    "city": "Paris",
+    "country": "France",
+    "online": false,
+    "cfpUrl": "https://conference-hall.io/public/event/hoyBWUXe43dnoiBekZaB",
+    "cfpEndDate": "2022-11-14",
+    "twitter": "@OVHcloud_Tech",
+    "locales": "FR"
+  },
+  {
+    "name": "DeveloperWeek",
+    "url": "https://www.developerweek.com",
+    "startDate": "2023-02-15",
+    "endDate": "2023-02-23",
+    "city": "Oakland, CA",
+    "country": "U.S.A.",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/developerweek-2023",
+    "cfpEndDate": "2022-10-26",
+    "twitter": "@developerweek",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "ConFoo",
     "url": "https://confoo.ca/en/2023",
     "startDate": "2023-02-22",
@@ -48,32 +75,5 @@
     "online": false,
     "twitter": "@RenderATL",
     "cocUrl": "https://www.renderatl.com/codepolicy"
-  },
-  {
-    "name": "VeryTechTrip",
-    "startDate": "2023-02-02",
-    "endDate": "2023-02-02",
-    "city": "Paris",
-    "country": "France",
-    "online": false,
-    "cfpUrl": "https://conference-hall.io/public/event/hoyBWUXe43dnoiBekZaB",
-    "cfpEndDate": "2022-11-14",
-    "twitter": "@OVHcloud_Tech",
-    "url": "https://verytechtrip.com",
-    "locales": "FR"
-  },
-  {
-    "name": "DeveloperWeek",
-    "startDate": "2023-02-15",
-    "endDate": "2023-02-23",
-    "city": "Oakland, CA",
-    "country": "U.S.A.",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/developerweek-2023",
-    "cfpEndDate": "2022-10-26",
-    "twitter": "@developerweek",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "url": "https://www.developerweek.com",
-    "locales": "EN"
   }
 ]

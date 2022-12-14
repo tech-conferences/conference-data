@@ -86,6 +86,21 @@
     "locales": "EN"
   },
   {
+    "name": "InflectraCon",
+    "url": "https://www.inflectracon.com",
+    "startDate": "2023-04-19",
+    "endDate": "2023-04-21",
+    "city": "Washington, DC",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://www.inflectracon.com/become-a-speaker-2023",
+    "cfpEndDate": "2022-10-31",
+    "twitter": "@inflectracon",
+    "cocUrl": "https://www.inflectracon.com/code-of-conduct-2022",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Conf42 Site Reliability Engineering",
     "url": "https://www.conf42.com/sre2023",
     "startDate": "2023-05-04",
@@ -214,20 +229,5 @@
     "cfpEndDate": "2023-09-19",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
-  },
-  {
-    "name": "InflectraCon",
-    "startDate": "2023-04-19",
-    "endDate": "2023-04-21",
-    "city": "Washington, DC",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://www.inflectracon.com/become-a-speaker-2023",
-    "cfpEndDate": "2022-10-31",
-    "twitter": "@inflectracon",
-    "cocUrl": "https://www.inflectracon.com/code-of-conduct-2022",
-    "offersSignLanguageOrCC": true,
-    "url": "https://www.inflectracon.com",
-    "locales": "EN"
   }
 ]

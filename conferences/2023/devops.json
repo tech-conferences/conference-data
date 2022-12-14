@@ -11,6 +11,19 @@
     "cocUrl": "https://www.conf42.com/code-of-conduct"
   },
   {
+    "name": "VeryTechTrip",
+    "url": "https://verytechtrip.com",
+    "startDate": "2023-02-02",
+    "endDate": "2023-02-02",
+    "city": "Paris",
+    "country": "France",
+    "online": false,
+    "cfpUrl": "https://conference-hall.io/public/event/hoyBWUXe43dnoiBekZaB",
+    "cfpEndDate": "2022-11-14",
+    "twitter": "@OVHcloud_Tech",
+    "locales": "FR"
+  },
+  {
     "name": "Config Mgmt Camp",
     "url": "https://cfgmgmtcamp.eu/ghent2023/",
     "startDate": "2023-02-07",
@@ -222,6 +235,21 @@
     "twitter": "@cncf"
   },
   {
+    "name": "InflectraCon",
+    "url": "https://www.inflectracon.com",
+    "startDate": "2023-04-19",
+    "endDate": "2023-04-21",
+    "city": "Washington, DC",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://www.inflectracon.com/become-a-speaker-2023",
+    "cfpEndDate": "2022-10-31",
+    "twitter": "@inflectracon",
+    "cocUrl": "https://www.inflectracon.com/code-of-conduct-2022",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Devopsdays Birmingham, AL",
     "url": "https://devopsdays.org/events/2023-nashville/welcome/",
     "startDate": "2023-04-20",
@@ -358,33 +386,5 @@
     "cfpEndDate": "2023-10-30",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
-  },
-  {
-    "name": "InflectraCon",
-    "startDate": "2023-04-19",
-    "endDate": "2023-04-21",
-    "city": "Washington, DC",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://www.inflectracon.com/become-a-speaker-2023",
-    "cfpEndDate": "2022-10-31",
-    "twitter": "@inflectracon",
-    "cocUrl": "https://www.inflectracon.com/code-of-conduct-2022",
-    "offersSignLanguageOrCC": true,
-    "url": "https://www.inflectracon.com",
-    "locales": "EN"
-  },
-  {
-    "name": "VeryTechTrip",
-    "startDate": "2023-02-02",
-    "endDate": "2023-02-02",
-    "city": "Paris",
-    "country": "France",
-    "online": false,
-    "cfpUrl": "https://conference-hall.io/public/event/hoyBWUXe43dnoiBekZaB",
-    "cfpEndDate": "2022-11-14",
-    "twitter": "@OVHcloud_Tech",
-    "url": "https://verytechtrip.com",
-    "locales": "FR"
   }
 ]

@@ -10,6 +10,17 @@
     "twitter": "@iosconfsg"
   },
   {
+    "name": "Flutter Forward",
+    "url": "https://flutter.dev/events/flutter-forward",
+    "startDate": "2023-01-25",
+    "endDate": "2023-01-25",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "online": true,
+    "twitter": "@flutterdev",
+    "locales": "EN"
+  },
+  {
     "name": "Flutter Global Summit",
     "url": "https://events.geekle.us/flutter23",
     "startDate": "2023-02-07",
@@ -68,16 +79,5 @@
     "country": "U.K.",
     "online": false,
     "twitter": "@IOSDEVUK"
-  },
-  {
-    "name": "Flutter Forward",
-    "startDate": "2023-01-25",
-    "endDate": "2023-01-25",
-    "city": "Nairobi",
-    "country": "Kenya",
-    "online": true,
-    "twitter": "@flutterdev",
-    "url": "https://flutter.dev/events/flutter-forward",
-    "locales": "EN"
   }
 ]

@@ -12,6 +12,19 @@
     "locales": "EN"
   },
   {
+    "name": "VeryTechTrip",
+    "url": "https://verytechtrip.com",
+    "startDate": "2023-02-02",
+    "endDate": "2023-02-02",
+    "city": "Paris",
+    "country": "France",
+    "online": false,
+    "cfpUrl": "https://conference-hall.io/public/event/hoyBWUXe43dnoiBekZaB",
+    "cfpEndDate": "2022-11-14",
+    "twitter": "@OVHcloud_Tech",
+    "locales": "FR"
+  },
+  {
     "name": "PHP UK Conference",
     "url": "https://www.phpconference.co.uk",
     "startDate": "2023-02-14",
@@ -24,6 +37,21 @@
     "twitter": "@PHPUKConference",
     "cocUrl": "https://www.phpconference.co.uk/conduct/",
     "locales": "EN"
+  },
+  {
+    "name": "Meet Magento Florida",
+    "url": "https://meetmagentofl.com",
+    "startDate": "2023-02-15",
+    "endDate": "2023-02-16",
+    "city": "Hollywood, FL",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://meetmagentofl.com/product/buy-mm23fl-tickets",
+    "cfpEndDate": "2022-12-13",
+    "twitter": "@MeetMagentoFL",
+    "cocUrl": "https://meetmagentofl.com/code-of-conduct/",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "ConFoo",
@@ -86,33 +114,5 @@
     "cfpUrl": "https://cfp.trendig.com/AgileTD_OpenAir_2023",
     "cfpEndDate": "2022-08-31",
     "twitter": "@AgileTDOpenAir"
-  },
-  {
-    "name": "VeryTechTrip",
-    "startDate": "2023-02-02",
-    "endDate": "2023-02-02",
-    "city": "Paris",
-    "country": "France",
-    "online": false,
-    "cfpUrl": "https://conference-hall.io/public/event/hoyBWUXe43dnoiBekZaB",
-    "cfpEndDate": "2022-11-14",
-    "twitter": "@OVHcloud_Tech",
-    "url": "https://verytechtrip.com",
-    "locales": "FR"
-  },
-  {
-    "name": "Meet Magento Florida",
-    "startDate": "2023-02-15",
-    "endDate": "2023-02-16",
-    "city": "Hollywood, FL",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://meetmagentofl.com/product/buy-mm23fl-tickets",
-    "cfpEndDate": "2022-12-13",
-    "twitter": "@MeetMagentoFL",
-    "cocUrl": "https://meetmagentofl.com/code-of-conduct/",
-    "offersSignLanguageOrCC": true,
-    "url": "https://meetmagentofl.com",
-    "locales": "EN"
   }
 ]

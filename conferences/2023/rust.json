@@ -1,5 +1,18 @@
 [
   {
+    "name": "VeryTechTrip",
+    "url": "https://verytechtrip.com",
+    "startDate": "2023-02-02",
+    "endDate": "2023-02-02",
+    "city": "Paris",
+    "country": "France",
+    "online": false,
+    "cfpUrl": "https://conference-hall.io/public/event/hoyBWUXe43dnoiBekZaB",
+    "cfpEndDate": "2022-11-14",
+    "twitter": "@OVHcloud_Tech",
+    "locales": "FR"
+  },
+  {
     "name": "Wasm I/O",
     "url": "https://wasmio.tech",
     "startDate": "2023-03-23",
@@ -57,18 +70,5 @@
     "online": true,
     "twitter": "@euro_rust",
     "cocUrl": "https://eurorust.eu/2022/code-of-conduct/"
-  },
-  {
-    "name": "VeryTechTrip",
-    "startDate": "2023-02-02",
-    "endDate": "2023-02-02",
-    "city": "Paris",
-    "country": "France",
-    "online": false,
-    "cfpUrl": "https://conference-hall.io/public/event/hoyBWUXe43dnoiBekZaB",
-    "cfpEndDate": "2022-11-14",
-    "twitter": "@OVHcloud_Tech",
-    "url": "https://verytechtrip.com",
-    "locales": "FR"
   }
 ]

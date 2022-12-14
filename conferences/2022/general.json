@@ -1515,18 +1515,8 @@
     "twitter": "@InformatikAktue"
   },
   {
-    "name": "EuroSymposium on Digital Transformation",
-    "url": "http://eurosymposium.eu",
-    "startDate": "2022-12-15",
-    "endDate": "2022-12-15",
-    "city": "Gdansk",
-    "country": "Poland",
-    "online": true,
-    "cfpUrl": "https://equinocs.springernature.com/service/PLAISEuroSymposium2022",
-    "cfpEndDate": "2022-09-19"
-  },
-  {
     "name": "HighLoad++ Armenia",
+    "url": "https://highload.am/2022",
     "startDate": "2022-12-14",
     "endDate": "2022-12-15",
     "city": "Yerevan",
@@ -1536,7 +1526,17 @@
     "cfpEndDate": "2022-10-12",
     "twitter": "@ArmeniaHighload",
     "cocUrl": "https://highload.am/code-of-conduct.html",
-    "url": "https://highload.am/2022",
     "locales": "EN"
+  },
+  {
+    "name": "EuroSymposium on Digital Transformation",
+    "url": "http://eurosymposium.eu",
+    "startDate": "2022-12-15",
+    "endDate": "2022-12-15",
+    "city": "Gdansk",
+    "country": "Poland",
+    "online": true,
+    "cfpUrl": "https://equinocs.springernature.com/service/PLAISEuroSymposium2022",
+    "cfpEndDate": "2022-09-19"
   }
 ]
