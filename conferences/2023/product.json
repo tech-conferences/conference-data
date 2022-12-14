@@ -1,5 +1,19 @@
 [
   {
+    "name": "ProductWorld",
+    "url": "https://productworld.co",
+    "startDate": "2023-02-15",
+    "endDate": "2023-02-23",
+    "city": "Oakland, CA",
+    "country": "U.S.A.",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/productworld-2023",
+    "cfpEndDate": "2022-12-02",
+    "twitter": "@developerweek",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "The Product Conference",
     "url": "http://INDUSTRYconference.com/europe",
     "startDate": "2023-03-20",
@@ -37,20 +51,6 @@
     "country": "U.S.A.",
     "online": false,
     "twitter": "@prodcollective",
-    "locales": "EN"
-  },
-  {
-    "name": "ProductWorld",
-    "startDate": "2023-02-15",
-    "endDate": "2023-02-23",
-    "city": "Oakland, CA",
-    "country": "U.S.A.",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/productworld-2023",
-    "cfpEndDate": "2022-12-02",
-    "twitter": "@developerweek",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "url": "https://productworld.co",
     "locales": "EN"
   }
 ]

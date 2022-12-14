@@ -89,6 +89,18 @@
     "locales": "EN"
   },
   {
+    "name": "Angular Global Summit",
+    "url": "https://events.geekle.us/angular2",
+    "startDate": "2023-02-14",
+    "endDate": "2023-02-15",
+    "online": true,
+    "cfpUrl": "https://forms.gle/h6TZosx2uPLyZpsz6",
+    "cfpEndDate": "2022-12-18",
+    "twitter": "@GeekleOfficial",
+    "cocUrl": "https://geekle.us/code-of-conduct",
+    "locales": "EN"
+  },
+  {
     "name": "enterJS Web-Performance Day",
     "url": "https://enterjs.de/web-performance.php",
     "startDate": "2023-02-15",
@@ -97,6 +109,20 @@
     "twitter": "@enterjsconf",
     "cocUrl": "https://enterjs.de/code_of_conduct.php",
     "locales": "DE"
+  },
+  {
+    "name": "DeveloperWeek",
+    "url": "https://www.developerweek.com",
+    "startDate": "2023-02-15",
+    "endDate": "2023-02-23",
+    "city": "Oakland, CA",
+    "country": "U.S.A.",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/developerweek-2023",
+    "cfpEndDate": "2022-10-26",
+    "twitter": "@developerweek",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
+    "locales": "EN"
   },
   {
     "name": "ConFoo",
@@ -284,6 +310,20 @@
     "locales": "EN"
   },
   {
+    "name": "JSHeroes",
+    "url": "https://jsheroes.io",
+    "startDate": "2023-05-18",
+    "endDate": "2023-05-19",
+    "city": "Cluj-Napoca",
+    "country": "Romania",
+    "online": false,
+    "cfpUrl": "https://jsheroes.io/speak-at-jsheroes",
+    "cfpEndDate": "2022-12-31",
+    "twitter": "@jsheroes2023",
+    "cocUrl": "https://jsheroes.io/code-of-conduct",
+    "locales": "EN"
+  },
+  {
     "name": "Vueconf.US",
     "url": "https://vueconf.us",
     "startDate": "2023-05-24",
@@ -408,45 +448,5 @@
     "cfpEndDate": "2023-10-16",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
-  },
-  {
-    "name": "Angular Global Summit",
-    "startDate": "2023-02-14",
-    "endDate": "2023-02-15",
-    "online": true,
-    "cfpUrl": "https://forms.gle/h6TZosx2uPLyZpsz6",
-    "cfpEndDate": "2022-12-18",
-    "twitter": "@GeekleOfficial",
-    "cocUrl": "https://geekle.us/code-of-conduct",
-    "url": "https://events.geekle.us/angular2",
-    "locales": "EN"
-  },
-  {
-    "name": "JSHeroes",
-    "startDate": "2023-05-18",
-    "endDate": "2023-05-19",
-    "city": "Cluj-Napoca",
-    "country": "Romania",
-    "online": false,
-    "cfpUrl": "https://jsheroes.io/speak-at-jsheroes",
-    "cfpEndDate": "2022-12-31",
-    "twitter": "@jsheroes2023",
-    "cocUrl": "https://jsheroes.io/code-of-conduct",
-    "url": "https://jsheroes.io",
-    "locales": "EN"
-  },
-  {
-    "name": "DeveloperWeek",
-    "startDate": "2023-02-15",
-    "endDate": "2023-02-23",
-    "city": "Oakland, CA",
-    "country": "U.S.A.",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/developerweek-2023",
-    "cfpEndDate": "2022-10-26",
-    "twitter": "@developerweek",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "url": "https://www.developerweek.com",
-    "locales": "EN"
   }
 ]

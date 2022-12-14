@@ -1,5 +1,19 @@
 [
   {
+    "name": "DeveloperWeek",
+    "url": "https://www.developerweek.com",
+    "startDate": "2023-02-15",
+    "endDate": "2023-02-23",
+    "city": "Oakland, CA",
+    "country": "U.S.A.",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/developerweek-2023",
+    "cfpEndDate": "2022-10-26",
+    "twitter": "@developerweek",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "BASTA! Spring",
     "url": "https://basta.net/frankfurt-en",
     "startDate": "2023-02-20",
@@ -66,6 +80,7 @@
   },
   {
     "name": "dotnetdays",
+    "url": "https://dotnetdays.ro",
     "startDate": "2023-04-20",
     "endDate": "2023-04-22",
     "online": true,
@@ -73,21 +88,6 @@
     "cfpEndDate": "2023-01-02",
     "twitter": "@dotnetdaysro",
     "cocUrl": "https://dotnetdays.ro/2023/Home/CodeOfConduct",
-    "url": "https://dotnetdays.ro",
-    "locales": "EN"
-  },
-  {
-    "name": "DeveloperWeek",
-    "startDate": "2023-02-15",
-    "endDate": "2023-02-23",
-    "city": "Oakland, CA",
-    "country": "U.S.A.",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/developerweek-2023",
-    "cfpEndDate": "2022-10-26",
-    "twitter": "@developerweek",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "url": "https://www.developerweek.com",
     "locales": "EN"
   }
 ]
