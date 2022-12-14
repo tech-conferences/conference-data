@@ -11,7 +11,7 @@
   "devDependencies": {
     "git-json-merge": "^0.4.5",
     "lodash": "^4.17.21",
-    "nodemon": "^2.0.3",
+    "nodemon": "^2.0.20",
     "prettier": "^2.0.5"
   },
   "scripts": {
