@@ -81,5 +81,16 @@
     "cfpUrl": "https://cfp.trendig.com/AgileTD_OpenAir_2023",
     "cfpEndDate": "2022-08-31",
     "twitter": "@AgileTDOpenAir"
+  },
+  {
+    "name": "PyCon LT",
+    "startDate": "2023-05-17",
+    "endDate": "2023-05-20",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "online": false,
+    "twitter": "@pyconlt",
+    "url": "https://pycon.lt/2023",
+    "locales": "EN"
   }
 ]
