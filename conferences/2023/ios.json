@@ -48,6 +48,19 @@
     "locales": "EN"
   },
   {
+    "name": "NYSwifty",
+    "url": "https://nyswifty.com",
+    "startDate": "2023-04-18",
+    "endDate": "2023-04-19",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://www.papercall.io/nyswifty",
+    "cfpEndDate": "2023-01-31",
+    "twitter": "@nyswifty",
+    "locales": "EN"
+  },
+  {
     "name": "Deep Dish Swift",
     "url": "https://deepdishswift.com",
     "startDate": "2023-04-30",
@@ -79,18 +92,5 @@
     "country": "U.K.",
     "online": false,
     "twitter": "@IOSDEVUK"
-  },
-  {
-    "name": "NYSwifty",
-    "startDate": "2023-04-18",
-    "endDate": "2023-04-19",
-    "city": "New York, NY",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://www.papercall.io/nyswifty",
-    "cfpEndDate": "2023-01-31",
-    "twitter": "@nyswifty",
-    "url": "https://nyswifty.com",
-    "locales": "EN"
   }
 ]
