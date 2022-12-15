@@ -208,6 +208,20 @@
     "locales": "EN"
   },
   {
+    "name": "Great International Developer Summit",
+    "url": "https://developersummit.com",
+    "startDate": "2023-04-25",
+    "endDate": "2023-04-28",
+    "city": "Bengaluru",
+    "country": "India",
+    "online": false,
+    "cfpUrl": "https://developersummit.wufoo.com/forms/gids-2023-call-for-proposals",
+    "cfpEndDate": "2022-11-10",
+    "twitter": "@developersummit",
+    "cocUrl": "https://saltmarch.com/code-of-conduct",
+    "locales": "EN"
+  },
+  {
     "name": "Conf42 Site Reliability Engineering",
     "url": "https://www.conf42.com/sre2023",
     "startDate": "2023-05-04",
@@ -327,20 +341,6 @@
     "endDate": "2023-10-22",
     "online": true,
     "twitter": "@globalbbt",
-    "locales": "EN"
-  },
-  {
-    "name": "Great International Developer Summit",
-    "startDate": "2023-04-25",
-    "endDate": "2023-04-28",
-    "city": "Bengaluru",
-    "country": "India",
-    "online": false,
-    "cfpUrl": "https://developersummit.wufoo.com/forms/gids-2023-call-for-proposals",
-    "cfpEndDate": "2022-11-10",
-    "twitter": "@developersummit",
-    "cocUrl": "https://saltmarch.com/code-of-conduct",
-    "url": "https://developersummit.com",
     "locales": "EN"
   }
 ]

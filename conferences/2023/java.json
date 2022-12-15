@@ -1,5 +1,14 @@
 [
   {
+    "name": "SpringOne Essentials",
+    "url": "https://springone.io",
+    "startDate": "2023-01-25",
+    "endDate": "2023-01-27",
+    "online": true,
+    "twitter": "@springone",
+    "locales": "EN"
+  },
+  {
     "name": "Java Devs Online Summit",
     "url": "https://events.geekle.us/java23",
     "startDate": "2023-01-30",
@@ -9,6 +18,15 @@
     "cfpEndDate": "2022-12-22",
     "twitter": "@GeekleOfficial",
     "cocUrl": "https://geekle.us/code-of-conduct",
+    "locales": "EN"
+  },
+  {
+    "name": "SpringOne Essentials",
+    "url": "https://springone.io",
+    "startDate": "2023-02-01",
+    "endDate": "2023-02-03",
+    "online": true,
+    "twitter": "@springone",
     "locales": "EN"
   },
   {
@@ -133,23 +151,5 @@
     "online": false,
     "twitter": "@DevoxxUK",
     "cocUrl": "https://www.devoxx.co.uk/code-of-conduct/"
-  },
-  {
-    "name": "SpringOne Essentials",
-    "startDate": "2023-01-25",
-    "endDate": "2023-01-27",
-    "online": true,
-    "twitter": "@springone",
-    "url": "https://springone.io",
-    "locales": "EN"
-  },
-  {
-    "name": "SpringOne Essentials",
-    "startDate": "2023-02-01",
-    "endDate": "2023-02-03",
-    "online": true,
-    "twitter": "@springone",
-    "url": "https://springone.io",
-    "locales": "EN"
   }
 ]
