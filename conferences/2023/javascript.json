@@ -450,6 +450,21 @@
     "cocUrl": "https://www.conf42.com/code-of-conduct"
   },
   {
+    "name": "Web Directions Summit",
+    "startDate": "2023-10-26",
+    "endDate": "2023-10-27",
+    "city": "Sydney",
+    "country": "Australia",
+    "online": true,
+    "cfpUrl": "https://webdirections.org/speaking",
+    "cfpEndDate": "2023-05-31",
+    "twitter": "@webdirections",
+    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
+    "offersSignLanguageOrCC": true,
+    "url": "https://webdirections.org/summit",
+    "locales": "EN"
+  },
+  {
     "name": "Future Frontend",
     "startDate": "2023-06-05",
     "endDate": "2023-06-09",

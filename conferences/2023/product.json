@@ -52,5 +52,20 @@
     "online": false,
     "twitter": "@prodcollective",
     "locales": "EN"
+  },
+  {
+    "name": "Web Directions Summit",
+    "startDate": "2023-10-26",
+    "endDate": "2023-10-27",
+    "city": "Sydney",
+    "country": "Australia",
+    "online": true,
+    "cfpUrl": "https://webdirections.org/speaking",
+    "cfpEndDate": "2023-05-31",
+    "twitter": "@webdirections",
+    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
+    "offersSignLanguageOrCC": true,
+    "url": "https://webdirections.org/summit",
+    "locales": "EN"
   }
 ]
