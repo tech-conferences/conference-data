@@ -79,6 +79,20 @@
     "locales": "EN"
   },
   {
+    "name": "phpday",
+    "url": "https://2023.phpday.it",
+    "startDate": "2023-05-18",
+    "endDate": "2023-05-19",
+    "city": "Verona",
+    "country": "Italy",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdo5I9UCxBTmVWNa4UKzkpk2f_ObW4Ce_kHuXBy2zZWcKuEwg/viewform",
+    "cfpEndDate": "2023-01-16",
+    "twitter": "@phpday",
+    "cocUrl": "https://2023.phpday.it/welcome/coc.html",
+    "locales": "EN"
+  },
+  {
     "name": "International PHP Conference Berlin",
     "url": "https://phpconference.com/berlin-en",
     "startDate": "2023-05-22",
@@ -116,21 +130,8 @@
     "twitter": "@AgileTDOpenAir"
   },
   {
-    "name": "phpday",
-    "startDate": "2023-05-18",
-    "endDate": "2023-05-19",
-    "city": "Verona",
-    "country": "Italy",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdo5I9UCxBTmVWNa4UKzkpk2f_ObW4Ce_kHuXBy2zZWcKuEwg/viewform",
-    "cfpEndDate": "2023-01-16",
-    "twitter": "@phpday",
-    "cocUrl": "https://2023.phpday.it/welcome/coc.html",
-    "url": "https://2023.phpday.it",
-    "locales": "EN"
-  },
-  {
     "name": "WeAreDevelopers World Congress",
+    "url": "https://www.wearedevelopers.com/world-congress",
     "startDate": "2023-07-27",
     "endDate": "2023-07-28",
     "city": "Berlin",
@@ -140,7 +141,6 @@
     "cfpEndDate": "2023-07-19",
     "twitter": "@WeAreDevs",
     "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form.",
-    "url": "https://www.wearedevelopers.com/world-congress",
     "locales": "EN"
   }
 ]

@@ -24,6 +24,7 @@
   },
   {
     "name": "Web Directions Summit",
+    "url": "https://webdirections.org/summit",
     "startDate": "2023-10-26",
     "endDate": "2023-10-27",
     "city": "Sydney",
@@ -33,8 +34,7 @@
     "cfpEndDate": "2023-05-31",
     "twitter": "@webdirections",
     "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
-    "offersSignLanguageOrCC": true,
-    "url": "https://webdirections.org/summit",
-    "locales": "EN"
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
   }
 ]
