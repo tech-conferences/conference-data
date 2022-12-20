@@ -121,5 +121,18 @@
     "twitter": "@stackonf",
     "cocUrl": "https://stackconf.eu/code-of-conduct/",
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "World Conference on Data Science & Statistics",
+    "startDate": "2023-06-26",
+    "endDate": "2023-06-28",
+    "city": "Frankfurt",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://datascience.thepeopleevents.com/submit-abstract",
+    "cfpEndDate": "2023-04-25",
+    "offersSignLanguageOrCC": true,
+    "url": "https://datascience.thepeopleevents.com",
+    "locales": "EN"
   }
 ]
