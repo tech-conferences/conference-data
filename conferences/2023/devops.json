@@ -409,5 +409,27 @@
     "cfpEndDate": "2023-10-30",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
+  },
+  {
+    "name": "The DEVOPS Conference",
+    "startDate": "2023-03-22",
+    "endDate": "2023-03-23",
+    "online": true,
+    "twitter": "@eficode",
+    "url": "https://www.thedevopsconference.com/global",
+    "locales": "EN"
+  },
+  {
+    "name": "World Conference on Data Science & Statistics",
+    "startDate": "2023-06-26",
+    "endDate": "2023-06-28",
+    "city": "Frankfurt",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://datascience.thepeopleevents.com/submit-abstract",
+    "cfpEndDate": "2023-04-25",
+    "offersSignLanguageOrCC": true,
+    "url": "https://datascience.thepeopleevents.com",
+    "locales": "EN"
   }
 ]
