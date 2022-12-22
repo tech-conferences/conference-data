@@ -503,5 +503,20 @@
     "cocUrl": "https://www.bejs.io/code-of-conduct",
     "url": "https://www.bejs.io/conf",
     "locales": "EN"
+  },
+  {
+    "name": "Remix Conf",
+    "startDate": "2023-05-09",
+    "endDate": "2023-05-11",
+    "city": "Salt Lake City, UT",
+    "country": "U.S.A.",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/remix-2023",
+    "cfpEndDate": "2023-02-08",
+    "twitter": "@remix_run",
+    "cocUrl": "https://remix.run/conf/2023/coc",
+    "offersSignLanguageOrCC": true,
+    "url": "https://remix.run/conf",
+    "locales": "EN"
   }
 ]
