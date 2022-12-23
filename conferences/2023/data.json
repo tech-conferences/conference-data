@@ -182,5 +182,17 @@
     "online": true,
     "twitter": "@ODSC",
     "locales": "EN"
+  },
+  {
+    "name": "World congress on Robotics and AI",
+    "startDate": "2023-06-23",
+    "endDate": "2023-06-24",
+    "city": "Paris",
+    "country": "France",
+    "online": false,
+    "twitter": "@alarieemile",
+    "offersSignLanguageOrCC": true,
+    "url": "https://robotics.insightconferences.com",
+    "locales": "EN"
   }
 ]
