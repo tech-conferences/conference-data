@@ -1,5 +1,15 @@
 [
   {
+    "name": "Boosting SaaS Products with New Technologies Big Data. Data Science. Artificial Intelligence. Machine Learning",
+    "url": "https://gloriumtech.com/boosting-saas-products-with-new-technologies",
+    "startDate": "2023-01-18",
+    "endDate": "2023-01-19",
+    "online": true,
+    "twitter": "@@Glorium_Tech",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "QCon London International Software Development Conference",
     "url": "https://qconlondon.com",
     "startDate": "2023-03-27",
@@ -93,6 +103,17 @@
     "cocUrl": "https://www.conf42.com/code-of-conduct"
   },
   {
+    "name": "Heroes of Data Privacy",
+    "url": "https://www.heroesofdataprivacy.com/index.html",
+    "startDate": "2023-05-24",
+    "endDate": "2023-05-25",
+    "city": "Vienna",
+    "country": "Austria",
+    "online": false,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Intelligent Health",
     "url": "https://intelligenthealth.ai",
     "startDate": "2023-05-24",
@@ -101,6 +122,19 @@
     "country": "U.K.",
     "online": false,
     "twitter": "@IntHealthAI"
+  },
+  {
+    "name": "World Conference on Data Science & Statistics",
+    "url": "https://datascience.thepeopleevents.com",
+    "startDate": "2023-06-26",
+    "endDate": "2023-06-28",
+    "city": "Frankfurt",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://datascience.thepeopleevents.com/submit-abstract",
+    "cfpEndDate": "2023-04-25",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "BCI Summit: Transforming Data and AI",
@@ -147,40 +181,6 @@
     "country": "U.S.A.",
     "online": true,
     "twitter": "@ODSC",
-    "locales": "EN"
-  },
-  {
-    "name": "Boosting SaaS Products with New Technologies Big Data. Data Science. Artificial Intelligence. Machine Learning",
-    "startDate": "2023-01-18",
-    "endDate": "2023-01-19",
-    "online": true,
-    "twitter": "@@Glorium_Tech",
-    "offersSignLanguageOrCC": true,
-    "url": "https://gloriumtech.com/boosting-saas-products-with-new-technologies",
-    "locales": "EN"
-  },
-  {
-    "name": "World Conference on Data Science & Statistics",
-    "startDate": "2023-06-26",
-    "endDate": "2023-06-28",
-    "city": "Frankfurt",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://datascience.thepeopleevents.com/submit-abstract",
-    "cfpEndDate": "2023-04-25",
-    "offersSignLanguageOrCC": true,
-    "url": "https://datascience.thepeopleevents.com",
-    "locales": "EN"
-  },
-  {
-    "name": "Heroes of Data Privacy",
-    "startDate": "2023-05-24",
-    "endDate": "2023-05-25",
-    "city": "Vienna",
-    "country": "Austria",
-    "online": false,
-    "offersSignLanguageOrCC": true,
-    "url": "https://www.heroesofdataprivacy.com/index.html",
     "locales": "EN"
   }
 ]

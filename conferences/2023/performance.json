@@ -84,6 +84,21 @@
     "locales": "EN"
   },
   {
+    "name": "Remix Conf",
+    "url": "https://remix.run/conf",
+    "startDate": "2023-05-09",
+    "endDate": "2023-05-11",
+    "city": "Salt Lake City, UT",
+    "country": "U.S.A.",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/remix-2023",
+    "cfpEndDate": "2023-02-08",
+    "twitter": "@remix_run",
+    "cocUrl": "https://remix.run/conf/2023/coc",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "AgileTD Open Air",
     "url": "https://openair.agiletestingdays.com",
     "startDate": "2023-06-13",
@@ -94,6 +109,20 @@
     "cfpUrl": "https://cfp.trendig.com/AgileTD_OpenAir_2023",
     "cfpEndDate": "2022-08-31",
     "twitter": "@AgileTDOpenAir"
+  },
+  {
+    "name": "JCON EUROPE",
+    "url": "https://2023.europe.jcon.one",
+    "startDate": "2023-06-20",
+    "endDate": "2023-06-23",
+    "city": "Cologne",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://2023.europe.jcon.one/call-for-papers",
+    "cfpEndDate": "2023-01-31",
+    "twitter": "@jcon_conference",
+    "cocUrl": "https://2023.europe.jcon.one/code-of-conduct",
+    "locales": "EN,DE"
   },
   {
     "name": "Web Directions Summit",
@@ -109,34 +138,5 @@
     "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
     "locales": "EN",
     "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "JCON EUROPE",
-    "startDate": "2023-06-20",
-    "endDate": "2023-06-23",
-    "city": "Cologne",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://2023.europe.jcon.one/call-for-papers",
-    "cfpEndDate": "2023-01-31",
-    "twitter": "@jcon_conference",
-    "cocUrl": "https://2023.europe.jcon.one/code-of-conduct",
-    "url": "https://2023.europe.jcon.one",
-    "locales": "EN,DE"
-  },
-  {
-    "name": "Remix Conf",
-    "startDate": "2023-05-09",
-    "endDate": "2023-05-11",
-    "city": "Salt Lake City, UT",
-    "country": "U.S.A.",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/remix-2023",
-    "cfpEndDate": "2023-02-08",
-    "twitter": "@remix_run",
-    "cocUrl": "https://remix.run/conf/2023/coc",
-    "offersSignLanguageOrCC": true,
-    "url": "https://remix.run/conf",
-    "locales": "EN"
   }
 ]
