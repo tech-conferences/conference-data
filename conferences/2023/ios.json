@@ -74,6 +74,19 @@
     "cocUrl": "https://deepdishswift.com/code-of-conduct"
   },
   {
+    "name": "Swift Heroes",
+    "url": "https://swiftheroes.com/2023",
+    "startDate": "2023-05-04",
+    "endDate": "2023-05-05",
+    "city": "Turin",
+    "country": "Italy",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/swift-heroes-2023",
+    "cfpEndDate": "2023-02-27",
+    "twitter": "@swiftheroes_it",
+    "locales": "EN"
+  },
+  {
     "name": "plSwift",
     "url": "https://plswift.com",
     "startDate": "2023-05-30",
@@ -106,18 +119,5 @@
     "country": "U.K.",
     "online": false,
     "twitter": "@IOSDEVUK"
-  },
-  {
-    "name": "Swift Heroes",
-    "startDate": "2023-05-04",
-    "endDate": "2023-05-05",
-    "city": "Turin",
-    "country": "Italy",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/swift-heroes-2023",
-    "cfpEndDate": "2023-02-27",
-    "twitter": "@swiftheroes_it",
-    "url": "https://swiftheroes.com/2023",
-    "locales": "EN"
   }
 ]

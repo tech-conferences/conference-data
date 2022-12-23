@@ -57,6 +57,17 @@
     "locales": "EN"
   },
   {
+    "name": "Heroes of Data Privacy",
+    "url": "https://www.heroesofdataprivacy.com/index.html",
+    "startDate": "2023-05-24",
+    "endDate": "2023-05-25",
+    "city": "Vienna",
+    "country": "Austria",
+    "online": false,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "WeAreDevelopers World Congress",
     "url": "https://www.wearedevelopers.com/world-congress",
     "startDate": "2023-07-27",
@@ -95,16 +106,5 @@
     "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
     "locales": "EN",
     "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "Heroes of Data Privacy",
-    "startDate": "2023-05-24",
-    "endDate": "2023-05-25",
-    "city": "Vienna",
-    "country": "Austria",
-    "online": false,
-    "offersSignLanguageOrCC": true,
-    "url": "https://www.heroesofdataprivacy.com/index.html",
-    "locales": "EN"
   }
 ]

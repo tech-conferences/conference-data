@@ -153,6 +153,33 @@
     "cocUrl": "https://www.devoxx.co.uk/code-of-conduct/"
   },
   {
+    "name": "JCON OpenBlend Slovenia",
+    "url": "https://slovenia.jcon.one/en",
+    "startDate": "2023-06-01",
+    "endDate": "2023-06-02",
+    "city": "Portorož",
+    "country": "Slovenia",
+    "online": false,
+    "cfpUrl": "https://slovenia.jcon.one/en/call-for-papers",
+    "cfpEndDate": "2023-01-31",
+    "twitter": "@jcon_conference",
+    "locales": "EN,SL"
+  },
+  {
+    "name": "JCON EUROPE",
+    "url": "https://2023.europe.jcon.one",
+    "startDate": "2023-06-20",
+    "endDate": "2023-06-23",
+    "city": "Cologne",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://2023.europe.jcon.one/call-for-papers",
+    "cfpEndDate": "2023-01-31",
+    "twitter": "@jcon_conference",
+    "cocUrl": "https://2023.europe.jcon.one/code-of-conduct",
+    "locales": "EN,DE"
+  },
+  {
     "name": "WeAreDevelopers World Congress",
     "url": "https://www.wearedevelopers.com/world-congress",
     "startDate": "2023-07-27",
@@ -165,32 +192,5 @@
     "twitter": "@WeAreDevs",
     "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form.",
     "locales": "EN"
-  },
-  {
-    "name": "JCON EUROPE",
-    "startDate": "2023-06-20",
-    "endDate": "2023-06-23",
-    "city": "Cologne",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://2023.europe.jcon.one/call-for-papers",
-    "cfpEndDate": "2023-01-31",
-    "twitter": "@jcon_conference",
-    "cocUrl": "https://2023.europe.jcon.one/code-of-conduct",
-    "url": "https://2023.europe.jcon.one",
-    "locales": "EN,DE"
-  },
-  {
-    "name": "JCON OpenBlend Slovenia",
-    "startDate": "2023-06-01",
-    "endDate": "2023-06-02",
-    "city": "Portorož",
-    "country": "Slovenia",
-    "online": false,
-    "cfpUrl": "https://slovenia.jcon.one/en/call-for-papers",
-    "cfpEndDate": "2023-01-31",
-    "twitter": "@jcon_conference",
-    "url": "https://slovenia.jcon.one/en",
-    "locales": "EN,SL"
   }
 ]

@@ -66,6 +66,20 @@
     "locales": "EN"
   },
   {
+    "name": "BeJS Conf",
+    "url": "https://www.bejs.io/conf",
+    "startDate": "2023-05-12",
+    "endDate": "2023-05-12",
+    "city": "Brussels",
+    "country": "Belgium",
+    "online": true,
+    "cfpUrl": "https://forms.gle/2cMQNF39mwMiQgG98",
+    "cfpEndDate": "2023-02-17",
+    "twitter": "@BeJS_",
+    "cocUrl": "https://www.bejs.io/code-of-conduct",
+    "locales": "EN"
+  },
+  {
     "name": "phpday",
     "url": "https://2023.phpday.it",
     "startDate": "2023-05-18",
@@ -91,6 +105,20 @@
     "cocUrl": "https://www.renderatl.com/codepolicy"
   },
   {
+    "name": "JCON EUROPE",
+    "url": "https://2023.europe.jcon.one",
+    "startDate": "2023-06-20",
+    "endDate": "2023-06-23",
+    "city": "Cologne",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://2023.europe.jcon.one/call-for-papers",
+    "cfpEndDate": "2023-01-31",
+    "twitter": "@jcon_conference",
+    "cocUrl": "https://2023.europe.jcon.one/code-of-conduct",
+    "locales": "EN,DE"
+  },
+  {
     "name": "WeAreDevelopers World Congress",
     "url": "https://www.wearedevelopers.com/world-congress",
     "startDate": "2023-07-27",
@@ -102,34 +130,6 @@
     "cfpEndDate": "2023-07-19",
     "twitter": "@WeAreDevs",
     "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form.",
-    "locales": "EN"
-  },
-  {
-    "name": "JCON EUROPE",
-    "startDate": "2023-06-20",
-    "endDate": "2023-06-23",
-    "city": "Cologne",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://2023.europe.jcon.one/call-for-papers",
-    "cfpEndDate": "2023-01-31",
-    "twitter": "@jcon_conference",
-    "cocUrl": "https://2023.europe.jcon.one/code-of-conduct",
-    "url": "https://2023.europe.jcon.one",
-    "locales": "EN,DE"
-  },
-  {
-    "name": "BeJS Conf",
-    "startDate": "2023-05-12",
-    "endDate": "2023-05-12",
-    "city": "Brussels",
-    "country": "Belgium",
-    "online": true,
-    "cfpUrl": "https://forms.gle/2cMQNF39mwMiQgG98",
-    "cfpEndDate": "2023-02-17",
-    "twitter": "@BeJS_",
-    "cocUrl": "https://www.bejs.io/code-of-conduct",
-    "url": "https://www.bejs.io/conf",
     "locales": "EN"
   }
 ]

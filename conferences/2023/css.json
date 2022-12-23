@@ -44,6 +44,21 @@
     "locales": "EN"
   },
   {
+    "name": "Remix Conf",
+    "url": "https://remix.run/conf",
+    "startDate": "2023-05-09",
+    "endDate": "2023-05-11",
+    "city": "Salt Lake City, UT",
+    "country": "U.S.A.",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/remix-2023",
+    "cfpEndDate": "2023-02-08",
+    "twitter": "@remix_run",
+    "cocUrl": "https://remix.run/conf/2023/coc",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "webinale",
     "url": "https://webinale.de",
     "startDate": "2023-05-22",
@@ -104,20 +119,5 @@
     "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
     "locales": "EN",
     "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "Remix Conf",
-    "startDate": "2023-05-09",
-    "endDate": "2023-05-11",
-    "city": "Salt Lake City, UT",
-    "country": "U.S.A.",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/remix-2023",
-    "cfpEndDate": "2023-02-08",
-    "twitter": "@remix_run",
-    "cocUrl": "https://remix.run/conf/2023/coc",
-    "offersSignLanguageOrCC": true,
-    "url": "https://remix.run/conf",
-    "locales": "EN"
   }
 ]

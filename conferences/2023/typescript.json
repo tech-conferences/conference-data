@@ -49,6 +49,35 @@
     "locales": "EN"
   },
   {
+    "name": "Remix Conf",
+    "url": "https://remix.run/conf",
+    "startDate": "2023-05-09",
+    "endDate": "2023-05-11",
+    "city": "Salt Lake City, UT",
+    "country": "U.S.A.",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/remix-2023",
+    "cfpEndDate": "2023-02-08",
+    "twitter": "@remix_run",
+    "cocUrl": "https://remix.run/conf/2023/coc",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "BeJS Conf",
+    "url": "https://www.bejs.io/conf",
+    "startDate": "2023-05-12",
+    "endDate": "2023-05-12",
+    "city": "Brussels",
+    "country": "Belgium",
+    "online": true,
+    "cfpUrl": "https://forms.gle/2cMQNF39mwMiQgG98",
+    "cfpEndDate": "2023-02-17",
+    "twitter": "@BeJS_",
+    "cocUrl": "https://www.bejs.io/code-of-conduct",
+    "locales": "EN"
+  },
+  {
     "name": "RenderATL",
     "url": "https://www.renderatl.com",
     "startDate": "2023-05-31",
@@ -110,34 +139,5 @@
     "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
     "locales": "EN",
     "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "BeJS Conf",
-    "startDate": "2023-05-12",
-    "endDate": "2023-05-12",
-    "city": "Brussels",
-    "country": "Belgium",
-    "online": true,
-    "cfpUrl": "https://forms.gle/2cMQNF39mwMiQgG98",
-    "cfpEndDate": "2023-02-17",
-    "twitter": "@BeJS_",
-    "cocUrl": "https://www.bejs.io/code-of-conduct",
-    "url": "https://www.bejs.io/conf",
-    "locales": "EN"
-  },
-  {
-    "name": "Remix Conf",
-    "startDate": "2023-05-09",
-    "endDate": "2023-05-11",
-    "city": "Salt Lake City, UT",
-    "country": "U.S.A.",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/remix-2023",
-    "cfpEndDate": "2023-02-08",
-    "twitter": "@remix_run",
-    "cocUrl": "https://remix.run/conf/2023/coc",
-    "offersSignLanguageOrCC": true,
-    "url": "https://remix.run/conf",
-    "locales": "EN"
   }
 ]

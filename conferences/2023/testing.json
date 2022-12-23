@@ -124,6 +124,35 @@
     "locales": "EN"
   },
   {
+    "name": "Remix Conf",
+    "url": "https://remix.run/conf",
+    "startDate": "2023-05-09",
+    "endDate": "2023-05-11",
+    "city": "Salt Lake City, UT",
+    "country": "U.S.A.",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/remix-2023",
+    "cfpEndDate": "2023-02-08",
+    "twitter": "@remix_run",
+    "cocUrl": "https://remix.run/conf/2023/coc",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "BeJS Conf",
+    "url": "https://www.bejs.io/conf",
+    "startDate": "2023-05-12",
+    "endDate": "2023-05-12",
+    "city": "Brussels",
+    "country": "Belgium",
+    "online": true,
+    "cfpUrl": "https://forms.gle/2cMQNF39mwMiQgG98",
+    "cfpEndDate": "2023-02-17",
+    "twitter": "@BeJS_",
+    "cocUrl": "https://www.bejs.io/code-of-conduct",
+    "locales": "EN"
+  },
+  {
     "name": "phpday",
     "url": "https://2023.phpday.it",
     "startDate": "2023-05-18",
@@ -234,18 +263,8 @@
     "cocUrl": "https://conference.eurostarsoftwaretesting.com/anti-harassment-policy/"
   },
   {
-    "name": "Conf42 Incident Management",
-    "url": "https://www.conf42.com/im2023",
-    "startDate": "2023-10-19",
-    "endDate": "2023-10-19",
-    "online": true,
-    "cfpUrl": "https://www.papercall.io/conf42-incident-management-2023",
-    "cfpEndDate": "2023-09-19",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct"
-  },
-  {
     "name": "JCON EUROPE",
+    "url": "https://2023.europe.jcon.one",
     "startDate": "2023-06-20",
     "endDate": "2023-06-23",
     "city": "Cologne",
@@ -255,36 +274,17 @@
     "cfpEndDate": "2023-01-31",
     "twitter": "@jcon_conference",
     "cocUrl": "https://2023.europe.jcon.one/code-of-conduct",
-    "url": "https://2023.europe.jcon.one",
     "locales": "EN,DE"
   },
   {
-    "name": "BeJS Conf",
-    "startDate": "2023-05-12",
-    "endDate": "2023-05-12",
-    "city": "Brussels",
-    "country": "Belgium",
+    "name": "Conf42 Incident Management",
+    "url": "https://www.conf42.com/im2023",
+    "startDate": "2023-10-19",
+    "endDate": "2023-10-19",
     "online": true,
-    "cfpUrl": "https://forms.gle/2cMQNF39mwMiQgG98",
-    "cfpEndDate": "2023-02-17",
-    "twitter": "@BeJS_",
-    "cocUrl": "https://www.bejs.io/code-of-conduct",
-    "url": "https://www.bejs.io/conf",
-    "locales": "EN"
-  },
-  {
-    "name": "Remix Conf",
-    "startDate": "2023-05-09",
-    "endDate": "2023-05-11",
-    "city": "Salt Lake City, UT",
-    "country": "U.S.A.",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/remix-2023",
-    "cfpEndDate": "2023-02-08",
-    "twitter": "@remix_run",
-    "cocUrl": "https://remix.run/conf/2023/coc",
-    "offersSignLanguageOrCC": true,
-    "url": "https://remix.run/conf",
-    "locales": "EN"
+    "cfpUrl": "https://www.papercall.io/conf42-incident-management-2023",
+    "cfpEndDate": "2023-09-19",
+    "twitter": "@conf42com",
+    "cocUrl": "https://www.conf42.com/code-of-conduct"
   }
 ]
