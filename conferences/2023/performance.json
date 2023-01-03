@@ -138,5 +138,17 @@
     "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
     "locales": "EN",
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "Tech Lead Conference",
+    "startDate": "2023-03-09",
+    "endDate": "2023-03-10",
+    "online": true,
+    "cfpUrl": "https://forms.gle/DAAqV4DHZMYJ2bN57",
+    "cfpEndDate": "2023-02-01",
+    "twitter": "@TechLeadJS",
+    "cocUrl": "https://techleadconf.com/coc",
+    "url": "https://techleadconf.com",
+    "locales": "EN"
   }
 ]
