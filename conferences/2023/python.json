@@ -119,5 +119,19 @@
     "twitter": "@WeAreDevs",
     "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form.",
     "locales": "EN"
+  },
+  {
+    "name": "PyCon DE & PyData Berlin",
+    "startDate": "2023-04-17",
+    "endDate": "2023-04-19",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://2023.pycon.de/blog/call-for-proposals",
+    "cfpEndDate": "2023-01-05",
+    "twitter": "@PyConDE",
+    "cocUrl": "https://2023.pycon.de/code-of-conduct/",
+    "url": "https://2023.pycon.de",
+    "locales": "EN"
   }
 ]
