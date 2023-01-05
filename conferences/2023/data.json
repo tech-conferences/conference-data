@@ -203,5 +203,16 @@
     "twitter": "@salondata",
     "url": "https://salondata.fr/index.php/le-salon",
     "locales": "FR"
+  },
+  {
+    "name": "Data Teams Summit",
+    "startDate": "2023-01-25",
+    "endDate": "2023-01-25",
+    "online": true,
+    "cfpUrl": "https://datateamssummit.com/cfp",
+    "cfpEndDate": "2023-01-09",
+    "twitter": "@ilovedataops",
+    "url": "https://datateamssummit.com",
+    "locales": "EN"
   }
 ]
