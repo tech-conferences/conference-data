@@ -377,5 +377,17 @@
     "twitter": "@IoT_Forum",
     "url": "https://iotweek.org",
     "locales": "EN"
+  },
+  {
+    "name": "Software Architecture Summit",
+    "startDate": "2023-03-13",
+    "endDate": "2023-03-15",
+    "city": "Munich",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@SoftwArchSummit",
+    "cocUrl": "https://software-architecture-summit.de/service-info/code-of-conduct/",
+    "url": "https://software-architecture-summit.de/muenchen",
+    "locales": "DE"
   }
 ]
