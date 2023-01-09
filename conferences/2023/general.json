@@ -300,6 +300,20 @@
     "cocUrl": "https://www.conf42.com/code-of-conduct"
   },
   {
+    "name": "FOSS4G",
+    "url": "https://2023.foss4g.org/",
+    "startDate": "2023-06-28",
+    "endDate": "2023-06-30",
+    "city": "Prizren",
+    "country": "Kosovo",
+    "online": false,
+    "cfpUrl": "https://2023.foss4g.org/call-for-papers/",
+    "cfpEndDate": "2023-02-19",
+    "twitter": "@foss4g",
+    "cocUrl": "https://2023.foss4g.org/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "Conf42 Quantum Computing",
     "url": "https://www.conf42.com/quantum2023",
     "startDate": "2023-06-29",
@@ -392,6 +406,42 @@
     "locales": "EN"
   },
   {
+    "name": "WeAreDevelopers Women in Tech Day",
+    "startDate": "2023-03-08",
+    "endDate": "2023-03-08",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/wearedevelopers-live-2023",
+    "cfpEndDate": "2023-03-07",
+    "twitter": "@WeAreDevs",
+    "url": "https://www.wearedevelopers.com/event/women-in-tech-day-march-2023",
+    "locales": "EN"
+  },
+  {
+    "name": "Civo Navigate",
+    "startDate": "2023-02-07",
+    "endDate": "2023-02-08",
+    "city": "Tampa, FL",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@CivoCloud",
+    "cocUrl": "https://www.civo.com/navigate/code-of-conduct",
+    "url": "https://www.civo.com/navigate",
+    "locales": "EN"
+  },
+  {
+    "name": "Codemotion Madrid",
+    "startDate": "2023-05-09",
+    "endDate": "2023-05-10",
+    "city": "Madrid",
+    "country": "Spain",
+    "online": false,
+    "cfpUrl": "https://extra.codemotion.com/madrid23-cfp",
+    "cfpEndDate": "2023-02-22",
+    "twitter": "@CodemoMadrid",
+    "url": "https://extra.codemotion.com/live-conference-madrid-2023",
+    "locales": "EN,ES"
+  },
+  {
     "name": "Software Architecture Summit",
     "startDate": "2023-03-13",
     "endDate": "2023-03-15",
@@ -413,6 +463,58 @@
     "twitter": "@kc_dc",
     "cocUrl": "https://www.kcdc.info/code-of-conduct",
     "url": "https://www.kcdc.info",
+    "locales": "EN"
+  },
+  {
+    "name": "NDC London",
+    "startDate": "2023-01-23",
+    "endDate": "2023-01-27",
+    "online": false,
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@NDC_Conferences",
+    "cocUrl": "https://ndc-security.com/code-of-conduct",
+    "url": "https://ndclondon.com",
+    "locales": "EN"
+  },
+  {
+    "name": "NDC TechTown",
+    "startDate": "2023-09-18",
+    "endDate": "2023-09-21",
+    "city": "Kongsberg",
+    "country": "Norway",
+    "online": false,
+    "cfpUrl": "https://ndctechtown.com/call-for-papers",
+    "cfpEndDate": "2023-05-19",
+    "twitter": "@NDC_Conferences",
+    "cocUrl": "https://ndctechtown.com/code-of-conduct",
+    "url": "https://ndctechtown.com",
+    "locales": "EN"
+  },
+  {
+    "name": "NDC Oslo",
+    "startDate": "2023-05-22",
+    "endDate": "2023-05-26",
+    "city": "Oslo",
+    "country": "Norway",
+    "online": false,
+    "cfpUrl": "https://ndcoslo.com/call-for-papers",
+    "cfpEndDate": "2023-01-27",
+    "twitter": "@NDC_Conferences",
+    "cocUrl": "https://ndcoslo.com/code-of-conduct",
+    "url": "https://ndcoslo.com",
+    "locales": "EN"
+  },
+  {
+    "name": "NDC Porto",
+    "startDate": "2023-04-25",
+    "endDate": "2023-04-29",
+    "city": "Porto",
+    "country": "Portugal",
+    "online": false,
+    "twitter": "@NDC_Conferences",
+    "cocUrl": "https://ndcoslo.com/code-of-conduct",
+    "url": "https://ndcporto.com",
     "locales": "EN"
   }
 ]

@@ -150,5 +150,17 @@
     "cocUrl": "https://techleadconf.com/coc",
     "url": "https://techleadconf.com",
     "locales": "EN"
+  },
+  {
+    "name": "Conversational AI & customer experience Summit",
+    "startDate": "2023-06-15",
+    "endDate": "2023-06-16",
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "online": false,
+    "cocUrl": "https://conversationaltechsummit.com/",
+    "offersSignLanguageOrCC": true,
+    "url": "https://conversationaltechsummit.com",
+    "locales": "EN"
   }
 ]
