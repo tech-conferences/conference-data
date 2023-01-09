@@ -145,5 +145,19 @@
     "cocUrl": "https://us.pycon.org/2023/about/code-of-conduct/",
     "url": "https://us.pycon.org",
     "locales": "EN"
+  },
+  {
+    "name": "GeoPython",
+    "startDate": "2023-03-06",
+    "endDate": "2023-03-08",
+    "city": "Basel",
+    "country": "Switzerland",
+    "online": true,
+    "cfpUrl": "https://2023.geopython.net/#speakers",
+    "cfpEndDate": "2023-01-12",
+    "twitter": "@GeoPythonConf",
+    "cocUrl": "https://2023.geopython.net/#codeofconduct",
+    "url": "https://2023.geopython.net",
+    "locales": "EN"
   }
 ]
