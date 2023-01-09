@@ -311,6 +311,16 @@
     "cocUrl": "https://www.conf42.com/code-of-conduct"
   },
   {
+    "name": "FOSSY",
+    "url": "https://sfconservancy.org/fossy/",
+    "startDate": "2023-07-13",
+    "endDate": "2023-07-16",
+    "city": "Portland, OR",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN"
+  },
+  {
     "name": "WeAreDevelopers World Congress",
     "url": "https://www.wearedevelopers.com/world-congress",
     "startDate": "2023-07-27",
@@ -322,6 +332,19 @@
     "cfpEndDate": "2023-07-19",
     "twitter": "@WeAreDevs",
     "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form.",
+    "locales": "EN"
+  },
+  {
+    "name": "DebConf",
+    "url": "https://debconf23.debconf.org/",
+    "startDate": "2023-09-10",
+    "endDate": "2023-09-17",
+    "city": "Kochi",
+    "country": "India",
+    "online": false,
+    "cfpUrl": "https://debconf23.debconf.org/cfp/",
+    "twitter": "@DebConf",
+    "cocUrl": "https://debconf23.debconf.org/about/coc/",
     "locales": "EN"
   },
   {
@@ -380,5 +403,69 @@
     "twitter": "@CodemoMadrid",
     "url": "https://extra.codemotion.com/live-conference-madrid-2023",
     "locales": "EN,ES"
+  },
+  {
+    "name": "Software Architecture Summit",
+    "startDate": "2023-03-13",
+    "endDate": "2023-03-15",
+    "city": "Munich",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@SoftwArchSummit",
+    "cocUrl": "https://software-architecture-summit.de/service-info/code-of-conduct/",
+    "url": "https://software-architecture-summit.de/muenchen",
+    "locales": "DE"
+  },
+  {
+    "name": "NDC London",
+    "startDate": "2023-01-23",
+    "endDate": "2023-01-27",
+    "online": false,
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@NDC_Conferences",
+    "cocUrl": "https://ndc-security.com/code-of-conduct",
+    "url": "https://ndclondon.com",
+    "locales": "EN"
+  },
+  {
+    "name": "NDC TechTown",
+    "startDate": "2023-09-18",
+    "endDate": "2023-09-21",
+    "city": "Kongsberg",
+    "country": "Norway",
+    "online": false,
+    "cfpUrl": "https://ndctechtown.com/call-for-papers",
+    "cfpEndDate": "2023-05-19",
+    "twitter": "@NDC_Conferences",
+    "cocUrl": "https://ndctechtown.com/code-of-conduct",
+    "url": "https://ndctechtown.com",
+    "locales": "EN"
+  },
+  {
+    "name": "NDC Oslo",
+    "startDate": "2023-05-22",
+    "endDate": "2023-05-26",
+    "city": "Oslo",
+    "country": "Norway",
+    "online": false,
+    "cfpUrl": "https://ndcoslo.com/call-for-papers",
+    "cfpEndDate": "2023-01-27",
+    "twitter": "@NDC_Conferences",
+    "cocUrl": "https://ndcoslo.com/code-of-conduct",
+    "url": "https://ndcoslo.com",
+    "locales": "EN"
+  },
+  {
+    "name": "NDC Porto",
+    "startDate": "2023-04-25",
+    "endDate": "2023-04-29",
+    "city": "Porto",
+    "country": "Portugal",
+    "online": false,
+    "twitter": "@NDC_Conferences",
+    "cocUrl": "https://ndcoslo.com/code-of-conduct",
+    "url": "https://ndcporto.com",
+    "locales": "EN"
   }
 ]
