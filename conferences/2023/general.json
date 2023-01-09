@@ -404,6 +404,20 @@
     "locales": "DE"
   },
   {
+    "name": "NDC TechTown",
+    "startDate": "2023-09-18",
+    "endDate": "2023-09-21",
+    "city": "Kongsberg",
+    "country": "Norway",
+    "online": false,
+    "cfpUrl": "https://ndctechtown.com/call-for-papers",
+    "cfpEndDate": "2023-05-19",
+    "twitter": "@NDC_Conferences",
+    "cocUrl": "https://ndctechtown.com/code-of-conduct",
+    "url": "https://ndctechtown.com",
+    "locales": "EN"
+  },
+  {
     "name": "NDC Oslo",
     "startDate": "2023-05-22",
     "endDate": "2023-05-26",
