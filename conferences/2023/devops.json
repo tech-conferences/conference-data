@@ -453,11 +453,33 @@
     "city": "Tampa, FL",
     "country": "U.S.A.",
     "online": false,
-    "cfpUrl": "https://www.civo.com/navigate",
-    "cfpEndDate": "2023-02-06",
     "twitter": "@CivoCloud",
     "cocUrl": "https://www.civo.com/navigate/code-of-conduct",
-    "url": "https://www.civo.com",
+    "url": "https://www.civo.com/navigate",
+    "locales": "EN"
+  },
+  {
+    "name": "DevOps fwdays",
+    "startDate": "2023-03-18",
+    "endDate": "2023-03-18",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSea0CUkTdMBsz86YiEyYmq1KfhQNrRwuIAfqnOfVkWoJ2CPaw/viewform",
+    "cfpEndDate": "2023-02-10",
+    "twitter": "@fwdays",
+    "cocUrl": "https://fwdays.com/en/page/code-of-conduct",
+    "url": "https://fwdays.com/en/event/devops-fwdays-2023",
+    "locales": "EN,UK"
+  },
+  {
+    "name": "DevOpsCon",
+    "startDate": "2023-06-12",
+    "endDate": "2023-06-15",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@devops_con",
+    "cocUrl": "https://devopscon.io/code-of-conduct/",
+    "url": "https://devopscon.io/berlin",
     "locales": "EN"
   }
 ]
