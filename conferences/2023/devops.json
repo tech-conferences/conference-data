@@ -445,5 +445,53 @@
     "cfpEndDate": "2023-10-30",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
+  },
+  {
+    "name": "WeAreDevelopers DevOps Day",
+    "startDate": "2023-02-15",
+    "endDate": "2023-02-15",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/wearedevelopers-live-2023",
+    "cfpEndDate": "2023-02-14",
+    "twitter": "@WeAreDevs",
+    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form.",
+    "url": "https://www.wearedevelopers.com/event/devops-day-february-2023",
+    "locales": "EN"
+  },
+  {
+    "name": "Civo Navigate",
+    "startDate": "2023-02-07",
+    "endDate": "2023-02-08",
+    "city": "Tampa, FL",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@CivoCloud",
+    "cocUrl": "https://www.civo.com/navigate/code-of-conduct",
+    "url": "https://www.civo.com/navigate",
+    "locales": "EN"
+  },
+  {
+    "name": "DevOps fwdays",
+    "startDate": "2023-03-18",
+    "endDate": "2023-03-18",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSea0CUkTdMBsz86YiEyYmq1KfhQNrRwuIAfqnOfVkWoJ2CPaw/viewform",
+    "cfpEndDate": "2023-02-10",
+    "twitter": "@fwdays",
+    "cocUrl": "https://fwdays.com/en/page/code-of-conduct",
+    "url": "https://fwdays.com/en/event/devops-fwdays-2023",
+    "locales": "EN,UK"
+  },
+  {
+    "name": "DevOpsCon",
+    "startDate": "2023-06-12",
+    "endDate": "2023-06-15",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@devops_con",
+    "cocUrl": "https://devopscon.io/code-of-conduct/",
+    "url": "https://devopscon.io/berlin",
+    "locales": "EN"
   }
 ]
