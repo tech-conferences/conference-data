@@ -404,6 +404,18 @@
     "locales": "DE"
   },
   {
+    "name": "NDC London",
+    "startDate": "2023-01-23",
+    "endDate": "2023-01-27",
+    "online": false,
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@NDC_Conferences",
+    "cocUrl": "https://ndc-security.com/code-of-conduct",
+    "url": "https://ndclondon.com",
+    "locales": "EN"
+  },
+  {
     "name": "NDC TechTown",
     "startDate": "2023-09-18",
     "endDate": "2023-09-21",
