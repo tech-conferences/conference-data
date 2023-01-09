@@ -447,6 +447,18 @@
     "cocUrl": "https://www.conf42.com/code-of-conduct"
   },
   {
+    "name": "DevOpsCon Berlin",
+     "startDate": "2023-06-12",
+     "endDate": "2023-06-15",
+     "online": true,
+     "cfpUrl": "https://callforpapers.sandsmedia.com",
+     "cfpEndDate": "2023-01-11",
+     "twitter": "@devops_con",
+     "cocUrl": "https://devopscon.io/code-of-conduct-de/",
+     "url": "https://devopscon.io/berlin",
+     "locales": "EN"
+  },
+  {
     "name": "WeAreDevelopers DevOps Day",
     "startDate": "2023-02-15",
     "endDate": "2023-02-15",
@@ -454,7 +466,6 @@
     "cfpUrl": "https://sessionize.com/wearedevelopers-live-2023",
     "cfpEndDate": "2023-02-14",
     "twitter": "@WeAreDevs",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form.",
     "url": "https://www.wearedevelopers.com/event/devops-day-february-2023",
     "locales": "EN"
   },
