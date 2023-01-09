@@ -211,5 +211,37 @@
     "online": true,
     "url": "https://www.checkpoint.com/cpx",
     "locales": "EN"
+  },
+  {
+    "name": "Data Teams Summit",
+    "startDate": "2023-01-25",
+    "endDate": "2023-01-25",
+    "online": true,
+    "cfpUrl": "https://datateamssummit.com/cfp",
+    "cfpEndDate": "2023-01-09",
+    "twitter": "@ilovedataops",
+    "url": "https://datateamssummit.com",
+    "locales": "EN"
+  },
+  {
+    "name": "Velocity Data and Analytics Summit",
+    "startDate": "2023-03-07",
+    "endDate": "2023-03-08",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "online": false,
+    "url": "https://za.velocityda.com",
+    "locales": "EN"
+  },
+  {
+    "name": "Big Data LDN",
+    "startDate": "2023-09-20",
+    "endDate": "2023-09-21",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "twitter": "@bigdata_ldn",
+    "url": "https://bigdataldn.com",
+    "locales": "EN"
   }
 ]
