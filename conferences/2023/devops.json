@@ -448,14 +448,15 @@
   },
   {
     "name": "DevOpsCon Berlin",
-    "startDate": "2023-06-12",
-    "endDate": "2023-06-15",
-    "online": true,
-    "cfpUrl": "https://callforpapers.sandsmedia.com",
-    "cfpEndDate": "2023-01-11",
-    "twitter": "@devops_con",
-    "cocUrl": "https://devopscon.io/code-of-conduct-de/",
-    "locales": "EN"
+     "startDate": "2023-06-12",
+     "endDate": "2023-06-15",
+     "online": true,
+     "cfpUrl": "https://callforpapers.sandsmedia.com",
+     "cfpEndDate": "2023-01-11",
+     "twitter": "@devops_con",
+     "cocUrl": "https://devopscon.io/code-of-conduct-de/",
+     "url": "https://devopscon.io/berlin",
+     "locales": "EN"
   },
   {
     "name": "WeAreDevelopers DevOps Day",
