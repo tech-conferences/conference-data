@@ -321,7 +321,8 @@ module.exports = {
     "Seoul"
   ],
   "Kosovo": [
-    "Pristina"
+    "Pristina",
+    "Prizren"
   ],
   "Latvia": [
     "Jurmala",
