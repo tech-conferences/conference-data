@@ -624,6 +624,7 @@ module.exports = {
     "Islandia, NY",
     "Jackson, MS",
     "Jacksonville Beach, FL",
+    "Kansas City, KS",
     "Kansas City, MO",
     "Knoxville, TN",
     "La Jolla, CA",
