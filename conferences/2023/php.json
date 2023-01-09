@@ -79,6 +79,18 @@
     "locales": "EN"
   },
   {
+    "name": "PHP fwdays",
+    "url": "https://fwdays.com/en/event/php-fwdays-2023",
+    "startDate": "2023-04-22",
+    "endDate": "2023-04-22",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScv5cLFHFh5Leh7b3FdmCCsf2vir0CtMYoc7Eia6uCZEBSTDQ/viewform",
+    "cfpEndDate": "2023-03-10",
+    "twitter": "@fwdays",
+    "cocUrl": "https://fwdays.com/en/page/code-of-conduct",
+    "locales": "EN,UK"
+  },
+  {
     "name": "phpday",
     "url": "https://2023.phpday.it",
     "startDate": "2023-05-18",
@@ -142,17 +154,5 @@
     "twitter": "@WeAreDevs",
     "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form.",
     "locales": "EN"
-  },
-  {
-    "name": "PHP fwdays",
-    "startDate": "2023-04-22",
-    "endDate": "2023-04-22",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScv5cLFHFh5Leh7b3FdmCCsf2vir0CtMYoc7Eia6uCZEBSTDQ/viewform",
-    "cfpEndDate": "2023-03-10",
-    "twitter": "@fwdays",
-    "cocUrl": "https://fwdays.com/en/page/code-of-conduct",
-    "url": "https://fwdays.com/en/event/php-fwdays-2023",
-    "locales": "EN,UK"
   }
 ]

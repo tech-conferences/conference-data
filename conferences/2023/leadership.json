@@ -33,6 +33,18 @@
     "twitter": "@clickup"
   },
   {
+    "name": "Tech Lead Conference",
+    "url": "https://techleadconf.com",
+    "startDate": "2023-03-09",
+    "endDate": "2023-03-10",
+    "online": true,
+    "cfpUrl": "https://forms.gle/DAAqV4DHZMYJ2bN57",
+    "cfpEndDate": "2023-02-01",
+    "twitter": "@TechLeadJS",
+    "cocUrl": "https://techleadconf.com/coc",
+    "locales": "EN"
+  },
+  {
     "name": "RenderATL",
     "url": "https://www.renderatl.com",
     "startDate": "2023-05-31",
@@ -42,17 +54,5 @@
     "online": false,
     "twitter": "@RenderATL",
     "cocUrl": "https://www.renderatl.com/codepolicy"
-  },
-  {
-    "name": "Tech Lead Conference",
-    "startDate": "2023-03-09",
-    "endDate": "2023-03-10",
-    "online": true,
-    "cfpUrl": "https://forms.gle/DAAqV4DHZMYJ2bN57",
-    "cfpEndDate": "2023-02-01",
-    "twitter": "@TechLeadJS",
-    "cocUrl": "https://techleadconf.com/coc",
-    "url": "https://techleadconf.com",
-    "locales": "EN"
   }
 ]

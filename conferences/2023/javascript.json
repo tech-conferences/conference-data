@@ -23,6 +23,18 @@
     "twitter": "@RefreshRocks"
   },
   {
+    "name": "WeAreDevelopers Vue.js Day",
+    "url": "https://www.wearedevelopers.com/event/vue-js-day-february-2023",
+    "startDate": "2023-02-01",
+    "endDate": "2023-02-01",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/wearedevelopers-live-2023",
+    "cfpEndDate": "2023-01-31",
+    "twitter": "@WeAreDevs",
+    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form.",
+    "locales": "EN"
+  },
+  {
     "name": "HalfStack",
     "url": "https://halfstackconf.com/phoenix",
     "startDate": "2023-02-03",
@@ -403,6 +415,20 @@
     "cocUrl": "https://www.jsconf.in/code-of-conduct/"
   },
   {
+    "name": "Scenic City Summit",
+    "url": "https://sceniccitysummit.com",
+    "startDate": "2023-06-02",
+    "endDate": "2023-06-02",
+    "city": "Chattanooga, TN",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "http://sessionize.com/scenic-city-summit-2023",
+    "cfpEndDate": "2023-03-01",
+    "twitter": "@ScenicSummit",
+    "cocUrl": "https://sceniccitysummit.com/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "Future Frontend",
     "url": "https://futurefrontend.com",
     "startDate": "2023-06-05",
@@ -518,31 +544,5 @@
     "cfpEndDate": "2023-10-16",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
-  },
-  {
-    "name": "Scenic City Summit",
-    "startDate": "2023-06-02",
-    "endDate": "2023-06-02",
-    "city": "Chattanooga, TN",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "http://sessionize.com/scenic-city-summit-2023",
-    "cfpEndDate": "2023-03-01",
-    "twitter": "@ScenicSummit",
-    "cocUrl": "https://sceniccitysummit.com/code-of-conduct/",
-    "url": "https://sceniccitysummit.com",
-    "locales": "EN"
-  },
-  {
-    "name": "WeAreDevelopers Vue.js Day",
-    "startDate": "2023-02-01",
-    "endDate": "2023-02-01",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/wearedevelopers-live-2023",
-    "cfpEndDate": "2023-01-31",
-    "twitter": "@WeAreDevs",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form.",
-    "url": "https://www.wearedevelopers.com/event/vue-js-day-february-2023",
-    "locales": "EN"
   }
 ]
