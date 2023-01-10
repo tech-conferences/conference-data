@@ -304,7 +304,7 @@
   },
   {
     "name": "Devopsdays Birmingham, AL",
-    "url": "https://devopsdays.org/events/2023-nashville/welcome/",
+    "url": "https://devopsdays.org/events/2023-birmingham-al/welcome/",
     "startDate": "2023-04-20",
     "endDate": "2023-04-21",
     "city": "Birmingham, AL",
@@ -514,6 +514,30 @@
     "online": true,
     "twitter": "@AllThingsOpen",
     "url": "https://www.allthingsopen.org",
+    "locales": "EN"
+  },
+  {
+    "name": "DevOps Days Raleigh",
+    "startDate": "2023-04-12",
+    "endDate": "2023-04-13",
+    "city": "Raleigh, NC",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@DevOpsDaysRDU",
+    "cocUrl": "https://devopsdays.org/events/2023-raleigh/conduct",
+    "url": "https://devopsdays.org/events/2023-raleigh/welcome",
+    "locales": "EN"
+  },
+  {
+    "name": "Visual Studio Live! Las Vegas",
+    "startDate": "2023-03-19",
+    "endDate": "2023-03-24",
+    "city": "Las Vegas, NV",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@VSLive",
+    "cocUrl": "https://vslive.com/pages/harassment.aspx",
+    "url": "https://vslive.com/events/las-vegas-2023/home.aspx",
     "locales": "EN"
   }
 ]
