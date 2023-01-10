@@ -290,6 +290,17 @@
     "locales": "EN,DE"
   },
   {
+    "name": "All Things Open",
+    "url": "https://www.allthingsopen.org",
+    "startDate": "2023-10-15",
+    "endDate": "2023-10-18",
+    "city": "Raleigh, NC",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@AllThingsOpen",
+    "locales": "EN"
+  },
+  {
     "name": "Conf42 Incident Management",
     "url": "https://www.conf42.com/im2023",
     "startDate": "2023-10-19",
@@ -312,17 +323,6 @@
     "cfpEndDate": "2023-03-19",
     "twitter": "@AgileTDZone",
     "cocUrl": "https://agiletestingdays.com/code-of-conduct/",
-    "locales": "EN"
-  },
-  {
-    "name": "All Things Open",
-    "startDate": "2023-10-15",
-    "endDate": "2023-10-18",
-    "city": "Raleigh, NC",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@AllThingsOpen",
-    "url": "https://www.allthingsopen.org",
     "locales": "EN"
   }
 ]
