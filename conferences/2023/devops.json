@@ -182,6 +182,18 @@
     "locales": "EN,UK"
   },
   {
+    "name": "Visual Studio Live! Las Vegas",
+    "url": "https://vslive.com/events/las-vegas-2023/home.aspx",
+    "startDate": "2023-03-19",
+    "endDate": "2023-03-24",
+    "city": "Las Vegas, NV",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@VSLive",
+    "cocUrl": "https://vslive.com/pages/harassment.aspx",
+    "locales": "EN"
+  },
+  {
     "name": "Java Land",
     "url": "https://www.javaland.eu",
     "startDate": "2023-03-21",
@@ -263,6 +275,18 @@
     "cfpEndDate": "2023-01-15",
     "twitter": "@nashvilledevops",
     "cocUrl": "https://devopsdays.org/events/2023-nashville/conduct"
+  },
+  {
+    "name": "DevOps Days Raleigh",
+    "url": "https://devopsdays.org/events/2023-raleigh/welcome",
+    "startDate": "2023-04-12",
+    "endDate": "2023-04-13",
+    "city": "Raleigh, NC",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@DevOpsDaysRDU",
+    "cocUrl": "https://devopsdays.org/events/2023-raleigh/conduct",
+    "locales": "EN"
   },
   {
     "name": "KubeCon + CloudNativeCon Europe",
@@ -485,6 +509,17 @@
     "twitter": "@devopsdaysindy"
   },
   {
+    "name": "All Things Open",
+    "url": "https://www.allthingsopen.org",
+    "startDate": "2023-10-15",
+    "endDate": "2023-10-18",
+    "city": "Raleigh, NC",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@AllThingsOpen",
+    "locales": "EN"
+  },
+  {
     "name": "KubeCon + CloudNativeCon North America",
     "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2023",
     "startDate": "2023-11-06",
@@ -504,40 +539,5 @@
     "cfpEndDate": "2023-10-30",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
-  },
-  {
-    "name": "All Things Open",
-    "startDate": "2023-10-15",
-    "endDate": "2023-10-18",
-    "city": "Raleigh, NC",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@AllThingsOpen",
-    "url": "https://www.allthingsopen.org",
-    "locales": "EN"
-  },
-  {
-    "name": "DevOps Days Raleigh",
-    "startDate": "2023-04-12",
-    "endDate": "2023-04-13",
-    "city": "Raleigh, NC",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@DevOpsDaysRDU",
-    "cocUrl": "https://devopsdays.org/events/2023-raleigh/conduct",
-    "url": "https://devopsdays.org/events/2023-raleigh/welcome",
-    "locales": "EN"
-  },
-  {
-    "name": "Visual Studio Live! Las Vegas",
-    "startDate": "2023-03-19",
-    "endDate": "2023-03-24",
-    "city": "Las Vegas, NV",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@VSLive",
-    "cocUrl": "https://vslive.com/pages/harassment.aspx",
-    "url": "https://vslive.com/events/las-vegas-2023/home.aspx",
-    "locales": "EN"
   }
 ]
