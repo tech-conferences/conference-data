@@ -39,6 +39,18 @@
     "cocUrl": "https://confoo.ca/en/code-of-conduct"
   },
   {
+    "name": "Visual Studio Live! Las Vegas",
+    "startDate": "2023-03-19",
+    "endDate": "2023-03-24",
+    "city": "Las Vegas, NV",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@VSLive",
+    "cocUrl": "https://vslive.com/pages/harassment.aspx",
+    "url": "https://vslive.com/events/las-vegas-2023/home.aspx",
+    "locales": "EN"
+  },
+  {
     "name": "Apprise Conf",
     "url": "https://appriseconf.com",
     "startDate": "2023-03-23",
@@ -64,6 +76,14 @@
     "cfpEndDate": "2023-01-17",
     "twitter": "@wasm_io",
     "cocUrl": "https://wasmio.tech/coc"
+  },
+  {
+    "name": "test",
+    "startDate": "2023-04-11",
+    "endDate": "2023-04-13",
+    "online": true,
+    "url": "https://test.com",
+    "locales": "EN"
   },
   {
     "name": "dotnetdays",
@@ -128,18 +148,6 @@
     "cfpEndDate": "2023-07-19",
     "twitter": "@WeAreDevs",
     "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form.",
-    "locales": "EN"
-  },
-  {
-    "name": "Visual Studio Live! Las Vegas",
-    "startDate": "2023-03-19",
-    "endDate": "2023-03-24",
-    "city": "Las Vegas, NV",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@VSLive",
-    "cocUrl": "https://vslive.com/pages/harassment.aspx",
-    "url": "https://vslive.com/events/las-vegas-2023/home.aspx",
     "locales": "EN"
   }
 ]
