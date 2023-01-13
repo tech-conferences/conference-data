@@ -62,6 +62,20 @@
     "cocUrl": "https://qconferences.com/code-conduct"
   },
   {
+    "name": "Django Day Copenhagen",
+    "startDate": "2023-04-14",
+    "endDate": "2023-04-14",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "online": false,
+    "cfpUrl": "https://2023.djangoday.dk/cfp",
+    "cfpEndDate": "2023-02-28",
+    "twitter": "@djangodenmark",
+    "cocUrl": "https://2023.djangoday.dk/conduct/",
+    "url": "https://2023.djangoday.dk",
+    "locales": "EN"
+  },
+  {
     "name": "PyCon DE & PyData Berlin",
     "url": "https://2023.pycon.de",
     "startDate": "2023-04-17",
