@@ -297,8 +297,11 @@
     "endDate": "2023-04-13",
     "city": "Raleigh, NC",
     "country": "U.S.A.",
-    "online": true,
+    "online": false,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScM9ki8DOJqmcRSKhXVgk_pb5dXfFra5ECsN1tlXO-UcF3xNQ/viewform",
+    "cfpEndDate": "2023-01-30",
     "twitter": "@DevOpsDaysRDU",
+    "linkedin": https://www.linkedin.com/company/devopsdays-raleigh
     "cocUrl": "https://devopsdays.org/events/2023-raleigh/conduct",
     "locales": "EN"
   },
@@ -529,7 +532,7 @@
     "endDate": "2023-10-18",
     "city": "Raleigh, NC",
     "country": "U.S.A.",
-    "online": true,
+    "online": false,
     "twitter": "@AllThingsOpen",
     "locales": "EN"
   },
