@@ -38,6 +38,20 @@
     "cocUrl": "https://www.conf42.com/code-of-conduct"
   },
   {
+    "name": "PyCascades",
+    "url": "https://2023.pycascades.com/",
+    "startDate": "2023-03-18",
+    "endDate": "2023-03-20",
+    "city": "Vancouver",
+    "country": "Canada",
+    "online": false,
+    "cfpUrl": "https://pretalx.com/pycascades-2023/cfp",
+    "cfpEndDate": "2022-11-30",
+    "twitter": "@pycascades",
+    "cocUrl": "https://2023.pycascades.com/about/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "Wasm I/O",
     "url": "https://wasmio.tech",
     "startDate": "2023-03-23",

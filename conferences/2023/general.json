@@ -386,6 +386,19 @@
     "url": "https://www.devconf.co.za/pretoria",
     "locales": "EN"
   },
+    "name": "Dev Conf Cape Town",
+    "startDate": "2023-05-23",
+    "endDate": "2023-05-23",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/devconf-2023",
+    "cfpEndDate": "2023-01-17",
+    "twitter": "@devconfza",
+    "cocUrl": "https://www.devconf.co.za/codeofconduct",
+    "url": "https://www.devconf.co.za/capetown",
+    "locales": "EN"
+  },
   {
     "name": "North American Technology Executive Summit",
     "url": "https://cto-summit.com",
@@ -551,6 +564,17 @@
     "endDate": "2023-10-22",
     "online": true,
     "twitter": "@globalbbt",
+    "locales": "EN"
+  },
+  {
+    "name": "DevTernity",
+    "startDate": "2023-12-07",
+    "endDate": "2023-12-08",
+    "online": true,
+    "twitter": "@devternity",
+    "cocUrl": "https://devternity.com/coc.html",
+    "offersSignLanguageOrCC": true,
+    "url": "https://devternity.com",
     "locales": "EN"
   }
 ]
