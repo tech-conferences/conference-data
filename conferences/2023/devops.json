@@ -388,6 +388,18 @@
     "cocUrl": "https://devopsdays.org/events/2023-zurich/conduct"
   },
   {
+    "name": "KubeHuddle",
+    "startDate": "2023-05-17",
+    "endDate": "2023-05-18",
+    "city": "Toronto",
+    "country": "Canada",
+    "online": false,
+    "twitter": "@kubehuddle",
+    "cocUrl": "https://kubehuddle.com/code-of-conduct/",
+    "url": "https://kubehuddle.com/2023",
+    "locales": "EN"
+  },
+  {
     "name": "DrupalCon",
     "url": "https://events.drupal.org/drupalcon",
     "startDate": "2023-06-05",
