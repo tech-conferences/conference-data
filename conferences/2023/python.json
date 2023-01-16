@@ -1,5 +1,18 @@
 [
   {
+    "name": "PyCon Namibia",
+    "startDate": "2023-02-21",
+    "endDate": "2023-02-23",
+    "city": "Windhoek",
+    "country": "Namibia",
+    "online": false,
+    "cfpUrl": "https://na.pycon.org/call-proposals",
+    "cfpEndDate": "2023-01-22",
+    "cocUrl": "https://na.pycon.org/code-of-conduct/",
+    "url": "https://na.pycon.org",
+    "locales": "EN"
+  },
+  {
     "name": "ConFoo",
     "url": "https://confoo.ca/en/2023",
     "startDate": "2023-02-22",

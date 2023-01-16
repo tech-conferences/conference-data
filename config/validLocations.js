@@ -353,6 +353,9 @@ module.exports = {
     "Casablanca",
     "Taghazout, Agadir"
   ],
+  "Namibia": [
+    "Windhoek"
+  ],
   "Nepal": [
     "Bharatpur",
     "Kathmandu"
