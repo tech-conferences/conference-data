@@ -467,6 +467,7 @@ module.exports = {
   ],
   "South Africa": [
     "Cape Town",
+    "Pretoria",
     "Johannesburg"
   ],
   "South Korea": [
