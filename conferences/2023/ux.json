@@ -11,6 +11,18 @@
     "locales": "EN"
   },
   {
+    "name": "UX New Zealand",
+    "startDate": "2023-02-15",
+    "endDate": "2023-02-17",
+    "city": "Wellington",
+    "country": "New Zealand",
+    "online": true,
+    "twitter": "@uxnewzealand",
+    "cocUrl": "https://www.uxnewzealand.com/code-of-conduct",
+    "url": "https://www.uxnewzealand.com",
+    "locales": "EN"
+  },
+  {
     "name": "ConFoo",
     "url": "https://confoo.ca/en/2023",
     "startDate": "2023-02-22",
@@ -160,6 +172,17 @@
     "cfpEndDate": "2023-04-25",
     "locales": "EN",
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "SmashingConf Freiburg",
+    "startDate": "2023-09-04",
+    "endDate": "2023-09-06",
+    "city": "Freiburg",
+    "country": "Germany",
+    "online": false,
+    "cocUrl": "https://smashingconf.com/codeofconduct",
+    "url": "https://smashingconf.com/freiburg-2023",
+    "locales": "EN"
   },
   {
     "name": "Hatch Conference",
