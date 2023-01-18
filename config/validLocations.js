@@ -353,6 +353,9 @@ module.exports = {
     "Casablanca",
     "Taghazout, Agadir"
   ],
+  "Namibia": [
+    "Windhoek"
+  ],
   "Nepal": [
     "Bharatpur",
     "Kathmandu"
@@ -467,6 +470,7 @@ module.exports = {
   ],
   "South Africa": [
     "Cape Town",
+    "Pretoria",
     "Johannesburg"
   ],
   "South Korea": [
@@ -624,6 +628,7 @@ module.exports = {
     "Islandia, NY",
     "Jackson, MS",
     "Jacksonville Beach, FL",
+    "Kansas City, KS",
     "Kansas City, MO",
     "Knoxville, TN",
     "La Jolla, CA",

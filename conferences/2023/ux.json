@@ -11,6 +11,18 @@
     "locales": "EN"
   },
   {
+    "name": "UX New Zealand",
+    "startDate": "2023-02-15",
+    "endDate": "2023-02-17",
+    "city": "Wellington",
+    "country": "New Zealand",
+    "online": true,
+    "twitter": "@uxnewzealand",
+    "cocUrl": "https://www.uxnewzealand.com/code-of-conduct",
+    "url": "https://www.uxnewzealand.com",
+    "locales": "EN"
+  },
+  {
     "name": "ConFoo",
     "url": "https://confoo.ca/en/2023",
     "startDate": "2023-02-22",
@@ -61,6 +73,17 @@
     "online": false,
     "twitter": "@QCon",
     "cocUrl": "https://qconferences.com/code-conduct"
+  },
+  {
+    "name": "ConveyUX",
+    "url": "https://conveyux.com",
+    "startDate": "2023-05-02",
+    "endDate": "2023-05-04",
+    "online": true,
+    "twitter": "@conveyux",
+    "cocUrl": "https://conveyux.com/code-of-conduct/",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "Design It. Build It. (DIBI)",
@@ -151,6 +174,17 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "SmashingConf Freiburg",
+    "startDate": "2023-09-04",
+    "endDate": "2023-09-06",
+    "city": "Freiburg",
+    "country": "Germany",
+    "online": false,
+    "cocUrl": "https://smashingconf.com/codeofconduct",
+    "url": "https://smashingconf.com/freiburg-2023",
+    "locales": "EN"
+  },
+  {
     "name": "Hatch Conference",
     "url": "https://www.hatchconference.com",
     "startDate": "2023-10-05",
@@ -178,16 +212,5 @@
     "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
     "locales": "EN",
     "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "ConveyUX",
-    "startDate": "2023-05-02",
-    "endDate": "2023-05-04",
-    "online": true,
-    "twitter": "@conveyux",
-    "cocUrl": "https://conveyux.com/code-of-conduct/",
-    "offersSignLanguageOrCC": true,
-    "url": "https://conveyux.com",
-    "locales": "EN"
   }
 ]

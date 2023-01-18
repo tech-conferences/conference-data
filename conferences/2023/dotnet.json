@@ -39,6 +39,18 @@
     "cocUrl": "https://confoo.ca/en/code-of-conduct"
   },
   {
+    "name": "Visual Studio Live! Las Vegas",
+    "url": "https://vslive.com/events/las-vegas-2023/home.aspx",
+    "startDate": "2023-03-19",
+    "endDate": "2023-03-24",
+    "city": "Las Vegas, NV",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@VSLive",
+    "cocUrl": "https://vslive.com/pages/harassment.aspx",
+    "locales": "EN"
+  },
+  {
     "name": "Apprise Conf",
     "url": "https://appriseconf.com",
     "startDate": "2023-03-23",
@@ -91,6 +103,32 @@
     "locales": "EN"
   },
   {
+    "name": "Scenic City Summit",
+    "url": "https://sceniccitysummit.com",
+    "startDate": "2023-06-02",
+    "endDate": "2023-06-02",
+    "city": "Chattanooga, TN",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "http://sessionize.com/scenic-city-summit-2023",
+    "cfpEndDate": "2023-03-01",
+    "twitter": "@ScenicSummit",
+    "cocUrl": "https://sceniccitysummit.com/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
+    "name": "DevOpsCon Berlin",
+    "url": "https://devopscon.io/berlin",
+    "startDate": "2023-06-12",
+    "endDate": "2023-06-15",
+    "online": true,
+    "cfpUrl": "https://callforpapers.sandsmedia.com",
+    "cfpEndDate": "2023-01-11",
+    "twitter": "@devops_con",
+    "cocUrl": "https://devopscon.io/code-of-conduct-de/",
+    "locales": "EN"
+  },
+  {
     "name": "WeAreDevelopers World Congress",
     "url": "https://www.wearedevelopers.com/world-congress",
     "startDate": "2023-07-27",
@@ -105,29 +143,26 @@
     "locales": "EN"
   },
   {
-    "name": "Scenic City Summit",
-    "startDate": "2023-06-02",
-    "endDate": "2023-06-02",
-    "city": "Chattanooga, TN",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "http://sessionize.com/scenic-city-summit-2023",
-    "cfpEndDate": "2023-03-01",
-    "twitter": "@ScenicSummit",
-    "cocUrl": "https://sceniccitysummit.com/code-of-conduct/",
-    "url": "https://sceniccitysummit.com",
+    "name": "Update Conference Prague",
+    "startDate": "2023-11-22",
+    "endDate": "2023-11-23",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "online": true,
+    "twitter": "@update_conf",
+    "cocUrl": "https://www.updateconference.net/en/code-of-conduct",
+    "url": "https://www.updateconference.net",
     "locales": "EN"
   },
   {
-    "name": "DevOpsCon Berlin",
-    "startDate": "2023-06-12",
-    "endDate": "2023-06-15",
+    "name": "DevTernity",
+    "startDate": "2023-12-07",
+    "endDate": "2023-12-08",
     "online": true,
-    "cfpUrl": "https://callforpapers.sandsmedia.com",
-    "cfpEndDate": "2023-01-11",
-    "twitter": "@devops_con",
-    "cocUrl": "https://devopscon.io/code-of-conduct-de/",
-    "url": "https://devopscon.io/berlin",
+    "twitter": "@devternity",
+    "cocUrl": "https://devternity.com/coc.html",
+    "offersSignLanguageOrCC": true,
+    "url": "https://devternity.com",
     "locales": "EN"
   }
 ]

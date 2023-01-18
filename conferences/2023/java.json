@@ -80,6 +80,20 @@
     "cocUrl": "https://www.javaland.eu/de/verhaltenscodex/"
   },
   {
+    "name": "Voxxed Days Bucharest",
+    "startDate": "2023-03-22",
+    "endDate": "2023-03-24",
+    "city": "Bucharest",
+    "country": "Romania",
+    "online": false,
+    "cfpUrl": "https://vdbuh23.cfp.dev/#",
+    "cfpEndDate": "2023-01-15",
+    "twitter": "@VoxxedBucharest",
+    "cocUrl": "https://romania.voxxeddays.com",
+    "url": "https://romania.voxxeddays.com/voxxed-days-bucharest-2023",
+    "locales": "EN"
+  },
+  {
     "name": "Azure Cosmos Conf",
     "url": "https://aka.ms/AzureCosmosDBConf",
     "startDate": "2023-03-28",
@@ -153,6 +167,20 @@
     "cocUrl": "https://www.devoxx.co.uk/code-of-conduct/"
   },
   {
+    "name": "I Code Java Cape Town",
+    "startDate": "2023-05-10",
+    "endDate": "2023-05-11",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScpi9ZE3FKDai5fiXvtanqe_N5PgTUItp030zbS0Q5QM-IA7g/viewform",
+    "cfpEndDate": "2023-02-05",
+    "twitter": "@JavaAfrica",
+    "cocUrl": "https://j-sa.co/code-of-conduct/",
+    "url": "https://j-sa.co",
+    "locales": "EN"
+  },
+  {
     "name": "JCON OpenBlend Slovenia",
     "url": "https://slovenia.jcon.one/en",
     "startDate": "2023-06-01",
@@ -191,6 +219,31 @@
     "cfpEndDate": "2023-07-19",
     "twitter": "@WeAreDevs",
     "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form.",
+    "locales": "EN"
+  },
+  {
+    "name": "I Code Java Johannesburg",
+    "startDate": "2023-10-11",
+    "endDate": "2023-10-12",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScpi9ZE3FKDai5fiXvtanqe_N5PgTUItp030zbS0Q5QM-IA7g/viewform",
+    "cfpEndDate": "2023-02-05",
+    "twitter": "@JavaAfrica",
+    "cocUrl": "https://j-sa.co/code-of-conduct/",
+    "url": "https://j-sa.co",
+    "locales": "EN"
+  },
+  {
+    "name": "DevTernity",
+    "startDate": "2023-12-07",
+    "endDate": "2023-12-08",
+    "online": true,
+    "twitter": "@devternity",
+    "cocUrl": "https://devternity.com/coc.html",
+    "offersSignLanguageOrCC": true,
+    "url": "https://devternity.com",
     "locales": "EN"
   }
 ]

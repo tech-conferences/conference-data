@@ -1,5 +1,17 @@
 [
   {
+    "name": "NDC Security",
+    "url": "https://ndc-security.com",
+    "startDate": "2023-01-15",
+    "endDate": "2023-01-18",
+    "city": "Oslo",
+    "country": "Norway",
+    "online": false,
+    "twitter": "@NDC_Conferences",
+    "cocUrl": "https://ndc-security.com/code-of-conduct",
+    "locales": "EN"
+  },
+  {
     "name": "CloudNativeSecurityCon",
     "url": "https://events.linuxfoundation.org/cloudnativesecuritycon-north-america",
     "startDate": "2023-02-01",
@@ -39,6 +51,28 @@
     "cocUrl": "https://nullcon.net/about-conferencepolicy/"
   },
   {
+    "name": "OC3",
+    "startDate": "2023-03-15",
+    "endDate": "2023-03-15",
+    "online": true,
+    "cfpUrl": "https://www.oc3.dev/program",
+    "cfpEndDate": "2022-12-15",
+    "twitter": "@EdgelessSystems",
+    "cocUrl": "https://www.oc3.dev/code-of-conduct",
+    "url": "https://www.oc3.dev",
+    "locales": "EN"
+  },
+  {
+    "name": "Nigeria Cybersecurity Summit",
+    "startDate": "2023-03-16",
+    "endDate": "2023-03-17",
+    "city": "Lagos",
+    "country": "Nigeria",
+    "online": false,
+    "url": "https://nigeriacybersecuritysummit.com",
+    "locales": "EN"
+  },
+  {
     "name": "SREcon Americas",
     "url": "https://www.usenix.org/conference/srecon23americas",
     "startDate": "2023-03-21",
@@ -50,6 +84,20 @@
     "cfpEndDate": "2022-12-01",
     "twitter": "@srecon",
     "cocUrl": "https://www.usenix.org/conferences/coc",
+    "locales": "EN"
+  },
+  {
+    "name": "Voxxed Days Bucharest",
+    "startDate": "2023-03-22",
+    "endDate": "2023-03-24",
+    "city": "Bucharest",
+    "country": "Romania",
+    "online": false,
+    "cfpUrl": "https://vdbuh23.cfp.dev/#",
+    "cfpEndDate": "2023-01-15",
+    "twitter": "@VoxxedBucharest",
+    "cocUrl": "https://romania.voxxeddays.com",
+    "url": "https://romania.voxxeddays.com/voxxed-days-bucharest-2023",
     "locales": "EN"
   },
   {
@@ -216,17 +264,5 @@
     "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
     "locales": "EN",
     "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "NDC Security",
-    "startDate": "2023-01-15",
-    "endDate": "2023-01-18",
-    "city": "Oslo",
-    "country": "Norway",
-    "online": false,
-    "twitter": "@NDC_Conferences",
-    "cocUrl": "https://ndc-security.com/code-of-conduct",
-    "url": "https://ndc-security.com",
-    "locales": "EN"
   }
 ]

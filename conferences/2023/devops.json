@@ -33,6 +33,18 @@
     "locales": "FR"
   },
   {
+    "name": "Civo Navigate",
+    "url": "https://www.civo.com/navigate",
+    "startDate": "2023-02-07",
+    "endDate": "2023-02-08",
+    "city": "Tampa, FL",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@CivoCloud",
+    "cocUrl": "https://www.civo.com/navigate/code-of-conduct",
+    "locales": "EN"
+  },
+  {
     "name": "Config Mgmt Camp",
     "url": "https://cfgmgmtcamp.eu/ghent2023/",
     "startDate": "2023-02-07",
@@ -68,6 +80,17 @@
     "cfpUrl": "https://devopsasiasummit.com/devops-asia-summit-2023",
     "cfpEndDate": "2022-11-30",
     "cocUrl": "https://devopsasiasummit.com/devops-asia-summit-2023/"
+  },
+  {
+    "name": "WeAreDevelopers DevOps Day",
+    "url": "https://www.wearedevelopers.com/event/devops-day-february-2023",
+    "startDate": "2023-02-15",
+    "endDate": "2023-02-15",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/wearedevelopers-live-2023",
+    "cfpEndDate": "2023-02-14",
+    "twitter": "@WeAreDevs",
+    "locales": "EN"
   },
   {
     "name": "HashiTalks",
@@ -147,6 +170,42 @@
     "twitter": "@devopsdaysslc"
   },
   {
+    "name": "OC3",
+    "startDate": "2023-03-15",
+    "endDate": "2023-03-15",
+    "online": true,
+    "cfpUrl": "https://www.oc3.dev/program",
+    "cfpEndDate": "2022-12-15",
+    "twitter": "@EdgelessSystems",
+    "cocUrl": "https://www.oc3.dev/code-of-conduct",
+    "url": "https://www.oc3.dev",
+    "locales": "EN"
+  },
+  {
+    "name": "DevOps fwdays",
+    "url": "https://fwdays.com/en/event/devops-fwdays-2023",
+    "startDate": "2023-03-18",
+    "endDate": "2023-03-18",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSea0CUkTdMBsz86YiEyYmq1KfhQNrRwuIAfqnOfVkWoJ2CPaw/viewform",
+    "cfpEndDate": "2023-02-10",
+    "twitter": "@fwdays",
+    "cocUrl": "https://fwdays.com/en/page/code-of-conduct",
+    "locales": "EN,UK"
+  },
+  {
+    "name": "Visual Studio Live! Las Vegas",
+    "url": "https://vslive.com/events/las-vegas-2023/home.aspx",
+    "startDate": "2023-03-19",
+    "endDate": "2023-03-24",
+    "city": "Las Vegas, NV",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@VSLive",
+    "cocUrl": "https://vslive.com/pages/harassment.aspx",
+    "locales": "EN"
+  },
+  {
     "name": "Java Land",
     "url": "https://www.javaland.eu",
     "startDate": "2023-03-21",
@@ -164,6 +223,20 @@
     "endDate": "2023-03-23",
     "online": true,
     "twitter": "@eficode",
+    "locales": "EN"
+  },
+  {
+    "name": "Voxxed Days Bucharest",
+    "startDate": "2023-03-22",
+    "endDate": "2023-03-24",
+    "city": "Bucharest",
+    "country": "Romania",
+    "online": false,
+    "cfpUrl": "https://vdbuh23.cfp.dev/#",
+    "cfpEndDate": "2023-01-15",
+    "twitter": "@VoxxedBucharest",
+    "cocUrl": "https://romania.voxxeddays.com",
+    "url": "https://romania.voxxeddays.com/voxxed-days-bucharest-2023",
     "locales": "EN"
   },
   {
@@ -230,6 +303,18 @@
     "cocUrl": "https://devopsdays.org/events/2023-nashville/conduct"
   },
   {
+    "name": "DevOps Days Raleigh",
+    "url": "https://devopsdays.org/events/2023-raleigh/welcome",
+    "startDate": "2023-04-12",
+    "endDate": "2023-04-13",
+    "city": "Raleigh, NC",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@DevOpsDaysRDU",
+    "cocUrl": "https://devopsdays.org/events/2023-raleigh/conduct",
+    "locales": "EN"
+  },
+  {
     "name": "KubeCon + CloudNativeCon Europe",
     "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe",
     "startDate": "2023-04-17",
@@ -269,7 +354,7 @@
   },
   {
     "name": "Devopsdays Birmingham, AL",
-    "url": "https://devopsdays.org/events/2023-nashville/welcome/",
+    "url": "https://devopsdays.org/events/2023-birmingham-al/welcome/",
     "startDate": "2023-04-20",
     "endDate": "2023-04-21",
     "city": "Birmingham, AL",
@@ -315,6 +400,17 @@
     "cocUrl": "https://devopsdays.org/events/2023-zurich/conduct"
   },
   {
+    "name": "KubeHuddle",
+    "url": "https://kubehuddle.com/2023/",
+    "startDate": "2023-05-17",
+    "endDate": "2023-05-18",
+    "online": false,
+    "city": "Toronto",
+    "country": "Canada",
+    "twitter": "@kubehuddle",
+    "cocUrl": "https://kubehuddle.com/code-of-conduct/"
+  },
+  {
     "name": "DrupalCon",
     "url": "https://events.drupal.org/drupalcon",
     "startDate": "2023-06-05",
@@ -326,6 +422,52 @@
     "cocUrl": "https://events.drupal.org/code-conduct",
     "locales": "EN",
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "INTEGRATE",
+    "startDate": "2023-06-05",
+    "endDate": "2023-06-07",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "offersSignLanguageOrCC": true,
+    "url": "https://www.serverless360.com/integrate-2023",
+    "locales": "EN"
+  },
+  {
+    "name": "PlatformCon",
+    "startDate": "2023-06-08",
+    "endDate": "2023-06-09",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/platformcon-2023",
+    "cfpEndDate": "2023-02-28",
+    "cocUrl": "https://platformcon.com/code-of-conduct",
+    "url": "https://platformcon.com",
+    "locales": "EN"
+  },
+  {
+    "name": "DevOpsCon",
+    "url": "https://devopscon.io/berlin",
+    "startDate": "2023-06-12",
+    "endDate": "2023-06-15",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@devops_con",
+    "cocUrl": "https://devopscon.io/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
+    "name": "DevOpsCon Berlin",
+    "url": "https://devopscon.io/berlin",
+    "startDate": "2023-06-12",
+    "endDate": "2023-06-15",
+    "online": true,
+    "cfpUrl": "https://callforpapers.sandsmedia.com",
+    "cfpEndDate": "2023-01-11",
+    "twitter": "@devops_con",
+    "cocUrl": "https://devopscon.io/code-of-conduct-de/",
+    "locales": "EN"
   },
   {
     "name": "AgileTD Open Air",
@@ -426,6 +568,17 @@
     "twitter": "@devopsdaysindy"
   },
   {
+    "name": "All Things Open",
+    "url": "https://www.allthingsopen.org",
+    "startDate": "2023-10-15",
+    "endDate": "2023-10-18",
+    "city": "Raleigh, NC",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@AllThingsOpen",
+    "locales": "EN"
+  },
+  {
     "name": "KubeCon + CloudNativeCon North America",
     "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2023",
     "startDate": "2023-11-06",
@@ -445,64 +598,5 @@
     "cfpEndDate": "2023-10-30",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
-  },
-  {
-    "name": "DevOpsCon Berlin",
-     "startDate": "2023-06-12",
-     "endDate": "2023-06-15",
-     "online": true,
-     "cfpUrl": "https://callforpapers.sandsmedia.com",
-     "cfpEndDate": "2023-01-11",
-     "twitter": "@devops_con",
-     "cocUrl": "https://devopscon.io/code-of-conduct-de/",
-     "url": "https://devopscon.io/berlin",
-     "locales": "EN"
-  },
-  {
-    "name": "WeAreDevelopers DevOps Day",
-    "startDate": "2023-02-15",
-    "endDate": "2023-02-15",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/wearedevelopers-live-2023",
-    "cfpEndDate": "2023-02-14",
-    "twitter": "@WeAreDevs",
-    "url": "https://www.wearedevelopers.com/event/devops-day-february-2023",
-    "locales": "EN"
-  },
-  {
-    "name": "Civo Navigate",
-    "startDate": "2023-02-07",
-    "endDate": "2023-02-08",
-    "city": "Tampa, FL",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@CivoCloud",
-    "cocUrl": "https://www.civo.com/navigate/code-of-conduct",
-    "url": "https://www.civo.com/navigate",
-    "locales": "EN"
-  },
-  {
-    "name": "DevOps fwdays",
-    "startDate": "2023-03-18",
-    "endDate": "2023-03-18",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSea0CUkTdMBsz86YiEyYmq1KfhQNrRwuIAfqnOfVkWoJ2CPaw/viewform",
-    "cfpEndDate": "2023-02-10",
-    "twitter": "@fwdays",
-    "cocUrl": "https://fwdays.com/en/page/code-of-conduct",
-    "url": "https://fwdays.com/en/event/devops-fwdays-2023",
-    "locales": "EN,UK"
-  },
-  {
-    "name": "DevOpsCon",
-    "startDate": "2023-06-12",
-    "endDate": "2023-06-15",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@devops_con",
-    "cocUrl": "https://devopscon.io/code-of-conduct/",
-    "url": "https://devopscon.io/berlin",
-    "locales": "EN"
   }
 ]

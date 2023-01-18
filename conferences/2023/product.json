@@ -14,6 +14,18 @@
     "locales": "EN"
   },
   {
+    "name": "OC3",
+    "startDate": "2023-03-15",
+    "endDate": "2023-03-15",
+    "online": true,
+    "cfpUrl": "https://www.oc3.dev/program",
+    "cfpEndDate": "2022-12-15",
+    "twitter": "@EdgelessSystems",
+    "cocUrl": "https://www.oc3.dev/code-of-conduct",
+    "url": "https://www.oc3.dev",
+    "locales": "EN"
+  },
+  {
     "name": "The Product Conference",
     "url": "http://INDUSTRYconference.com/europe",
     "startDate": "2023-03-20",
@@ -68,6 +80,29 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "PlatformCon",
+    "startDate": "2023-06-08",
+    "endDate": "2023-06-09",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/platformcon-2023",
+    "cfpEndDate": "2023-02-28",
+    "cocUrl": "https://platformcon.com/code-of-conduct",
+    "url": "https://platformcon.com",
+    "locales": "EN"
+  },
+  {
+    "name": "Conversational AI & customer experience Summit",
+    "url": "https://conversationaltechsummit.com",
+    "startDate": "2023-06-15",
+    "endDate": "2023-06-16",
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "online": false,
+    "cocUrl": "https://conversationaltechsummit.com/",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "WeAreDevelopers World Congress",
     "url": "https://www.wearedevelopers.com/world-congress",
     "startDate": "2023-07-27",
@@ -106,17 +141,5 @@
     "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
     "locales": "EN",
     "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "Conversational AI & customer experience Summit",
-    "startDate": "2023-06-15",
-    "endDate": "2023-06-16",
-    "city": "Kuala Lumpur",
-    "country": "Malaysia",
-    "online": false,
-    "cocUrl": "https://conversationaltechsummit.com/",
-    "offersSignLanguageOrCC": true,
-    "url": "https://conversationaltechsummit.com",
-    "locales": "EN"
   }
 ]
