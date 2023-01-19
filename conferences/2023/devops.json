@@ -170,6 +170,18 @@
     "twitter": "@devopsdaysslc"
   },
   {
+    "name": "OC3",
+    "startDate": "2023-03-15",
+    "endDate": "2023-03-15",
+    "online": true,
+    "cfpUrl": "https://www.oc3.dev/program",
+    "cfpEndDate": "2022-12-15",
+    "twitter": "@EdgelessSystems",
+    "cocUrl": "https://www.oc3.dev/code-of-conduct",
+    "url": "https://www.oc3.dev",
+    "locales": "EN"
+  },
+  {
     "name": "DevOps fwdays",
     "url": "https://fwdays.com/en/event/devops-fwdays-2023",
     "startDate": "2023-03-18",
@@ -262,6 +274,18 @@
     "cfpEndDate": "2023-02-28",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
+  },
+  {
+    "name": "DevOps Global Summit",
+    "startDate": "2023-04-04",
+    "endDate": "2023-04-05",
+    "online": true,
+    "cfpUrl": "https://forms.gle/Zy7vAnxYcLYdD8UcA",
+    "cfpEndDate": "2023-03-03",
+    "twitter": "@GeekleOfficial",
+    "offersSignLanguageOrCC": true,
+    "url": "https://events.geekle.us/devops23",
+    "locales": "EN"
   },
   {
     "name": "Develop",
@@ -400,6 +424,18 @@
     "cocUrl": "https://kubehuddle.com/code-of-conduct/"
   },
   {
+    "name": "DevOps Days Baltimore",
+    "startDate": "2023-05-23",
+    "endDate": "2023-05-24",
+    "city": "Baltimore, MD",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@DevOpsDaysBmore",
+    "cocUrl": "https://devopsdays.org/events/2023-baltimore/conduct",
+    "url": "https://devopsdays.org/events/2023-baltimore",
+    "locales": "EN"
+  },
+  {
     "name": "DrupalCon",
     "url": "https://events.drupal.org/drupalcon",
     "startDate": "2023-06-05",
@@ -411,6 +447,17 @@
     "cocUrl": "https://events.drupal.org/code-conduct",
     "locales": "EN",
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "INTEGRATE",
+    "startDate": "2023-06-05",
+    "endDate": "2023-06-07",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "offersSignLanguageOrCC": true,
+    "url": "https://www.serverless360.com/integrate-2023",
+    "locales": "EN"
   },
   {
     "name": "PlatformCon",

@@ -91,6 +91,16 @@
     "locales": "EN,UK"
   },
   {
+    "name": "AFUP Day",
+    "startDate": "2023-05-12",
+    "endDate": "2023-05-12",
+    "city": "Lyon",
+    "country": "France",
+    "online": false,
+    "url": "https://event.afup.org",
+    "locales": "FR"
+  },
+  {
     "name": "phpday",
     "url": "https://2023.phpday.it",
     "startDate": "2023-05-18",
