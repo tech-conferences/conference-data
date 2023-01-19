@@ -373,20 +373,6 @@
     "cocUrl": "https://devdays.lt/code-of-conduct/"
   },
   {
-    "name": "Dev Conf Pretoria",
-    "startDate": "2023-05-25",
-    "endDate": "2023-05-25",
-    "city": "Pretoria",
-    "country": "South Africa",
-    "online": false,
-    "cfpUrl": "https://sessionize.com/devconf-2023",
-    "cfpEndDate": "2023-01-17",
-    "twitter": "@devconfza",
-    "cocUrl": "https://www.devconf.co.za/codeofconduct",
-    "url": "https://www.devconf.co.za/pretoria",
-    "locales": "EN"
-  },
-  {
     "name": "Dev Conf Cape Town",
     "startDate": "2023-05-23",
     "endDate": "2023-05-23",
@@ -398,6 +384,20 @@
     "twitter": "@devconfza",
     "cocUrl": "https://www.devconf.co.za/codeofconduct",
     "url": "https://www.devconf.co.za/capetown",
+    "locales": "EN"
+  },
+  {
+    "name": "Dev Conf Pretoria",
+    "startDate": "2023-05-25",
+    "endDate": "2023-05-25",
+    "city": "Pretoria",
+    "country": "South Africa",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/devconf-2023",
+    "cfpEndDate": "2023-01-17",
+    "twitter": "@devconfza",
+    "cocUrl": "https://www.devconf.co.za/codeofconduct",
+    "url": "https://www.devconf.co.za/pretoria",
     "locales": "EN"
   },
   {
@@ -489,6 +489,19 @@
     "city": "Portland, OR",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN"
+  },
+  {
+    "name": "International Conference On Nephrology",
+    "startDate": "2023-07-24",
+    "endDate": "2023-07-25",
+    "city": "Paris",
+    "country": "France",
+    "online": false,
+    "cfpUrl": "https://www.keynoteconnect.org/upcoming-conferences/nephrology/abstract-submission.html",
+    "cfpEndDate": "2023-05-31",
+    "cocUrl": "https://www.keynoteconnect.org/upcoming-conferences/nephrology.html",
+    "url": "https://www.keynoteconnect.org/upcoming-conferences/nephrology.html",
     "locales": "EN"
   },
   {
