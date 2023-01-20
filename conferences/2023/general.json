@@ -142,6 +142,17 @@
     "cocUrl": "https://confoo.ca/en/code-of-conduct"
   },
   {
+    "name": "International Conference On Advances In Intelligent Systems and Computing",
+    "startDate": "2023-02-27",
+    "endDate": "2023-02-28",
+    "online": true,
+    "cfpUrl": "http://www.labtechinnovations.com/events/confernce/ICAISC/call-for-paper.php",
+    "cfpEndDate": "2023-02-15",
+    "offersSignLanguageOrCC": true,
+    "url": "http://www.labtechinnovations.com/events/confernce/ICAISC/index.php",
+    "locales": "EN"
+  },
+  {
     "name": "WeAreDevelopers Women in Tech Day",
     "url": "https://www.wearedevelopers.com/event/women-in-tech-day-march-2023",
     "startDate": "2023-03-08",
@@ -373,20 +384,6 @@
     "cocUrl": "https://devdays.lt/code-of-conduct/"
   },
   {
-    "name": "Dev Conf Pretoria",
-    "startDate": "2023-05-25",
-    "endDate": "2023-05-25",
-    "city": "Pretoria",
-    "country": "South Africa",
-    "online": false,
-    "cfpUrl": "https://sessionize.com/devconf-2023",
-    "cfpEndDate": "2023-01-17",
-    "twitter": "@devconfza",
-    "cocUrl": "https://www.devconf.co.za/codeofconduct",
-    "url": "https://www.devconf.co.za/pretoria",
-    "locales": "EN"
-  },
-  {
     "name": "Dev Conf Cape Town",
     "startDate": "2023-05-23",
     "endDate": "2023-05-23",
@@ -398,6 +395,20 @@
     "twitter": "@devconfza",
     "cocUrl": "https://www.devconf.co.za/codeofconduct",
     "url": "https://www.devconf.co.za/capetown",
+    "locales": "EN"
+  },
+  {
+    "name": "Dev Conf Pretoria",
+    "startDate": "2023-05-25",
+    "endDate": "2023-05-25",
+    "city": "Pretoria",
+    "country": "South Africa",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/devconf-2023",
+    "cfpEndDate": "2023-01-17",
+    "twitter": "@devconfza",
+    "cocUrl": "https://www.devconf.co.za/codeofconduct",
+    "url": "https://www.devconf.co.za/pretoria",
     "locales": "EN"
   },
   {
