@@ -12,6 +12,7 @@
   },
   {
     "name": "UX New Zealand",
+    "url": "https://www.uxnewzealand.com",
     "startDate": "2023-02-15",
     "endDate": "2023-02-17",
     "city": "Wellington",
@@ -19,7 +20,6 @@
     "online": true,
     "twitter": "@uxnewzealand",
     "cocUrl": "https://www.uxnewzealand.com/code-of-conduct",
-    "url": "https://www.uxnewzealand.com",
     "locales": "EN"
   },
   {
@@ -37,6 +37,7 @@
   },
   {
     "name": "Frontrunners",
+    "url": "https://frontrunners.tech",
     "startDate": "2023-03-10",
     "endDate": "2023-03-10",
     "city": "Arlington, VA",
@@ -44,7 +45,6 @@
     "online": false,
     "twitter": "@frontrunnersdc",
     "cocUrl": "https://frontrunners.tech/policies/conduct.html",
-    "url": "https://frontrunners.tech",
     "locales": "EN"
   },
   {
@@ -99,13 +99,13 @@
   },
   {
     "name": "DDX Conference",
+    "url": "https://www.designdrives.org/conference",
     "startDate": "2023-05-06",
     "endDate": "2023-05-06",
     "city": "Munich",
     "country": "Germany",
     "online": false,
     "twitter": "@design_drives",
-    "url": "https://www.designdrives.org/conference",
     "locales": "EN"
   },
   {
@@ -198,13 +198,13 @@
   },
   {
     "name": "SmashingConf Freiburg",
+    "url": "https://smashingconf.com/freiburg-2023",
     "startDate": "2023-09-04",
     "endDate": "2023-09-06",
     "city": "Freiburg",
     "country": "Germany",
     "online": false,
     "cocUrl": "https://smashingconf.com/codeofconduct",
-    "url": "https://smashingconf.com/freiburg-2023",
     "locales": "EN"
   },
   {

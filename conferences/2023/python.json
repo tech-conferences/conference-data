@@ -1,6 +1,7 @@
 [
   {
     "name": "PyCon Namibia",
+    "url": "https://na.pycon.org",
     "startDate": "2023-02-21",
     "endDate": "2023-02-23",
     "city": "Windhoek",
@@ -9,7 +10,6 @@
     "cfpUrl": "https://na.pycon.org/call-proposals",
     "cfpEndDate": "2023-01-22",
     "cocUrl": "https://na.pycon.org/code-of-conduct/",
-    "url": "https://na.pycon.org",
     "locales": "EN"
   },
   {
@@ -90,6 +90,7 @@
   },
   {
     "name": "Django Day Copenhagen",
+    "url": "https://2023.djangoday.dk",
     "startDate": "2023-04-14",
     "endDate": "2023-04-14",
     "city": "Copenhagen",
@@ -99,7 +100,6 @@
     "cfpEndDate": "2023-02-28",
     "twitter": "@djangodenmark",
     "cocUrl": "https://2023.djangoday.dk/conduct/",
-    "url": "https://2023.djangoday.dk",
     "locales": "EN"
   },
   {

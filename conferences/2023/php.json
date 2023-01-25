@@ -92,16 +92,17 @@
   },
   {
     "name": "AFUP Day",
+    "url": "https://event.afup.org",
     "startDate": "2023-05-12",
     "endDate": "2023-05-12",
     "city": "Lyon",
     "country": "France",
     "online": false,
-    "url": "https://event.afup.org",
     "locales": "FR"
   },
   {
     "name": "DrupalCamp",
+    "url": "https://www.drupalcamp.pl/en",
     "startDate": "2023-05-13",
     "endDate": "2023-05-14",
     "city": "Wroclaw",
@@ -110,7 +111,6 @@
     "cfpUrl": "https://www.drupalcamp.pl/en/proposed-sessions",
     "cfpEndDate": "2023-04-16",
     "twitter": "@DrupalCampPol",
-    "url": "https://www.drupalcamp.pl/en",
     "locales": "EN,PL"
   },
   {

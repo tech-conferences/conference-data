@@ -85,6 +85,7 @@
   },
   {
     "name": "OpenEmbedded Workshop",
+    "url": "https://pretalx.com/openembedded-workshop-2023",
     "startDate": "2023-02-06",
     "endDate": "2023-02-06",
     "city": "Brussels",
@@ -94,7 +95,6 @@
     "cfpEndDate": "2022-12-15",
     "twitter": "@OpenEmbeddedOrg",
     "cocUrl": "https://www.openembedded.org/wiki/Code_of_Conduct",
-    "url": "https://pretalx.com/openembedded-workshop-2023",
     "locales": "EN"
   },
   {
@@ -157,14 +157,14 @@
   },
   {
     "name": "International Conference On Advances In Intelligent Systems and Computing",
+    "url": "http://www.labtechinnovations.com/events/confernce/ICAISC/index.php",
     "startDate": "2023-02-27",
     "endDate": "2023-02-28",
     "online": true,
     "cfpUrl": "http://www.labtechinnovations.com/events/confernce/ICAISC/call-for-paper.php",
     "cfpEndDate": "2023-02-15",
-    "offersSignLanguageOrCC": true,
-    "url": "http://www.labtechinnovations.com/events/confernce/ICAISC/index.php",
-    "locales": "EN"
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "WeAreDevelopers Women in Tech Day",
@@ -347,12 +347,12 @@
   },
   {
     "name": "ChatGPT Conf",
+    "url": "https://chatgpt-conf.vercel.app",
     "startDate": "2023-05-12",
     "endDate": "2023-05-12",
     "online": true,
     "cfpUrl": "https://forms.gle/3dRtwoLLJHd16RiM7",
     "cfpEndDate": "2023-02-20",
-    "url": "https://chatgpt-conf.vercel.app",
     "locales": "EN"
   },
   {
@@ -367,6 +367,20 @@
     "cfpEndDate": "2023-01-27",
     "twitter": "@NDC_Conferences",
     "cocUrl": "https://ndcoslo.com/code-of-conduct",
+    "locales": "EN"
+  },
+  {
+    "name": "Dev Conf Cape Town",
+    "url": "https://www.devconf.co.za/capetown",
+    "startDate": "2023-05-23",
+    "endDate": "2023-05-23",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/devconf-2023",
+    "cfpEndDate": "2023-01-17",
+    "twitter": "@devconfza",
+    "cocUrl": "https://www.devconf.co.za/codeofconduct",
     "locales": "EN"
   },
   {
@@ -408,21 +422,8 @@
     "cocUrl": "https://devdays.lt/code-of-conduct/"
   },
   {
-    "name": "Dev Conf Cape Town",
-    "startDate": "2023-05-23",
-    "endDate": "2023-05-23",
-    "city": "Cape Town",
-    "country": "South Africa",
-    "online": false,
-    "cfpUrl": "https://sessionize.com/devconf-2023",
-    "cfpEndDate": "2023-01-17",
-    "twitter": "@devconfza",
-    "cocUrl": "https://www.devconf.co.za/codeofconduct",
-    "url": "https://www.devconf.co.za/capetown",
-    "locales": "EN"
-  },
-  {
     "name": "Dev Conf Pretoria",
+    "url": "https://www.devconf.co.za/pretoria",
     "startDate": "2023-05-25",
     "endDate": "2023-05-25",
     "city": "Pretoria",
@@ -432,7 +433,6 @@
     "cfpEndDate": "2023-01-17",
     "twitter": "@devconfza",
     "cocUrl": "https://www.devconf.co.za/codeofconduct",
-    "url": "https://www.devconf.co.za/pretoria",
     "locales": "EN"
   },
   {
@@ -616,13 +616,13 @@
   },
   {
     "name": "DevTernity",
+    "url": "https://devternity.com",
     "startDate": "2023-12-07",
     "endDate": "2023-12-08",
     "online": true,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/coc.html",
-    "offersSignLanguageOrCC": true,
-    "url": "https://devternity.com",
-    "locales": "EN"
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
   }
 ]

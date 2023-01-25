@@ -14,11 +14,11 @@
   },
   {
     "name": "TheJam.dev",
+    "url": "https://thejam.dev",
     "startDate": "2023-01-25",
     "endDate": "2023-01-26",
     "online": true,
     "cocUrl": "https://cfe.dev/conduct/",
-    "url": "https://thejam.dev",
     "locales": "EN"
   },
   {
@@ -160,6 +160,7 @@
   },
   {
     "name": "Frontrunners",
+    "url": "https://frontrunners.tech",
     "startDate": "2023-03-10",
     "endDate": "2023-03-10",
     "city": "Arlington, VA",
@@ -167,7 +168,6 @@
     "online": false,
     "twitter": "@frontrunnersdc",
     "cocUrl": "https://frontrunners.tech/policies/conduct.html",
-    "url": "https://frontrunners.tech",
     "locales": "EN"
   },
   {
@@ -387,15 +387,15 @@
   },
   {
     "name": "SmashingConf SF",
+    "url": "https://smashingconf.com/sf-2023",
     "startDate": "2023-05-23",
     "endDate": "2023-05-26",
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "online": false,
     "cocUrl": "https://smashingconf.com/codeofconduct",
-    "offersSignLanguageOrCC": true,
-    "url": "https://smashingconf.com/sf-2023",
-    "locales": "EN"
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "Vueconf.US",
@@ -413,6 +413,7 @@
   },
   {
     "name": "CityJS Athens",
+    "url": "https://greece.cityjsconf.org",
     "startDate": "2023-05-29",
     "endDate": "2023-05-30",
     "city": "Athens",
@@ -422,7 +423,6 @@
     "cfpEndDate": "2023-03-31",
     "twitter": "@cityjsconf",
     "cocUrl": "https://cityjsconf.org/coc",
-    "url": "https://greece.cityjsconf.org",
     "locales": "EN"
   },
   {
@@ -544,13 +544,13 @@
   },
   {
     "name": "SmashingConf Freiburg",
+    "url": "https://smashingconf.com/freiburg-2023",
     "startDate": "2023-09-04",
     "endDate": "2023-09-06",
     "city": "Freiburg",
     "country": "Germany",
     "online": false,
     "cocUrl": "https://smashingconf.com/codeofconduct",
-    "url": "https://smashingconf.com/freiburg-2023",
     "locales": "EN"
   },
   {

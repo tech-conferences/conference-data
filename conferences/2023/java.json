@@ -81,6 +81,7 @@
   },
   {
     "name": "Voxxed Days Bucharest",
+    "url": "https://romania.voxxeddays.com/voxxed-days-bucharest-2023",
     "startDate": "2023-03-22",
     "endDate": "2023-03-24",
     "city": "Bucharest",
@@ -90,7 +91,6 @@
     "cfpEndDate": "2023-01-15",
     "twitter": "@VoxxedBucharest",
     "cocUrl": "https://romania.voxxeddays.com",
-    "url": "https://romania.voxxeddays.com/voxxed-days-bucharest-2023",
     "locales": "EN"
   },
   {
@@ -145,6 +145,7 @@
   },
   {
     "name": "Pacific Northwest Software Symposium",
+    "url": "https://nofluffjuststuff.com/seattle",
     "startDate": "2023-04-14",
     "endDate": "2023-04-15",
     "city": "Seattle, WA",
@@ -152,7 +153,6 @@
     "online": true,
     "twitter": "@nofluff",
     "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct",
-    "url": "https://nofluffjuststuff.com/seattle",
     "locales": "EN"
   },
   {
@@ -168,18 +168,8 @@
     "locales": "EN"
   },
   {
-    "name": "Devoxx UK",
-    "url": "https://www.devoxx.co.uk",
-    "startDate": "2023-05-10",
-    "endDate": "2023-05-12",
-    "city": "London",
-    "country": "U.K.",
-    "online": false,
-    "twitter": "@DevoxxUK",
-    "cocUrl": "https://www.devoxx.co.uk/code-of-conduct/"
-  },
-  {
     "name": "I Code Java Cape Town",
+    "url": "https://j-sa.co",
     "startDate": "2023-05-10",
     "endDate": "2023-05-11",
     "city": "Cape Town",
@@ -189,8 +179,18 @@
     "cfpEndDate": "2023-02-05",
     "twitter": "@JavaAfrica",
     "cocUrl": "https://j-sa.co/code-of-conduct/",
-    "url": "https://j-sa.co",
     "locales": "EN"
+  },
+  {
+    "name": "Devoxx UK",
+    "url": "https://www.devoxx.co.uk",
+    "startDate": "2023-05-10",
+    "endDate": "2023-05-12",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "twitter": "@DevoxxUK",
+    "cocUrl": "https://www.devoxx.co.uk/code-of-conduct/"
   },
   {
     "name": "JCON OpenBlend Slovenia",
@@ -221,6 +221,7 @@
   },
   {
     "name": "UberConf",
+    "url": "https://uberconf.com",
     "startDate": "2023-07-18",
     "endDate": "2023-07-21",
     "city": "Denver, CO",
@@ -228,7 +229,6 @@
     "online": true,
     "twitter": "@nofluff",
     "cocUrl": "https://uberconf.com/home/code_of_conduct",
-    "url": "https://uberconf.com",
     "locales": "EN"
   },
   {
@@ -247,6 +247,7 @@
   },
   {
     "name": "I Code Java Johannesburg",
+    "url": "https://j-sa.co",
     "startDate": "2023-10-11",
     "endDate": "2023-10-12",
     "city": "Johannesburg",
@@ -256,18 +257,17 @@
     "cfpEndDate": "2023-02-05",
     "twitter": "@JavaAfrica",
     "cocUrl": "https://j-sa.co/code-of-conduct/",
-    "url": "https://j-sa.co",
     "locales": "EN"
   },
   {
     "name": "DevTernity",
+    "url": "https://devternity.com",
     "startDate": "2023-12-07",
     "endDate": "2023-12-08",
     "online": true,
     "twitter": "@devternity",
     "cocUrl": "https://devternity.com/coc.html",
-    "offersSignLanguageOrCC": true,
-    "url": "https://devternity.com",
-    "locales": "EN"
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
   }
 ]
