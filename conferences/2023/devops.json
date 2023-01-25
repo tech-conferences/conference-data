@@ -171,6 +171,7 @@
   },
   {
     "name": "OC3",
+    "url": "https://www.oc3.dev",
     "startDate": "2023-03-15",
     "endDate": "2023-03-15",
     "online": true,
@@ -178,7 +179,6 @@
     "cfpEndDate": "2022-12-15",
     "twitter": "@EdgelessSystems",
     "cocUrl": "https://www.oc3.dev/code-of-conduct",
-    "url": "https://www.oc3.dev",
     "locales": "EN"
   },
   {
@@ -227,6 +227,7 @@
   },
   {
     "name": "Voxxed Days Bucharest",
+    "url": "https://romania.voxxeddays.com/voxxed-days-bucharest-2023",
     "startDate": "2023-03-22",
     "endDate": "2023-03-24",
     "city": "Bucharest",
@@ -236,7 +237,6 @@
     "cfpEndDate": "2023-01-15",
     "twitter": "@VoxxedBucharest",
     "cocUrl": "https://romania.voxxeddays.com",
-    "url": "https://romania.voxxeddays.com/voxxed-days-bucharest-2023",
     "locales": "EN"
   },
   {
@@ -277,15 +277,15 @@
   },
   {
     "name": "DevOps Global Summit",
+    "url": "https://events.geekle.us/devops23",
     "startDate": "2023-04-04",
     "endDate": "2023-04-05",
     "online": true,
     "cfpUrl": "https://forms.gle/Zy7vAnxYcLYdD8UcA",
     "cfpEndDate": "2023-03-03",
     "twitter": "@GeekleOfficial",
-    "offersSignLanguageOrCC": true,
-    "url": "https://events.geekle.us/devops23",
-    "locales": "EN"
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "Develop",
@@ -417,14 +417,15 @@
     "url": "https://kubehuddle.com/2023/",
     "startDate": "2023-05-17",
     "endDate": "2023-05-18",
-    "online": false,
     "city": "Toronto",
     "country": "Canada",
+    "online": false,
     "twitter": "@kubehuddle",
     "cocUrl": "https://kubehuddle.com/code-of-conduct/"
   },
   {
     "name": "DevOps Days Baltimore",
+    "url": "https://devopsdays.org/events/2023-baltimore",
     "startDate": "2023-05-23",
     "endDate": "2023-05-24",
     "city": "Baltimore, MD",
@@ -432,8 +433,18 @@
     "online": false,
     "twitter": "@DevOpsDaysBmore",
     "cocUrl": "https://devopsdays.org/events/2023-baltimore/conduct",
-    "url": "https://devopsdays.org/events/2023-baltimore",
     "locales": "EN"
+  },
+  {
+    "name": "INTEGRATE",
+    "url": "https://www.serverless360.com/integrate-2023",
+    "startDate": "2023-06-05",
+    "endDate": "2023-06-07",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "DrupalCon",
@@ -449,25 +460,14 @@
     "offersSignLanguageOrCC": true
   },
   {
-    "name": "INTEGRATE",
-    "startDate": "2023-06-05",
-    "endDate": "2023-06-07",
-    "city": "London",
-    "country": "U.K.",
-    "online": true,
-    "offersSignLanguageOrCC": true,
-    "url": "https://www.serverless360.com/integrate-2023",
-    "locales": "EN"
-  },
-  {
     "name": "PlatformCon",
+    "url": "https://platformcon.com",
     "startDate": "2023-06-08",
     "endDate": "2023-06-09",
     "online": true,
     "cfpUrl": "https://sessionize.com/platformcon-2023",
     "cfpEndDate": "2023-02-28",
     "cocUrl": "https://platformcon.com/code-of-conduct",
-    "url": "https://platformcon.com",
     "locales": "EN"
   },
   {

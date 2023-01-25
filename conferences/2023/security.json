@@ -26,6 +26,7 @@
   },
   {
     "name": "OpenEmbedded Workshop",
+    "url": "https://pretalx.com/openembedded-workshop-2023",
     "startDate": "2023-02-06",
     "endDate": "2023-02-06",
     "city": "Brussels",
@@ -35,7 +36,6 @@
     "cfpEndDate": "2022-12-15",
     "twitter": "@OpenEmbeddedOrg",
     "cocUrl": "https://www.openembedded.org/wiki/Code_of_Conduct",
-    "url": "https://pretalx.com/openembedded-workshop-2023",
     "locales": "EN"
   },
   {
@@ -66,6 +66,7 @@
   },
   {
     "name": "OC3",
+    "url": "https://www.oc3.dev",
     "startDate": "2023-03-15",
     "endDate": "2023-03-15",
     "online": true,
@@ -73,17 +74,16 @@
     "cfpEndDate": "2022-12-15",
     "twitter": "@EdgelessSystems",
     "cocUrl": "https://www.oc3.dev/code-of-conduct",
-    "url": "https://www.oc3.dev",
     "locales": "EN"
   },
   {
     "name": "Nigeria Cybersecurity Summit",
+    "url": "https://nigeriacybersecuritysummit.com",
     "startDate": "2023-03-16",
     "endDate": "2023-03-17",
     "city": "Lagos",
     "country": "Nigeria",
     "online": false,
-    "url": "https://nigeriacybersecuritysummit.com",
     "locales": "EN"
   },
   {
@@ -102,6 +102,7 @@
   },
   {
     "name": "Voxxed Days Bucharest",
+    "url": "https://romania.voxxeddays.com/voxxed-days-bucharest-2023",
     "startDate": "2023-03-22",
     "endDate": "2023-03-24",
     "city": "Bucharest",
@@ -111,7 +112,6 @@
     "cfpEndDate": "2023-01-15",
     "twitter": "@VoxxedBucharest",
     "cocUrl": "https://romania.voxxeddays.com",
-    "url": "https://romania.voxxeddays.com/voxxed-days-bucharest-2023",
     "locales": "EN"
   },
   {
@@ -266,6 +266,7 @@
   },
   {
     "name": "UberConf",
+    "url": "https://uberconf.com",
     "startDate": "2023-07-18",
     "endDate": "2023-07-21",
     "city": "Denver, CO",
@@ -273,18 +274,17 @@
     "online": true,
     "twitter": "@nofluff",
     "cocUrl": "https://uberconf.com/home/code_of_conduct",
-    "url": "https://uberconf.com",
     "locales": "EN"
   },
   {
     "name": "Building Success in the API Ecosystem",
+    "url": "https://nordicapis.com/events/platform-summit-2023",
     "startDate": "2023-10-16",
     "endDate": "2023-10-18",
     "city": "Stockholm",
     "country": "Sweden",
     "online": false,
     "twitter": "@nordicapis",
-    "url": "https://nordicapis.com/events/platform-summit-2023",
     "locales": "EN"
   },
   {

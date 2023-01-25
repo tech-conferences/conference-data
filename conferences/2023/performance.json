@@ -112,15 +112,15 @@
   },
   {
     "name": "SmashingConf SF",
+    "url": "https://smashingconf.com/sf-2023",
     "startDate": "2023-05-23",
     "endDate": "2023-05-26",
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "online": false,
     "cocUrl": "https://smashingconf.com/codeofconduct",
-    "offersSignLanguageOrCC": true,
-    "url": "https://smashingconf.com/sf-2023",
-    "locales": "EN"
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "AgileTD Open Air",
@@ -162,6 +162,7 @@
   },
   {
     "name": "Global Software Architecture Summit (GSAS)",
+    "url": "https://gsas.io",
     "startDate": "2023-10-09",
     "endDate": "2023-10-11",
     "city": "Barcelona",
@@ -171,7 +172,6 @@
     "cfpEndDate": "2023-05-01",
     "twitter": "@gsas_io",
     "cocUrl": "https://gsas.io/",
-    "url": "https://gsas.io",
     "locales": "EN"
   },
   {

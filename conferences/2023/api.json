@@ -1,12 +1,12 @@
 [
   {
     "name": "Sphot",
+    "url": "https://sphot.in",
     "startDate": "2023-02-01",
     "endDate": "2023-02-01",
     "city": "Mumbai",
     "country": "India",
     "online": false,
-    "url": "https://sphot.in",
     "locales": "EN,HI"
   },
   {
@@ -144,13 +144,13 @@
   },
   {
     "name": "Building Success in the API Ecosystem",
+    "url": "https://nordicapis.com/events/platform-summit-2023",
     "startDate": "2023-10-16",
     "endDate": "2023-10-18",
     "city": "Stockholm",
     "country": "Sweden",
     "online": false,
     "twitter": "@nordicapis",
-    "url": "https://nordicapis.com/events/platform-summit-2023",
     "locales": "EN"
   }
 ]
