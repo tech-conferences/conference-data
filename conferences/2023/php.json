@@ -101,6 +101,19 @@
     "locales": "FR"
   },
   {
+    "name": "DrupalCamp",
+    "startDate": "2023-05-13",
+    "endDate": "2023-05-14",
+    "city": "Wroclaw",
+    "country": "Poland",
+    "online": false,
+    "cfpUrl": "https://www.drupalcamp.pl/en/proposed-sessions",
+    "cfpEndDate": "2023-04-16",
+    "twitter": "@DrupalCampPol",
+    "url": "https://www.drupalcamp.pl/en",
+    "locales": "EN,PL"
+  },
+  {
     "name": "phpday",
     "url": "https://2023.phpday.it",
     "startDate": "2023-05-18",
