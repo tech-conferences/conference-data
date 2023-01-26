@@ -165,6 +165,18 @@
     "twitter": "@AgileTDOpenAir"
   },
   {
+    "name": "SymfonyOnline",
+    "startDate": "2023-06-15",
+    "endDate": "2023-06-16",
+    "online": true,
+    "cfpUrl": "https://live.symfony.com/2023-online-june/cfp",
+    "cfpEndDate": "2023-03-06",
+    "twitter": "@symfony_live",
+    "cocUrl": "https://symfony.com/doc/current/contributing/code_of_conduct/care_team.html",
+    "url": "https://live.symfony.com/2023-online-june",
+    "locales": "EN"
+  },
+  {
     "name": "WeAreDevelopers World Congress",
     "url": "https://www.wearedevelopers.com/world-congress",
     "startDate": "2023-07-27",
