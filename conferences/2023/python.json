@@ -1,5 +1,19 @@
 [
   {
+    "name": "PyConFR",
+    "startDate": "2023-02-16",
+    "endDate": "2023-02-19",
+    "city": "Bordeaux",
+    "country": "France",
+    "online": false,
+    "cfpUrl": "https://cfp-2023.pycon.fr/cfp",
+    "cfpEndDate": "2023-01-07",
+    "twitter": "@pyconfr",
+    "cocUrl": "https://www.pycon.fr/2023/fr/conduct.html",
+    "url": "https://www.pycon.fr/2023",
+    "locales": "FR"
+  },
+  {
     "name": "PyCon Namibia",
     "url": "https://na.pycon.org",
     "startDate": "2023-02-21",
