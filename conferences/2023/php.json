@@ -177,5 +177,17 @@
     "twitter": "@WeAreDevs",
     "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form.",
     "locales": "EN"
+  },
+  {
+    "name": "API Platform Conference",
+    "startDate": "2023-09-22",
+    "endDate": "2023-09-23",
+    "city": "Lille",
+    "country": "France",
+    "online": true,
+    "twitter": "@ApiPlatform",
+    "cocUrl": "https://api-platform.com/con/2023/code-of-conduct",
+    "url": "https://api-platform.com/con/2023",
+    "locales": "EN,FR"
   }
 ]
