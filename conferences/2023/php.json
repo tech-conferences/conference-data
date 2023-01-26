@@ -203,6 +203,18 @@
     "locales": "EN"
   },
   {
+    "name": "SymfonyCon Brussels",
+    "startDate": "2023-12-07",
+    "endDate": "2023-12-08",
+    "city": "Brussels",
+    "country": "Belgium",
+    "online": false,
+    "twitter": "@SymfonyCon",
+    "cocUrl": "https://symfony.com/doc/current/contributing/code_of_conduct/care_team.html",
+    "url": "https://live.symfony.com/2023-brussels-con",
+    "locales": "EN"
+  },
+  {
     "name": "API Platform Conference",
     "startDate": "2023-09-22",
     "endDate": "2023-09-23",
