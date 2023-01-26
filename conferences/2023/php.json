@@ -79,6 +79,18 @@
     "locales": "EN"
   },
   {
+    "name": "Symfony Live Paris",
+    "startDate": "2023-03-23",
+    "endDate": "2023-03-24",
+    "city": "Paris",
+    "country": "France",
+    "online": false,
+    "twitter": "@symfony_live",
+    "cocUrl": "https://symfony.com/doc/current/contributing/code_of_conduct/care_team.html",
+    "url": "https://live.symfony.com/2023-paris",
+    "locales": "FR"
+  },
+  {
     "name": "PHP fwdays",
     "url": "https://fwdays.com/en/event/php-fwdays-2023",
     "startDate": "2023-04-22",
@@ -165,6 +177,18 @@
     "twitter": "@AgileTDOpenAir"
   },
   {
+    "name": "SymfonyOnline",
+    "startDate": "2023-06-15",
+    "endDate": "2023-06-16",
+    "online": true,
+    "cfpUrl": "https://live.symfony.com/2023-online-june/cfp",
+    "cfpEndDate": "2023-03-06",
+    "twitter": "@symfony_live",
+    "cocUrl": "https://symfony.com/doc/current/contributing/code_of_conduct/care_team.html",
+    "url": "https://live.symfony.com/2023-online-june",
+    "locales": "EN"
+  },
+  {
     "name": "WeAreDevelopers World Congress",
     "url": "https://www.wearedevelopers.com/world-congress",
     "startDate": "2023-07-27",
@@ -189,5 +213,17 @@
     "cocUrl": "https://symfony.com/doc/current/contributing/code_of_conduct/care_team.html",
     "url": "https://live.symfony.com/2023-brussels-con",
     "locales": "EN"
+  },
+  {
+    "name": "API Platform Conference",
+    "startDate": "2023-09-22",
+    "endDate": "2023-09-23",
+    "city": "Lille",
+    "country": "France",
+    "online": true,
+    "twitter": "@ApiPlatform",
+    "cocUrl": "https://api-platform.com/con/2023/code-of-conduct",
+    "url": "https://api-platform.com/con/2023",
+    "locales": "EN,FR"
   }
 ]
