@@ -79,6 +79,18 @@
     "locales": "EN"
   },
   {
+    "name": "Symfony Live Paris",
+    "startDate": "2023-03-23",
+    "endDate": "2023-03-24",
+    "city": "Paris",
+    "country": "France",
+    "online": false,
+    "twitter": "@symfony_live",
+    "cocUrl": "https://symfony.com/doc/current/contributing/code_of_conduct/care_team.html",
+    "url": "https://live.symfony.com/2023-paris",
+    "locales": "FR"
+  },
+  {
     "name": "PHP fwdays",
     "url": "https://fwdays.com/en/event/php-fwdays-2023",
     "startDate": "2023-04-22",
