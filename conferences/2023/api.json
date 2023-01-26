@@ -143,6 +143,18 @@
     "locales": "EN"
   },
   {
+    "name": "API Platform Conference",
+    "startDate": "2023-09-22",
+    "endDate": "2023-09-23",
+    "city": "Lille",
+    "country": "France",
+    "online": true,
+    "twitter": "@ApiPlatform",
+    "cocUrl": "https://api-platform.com/con/2023/code-of-conduct",
+    "url": "https://api-platform.com/con/2023",
+    "locales": "EN,FR"
+  },
+  {
     "name": "Building Success in the API Ecosystem",
     "url": "https://nordicapis.com/events/platform-summit-2023",
     "startDate": "2023-10-16",
