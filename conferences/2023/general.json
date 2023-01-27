@@ -276,6 +276,20 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "4Developers",
+    "startDate": "2023-04-18",
+    "endDate": "2023-04-18",
+    "city": "Warsaw",
+    "country": "Poland",
+    "online": false,
+    "cfpUrl": "https://cfp.4developers.org.pl/cfp-4developers-2023",
+    "cfpEndDate": "2023-02-28",
+    "twitter": "@4Developers",
+    "offersSignLanguageOrCC": true,
+    "url": "https://4developers.org.pl",
+    "locales": "PL"
+  },
+  {
     "name": "Serverless Architecture Conference London",
     "url": "https://serverless-architecture.io/london",
     "startDate": "2023-04-24",
