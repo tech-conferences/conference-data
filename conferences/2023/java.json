@@ -220,6 +220,18 @@
     "locales": "EN,DE"
   },
   {
+    "name": "Lonestar Software Symposium : Austin",
+    "startDate": "2023-07-14",
+    "endDate": "2023-07-15",
+    "city": "Austin, TX",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@nofluff",
+    "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct",
+    "url": "https://nofluffjuststuff.com/austin",
+    "locales": "EN"
+  },
+  {
     "name": "UberConf",
     "url": "https://uberconf.com",
     "startDate": "2023-07-18",
@@ -258,6 +270,16 @@
     "locales": "EN"
   },
   {
+    "name": "Central Ohio Software Symposium",
+    "startDate": "2023-09-29",
+    "endDate": "2023-10-01",
+    "online": true,
+    "twitter": "@nofluff",
+    "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct",
+    "url": "https://nofluffjuststuff.com/columbus",
+    "locales": "EN"
+  },
+  {
     "name": "I Code Java Johannesburg",
     "url": "https://j-sa.co",
     "startDate": "2023-10-11",
@@ -269,6 +291,30 @@
     "cfpEndDate": "2023-02-05",
     "twitter": "@JavaAfrica",
     "cocUrl": "https://j-sa.co/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
+    "name": "Northern Virginia Software Symposium",
+    "startDate": "2023-10-13",
+    "endDate": "2023-10-14",
+    "city": "Reston, VA",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@nofluff",
+    "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct",
+    "url": "https://nofluffjuststuff.com/reston",
+    "locales": "EN"
+  },
+  {
+    "name": "Twin Cities Software Symposium",
+    "startDate": "2023-10-20",
+    "endDate": "2023-10-21",
+    "city": "Minneapolis, MN",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@nofluff",
+    "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct",
+    "url": "https://nofluffjuststuff.com/minneapolis",
     "locales": "EN"
   },
   {
