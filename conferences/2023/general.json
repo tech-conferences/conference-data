@@ -216,6 +216,7 @@
   },
   {
     "name": "Agile India",
+    "url": "https://2023.agileindia.org",
     "startDate": "2023-03-15",
     "endDate": "2023-03-19",
     "city": "Bengaluru",
@@ -223,7 +224,6 @@
     "online": false,
     "twitter": "@agileindia",
     "cocUrl": "https://2023.agileindia.org/agile-india-values/",
-    "url": "https://2023.agileindia.org",
     "locales": "EN"
   },
   {
@@ -289,6 +289,7 @@
   },
   {
     "name": "4Developers",
+    "url": "https://4developers.org.pl",
     "startDate": "2023-04-18",
     "endDate": "2023-04-18",
     "city": "Warsaw",
@@ -297,9 +298,8 @@
     "cfpUrl": "https://cfp.4developers.org.pl/cfp-4developers-2023",
     "cfpEndDate": "2023-02-28",
     "twitter": "@4Developers",
-    "offersSignLanguageOrCC": true,
-    "url": "https://4developers.org.pl",
-    "locales": "PL"
+    "locales": "PL",
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "Serverless Architecture Conference London",

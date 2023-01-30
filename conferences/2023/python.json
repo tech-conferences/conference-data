@@ -1,6 +1,7 @@
 [
   {
     "name": "PyConFR",
+    "url": "https://www.pycon.fr/2023",
     "startDate": "2023-02-16",
     "endDate": "2023-02-19",
     "city": "Bordeaux",
@@ -10,7 +11,6 @@
     "cfpEndDate": "2023-01-07",
     "twitter": "@pyconfr",
     "cocUrl": "https://www.pycon.fr/2023/fr/conduct.html",
-    "url": "https://www.pycon.fr/2023",
     "locales": "FR"
   },
   {
@@ -66,15 +66,15 @@
   },
   {
     "name": "Python Web Conf",
+    "url": "https://2023.pythonwebconf.com",
     "startDate": "2023-03-13",
     "endDate": "2023-03-17",
     "online": true,
     "cfpUrl": "https://www.papercall.io/pwc-2023",
     "cfpEndDate": "2022-12-30",
     "twitter": "@pythonwebconf",
-    "offersSignLanguageOrCC": true,
-    "url": "https://2023.pythonwebconf.com",
-    "locales": "EN"
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "PyCascades",

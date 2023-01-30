@@ -80,6 +80,7 @@
   },
   {
     "name": "Symfony Live Paris",
+    "url": "https://live.symfony.com/2023-paris",
     "startDate": "2023-03-23",
     "endDate": "2023-03-24",
     "city": "Paris",
@@ -87,7 +88,6 @@
     "online": false,
     "twitter": "@symfony_live",
     "cocUrl": "https://symfony.com/doc/current/contributing/code_of_conduct/care_team.html",
-    "url": "https://live.symfony.com/2023-paris",
     "locales": "FR"
   },
   {
@@ -178,6 +178,7 @@
   },
   {
     "name": "SymfonyOnline",
+    "url": "https://live.symfony.com/2023-online-june",
     "startDate": "2023-06-15",
     "endDate": "2023-06-16",
     "online": true,
@@ -185,7 +186,6 @@
     "cfpEndDate": "2023-03-06",
     "twitter": "@symfony_live",
     "cocUrl": "https://symfony.com/doc/current/contributing/code_of_conduct/care_team.html",
-    "url": "https://live.symfony.com/2023-online-june",
     "locales": "EN"
   },
   {
@@ -203,19 +203,8 @@
     "locales": "EN"
   },
   {
-    "name": "SymfonyCon Brussels",
-    "startDate": "2023-12-07",
-    "endDate": "2023-12-08",
-    "city": "Brussels",
-    "country": "Belgium",
-    "online": false,
-    "twitter": "@SymfonyCon",
-    "cocUrl": "https://symfony.com/doc/current/contributing/code_of_conduct/care_team.html",
-    "url": "https://live.symfony.com/2023-brussels-con",
-    "locales": "EN"
-  },
-  {
     "name": "API Platform Conference",
+    "url": "https://api-platform.com/con/2023",
     "startDate": "2023-09-22",
     "endDate": "2023-09-23",
     "city": "Lille",
@@ -223,7 +212,18 @@
     "online": true,
     "twitter": "@ApiPlatform",
     "cocUrl": "https://api-platform.com/con/2023/code-of-conduct",
-    "url": "https://api-platform.com/con/2023",
     "locales": "EN,FR"
+  },
+  {
+    "name": "SymfonyCon Brussels",
+    "url": "https://live.symfony.com/2023-brussels-con",
+    "startDate": "2023-12-07",
+    "endDate": "2023-12-08",
+    "city": "Brussels",
+    "country": "Belgium",
+    "online": false,
+    "twitter": "@SymfonyCon",
+    "cocUrl": "https://symfony.com/doc/current/contributing/code_of_conduct/care_team.html",
+    "locales": "EN"
   }
 ]
