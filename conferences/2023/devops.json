@@ -183,6 +183,7 @@
   },
   {
     "name": "Agile India",
+    "url": "https://2023.agileindia.org",
     "startDate": "2023-03-15",
     "endDate": "2023-03-19",
     "city": "Bengaluru",
@@ -190,7 +191,6 @@
     "online": false,
     "twitter": "@agileindia",
     "cocUrl": "https://2023.agileindia.org/agile-india-values/",
-    "url": "https://2023.agileindia.org",
     "locales": "EN"
   },
   {
@@ -437,6 +437,7 @@
   },
   {
     "name": "KubeHuddle Toronto",
+    "url": "https://kubehuddle.com",
     "startDate": "2023-05-17",
     "endDate": "2023-05-18",
     "city": "Toronto",
@@ -445,7 +446,19 @@
     "cfpUrl": "https://sessionize.com/kubehuddle-Toronto-2023",
     "cfpEndDate": "2023-03-03",
     "twitter": "@kubehuddle",
-    "url": "https://kubehuddle.com",
+    "locales": "EN"
+  },
+  {
+    "name": "Infobip Shift Miami",
+    "url": "https://shift.infobip.com/us",
+    "startDate": "2023-05-23",
+    "endDate": "2023-05-23",
+    "city": "Miami, FL",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/infobip-shift-miami-2023",
+    "cfpEndDate": "2023-03-31",
+    "twitter": "@InfobipShift",
     "locales": "EN"
   },
   {
@@ -458,19 +471,6 @@
     "online": false,
     "twitter": "@DevOpsDaysBmore",
     "cocUrl": "https://devopsdays.org/events/2023-baltimore/conduct",
-    "locales": "EN"
-  },
-  {
-    "name": "Infobip Shift Miami",
-    "startDate": "2023-05-23",
-    "endDate": "2023-05-23",
-    "city": "Miami, FL",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://sessionize.com/infobip-shift-miami-2023",
-    "cfpEndDate": "2023-03-31",
-    "twitter": "@InfobipShift",
-    "url": "https://shift.infobip.com/us",
     "locales": "EN"
   },
   {
@@ -510,6 +510,7 @@
   },
   {
     "name": "Central Iowa Software Symposium",
+    "url": "https://nofluffjuststuff.com/desmoines",
     "startDate": "2023-06-09",
     "endDate": "2023-06-10",
     "city": "Des Moines, IA",
@@ -517,7 +518,6 @@
     "online": true,
     "twitter": "@nofluff",
     "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct",
-    "url": "https://nofluffjuststuff.com/desmoines",
     "locales": "EN"
   },
   {
@@ -595,6 +595,7 @@
   },
   {
     "name": "Lonestar Software Symposium : Austin",
+    "url": "https://nofluffjuststuff.com/austin",
     "startDate": "2023-07-14",
     "endDate": "2023-07-15",
     "city": "Austin, TX",
@@ -602,7 +603,6 @@
     "online": true,
     "twitter": "@nofluff",
     "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct",
-    "url": "https://nofluffjuststuff.com/austin",
     "locales": "EN"
   },
   {
@@ -635,6 +635,7 @@
   },
   {
     "name": "New England Software Symposium",
+    "url": "https://nofluffjuststuff.com/boston",
     "startDate": "2023-09-22",
     "endDate": "2023-09-24",
     "city": "Boston, MA",
@@ -642,7 +643,6 @@
     "online": true,
     "twitter": "@nofluff",
     "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct",
-    "url": "https://nofluffjuststuff.com/boston",
     "locales": "EN"
   },
   {
@@ -658,12 +658,12 @@
   },
   {
     "name": "Central Ohio Software Symposium",
+    "url": "https://nofluffjuststuff.com/columbus",
     "startDate": "2023-09-29",
     "endDate": "2023-10-01",
     "online": true,
     "twitter": "@nofluff",
     "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct",
-    "url": "https://nofluffjuststuff.com/columbus",
     "locales": "EN"
   },
   {
@@ -678,6 +678,7 @@
   },
   {
     "name": "Northern Virginia Software Symposium",
+    "url": "https://nofluffjuststuff.com/reston",
     "startDate": "2023-10-13",
     "endDate": "2023-10-14",
     "city": "Reston, VA",
@@ -685,7 +686,6 @@
     "online": true,
     "twitter": "@nofluff",
     "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct",
-    "url": "https://nofluffjuststuff.com/reston",
     "locales": "EN"
   },
   {
@@ -701,6 +701,7 @@
   },
   {
     "name": "Twin Cities Software Symposium",
+    "url": "https://nofluffjuststuff.com/minneapolis",
     "startDate": "2023-10-20",
     "endDate": "2023-10-21",
     "city": "Minneapolis, MN",
@@ -708,7 +709,6 @@
     "online": true,
     "twitter": "@nofluff",
     "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct",
-    "url": "https://nofluffjuststuff.com/minneapolis",
     "locales": "EN"
   },
   {

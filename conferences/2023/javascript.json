@@ -147,12 +147,12 @@
   },
   {
     "name": "JavaScript Summit",
+    "url": "https://jssummit.am",
     "startDate": "2023-02-18",
     "endDate": "2023-02-18",
     "city": "Yerevan",
     "country": "Armenia",
     "online": false,
-    "url": "https://jssummit.am",
     "locales": "HY"
   },
   {
@@ -396,6 +396,19 @@
     "locales": "EN"
   },
   {
+    "name": "Infobip Shift Miami",
+    "url": "https://shift.infobip.com/us",
+    "startDate": "2023-05-23",
+    "endDate": "2023-05-23",
+    "city": "Miami, FL",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/infobip-shift-miami-2023",
+    "cfpEndDate": "2023-03-31",
+    "twitter": "@InfobipShift",
+    "locales": "EN"
+  },
+  {
     "name": "SmashingConf SF",
     "url": "https://smashingconf.com/sf-2023",
     "startDate": "2023-05-23",
@@ -406,19 +419,6 @@
     "cocUrl": "https://smashingconf.com/codeofconduct",
     "locales": "EN",
     "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "Infobip Shift Miami",
-    "startDate": "2023-05-23",
-    "endDate": "2023-05-23",
-    "city": "Miami, FL",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://sessionize.com/infobip-shift-miami-2023",
-    "cfpEndDate": "2023-03-31",
-    "twitter": "@InfobipShift",
-    "url": "https://shift.infobip.com/us",
-    "locales": "EN"
   },
   {
     "name": "Vueconf.US",
@@ -512,6 +512,7 @@
   },
   {
     "name": "Pixel Pioneers",
+    "url": "https://pixelpioneers.co/events/bristol-2023",
     "startDate": "2023-06-16",
     "endDate": "2023-06-16",
     "city": "Bristol",
@@ -521,7 +522,6 @@
     "cfpEndDate": "2023-04-15",
     "twitter": "@pixelpioneers",
     "cocUrl": "https://pixelpioneers.co/code-of-conduct",
-    "url": "https://pixelpioneers.co/events/bristol-2023",
     "locales": "EN"
   },
   {
@@ -592,6 +592,7 @@
   },
   {
     "name": "New England Software Symposium",
+    "url": "https://nofluffjuststuff.com/boston",
     "startDate": "2023-09-22",
     "endDate": "2023-09-24",
     "city": "Boston, MA",
@@ -599,7 +600,6 @@
     "online": true,
     "twitter": "@nofluff",
     "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct",
-    "url": "https://nofluffjuststuff.com/boston",
     "locales": "EN"
   },
   {

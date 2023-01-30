@@ -84,13 +84,13 @@
   },
   {
     "name": "Data Council",
+    "url": "https://www.datacouncil.ai",
     "startDate": "2023-03-28",
     "endDate": "2023-03-30",
     "city": "Austin, TX",
     "country": "U.S.A.",
     "online": false,
     "twitter": "@DataCouncilAI",
-    "url": "https://www.datacouncil.ai",
     "locales": "EN"
   },
   {
@@ -186,6 +186,7 @@
   },
   {
     "name": "The Data Science Conference",
+    "url": "https://www.thedatascienceconference.com",
     "startDate": "2023-05-25",
     "endDate": "2023-05-26",
     "city": "Chicago, IL",
@@ -194,7 +195,6 @@
     "cfpUrl": "https://www.thedatascienceconference.com/be-a-speaker",
     "cfpEndDate": "2023-02-25",
     "twitter": "@_tdsc_",
-    "url": "https://www.thedatascienceconference.com",
     "locales": "EN"
   },
   {
