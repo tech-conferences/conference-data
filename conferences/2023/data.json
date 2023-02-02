@@ -199,17 +199,18 @@
   },
   {
     "name": "PGCon",
+    "url": "https://www.pgcon.org/2023",
     "startDate": "2023-05-30",
     "endDate": "2023-06-02",
     "city": "Ottawa",
     "country": "Canada",
     "online": false,
     "twitter": "@pgcon",
-    "url": "https://www.pgcon.org/2023",
     "locales": "EN"
   },
   {
     "name": "Berlin Buzzwords",
+    "url": "https://2023.berlinbuzzwords.de",
     "startDate": "2023-06-18",
     "endDate": "2023-06-20",
     "city": "Berlin",
@@ -219,7 +220,6 @@
     "cfpEndDate": "2023-02-19",
     "twitter": "@berlinbuzzwords",
     "cocUrl": "https://2023.berlinbuzzwords.de/code-of-conduct/",
-    "url": "https://2023.berlinbuzzwords.de",
     "locales": "EN"
   },
   {

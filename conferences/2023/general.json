@@ -203,6 +203,18 @@
     "locales": "EN,DE"
   },
   {
+    "name": "FOSS Backstage",
+    "url": "https://23.foss-backstage.de",
+    "startDate": "2023-03-13",
+    "endDate": "2023-03-14",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@fossbckstg",
+    "cocUrl": "https://23.foss-backstage.de/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "Software Architecture Summit",
     "url": "https://software-architecture-summit.de/muenchen",
     "startDate": "2023-03-13",
@@ -213,18 +225,6 @@
     "twitter": "@SoftwArchSummit",
     "cocUrl": "https://software-architecture-summit.de/service-info/code-of-conduct/",
     "locales": "DE"
-  },
-  {
-    "name": "FOSS Backstage",
-    "startDate": "2023-03-13",
-    "endDate": "2023-03-14",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@fossbckstg",
-    "cocUrl": "https://23.foss-backstage.de/code-of-conduct/",
-    "url": "https://23.foss-backstage.de",
-    "locales": "EN"
   },
   {
     "name": "Agile India",
@@ -485,13 +485,13 @@
   },
   {
     "name": "Techsylvania",
+    "url": "https://techsylvania.com",
     "startDate": "2023-06-07",
     "endDate": "2023-06-08",
     "city": "Cluj-Napoca",
     "country": "Romania",
     "online": false,
     "twitter": "@techsylvania",
-    "url": "https://techsylvania.com",
     "locales": "EN"
   },
   {
@@ -519,6 +519,7 @@
   },
   {
     "name": "Berlin Buzzwords",
+    "url": "https://2023.berlinbuzzwords.de",
     "startDate": "2023-06-18",
     "endDate": "2023-06-20",
     "city": "Berlin",
@@ -528,7 +529,6 @@
     "cfpEndDate": "2023-02-19",
     "twitter": "@berlinbuzzwords",
     "cocUrl": "https://2023.berlinbuzzwords.de/code-of-conduct/",
-    "url": "https://2023.berlinbuzzwords.de",
     "locales": "EN"
   },
   {
