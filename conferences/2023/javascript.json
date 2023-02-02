@@ -354,6 +354,18 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "OpenJS World",
+    "startDate": "2023-05-10",
+    "endDate": "2023-05-12",
+    "online": true,
+    "cfpUrl": "https://events.linuxfoundation.org/open-source-summit-north-america/program/cfp/",
+    "cfpEndDate": "2023-02-05",
+    "twitter": "@openjsf",
+    "cocUrl": "https://events.linuxfoundation.org/open-source-summit-north-america/attend/code-of-conduct/",
+    "url": "https://events.linuxfoundation.org/open-source-summit-north-america/about/openjs-world/",
+    "locales": "EN"
+  },
+  {
     "name": "BeJS Conf",
     "url": "https://www.bejs.io/conf",
     "startDate": "2023-05-12",
