@@ -135,8 +135,8 @@ module.exports = {
     "Odense"
   ],
   "Dominican Republic": [
-    "Punta Cana",
     "Puerto Plata",
+    "Punta Cana",
     "Santiago de los Caballeros",
     "Santo Domingo"
   ],
