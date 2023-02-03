@@ -612,6 +612,7 @@ module.exports = {
     "Denver, CO",
     "Des Moines, IA",
     "Detroit, MI",
+    "Durham, NC",
     "East Point, GA",
     "Fort Lauderdale, FL",
     "Fort Worth, TX",
