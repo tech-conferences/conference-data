@@ -576,6 +576,7 @@ module.exports = {
     "Baltimore, MD",
     "Bandera, TX",
     "Beckenridge, CO",
+    "Bentonville, AR",
     "Bellevue, WA",
     "Bend, OR",
     "Berkeley, CA",
