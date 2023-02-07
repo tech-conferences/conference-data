@@ -77,5 +77,17 @@
     "cfpEndDate": "2023-02-28",
     "cocUrl": "https://platformcon.com/code-of-conduct",
     "locales": "EN"
+  },
+  {
+    "name": "LeadDev",
+    "url": "https://leaddev.com/events/leaddev-london-2023",
+    "startDate": "2023-06-27",
+    "endDate": "2023-06-28",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "twitter": "@theleaddev",
+    "cocUrl": "https://leaddev.com/code-conduct",
+    "locales": "EN"
   }
 ]
