@@ -771,6 +771,20 @@
     "locales": "EN"
   },
   {
+    "name": "Open Source Monitoring Conference",
+    "url": "https://osmc.de",
+    "startDate": "2023-11-07",
+    "endDate": "2023-11-09",
+    "city": "Nürnberg",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://osmc.de/call-for-papers",
+    "cfpEndDate": "2023-07-31",
+    "twitter": "@NetwaysEvents",
+    "cocUrl": "https://osmc.de/code-of-conduct/",
+    "locales": "EN,DE"
+  },
+  {
     "name": "Conf42 DevSecOps",
     "url": "https://www.conf42.com/devsecops2023",
     "startDate": "2023-11-30",
