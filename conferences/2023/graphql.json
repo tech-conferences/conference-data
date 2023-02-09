@@ -62,5 +62,20 @@
     "twitter": "@jcon_conference",
     "cocUrl": "https://2023.europe.jcon.one/code-of-conduct",
     "locales": "EN,DE"
+  },
+  {
+    "name": "GraphQL Summit",
+    "url": "https://summit.graphql.com",
+    "startDate": "2023-10-10",
+    "endDate": "2023-10-12",
+    "city": "San Diego, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://forms.gle/8kovzMG5nioK4Dkn6",
+    "cfpEndDate": "2023-03-27",
+    "twitter": "@graphqlsummit",
+    "cocUrl": "https://www.apollographql.com/docs/community/code-of-conduct/",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
   }
 ]
