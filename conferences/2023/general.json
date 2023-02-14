@@ -581,6 +581,20 @@
     "locales": "EN"
   },
   {
+    "name": "Embedded Open Source Summit",
+    "url": "https://events.linuxfoundation.org/embedded-open-source-summit",
+    "startDate": "2023-06-27",
+    "endDate": "2023-06-30",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "online": true,
+    "cfpUrl": "https://events.linuxfoundation.org/embedded-open-source-summit/program/cfp",
+    "cfpEndDate": "2023-02-27",
+    "twitter": "@linuxfoundation",
+    "cocUrl": "https://events.linuxfoundation.org/embedded-open-source-summit/attend/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "FOSS4G",
     "url": "https://2023.foss4g.org/",
     "startDate": "2023-06-28",
