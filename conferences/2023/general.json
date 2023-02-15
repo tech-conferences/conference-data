@@ -780,5 +780,17 @@
     "cocUrl": "https://devternity.com/coc.html",
     "locales": "EN",
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "Cassandra Summit",
+    "url": "https://events.linuxfoundation.org/cassandra-summit",
+    "startDate": "2023-12-12",
+    "endDate": "2023-12-13",
+    "city": "San Jose, CA",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@linuxfoundation",
+    "cocUrl": "https://events.linuxfoundation.org/cassandra-summit/attend/code-of-conduct/",
+    "locales": "EN"
   }
 ]
