@@ -384,6 +384,18 @@
     "twitter": "@womentechnet"
   },
   {
+    "name": "Open Source Summit North America",
+    "url": "https://events.linuxfoundation.org/open-source-summit-north-america",
+    "startDate": "2023-05-10",
+    "endDate": "2023-05-12",
+    "city": "Vancouver",
+    "country": "Canada",
+    "online": true,
+    "twitter": "@linuxfoundation",
+    "cocUrl": "https://events.linuxfoundation.org/open-source-summit-north-america/attend/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "ChatGPT Conf",
     "url": "https://chatgpt-conf.vercel.app",
     "startDate": "2023-05-12",
