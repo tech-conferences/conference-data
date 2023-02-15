@@ -484,6 +484,7 @@ module.exports = {
   "Spain": [
     "Alicante",
     "Barcelona",
+    "Bilbao",
     "Canarias",
     "Cáceres",
     "Cádiz",
