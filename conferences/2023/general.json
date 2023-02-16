@@ -540,6 +540,17 @@
     "locales": "EN"
   },
   {
+    "name": "QCon",
+    "url": "https://qconnewyork.com",
+    "startDate": "2023-06-13",
+    "endDate": "2023-06-15",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": true,
+    "cocUrl": "https://qconferences.com/code-conduct",
+    "locales": "EN"
+  },
+  {
     "name": "React Norway",
     "url": "https://reactnorway.com",
     "startDate": "2023-06-16",
@@ -770,6 +781,17 @@
     "cfpEndDate": "2023-05-01",
     "twitter": "@devchallenge",
     "cocUrl": "https://webbicus.com/TermsForParticipationAndCodeOfConduct.pdf",
+    "locales": "EN"
+  },
+  {
+    "name": "QCon",
+    "url": "https://qconsf.com/",
+    "startDate": "2023-10-02",
+    "endDate": "2023-10-06",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": true,
+    "cocUrl": "https://qconferences.com/code-conduct",
     "locales": "EN"
   },
   {
