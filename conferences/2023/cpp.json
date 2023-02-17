@@ -13,6 +13,20 @@
     "locales": "EN"
   },
   {
+    "name": "Akademy",
+    "url": "https://akademy.kde.org/2023",
+    "startDate": "2023-07-15",
+    "endDate": "2023-07-21",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "online": true,
+    "cfpUrl": "https://akademy.kde.org/2023/cfp",
+    "cfpEndDate": "2023-03-30",
+    "twitter": "@akademy",
+    "cocUrl": "https://akademy.kde.org/2023/code-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "Cpp North",
     "url": "https://cppnorth.ca",
     "startDate": "2023-07-17",
