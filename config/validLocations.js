@@ -673,6 +673,7 @@ module.exports = {
     "Pittsburgh, PA",
     "Pocono Manor, PA",
     "Port Canaveral, FL",
+    "Portland, ME",
     "Portland, OR",
     "Prince William Forest Park, VA",
     "Princeton, NJ",
