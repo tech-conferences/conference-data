@@ -189,6 +189,16 @@
     "cocUrl": "https://github.com/pythonitalia/code-of-conducts/blob/master/online/english.md"
   },
   {
+    "name": "DjangoCon Europe",
+    "url": "https://2023.djangocon.eu",
+    "startDate": "2023-05-29",
+    "endDate": "2023-06-02",
+    "online": true,
+    "twitter": "@DjangoConEurope",
+    "cocUrl": "https://2023.djangocon.eu/conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "AgileTD Open Air",
     "url": "https://openair.agiletestingdays.com",
     "startDate": "2023-06-13",
