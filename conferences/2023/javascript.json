@@ -327,6 +327,19 @@
     "locales": "EN"
   },
   {
+    "name": "Reactathon",
+    "url": "https://reactathon.com",
+    "startDate": "2023-05-02",
+    "endDate": "2023-05-03",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@reactathon",
+    "cocUrl": "https://www.reactathon.com/conduct/",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "JAX",
     "url": "https://jax.de/mainz",
     "startDate": "2023-05-08",
