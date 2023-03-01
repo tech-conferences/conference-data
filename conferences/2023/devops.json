@@ -170,6 +170,17 @@
     "twitter": "@devopsdaysslc"
   },
   {
+    "name": "FutureStack Roadshow San Francisco",
+    "url": "https://newrelic.com/events/2023-03-15/futurestack-san-francisco",
+    "startDate": "2023-03-15",
+    "endDate": "2023-03-15",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@NewRelic",
+    "locales": "EN"
+  },
+  {
     "name": "OC3",
     "url": "https://www.oc3.dev",
     "startDate": "2023-03-15",
@@ -191,17 +202,6 @@
     "online": false,
     "twitter": "@agileindia",
     "cocUrl": "https://2023.agileindia.org/agile-india-values/",
-    "locales": "EN"
-  },
-  {
-    "name": "FutureStack Roadshow San Francisco",
-    "url": "https://newrelic.com/events/2023-03-15/futurestack-san-francisco",
-    "startDate": "2023-03-15",
-    "endDate": "2023-03-15",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@NewRelic",
     "locales": "EN"
   },
   {
@@ -764,6 +764,18 @@
     "locales": "EN"
   },
   {
+    "name": "DevOps Enterprise Summit Las Vegas",
+    "url": "https://itrevolution.com/product/devops-enterprise-summit-las-vegas-2023",
+    "startDate": "2023-10-03",
+    "endDate": "2023-10-05",
+    "city": "Las Vegas, NV",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@ITRevDOES",
+    "cocUrl": "https://itrevolution.com/privacy-policy/",
+    "locales": "EN"
+  },
+  {
     "name": "HUSTEF",
     "url": "https://hustef.hu",
     "startDate": "2023-10-03",
@@ -774,18 +786,6 @@
     "cfpUrl": "https://hustef.hu/wp-content/uploads/2023/02/HUSTEF-2023-Call-for-Proposals_final.pdf",
     "cfpEndDate": "2023-04-24",
     "cocUrl": "https://hustef.hu/code-of-conduct/",
-    "locales": "EN"
-  },
-  {
-    "name": "DevOps Enterprise Summit Las Vegas",
-    "url": "https://itrevolution.com/product/devops-enterprise-summit-las-vegas-2023",
-    "startDate": "2023-10-03",
-    "endDate": "2023-10-05",
-    "city": "Las Vegas, NV",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@ITRevDOES",
-    "cocUrl": "https://itrevolution.com/privacy-policy/",
     "locales": "EN"
   },
   {
