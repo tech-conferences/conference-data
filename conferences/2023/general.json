@@ -715,6 +715,20 @@
     "locales": "EN"
   },
   {
+    "name": "Herbstcampus",
+    "url": "https://www.herbstcampus.de",
+    "startDate": "2023-09-05",
+    "endDate": "2023-09-07",
+    "city": "Nürnberg",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://www.herbstcampus.de/cfp.php",
+    "cfpEndDate": "2023-04-24",
+    "twitter": "@Herbstcampus",
+    "cocUrl": "https://www.herbstcampus.de/code_of_conduct.php",
+    "locales": "EN,DE"
+  },
+  {
     "name": "DebConf",
     "url": "https://debconf23.debconf.org/",
     "startDate": "2023-09-10",
