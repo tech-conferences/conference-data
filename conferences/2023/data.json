@@ -425,6 +425,20 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "data2day",
+    "url": "https://www.data2day.de",
+    "startDate": "2023-10-11",
+    "endDate": "2023-10-12",
+    "city": "Karlsruhe",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://www.data2day.de/cfp_en.php",
+    "cfpEndDate": "2023-05-08",
+    "twitter": "@data2day",
+    "cocUrl": "https://www.data2day.de/code_of_conduct.php",
+    "locales": "EN,DE"
+  },
+  {
     "name": "ODSC West",
     "url": "https://odsc.com/california/",
     "startDate": "2023-10-31",
