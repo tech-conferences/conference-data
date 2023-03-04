@@ -418,6 +418,18 @@
     "locales": "EN"
   },
   {
+    "name": "JavaScript fwdays",
+    "url": "https://fwdays.com/en/event/javascript-fwdays-2023",
+    "startDate": "2023-05-16",
+    "endDate": "2023-05-20",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc7JgExlkj4pmoQUTrZ2ByjN1K2jWfOKnxI3eGpbHdV7dA4Uw/viewform",
+    "cfpEndDate": "2023-04-13",
+    "twitter": "@fwdays",
+    "cocUrl": "https://fwdays.com/en/page/code-of-conduct",
+    "locales": "EN"
+  },
+  {
     "name": "JSHeroes",
     "url": "https://jsheroes.io",
     "startDate": "2023-05-18",
@@ -429,18 +441,6 @@
     "cfpEndDate": "2022-12-31",
     "twitter": "@jsheroes2023",
     "cocUrl": "https://jsheroes.io/code-of-conduct",
-    "locales": "EN"
-  },
-  {
-    "name": "JavaScript fwdays",
-    "url": "https://fwdays.com/en/event/javascript-fwdays-2023",
-    "startDate": "2023-05-16",
-    "endDate": "2023-05-20",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc7JgExlkj4pmoQUTrZ2ByjN1K2jWfOKnxI3eGpbHdV7dA4Uw/viewform",
-    "cfpEndDate": "2023-04-13",
-    "twitter": "@fwdays",
-    "cocUrl": "https://fwdays.com/en/page/code-of-conduct",
     "locales": "EN"
   },
   {
@@ -651,6 +651,20 @@
     "cfpEndDate": "2023-07-19",
     "twitter": "@WeAreDevs",
     "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form.",
+    "locales": "EN"
+  },
+  {
+    "name": "React Rally",
+    "url": "https://www.reactrally.com",
+    "startDate": "2023-08-17",
+    "endDate": "2023-08-18",
+    "city": "Salt Lake City, UT",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/react-rally-2023",
+    "cfpEndDate": "2023-03-31",
+    "twitter": "@ReactRally",
+    "cocUrl": "https://www.reactrally.com/conduct",
     "locales": "EN"
   },
   {
