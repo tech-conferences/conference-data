@@ -809,6 +809,18 @@
     "locales": "EN,ES"
   },
   {
+    "name": "React Summit US",
+    "url": "https://reactsummit.us",
+    "startDate": "2023-11-13",
+    "endDate": "2023-11-15",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@reactsummit",
+    "cocUrl": "https://reactsummit.us/coc",
+    "locales": "EN"
+  },
+  {
     "name": "Conf42 JavaScript",
     "url": "https://www.conf42.com/js2023",
     "startDate": "2023-11-16",
