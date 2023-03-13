@@ -161,6 +161,20 @@
     "locales": "EN,DE"
   },
   {
+    "name": "ML Conference New York",
+    "url": "https://mlconference.ai/new-york",
+    "startDate": "2023-09-25",
+    "endDate": "2023-09-29",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": true,
+    "cfpUrl": "https://mlconference.ai/code-of-conduct",
+    "cfpEndDate": "2023-03-13",
+    "twitter": "@mlconference",
+    "cocUrl": "https://mlconference.ai/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "Global Software Architecture Summit (GSAS)",
     "url": "https://gsas.io",
     "startDate": "2023-10-09",
