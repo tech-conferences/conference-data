@@ -78,6 +78,18 @@
     "cocUrl": "https://wasmio.tech/coc"
   },
   {
+    "name": "Update Days: MAUI",
+    "url": "https://maui.updatedays.cz",
+    "startDate": "2023-03-23",
+    "endDate": "2023-03-24",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "online": true,
+    "twitter": "@update_conf",
+    "cocUrl": "https://www.updateconference.net/en/code-of-conduct",
+    "locales": "EN"
+  },
+  {
     "name": "dotnetdays",
     "url": "https://dotnetdays.ro",
     "startDate": "2023-04-20",
