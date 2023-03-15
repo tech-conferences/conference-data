@@ -114,6 +114,7 @@ module.exports = {
     "Osijek",
     "Rovinj",
     "Sibenik",
+    "Opatija",
     "Split",
     "Zadar",
     "Zagreb"
