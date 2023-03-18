@@ -133,6 +133,21 @@
     "locales": "EN"
   },
   {
+    "name": "revo.js",
+    "url": "https://revojs.ro/2023",
+    "startDate": "2023-10-05",
+    "endDate": "2023-10-06",
+    "city": "Timisoara",
+    "country": "Romania",
+    "online": false,
+    "cfpUrl": "https://revojs.ro/2023/cfp",
+    "cfpEndDate": "2023-06-04",
+    "twitter": "@revojsro",
+    "cocUrl": "https://revojs.ro/code-of-conduct/",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "MagnoliaJS",
     "url": "https://www.magnoliajs.com",
     "startDate": "2023-10-17",
