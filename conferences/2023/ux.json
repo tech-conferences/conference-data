@@ -285,5 +285,18 @@
     "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
     "locales": "EN",
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "IT-Tage",
+    "url": "https://www.ittage.informatik-aktuell.de",
+    "startDate": "2023-12-11",
+    "endDate": "2023-12-14",
+    "city": "Frankfurt",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://www.ittage.informatik-aktuell.de/call-for-papers.html",
+    "cfpEndDate": "2023-04-28",
+    "twitter": "@InformatikAktue",
+    "locales": "DE,EN"
   }
 ]
