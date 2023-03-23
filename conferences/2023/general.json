@@ -940,6 +940,19 @@
     "locales": "EN"
   },
   {
+    "name": "P99 CONF",
+    "url": "https://www.p99conf.io",
+    "startDate": "2023-10-18",
+    "endDate": "2023-10-19",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/p99-conf-2023",
+    "cfpEndDate": "2023-05-12",
+    "twitter": "@p99conf",
+    "cocUrl": "https://www.p99conf.io/code-of-conduct/",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Conf42 Incident Management",
     "url": "https://www.conf42.com/im2023",
     "startDate": "2023-10-19",
