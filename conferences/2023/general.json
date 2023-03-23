@@ -761,6 +761,17 @@
     "locales": "EN"
   },
   {
+    "name": "Techsauce Global Summit (TSGS)",
+    "url": "https://summit.techsauce.co",
+    "startDate": "2023-08-16",
+    "endDate": "2023-08-17",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "online": false,
+    "locales": "EN,TH",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Dev Up",
     "url": "https://www.devupconf.org",
     "startDate": "2023-08-28",
