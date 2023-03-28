@@ -52,10 +52,10 @@ module.exports = {
     "Campinas",
     "Curitiba",
     "Feira De Santana",
-    "Juiz de Fora",
     "Florianópolis",
     "Fortaleza",
     "Goiânia",
+    "Juiz de Fora",
     "Maringá",
     "Porto Alegre",
     "Porto de Galinhas",
@@ -111,10 +111,10 @@ module.exports = {
   "Croatia": [
     "Dubrovnik",
     "Labin",
+    "Opatija",
     "Osijek",
     "Rovinj",
     "Sibenik",
-    "Opatija",
     "Split",
     "Zadar",
     "Zagreb"

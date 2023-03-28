@@ -210,6 +210,19 @@
     "locales": "DE"
   },
   {
+    "name": "#Pragma Conference",
+    "url": "https://pragmaconference.com",
+    "startDate": "2023-10-05",
+    "endDate": "2023-10-06",
+    "city": "Bologna",
+    "country": "Italy",
+    "online": false,
+    "cfpUrl": "https://pragmaconference.com/speakers.html",
+    "cfpEndDate": "2023-06-30",
+    "twitter": "@pragmamarkorg",
+    "locales": "EN"
+  },
+  {
     "name": "SwiftLeeds",
     "url": "https://swiftleeds.co.uk",
     "startDate": "2023-10-18",
@@ -220,19 +233,6 @@
     "cfpUrl": "https://sessionize.com/swiftleeds-ios-conference",
     "cfpEndDate": "2023-04-30",
     "twitter": "@swift_leeds",
-    "locales": "EN"
-  },
-  {
-    "name": "#Pragma Conference",
-    "startDate": "2023-10-05",
-    "endDate": "2023-10-06",
-    "city": "Bologna",
-    "country": "Italy",
-    "online": false,
-    "cfpUrl": "https://pragmaconference.com/speakers.html",
-    "cfpEndDate": "2023-06-30",
-    "twitter": "@pragmamarkorg",
-    "url": "https://pragmaconference.com",
     "locales": "EN"
   }
 ]

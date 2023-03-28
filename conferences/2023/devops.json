@@ -322,6 +322,17 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "DevOps Talks Melbourne",
+    "url": "https://devops.talksplus.com/melbourne/devops",
+    "startDate": "2023-04-05",
+    "endDate": "2023-04-06",
+    "city": "Melbourne",
+    "country": "Australia",
+    "online": false,
+    "cocUrl": "https://devops.talksplus.com/melbourne/code-of-conduct",
+    "locales": "EN"
+  },
+  {
     "name": "Develop",
     "url": "https://developer.cisco.com/develop/2023",
     "startDate": "2023-04-05",
@@ -333,17 +344,6 @@
     "cfpEndDate": "2022-12-31",
     "twitter": "@CiscoDevNet",
     "cocUrl": "https://developer.cisco.com/develop/codeofconduct",
-    "locales": "EN"
-  },
-  {
-    "name": "DevOps Talks Melbourne",
-    "url": "https://devops.talksplus.com/melbourne/devops",
-    "startDate": "2023-04-05",
-    "endDate": "2023-04-06",
-    "city": "Melbourne",
-    "country": "Australia",
-    "online": false,
-    "cocUrl": "https://devops.talksplus.com/melbourne/code-of-conduct",
     "locales": "EN"
   },
   {
@@ -597,6 +597,20 @@
     "locales": "EN"
   },
   {
+    "name": "DevOps Enterprise Summit Amsterdam",
+    "url": "https://itrevolution.com/product/devops-enterprise-summit-amsterdam-2023",
+    "startDate": "2023-05-16",
+    "endDate": "2023-05-17",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/devops-enterprise-summit-amsterdam-2023",
+    "cfpEndDate": "2023-03-10",
+    "twitter": "@ITRevDOES",
+    "cocUrl": "https://itrevolution.com/privacy-policy/",
+    "locales": "EN"
+  },
+  {
     "name": "DevOpsDays Atlanta",
     "url": "https://devopsdays.org/events/2023-atlanta/welcome",
     "startDate": "2023-05-16",
@@ -611,17 +625,14 @@
     "locales": "EN"
   },
   {
-    "name": "DevOps Enterprise Summit Amsterdam",
-    "url": "https://itrevolution.com/product/devops-enterprise-summit-amsterdam-2023",
-    "startDate": "2023-05-16",
-    "endDate": "2023-05-17",
-    "city": "Amsterdam",
-    "country": "Netherlands",
+    "name": "DevOps Talks Conference Sydney",
+    "url": "https://devops.talksplus.com/sydney/devops",
+    "startDate": "2023-05-17",
+    "endDate": "2023-05-18",
+    "city": "Sydney",
+    "country": "Australia",
     "online": false,
-    "cfpUrl": "https://sessionize.com/devops-enterprise-summit-amsterdam-2023",
-    "cfpEndDate": "2023-03-10",
-    "twitter": "@ITRevDOES",
-    "cocUrl": "https://itrevolution.com/privacy-policy/",
+    "cocUrl": "https://devops.talksplus.com/melbourne/code-of-conduct",
     "locales": "EN"
   },
   {
@@ -646,17 +657,6 @@
     "cfpUrl": "https://sessionize.com/kubehuddle-Toronto-2023",
     "cfpEndDate": "2023-03-03",
     "twitter": "@kubehuddle",
-    "locales": "EN"
-  },
-  {
-    "name": "DevOps Talks Conference Sydney",
-    "url": "https://devops.talksplus.com/sydney/devops",
-    "startDate": "2023-05-17",
-    "endDate": "2023-05-18",
-    "city": "Sydney",
-    "country": "Australia",
-    "online": false,
-    "cocUrl": "https://devops.talksplus.com/melbourne/code-of-conduct",
     "locales": "EN"
   },
   {

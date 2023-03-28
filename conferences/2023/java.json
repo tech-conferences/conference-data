@@ -327,6 +327,19 @@
     "locales": "EN"
   },
   {
+    "name": "JAX New York",
+    "url": "https://devm.io/jaxnewyork",
+    "startDate": "2023-09-25",
+    "endDate": "2023-09-28",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": true,
+    "cfpUrl": "https://devm.io/jaxnewyork/contact/#codeofconduct",
+    "cfpEndDate": "2023-03-22",
+    "cocUrl": "https://devm.io/jaxnewyork/contact/#codeofconduct",
+    "locales": "EN"
+  },
+  {
     "name": "iJS Conference New York",
     "url": "https://javascript-conference.com/new-york",
     "startDate": "2023-09-25",
@@ -338,19 +351,6 @@
     "cfpEndDate": "2023-03-20",
     "twitter": "@JavaScriptCon",
     "cocUrl": "https://javascript-conference.com/code-of-conduct/",
-    "locales": "EN"
-  },
-  {
-    "name": "JAX New York",
-    "url": "https://devm.io/jaxnewyork",
-    "startDate": "2023-09-25",
-    "endDate": "2023-09-28",
-    "city": "New York, NY",
-    "country": "U.S.A.",
-    "online": true,
-    "cfpUrl": "https://devm.io/jaxnewyork/contact/#codeofconduct",
-    "cfpEndDate": "2023-03-22",
-    "cocUrl": "https://devm.io/jaxnewyork/contact/#codeofconduct",
     "locales": "EN"
   },
   {
