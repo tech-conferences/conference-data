@@ -33,18 +33,6 @@
     "offersSignLanguageOrCC": true
   },
   {
-    "name": "European GNU Radio Days",
-    "url": "https://gnuradio-eu-23.sciencesconf.org",
-    "startDate": "2023-03-29",
-    "endDate": "2023-03-30",
-    "city": "Paris",
-    "country": "France",
-    "online": false,
-    "cfpUrl": "https://gnuradio-eu-23.sciencesconf.org/registration",
-    "cfpEndDate": "2023-02-28",
-    "locales": "EN"
-  },
-  {
     "name": "WeAreDevelopers Climate Day",
     "url": "https://www.wearedevelopers.com/event/climate-sustainability-day-march-2023",
     "startDate": "2023-03-29",
@@ -54,6 +42,18 @@
     "cfpEndDate": "2023-03-20",
     "twitter": "@WeAreDevs",
     "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct",
+    "locales": "EN"
+  },
+  {
+    "name": "European GNU Radio Days",
+    "url": "https://gnuradio-eu-23.sciencesconf.org",
+    "startDate": "2023-03-29",
+    "endDate": "2023-03-30",
+    "city": "Paris",
+    "country": "France",
+    "online": false,
+    "cfpUrl": "https://gnuradio-eu-23.sciencesconf.org/registration",
+    "cfpEndDate": "2023-02-28",
     "locales": "EN"
   },
   {
