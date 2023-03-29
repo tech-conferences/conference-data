@@ -231,6 +231,21 @@
     "locales": "EN"
   },
   {
+    "name": "Paris Web",
+    "url": "https://www.paris-web.fr",
+    "startDate": "2023-09-28",
+    "endDate": "2023-09-30",
+    "city": "Paris",
+    "country": "France",
+    "online": false,
+    "cfpUrl": "https://appel.paris-web.fr",
+    "cfpEndDate": "2023-04-09",
+    "twitter": "@parisweb",
+    "cocUrl": "https://www.paris-web.fr/code-de-conduite.php",
+    "locales": "FR",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Hatch Conference",
     "url": "https://www.hatchconference.com",
     "startDate": "2023-10-05",
