@@ -36,5 +36,19 @@
     "twitter": "@GothamGo",
     "cocUrl": "http://gothamgo.com/conduct",
     "locales": "EN"
+  },
+  {
+    "name": "Cloud Foundry Day",
+    "url": "https://events.linuxfoundation.org/cloud-foundry-day",
+    "startDate": "2023-06-21",
+    "endDate": "2023-06-21",
+    "city": "Heidelberg",
+    "country": "Germany",
+    "online": true,
+    "cfpUrl": "https://events.linuxfoundation.org/cloud-foundry-day/program/cfp",
+    "cfpEndDate": "2023-04-28",
+    "twitter": "@cloudfoundry",
+    "cocUrl": "https://events.linuxfoundation.org/cloud-foundry-day/attend/code-of-conduct/",
+    "locales": "EN"
   }
 ]
