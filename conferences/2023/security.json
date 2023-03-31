@@ -337,6 +337,19 @@
     "locales": "EN,DE"
   },
   {
+    "name": "IT Security Camp | 26. – 28. Juni | München & online",
+    "url": "https://it-security-camp.de",
+    "startDate": "2023-06-26",
+    "endDate": "2023-06-28",
+    "city": "Munich",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@ITSecurityCamp",
+    "cocUrl": "https://it-security-camp.de/code-of-conduct/",
+    "locales": "DE",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Visual Studio Live! Microsoft HQ",
     "url": "https://vslive.com/events/microsofthq-2023/home.aspx",
     "startDate": "2023-07-17",
