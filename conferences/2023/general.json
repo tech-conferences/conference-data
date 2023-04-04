@@ -450,6 +450,15 @@
     "twitter": "@womentechnet"
   },
   {
+    "name": "Student Day",
+    "url": "https://www.wearedevelopers.com/event/student-day-may-2023",
+    "startDate": "2023-05-10",
+    "endDate": "2023-05-10",
+    "online": true,
+    "twitter": "@WeAreDevelopers",
+    "locales": "EN"
+  },
+  {
     "name": "Open Source Summit North America",
     "url": "https://events.linuxfoundation.org/open-source-summit-north-america",
     "startDate": "2023-05-10",
@@ -459,15 +468,6 @@
     "online": true,
     "twitter": "@linuxfoundation",
     "cocUrl": "https://events.linuxfoundation.org/open-source-summit-north-america/attend/code-of-conduct/",
-    "locales": "EN"
-  },
-  {
-    "name": "Student Day",
-    "url": "https://www.wearedevelopers.com/event/student-day-may-2023",
-    "startDate": "2023-05-10",
-    "endDate": "2023-05-10",
-    "online": true,
-    "twitter": "@WeAreDevelopers",
     "locales": "EN"
   },
   {
@@ -516,6 +516,17 @@
     "twitter": "@NDC_Conferences",
     "cocUrl": "https://ndcoslo.com/code-of-conduct",
     "locales": "EN"
+  },
+  {
+    "name": "Adobe Developers Live: Composable Experiences",
+    "url": "https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-composable-experiences",
+    "startDate": "2023-05-23",
+    "endDate": "2023-05-23",
+    "online": true,
+    "twitter": "@adobedevs",
+    "cocUrl": "https://business.adobe.com/events/developers-live-code-of-conduct.html",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "Dev Conf Cape Town",
@@ -568,17 +579,6 @@
     "online": true,
     "twitter": "@DevDaysEurope",
     "cocUrl": "https://devdays.lt/code-of-conduct/"
-  },
-  {
-    "name": "Adobe Developers Live: Composable Experiences",
-    "url": "https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-composable-experiences",
-    "startDate": "2023-05-23",
-    "endDate": "2023-05-23",
-    "online": true,
-    "twitter": "@adobedevs",
-    "cocUrl": "https://business.adobe.com/events/developers-live-code-of-conduct.html",
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
   },
   {
     "name": "Web3 Day",
@@ -732,18 +732,6 @@
     "locales": "EN"
   },
   {
-    "name": "KCDC",
-    "url": "https://www.kcdc.info",
-    "startDate": "2023-06-21",
-    "endDate": "2023-06-23",
-    "city": "Kansas City, KS",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@kc_dc",
-    "cocUrl": "https://www.kcdc.info/code-of-conduct",
-    "locales": "EN"
-  },
-  {
     "name": "Cloud Foundry Day",
     "url": "https://events.linuxfoundation.org/cloud-foundry-day",
     "startDate": "2023-06-21",
@@ -755,6 +743,18 @@
     "cfpEndDate": "2023-04-28",
     "twitter": "@cloudfoundry",
     "cocUrl": "https://events.linuxfoundation.org/cloud-foundry-day/attend/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
+    "name": "KCDC",
+    "url": "https://www.kcdc.info",
+    "startDate": "2023-06-21",
+    "endDate": "2023-06-23",
+    "city": "Kansas City, KS",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@kc_dc",
+    "cocUrl": "https://www.kcdc.info/code-of-conduct",
     "locales": "EN"
   },
   {

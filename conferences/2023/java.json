@@ -168,6 +168,16 @@
     "locales": "EN,FR"
   },
   {
+    "name": "BTPcon for SAP Business Technology Platform BTP",
+    "url": "https://www.btpcon.org",
+    "startDate": "2023-04-14",
+    "endDate": "2023-04-14",
+    "city": "Hannover",
+    "country": "Germany",
+    "online": false,
+    "locales": "DE"
+  },
+  {
     "name": "Pacific Northwest Software Symposium",
     "url": "https://nofluffjuststuff.com/seattle",
     "startDate": "2023-04-14",
@@ -178,16 +188,6 @@
     "twitter": "@nofluff",
     "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct",
     "locales": "EN"
-  },
-  {
-    "name": "BTPcon for SAP Business Technology Platform BTP",
-    "url": "https://www.btpcon.org",
-    "startDate": "2023-04-14",
-    "endDate": "2023-04-14",
-    "city": "Hannover",
-    "country": "Germany",
-    "online": false,
-    "locales": "DE"
   },
   {
     "name": "JAX",

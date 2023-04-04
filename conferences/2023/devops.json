@@ -574,15 +574,13 @@
     "locales": "EN"
   },
   {
-    "name": "Devopsdays Ukraine",
-    "url": "https://devopsdays.org/events/2023-kyiv/welcome/",
+    "name": "Student Day",
+    "url": "https://www.wearedevelopers.com/event/student-day-may-2023",
     "startDate": "2023-05-10",
-    "endDate": "2023-05-11",
+    "endDate": "2023-05-10",
     "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfYctoS0dGsUSkY6tV6n4mzPsFDbdjjE9BDM6twfsdxPtQUtg/viewform",
-    "cfpEndDate": "2023-04-10",
-    "twitter": "@devopsdays_kyiv",
-    "cocUrl": "https://devopsdays.org/events/2023-kyiv/conduct"
+    "twitter": "@WeAreDevelopers",
+    "locales": "EN"
   },
   {
     "name": "Camunda Community Summit",
@@ -595,13 +593,15 @@
     "locales": "EN,DE"
   },
   {
-    "name": "Student Day",
-    "url": "https://www.wearedevelopers.com/event/student-day-may-2023",
+    "name": "Devopsdays Ukraine",
+    "url": "https://devopsdays.org/events/2023-kyiv/welcome/",
     "startDate": "2023-05-10",
-    "endDate": "2023-05-10",
+    "endDate": "2023-05-11",
     "online": true,
-    "twitter": "@WeAreDevelopers",
-    "locales": "EN"
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfYctoS0dGsUSkY6tV6n4mzPsFDbdjjE9BDM6twfsdxPtQUtg/viewform",
+    "cfpEndDate": "2023-04-10",
+    "twitter": "@devopsdays_kyiv",
+    "cocUrl": "https://devopsdays.org/events/2023-kyiv/conduct"
   },
   {
     "name": "Visual Studio Live! Nashville",
