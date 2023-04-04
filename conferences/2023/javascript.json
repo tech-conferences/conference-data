@@ -272,6 +272,16 @@
     "locales": "EN,FR"
   },
   {
+    "name": "BTPcon for SAP Business Technology Platform BTP",
+    "url": "https://www.btpcon.org",
+    "startDate": "2023-04-14",
+    "endDate": "2023-04-14",
+    "city": "Hannover",
+    "country": "Germany",
+    "online": false,
+    "locales": "DE"
+  },
+  {
     "name": "Node Congress",
     "url": "https://nodecongress.com",
     "startDate": "2023-04-14",
@@ -284,16 +294,6 @@
     "twitter": "@NodeCongress",
     "cocUrl": "https://nodecongress.com/coc",
     "locales": "EN"
-  },
-  {
-    "name": "BTPcon for SAP Business Technology Platform BTP",
-    "url": "https://www.btpcon.org",
-    "startDate": "2023-04-14",
-    "endDate": "2023-04-14",
-    "city": "Hannover",
-    "country": "Germany",
-    "online": false,
-    "locales": "DE"
   },
   {
     "name": "React Miami",
@@ -377,6 +377,15 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Student Day",
+    "url": "https://www.wearedevelopers.com/event/student-day-may-2023",
+    "startDate": "2023-05-10",
+    "endDate": "2023-05-10",
+    "online": true,
+    "twitter": "@WeAreDevelopers",
+    "locales": "EN"
+  },
+  {
     "name": "OpenJS World",
     "url": "https://events.linuxfoundation.org/open-source-summit-north-america/about/openjs-world/",
     "startDate": "2023-05-10",
@@ -386,15 +395,6 @@
     "cfpEndDate": "2023-02-05",
     "twitter": "@openjsf",
     "cocUrl": "https://events.linuxfoundation.org/open-source-summit-north-america/attend/code-of-conduct/",
-    "locales": "EN"
-  },
-  {
-    "name": "Student Day",
-    "url": "https://www.wearedevelopers.com/event/student-day-may-2023",
-    "startDate": "2023-05-10",
-    "endDate": "2023-05-10",
-    "online": true,
-    "twitter": "@WeAreDevelopers",
     "locales": "EN"
   },
   {

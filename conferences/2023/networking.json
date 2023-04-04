@@ -107,6 +107,16 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Camunda Community Summit",
+    "url": "https://summit.camunda.com",
+    "startDate": "2023-05-10",
+    "endDate": "2023-05-11",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN,DE"
+  },
+  {
     "name": "App.js Conf",
     "url": "https://appjs.co",
     "startDate": "2023-05-10",
@@ -116,16 +126,6 @@
     "online": false,
     "twitter": "@appjsconf",
     "cocUrl": "https://appjs.co/Code-of-Conduct.pdf"
-  },
-  {
-    "name": "Camunda Community Summit",
-    "url": "https://summit.camunda.com",
-    "startDate": "2023-05-10",
-    "endDate": "2023-05-11",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "locales": "EN,DE"
   },
   {
     "name": "TangleCon",
