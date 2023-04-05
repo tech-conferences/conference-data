@@ -418,6 +418,20 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Linux Security Summit Europe",
+    "url": "https://events.linuxfoundation.org/linux-security-summit-europe",
+    "startDate": "2023-09-20",
+    "endDate": "2023-09-21",
+    "city": "Bilbao",
+    "country": "Spain",
+    "online": true,
+    "cfpUrl": "https://events.linuxfoundation.org/linux-security-summit-europe/program/cfp",
+    "cfpEndDate": "2023-06-05",
+    "twitter": "@linuxfoundation",
+    "cocUrl": "https://events.linuxfoundation.org/linux-security-summit-europe/attend/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "GraphQL Summit",
     "url": "https://summit.graphql.com",
     "startDate": "2023-10-10",
