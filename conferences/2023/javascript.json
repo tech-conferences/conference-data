@@ -899,6 +899,20 @@
     "locales": "EN"
   },
   {
+    "name": "IPC Conference Munich",
+    "url": "https://phpconference.com/munich",
+    "startDate": "2023-10-23",
+    "endDate": "2023-10-27",
+    "city": "Munich",
+    "country": "Germany",
+    "online": true,
+    "cfpUrl": "https://phpconference.com/call-for-papers",
+    "cfpEndDate": "2023-04-06",
+    "twitter": "@phpconference",
+    "cocUrl": "https://phpconference.com/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "Web Directions Summit",
     "url": "https://webdirections.org/summit",
     "startDate": "2023-10-26",
