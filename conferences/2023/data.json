@@ -71,16 +71,6 @@
     "online": false,
     "locales": "EN"
   },
-    {
-    "name": "PGDay/MED",
-    "url": "https://2023.pgdaymed.org/",
-    "startDate": "2023-04-13",
-    "endDate": "2023-04-13",
-    "city": "Saint Julian's",
-    "country": "Malta",
-    "online": false,
-    "locales": "EN"
-  },
   {
     "name": "NVIDIA GTC: AI Developer Conference",
     "url": "https://www.nvidia.com/gtc",
@@ -150,7 +140,17 @@
     "locales": "EN,FR"
   },
   {
-    "name": "Citus Con 2023",
+    "name": "PGDay/MED",
+    "url": "https://2023.pgdaymed.org/",
+    "startDate": "2023-04-13",
+    "endDate": "2023-04-13",
+    "city": "St Julian's",
+    "country": "Malta",
+    "online": false,
+    "locales": "EN"
+  },
+  {
+    "name": "Citus Con",
     "url": "https://www.citusdata.com/cituscon/2023/",
     "startDate": "2023-04-18",
     "endDate": "2023-04-19",
@@ -164,7 +164,7 @@
     "url": "https://2023.pgdaychicago.org/",
     "startDate": "2023-04-20",
     "endDate": "2023-04-20",
-    "city": "Chicago",
+    "city": "Chicago, IL",
     "country": "U.S.A.",
     "twitter": "@pgdaychicago",
     "cocUrl": "https://2023.pgdaychicago.org/inclusion/",
@@ -218,11 +218,11 @@
     "locales": "EN"
   },
   {
-    "name": "PostgreSQL Conference Nepal 2023",
+    "name": "PostgreSQL Conference Nepal",
     "url": "https://pgconf.org.np/",
     "startDate": "2023-05-11",
     "endDate": "2023-05-12",
-    "city": "Dhulikhel",
+    "city": "Kathmandu",
     "country": "Nepal",
     "online": false,
     "locales": "EN"
@@ -232,11 +232,11 @@
     "url": "https://pgconf.be",
     "startDate": "2023-05-12",
     "endDate": "2023-05-12",
-    "city": "Haasrode",
+    "city": "Leuven",
     "country": "Belgium",
     "online": false,
-    "locales": "EN",
-    "cocUrl": "https://pgconf.be/codeofconduct.html"
+    "cocUrl": "https://pgconf.be/codeofconduct.html",
+    "locales": "EN"
   },
   {
     "name": "Conf42 Machine Learning",
@@ -387,14 +387,14 @@
     "locales": "EN"
   },
   {
-    "name": "PG Day France 2023",
+    "name": "PG Day France",
     "url": "https://www.pgday.fr/",
     "startDate": "2023-06-19",
     "endDate": "2023-06-20",
     "city": "Strasbourg",
     "country": "France",
     "online": false,
-    "cfpUrl": " https://www.pgday.fr/appel",
+    "cfpUrl": "https://www.pgday.fr/appel",
     "cfpEndDate": "2023-04-16",
     "twitter": "@PGDAY_Fr",
     "cocUrl": "https://pgday.fr/codedeconduite",
@@ -437,7 +437,7 @@
     "offersSignLanguageOrCC": true
   },
   {
-    "name": "pgconf.de 2023",
+    "name": "PostgreSQL Conference Germany",
     "url": "https://2023.pgconf.de/",
     "startDate": "2023-06-27",
     "endDate": "2023-06-27",
@@ -449,6 +449,20 @@
     "locales": "EN"
   },
   {
+    "name": "Swiss PGDay",
+    "url": "https://pgday.ch/2023/",
+    "startDate": "2023-06-27",
+    "endDate": "2023-06-27",
+    "city": "St. Gallen",
+    "country": "Switzerland",
+    "online": false,
+    "cfpUrl": "https://pgday.ch/2023/#cfs",
+    "cfpEndDate": "2023-04-17",
+    "twitter": "@swiss_pgday",
+    "cocUrl": "https://www.pgday.ch/2023/#about",
+    "locales": "EN"
+  },
+  {
     "name": "BCI Summit: Transforming Data and AI",
     "url": "https://bcisummit.com/summit-2023j.html",
     "startDate": "2023-06-28",
@@ -457,20 +471,6 @@
     "country": "U.S.A.",
     "online": false,
     "twitter": "@bcisummit",
-    "locales": "EN"
-  },
-  {
-    "name": "Swiss PGDay 2023",
-    "url": "https://pgday.ch/2023/",
-    "startDate": "2023-06-27",
-    "endDate": "2023-06-27",
-    "city": "St. Gallen",
-    "country": "Switzerland",
-    "online": false,
-    "twitter": "@swiss_pgday",
-    "cfpUrl": "https://pgday.ch/2023/#cfs"
-    "cfpEndDate": "2023-04-17"
-    "cocUrl": "https://www.pgday.ch/2023/#about",
     "locales": "EN"
   },
   {
@@ -532,6 +532,20 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Civo Navigate Europe",
+    "url": "https://www.civo.com/navigate",
+    "startDate": "2023-09-05",
+    "endDate": "2023-09-06",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "cfpUrl": "https://www-eur.cvent.com/c/abstracts/b25e8cdd-b19d-4626-8b2b-0fdb1ecb565d",
+    "cfpEndDate": "2023-05-31",
+    "twitter": "@CivoCloud",
+    "cocUrl": "https://www.civo.com/navigate/code-of-conduct",
+    "locales": "EN"
+  },
+  {
     "name": "Try Swift! NYC",
     "url": "https://www.tryswift.co/events/2023/nyc",
     "startDate": "2023-09-05",
@@ -559,20 +573,6 @@
     "cocUrl": "https://events.gnuradio.org/event/21/page/91-code-of-conduct",
     "locales": "EN",
     "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "Civo Navigate Europe",
-    "url": "https://www.civo.com/navigate",
-    "startDate": "2023-09-05",
-    "endDate": "2023-09-06",
-    "city": "London",
-    "country": "U.K.",
-    "online": false,
-    "cfpUrl": "https://www-eur.cvent.com/c/abstracts/b25e8cdd-b19d-4626-8b2b-0fdb1ecb565d",
-    "cfpEndDate": "2023-05-31",
-    "twitter": "@CivoCloud",
-    "cocUrl": "https://www.civo.com/navigate/code-of-conduct",
-    "locales": "EN"
   },
   {
     "name": "DSS Miami: AI and Machine Learning in the Enterprise",
@@ -648,7 +648,7 @@
     "locales": "EN,DE"
   },
   {
-    "name": "PGDay Israel 2023",
+    "name": "PGDay Israel",
     "url": "https://pgday.org.il/",
     "startDate": "2023-10-19",
     "endDate": "2023-10-19",
@@ -704,7 +704,7 @@
     "startDate": "2023-12-12",
     "endDate": "2023-12-15",
     "city": "Prague",
-    "country": "Czechia",
+    "country": "Czech Republic",
     "online": false,
     "twitter": "@pgconfeu",
     "locales": "EN"

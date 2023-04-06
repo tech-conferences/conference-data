@@ -341,6 +341,9 @@ module.exports = {
     "Penang",
     "Sabah"
   ],
+  "Malta": [
+    "St Julian's"
+  ],
   "Mauritius": [
     "Moka"
   ],
@@ -520,6 +523,7 @@ module.exports = {
     "Geneva",
     "Lausanne",
     "Lugano",
+    "St. Gallen",
     "Nottwil",
     "Rapperswil",
     "Zurich"
