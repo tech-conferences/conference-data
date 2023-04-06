@@ -71,6 +71,16 @@
     "online": false,
     "locales": "EN"
   },
+    {
+    "name": "PGDay/MED",
+    "url": "https://2023.pgdaymed.org/",
+    "startDate": "2023-04-13",
+    "endDate": "2023-04-13",
+    "city": "Saint Julian's",
+    "country": "Malta",
+    "online": false,
+    "locales": "EN"
+  },
   {
     "name": "NVIDIA GTC: AI Developer Conference",
     "url": "https://www.nvidia.com/gtc",
@@ -140,6 +150,27 @@
     "locales": "EN,FR"
   },
   {
+    "name": "Citus Con 2023",
+    "url": "https://www.citusdata.com/cituscon/2023/",
+    "startDate": "2023-04-18",
+    "endDate": "2023-04-19",
+    "online": true,
+    "twitter": "@cituscon",
+    "cocUrl": "https://www.citusdata.com/cituscon/2023/coc/",
+    "locales": "EN"
+  },
+  {
+    "name": "pgDay Chicago",
+    "url": "https://2023.pgdaychicago.org/",
+    "startDate": "2023-04-20",
+    "endDate": "2023-04-20",
+    "city": "Chicago",
+    "country": "U.S.A.",
+    "twitter": "@pgdaychicago",
+    "cocUrl": "https://2023.pgdaychicago.org/inclusion/",
+    "locales": "EN"
+  },
+  {
     "name": "PyData",
     "url": "https://pydata.org/seattle2023",
     "startDate": "2023-04-26",
@@ -185,6 +216,27 @@
     "online": true,
     "twitter": "@ODSC",
     "locales": "EN"
+  },
+  {
+    "name": "PostgreSQL Conference Nepal 2023",
+    "url": "https://pgconf.org.np/",
+    "startDate": "2023-05-11",
+    "endDate": "2023-05-12",
+    "city": "Dhulikhel",
+    "country": "Nepal",
+    "online": false,
+    "locales": "EN"
+  },
+  {
+    "name": "PGConf BE",
+    "url": "https://pgconf.be",
+    "startDate": "2023-05-12",
+    "endDate": "2023-05-12",
+    "city": "Haasrode",
+    "country": "Belgium",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://pgconf.be/codeofconduct.html"
   },
   {
     "name": "Conf42 Machine Learning",
@@ -335,6 +387,20 @@
     "locales": "EN"
   },
   {
+    "name": "PG Day France 2023",
+    "url": "https://www.pgday.fr/",
+    "startDate": "2023-06-19",
+    "endDate": "2023-06-20",
+    "city": "Strasbourg",
+    "country": "France",
+    "online": false,
+    "cfpUrl": " https://www.pgday.fr/appel",
+    "cfpEndDate": "2023-04-16",
+    "twitter": "@PGDAY_Fr",
+    "cocUrl": "https://pgday.fr/codedeconduite",
+    "locales": "FR"
+  },
+  {
     "name": "ML Conference Munich",
     "url": "https://mlconference.ai/munich",
     "startDate": "2023-06-19",
@@ -371,6 +437,18 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "pgconf.de 2023",
+    "url": "https://2023.pgconf.de/",
+    "startDate": "2023-06-27",
+    "endDate": "2023-06-27",
+    "city": "Essen",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@pgconfde",
+    "cocUrl": "https://2023.pgconf.de/codeofconduct/",
+    "locales": "EN"
+  },
+  {
     "name": "BCI Summit: Transforming Data and AI",
     "url": "https://bcisummit.com/summit-2023j.html",
     "startDate": "2023-06-28",
@@ -379,6 +457,20 @@
     "country": "U.S.A.",
     "online": false,
     "twitter": "@bcisummit",
+    "locales": "EN"
+  },
+  {
+    "name": "Swiss PGDay 2023",
+    "url": "https://pgday.ch/2023/",
+    "startDate": "2023-06-27",
+    "endDate": "2023-06-27",
+    "city": "St. Gallen",
+    "country": "Switzerland",
+    "online": false,
+    "twitter": "@swiss_pgday",
+    "cfpUrl": "https://pgday.ch/2023/#cfs"
+    "cfpEndDate": "2023-04-17"
+    "cocUrl": "https://www.pgday.ch/2023/#about",
     "locales": "EN"
   },
   {
@@ -556,6 +648,19 @@
     "locales": "EN,DE"
   },
   {
+    "name": "PGDay Israel 2023",
+    "url": "https://pgday.org.il/",
+    "startDate": "2023-10-19",
+    "endDate": "2023-10-19",
+    "city": "Tel Aviv",
+    "country": "Israel",
+    "online": false,
+    "cfpUrl": "https://pgday.org.il/#cfp",
+    "cfpEndDate": "2023-06-30",
+    "cocUrl": "https://pgday.org.il/#organization",
+    "locales": "EN"
+  },
+  {
     "name": "APIWorld",
     "url": "https://apiworld.co",
     "startDate": "2023-10-24",
@@ -591,6 +696,17 @@
     "country": "U.S.A.",
     "online": true,
     "twitter": "@ODSC",
+    "locales": "EN"
+  },
+  {
+    "name": "PostgreSQL Conference Europe",
+    "url": "https://2023.pgconf.eu/",
+    "startDate": "2023-12-12",
+    "endDate": "2023-12-15",
+    "city": "Prague",
+    "country": "Czechia",
+    "online": false,
+    "twitter": "@pgconfeu",
     "locales": "EN"
   }
 ]
