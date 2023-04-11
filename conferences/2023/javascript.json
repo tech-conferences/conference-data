@@ -398,6 +398,18 @@
     "locales": "EN"
   },
   {
+    "name": "200 OK",
+    "url": "https://200ok.us",
+    "startDate": "2023-05-12",
+    "endDate": "2023-05-12",
+    "city": "Tulsa, OK",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@200okconf",
+    "cocUrl": "https://www.techlahoma.org/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "BeJS Conf",
     "url": "https://www.bejs.io/conf",
     "startDate": "2023-05-12",
@@ -434,18 +446,6 @@
     "cfpEndDate": "2023-02-05",
     "twitter": "@VueJSLive",
     "cocUrl": "https://vuejslive.com/coc",
-    "locales": "EN"
-  },
-  {
-    "name": "200 OK",
-    "url": "https://200ok.us",
-    "startDate": "2023-05-12",
-    "endDate": "2023-05-12",
-    "city": "Tulsa, OK",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@200okconf",
-    "cocUrl": "https://www.techlahoma.org/code-of-conduct/",
     "locales": "EN"
   },
   {
@@ -897,20 +897,6 @@
     "locales": "EN"
   },
   {
-    "name": "iJS Munich",
-    "url": "https://javascript-conference.com/munich",
-    "startDate": "2023-10-23",
-    "endDate": "2023-10-27",
-    "city": "Munich",
-    "country": "Germany",
-    "online": true,
-    "cfpUrl": "https://javascript-conference.com/service-info",
-    "cfpEndDate": "2023-04-03",
-    "twitter": "@JavaScriptCon",
-    "cocUrl": "https://javascript-conference.com/service-info/code-of-conduct/",
-    "locales": "EN"
-  },
-  {
     "name": "International PHP Conference",
     "url": "https://phpconference.com/munich",
     "startDate": "2023-10-23",
@@ -923,6 +909,20 @@
     "twitter": "@phpconference",
     "cocUrl": "https://phpconference.com/code-of-conduct/",
     "locales": "EN,DE"
+  },
+  {
+    "name": "iJS Munich",
+    "url": "https://javascript-conference.com/munich",
+    "startDate": "2023-10-23",
+    "endDate": "2023-10-27",
+    "city": "Munich",
+    "country": "Germany",
+    "online": true,
+    "cfpUrl": "https://javascript-conference.com/service-info",
+    "cfpEndDate": "2023-04-03",
+    "twitter": "@JavaScriptCon",
+    "cocUrl": "https://javascript-conference.com/service-info/code-of-conduct/",
+    "locales": "EN"
   },
   {
     "name": "Web Directions Summit",
