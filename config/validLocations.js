@@ -524,9 +524,9 @@ module.exports = {
     "Geneva",
     "Lausanne",
     "Lugano",
-    "St. Gallen",
     "Nottwil",
     "Rapperswil",
+    "St. Gallen",
     "Zurich"
   ],
   "Taiwan": [

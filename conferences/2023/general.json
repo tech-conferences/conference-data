@@ -355,6 +355,17 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Laserfiche Empower",
+    "url": "https://event.laserfiche.com/Empower23Dallas",
+    "startDate": "2023-04-20",
+    "endDate": "2023-04-21",
+    "city": "Dallas, TX",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Serverless Architecture Conference London",
     "url": "https://serverless-architecture.io/london",
     "startDate": "2023-04-24",
@@ -602,17 +613,6 @@
     "twitter": "@devconfza",
     "cocUrl": "https://www.devconf.co.za/codeofconduct",
     "locales": "EN"
-  },
-  {
-    "name": "Laserfiche Empower",
-    "url": "https://event.laserfiche.com/Empower23Dallas",
-    "startDate": "2023-04-20",
-    "endDate": "2023-04-21",
-    "city": "Dallas, TX",
-    "country": "U.S.A.",
-    "online": false,
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
   },
   {
     "name": "Laserfiche Empower",
@@ -962,20 +962,6 @@
     "locales": "EN"
   },
   {
-    "name": "Herbstcampus",
-    "url": "https://www.herbstcampus.de",
-    "startDate": "2023-09-05",
-    "endDate": "2023-09-07",
-    "city": "Nürnberg",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://www.herbstcampus.de/cfp.php",
-    "cfpEndDate": "2023-04-24",
-    "twitter": "@Herbstcampus",
-    "cocUrl": "https://www.herbstcampus.de/code_of_conduct.php",
-    "locales": "EN,DE"
-  },
-  {
     "name": "Civo Navigate Europe",
     "url": "https://www.civo.com/navigate",
     "startDate": "2023-09-05",
@@ -988,6 +974,20 @@
     "twitter": "@CivoCloud",
     "cocUrl": "https://www.civo.com/navigate/code-of-conduct",
     "locales": "EN"
+  },
+  {
+    "name": "Herbstcampus",
+    "url": "https://www.herbstcampus.de",
+    "startDate": "2023-09-05",
+    "endDate": "2023-09-07",
+    "city": "Nürnberg",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://www.herbstcampus.de/cfp.php",
+    "cfpEndDate": "2023-04-24",
+    "twitter": "@Herbstcampus",
+    "cocUrl": "https://www.herbstcampus.de/code_of_conduct.php",
+    "locales": "EN,DE"
   },
   {
     "name": "DebConf",
