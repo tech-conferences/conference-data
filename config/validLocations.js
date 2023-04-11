@@ -81,6 +81,7 @@ module.exports = {
     "Montreal",
     "Ottawa",
     "Quebec",
+    "Regina",
     "St. John’s",
     "Toronto",
     "Vancouver",
