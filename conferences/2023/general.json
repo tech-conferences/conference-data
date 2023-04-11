@@ -605,13 +605,25 @@
   },
   {
     "name": "Laserfiche Empower",
-    "url": "https://empower.laserfiche.com/event/39eb2d7a-a0b9-4fd2-8438-72995c946ebd/websitePage:3465c6ee-fddf-41a5-bc8c-357d2a921b3e",
+    "url": "https://event.laserfiche.com/Empower23Dallas",
+    "startDate": "2023-04-20",
+    "endDate": "2023-04-21",
+    "city": "Dallas, TX",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "Laserfiche Empower",
+    "url": "https://event.laserfiche.com/Empower23LongBeach",
     "startDate": "2023-05-31",
     "endDate": "2023-06-01",
     "city": "Long Beach, CA",
     "country": "U.S.A.",
     "online": false,
-    "locales": "EN"
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "Scenic City Summit",
