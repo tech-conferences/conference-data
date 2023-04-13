@@ -515,20 +515,6 @@
     "locales": "EN"
   },
   {
-    "name": "NDC Oslo",
-    "url": "https://ndcoslo.com",
-    "startDate": "2023-05-22",
-    "endDate": "2023-05-26",
-    "city": "Oslo",
-    "country": "Norway",
-    "online": false,
-    "cfpUrl": "https://ndcoslo.com/call-for-papers",
-    "cfpEndDate": "2023-01-27",
-    "twitter": "@NDC_Conferences",
-    "cocUrl": "https://ndcoslo.com/code-of-conduct",
-    "locales": "EN"
-  },
-  {
     "name": "GOTO Aarhus",
     "url": "https://gotoaarhus.com/2023",
     "startDate": "2023-05-22",
@@ -550,6 +536,20 @@
     "online": false,
     "twitter": "@gotocon",
     "cocUrl": "https://gotochgo.com/2023/code-of-conduct",
+    "locales": "EN"
+  },
+  {
+    "name": "NDC Oslo",
+    "url": "https://ndcoslo.com",
+    "startDate": "2023-05-22",
+    "endDate": "2023-05-26",
+    "city": "Oslo",
+    "country": "Norway",
+    "online": false,
+    "cfpUrl": "https://ndcoslo.com/call-for-papers",
+    "cfpEndDate": "2023-01-27",
+    "twitter": "@NDC_Conferences",
+    "cocUrl": "https://ndcoslo.com/code-of-conduct",
     "locales": "EN"
   },
   {
@@ -575,6 +575,18 @@
     "cfpEndDate": "2023-01-17",
     "twitter": "@devconfza",
     "cocUrl": "https://www.devconf.co.za/codeofconduct",
+    "locales": "EN"
+  },
+  {
+    "name": "Microsoft Build",
+    "url": "https://build.microsoft.com",
+    "startDate": "2023-05-23",
+    "endDate": "2023-05-25",
+    "city": "Seattle, WA",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@msdev",
+    "cocUrl": "https://build.microsoft.com/en-US/code-of-conduct",
     "locales": "EN"
   },
   {
@@ -614,18 +626,6 @@
     "online": true,
     "twitter": "@DevDaysEurope",
     "cocUrl": "https://devdays.lt/code-of-conduct/"
-  },
-  {
-    "name": "Microsoft Build",
-    "url": "https://build.microsoft.com",
-    "startDate": "2023-05-23",
-    "endDate": "2023-05-25",
-    "city": "Seattle, WA",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@msdev",
-    "cocUrl": "https://build.microsoft.com/en-US/code-of-conduct",
-    "locales": "EN"
   },
   {
     "name": "Web3 Day",
