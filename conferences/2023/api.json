@@ -190,17 +190,6 @@
     "offersSignLanguageOrCC": true
   },
   {
-    "name": "Platform Summit",
-    "url": "https://nordicapis.com/events/platform-summit-2023",
-    "startDate": "2023-10-16",
-    "endDate": "2023-10-18",
-    "city": "Stockholm",
-    "country": "Sweden",
-    "online": false,
-    "twitter": "@nordicapis",
-    "locales": "EN"
-  },
-  {
     "name": "API Conference Berlin",
     "url": "https://apiconference.net/berlin",
     "startDate": "2023-10-16",
@@ -212,6 +201,17 @@
     "cfpEndDate": "2023-04-12",
     "twitter": "@api_conference",
     "cocUrl": "https://apiconference.net/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
+    "name": "Platform Summit",
+    "url": "https://nordicapis.com/events/platform-summit-2023",
+    "startDate": "2023-10-16",
+    "endDate": "2023-10-18",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "online": false,
+    "twitter": "@nordicapis",
     "locales": "EN"
   },
   {
