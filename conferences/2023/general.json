@@ -886,11 +886,23 @@
     "city": "Toronto",
     "country": "Canada",
     "online": true,
-    "cfpUrl": "https://www.refactorconf.com/dx#speakers",
+    "cfpUrl": "https://www.papercall.io/refactor-dx-2023",
     "cfpEndDate": "2023-05-31",
     "twitter": "@refactorconf",
     "cocUrl": "https://www.refactorconf.com/dx#/conduct",
     "locales": "EN"
+  },
+  {
+    "name": "Barcelona Developers Conference",
+    "url": "https://www.devbcn.com",
+    "startDate": "2023-07-03",
+    "endDate": "2023-07-05",
+    "city": "Barcelona",
+    "country": "Spain",
+    "online": false,
+    "twitter": "@dev_bcn",
+    "cocUrl": "https://www.devbcn.com/codeOfConduct",
+    "locales": "EN,ES"
   },
   {
     "name": "FOSSY",
