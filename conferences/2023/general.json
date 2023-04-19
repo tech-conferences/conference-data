@@ -879,6 +879,18 @@
     "cocUrl": "https://www.conf42.com/code-of-conduct"
   },
   {
+    "name": "Barcelona Developers Conference",
+    "url": "https://www.devbcn.com",
+    "startDate": "2023-07-03",
+    "endDate": "2023-07-05",
+    "city": "Barcelona",
+    "country": "Spain",
+    "online": false,
+    "twitter": "@dev_bcn",
+    "cocUrl": "https://www.devbcn.com/codeOfConduct",
+    "locales": "EN,ES"
+  },
+  {
     "name": "FOSSY",
     "url": "https://sfconservancy.org/fossy/",
     "startDate": "2023-07-13",
