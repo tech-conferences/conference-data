@@ -879,6 +879,18 @@
     "cocUrl": "https://www.conf42.com/code-of-conduct"
   },
   {
+    "name": "Barcelona Developers Conference",
+    "url": "https://www.devbcn.com",
+    "startDate": "2023-07-03",
+    "endDate": "2023-07-05",
+    "city": "Barcelona",
+    "country": "Spain",
+    "online": false,
+    "twitter": "@dev_bcn",
+    "cocUrl": "https://www.devbcn.com/codeOfConduct",
+    "locales": "EN,ES"
+  },
+  {
     "name": "REFACTOR: DX",
     "url": "https://www.refactorconf.com/dx",
     "startDate": "2023-07-12",
@@ -891,18 +903,6 @@
     "twitter": "@refactorconf",
     "cocUrl": "https://www.refactorconf.com/dx#/conduct",
     "locales": "EN"
-  },
-  {
-    "name": "Barcelona Developers Conference",
-    "url": "https://www.devbcn.com",
-    "startDate": "2023-07-03",
-    "endDate": "2023-07-05",
-    "city": "Barcelona",
-    "country": "Spain",
-    "online": false,
-    "twitter": "@dev_bcn",
-    "cocUrl": "https://www.devbcn.com/codeOfConduct",
-    "locales": "EN,ES"
   },
   {
     "name": "FOSSY",
@@ -999,6 +999,21 @@
     "country": "Thailand",
     "online": false,
     "locales": "EN,TH",
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "Amanda stark",
+    "url": "https://physical-medicine.magnusconferences.com",
+    "startDate": "2023-08-24",
+    "endDate": "2023-08-26",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "cfpUrl": "https://physical-medicine.magnusconferences.com/register",
+    "cfpEndDate": "2023-05-01",
+    "twitter": "@magnus_group",
+    "cocUrl": "2456",
+    "locales": "EN",
     "offersSignLanguageOrCC": true
   },
   {
