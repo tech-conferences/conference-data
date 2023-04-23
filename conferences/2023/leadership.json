@@ -136,6 +136,18 @@
     "locales": "EN"
   },
   {
+    "name": "NZ Tech Rally",
+    "url": "https://nztechrally.com",
+    "startDate": "2023-07-07",
+    "endDate": "2023-07-07",
+    "city": "Wellington",
+    "country": "New Zealand",
+    "online": false,
+    "twitter": "@NZTechRally",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Internet 2.0 Conference USA",
     "url": "https://www.internet2conf.com",
     "startDate": "2023-07-10",
