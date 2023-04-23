@@ -891,6 +891,18 @@
     "locales": "EN,ES"
   },
   {
+    "name": "NZ Tech Rally",
+    "url": "https://nztechrally.com",
+    "startDate": "2023-07-07",
+    "endDate": "2023-07-07",
+    "city": "Wellington",
+    "country": "New Zealand",
+    "online": false,
+    "twitter": "@NZTechRally",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "REFACTOR: DX",
     "url": "https://www.refactorconf.com/dx",
     "startDate": "2023-07-12",
