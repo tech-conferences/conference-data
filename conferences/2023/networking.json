@@ -270,6 +270,18 @@
     "locales": "EN"
   },
   {
+    "name": "NZ Tech Rally",
+    "url": "https://nztechrally.com",
+    "startDate": "2023-07-07",
+    "endDate": "2023-07-07",
+    "city": "Wellington",
+    "country": "New Zealand",
+    "online": false,
+    "twitter": "@NZTechRally",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "WeAreDevelopers World Congress",
     "url": "https://www.wearedevelopers.com/world-congress",
     "startDate": "2023-07-27",
