@@ -1212,6 +1212,20 @@
     "cocUrl": "https://devopsdays.org/events/2023-tel-aviv/conduct"
   },
   {
+    "name": "DevOpsDays Tel Aviv",
+    "url": "https://devopsdays.org/events/2023-tel-aviv",
+    "startDate": "2023-10-30",
+    "endDate": "2023-10-31",
+    "city": "Tel Aviv",
+    "country": "Israel",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/devopsdays-tel-aviv-2023",
+    "cfpEndDate": "2023-05-31",
+    "twitter": "@devopsdaystlv",
+    "cocUrl": "https://tlvcommunity.dev/code-of-conduct.html",
+    "locales": "EN"
+  },
+  {
     "name": "KubeCon + CloudNativeCon North America",
     "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2023",
     "startDate": "2023-11-06",
