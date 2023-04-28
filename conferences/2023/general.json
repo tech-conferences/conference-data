@@ -366,6 +366,14 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "european lisp symposium",
+    "url": "https://www.european-lisp-symposium.org/2023/index.html",
+    "startDate": "2023-04-24",
+    "endDate": "2023-04-25",
+    "online": true,
+    "locales": "EN"
+  },
+  {
     "name": "Serverless Architecture Conference London",
     "url": "https://serverless-architecture.io/london",
     "startDate": "2023-04-24",
@@ -375,14 +383,6 @@
     "online": true,
     "twitter": "@serverlesscon",
     "cocUrl": "https://serverless-architecture.io/code-of-conduct/",
-    "locales": "EN"
-  },
-  {
-    "name": "european lisp symposium",
-    "url": "https://www.european-lisp-symposium.org/2023/index.html",
-    "startDate": "2023-04-24",
-    "endDate": "2023-04-25",
-    "online": true,
     "locales": "EN"
   },
   {
@@ -950,9 +950,9 @@
     "url": "https://that.us/events/wi/2023",
     "startDate": "2023-07-24",
     "endDate": "2023-07-27",
-    "online": true,
     "city": "Wisconsin Dells, WI",
     "country": "U.S.A.",
+    "online": true,
     "cfpUrl": "https://that.us/call-for-counselors/wi/2023",
     "cfpEndDate": "2023-03-01",
     "twitter": "@thatconference",
