@@ -259,6 +259,21 @@
     "locales": "EN"
   },
   {
+    "name": "DjangoCon",
+    "url": "https://2023.djangocon.us",
+    "startDate": "2023-10-16",
+    "endDate": "2023-10-20",
+    "city": "Durham, NC",
+    "country": "U.S.A.",
+    "online": true,
+    "cfpUrl": "https://2023.djangocon.us/speaking",
+    "cfpEndDate": "2023-05-15",
+    "twitter": "@djangocon",
+    "cocUrl": "https://github.com/djangocon/2023.djangocon.us/blob/main/CODE_OF_CONDUCT.md",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "XtremePython",
     "url": "https://xtremepython.dev",
     "startDate": "2023-12-05",
