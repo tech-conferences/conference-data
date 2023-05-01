@@ -95,5 +95,19 @@
     "cocUrl": "https://www.p99conf.io/code-of-conduct/",
     "locales": "EN",
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "RustLab",
+    "url": "https://rustlab.it",
+    "startDate": "2023-11-19",
+    "endDate": "2023-11-21",
+    "city": "Florence",
+    "country": "Italy",
+    "online": false,
+    "cfpUrl": "https://www.papercall.io/rustlab2023",
+    "cfpEndDate": "2023-05-26",
+    "twitter": "@rustlab_conf",
+    "cocUrl": "https://rustlab.it/code-of-conduct",
+    "locales": "EN"
   }
 ]
