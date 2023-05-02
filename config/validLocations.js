@@ -308,6 +308,7 @@ module.exports = {
   "Japan": [
     "Fukuoka",
     "Hiroshima",
+    "Koto",
     "Kyoto",
     "Matsue",
     "Mie",
