@@ -50,5 +50,19 @@
     "twitter": "@cloudfoundry",
     "cocUrl": "https://events.linuxfoundation.org/cloud-foundry-day/attend/code-of-conduct/",
     "locales": "EN"
+  },
+  {
+    "name": "GoLab",
+    "url": "https://golab.io",
+    "startDate": "2023-11-19",
+    "endDate": "2023-11-21",
+    "city": "Florence",
+    "country": "Italy",
+    "online": false,
+    "cfpUrl": "https://www.papercall.io/golab2023",
+    "cfpEndDate": "2023-05-21",
+    "twitter": "@golab_conf",
+    "cocUrl": "https://golab.io/code-of-conduct",
+    "locales": "EN"
   }
 ]
