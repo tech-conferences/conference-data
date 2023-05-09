@@ -1197,7 +1197,7 @@
     "url": "https://devopsdays.org/events/2023-boston/welcome/",
     "startDate": "2023-10-16",
     "endDate": "2023-10-17",
-    "city": "Boston",
+    "city": "Boston, MA",
     "country": "U.S.A.",
     "online": false,
     "cfpUrl": "https://www.papercall.io/dodbos23",
@@ -1210,7 +1210,7 @@
     "url": "https://devopsdays.org/events/2023-detroit/welcome/",
     "startDate": "2023-10-18",
     "endDate": "2023-10-19",
-    "city": "Detroit",
+    "city": "Detroit, MI",
     "country": "U.S.A.",
     "online": false,
     "twitter": "@devopsdaysdet",
@@ -1265,6 +1265,17 @@
     "cfpEndDate": "2023-07-01",
     "twitter": "@DevOpsDaysMTL",
     "cocUrl": "https://devopsdays.org/events/2023-montreal/conduct"
+  },
+  {
+    "name": "Devopsdays Tel Aviv",
+    "url": "https://devopsdays.org/events/2023-tel-aviv/welcome/",
+    "startDate": "2023-10-30",
+    "endDate": "2023-10-31",
+    "city": "Tel Aviv",
+    "country": "Israel",
+    "online": false,
+    "twitter": "@devopsdaystlv",
+    "cocUrl": "https://devopsdays.org/events/2023-tel-aviv/conduct"
   },
   {
     "name": "KubeCon + CloudNativeCon North America",
