@@ -107,7 +107,7 @@
     "url": "https://confoo.ca/en/2023",
     "startDate": "2023-02-22",
     "endDate": "2023-02-24",
-    "city": "Montreal",
+    "city": "Montreal", 
     "country": "Canada",
     "online": false,
     "cfpUrl": "https://confoo.ca/en/2023/call-for-papers",
@@ -1157,6 +1157,19 @@
     "twitter": "@devopsdaysindy"
   },
   {
+    "name": "Devopsdays Oslo",
+    "url": "https://devopsdays.org/events/2023-oslo/welcome/",
+    "startDate": "2023-10-11",
+    "endDate": "2023-10-12",
+    "city": "Oslo",
+    "country": "Norway",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/devopsdays-oslo-2023",
+    "cfpEndDate": "2023-08-01",
+    "twitter": "@devopsdaysoslo",
+    "cocUrl": "https://devopsdays.org/events/2023-oslo/conduct"
+  },
+  {
     "name": "Northern Virginia Software Symposium",
     "url": "https://nofluffjuststuff.com/reston",
     "startDate": "2023-10-13",
@@ -1178,6 +1191,30 @@
     "online": true,
     "twitter": "@AllThingsOpen",
     "locales": "EN"
+  },
+  {
+    "name": "Devopsdays Boston",
+    "url": "https://devopsdays.org/events/2023-boston/welcome/",
+    "startDate": "2023-10-16",
+    "endDate": "2023-10-17",
+    "city": "Boston",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://www.papercall.io/dodbos23",
+    "cfpEndDate": "2023-05-31",
+    "twitter": "@devopsdaysbos",
+    "cocUrl": "https://devopsdays.org/events/2023-boston/conduct"
+  },
+  {
+    "name": "Devopsdays Detroit",
+    "url": "https://devopsdays.org/events/2023-detroit/welcome/",
+    "startDate": "2023-10-18",
+    "endDate": "2023-10-19",
+    "city": "Detroit",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@devopsdaysdet",
+    "cocUrl": "https://devopsdays.org/events/2023-detroit/conduct"
   },
   {
     "name": "Devopsdays Bogotá",
@@ -1217,15 +1254,17 @@
     "locales": "EN"
   },
   {
-    "name": "Devopsdays Tel Aviv",
-    "url": "https://devopsdays.org/events/2023-tel-aviv/welcome/",
-    "startDate": "2023-10-30",
-    "endDate": "2023-10-31",
-    "city": "Tel Aviv",
-    "country": "Israel",
+    "name": "Devopsdays Montreal",
+    "url": "https://devopsdays.org/events/2023-montreal/welcome/",
+    "startDate": "2023-11-01",
+    "endDate": "2023-11-02",
+    "city": "Montreal",
+    "country": "Canada",
     "online": false,
-    "twitter": "@devopsdaystlv",
-    "cocUrl": "https://devopsdays.org/events/2023-tel-aviv/conduct"
+    "cfpUrl": "https://sessionize.com/devopsdays-montreal-2023/",
+    "cfpEndDate": "2023-07-01",
+    "twitter": "@DevOpsDaysMTL",
+    "cocUrl": "https://devopsdays.org/events/2023-montreal/conduct"
   },
   {
     "name": "KubeCon + CloudNativeCon North America",
