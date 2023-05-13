@@ -64,6 +64,20 @@
     "locales": "EN,DE"
   },
   {
+    "name": "GraphQLConf",
+    "url": "https://www.graphql.org/conf",
+    "startDate": "2023-09-19",
+    "endDate": "2023-09-21",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://graphql.org/conf/speak",
+    "cfpEndDate": "2023-06-09",
+    "twitter": "@grapqhl",
+    "cocUrl": "https://graphql.org/codeofconduct/",
+    "locales": "EN"
+  },
+  {
     "name": "React Alicante",
     "url": "https://reactalicante.es",
     "startDate": "2023-09-28",
