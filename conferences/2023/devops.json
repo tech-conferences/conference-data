@@ -107,7 +107,7 @@
     "url": "https://confoo.ca/en/2023",
     "startDate": "2023-02-22",
     "endDate": "2023-02-24",
-    "city": "Montreal", 
+    "city": "Montreal",
     "country": "Canada",
     "online": false,
     "cfpUrl": "https://confoo.ca/en/2023/call-for-papers",
@@ -1127,9 +1127,9 @@
     "city": "Las Vegas, NV",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@ITRevDOES",
     "cfpUrl": "https://sessionize.com/devops-enterprise-summit-las-vegas-2023",
     "cfpEndDate": "2023-06-12",
+    "twitter": "@ITRevDOES",
     "cocUrl": "https://itrevolution.com/privacy-policy/",
     "locales": "EN"
   },
@@ -1254,6 +1254,17 @@
     "locales": "EN"
   },
   {
+    "name": "Devopsdays Tel Aviv",
+    "url": "https://devopsdays.org/events/2023-tel-aviv/welcome/",
+    "startDate": "2023-10-30",
+    "endDate": "2023-10-31",
+    "city": "Tel Aviv",
+    "country": "Israel",
+    "online": false,
+    "twitter": "@devopsdaystlv",
+    "cocUrl": "https://devopsdays.org/events/2023-tel-aviv/conduct"
+  },
+  {
     "name": "Devopsdays Montreal",
     "url": "https://devopsdays.org/events/2023-montreal/welcome/",
     "startDate": "2023-11-01",
@@ -1265,17 +1276,6 @@
     "cfpEndDate": "2023-07-01",
     "twitter": "@DevOpsDaysMTL",
     "cocUrl": "https://devopsdays.org/events/2023-montreal/conduct"
-  },
-  {
-    "name": "Devopsdays Tel Aviv",
-    "url": "https://devopsdays.org/events/2023-tel-aviv/welcome/",
-    "startDate": "2023-10-30",
-    "endDate": "2023-10-31",
-    "city": "Tel Aviv",
-    "country": "Israel",
-    "online": false,
-    "twitter": "@devopsdaystlv",
-    "cocUrl": "https://devopsdays.org/events/2023-tel-aviv/conduct"
   },
   {
     "name": "KubeCon + CloudNativeCon North America",
