@@ -425,5 +425,18 @@
     "cocUrl": "https://openstack-tage.de/teilnahmebedingungen/",
     "locales": "EN",
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "Open Source Experience",
+    "url": "https://www.opensource-experience.com",
+    "startDate": "2023-12-06",
+    "endDate": "2023-12-07",
+    "city": "Paris",
+    "country": "France",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/open-source-experience-2023",
+    "cfpEndDate": "2023-06-25",
+    "twitter": "@OSXP_Paris",
+    "locales": "FR"
   }
 ]
