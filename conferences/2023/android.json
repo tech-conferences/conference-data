@@ -49,6 +49,19 @@
     "twitter": "@PlDroid"
   },
   {
+    "name": "JavaScript TEst",
+    "url": "https://example.com",
+    "startDate": "2023-06-15",
+    "endDate": "2023-06-17",
+    "online": true,
+    "cfpUrl": "https://example.com/conf",
+    "cfpEndDate": "2023-05-20",
+    "twitter": "@example",
+    "cocUrl": "https://example.com",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "JCON EUROPE",
     "url": "https://2023.europe.jcon.one",
     "startDate": "2023-06-20",
