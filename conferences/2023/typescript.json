@@ -115,6 +115,18 @@
     "cocUrl": "https://enterjs.de/code_of_conduct_en.php"
   },
   {
+    "name": "TypeScript Conference",
+    "url": "https://typescriptcongress.com",
+    "startDate": "2023-09-21",
+    "endDate": "2023-09-22",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc4wHj6DCO2whrLYX2Q3qh-Lu779tFlg_ZnyYk4for_jAUGhA/viewform",
+    "cfpEndDate": "2023-05-31",
+    "twitter": "@ts_congress",
+    "cocUrl": "https://typescriptcongress.com/coc",
+    "locales": "EN"
+  },
+  {
     "name": "React Alicante",
     "url": "https://reactalicante.es",
     "startDate": "2023-09-28",
