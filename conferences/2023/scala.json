@@ -13,5 +13,15 @@
     "cocUrl": "https://www.scalar-conf.com/faq",
     "locales": "EN",
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "ScalaDays",
+    "url": "https://scaladays.org/seattle-2023",
+    "startDate": "2023-06-05",
+    "endDate": "2023-06-07",
+    "city": "Seattle, WA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN"
   }
 ]
