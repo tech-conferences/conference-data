@@ -1124,6 +1124,20 @@
     "locales": "EN,DE"
   },
   {
+    "name": "WasmCon",
+    "url": "https://events.linuxfoundation.org/wasmcon",
+    "startDate": "2023-09-06",
+    "endDate": "2023-09-07",
+    "city": "Bellevue, WA",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://events.linuxfoundation.org/wasmcon/program/cfp",
+    "cfpEndDate": "2023-06-25",
+    "twitter": "@linuxfoundation",
+    "cocUrl": "https://events.linuxfoundation.org/wasmcon/attend/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "DebConf",
     "url": "https://debconf23.debconf.org/",
     "startDate": "2023-09-10",
