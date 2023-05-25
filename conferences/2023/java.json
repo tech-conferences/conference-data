@@ -546,6 +546,18 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "ArchConf",
+    "url": "https://archconf.com",
+    "startDate": "2023-12-11",
+    "endDate": "2023-12-14",
+    "city": "Clearwater, FL",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@nofluff",
+    "cocUrl": "https://archconf.com/home/code_of_conduct",
+    "locales": "EN"
+  },
+  {
     "name": "IT-Tage",
     "url": "https://www.ittage.informatik-aktuell.de",
     "startDate": "2023-12-11",
@@ -568,17 +580,5 @@
     "online": false,
     "twitter": "@InformatikAktue",
     "locales": "EN,DE"
-  },
-  {
-    "name": "ArchConf",
-    "url": "https://archconf.com",
-    "startDate": "2023-12-11",
-    "endDate": "2023-12-14",
-    "city": "Clearwater, FL",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@nofluff",
-    "cocUrl": "https://archconf.com/home/code_of_conduct",
-    "locales": "EN"
   }
 ]

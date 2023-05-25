@@ -628,6 +628,18 @@
     "locales": "EN"
   },
   {
+    "name": "DeveloperWeek Latin America",
+    "url": "https://www.developerweek.com/latin-america",
+    "startDate": "2023-06-21",
+    "endDate": "2023-06-22",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/developerweek-latin-america-2023",
+    "cfpEndDate": "2023-04-21",
+    "twitter": "@developerweek",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "enterJS",
     "url": "https://enterjs.de",
     "startDate": "2023-06-21",
@@ -639,18 +651,6 @@
     "cfpEndDate": "2023-01-23",
     "twitter": "@enterjsconf",
     "cocUrl": "https://enterjs.de/code_of_conduct_en.php"
-  },
-  {
-    "name": "DeveloperWeek Latin America",
-    "url": "https://www.developerweek.com/latin-america",
-    "startDate": "2023-06-21",
-    "endDate": "2023-06-22",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/developerweek-latin-america-2023",
-    "cfpEndDate": "2023-04-21",
-    "twitter": "@developerweek",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "locales": "EN"
   },
   {
     "name": "ReactNext",
@@ -920,6 +920,20 @@
     "locales": "RU"
   },
   {
+    "name": "Armada JS",
+    "url": "https://armada-js.com",
+    "startDate": "2023-10-05",
+    "endDate": "2023-10-06",
+    "city": "Novi Sad",
+    "country": "Serbia",
+    "online": false,
+    "cfpUrl": "https://armada-js.com/call-for-papers",
+    "cfpEndDate": "2023-08-01",
+    "twitter": "@armada_js",
+    "cocUrl": "https://armada-js.com/code-of-conduct",
+    "locales": "EN"
+  },
+  {
     "name": "revo.js",
     "url": "https://revojs.ro/2023",
     "startDate": "2023-10-05",
@@ -933,20 +947,6 @@
     "cocUrl": "https://revojs.ro/code-of-conduct/",
     "locales": "EN",
     "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "Armada JS",
-    "url": "https://armada-js.com",
-    "startDate": "2023-10-05",
-    "endDate": "2023-10-06",
-    "city": "Novi Sad",
-    "country": "Serbia",
-    "online": false,
-    "cfpUrl": "https://armada-js.com/call-for-papers",
-    "cfpEndDate": "2023-08-01",
-    "twitter": "@armada_js",
-    "cocUrl": "https://armada-js.com/code-of-conduct",
-    "locales": "EN"
   },
   {
     "name": "LibertyJS",
