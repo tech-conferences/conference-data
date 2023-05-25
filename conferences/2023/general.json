@@ -824,6 +824,18 @@
     "locales": "EN"
   },
   {
+    "name": "DeveloperWeek Latin America",
+    "url": "https://www.developerweek.com/latin-america",
+    "startDate": "2023-06-21",
+    "endDate": "2023-06-22",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/developerweek-latin-america-2023",
+    "cfpEndDate": "2023-04-21",
+    "twitter": "@developerweek",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "GOTO Amsterdam",
     "url": "https://gotoams.nl/2023",
     "startDate": "2023-06-26",
@@ -1050,6 +1062,16 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Outland",
+    "url": "https://outland.sh",
+    "startDate": "2023-08-26",
+    "endDate": "2023-08-26",
+    "city": "Palm Springs, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN"
+  },
+  {
     "name": "Dev Up",
     "url": "https://www.devupconf.org",
     "startDate": "2023-08-28",
@@ -1124,6 +1146,20 @@
     "twitter": "@Herbstcampus",
     "cocUrl": "https://www.herbstcampus.de/code_of_conduct.php",
     "locales": "EN,DE"
+  },
+  {
+    "name": "WasmCon",
+    "url": "https://events.linuxfoundation.org/wasmcon",
+    "startDate": "2023-09-06",
+    "endDate": "2023-09-07",
+    "city": "Bellevue, WA",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://events.linuxfoundation.org/wasmcon/program/cfp",
+    "cfpEndDate": "2023-06-25",
+    "twitter": "@linuxfoundation",
+    "cocUrl": "https://events.linuxfoundation.org/wasmcon/attend/code-of-conduct/",
+    "locales": "EN"
   },
   {
     "name": "DebConf",
@@ -1281,6 +1317,20 @@
     "online": true,
     "twitter": "@PNSQC",
     "locales": "EN"
+  },
+  {
+    "name": "WebConf LATAM",
+    "url": "https://webconf.tech",
+    "startDate": "2023-10-14",
+    "endDate": "2023-10-14",
+    "city": "Córdoba",
+    "country": "Argentina",
+    "online": true,
+    "cfpUrl": "https://webconf.tech/cfp",
+    "cfpEndDate": "2023-09-01",
+    "twitter": "@WebConfLATAM",
+    "cocUrl": "https://codear.org/coc",
+    "locales": "ES"
   },
   {
     "name": "Prairie Dev Con",
