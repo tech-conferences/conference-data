@@ -812,18 +812,6 @@
     "locales": "EN"
   },
   {
-    "name": "KCDC",
-    "url": "https://www.kcdc.info",
-    "startDate": "2023-06-21",
-    "endDate": "2023-06-23",
-    "city": "Kansas City, KS",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@kc_dc",
-    "cocUrl": "https://www.kcdc.info/code-of-conduct",
-    "locales": "EN"
-  },
-  {
     "name": "DeveloperWeek Latin America",
     "url": "https://www.developerweek.com/latin-america",
     "startDate": "2023-06-21",
@@ -833,6 +821,18 @@
     "cfpEndDate": "2023-04-21",
     "twitter": "@developerweek",
     "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
+    "name": "KCDC",
+    "url": "https://www.kcdc.info",
+    "startDate": "2023-06-21",
+    "endDate": "2023-06-23",
+    "city": "Kansas City, KS",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@kc_dc",
+    "cocUrl": "https://www.kcdc.info/code-of-conduct",
     "locales": "EN"
   },
   {
@@ -1037,20 +1037,6 @@
     "locales": "EN"
   },
   {
-    "name": "WorldFestival",
-    "url": "https://worldfestival.com",
-    "startDate": "2023-08-15",
-    "endDate": "2023-08-23",
-    "city": "San Mateo, CA",
-    "country": "U.S.A.",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/worldfestival-2023",
-    "cfpEndDate": "2023-06-30",
-    "twitter": "@worldfestivalhq",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "locales": "EN"
-  },
-  {
     "name": "DeveloperWeek CloudX",
     "url": "https://www.developerweek.com/cloudx",
     "startDate": "2023-08-15",
@@ -1061,6 +1047,20 @@
     "cfpUrl": "https://sessionize.com/developerweek-cloudx-2023",
     "cfpEndDate": "2023-05-26",
     "twitter": "@developerweek",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
+    "name": "WorldFestival",
+    "url": "https://worldfestival.com",
+    "startDate": "2023-08-15",
+    "endDate": "2023-08-23",
+    "city": "San Mateo, CA",
+    "country": "U.S.A.",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/worldfestival-2023",
+    "cfpEndDate": "2023-06-30",
+    "twitter": "@worldfestivalhq",
     "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
     "locales": "EN"
   },
