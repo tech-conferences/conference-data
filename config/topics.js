@@ -31,6 +31,7 @@ module.exports = [
   "rust",
   "scala",
   "security",
+  "sre",
   "tech-comm",
   "testing",
   "typescript",
