@@ -451,6 +451,20 @@
     "locales": "EN"
   },
   {
+    "name": "ITALIAN AGILE DAYS",
+    "url": "https://www.agileday.it",
+    "startDate": "2023-11-17",
+    "endDate": "2023-11-18",
+    "city": "Milano",
+    "country": "Italy",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/italian-agile-days-2023",
+    "cfpEndDate": "2023-07-31",
+    "twitter": "@agileday",
+    "cocUrl": "https://www.agileday.it/",
+    "locales": "IT,EN"
+  },
+  {
     "name": "Deutsch OpenStack Tage",
     "url": "https://openstack-tage.de",
     "startDate": "2023-11-27",
