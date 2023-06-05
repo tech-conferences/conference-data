@@ -1284,6 +1284,20 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Devworld Conference",
+    "url": "https://devworldconference.com",
+    "startDate": "2023-09-28",
+    "endDate": "2023-09-29",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSePbiKSSOLKQOJqG65ifQ0KtY1dsqPqA7N0pu9QY1bK1-ciDQ/viewform",
+    "cfpEndDate": "2023-06-30",
+    "twitter": "@devworld_conf",
+    "cocUrl": "https://devworldconference.com/code-of-conduct",
+    "locales": "EN"
+  },
+  {
     "name": "DEV: Challenge Accepted",
     "url": "https://www.challengeaccepted.dev",
     "startDate": "2023-09-30",
