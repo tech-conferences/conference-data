@@ -1005,6 +1005,19 @@
     "locales": "EN"
   },
   {
+    "name": "Devopsdays Vilnius",
+    "url": "https://devopsdays.org/events/2023-vilnius/welcome/",
+    "startDate": "2023-09-06",
+    "endDate": "2023-09-07",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "online": false,
+    "cfpUrl": "https://www.papercall.io/devopsdays-vilnius",
+    "cfpEndDate": "2023-06-06",
+    "twitter": "@dodvilnius",
+    "cocUrl": "https://devopsdays.org/events/2023-vilnius/conduct"
+  },
+  {
     "name": "DevOps Talks Conference Singapore",
     "url": "https://devops.talksplus.com/singapore/devops",
     "startDate": "2023-09-06",
@@ -1195,6 +1208,19 @@
     "locales": "EN"
   },
   {
+    "name": "Devopsdays Madrid",
+    "url": "https://devopsdays.org/events/2023-madrid/welcome/",
+    "startDate": "2023-10-06",
+    "endDate": "2023-10-06",
+    "city": "Madrid",
+    "country": "Spain",
+    "online": false,
+    "cfpUrl": "https://koliseo.com/devopsdaysmad/devopsdays-madrid-2023/sessions",
+    "cfpEndDate": "2023-09-07",
+    "twitter": "@DevOpsDaysMad",
+    "cocUrl": "https://devopsdays.org/events/2023-madrid/conduct"
+  },
+  {
     "name": "Devopsdays Oslo",
     "url": "https://devopsdays.org/events/2023-oslo/welcome/",
     "startDate": "2023-10-11",
@@ -1205,6 +1231,19 @@
     "cfpUrl": "https://sessionize.com/devopsdays-oslo-2023",
     "cfpEndDate": "2023-08-01",
     "twitter": "@devopsdaysoslo",
+    "cocUrl": "https://devopsdays.org/events/2023-oslo/conduct"
+  },
+  {
+    "name": "Devopsdays Eindhoven",
+    "url": "https://devopsdays.org/events/2023-eindhoven/welcome/",
+    "startDate": "2023-10-11",
+    "endDate": "2023-10-12",
+    "city": "Eindhoven",
+    "country": "Netherlands",
+    "online": false,
+    "cfpUrl": "https://talx.devops.foundation/devopsdays-eindhoven-2023/cfp",
+    "cfpEndDate": "2023-07-31",
+    "twitter": "@devopsdaysehv",
     "cocUrl": "https://devopsdays.org/events/2023-oslo/conduct"
   },
   {
