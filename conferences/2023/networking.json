@@ -426,6 +426,17 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "SGF-IEC Week",
+    "url": "https://www.smartgrid-forums.com/iec-week",
+    "startDate": "2023-10-16",
+    "endDate": "2023-10-20",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "twitter": "@smartgridforums",
+    "locales": "EN"
+  },
+  {
     "name": "NODES",
     "url": "https://neo4j.com/nodes-2023",
     "startDate": "2023-10-26",
