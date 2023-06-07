@@ -1351,6 +1351,20 @@
     "locales": "EN"
   },
   {
+    "name": "KubeCon + CloudNative Con North-America",
+    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america",
+    "startDate": "2023-11-06",
+    "endDate": "2023-11-09",
+    "city": "Chicago Il",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/kubecon-cloudnativecon-north-america-2023",
+    "cfpEndDate": "2023-06-18",
+    "twitter": "@CloudNativeFdn",
+    "cocUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/attend/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "Open Source Monitoring Conference",
     "url": "https://osmc.de",
     "startDate": "2023-11-07",
