@@ -1097,17 +1097,6 @@
     "locales": "EN"
   },
   {
-    "name": "JSConf Co",
-    "url": "https://www.jsconf.co",
-    "startDate": "2023-11-10",
-    "endDate": "2023-11-11",
-    "city": "Medellín",
-    "country": "Colombia",
-    "online": true,
-    "twitter": "@jsconfco",
-    "locales": "EN,ES"
-  },
-  {
     "name": "React Summit US",
     "url": "https://reactsummit.us",
     "startDate": "2023-11-13",
@@ -1129,6 +1118,19 @@
     "cfpEndDate": "2023-10-16",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct"
+  },
+  {
+    "name": "JSConf Colombia",
+    "url": "https://www.jsconf.co",
+    "startDate": "2023-11-17",
+    "endDate": "2023-11-18",
+    "city": "Medellín",
+    "country": "Colombia",
+    "online": true,
+    "cfpUrl": "https://cfp.jsconf.co",
+    "cfpEndDate": "2023-07-31",
+    "twitter": "@jsconfco",
+    "locales": "EN,ES"
   },
   {
     "name": "XtremeJS",
