@@ -232,6 +232,17 @@
     "twitter": "@AgileTDOpenAir"
   },
   {
+    "name": "MobileCamp",
+    "url": "https://mobilecamp.de",
+    "startDate": "2023-06-17",
+    "endDate": "2023-06-18",
+    "city": "Dresden",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@mobilecamp",
+    "locales": "DE"
+  },
+  {
     "name": "MAD Summit: Modularisierung, API Design, DDD",
     "url": "https://mad-summit.de/kontakt",
     "startDate": "2023-06-19",
@@ -449,6 +460,20 @@
     "twitter": "@ScaleByTheBay",
     "cocUrl": "https://github.com/bythebay/policies/blob/master/citizen_code_of_conduct.md",
     "locales": "EN"
+  },
+  {
+    "name": "Italian Agile Days",
+    "url": "https://www.agileday.it",
+    "startDate": "2023-11-17",
+    "endDate": "2023-11-18",
+    "city": "Milano",
+    "country": "Italy",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/italian-agile-days-2023",
+    "cfpEndDate": "2023-07-31",
+    "twitter": "@agileday",
+    "cocUrl": "https://www.agileday.it/",
+    "locales": "IT,EN"
   },
   {
     "name": "Deutsch OpenStack Tage",

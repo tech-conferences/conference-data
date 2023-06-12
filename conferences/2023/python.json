@@ -285,6 +285,20 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "PyCon CZ",
+    "url": "https://cz.pycon.org",
+    "startDate": "2023-09-15",
+    "endDate": "2023-09-17",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "online": false,
+    "cfpUrl": "https://cz.pycon.org/2023/cfp",
+    "cfpEndDate": "2023-06-25",
+    "twitter": "@pyconcz",
+    "cocUrl": "https://cz.pycon.org/2023/coc/",
+    "locales": "EN,CS"
+  },
+  {
     "name": "DjangoCon",
     "url": "https://2023.djangocon.us",
     "startDate": "2023-10-16",

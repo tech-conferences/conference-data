@@ -919,6 +919,32 @@
     "locales": "EN"
   },
   {
+    "name": "Devworld Conference",
+    "url": "https://devworldconference.com",
+    "startDate": "2023-09-28",
+    "endDate": "2023-09-29",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSePbiKSSOLKQOJqG65ifQ0KtY1dsqPqA7N0pu9QY1bK1-ciDQ/viewform",
+    "cfpEndDate": "2023-06-30",
+    "twitter": "@devworld_conf",
+    "cocUrl": "https://devworldconference.com/code-of-conduct",
+    "locales": "EN"
+  },
+  {
+    "name": "JSGameDev Summit",
+    "url": "https://jsgamedev.com",
+    "startDate": "2023-09-28",
+    "endDate": "2023-09-29",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfRoTXIcY-EWgMBKvJ2gMBngBNP0V22_eUaX3yAUONn5q94NQ/viewform",
+    "cfpEndDate": "2023-08-01",
+    "twitter": "@jsgamedevsummit",
+    "cocUrl": "https://jsgamedev.com/coc",
+    "locales": "EN"
+  },
+  {
     "name": "Frontend Conf",
     "url": "https://frontendconf.ru/moscow/2023",
     "startDate": "2023-10-02",
@@ -1055,6 +1081,31 @@
     "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
     "locales": "EN",
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "reactjsday",
+    "url": "https://2023.reactjsday.it",
+    "startDate": "2023-10-27",
+    "endDate": "2023-10-27",
+    "city": "Verona",
+    "country": "Italy",
+    "online": true,
+    "cfpUrl": "https://2023.reactjsday.it/welcome/cfp.html",
+    "cfpEndDate": "2023-08-15",
+    "twitter": "@reactjsday",
+    "cocUrl": "https://2023.reactjsday.it/welcome/coc.html",
+    "locales": "EN"
+  },
+  {
+    "name": "JSConf Co",
+    "url": "https://www.jsconf.co",
+    "startDate": "2023-11-10",
+    "endDate": "2023-11-11",
+    "city": "Medellín",
+    "country": "Colombia",
+    "online": true,
+    "twitter": "@jsconfco",
+    "locales": "EN,ES"
   },
   {
     "name": "React Summit US",
