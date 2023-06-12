@@ -1189,6 +1189,18 @@
     "locales": "EN"
   },
   {
+    "name": "Software Architecture Summit",
+    "url": "https://software-architecture-summit.de/berlin",
+    "startDate": "2023-09-11",
+    "endDate": "2023-09-13",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@SoftwArchSummit",
+    "cocUrl": "https://software-architecture-summit.de/service-info/code-of-conduct/",
+    "locales": "DE"
+  },
+  {
     "name": "SREday",
     "url": "https://www.sreday.com",
     "startDate": "2023-09-14",
@@ -1199,7 +1211,8 @@
     "cfpUrl": "https://www.papercall.io/sreday-2023",
     "cfpEndDate": "2023-07-14",
     "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct"
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
+    "locales": "EN"
   },
   {
     "name": "ATL Dev Con",
@@ -1267,6 +1280,19 @@
     "cocUrl": "https://www.thestrangeloop.com/policies.html#coc",
     "locales": "EN",
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "Sphere.it Conf",
+    "url": "https://sphere.it/event/sphere-it-conf-2023",
+    "startDate": "2023-09-27",
+    "endDate": "2023-09-28",
+    "city": "Kraków",
+    "country": "Poland",
+    "online": false,
+    "cfpUrl": "https://sphere.it/become-a-speaker",
+    "cfpEndDate": "2023-06-07",
+    "twitter": "@sphere_it_",
+    "locales": "EN"
   },
   {
     "name": "Paris Web",
@@ -1483,6 +1509,20 @@
     "twitter": "@ScaleByTheBay",
     "cocUrl": "https://github.com/bythebay/policies/blob/master/citizen_code_of_conduct.md",
     "locales": "EN"
+  },
+  {
+    "name": "Devfest Strasbourg",
+    "url": "https://devfest.gdgstrasbourg.fr",
+    "startDate": "2023-11-15",
+    "endDate": "2023-11-15",
+    "city": "Strasbourg",
+    "country": "France",
+    "online": false,
+    "cfpUrl": "https://conference-hall.io/public/event/I0SQmndJ7vrnWeBdEuTQ",
+    "cfpEndDate": "2023-07-05",
+    "twitter": "@DevfestSXB",
+    "cocUrl": "https://devfest.gdgstrasbourg.fr/coc",
+    "locales": "EN,FR"
   },
   {
     "name": "Italian Agile Days",
