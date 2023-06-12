@@ -1341,21 +1341,11 @@
     "locales": "EN"
   },
   {
-    "name": "KubeCon + CloudNativeCon North America",
-    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2023",
-    "startDate": "2023-11-06",
-    "endDate": "2023-11-10",
-    "city": "Chicago, IL",
-    "country": "U.S.A.",
-    "online": true,
-    "locales": "EN"
-  },
-  {
-    "name": "KubeCon + CloudNative Con North-America",
+    "name": "KubeCon + CloudNativeCon",
     "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america",
     "startDate": "2023-11-06",
     "endDate": "2023-11-09",
-    "city": "Chicago Il",
+    "city": "Chicago, IL",
     "country": "U.S.A.",
     "online": false,
     "cfpUrl": "https://sessionize.com/kubecon-cloudnativecon-north-america-2023",
