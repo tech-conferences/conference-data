@@ -852,6 +852,19 @@
     "locales": "EN"
   },
   {
+    "name": "Fronteers Conference",
+    "url": "https://fronteersconf.org",
+    "startDate": "2023-09-21",
+    "endDate": "2023-09-22",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "online": false,
+    "twitter": "@fronteersconf",
+    "cocUrl": "https://fronteersconf.org/code-of-conduct/",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "New England Software Symposium",
     "url": "https://nofluffjuststuff.com/boston",
     "startDate": "2023-09-22",
