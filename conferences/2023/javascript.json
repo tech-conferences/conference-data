@@ -825,18 +825,6 @@
     "locales": "EN"
   },
   {
-    "name": "TypeScript Conference",
-    "url": "https://typescriptcongress.com",
-    "startDate": "2023-09-21",
-    "endDate": "2023-09-22",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc4wHj6DCO2whrLYX2Q3qh-Lu779tFlg_ZnyYk4for_jAUGhA/viewform",
-    "cfpEndDate": "2023-05-31",
-    "twitter": "@ts_congress",
-    "cocUrl": "https://typescriptcongress.com/coc",
-    "locales": "EN"
-  },
-  {
     "name": "Fronteers Conference",
     "url": "https://fronteersconf.org",
     "startDate": "2023-09-21",
@@ -848,6 +836,18 @@
     "cocUrl": "https://fronteersconf.org/code-of-conduct/",
     "locales": "EN",
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "TypeScript Conference",
+    "url": "https://typescriptcongress.com",
+    "startDate": "2023-09-21",
+    "endDate": "2023-09-22",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc4wHj6DCO2whrLYX2Q3qh-Lu779tFlg_ZnyYk4for_jAUGhA/viewform",
+    "cfpEndDate": "2023-05-31",
+    "twitter": "@ts_congress",
+    "cocUrl": "https://typescriptcongress.com/coc",
+    "locales": "EN"
   },
   {
     "name": "New England Software Symposium",
@@ -903,20 +903,6 @@
     "cocUrl": "https://www.jsday.ie/code-of-conduct"
   },
   {
-    "name": "React Alicante",
-    "url": "https://reactalicante.es",
-    "startDate": "2023-09-28",
-    "endDate": "2023-09-30",
-    "city": "Alicante",
-    "country": "Spain",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfvebbV1xEHBHLY2b1Ks21aj1q5mx-TWc_I7a2plPbjoI_-AQ/viewform",
-    "cfpEndDate": "2023-04-01",
-    "twitter": "@ReactAlicante",
-    "cocUrl": "https://reactalicante.es/code-of-conduct",
-    "locales": "EN"
-  },
-  {
     "name": "Devworld Conference",
     "url": "https://devworldconference.com",
     "startDate": "2023-09-28",
@@ -940,6 +926,20 @@
     "cfpEndDate": "2023-08-01",
     "twitter": "@jsgamedevsummit",
     "cocUrl": "https://jsgamedev.com/coc",
+    "locales": "EN"
+  },
+  {
+    "name": "React Alicante",
+    "url": "https://reactalicante.es",
+    "startDate": "2023-09-28",
+    "endDate": "2023-09-30",
+    "city": "Alicante",
+    "country": "Spain",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfvebbV1xEHBHLY2b1Ks21aj1q5mx-TWc_I7a2plPbjoI_-AQ/viewform",
+    "cfpEndDate": "2023-04-01",
+    "twitter": "@ReactAlicante",
+    "cocUrl": "https://reactalicante.es/code-of-conduct",
     "locales": "EN"
   },
   {
