@@ -1267,6 +1267,19 @@
     "locales": "EN"
   },
   {
+    "name": "Fronteers Conference",
+    "url": "https://fronteersconf.org",
+    "startDate": "2023-09-21",
+    "endDate": "2023-09-22",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "online": false,
+    "twitter": "@fronteersconf",
+    "cocUrl": "https://fronteersconf.org/code-of-conduct/",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Strange Loop",
     "url": "https://thestrangeloop.com",
     "startDate": "2023-09-21",
@@ -1278,19 +1291,6 @@
     "cfpEndDate": "2023-04-30",
     "twitter": "@strangeloop_stl",
     "cocUrl": "https://www.thestrangeloop.com/policies.html#coc",
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "Fronteers Conference",
-    "url": "https://fronteersconf.org",
-    "startDate": "2023-09-21",
-    "endDate": "2023-09-22",
-    "city": "Utrecht",
-    "country": "Netherlands",
-    "online": false,
-    "twitter": "@fronteersconf",
-    "cocUrl": "https://fronteersconf.org/code-of-conduct/",
     "locales": "EN",
     "offersSignLanguageOrCC": true
   },
@@ -1308,6 +1308,20 @@
     "locales": "EN"
   },
   {
+    "name": "Devworld Conference",
+    "url": "https://devworldconference.com",
+    "startDate": "2023-09-28",
+    "endDate": "2023-09-29",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSePbiKSSOLKQOJqG65ifQ0KtY1dsqPqA7N0pu9QY1bK1-ciDQ/viewform",
+    "cfpEndDate": "2023-06-30",
+    "twitter": "@devworld_conf",
+    "cocUrl": "https://devworldconference.com/code-of-conduct",
+    "locales": "EN"
+  },
+  {
     "name": "Paris Web",
     "url": "https://www.paris-web.fr",
     "startDate": "2023-09-28",
@@ -1321,20 +1335,6 @@
     "cocUrl": "https://www.paris-web.fr/code-de-conduite.php",
     "locales": "FR",
     "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "Devworld Conference",
-    "url": "https://devworldconference.com",
-    "startDate": "2023-09-28",
-    "endDate": "2023-09-29",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSePbiKSSOLKQOJqG65ifQ0KtY1dsqPqA7N0pu9QY1bK1-ciDQ/viewform",
-    "cfpEndDate": "2023-06-30",
-    "twitter": "@devworld_conf",
-    "cocUrl": "https://devworldconference.com/code-of-conduct",
-    "locales": "EN"
   },
   {
     "name": "DEV: Challenge Accepted",
