@@ -818,6 +818,18 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "MLCon Berlin",
+    "url": "https://mlconference.ai/berlin",
+    "startDate": "2023-11-27",
+    "endDate": "2023-11-30",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@mlconference",
+    "cocUrl": "https://mlconference.ai/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "PostgreSQL Conference Europe",
     "url": "https://2023.pgconf.eu/",
     "startDate": "2023-12-12",
