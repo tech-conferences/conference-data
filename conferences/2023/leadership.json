@@ -230,6 +230,19 @@
     "locales": "EN"
   },
   {
+    "name": "SeaStar Quality Conference",
+    "url": "https://quality.seastarconf.com",
+    "startDate": "2023-10-15",
+    "endDate": "2023-10-19",
+    "city": "Playa Dorada",
+    "country": "Dominican Republic",
+    "online": true,
+    "twitter": "@TestMastersAcad",
+    "cocUrl": "https://quality.seastarconf.com",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Agile + DevOps East",
     "url": "https://agiledevopseast.techwell.com",
     "startDate": "2023-11-05",
