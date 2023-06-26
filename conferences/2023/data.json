@@ -840,6 +840,20 @@
     "locales": "EN"
   },
   {
+    "name": "iJS Conference Singapore",
+    "url": "https://javascript-conference.com/singapore",
+    "startDate": "2023-12-11",
+    "endDate": "2023-12-14",
+    "city": "Singapore",
+    "country": "Singapore",
+    "online": true,
+    "cfpUrl": "https://javascript-conference.com/code-of-conduct",
+    "cfpEndDate": "2023-06-26",
+    "twitter": "@JavaScriptCon",
+    "cocUrl": "https://javascript-conference.com/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "PostgreSQL Conference Europe",
     "url": "https://2023.pgconf.eu/",
     "startDate": "2023-12-12",
