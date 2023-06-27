@@ -837,6 +837,20 @@
     "locales": "EN"
   },
   {
+    "name": "UtahJS Conf",
+    "url": "https://utahjs.com/conference",
+    "startDate": "2023-09-15",
+    "endDate": "2023-09-15",
+    "city": "Salt Lake City, UT",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/utahjs-conf-2023",
+    "cfpEndDate": "2023-05-01",
+    "twitter": "@utjs",
+    "cocUrl": "https://utahjs.com/conduct",
+    "locales": "EN"
+  },
+  {
     "name": "UndergroundJS",
     "url": "https://undergroundjs.com",
     "startDate": "2023-09-21",
