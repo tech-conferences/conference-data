@@ -11,6 +11,6 @@ module.exports = [
   "twitter",
   "cocUrl",
   "locales",
-  "offersSignLanguageOrCC",
-  "github"
+  "github",
+  "offersSignLanguageOrCC"
 ];
