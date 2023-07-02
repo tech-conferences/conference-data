@@ -1234,6 +1234,20 @@
     "locales": "EN"
   },
   {
+    "name": "Javascript Fest Krakow",
+    "url": "https://fest.dev/events/js/krakow-2023",
+    "startDate": "2023-11-25",
+    "endDate": "2023-11-25",
+    "city": "Krakow",
+    "country": "Poland",
+    "online": false,
+    "cfpUrl": "https://docs.google.com/forms/d/1OPrfCEnCh_PHYZnFmeh5ufXQvxzOr4IMs_O8ale4ovs/edit",
+    "cfpEndDate": "2023-09-01",
+    "twitter": "@devfestconf",
+    "cocUrl": "https://fest.dev/coc/",
+    "locales": "EN"
+  },
+  {
     "name": "TestJS Summit",
     "url": "https://testjssummit.com",
     "startDate": "2023-12-07",
