@@ -1517,5 +1517,17 @@
     "cfpEndDate": "2023-04-28",
     "twitter": "@InformatikAktue",
     "locales": "DE,EN"
+  },
+  {
+    "name": "DevOpsCon",
+    "url": "https://devopscon.io/singapore",
+    "startDate": "2023-12-11",
+    "endDate": "2023-12-14",
+    "city": "Singapore",
+    "country": "Singapore",
+    "online": true,
+    "twitter": "@devops_con",
+    "cocUrl": "https://devopscon.io/code-of-conduct/",
+    "locales": "EN"
   }
 ]
