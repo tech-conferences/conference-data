@@ -496,11 +496,13 @@
     "locales": "EN"
   },
   {
-    "name": "Build Stuff Software Development Conference",
+    "name": "Build Stuff",
     "url": "https://www.buildstuff.events",
     "startDate": "2023-11-15",
     "endDate": "2023-11-17",
     "online": true,
+    "city": "Vilnius",
+    "country": "Lithuania",
     "cfpUrl": "https://www.buildstuff.events/cfp",
     "cfpEndDate": "2023-07-02",
     "twitter": "@BuildStuffConf",
