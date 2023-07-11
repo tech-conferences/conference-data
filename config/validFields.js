@@ -12,5 +12,6 @@ module.exports = [
   "cocUrl",
   "locales",
   "github",
+  "mastodon",
   "offersSignLanguageOrCC"
 ];
