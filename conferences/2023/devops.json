@@ -1412,6 +1412,19 @@
     "locales": "EN"
   },
   {
+    "name": "Prodacity",
+    "url": "https://rise8.us/prodacity",
+    "startDate": "2023-11-06",
+    "endDate": "2023-11-08",
+    "city": "Washington, DC",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://share.hsforms.com/1CRq585GqTKatR1fRiN2RHQc2xkr",
+    "cfpEndDate": "2023-07-31",
+    "twitter": "@Rise8_Inc",
+    "locales": "EN"
+  },
+  {
     "name": "KubeCon + CloudNativeCon",
     "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america",
     "startDate": "2023-11-06",
@@ -1423,19 +1436,6 @@
     "cfpEndDate": "2023-06-18",
     "twitter": "@CloudNativeFdn",
     "cocUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/attend/code-of-conduct/",
-    "locales": "EN"
-  },
-  {
-    "name": "Prodacity",
-    "url": "https://rise8.us/prodacity",
-    "startDate": "2023-11-06",
-    "endDate": "2023-11-08",
-    "city": "Washington, DC",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://share.hsforms.com/1CRq585GqTKatR1fRiN2RHQc2xkr",
-    "cfpEndDate": "2023-07-31",
-    "twitter": "@Rise8_Inc",
     "locales": "EN"
   },
   {
@@ -1527,6 +1527,18 @@
     "locales": "EN"
   },
   {
+    "name": "DevOpsCon",
+    "url": "https://devopscon.io/singapore",
+    "startDate": "2023-12-11",
+    "endDate": "2023-12-14",
+    "city": "Singapore",
+    "country": "Singapore",
+    "online": true,
+    "twitter": "@devops_con",
+    "cocUrl": "https://devopscon.io/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "IT-Tage",
     "url": "https://www.ittage.informatik-aktuell.de",
     "startDate": "2023-12-11",
@@ -1538,17 +1550,5 @@
     "cfpEndDate": "2023-04-28",
     "twitter": "@InformatikAktue",
     "locales": "DE,EN"
-  },
-  {
-    "name": "DevOpsCon",
-    "url": "https://devopscon.io/singapore",
-    "startDate": "2023-12-11",
-    "endDate": "2023-12-14",
-    "city": "Singapore",
-    "country": "Singapore",
-    "online": true,
-    "twitter": "@devops_con",
-    "cocUrl": "https://devopscon.io/code-of-conduct/",
-    "locales": "EN"
   }
 ]
