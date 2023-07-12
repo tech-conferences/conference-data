@@ -497,6 +497,19 @@
     "cocUrl": "https://www.conf42.com/code-of-conduct"
   },
   {
+    "name": "TestCon Europe Conference",
+    "url": "https://testcon.lt",
+    "startDate": "2023-10-24",
+    "endDate": "2023-10-27",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "online": true,
+    "cfpUrl": "https://airtable.com/shrv8qzaTIR41DxGn",
+    "cfpEndDate": "2023-09-15",
+    "twitter": "@testconeurope",
+    "locales": "EN"
+  },
+  {
     "name": "Agile Testing Days",
     "url": "https://agiletestingdays.com",
     "startDate": "2023-11-13",
