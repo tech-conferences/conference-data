@@ -277,6 +277,19 @@
     "locales": "EN"
   },
   {
+    "name": "SymfonyLive Berlin",
+    "url": "https://live.symfony.com/2023-berlin",
+    "startDate": "2023-10-05",
+    "endDate": "2023-10-06",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@symfony_live",
+    "mastodon": "@symfony@mastodon.social",
+    "cocUrl": "https://symfony.com/doc/current/contributing/code_of_conduct/index.html",
+    "locales": "DE"
+  },
+  {
     "name": "The Dutch PHP Conference",
     "url": "https://phpconference.nl",
     "startDate": "2023-10-13",
