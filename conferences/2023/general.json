@@ -1011,6 +1011,19 @@
     "locales": "EN"
   },
   {
+    "name": "FrOSCon",
+    "url": "https://froscon.org",
+    "startDate": "2023-08-05",
+    "endDate": "2023-08-06",
+    "city": "Sankt Augustin",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@froscon",
+    "mastodon": "@FrOSCon@bonn.social",
+    "cocUrl": "https://froscon.org/faq/coc/",
+    "locales": "DE,EN"
+  },
+  {
     "name": "Indy.Code()",
     "url": "https://indycode.amegala.com",
     "startDate": "2023-08-10",
