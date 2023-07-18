@@ -1633,6 +1633,17 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "ABAPConf",
+    "url": "https://abapconf.org",
+    "startDate": "2023-12-07",
+    "endDate": "2023-12-07",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdcuJUqj1Pn5rp8rTVjeaWzb8B-eNSe3McV3VbSlWvW-UE7CQ/viewform",
+    "cfpEndDate": "2023-09-30",
+    "twitter": "@AbapConf",
+    "locales": "EN,DE"
+  },
+  {
     "name": "Cassandra Summit",
     "url": "https://events.linuxfoundation.org/cassandra-summit",
     "startDate": "2023-12-12",
