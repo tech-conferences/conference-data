@@ -278,5 +278,20 @@
     "online": false,
     "twitter": "@swift_leeds",
     "locales": "EN"
+  },
+  {
+    "name": "Do iOS",
+    "url": "https://do-ios.com",
+    "startDate": "2023-11-08",
+    "endDate": "2023-11-09",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "cfpUrl": "https://www.papercall.io/do-ios-2023",
+    "cfpEndDate": "2023-08-31",
+    "twitter": "@iosconf",
+    "mastodon": "@appforce1@hachyderm.io",
+    "cocUrl": "http://confcodeofconduct.com/",
+    "locales": "EN"
   }
 ]
