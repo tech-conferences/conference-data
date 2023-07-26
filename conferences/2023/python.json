@@ -273,6 +273,22 @@
     "locales": "EN"
   },
   {
+    "name": "PyConUK",
+    "url": "https://2023.pyconuk.org",
+    "startDate": "2023-08-22",
+    "endDate": "2023-08-25",
+    "city": "Cardiff",
+    "country": "U.K.",
+    "online": false,
+    "cfpUrl": "https://2023.pyconuk.org/call-for-proposals",
+    "cfpEndDate": "2023-06-30",
+    "twitter": "@PyConUK",
+    "mastodon": "@PyConUK@fosstodon.org",
+    "cocUrl": "https://2023.pyconuk.org/code-of-conduct/",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Cloud Builders: Python Conf",
     "url": "https://www.cloud-builders.tech/python-conf",
     "startDate": "2023-09-06",
