@@ -187,6 +187,17 @@
     "locales": "EN"
   },
   {
+    "name": "Test",
+    "url": "http://test.test",
+    "startDate": "2023-07-29",
+    "endDate": "2023-07-29",
+    "city": "Hcm",
+    "country": "Vn",
+    "online": false,
+    "twitter": "@Test",
+    "locales": "EN,AK,AS"
+  },
+  {
     "name": "DeveloperWeek CloudX",
     "url": "https://www.developerweek.com/cloudx",
     "startDate": "2023-08-15",
