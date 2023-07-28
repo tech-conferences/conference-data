@@ -1479,6 +1479,18 @@
     "locales": "EN"
   },
   {
+    "name": "DevOps Kubernetes Camp",
+    "url": "https://devops-training.de/kubernetes-camp",
+    "startDate": "2023-11-13",
+    "endDate": "2023-11-15",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@Kubernetes_Camp",
+    "cocUrl": "https://devops-training.de/code-of-conduct/",
+    "locales": "DE"
+  },
+  {
     "name": "DevOps Talks Conference New Zealand",
     "url": "https://devops.talksplus.com/nz/devops",
     "startDate": "2023-11-21",
