@@ -1599,6 +1599,20 @@
     "locales": "IT,EN"
   },
   {
+    "name": "GambiConf",
+    "url": "https://gambiconf.dev",
+    "startDate": "2023-11-25",
+    "endDate": "2023-11-26",
+    "city": "São Paulo",
+    "country": "Brazil",
+    "online": true,
+    "cfpUrl": "https://gambiconf.dev/cfp",
+    "cfpEndDate": "2023-08-27",
+    "twitter": "@gambiconf",
+    "cocUrl": "https://gambiconf.dev/code-of-conduct",
+    "locales": "EN,PT"
+  },
+  {
     "name": "Software Architecture Gathering",
     "url": "https://conferences.isaqb.org/software-architecture-gathering",
     "startDate": "2023-11-27",
