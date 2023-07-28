@@ -1062,6 +1062,18 @@
     "cocUrl": "https://devopsdays.org/events/2023-washington-dc/conduct"
   },
   {
+    "name": "DevOps Kubernetes Camp Advanced",
+    "url": "https://devops-training.de/kubernetes-camp-advanced",
+    "startDate": "2023-09-13",
+    "endDate": "2023-09-15",
+    "city": "Munich",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@Kubernetes_Camp",
+    "cocUrl": "https://devops-training.de/code-of-conduct/",
+    "locales": "DE"
+  },
+  {
     "name": "Infobip Shift",
     "url": "https://shift.infobip.com",
     "startDate": "2023-09-18",
