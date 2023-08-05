@@ -1538,6 +1538,18 @@
     "locales": "EN"
   },
   {
+    "name": "MAD Summit",
+    "url": "https://mad-summit.de/berlin",
+    "startDate": "2023-12-04",
+    "endDate": "2023-12-06",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@mad_summit",
+    "cocUrl": "https://mad-summit.de/code-of-conduct/",
+    "locales": "DE"
+  },
+  {
     "name": "DevOpsCon",
     "url": "https://devopscon.io/singapore",
     "startDate": "2023-12-11",
