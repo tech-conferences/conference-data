@@ -1,5 +1,18 @@
 [
   {
+    "name": "QCon London",
+    "url": "https://qconlondon.com",
+    "startDate": "2024-04-08",
+    "endDate": "2024-04-10",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "twitter": "@qconlondon",
+    "mastodon": "@qcon@techhub.social",
+    "cocUrl": "https://qconferences.com/code-conduct",
+    "locales": "EN"
+  },
+  {
     "name": "Devopsdays Zurich",
     "url": "https://devopsdays.org/events/2024-zurich/welcome/",
     "startDate": "2024-04-16",
