@@ -1,11 +1,14 @@
 [
   {
     "name": "GraphQL Europe",
-    "url": "https://graphql-europe.org",
+    "url": "https://www.graphql-europe.org",
     "startDate": "2018-06-15",
     "endDate": "2018-06-15",
     "city": "Berlin",
-    "country": "Germany"
+    "country": "Germany",
+    "cfpUrl": "https://www.papercall.io/graphql-eu",
+    "cfpEndDate": "2018-03-31",
+    "twitter": "@graphqleu"
   },
   {
     "name": "GraphQL Finland",
