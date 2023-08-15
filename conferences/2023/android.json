@@ -145,5 +145,19 @@
     "twitter": "@nullcon",
     "cocUrl": "https://nullcon.net/about-conferencepolicy/",
     "locales": "EN"
+  },
+  {
+    "name": "droidcon Kenya",
+    "url": "https://droidcon.co.ke",
+    "startDate": "2023-11-08",
+    "endDate": "2023-11-10",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/droidcon-kenya-2023",
+    "cfpEndDate": "2023-09-11",
+    "twitter": "@droidconke",
+    "cocUrl": "https://sessionize.com/droidcon-kenya-2023/",
+    "locales": "EN"
   }
 ]
