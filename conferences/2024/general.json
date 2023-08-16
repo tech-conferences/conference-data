@@ -14,6 +14,19 @@
     "locales": "EN"
   },
   {
+    "name": "ConFoo Montreal",
+    "url": "https://confoo.ca/en/2024",
+    "startDate": "2024-02-21",
+    "endDate": "2024-02-23",
+    "online": true,
+    "cfpUrl": "https://confoo.ca/en/2024/call-for-papers",
+    "cfpEndDate": "2023-09-22",
+    "twitter": "@confooca",
+    "mastodon": "@confooca@techhub",
+    "cocUrl": "https://confoo.ca/en/code-of-conduct",
+    "locales": "EN,FR"
+  },
+  {
     "name": "Devworld Conference",
     "url": "https://devworldconference.com",
     "startDate": "2024-02-29",
