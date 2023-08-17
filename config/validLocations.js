@@ -631,6 +631,7 @@ module.exports = {
     "Fort Worth, TX",
     "Galveston, TX",
     "Grand Rapids, MI",
+    "Grants Pass, OR",
     "Grapevine, TX",
     "Half Moon Bay, CA",
     "Hartford, CT",
