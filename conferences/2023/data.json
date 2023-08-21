@@ -550,6 +550,20 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Postgres Ibiza",
+    "url": "https://pgibz.io",
+    "startDate": "2023-08-29",
+    "endDate": "2023-08-31",
+    "city": "Ibiza",
+    "country": "Spain",
+    "online": false,
+    "cfpUrl": "https://pgibz.io/#talks",
+    "cfpEndDate": "2023-07-09",
+    "twitter": "@pg_ibz",
+    "cocUrl": "https://pgibz.io/code-of-conduct.html",
+    "locales": "EN"
+  },
+  {
     "name": "Civo Navigate Europe",
     "url": "https://www.civo.com/navigate",
     "startDate": "2023-09-05",
