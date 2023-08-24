@@ -81,5 +81,20 @@
     "cfpEndDate": "2024-04-15",
     "twitter": "@DevDaysEurope",
     "locales": "EN"
+  },
+  {
+    "name": "RenderATL",
+    "url": "https://RenderATL.com",
+    "startDate": "2024-06-12",
+    "endDate": "2024-06-14",
+    "city": "Atlanta, GA",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://renderatl.com/cfp",
+    "cfpEndDate": "2023-11-13",
+    "twitter": "@RenderATL",
+    "cocUrl": "https://renderatl.com/code-of-conduct",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
   }
 ]
