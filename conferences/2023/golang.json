@@ -74,6 +74,18 @@
     "locales": "EN"
   },
   {
+    "name": "GopherConAU",
+    "url": "https://gophercon.com.au",
+    "startDate": "2023-11-08",
+    "endDate": "2023-11-10",
+    "city": "Sydney",
+    "country": "Australia",
+    "online": false,
+    "twitter": "@gopherconaunz",
+    "cocUrl": "https://gophercon.com.au/#code-of-conduct",
+    "locales": "EN"
+  },
+  {
     "name": "GoLab",
     "url": "https://golab.io",
     "startDate": "2023-11-19",
