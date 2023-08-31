@@ -737,7 +737,7 @@ module.exports = {
   "Ukraine": [
     "Chernivtsi",
     "Kharkiv",
-    "Kiev",
+    "Kyiv",
     "Lviv",
     "Odessa",
     "Vinnytsia"
