@@ -430,6 +430,19 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "droidcon NYV",
+    "url": "https://nyc.droidcon.com",
+    "startDate": "2023-09-14",
+    "endDate": "2023-09-15",
+    "city": "New York City",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@droidconNYC",
+    "mastodon": "@droidcon@androiddev.social",
+    "cocUrl": "https://nyc.droidcon.com/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "PowerShell Saturday Hannover",
     "url": "https://pssat.de",
     "startDate": "2023-09-16",
