@@ -55,5 +55,20 @@
     "online": true,
     "twitter": "@europeanppc",
     "locales": "EN"
+  },
+  {
+    "name": "droidcon Berlin",
+    "url": "https://berlin.droidcon.com",
+    "startDate": "2024-07-03",
+    "endDate": "2024-07-05",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/droidcon-berlin-2022",
+    "cfpEndDate": "2024-04-01",
+    "twitter": "@droidconBerlin",
+    "mastodon": "@droidcon@androiddev.social",
+    "cocUrl": "https://berlin.droidcon.com/code-of-conduct/",
+    "locales": "EN"
   }
 ]
