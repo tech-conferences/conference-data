@@ -48,12 +48,42 @@
     "locales": "EN"
   },
   {
+    "name": "droidcon San Francisco",
+    "url": "https://sf.droidcon.com",
+    "startDate": "2024-06-06",
+    "endDate": "2024-06-07",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/droidcon-san-francisco-2023",
+    "cfpEndDate": "2024-04-14",
+    "twitter": "@droidconSF",
+    "mastodon": "@droidcon@androiddev.social",
+    "cocUrl": "https://sf.droidcon.com/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "European Power Platform Conference (EPPC)",
     "url": "https://www.sharepointeurope.com/european-power-platform-conference",
     "startDate": "2024-06-11",
     "endDate": "2024-06-13",
     "online": true,
     "twitter": "@europeanppc",
+    "locales": "EN"
+  },
+  {
+    "name": "droidcon Berlin",
+    "url": "https://berlin.droidcon.com",
+    "startDate": "2024-07-03",
+    "endDate": "2024-07-05",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/droidcon-berlin-2022",
+    "cfpEndDate": "2024-04-01",
+    "twitter": "@droidconBerlin",
+    "mastodon": "@droidcon@androiddev.social",
+    "cocUrl": "https://berlin.droidcon.com/code-of-conduct/",
     "locales": "EN"
   }
 ]
