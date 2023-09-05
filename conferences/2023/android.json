@@ -147,6 +147,19 @@
     "locales": "EN"
   },
   {
+    "name": "droidcon London",
+    "url": "https://london.droidcon.com",
+    "startDate": "2023-10-26",
+    "endDate": "2023-10-27",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "twitter": "@droidconLondon",
+    "mastodon": "@droidcon@androiddev.social",
+    "cocUrl": "https://london.droidcon.com/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "droidcon Kenya",
     "url": "https://droidcon.co.ke",
     "startDate": "2023-11-08",
