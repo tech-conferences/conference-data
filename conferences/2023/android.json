@@ -133,6 +133,19 @@
     "locales": "EN"
   },
   {
+    "name": "droidcon New York",
+    "url": "https://nyc.droidcon.com",
+    "startDate": "2023-09-14",
+    "endDate": "2023-09-15",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@droidconNYC",
+    "mastodon": "@droidcon@androiddev.social",
+    "cocUrl": "https://nyc.droidcon.com/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "Nullcon Goa",
     "url": "https://nullcon.net/goa-2023",
     "startDate": "2023-09-23",
