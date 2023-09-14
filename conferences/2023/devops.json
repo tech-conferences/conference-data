@@ -1451,8 +1451,19 @@
     "locales": "EN"
   },
   {
-    "name": "The DEVOPS Conference - Copenhagen",
-    "url": "https://hubs.li/Q022frm_0",
+    "name": "The DEVOPS Conference",
+    "url": "https://www.thedevopsconference.com/stockholm",
+    "startDate": "2023-10-23",
+    "endDate": "2023-10-23",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "online": false,
+    "twitter": "@eficode",
+    "locales": "EN"
+  },
+  {
+    "name": "The DEVOPS Conference",
+    "url": "https://www.thedevopsconference.com/copenhagen",
     "startDate": "2023-10-25",
     "endDate": "2023-10-25",
     "city": "Copenhagen",
