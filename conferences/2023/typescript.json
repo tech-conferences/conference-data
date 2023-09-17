@@ -190,5 +190,15 @@
     "online": false,
     "twitter": "@angularbelgrade",
     "locales": "EN"
+  },
+  {
+    "name": "React Camp - Dein Weg zum React-Profi mit Hans-Christian Otto",
+    "url": "https://entwickler.de/react-camp",
+    "startDate": "2023-12-04",
+    "endDate": "2023-12-06",
+    "online": true,
+    "twitter": "@camp_react",
+    "cocUrl": "https://entwickler.de/react-camp/",
+    "locales": "DE"
   }
 ]
