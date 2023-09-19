@@ -50,9 +50,9 @@
     "cfpUrl": "https://confoo.ca/en/2024/call-for-papers",
     "cfpEndDate": "2023-09-22",
     "twitter": "@confooca",
-    "mastodon": "@confooca@techhub",
     "cocUrl": "https://confoo.ca/en/code-of-conduct",
-    "locales": "EN,FR"
+    "locales": "EN,FR",
+    "mastodon": "@confooca@techhub"
   },
   {
     "name": "DeveloperWeek",
@@ -93,9 +93,9 @@
     "cfpUrl": "https://www.socallinuxexpo.org/scale/21x/cfp",
     "cfpEndDate": "2023-11-01",
     "twitter": "@socallinuxexpo",
-    "mastodon": "@socallinuxexpo@social.linux.pizza",
     "cocUrl": "https://www.socallinuxexpo.org/scale/20x/code-conduct",
-    "locales": "EN"
+    "locales": "EN",
+    "mastodon": "@socallinuxexpo@social.linux.pizza"
   },
   {
     "name": "Great International Developer Summit (GIDS)",

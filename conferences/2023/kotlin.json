@@ -70,9 +70,9 @@
     "country": "U.S.A.",
     "online": false,
     "twitter": "@droidconNYC",
-    "mastodon": "@droidcon@androiddev.social",
     "cocUrl": "https://nyc.droidcon.com/code-of-conduct/",
-    "locales": "EN"
+    "locales": "EN",
+    "mastodon": "@droidcon@androiddev.social"
   },
   {
     "name": "droidcon London",
@@ -83,9 +83,9 @@
     "country": "U.K.",
     "online": false,
     "twitter": "@droidconLondon",
-    "mastodon": "@droidcon@androiddev.social",
     "cocUrl": "https://london.droidcon.com/code-of-conduct/",
-    "locales": "EN"
+    "locales": "EN",
+    "mastodon": "@droidcon@androiddev.social"
   },
   {
     "name": "droidcon Kenya",

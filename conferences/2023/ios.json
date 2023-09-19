@@ -146,6 +146,15 @@
     "locales": "EN"
   },
   {
+    "name": "Mobile People Community Day - Uniting Tech Enthusiasts!",
+    "url": "https://wearecommunity.io/events/mp-com-day",
+    "startDate": "2023-08-15",
+    "endDate": "2023-08-17",
+    "online": true,
+    "twitter": "@CommunityDay_Co",
+    "locales": "EN"
+  },
+  {
     "name": "MobileWeek",
     "url": "https://mobileweek.co",
     "startDate": "2023-08-15",
@@ -157,15 +166,6 @@
     "cfpEndDate": "2023-06-30",
     "twitter": "@DevNetwork_",
     "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "locales": "EN"
-  },
-  {
-    "name": "Mobile People Community Day - Uniting Tech Enthusiasts!",
-    "url": "https://wearecommunity.io/events/mp-com-day",
-    "startDate": "2023-08-15",
-    "endDate": "2023-08-17",
-    "online": true,
-    "twitter": "@CommunityDay_Co",
     "locales": "EN"
   },
   {
@@ -290,8 +290,8 @@
     "cfpUrl": "https://www.papercall.io/do-ios-2023",
     "cfpEndDate": "2023-08-31",
     "twitter": "@iosconf",
-    "mastodon": "@appforce1@hachyderm.io",
     "cocUrl": "http://confcodeofconduct.com/",
-    "locales": "EN"
+    "locales": "EN",
+    "mastodon": "@appforce1@hachyderm.io"
   }
 ]

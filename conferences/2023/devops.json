@@ -1051,17 +1051,6 @@
     "cocUrl": "https://devopsdays.org/events/2023-boise/conduct"
   },
   {
-    "name": "Devopsdays Washington, DC",
-    "url": "https://devopsdays.org/events/2023-washington-dc/welcome/",
-    "startDate": "2023-09-13",
-    "endDate": "2023-09-14",
-    "city": "Washington, DC",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@devopsdaysdc",
-    "cocUrl": "https://devopsdays.org/events/2023-washington-dc/conduct"
-  },
-  {
     "name": "swampUP",
     "url": "https://swampup.jfrog.com",
     "startDate": "2023-09-13",
@@ -1084,15 +1073,15 @@
     "locales": "EN"
   },
   {
-    "name": "DevOpsDays Ukraine: Disaster Recovery",
-    "url": "https://www.devopsdays.com.ua",
-    "startDate": "2023-09-14",
-    "endDate": "2023-09-15",
-    "online": true,
-    "twitter": "@devopsdays_kyiv",
-    "mastodon": "@devopsdays_ukraine@hachyderm.io",
-    "cocUrl": "https://devopsdays.org/events/2023-kyiv/conduct",
-    "locales": "EN"
+    "name": "Devopsdays Washington, DC",
+    "url": "https://devopsdays.org/events/2023-washington-dc/welcome/",
+    "startDate": "2023-09-13",
+    "endDate": "2023-09-14",
+    "city": "Washington, DC",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@devopsdaysdc",
+    "cocUrl": "https://devopsdays.org/events/2023-washington-dc/conduct"
   },
   {
     "name": "CI/CD Express Conference",
@@ -1102,6 +1091,17 @@
     "online": true,
     "twitter": "@semaphoreci",
     "locales": "EN"
+  },
+  {
+    "name": "DevOpsDays Ukraine: Disaster Recovery",
+    "url": "https://www.devopsdays.com.ua",
+    "startDate": "2023-09-14",
+    "endDate": "2023-09-15",
+    "online": true,
+    "twitter": "@devopsdays_kyiv",
+    "cocUrl": "https://devopsdays.org/events/2023-kyiv/conduct",
+    "locales": "EN",
+    "mastodon": "@devopsdays_ukraine@hachyderm.io"
   },
   {
     "name": "Infobip Shift",
@@ -1182,16 +1182,6 @@
     "locales": "EN"
   },
   {
-    "name": "Devopsdays Cairo",
-    "url": "https://devopsdays.org/events/2023-cairo/welcome/",
-    "startDate": "2023-09-27",
-    "endDate": "2023-09-27",
-    "city": "Cairo",
-    "country": "Egypt",
-    "online": false,
-    "cocUrl": "https://devopsdays.org/events/2023-cairo/conduct"
-  },
-  {
     "name": "DevOps World",
     "url": "https://www.devopsworld.com",
     "startDate": "2023-09-27",
@@ -1201,6 +1191,16 @@
     "online": false,
     "twitter": "@devopsworldconf",
     "locales": "EN"
+  },
+  {
+    "name": "Devopsdays Cairo",
+    "url": "https://devopsdays.org/events/2023-cairo/welcome/",
+    "startDate": "2023-09-27",
+    "endDate": "2023-09-27",
+    "city": "Cairo",
+    "country": "Egypt",
+    "online": false,
+    "cocUrl": "https://devopsdays.org/events/2023-cairo/conduct"
   },
   {
     "name": "Conf42 Kube Native",
@@ -1251,14 +1251,6 @@
     "locales": "EN"
   },
   {
-    "name": "Mobile DevOps Summit",
-    "url": "https://summit.bitrise.io",
-    "startDate": "2023-10-04",
-    "endDate": "2023-10-05",
-    "online": true,
-    "locales": "EN"
-  },
-  {
     "name": "WeAreDevelopers DevOps Day",
     "url": "https://www.wearedevelopers.com/event/devops-day-october-2023",
     "startDate": "2023-10-04",
@@ -1268,6 +1260,14 @@
     "cfpEndDate": "2023-09-27",
     "twitter": "@WeAreDevs",
     "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=Exercise%20consideration%20and%20respect%20in,and%20of%20your%20fellow%20participants.",
+    "locales": "EN"
+  },
+  {
+    "name": "Mobile DevOps Summit",
+    "url": "https://summit.bitrise.io",
+    "startDate": "2023-10-04",
+    "endDate": "2023-10-05",
+    "online": true,
     "locales": "EN"
   },
   {
@@ -1392,17 +1392,6 @@
     "locales": "EN"
   },
   {
-    "name": "Devopsdays Detroit",
-    "url": "https://devopsdays.org/events/2023-detroit/welcome/",
-    "startDate": "2023-10-18",
-    "endDate": "2023-10-19",
-    "city": "Detroit, MI",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@devopsdaysdet",
-    "cocUrl": "https://devopsdays.org/events/2023-detroit/conduct"
-  },
-  {
     "name": "DevOps World",
     "url": "https://www.devopsworld.com",
     "startDate": "2023-10-18",
@@ -1412,6 +1401,17 @@
     "online": false,
     "twitter": "@devopsworldconf",
     "locales": "EN"
+  },
+  {
+    "name": "Devopsdays Detroit",
+    "url": "https://devopsdays.org/events/2023-detroit/welcome/",
+    "startDate": "2023-10-18",
+    "endDate": "2023-10-19",
+    "city": "Detroit, MI",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@devopsdaysdet",
+    "cocUrl": "https://devopsdays.org/events/2023-detroit/conduct"
   },
   {
     "name": "Code BEAM Europe",
