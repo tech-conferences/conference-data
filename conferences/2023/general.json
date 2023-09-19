@@ -1019,9 +1019,9 @@
     "country": "Germany",
     "online": false,
     "twitter": "@froscon",
-    "mastodon": "@FrOSCon@bonn.social",
     "cocUrl": "https://froscon.org/faq/coc/",
-    "locales": "DE,EN"
+    "locales": "DE,EN",
+    "mastodon": "@FrOSCon@bonn.social"
   },
   {
     "name": "Indy.Code()",
@@ -1525,6 +1525,18 @@
     "locales": "EN"
   },
   {
+    "name": "DevSpace",
+    "url": "https://www.devspaceconf.com",
+    "startDate": "2023-10-23",
+    "endDate": "2023-10-24",
+    "city": "Huntsville, AL",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@devspaceconf",
+    "cocUrl": "https://www.devspaceconf.com/conduct.html",
+    "locales": "EN"
+  },
+  {
     "name": "International PHP Conference",
     "url": "https://phpconference.com/munich",
     "startDate": "2023-10-23",
@@ -1537,18 +1549,6 @@
     "twitter": "@phpconference",
     "cocUrl": "https://phpconference.com/code-of-conduct/",
     "locales": "EN,DE"
-  },
-  {
-    "name": "DevSpace",
-    "url": "https://www.devspaceconf.com",
-    "startDate": "2023-10-23",
-    "endDate": "2023-10-24",
-    "city": "Huntsville, AL",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@devspaceconf",
-    "cocUrl": "https://www.devspaceconf.com/conduct.html",
-    "locales": "EN"
   },
   {
     "name": "APIWorld",
@@ -1707,17 +1707,6 @@
     "locales": "FR"
   },
   {
-    "name": "DevTernity",
-    "url": "https://devternity.com",
-    "startDate": "2023-12-07",
-    "endDate": "2023-12-08",
-    "online": true,
-    "twitter": "@devternity",
-    "cocUrl": "https://devternity.com/coc.html",
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
-  },
-  {
     "name": "ABAPConf",
     "url": "https://abapconf.org",
     "startDate": "2023-12-07",
@@ -1727,6 +1716,17 @@
     "cfpEndDate": "2023-09-30",
     "twitter": "@AbapConf",
     "locales": "EN,DE"
+  },
+  {
+    "name": "DevTernity",
+    "url": "https://devternity.com",
+    "startDate": "2023-12-07",
+    "endDate": "2023-12-08",
+    "online": true,
+    "twitter": "@devternity",
+    "cocUrl": "https://devternity.com/coc.html",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "Cassandra Summit",

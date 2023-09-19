@@ -58,9 +58,9 @@
     "cfpUrl": "https://sessionize.com/droidcon-san-francisco-2023",
     "cfpEndDate": "2024-04-14",
     "twitter": "@droidconSF",
-    "mastodon": "@droidcon@androiddev.social",
     "cocUrl": "https://sf.droidcon.com/code-of-conduct/",
-    "locales": "EN"
+    "locales": "EN",
+    "mastodon": "@droidcon@androiddev.social"
   },
   {
     "name": "European Power Platform Conference (EPPC)",
@@ -82,8 +82,8 @@
     "cfpUrl": "https://sessionize.com/droidcon-berlin-2022",
     "cfpEndDate": "2024-04-01",
     "twitter": "@droidconBerlin",
-    "mastodon": "@droidcon@androiddev.social",
     "cocUrl": "https://berlin.droidcon.com/code-of-conduct/",
-    "locales": "EN"
+    "locales": "EN",
+    "mastodon": "@droidcon@androiddev.social"
   }
 ]

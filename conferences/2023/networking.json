@@ -377,17 +377,6 @@
     "locales": "EN"
   },
   {
-    "name": "VOICE & AI",
-    "url": "https://www.voiceand.ai",
-    "startDate": "2023-09-05",
-    "endDate": "2023-09-07",
-    "city": "Washington, DC",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@VOICEandAI",
-    "locales": "EN"
-  },
-  {
     "name": "SpiceWorld",
     "url": "https://www.spiceworks.com/spiceworld",
     "startDate": "2023-09-05",
@@ -399,6 +388,17 @@
     "cfpEndDate": "2023-09-04",
     "twitter": "@spiceworks",
     "cocUrl": "https://www.spiceworks.com/spiceworld/",
+    "locales": "EN"
+  },
+  {
+    "name": "VOICE & AI",
+    "url": "https://www.voiceand.ai",
+    "startDate": "2023-09-05",
+    "endDate": "2023-09-07",
+    "city": "Washington, DC",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@VOICEandAI",
     "locales": "EN"
   },
   {
@@ -438,9 +438,9 @@
     "country": "U.S.A.",
     "online": false,
     "twitter": "@droidconNYC",
-    "mastodon": "@droidcon@androiddev.social",
     "cocUrl": "https://nyc.droidcon.com/code-of-conduct/",
-    "locales": "EN"
+    "locales": "EN",
+    "mastodon": "@droidcon@androiddev.social"
   },
   {
     "name": "PowerShell Saturday Hannover",
@@ -451,8 +451,8 @@
     "country": "Germany",
     "online": false,
     "twitter": "@PSUGH",
-    "mastodon": "@psugh@norden.social",
-    "locales": "DE"
+    "locales": "DE",
+    "mastodon": "@psugh@norden.social"
   },
   {
     "name": "Nullcon Goa",
@@ -529,9 +529,9 @@
     "country": "U.K.",
     "online": false,
     "twitter": "@droidconLondon",
-    "mastodon": "@droidcon@androiddev.social",
     "cocUrl": "https://london.droidcon.com/code-of-conduct/",
-    "locales": "EN"
+    "locales": "EN",
+    "mastodon": "@droidcon@androiddev.social"
   },
   {
     "name": "CTO Craft Con: Culture and the CTO",

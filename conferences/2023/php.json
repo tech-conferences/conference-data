@@ -285,9 +285,9 @@
     "country": "Germany",
     "online": false,
     "twitter": "@symfony_live",
-    "mastodon": "@symfony@mastodon.social",
     "cocUrl": "https://symfony.com/doc/current/contributing/code_of_conduct/index.html",
-    "locales": "DE"
+    "locales": "DE",
+    "mastodon": "@symfony@mastodon.social"
   },
   {
     "name": "The Dutch PHP Conference",
