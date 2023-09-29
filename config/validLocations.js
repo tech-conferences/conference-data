@@ -490,6 +490,7 @@ module.exports = {
     "Suwon"
   ],
   "Spain": [
+    "A Coruña",
     "Alicante",
     "Barcelona",
     "Bilbao",
