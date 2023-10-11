@@ -1565,6 +1565,20 @@
     "locales": "EN"
   },
   {
+    "name": "Infoshare DEV",
+    "url": "https://dev.infoshare.pl",
+    "startDate": "2023-10-24",
+    "endDate": "2023-10-24",
+    "city": "Katowice",
+    "country": "Poland",
+    "online": false,
+    "cfpUrl": "https://dev.infoshare.pl/documents",
+    "cfpEndDate": "2023-10-23",
+    "twitter": "@nfosharepl",
+    "cocUrl": "https://dev.infoshare.pl/documents/",
+    "locales": "EN,PL"
+  },
+  {
     "name": "Ubuntu Summit",
     "url": "https://summit.ubuntu.com",
     "startDate": "2023-11-03",
