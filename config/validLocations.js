@@ -417,6 +417,7 @@ module.exports = {
     "Gdansk",
     "Gdynia",
     "Kraków",
+    "Katowice",
     "Krynica Zdrój",
     "Lodz",
     "Rzeszów",
