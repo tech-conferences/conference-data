@@ -1,5 +1,17 @@
 [
   {
+    "name": "JSworld Conference",
+    "url": "https://jsworldconference.com",
+    "startDate": "2024-02-28",
+    "endDate": "2024-03-01",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": true,
+    "twitter": "@jsworldconf",
+    "cocUrl": "https://jsworldconference.com/code-of-conduct",
+    "locales": "EN"
+  },
+  {
     "name": "Vuejs Amsterdam",
     "url": "https://vuejs.amsterdam",
     "startDate": "2024-02-28",
