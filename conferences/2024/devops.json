@@ -39,6 +39,18 @@
     "mastodon": "@qcon@techhub.social"
   },
   {
+    "name": "DevOpsCon London",
+    "url": "https://devopscon.io/london",
+    "startDate": "2024-04-08",
+    "endDate": "2024-04-11",
+    "online": true,
+    "cfpUrl": "https://devopscon.io/call-for-papers",
+    "cfpEndDate": "2023-10-23",
+    "twitter": "@devops_con",
+    "cocUrl": "https://devopscon.io/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "Devopsdays Zurich",
     "url": "https://devopsdays.org/events/2024-zurich/welcome/",
     "startDate": "2024-04-16",
