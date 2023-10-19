@@ -1126,16 +1126,6 @@
     "locales": "EN"
   },
   {
-    "name": "Next.js Conf",
-    "url": "https://nextjs.org/conf",
-    "startDate": "2023-10-26",
-    "endDate": "2023-10-26",
-    "online": true,
-    "cfpUrl": "https://vercel.fyi/cfp",
-    "cfpEndDate": "2023-09-24",
-    "locales": "EN"
-  },
-  {
     "name": "LibertyJS",
     "url": "https://libertyjs.com",
     "startDate": "2023-10-12",
@@ -1257,6 +1247,16 @@
     "locales": "EN"
   },
   {
+    "name": "Next.js Conf",
+    "url": "https://nextjs.org/conf",
+    "startDate": "2023-10-26",
+    "endDate": "2023-10-26",
+    "online": true,
+    "cfpUrl": "https://vercel.fyi/cfp",
+    "cfpEndDate": "2023-09-24",
+    "locales": "EN"
+  },
+  {
     "name": "Web Directions Summit",
     "url": "https://webdirections.org/summit",
     "startDate": "2023-10-26",
@@ -1307,6 +1307,17 @@
     "online": false,
     "twitter": "@angularbelgrade",
     "locales": "EN"
+  },
+  {
+    "name": "Adobe Developers Live: Content & Commerce",
+    "url": "https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce",
+    "startDate": "2023-11-06",
+    "endDate": "2023-11-06",
+    "online": true,
+    "twitter": "@AdobeDevs",
+    "cocUrl": "https://business.adobe.com/events/developers-live-code-of-conduct.html",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "React Summit US",
