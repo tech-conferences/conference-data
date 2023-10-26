@@ -12,5 +12,17 @@
     "twitter": "@PHPUKConference",
     "cocUrl": "https://www.phpconference.co.uk/conduct/",
     "locales": "EN"
+  },
+  {
+    "name": "Dutch PHP Conference",
+    "url": "https://www.phpconference.nl",
+    "startDate": "2024-03-12",
+    "endDate": "2024-03-15",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "twitter": "@dpcon",
+    "cocUrl": "https://www.phpconference.nl/code-of-conduct",
+    "locales": "EN"
   }
 ]
