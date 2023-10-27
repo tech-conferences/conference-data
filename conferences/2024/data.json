@@ -81,5 +81,17 @@
     "online": true,
     "twitter": "@dataconnectconf",
     "locales": "EN"
+  },
+  {
+    "name": "ASETMEET",
+    "url": "https://www.albedomeetings.com/2024/asetmeet#",
+    "startDate": "2024-09-16",
+    "endDate": "2024-09-18",
+    "city": "Dubai",
+    "country": "United Arabs Emirates",
+    "online": false,
+    "cocUrl": "https://www.albedomeetings.com/2024/asetmeet#registrationSar",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
   }
 ]
