@@ -64,10 +64,23 @@
     "locales": "EN"
   },
   {
+    "name": "2024 Embedded Vision Summit",
+    "url": "https://embeddedvisionsummit.com/",
+    "startDate": "2024-05-21",
+    "endDate": "2024-05-23",
+    "city": "Santa Clara, CA",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@EmbVisionSummit",
+    "locales": "EN"
+  },
+  {
     "name": "World Conference on Data Science & Statistics",
     "url": "https://datascience.thepeopleevents.com",
     "startDate": "2024-06-17",
     "endDate": "2024-06-19",
+    "city": "Amsterdam",
+    "country": "Netherlands",
     "online": true,
     "locales": "EN"
   },
@@ -80,6 +93,17 @@
     "country": "U.S.A.",
     "online": true,
     "twitter": "@dataconnectconf",
+    "locales": "EN"
+  },
+  {
+    "name": "Big Data London",
+    "url": "https://bigdataldn.com/",
+    "startDate": "2024-09-20",
+    "endDate": "2024-09-21",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "twitter": "@BigData_LDN",
     "locales": "EN"
   }
 ]
