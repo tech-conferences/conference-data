@@ -24,5 +24,20 @@
     "twitter": "@dpcon",
     "cocUrl": "https://www.phpconference.nl/code-of-conduct",
     "locales": "EN"
+  },
+  {
+    "name": "The Dutch PHP Conference",
+    "url": "https://phpconference.nl",
+    "startDate": "2024-03-12",
+    "endDate": "2024-03-15",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/dpc24",
+    "cfpEndDate": "2023-12-17",
+    "twitter": "@dpcon",
+    "mastodon": "@dpc_ibuildings@mastodon.social",
+    "cocUrl": "https://phpconference.nl/code-of-conduct",
+    "locales": "EN"
   }
 ]
