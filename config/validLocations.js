@@ -250,6 +250,7 @@ module.exports = {
     "Goa",
     "Gurgaon",
     "Hyderabad",
+    "Udaipur",
     "Kochi",
     "Mumbai",
     "Noida",
