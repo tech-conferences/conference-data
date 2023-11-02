@@ -51,6 +51,32 @@
     "locales": "EN"
   },
   {
+    "name": "Software Architecture Summit München",
+    "url": "https://software-architecture-summit.de/muenchen",
+    "startDate": "2024-03-11",
+    "endDate": "2024-03-13",
+    "city": "Munich",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@SoftwArchSummit",
+    "cocUrl": "https://software-architecture-summit.de/service-info/code-of-conduct/",
+    "locales": "DE"
+  },
+  {
+    "name": "Open Source Day",
+    "url": "https://2024.osday.dev",
+    "startDate": "2024-03-07",
+    "endDate": "2024-03-08",
+    "city": "Florence",
+    "country": "Italy",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/opensourceday24",
+    "cfpEndDate": "2024-01-31",
+    "twitter": "@schrodinger_hat",
+    "cocUrl": "https://2024.osday.dev/code-of-conduct",
+    "locales": "EN"
+  },
+  {
     "name": "Internet 2.0 Conference USA",
     "url": "https://www.internet2conf.com",
     "startDate": "2024-03-18",
@@ -93,6 +119,8 @@
     "url": "https://www.sharepointeurope.com/european-power-platform-conference",
     "startDate": "2024-06-11",
     "endDate": "2024-06-13",
+    "city": "Brussels",
+    "country": "Belgium",
     "online": true,
     "twitter": "@europeanppc",
     "locales": "EN"

@@ -330,6 +330,18 @@
     "locales": "EN"
   },
   {
+    "name": "Laracon AU",
+    "url": "https://laracon.au",
+    "startDate": "2023-11-16",
+    "endDate": "2023-11-17",
+    "city": "Sydney",
+    "country": "Australia",
+    "online": false,
+    "twitter": "@laraconau",
+    "cocUrl": "https://laracon.au/conduct",
+    "locales": "EN"
+  },
+  {
     "name": "betterCode() PHP",
     "url": "https://php.bettercode.eu",
     "startDate": "2023-11-27",
