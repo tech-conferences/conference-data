@@ -424,7 +424,8 @@ module.exports = {
     "Rzeszów",
     "Szczyrk",
     "Warsaw",
-    "Wroclaw"
+    "Wroclaw",
+    "Zawiercie"
   ],
   "Portugal": [
     "Aveiro",
