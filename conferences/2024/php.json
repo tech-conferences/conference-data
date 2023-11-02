@@ -24,5 +24,19 @@
     "twitter": "@dpcon",
     "cocUrl": "https://www.phpconference.nl/code-of-conduct",
     "locales": "EN"
+  },
+  {
+    "name": "phpday",
+    "url": "https://2024.phpday.it",
+    "startDate": "2024-05-16",
+    "endDate": "2024-05-17",
+    "city": "Verona",
+    "country": "Italy",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/phpday-2024",
+    "cfpEndDate": "2024-01-14",
+    "twitter": "@phpday",
+    "cocUrl": "https://2024.phpday.it/welcome/coc.html",
+    "locales": "EN"
   }
 ]
