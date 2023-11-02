@@ -942,6 +942,16 @@
     "locales": "EN"
   },
   {
+    "name": "INNOQ Technology Day",
+    "url": "https://technologyday.innoq.com",
+    "startDate": "2023-11-13",
+    "endDate": "2023-11-13",
+    "online": true,
+    "twitter": "@INNOQ",
+    "locales": "DE,EN",
+    "mastodon": "@INNOQ@innoq.social"
+  },
+  {
     "name": "Scale By The Bay",
     "url": "https://www.scale.bythebay.io",
     "startDate": "2023-11-13",
@@ -954,16 +964,6 @@
     "twitter": "@ScaleByTheBay",
     "cocUrl": "https://github.com/bythebay/policies/blob/master/citizen_code_of_conduct.md",
     "locales": "EN"
-  },
-  {
-    "name": "INNOQ Technology Day",
-    "url": "https://technologyday.innoq.com",
-    "startDate": "2023-11-13",
-    "endDate": "2023-11-13",
-    "online": true,
-    "twitter": "@INNOQ",
-    "mastodon": "@INNOQ@innoq.social",
-    "locales": "DE,EN"
   },
   {
     "name": "Celosphere",
