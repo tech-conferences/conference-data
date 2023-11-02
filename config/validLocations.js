@@ -250,12 +250,12 @@ module.exports = {
     "Goa",
     "Gurgaon",
     "Hyderabad",
-    "Udaipur",
     "Kochi",
     "Mumbai",
     "Noida",
     "Pune",
-    "Tamil Nadu"
+    "Tamil Nadu",
+    "Udaipur"
   ],
   "Indonesia": [
     "Bali",
@@ -417,8 +417,8 @@ module.exports = {
     "Bydgoszcz",
     "Gdansk",
     "Gdynia",
-    "Kraków",
     "Katowice",
+    "Kraków",
     "Krynica Zdrój",
     "Lodz",
     "Rzeszów",
