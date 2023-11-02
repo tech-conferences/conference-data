@@ -83,6 +83,20 @@
     "locales": "EN"
   },
   {
+    "name": "Wasm I/O",
+    "url": "https://2024.wasmio.tech",
+    "startDate": "2024-03-14",
+    "endDate": "2024-03-15",
+    "city": "Barcelona",
+    "country": "Spain",
+    "online": false,
+    "cfpUrl": "https://www.papercall.io/wasmio24",
+    "cfpEndDate": "2024-01-01",
+    "twitter": "@wasm_io",
+    "cocUrl": "https://2024.wasmio.tech/codeofconduct/",
+    "locales": "EN"
+  },
+  {
     "name": "Software Architecture Summit München",
     "url": "https://software-architecture-summit.de/muenchen",
     "startDate": "2024-03-11",
@@ -122,20 +136,6 @@
     "cocUrl": "https://www.socallinuxexpo.org/scale/20x/code-conduct",
     "locales": "EN",
     "mastodon": "@socallinuxexpo@social.linux.pizza"
-  },
-  {
-    "name": "Wasm I/O",
-    "url": "https://2024.wasmio.tech",
-    "startDate": "2024-03-14",
-    "endDate": "2024-03-15",
-    "city": "Barcelona",
-    "country": "Spain",
-    "online": false,
-    "cfpUrl": "https://www.papercall.io/wasmio24",
-    "cfpEndDate": "2024-01-01",
-    "twitter": "@wasm_io",
-    "cocUrl": "https://2024.wasmio.tech/codeofconduct/",
-    "locales": "EN"
   },
   {
     "name": "Great International Developer Summit (GIDS)",

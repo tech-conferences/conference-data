@@ -68,5 +68,19 @@
     "twitter": "@phpday",
     "cocUrl": "https://2024.phpday.it/welcome/coc.html",
     "locales": "EN"
+  },
+  {
+    "name": "Laracon India",
+    "url": "https://laracon.in",
+    "startDate": "2024-03-23",
+    "endDate": "2024-03-24",
+    "city": "Udaipur",
+    "country": "India",
+    "online": false,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdHBOswhGtvmrZLaeHDwdnksJ4oHCvNG58oTyC5roTNA99Qjw/viewform",
+    "cfpEndDate": "2024-02-29",
+    "twitter": "@LaraconIN",
+    "cocUrl": "https://laracon.in/code-of-conduct.html",
+    "locales": "EN"
   }
 ]
