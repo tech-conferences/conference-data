@@ -1102,6 +1102,15 @@
     "locales": "EN"
   },
   {
+    "name": "EngX Community Day",
+    "url": "https://wearecommunity.io/events/engx-community-day-2023",
+    "startDate": "2023-10-05",
+    "endDate": "2023-10-06",
+    "online": true,
+    "twitter": "@CommunityDay_Co",
+    "locales": "EN"
+  },
+  {
     "name": "revo.js",
     "url": "https://revojs.ro/2023",
     "startDate": "2023-10-05",
@@ -1115,15 +1124,6 @@
     "cocUrl": "https://revojs.ro/code-of-conduct/",
     "locales": "EN",
     "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "EngX Community Day",
-    "url": "https://wearecommunity.io/events/engx-community-day-2023",
-    "startDate": "2023-10-05",
-    "endDate": "2023-10-06",
-    "online": true,
-    "twitter": "@CommunityDay_Co",
-    "locales": "EN"
   },
   {
     "name": "LibertyJS",
@@ -1332,18 +1332,15 @@
     "locales": "EN"
   },
   {
-    "name": "Build Stuff",
-    "url": "https://www.buildstuff.events",
+    "name": "Adobe Developers Live | APAC: Content & Commerce",
+    "url": "https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-apac-content-and-commerce",
     "startDate": "2023-11-15",
-    "endDate": "2023-11-17",
-    "city": "Vilnius",
-    "country": "Lithuania",
+    "endDate": "2023-11-15",
     "online": true,
-    "cfpUrl": "https://www.buildstuff.events/cfp",
-    "cfpEndDate": "2023-07-02",
-    "twitter": "@BuildStuffConf",
-    "cocUrl": "https://www.buildstuff.events/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@AdobeDevs",
+    "cocUrl": "https://business.adobe.com/events/developers-live-code-of-conduct.html",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "HalfStack London",
@@ -1360,15 +1357,18 @@
     "locales": "EN"
   },
   {
-    "name": "Adobe Developers Live | APAC: Content & Commerce",
-    "url": "https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-apac-content-and-commerce",
+    "name": "Build Stuff",
+    "url": "https://www.buildstuff.events",
     "startDate": "2023-11-15",
-    "endDate": "2023-11-15",
+    "endDate": "2023-11-17",
+    "city": "Vilnius",
+    "country": "Lithuania",
     "online": true,
-    "twitter": "@AdobeDevs",
-    "cocUrl": "https://business.adobe.com/events/developers-live-code-of-conduct.html",
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "cfpUrl": "https://www.buildstuff.events/cfp",
+    "cfpEndDate": "2023-07-02",
+    "twitter": "@BuildStuffConf",
+    "cocUrl": "https://www.buildstuff.events/code-of-conduct",
+    "locales": "EN"
   },
   {
     "name": "Conf42 JavaScript",

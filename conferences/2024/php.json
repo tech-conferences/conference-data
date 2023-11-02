@@ -1,5 +1,17 @@
 [
   {
+    "name": "Laracon EU",
+    "url": "https://laracon.eu",
+    "startDate": "2024-02-05",
+    "endDate": "2024-02-06",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScFypq0-07JLgvFylUB6RcmE_0uBqPdte4l-UPNxqbmi7kHBw/viewform",
+    "cfpEndDate": "2024-01-31",
+    "locales": "EN"
+  },
+  {
     "name": "PHP UK Conference",
     "url": "https://www.phpconference.co.uk",
     "startDate": "2024-02-15",
@@ -14,15 +26,61 @@
     "locales": "EN"
   },
   {
-    "name": "Dutch PHP Conference",
-    "url": "https://www.phpconference.nl",
+    "name": "The Dutch PHP Conference",
+    "url": "https://phpconference.nl",
     "startDate": "2024-03-12",
     "endDate": "2024-03-15",
     "city": "Amsterdam",
     "country": "Netherlands",
     "online": false,
+    "cfpUrl": "https://sessionize.com/dpc24",
+    "cfpEndDate": "2023-12-17",
     "twitter": "@dpcon",
-    "cocUrl": "https://www.phpconference.nl/code-of-conduct",
+    "mastodon": "@dpc_ibuildings@mastodon.social",
+    "cocUrl": "https://phpconference.nl/code-of-conduct",
+    "locales": "EN"
+  },
+  {
+    "name": "PHP[TEK]",
+    "url": "https://tek.phparch.com",
+    "startDate": "2024-04-23",
+    "endDate": "2024-04-25",
+    "city": "Chicago, IL",
+    "country": "U.S.A.",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/phptek-2024",
+    "cfpEndDate": "2023-11-30",
+    "twitter": "@phptek",
+    "mastodon": "@tek@phparch.social",
+    "cocUrl": "https://tek.phparch.com/code-of-conduct",
+    "locales": "EN"
+  },
+  {
+    "name": "phpday",
+    "url": "https://2024.phpday.it",
+    "startDate": "2024-05-16",
+    "endDate": "2024-05-17",
+    "city": "Verona",
+    "country": "Italy",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/phpday-2024",
+    "cfpEndDate": "2024-01-14",
+    "twitter": "@phpday",
+    "cocUrl": "https://2024.phpday.it/welcome/coc.html",
+    "locales": "EN"
+  },
+  {
+    "name": "Laracon India",
+    "url": "https://laracon.in",
+    "startDate": "2024-03-23",
+    "endDate": "2024-03-24",
+    "city": "Udaipur",
+    "country": "India",
+    "online": false,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdHBOswhGtvmrZLaeHDwdnksJ4oHCvNG58oTyC5roTNA99Qjw/viewform",
+    "cfpEndDate": "2024-02-29",
+    "twitter": "@LaraconIN",
+    "cocUrl": "https://laracon.in/code-of-conduct.html",
     "locales": "EN"
   }
 ]

@@ -1551,20 +1551,6 @@
     "locales": "EN,DE"
   },
   {
-    "name": "APIWorld",
-    "url": "https://apiworld.co",
-    "startDate": "2023-10-24",
-    "endDate": "2023-11-02",
-    "city": "Santa Clara, CA",
-    "country": "U.S.A.",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/api-world-2023",
-    "cfpEndDate": "2023-06-09",
-    "twitter": "@APIWorld",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "locales": "EN"
-  },
-  {
     "name": "Infoshare DEV",
     "url": "https://dev.infoshare.pl",
     "startDate": "2023-10-24",
@@ -1577,6 +1563,20 @@
     "twitter": "@nfosharepl",
     "cocUrl": "https://dev.infoshare.pl/documents/",
     "locales": "EN,PL"
+  },
+  {
+    "name": "APIWorld",
+    "url": "https://apiworld.co",
+    "startDate": "2023-10-24",
+    "endDate": "2023-11-02",
+    "city": "Santa Clara, CA",
+    "country": "U.S.A.",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/api-world-2023",
+    "cfpEndDate": "2023-06-09",
+    "twitter": "@APIWorld",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
+    "locales": "EN"
   },
   {
     "name": "Ubuntu Summit",
@@ -1640,6 +1640,16 @@
     "twitter": "@ScaleByTheBay",
     "cocUrl": "https://github.com/bythebay/policies/blob/master/citizen_code_of_conduct.md",
     "locales": "EN"
+  },
+  {
+    "name": "INNOQ Technology Day",
+    "url": "https://technologyday.innoq.com",
+    "startDate": "2023-11-13",
+    "endDate": "2023-11-13",
+    "online": true,
+    "twitter": "@INNOQ",
+    "mastodon": "@INNOQ@innoq.social",
+    "locales": "DE,EN"
   },
   {
     "name": "ObservabilityCON",

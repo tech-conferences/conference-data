@@ -740,6 +740,16 @@
     "locales": "EN"
   },
   {
+    "name": "UC Berkeley AI Summit",
+    "url": "https://www.berkeleyhaasaisummit.com",
+    "startDate": "2023-10-08",
+    "endDate": "2023-10-08",
+    "city": "Berkeley, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN"
+  },
+  {
     "name": "AI Engineer Summit",
     "url": "https://www.ai.engineer/summit",
     "startDate": "2023-10-08",
@@ -751,16 +761,6 @@
     "cfpEndDate": "2023-08-20",
     "twitter": "@aiDotEngineer",
     "cocUrl": "https://www.ai.engineer/conduct",
-    "locales": "EN"
-  },
-  {
-    "name": "UC Berkeley AI Summit",
-    "url": "https://www.berkeleyhaasaisummit.com",
-    "startDate": "2023-10-08",
-    "endDate": "2023-10-08",
-    "city": "Berkeley, CA",
-    "country": "U.S.A.",
-    "online": false,
     "locales": "EN"
   },
   {
@@ -956,6 +956,16 @@
     "locales": "EN"
   },
   {
+    "name": "INNOQ Technology Day",
+    "url": "https://technologyday.innoq.com",
+    "startDate": "2023-11-13",
+    "endDate": "2023-11-13",
+    "online": true,
+    "twitter": "@INNOQ",
+    "mastodon": "@INNOQ@innoq.social",
+    "locales": "DE,EN"
+  },
+  {
     "name": "Celosphere",
     "url": "https://www.celonis.com/celosphere",
     "startDate": "2023-11-14",
@@ -1029,17 +1039,6 @@
     "locales": "EN"
   },
   {
-    "name": "PostgreSQL Conference Europe",
-    "url": "https://2023.pgconf.eu/",
-    "startDate": "2023-12-12",
-    "endDate": "2023-12-15",
-    "city": "Prague",
-    "country": "Czech Republic",
-    "online": false,
-    "twitter": "@pgconfeu",
-    "locales": "EN"
-  },
-  {
     "name": "AI.dev: Open Souce GenAI & ML Summit",
     "url": "https://events.linuxfoundation.org/ai-dev-north-america",
     "startDate": "2023-12-12",
@@ -1051,6 +1050,17 @@
     "cfpEndDate": "2023-10-23",
     "twitter": "@LinuxFoundation",
     "cocUrl": "https://events.linuxfoundation.org/ai-dev-north-america/attend/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
+    "name": "PostgreSQL Conference Europe",
+    "url": "https://2023.pgconf.eu/",
+    "startDate": "2023-12-12",
+    "endDate": "2023-12-15",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "online": false,
+    "twitter": "@pgconfeu",
     "locales": "EN"
   }
 ]
