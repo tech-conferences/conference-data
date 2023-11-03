@@ -191,6 +191,7 @@ module.exports = {
     "Cologne",
     "Darmstadt",
     "Dresden",
+    "Dortmund",
     "Düsseldorf",
     "Erlangen",
     "Essen",
