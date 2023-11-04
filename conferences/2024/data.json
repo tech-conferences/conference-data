@@ -14,6 +14,16 @@
     "locales": "EN"
   },
   {
+    "name": "Generative AI for Marketing Summit",
+    "url": "https://www.aidataanalytics.network/events-generative-ai-for-marketing",
+    "startDate": "2024-02-27",
+    "endDate": "2024-02-28",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN"
+  },
+  {
     "name": "NVIDIA GTC",
     "url": "https://www.nvidia.com/gtc",
     "startDate": "2024-03-18",
@@ -75,6 +85,16 @@
     "locales": "EN"
   },
   {
+    "name": "International Conference on Machine Learning Technologies (ICMLT)",
+    "url": "http://www.icmlt.org",
+    "startDate": "2024-05-24",
+    "endDate": "2024-05-26",
+    "city": "Oslo",
+    "country": "Norway",
+    "online": false,
+    "locales": "EN"
+  },
+  {
     "name": "World Conference on Data Science & Statistics",
     "url": "https://datascience.thepeopleevents.com",
     "startDate": "2024-06-17",
@@ -93,6 +113,17 @@
     "country": "U.S.A.",
     "online": true,
     "twitter": "@dataconnectconf",
+    "locales": "EN"
+  },
+  {
+    "name": "International Conference on Machine Learning (ICML)",
+    "url": "https://icml.cc",
+    "startDate": "2024-07-21",
+    "endDate": "2024-07-27",
+    "city": "Vienna",
+    "country": "Austria",
+    "online": true,
+    "twitter": "@icmlconf",
     "locales": "EN"
   },
   {
