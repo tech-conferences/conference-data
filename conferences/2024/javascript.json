@@ -106,6 +106,18 @@
     "locales": "EN"
   },
   {
+    "name": "Fest.dev Krakow JavaScript Conference",
+    "url": "https://fest.dev/events/js/krakow-2024",
+    "startDate": "2024-03-22",
+    "endDate": "2024-03-22",
+    "city": "Kraków",
+    "country": "Poland",
+    "online": false,
+    "twitter": "@devfestconf",
+    "cocUrl": "https://fest.dev/coc/",
+    "locales": "EN"
+  },
+  {
     "name": "CityJS London",
     "url": "https://london.cityjsconf.org",
     "startDate": "2024-04-04",
@@ -199,19 +211,6 @@
     "locales": "EN"
   },
   {
-    "name": "React Summit",
-    "url": "https://reactsummit.com",
-    "startDate": "2024-06-14",
-    "endDate": "2024-06-18",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfeqfjOglU2yyJtVK7AR5gt_tkby8YVXNCCywIMSc9npGlnLA/viewform",
-    "cfpEndDate": "2024-03-03",
-    "twitter": "@ReactSummit",
-    "locales": "EN"
-  },
-  {
     "name": "JSNation",
     "url": "https://jsnation.com",
     "startDate": "2024-06-13",
@@ -223,6 +222,19 @@
     "cfpEndDate": "2024-03-03",
     "twitter": "@thejsnation",
     "cocUrl": "https://portal.gitnation.org/coc",
+    "locales": "EN"
+  },
+  {
+    "name": "React Summit",
+    "url": "https://reactsummit.com",
+    "startDate": "2024-06-14",
+    "endDate": "2024-06-18",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfeqfjOglU2yyJtVK7AR5gt_tkby8YVXNCCywIMSc9npGlnLA/viewform",
+    "cfpEndDate": "2024-03-03",
+    "twitter": "@ReactSummit",
     "locales": "EN"
   },
   {
