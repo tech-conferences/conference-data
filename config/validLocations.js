@@ -467,7 +467,6 @@ module.exports = {
     "Novi Sad"
   ],
   "Singapore": [
-    "Marina Bay Sands",
     "Singapore"
   ],
   "Slovakia": [
