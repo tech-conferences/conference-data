@@ -73,6 +73,7 @@ module.exports = {
     "Varna"
   ],
   "Canada": [
+    "Banff",
     "Gatineau",
     "Hamilton",
     "Kingston",
