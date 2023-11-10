@@ -327,6 +327,7 @@ module.exports = {
     "Nairobi"
   ],
   "Korea": [
+    "Jeju",
     "Seoul"
   ],
   "Kosovo": [
