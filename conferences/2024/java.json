@@ -40,6 +40,19 @@
     "locales": "EN"
   },
   {
+    "name": "JCON EUROPE",
+    "url": "https://2024.europe.jcon.one",
+    "startDate": "2024-05-13",
+    "endDate": "2024-05-16",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/jcon-europe-2024",
+    "cfpEndDate": "2023-11-30",
+    "twitter": "@jcon_conference",
+    "mastodon": "@jcon@mastodon.social",
+    "cocUrl": "https://2024.europe.jcon.one/code-of-conduct",
+    "locales": "EN,DE"
+  },
+  {
     "name": "JDKon",
     "url": "https://jdkon.io",
     "startDate": "2024-05-23",
