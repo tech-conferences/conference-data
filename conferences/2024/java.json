@@ -1,5 +1,13 @@
 [
   {
+    "name": "Java Developer Day",
+    "url": "https://www.wearedevelopers.com/event/java-developer-day-january-2024",
+    "startDate": "2024-01-17",
+    "endDate": "2024-01-17",
+    "online": true,
+    "locales": "EN"
+  },
+  {
     "name": "Devworld Conference",
     "url": "https://devworldconference.com",
     "startDate": "2024-02-29",
@@ -38,6 +46,19 @@
     "twitter": "@DevoxxUK",
     "cocUrl": "https://www.devoxx.co.uk/code-of-conduct/",
     "locales": "EN"
+  },
+  {
+    "name": "JCON EUROPE",
+    "url": "https://2024.europe.jcon.one",
+    "startDate": "2024-05-13",
+    "endDate": "2024-05-16",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/jcon-europe-2024",
+    "cfpEndDate": "2023-11-30",
+    "twitter": "@jcon_conference",
+    "mastodon": "@jcon@mastodon.social",
+    "cocUrl": "https://2024.europe.jcon.one/code-of-conduct",
+    "locales": "EN,DE"
   },
   {
     "name": "JDKon",
