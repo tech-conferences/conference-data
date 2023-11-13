@@ -105,6 +105,16 @@
     "locales": "EN"
   },
   {
+    "name": "International Conference on Automated Planning and Scheduling (ICAPS)",
+    "url": "https://icaps24.icaps-conference.org/",
+    "startDate": "2024-06-01",
+    "endDate": "2024-06-06",
+    "city": "Banff",
+    "country": "Canada",
+    "online": false,
+    "locales": "EN"
+  },
+  {
     "name": "World Conference on Data Science & Statistics",
     "url": "https://datascience.thepeopleevents.com",
     "startDate": "2024-06-17",
@@ -112,6 +122,26 @@
     "city": "Amsterdam",
     "country": "Netherlands",
     "online": true,
+    "locales": "EN"
+  },
+  {
+    "name": "Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "url": "https://cvpr.thecvf.com/Conferences/2024",
+    "startDate": "2024-06-17",
+    "endDate": "2024-06-21",
+    "city": "Seattle, WA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN"
+  },
+  {
+    "name": "International Conference on Pattern Recognition and Artificial Intelligence (ICPRAI)",
+    "url": "https://brain.korea.ac.kr/icprai2024/",
+    "startDate": "2024-06-18",
+    "endDate": "2024-06-21",
+    "city": "Jeju",
+    "country": "Korea",
+    "online": false,
     "locales": "EN"
   },
   {
