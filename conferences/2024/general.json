@@ -271,6 +271,20 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "C3 Dev Festival",
+    "url": "https://c3fest.com",
+    "startDate": "2024-06-14",
+    "endDate": "2024-06-16",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeXAbbojZblJS8gsj4zKLDed79PdFjfmrpgGx3nuXOyGN7jkg/viewform",
+    "cfpEndDate": "2024-02-28",
+    "twitter": "@c3devfest",
+    "cocUrl": "https://portal.gitnation.org/coc",
+    "locales": "EN"
+  },
+  {
     "name": "Code BEAM Coruña",
     "url": "https://codebeamcorunha.es",
     "startDate": "2024-06-21",
