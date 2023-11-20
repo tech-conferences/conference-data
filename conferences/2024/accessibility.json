@@ -12,5 +12,16 @@
     "locales": "EN",
     "mastodon": "@dequesystems@mstdn.social",
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "Accessibility Days",
+    "url": "https://accessibilitydays.it",
+    "startDate": "2024-05-16",
+    "endDate": "2024-05-17",
+    "city": "Rome",
+    "country": "Italy",
+    "online": true,
+    "twitter": "@a11y_days",
+    "locales": "IT"
   }
 ]
