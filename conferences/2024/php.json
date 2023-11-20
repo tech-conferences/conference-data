@@ -38,6 +38,18 @@
     "locales": "EN"
   },
   {
+    "name": "PHP UK Conference",
+    "url": "https://www.phpconference.co.uk",
+    "startDate": "2024-02-15",
+    "endDate": "2024-02-16",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "twitter": "@PHPUKConference",
+    "cocUrl": "https://www.phpconference.co.uk/conduct",
+    "locales": "EN"
+  },
+  {
     "name": "The Dutch PHP Conference",
     "url": "https://phpconference.nl",
     "startDate": "2024-03-12",
