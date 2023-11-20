@@ -104,5 +104,16 @@
     "twitter": "@phpday",
     "cocUrl": "https://2024.phpday.it/welcome/coc.html",
     "locales": "EN"
+  },
+  {
+    "name": "International PHP Conference",
+    "url": "https://phpconference.com/berlin-en",
+    "startDate": "2024-05-27",
+    "endDate": "2024-05-31",
+    "online": true,
+    "cfpUrl": "https://phpconference.com/call-for-papers",
+    "cfpEndDate": "2023-11-27",
+    "twitter": "@phpconference",
+    "locales": "EN"
   }
 ]
