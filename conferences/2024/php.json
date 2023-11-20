@@ -12,6 +12,16 @@
     "locales": "EN"
   },
   {
+    "name": "SymfonyOnline",
+    "url": "https://live.symfony.com/2024-online-january",
+    "startDate": "2024-01-18",
+    "endDate": "2024-01-19",
+    "online": true,
+    "twitter": "@symfony_live",
+    "cocUrl": "https://symfony.com/doc/current/contributing/code_of_conduct/care_team.html",
+    "locales": "EN"
+  },
+  {
     "name": "Laracon EU",
     "url": "https://laracon.eu",
     "startDate": "2024-02-05",
