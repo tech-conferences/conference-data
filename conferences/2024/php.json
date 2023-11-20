@@ -12,6 +12,16 @@
     "locales": "EN"
   },
   {
+    "name": "SymfonyOnline",
+    "url": "https://live.symfony.com/2024-online-january",
+    "startDate": "2024-01-18",
+    "endDate": "2024-01-19",
+    "online": true,
+    "twitter": "@symfony_live",
+    "cocUrl": "https://symfony.com/doc/current/contributing/code_of_conduct/care_team.html",
+    "locales": "EN"
+  },
+  {
     "name": "Laracon EU",
     "url": "https://laracon.eu",
     "startDate": "2024-02-05",
@@ -67,6 +77,20 @@
     "locales": "EN"
   },
   {
+    "name": "SymfonyLive Paris",
+    "url": "https://live.symfony.com/2024-paris",
+    "startDate": "2024-03-28",
+    "endDate": "2024-03-29",
+    "city": "Paris",
+    "country": "France",
+    "online": false,
+    "cfpUrl": "https://live.symfony.com/2024-paris/cfp",
+    "cfpEndDate": "2023-12-18",
+    "twitter": "@symfony_live",
+    "cocUrl": "https://symfony.com/doc/current/contributing/code_of_conduct/care_team.html",
+    "locales": "EN"
+  },
+  {
     "name": "PHP[TEK]",
     "url": "https://tek.phparch.com",
     "startDate": "2024-04-23",
@@ -104,6 +128,17 @@
     "cfpUrl": "https://2024.phpday.it/welcome/cfp.html",
     "cfpEndDate": "2024-01-14",
     "twitter": "@phpday",
+    "locales": "EN"
+  },
+  {
+    "name": "International PHP Conference",
+    "url": "https://phpconference.com/berlin-en",
+    "startDate": "2024-05-27",
+    "endDate": "2024-05-31",
+    "online": true,
+    "cfpUrl": "https://phpconference.com/call-for-papers",
+    "cfpEndDate": "2023-11-27",
+    "twitter": "@phpconference",
     "locales": "EN"
   }
 ]
