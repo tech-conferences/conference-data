@@ -53,6 +53,20 @@
     "mastodon": "@dpc_ibuildings@mastodon.social"
   },
   {
+    "name": "DUTCH PHP CONFERENCE",
+    "url": "https://phpconference.nl",
+    "startDate": "2024-03-12",
+    "endDate": "2024-03-15",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/dpc24",
+    "cfpEndDate": "2023-12-17",
+    "twitter": "@dpcon",
+    "cocUrl": "https://phpconference.nl/code-of-conduct",
+    "locales": "EN"
+  },
+  {
     "name": "Laracon India",
     "url": "https://laracon.in",
     "startDate": "2024-03-23",
