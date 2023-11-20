@@ -1801,6 +1801,18 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "NeoVim Conf",
+    "url": "https://neovimconf.live",
+    "startDate": "2023-12-08",
+    "endDate": "2023-12-08",
+    "online": true,
+    "cfpUrl": "https://neovimconf.live/lightning",
+    "cfpEndDate": "2023-12-07",
+    "twitter": "@vimconflive",
+    "cocUrl": "https://neovimconf.live/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "Cassandra Summit",
     "url": "https://events.linuxfoundation.org/cassandra-summit",
     "startDate": "2023-12-12",
