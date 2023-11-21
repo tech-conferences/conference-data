@@ -322,5 +322,19 @@
     "cfpEndDate": "2024-06-30",
     "cocUrl": "https://shift.infobip.com/code/",
     "locales": "EN"
+  },
+  {
+    "name": "SmashingConf New York",
+    "url": "https://smashingconf.com/antwerp-2024",
+    "startDate": "2024-10-28",
+    "endDate": "2024-10-31",
+    "city": "Antwerp",
+    "country": "Belgium",
+    "online": true,
+    "twitter": "@smashingconf",
+    "mastodon": "@smashingconf@mastodon.social",
+    "cocUrl": "https://smashingconf.com/codeofconduct",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
   }
 ]
