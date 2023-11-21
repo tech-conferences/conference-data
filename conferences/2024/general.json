@@ -324,6 +324,20 @@
     "locales": "EN"
   },
   {
+    "name": "SmashingConf Antwerp",
+    "url": "https://smashingconf.com/antwerp-2024",
+    "startDate": "2024-10-28",
+    "endDate": "2024-10-31",
+    "city": "Antwerp",
+    "country": "Belgium",
+    "online": true,
+    "twitter": "@smashingconf",
+    "mastodon": "@smashingconf@mastodon.social",
+    "cocUrl": "https://smashingconf.com/codeofconduct",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "SmashingConf New York",
     "url": "https://smashingconf.com/ny-2024",
     "startDate": "2024-10-07",
@@ -340,8 +354,8 @@
   {
     "name": "SmashingConf Freiburg",
     "url": "https://smashingconf.com/freiburg-2024",
-    "startDate": "2024-10-09",
-    "endDate": "2024-10-11",
+    "startDate": "2024-09-09",
+    "endDate": "2024-09-11",
     "city": "Freiburg",
     "country": "Germany",
     "online": true,
