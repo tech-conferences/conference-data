@@ -336,5 +336,19 @@
     "cocUrl": "https://smashingconf.com/codeofconduct",
     "locales": "EN",
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "SmashingConf Freiburg",
+    "url": "https://smashingconf.com/freiburg-2024",
+    "startDate": "2024-10-09",
+    "endDate": "2024-10-11",
+    "city": "Freiburg",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@smashingconf",
+    "mastodon": "@smashingconf@mastodon.social",
+    "cocUrl": "https://smashingconf.com/codeofconduct",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
   }
 ]
