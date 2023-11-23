@@ -192,5 +192,20 @@
     "country": "Netherlands",
     "online": true,
     "locales": "EN"
+  },
+  {
+    "name": "stackconf",
+    "url": "https://stackconf.eu",
+    "startDate": "2024-06-18",
+    "endDate": "2024-06-19",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://stackconf.eu/propose",
+    "cfpEndDate": "2024-03-31",
+    "twitter": "@stackconf",
+    "cocUrl": "https://stackconf.eu/code-of-conduct/",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
   }
 ]
