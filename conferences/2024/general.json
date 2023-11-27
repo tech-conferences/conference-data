@@ -200,6 +200,17 @@
     "locales": "EN"
   },
   {
+    "name": "Middle East Enterprise AI & Analytics Summit",
+    "url": "https://meenterpriseai.com/sa",
+    "startDate": "2024-05-09",
+    "endDate": "2024-05-09",
+    "city": "Riyadh",
+    "country": "Saudi Arabia",
+    "online": false,
+    "cocUrl": "https://meenterpriseai.com/sa/",
+    "locales": "EN"
+  },
+  {
     "name": "../NEW",
     "url": "https://slashnew.tech",
     "startDate": "2024-05-15",
@@ -313,6 +324,20 @@
     "locales": "EN,ES,GL,PT"
   },
   {
+    "name": "SmashingConf Freiburg",
+    "url": "https://smashingconf.com/freiburg-2024",
+    "startDate": "2024-09-09",
+    "endDate": "2024-09-11",
+    "city": "Freiburg",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@smashingconf",
+    "mastodon": "@smashingconf@mastodon.social",
+    "cocUrl": "https://smashingconf.com/codeofconduct",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Infobip Shift",
     "url": "https://shift.infobip.com",
     "startDate": "2024-09-16",
@@ -324,20 +349,6 @@
     "cfpEndDate": "2024-06-30",
     "cocUrl": "https://shift.infobip.com/code/",
     "locales": "EN"
-  },
-  {
-    "name": "SmashingConf Antwerp",
-    "url": "https://smashingconf.com/antwerp-2024",
-    "startDate": "2024-10-28",
-    "endDate": "2024-10-31",
-    "city": "Antwerp",
-    "country": "Belgium",
-    "online": true,
-    "twitter": "@smashingconf",
-    "mastodon": "@smashingconf@mastodon.social",
-    "cocUrl": "https://smashingconf.com/codeofconduct",
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
   },
   {
     "name": "SmashingConf New York",
@@ -354,12 +365,12 @@
     "offersSignLanguageOrCC": true
   },
   {
-    "name": "SmashingConf Freiburg",
-    "url": "https://smashingconf.com/freiburg-2024",
-    "startDate": "2024-09-09",
-    "endDate": "2024-09-11",
-    "city": "Freiburg",
-    "country": "Germany",
+    "name": "SmashingConf Antwerp",
+    "url": "https://smashingconf.com/antwerp-2024",
+    "startDate": "2024-10-28",
+    "endDate": "2024-10-31",
+    "city": "Antwerp",
+    "country": "Belgium",
     "online": true,
     "twitter": "@smashingconf",
     "mastodon": "@smashingconf@mastodon.social",
