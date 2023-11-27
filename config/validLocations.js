@@ -10,6 +10,7 @@ module.exports = {
     "Brisbane",
     "Gold Coast",
     "Melbourne",
+    "Newcastle",
     "Perth",
     "Sidney",
     "South Wharf",
