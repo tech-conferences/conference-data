@@ -464,6 +464,9 @@ module.exports = {
     "Glasgow",
     "Perthshire"
   ],
+  "Saudi Arabia": [
+    "Riyadh"
+  ],
   "Serbia": [
     "Belgrade",
     "Novi Sad"
