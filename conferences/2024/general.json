@@ -168,6 +168,18 @@
     "locales": "EN"
   },
   {
+    "name": "German Perl/Raku Workshop",
+    "url": "https://act.yapc.eu/gpw2024",
+    "startDate": "2024-04-15",
+    "endDate": "2024-04-17",
+    "city": "Frankfurt",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://act.yapc.eu/gpw2024/cfp.html",
+    "cfpEndDate": "2024-03-01",
+    "locales": "DE,EN"
+  },
+  {
     "name": "Vue.js Day",
     "url": "https://www.wearedevelopers.com/event/vue-js-day-april-2024",
     "startDate": "2024-04-17",
@@ -332,9 +344,9 @@
     "country": "Germany",
     "online": true,
     "twitter": "@smashingconf",
-    "mastodon": "@smashingconf@mastodon.social",
     "cocUrl": "https://smashingconf.com/codeofconduct",
     "locales": "EN",
+    "mastodon": "@smashingconf@mastodon.social",
     "offersSignLanguageOrCC": true
   },
   {
@@ -359,9 +371,9 @@
     "country": "U.S.A.",
     "online": true,
     "twitter": "@smashingconf",
-    "mastodon": "@smashingconf@mastodon.social",
     "cocUrl": "https://smashingconf.com/codeofconduct",
     "locales": "EN",
+    "mastodon": "@smashingconf@mastodon.social",
     "offersSignLanguageOrCC": true
   },
   {
@@ -373,9 +385,9 @@
     "country": "Belgium",
     "online": true,
     "twitter": "@smashingconf",
-    "mastodon": "@smashingconf@mastodon.social",
     "cocUrl": "https://smashingconf.com/codeofconduct",
     "locales": "EN",
+    "mastodon": "@smashingconf@mastodon.social",
     "offersSignLanguageOrCC": true
   }
 ]
