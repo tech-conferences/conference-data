@@ -10,6 +10,16 @@
     "locales": "EN"
   },
   {
+    "name": "Sprachmodelle im Unternehmen",
+    "url": "https://m3-konferenz.de/llm.php",
+    "startDate": "2024-02-06",
+    "endDate": "2024-02-06",
+    "online": true,
+    "twitter": "@M3_Konferenz",
+    "cocUrl": "https://m3-konferenz.de/code_of_conduct.php",
+    "locales": "DE"
+  },
+  {
     "name": "Civo Navigate North America",
     "url": "https://www.civo.com/navigate/north-america",
     "startDate": "2024-02-20",
@@ -82,6 +92,18 @@
     "locales": "EN"
   },
   {
+    "name": "Conf42 Large Language Models (LLMs)",
+    "url": "https://www.conf42.com/llms2024",
+    "startDate": "2024-04-11",
+    "endDate": "2024-04-11",
+    "online": true,
+    "cfpUrl": "https://www.papercall.io/conf42-large-language-models-llm-2024",
+    "cfpEndDate": "2024-03-11",
+    "twitter": "@conf42com",
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
+    "locales": "EN"
+  },
+  {
     "name": "Devoxx UK",
     "url": "https://www.devoxx.co.uk",
     "startDate": "2024-05-08",
@@ -126,6 +148,18 @@
     "cfpEndDate": "2023-11-20",
     "twitter": "@webinale",
     "cocUrl": "https://webinale.de/code-of-conduct-en/",
+    "locales": "EN"
+  },
+  {
+    "name": "Artificial Intelligence & Machine Learning (AI & ML)",
+    "url": "https://www.conf42.com/aiml2024",
+    "startDate": "2024-05-30",
+    "endDate": "2024-05-30",
+    "online": true,
+    "cfpUrl": "https://www.papercall.io/conf42-artificial-intelligence-machine-learning-2024",
+    "cfpEndDate": "2024-04-29",
+    "twitter": "@conf42com",
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
     "locales": "EN"
   },
   {
@@ -191,6 +225,16 @@
     "endDate": "2024-06-21",
     "city": "Jeju",
     "country": "Korea",
+    "online": false,
+    "locales": "EN"
+  },
+  {
+    "name": "Artificial Intelligence for Geological Modelling and Mapping",
+    "url": "https://www.eventbrite.co.uk/e/artificial-intelligence-for-geological-modelling-and-mapping-tickets-749228040237",
+    "startDate": "2024-06-22",
+    "endDate": "2024-06-23",
+    "city": "Exeter",
+    "country": "U.K.",
     "online": false,
     "locales": "EN"
   },
