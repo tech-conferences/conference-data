@@ -26,6 +26,18 @@
     "locales": "EN"
   },
   {
+    "name": "Site Reliability Engineering (SRE)",
+    "url": "https://www.conf42.com/sre2024",
+    "startDate": "2024-05-09",
+    "endDate": "2024-05-09",
+    "online": true,
+    "cfpUrl": "https://www.papercall.io/conf42-site-reliability-engineering-sre-2024",
+    "cfpEndDate": "2024-04-08",
+    "twitter": "@conf42com",
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
+    "locales": "EN"
+  },
+  {
     "name": "Conf42 Observability",
     "url": "https://www.conf42.com/obs2024",
     "startDate": "2024-06-13",
@@ -38,13 +50,13 @@
     "locales": "EN"
   },
   {
-    "name": "Site Reliability Engineering (SRE)",
-    "url": "https://www.conf42.com/sre2024",
-    "startDate": "2024-05-09",
-    "endDate": "2024-05-09",
+    "name": "Conf42 Kube Native",
+    "url": "https://www.conf42.com/kubenative2024",
+    "startDate": "2024-09-26",
+    "endDate": "2024-09-26",
     "online": true,
-    "cfpUrl": "https://www.papercall.io/conf42-site-reliability-engineering-sre-2024",
-    "cfpEndDate": "2024-04-08",
+    "cfpUrl": "https://www.papercall.io/conf42-kube-native-2024",
+    "cfpEndDate": "2024-08-26",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct",
     "locales": "EN"
