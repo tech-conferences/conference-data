@@ -33,19 +33,6 @@
     "locales": "EN"
   },
   {
-    "name": "Open Source Camp on Kubernetes",
-    "url": "https://opensourcecamp.de",
-    "startDate": "2024-02-27",
-    "endDate": "2024-02-27",
-    "city": "Nürnberg",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://opensourcecamp.de/call-for-papers",
-    "cfpEndDate": "2023-11-30",
-    "cocUrl": "https://opensourcecamp.de/verhaltenskodex/",
-    "locales": "DE"
-  },
-  {
     "name": "Incontro DevOps Italia",
     "url": "https://2024.incontrodevops.it",
     "startDate": "2024-03-15",
@@ -117,6 +104,19 @@
     "country": "Switzerland",
     "online": false,
     "cocUrl": "https://devopsdays.org/events/2024-zurich/conduct"
+  },
+  {
+    "name": "Open Source Camp on Kubernetes",
+    "url": "https://opensourcecamp.de",
+    "startDate": "2024-02-27",
+    "endDate": "2024-02-27",
+    "city": "Nürnberg",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://opensourcecamp.de/call-for-papers",
+    "cfpEndDate": "2023-11-30",
+    "cocUrl": "https://opensourcecamp.de/verhaltenskodex/",
+    "locales": "DE"
   },
   {
     "name": "J On The Beach",
