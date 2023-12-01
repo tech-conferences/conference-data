@@ -33,6 +33,33 @@
     "locales": "EN"
   },
   {
+    "name": "DevOps fwdays",
+    "url": "https://fwdays.com/en/event/devops-fwdays-2024",
+    "startDate": "2024-02-17",
+    "endDate": "2024-02-17",
+    "city": "Kyiv",
+    "country": "Україна",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScnKkH4KflPuknHg2G0191BgiIyQpa2z58IK9TTfDRp0FDWrw/viewform",
+    "cfpEndDate": "2024-01-17",
+    "twitter": "@fwdays",
+    "cocUrl": "Відділення №4 (до 30 кг): вул. Лесі Українки, 25",
+    "locales": "EN,UK"
+  },
+  {
+    "name": "Open Source Camp on Kubernetes",
+    "url": "https://opensourcecamp.de",
+    "startDate": "2024-02-27",
+    "endDate": "2024-02-27",
+    "city": "Nürnberg",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://opensourcecamp.de/call-for-papers",
+    "cfpEndDate": "2023-11-30",
+    "cocUrl": "https://opensourcecamp.de/verhaltenskodex/",
+    "locales": "DE"
+  },
+  {
     "name": "Incontro DevOps Italia",
     "url": "https://2024.incontrodevops.it",
     "startDate": "2024-03-15",
@@ -104,19 +131,6 @@
     "country": "Switzerland",
     "online": false,
     "cocUrl": "https://devopsdays.org/events/2024-zurich/conduct"
-  },
-  {
-    "name": "Open Source Camp on Kubernetes",
-    "url": "https://opensourcecamp.de",
-    "startDate": "2024-02-27",
-    "endDate": "2024-02-27",
-    "city": "Nürnberg",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://opensourcecamp.de/call-for-papers",
-    "cfpEndDate": "2023-11-30",
-    "cocUrl": "https://opensourcecamp.de/verhaltenskodex/",
-    "locales": "DE"
   },
   {
     "name": "J On The Beach",
