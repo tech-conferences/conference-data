@@ -33,6 +33,19 @@
     "locales": "EN"
   },
   {
+    "name": "Open Source Camp on Kubernetes",
+    "url": "https://opensourcecamp.de",
+    "startDate": "2024-02-27",
+    "endDate": "2024-02-27",
+    "city": "Nürnberg",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://opensourcecamp.de/call-for-papers",
+    "cfpEndDate": "2023-11-30",
+    "cocUrl": "https://opensourcecamp.de/verhaltenskodex/",
+    "locales": "DE"
+  },
+  {
     "name": "Incontro DevOps Italia",
     "url": "https://2024.incontrodevops.it",
     "startDate": "2024-03-15",
@@ -71,6 +84,18 @@
     "locales": "EN"
   },
   {
+    "name": "Conf42 Cloud Native",
+    "url": "https://www.conf42.com/cloud2024",
+    "startDate": "2024-03-21",
+    "endDate": "2024-03-21",
+    "online": true,
+    "cfpUrl": "https://www.papercall.io/conf42-cloud-native-2024",
+    "cfpEndDate": "2024-02-19",
+    "twitter": "@conf42com",
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
+    "locales": "EN"
+  },
+  {
     "name": "QCon London",
     "url": "https://qconlondon.com",
     "startDate": "2024-04-08",
@@ -104,19 +129,6 @@
     "country": "Switzerland",
     "online": false,
     "cocUrl": "https://devopsdays.org/events/2024-zurich/conduct"
-  },
-  {
-    "name": "Open Source Camp on Kubernetes",
-    "url": "https://opensourcecamp.de",
-    "startDate": "2024-02-27",
-    "endDate": "2024-02-27",
-    "city": "Nürnberg",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://opensourcecamp.de/call-for-papers",
-    "cfpEndDate": "2023-11-30",
-    "cocUrl": "https://opensourcecamp.de/verhaltenskodex/",
-    "locales": "DE"
   },
   {
     "name": "J On The Beach",
