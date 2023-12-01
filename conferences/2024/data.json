@@ -129,6 +129,18 @@
     "locales": "EN"
   },
   {
+    "name": "Artificial Intelligence & Machine Learning (AI & ML)",
+    "url": "https://www.conf42.com/aiml2024",
+    "startDate": "2024-05-30",
+    "endDate": "2024-05-30",
+    "online": true,
+    "cfpUrl": "https://www.papercall.io/conf42-artificial-intelligence-machine-learning-2024",
+    "cfpEndDate": "2024-04-29",
+    "twitter": "@conf42com",
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
+    "locales": "EN"
+  },
+  {
     "name": "International Conference on Automated Planning and Scheduling (ICAPS)",
     "url": "https://icaps24.icaps-conference.org/",
     "startDate": "2024-06-01",
@@ -147,16 +159,6 @@
     "country": "United Arab Emirates",
     "online": false,
     "twitter": "@mseventsmea",
-    "locales": "EN"
-  },
-  {
-    "name": "Artificial Intelligence for Geological Modelling and Mapping",
-    "url": "https://www.eventbrite.co.uk/e/artificial-intelligence-for-geological-modelling-and-mapping-tickets-749228040237",
-    "startDate": "2024-06-22",
-    "endDate": "2024-06-23",
-    "city": "Exeter",
-    "country": "U.K.",
-    "online": false,
     "locales": "EN"
   },
   {
@@ -201,6 +203,16 @@
     "endDate": "2024-06-21",
     "city": "Jeju",
     "country": "Korea",
+    "online": false,
+    "locales": "EN"
+  },
+  {
+    "name": "Artificial Intelligence for Geological Modelling and Mapping",
+    "url": "https://www.eventbrite.co.uk/e/artificial-intelligence-for-geological-modelling-and-mapping-tickets-749228040237",
+    "startDate": "2024-06-22",
+    "endDate": "2024-06-23",
+    "city": "Exeter",
+    "country": "U.K.",
     "online": false,
     "locales": "EN"
   },
