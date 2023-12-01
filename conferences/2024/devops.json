@@ -12,6 +12,18 @@
     "locales": "EN"
   },
   {
+    "name": "Conf42 DevOps",
+    "url": "https://www.conf42.com/devops2024",
+    "startDate": "2024-01-25",
+    "endDate": "2024-01-25",
+    "online": true,
+    "cfpUrl": "https://www.papercall.io/conf42-devops-2024",
+    "cfpEndDate": "2023-12-26",
+    "twitter": "@conf42com",
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
+    "locales": "EN"
+  },
+  {
     "name": "DevOps Day",
     "url": "https://www.wearedevelopers.com/event/devops-day-february-2024",
     "startDate": "2024-02-07",
@@ -94,6 +106,18 @@
     "online": true,
     "twitter": "@CloudNativeFdn",
     "cocUrl": "https://events.linuxfoundation.org/about/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
+    "name": "Conf42 Cloud Native",
+    "url": "https://www.conf42.com/cloud2024",
+    "startDate": "2024-03-21",
+    "endDate": "2024-03-21",
+    "online": true,
+    "cfpUrl": "https://www.papercall.io/conf42-cloud-native-2024",
+    "cfpEndDate": "2024-02-19",
+    "twitter": "@conf42com",
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
     "locales": "EN"
   },
   {
@@ -181,6 +205,16 @@
     "online": false,
     "twitter": "@DevOpsDaysBmore",
     "cocUrl": "https://devopsdays.org/events/2024-baltimore/conduct"
+  },
+  {
+    "name": "JCON OpenBlend Slovenia",
+    "url": "https://slovenia.jcon.one",
+    "startDate": "2024-05-29",
+    "endDate": "2024-05-31",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/makeit-jcon-2024",
+    "cfpEndDate": "2024-02-03",
+    "locales": "EN,SL"
   },
   {
     "name": "EuroSTAR Conference",
