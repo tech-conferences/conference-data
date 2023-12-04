@@ -12,6 +12,19 @@
     "locales": "DE"
   },
   {
+    "name": "Visual Studio Live! (VSLive!) Las Vegas",
+    "url": "https://vslive.com/events/las-vegas-2024/home.aspx",
+    "startDate": "2024-03-03",
+    "endDate": "2024-03-08",
+    "city": "Las Vegas, NV",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@vslive",
+    "cocUrl": "https://vslive.com/pages/harassment.aspx",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "dotnetdays",
     "url": "https://dotnetdays.ro",
     "startDate": "2024-04-18",
