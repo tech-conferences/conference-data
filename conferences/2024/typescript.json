@@ -14,6 +14,21 @@
     "locales": "EN,DE"
   },
   {
+    "name": "JSConf Budapest",
+    "url": "https://jsconfbp.com",
+    "startDate": "2024-06-26",
+    "endDate": "2024-06-28",
+    "city": "Budapest",
+    "country": "Hungary",
+    "online": false,
+    "cfpUrl": "https://jsconfbp.com/call-for-papers",
+    "cfpEndDate": "2024-01-26",
+    "twitter": "@jsconfbp",
+    "mastodon": "@jsconfbp@mstdn.social",
+    "cocUrl": "https://jsconfbp.com/code-of-conduct",
+    "locales": "EN"
+  },
+  {
     "name": "JSConf Ireland",
     "url": "https://www.jsconf.ie",
     "startDate": "2024-09-25",
