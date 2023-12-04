@@ -239,6 +239,21 @@
     "locales": "EN"
   },
   {
+    "name": "CascadiaJS",
+    "url": "https://cascadiajs.com/2024",
+    "startDate": "2024-06-19",
+    "endDate": "2024-06-22",
+    "city": "Seattle, WA",
+    "country": "U.S.A.",
+    "online": true,
+    "cfpUrl": "https://cascadiajs.com/2024/cfp",
+    "cfpEndDate": "2024-02-04",
+    "twitter": "@cascadiajs",
+    "cocUrl": "https://cascadiajs.com/code-of-conduct",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Artificial Intelligence for Geological Modelling and Mapping",
     "url": "https://www.eventbrite.co.uk/e/artificial-intelligence-for-geological-modelling-and-mapping-tickets-749228040237",
     "startDate": "2024-06-22",
@@ -282,18 +297,6 @@
     "locales": "EN"
   },
   {
-    "name": "Conf42 Internet of Things (IoT)",
-    "url": "https://www.conf42.com/iot2024",
-    "startDate": "2024-12-19",
-    "endDate": "2024-12-19",
-    "online": true,
-    "cfpUrl": "https://www.papercall.io/conf42-iot-2024",
-    "cfpEndDate": "2024-11-18",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "locales": "EN"
-  },
-  {
     "name": "Conf42 Prompt Engineering",
     "url": "https://www.conf42.com/prompt2024",
     "startDate": "2024-11-21",
@@ -301,6 +304,18 @@
     "online": true,
     "cfpUrl": "https://www.papercall.io/conf42-prompt-engineering-2024",
     "cfpEndDate": "2024-10-21",
+    "twitter": "@conf42com",
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
+    "locales": "EN"
+  },
+  {
+    "name": "Conf42 Internet of Things (IoT)",
+    "url": "https://www.conf42.com/iot2024",
+    "startDate": "2024-12-19",
+    "endDate": "2024-12-19",
+    "online": true,
+    "cfpUrl": "https://www.papercall.io/conf42-iot-2024",
+    "cfpEndDate": "2024-11-18",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct",
     "locales": "EN"
