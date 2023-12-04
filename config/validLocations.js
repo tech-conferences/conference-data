@@ -350,7 +350,8 @@ module.exports = {
     "Sabah"
   ],
   "Malta": [
-    "St Julian's"
+    "St Julian's",
+    "Valletta"
   ],
   "Mauritius": [
     "Moka"
