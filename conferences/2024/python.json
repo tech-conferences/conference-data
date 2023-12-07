@@ -45,6 +45,21 @@
     "locales": "EN"
   },
   {
+    "name": "PyCon Italia",
+    "url": "https://2024.pycon.it",
+    "startDate": "2024-05-22",
+    "endDate": "2024-05-25",
+    "city": "Florence",
+    "country": "Italy",
+    "online": true,
+    "cfpUrl": "https://2024.pycon.it/en/call-for-proposals",
+    "cfpEndDate": "2024-01-06",
+    "twitter": "@pyconit",
+    "mastodon": "@pycon@social.python.it",
+    "cocUrl": "https://2024.pycon.it/en/code-of-conduct",
+    "locales": "EN,IT"
+  },
+  {
     "name": "World Conference on Data Science & Statistics",
     "url": "https://datascience.thepeopleevents.com",
     "startDate": "2024-06-17",
