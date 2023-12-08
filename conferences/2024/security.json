@@ -71,6 +71,21 @@
     "locales": "EN"
   },
   {
+    "name": "BSidesSF",
+    "url": "https://bsidessf.org",
+    "startDate": "2024-05-04",
+    "endDate": "2024-05-05",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://bsidessf.org/cfp",
+    "cfpEndDate": "2024-01-08",
+    "twitter": "@BSidesSF",
+    "mastodon": "@BSidesSF@infosec.exchange",
+    "cocUrl": "https://bsidessf.org/about/code-of-conduct",
+    "locales": "EN"
+  },
+  {
     "name": "Security Day",
     "url": "https://www.wearedevelopers.com/event/security-day-may-2024",
     "startDate": "2024-05-08",
