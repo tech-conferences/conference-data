@@ -85,6 +85,17 @@
     "locales": "EN,IT"
   },
   {
+    "name": "Chemnitzer Linuxtage",
+    "url": "https://chemnitzer.linux-tage.de/2024/de",
+    "startDate": "2024-03-16",
+    "endDate": "2024-03-17",
+    "city": "Chemnitz",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@clt_news",
+    "locales": "EN,DE"
+  },
+  {
     "name": "Mastering GitOps",
     "url": "https://mastering-gitops.de",
     "startDate": "2024-03-19",
