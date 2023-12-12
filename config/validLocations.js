@@ -190,6 +190,7 @@ module.exports = {
     "Bodensee",
     "Bremen",
     "Brühl",
+    "Chemnitz",
     "Cologne",
     "Darmstadt",
     "Dresden",
