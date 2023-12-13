@@ -167,6 +167,20 @@
     "cocUrl": "https://devopsdays.org/events/2024-zurich/conduct"
   },
   {
+    "name": "DevOpsDays Berlin",
+    "url": "https://devopsdays.org/events/2024-berlin/welcome",
+    "startDate": "2024-05-07",
+    "endDate": "2024-05-08",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://devopsdays.org/events/2024-berlin/registration",
+    "cfpEndDate": "2024-01-31",
+    "twitter": "@blndevops",
+    "cocUrl": "https://devopsdays.org/events/2024-berlin/conduct",
+    "locales": "EN"
+  },
+  {
     "name": "J On The Beach",
     "url": "https://jonthebeach.com",
     "startDate": "2024-05-08",
