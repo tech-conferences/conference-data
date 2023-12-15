@@ -48,6 +48,17 @@
     "locales": "EN"
   },
   {
+    "name": "Chemnitzer Linuxtage",
+    "url": "https://chemnitzer.linux-tage.de/2024/de",
+    "startDate": "2024-03-16",
+    "endDate": "2024-03-17",
+    "city": "Chemnitz",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@clt_news",
+    "locales": "EN,DE"
+  },
+  {
     "name": "Internet 2.0 Conference USA",
     "url": "https://www.internet2conf.com",
     "startDate": "2024-03-18",
@@ -69,6 +80,21 @@
     "twitter": "@devfestconf",
     "cocUrl": "https://fest.dev/coc/",
     "locales": "EN"
+  },
+  {
+    "name": "BSidesSF",
+    "url": "https://bsidessf.org",
+    "startDate": "2024-05-04",
+    "endDate": "2024-05-05",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://bsidessf.org/cfp",
+    "cfpEndDate": "2024-01-08",
+    "twitter": "@BSidesSF",
+    "cocUrl": "https://bsidessf.org/about/code-of-conduct",
+    "locales": "EN",
+    "mastodon": "@BSidesSF@infosec.exchange"
   },
   {
     "name": "Security Day",

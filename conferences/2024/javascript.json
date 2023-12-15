@@ -128,6 +128,18 @@
     "locales": "EN"
   },
   {
+    "name": "Node Congress",
+    "url": "https://nodecongress.com",
+    "startDate": "2024-04-04",
+    "endDate": "2024-04-05",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScLx5ROANCEzC47EdVVDv2hcOxZCMfZjvkPyPdCPWwL9QOCJA/viewform",
+    "cfpEndDate": "2024-02-11",
+    "twitter": "@NodeCongress",
+    "cocUrl": "https://portal.gitnation.org/coc",
+    "locales": "EN"
+  },
+  {
     "name": "International JavaScript Conference London",
     "url": "https://javascript-conference.com/london",
     "startDate": "2024-04-08",
@@ -165,6 +177,20 @@
     "online": true,
     "twitter": "@appjsconf",
     "cocUrl": "https://appjs.co/code-of-conduct",
+    "locales": "EN"
+  },
+  {
+    "name": "JSHeroes",
+    "url": "https://jsheroes.io",
+    "startDate": "2024-05-23",
+    "endDate": "2024-05-24",
+    "city": "Cluj-Napoca",
+    "country": "Romania",
+    "online": false,
+    "cfpUrl": "https://jsheroes.io/speak",
+    "cfpEndDate": "2023-12-31",
+    "twitter": "@jsheroes",
+    "cocUrl": "https://jsheroes.io/coc",
     "locales": "EN"
   },
   {
@@ -273,9 +299,9 @@
     "cfpUrl": "https://jsconfbp.com/call-for-papers",
     "cfpEndDate": "2024-01-26",
     "twitter": "@jsconfbp",
-    "mastodon": "@jsconfbp@mstdn.social",
     "cocUrl": "https://jsconfbp.com/code-of-conduct",
-    "locales": "EN"
+    "locales": "EN",
+    "mastodon": "@jsconfbp@mstdn.social"
   },
   {
     "name": "WeAreDevelopers - World Congress",

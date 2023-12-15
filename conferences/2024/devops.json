@@ -107,6 +107,17 @@
     "locales": "EN,IT"
   },
   {
+    "name": "Chemnitzer Linuxtage",
+    "url": "https://chemnitzer.linux-tage.de/2024/de",
+    "startDate": "2024-03-16",
+    "endDate": "2024-03-17",
+    "city": "Chemnitz",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@clt_news",
+    "locales": "EN,DE"
+  },
+  {
     "name": "Mastering GitOps",
     "url": "https://mastering-gitops.de",
     "startDate": "2024-03-19",
@@ -265,14 +276,30 @@
     "cocUrl": "https://devopsdays.org/events/2024-austin/conduct"
   },
   {
-    "name": "Devopsdays Berlin",
-    "url": "https://devopsdays.org/events/2024-berlin/welcome/",
+    "name": "Enterprise Technology Leadership Summit Europe",
+    "url": "https://itrevolution.com/product/enterprise-technology-leadership-summit-europe-2024",
+    "startDate": "2024-04-24",
+    "endDate": "2024-04-25",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/enterprise-tech-leadership-summit-virtual-2024",
+    "cfpEndDate": "2024-02-01",
+    "twitter": "@itrevsummit",
+    "cocUrl": "https://doesvirtual.itrevolution.com/code-of-conduct",
+    "locales": "EN"
+  },
+  {
+    "name": "DevOpsDays Berlin",
+    "url": "https://devopsdays.org/events/2024-berlin/welcome",
     "startDate": "2024-05-07",
     "endDate": "2024-05-08",
     "city": "Berlin",
     "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://devopsdays.org/events/2024-berlin/registration",
+    "cfpEndDate": "2024-01-31",
     "twitter": "@blndevops",
-    "cocUrl": "https://devopsdays.org/events/2024-denver/conduct"
+    "cocUrl": "https://devopsdays.org/events/2024-berlin/conduct",
+    "locales": "EN"
   },
   {
     "name": "Devopsdays Geneva",
@@ -478,6 +505,20 @@
     "city": "Halifax",
     "country": "Canada",
     "cocUrl": "https://devopsdays.org/events/2024-halifax/conduct",
+    "locales": "EN"
+  },
+  {
+    "name": "Enterprise Technology Leadership Summit Las Vegas",
+    "url": "https://itrevolution.com/product/enterprise-technology-leadership-summit-las-vegas-2024",
+    "startDate": "2024-08-20",
+    "endDate": "2024-08-22",
+    "city": "Las Vegas, NV",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/enterprise-tech-leadership-summit-us-2024",
+    "cfpEndDate": "2024-04-01",
+    "twitter": "@itrevsummit",
+    "cocUrl": "https://doesvirtual.itrevolution.com/code-of-conduct",
     "locales": "EN"
   },
   {

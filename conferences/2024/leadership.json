@@ -21,6 +21,31 @@
     "locales": "EN"
   },
   {
+    "name": "Soft Skills fwdays",
+    "url": "https://fwdays.com/en/event/soft-skills-fwdays-2024",
+    "startDate": "2024-03-23",
+    "endDate": "2024-03-23",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc7W71NKgvDa9K87QhGjv_B-T7n4XhFQgCcplAkUK6vSCVguA/viewform",
+    "cfpEndDate": "2024-02-22",
+    "twitter": "@fwdays",
+    "locales": "EN,UK"
+  },
+  {
+    "name": "Enterprise Technology Leadership Summit Europe",
+    "url": "https://itrevolution.com/product/enterprise-technology-leadership-summit-europe-2024",
+    "startDate": "2024-04-24",
+    "endDate": "2024-04-25",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/enterprise-tech-leadership-summit-virtual-2024",
+    "cfpEndDate": "2024-02-01",
+    "twitter": "@itrevsummit",
+    "cocUrl": "https://doesvirtual.itrevolution.com/code-of-conduct",
+    "locales": "EN"
+  },
+  {
     "name": "TSIA World INTERACT",
     "url": "https://www.tsia.com/conference",
     "startDate": "2024-05-06",
@@ -29,6 +54,20 @@
     "country": "U.S.A.",
     "online": false,
     "twitter": "@TSIACommunity",
+    "locales": "EN"
+  },
+  {
+    "name": "Enterprise Technology Leadership Summit Las Vegas",
+    "url": "https://itrevolution.com/product/enterprise-technology-leadership-summit-las-vegas-2024",
+    "startDate": "2024-08-20",
+    "endDate": "2024-08-22",
+    "city": "Las Vegas, NV",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/enterprise-tech-leadership-summit-us-2024",
+    "cfpEndDate": "2024-04-01",
+    "twitter": "@itrevsummit",
+    "cocUrl": "https://doesvirtual.itrevolution.com/code-of-conduct",
     "locales": "EN"
   }
 ]

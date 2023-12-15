@@ -21,18 +21,57 @@
     "locales": "EN"
   },
   {
+    "name": "Chemnitzer Linuxtage",
+    "url": "https://chemnitzer.linux-tage.de/2024/de",
+    "startDate": "2024-03-16",
+    "endDate": "2024-03-17",
+    "city": "Chemnitz",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@clt_news",
+    "locales": "EN,DE"
+  },
+  {
     "name": "PyCon Lithuania",
     "url": "https://pycon.lt/2024",
     "startDate": "2024-04-02",
     "endDate": "2024-04-06",
     "city": "Vilnius",
     "country": "Lithuania",
+    "online": false,
     "cfpUrl": "https://pycon.lt/2024/call-for-proposals",
     "cfpEndDate": "2024-01-10",
-    "online": false,
     "twitter": "@pyconlt",
     "cocUrl": "https://pycon.lt/code-of-conduct",
     "locales": "EN"
+  },
+  {
+    "name": "PyCascades",
+    "url": "https://www.pycascades.com",
+    "startDate": "2024-04-05",
+    "endDate": "2024-04-08",
+    "city": "Seattle, WA",
+    "country": "U.S.A.",
+    "online": true,
+    "cfpUrl": "https://pretalx.com/pycascades-2024/cfp",
+    "cfpEndDate": "2024-01-04",
+    "twitter": "@pycascades",
+    "cocUrl": "https://2024.pycascades.com/about/code-of-conduct/",
+    "locales": "EN",
+    "mastodon": "@pycascades@fosstodon.org"
+  },
+  {
+    "name": "Python + DS fwdays",
+    "url": "https://fwdays.com/en/event/python-ds-fwdays-2024",
+    "startDate": "2024-04-20",
+    "endDate": "2024-04-20",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScnUVAZxseEr8a3p7jUj7D6q-U3LoiFA3Z1I4mAqR0ovUW1-g/viewform",
+    "cfpEndDate": "2024-03-20",
+    "twitter": "@fwdays",
+    "locales": "EN,UK"
   },
   {
     "name": "PyCon DE & PyData Berlin",
@@ -43,6 +82,21 @@
     "country": "Germany",
     "twitter": "@PyConDE",
     "locales": "EN"
+  },
+  {
+    "name": "PyCon Italia",
+    "url": "https://2024.pycon.it",
+    "startDate": "2024-05-22",
+    "endDate": "2024-05-25",
+    "city": "Florence",
+    "country": "Italy",
+    "online": true,
+    "cfpUrl": "https://2024.pycon.it/en/call-for-proposals",
+    "cfpEndDate": "2024-01-06",
+    "twitter": "@pyconit",
+    "cocUrl": "https://2024.pycon.it/en/code-of-conduct",
+    "locales": "EN,IT",
+    "mastodon": "@pycon@social.python.it"
   },
   {
     "name": "World Conference on Data Science & Statistics",
