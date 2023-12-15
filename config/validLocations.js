@@ -76,8 +76,8 @@ module.exports = {
   "Canada": [
     "Banff",
     "Gatineau",
-    "Hamilton",
     "Halifax",
+    "Hamilton",
     "Kingston",
     "Mississauga",
     "Montebello",
@@ -194,8 +194,8 @@ module.exports = {
     "Chemnitz",
     "Cologne",
     "Darmstadt",
-    "Dresden",
     "Dortmund",
+    "Dresden",
     "Düsseldorf",
     "Erlangen",
     "Essen",
@@ -463,13 +463,13 @@ module.exports = {
     "Saint Petersburg",
     "Yekaterinburg"
   ],
+  "Saudi Arabia": [
+    "Riyadh"
+  ],
   "Scotland": [
     "Edinburgh",
     "Glasgow",
     "Perthshire"
-  ],
-  "Saudi Arabia": [
-    "Riyadh"
   ],
   "Serbia": [
     "Belgrade",
