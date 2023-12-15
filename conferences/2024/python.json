@@ -38,9 +38,9 @@
     "endDate": "2024-04-06",
     "city": "Vilnius",
     "country": "Lithuania",
+    "online": false,
     "cfpUrl": "https://pycon.lt/2024/call-for-proposals",
     "cfpEndDate": "2024-01-10",
-    "online": false,
     "twitter": "@pyconlt",
     "cocUrl": "https://pycon.lt/code-of-conduct",
     "locales": "EN"
@@ -56,9 +56,9 @@
     "cfpUrl": "https://pretalx.com/pycascades-2024/cfp",
     "cfpEndDate": "2024-01-04",
     "twitter": "@pycascades",
-    "mastodon": "@pycascades@fosstodon.org",
     "cocUrl": "https://2024.pycascades.com/about/code-of-conduct/",
-    "locales": "EN"
+    "locales": "EN",
+    "mastodon": "@pycascades@fosstodon.org"
   },
   {
     "name": "Python + DS fwdays",
@@ -94,9 +94,9 @@
     "cfpUrl": "https://2024.pycon.it/en/call-for-proposals",
     "cfpEndDate": "2024-01-06",
     "twitter": "@pyconit",
-    "mastodon": "@pycon@social.python.it",
     "cocUrl": "https://2024.pycon.it/en/code-of-conduct",
-    "locales": "EN,IT"
+    "locales": "EN,IT",
+    "mastodon": "@pycon@social.python.it"
   },
   {
     "name": "World Conference on Data Science & Statistics",
