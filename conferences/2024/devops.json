@@ -12,6 +12,17 @@
     "locales": "EN"
   },
   {
+    "name": "Devopsdays Tel Aviv",
+    "url": "https://devopsdays.org/events/2023-tel-aviv/welcome/",
+    "startDate": "2024-01-21",
+    "endDate": "2024-01-22",
+    "city": "Tel Aviv",
+    "country": "Israel",
+    "twitter": "@devopsdaystlv",
+    "cocUrl": "https://devopsdays.org/events/2023-tel-aviv/conduct",
+    "locales": "EN"
+  },
+  {
     "name": "Conf42 DevOps",
     "url": "https://www.conf42.com/devops2024",
     "startDate": "2024-01-25",
@@ -69,6 +80,17 @@
     "cfpEndDate": "2023-11-30",
     "cocUrl": "https://opensourcecamp.de/verhaltenskodex/",
     "locales": "DE"
+  },
+  {
+    "name": "Devopsdays Los Angeles",
+    "url": "https://devopsdays.org/events/2024-los-angeles/welcome/",
+    "startDate": "2024-03-15",
+    "endDate": "2024-03-15",
+    "city": "Los Angeles, CA",
+    "country": "U.S.A.",
+    "twitter": "@socaldevops",
+    "cocUrl": "https://devopsdays.org/events/2024-los-angeles/conduct",
+    "locales": "EN"
   },
   {
     "name": "Incontro DevOps Italia",
@@ -132,6 +154,17 @@
     "locales": "EN"
   },
   {
+    "name": "Devopsdays Singapore",
+    "url": "https://devopsdays.org/events/2024-singapore/welcome/",
+    "startDate": "2024-03-21",
+    "endDate": "2024-03-22",
+    "city": "Singapore",
+    "country": "Singapore",
+    "twitter": "@devopsdaysSG",
+    "cocUrl": "https://devopsdays.org/events/2024-singapore/conduct",
+    "locales": "EN"
+  },
+  {
     "name": "QCon London",
     "url": "https://qconlondon.com",
     "startDate": "2024-04-08",
@@ -157,6 +190,16 @@
     "locales": "EN"
   },
   {
+    "name": "Devopsdays Raleigh",
+    "url": "https://devopsdays.org/events/2024-raleigh/welcome/",
+    "startDate": "2024-04-10",
+    "endDate": "2024-04-11",
+    "city": "Raleigh, NC",
+    "country": "U.S.A.",
+    "twitter": "@DevOpsDaysRDU",
+    "cocUrl": "https://devopsdays.org/events/2024-raleigh/conduct"
+  },
+  {
     "name": "Devopsdays Zurich",
     "url": "https://devopsdays.org/events/2024-zurich/welcome/",
     "startDate": "2024-04-16",
@@ -165,6 +208,72 @@
     "country": "Switzerland",
     "online": false,
     "cocUrl": "https://devopsdays.org/events/2024-zurich/conduct"
+  },
+  {
+    "name": "Devopsdays Aarhus",
+    "url": "https://devopsdays.org/events/2024-aarhus/welcome/",
+    "startDate": "2024-04-16",
+    "endDate": "2024-04-17",
+    "city": "Aarhus",
+    "country": "Denmark",
+    "twitter": "@devopsdayscph",
+    "cocUrl": "https://devopsdays.org/events/2024-aarhus/conduct"
+  },
+  {
+    "name": "Devopsdays Tokyo",
+    "url": "https://devopsdays.org/events/2024-tokyo/welcome/",
+    "startDate": "2024-04-16",
+    "endDate": "2024-04-17",
+    "city": "Tokyo",
+    "country": "Japan",
+    "twitter": "@DevOpsDaysTokyo",
+    "cocUrl": "https://devopsdays.org/events/2024-tokyo/conduct"
+  },
+  {
+    "name": "Devopsdays Birmingham",
+    "url": "https://devopsdays.org/events/2024-birmingham-al/welcome/",
+    "startDate": "2024-04-17",
+    "endDate": "2024-04-18",
+    "city": "Birmingham, AL",
+    "country": "U.S.A.",
+    "cfpUrl": "https://talks.devopsdays.org/devopsdays-birmingham-al-2024/cfp",
+    "cfpEndDate": "2024-01-07",
+    "twitter": "@devopsdaysbham",
+    "cocUrl": "https://devopsdays.org/events/2024-birmingham-al/conduct"
+  },
+  {
+    "name": "Devopsdays Istanbul",
+    "url": "https://devopsdays.org/events/2024-istanbul/welcome/",
+    "startDate": "2024-04-20",
+    "endDate": "2024-04-20",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "cfpUrl": "https://www.papercall.io/devopsdays-istanbul-2023",
+    "cfpEndDate": "2024-01-19",
+    "twitter": "@devopsdaysist",
+    "cocUrl": "https://devopsdays.org/events/2024-istanbul/conduct"
+  },
+  {
+    "name": "Devopsdays Denver",
+    "url": "https://devopsdays.org/events/2024-denver/welcome/",
+    "startDate": "2024-04-29",
+    "endDate": "2024-04-30",
+    "city": "Denver, CO",
+    "country": "U.S.A.",
+    "cfpUrl": "https://devopsdays.org/events/2024-denver/propose",
+    "cfpEndDate": "2024-01-12",
+    "twitter": "@devopsdaysrox",
+    "cocUrl": "https://devopsdays.org/events/2024-denver/conduct"
+  },
+  {
+    "name": "Devopsdays Austin",
+    "url": "https://devopsdays.org/events/2024-austin/welcome/",
+    "startDate": "2024-05-02",
+    "endDate": "2024-05-03",
+    "city": "Austin, TX",
+    "country": "U.S.A.",
+    "twitter": "@DoDAustin",
+    "cocUrl": "https://devopsdays.org/events/2024-austin/conduct"
   },
   {
     "name": "Enterprise Technology Leadership Summit Europe",
@@ -193,6 +302,50 @@
     "locales": "EN"
   },
   {
+    "name": "Devopsdays Geneva",
+    "url": "https://devopsdays.org/events/2024-geneva/welcome/",
+    "startDate": "2024-05-13",
+    "endDate": "2024-05-14",
+    "city": "Geneva",
+    "country": "Switzerland",
+    "cfpUrl": "https://devopsdays.org/events/2024-geneva/propose",
+    "cfpEndDate": "2024-01-07",
+    "twitter": "@DevopsdaysGe",
+    "cocUrl": "https://devopsdays.org/events/2024-geneva/conduct"
+  },
+  {
+    "name": "Devopsdays Seattle",
+    "url": "https://devopsdays.org/events/2024-seattle/welcome/",
+    "startDate": "2024-05-14",
+    "endDate": "2024-05-15",
+    "city": "Seattle, WA",
+    "country": "U.S.A.",
+    "cfpUrl": "https://talks.devopsdays.org/devopsdays-seattle-2024/cfp",
+    "cfpEndDate": "2024-01-15",
+    "twitter": "@DevOpsDaysSEA",
+    "cocUrl": "https://devopsdays.org/events/2024-seattle/conduct"
+  },
+  {
+    "name": "Devopsdays Philadelphia",
+    "url": "https://devopsdays.org/events/2024-philadelphia/welcome/",
+    "startDate": "2024-05-14",
+    "endDate": "2024-05-15",
+    "city": "Philadelphia, PA",
+    "country": "U.S.A.",
+    "twitter": "@DevOpsDaysPHL",
+    "cocUrl": "https://devopsdays.org/events/2024-philadelphia/conduct"
+  },
+  {
+    "name": "Devopsdays Kansas City",
+    "url": "https://devopsdays.org/events/2024-kansas-city/welcome/",
+    "startDate": "2024-05-15",
+    "endDate": "2024-05-16",
+    "city": "Kansas City, MO",
+    "country": "U.S.A.",
+    "twitter": "@devopsdayskc",
+    "cocUrl": "https://devopsdays.org/events/2024-kansas-city/conduct"
+  },
+  {
     "name": "J On The Beach",
     "url": "https://jonthebeach.com",
     "startDate": "2024-05-08",
@@ -205,6 +358,18 @@
     "twitter": "@WeyWeyWeb",
     "cocUrl": "https://berlincodeofconduct.org/",
     "locales": "EN"
+  },
+  {
+    "name": "Devopsdays Sao Paulo",
+    "url": "https://devopsdays.org/events/2024-saopaulo/welcome/",
+    "startDate": "2024-05-18",
+    "endDate": "2024-05-18",
+    "city": "São Paulo",
+    "country": "Brazil",
+    "cfpUrl": "https://talks.devopsdays.org/devopsdays-sao-paulo-2024/",
+    "cfpEndDate": "2024-02-11",
+    "twitter": "@sp_devopsdays",
+    "cocUrl": "https://devopsdays.org/events/2024-saopaulo/conduct-pt-br"
   },
   {
     "name": "DevDays Europe",
@@ -240,8 +405,23 @@
     "city": "Baltimore, MD",
     "country": "U.S.A.",
     "online": false,
+    "cfpUrl": "https://talks.devopsdays.org/devopsdays-baltimore-2024/cfp",
+    "cfpEndDate": "2024-02-01",
     "twitter": "@DevOpsDaysBmore",
     "cocUrl": "https://devopsdays.org/events/2024-baltimore/conduct"
+  },
+  {
+    "name": "Devopsdays Montreal",
+    "url": "https://devopsdays.org/events/2024-montreal/welcome/",
+    "startDate": "2024-05-27",
+    "endDate": "2024-05-28",
+    "city": "Montreal",
+    "country": "Canada",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/devopsdays-montreal-2024/",
+    "cfpEndDate": "2024-01-28",
+    "twitter": "@DevOpsDaysMTL",
+    "cocUrl": "https://devopsdays.org/events/2024-montreal/conduct"
   },
   {
     "name": "JCON OpenBlend Slovenia",
@@ -293,6 +473,41 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Devopsdays Amsterdam",
+    "url": "https://devopsdays.org/events/2024-amsterdam/welcome/",
+    "startDate": "2024-06-19",
+    "endDate": "2024-06-21",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "cfpUrl": "https://talks.devopsdays.org/devopsdays-amsterdam-2024/cfp",
+    "cfpEndDate": "2024-02-01",
+    "twitter": "@devopsams",
+    "cocUrl": "https://devopsdays.org/events/2024-amsterdam/conduct",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "Devopsdays Minneapolis",
+    "url": "https://devopsdays.org/events/2024-minneapolis/welcome/",
+    "startDate": "2024-08-06",
+    "endDate": "2024-08-07",
+    "city": "Minneapolis, MN",
+    "country": "U.S.A.",
+    "twitter": "@devopsdaysmsp",
+    "cocUrl": "https://devopsdays.org/events/2024-minneapolis/conduct",
+    "locales": "EN"  
+  },
+  {
+    "name": "Devopsdays Halifax",
+    "url": "https://devopsdays.org/events/2024-halifax/welcome/",
+    "startDate": "2024-08-06",
+    "endDate": "2024-08-07",
+    "city": "Halifax",
+    "country": "Canada",
+    "cocUrl": "https://devopsdays.org/events/2024-halifax/conduct",
+    "locales": "EN"
+  },
+  {
     "name": "Enterprise Technology Leadership Summit Las Vegas",
     "url": "https://itrevolution.com/product/enterprise-technology-leadership-summit-las-vegas-2024",
     "startDate": "2024-08-20",
@@ -316,6 +531,29 @@
     "cfpEndDate": "2024-08-05",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct",
+    "locales": "EN"
+  },
+  {
+    "name": "Devopsdays Cairo",
+    "url": "https://devopsdays.org/events/2024-cairo/welcome/",
+    "startDate": "2024-09-25",
+    "endDate": "2024-09-25",
+    "city": "Cairo",
+    "country": "Egypt",
+    "cocUrl": "https://devopsdays.org/events/2024-cairo/conduct",
+    "locales": "EN"
+  },
+  {
+    "name": "Devopsdays London",
+    "url": "https://devopsdays.org/events/2024-london/welcome/",
+    "startDate": "2024-09-26",
+    "endDate": "2024-09-27",
+    "city": "London",
+    "country": "U.K.",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdUK4VNyhpfpqhrm8BY7KmAvSNQHIuL49YOabkYDInbnyKD1g/viewform",
+    "cfpEndDate": "2024-05-24",
+    "twitter": "@DevOpsDaysLDN",
+    "cocUrl": "https://devopsdays.org/events/2024-london/conduct",
     "locales": "EN"
   },
   {
