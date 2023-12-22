@@ -64,6 +64,21 @@
     "locales": "EN"
   },
   {
+    "name": "Apidays New York",
+    "url": "https://www.apidays.global/new-york",
+    "startDate": "2024-04-30",
+    "endDate": "2024-05-01",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://apidays.typeform.com/to/ILJeAaV8#event_name=xxxxx",
+    "cfpEndDate": "2024-04-29",
+    "twitter": "@APIdaysGlobal",
+    "mastodon": "@apidaysglobal@mastodon.social",
+    "cocUrl": "https://www.apidays.global/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "betterCode() API",
     "url": "https://api.bettercode.eu",
     "startDate": "2024-05-14",
