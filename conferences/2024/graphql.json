@@ -21,5 +21,20 @@
     "twitter": "@bettercodeconf",
     "cocUrl": "https://api.bettercode.eu/code_of_conduct.php",
     "locales": "DE"
+  },
+  {
+    "name": "Apidays Australia",
+    "url": "https://www.apidays.global/australia",
+    "startDate": "2024-10-16",
+    "endDate": "2024-10-17",
+    "city": "Victoria",
+    "country": "Australia",
+    "online": false,
+    "cfpUrl": "https://apidays.typeform.com/to/ILJeAaV8#event_name=xxxxx",
+    "cfpEndDate": "2024-10-15",
+    "twitter": "@APIdaysGlobal",
+    "mastodon": "@apidaysglobal@mastodon.social",
+    "cocUrl": "https://www.apidays.global/code-of-conduct/#",
+    "locales": "EN"
   }
 ]
