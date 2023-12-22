@@ -74,5 +74,20 @@
     "twitter": "@bettercodeconf",
     "cocUrl": "https://api.bettercode.eu/code_of_conduct.php",
     "locales": "DE"
+  },
+  {
+    "name": "Apidays Paris",
+    "url": "https://www.apidays.global/paris",
+    "startDate": "2024-12-03",
+    "endDate": "2024-12-05",
+    "city": "Paris",
+    "country": "France",
+    "online": false,
+    "cfpUrl": "https://apidays.typeform.com/to/ILJeAaV8#event_name=xxxxx",
+    "cfpEndDate": "2024-12-02",
+    "twitter": "@APIdaysGlobal",
+    "mastodon": "@apidaysglobal@mastodon.social",
+    "cocUrl": "https://www.apidays.global/code-of-conduct/#",
+    "locales": "EN"
   }
 ]
