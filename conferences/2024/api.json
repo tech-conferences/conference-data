@@ -74,5 +74,20 @@
     "twitter": "@bettercodeconf",
     "cocUrl": "https://api.bettercode.eu/code_of_conduct.php",
     "locales": "DE"
+  },
+  {
+    "name": "Apidays Helsinki & North",
+    "url": "https://www.apidays.global/helsinki_and_north",
+    "startDate": "2024-05-28",
+    "endDate": "2024-05-29",
+    "city": "Helsinki",
+    "country": "Finland",
+    "online": false,
+    "cfpUrl": "https://apidays.typeform.com/to/ILJeAaV8#event_name=xxxxx",
+    "cfpEndDate": "2024-05-27",
+    "twitter": "@APIdaysGlobal",
+    "mastodon": "@apidaysglobal@mastodon.social",
+    "cocUrl": "https://www.apidays.global/code-of-conduct/#",
+    "locales": "EN"
   }
 ]
