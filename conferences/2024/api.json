@@ -76,6 +76,21 @@
     "locales": "DE"
   },
   {
+    "name": "Apidays London",
+    "url": "https://www.apidays.global/london",
+    "startDate": "2024-09-18",
+    "endDate": "2024-09-19",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "cfpUrl": "https://apidays.typeform.com/to/ILJeAaV8#event_name=xxxxx",
+    "cfpEndDate": "2024-09-17",
+    "twitter": "@APIdaysGlobal",
+    "mastodon": "@apidaysglobal@mastodon.social",
+    "cocUrl": "https://www.apidays.global/code-of-conduct/#",
+    "locales": "EN"
+  },
+  {
     "name": "Apidays Paris",
     "url": "https://www.apidays.global/paris",
     "startDate": "2024-12-03",
