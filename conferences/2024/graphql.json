@@ -21,9 +21,9 @@
     "cfpUrl": "https://apidays.typeform.com/to/ILJeAaV8#event_name=xxxxx",
     "cfpEndDate": "2024-04-29",
     "twitter": "@APIdaysGlobal",
-    "mastodon": "@apidaysglobal@mastodon.social",
     "cocUrl": "https://www.apidays.global/code-of-conduct/",
-    "locales": "EN"
+    "locales": "EN",
+    "mastodon": "@apidaysglobal@mastodon.social"
   },
   {
     "name": "betterCode() API",
@@ -38,21 +38,6 @@
     "locales": "DE"
   },
   {
-    "name": "Apidays Australia",
-    "url": "https://www.apidays.global/australia",
-    "startDate": "2024-10-16",
-    "endDate": "2024-10-17",
-    "city": "Melbourne",
-    "country": "Australia",
-    "online": false,
-    "cfpUrl": "https://apidays.typeform.com/to/ILJeAaV8#event_name=xxxxx",
-    "cfpEndDate": "2024-10-15",
-    "twitter": "@APIdaysGlobal",
-    "mastodon": "@apidaysglobal@mastodon.social",
-    "cocUrl": "https://www.apidays.global/code-of-conduct/#",
-    "locales": "EN"
-  },
-  {
     "name": "Apidays Helsinki & North",
     "url": "https://www.apidays.global/helsinki_and_north",
     "startDate": "2024-05-28",
@@ -63,9 +48,9 @@
     "cfpUrl": "https://apidays.typeform.com/to/ILJeAaV8#event_name=xxxxx",
     "cfpEndDate": "2024-05-27",
     "twitter": "@APIdaysGlobal",
-    "mastodon": "@apidaysglobal@mastodon.social",
     "cocUrl": "https://www.apidays.global/code-of-conduct/#",
-    "locales": "EN"
+    "locales": "EN",
+    "mastodon": "@apidaysglobal@mastodon.social"
   },
   {
     "name": "Apidays London",
@@ -78,8 +63,23 @@
     "cfpUrl": "https://apidays.typeform.com/to/ILJeAaV8#event_name=xxxxx",
     "cfpEndDate": "2024-09-17",
     "twitter": "@APIdaysGlobal",
-    "mastodon": "@apidaysglobal@mastodon.social",
     "cocUrl": "https://www.apidays.global/code-of-conduct/#",
-    "locales": "EN"
+    "locales": "EN",
+    "mastodon": "@apidaysglobal@mastodon.social"
+  },
+  {
+    "name": "Apidays Australia",
+    "url": "https://www.apidays.global/australia",
+    "startDate": "2024-10-16",
+    "endDate": "2024-10-17",
+    "city": "Melbourne",
+    "country": "Australia",
+    "online": false,
+    "cfpUrl": "https://apidays.typeform.com/to/ILJeAaV8#event_name=xxxxx",
+    "cfpEndDate": "2024-10-15",
+    "twitter": "@APIdaysGlobal",
+    "cocUrl": "https://www.apidays.global/code-of-conduct/#",
+    "locales": "EN",
+    "mastodon": "@apidaysglobal@mastodon.social"
   }
 ]

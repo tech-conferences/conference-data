@@ -190,16 +190,6 @@
     "locales": "EN"
   },
   {
-    "name": "Devopsdays Raleigh",
-    "url": "https://devopsdays.org/events/2024-raleigh/welcome/",
-    "startDate": "2024-04-10",
-    "endDate": "2024-04-11",
-    "city": "Raleigh, NC",
-    "country": "U.S.A.",
-    "twitter": "@DevOpsDaysRDU",
-    "cocUrl": "https://devopsdays.org/events/2024-raleigh/conduct"
-  },
-  {
     "name": "DevOps Days Raleigh",
     "url": "https://devopsdays.org/raleigh",
     "startDate": "2024-04-10",
@@ -212,6 +202,16 @@
     "twitter": "@DevOpsDaysRDU",
     "cocUrl": "https://devopsdays.org/events/2024-raleigh/conduct",
     "locales": "EN"
+  },
+  {
+    "name": "Devopsdays Raleigh",
+    "url": "https://devopsdays.org/events/2024-raleigh/welcome/",
+    "startDate": "2024-04-10",
+    "endDate": "2024-04-11",
+    "city": "Raleigh, NC",
+    "country": "U.S.A.",
+    "twitter": "@DevOpsDaysRDU",
+    "cocUrl": "https://devopsdays.org/events/2024-raleigh/conduct"
   },
   {
     "name": "Devopsdays Aarhus",
@@ -364,16 +364,6 @@
     "cocUrl": "https://devopsdays.org/events/2024-seattle/conduct"
   },
   {
-    "name": "Devopsdays Kansas City",
-    "url": "https://devopsdays.org/events/2024-kansas-city/welcome/",
-    "startDate": "2024-05-15",
-    "endDate": "2024-05-16",
-    "city": "Kansas City, MO",
-    "country": "U.S.A.",
-    "twitter": "@devopsdayskc",
-    "cocUrl": "https://devopsdays.org/events/2024-kansas-city/conduct"
-  },
-  {
     "name": "DevOpsDays Kansas City",
     "url": "https://devopsdayskc.org",
     "startDate": "2024-05-15",
@@ -386,6 +376,16 @@
     "twitter": "@devopsdayskc",
     "cocUrl": "https://devopsdays.org/events/2024-kansas-city/conduct",
     "locales": "EN"
+  },
+  {
+    "name": "Devopsdays Kansas City",
+    "url": "https://devopsdays.org/events/2024-kansas-city/welcome/",
+    "startDate": "2024-05-15",
+    "endDate": "2024-05-16",
+    "city": "Kansas City, MO",
+    "country": "U.S.A.",
+    "twitter": "@devopsdayskc",
+    "cocUrl": "https://devopsdays.org/events/2024-kansas-city/conduct"
   },
   {
     "name": "Devopsdays Sao Paulo",
