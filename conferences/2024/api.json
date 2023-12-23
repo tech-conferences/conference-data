@@ -89,5 +89,32 @@
     "mastodon": "@apidaysglobal@mastodon.social",
     "cocUrl": "https://www.apidays.global/code-of-conduct/#",
     "locales": "EN"
+  },
+  {
+    "name": "Apidays Paris",
+    "url": "https://www.apidays.global/paris",
+    "startDate": "2024-12-03",
+    "endDate": "2024-12-05",
+    "city": "Paris",
+    "country": "France",
+    "online": false,
+    "cfpUrl": "https://apidays.typeform.com/to/ILJeAaV8#event_name=xxxxx",
+    "cfpEndDate": "2024-12-02",
+    "twitter": "@APIdaysGlobal",
+    "mastodon": "@apidaysglobal@mastodon.social",
+    "cocUrl": "https://www.apidays.global/code-of-conduct/#",
+    "locales": "EN"
+  },
+  {
+    "name": "MAD Summit",
+    "url": "https://mad-summit.de/muenchen",
+    "startDate": "2024-06-10",
+    "endDate": "2024-06-12",
+    "city": "Munich",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@mad_summit",
+    "cocUrl": "https://mad-summit.de/code-of-conduct/",
+    "locales": "DE"
   }
 ]
