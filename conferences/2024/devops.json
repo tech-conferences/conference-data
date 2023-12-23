@@ -515,6 +515,18 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "InfoQ Dev Summit",
+    "url": "https://devsummit.infoq.com",
+    "startDate": "2024-06-24",
+    "endDate": "2024-06-25",
+    "city": "Boston, MA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@InfoQ",
+    "cocUrl": "https://devsummit.infoq.com/code-conduct",
+    "locales": "EN"
+  },
+  {
     "name": "Devopsdays Halifax",
     "url": "https://devopsdays.org/events/2024-halifax/welcome/",
     "startDate": "2024-08-06",
@@ -594,6 +606,18 @@
     "cfpEndDate": "2024-05-24",
     "twitter": "@DevOpsDaysLDN",
     "cocUrl": "https://devopsdays.org/events/2024-london/conduct",
+    "locales": "EN"
+  },
+  {
+    "name": "QCon San Francisco",
+    "url": "https://qconsf.com",
+    "startDate": "2024-11-18",
+    "endDate": "2024-11-22",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@qcon",
+    "cocUrl": "https://qconferences.com/code-conduct",
     "locales": "EN"
   },
   {
