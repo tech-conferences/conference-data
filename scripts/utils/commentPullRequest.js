@@ -10,7 +10,7 @@ module.exports = async function commentPullRequest(token, allErrors) {
         auth: token
     });
     const prNumber = eventContext.issue.number;
-    const comments = allErrors.map(error => {
+    const comments = allErrors.map((error) => {
         return {
             path: error.fileName,
             line: error.lineNumber,

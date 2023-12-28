@@ -19,10 +19,10 @@ const validLocationsHint = ' - Check/Maintain the file "config/validLocations.js
 module.exports = function checkConference(year, conference, assertField) {
     const { name, url, cfpUrl, twitter } = conference;
 
-    REQUIRED_KEYS.forEach(requiredKey => {
+    REQUIRED_KEYS.forEach((requiredKey) => {
         assertField(conference.hasOwnProperty(requiredKey), requiredKey, `is missing`);
     });
-    Object.keys(conference).forEach(key => {
+    Object.keys(conference).forEach((key) => {
         assertField(validFields.indexOf(key) !== -1, key, `property is not valid`);
         assertField(!emptyStringRegex.test(conference[key]), key, `property should not be empty`);
     });

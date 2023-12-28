@@ -19,8 +19,8 @@
     "test": "node scripts/conferences.test.js",
     "updateValidLocations": "node ./scripts/updateValidLocations.js",
     "reorder-confs": "node ./scripts/reorderConferencesByDate.js",
-    "format": "prettier --write scripts/**/*.js --print-width 180 --single-quote --tab-width 4 --trailing-comma none --arrow-parens avoid",
-    "lint": "prettier --check scripts/**/*.js --print-width 180 --single-quote --tab-width 4 --trailing-comma none --arrow-parens avoid"
+    "format": "prettier --write scripts/**/*.js",
+    "lint": "prettier --check scripts/**/*.js"
   },
   "homepage": "https://confs.tech"
 }

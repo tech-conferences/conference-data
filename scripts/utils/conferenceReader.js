@@ -7,9 +7,9 @@ const jsonFileRegex = /(.*).json$/;
 module.exports = function conferenceReader() {
     const conferencesJSON = {};
 
-    fs.readdirSync('conferences').forEach(year => {
+    fs.readdirSync('conferences').forEach((year) => {
         conferencesJSON[year] = {};
-        fs.readdirSync(`conferences/${year}`).forEach(fileName => {
+        fs.readdirSync(`conferences/${year}`).forEach((fileName) => {
             const filePath = `conferences/${year}/${fileName}`;
             assert(jsonFileRegex.test(fileName));
             const topic = jsonFileRegex.exec(fileName)[1];
