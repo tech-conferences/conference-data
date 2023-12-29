@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - name: Delete existing reorder branch
         uses: dawidd6/action-delete-branch@v3
         with:
@@ -25,9 +25,11 @@ jobs:
         with:
           branch: 'reorder'
       - name: Use Node.js
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: '.nvmrc'
       - name: Install dependencies
-        run: npm install
+        run: npm ci
       - name: Reorder conferences
         run: npm run reorder-confs
       - name: Reorder valid locations

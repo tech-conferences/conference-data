@@ -9,17 +9,18 @@
     "date-fns": "^2.12.0"
   },
   "devDependencies": {
-    "git-json-merge": "^0.4.5",
+    "git-json-merge": "^1.0.0",
     "lodash": "^4.17.21",
-    "nodemon": "^2.0.20",
-    "prettier": "^2.0.5"
+    "nodemon": "^3.0.2",
+    "prettier": "^3.1.1"
   },
   "scripts": {
     "start": "nodemon scripts/conferences.test.js --exec \"npm run format && node\"",
     "test": "node scripts/conferences.test.js",
     "updateValidLocations": "node ./scripts/updateValidLocations.js",
     "reorder-confs": "node ./scripts/reorderConferencesByDate.js",
-    "format": "prettier --write scripts/**/*.js --print-width 180 --single-quote --tab-width 4 --trailing-comma none --arrow-parens avoid"
+    "format": "prettier --write scripts/**/*.js",
+    "lint": "prettier --check scripts/**/*.js"
   },
   "homepage": "https://confs.tech"
 }
