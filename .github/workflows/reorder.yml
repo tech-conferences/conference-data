@@ -35,7 +35,7 @@ jobs:
       - name: Reorder valid locations
         run: npm run updateValidLocations
       - name: Commit changes
-        uses: EndBug/add-and-commit@v7
+        uses: EndBug/add-and-commit@v9
         with:
           author_name: Christian Grail
           author_email: cgrail@users.noreply.github.com
