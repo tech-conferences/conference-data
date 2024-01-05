@@ -1,5 +1,23 @@
 [
   {
+    "name": "Worqference",
+    "url": "https://www.thetesttribe.com/worqference/",
+    "startDate": "2024-02-23",
+    "endDate": "2024-02-24",
+    "online": true,
+    "twitter": "@the_test_tribe",
+    "cocUrl": "https://www.thetesttribe.com/code-of-conduct/",
+  },
+  {
+    "name": "QonfX",
+    "url": "https://www.thetesttribe.com/qonfx/",
+    "startDate": "2024-04-20",
+    "endDate": "2024-04-20",
+    "online": true,
+    "twitter": "@the_test_tribe",
+    "cocUrl": "https://www.thetesttribe.com/code-of-conduct/",
+  },
+  {
     "name": "Software Quality Days",
     "url": "https://www.software-quality-days.com",
     "startDate": "2024-04-24",
@@ -8,6 +26,17 @@
     "country": "Austria",
     "online": false,
     "locales": "EN,DE"
+  },
+  {
+    "name": "TribeQonf",
+    "url": "https://www.thetesttribe.com/tribeqonf/",
+    "startDate": "2024-07-12",
+    "endDate": "2024-07-13",
+    "city": "Bangalore",
+    "country": "India",
+    "online": false,
+    "twitter": "@the_test_tribe",
+    "cocUrl": "https://www.thetesttribe.com/code-of-conduct/",
   },
   {
     "name": "EuroSTAR Conference",
@@ -48,5 +77,14 @@
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct",
     "locales": "EN"
-  }
+  },
+  {
+    "name": "TestFlix",
+    "url": "https://www.thetesttribe.com/testflix/",
+    "startDate": "2024-10-19",
+    "endDate": "2024-10-20",
+    "online": true,
+    "twitter": "@the_test_tribe",
+    "cocUrl": "https://www.thetesttribe.com/code-of-conduct/",
+  }  
 ]
