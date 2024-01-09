@@ -21,5 +21,17 @@
     "online": false,
     "twitter": "@tryswiftconf",
     "locales": "EN,JA"
+  },
+  {
+    "name": "SwiftLeeds",
+    "url": "https://swiftleeds.co.uk",
+    "startDate": "2024-10-08",
+    "endDate": "2024-10-09",
+    "city": "Leeds",
+    "country": "U.K.",
+    "online": true,
+    "twitter": "@swift_leeds",
+    "cocUrl": "https://swiftleeds.co.uk/conduct",
+    "locales": "EN"
   }
 ]
