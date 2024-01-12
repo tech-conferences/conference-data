@@ -79,6 +79,20 @@
     "mastodon": "@apidaysglobal@mastodon.social"
   },
   {
+    "name": "POST/CON",
+    "url": "https://www.postman.com/postcon",
+    "startDate": "2024-04-30",
+    "endDate": "2024-05-01",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/postcon24",
+    "cfpEndDate": "2024-01-23",
+    "twitter": "@getpostman",
+    "cocUrl": "https://www.postman.com/legal/community-code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "betterCode() API",
     "url": "https://api.bettercode.eu",
     "startDate": "2024-05-14",
