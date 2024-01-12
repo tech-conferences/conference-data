@@ -153,5 +153,19 @@
     "cfpEndDate": "2023-11-27",
     "twitter": "@phpconference",
     "locales": "EN"
+  },
+  {
+    "name": "Laravel Live Denmark",
+    "url": "https://laravellive.dk",
+    "startDate": "2024-08-22",
+    "endDate": "2024-08-23",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "online": false,
+    "cfpUrl": "https://laravellive.dk/become-a-speaker",
+    "cfpEndDate": "2024-03-01",
+    "twitter": "@laravellivedk",
+    "cocUrl": "https://laravellive.dk/code-of-conduct",
+    "locales": "EN"
   }
 ]
