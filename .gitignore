@@ -11,6 +11,7 @@
 .env.production.local
 .vscode
 .idea
+.history
 
 npm-debug.log*
 localTests
