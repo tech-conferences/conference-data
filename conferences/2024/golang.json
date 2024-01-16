@@ -21,5 +21,15 @@
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct",
     "locales": "EN"
+  },
+  {
+    "name": "Golang Conf",
+    "url": "https://golangconf.ru",
+    "startDate": "2024-06-20",
+    "endDate": "2024-06-21",
+    "online": true,
+    "cfpUrl": "https://cfp.golangconf.ru/en",
+    "cfpEndDate": "2024-02-15",
+    "locales": "EN,RU"
   }
 ]
