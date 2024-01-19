@@ -28,17 +28,6 @@
     "locales": "EN,DE"
   },
   {
-    "name": "TribeQonf",
-    "url": "https://www.thetesttribe.com/tribeqonf/",
-    "startDate": "2024-07-12",
-    "endDate": "2024-07-13",
-    "city": "Bangalore",
-    "country": "India",
-    "online": false,
-    "twitter": "@the_test_tribe",
-    "cocUrl": "https://www.thetesttribe.com/code-of-conduct/"
-  },
-  {
     "name": "EuroSTAR Conference",
     "url": "https://conference.eurostarsoftwaretesting.com",
     "startDate": "2024-06-11",
@@ -67,6 +56,17 @@
     "locales": "EN,ES,GL,PT"
   },
   {
+    "name": "TribeQonf",
+    "url": "https://www.thetesttribe.com/tribeqonf/",
+    "startDate": "2024-07-12",
+    "endDate": "2024-07-13",
+    "city": "Bangalore",
+    "country": "India",
+    "online": false,
+    "twitter": "@the_test_tribe",
+    "cocUrl": "https://www.thetesttribe.com/code-of-conduct/"
+  },
+  {
     "name": "Conf42 Incident Management",
     "url": "https://www.conf42.com/im2024",
     "startDate": "2024-10-17",
@@ -86,5 +86,19 @@
     "online": true,
     "twitter": "@the_test_tribe",
     "cocUrl": "https://www.thetesttribe.com/code-of-conduct/"
-  }  
+  },
+  {
+    "name": "Agile Testing Days",
+    "url": "https://agiletestingdays.com",
+    "startDate": "2024-11-19",
+    "endDate": "2024-11-22",
+    "city": "Potsdam",
+    "country": "Germany",
+    "online": true,
+    "cfpUrl": "https://agiletestingdays.com/call-for-papers",
+    "cfpEndDate": "2024-02-11",
+    "twitter": "@AgileTD",
+    "cocUrl": "https://agiletestingdays.com/code-of-conduct/",
+    "locales": "EN"
+  }
 ]
