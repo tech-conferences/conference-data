@@ -40,6 +40,19 @@
     "locales": "EN"
   },
   {
+    "name": "Devoxx Greece",
+    "url": "https://devoxx.gr",
+    "startDate": "2024-04-18",
+    "endDate": "2024-04-20",
+    "city": "Athens",
+    "country": "Greece",
+    "online": false,
+    "cfpUrl": "https://dvgr24.cfp.dev/#/login",
+    "cfpEndDate": "2023-12-15",
+    "cocUrl": "https://devoxx.gr/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "JAX",
     "url": "https://jax.de/mainz",
     "startDate": "2024-04-22",
