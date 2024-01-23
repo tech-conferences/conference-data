@@ -1,5 +1,16 @@
 [
   {
+    "name": "C++ online",
+    "url": "https://cpponline.uk",
+    "startDate": "2024-02-29",
+    "endDate": "2024-03-02",
+    "online": true,
+    "twitter": "@cpponline",
+    "mastodon": "@cpponline@mastodon.social",
+    "cocUrl": "https://berlincodeofconduct.org",
+    "locales": "EN"
+  },
+  {
     "name": "Embedded Day",
     "url": "https://www.wearedevelopers.com/event/embedded-day-april-2024",
     "startDate": "2024-04-17",
@@ -17,6 +28,17 @@
     "online": false,
     "twitter": "@cpponsea",
     "cocUrl": "https://accu.org/conf-menu-overviews/coc_code_of_conduct/",
+    "locales": "EN"
+  },
+  {
+    "name": "C ++ on Sea",
+    "url": "https://cpponsea.uk",
+    "startDate": "2024-07-03",
+    "endDate": "2024-07-05",
+    "city": "Folkestone",
+    "country": "U.K.",
+    "online": false,
+    "cocUrl": "https://cpponsea.uk/conduct/",
     "locales": "EN"
   },
   {
