@@ -403,6 +403,20 @@
     "locales": "EN"
   },
   {
+    "name": "data2day",
+    "url": "https://www.data2day.de",
+    "startDate": "2024-09-18",
+    "endDate": "2024-09-19",
+    "city": "Heidelberg",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://www.data2day.de/cfp.php",
+    "cfpEndDate": "2024-03-18",
+    "twitter": "@data2day",
+    "cocUrl": "https://www.data2day.de/code_of_conduct.php?source=0",
+    "locales": "DE"
+  },
+  {
     "name": "Conf42 Prompt Engineering",
     "url": "https://www.conf42.com/prompt2024",
     "startDate": "2024-11-21",
