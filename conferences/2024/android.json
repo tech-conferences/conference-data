@@ -67,5 +67,18 @@
     "cocUrl": "https://berlin.droidcon.com/code-of-conduct/",
     "locales": "EN",
     "mastodon": "@droidcon@androiddev.social"
+  },
+  {
+    "name": "droidcon London",
+    "url": "https://london.droidcon.com",
+    "startDate": "2024-10-31",
+    "endDate": "2024-11-01",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "twitter": "@droidconLondon",
+    "mastodon": "@droidcon@androiddev.social",
+    "cocUrl": "https://london.droidcon.com/code-of-conduct/",
+    "locales": "EN"
   }
 ]
