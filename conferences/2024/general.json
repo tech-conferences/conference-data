@@ -372,15 +372,6 @@
     "locales": "EN"
   },
   {
-    "name": "Machine Learning Day",
-    "url": "https://www.wearedevelopers.com/event/machine-learning-day-may-2024",
-    "startDate": "2024-05-22",
-    "endDate": "2024-05-22",
-    "online": true,
-    "twitter": "@WeAreDevs",
-    "locales": "EN"
-  },
-  {
     "name": "KCD New York",
     "url": "https://community.cncf.io/events/details/cncf-kcd-new-york-presents-kcd-new-york-2024",
     "startDate": "2024-05-22",
@@ -392,6 +383,15 @@
     "cfpEndDate": "2024-02-11",
     "twitter": "@KcdNewyork",
     "cocUrl": "https://community.cncf.io/events/details/cncf-kcd-new-york-presents-kcd-new-york-2024/",
+    "locales": "EN"
+  },
+  {
+    "name": "Machine Learning Day",
+    "url": "https://www.wearedevelopers.com/event/machine-learning-day-may-2024",
+    "startDate": "2024-05-22",
+    "endDate": "2024-05-22",
+    "online": true,
+    "twitter": "@WeAreDevs",
     "locales": "EN"
   },
   {

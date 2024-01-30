@@ -31,9 +31,9 @@
     "country": "China",
     "online": false,
     "twitter": "@SketchK_47",
-    "mastodon": "@sketchk@mastodon.social",
     "cocUrl": "https://letsvisionos24.swiftgg.team/en/CodeOfConduct.html",
     "locales": "EN,ZH",
+    "mastodon": "@sketchk@mastodon.social",
     "offersSignLanguageOrCC": true
   },
   {
@@ -45,9 +45,9 @@
     "country": "U.K.",
     "online": false,
     "twitter": "@swiftcraftuk",
-    "mastodon": "@swiftcraft@hachyderm.io",
     "cocUrl": "https://swiftcraft.uk/conduct",
-    "locales": "EN"
+    "locales": "EN",
+    "mastodon": "@swiftcraft@hachyderm.io"
   },
   {
     "name": "SwiftLeeds",

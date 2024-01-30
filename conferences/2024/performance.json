@@ -47,18 +47,6 @@
     "locales": "EN,DE"
   },
   {
-    "name": "QCon",
-    "url": "https://qconsf.com/medialisting2024",
-    "startDate": "2024-11-18",
-    "endDate": "2024-11-22",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "mastodon": "@techhub.social@qcon",
-    "cocUrl": "https://qconferences.com/code-conduct",
-    "locales": "EN"
-  },
-  {
     "name": "InfoQ Dev Summit Boston",
     "url": "https://devsummit.infoq.com/boston_medialisting2024",
     "startDate": "2024-06-24",
@@ -66,8 +54,20 @@
     "city": "Boston, MA",
     "country": "U.S.A.",
     "online": false,
-    "mastodon": "@techhub.social@infoq",
     "cocUrl": "https://qconferences.com/code-conduct",
-    "locales": "EN"
+    "locales": "EN",
+    "mastodon": "@techhub.social@infoq"
+  },
+  {
+    "name": "QCon",
+    "url": "https://qconsf.com/medialisting2024",
+    "startDate": "2024-11-18",
+    "endDate": "2024-11-22",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "cocUrl": "https://qconferences.com/code-conduct",
+    "locales": "EN",
+    "mastodon": "@techhub.social@qcon"
   }
 ]
