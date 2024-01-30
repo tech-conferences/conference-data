@@ -101,9 +101,9 @@
     "city": "Boston, MA",
     "country": "U.S.A.",
     "online": false,
-    "mastodon": "@techhub.social@infoq",
     "cocUrl": "https://qconferences.com/code-conduct",
-    "locales": "EN"
+    "locales": "EN",
+    "mastodon": "@techhub.social@infoq"
   },
   {
     "name": "Enterprise Technology Leadership Summit Las Vegas",
@@ -127,8 +127,8 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "online": false,
-    "mastodon": "@techhub.social@qcon",
     "cocUrl": "https://qconferences.com/code-conduct",
-    "locales": "EN"
+    "locales": "EN",
+    "mastodon": "@techhub.social@qcon"
   }
 ]
