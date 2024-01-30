@@ -501,6 +501,17 @@
     "locales": "EN"
   },
   {
+    "name": "INTEGRATE",
+    "url": "https://www.serverless360.com/events/integrate-2024",
+    "startDate": "2024-06-10",
+    "endDate": "2024-06-11",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "twitter": "@serverless360",
+    "locales": "EN"
+  },
+  {
     "name": "EuroSTAR Conference",
     "url": "https://conference.eurostarsoftwaretesting.com",
     "startDate": "2024-06-11",
@@ -671,6 +682,20 @@
     "cfpEndDate": "2024-05-24",
     "twitter": "@DevOpsDaysLDN",
     "cocUrl": "https://devopsdays.org/events/2024-london/conduct",
+    "locales": "EN"
+  },
+  {
+    "name": "Devops Barcelona",
+    "url": "https://devops.barcelona",
+    "startDate": "2024-11-14",
+    "endDate": "2024-11-15",
+    "city": "Barcelona",
+    "country": "Spain",
+    "online": false,
+    "cfpUrl": "https://devops.barcelona/call-for-papers",
+    "cfpEndDate": "2024-06-30",
+    "twitter": "@devopsbarcelona",
+    "cocUrl": "https://devops.barcelona/code-of-conduct?utm_source=confs.tech&utm_medium=link&utm_campaign=devops-barcelona-2024&utm_id=devops-barcelona-2024",
     "locales": "EN"
   },
   {
