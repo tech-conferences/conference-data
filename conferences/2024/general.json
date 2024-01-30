@@ -217,6 +217,18 @@
     "locales": "DE"
   },
   {
+    "name": "Michigan Technology Conference",
+    "url": "https://www.mitechcon.org",
+    "startDate": "2024-03-21",
+    "endDate": "2024-03-22",
+    "city": "Detroit, MI",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@MITechCon",
+    "cocUrl": "https://www.mitechcon.org/code-of-conduct",
+    "locales": "EN"
+  },
+  {
     "name": "Web3 Day",
     "url": "https://www.wearedevelopers.com/event/web3-day-april-2024",
     "startDate": "2024-04-03",
@@ -395,6 +407,16 @@
     "twitter": "@fwdays",
     "cocUrl": "https://docs.google.com/document/d/12o0ydKmKe6Jw_VgTZF3U6hmI7yzgo5poxXjDzKDLuDw/edit#heading=h.r7izboewrqur",
     "locales": "EN,UK"
+  },
+  {
+    "name": "Craft Conference",
+    "url": "https://craft-conf.com/2024",
+    "startDate": "2024-05-30",
+    "endDate": "2024-05-31",
+    "city": "Budapest",
+    "country": "Hungary",
+    "online": true,
+    "locales": "EN"
   },
   {
     "name": "Community over Code EU",
@@ -596,6 +618,18 @@
     "locales": "EN",
     "mastodon": "@smashingconf@mastodon.social",
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "Global Software Architecture Summit",
+    "url": "https://gsas.io",
+    "startDate": "2024-10-14",
+    "endDate": "2024-10-16",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf2PeISgsRvU1G3Q0zOAsxlGqO017lpK_Dp0EO-k0xsAYijlg/viewform",
+    "cfpEndDate": "2024-05-01",
+    "twitter": "@gsas_io",
+    "cocUrl": "https://gsas.io/codeofconduct",
+    "locales": "EN"
   },
   {
     "name": "SmashingConf Antwerp",
