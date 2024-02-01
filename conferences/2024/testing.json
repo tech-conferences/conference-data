@@ -67,6 +67,21 @@
     "locales": "EN,ES,GL,PT"
   },
   {
+    "name": "NZTestingConf",
+    "url": "https://nztestingconf.nz",
+    "startDate": "2024-06-27",
+    "endDate": "2024-06-27",
+    "city": "Wellington",
+    "country": "New Zealand",
+    "online": false,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfqJFPx-RCveKBRlRjYn0LyKL32LFgsjLI8soNQ9zv8CfYqcQ/viewform",
+    "cfpEndDate": "2024-02-29",
+    "twitter": "@NZTestingConf",
+    "cocUrl": "https://nztestingconf.nz/code-of-conduct",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "TribeQonf",
     "url": "https://www.thetesttribe.com/tribeqonf/",
     "startDate": "2024-07-12",
