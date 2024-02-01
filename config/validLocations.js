@@ -404,6 +404,7 @@ module.exports = {
     "Kongsberg",
     "Larvik",
     "Oslo",
+    "Skien",
     "Sandefjord"
   ],
   "Panama": [

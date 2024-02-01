@@ -473,20 +473,6 @@
     "locales": "EN,IT"
   },
   {
-    "name": "C3 Dev Festival",
-    "url": "https://c3fest.com",
-    "startDate": "2024-06-14",
-    "endDate": "2024-06-15",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "online": false,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeXAbbojZblJS8gsj4zKLDed79PdFjfmrpgGx3nuXOyGN7jkg/viewform",
-    "cfpEndDate": "2024-02-28",
-    "twitter": "@c3devfest",
-    "cocUrl": "https://portal.gitnation.org/coc",
-    "locales": "EN"
-  },
-  {
     "name": "React Norway",
     "url": "https://reactnorway.com",
     "startDate": "2024-06-14",
@@ -498,6 +484,20 @@
     "cfpEndDate": "2024-04-01",
     "twitter": "@ReactNorway",
     "cocUrl": "https://berlincodeofconduct.org/",
+    "locales": "EN"
+  },
+  {
+    "name": "C3 Dev Festival",
+    "url": "https://c3fest.com",
+    "startDate": "2024-06-14",
+    "endDate": "2024-06-15",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeXAbbojZblJS8gsj4zKLDed79PdFjfmrpgGx3nuXOyGN7jkg/viewform",
+    "cfpEndDate": "2024-02-28",
+    "twitter": "@c3devfest",
+    "cocUrl": "https://portal.gitnation.org/coc",
     "locales": "EN"
   },
   {
