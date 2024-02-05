@@ -668,5 +668,19 @@
     "locales": "EN",
     "mastodon": "@smashingconf@mastodon.social",
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "Heapcon",
+    "url": "https://heapcon.io/2024",
+    "startDate": "2024-11-07",
+    "endDate": "2024-11-08",
+    "city": "Belgrade",
+    "country": "Serbia",
+    "online": false,
+    "cfpUrl": "https://heapcon.io/2024/call-for-papers",
+    "cfpEndDate": "2024-06-01",
+    "twitter": "@Heapconf",
+    "cocUrl": "https://heapcon.io/2024/code-of-conduct",
+    "locales": "EN"
   }
 ]
