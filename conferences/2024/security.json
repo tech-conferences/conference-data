@@ -223,5 +223,18 @@
     "twitter": "@DianaInitiative",
     "cocUrl": "https://www.dianainitiative.org/about/policies/",
     "locales": "EN"
+  },
+  {
+    "name": "heise devSec",
+    "url": "https://www.heise-devsec.de",
+    "startDate": "2024-09-25",
+    "endDate": "2024-09-26",
+    "city": "Cologne",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://www.heise-devsec.de/cfp.php",
+    "cfpEndDate": "2024-04-08",
+    "cocUrl": "https://www.heise-devsec.de/code_of_conduct.php?source=0",
+    "locales": "DE"
   }
 ]
