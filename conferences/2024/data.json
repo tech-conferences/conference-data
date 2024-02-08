@@ -401,6 +401,20 @@
     "locales": "EN"
   },
   {
+    "name": "Swiss PGDay",
+    "url": "https://www.pgday.ch/2024",
+    "startDate": "2024-06-27",
+    "endDate": "2024-06-28",
+    "city": "Rapperswil",
+    "country": "Switzerland",
+    "online": false,
+    "cfpUrl": "https://www.pgday.ch/2024/#cfs",
+    "cfpEndDate": "2024-04-08",
+    "mastodon": "@Swiss_PGDay@fosstodon.org",
+    "cocUrl": "https://www.postgresql.org/about/policies/coc/",
+    "locales": "EN,DE"
+  },
+  {
     "name": "DataConnect Conference",
     "url": "https://www.dataconnectconf.com",
     "startDate": "2024-07-11",
