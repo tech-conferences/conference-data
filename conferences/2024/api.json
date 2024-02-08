@@ -143,6 +143,20 @@
     "locales": "DE"
   },
   {
+    "name": "DevRelCon",
+    "url": "https://nyc24.devrelcon.dev",
+    "startDate": "2024-07-18",
+    "endDate": "2024-07-19",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://nyc24.devrelcon.dev/call-for-proposals",
+    "cfpEndDate": "2024-03-01",
+    "twitter": "@devrelcon",
+    "cocUrl": "https://mlh.io/code-of-conduct",
+    "locales": "EN"
+  },
+  {
     "name": "Apidays London",
     "url": "https://www.apidays.global/london",
     "startDate": "2024-09-18",
