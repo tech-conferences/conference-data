@@ -53,6 +53,18 @@
     "mastodon": "@apidaysglobal@mastodon.social"
   },
   {
+    "name": "HasrauCon",
+    "url": "https://hasura.io/events/hasura-con-2024",
+    "startDate": "2024-06-03",
+    "endDate": "2024-06-06",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdK969zJfqlb1x30AHHYS5ui7zSoyiKQso2qNbiqwnNavBlsg/viewform",
+    "cfpEndDate": "2024-03-11",
+    "cocUrl": "https://hasura.io/events/hasura-con-2024/code-of-conduct",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Apidays London",
     "url": "https://www.apidays.global/london",
     "startDate": "2024-09-18",
