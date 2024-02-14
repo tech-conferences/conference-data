@@ -245,6 +245,18 @@
     "mastodon": "@droidcon@androiddev.social"
   },
   {
+    "name": "droidcon NYC",
+    "url": "https://nyc.droidcon.com",
+    "startDate": "2024-09-19",
+    "endDate": "2024-09-20",
+    "city": "New York City",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@droidconnyc",
+    "cocUrl": "https://nyc.droidcon.com/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "QCon",
     "url": "https://qconsf.com/medialisting2024",
     "startDate": "2024-11-18",
