@@ -71,7 +71,11 @@ module.exports = {
   "Bulgaria": [
     "Plovdiv",
     "Sofia",
-    "Varna"
+    "Varna",
+    "Gabrovo",
+    "Ruse",
+    "Burgas",
+    "Veliko Tarnovo"
   ],
   "Canada": [
     "Banff",
