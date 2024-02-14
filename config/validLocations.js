@@ -542,7 +542,7 @@ module.exports = {
     "Lausanne",
     "Lugano",
     "Nottwil",
-    "Rapperswil",
+    "Rapperswil-Jona",
     "St. Gallen",
     "Zurich"
   ],
