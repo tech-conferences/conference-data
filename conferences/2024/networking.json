@@ -255,6 +255,18 @@
     "mastodon": "@droidcon@androiddev.social"
   },
   {
+    "name": "droidcon NYC",
+    "url": "https://nyc.droidcon.com",
+    "startDate": "2024-09-19",
+    "endDate": "2024-09-20",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@droidconnyc",
+    "cocUrl": "https://nyc.droidcon.com/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "How.Camp",
     "url": "https://how.camp",
     "startDate": "2024-07-27",
