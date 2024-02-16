@@ -255,6 +255,18 @@
     "mastodon": "@droidcon@androiddev.social"
   },
   {
+    "name": "How.Camp",
+    "url": "https://how.camp",
+    "startDate": "2024-07-27",
+    "endDate": "2024-07-27",
+    "city": "Gabrovo",
+    "country": "Bulgaria",
+    "online": false,
+    "mastodon": "@howcamp@fosstodon.org",
+    "cocUrl": "https://how.camp",
+    "locales": "EN,BG"
+  },
+  {
     "name": "QCon",
     "url": "https://qconsf.com/medialisting2024",
     "startDate": "2024-11-18",
