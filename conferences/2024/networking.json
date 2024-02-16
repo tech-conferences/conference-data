@@ -218,6 +218,16 @@
     "locales": "EN"
   },
   {
+    "name": "The MERGE",
+    "url": "https://merge.berlin/",
+    "startDate": "2024-06-13",
+    "endDate": "2024-06-14",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN"
+  },
+  {
     "name": "InfoQ Dev Summit Boston",
     "url": "https://devsummit.infoq.com/boston_medialisting2024",
     "startDate": "2024-06-24",
@@ -255,6 +265,18 @@
     "twitter": "@droidconnyc",
     "cocUrl": "https://nyc.droidcon.com/code-of-conduct/",
     "locales": "EN"
+  },
+  {
+    "name": "How.Camp",
+    "url": "https://how.camp",
+    "startDate": "2024-07-27",
+    "endDate": "2024-07-27",
+    "city": "Gabrovo",
+    "country": "Bulgaria",
+    "online": false,
+    "mastodon": "@howcamp@fosstodon.org",
+    "cocUrl": "https://how.camp",
+    "locales": "EN,BG"
   },
   {
     "name": "QCon",
