@@ -51,6 +51,30 @@
     "locales": "EN"
   },
   {
+    "name": "Gateway Software Symposium",
+    "url": "https://nofluffjuststuff.com/stlouis",
+    "startDate": "2024-04-05",
+    "endDate": "2024-04-06",
+    "city": "St. Louis, MO",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@nofluff",
+    "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct",
+    "locales": "EN"
+  },
+  {
+    "name": "Lone Star Software Symposium",
+    "url": "https://nofluffjuststuff.com/dallas",
+    "startDate": "2024-04-12",
+    "endDate": "2024-04-13",
+    "city": "Dallas, TX",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@nofluff",
+    "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct",
+    "locales": "EN"
+  },
+  {
     "name": "Devoxx Greece",
     "url": "https://devoxx.gr",
     "startDate": "2024-04-18",
@@ -75,6 +99,18 @@
     "cfpEndDate": "2023-11-13",
     "twitter": "@jaxcon",
     "cocUrl": "https://jax.de/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
+    "name": "New England Software Symposium",
+    "url": "https://nofluffjuststuff.com/boston",
+    "startDate": "2024-05-03",
+    "endDate": "2024-05-04",
+    "city": "Boston, MA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@nofluff",
+    "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct",
     "locales": "EN"
   },
   {
@@ -103,6 +139,18 @@
     "cocUrl": "https://2024.europe.jcon.one/code-of-conduct",
     "locales": "EN,DE",
     "mastodon": "@jcon@mastodon.social"
+  },
+  {
+    "name": "Greater Wisconsin Software Symposium",
+    "url": "https://nofluffjuststuff.com/madison",
+    "startDate": "2024-05-17",
+    "endDate": "2024-05-18",
+    "city": "Madison, WI",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@nofluff",
+    "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct",
+    "locales": "EN"
   },
   {
     "name": "JCON OpenBlend Slovenia",
