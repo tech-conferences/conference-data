@@ -171,6 +171,18 @@
     "locales": "EN"
   },
   {
+    "name": "Lone Star Software Symposium",
+    "url": "https://nofluffjuststuff.com/dallas",
+    "startDate": "2024-04-12",
+    "endDate": "2024-04-13",
+    "city": "Dallas, TX",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@nofluff",
+    "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct",
+    "locales": "EN"
+  },
+  {
     "name": "Navigate Local Tampa",
     "url": "https://www.civo.com/navigate/local-tampa-2024",
     "startDate": "2024-04-16",
@@ -242,6 +254,18 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "New England Software Symposium",
+    "url": "https://nofluffjuststuff.com/boston",
+    "startDate": "2024-05-03",
+    "endDate": "2024-05-04",
+    "city": "Boston, MA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@nofluff",
+    "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct",
+    "locales": "EN"
+  },
+  {
     "name": "Devoxx UK",
     "url": "https://www.devoxx.co.uk",
     "startDate": "2024-05-08",
@@ -261,6 +285,18 @@
     "city": "Valletta",
     "country": "Malta",
     "online": false,
+    "locales": "EN"
+  },
+  {
+    "name": "Greater Wisconsin Software Symposium",
+    "url": "https://nofluffjuststuff.com/madison",
+    "startDate": "2024-05-17",
+    "endDate": "2024-05-18",
+    "city": "Madison, WI",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@nofluff",
+    "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct",
     "locales": "EN"
   },
   {
@@ -510,6 +546,16 @@
     "cfpEndDate": "2024-10-21",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct",
+    "locales": "EN"
+  },
+  {
+    "name": "Global Research Conference on Robotics and Artificial Intelligence",
+    "url": "https://roboticsresearch2024.com",
+    "startDate": "2024-11-21",
+    "endDate": "2024-11-23",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "online": true,
     "locales": "EN"
   },
   {
