@@ -255,6 +255,18 @@
     "mastodon": "@droidcon@androiddev.social"
   },
   {
+    "name": "How.Camp",
+    "url": "https://how.camp",
+    "startDate": "2024-07-27",
+    "endDate": "2024-07-27",
+    "city": "Gabrovo",
+    "country": "Bulgaria",
+    "online": false,
+    "cocUrl": "https://how.camp",
+    "locales": "EN,BG",
+    "mastodon": "@howcamp@fosstodon.org"
+  },
+  {
     "name": "droidcon NYC",
     "url": "https://nyc.droidcon.com",
     "startDate": "2024-09-19",
@@ -265,18 +277,6 @@
     "twitter": "@droidconnyc",
     "cocUrl": "https://nyc.droidcon.com/code-of-conduct/",
     "locales": "EN"
-  },
-  {
-    "name": "How.Camp",
-    "url": "https://how.camp",
-    "startDate": "2024-07-27",
-    "endDate": "2024-07-27",
-    "city": "Gabrovo",
-    "country": "Bulgaria",
-    "online": false,
-    "mastodon": "@howcamp@fosstodon.org",
-    "cocUrl": "https://how.camp",
-    "locales": "EN,BG"
   },
   {
     "name": "QCon",
