@@ -499,6 +499,20 @@
     "locales": "EN"
   },
   {
+    "name": "UtahJS Conf",
+    "url": "https://utahjs.com/conference",
+    "startDate": "2024-09-13",
+    "endDate": "2024-09-13",
+    "city": "Salt Lake City, UT",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/utahjs-conf-2024",
+    "cfpEndDate": "2024-04-07",
+    "twitter": "@utjs",
+    "cocUrl": "https://utahjs.com/conduct",
+    "locales": "EN"
+  },
+  {
     "name": "JSConf Ireland",
     "url": "https://www.jsconf.ie",
     "startDate": "2024-09-25",
