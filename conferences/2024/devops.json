@@ -512,6 +512,20 @@
     "locales": "EN,SL"
   },
   {
+    "name": "Icinga Summit",
+    "url": "https://icinga.com/summit",
+    "startDate": "2024-06-05",
+    "endDate": "2024-06-06",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://icinga.com/summit/cfp",
+    "cfpEndDate": "2024-03-31",
+    "twitter": "@icinga",
+    "cocUrl": "https://icinga.com/summit/",
+    "locales": "EN"
+  },
+  {
     "name": "INTEGRATE",
     "url": "https://www.serverless360.com/events/integrate-2024",
     "startDate": "2024-06-10",
