@@ -143,6 +143,18 @@
     "locales": "DE"
   },
   {
+    "name": "BMLI",
+    "url": "https://inwes2024.org/csip/index",
+    "startDate": "2024-06-29",
+    "endDate": "2024-06-30",
+    "online": true,
+    "cfpUrl": "https://inwes2024.org/bmli/index",
+    "cfpEndDate": "2024-06-22",
+    "cocUrl": "https://inwes2024.org/bmli/index",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "DevRelCon",
     "url": "https://nyc24.devrelcon.dev",
     "startDate": "2024-07-18",
