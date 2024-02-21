@@ -399,6 +399,9 @@ module.exports = {
   "Nigeria": [
     "Lagos"
   ],
+  "North Macedonia": [
+    "Skopje"
+  ],
   "Norway": [
     "Bergen",
     "Fornebu",
