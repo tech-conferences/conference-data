@@ -512,6 +512,19 @@
     "locales": "EN,SL"
   },
   {
+    "name": "DevOpsDays Ukraine: Let's Talk Security",
+    "url": "https://devopsdays.com.ua",
+    "startDate": "2024-06-04",
+    "endDate": "2024-06-05",
+    "online": true,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfcE8aUHo_mFGfdl4d8rD6ZYhcS71ZOPH078JPWH1lRrcZi2Q/viewform",
+    "cfpEndDate": "2024-05-04",
+    "twitter": "@devopsdays_kyiv",
+    "mastodon": "@devopsdays_ukraine@mastodon.social",
+    "cocUrl": "https://devopsdays.com.ua/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "Icinga Summit",
     "url": "https://icinga.com/summit",
     "startDate": "2024-06-05",
