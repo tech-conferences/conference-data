@@ -147,6 +147,18 @@
     "locales": "EN"
   },
   {
+    "name": "Leadership Ateliers Barcelona",
+    "url": "https://www.leadershipateliers.com/barcelona",
+    "startDate": "2024-05-06",
+    "endDate": "2024-05-07",
+    "city": "Barcelona",
+    "country": "Spain",
+    "online": false,
+    "twitter": "@hatchconference",
+    "cocUrl": "https://www.leadershipateliers.com/code-of-conduct",
+    "locales": "EN"
+  },
+  {
     "name": "UXLx: User Experience Lisbon",
     "url": "https://ux-lx.com",
     "startDate": "2024-05-21",
@@ -184,6 +196,18 @@
     "twitter": "@websummercamp",
     "cocUrl": "https://websummercamp.com/2024/code-of-conduct",
     "locales": "EN"
+  },
+  {
+    "name": "Hatch Conference",
+    "url": "https://www.hatchconference.com",
+    "startDate": "2024-09-04",
+    "endDate": "2024-09-06",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@hatchconference",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "uxcon vienna",
