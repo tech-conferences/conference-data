@@ -436,7 +436,7 @@ module.exports = {
     "Rzeszów",
     "Szczyrk",
     "Warsaw",
-    "Wroclaw",
+    "Wrocław",
     "Zawiercie"
   ],
   "Portugal": [
