@@ -103,5 +103,19 @@
     "cocUrl": "https://jsconfbp.com/code-of-conduct",
     "locales": "EN",
     "mastodon": "@jsconfbp@mstdn.social"
+  },
+  {
+    "name": "Frontend Barcelona Conference",
+    "url": "https://frontend.barcelona",
+    "startDate": "2024-12-03",
+    "endDate": "2024-12-04",
+    "city": "Barcelona",
+    "country": "Spain",
+    "online": false,
+    "cfpUrl": "https://frontend.barcelona/call-for-papers",
+    "cfpEndDate": "2024-09-30",
+    "twitter": "@frontendbcn",
+    "cocUrl": "https://frontend.barcelona/code-of-conduct",
+    "locales": "EN"
   }
 ]
