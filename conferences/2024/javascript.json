@@ -252,6 +252,20 @@
     "locales": "EN,DE"
   },
   {
+    "name": "The 11ty International Symposium on Making Web Sites Real Good",
+    "url": "https://conf.11ty.dev",
+    "startDate": "2024-05-09",
+    "endDate": "2024-05-09",
+    "online": true,
+    "cfpUrl": "https://conf.11ty.dev/#speaking",
+    "cfpEndDate": "2024-03-22",
+    "twitter": "@eleven_ty",
+    "mastodon": "@eleventy@fosstodon.org",
+    "cocUrl": "https://conf.11ty.dev/cfp/",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "International JavaScript Conference",
     "url": "https://javascript-conference.com/san-diego",
     "startDate": "2024-05-20",
