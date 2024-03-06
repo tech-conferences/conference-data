@@ -76,6 +76,8 @@ module.exports = {
   ],
   "Canada": [
     "Banff",
+    "Calgary",
+    "Edmonton",
     "Gatineau",
     "Halifax",
     "Hamilton",
