@@ -88,5 +88,19 @@
     "online": false,
     "twitter": "@kotlinleeds",
     "locales": "EN"
+  },
+  {
+    "name": "JDD",
+    "url": "https://jdd.org.pl",
+    "startDate": "2024-10-22",
+    "endDate": "2024-10-23",
+    "city": "Kraków",
+    "country": "Poland",
+    "online": false,
+    "cfpUrl": "https://jdd.org.pl/cfp-2024",
+    "cfpEndDate": "2024-05-31",
+    "twitter": "@JDD_Krakow",
+    "cocUrl": "https://jdd.org.pl/code-of-conduct-2024/",
+    "locales": "EN,PL"
   }
 ]
