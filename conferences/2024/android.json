@@ -54,6 +54,20 @@
     "mastodon": "@droidcon@androiddev.social"
   },
   {
+    "name": "Roboto Conference",
+    "url": "https://www.robotoconference.com",
+    "startDate": "2024-06-06",
+    "endDate": "2024-06-07",
+    "city": "Verona",
+    "country": "Italy",
+    "online": false,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdtSib3b3eORN8fG2E2jp718y3enaClKSgPtBWHqrDIy9xJ4A/viewform",
+    "cfpEndDate": "2024-04-30",
+    "twitter": "@RobotoConf",
+    "mastodon": "@robotoconference@mastodon.social",
+    "locales": "EN"
+  },
+  {
     "name": "droidcon Berlin",
     "url": "https://berlin.droidcon.com",
     "startDate": "2024-07-03",
