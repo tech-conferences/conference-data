@@ -136,17 +136,6 @@
     "locales": "EN"
   },
   {
-    "name": "Leadership Ateliers Berlin",
-    "url": "https://www.leadershipateliers.com/berlin",
-    "startDate": "2024-05-15",
-    "endDate": "2024-05-16",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": false,
-    "twitter": "@hatchconference",
-    "locales": "EN"
-  },
-  {
     "name": "Leadership Ateliers Barcelona",
     "url": "https://www.leadershipateliers.com/barcelona",
     "startDate": "2024-05-06",
@@ -156,6 +145,17 @@
     "online": false,
     "twitter": "@hatchconference",
     "cocUrl": "https://www.leadershipateliers.com/code-of-conduct",
+    "locales": "EN"
+  },
+  {
+    "name": "Leadership Ateliers Berlin",
+    "url": "https://www.leadershipateliers.com/berlin",
+    "startDate": "2024-05-15",
+    "endDate": "2024-05-16",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@hatchconference",
     "locales": "EN"
   },
   {
@@ -181,6 +181,18 @@
     "cfpEndDate": "2024-04-15",
     "twitter": "@pixelpioneers",
     "cocUrl": "https://pixelpioneers.co/code-of-conduct",
+    "locales": "EN"
+  },
+  {
+    "name": "UXPA International Conference",
+    "url": "https://uxpa2024.org",
+    "startDate": "2024-06-24",
+    "endDate": "2024-06-27",
+    "city": "Fort Lauderdale, FL",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@UXPA_Int",
+    "cocUrl": "https://uxpa2024.org/code-of-conduct/",
     "locales": "EN"
   },
   {
