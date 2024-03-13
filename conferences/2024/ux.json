@@ -127,23 +127,20 @@
     "locales": "EN"
   },
   {
+    "name": "Mechanical and Mechatronics Engineering",
+    "url": "https://www.pagesconferences.com/2024/mechanical-mechatronics-engineering",
+    "startDate": "2024-04-22",
+    "endDate": "2024-04-24",
+    "online": true,
+    "locales": "EN"
+  },
+  {
     "name": "Women in Tech Global Conference",
     "url": "https://www.womentech.net/women-tech-conference",
     "startDate": "2024-04-23",
     "endDate": "2024-04-25",
     "online": true,
     "twitter": "@WomenTechNet",
-    "locales": "EN"
-  },
-  {
-    "name": "Leadership Ateliers Berlin",
-    "url": "https://www.leadershipateliers.com/berlin",
-    "startDate": "2024-05-15",
-    "endDate": "2024-05-16",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": false,
-    "twitter": "@hatchconference",
     "locales": "EN"
   },
   {
@@ -156,6 +153,17 @@
     "online": false,
     "twitter": "@hatchconference",
     "cocUrl": "https://www.leadershipateliers.com/code-of-conduct",
+    "locales": "EN"
+  },
+  {
+    "name": "Leadership Ateliers Berlin",
+    "url": "https://www.leadershipateliers.com/berlin",
+    "startDate": "2024-05-15",
+    "endDate": "2024-05-16",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@hatchconference",
     "locales": "EN"
   },
   {
