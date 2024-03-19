@@ -33,5 +33,20 @@
     "cfpUrl": "https://cfp.golangconf.ru/en",
     "cfpEndDate": "2024-02-29",
     "locales": "EN,RU"
+  },
+  {
+    "name": "GoLab",
+    "url": "https://golab.io",
+    "startDate": "2024-11-11",
+    "endDate": "2024-11-13",
+    "city": "Florence",
+    "country": "Italy",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/golab-2024",
+    "cfpEndDate": "2024-05-01",
+    "twitter": "@golab_conf",
+    "mastodon": "@golab@mastodon.uno",
+    "cocUrl": "https://golab.io/code-of-conduct",
+    "locales": "EN"
   }
 ]
