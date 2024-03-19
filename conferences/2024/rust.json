@@ -32,5 +32,20 @@
     "cocUrl": "https://eurorust.eu/code-of-conduct/",
     "locales": "EN",
     "mastodon": "@eurorust@fosstodon.org"
+  },
+  {
+    "name": "RustLab",
+    "url": "https://rustlab.it",
+    "startDate": "2024-11-09",
+    "endDate": "2024-11-11",
+    "city": "Florence",
+    "country": "Italy",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/rustlab-2024",
+    "cfpEndDate": "2024-05-01",
+    "twitter": "@rustlab_conf",
+    "mastodon": "@rustlab@mastodon.uno",
+    "cocUrl": "https://rustlab.it/code-of-conduct",
+    "locales": "EN"
   }
 ]
