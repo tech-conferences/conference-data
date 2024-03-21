@@ -809,5 +809,19 @@
     "twitter": "@bdxio",
     "locales": "FR,EN",
     "mastodon": "@bdxio@bdx.town"
+  },
+  {
+    "name": "Open Conf",
+    "url": "https://www.open-conf.gr",
+    "startDate": "2024-11-22",
+    "endDate": "2024-11-23",
+    "city": "Athens",
+    "country": "Greece",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/open-conf-2024",
+    "cfpEndDate": "2024-03-29",
+    "twitter": "@open_conf",
+    "cocUrl": "https://www.open-conf.gr/code-of-conduct/",
+    "locales": "EN"
   }
 ]
