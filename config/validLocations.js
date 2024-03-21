@@ -622,6 +622,7 @@ module.exports = {
     "Buffalo, NY",
     "Burlingame, CA",
     "Burlington, VT",
+    "Bozeman, MT",
     "Cambridge, MA",
     "Camden, MN",
     "Cape Canaveral, FL",
