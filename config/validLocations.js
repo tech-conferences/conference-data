@@ -291,6 +291,7 @@ module.exports = {
     "Bolzano",
     "Brescia",
     "Castelraimondo",
+    "Catania",
     "Cavalese",
     "Desenzano",
     "Desenzano del Garda (BS)",
