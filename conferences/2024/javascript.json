@@ -260,9 +260,9 @@
     "cfpUrl": "https://conf.11ty.dev/#speaking",
     "cfpEndDate": "2024-03-22",
     "twitter": "@eleven_ty",
-    "mastodon": "@eleventy@fosstodon.org",
     "cocUrl": "https://conf.11ty.dev/cfp/",
     "locales": "EN",
+    "mastodon": "@eleventy@fosstodon.org",
     "offersSignLanguageOrCC": true
   },
   {
@@ -481,6 +481,18 @@
     "mastodon": "@jsconfbp@mstdn.social"
   },
   {
+    "name": "React and Chill",
+    "url": "https://reactandchill.live",
+    "startDate": "2024-06-27",
+    "endDate": "2024-06-27",
+    "online": true,
+    "cfpUrl": "https://forms.office.com/r/7uxfcCmGBE",
+    "cfpEndDate": "2024-05-20",
+    "twitter": "@CSharpdotTV",
+    "cocUrl": "https://reactandchill.live/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "dotJS",
     "url": "https://www.dotjs.io",
     "startDate": "2024-06-27",
@@ -492,18 +504,6 @@
     "cfpEndDate": "2024-03-19",
     "twitter": "@dotjs",
     "cocUrl": "https://www.dotjs.io/code-of-conduct",
-    "locales": "EN"
-  },
-  {
-    "name": "React and Chill",
-    "url": "https://reactandchill.live",
-    "startDate": "2024-06-27",
-    "endDate": "2024-06-27",
-    "online": true,
-    "cfpUrl": "https://forms.office.com/r/7uxfcCmGBE",
-    "cfpEndDate": "2024-05-20",
-    "twitter": "@CSharpdotTV",
-    "cocUrl": "https://reactandchill.live/code-of-conduct/",
     "locales": "EN"
   },
   {

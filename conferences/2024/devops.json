@@ -530,9 +530,9 @@
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfcE8aUHo_mFGfdl4d8rD6ZYhcS71ZOPH078JPWH1lRrcZi2Q/viewform",
     "cfpEndDate": "2024-05-04",
     "twitter": "@devopsdays_kyiv",
-    "mastodon": "@devopsdays_ukraine@mastodon.social",
     "cocUrl": "https://devopsdays.com.ua/code-of-conduct/",
-    "locales": "EN"
+    "locales": "EN",
+    "mastodon": "@devopsdays_ukraine@mastodon.social"
   },
   {
     "name": "Icinga Summit",
@@ -571,6 +571,15 @@
     "locales": "EN"
   },
   {
+    "name": "Mastering Observability",
+    "url": "https://www.mastering-obs.de",
+    "startDate": "2024-06-11",
+    "endDate": "2024-06-11",
+    "online": true,
+    "cocUrl": "https://www.mastering-obs.de/code_of_conduct.php",
+    "locales": "DE"
+  },
+  {
     "name": "EuroSTAR Conference",
     "url": "https://conference.eurostarsoftwaretesting.com",
     "startDate": "2024-06-11",
@@ -583,15 +592,6 @@
     "twitter": "@esconfs",
     "cocUrl": "https://conference.eurostarsoftwaretesting.com/anti-harassment-policy/",
     "locales": "EN"
-  },
-  {
-    "name": "Mastering Observability",
-    "url": "https://www.mastering-obs.de",
-    "startDate": "2024-06-11",
-    "endDate": "2024-06-11",
-    "online": true,
-    "cocUrl": "https://www.mastering-obs.de/code_of_conduct.php",
-    "locales": "DE"
   },
   {
     "name": "World Conference on Data Science & Statistics",
@@ -791,6 +791,16 @@
     "locales": "EN"
   },
   {
+    "name": "Platform Summit",
+    "url": "https://nordicapis.com/events/platform-summit-2024",
+    "startDate": "2024-10-07",
+    "endDate": "2024-10-09",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "online": false,
+    "locales": "EN"
+  },
+  {
     "name": "DevOpsCon New York",
     "url": "https://devopscon.io/new-york",
     "startDate": "2024-10-07",
@@ -802,16 +812,6 @@
     "cfpEndDate": "2024-03-18",
     "twitter": "@devops_con",
     "cocUrl": "https://devopscon.io/code-of-conduct/",
-    "locales": "EN"
-  },
-  {
-    "name": "Platform Summit",
-    "url": "https://nordicapis.com/events/platform-summit-2024",
-    "startDate": "2024-10-07",
-    "endDate": "2024-10-09",
-    "city": "Stockholm",
-    "country": "Sweden",
-    "online": false,
     "locales": "EN"
   },
   {

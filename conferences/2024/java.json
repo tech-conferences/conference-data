@@ -251,16 +251,6 @@
     "locales": "EN"
   },
   {
-    "name": "Devoxx Belgium",
-    "url": "https://devoxx.be",
-    "startDate": "2024-10-07",
-    "endDate": "2024-10-11",
-    "city": "Antwerp",
-    "country": "Belgium",
-    "online": false,
-    "locales": "EN"
-  },
-  {
     "name": "JAX Software Architecture",
     "url": "https://devm.io/jaxnewyork",
     "startDate": "2024-10-07",
@@ -272,6 +262,16 @@
     "cfpEndDate": "2024-03-18",
     "twitter": "@jaxnewyork",
     "cocUrl": "https://devm.io/jaxnewyork/contact/#codeofconduct",
+    "locales": "EN"
+  },
+  {
+    "name": "Devoxx Belgium",
+    "url": "https://devoxx.be",
+    "startDate": "2024-10-07",
+    "endDate": "2024-10-11",
+    "city": "Antwerp",
+    "country": "Belgium",
+    "online": false,
     "locales": "EN"
   },
   {
