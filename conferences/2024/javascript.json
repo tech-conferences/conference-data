@@ -320,6 +320,17 @@
     "locales": "EN"
   },
   {
+    "name": "Frontend Nation",
+    "url": "https://frontendnation.com",
+    "startDate": "2024-06-04",
+    "endDate": "2024-06-07",
+    "online": true,
+    "cfpUrl": "https://forms.gle/NkmrpzoPESvAawq48",
+    "cfpEndDate": "2024-04-30",
+    "twitter": "@frontendnation",
+    "locales": "EN"
+  },
+  {
     "name": "SAP UI5con",
     "url": "https://openui5.org/ui5con/germany2024",
     "startDate": "2024-06-05",
@@ -649,6 +660,20 @@
     "cfpEndDate": "2024-09-30",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct",
+    "locales": "EN"
+  },
+  {
+    "name": "React Summit US",
+    "url": "https://reactsummit.us",
+    "startDate": "2024-11-18",
+    "endDate": "2024-11-21",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": true,
+    "cfpUrl": "https://forms.gle/aFJk2xHfegCqHW2b9",
+    "cfpEndDate": "2024-07-01",
+    "twitter": "@ReactSummit",
+    "cocUrl": "https://portal.gitnation.org/coc",
     "locales": "EN"
   },
   {
