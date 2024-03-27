@@ -85,5 +85,20 @@
     "twitter": "@swift_leeds",
     "cocUrl": "https://swiftleeds.co.uk/conduct",
     "locales": "EN"
+  },
+  {
+    "name": "#Pragma Conference",
+    "url": "https://pragmaconference.com",
+    "startDate": "2024-10-29",
+    "endDate": "2024-10-30",
+    "city": "Bologna",
+    "country": "Italy",
+    "online": false,
+    "cfpUrl": "https://pragmaconference.com/speakers.html",
+    "cfpEndDate": "2024-06-30",
+    "twitter": "@pragmamarkorg",
+    "mastodon": "@pragmamark@mastodon.social",
+    "cocUrl": "https://pragmaconference.com/code-of-conduct.html",
+    "locales": "EN"
   }
 ]
