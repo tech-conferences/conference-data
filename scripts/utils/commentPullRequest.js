@@ -23,6 +23,7 @@ module.exports = async function commentPullRequest(token, allErrors) {
             repo: eventContext.repo.repo,
             pull_number: prNumber,
             event: 'COMMENT',
+            body: 'Errors in PR',
             comments: comments
         };
         console.log(`Review: ${JSON.stringify(review)}`);
