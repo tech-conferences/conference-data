@@ -499,6 +499,19 @@
     "locales": "EN"
   },
   {
+    "name": "OpenInfra Day France",
+    "url": "https://oideurope2024.openinfra.dev/france",
+    "startDate": "2024-05-22",
+    "endDate": "2024-05-22",
+    "city": "Paris",
+    "country": "France",
+    "online": false,
+    "cfpUrl": "https://openinfrafoundation.formstack.com/forms/2024_openinfra_days_france_cfp",
+    "cfpEndDate": "2024-04-12",
+    "twitter": "@openstackfr",
+    "locales": "EN,FR"
+  },
+  {
     "name": "Devopsdays Montreal",
     "url": "https://devopsdays.org/events/2024-montreal/welcome/",
     "startDate": "2024-05-27",
