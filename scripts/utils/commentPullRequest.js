@@ -26,7 +26,7 @@ module.exports = async function commentPullRequest(token, allErrors) {
             comments: comments
         });
     } catch (error) {
-        console.error(`Unable to comment on Pull Request: ${error}`);
+        console.error(`Unable to comment on Pull Request: ${error} with comments: ${JSON.stringify(comments)}`);
     } finally {
         process.exitCode = 1;
         process.exit(1);
