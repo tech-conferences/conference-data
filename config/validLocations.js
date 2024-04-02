@@ -536,6 +536,7 @@ module.exports = {
   "Sweden": [
     "Gothenburg",
     "Helsingborg",
+    "Kalmar",
     "Malmö",
     "Stockholm"
   ],

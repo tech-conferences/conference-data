@@ -339,18 +339,6 @@
     "locales": "EN"
   },
   {
-    "name": "QCon",
-    "url": "https://qconsf.com/medialisting2024",
-    "startDate": "2024-11-18",
-    "endDate": "2024-11-22",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "cocUrl": "https://qconferences.com/code-conduct",
-    "locales": "EN",
-    "mastodon": "@techhub.social@qcon"
-  },
-  {
     "name": "React Summit US",
     "url": "https://reactsummit.us",
     "startDate": "2024-11-18",
@@ -363,6 +351,18 @@
     "twitter": "@ReactSummit",
     "cocUrl": "https://portal.gitnation.org/coc",
     "locales": "EN"
+  },
+  {
+    "name": "QCon",
+    "url": "https://qconsf.com/medialisting2024",
+    "startDate": "2024-11-18",
+    "endDate": "2024-11-22",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "cocUrl": "https://qconferences.com/code-conduct",
+    "locales": "EN",
+    "mastodon": "@techhub.social@qcon"
   },
   {
     "name": "Open Source Monitoring Conference",
