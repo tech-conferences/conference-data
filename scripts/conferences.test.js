@@ -55,7 +55,7 @@ for (const year of Object.keys(conferencesJSON)) {
         function reportDuplicate(error, message) {
             const duplicateConference = error.otherConference;
             for (const stack of error.conference.stacks) {
-                reportError(year, stack, duplicateConference, 'name', duplicateConference.name, message);
+                pushError(year, stack, 1, message, duplicateConference.name);
             }
         }
         for (const duplicate of errorsOfYear.duplicates) {
