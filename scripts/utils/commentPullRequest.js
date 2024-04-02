@@ -18,13 +18,15 @@ module.exports = async function commentPullRequest(token, allErrors) {
         };
     });
     try {
-        await octokit.pulls.createReview({
+        const review = {
             owner: eventContext.repo.owner,
             repo: eventContext.repo.repo,
             pull_number: prNumber,
             event: 'COMMENT',
             comments: comments
-        });
+        };
+        console.log(`Review: ${JSON.stringify(review)}`);
+        await octokit.pulls.createReview(review);
     } catch (error) {
         console.error(`Unable to comment on Pull Request: ${error} with comments: ${JSON.stringify(comments)}`);
     } finally {
