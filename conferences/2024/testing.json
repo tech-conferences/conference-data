@@ -60,25 +60,24 @@
     "locales": "EN"
   },
   {
-    "name": "The Premier Online Conference For Software Testing",
+    "name": "Live2Test - The Premier Online Conference For Software Testing",
     "url": "https://live2test.com/",
     "startDate": "2024-05-21",
     "endDate": "2024-05-22",
-    "city": "İstanbul",
+    "city": "Istanbul",
     "country": "Turkey",
     "online": true,
     "locales": "TR"
   },
   {
-    "name": "İstanbul Software Testing Conference",
+    "name": "Istanbul Software Testing Conference",
     "url": "https://iststc.com/",
     "startDate": "2024-05-23",
     "endDate": "2024-05-24",
-    "city": "İstanbul",
+    "city": "Istanbul",
     "country": "Turkey",
-    "location": "İstanbul, Turkey",
-    "locales": "TR",
     "online": false,
+    "locales": "TR"
   },
   {
     "name": "EuroSTAR Conference",
@@ -173,11 +172,11 @@
     "locales": "EN"
   },
   {
-    "name": "Test İstanbul",
+    "name": "Test Istanbul",
     "url": "https://testistanbul.org/",
     "startDate": "2024-10-10",
     "endDate": "2024-10-11",
-    "city": "İstanbul",
+    "city": "Istanbul",
     "country": "Turkey",
     "online": true,
     "locales": "TR"
