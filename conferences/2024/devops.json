@@ -376,6 +376,18 @@
     "cocUrl": "https://devopsdays.org/events/2024-geneva/conduct"
   },
   {
+    "name": "Service Mesh Camp",
+    "url": "https://devops-training.de/service-mesh-camp",
+    "startDate": "2024-05-13",
+    "endDate": "2024-05-15",
+    "city": "Munich",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@Kubernetes_Camp",
+    "cocUrl": "https://devops-training.de/de/code-of-conduct/",
+    "locales": "DE"
+  },
+  {
     "name": "Devopsdays Philadelphia",
     "url": "https://devopsdays.org/events/2024-philadelphia/welcome/",
     "startDate": "2024-05-14",
