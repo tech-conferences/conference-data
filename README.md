@@ -49,6 +49,7 @@ Conference data have the following structure:
 - [See all GraphQL conferences](https://confs.tech/graphql)
 - [See all Groovy conferences](https://confs.tech/groovy)
 - [See all Haskell conferences](https://confs.tech/haskell)
+- [See all Identity conferences](https://confs.tech/identity)
 - [See all iOS conferences](https://confs.tech/ios)
 - [See all IoT conferences](https://confs.tech/iot)
 - [See all JavaScript conferences](https://confs.tech/javascript)
