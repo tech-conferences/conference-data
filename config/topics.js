@@ -16,6 +16,7 @@ module.exports = [
   "graphql",
   "groovy",
   "haskell",
+  "identity",
   "ios",
   "iot",
   "java",
