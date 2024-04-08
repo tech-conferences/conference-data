@@ -385,6 +385,7 @@ module.exports = {
     "Amsterdam",
     "Den Haag",
     "Ede",
+    "Delft",
     "Eindhoven",
     "Groningen",
     "Hilversum",
