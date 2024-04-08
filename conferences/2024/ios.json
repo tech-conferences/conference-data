@@ -37,6 +37,20 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "/dev/world",
+    "url": "https://auc.edu.au/devworld",
+    "startDate": "2024-05-08",
+    "endDate": "2024-05-10",
+    "city": "Melbourne",
+    "country": "Australia",
+    "online": false,
+    "cfpUrl": "https://auc.edu.au/devworld/cfp",
+    "cfpEndDate": "2024-04-06",
+    "twitter": "@AUC_ANZ",
+    "cocUrl": "https://auc.edu.au/policies/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "iOSKonf",
     "url": "https://www.ioskonf.mk",
     "startDate": "2024-05-14",
