@@ -265,7 +265,7 @@
     "url": "https://act.yapc.eu/gpw2024",
     "startDate": "2024-04-15",
     "endDate": "2024-04-17",
-    "city": "Frankfurt",
+    "city": "Frankfurt am Main",
     "country": "Germany",
     "online": false,
     "cfpUrl": "https://act.yapc.eu/gpw2024/cfp.html",
@@ -936,5 +936,20 @@
     "twitter": "@open_conf",
     "cocUrl": "https://www.open-conf.gr/code-of-conduct/",
     "locales": "EN"
+  },
+  {
+    "name": "IT-Tage",
+    "url": "https://www.it-tage.org",
+    "startDate": "2024-12-09",
+    "endDate": "2024-12-12",
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://www.it-tage.org/cfp",
+    "cfpEndDate": "2024-04-29",
+    "twitter": "@ittage",
+    "mastodon": "@informatikaktuell@det.social",
+    "cocUrl": "https://www.ittage.informatik-aktuell.de/konferenz/code-of-coduct.html",
+    "locales": "DE,EN"
   }
 ]

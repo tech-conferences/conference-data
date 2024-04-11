@@ -202,7 +202,7 @@ module.exports = {
     "Düsseldorf",
     "Erlangen",
     "Essen",
-    "Frankfurt",
+    "Frankfurt am Main",
     "Freiburg",
     "Giessen",
     "Hamburg",

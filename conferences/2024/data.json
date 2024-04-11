@@ -310,6 +310,16 @@
     "locales": "EN"
   },
   {
+    "name": "GOSIM",
+    "url": "https://europe2024.gosim.org",
+    "startDate": "2024-05-06",
+    "endDate": "2024-05-06",
+    "city": "Delft",
+    "country": "Netherlands",
+    "online": false,
+    "locales": "EN"
+  },
+  {
     "name": "Devoxx UK",
     "url": "https://www.devoxx.co.uk",
     "startDate": "2024-05-08",
@@ -566,6 +576,18 @@
     "mastodon": "@Swiss_PGDay@fosstodon.org"
   },
   {
+    "name": "Turing Fest",
+    "url": "https://turingfest.com",
+    "startDate": "2024-07-09",
+    "endDate": "2024-07-10",
+    "city": "Edinburgh",
+    "country": "U.K.",
+    "online": false,
+    "twitter": "@turingfest",
+    "cocUrl": "https://turingfest.com/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "DataConnect Conference",
     "url": "https://www.dataconnectconf.com",
     "startDate": "2024-07-11",
@@ -649,6 +671,19 @@
     "online": false,
     "cocUrl": "https://techheads.se/code-of-conduct/",
     "locales": "EN"
+  },
+  {
+    "name": "hayaData",
+    "url": "https://www.haya-data.com",
+    "startDate": "2024-09-24",
+    "endDate": "2024-09-24",
+    "city": "Tel Aviv",
+    "country": "Israel",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/hayadata-2024",
+    "cfpEndDate": "2024-05-18",
+    "cocUrl": "https://www.haya-data.com/code-of-conduct/",
+    "locales": "EN,HE"
   },
   {
     "name": "MLCon New York",
