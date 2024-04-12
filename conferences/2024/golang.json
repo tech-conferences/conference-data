@@ -35,6 +35,20 @@
     "locales": "EN,RU"
   },
   {
+    "name": "GopherCon UK",
+    "url": "https://www.gophercon.co.uk",
+    "startDate": "2024-08-14",
+    "endDate": "2024-08-16",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/gophercon-uk-2024",
+    "cfpEndDate": "2024-05-17",
+    "twitter": "@gopherconuk",
+    "cocUrl": "https://www.gophercon.co.uk/conduct",
+    "locales": "EN"
+  },
+  {
     "name": "GoLab",
     "url": "https://golab.io",
     "startDate": "2024-11-11",
