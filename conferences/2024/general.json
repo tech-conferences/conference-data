@@ -814,6 +814,20 @@
     "locales": "EN"
   },
   {
+    "name": "JoomlaDay DACH",
+    "url": "https://dach.joomladay.org",
+    "startDate": "2024-09-20",
+    "endDate": "2024-09-21",
+    "city": "Hamburg",
+    "country": "Germany",
+    "online": false,
+    "cfpUrl": "https://dach.joomladay.org/vortrag-einreichen",
+    "cfpEndDate": "2024-06-15",
+    "twitter": "@joomlatag",
+    "mastodon": "@jddach@joom.la",
+    "locales": "EN,DE"
+  },
+  {
     "name": "TechHeads Conference",
     "url": "https://techheads.se",
     "startDate": "2024-09-24",
