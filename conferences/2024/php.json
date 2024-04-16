@@ -182,6 +182,18 @@
     "locales": "EN"
   },
   {
+    "name": "CakeFest",
+    "url": "https://cakefest.org",
+    "startDate": "2024-07-24",
+    "endDate": "2024-07-26",
+    "city": "Esch Sur Alzette",
+    "country": "Luxembourg",
+    "online": true,
+    "twitter": "@cakephp",
+    "cocUrl": "https://cakefest.org/conduct",
+    "locales": "EN"
+  },
+  {
     "name": "Laravel Live Denmark",
     "url": "https://laravellive.dk",
     "startDate": "2024-08-22",
