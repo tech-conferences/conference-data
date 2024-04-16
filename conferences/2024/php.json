@@ -168,6 +168,17 @@
     "mastodon": "@symfony@mastodon.social"
   },
   {
+    "name": "PHP Conference Fukuoka",
+    "url": "https://phpcon.fukuoka.jp/2024",
+    "startDate": "2024-06-22",
+    "endDate": "2024-06-22",
+    "city": "Fukuoka",
+    "country": "Japan",
+    "online": false,
+    "twitter": "@phpcon_fukuoka",
+    "locales": "JA"
+  },
+  {
     "name": "Web Summer Camp",
     "url": "https://websummercamp.com",
     "startDate": "2024-07-04",
