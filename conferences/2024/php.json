@@ -194,5 +194,17 @@
     "twitter": "@laravellivedk",
     "cocUrl": "https://laravellive.dk/code-of-conduct",
     "locales": "EN"
+  },
+  {
+    "name": "SymfonyLive Berlin",
+    "url": "https://live.symfony.com/2024-berlin",
+    "startDate": "2024-12-03",
+    "endDate": "2024-12-06",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@symfony_live",
+    "cocUrl": "https://symfony.com/care",
+    "locales": "EN"
   }
 ]
