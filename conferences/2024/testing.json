@@ -108,6 +108,18 @@
     "locales": "EN,ES,GL,PT"
   },
   {
+    "name": "Selenium Conf Online",
+    "url": "https://2024.seleniumconf.in",
+    "startDate": "2024-06-21",
+    "endDate": "2024-06-21",
+    "online": true,
+    "cfpUrl": "https://2024.seleniumconf.in/submit-a-proposal",
+    "cfpEndDate": "2024-04-30",
+    "twitter": "@seleniumconf",
+    "cocUrl": "https://2024.seleniumconf.in/code-of-conduct",
+    "locales": "EN"
+  },
+  {
     "name": "NZTestingConf",
     "url": "https://nztestingconf.nz",
     "startDate": "2024-06-27",
