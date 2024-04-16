@@ -168,6 +168,16 @@
     "mastodon": "@symfony@mastodon.social"
   },
   {
+    "name": "SymfonyOnline",
+    "url": "https://live.symfony.com/2024-online-june",
+    "startDate": "2024-06-06",
+    "endDate": "2024-06-07",
+    "online": true,
+    "twitter": "@SymfonyCon",
+    "cocUrl": "https://symfony.com/care",
+    "locales": "EN"
+  },
+  {
     "name": "Web Summer Camp",
     "url": "https://websummercamp.com",
     "startDate": "2024-07-04",
