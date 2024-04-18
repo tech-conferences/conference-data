@@ -168,6 +168,17 @@
     "mastodon": "@symfony@mastodon.social"
   },
   {
+    "name": "PHP Conference Fukuoka",
+    "url": "https://phpcon.fukuoka.jp/2024",
+    "startDate": "2024-06-22",
+    "endDate": "2024-06-22",
+    "city": "Fukuoka",
+    "country": "Japan",
+    "online": false,
+    "twitter": "@phpcon_fukuoka",
+    "locales": "JA"
+  },
+  {
     "name": "Web Summer Camp",
     "url": "https://websummercamp.com",
     "startDate": "2024-07-04",
@@ -206,6 +217,18 @@
     "cfpUrl": "https://live.symfony.com/2024-vienna-con/cfp",
     "cfpEndDate": "2024-09-02",
     "twitter": "@SymfonyCon",
+    "cocUrl": "https://symfony.com/care",
+    "locales": "EN"
+  },
+  {
+    "name": "SymfonyLive Berlin",
+    "url": "https://live.symfony.com/2024-berlin",
+    "startDate": "2024-12-03",
+    "endDate": "2024-12-06",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@symfony_live",
     "cocUrl": "https://symfony.com/care",
     "locales": "EN"
   }
