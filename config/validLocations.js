@@ -325,6 +325,7 @@ module.exports = {
     "Mie",
     "Nagano",
     "Sendai",
+    "Takamatsu",
     "Tokyo"
   ],
   "Jordan": [
