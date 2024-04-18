@@ -345,6 +345,10 @@ module.exports = {
     "Jurmala",
     "Riga"
   ],
+  "Luxembourg": [
+    "Esch-sur-Alzette",
+    "Luxembourg"
+  ],
   "Lithuania": [
     "Vilnius"
   ],

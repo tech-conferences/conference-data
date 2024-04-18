@@ -1,5 +1,16 @@
 [
-    {
+  {
+    "name": "authenticon",
+    "url": "https://authenticon.io/",
+    "startDate": "2024-03-06",
+    "endDate": "2024-03-07",
+    "city": "Dresden",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@authenticondd",
+    "locales": "DE,EN"
+  },
+  {
     "name": "IIW Internet Identity Workshop",
     "url": "https://internetidentityworkshop.com/",
     "startDate": "2024-04-16",
@@ -54,16 +65,5 @@
     "online": false,
     "twitter": "@AuthenticateCon",
     "locales": "EN"
-  },
-  {
-    "name": "authenticon",
-    "url": "https://authenticon.io/",
-    "startDate": "2024-03-06",
-    "endDate": "2024-03-07",
-    "city": "Dresden",
-    "country": "Germany",
-    "online": false,
-    "twitter": "@authenticondd",
-    "locales": "DE,EN"
   }
 ]

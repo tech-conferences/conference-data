@@ -413,6 +413,16 @@
     "locales": "EN"
   },
   {
+    "name": "CODE100 Manchester",
+    "url": "https://www.wearedevelopers.com/events/code100",
+    "startDate": "2024-05-22",
+    "endDate": "2024-05-22",
+    "city": "Manchester",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN"
+  },
+  {
     "name": "KCD New York",
     "url": "https://community.cncf.io/events/details/cncf-kcd-new-york-presents-kcd-new-york-2024",
     "startDate": "2024-05-22",
@@ -433,16 +443,6 @@
     "endDate": "2024-05-22",
     "online": true,
     "twitter": "@WeAreDevs",
-    "locales": "EN"
-  },
-  {
-    "name": "CODE100 Manchester",
-    "url": "https://www.wearedevelopers.com/events/code100",
-    "startDate": "2024-05-22",
-    "endDate": "2024-05-22",
-    "city": "Manchester",
-    "country": "U.K.",
-    "online": false,
     "locales": "EN"
   },
   {
@@ -824,8 +824,8 @@
     "cfpUrl": "https://dach.joomladay.org/vortrag-einreichen",
     "cfpEndDate": "2024-06-15",
     "twitter": "@joomlatag",
-    "mastodon": "@jddach@joom.la",
-    "locales": "EN,DE"
+    "locales": "EN,DE",
+    "mastodon": "@jddach@joom.la"
   },
   {
     "name": "TechHeads Conference",
@@ -839,6 +839,15 @@
     "locales": "EN"
   },
   {
+    "name": "betterCode() ArchDoc",
+    "url": "https://archdoc.bettercode.eu",
+    "startDate": "2024-09-30",
+    "endDate": "2024-09-30",
+    "online": true,
+    "cocUrl": "https://archdoc.bettercode.eu/code_of_conduct.php",
+    "locales": "DE"
+  },
+  {
     "name": "GOTO Copenhagen",
     "url": "https://gotocph.com/2024",
     "startDate": "2024-09-30",
@@ -849,15 +858,6 @@
     "twitter": "@@GOTOcon",
     "cocUrl": "https://gotocph.com/2024/code-of-conduct",
     "locales": "EN"
-  },
-  {
-    "name": "betterCode() ArchDoc",
-    "url": "https://archdoc.bettercode.eu",
-    "startDate": "2024-09-30",
-    "endDate": "2024-09-30",
-    "online": true,
-    "cocUrl": "https://archdoc.bettercode.eu/code_of_conduct.php",
-    "locales": "DE"
   },
   {
     "name": "SmashingConf New York",
@@ -964,8 +964,8 @@
     "cfpUrl": "https://www.it-tage.org/cfp",
     "cfpEndDate": "2024-04-29",
     "twitter": "@ittage",
-    "mastodon": "@informatikaktuell@det.social",
     "cocUrl": "https://www.ittage.informatik-aktuell.de/konferenz/code-of-coduct.html",
-    "locales": "DE,EN"
+    "locales": "DE,EN",
+    "mastodon": "@informatikaktuell@det.social"
   }
 ]
