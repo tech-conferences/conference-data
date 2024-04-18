@@ -207,6 +207,20 @@
     "locales": "EN"
   },
   {
+    "name": "SymfonyCon Vienna",
+    "url": "https://live.symfony.com/2024-vienna-con",
+    "startDate": "2024-12-03",
+    "endDate": "2024-12-06",
+    "city": "Vienna",
+    "country": "Austria",
+    "online": false,
+    "cfpUrl": "https://live.symfony.com/2024-vienna-con/cfp",
+    "cfpEndDate": "2024-09-02",
+    "twitter": "@SymfonyCon",
+    "cocUrl": "https://symfony.com/care",
+    "locales": "EN"
+  },
+  {
     "name": "SymfonyLive Berlin",
     "url": "https://live.symfony.com/2024-berlin",
     "startDate": "2024-12-03",
