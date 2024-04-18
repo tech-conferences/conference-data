@@ -52,6 +52,7 @@ module.exports = {
     "Belo Horizonte",
     "Campinas",
     "Curitiba",
+    "Chapecó",
     "Feira De Santana",
     "Florianópolis",
     "Fortaleza",
