@@ -715,6 +715,20 @@
     "locales": "EN"
   },
   {
+    "name": "International JavaScript Conference",
+    "url": "https://javascript-conference.com/singapore",
+    "startDate": "2024-11-25",
+    "endDate": "2024-11-28",
+    "city": "Singapore",
+    "country": "Singapore",
+    "online": true,
+    "cfpUrl": "https://javascript-conference.com/singapore/call-for-papers-sing",
+    "cfpEndDate": "2024-05-13",
+    "twitter": "@JavaScriptCon",
+    "cocUrl": "https://javascript-conference.com/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "Frontend Barcelona Conference",
     "url": "https://frontend.barcelona",
     "startDate": "2024-12-03",
