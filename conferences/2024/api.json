@@ -232,6 +232,18 @@
     "mastodon": "@apidaysglobal@mastodon.social"
   },
   {
+    "name": "API Conference Berlin",
+    "url": "https://apiconference.net/berlin",
+    "startDate": "2024-10-21",
+    "endDate": "2024-10-23",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "twitter": "@api_conference",
+    "cocUrl": "https://apiconference.net/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "Apidays Paris",
     "url": "https://www.apidays.global/paris",
     "startDate": "2024-12-03",
