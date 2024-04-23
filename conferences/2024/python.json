@@ -171,6 +171,19 @@
     "locales": "EN"
   },
   {
+    "name": "DjangoCon US",
+    "url": "https://2024.djangocon.us",
+    "startDate": "2024-09-22",
+    "endDate": "2024-09-27",
+    "online": true,
+    "cfpUrl": "https://pretalx.com/djangocon-us-2024/cfp",
+    "cfpEndDate": "2024-04-29",
+    "twitter": "@djangocon",
+    "mastodon": "@djangocon@fosstodon.org",
+    "cocUrl": "https://github.com/djangocon/2024.djangocon.us/blob/main/CODE_OF_CONDUCT.md",
+    "locales": "EN"
+  },
+  {
     "name": "dotPy",
     "url": "https://www.dotpy.io",
     "startDate": "2024-10-16",
