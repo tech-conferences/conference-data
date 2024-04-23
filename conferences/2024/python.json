@@ -171,6 +171,21 @@
     "locales": "EN"
   },
   {
+    "name": "DjangoCon US",
+    "url": "https://2024.djangocon.us",
+    "startDate": "2024-09-22",
+    "endDate": "2024-09-27",
+    "city": "Durham, NC",
+    "country": "U.S.A.",
+    "online": true,
+    "cfpUrl": "https://2024.djangocon.us/speaking/",
+    "cfpEndDate": "2024-04-24",
+    "twitter": "@djangocon",
+    "cocUrl": "https://github.com/djangocon/2024.djangocon.us/blob/main/CODE_OF_CONDUCT.md",
+    "locales": "EN",
+    "mastodon": "@djangocon@fosstodon.org"
+  },
+  {
     "name": "dotPy",
     "url": "https://www.dotpy.io",
     "startDate": "2024-10-16",
