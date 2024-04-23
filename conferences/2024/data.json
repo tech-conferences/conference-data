@@ -658,20 +658,6 @@
     "offersSignLanguageOrCC": true
   },
   {
-    "name": "GraphQLConf",
-    "url": "https://graphql.org/conf/2024",
-    "startDate": "2024-09-10",
-    "endDate": "2024-09-12",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://graphql.org/conf/2024/speak",
-    "cfpEndDate": "2024-05-22",
-    "twitter": "@graphql",
-    "cocUrl": "https://graphql.org/conf/2024/speak/#code-of-conduct",
-    "locales": "EN"
-  },
-  {
     "name": "Civo Navigate Europe",
     "url": "https://www.civo.com/navigate/europe",
     "startDate": "2024-09-10",
@@ -686,6 +672,20 @@
     "locales": "EN"
   },
   {
+    "name": "GraphQLConf",
+    "url": "https://graphql.org/conf/2024",
+    "startDate": "2024-09-10",
+    "endDate": "2024-09-12",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://graphql.org/conf/2024/speak",
+    "cfpEndDate": "2024-05-22",
+    "twitter": "@graphql",
+    "cocUrl": "https://graphql.org/conf/2024/speak/#code-of-conduct",
+    "locales": "EN"
+  },
+  {
     "name": "PGDay UK",
     "url": "https://pgday.uk/",
     "startDate": "2024-09-11",
@@ -694,16 +694,6 @@
     "country": "U.K.",
     "online": false,
     "twitter": "@pgdaylowlands",
-    "locales": "EN"
-  },
-    {
-    "name": "PGDay Lowlands",
-    "url": "https://pgday.nl/",
-    "startDate": "2024-09-13",
-    "endDate": "2024-09-13",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "online": false,
     "locales": "EN"
   },
   {
@@ -763,9 +753,9 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@pgconfnyc",
     "cfpUrl": "https://postgresql.us/events/pgconfnyc2024/",
     "cfpEndDate": "2024-06-05",
+    "twitter": "@pgconfnyc",
     "cocUrl": "https://2024.pgconf.nyc/policies/",
     "locales": "EN"
   },
@@ -809,17 +799,6 @@
     "locales": "EN"
   },
   {
-    "name": "ML in PL Conference",
-    "url": "https://conference.mlinpl.org",
-    "startDate": "2024-11-07",
-    "endDate": "2024-11-10",
-    "city": "Warsaw",
-    "country": "Poland",
-    "online": false,
-    "twitter": "@MLinPL",
-    "locales": "EN,PL"
-  },
-  {
     "name": "NODES",
     "url": "https://neo4j.com/nodes-2024",
     "startDate": "2024-11-07",
@@ -829,6 +808,17 @@
     "cfpEndDate": "2024-06-15",
     "twitter": "@neo4j",
     "locales": "EN"
+  },
+  {
+    "name": "ML in PL Conference",
+    "url": "https://conference.mlinpl.org",
+    "startDate": "2024-11-07",
+    "endDate": "2024-11-10",
+    "city": "Warsaw",
+    "country": "Poland",
+    "online": false,
+    "twitter": "@MLinPL",
+    "locales": "EN,PL"
   },
   {
     "name": "Conf42 Prompt Engineering",
