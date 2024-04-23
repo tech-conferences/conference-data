@@ -411,6 +411,17 @@
     "locales": "EN"
   },
   {
+    "name": "PGConf.dev",
+    "url": "https://2024.pgconf.dev/",
+    "startDate": "2024-05-28",
+    "endDate": "2024-05-31",
+    "city": "Vancouver",
+    "country": "Canada",
+    "twitter": "@pgconfdev",
+    "cocUrl": "https://2024.pgconf.dev/coc/",
+    "locales": "EN"
+  },
+  {
     "name": "AI DevSummit",
     "url": "https://aidevsummit.co",
     "startDate": "2024-05-29",
@@ -494,6 +505,18 @@
     "twitter": "@Data_AI_Summit",
     "cocUrl": "https://www.databricks.com/dataaisummit/code-of-conduct",
     "locales": "EN"
+  },
+  {
+    "name": "PGDay France",
+    "url": "https://pgday.fr/index.html",
+    "startDate": "2024-06-11",
+    "endDate": "2024-06-12",
+    "city": "Lille",
+    "country": "France",
+    "online": false,
+    "twitter": "@PGDAY_Fr",
+    "cocUrl": "https://pgday.fr/codedeconduite",
+    "locales": "FR"
   },
   {
     "name": "World Conference on Data Science & Statistics",
@@ -649,6 +672,17 @@
     "locales": "EN"
   },
   {
+    "name": "PGDay UK",
+    "url": "https://pgday.uk/",
+    "startDate": "2024-09-11",
+    "endDate": "2024-09-11",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "twitter": "@pgdaylowlands",
+    "locales": "EN"
+  },
+  {
     "name": "GraphQLConf",
     "url": "https://graphql.org/conf/2024",
     "startDate": "2024-09-10",
@@ -710,6 +744,20 @@
     "cfpEndDate": "2024-05-18",
     "cocUrl": "https://www.haya-data.com/code-of-conduct/",
     "locales": "EN,HE"
+  },
+  {
+    "name": "PGConf NYC",
+    "url": "https://2024.pgconf.nyc/",
+    "startDate": "2024-09-30",
+    "endDate": "2024-10-02",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://postgresql.us/events/pgconfnyc2024/",
+    "cfpEndDate": "2024-06-05",
+    "twitter": "@pgconfnyc",
+    "cocUrl": "https://2024.pgconf.nyc/policies/",
+    "locales": "EN"
   },
   {
     "name": "MLCon New York",
