@@ -175,13 +175,15 @@
     "url": "https://2024.djangocon.us",
     "startDate": "2024-09-22",
     "endDate": "2024-09-27",
+    "city": "Durham, NC",
+    "country": "U.S.A.",
     "online": true,
-    "cfpUrl": "https://pretalx.com/djangocon-us-2024/cfp",
-    "cfpEndDate": "2024-04-29",
+    "cfpUrl": "https://2024.djangocon.us/speaking/",
+    "cfpEndDate": "2024-04-24",
     "twitter": "@djangocon",
-    "mastodon": "@djangocon@fosstodon.org",
     "cocUrl": "https://github.com/djangocon/2024.djangocon.us/blob/main/CODE_OF_CONDUCT.md",
-    "locales": "EN"
+    "locales": "EN",
+    "mastodon": "@djangocon@fosstodon.org"
   },
   {
     "name": "dotPy",
