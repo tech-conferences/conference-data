@@ -446,6 +446,17 @@
     "locales": "EN"
   },
   {
+    "name": "Craft IT",
+    "url": "https://craft-it.pl",
+    "startDate": "2024-05-25",
+    "endDate": "2024-05-25",
+    "city": "Rzeszów",
+    "country": "Poland",
+    "online": false,
+    "twitter": "@craftit_pl",
+    "locales": "PL"
+  },
+  {
     "name": "Highload fwdays",
     "url": "https://fwdays.com/en/event/highload-fwdays-2024",
     "startDate": "2024-05-25",
@@ -912,6 +923,20 @@
     "locales": "EN",
     "mastodon": "@smashingconf@mastodon.social",
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "PASS Data Community Summit",
+    "url": "https://passdatacommunitysummit.com",
+    "startDate": "2024-11-04",
+    "endDate": "2024-11-08",
+    "city": "Seattle, WA",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://passdatacommunitysummit.com/about/news/2024-calls-for-speakers-volunteers-are-now-open",
+    "cfpEndDate": "2024-04-10",
+    "twitter": "@PASSDataSummit",
+    "cocUrl": "https://passdatacommunitysummit.com/about/code-of-conduct/",
+    "locales": "EN"
   },
   {
     "name": "Heapcon",

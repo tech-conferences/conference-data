@@ -672,6 +672,17 @@
     "locales": "EN"
   },
   {
+    "name": "PGDay UK",
+    "url": "https://pgday.uk/",
+    "startDate": "2024-09-11",
+    "endDate": "2024-09-11",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "twitter": "@pgdaylowlands",
+    "locales": "EN"
+  },
+  {
     "name": "GraphQLConf",
     "url": "https://graphql.org/conf/2024",
     "startDate": "2024-09-10",
@@ -683,17 +694,6 @@
     "cfpEndDate": "2024-05-22",
     "twitter": "@graphql",
     "cocUrl": "https://graphql.org/conf/2024/speak/#code-of-conduct",
-    "locales": "EN"
-  },
-  {
-    "name": "PGDay UK",
-    "url": "https://pgday.uk/",
-    "startDate": "2024-09-11",
-    "endDate": "2024-09-11",
-    "city": "London",
-    "country": "U.K.",
-    "online": false,
-    "twitter": "@pgdaylowlands",
     "locales": "EN"
   },
   {
@@ -785,17 +785,6 @@
     "cfpEndDate": "2024-04-30",
     "twitter": "@dotaiconf",
     "cocUrl": "https://www.dotai.io/code-of-conduct",
-    "locales": "EN"
-  },
-  {
-    "name": "PGConf EU",
-    "url": "https://2024.pgconf.eu/",
-    "startDate": "2024-10-22",
-    "endDate": "2024-10-25",
-    "city": "Athens",
-    "country": "Greece",
-    "online": false,
-    "twitter": "@pgconfeu",
     "locales": "EN"
   },
   {

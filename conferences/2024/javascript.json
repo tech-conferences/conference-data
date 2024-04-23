@@ -585,6 +585,20 @@
     "locales": "EN"
   },
   {
+    "name": "JSConf Chile",
+    "url": "https://www.jsconf.cl",
+    "startDate": "2024-09-05",
+    "endDate": "2024-09-07",
+    "city": "Santiago",
+    "country": "Chile",
+    "online": false,
+    "cfpUrl": "https://www.jsconf.cl/cfp",
+    "cfpEndDate": "2024-05-11",
+    "twitter": "@jsconfcl",
+    "cocUrl": "https://github.com/jsconfcl/code_of_conduct",
+    "locales": "EN,ES"
+  },
+  {
     "name": "UtahJS Conf",
     "url": "https://utahjs.com/conference",
     "startDate": "2024-09-13",
