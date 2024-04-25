@@ -650,6 +650,7 @@ module.exports = {
     "Columbia, SC",
     "Columbus, GA",
     "Columbus, OH",
+    "Cupertino, CA",
     "Dallas, TX",
     "Dayton, OH",
     "Denver, CO",

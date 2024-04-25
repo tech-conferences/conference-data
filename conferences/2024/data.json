@@ -672,17 +672,6 @@
     "locales": "EN"
   },
   {
-    "name": "PGDay UK",
-    "url": "https://pgday.uk/",
-    "startDate": "2024-09-11",
-    "endDate": "2024-09-11",
-    "city": "London",
-    "country": "U.K.",
-    "online": false,
-    "twitter": "@pgdaylowlands",
-    "locales": "EN"
-  },
-  {
     "name": "GraphQLConf",
     "url": "https://graphql.org/conf/2024",
     "startDate": "2024-09-10",
@@ -694,6 +683,17 @@
     "cfpEndDate": "2024-05-22",
     "twitter": "@graphql",
     "cocUrl": "https://graphql.org/conf/2024/speak/#code-of-conduct",
+    "locales": "EN"
+  },
+  {
+    "name": "PGDay UK",
+    "url": "https://pgday.uk/",
+    "startDate": "2024-09-11",
+    "endDate": "2024-09-11",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "twitter": "@pgdaylowlands",
     "locales": "EN"
   },
   {
