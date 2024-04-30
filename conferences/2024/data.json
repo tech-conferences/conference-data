@@ -831,6 +831,18 @@
     "locales": "EN,PL"
   },
   {
+    "name": "Update Conference Prague",
+    "url": "https://www.updateconference.net",
+    "startDate": "2024-11-14",
+    "endDate": "2024-11-15",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "online": true,
+    "twitter": "@update_conf",
+    "cocUrl": "https://www.updateconference.net/en/code-of-conduct",
+    "locales": "EN"
+  },
+  {
     "name": "Conf42 Prompt Engineering",
     "url": "https://www.conf42.com/prompt2024",
     "startDate": "2024-11-21",
