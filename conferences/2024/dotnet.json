@@ -124,6 +124,18 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Update Conference Prague",
+    "url": "https://www.updateconference.net",
+    "startDate": "2024-11-14",
+    "endDate": "2024-11-15",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "online": true,
+    "twitter": "@update_conf",
+    "cocUrl": "https://www.updateconference.net/en/code-of-conduct",
+    "locales": "EN"
+  },
+  {
     "name": "betterCode() .NET 9.0",
     "url": "https://net.bettercode.eu",
     "startDate": "2024-11-19",
