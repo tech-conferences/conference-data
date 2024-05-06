@@ -94,6 +94,20 @@
     "mastodon": "@apidaysglobal@mastodon.social"
   },
   {
+    "name": "GraphQL Summit",
+    "url": "https://summit.graphql.com",
+    "startDate": "2024-10-08",
+    "endDate": "2024-10-10",
+    "city": "New York, Ny",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://reg.summit.graphql.com/flow/apollo/summit24/speaker-landing-page/page/home",
+    "cfpEndDate": "2024-05-20",
+    "twitter": "@graphqlsummit",
+    "cocUrl": "https://www.apollographql.com/docs/community/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "Apidays Australia",
     "url": "https://www.apidays.global/australia",
     "startDate": "2024-10-16",
