@@ -394,6 +394,20 @@
     "locales": "EN"
   },
   {
+    "name": "JS Conf Armenia",
+    "url": "https://jsconf.am",
+    "startDate": "2024-06-09",
+    "endDate": "2024-06-09",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "online": false,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdccia2sNblqLaCFpwONao35vxpNSkSp6wwoN3lqXpHyKUacA/viewform",
+    "cfpEndDate": "2024-05-10",
+    "twitter": "@JSConfAM",
+    "cocUrl": "https://github.com/JSConfArmenia/conf-19/blob/master/CODE_OF_CONDUCT.md",
+    "locales": "EN"
+  },
+  {
     "name": "EuroSTAR Conference",
     "url": "https://conference.eurostarsoftwaretesting.com",
     "startDate": "2024-06-11",
@@ -585,6 +599,29 @@
     "locales": "EN"
   },
   {
+    "name": "Middlesbrough Front End Conference",
+    "url": "https://middlesbroughfe.co.uk",
+    "startDate": "2024-07-17",
+    "endDate": "2024-07-17",
+    "city": "Middlesbrough",
+    "country": "U.K.",
+    "online": false,
+    "twitter": "@middlesbroughfe",
+    "cocUrl": "https://www.middlesbroughfe.co.uk/code-of-conduct",
+    "locales": "EN"
+  },
+  {
+    "name": "CityJS Singapore",
+    "url": "https://singapore.cityjsconf.org",
+    "startDate": "2024-07-24",
+    "endDate": "2024-07-26",
+    "city": "Singapore",
+    "country": "Singapore",
+    "online": false,
+    "twitter": "@cityjsconf",
+    "locales": "EN"
+  },
+  {
     "name": "JSConf Chile",
     "url": "https://www.jsconf.cl",
     "startDate": "2024-09-05",
@@ -726,6 +763,20 @@
     "cfpEndDate": "2024-07-01",
     "twitter": "@ReactSummit",
     "cocUrl": "https://portal.gitnation.org/coc",
+    "locales": "EN"
+  },
+  {
+    "name": "Connect.Tech",
+    "url": "https://2024.connect.tech",
+    "startDate": "2024-11-18",
+    "endDate": "2024-11-20",
+    "city": "Atlanta, GA",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/connect-tech-2024",
+    "cfpEndDate": "2024-05-31",
+    "twitter": "@connect_js",
+    "cocUrl": "https://2024.connect.tech/code-of-conduct",
     "locales": "EN"
   },
   {
