@@ -21,7 +21,7 @@ module.exports = {
     "Graz",
     "Linz",
     "Salzburg",
-    "Vienna"
+    "Wien"
   ],
   "Bangladesh": [
     "Dhaka"
@@ -196,7 +196,6 @@ module.exports = {
     "Bremen",
     "Brühl",
     "Chemnitz",
-    "Cologne",
     "Darmstadt",
     "Dortmund",
     "Dresden",
@@ -211,11 +210,12 @@ module.exports = {
     "Heidelberg",
     "Karlsruhe",
     "Kiel",
+    "Köln",
     "Leipzig",
     "Ludwigsburg",
     "Mainz",
     "Mannheim",
-    "Munich",
+    "München",
     "Nürnberg",
     "Ostfildern",
     "Potsdam",
@@ -225,7 +225,7 @@ module.exports = {
     "St. Leon-Rot",
     "Stuttgart",
     "Tegernsee",
-    "Wuerzburg"
+    "Würzburg"
   ],
   "Ghana": [
     "Accra"
