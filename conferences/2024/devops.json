@@ -557,6 +557,18 @@
     "mastodon": "@devopsdays_ukraine@mastodon.social"
   },
   {
+    "name": "DeveloperWeek Latin America",
+    "url": "https://www.developerweek.com/latin-america",
+    "startDate": "2024-06-05",
+    "endDate": "2024-06-06",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/developerweek-latin-america-2023",
+    "cfpEndDate": "2024-04-21",
+    "twitter": "@DeveloperWeek",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "Icinga Summit",
     "url": "https://icinga.com/summit",
     "startDate": "2024-06-05",
@@ -568,18 +580,6 @@
     "cfpEndDate": "2024-03-31",
     "twitter": "@icinga",
     "cocUrl": "https://icinga.com/summit/",
-    "locales": "EN"
-  },
-  {
-    "name": "DeveloperWeek Latin America",
-    "url": "https://www.developerweek.com/latin-america",
-    "startDate": "2024-06-05",
-    "endDate": "2024-06-06",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/developerweek-latin-america-2023",
-    "cfpEndDate": "2024-04-21",
-    "twitter": "@DeveloperWeek",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
     "locales": "EN"
   },
   {
@@ -803,20 +803,6 @@
     "locales": "DE"
   },
   {
-    "name": "SREday London",
-    "url": "https://sreday.com/2024-london",
-    "startDate": "2024-09-19",
-    "endDate": "2024-09-20",
-    "city": "London",
-    "country": "U.K.",
-    "online": false,
-    "cfpUrl": "https://www.papercall.io/sreday-2024-london",
-    "cfpEndDate": "2024-06-24",
-    "twitter": "@sreday_com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "locales": "EN"
-  },
-  {
     "name": "DevOpsDays Tampa Bay",
     "url": "https://devopsdays.org/events/2024-tampa/welcome",
     "startDate": "2024-09-19",
@@ -828,6 +814,20 @@
     "cfpEndDate": "2024-05-15",
     "twitter": "@devopsdaystb",
     "cocUrl": "https://devopsdays.org/events/2024-tampa/conduct",
+    "locales": "EN"
+  },
+  {
+    "name": "SREday London",
+    "url": "https://sreday.com/2024-london",
+    "startDate": "2024-09-19",
+    "endDate": "2024-09-20",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "cfpUrl": "https://www.papercall.io/sreday-2024-london",
+    "cfpEndDate": "2024-06-24",
+    "twitter": "@sreday_com",
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
     "locales": "EN"
   },
   {
@@ -866,11 +866,11 @@
     "locales": "EN"
   },
   {
-    "name": "InfoQ Dev Summit Munich",
+    "name": "InfoQ Dev Summit München",
     "url": "https://devsummit.infoq.com/munich_medialisting2024",
     "startDate": "2024-09-26",
     "endDate": "2024-09-27",
-    "city": "Munich",
+    "city": "München",
     "country": "Germany",
     "online": false,
     "twitter": "@infoq",
