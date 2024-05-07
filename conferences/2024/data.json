@@ -795,6 +795,20 @@
     "locales": "EN"
   },
   {
+    "name": "GraphQL Summit",
+    "url": "https://summit.graphql.com",
+    "startDate": "2024-10-08",
+    "endDate": "2024-10-10",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://reg.summit.graphql.com/flow/apollo/summit24/speaker-landing-page/page/home",
+    "cfpEndDate": "2024-05-20",
+    "twitter": "@graphqlsummit",
+    "cocUrl": "https://www.apollographql.com/docs/community/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "dotAI",
     "url": "https://www.dotai.io",
     "startDate": "2024-10-17",
@@ -806,6 +820,20 @@
     "cfpEndDate": "2024-04-30",
     "twitter": "@dotaiconf",
     "cocUrl": "https://www.dotai.io/code-of-conduct",
+    "locales": "EN"
+  },
+  {
+    "name": "CloudX",
+    "url": "https://www.developerweek.com/cloudx",
+    "startDate": "2024-11-05",
+    "endDate": "2024-11-07",
+    "city": "Santa Clara, CA",
+    "country": "U.S.A.",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/cloudx-2024",
+    "cfpEndDate": "2024-06-14",
+    "twitter": "@DeveloperWeek",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
     "locales": "EN"
   },
   {

@@ -53,7 +53,7 @@
     "mastodon": "@apidaysglobal@mastodon.social"
   },
   {
-    "name": "HasrauCon",
+    "name": "HasuraCon",
     "url": "https://hasura.io/events/hasura-con-2024",
     "startDate": "2024-06-03",
     "endDate": "2024-06-06",
@@ -92,6 +92,20 @@
     "cocUrl": "https://www.apidays.global/code-of-conduct/#",
     "locales": "EN",
     "mastodon": "@apidaysglobal@mastodon.social"
+  },
+  {
+    "name": "GraphQL Summit",
+    "url": "https://summit.graphql.com",
+    "startDate": "2024-10-08",
+    "endDate": "2024-10-10",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://reg.summit.graphql.com/flow/apollo/summit24/speaker-landing-page/page/home",
+    "cfpEndDate": "2024-05-20",
+    "twitter": "@graphqlsummit",
+    "cocUrl": "https://www.apollographql.com/docs/community/code-of-conduct/",
+    "locales": "EN"
   },
   {
     "name": "Apidays Australia",
