@@ -641,6 +641,20 @@
     "locales": "EN"
   },
   {
+    "name": "Kubernetes Community Days Barcelona",
+    "url": "https://www.devbcn.com/kcd",
+    "startDate": "2024-06-13",
+    "endDate": "2024-06-14",
+    "city": "Barcelona",
+    "country": "Spain",
+    "online": false,
+    "cfpUrl": "http://devbcn.com/cfp",
+    "cfpEndDate": "2024-04-01",
+    "twitter": "@devbcn",
+    "cocUrl": "https://devbcn.com/codeOfConduct",
+    "locales": "EN,ES"
+  },
+  {
     "name": "World Conference on Data Science & Statistics",
     "url": "https://datascience.thepeopleevents.com",
     "startDate": "2024-06-17",
