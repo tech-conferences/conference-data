@@ -428,5 +428,19 @@
     "cocUrl": "https://osmc.de/code-of-conduct/",
     "locales": "EN,DE",
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "React Day Berlin",
+    "url": "https://reactday.berlin",
+    "startDate": "2024-12-13",
+    "endDate": "2024-12-16",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "cfpUrl": "https://forms.gle/xFDmUHGY1b7hb77c7",
+    "cfpEndDate": "2024-08-12",
+    "twitter": "@reactdayberlin",
+    "cocUrl": "https://portal.gitnation.org/coc",
+    "locales": "EN"
   }
 ]
