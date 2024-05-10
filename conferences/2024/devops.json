@@ -1033,5 +1033,15 @@
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct",
     "locales": "EN"
+  },
+  {
+    "name": "KubeDay Colombia 2024",
+    "url": "https://events.linuxfoundation.org/kubeday-colombia/",
+    "startDate": "2024-10-09",
+    "endDate": "2024-10-09",
+    "city": "Medellín",
+    "country": "Colombia",
+    "online": false,
+    "locales": "EN, ES"
   }
 ]
