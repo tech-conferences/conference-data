@@ -38,6 +38,19 @@
     "locales": "EN"
   },
   {
+    "name": "Monitorama",
+    "url": "https://monitorama.com/2024/pdx.html",
+    "startDate": "2024-06-10",
+    "endDate": "2024-06-12",
+    "city": "Portland, OR",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@Monitorama",
+    "mastodon": "@monitorama@mastodon.social",
+    "cocUrl": "https://monitorama.com/2024/pdx.html#conduct",
+    "locales": "EN"
+  },
+  {
     "name": "Conf42 Observability",
     "url": "https://www.conf42.com/olly2024",
     "startDate": "2024-06-13",
