@@ -121,6 +121,16 @@
     "mastodon": "@pycon@social.python.it"
   },
   {
+    "name": "Pycon Colombia",
+    "url": "https://2024.pycon.co/en",
+    "startDate": "2024-06-07",
+    "endDate": "2024-06-09",
+    "city": "Medellín",
+    "country": "Colombia",
+    "online": false,
+    "locales": "EN, ES"
+  },
+  {
     "name": "World Conference on Data Science & Statistics",
     "url": "https://datascience.thepeopleevents.com",
     "startDate": "2024-06-17",
@@ -200,6 +210,18 @@
     "locales": "EN"
   },
   {
+    "name": "Python Brasil",
+    "url": "https://2024.pythonbrasil.org.br",
+    "startDate": "2024-10-16",
+    "endDate": "2024-10-21",
+    "city": "Rio De Janeiro",
+    "country": "Brazil",
+    "online": false,
+    "twitter": "@pythonbrasil",
+    "cocUrl": "https://apyb.python.org.br/pythonbrasil/cdc/",
+    "locales": "EN,ES"
+  },
+  {
     "name": "NODES",
     "url": "https://neo4j.com/nodes-2024",
     "startDate": "2024-11-07",
@@ -209,15 +231,5 @@
     "cfpEndDate": "2024-06-15",
     "twitter": "@neo4j",
     "locales": "EN"
-  },
-  {
-    "name": "Pycon Colombia",
-    "url": "https://2024.pycon.co/en",
-    "startDate": "2024-06-07",
-    "endDate": "2024-06-09",
-    "city": "Medellín",
-    "country": "Colombia",
-    "online": false,
-    "locales": "EN, ES"
   }
 ]
