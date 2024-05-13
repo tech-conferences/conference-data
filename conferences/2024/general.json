@@ -485,6 +485,17 @@
     "locales": "EN"
   },
   {
+    "name": "Platzi Conf",
+    "url": "https://platzi.com/conf/",
+    "startDate": "2024-05-30",
+    "endDate": "2024-05-30",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "online": true,
+    "twitter": "@platzi",
+    "locales": "ES"
+  },
+  {
     "name": "Craft Conference",
     "url": "https://craft-conf.com/2024",
     "startDate": "2024-05-30",
@@ -529,18 +540,6 @@
     "locales": "EN"
   },
   {
-    "name": "DeveloperWeek Online",
-    "url": "https://www.developerweek.com/europe/",
-    "startDate": "2024-06-05",
-    "endDate": "2024-06-06",
-    "online": true,
-    "cfpUrl": "https://www.developerweek.com/europe/speakers/apply-to-speak/",
-    "cfpEndDate": "2024-03-28",
-    "twitter": "@developerweek",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "locales": "EN"
-  },
-  {
     "name": "DeveloperWeek Latin America",
     "url": "https://www.developerweek.com/latin-america",
     "startDate": "2024-06-05",
@@ -549,6 +548,18 @@
     "cfpUrl": "https://sessionize.com/developerweek-latin-america-2023",
     "cfpEndDate": "2024-04-21",
     "twitter": "@DeveloperWeek",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
+    "name": "DeveloperWeek Online",
+    "url": "https://www.developerweek.com/europe/",
+    "startDate": "2024-06-05",
+    "endDate": "2024-06-06",
+    "online": true,
+    "cfpUrl": "https://www.developerweek.com/europe/speakers/apply-to-speak/",
+    "cfpEndDate": "2024-03-28",
+    "twitter": "@developerweek",
     "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
     "locales": "EN"
   },
