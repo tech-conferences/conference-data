@@ -425,6 +425,7 @@ module.exports = {
     "Panama City"
   ],
   "Peru": [
+    "Arequipa",
     "Lima"
   ],
   "Philippines": [
