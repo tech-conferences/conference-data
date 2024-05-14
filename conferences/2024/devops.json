@@ -743,6 +743,19 @@
     "locales": "EN"
   },
   {
+    "name": "KCD Lima",
+    "url": "https://community.cncf.io/events/details/cncf-kcd-lima-peru-presents-kcd-lima-peru-2024",
+    "startDate": "2024-07-20",
+    "endDate": "2024-07-21",
+    "city": "Lima",
+    "country": "Peru",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/KCDLimaPeru-2024",
+    "cfpEndDate": "2024-05-19",
+    "twitter": "@KCDLimaPeru",
+    "locales": "EN,ES"
+  },
+  {
     "name": "Devopsdays Halifax",
     "url": "https://devopsdays.org/events/2024-halifax/welcome/",
     "startDate": "2024-08-06",
@@ -929,6 +942,16 @@
     "locales": "EN"
   },
   {
+    "name": "KubeDay Colombia",
+    "url": "https://events.linuxfoundation.org/kubeday-colombia/",
+    "startDate": "2024-10-09",
+    "endDate": "2024-10-09",
+    "city": "Medellín",
+    "country": "Colombia",
+    "online": false,
+    "locales": "EN, ES"
+  },
+  {
     "name": "CloudX",
     "url": "https://www.developerweek.com/cloudx",
     "startDate": "2024-11-05",
@@ -1046,15 +1069,5 @@
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct",
     "locales": "EN"
-  },
-  {
-    "name": "KubeDay Colombia",
-    "url": "https://events.linuxfoundation.org/kubeday-colombia/",
-    "startDate": "2024-10-09",
-    "endDate": "2024-10-09",
-    "city": "Medellín",
-    "country": "Colombia",
-    "online": false,
-    "locales": "EN, ES"
   }
 ]
