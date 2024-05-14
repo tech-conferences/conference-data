@@ -266,6 +266,16 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "React Conf",
+    "url": "https://conf.react.dev/",
+    "startDate": "2024-05-15",
+    "endDate": "2024-05-16",
+    "city": "Henderson, NV",
+    "country": "U.S.A.",
+    "online": true,
+    "locales": "EN"
+  },
+  {
     "name": "International JavaScript Conference",
     "url": "https://javascript-conference.com/san-diego",
     "startDate": "2024-05-20",
@@ -853,16 +863,6 @@
     "cfpEndDate": "2024-08-12",
     "twitter": "@reactdayberlin",
     "cocUrl": "https://portal.gitnation.org/coc",
-    "locales": "EN"
-  },
-  {
-    "name": "React Conf",
-    "url": "https://conf.react.dev/",
-    "startDate": "2024-05-15",
-    "endDate": "2024-05-16",
-    "city": "Henderson, NV",
-    "country": "U.S.A.",
-    "online": true,
     "locales": "EN"
   }
 ]

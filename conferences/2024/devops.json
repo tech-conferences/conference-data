@@ -607,17 +607,6 @@
     "locales": "EN"
   },
   {
-    "name": "PlatformCon",
-    "url": "https://platformcon.com",
-    "startDate": "2024-06-10",
-    "endDate": "2024-06-14",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/platformcon-2024",
-    "cfpEndDate": "2024-02-25",
-    "cocUrl": "https://platformcon.com/code-of-conduct",
-    "locales": "EN"
-  },
-  {
     "name": "Monitorama",
     "url": "https://monitorama.com/2024/pdx.html",
     "startDate": "2024-06-10",
@@ -626,8 +615,19 @@
     "country": "U.S.A.",
     "online": false,
     "twitter": "@Monitorama",
-    "mastodon": "@monitorama@mastodon.social",
     "cocUrl": "https://monitorama.com/2024/pdx.html#conduct",
+    "locales": "EN",
+    "mastodon": "@monitorama@mastodon.social"
+  },
+  {
+    "name": "PlatformCon",
+    "url": "https://platformcon.com",
+    "startDate": "2024-06-10",
+    "endDate": "2024-06-14",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/platformcon-2024",
+    "cfpEndDate": "2024-02-25",
+    "cocUrl": "https://platformcon.com/code-of-conduct",
     "locales": "EN"
   },
   {

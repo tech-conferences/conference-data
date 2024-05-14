@@ -96,6 +96,9 @@ module.exports = {
     "Waterloo",
     "Winnipeg"
   ],
+  "Cayman Islands": [
+    "George Town"
+  ],
   "Chile": [
     "San Antonio",
     "Santiago"
