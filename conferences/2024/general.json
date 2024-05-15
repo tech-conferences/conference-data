@@ -1096,5 +1096,15 @@
     "cocUrl": "https://www.ittage.informatik-aktuell.de/konferenz/code-of-coduct.html",
     "locales": "DE,EN",
     "mastodon": "@informatikaktuell@det.social"
+  },
+  {
+    "name": "Replay",
+    "url": "https://replay.temporal.io/",
+    "startDate": "2024-10-18",
+    "endDate": "2024-10-20",
+    "city": "Bellevue, WA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN"
   }
 ]
