@@ -1051,5 +1051,16 @@
     "cocUrl": "https://www.ittage.informatik-aktuell.de/konferenz/code-of-coduct.html",
     "locales": "DE,EN",
     "mastodon": "@informatikaktuell@det.social"
+  },
+  {
+    "name": "Momentum Developer Conference",
+    "url": "https://momentumdevcon.com/",
+    "startDate": "2024-10-17",
+    "endDate": "2024-10-17",
+    "city": "Cincinnati, OH",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@momentumdevcon",
+    "locales": "EN"
   }
 ]
