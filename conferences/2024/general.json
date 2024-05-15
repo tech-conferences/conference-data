@@ -1096,5 +1096,17 @@
     "cocUrl": "https://www.ittage.informatik-aktuell.de/konferenz/code-of-coduct.html",
     "locales": "DE,EN",
     "mastodon": "@informatikaktuell@det.social"
+  },
+  {
+    "name": "Carolina Code Conference",
+    "url": "https://blog.carolina.codes/",
+    "startDate": "2024-08-23",
+    "endDate": "2024-08-24",
+    "city": "Greenville, SC",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@CodesCarolina",
+    "locales": "EN",
+    "mastodon": "@carolinacodes"
   }
 ]
