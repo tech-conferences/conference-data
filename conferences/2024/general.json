@@ -1096,5 +1096,16 @@
     "cocUrl": "https://www.ittage.informatik-aktuell.de/konferenz/code-of-coduct.html",
     "locales": "DE,EN",
     "mastodon": "@informatikaktuell@det.social"
+  },
+  {
+    "name": "DevFestYYC",
+    "url": "https://devfestyyc.com",
+    "startDate": "2024-11-15",
+    "endDate": "2024-11-16",
+    "city": "Calgary, AB",
+    "country": "Canada",
+    "online": false,
+    "twitter": "@gdgcloudyyc",
+    "locales": "EN"
   }
 ]
