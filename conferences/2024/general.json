@@ -739,6 +739,17 @@
     "locales": "EN"
   },
   {
+    "name": "Dev Up Conference",
+    "url": "https://www.devupconf.org/",
+    "startDate": "2024-07-14",
+    "endDate": "2024-07-16",
+    "city": "St. Charles, MO",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@devupconf",
+    "locales": "EN"
+  },
+  {
     "name": "Nebraska.Code()",
     "url": "https://nebraskacode.amegala.com",
     "startDate": "2024-07-17",
@@ -776,6 +787,18 @@
     "cfpEndDate": "2024-03-01",
     "twitter": "@thatconference",
     "cocUrl": "https://thatconference.com/support/code-of-conduct",
+    "locales": "EN"
+  },
+  {
+    "name": "Beer City Code",
+    "url": "https://www.beercitycode.com",
+    "startDate": "2024-08-02",
+    "endDate": "2024-08-03",
+    "city": "Grand Rapids, MI",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@BeerCityCode",
+    "cocUrl": "https://www.beercitycode.com/conduct/",
     "locales": "EN"
   },
   {
@@ -931,6 +954,28 @@
     "locales": "EN"
   },
   {
+    "name": "Momentum Developer Conference",
+    "url": "https://momentumdevcon.com/",
+    "startDate": "2024-10-17",
+    "endDate": "2024-10-17",
+    "city": "Cincinnati, OH",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@momentumdevcon",
+    "locales": "EN"
+  },
+  {
+    "name": "GOTO Chicago",
+    "url": "https://gotochgo.com/2024",
+    "startDate": "2024-10-21",
+    "endDate": "2024-10-22",
+    "city": "Chicago, IL",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@GOTOcon",
+    "locales": "EN"
+  },
+  {
     "name": "Serverless Architecture Conference Berlin",
     "url": "https://serverless-architecture.io/berlin",
     "startDate": "2024-10-21",
@@ -1051,39 +1096,5 @@
     "cocUrl": "https://www.ittage.informatik-aktuell.de/konferenz/code-of-coduct.html",
     "locales": "DE,EN",
     "mastodon": "@informatikaktuell@det.social"
-  },
-  {
-    "name": "Momentum Developer Conference",
-    "url": "https://momentumdevcon.com/",
-    "startDate": "2024-10-17",
-    "endDate": "2024-10-17",
-    "city": "Cincinnati, OH",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@momentumdevcon",
-    "locales": "EN"
-  },
-  {
-    "name": "Beer City Code",
-    "url": "https://www.beercitycode.com",
-    "startDate": "2024-08-02",
-    "endDate": "2024-08-03",
-    "city": "Grand Rapids, MI",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@BeerCityCode",
-    "cocUrl": "https://www.beercitycode.com/conduct/",
-    "locales": "EN"
-  },
-  {
-    "name": "GOTO Chicago",
-    "url": "https://gotochgo.com/2024",
-    "startDate": "2024-10-21",
-    "endDate": "2024-10-22",
-    "city": "Chicago, IL",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@GOTOcon",
-    "locales": "EN"
   }
 ]
