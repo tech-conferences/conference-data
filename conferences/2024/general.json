@@ -1096,5 +1096,16 @@
     "cocUrl": "https://www.ittage.informatik-aktuell.de/konferenz/code-of-coduct.html",
     "locales": "DE,EN",
     "mastodon": "@informatikaktuell@det.social"
+  },
+  {
+    "name": "Umbraco US Festival",
+    "url": "https://umbracofestival.us/",
+    "startDate": "2024-10-03",
+    "endDate": "2024-10-04",
+    "city": "Chicago, IL",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN"
   }
+
 ]
