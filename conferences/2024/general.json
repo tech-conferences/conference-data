@@ -1096,5 +1096,15 @@
     "cocUrl": "https://www.ittage.informatik-aktuell.de/konferenz/code-of-coduct.html",
     "locales": "DE,EN",
     "mastodon": "@informatikaktuell@det.social"
+  },
+  {
+    "name": "Hampton Roads DevFest",
+    "url": "https://hrdevfest.org/",
+    "startDate": "2024-05-31",
+    "endDate": "2024-05-31",
+    "city": "Virginia Beach",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN"
   }
 ]
