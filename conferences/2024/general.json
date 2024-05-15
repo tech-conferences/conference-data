@@ -1096,5 +1096,16 @@
     "cocUrl": "https://www.ittage.informatik-aktuell.de/konferenz/code-of-coduct.html",
     "locales": "DE,EN",
     "mastodon": "@informatikaktuell@det.social"
+  },
+  {
+    "name": "Techbash Dev Conference",
+    "url": "https://techbash.com/",
+    "startDate": "2024-10-24",
+    "endDate": "2024-10-27",
+    "city": "Pocono Manor, PA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@techbash",
+    "locales": "EN"
   }
 ]
