@@ -1051,5 +1051,16 @@
     "cocUrl": "https://www.ittage.informatik-aktuell.de/konferenz/code-of-coduct.html",
     "locales": "DE,EN",
     "mastodon": "@informatikaktuell@det.social"
+  },
+  {
+    "name": "Dev Up Conference",
+    "url": "https://www.devupconf.org/",
+    "startDate": "2024-07-14",
+    "endDate": "2024-07-16",
+    "city": "Charles, MO",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@devupconf",
+    "locales": "EN"
   }
 ]
