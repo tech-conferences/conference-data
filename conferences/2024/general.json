@@ -1051,5 +1051,16 @@
     "cocUrl": "https://www.ittage.informatik-aktuell.de/konferenz/code-of-coduct.html",
     "locales": "DE,EN",
     "mastodon": "@informatikaktuell@det.social"
+  },
+  {
+    "name": "GOTO Chicago",
+    "url": "https://gotochgo.com/2024",
+    "startDate": "2024-10-21",
+    "endDate": "2024-10-22",
+    "city": "Chicago, IL",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@GOTOcon",
+    "locales": "EN"
   }
 ]
