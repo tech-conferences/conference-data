@@ -989,5 +989,40 @@
     "twitter": "@aiDotEngineer",
     "cocUrl": "https://www.ai.engineer/worldsfair/conduct",
     "locales": "EN"
+  },
+  {
+    "name": "Cypher",
+    "url": "https://cypher.aimresearch.co/",
+    "startDate": "2024-11-21",
+    "endDate": "2024-11-22",
+    "city": "Santa Clara, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@analyticsindiam",
+    "locales": "EN"
+  },
+  {
+    "name": "AI.dev: Open Souce GenAI & ML Summit",
+    "url": "https://events.linuxfoundation.org/ai-dev-north-america/",
+    "startDate": "2024-10-14",
+    "endDate": "2024-10-15",
+    "city": "Seattle, WA",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://events.linuxfoundation.org/ai-dev-north-america/program/cfp",
+    "cfpEndDate": "2023-10-23",
+    "twitter": "@LinuxFoundation",
+    "cocUrl": "https://events.linuxfoundation.org/ai-dev-north-america/attend/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
+    "name": "AI World Congress",
+    "url": "https://aiconference.london/",
+    "startDate": "2024-05-30",
+    "endDate": "2024-05-31",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN"
   }
 ]
