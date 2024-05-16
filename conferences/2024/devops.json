@@ -756,6 +756,18 @@
     "locales": "EN,ES"
   },
   {
+    "name": "Agile",
+    "url": "https://www.agilealliance.org/agile2024",
+    "startDate": "2024-07-22",
+    "endDate": "2024-07-26",
+    "city": "Dallas, TX",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@AgileAlliance",
+    "cocUrl": "https://www.agilealliance.org/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "Devopsdays Halifax",
     "url": "https://devopsdays.org/events/2024-halifax/welcome/",
     "startDate": "2024-08-06",
@@ -952,6 +964,17 @@
     "locales": "EN, ES"
   },
   {
+    "name": "Innovate Virginia",
+    "url": "https://innovatevirginia.com",
+    "startDate": "2024-10-25",
+    "endDate": "2024-10-25",
+    "city": "Richmond, VA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@InnovateVA",
+    "locales": "EN"
+  },
+  {
     "name": "CloudX",
     "url": "https://www.developerweek.com/cloudx",
     "startDate": "2024-11-05",
@@ -1056,6 +1079,17 @@
     "online": false,
     "twitter": "@nofluff",
     "cocUrl": "https://devopsvision.io/home/code_of_conduct",
+    "locales": "EN"
+  },
+  {
+    "name": "Internet 2.0 Conference",
+    "url": "https://www.internet2conf.com",
+    "startDate": "2024-12-03",
+    "endDate": "2024-12-05",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "online": false,
+    "twitter": "@internet2conf",
     "locales": "EN"
   },
   {
