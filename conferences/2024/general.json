@@ -1118,7 +1118,6 @@
     "twitter": "@AirflowSummit",
     "locales": "EN",
     "cocUrl": "https://airflowsummit.org/coc/",
-    "locales": "EN"
   },
   {
     "name": "Replay",
@@ -1139,6 +1138,17 @@
     "country": "U.S.A.",
     "online": false,
     "twitter": "@techbash",
+    "locales": "EN"
+  },
+  {
+    "name": "Gartner Digital Workplace Summit",
+    "url": "https://www.gartner.com/en/conferences/emea/digital-workplace-uk",
+    "startDate": "2024-06-10",
+    "endDate": "2024-06-11",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "twitter": "@Gartner_inc",
     "locales": "EN"
   }
 ]
