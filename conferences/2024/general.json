@@ -1118,7 +1118,6 @@
     "twitter": "@AirflowSummit",
     "locales": "EN",
     "cocUrl": "https://airflowsummit.org/coc/",
-    "locales": "EN"
   },
   {
     "name": "Replay",
@@ -1139,6 +1138,17 @@
     "country": "U.S.A.",
     "online": false,
     "twitter": "@techbash",
+    "locales": "EN"
+  },
+  {
+    "name": "kscope24",
+    "url": "https://kscope24.odtug.com/",
+    "startDate": "2024-07-14",
+    "endDate": "2024-07-18",
+    "city": "Nashville, TN",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@odtug",
     "locales": "EN"
   }
 ]
