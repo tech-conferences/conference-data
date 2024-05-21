@@ -1035,5 +1035,16 @@
     "country": "U.K.",
     "online": false,
     "locales": "EN"
+  },
+  {
+    "name": "DataConnect Conference",
+    "url": "https://www.dataconnectconf.com",
+    "startDate": "2024-07-11",
+    "endDate": "2024-07-12",
+    "city": "Columbus, OH",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@dataconnectconf",
+    "cocUrl": "https://www.womeninanalytics.com/code-of-conduct"
   }
 ]
