@@ -387,6 +387,17 @@
     "locales": "EN"
   },
   {
+    "name": "AI in Prod",
+    "url": "https://events.weaviate.io/ai-in-prod-ny-24",
+    "startDate": "2024-05-21",
+    "endDate": "2024-05-21",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@weaviate_io",
+    "locales": "EN"
+  },
+  {
     "name": "International Conference on Machine Learning Technologies (ICMLT)",
     "url": "http://www.icmlt.org",
     "startDate": "2024-05-24",
@@ -445,6 +456,16 @@
     "cfpEndDate": "2024-04-29",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct",
+    "locales": "EN"
+  },
+  {
+    "name": "AI World Congress",
+    "url": "https://aiconference.london/",
+    "startDate": "2024-05-30",
+    "endDate": "2024-05-31",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
     "locales": "EN"
   },
   {
@@ -597,6 +618,18 @@
     "locales": "EN"
   },
   {
+    "name": "AI Engineer Worlds Fair",
+    "url": "https://www.ai.engineer/worldsfair",
+    "startDate": "2024-06-25",
+    "endDate": "2024-06-27",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@aiDotEngineer",
+    "cocUrl": "https://www.ai.engineer/worldsfair/conduct",
+    "locales": "EN"
+  },
+  {
     "name": "Swiss PGDay",
     "url": "https://www.pgday.ch/2024",
     "startDate": "2024-06-27",
@@ -663,6 +696,16 @@
     "country": "Austria",
     "online": true,
     "twitter": "@icmlconf",
+    "locales": "EN"
+  },
+  {
+    "name": "The MachineCon",
+    "url": "https://machinecon.aimresearch.co",
+    "startDate": "2024-07-26",
+    "endDate": "2024-07-26",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": false,
     "locales": "EN"
   },
   {
@@ -803,6 +846,16 @@
     "locales": "EN"
   },
   {
+    "name": "Fin + AI",
+    "url": "https://www.finaiconference.com",
+    "startDate": "2024-10-02",
+    "endDate": "2024-10-04",
+    "city": "Fort Lauderdale, FL",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN"
+  },
+  {
     "name": "MLCon New York",
     "url": "https://mlconference.ai/new-york",
     "startDate": "2024-10-07",
@@ -828,6 +881,20 @@
     "cfpEndDate": "2024-05-20",
     "twitter": "@graphqlsummit",
     "cocUrl": "https://www.apollographql.com/docs/community/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
+    "name": "AI.dev: Open Souce GenAI & ML Summit",
+    "url": "https://events.linuxfoundation.org/ai-dev-north-america/",
+    "startDate": "2024-10-14",
+    "endDate": "2024-10-15",
+    "city": "Seattle, WA",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://events.linuxfoundation.org/ai-dev-north-america/program/cfp",
+    "cfpEndDate": "2023-10-23",
+    "twitter": "@LinuxFoundation",
+    "cocUrl": "https://events.linuxfoundation.org/ai-dev-north-america/attend/code-of-conduct/",
     "locales": "EN"
   },
   {
@@ -929,6 +996,17 @@
     "locales": "EN"
   },
   {
+    "name": "Cypher",
+    "url": "https://cypher.aimresearch.co/",
+    "startDate": "2024-11-21",
+    "endDate": "2024-11-22",
+    "city": "Santa Clara, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@analyticsindiam",
+    "locales": "EN"
+  },
+  {
     "name": "Oh My Hack",
     "url": "https://omhconf.pl",
     "startDate": "2024-11-26",
@@ -976,64 +1054,6 @@
     "cfpEndDate": "2024-11-18",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "locales": "EN"
-  },
-  {
-    "name": "AI in Prod",
-    "url": "https://events.weaviate.io/ai-in-prod-ny-24",
-    "startDate": "2024-05-21",
-    "endDate": "2024-05-21",
-    "city": "New York, NY",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@weaviate_io",
-    "locales": "EN"
-  },
-  {
-    "name": "AI Engineer Worlds Fair",
-    "url": "https://www.ai.engineer/worldsfair",
-    "startDate": "2024-06-25",
-    "endDate": "2024-06-27",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@aiDotEngineer",
-    "cocUrl": "https://www.ai.engineer/worldsfair/conduct",
-    "locales": "EN"
-  },
-  {
-    "name": "Cypher",
-    "url": "https://cypher.aimresearch.co/",
-    "startDate": "2024-11-21",
-    "endDate": "2024-11-22",
-    "city": "Santa Clara, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@analyticsindiam",
-    "locales": "EN"
-  },
-  {
-    "name": "AI.dev: Open Souce GenAI & ML Summit",
-    "url": "https://events.linuxfoundation.org/ai-dev-north-america/",
-    "startDate": "2024-10-14",
-    "endDate": "2024-10-15",
-    "city": "Seattle, WA",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://events.linuxfoundation.org/ai-dev-north-america/program/cfp",
-    "cfpEndDate": "2023-10-23",
-    "twitter": "@LinuxFoundation",
-    "cocUrl": "https://events.linuxfoundation.org/ai-dev-north-america/attend/code-of-conduct/",
-    "locales": "EN"
-  },
-  {
-    "name": "AI World Congress",
-    "url": "https://aiconference.london/",
-    "startDate": "2024-05-30",
-    "endDate": "2024-05-31",
-    "city": "London",
-    "country": "U.K.",
-    "online": false,
     "locales": "EN"
   },
   {
