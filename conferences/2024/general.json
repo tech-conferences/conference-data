@@ -1149,5 +1149,114 @@
     "cocUrl": "https://www.ittage.informatik-aktuell.de/konferenz/code-of-coduct.html",
     "locales": "DE,EN",
     "mastodon": "@informatikaktuell@det.social"
+  },
+  {
+    "name": "DevFestYYC",
+    "url": "https://devfestyyc.com",
+    "startDate": "2024-11-15",
+    "endDate": "2024-11-16",
+    "city": "Calgary",
+    "country": "Canada",
+    "online": false,
+    "twitter": "@gdgcloudyyc",
+    "locales": "EN"
+  },
+  {
+    "name": "Carolina Code Conference",
+    "url": "https://blog.carolina.codes/",
+    "startDate": "2024-08-23",
+    "endDate": "2024-08-24",
+    "city": "Greenville, SC",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@CodesCarolina",
+    "locales": "EN",
+    "mastodon": "@carolinacodes"
+  },
+  {
+    "name": "Hampton Roads DevFest",
+    "url": "https://hrdevfest.org/",
+    "startDate": "2024-05-31",
+    "endDate": "2024-05-31",
+    "city": "Virginia Beach, VA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN"
+  },
+  {
+    "name": "Umbraco US Festival",
+    "url": "https://umbracofestival.us/",
+    "startDate": "2024-10-03",
+    "endDate": "2024-10-04",
+    "city": "Chicago, IL",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN"
+  },
+  {
+    "name": "Airflow Summer",
+    "url": "https://airflowsummit.org/",
+    "startDate": "2024-10-10",
+    "endDate": "2024-10-12",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@AirflowSummit",
+    "locales": "EN",
+    "cocUrl": "https://airflowsummit.org/coc/"
+  },
+  {
+    "name": "Replay",
+    "url": "https://replay.temporal.io/",
+    "startDate": "2024-10-18",
+    "endDate": "2024-10-20",
+    "city": "Bellevue, WA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN"
+  },
+  {
+    "name": "Techbash Dev Conference",
+    "url": "https://techbash.com/",
+    "startDate": "2024-10-24",
+    "endDate": "2024-10-27",
+    "city": "Pocono Manor, PA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@techbash",
+    "locales": "EN"
+  },
+  {
+    "name": "Kscope",
+    "url": "https://kscope24.odtug.com/",
+    "startDate": "2024-07-14",
+    "endDate": "2024-07-18",
+    "city": "Nashville, TN",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@odtug",
+    "locales": "EN"
+  },
+  {
+    "name": "Gartner Application Innovation & Business Solutions Summit",
+    "url": "https://www.gartner.com/en/conferences/emea/applications-uk",
+    "startDate": "2024-09-09",
+    "endDate": "2024-09-10",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "twitter": "@Gartner_inc",
+    "locales": "EN"
+  },
+  {
+    "name": "Gartner IT Symposium/Xpo",
+    "url": "https://www.gartner.com/en/conferences/na/symposium-us",
+    "startDate": "2024-10-21",
+    "endDate": "2024-10-24",
+    "city": "Orlando, FL",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@Gartner_inc",
+    "locales": "EN"
   }
 ]

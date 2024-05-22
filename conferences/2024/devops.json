@@ -544,6 +544,16 @@
     "locales": "EN,SL"
   },
   {
+    "name": "AGILE + DEVOPS WEST",
+    "url": "https://agiledevopswest.techwell.com",
+    "startDate": "2024-06-02",
+    "endDate": "2024-06-07",
+    "city": "Las Vegas, NV",
+    "country": "U.S.A.",
+    "online": true,
+    "locales": "EN"
+  },
+  {
     "name": "DevOpsDays Ukraine: Let's Talk Security",
     "url": "https://devopsdays.com.ua",
     "startDate": "2024-06-04",
@@ -740,6 +750,15 @@
     "online": false,
     "twitter": "@InfoQ",
     "cocUrl": "https://devsummit.infoq.com/code-conduct",
+    "locales": "EN"
+  },
+  {
+    "name": "Portal Talks",
+    "url": "https://www.portaltalks.io",
+    "startDate": "2024-06-26",
+    "endDate": "2024-06-27",
+    "online": true,
+    "twitter": "@tweetsbyport",
     "locales": "EN"
   },
   {
@@ -1102,6 +1121,17 @@
     "cfpEndDate": "2024-11-04",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct",
+    "locales": "EN"
+  },
+  {
+    "name": "Agile + DevOps",
+    "url": "https://agiledevopsusa.techwell.com/",
+    "startDate": "2024-10-13",
+    "endDate": "2024-10-18",
+    "city": "Orlando, FL",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@techwell",
     "locales": "EN"
   }
 ]

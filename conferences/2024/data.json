@@ -699,6 +699,16 @@
     "locales": "EN"
   },
   {
+    "name": "The MachineCon",
+    "url": "https://machinecon.aimresearch.co",
+    "startDate": "2024-07-26",
+    "endDate": "2024-07-26",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN"
+  },
+  {
     "name": "Visual Studio Live! (VSLive!) @ Microsoft HQ",
     "url": "https://vslive.com/events/microsofthq-2024/home.aspx",
     "startDate": "2024-08-05",
@@ -833,6 +843,16 @@
     "online": true,
     "cfpUrl": "https://raysummit.anyscale.com/flow/anyscale/raysummit2024/callforpapers/login",
     "cfpEndDate": "2024-05-08",
+    "locales": "EN"
+  },
+  {
+    "name": "Fin + AI",
+    "url": "https://www.finaiconference.com",
+    "startDate": "2024-10-02",
+    "endDate": "2024-10-04",
+    "city": "Fort Lauderdale, FL",
+    "country": "U.S.A.",
+    "online": false,
     "locales": "EN"
   },
   {
@@ -1045,5 +1065,16 @@
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct",
     "locales": "EN"
+  },
+  {
+    "name": "Ai4",
+    "url": "https://ai4.io/vegas/",
+    "startDate": "2024-08-12",
+    "endDate": "2024-08-14",
+    "city": "Las Vegas, NV",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@Ai4Conferences",
+    "cocUrl": "https://ai4.io/usa/health-and-safety/"
   }
 ]
