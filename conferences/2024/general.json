@@ -1098,6 +1098,39 @@
     "mastodon": "@informatikaktuell@det.social"
   },
   {
+    "name": "DevFestYYC",
+    "url": "https://devfestyyc.com",
+    "startDate": "2024-11-15",
+    "endDate": "2024-11-16",
+    "city": "Calgary",
+    "country": "Canada",
+    "online": false,
+    "twitter": "@gdgcloudyyc",
+    "locales": "EN"
+  },
+  {
+    "name": "Carolina Code Conference",
+    "url": "https://blog.carolina.codes/",
+    "startDate": "2024-08-23",
+    "endDate": "2024-08-24",
+    "city": "Greenville, SC",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@CodesCarolina",
+    "locales": "EN",
+    "mastodon": "@carolinacodes"
+  },
+  {
+    "name": "Hampton Roads DevFest",
+    "url": "https://hrdevfest.org/",
+    "startDate": "2024-05-31",
+    "endDate": "2024-05-31",
+    "city": "Virginia Beach, VA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN"
+  },
+  {
     "name": "Umbraco US Festival",
     "url": "https://umbracofestival.us/",
     "startDate": "2024-10-03",
@@ -1148,6 +1181,17 @@
     "endDate": "2024-09-10",
     "city": "London",
     "country": "U.K.",
+    "online": false,
+    "twitter": "@Gartner_inc",
+    "locales": "EN"
+  },
+  {
+    "name": "Gartner IT Symposium/Xpo",
+    "url": "https://www.gartner.com/en/conferences/na/symposium-us",
+    "startDate": "2024-10-21",
+    "endDate": "2024-10-24",
+    "city": "Orlando, FL",
+    "country": "U.S.A.",
     "online": false,
     "twitter": "@Gartner_inc",
     "locales": "EN"
