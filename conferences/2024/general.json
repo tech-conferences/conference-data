@@ -1218,5 +1218,16 @@
     "cocUrl": "https://www.ittage.informatik-aktuell.de/konferenz/code-of-coduct.html",
     "locales": "DE,EN",
     "mastodon": "@informatikaktuell@det.social"
+  },
+  {
+    "name": "Gartner Digital Workplace Summit",
+    "url": "https://www.gartner.com/en/conferences/emea/digital-workplace-uk",
+    "startDate": "2024-06-10",
+    "endDate": "2024-06-11",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "twitter": "@Gartner_inc",
+    "locales": "EN"
   }
 ]
