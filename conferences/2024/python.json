@@ -243,5 +243,15 @@
     "cfpEndDate": "2024-06-15",
     "twitter": "@neo4j",
     "locales": "EN"
+  },
+  {
+    "name": "Pytorch",
+    "url": "https://pytorch.org/events",
+    "startDate": "2024-09-18",
+    "endDate": "2024-09-19",
+    "online": false,
+    "cfpUrl": "https://events.linuxfoundation.org/pytorch-conference/attend/code-of-conduct/",
+    "twitter": "@PyTorch",
+    "locales": "EN"
   }
 ]
