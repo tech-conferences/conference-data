@@ -153,6 +153,18 @@
     "locales": "EN"
   },
   {
+    "name": "PyCon Israel",
+    "url": "https://pycon.org.il/2024",
+    "startDate": "2024-09-16",
+    "endDate": "2024-09-16",
+    "online": true,
+    "cfpUrl": "https://cfp.pycon.org.il/pycon-2024/cfp",
+    "cfpEndDate": "2024-05-31",
+    "twitter": "@pyconil",
+    "cocUrl": "https://pycon.org.il/2024/pages/code-of-conduct.html#code-of-conduct",
+    "locales": "EN,HE"
+  },
+  {
     "name": "data2day",
     "url": "https://www.data2day.de",
     "startDate": "2024-09-18",
