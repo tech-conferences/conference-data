@@ -1,5 +1,16 @@
 [
   {
+    "name": "HalfStack Phoenix",
+    "url": "https://halfstackconf.com/phoenix",
+    "startDate": "2025-01-31",
+    "endDate": "2025-01-31",
+    "city": "Phoenix, AZ",
+    "country": "U.S.A.",
+    "cfpUrl": "https://halfstackconf.com/phoenix/",
+    "twitter": "@halfstackconf",
+    "cocUrl": "https://halfstackconf.com/code-of-conduct"
+  },
+  {
     "name": "CityJS London",
     "url": "https://london.cityjsconf.org",
     "startDate": "2025-04-23",
@@ -12,16 +23,5 @@
     "twitter": "@cityjsconf",
     "cocUrl": "https://london.cityjsconf.org/coc",
     "locales": "EN"
-  },
-  {
-    "name": "HalfStack Phoenix",
-    "url": "https://halfstackconf.com/phoenix",
-    "startDate": "2025-01-31",
-    "endDate": "2025-01-31",
-    "city": "Phoenix, AZ",
-    "country": "U.S.A.",
-    "cfpUrl": "https://halfstackconf.com/phoenix/",
-    "twitter": "@halfstackconf",
-    "cocUrl": "https://halfstackconf.com/code-of-conduct"
   }
 ]

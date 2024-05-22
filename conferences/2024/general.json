@@ -550,6 +550,15 @@
     "locales": "EN"
   },
   {
+    "name": "Machine Learning Week",
+    "url": "https://machinelearningweek.com/",
+    "startDate": "2024-06-04",
+    "endDate": "2024-06-07",
+    "online": false,
+    "twitter": "@MLWeekUS",
+    "locales": "EN"
+  },
+  {
     "name": "DeveloperWeek Latin America",
     "url": "https://www.developerweek.com/latin-america",
     "startDate": "2024-06-05",
@@ -598,6 +607,17 @@
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeDNjPCp4iRPcs11xPIn6ikJ3QhliCspbN_5n0SsqIBP-tA8w/viewform",
     "cfpEndDate": "2024-04-01",
     "twitter": "@BigSkyDevCon",
+    "locales": "EN"
+  },
+  {
+    "name": "Gartner Digital Workplace Summit",
+    "url": "https://www.gartner.com/en/conferences/emea/digital-workplace-uk",
+    "startDate": "2024-06-10",
+    "endDate": "2024-06-11",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "twitter": "@Gartner_inc",
     "locales": "EN"
   },
   {
@@ -862,6 +882,17 @@
     "locales": "EN"
   },
   {
+    "name": "Gartner Application Innovation & Business Solutions Summit",
+    "url": "https://www.gartner.com/en/conferences/emea/applications-uk",
+    "startDate": "2024-09-09",
+    "endDate": "2024-09-10",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "twitter": "@Gartner_inc",
+    "locales": "EN"
+  },
+  {
     "name": "SmashingConf Freiburg",
     "url": "https://smashingconf.com/freiburg-2024",
     "startDate": "2024-09-09",
@@ -885,17 +916,6 @@
     "online": false,
     "twitter": "@NDC_Conferences",
     "cocUrl": "https://ndctechtown.com/code-of-conduct",
-    "locales": "EN"
-  },
-  {
-    "name": "Gartner Application Innovation & Business Solutions Summit",
-    "url": "https://www.gartner.com/en/conferences/emea/applications-uk",
-    "startDate": "2024-09-09",
-    "endDate": "2024-09-10",
-    "city": "London",
-    "country": "U.K.",
-    "online": false,
-    "twitter": "@Gartner_inc",
     "locales": "EN"
   },
   {
@@ -1017,8 +1037,8 @@
     "country": "U.S.A.",
     "online": false,
     "twitter": "@AirflowSummit",
-    "locales": "EN",
-    "cocUrl": "https://airflowsummit.org/coc/"
+    "cocUrl": "https://airflowsummit.org/coc/",
+    "locales": "EN"
   },
   {
     "name": "Global Software Architecture Summit",
@@ -1218,25 +1238,5 @@
     "cocUrl": "https://www.ittage.informatik-aktuell.de/konferenz/code-of-coduct.html",
     "locales": "DE,EN",
     "mastodon": "@informatikaktuell@det.social"
-  },
-  {
-    "name": "Gartner Digital Workplace Summit",
-    "url": "https://www.gartner.com/en/conferences/emea/digital-workplace-uk",
-    "startDate": "2024-06-10",
-    "endDate": "2024-06-11",
-    "city": "London",
-    "country": "U.K.",
-    "online": false,
-    "twitter": "@Gartner_inc",
-    "locales": "EN"
-  },
-  {
-    "name": "Machine Learning Week",
-    "url": "https://machinelearningweek.com/",
-    "startDate": "2024-06-04",
-    "endDate": "2024-06-07",
-    "online": false,
-    "twitter": "@MLWeekUS",
-    "locales": "EN"
   }
 ]

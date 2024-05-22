@@ -258,6 +258,17 @@
     "locales": "EN"
   },
   {
+    "name": "VOICE & AI",
+    "url": "https://www.voiceand.ai",
+    "startDate": "2024-10-28",
+    "endDate": "2024-10-30",
+    "city": "Arlington, VA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@GoModev",
+    "locales": "EN"
+  },
+  {
     "name": "API World",
     "url": "https://apiworld.co",
     "startDate": "2024-11-05",
@@ -299,16 +310,5 @@
     "cocUrl": "https://www.apidays.global/code-of-conduct/#",
     "locales": "EN",
     "mastodon": "@apidaysglobal@mastodon.social"
-  },
-  {
-    "name": "VOICE & AI",
-    "url": "https://www.voiceand.ai",
-    "startDate": "2024-10-28",
-    "endDate": "2024-10-30",
-    "city": "Arlington, VA",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@GoModev",
-    "locales": "EN"
   }
 ]
