@@ -67,15 +67,26 @@
     "locales": "EN"
   },
   {
-    "name": "Winter of C++",
-    "url": "https://winterofcpp.vercel.app",
-    "startDate": "2024-12-07",
-    "endDate": "2024-12-08",
-    "city": "Amsterdam",
-    "country": "Netherlands",
+    "name": "Cpp North",
+    "url": "https://cppnorth.ca",
+    "startDate": "2024-07-21",
+    "endDate": "2024-07-24",
+    "city": "Toronto",
+    "country": "Canada",
     "online": false,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfwHQvM-ZTligsb93zxBhkYbzNUG0J8XTJ3196Z0ygdX6I7qw/viewform",
-    "cfpEndDate": "2024-06-30",
+    "twitter": "@CppNorth",
+    "cocUrl": "https://cppnorth.ca/code-of-conduct.html",
     "locales": "EN"
+  },
+  {
+    "name": "CppCon",
+    "url": "https://cppcon.org",
+    "startDate": "2024-09-15",
+    "endDate": "2024-09-20",
+    "city": "Aurora, CO",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@cppcon",
+    "cocUrl": "https://cppcon.org/codeofconduct/"
   }
 ]

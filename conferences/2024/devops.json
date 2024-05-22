@@ -743,6 +743,15 @@
     "locales": "EN"
   },
   {
+    "name": "Portal Talks",
+    "url": "https://www.portaltalks.io",
+    "startDate": "2024-06-26",
+    "endDate": "2024-06-27",
+    "online": true,
+    "twitter": "@tweetsbyport",
+    "locales": "EN"
+  },
+  {
     "name": "KCD Lima",
     "url": "https://community.cncf.io/events/details/cncf-kcd-lima-peru-presents-kcd-lima-peru-2024",
     "startDate": "2024-07-20",
@@ -754,6 +763,18 @@
     "cfpEndDate": "2024-05-19",
     "twitter": "@KCDLimaPeru",
     "locales": "EN,ES"
+  },
+  {
+    "name": "Agile",
+    "url": "https://www.agilealliance.org/agile2024",
+    "startDate": "2024-07-22",
+    "endDate": "2024-07-26",
+    "city": "Dallas, TX",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@AgileAlliance",
+    "cocUrl": "https://www.agilealliance.org/code-of-conduct/",
+    "locales": "EN"
   },
   {
     "name": "Devopsdays Halifax",
@@ -952,6 +973,17 @@
     "locales": "EN, ES"
   },
   {
+    "name": "Innovate Virginia",
+    "url": "https://innovatevirginia.com",
+    "startDate": "2024-10-25",
+    "endDate": "2024-10-25",
+    "city": "Richmond, VA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@InnovateVA",
+    "locales": "EN"
+  },
+  {
     "name": "CloudX",
     "url": "https://www.developerweek.com/cloudx",
     "startDate": "2024-11-05",
@@ -1059,6 +1091,17 @@
     "locales": "EN"
   },
   {
+    "name": "Internet 2.0 Conference",
+    "url": "https://www.internet2conf.com",
+    "startDate": "2024-12-03",
+    "endDate": "2024-12-05",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "online": false,
+    "twitter": "@internet2conf",
+    "locales": "EN"
+  },
+  {
     "name": "Conf42 DevSecOps",
     "url": "https://www.conf42.com/devsecops2024",
     "startDate": "2024-12-05",
@@ -1068,6 +1111,17 @@
     "cfpEndDate": "2024-11-04",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct",
+    "locales": "EN"
+  },
+  {
+    "name": "Agile + DevOps",
+    "url": "https://agiledevopsusa.techwell.com/",
+    "startDate": "2024-10-13",
+    "endDate": "2024-10-18",
+    "city": "Orlando, FL",
+    "country": "U.S.A.",
+    "online": true,
+    "twitter": "@techwell",
     "locales": "EN"
   }
 ]
