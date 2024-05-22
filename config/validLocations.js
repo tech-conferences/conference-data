@@ -668,6 +668,7 @@ module.exports = {
     "Grand Rapids, MI",
     "Grants Pass, OR",
     "Grapevine, TX",
+    "Greenville, SC",
     "Half Moon Bay, CA",
     "Hartford, CT",
     "Henderson, NV",
