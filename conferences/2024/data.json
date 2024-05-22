@@ -722,6 +722,17 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Ai4",
+    "url": "https://ai4.io/vegas/",
+    "startDate": "2024-08-12",
+    "endDate": "2024-08-14",
+    "city": "Las Vegas, NV",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@Ai4Conferences",
+    "cocUrl": "https://ai4.io/usa/health-and-safety/"
+  },
+  {
     "name": "AI Showcase",
     "url": "https://sfai.vercel.app",
     "startDate": "2024-08-16",
@@ -912,6 +923,16 @@
     "locales": "EN"
   },
   {
+    "name": "GNRT.AI",
+    "url": "https://gnrt.ai",
+    "startDate": "2024-10-28",
+    "endDate": "2024-10-30",
+    "city": "Arlington, VA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN"
+  },
+  {
     "name": "CloudX",
     "url": "https://www.developerweek.com/cloudx",
     "startDate": "2024-11-05",
@@ -1055,16 +1076,5 @@
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct",
     "locales": "EN"
-  },
-  {
-    "name": "Ai4",
-    "url": "https://ai4.io/vegas/",
-    "startDate": "2024-08-12",
-    "endDate": "2024-08-14",
-    "city": "Las Vegas, NV",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@Ai4Conferences",
-    "cocUrl": "https://ai4.io/usa/health-and-safety/"
   }
 ]
