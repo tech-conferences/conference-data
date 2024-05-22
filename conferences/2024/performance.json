@@ -149,5 +149,18 @@
     "cocUrl": "https://qconferences.com/code-conduct",
     "locales": "EN",
     "mastodon": "@techhub.social@qcon"
+  },
+  {
+    "name": "ML Conference New York",
+    "url": "https://mlconference.ai/new-york",
+    "startDate": "2024-09-07",
+    "endDate": "2024-09-10",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": true,
+    "cfpUrl": "https://mlconference.ai/code-of-conduct",
+    "twitter": "@mlconference",
+    "cocUrl": "https://mlconference.ai/code-of-conduct/",
+    "locales": "EN"
   }
 ]
