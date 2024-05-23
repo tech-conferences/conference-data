@@ -688,6 +688,16 @@
     "locales": "EN"
   },
   {
+    "name": "AI in Production",
+    "url": "https://www.aiinproduction.com/",
+    "startDate": "2024-07-18",
+    "endDate": "2024-07-19",
+    "city": "Asheville, NC",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN"
+  },
+  {
     "name": "International Conference on Machine Learning (ICML)",
     "url": "https://icml.cc",
     "startDate": "2024-07-21",
@@ -771,6 +781,17 @@
     "locales": "EN"
   },
   {
+    "name": "CDAO Brazil",
+    "url": "https://www.quirks.com/events/cdao-brazil-2024",
+    "startDate": "2024-09-10",
+    "endDate": "2024-09-11",
+    "city": "São Paulo",
+    "country": "Brazil",
+    "online": false,
+    "twitter": "@CoriniumGlobal",
+    "locales": "EN,PT"
+  },
+  {
     "name": "PGDay UK",
     "url": "https://pgday.uk/",
     "startDate": "2024-09-11",
@@ -829,6 +850,16 @@
     "cfpEndDate": "2024-05-18",
     "cocUrl": "https://www.haya-data.com/code-of-conduct/",
     "locales": "EN,HE"
+  },
+  {
+    "name": "GovAI Summit",
+    "url": "https://www.govaisummit.com/",
+    "startDate": "2024-09-28",
+    "endDate": "2024-09-30",
+    "city": "Arlington, VA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN"
   },
   {
     "name": "PGConf NYC",
@@ -920,6 +951,17 @@
     "cfpEndDate": "2024-04-30",
     "twitter": "@dotaiconf",
     "cocUrl": "https://www.dotai.io/code-of-conduct",
+    "locales": "EN"
+  },
+  {
+    "name": "International Conference on Machine Learning and Artificial Intelligence",
+    "url": "https://www.pagesconferences.com/2024/robotics-artificial-intelligence",
+    "startDate": "2024-10-21",
+    "endDate": "2024-10-23",
+    "city": "Edinburgh",
+    "country": "U.K.",
+    "online": false,
+    "cocUrl": "https://www.pagesconferences.com/2024/robotics-artificial-intelligence",
     "locales": "EN"
   },
   {
@@ -1075,37 +1117,6 @@
     "cfpEndDate": "2024-11-18",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "locales": "EN"
-  },
-  {
-    "name": "GovAI Summit",
-    "url": "https://www.govaisummit.com/",
-    "startDate": "2024-09-28",
-    "endDate": "2024-09-30",
-    "city": "Arlington, VA",
-    "country": "U.S.A.",
-    "online": false,
-    "locales": "EN"
-  },
-  {
-    "name": "CDAO Brazil",
-    "url": "https://www.quirks.com/events/cdao-brazil-2024",
-    "startDate": "2024-09-10",
-    "endDate": "2024-09-11",
-    "city": "São Paulo",
-    "country": "Brazil",
-    "online": false,
-    "twitter": "@CoriniumGlobal",
-    "locales": "EN,PT"
-  },
-  {
-    "name": "AI in Production",
-    "url": "https://www.aiinproduction.com/",
-    "startDate": "2024-07-18",
-    "endDate": "2024-07-19",
-    "city": "Asheville, NC",
-    "country": "U.S.A.",
-    "online": false,
     "locales": "EN"
   }
 ]
