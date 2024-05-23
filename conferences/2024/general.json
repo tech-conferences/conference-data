@@ -1262,5 +1262,16 @@
     "cocUrl": "https://www.ittage.informatik-aktuell.de/konferenz/code-of-coduct.html",
     "locales": "DE,EN",
     "mastodon": "@informatikaktuell@det.social"
+  },
+  {
+    "name": "South Tyrol Free Software Conference",
+    "url": "https://www.sfscon.it/",
+    "startDate": "2024-11-08",
+    "endDate": "2024-11-09",
+    "city": "Bolzano",
+    "country": "Italy",
+    "online": true,
+    "twitter": "@SFScon",
+    "cocUrl": "https://www.sfscon.it/code-of-conduct/"
   }
 ]
