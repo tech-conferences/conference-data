@@ -611,6 +611,7 @@ module.exports = {
     "Alexandria, VA",
     "Anaheim, CA",
     "Arlington, VA",
+    "Asheville, NC",
     "Aspen, CO",
     "Atlanta, GA",
     "Atlantic Beach, FL",
