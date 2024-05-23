@@ -1244,10 +1244,23 @@
     "url": "https://www.dev2next.com/",
     "startDate": "2024-09-30",
     "endDate": "2024-10-03",
-    "city": "Lone Tree, CO",
+    "city": "Denver, CO",
     "country": "U.S.A.",
     "online": false,
+    "cfpUrl": "https://www.dev2next.com/cfp",
+    "cfpEndDate": "2024-03-31",
     "twitter": "@dev2next",
+    "locales": "EN"
+  },
+  {
+    "name": "CDAO Canada Public Sector",
+    "url": "https://cdao-canada-ps.coriniumintelligence.com/",
+    "startDate": "2024-07-18",
+    "endDate": "2024-07-19",
+    "city": "Ottawa",
+    "country": "Canada",
+    "online": false,
+    "twitter": "@CoriniumGlobal",
     "locales": "EN"
   }
 ]
