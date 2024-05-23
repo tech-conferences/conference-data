@@ -468,5 +468,17 @@
     "twitter": "@nofluff",
     "cocUrl": "https://archconf.com/home/code_of_conduct",
     "locales": "EN"
+  },
+  {
+    "name": "SOSS Policy Summit",
+    "url": "https://events.linuxfoundation.org/soss-policy-summit-dc/",
+    "startDate": "2024-09-09",
+    "endDate": "2024-09-09",
+    "city": "Washington, D.C.",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@openssf",
+    "cocUrl": "https://events.linuxfoundation.org/soss-policy-summit-dc/attend/code-of-conduct/",
+    "locales": "EN"
   }
 ]
