@@ -1262,5 +1262,17 @@
     "cocUrl": "https://www.ittage.informatik-aktuell.de/konferenz/code-of-coduct.html",
     "locales": "DE,EN",
     "mastodon": "@informatikaktuell@det.social"
+  },
+  {
+    "name": "Open Source Summit Japan",
+    "url": "https://events.linuxfoundation.org/open-source-summit-japan/",
+    "startDate": "2024-10-28",
+    "endDate": "2024-10-29",
+    "city": "Tokyo",
+    "country": "Japan",
+    "online": true,
+    "cfpUrl": "https://events.linuxfoundation.org/open-source-summit-japan/program/cfp",
+    "cocUrl": "https://events.linuxfoundation.org/open-source-summit-japan/program/cfp/#code-of-conduct",
+    "locales": "EN"
   }
 ]
