@@ -165,6 +165,20 @@
     "locales": "EN,HE"
   },
   {
+    "name": "Pytorch",
+    "url": "https://events.linuxfoundation.org/pytorch-conference/",
+    "startDate": "2024-09-18",
+    "endDate": "2024-09-19",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://events.linuxfoundation.org/pytorch-conference/program/cfp/",
+    "cfpEndDate": "2024-06-07",
+    "twitter": "@PyTorch",
+    "cocUrl": "https://events.linuxfoundation.org/pytorch-conference/attend/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "data2day",
     "url": "https://www.data2day.de",
     "startDate": "2024-09-18",
@@ -243,19 +257,5 @@
     "cfpEndDate": "2024-06-15",
     "twitter": "@neo4j",
     "locales": "EN"
-  },
-  {
-    "name": "Pytorch",
-    "url": "https://events.linuxfoundation.org/pytorch-conference/",
-    "startDate": "2024-09-18",
-    "endDate": "2024-09-19",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://events.linuxfoundation.org/pytorch-conference/program/cfp/",
-    "cfpEndDate": "2024-06-07",
-    "twitter": "@PyTorch",
-    "locales": "EN",
-    "cocUrl": "https://events.linuxfoundation.org/pytorch-conference/attend/code-of-conduct/"
   }
 ]
