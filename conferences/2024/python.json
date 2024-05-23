@@ -246,14 +246,16 @@
   },
   {
     "name": "Pytorch",
-    "url": "https://pytorch.org/events",
+    "url": "https://events.linuxfoundation.org/pytorch-conference/",
     "startDate": "2024-09-18",
     "endDate": "2024-09-19",
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "online": false,
-    "cfpUrl": "https://events.linuxfoundation.org/pytorch-conference/attend/code-of-conduct/",
+    "cfpUrl": "https://events.linuxfoundation.org/pytorch-conference/program/cfp/",
+    "cfpEndDate": "2024-06-07",
     "twitter": "@PyTorch",
-    "locales": "EN"
+    "locales": "EN",
+    "cocUrl": "https://events.linuxfoundation.org/pytorch-conference/attend/code-of-conduct/"
   }
 ]
