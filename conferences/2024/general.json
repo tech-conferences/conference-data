@@ -1262,5 +1262,18 @@
     "cocUrl": "https://www.ittage.informatik-aktuell.de/konferenz/code-of-coduct.html",
     "locales": "DE,EN",
     "mastodon": "@informatikaktuell@det.social"
+  },
+  {
+    "name": "DPDK Summit APAC",
+    "url": "https://events.linuxfoundation.org/dpdk-summit-apac/",
+    "startDate": "2024-07-09",
+    "endDate": "2024-07-10",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "online": true,
+    "cocUrl": "https://events.linuxfoundation.org/dpdk-summit-apac/attend/code-of-conduct/",
+    "cfpUrl": "https://events.linuxfoundation.org/dpdk-summit-apac/program/cfp/",
+    "twitter": "@dpdkproject",
+    "locales": "EN"
   }
 ]
