@@ -1172,5 +1172,17 @@
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct",
     "locales": "EN"
+  },
+  {
+    "name": "KubeCon + CloudNativeCon India",
+    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-india/",
+    "startDate": "2024-12-11",
+    "endDate": "2024-12-12",
+    "city": "Delhi",
+    "country": "India",
+    "online": false,
+    "twitter": "@KubeCon_",
+    "cocUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-india/attend/code-of-conduct/",
+    "locales": "EN"
   }
 ]
