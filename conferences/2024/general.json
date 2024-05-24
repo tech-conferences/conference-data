@@ -1247,6 +1247,18 @@
     "mastodon": "@bdxio@bdx.town"
   },
   {
+    "name": "South Tyrol Free Software Conference",
+    "url": "https://www.sfscon.it/",
+    "startDate": "2024-11-08",
+    "endDate": "2024-11-09",
+    "city": "Bolzano",
+    "country": "Italy",
+    "online": true,
+    "twitter": "@SFScon",
+    "cocUrl": "https://www.sfscon.it/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "WasmCon",
     "url": "https://events.linuxfoundation.org/wasmcon",
     "startDate": "2024-11-11",
