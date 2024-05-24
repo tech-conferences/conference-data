@@ -1005,6 +1005,20 @@
     "locales": "EN"
   },
   {
+    "name": "KubeDay Australia",
+    "url": "https://events.linuxfoundation.org/kubeday-australia/",
+    "startDate": "2024-10-15",
+    "endDate": "2024-10-15",
+    "city": "Melbourne",
+    "country": "Australia",
+    "online": false,
+    "cfpUrl": "https://events.linuxfoundation.org/kubeday-australia/program/cfp/",
+    "cfpEndDate": "2024-06-28",
+    "twitter": "@KubeCon_",
+    "cocUrl": "https://events.linuxfoundation.org/kubeday-australia/attend/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "Innovate Virginia",
     "url": "https://innovatevirginia.com",
     "startDate": "2024-10-25",
@@ -1041,6 +1055,20 @@
     "cfpEndDate": "2024-06-01",
     "twitter": "@Heapconf",
     "cocUrl": "https://heapcon.io/2024/code-of-conduct",
+    "locales": "EN"
+  },
+  {
+    "name": "KubeCon + CloudNativeCon North America",
+    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america",
+    "startDate": "2024-11-12",
+    "endDate": "2024-11-15",
+    "city": "Salt Lake City, UT",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/kubecon-cloudnativecon-north-america-2024",
+    "cfpEndDate": "2024-06-09",
+    "twitter": "@CloudNativeFdn",
+    "cocUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/attend/code-of-conduct/",
     "locales": "EN"
   },
   {
@@ -1143,20 +1171,6 @@
     "cfpEndDate": "2024-11-04",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "locales": "EN"
-  },
-  {
-    "name": "KubeCon + CloudNativeCon North America",
-    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america",
-    "startDate": "2024-11-12",
-    "endDate": "2024-11-15",
-    "city": "Salt Lake City, UT",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://sessionize.com/kubecon-cloudnativecon-north-america-2024",
-    "cfpEndDate": "2024-06-09",
-    "twitter": "@CloudNativeFdn",
-    "cocUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/attend/code-of-conduct/",
     "locales": "EN"
   }
 ]
