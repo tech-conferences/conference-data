@@ -539,6 +539,17 @@
     "locales": "EN"
   },
   {
+    "name": "Xen Project Summit/",
+    "url": "https://events.linuxfoundation.org/xen-project-summit/",
+    "startDate": "2024-06-04",
+    "endDate": "2024-06-06",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "online": false,
+    "twitter": "@xen_org",
+    "locales": "EN"
+  },
+  {
     "name": "Frontend Nation",
     "url": "https://frontendnation.com",
     "startDate": "2024-06-04",
@@ -1157,6 +1168,18 @@
     "locales": "EN"
   },
   {
+    "name": "Open Source Summit Japan",
+    "url": "https://events.linuxfoundation.org/open-source-summit-japan/",
+    "startDate": "2024-10-28",
+    "endDate": "2024-10-29",
+    "city": "Tokyo",
+    "country": "Japan",
+    "online": true,
+    "cfpUrl": "https://events.linuxfoundation.org/open-source-summit-japan/program/cfp",
+    "cocUrl": "https://events.linuxfoundation.org/open-source-summit-japan/program/cfp/#code-of-conduct",
+    "locales": "EN"
+  },
+  {
     "name": "SmashingConf Antwerp",
     "url": "https://smashingconf.com/antwerp-2024",
     "startDate": "2024-10-28",
@@ -1232,7 +1255,21 @@
     "country": "Italy",
     "online": true,
     "twitter": "@SFScon",
-    "cocUrl": "https://www.sfscon.it/code-of-conduct/"
+    "cocUrl": "https://www.sfscon.it/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
+    "name": "WasmCon",
+    "url": "https://events.linuxfoundation.org/wasmcon",
+    "startDate": "2024-11-11",
+    "endDate": "2024-11-12",
+    "city": "Salt Lake City, UT",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://events.linuxfoundation.org/wasmcon/program/cfp",
+    "twitter": "@linuxfoundation",
+    "cocUrl": "https://events.linuxfoundation.org/wasmcon/attend/code-of-conduct/",
+    "locales": "EN"
   },
   {
     "name": "DevFestYYC",
