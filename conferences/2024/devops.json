@@ -1133,5 +1133,19 @@
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct",
     "locales": "EN"
+  },
+  {
+    "name": "KubeCon + CloudNativeCon North America",
+    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america",
+    "startDate": "2024-11-12",
+    "endDate": "2024-11-15",
+    "city": "Salt Lake City, UT",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://sessionize.com/kubecon-cloudnativecon-north-america-2024",
+    "cfpEndDate": "2024-06-09",
+    "twitter": "@CloudNativeFdn",
+    "cocUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/attend/code-of-conduct/",
+    "locales": "EN"
   }
 ]
