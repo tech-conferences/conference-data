@@ -1262,5 +1262,18 @@
     "cocUrl": "https://www.ittage.informatik-aktuell.de/konferenz/code-of-coduct.html",
     "locales": "DE,EN",
     "mastodon": "@informatikaktuell@det.social"
+  },
+  {
+    "name": "WasmCon",
+    "url": "https://events.linuxfoundation.org/wasmcon",
+    "startDate": "2024-11-11",
+    "endDate": "2024-11-12",
+    "city": "Salt Lake City, UT",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://events.linuxfoundation.org/wasmcon/program/cfp",
+    "twitter": "@linuxfoundation",
+    "cocUrl": "https://events.linuxfoundation.org/wasmcon/attend/code-of-conduct/",
+    "locales": "EN"
   }
 ]
