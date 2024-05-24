@@ -60,6 +60,17 @@
     "locales": "EN,DE"
   },
   {
+    "name": "CSSDAY",
+    "url": "https://cssday.nl/2024",
+    "startDate": "2024-06-06",
+    "endDate": "2024-06-07",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": true,
+    "twitter": "@CSSDayConf",
+    "cocUrl": "https://cssday.nl/2024/contact#code-of-conduct"
+  },
+  {
     "name": "RenderATL",
     "url": "https://RenderATL.com",
     "startDate": "2024-06-12",
@@ -143,16 +154,5 @@
     "twitter": "@frontendbcn",
     "cocUrl": "https://frontend.barcelona/code-of-conduct",
     "locales": "EN"
-  },
-  {
-    "name": "CSSDAY",
-    "url": "https://cssday.nl/2024",
-    "startDate": "2024-06-06",
-    "endDate": "2024-06-07",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "online": true,
-    "twitter": "@CSSDayConf",
-    "cocUrl": "https://cssday.nl/2024/contact#code-of-conduct"
   }
 ]
