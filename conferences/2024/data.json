@@ -677,6 +677,18 @@
     "locales": "EN"
   },
   {
+    "name": "8th Annual Toronto Machine Learning Summit (TMLS)",
+    "url": "https://www.torontomachinelearning.com/",
+    "startDate": "2024-07-10",
+    "endDate": "2024-07-14",
+    "city": "Toronto",
+    "country": "Canada",
+    "online": true,
+    "twitter": "@TMLS_TO",
+    "cocUrl": "https://www.torontomachinelearning.com/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "DataConnect Conference",
     "url": "https://www.dataconnectconf.com",
     "startDate": "2024-07-11",
@@ -1117,18 +1129,6 @@
     "cfpEndDate": "2024-11-18",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "locales": "EN"
-  },
-  {
-    "name": "8th Annual Toronto Machine Learning Summit (TMLS)",
-    "url": "https://www.torontomachinelearning.com/",
-    "startDate": "2024-07-10",
-    "endDate": "2024-07-14",
-    "city": "Toronto",
-    "country": "Canada",
-    "online": true,
-    "twitter": "@TMLS_TO",
-    "cocUrl": "https://www.torontomachinelearning.com/code-of-conduct/",
     "locales": "EN"
   }
 ]

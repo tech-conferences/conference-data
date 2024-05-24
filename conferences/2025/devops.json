@@ -1,17 +1,5 @@
 [
   {
-    "name": "JCON EUROPE",
-    "url": "https://jcon.one",
-    "startDate": "2025-05-19",
-    "endDate": "2025-05-22",
-    "city": "Cologne",
-    "country": "Germany",
-    "online": false,
-    "twitter": "@jcon_conference",
-    "cocUrl": "https://2024.europe.jcon.one/code-of-conduct",
-    "locales": "EN,DE"
-  },
-  {
     "name": "KubeCon + CloudNativeCon Europe",
     "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2025/",
     "startDate": "2025-04-01",
@@ -22,5 +10,17 @@
     "cfpUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/cfp",
     "cocUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/code-of-conduct/",
     "locales": "EN"
+  },
+  {
+    "name": "JCON EUROPE",
+    "url": "https://jcon.one",
+    "startDate": "2025-05-19",
+    "endDate": "2025-05-22",
+    "city": "Cologne",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@jcon_conference",
+    "cocUrl": "https://2024.europe.jcon.one/code-of-conduct",
+    "locales": "EN,DE"
   }
 ]

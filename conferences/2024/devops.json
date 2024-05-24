@@ -762,6 +762,17 @@
     "locales": "EN"
   },
   {
+    "name": "DevSecOps Melbourne",
+    "url": "https://devsecops-mel.coriniumintelligence.com/",
+    "startDate": "2024-07-17",
+    "endDate": "2024-07-17",
+    "city": "Melbourne",
+    "country": "Australia",
+    "online": false,
+    "twitter": "@CoriniumGlobal",
+    "locales": "EN"
+  },
+  {
     "name": "KCD Lima",
     "url": "https://community.cncf.io/events/details/cncf-kcd-lima-peru-presents-kcd-lima-peru-2024",
     "startDate": "2024-07-20",
@@ -1132,17 +1143,6 @@
     "cfpEndDate": "2024-11-04",
     "twitter": "@conf42com",
     "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "locales": "EN"
-  },
-  {
-    "name": "DevSecOps Melbourne",
-    "url": "https://devsecops-mel.coriniumintelligence.com/",
-    "startDate": "2024-07-17",
-    "endDate": "2024-07-17",
-    "city": "Melbourne",
-    "country": "Australia",
-    "online": false,
-    "twitter": "@CoriniumGlobal",
     "locales": "EN"
   }
 ]
