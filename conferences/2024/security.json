@@ -468,5 +468,17 @@
     "twitter": "@nofluff",
     "cocUrl": "https://archconf.com/home/code_of_conduct",
     "locales": "EN"
+  },
+  {
+    "name": "CloudNativeSecurityCon",
+    "url": "https://events.linuxfoundation.org/cloudnativesecuritycon-north-america",
+    "startDate": "2024-06-26",
+    "endDate": "2024-06-27",
+    "city": "Seattle, WA",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/program/cfp",
+    "cocUrl": "https://events.linuxfoundation.org/about/code-of-conduct/",
+    "locales": "EN"
   }
 ]
