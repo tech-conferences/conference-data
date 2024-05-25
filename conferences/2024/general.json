@@ -1337,6 +1337,20 @@
     "locales": "EN"
   },
   {
+    "name": "Cephalocon",
+    "url": "https://events.linuxfoundation.org/cephalocon/",
+    "startDate": "2024-12-04",
+    "endDate": "2024-12-05",
+    "city": "Geneva",
+    "country": "Switzerland",
+    "online": false,
+    "cfpUrl": "https://events.linuxfoundation.org/cephalocon/program/cfp",
+    "cfpEndDate": "2024-08-11",
+    "twitter": "@Ceph",
+    "cocUrl": "https://events.linuxfoundation.org/cephalocon/attend/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "IT-Tage",
     "url": "https://www.it-tage.org",
     "startDate": "2024-12-09",
