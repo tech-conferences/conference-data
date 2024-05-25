@@ -3,7 +3,7 @@ const mergedConferencesReader = require('./utils/mergedConferencesReader');
 
 const mergedConferences = mergedConferencesReader();
 
-const fileName = "build/mergedConference.json";
+const fileName = 'build/mergedConference.json';
 
 if (Object.keys(mergedConferences.errors).length === 0) {
     fs.writeFile(fileName, JSON.stringify(mergedConferences.mergedConferences, null, 2), () => {

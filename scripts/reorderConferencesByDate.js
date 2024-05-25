@@ -10,32 +10,30 @@ const conferencesJSON = conferenceReader();
 
 const propertyOrder = require('../config/validFields');
 
-Object.keys(conferencesJSON).forEach((year) => {
-  Object.keys(conferencesJSON[year]).forEach((topic) => {
-    const fileName = `${BASE_DIR}/${year}/${topic}.json`;
+Object.keys(conferencesJSON).forEach(year => {
+    Object.keys(conferencesJSON[year]).forEach(topic => {
+        const fileName = `${BASE_DIR}/${year}/${topic}.json`;
 
-    const conferences = conferencesJSON[year][topic];
-    if (!Array.isArray(conferences)) {
-      return;
-    }
-    const sortedConfs = sortBy(conferences, [
-      (conf) => parse(conf.startDate, 'yyyy-MM-dd', new Date()).getTime(),
-      (conf) => parse(conf.endDate || conf.startDate, 'yyyy-MM-dd', new Date()).getTime(),
-      'name'
-    ]);
+        const conferences = conferencesJSON[year][topic];
+        if (!Array.isArray(conferences)) {
+            return;
+        }
+        const sortedConfs = sortBy(conferences, [
+            conf => parse(conf.startDate, 'yyyy-MM-dd', new Date()).getTime(),
+            conf => parse(conf.endDate || conf.startDate, 'yyyy-MM-dd', new Date()).getTime(),
+            'name'
+        ]);
 
-    const sortedConfByProperties = sortedConfs.map(conference => {
-      const sortedEntry = {};
-      propertyOrder.forEach(property => {
-        sortedEntry[property] = conference[property];
-      });
-      return sortedEntry;
+        const sortedConfByProperties = sortedConfs.map(conference => {
+            const sortedEntry = {};
+            propertyOrder.forEach(property => {
+                sortedEntry[property] = conference[property];
+            });
+            return sortedEntry;
+        });
+
+        fs.writeFile(fileName, JSON.stringify(sortedConfByProperties, null, 2), () => {
+            console.log(`File ${fileName} was successfully reordered`);
+        });
     });
-
-
-    fs.writeFile(fileName, JSON.stringify(sortedConfByProperties, null, 2), () => {
-      console.log(`File ${fileName} was successfully reordered`);
-    });
-
-  });
 });
