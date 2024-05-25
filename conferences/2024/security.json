@@ -480,5 +480,41 @@
     "twitter": "@nofluff",
     "cocUrl": "https://archconf.com/home/code_of_conduct",
     "locales": "EN"
+  },
+  {
+    "name": "SOSS Policy Summit",
+    "url": "https://events.linuxfoundation.org/soss-policy-summit-dc/",
+    "startDate": "2024-09-09",
+    "endDate": "2024-09-09",
+    "city": "Washington, DC",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@openssf",
+    "cocUrl": "https://events.linuxfoundation.org/soss-policy-summit-dc/attend/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
+    "name": "SOSS Community Day Europe",
+    "url": "https://events.linuxfoundation.org/soss-community-day-europe/",
+    "startDate": "2024-09-19",
+    "endDate": "2024-09-19",
+    "city": "Vienna",
+    "country": "Austria",
+    "online": false,
+    "twitter": "@openssf",
+    "cocUrl": "https://events.linuxfoundation.org/soss-community-day-europe/attend/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
+    "name": "SOSS Fusion",
+    "url": "https://events.linuxfoundation.org/soss-fusion/",
+    "startDate": "2024-10-22",
+    "endDate": "2024-10-23",
+    "city": "Atlanta, GA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@openssf",
+    "cocUrl": "https://events.linuxfoundation.org/soss-fusion/attend/code-of-conduct/",
+    "locales": "EN"
   }
 ]
