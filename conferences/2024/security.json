@@ -256,6 +256,18 @@
     "locales": "EN"
   },
   {
+    "name": "CloudNativeSecurityCon",
+    "url": "https://events.linuxfoundation.org/cloudnativesecuritycon-north-america",
+    "startDate": "2024-06-26",
+    "endDate": "2024-06-27",
+    "city": "Seattle, WA",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/program/cfp",
+    "cocUrl": "https://events.linuxfoundation.org/about/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "WeAreDevelopers - World Congress",
     "url": "https://www.wearedevelopers.com/world-congress",
     "startDate": "2024-07-17",
@@ -322,6 +334,18 @@
     "locales": "EN"
   },
   {
+    "name": "SOSS Policy Summit",
+    "url": "https://events.linuxfoundation.org/soss-policy-summit-dc/",
+    "startDate": "2024-09-09",
+    "endDate": "2024-09-09",
+    "city": "Washington, DC",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@openssf",
+    "cocUrl": "https://events.linuxfoundation.org/soss-policy-summit-dc/attend/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "Civo Navigate Europe",
     "url": "https://www.civo.com/navigate/europe",
     "startDate": "2024-09-10",
@@ -333,6 +357,18 @@
     "cfpEndDate": "2024-05-07",
     "twitter": "@CivoCloud",
     "cocUrl": "https://www.civo.com/navigate/code-of-conduct",
+    "locales": "EN"
+  },
+  {
+    "name": "SOSS Community Day Europe",
+    "url": "https://events.linuxfoundation.org/soss-community-day-europe/",
+    "startDate": "2024-09-19",
+    "endDate": "2024-09-19",
+    "city": "Vienna",
+    "country": "Austria",
+    "online": false,
+    "twitter": "@openssf",
+    "cocUrl": "https://events.linuxfoundation.org/soss-community-day-europe/attend/code-of-conduct/",
     "locales": "EN"
   },
   {
@@ -382,6 +418,18 @@
     "online": true,
     "twitter": "@serverlesscon",
     "cocUrl": "https://serverless-architecture.io/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
+    "name": "SOSS Fusion",
+    "url": "https://events.linuxfoundation.org/soss-fusion/",
+    "startDate": "2024-10-22",
+    "endDate": "2024-10-23",
+    "city": "Atlanta, GA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@openssf",
+    "cocUrl": "https://events.linuxfoundation.org/soss-fusion/attend/code-of-conduct/",
     "locales": "EN"
   },
   {
