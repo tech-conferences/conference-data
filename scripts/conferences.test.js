@@ -49,7 +49,7 @@ for (const year of Object.keys(conferencesJSON)) {
             checkConference(year, conference, assertField);
         }
         testResult.conferenceCounter += conferences.length;
-    };
+    }
     if (mergedConferences.errors[year]) {
         const errorsOfYear = mergedConferences.errors[year];
         function reportDuplicate(error, message) {
@@ -66,7 +66,7 @@ for (const year of Object.keys(conferencesJSON)) {
             reportDuplicate(almostIdentical, 'Found almost identical conference');
         }
     }
-};
+}
 
 logTestResult(testResult);
 console.timeEnd(label);
