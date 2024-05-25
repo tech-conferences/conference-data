@@ -1064,6 +1064,20 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Cloud Foundry Day",
+    "url": "https://events.linuxfoundation.org/cloud-foundry-day-europe/",
+    "startDate": "2024-10-09",
+    "endDate": "2024-10-09",
+    "city": "Karlsruhe",
+    "country": "Germany",
+    "online": true,
+    "cfpUrl": "https://events.linuxfoundation.org/cloud-foundry-day-europe/program/cfp/",
+    "cfpEndDate": "2024-07-14",
+    "twitter": "@cloudfoundry",
+    "cocUrl": "https://events.linuxfoundation.org/cloud-foundry-day-europe/attend/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "Airflow Summer",
     "url": "https://airflowsummit.org/",
     "startDate": "2024-10-10",
