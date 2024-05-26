@@ -1405,5 +1405,19 @@
         "cfpUrl": "https://events.linuxfoundation.org/bazelcon/program/cfp",
         "cfpEndDate": "2024-06-30",
         "locales": "EN"
+    },
+    {
+        "name": "Linux Plumbers Conference",
+        "url": "https://lpc.events/",
+        "startDate": "2024-09-18",
+        "endDate": "2024-09-20",
+        "city": "Vienna",
+        "country": "Austria",
+        "online": true,
+        "twitter": "@LinuxPlumbers",
+        "cfpUrl": "https://lpc.events/event/18/abstracts/",
+        "cfpEndDate": "2024-04-04",
+        "mastodon": "@linuxplumbersconf@mastodon.social",
+        "locales": "EN"
     }
 ]
