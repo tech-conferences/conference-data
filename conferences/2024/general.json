@@ -1393,6 +1393,20 @@
         "mastodon": "@informatikaktuell@det.social"
     },
     {
+        "name": "BazelCon",
+        "url": "https://events.linuxfoundation.org/bazelcon/",
+        "startDate": "2024-10-14",
+        "endDate": "2024-10-15",
+        "city": "Mountain View, CA",
+        "country": "U.S.A.",
+        "online": false,
+        "twitter": "@linuxfoundation",
+        "cocUrl": "https://events.linuxfoundation.org/bazelcon/attend/code-of-conduct/",
+        "cfpUrl": "https://events.linuxfoundation.org/bazelcon/program/cfp",
+        "cfpEndDate": "2024-06-30",
+        "locales": "EN"
+    },
+    {
         "name": "Linux Plumbers Conference",
         "url": "https://lpc.events/",
         "startDate": "2024-09-18",
