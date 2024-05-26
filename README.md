@@ -26,11 +26,19 @@ Conference data have the following structure:
 }
 ```
 
-## Active contributors
+## Contribution
+
+All contributions are welcome. Please read the [CONTRIBUTING guidelines](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
+
+## Active Contributors
 
 -   [Christian Grail](https://twitter.com/cgrail)
 -   [Nima Izadi](https://nimz.co)
 -   [Ekaterina Prigara](https://twitter.com/katyaprigara)
+
+### Contributors
+
+<a href="https://github.comtech-conferences/conference-data/graphs/contributors"><img src="https://contrib.rocks/image?repo=tech-conferences/conference-data" /></a>
 
 ## See all conferences
 
