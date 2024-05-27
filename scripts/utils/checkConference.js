@@ -80,5 +80,22 @@ module.exports = function checkConference(year, conference, assertField) {
         assertField(httpRegex.test(value), property, 'should start with http', value);
         assertField(!httpNoQuestionmarkRegex.test(value), property, 'should not contain a "?"', value);
         assertField(!urlShortener.test(value), property, 'should not use url shorteners', value);
+
+        const yearInUrl = value.match(/20\d{2}/);
+
+        // If a 4-digit number starting with "20" is found in the URL
+        if (yearInUrl) {
+            const year = yearInUrl[0];
+            const eventStartYear = new Date(conference.startDate).getFullYear();
+            const eventEndYear = new Date(conference.endDate).getFullYear();
+
+            // Check if the year in the URL matches the event start or end year
+            assertField(
+                year === eventStartYear.toString() || year === eventEndYear.toString(),
+                property,
+                `If a year is present in the URL, it should match the event start or end year`,
+                value
+            );
+        }
     }
 };
