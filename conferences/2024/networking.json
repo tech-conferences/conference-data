@@ -296,7 +296,7 @@
         "online": false,
         "cocUrl": "https://qconferences.com/code-conduct",
         "locales": "EN",
-        "mastodon": "@infoq@techhub.social"
+        "mastodon": "@techhub.social@infoq"
     },
     {
         "name": "droidcon Berlin",
@@ -346,6 +346,16 @@
         "country": "Sweden",
         "online": false,
         "cocUrl": "https://techheads.se/code-of-conduct/",
+        "locales": "EN"
+    },
+    {
+        "name": "Camunda Community Summit",
+        "url": "https://www.camundacon.com/na/",
+        "startDate": "2024-10-16",
+        "endDate": "2024-10-17",
+        "city": "New York, NY",
+        "country": "U.S.A.",
+        "online": true,
         "locales": "EN"
     },
     {
@@ -412,7 +422,7 @@
         "online": false,
         "cocUrl": "https://qconferences.com/code-conduct",
         "locales": "EN",
-        "mastodon": "@qcon@techhub.social"
+        "mastodon": "@techhub.social@qcon"
     },
     {
         "name": "Open Source Monitoring Conference",
