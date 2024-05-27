@@ -30,15 +30,23 @@ Conference data have the following structure:
 
 All contributions are welcome. Please read the [CONTRIBUTING guidelines](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
 
-## Active Contributors
+## Maintainers
 
--   [Christian Grail](https://twitter.com/cgrail)
--   [Nima Izadi](https://nimz.co)
--   [Ekaterina Prigara](https://twitter.com/katyaprigara)
+Need help while contributing? Tag any of the maintainers when creating the issue. You can tag us using: `@username`
 
-### Contributors
+<table>
+<tr>
+<td align="center" width="200"><pre><a href="https://twitter.com/cgrail"><img src="https://avatars.githubusercontent.com/u/5702278?v=4" width="200" alt="GitHub Profile picture of Rupali Haldiya" /><br><sub>Christian Grail</sub></a><br>@cgrail</pre></td>
+<td align="center" width="200"><pre><a href="https://nimz.co"><img src="https://avatars.githubusercontent.com/u/445045?v=4" width="200" alt="GitHub Profile picture of Christine Belzie" /><br><sub>Nima Izadi</sub></a><br>@nimzco</pre></td>
+<td align="center" width="200"><pre><a href="https://x.com/katyaprigara"><img src="https://avatars.githubusercontent.com/u/782562?v=4" width="200" alt="GitHub Profile picture of Anmol Baranwal" /><br><sub>Ekaterina Prigara</sub></a><br>@prigara</pre></td>
+<td align="center" width="200"><pre><a href="https://github.com/JuanPabloDiaz"><img src="https://avatars.githubusercontent.com/u/25883220?v=4" width="200" alt="GitHub Profile picture of Anmol Baranwal" /><br><sub>Juan Diaz
+</sub></a><br>@JuanPabloDiaz</pre></td>
+</tr>
+</table>
 
-<a href="https://github.comtech-conferences/conference-data/graphs/contributors"><img src="https://contrib.rocks/image?repo=tech-conferences/conference-data" /></a>
+## Top 50 Contributors
+
+<a href="https://github.comtech-conferences/conference-data/graphs/contributors"><img src="https://contrib.rocks/image?max=50&repo=tech-conferences/conference-data" /></a>
 
 ## See all conferences
 
