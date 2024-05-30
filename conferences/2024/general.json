@@ -1455,5 +1455,19 @@
         "cocUrl": "https://www.paris-web.fr/code-de-conduite.php",
         "locales": "FR",
         "offersSignLanguageOrCC": true
+    },
+    {
+        "name": "Web Directions Summit",
+        "url": "https://webdirections.org/dev-summit/",
+        "startDate": "2024-11-27",
+        "endDate": "2024-11-28",
+        "city": "Sydney",
+        "country": "Australia",
+        "online": true,
+        "cfpUrl": "https://webdirections.org/speaking",
+        "twitter": "@webdirections",
+        "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
+        "locales": "EN",
+        "offersSignLanguageOrCC": true
     }
 ]
