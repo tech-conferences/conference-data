@@ -833,6 +833,20 @@
     "locales": "EN"
   },
   {
+    "name": "KubeCon, CloudNativeCon, Open Source Summit and AI_dev",
+    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-open-source-summit-ai-dev-china/",
+    "startDate": "2024-08-21",
+    "endDate": "2024-08-23",
+    "city": "Hong Kong",
+    "country": "Hong Kong",
+    "online": false,
+    "cfpUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-open-source-summit-ai-dev-china/program/call-for-proposal/",
+    "cfpEndDate": "2024-05-05",
+    "twitter": "@KubeCon_",
+    "cocUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-open-source-summit-ai-dev-china/attend/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "Testμ Conference",
     "url": "https://www.lambdatest.com/testmuconf-2024",
     "startDate": "2024-08-21",
@@ -1030,6 +1044,16 @@
     "cfpEndDate": "2024-06-28",
     "twitter": "@KubeCon_",
     "cocUrl": "https://events.linuxfoundation.org/kubeday-australia/attend/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
+    "name": "Camunda Community Summit",
+    "url": "https://www.camundacon.com/na/",
+    "startDate": "2024-10-16",
+    "endDate": "2024-10-17",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": true,
     "locales": "EN"
   },
   {

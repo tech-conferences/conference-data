@@ -220,6 +220,17 @@
     "locales": "EN"
   },
   {
+    "name": "RISK Conference",
+    "url": "https://risk-conference.com",
+    "startDate": "2024-06-12",
+    "endDate": "2024-06-13",
+    "city": "Laško",
+    "country": "Slovenia",
+    "online": false,
+    "twitter": "@REAL__security",
+    "locales": "EN"
+  },
+  {
     "name": "BSides Strasbourg",
     "url": "https://bsides-sxb.fr",
     "startDate": "2024-06-18",
@@ -334,6 +345,18 @@
     "locales": "EN"
   },
   {
+    "name": "SOSS Policy Summit",
+    "url": "https://events.linuxfoundation.org/soss-policy-summit-dc/",
+    "startDate": "2024-09-09",
+    "endDate": "2024-09-09",
+    "city": "Washington, DC",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@openssf",
+    "cocUrl": "https://events.linuxfoundation.org/soss-policy-summit-dc/attend/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "Civo Navigate Europe",
     "url": "https://www.civo.com/navigate/europe",
     "startDate": "2024-09-10",
@@ -345,6 +368,32 @@
     "cfpEndDate": "2024-05-07",
     "twitter": "@CivoCloud",
     "cocUrl": "https://www.civo.com/navigate/code-of-conduct",
+    "locales": "EN"
+  },
+  {
+    "name": "Linux security summit Europe",
+    "url": "https://events.linuxfoundation.org/linux-security-summit-europe/",
+    "startDate": "2024-09-16",
+    "endDate": "2024-09-17",
+    "city": "Vienna",
+    "country": "Austria",
+    "online": true,
+    "twitter": "@linuxfoundation",
+    "cocUrl": "https://events.linuxfoundation.org/linux-security-summit-europe/attend/code-of-conduct/",
+    "cfpUrl": "https://events.linuxfoundation.org/linux-security-summit-europe/program/cfp/",
+    "cfpEndDate": "2024-05-19",
+    "locales": "EN"
+  },
+  {
+    "name": "SOSS Community Day Europe",
+    "url": "https://events.linuxfoundation.org/soss-community-day-europe/",
+    "startDate": "2024-09-19",
+    "endDate": "2024-09-19",
+    "city": "Vienna",
+    "country": "Austria",
+    "online": false,
+    "twitter": "@openssf",
+    "cocUrl": "https://events.linuxfoundation.org/soss-community-day-europe/attend/code-of-conduct/",
     "locales": "EN"
   },
   {
@@ -385,6 +434,17 @@
     "locales": "EN"
   },
   {
+    "name": "Software Architecture Summit",
+    "url": "https://software-architecture-summit.de/berlin",
+    "startDate": "2024-10-14",
+    "endDate": "2024-10-16",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@SoftwArchSummit",
+    "locales": "DE"
+  },
+  {
     "name": "Serverless Architecture Conference Berlin",
     "url": "https://serverless-architecture.io/berlin",
     "startDate": "2024-10-21",
@@ -394,6 +454,18 @@
     "online": true,
     "twitter": "@serverlesscon",
     "cocUrl": "https://serverless-architecture.io/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
+    "name": "SOSS Fusion",
+    "url": "https://events.linuxfoundation.org/soss-fusion/",
+    "startDate": "2024-10-22",
+    "endDate": "2024-10-23",
+    "city": "Atlanta, GA",
+    "country": "U.S.A.",
+    "online": false,
+    "twitter": "@openssf",
+    "cocUrl": "https://events.linuxfoundation.org/soss-fusion/attend/code-of-conduct/",
     "locales": "EN"
   },
   {

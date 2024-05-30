@@ -23,11 +23,13 @@ const locations = {};
         }
     }
     const sortedLocations = {};
-    Object.keys(locations).sort().map(location => {
-        if(location !== "undefined"){
-            sortedLocations[location] = locations[location].sort();
-        }
-    })
-    console.log(JSON.stringify(sortedLocations, null, "  "));
-    fs.writeFile("config/validLocations.js", "module.exports = " + JSON.stringify(sortedLocations, null, 2));
-})()
+    Object.keys(locations)
+        .sort()
+        .map(location => {
+            if (location !== 'undefined') {
+                sortedLocations[location] = locations[location].sort();
+            }
+        });
+    console.log(JSON.stringify(sortedLocations, null, '  '));
+    fs.writeFile('config/validLocations.js', 'module.exports = ' + JSON.stringify(sortedLocations, null, 2));
+})();
