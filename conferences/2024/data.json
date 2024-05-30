@@ -952,6 +952,20 @@
         "locales": "EN"
     },
     {
+        "name": "AI.dev: Open Souce GenAI & ML Summit",
+        "url": "https://events.linuxfoundation.org/ai-dev-north-america/",
+        "startDate": "2024-10-14",
+        "endDate": "2024-10-15",
+        "city": "Seattle, WA",
+        "country": "U.S.A.",
+        "online": false,
+        "cfpUrl": "https://events.linuxfoundation.org/ai-dev-north-america/program/cfp",
+        "cfpEndDate": "2023-10-23",
+        "twitter": "@LinuxFoundation",
+        "cocUrl": "https://events.linuxfoundation.org/ai-dev-north-america/attend/code-of-conduct/",
+        "locales": "EN"
+    },
+    {
         "name": "dotAI",
         "url": "https://www.dotai.io",
         "startDate": "2024-10-17",
@@ -1143,6 +1157,17 @@
         "cfpEndDate": "2024-11-18",
         "twitter": "@conf42com",
         "cocUrl": "https://www.conf42.com/code-of-conduct",
+        "locales": "EN"
+    },
+    {
+        "name": "CDAO Nordics",
+        "url": "https://cdao-nordics.coriniumintelligence.com/",
+        "startDate": "2024-11-19",
+        "endDate": "2024-11-19",
+        "city": "Stockholm",
+        "country": "Sweden",
+        "online": false,
+        "twitter": "@CoriniumGlobal",
         "locales": "EN"
     }
 ]
