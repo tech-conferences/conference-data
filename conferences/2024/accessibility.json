@@ -78,5 +78,18 @@
         "cocUrl": "https://www.paris-web.fr/code-de-conduite.php",
         "locales": "FR",
         "offersSignLanguageOrCC": true
+    },
+    {
+        "name": "#a11yTO Conf",
+        "url": "https://conf.a11yto.com",
+        "startDate": "2024-10-03",
+        "endDate": "2024-10-04",
+        "city": "Toronto",
+        "country": "Canada",
+        "online": true,
+        "twitter": "@a11yto",
+        "cocUrl": "https://conf.a11yto.com/code-of-conduct",
+        "locales": "EN",
+        "offersSignLanguageOrCC": true
     }
 ]
