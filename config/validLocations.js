@@ -506,7 +506,8 @@ module.exports = {
   ],
   "Slovenia": [
     "Ljubljana",
-    "Portorož"
+    "Portorož",
+    "Laško"
   ],
   "South Africa": [
     "Cape Town",
