@@ -35,18 +35,25 @@ All contributions are welcome. Please read the [CONTRIBUTING guidelines](CONTRIB
 Need help while contributing? Tag any of the maintainers when creating the issue. You can tag us using: `@username`
 
 <table>
-<tr>
-<td align="center" width="200"><pre><a href="https://twitter.com/cgrail"><img src="https://avatars.githubusercontent.com/u/5702278?v=4" width="200" alt="GitHub Profile picture of Christian Grail" /><br><sub>Christian Grail</sub></a><br>@cgrail</pre></td>
-<td align="center" width="200"><pre><a href="https://nimz.co"><img src="https://avatars.githubusercontent.com/u/445045?v=4" width="200" alt="GitHub Profile picture of Nima Izadi" /><br><sub>Nima Izadi</sub></a><br>@nimzco</pre></td>
-<td align="center" width="200"><pre><a href="https://x.com/katyaprigara"><img src="https://avatars.githubusercontent.com/u/782562?v=4" width="200" alt="GitHub Profile picture of Ekaterina Prigara" /><br><sub>Ekaterina Prigara</sub></a><br>@prigara</pre></td>
-<td align="center" width="200"><pre><a href="https://github.com/JuanPabloDiaz"><img src="https://avatars.githubusercontent.com/u/25883220?v=4" width="200" alt="GitHub Profile picture of Juan Diaz" /><br><sub>Juan Diaz
-</sub></a><br>@JuanPabloDiaz</pre></td>
-</tr>
+    <tr>
+        <td align="center" width="200">
+            <pre><a href="https://github.com/cgrail"><img src="https://avatars.githubusercontent.com/u/5702278?size=200" width="200" alt="GitHub Profile picture of Christian Grail" /><br><sub>Christian Grail</sub></a><br>@cgrail</pre>
+        </td>
+        <td align="center" width="200">
+            <pre><a href="https://github.com/nimzco"><img src="https://avatars.githubusercontent.com/u/445045?size=200" width="200" alt="GitHub Profile picture of Nima Izadi" /><br><sub>Nima Izadi</sub></a><br>@nimzco</pre>
+        </td>
+        <td align="center" width="200">
+            <pre><a href="https://github.com/prigara"><img src="https://avatars.githubusercontent.com/u/782562?size=200" width="200" alt="GitHub Profile picture of Ekaterina Prigara" /><br><sub>Ekaterina Prigara</sub></a><br>@prigara</pre>
+        </td>
+        <td align="center" width="200">
+            <pre><a href="https://github.com/JuanPabloDiaz"><img src="https://avatars.githubusercontent.com/u/25883220?size=200" width="200" alt="GitHub Profile picture of Juan Diaz" /><br><sub>Juan Diaz</sub></a><br>@JuanPabloDiaz</pre>
+        </td>
+    </tr>
 </table>
 
 ## Top 50 Contributors
 
-<a href="https://github.comtech-conferences/conference-data/graphs/contributors"><img src="https://contrib.rocks/image?max=50&repo=tech-conferences/conference-data" /></a>
+<a href="https://github.com/tech-conferences/conference-data/graphs/contributors"><img src="https://contrib.rocks/image?max=50&repo=tech-conferences/conference-data" /></a>
 
 ## See all conferences
 
