@@ -570,6 +570,20 @@
         "locales": "EN"
     },
     {
+        "name": "AI_dev: Open Souce GenAI & ML Summit",
+        "url": "https://events.linuxfoundation.org/ai-dev-europe/",
+        "startDate": "2024-06-19",
+        "endDate": "2024-06-20",
+        "city": "Paris",
+        "country": "France",
+        "online": false,
+        "cfpUrl": "https://events.linuxfoundation.org/ai-dev-europe/program/cfp",
+        "cfpEndDate": "2024-03-05",
+        "twitter": "@LinuxFoundation",
+        "cocUrl": "https://events.linuxfoundation.org/ai-dev-europe/attend/code-of-conduct/",
+        "locales": "EN"
+    },
+    {
         "name": "CascadiaJS",
         "url": "https://cascadiajs.com/2024",
         "startDate": "2024-06-19",
@@ -974,6 +988,20 @@
         "country": "U.K.",
         "online": false,
         "cocUrl": "https://www.pagesconferences.com/2024/robotics-artificial-intelligence",
+        "locales": "EN"
+    },
+    {
+        "name": "AI_dev: Open Souce GenAI & ML Summit Japan",
+        "url": "https://events.linuxfoundation.org/ai-dev-japan/",
+        "startDate": "2024-10-28",
+        "endDate": "2024-10-29",
+        "city": "Tokyo",
+        "country": "Japan",
+        "online": false,
+        "cfpUrl": "https://events.linuxfoundation.org/ai-dev-japan/program/cfp",
+        "cfpEndDate": "2024-07-07",
+        "twitter": "@LinuxFoundation",
+        "cocUrl": "https://events.linuxfoundation.org/ai-dev-japan/attend/code-of-conduct/",
         "locales": "EN"
     },
     {
