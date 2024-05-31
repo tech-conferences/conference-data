@@ -52,6 +52,33 @@
     "locales": "EN,UK"
   },
   {
+    "name": "Paris Web",
+    "url": "https://www.paris-web.fr",
+    "startDate": "2024-09-26",
+    "endDate": "2024-09-28",
+    "city": "Paris",
+    "country": "France",
+    "online": false,
+    "cfpUrl": "https://appel.paris-web.fr",
+    "twitter": "@parisweb",
+    "cocUrl": "https://www.paris-web.fr/code-de-conduite.php",
+    "locales": "FR",
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "#a11yTO Conf",
+    "url": "https://conf.a11yto.com",
+    "startDate": "2024-10-03",
+    "endDate": "2024-10-04",
+    "city": "Toronto",
+    "country": "Canada",
+    "online": true,
+    "twitter": "@a11yto",
+    "cocUrl": "https://conf.a11yto.com/code-of-conduct",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "Agile Testing Days",
     "url": "https://agiletestingdays.com",
     "startDate": "2024-11-19",
@@ -63,6 +90,34 @@
     "cfpEndDate": "2024-02-11",
     "twitter": "@AgileTD",
     "cocUrl": "https://agiletestingdays.com/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
+    "name": "Web Directions Summit",
+    "url": "https://webdirections.org/dev-summit/",
+    "startDate": "2024-11-27",
+    "endDate": "2024-11-28",
+    "city": "Sydney",
+    "country": "Australia",
+    "online": true,
+    "cfpUrl": "https://webdirections.org/speaking",
+    "twitter": "@webdirections",
+    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "WeyWeyWeb",
+    "url": "https://www.weyweyweb.com",
+    "startDate": "2024-11-27",
+    "endDate": "2024-11-29",
+    "city": "Malaga",
+    "country": "Spain",
+    "online": false,
+    "cfpUrl": "https://forms.gle/9PMZza735aVeDBaV7",
+    "cfpEndDate": "2024-06-30",
+    "twitter": "@WeyWeyWeb",
+    "cocUrl": "https://recursos.yeswetech.org/guias/codigo-de-conducta/en-code-of-conduct",
     "locales": "EN"
   }
 ]

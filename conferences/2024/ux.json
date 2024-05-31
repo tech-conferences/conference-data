@@ -255,6 +255,31 @@
     "locales": "EN"
   },
   {
+    "name": "Paris Web",
+    "url": "https://www.paris-web.fr",
+    "startDate": "2024-09-26",
+    "endDate": "2024-09-28",
+    "city": "Paris",
+    "country": "France",
+    "online": false,
+    "cfpUrl": "https://appel.paris-web.fr",
+    "twitter": "@parisweb",
+    "cocUrl": "https://www.paris-web.fr/code-de-conduite.php",
+    "locales": "FR",
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "Software Architecture Summit",
+    "url": "https://software-architecture-summit.de/berlin",
+    "startDate": "2024-10-14",
+    "endDate": "2024-10-16",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@SoftwArchSummit",
+    "locales": "DE"
+  },
+  {
     "name": "PUSH UX",
     "url": "https://push-conference.com",
     "startDate": "2024-11-07",
@@ -262,6 +287,20 @@
     "city": "Munich",
     "country": "Germany",
     "online": false,
+    "locales": "EN"
+  },
+  {
+    "name": "WeyWeyWeb",
+    "url": "https://www.weyweyweb.com",
+    "startDate": "2024-11-27",
+    "endDate": "2024-11-29",
+    "city": "Malaga",
+    "country": "Spain",
+    "online": false,
+    "cfpUrl": "https://forms.gle/9PMZza735aVeDBaV7",
+    "cfpEndDate": "2024-06-30",
+    "twitter": "@WeyWeyWeb",
+    "cocUrl": "https://recursos.yeswetech.org/guias/codigo-de-conducta/en-code-of-conduct",
     "locales": "EN"
   }
 ]

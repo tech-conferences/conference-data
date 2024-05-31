@@ -644,6 +644,17 @@
     "locales": "EN"
   },
   {
+    "name": "RISK Conference",
+    "url": "https://risk-conference.com",
+    "startDate": "2024-06-12",
+    "endDate": "2024-06-13",
+    "city": "Laško",
+    "country": "Slovenia",
+    "online": false,
+    "twitter": "@REAL__security",
+    "locales": "EN"
+  },
+  {
     "name": "RenderATL",
     "url": "https://RenderATL.com",
     "startDate": "2024-06-12",
@@ -1060,6 +1071,20 @@
     "locales": "EN"
   },
   {
+    "name": "Paris Web",
+    "url": "https://www.paris-web.fr",
+    "startDate": "2024-09-26",
+    "endDate": "2024-09-28",
+    "city": "Paris",
+    "country": "France",
+    "online": false,
+    "cfpUrl": "https://appel.paris-web.fr",
+    "twitter": "@parisweb",
+    "cocUrl": "https://www.paris-web.fr/code-de-conduite.php",
+    "locales": "FR",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "betterCode() ArchDoc",
     "url": "https://archdoc.bettercode.eu",
     "startDate": "2024-09-30",
@@ -1089,7 +1114,7 @@
     "city": "Copenhagen",
     "country": "Denmark",
     "online": false,
-    "twitter": "@@GOTOcon",
+    "twitter": "@GOTOcon",
     "cocUrl": "https://gotocph.com/2024/code-of-conduct",
     "locales": "EN"
   },
@@ -1168,6 +1193,17 @@
     "twitter": "@gsas_io",
     "cocUrl": "https://gsas.io/codeofconduct",
     "locales": "EN"
+  },
+  {
+    "name": "Software Architecture Summit",
+    "url": "https://software-architecture-summit.de/berlin",
+    "startDate": "2024-10-14",
+    "endDate": "2024-10-16",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@SoftwArchSummit",
+    "locales": "DE"
   },
   {
     "name": "Momentum Developer Conference",
@@ -1389,6 +1425,34 @@
     "cfpEndDate": "2024-03-29",
     "twitter": "@open_conf",
     "cocUrl": "https://www.open-conf.gr/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
+    "name": "Web Directions Summit",
+    "url": "https://webdirections.org/dev-summit/",
+    "startDate": "2024-11-27",
+    "endDate": "2024-11-28",
+    "city": "Sydney",
+    "country": "Australia",
+    "online": true,
+    "cfpUrl": "https://webdirections.org/speaking",
+    "twitter": "@webdirections",
+    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "WeyWeyWeb",
+    "url": "https://www.weyweyweb.com",
+    "startDate": "2024-11-27",
+    "endDate": "2024-11-29",
+    "city": "Malaga",
+    "country": "Spain",
+    "online": false,
+    "cfpUrl": "https://forms.gle/9PMZza735aVeDBaV7",
+    "cfpEndDate": "2024-06-30",
+    "twitter": "@WeyWeyWeb",
+    "cocUrl": "https://recursos.yeswetech.org/guias/codigo-de-conducta/en-code-of-conduct",
     "locales": "EN"
   },
   {

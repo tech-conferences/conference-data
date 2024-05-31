@@ -220,6 +220,17 @@
     "locales": "EN"
   },
   {
+    "name": "RISK Conference",
+    "url": "https://risk-conference.com",
+    "startDate": "2024-06-12",
+    "endDate": "2024-06-13",
+    "city": "Laško",
+    "country": "Slovenia",
+    "online": false,
+    "twitter": "@REAL__security",
+    "locales": "EN"
+  },
+  {
     "name": "BSides Strasbourg",
     "url": "https://bsides-sxb.fr",
     "startDate": "2024-06-18",
@@ -265,6 +276,17 @@
     "online": false,
     "cfpUrl": "https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/program/cfp",
     "cocUrl": "https://events.linuxfoundation.org/about/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
+    "name": "CISO Melbourne",
+    "url": "https://ciso-mel.coriniumintelligence.com/",
+    "startDate": "2024-07-16",
+    "endDate": "2024-07-17",
+    "city": "Melbourne",
+    "country": "Australia",
+    "online": false,
+    "twitter": "@CoriniumGlobal",
     "locales": "EN"
   },
   {
@@ -331,6 +353,17 @@
     "city": "Arlington, VA",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN"
+  },
+  {
+    "name": "CISO Brisbane",
+    "url": "https://ciso-bris.coriniumintelligence.com/",
+    "startDate": "2024-08-27",
+    "endDate": "2024-08-27",
+    "city": "Brisbane",
+    "country": "Australia",
+    "online": false,
+    "twitter": "@CoriniumGlobal",
     "locales": "EN"
   },
   {
@@ -421,6 +454,17 @@
     "country": "Sweden",
     "online": false,
     "locales": "EN"
+  },
+  {
+    "name": "Software Architecture Summit",
+    "url": "https://software-architecture-summit.de/berlin",
+    "startDate": "2024-10-14",
+    "endDate": "2024-10-16",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "twitter": "@SoftwArchSummit",
+    "locales": "DE"
   },
   {
     "name": "Serverless Architecture Conference Berlin",
