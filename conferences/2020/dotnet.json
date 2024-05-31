@@ -1,196 +1,196 @@
 [
-    {
-        "name": "BASTA! Spring",
-        "url": "https://basta.net",
-        "startDate": "2020-02-24",
-        "endDate": "2020-02-28",
-        "city": "Frankfurt am Main",
-        "country": "Germany",
-        "twitter": "@BASTAcon"
-    },
-    {
-        "name": "dotnetdays",
-        "url": "https://dotnetdays.ro",
-        "startDate": "2020-02-29",
-        "endDate": "2020-02-29",
-        "city": "Iasi",
-        "country": "Romania",
-        "twitter": "@dotnetdaysro"
-    },
-    {
-        "name": "Visual Studio Live! Las Vegas",
-        "url": "https://vslive.com/Events/Las-Vegas-2020/Home.aspx",
-        "startDate": "2020-03-01",
-        "endDate": "2020-03-06",
-        "city": "Las Vegas, NV",
-        "country": "U.S.A.",
-        "twitter": "@vslive"
-    },
-    {
-        "name": "NYAN Conference",
-        "url": "https://nyanconference.splashthat.com",
-        "startDate": "2020-03-03",
-        "endDate": "2020-03-03",
-        "city": "Paris",
-        "country": "France",
-        "twitter": "@NYANconf"
-    },
-    {
-        "name": ".NET fwdays",
-        "url": "https://fwdays.com/en/event/dotnet-fwdays-2020",
-        "startDate": "2020-04-11",
-        "endDate": "2020-04-18",
-        "city": "Kyiv",
-        "country": "Ukraine",
-        "twitter": "@fwdays"
-    },
-    {
-        "name": "Microsoft Build - Digital",
-        "url": "https://www.microsoft.com/en-us/build",
-        "startDate": "2020-05-19",
-        "endDate": "2020-05-21",
-        "online": true,
-        "twitter": "@msdev"
-    },
-    {
-        "name": ".NET Conf: Focus on Microservices",
-        "url": "https://focus.dotnetconf.net/",
-        "startDate": "2020-07-30",
-        "endDate": "2020-07-30",
-        "online": true
-    },
-    {
-        "name": ".NET Summit",
-        "url": "https://dotnetsummit.by",
-        "startDate": "2020-08-07",
-        "endDate": "2020-08-08",
-        "online": true,
-        "twitter": "@dotnetby"
-    },
-    {
-        "name": ".Net Day Franken",
-        "url": "https://www.dotnet-day-franken.de",
-        "startDate": "2020-09-11",
-        "endDate": "2020-09-12",
-        "city": "Nürnberg",
-        "country": "Germany",
-        "twitter": "@NETDayFranken"
-    },
-    {
-        "name": "Future Tech",
-        "url": "https://futuretech.nl",
-        "startDate": "2020-09-16",
-        "endDate": "2020-09-16",
-        "city": "Utrecht",
-        "country": "Netherlands",
-        "twitter": "@FutureTechNL"
-    },
-    {
-        "name": "Basta",
-        "url": "https://basta.net",
-        "startDate": "2020-09-21",
-        "endDate": "2020-09-25",
-        "city": "Mainz",
-        "country": "Germany",
-        "twitter": "@BASTAcon"
-    },
-    {
-        "name": "Dotnetos Conference",
-        "url": "https://conf.dotnetos.org",
-        "startDate": "2020-10-01",
-        "endDate": "2020-10-02",
-        "city": "Warsaw",
-        "country": "Poland",
-        "twitter": "@dotnetosorg"
-    },
-    {
-        "name": "MS Stage",
-        "url": "https://msstage.com",
-        "startDate": "2020-10-02",
-        "endDate": "2020-10-02",
-        "online": true
-    },
-    {
-        "name": "DotFest",
-        "url": "https://dotfest.ru",
-        "startDate": "2020-10-16",
-        "endDate": "2020-10-17",
-        "city": "Novosibirsk",
-        "country": "Russia",
-        "cfpUrl": "https://hardfest.ru/en/#rec216142907",
-        "cfpEndDate": "2020-09-14"
-    },
-    {
-        "name": ".NET DeveloperDays",
-        "url": "https://net.developerdays.pl",
-        "startDate": "2020-10-20",
-        "endDate": "2020-10-21",
-        "city": "Warsaw",
-        "country": "Poland",
-        "cfpUrl": "https://sessionize.com/net-developerdays-2020",
-        "twitter": "@DeveloperDaysPL"
-    },
-    {
-        "name": "F# Europe",
-        "url": "https://fsharp.eu/2020",
-        "startDate": "2020-11-05",
-        "endDate": "2020-11-06",
-        "city": "Brussels",
-        "country": "Belgium",
-        "twitter": "@fsharp_eu"
-    },
-    {
-        "name": ".NET Conf",
-        "url": "https://dotnetconf.net",
-        "startDate": "2020-11-10",
-        "endDate": "2020-11-12",
-        "online": true,
-        "cfpUrl": "https://www.papercall.io/dotnetconf",
-        "cfpEndDate": "2020-09-13"
-    },
-    {
-        "name": "Update Now",
-        "url": "https://www.updateconference.net",
-        "startDate": "2020-11-23",
-        "endDate": "2020-11-26",
-        "online": true,
-        "twitter": "@update_conf"
-    },
-    {
-        "name": ".NET Developer Conference",
-        "url": "https://www.dotnet-developer-conference.de",
-        "startDate": "2020-11-23",
-        "endDate": "2020-11-27",
-        "city": "Cologne",
-        "country": "Germany",
-        "twitter": "@Herbstcampus"
-    },
-    {
-        "name": "API Summit",
-        "url": "https://api-summit.de",
-        "startDate": "2020-11-30",
-        "endDate": "2020-12-02",
-        "online": true,
-        "twitter": "@apisummit_de",
-        "cocUrl": "https://api-summit.de/",
-        "offersSignLanguageOrCC": false
-    },
-    {
-        "name": "betterCode .Net 5.0",
-        "url": "https://net50.bettercode.eu",
-        "startDate": "2020-12-03",
-        "endDate": "2020-12-03",
-        "online": true,
-        "twitter": "@bettercodeconf",
-        "cocUrl": "https://net50.bettercode.eu/code_of_conduct.php",
-        "offersSignLanguageOrCC": false
-    },
-    {
-        "name": "Dev Intersection",
-        "url": "https://devintersection.com",
-        "startDate": "2020-12-08",
-        "endDate": "2020-12-10",
-        "city": "Orlando, FL",
-        "country": "U.S.A."
-    }
+  {
+    "name": "BASTA! Spring",
+    "url": "https://basta.net",
+    "startDate": "2020-02-24",
+    "endDate": "2020-02-28",
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "twitter": "@BASTAcon"
+  },
+  {
+    "name": "dotnetdays",
+    "url": "https://dotnetdays.ro",
+    "startDate": "2020-02-29",
+    "endDate": "2020-02-29",
+    "city": "Iasi",
+    "country": "Romania",
+    "twitter": "@dotnetdaysro"
+  },
+  {
+    "name": "Visual Studio Live! Las Vegas",
+    "url": "https://vslive.com/Events/Las-Vegas-2020/Home.aspx",
+    "startDate": "2020-03-01",
+    "endDate": "2020-03-06",
+    "city": "Las Vegas, NV",
+    "country": "U.S.A.",
+    "twitter": "@vslive"
+  },
+  {
+    "name": "NYAN Conference",
+    "url": "https://nyanconference.splashthat.com",
+    "startDate": "2020-03-03",
+    "endDate": "2020-03-03",
+    "city": "Paris",
+    "country": "France",
+    "twitter": "@NYANconf"
+  },
+  {
+    "name": ".NET fwdays",
+    "url": "https://fwdays.com/en/event/dotnet-fwdays-2020",
+    "startDate": "2020-04-11",
+    "endDate": "2020-04-18",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "twitter": "@fwdays"
+  },
+  {
+    "name": "Microsoft Build - Digital",
+    "url": "https://www.microsoft.com/en-us/build",
+    "startDate": "2020-05-19",
+    "endDate": "2020-05-21",
+    "online": true,
+    "twitter": "@msdev"
+  },
+  {
+    "name": ".NET Conf: Focus on Microservices",
+    "url": "https://focus.dotnetconf.net/",
+    "startDate": "2020-07-30",
+    "endDate": "2020-07-30",
+    "online": true
+  },
+  {
+    "name": ".NET Summit",
+    "url": "https://dotnetsummit.by",
+    "startDate": "2020-08-07",
+    "endDate": "2020-08-08",
+    "online": true,
+    "twitter": "@dotnetby"
+  },
+  {
+    "name": ".Net Day Franken",
+    "url": "https://www.dotnet-day-franken.de",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-12",
+    "city": "Nürnberg",
+    "country": "Germany",
+    "twitter": "@NETDayFranken"
+  },
+  {
+    "name": "Future Tech",
+    "url": "https://futuretech.nl",
+    "startDate": "2020-09-16",
+    "endDate": "2020-09-16",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "twitter": "@FutureTechNL"
+  },
+  {
+    "name": "Basta",
+    "url": "https://basta.net",
+    "startDate": "2020-09-21",
+    "endDate": "2020-09-25",
+    "city": "Mainz",
+    "country": "Germany",
+    "twitter": "@BASTAcon"
+  },
+  {
+    "name": "Dotnetos Conference",
+    "url": "https://conf.dotnetos.org",
+    "startDate": "2020-10-01",
+    "endDate": "2020-10-02",
+    "city": "Warsaw",
+    "country": "Poland",
+    "twitter": "@dotnetosorg"
+  },
+  {
+    "name": "MS Stage",
+    "url": "https://msstage.com",
+    "startDate": "2020-10-02",
+    "endDate": "2020-10-02",
+    "online": true
+  },
+  {
+    "name": "DotFest",
+    "url": "https://dotfest.ru",
+    "startDate": "2020-10-16",
+    "endDate": "2020-10-17",
+    "city": "Novosibirsk",
+    "country": "Russia",
+    "cfpUrl": "https://hardfest.ru/en/#rec216142907",
+    "cfpEndDate": "2020-09-14"
+  },
+  {
+    "name": ".NET DeveloperDays",
+    "url": "https://net.developerdays.pl",
+    "startDate": "2020-10-20",
+    "endDate": "2020-10-21",
+    "city": "Warsaw",
+    "country": "Poland",
+    "cfpUrl": "https://sessionize.com/net-developerdays-2020",
+    "twitter": "@DeveloperDaysPL"
+  },
+  {
+    "name": "F# Europe",
+    "url": "https://fsharp.eu/2020",
+    "startDate": "2020-11-05",
+    "endDate": "2020-11-06",
+    "city": "Brussels",
+    "country": "Belgium",
+    "twitter": "@fsharp_eu"
+  },
+  {
+    "name": ".NET Conf",
+    "url": "https://dotnetconf.net",
+    "startDate": "2020-11-10",
+    "endDate": "2020-11-12",
+    "online": true,
+    "cfpUrl": "https://www.papercall.io/dotnetconf",
+    "cfpEndDate": "2020-09-13"
+  },
+  {
+    "name": "Update Now",
+    "url": "https://www.updateconference.net",
+    "startDate": "2020-11-23",
+    "endDate": "2020-11-26",
+    "online": true,
+    "twitter": "@update_conf"
+  },
+  {
+    "name": ".NET Developer Conference",
+    "url": "https://www.dotnet-developer-conference.de",
+    "startDate": "2020-11-23",
+    "endDate": "2020-11-27",
+    "city": "Cologne",
+    "country": "Germany",
+    "twitter": "@Herbstcampus"
+  },
+  {
+    "name": "API Summit",
+    "url": "https://api-summit.de",
+    "startDate": "2020-11-30",
+    "endDate": "2020-12-02",
+    "online": true,
+    "twitter": "@apisummit_de",
+    "cocUrl": "https://api-summit.de/",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "betterCode .Net 5.0",
+    "url": "https://net50.bettercode.eu",
+    "startDate": "2020-12-03",
+    "endDate": "2020-12-03",
+    "online": true,
+    "twitter": "@bettercodeconf",
+    "cocUrl": "https://net50.bettercode.eu/code_of_conduct.php",
+    "offersSignLanguageOrCC": false
+  },
+  {
+    "name": "Dev Intersection",
+    "url": "https://devintersection.com",
+    "startDate": "2020-12-08",
+    "endDate": "2020-12-10",
+    "city": "Orlando, FL",
+    "country": "U.S.A."
+  }
 ]
