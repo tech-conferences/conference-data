@@ -5,6 +5,7 @@ const validFields = require('../../config/validFields');
 
 const maxDurationInDays = 10;
 const twitterRegex = /^@\w([\w\.]){1,15}$/;
+const mastodonRegex = /^@\w+@\w+(\.\w+)+$/;
 const httpRegex = /^http(s?):\/\//;
 const httpNoQuestionmarkRegex = /\?/;
 const urlShortener = /(\/bit\.ly)|(\/t\.co)/;
@@ -17,7 +18,7 @@ const REQUIRED_KEYS = ['name', 'url', 'startDate', 'endDate'];
 const validLocationsHint = ' - Check/Maintain the file "config/validLocations.js"';
 
 module.exports = function checkConference(year, conference, assertField) {
-    const { name, url, cfpUrl, twitter } = conference;
+    const { name, url, cfpUrl, twitter, mastodon } = conference;
 
     REQUIRED_KEYS.forEach(requiredKey => {
         assertField(conference.hasOwnProperty(requiredKey), requiredKey, `is missing`);
@@ -58,6 +59,9 @@ module.exports = function checkConference(year, conference, assertField) {
     }
     if (twitter && twitter.length > 0 && !twitterRegex.test(twitter)) {
         assertField(twitterRegex.test(twitter), 'twitter', 'should be formatted like @twitter', twitter);
+    }
+    if (mastodon && mastodon.length > 0 && !mastodonRegex.test(mastodon)) {
+        assertField(mastodonRegex.test(mastodon), 'mastodon', 'should be formatted like @username@domain.tld', mastodon);
     }
 
     function checkLocation(country, city) {
