@@ -79,6 +79,20 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "Build Stuff Conference",
+    "url": "https://www.buildstuff.events/",
+    "startDate": "2024-11-13",
+    "endDate": "2024-11-15",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "online": true,
+    "cfpUrl": "https://www.buildstuff.events/cfp",
+    "cfpEndDate": "2024-06-20",
+    "twitter": "@BuildStuffConf",
+    "cocUrl": "https://www.buildstuff.events/code-of-conduct",
+    "locales": "EN"
+  },
+  {
     "name": "Agile Testing Days",
     "url": "https://agiletestingdays.com",
     "startDate": "2024-11-19",
