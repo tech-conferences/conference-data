@@ -266,6 +266,20 @@
     "locales": "EN"
   },
   {
+    "name": "International PHP Conference Munich",
+    "url": "https://phpconference.com/munich",
+    "startDate": "2024-11-11",
+    "endDate": "2024-11-15",
+    "city": "Munich",
+    "country": "Germany",
+    "online": true,
+    "cfpUrl": "https://phpconference.com/call-for-papers",
+    "cfpEndDate": "2024-06-05",
+    "twitter": "@phpconference",
+    "cocUrl": "https://phpconference.com/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "SymfonyCon Vienna",
     "url": "https://live.symfony.com/2024-vienna-con",
     "startDate": "2024-12-03",
