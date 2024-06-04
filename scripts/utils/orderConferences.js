@@ -21,4 +21,4 @@ module.exports = function orderConferences(conferences) {
     });
 
     return JSON.stringify(sortedConfByProperties, null, 2);
-}
+};
