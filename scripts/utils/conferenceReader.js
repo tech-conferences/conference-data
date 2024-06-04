@@ -1,10 +1,11 @@
 const fs = require('fs');
 const assert = require('assert');
 const topics = require('../../config/topics');
+const orderConferences = require('./orderConferences');
 
 const jsonFileRegex = /(.*).json$/;
 
-module.exports = function conferenceReader() {
+module.exports = function conferenceReader(reorderConferences) {
     const conferencesJSON = {};
 
     fs.readdirSync('conferences').forEach(year => {
@@ -18,11 +19,17 @@ module.exports = function conferenceReader() {
             if (fileContent.toString() === '[]') {
                 return;
             }
+            let conferences;
             try {
-                conferencesJSON[year][topic] = JSON.parse(fileContent);
+                conferences = JSON.parse(fileContent);
             } catch (exception) {
                 assert.fail(`Unable to read file: "${filePath}". Error: ${exception}`);
             }
+            const orderedConferences = orderConferences(conferences);
+            if (!reorderConferences && fileContent != orderedConferences) {
+                assert.fail(`Conferences not in the right order: "${filePath}". Please run 'npm run reorder-confs'`);
+            }
+            conferencesJSON[year][topic] = conferences;
         });
     });
 
