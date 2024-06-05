@@ -1,5 +1,18 @@
 [
   {
+    "name": "ConFoo Montreal",
+    "url": "https://confoo.ca/en/2025",
+    "startDate": "2025-02-26",
+    "endDate": "2025-02-28",
+    "city": "Montreal",
+    "country": "Canada",
+    "online": true,
+    "twitter": "@confooca",
+    "mastodon": "@confooca@techhub.social",
+    "cocUrl": "https://confoo.ca/en/code-of-conduct",
+    "locales": "EN"
+  },
+  {
     "name": "Gartner Digital Workplace Summit",
     "url": "https://www.gartner.com/en/conferences/na/digital-workplace-us",
     "startDate": "2025-03-11",
