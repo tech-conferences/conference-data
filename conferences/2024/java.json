@@ -23,8 +23,8 @@
     "city": "Stockholm",
     "country": "Sweden",
     "online": true,
-    "twitter": "@Jfokus",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@Jfokus"
   },
   {
     "name": "Devworld Conference",
@@ -34,11 +34,11 @@
     "city": "Amsterdam",
     "country": "Netherlands",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://devworldconference.com/code-of-conduct",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSePbiKSSOLKQOJqG65ifQ0KtY1dsqPqA7N0pu9QY1bK1-ciDQ/viewform",
     "cfpEndDate": "2023-09-30",
-    "twitter": "@devworld_conf",
-    "cocUrl": "https://devworldconference.com/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@devworld_conf"
   },
   {
     "name": "IntelliJ IDEA Conf",
@@ -46,9 +46,9 @@
     "startDate": "2024-03-06",
     "endDate": "2024-03-07",
     "online": true,
-    "twitter": "@intellijidea",
+    "locales": "EN",
     "cocUrl": "https://lp.jetbrains.com/code-of-conduct-events/",
-    "locales": "EN"
+    "twitter": "@intellijidea"
   },
   {
     "name": "The XtremeJ Online Conference",
@@ -56,9 +56,9 @@
     "startDate": "2024-04-02",
     "endDate": "2024-04-02",
     "online": true,
-    "twitter": "@xtremejconf",
+    "locales": "EN",
     "cocUrl": "http://www.zindell.com/documents/codeofconduct.pdf",
-    "locales": "EN"
+    "twitter": "@xtremejconf"
   },
   {
     "name": "Gateway Software Symposium",
@@ -68,9 +68,9 @@
     "city": "St. Louis, MO",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@nofluff",
+    "locales": "EN",
     "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct",
-    "locales": "EN"
+    "twitter": "@nofluff"
   },
   {
     "name": "Lone Star Software Symposium",
@@ -80,9 +80,9 @@
     "city": "Dallas, TX",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@nofluff",
+    "locales": "EN",
     "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct",
-    "locales": "EN"
+    "twitter": "@nofluff"
   },
   {
     "name": "Devoxx Greece",
@@ -92,10 +92,10 @@
     "city": "Athens",
     "country": "Greece",
     "online": false,
-    "cfpUrl": "https://dvgr24.cfp.dev/#/login",
-    "cfpEndDate": "2023-12-15",
+    "locales": "EN",
     "cocUrl": "https://devoxx.gr/code-of-conduct/",
-    "locales": "EN"
+    "cfpUrl": "https://dvgr24.cfp.dev/#/login",
+    "cfpEndDate": "2023-12-15"
   },
   {
     "name": "JAX",
@@ -105,11 +105,11 @@
     "city": "Mainz",
     "country": "Germany",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://jax.de/code-of-conduct/",
     "cfpUrl": "https://callforpapers.sandsmedia.com",
     "cfpEndDate": "2023-11-13",
-    "twitter": "@jaxcon",
-    "cocUrl": "https://jax.de/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@jaxcon"
   },
   {
     "name": "New England Software Symposium",
@@ -119,9 +119,9 @@
     "city": "Boston, MA",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@nofluff",
+    "locales": "EN",
     "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct",
-    "locales": "EN"
+    "twitter": "@nofluff"
   },
   {
     "name": "Devoxx UK",
@@ -131,9 +131,9 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
-    "twitter": "@DevoxxUK",
+    "locales": "EN",
     "cocUrl": "https://www.devoxx.co.uk/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@DevoxxUK"
   },
   {
     "name": "JCON EUROPE",
@@ -143,11 +143,11 @@
     "city": "Cologne",
     "country": "Germany",
     "online": false,
+    "locales": "EN,DE",
+    "cocUrl": "https://2024.europe.jcon.one/code-of-conduct",
     "cfpUrl": "https://sessionize.com/jcon-europe-2024",
     "cfpEndDate": "2023-12-10",
     "twitter": "@jcon_conference",
-    "cocUrl": "https://2024.europe.jcon.one/code-of-conduct",
-    "locales": "EN,DE",
     "mastodon": "@jcon@mastodon.social"
   },
   {
@@ -158,9 +158,9 @@
     "city": "Madison, WI",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@nofluff",
+    "locales": "EN",
     "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct",
-    "locales": "EN"
+    "twitter": "@nofluff"
   },
   {
     "name": "JCON OpenBlend Slovenia",
@@ -168,9 +168,9 @@
     "startDate": "2024-05-29",
     "endDate": "2024-05-31",
     "online": true,
+    "locales": "EN,SL",
     "cfpUrl": "https://sessionize.com/makeit-jcon-2024",
-    "cfpEndDate": "2024-02-03",
-    "locales": "EN,SL"
+    "cfpEndDate": "2024-02-03"
   },
   {
     "name": "Spring I/O",
@@ -180,11 +180,11 @@
     "city": "Barcelona",
     "country": "Spain",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://2024.springio.net/codeofconduct",
     "cfpUrl": "https://sessionize.com/spring-io-2024",
     "cfpEndDate": "2024-02-18",
-    "twitter": "@spring_io",
-    "cocUrl": "https://2024.springio.net/codeofconduct",
-    "locales": "EN"
+    "twitter": "@spring_io"
   },
   {
     "name": "GOTO Amsterdam",
@@ -194,9 +194,9 @@
     "city": "Amsterdam",
     "country": "Netherlands",
     "online": false,
-    "twitter": "@GOTOcon",
+    "locales": "EN",
     "cocUrl": "https://gotoams.nl/2024/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@GOTOcon"
   },
   {
     "name": "betterCode() Spring",
@@ -204,9 +204,9 @@
     "startDate": "2024-06-20",
     "endDate": "2024-06-20",
     "online": true,
-    "twitter": "@bettercodeconf",
+    "locales": "DE",
     "cocUrl": "https://spring.bettercode.eu/code_of_conduct.php",
-    "locales": "DE"
+    "twitter": "@bettercodeconf"
   },
   {
     "name": "UberConf",
@@ -216,11 +216,11 @@
     "city": "Denver, CO",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://uberconf.com/home/code_of_conduct",
     "cfpUrl": "https://uberconf.com/app/speaker-request",
     "cfpEndDate": "2023-12-29",
-    "twitter": "@nofluff",
-    "cocUrl": "https://uberconf.com/home/code_of_conduct",
-    "locales": "EN"
+    "twitter": "@nofluff"
   },
   {
     "name": "JConf Dominicana",
@@ -230,8 +230,8 @@
     "city": "Santiago de los Caballeros",
     "country": "Dominican Republic",
     "online": false,
-    "cocUrl": "https://jconfdominicana.org/code-of-conduct",
-    "locales": "EN"
+    "locales": "EN",
+    "cocUrl": "https://jconfdominicana.org/code-of-conduct"
   },
   {
     "name": "JCONF.DEV",
@@ -241,11 +241,11 @@
     "city": "Dallas, TX",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://2024.jconf.dev/codeofconduct/",
     "cfpUrl": "https://sessionize.com/jconf-2024",
     "cfpEndDate": "2024-01-15",
-    "twitter": "@jconfdev",
-    "cocUrl": "https://2024.jconf.dev/codeofconduct/",
-    "locales": "EN"
+    "twitter": "@jconfdev"
   },
   {
     "name": "JAX London",
@@ -255,11 +255,11 @@
     "city": "London",
     "country": "U.K.",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://jaxlondon.com/contact/",
     "cfpUrl": "https://jaxlondon.com/contact",
     "cfpEndDate": "2024-04-22",
-    "twitter": "@jaxlondon",
-    "cocUrl": "https://jaxlondon.com/contact/",
-    "locales": "EN"
+    "twitter": "@jaxlondon"
   },
   {
     "name": "JAX Software Architecture",
@@ -269,11 +269,11 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://devm.io/jaxnewyork/contact/#codeofconduct",
     "cfpUrl": "https://devm.io/jaxnewyork/callforpaper",
     "cfpEndDate": "2024-03-18",
-    "twitter": "@jaxnewyork",
-    "cocUrl": "https://devm.io/jaxnewyork/contact/#codeofconduct",
-    "locales": "EN"
+    "twitter": "@jaxnewyork"
   },
   {
     "name": "Devoxx Belgium",
@@ -293,8 +293,8 @@
     "city": "Rovinj",
     "country": "Croatia",
     "online": false,
-    "twitter": "@JavaCro",
-    "locales": "EN,HR"
+    "locales": "EN,HR",
+    "twitter": "@JavaCro"
   },
   {
     "name": "betterCode() Java",
@@ -302,8 +302,8 @@
     "startDate": "2024-10-15",
     "endDate": "2024-10-15",
     "online": true,
-    "cocUrl": "https://java.bettercode.eu/code_of_conduct.php?source=0",
-    "locales": "DE"
+    "locales": "DE",
+    "cocUrl": "https://java.bettercode.eu/code_of_conduct.php?source=0"
   },
   {
     "name": "JDD",
@@ -313,11 +313,11 @@
     "city": "Kraków",
     "country": "Poland",
     "online": false,
+    "locales": "EN,PL",
+    "cocUrl": "https://jdd.org.pl/code-of-conduct-2024/",
     "cfpUrl": "https://jdd.org.pl/cfp-2024",
     "cfpEndDate": "2024-05-31",
-    "twitter": "@JDD_Krakow",
-    "cocUrl": "https://jdd.org.pl/code-of-conduct-2024/",
-    "locales": "EN,PL"
+    "twitter": "@JDD_Krakow"
   },
   {
     "name": "NODES",
@@ -325,10 +325,10 @@
     "startDate": "2024-11-07",
     "endDate": "2024-11-07",
     "online": true,
+    "locales": "EN",
     "cfpUrl": "https://sessionize.com/nodes-2024",
     "cfpEndDate": "2024-06-15",
-    "twitter": "@neo4j",
-    "locales": "EN"
+    "twitter": "@neo4j"
   },
   {
     "name": "DevOps Vision",
@@ -338,9 +338,9 @@
     "city": "Clearwater, FL",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@nofluff",
+    "locales": "EN",
     "cocUrl": "https://devopsvision.io/home/code_of_conduct",
-    "locales": "EN"
+    "twitter": "@nofluff"
   },
   {
     "name": "ArchConf",
@@ -350,8 +350,8 @@
     "city": "Clearwater, FL",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@nofluff",
+    "locales": "EN",
     "cocUrl": "https://archconf.com/home/code_of_conduct",
-    "locales": "EN"
+    "twitter": "@nofluff"
   }
 ]

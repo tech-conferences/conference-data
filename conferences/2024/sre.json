@@ -5,11 +5,11 @@
     "startDate": "2024-02-15",
     "endDate": "2024-02-15",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/conf42-chaos-engineering-2024",
     "cfpEndDate": "2024-01-14",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@conf42com"
   },
   {
     "name": "SRECon Americas",
@@ -19,11 +19,11 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.usenix.org/conferences/coc",
     "cfpUrl": "https://www.usenix.org/conference/srecon24americas/call-for-participation",
     "cfpEndDate": "2023-10-31",
-    "twitter": "@srecon",
-    "cocUrl": "https://www.usenix.org/conferences/coc",
-    "locales": "EN"
+    "twitter": "@srecon"
   },
   {
     "name": "Site Reliability Engineering (SRE)",
@@ -31,11 +31,11 @@
     "startDate": "2024-05-09",
     "endDate": "2024-05-09",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/conf42-site-reliability-engineering-sre-2024",
     "cfpEndDate": "2024-04-08",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@conf42com"
   },
   {
     "name": "Monitorama",
@@ -45,9 +45,9 @@
     "city": "Portland, OR",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@Monitorama",
-    "cocUrl": "https://monitorama.com/2024/pdx.html#conduct",
     "locales": "EN",
+    "cocUrl": "https://monitorama.com/2024/pdx.html#conduct",
+    "twitter": "@Monitorama",
     "mastodon": "@monitorama@mastodon.social"
   },
   {
@@ -56,11 +56,11 @@
     "startDate": "2024-06-13",
     "endDate": "2024-06-13",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/conf42-observability-2024",
     "cfpEndDate": "2024-05-13",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@conf42com"
   },
   {
     "name": "Kubernetes Community Days Barcelona",
@@ -70,11 +70,11 @@
     "city": "Barcelona",
     "country": "Spain",
     "online": false,
+    "locales": "EN,ES",
+    "cocUrl": "https://devbcn.com/codeOfConduct",
     "cfpUrl": "http://devbcn.com/cfp",
     "cfpEndDate": "2024-04-01",
-    "twitter": "@devbcn",
-    "cocUrl": "https://devbcn.com/codeOfConduct",
-    "locales": "EN,ES"
+    "twitter": "@devbcn"
   },
   {
     "name": "SREday San Francisco",
@@ -84,10 +84,10 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
     "cfpUrl": "https://www.papercall.io/sreday-san-francisco",
     "cfpEndDate": "2024-05-19",
-    "twitter": "@sreday",
-    "locales": "EN"
+    "twitter": "@sreday"
   },
   {
     "name": "Portal Talks",
@@ -95,8 +95,8 @@
     "startDate": "2024-06-26",
     "endDate": "2024-06-27",
     "online": true,
-    "twitter": "@tweetsbyport",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@tweetsbyport"
   },
   {
     "name": "Conf42 Platform Engineering",
@@ -104,11 +104,11 @@
     "startDate": "2024-09-05",
     "endDate": "2024-09-05",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/platform-engineering-2024",
     "cfpEndDate": "2024-08-05",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@conf42com"
   },
   {
     "name": "PromCon",
@@ -118,9 +118,9 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
-    "twitter": "@PrometheusIO",
+    "locales": "EN",
     "cocUrl": "https://promcon.io/coc/",
-    "locales": "EN"
+    "twitter": "@PrometheusIO"
   },
   {
     "name": "DevOpsDays Tampa Bay",
@@ -130,11 +130,11 @@
     "city": "Tampa, FL",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://devopsdays.org/events/2024-tampa/conduct",
     "cfpUrl": "https://sessionize.com/devops-days-tampa-bay-2024",
     "cfpEndDate": "2024-05-15",
-    "twitter": "@devopsdaystb",
-    "cocUrl": "https://devopsdays.org/events/2024-tampa/conduct",
-    "locales": "EN"
+    "twitter": "@devopsdaystb"
   },
   {
     "name": "SREday London",
@@ -144,11 +144,11 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/sreday-2024-london",
     "cfpEndDate": "2024-06-24",
-    "twitter": "@sreday_com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@sreday_com"
   },
   {
     "name": "Conf42 Kube Native",
@@ -156,11 +156,11 @@
     "startDate": "2024-09-26",
     "endDate": "2024-09-26",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/conf42-kube-native-2024",
     "cfpEndDate": "2024-08-26",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@conf42com"
   },
   {
     "name": "Conf42 Incident Management",
@@ -168,11 +168,11 @@
     "startDate": "2024-10-17",
     "endDate": "2024-10-17",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/conf42-incident-management-2024",
     "cfpEndDate": "2024-09-16",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@conf42com"
   },
   {
     "name": "SREday Amsterdam",
@@ -182,10 +182,10 @@
     "city": "Amsterdam",
     "country": "Netherlands",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/sreday-2024-amsterdam",
     "cfpEndDate": "2024-06-30",
-    "twitter": "@sreday_com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@sreday_com"
   }
 ]

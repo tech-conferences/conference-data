@@ -5,11 +5,11 @@
     "startDate": "2022-03-18",
     "endDate": "2022-03-18",
     "online": true,
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
     "cfpUrl": "https://webdirections.org/speaking",
     "cfpEndDate": "2021-12-17",
-    "twitter": "@webdirections",
-    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
-    "offersSignLanguageOrCC": true
+    "twitter": "@webdirections"
   },
   {
     "name": "HTML & CSS Days",
@@ -19,8 +19,8 @@
     "city": "Munich",
     "country": "Germany",
     "online": true,
-    "twitter": "@htmlcssdays",
-    "cocUrl": "https://javascript-days.de/code-of-conduct/"
+    "cocUrl": "https://javascript-days.de/code-of-conduct/",
+    "twitter": "@htmlcssdays"
   },
   {
     "name": "NVIDIA GTC",
@@ -40,10 +40,10 @@
     "city": "Faenza",
     "country": "Italy",
     "online": true,
+    "cocUrl": "https://grusp.org/coc",
     "cfpUrl": "https://grusp.org/CFPcssday",
     "cfpEndDate": "2022-01-06",
-    "twitter": "@cssday_it",
-    "cocUrl": "https://grusp.org/coc"
+    "twitter": "@cssday_it"
   },
   {
     "name": "An Event Apart Spring Summit",
@@ -51,8 +51,8 @@
     "startDate": "2022-04-18",
     "endDate": "2022-04-20",
     "online": true,
-    "twitter": "@aneventapart",
-    "cocUrl": "https://aneventapart.com/registration-information#code-of-conduct"
+    "cocUrl": "https://aneventapart.com/registration-information#code-of-conduct",
+    "twitter": "@aneventapart"
   },
   {
     "name": "Render-Atlanta (RenderATL)",
@@ -62,9 +62,9 @@
     "city": "Atlanta, GA",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@RenderATL",
+    "offersSignLanguageOrCC": true,
     "cocUrl": "RenderATL.com/thecode",
-    "offersSignLanguageOrCC": true
+    "twitter": "@RenderATL"
   },
   {
     "name": "CSS Day",
@@ -73,8 +73,8 @@
     "endDate": "2022-06-10",
     "city": "Amsterdam",
     "country": "Netherlands",
-    "twitter": "@cssdayconf",
-    "cocUrl": "https://cssday.nl/2022/contact#code-of-conduct"
+    "cocUrl": "https://cssday.nl/2022/contact#code-of-conduct",
+    "twitter": "@cssdayconf"
   },
   {
     "name": "WeAreDevelopers World Congress",
@@ -95,8 +95,8 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@smashingconf",
-    "cocUrl": "https://smashingconf.com/codeofconduct"
+    "cocUrl": "https://smashingconf.com/codeofconduct",
+    "twitter": "@smashingconf"
   },
   {
     "name": "SmashingConf Austin",
@@ -106,8 +106,8 @@
     "city": "Austin, TX",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@smashingconf",
-    "cocUrl": "https://smashingconf.com/codeofconduct"
+    "cocUrl": "https://smashingconf.com/codeofconduct",
+    "twitter": "@smashingconf"
   },
   {
     "name": "CascadiaJS",
@@ -117,9 +117,9 @@
     "city": "Bend, OR",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@cascadiajs",
+    "offersSignLanguageOrCC": true,
     "cocUrl": "https://2022.cascadiajs.com/code-of-conduct",
-    "offersSignLanguageOrCC": true
+    "twitter": "@cascadiajs"
   },
   {
     "name": "SmashingConf Freiburg",
@@ -129,8 +129,8 @@
     "city": "Freiburg",
     "country": "Germany",
     "online": true,
-    "twitter": "@smashingconf",
-    "cocUrl": "https://smashingconf.com/codeofconduct"
+    "cocUrl": "https://smashingconf.com/codeofconduct",
+    "twitter": "@smashingconf"
   },
   {
     "name": "Infobip Shift",
@@ -140,10 +140,10 @@
     "city": "Zadar",
     "country": "Croatia",
     "online": true,
+    "cocUrl": "https://shift.infobip.com/code/",
     "cfpUrl": "https://sessionize.com/infobipshift",
     "cfpEndDate": "2022-07-01",
-    "twitter": "@infobipshift",
-    "cocUrl": "https://shift.infobip.com/code/"
+    "twitter": "@infobipshift"
   },
   {
     "name": "International JavaScript Conference",
@@ -163,8 +163,8 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@smashingconf",
-    "cocUrl": "https://smashingconf.com/codeofconduct"
+    "cocUrl": "https://smashingconf.com/codeofconduct",
+    "twitter": "@smashingconf"
   },
   {
     "name": "JavaScript/Angular/React/HTML & CSS Days",
@@ -174,8 +174,8 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
-    "twitter": "@JS_Days",
-    "cocUrl": "https://javascript-days.de/code-of-conduct/"
+    "cocUrl": "https://javascript-days.de/code-of-conduct/",
+    "twitter": "@JS_Days"
   },
   {
     "name": "International JavaScript Conference",
@@ -185,8 +185,8 @@
     "city": "Munich",
     "country": "Germany",
     "online": true,
-    "twitter": "@JavaScriptCon",
-    "cocUrl": "https://javascript-conference.com/code-of-conduct/"
+    "cocUrl": "https://javascript-conference.com/code-of-conduct/",
+    "twitter": "@JavaScriptCon"
   },
   {
     "name": "Front Stage",
@@ -204,10 +204,10 @@
     "city": "Atlanta, GA",
     "country": "U.S.A.",
     "online": false,
+    "cocUrl": "https://2022.connect.tech/codeofconduct/",
     "cfpUrl": "https://sessionize.com/connect-tech-2022",
     "cfpEndDate": "2022-06-18",
-    "twitter": "@connect_js",
-    "cocUrl": "https://2022.connect.tech/codeofconduct/"
+    "twitter": "@connect_js"
   },
   {
     "name": "JS Fwdays Europe",
@@ -215,8 +215,8 @@
     "startDate": "2022-11-09",
     "endDate": "2022-11-10",
     "online": true,
-    "twitter": "@fwdays",
-    "cocUrl": "https://fwdays.com/en/page/code-of-conduct"
+    "cocUrl": "https://fwdays.com/en/page/code-of-conduct",
+    "twitter": "@fwdays"
   },
   {
     "name": "enterJS Web-Performance Day",
@@ -224,8 +224,8 @@
     "startDate": "2022-12-01",
     "endDate": "2022-12-01",
     "online": true,
-    "twitter": "@enterjsconf",
-    "cocUrl": "https://enterjs.de/code_of_conduct.php"
+    "cocUrl": "https://enterjs.de/code_of_conduct.php",
+    "twitter": "@enterjsconf"
   },
   {
     "name": "Frontrunners JS/Web",
@@ -235,9 +235,9 @@
     "city": "Arlington, VA",
     "country": "U.S.A.",
     "online": false,
+    "cocUrl": "https://frontrunners.tech//policies/conduct.html",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeVqFwR2_Bn3poybhyT9ZzGVG4YTuAZUVstUbx_IzuzAQUM9Q/viewform",
     "cfpEndDate": "2022-10-17",
-    "twitter": "@frontrunnersdc",
-    "cocUrl": "https://frontrunners.tech//policies/conduct.html"
+    "twitter": "@frontrunnersdc"
   }
 ]

@@ -7,11 +7,11 @@
     "city": "Munich",
     "country": "Germany",
     "online": false,
+    "locales": "EN,DE",
+    "cocUrl": "https://www.buildingiot.de/code_of_conduct.php",
     "cfpUrl": "https://www.buildingiot.de/cfp_en.php",
     "cfpEndDate": "2023-09-11",
-    "twitter": "@building_iot",
-    "cocUrl": "https://www.buildingiot.de/code_of_conduct.php",
-    "locales": "EN,DE"
+    "twitter": "@building_iot"
   },
   {
     "name": "Nullcon Berlin",
@@ -21,11 +21,11 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://nullcon.net/about-conferencepolicy",
     "cfpUrl": "https://nullcon.net/berlin-2024/cfp",
     "cfpEndDate": "2023-12-31",
-    "twitter": "@nullcon",
-    "cocUrl": "https://nullcon.net/about-conferencepolicy",
-    "locales": "EN"
+    "twitter": "@nullcon"
   },
   {
     "name": "Navigate Local Tampa",
@@ -35,11 +35,11 @@
     "city": "Tampa, FL",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.civo.com/navigate/code-of-conduct",
     "cfpUrl": "https://sessionize.com/civo-navigate-local-tampa-2024",
     "cfpEndDate": "2024-02-11",
-    "twitter": "@CivoCloud",
-    "cocUrl": "https://www.civo.com/navigate/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@CivoCloud"
   },
   {
     "name": "13th International Conference on Software Engineering and Applications",
@@ -59,11 +59,11 @@
     "city": "Santa Clara, CA",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://hardwear.io/code-of-conduct/",
     "cfpUrl": "https://hardwear.io/usa-2024/cfp.php",
     "cfpEndDate": "2024-02-15",
-    "twitter": "@hardwear_io",
-    "cocUrl": "https://hardwear.io/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@hardwear_io"
   },
   {
     "name": "MLCon",
@@ -73,9 +73,9 @@
     "city": "Munich",
     "country": "Germany",
     "online": true,
-    "twitter": "@mlconference",
+    "locales": "EN",
     "cocUrl": "https://mlconference.ai/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@mlconference"
   },
   {
     "name": "World conference on web 3.0 & IoT",
@@ -85,10 +85,10 @@
     "city": "Frankfurt am Main",
     "country": "Germany",
     "online": false,
+    "locales": "EN",
     "cfpUrl": "https://websweek.peoplevents.uk/abstract-guidelines/",
     "cfpEndDate": "2024-01-31",
-    "twitter": "@Websweek",
-    "locales": "EN"
+    "twitter": "@Websweek"
   },
   {
     "name": "Conf42 Internet of Things (IoT)",
@@ -96,10 +96,10 @@
     "startDate": "2024-12-19",
     "endDate": "2024-12-19",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/conf42-iot-2024",
     "cfpEndDate": "2024-11-18",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@conf42com"
   }
 ]

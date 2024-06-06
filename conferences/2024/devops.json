@@ -7,9 +7,9 @@
     "city": "Bangkok",
     "country": "Thailand",
     "online": false,
+    "locales": "EN",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSck3x5BMryjiYGRQBKpQ4Y5btotKqcMJmH-B1vsiFpUfU0VRg/viewform",
-    "cfpEndDate": "2023-12-01",
-    "locales": "EN"
+    "cfpEndDate": "2023-12-01"
   },
   {
     "name": "Devopsdays Tel Aviv",
@@ -18,9 +18,9 @@
     "endDate": "2024-01-22",
     "city": "Tel Aviv",
     "country": "Israel",
-    "twitter": "@devopsdaystlv",
+    "locales": "EN",
     "cocUrl": "https://devopsdays.org/events/2023-tel-aviv/conduct",
-    "locales": "EN"
+    "twitter": "@devopsdaystlv"
   },
   {
     "name": "Conf42 DevOps",
@@ -28,11 +28,11 @@
     "startDate": "2024-01-25",
     "endDate": "2024-01-25",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/conf42-devops-2024",
     "cfpEndDate": "2023-12-26",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@conf42com"
   },
   {
     "name": "DevOps Day",
@@ -40,8 +40,8 @@
     "startDate": "2024-02-07",
     "endDate": "2024-02-07",
     "online": true,
-    "twitter": "@WeAreDevs",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@WeAreDevs"
   },
   {
     "name": "DevOps.js Conference",
@@ -49,11 +49,11 @@
     "startDate": "2024-02-15",
     "endDate": "2024-02-16",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://portal.gitnation.org/coc",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeCa_cPGvnxzjGyKf1dIKGVCyJ_iK80vnN5h1R4QKXN7y_Z-Q/viewform",
     "cfpEndDate": "2023-11-30",
-    "twitter": "@DevOpsJS",
-    "cocUrl": "https://portal.gitnation.org/coc",
-    "locales": "EN"
+    "twitter": "@DevOpsJS"
   },
   {
     "name": "DevOps fwdays",
@@ -63,10 +63,10 @@
     "city": "Kyiv",
     "country": "Ukraine",
     "online": true,
+    "locales": "EN,UK",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScnKkH4KflPuknHg2G0191BgiIyQpa2z58IK9TTfDRp0FDWrw/viewform",
     "cfpEndDate": "2024-01-17",
-    "twitter": "@fwdays",
-    "locales": "EN,UK"
+    "twitter": "@fwdays"
   },
   {
     "name": "Open Source Camp on Kubernetes",
@@ -76,10 +76,10 @@
     "city": "Nürnberg",
     "country": "Germany",
     "online": false,
-    "cfpUrl": "https://opensourcecamp.de/call-for-papers",
-    "cfpEndDate": "2023-11-30",
+    "locales": "DE",
     "cocUrl": "https://opensourcecamp.de/verhaltenskodex/",
-    "locales": "DE"
+    "cfpUrl": "https://opensourcecamp.de/call-for-papers",
+    "cfpEndDate": "2023-11-30"
   },
   {
     "name": "The DEVOPS Conference",
@@ -89,8 +89,8 @@
     "city": "London",
     "country": "U.K.",
     "online": true,
-    "twitter": "@eficode",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@eficode"
   },
   {
     "name": "Devopsdays Los Angeles",
@@ -99,9 +99,9 @@
     "endDate": "2024-03-15",
     "city": "Los Angeles, CA",
     "country": "U.S.A.",
-    "twitter": "@socaldevops",
+    "locales": "EN",
     "cocUrl": "https://devopsdays.org/events/2024-los-angeles/conduct",
-    "locales": "EN"
+    "twitter": "@socaldevops"
   },
   {
     "name": "Incontro DevOps Italia",
@@ -111,11 +111,11 @@
     "city": "Bologna",
     "country": "Italy",
     "online": true,
+    "locales": "EN,IT",
+    "cocUrl": "https://2024.incontrodevops.it/welcome/coc.html",
     "cfpUrl": "https://sessionize.com/incontro-devops-2024",
     "cfpEndDate": "2023-11-30",
-    "twitter": "@IncontroDevOps",
-    "cocUrl": "https://2024.incontrodevops.it/welcome/coc.html",
-    "locales": "EN,IT"
+    "twitter": "@IncontroDevOps"
   },
   {
     "name": "Chemnitzer Linuxtage",
@@ -125,8 +125,8 @@
     "city": "Chemnitz",
     "country": "Germany",
     "online": false,
-    "twitter": "@clt_news",
-    "locales": "EN,DE"
+    "locales": "EN,DE",
+    "twitter": "@clt_news"
   },
   {
     "name": "Mastering GitOps",
@@ -134,11 +134,11 @@
     "startDate": "2024-03-19",
     "endDate": "2024-03-21",
     "online": true,
+    "locales": "DE",
+    "cocUrl": "https://www.mastering-gitops.de/code_of_conduct.php",
     "cfpUrl": "https://mastering-gitops.de/cfp.php",
     "cfpEndDate": "2023-11-09",
-    "twitter": "@ConfLifecycle",
-    "cocUrl": "https://www.mastering-gitops.de/code_of_conduct.php",
-    "locales": "DE"
+    "twitter": "@ConfLifecycle"
   },
   {
     "name": "KubeCon + CloudNativeCon",
@@ -148,9 +148,9 @@
     "city": "Paris",
     "country": "France",
     "online": true,
-    "twitter": "@CloudNativeFdn",
+    "locales": "EN",
     "cocUrl": "https://events.linuxfoundation.org/about/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@CloudNativeFdn"
   },
   {
     "name": "Conf42 Cloud Native",
@@ -158,11 +158,11 @@
     "startDate": "2024-03-21",
     "endDate": "2024-03-21",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/conf42-cloud-native-2024",
     "cfpEndDate": "2024-02-19",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@conf42com"
   },
   {
     "name": "Devopsdays Singapore",
@@ -171,9 +171,9 @@
     "endDate": "2024-03-22",
     "city": "Singapore",
     "country": "Singapore",
-    "twitter": "@devopsdaysSG",
+    "locales": "EN",
     "cocUrl": "https://devopsdays.org/events/2024-singapore/conduct",
-    "locales": "EN"
+    "twitter": "@devopsdaysSG"
   },
   {
     "name": "QCon London",
@@ -183,9 +183,9 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
-    "twitter": "@qconlondon",
-    "cocUrl": "https://qconferences.com/code-conduct",
     "locales": "EN",
+    "cocUrl": "https://qconferences.com/code-conduct",
+    "twitter": "@qconlondon",
     "mastodon": "@qcon@techhub.social"
   },
   {
@@ -196,11 +196,11 @@
     "city": "London",
     "country": "U.K.",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://devopscon.io/code-of-conduct/",
     "cfpUrl": "https://devopscon.io/call-for-papers",
     "cfpEndDate": "2023-10-23",
-    "twitter": "@devops_con",
-    "cocUrl": "https://devopscon.io/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@devops_con"
   },
   {
     "name": "PowerShell + DevOps Global Summit",
@@ -210,8 +210,8 @@
     "city": "Bellevue, WA",
     "country": "U.S.A.",
     "online": false,
-    "cocUrl": "https://www.powershellsummit.org/code-of-conduct/",
-    "locales": "EN"
+    "locales": "EN",
+    "cocUrl": "https://www.powershellsummit.org/code-of-conduct/"
   },
   {
     "name": "DevOps Days Raleigh",
@@ -221,11 +221,11 @@
     "city": "Raleigh, NC",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://devopsdays.org/events/2024-raleigh/conduct",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfwjzCLHQCxH8GYD-PbkIGj5NWiOnYLr1JVLiGe-6Y1YpFsSA/viewform",
     "cfpEndDate": "2023-12-31",
-    "twitter": "@DevOpsDaysRDU",
-    "cocUrl": "https://devopsdays.org/events/2024-raleigh/conduct",
-    "locales": "EN"
+    "twitter": "@DevOpsDaysRDU"
   },
   {
     "name": "Devopsdays Raleigh",
@@ -234,8 +234,8 @@
     "endDate": "2024-04-11",
     "city": "Raleigh, NC",
     "country": "U.S.A.",
-    "twitter": "@DevOpsDaysRDU",
-    "cocUrl": "https://devopsdays.org/events/2024-raleigh/conduct"
+    "cocUrl": "https://devopsdays.org/events/2024-raleigh/conduct",
+    "twitter": "@DevOpsDaysRDU"
   },
   {
     "name": "Devopsdays Aarhus",
@@ -244,8 +244,8 @@
     "endDate": "2024-04-17",
     "city": "Aarhus",
     "country": "Denmark",
-    "twitter": "@devopsdayscph",
-    "cocUrl": "https://devopsdays.org/events/2024-aarhus/conduct"
+    "cocUrl": "https://devopsdays.org/events/2024-aarhus/conduct",
+    "twitter": "@devopsdayscph"
   },
   {
     "name": "Devopsdays Tokyo",
@@ -254,8 +254,8 @@
     "endDate": "2024-04-17",
     "city": "Tokyo",
     "country": "Japan",
-    "twitter": "@DevOpsDaysTokyo",
-    "cocUrl": "https://devopsdays.org/events/2024-tokyo/conduct"
+    "cocUrl": "https://devopsdays.org/events/2024-tokyo/conduct",
+    "twitter": "@DevOpsDaysTokyo"
   },
   {
     "name": "Devopsdays Zurich",
@@ -274,10 +274,10 @@
     "endDate": "2024-04-18",
     "city": "Birmingham, AL",
     "country": "U.S.A.",
+    "cocUrl": "https://devopsdays.org/events/2024-birmingham-al/conduct",
     "cfpUrl": "https://talks.devopsdays.org/devopsdays-birmingham-al-2024/cfp",
     "cfpEndDate": "2024-01-07",
-    "twitter": "@devopsdaysbham",
-    "cocUrl": "https://devopsdays.org/events/2024-birmingham-al/conduct"
+    "twitter": "@devopsdaysbham"
   },
   {
     "name": "Devopsdays Istanbul",
@@ -286,10 +286,10 @@
     "endDate": "2024-04-20",
     "city": "Istanbul",
     "country": "Turkey",
+    "cocUrl": "https://devopsdays.org/events/2024-istanbul/conduct",
     "cfpUrl": "https://www.papercall.io/devopsdays-istanbul-2023",
     "cfpEndDate": "2024-01-19",
-    "twitter": "@devopsdaysist",
-    "cocUrl": "https://devopsdays.org/events/2024-istanbul/conduct"
+    "twitter": "@devopsdaysist"
   },
   {
     "name": "Enterprise Technology Leadership Summit Europe",
@@ -297,11 +297,11 @@
     "startDate": "2024-04-24",
     "endDate": "2024-04-25",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://doesvirtual.itrevolution.com/code-of-conduct",
     "cfpUrl": "https://sessionize.com/enterprise-tech-leadership-summit-virtual-2024",
     "cfpEndDate": "2024-02-01",
-    "twitter": "@itrevsummit",
-    "cocUrl": "https://doesvirtual.itrevolution.com/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@itrevsummit"
   },
   {
     "name": "Test Coast",
@@ -320,10 +320,10 @@
     "endDate": "2024-04-30",
     "city": "Denver, CO",
     "country": "U.S.A.",
+    "cocUrl": "https://devopsdays.org/events/2024-denver/conduct",
     "cfpUrl": "https://devopsdays.org/events/2024-denver/propose",
     "cfpEndDate": "2024-01-12",
-    "twitter": "@devopsdaysrox",
-    "cocUrl": "https://devopsdays.org/events/2024-denver/conduct"
+    "twitter": "@devopsdaysrox"
   },
   {
     "name": "Devopsdays Austin",
@@ -332,8 +332,8 @@
     "endDate": "2024-05-03",
     "city": "Austin, TX",
     "country": "U.S.A.",
-    "twitter": "@DoDAustin",
-    "cocUrl": "https://devopsdays.org/events/2024-austin/conduct"
+    "cocUrl": "https://devopsdays.org/events/2024-austin/conduct",
+    "twitter": "@DoDAustin"
   },
   {
     "name": "DevOpsDays Berlin",
@@ -343,11 +343,11 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://devopsdays.org/events/2024-berlin/conduct",
     "cfpUrl": "https://devopsdays.org/events/2024-berlin/registration",
     "cfpEndDate": "2024-01-31",
-    "twitter": "@blndevops",
-    "cocUrl": "https://devopsdays.org/events/2024-berlin/conduct",
-    "locales": "EN"
+    "twitter": "@blndevops"
   },
   {
     "name": "J On The Beach",
@@ -357,11 +357,11 @@
     "city": "Malaga",
     "country": "Spain",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://berlincodeofconduct.org/",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdeZM1qf2fuLaXj06R4BA4dbh0mE8O2kly3vVaR6928xJfXvQ/viewform",
     "cfpEndDate": "2024-01-01",
-    "twitter": "@JOTBConf",
-    "cocUrl": "https://berlincodeofconduct.org/",
-    "locales": "EN"
+    "twitter": "@JOTBConf"
   },
   {
     "name": "Devopsdays Geneva",
@@ -370,10 +370,10 @@
     "endDate": "2024-05-14",
     "city": "Geneva",
     "country": "Switzerland",
+    "cocUrl": "https://devopsdays.org/events/2024-geneva/conduct",
     "cfpUrl": "https://devopsdays.org/events/2024-geneva/propose",
     "cfpEndDate": "2024-01-07",
-    "twitter": "@DevopsdaysGe",
-    "cocUrl": "https://devopsdays.org/events/2024-geneva/conduct"
+    "twitter": "@DevopsdaysGe"
   },
   {
     "name": "Devopsdays Philadelphia",
@@ -382,8 +382,8 @@
     "endDate": "2024-05-15",
     "city": "Philadelphia, PA",
     "country": "U.S.A.",
-    "twitter": "@DevOpsDaysPHL",
-    "cocUrl": "https://devopsdays.org/events/2024-philadelphia/conduct"
+    "cocUrl": "https://devopsdays.org/events/2024-philadelphia/conduct",
+    "twitter": "@DevOpsDaysPHL"
   },
   {
     "name": "Devopsdays Seattle",
@@ -392,10 +392,10 @@
     "endDate": "2024-05-15",
     "city": "Seattle, WA",
     "country": "U.S.A.",
+    "cocUrl": "https://devopsdays.org/events/2024-seattle/conduct",
     "cfpUrl": "https://talks.devopsdays.org/devopsdays-seattle-2024/cfp",
     "cfpEndDate": "2024-01-15",
-    "twitter": "@DevOpsDaysSEA",
-    "cocUrl": "https://devopsdays.org/events/2024-seattle/conduct"
+    "twitter": "@DevOpsDaysSEA"
   },
   {
     "name": "DevOpsDays Kansas City",
@@ -405,11 +405,11 @@
     "city": "Kansas City, MO",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://devopsdays.org/events/2024-kansas-city/conduct",
     "cfpUrl": "https://talks.devopsdays.org/devopsdays-kc-2024",
     "cfpEndDate": "2024-01-31",
-    "twitter": "@devopsdayskc",
-    "cocUrl": "https://devopsdays.org/events/2024-kansas-city/conduct",
-    "locales": "EN"
+    "twitter": "@devopsdayskc"
   },
   {
     "name": "Devopsdays Kansas City",
@@ -418,8 +418,8 @@
     "endDate": "2024-05-16",
     "city": "Kansas City, MO",
     "country": "U.S.A.",
-    "twitter": "@devopsdayskc",
-    "cocUrl": "https://devopsdays.org/events/2024-kansas-city/conduct"
+    "cocUrl": "https://devopsdays.org/events/2024-kansas-city/conduct",
+    "twitter": "@devopsdayskc"
   },
   {
     "name": "TIL Conf",
@@ -427,8 +427,8 @@
     "startDate": "2024-05-16",
     "endDate": "2024-05-19",
     "online": true,
-    "cocUrl": "https://til-conf.netlify.app/coc/",
-    "locales": "EN"
+    "locales": "EN",
+    "cocUrl": "https://til-conf.netlify.app/coc/"
   },
   {
     "name": "Devopsdays Sao Paulo",
@@ -437,10 +437,10 @@
     "endDate": "2024-05-18",
     "city": "São Paulo",
     "country": "Brazil",
+    "cocUrl": "https://devopsdays.org/events/2024-saopaulo/conduct-pt-br",
     "cfpUrl": "https://talks.devopsdays.org/devopsdays-sao-paulo-2024/",
     "cfpEndDate": "2024-02-11",
-    "twitter": "@sp_devopsdays",
-    "cocUrl": "https://devopsdays.org/events/2024-saopaulo/conduct-pt-br"
+    "twitter": "@sp_devopsdays"
   },
   {
     "name": "DevOpsCon San Diego",
@@ -450,9 +450,9 @@
     "city": "San Diego, CA",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@devops_con",
+    "locales": "EN",
     "cocUrl": "https://devopscon.io/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@devops_con"
   },
   {
     "name": "DevDays Europe",
@@ -462,10 +462,10 @@
     "city": "Vilnius",
     "country": "Lithuania",
     "online": true,
+    "locales": "EN",
     "cfpUrl": "https://devdays.lt/call-for-papers",
     "cfpEndDate": "2024-01-31",
-    "twitter": "@DevDaysEurope",
-    "locales": "EN"
+    "twitter": "@DevDaysEurope"
   },
   {
     "name": "DevOps Pro Europe",
@@ -475,10 +475,10 @@
     "city": "Vilnius",
     "country": "Lithuania",
     "online": true,
+    "locales": "EN",
     "cfpUrl": "https://airtable.com/shrHrfEemCI1hunXd",
     "cfpEndDate": "2024-04-15",
-    "twitter": "@DevOpsEU",
-    "locales": "EN"
+    "twitter": "@DevOpsEU"
   },
   {
     "name": "Devopsdays Baltimore",
@@ -488,10 +488,10 @@
     "city": "Baltimore, MD",
     "country": "U.S.A.",
     "online": false,
+    "cocUrl": "https://devopsdays.org/events/2024-baltimore/conduct",
     "cfpUrl": "https://talks.devopsdays.org/devopsdays-baltimore-2024/cfp",
     "cfpEndDate": "2024-02-01",
-    "twitter": "@DevOpsDaysBmore",
-    "cocUrl": "https://devopsdays.org/events/2024-baltimore/conduct"
+    "twitter": "@DevOpsDaysBmore"
   },
   {
     "name": "KCD New York",
@@ -501,11 +501,11 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://community.cncf.io/events/details/cncf-kcd-new-york-presents-kcd-new-york-2024/",
     "cfpUrl": "https://cncly.co/cfp-ny24",
     "cfpEndDate": "2024-02-11",
-    "twitter": "@KcdNewyork",
-    "cocUrl": "https://community.cncf.io/events/details/cncf-kcd-new-york-presents-kcd-new-york-2024/",
-    "locales": "EN"
+    "twitter": "@KcdNewyork"
   },
   {
     "name": "OpenInfra Day France",
@@ -515,10 +515,10 @@
     "city": "Paris",
     "country": "France",
     "online": false,
+    "locales": "EN,FR",
     "cfpUrl": "https://openinfrafoundation.formstack.com/forms/2024_openinfra_days_france_cfp",
     "cfpEndDate": "2024-04-12",
-    "twitter": "@openstackfr",
-    "locales": "EN,FR"
+    "twitter": "@openstackfr"
   },
   {
     "name": "Devopsdays Montreal",
@@ -528,10 +528,10 @@
     "city": "Montreal",
     "country": "Canada",
     "online": false,
+    "cocUrl": "https://devopsdays.org/events/2024-montreal/conduct",
     "cfpUrl": "https://sessionize.com/devopsdays-montreal-2024/",
     "cfpEndDate": "2024-01-28",
-    "twitter": "@DevOpsDaysMTL",
-    "cocUrl": "https://devopsdays.org/events/2024-montreal/conduct"
+    "twitter": "@DevOpsDaysMTL"
   },
   {
     "name": "JCON OpenBlend Slovenia",
@@ -539,9 +539,9 @@
     "startDate": "2024-05-29",
     "endDate": "2024-05-31",
     "online": true,
+    "locales": "EN,SL",
     "cfpUrl": "https://sessionize.com/makeit-jcon-2024",
-    "cfpEndDate": "2024-02-03",
-    "locales": "EN,SL"
+    "cfpEndDate": "2024-02-03"
   },
   {
     "name": "AGILE + DEVOPS WEST",
@@ -559,11 +559,11 @@
     "startDate": "2024-06-04",
     "endDate": "2024-06-05",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://devopsdays.com.ua/code-of-conduct/",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfcE8aUHo_mFGfdl4d8rD6ZYhcS71ZOPH078JPWH1lRrcZi2Q/viewform",
     "cfpEndDate": "2024-05-04",
     "twitter": "@devopsdays_kyiv",
-    "cocUrl": "https://devopsdays.com.ua/code-of-conduct/",
-    "locales": "EN",
     "mastodon": "@devopsdays_ukraine@mastodon.social"
   },
   {
@@ -572,11 +572,11 @@
     "startDate": "2024-06-05",
     "endDate": "2024-06-06",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
     "cfpUrl": "https://sessionize.com/developerweek-latin-america-2023",
     "cfpEndDate": "2024-04-21",
-    "twitter": "@DeveloperWeek",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@DeveloperWeek"
   },
   {
     "name": "Icinga Summit",
@@ -586,11 +586,11 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://icinga.com/summit/",
     "cfpUrl": "https://icinga.com/summit/cfp",
     "cfpEndDate": "2024-03-31",
-    "twitter": "@icinga",
-    "cocUrl": "https://icinga.com/summit/",
-    "locales": "EN"
+    "twitter": "@icinga"
   },
   {
     "name": "Big Sky Dev Con",
@@ -600,10 +600,10 @@
     "city": "Bozeman, MT",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeDNjPCp4iRPcs11xPIn6ikJ3QhliCspbN_5n0SsqIBP-tA8w/viewform",
     "cfpEndDate": "2024-04-01",
-    "twitter": "@BigSkyDevCon",
-    "locales": "EN"
+    "twitter": "@BigSkyDevCon"
   },
   {
     "name": "INTEGRATE",
@@ -613,8 +613,8 @@
     "city": "London",
     "country": "U.K.",
     "online": true,
-    "twitter": "@serverless360",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@serverless360"
   },
   {
     "name": "Monitorama",
@@ -624,9 +624,9 @@
     "city": "Portland, OR",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@Monitorama",
-    "cocUrl": "https://monitorama.com/2024/pdx.html#conduct",
     "locales": "EN",
+    "cocUrl": "https://monitorama.com/2024/pdx.html#conduct",
+    "twitter": "@Monitorama",
     "mastodon": "@monitorama@mastodon.social"
   },
   {
@@ -635,10 +635,10 @@
     "startDate": "2024-06-10",
     "endDate": "2024-06-14",
     "online": true,
-    "cfpUrl": "https://sessionize.com/platformcon-2024",
-    "cfpEndDate": "2024-02-25",
+    "locales": "EN",
     "cocUrl": "https://platformcon.com/code-of-conduct",
-    "locales": "EN"
+    "cfpUrl": "https://sessionize.com/platformcon-2024",
+    "cfpEndDate": "2024-02-25"
   },
   {
     "name": "Mastering Observability",
@@ -646,8 +646,8 @@
     "startDate": "2024-06-11",
     "endDate": "2024-06-11",
     "online": true,
-    "cocUrl": "https://www.mastering-obs.de/code_of_conduct.php",
-    "locales": "DE"
+    "locales": "DE",
+    "cocUrl": "https://www.mastering-obs.de/code_of_conduct.php"
   },
   {
     "name": "EuroSTAR Conference",
@@ -657,11 +657,11 @@
     "city": "Stockholm",
     "country": "Sweden",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://conference.eurostarsoftwaretesting.com/anti-harassment-policy/",
     "cfpUrl": "https://conference.eurostarsoftwaretesting.com/call-for-submissions",
     "cfpEndDate": "2023-09-17",
-    "twitter": "@esconfs",
-    "cocUrl": "https://conference.eurostarsoftwaretesting.com/anti-harassment-policy/",
-    "locales": "EN"
+    "twitter": "@esconfs"
   },
   {
     "name": "Kubernetes Community Days Barcelona",
@@ -671,11 +671,11 @@
     "city": "Barcelona",
     "country": "Spain",
     "online": false,
+    "locales": "EN,ES",
+    "cocUrl": "https://devbcn.com/codeOfConduct",
     "cfpUrl": "http://devbcn.com/cfp",
     "cfpEndDate": "2024-04-01",
-    "twitter": "@devbcn",
-    "cocUrl": "https://devbcn.com/codeOfConduct",
-    "locales": "EN,ES"
+    "twitter": "@devbcn"
   },
   {
     "name": "World Conference on Data Science & Statistics",
@@ -695,9 +695,9 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
-    "twitter": "@devops_con",
+    "locales": "EN",
     "cocUrl": "https://devopscon.io/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@devops_con"
   },
   {
     "name": "stackconf",
@@ -707,12 +707,12 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://stackconf.eu/code-of-conduct/",
     "cfpUrl": "https://stackconf.eu/propose",
     "cfpEndDate": "2024-03-31",
-    "twitter": "@stackconf",
-    "cocUrl": "https://stackconf.eu/code-of-conduct/",
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "twitter": "@stackconf"
   },
   {
     "name": "IT Security Summit",
@@ -722,9 +722,9 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
-    "twitter": "@ITSecSummit",
+    "locales": "DE",
     "cocUrl": "https://it-security-summit.de/de/code-of-conduct/",
-    "locales": "DE"
+    "twitter": "@ITSecSummit"
   },
   {
     "name": "Devopsdays Amsterdam",
@@ -733,12 +733,12 @@
     "endDate": "2024-06-21",
     "city": "Amsterdam",
     "country": "Netherlands",
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://devopsdays.org/events/2024-amsterdam/conduct",
     "cfpUrl": "https://talks.devopsdays.org/devopsdays-amsterdam-2024/cfp",
     "cfpEndDate": "2024-02-01",
-    "twitter": "@devopsams",
-    "cocUrl": "https://devopsdays.org/events/2024-amsterdam/conduct",
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "twitter": "@devopsams"
   },
   {
     "name": "InfoQ Dev Summit",
@@ -748,9 +748,9 @@
     "city": "Boston, MA",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@InfoQ",
+    "locales": "EN",
     "cocUrl": "https://devsummit.infoq.com/code-conduct",
-    "locales": "EN"
+    "twitter": "@InfoQ"
   },
   {
     "name": "Portal Talks",
@@ -758,8 +758,8 @@
     "startDate": "2024-06-26",
     "endDate": "2024-06-27",
     "online": true,
-    "twitter": "@tweetsbyport",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@tweetsbyport"
   },
   {
     "name": "DevSecOps Melbourne",
@@ -769,8 +769,8 @@
     "city": "Melbourne",
     "country": "Australia",
     "online": false,
-    "twitter": "@CoriniumGlobal",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@CoriniumGlobal"
   },
   {
     "name": "KCD Lima",
@@ -780,10 +780,10 @@
     "city": "Lima",
     "country": "Peru",
     "online": false,
+    "locales": "EN,ES",
     "cfpUrl": "https://sessionize.com/KCDLimaPeru-2024",
     "cfpEndDate": "2024-05-19",
-    "twitter": "@KCDLimaPeru",
-    "locales": "EN,ES"
+    "twitter": "@KCDLimaPeru"
   },
   {
     "name": "Agile",
@@ -793,9 +793,9 @@
     "city": "Dallas, TX",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@AgileAlliance",
+    "locales": "EN",
     "cocUrl": "https://www.agilealliance.org/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@AgileAlliance"
   },
   {
     "name": "Devopsdays Halifax",
@@ -804,8 +804,8 @@
     "endDate": "2024-08-07",
     "city": "Halifax",
     "country": "Canada",
-    "cocUrl": "https://devopsdays.org/events/2024-halifax/conduct",
-    "locales": "EN"
+    "locales": "EN",
+    "cocUrl": "https://devopsdays.org/events/2024-halifax/conduct"
   },
   {
     "name": "Devopsdays Minneapolis",
@@ -814,9 +814,9 @@
     "endDate": "2024-08-07",
     "city": "Minneapolis, MN",
     "country": "U.S.A.",
-    "twitter": "@devopsdaysmsp",
+    "locales": "EN",
     "cocUrl": "https://devopsdays.org/events/2024-minneapolis/conduct",
-    "locales": "EN"
+    "twitter": "@devopsdaysmsp"
   },
   {
     "name": "Enterprise Technology Leadership Summit Las Vegas",
@@ -826,11 +826,11 @@
     "city": "Las Vegas, NV",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://doesvirtual.itrevolution.com/code-of-conduct",
     "cfpUrl": "https://sessionize.com/enterprise-tech-leadership-summit-us-2024",
     "cfpEndDate": "2024-04-01",
-    "twitter": "@itrevsummit",
-    "cocUrl": "https://doesvirtual.itrevolution.com/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@itrevsummit"
   },
   {
     "name": "KubeCon, CloudNativeCon, Open Source Summit and AI_dev",
@@ -840,11 +840,11 @@
     "city": "Hong Kong",
     "country": "Hong Kong",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-open-source-summit-ai-dev-china/attend/code-of-conduct/",
     "cfpUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-open-source-summit-ai-dev-china/program/call-for-proposal/",
     "cfpEndDate": "2024-05-05",
-    "twitter": "@KubeCon_",
-    "cocUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-open-source-summit-ai-dev-china/attend/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@KubeCon_"
   },
   {
     "name": "Testμ Conference",
@@ -852,11 +852,11 @@
     "startDate": "2024-08-21",
     "endDate": "2024-08-23",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.lambdatest.com/testmuconf-2024/",
     "cfpUrl": "https://forms.gle/8qjrqXeXDvZHLBdp8",
     "cfpEndDate": "2024-04-20",
-    "twitter": "@lambdatesting",
-    "cocUrl": "https://www.lambdatest.com/testmuconf-2024/",
-    "locales": "EN"
+    "twitter": "@lambdatesting"
   },
   {
     "name": "KubeCon + CloudNativeCon Japan",
@@ -866,11 +866,11 @@
     "city": "Tokyo",
     "country": "Japan",
     "online": false,
+    "locales": "EN, JP",
+    "cocUrl": "https://events.linuxfoundation.org/kubeday-japan/attend/code-of-conduct/",
     "cfpUrl": "https://events.linuxfoundation.org/kubeday-japan/program/cfp/",
     "cfpEndDate": "2024-05-19",
-    "twitter": "@KubeCon_",
-    "cocUrl": "https://events.linuxfoundation.org/kubeday-japan/attend/code-of-conduct/",
-    "locales": "EN, JP"
+    "twitter": "@KubeCon_"
   },
   {
     "name": "Conf42 Platform Engineering",
@@ -878,11 +878,11 @@
     "startDate": "2024-09-05",
     "endDate": "2024-09-05",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/platform-engineering-2024",
     "cfpEndDate": "2024-08-05",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@conf42com"
   },
   {
     "name": "Civo Navigate Europe",
@@ -892,11 +892,11 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.civo.com/navigate/code-of-conduct",
     "cfpUrl": "https://sessionize.com/civo-navigate-europe-2024",
     "cfpEndDate": "2024-05-07",
-    "twitter": "@CivoCloud",
-    "cocUrl": "https://www.civo.com/navigate/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@CivoCloud"
   },
   {
     "name": "PromCon",
@@ -906,9 +906,9 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
-    "twitter": "@PrometheusIO",
+    "locales": "EN",
     "cocUrl": "https://promcon.io/coc/",
-    "locales": "EN"
+    "twitter": "@PrometheusIO"
   },
   {
     "name": "data2day",
@@ -918,11 +918,11 @@
     "city": "Heidelberg",
     "country": "Germany",
     "online": false,
+    "locales": "DE",
+    "cocUrl": "https://www.data2day.de/code_of_conduct.php?source=0",
     "cfpUrl": "https://www.data2day.de/cfp.php",
     "cfpEndDate": "2024-03-18",
-    "twitter": "@data2day",
-    "cocUrl": "https://www.data2day.de/code_of_conduct.php?source=0",
-    "locales": "DE"
+    "twitter": "@data2day"
   },
   {
     "name": "DevOpsDays Tampa Bay",
@@ -932,11 +932,11 @@
     "city": "Tampa, FL",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://devopsdays.org/events/2024-tampa/conduct",
     "cfpUrl": "https://sessionize.com/devops-days-tampa-bay-2024",
     "cfpEndDate": "2024-05-15",
-    "twitter": "@devopsdaystb",
-    "cocUrl": "https://devopsdays.org/events/2024-tampa/conduct",
-    "locales": "EN"
+    "twitter": "@devopsdaystb"
   },
   {
     "name": "SREday London",
@@ -946,11 +946,11 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/sreday-2024-london",
     "cfpEndDate": "2024-06-24",
-    "twitter": "@sreday_com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@sreday_com"
   },
   {
     "name": "Devopsdays Cairo",
@@ -959,8 +959,8 @@
     "endDate": "2024-09-25",
     "city": "Cairo",
     "country": "Egypt",
-    "cocUrl": "https://devopsdays.org/events/2024-cairo/conduct",
-    "locales": "EN"
+    "locales": "EN",
+    "cocUrl": "https://devopsdays.org/events/2024-cairo/conduct"
   },
   {
     "name": "Conf42 Kube Native",
@@ -968,11 +968,11 @@
     "startDate": "2024-09-26",
     "endDate": "2024-09-26",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/conf42-kube-native-2024",
     "cfpEndDate": "2024-08-26",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@conf42com"
   },
   {
     "name": "Devopsdays London",
@@ -981,11 +981,11 @@
     "endDate": "2024-09-27",
     "city": "London",
     "country": "U.K.",
+    "locales": "EN",
+    "cocUrl": "https://devopsdays.org/events/2024-london/conduct",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdUK4VNyhpfpqhrm8BY7KmAvSNQHIuL49YOabkYDInbnyKD1g/viewform",
     "cfpEndDate": "2024-05-24",
-    "twitter": "@DevOpsDaysLDN",
-    "cocUrl": "https://devopsdays.org/events/2024-london/conduct",
-    "locales": "EN"
+    "twitter": "@DevOpsDaysLDN"
   },
   {
     "name": "InfoQ Dev Summit Munich",
@@ -995,9 +995,9 @@
     "city": "Munich",
     "country": "Germany",
     "online": false,
-    "twitter": "@infoq",
+    "locales": "EN",
     "cocUrl": "https://devsummit.infoq.com/code-conduct",
-    "locales": "EN"
+    "twitter": "@infoq"
   },
   {
     "name": "Platform Summit",
@@ -1017,11 +1017,11 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://devopscon.io/code-of-conduct/",
     "cfpUrl": "https://devopscon.io/call-for-papers-ny",
     "cfpEndDate": "2024-03-18",
-    "twitter": "@devops_con",
-    "cocUrl": "https://devopscon.io/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@devops_con"
   },
   {
     "name": "Modern DevOps Melbourne",
@@ -1031,8 +1031,8 @@
     "city": "Melbourne",
     "country": "Australia",
     "online": false,
-    "twitter": "@CoriniumGlobal",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@CoriniumGlobal"
   },
   {
     "name": "KubeDay Colombia",
@@ -1052,8 +1052,8 @@
     "city": "Orlando, FL",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@techwell",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@techwell"
   },
   {
     "name": "KubeDay Australia",
@@ -1063,11 +1063,11 @@
     "city": "Melbourne",
     "country": "Australia",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://events.linuxfoundation.org/kubeday-australia/attend/code-of-conduct/",
     "cfpUrl": "https://events.linuxfoundation.org/kubeday-australia/program/cfp/",
     "cfpEndDate": "2024-06-28",
-    "twitter": "@KubeCon_",
-    "cocUrl": "https://events.linuxfoundation.org/kubeday-australia/attend/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@KubeCon_"
   },
   {
     "name": "Camunda Community Summit",
@@ -1087,8 +1087,8 @@
     "city": "Richmond, VA",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@InnovateVA",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@InnovateVA"
   },
   {
     "name": "CloudX",
@@ -1098,11 +1098,11 @@
     "city": "Santa Clara, CA",
     "country": "U.S.A.",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
     "cfpUrl": "https://sessionize.com/cloudx-2024",
     "cfpEndDate": "2024-06-14",
-    "twitter": "@DeveloperWeek",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@DeveloperWeek"
   },
   {
     "name": "Heapcon",
@@ -1112,11 +1112,11 @@
     "city": "Belgrade",
     "country": "Serbia",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://heapcon.io/2024/code-of-conduct",
     "cfpUrl": "https://heapcon.io/2024/call-for-papers",
     "cfpEndDate": "2024-06-01",
-    "twitter": "@Heapconf",
-    "cocUrl": "https://heapcon.io/2024/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@Heapconf"
   },
   {
     "name": "KubeCon + CloudNativeCon North America",
@@ -1126,11 +1126,11 @@
     "city": "Salt Lake City, UT",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/attend/code-of-conduct/",
     "cfpUrl": "https://sessionize.com/kubecon-cloudnativecon-north-america-2024",
     "cfpEndDate": "2024-06-09",
-    "twitter": "@CloudNativeFdn",
-    "cocUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/attend/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@CloudNativeFdn"
   },
   {
     "name": "Continuous Lifecycle/ContainerConf (CLC)",
@@ -1140,10 +1140,10 @@
     "city": "Mannheim",
     "country": "Germany",
     "online": false,
-    "cfpUrl": "https://www.continuouslifecycle.de/cfp.php",
-    "cfpEndDate": "2024-05-05",
+    "locales": "DE",
     "cocUrl": "https://www.continuouslifecycle.de/code_of_conduct.php",
-    "locales": "DE"
+    "cfpUrl": "https://www.continuouslifecycle.de/cfp.php",
+    "cfpEndDate": "2024-05-05"
   },
   {
     "name": "Devops Barcelona",
@@ -1153,11 +1153,11 @@
     "city": "Barcelona",
     "country": "Spain",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://devops.barcelona/code-of-conduct?utm_source=confs.tech&utm_medium=link&utm_campaign=devops-barcelona-2024&utm_id=devops-barcelona-2024",
     "cfpUrl": "https://devops.barcelona/call-for-papers",
     "cfpEndDate": "2024-06-30",
-    "twitter": "@devopsbarcelona",
-    "cocUrl": "https://devops.barcelona/code-of-conduct?utm_source=confs.tech&utm_medium=link&utm_campaign=devops-barcelona-2024&utm_id=devops-barcelona-2024",
-    "locales": "EN"
+    "twitter": "@devopsbarcelona"
   },
   {
     "name": "QCon San Francisco",
@@ -1167,9 +1167,9 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@qcon",
+    "locales": "EN",
     "cocUrl": "https://qconferences.com/code-conduct",
-    "locales": "EN"
+    "twitter": "@qcon"
   },
   {
     "name": "Agile Testing Days",
@@ -1179,11 +1179,11 @@
     "city": "Potsdam",
     "country": "Germany",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://agiletestingdays.com/code-of-conduct/",
     "cfpUrl": "https://agiletestingdays.com/call-for-papers",
     "cfpEndDate": "2024-02-11",
-    "twitter": "@AgileTD",
-    "cocUrl": "https://agiletestingdays.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@AgileTD"
   },
   {
     "name": "DevOpsCon Singapore",
@@ -1193,11 +1193,11 @@
     "city": "Singapore",
     "country": "Singapore",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://devopscon.io/code-of-conduct/",
     "cfpUrl": "https://devopscon.io/call-for-papers",
     "cfpEndDate": "2024-05-13",
-    "twitter": "@devops_con",
-    "cocUrl": "https://devopscon.io/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@devops_con"
   },
   {
     "name": "DevOps Vision",
@@ -1207,9 +1207,9 @@
     "city": "Clearwater, FL",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@nofluff",
+    "locales": "EN",
     "cocUrl": "https://devopsvision.io/home/code_of_conduct",
-    "locales": "EN"
+    "twitter": "@nofluff"
   },
   {
     "name": "Internet 2.0 Conference",
@@ -1219,8 +1219,8 @@
     "city": "Dubai",
     "country": "United Arab Emirates",
     "online": false,
-    "twitter": "@internet2conf",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@internet2conf"
   },
   {
     "name": "Conf42 DevSecOps",
@@ -1228,11 +1228,11 @@
     "startDate": "2024-12-05",
     "endDate": "2024-12-05",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/conf42-devsecops-2024",
     "cfpEndDate": "2024-11-04",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@conf42com"
   },
   {
     "name": "KubeCon + CloudNativeCon India",
@@ -1242,8 +1242,8 @@
     "city": "Delhi",
     "country": "India",
     "online": false,
-    "twitter": "@KubeCon_",
+    "locales": "EN",
     "cocUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-india/attend/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@KubeCon_"
   }
 ]

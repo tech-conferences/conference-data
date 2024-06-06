@@ -7,8 +7,8 @@
     "city": "Vienna",
     "country": "Austria",
     "online": false,
-    "twitter": "@sec4dev",
-    "cocUrl": "https://sec4dev.io/code-of-conduct"
+    "cocUrl": "https://sec4dev.io/code-of-conduct",
+    "twitter": "@sec4dev"
   },
   {
     "name": "Nullcon International Conference and Training Berlin",
@@ -18,10 +18,10 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
+    "cocUrl": "https://nullcon.net/about-conferencepolicy/",
     "cfpUrl": "https://nullcon.net/berlin-2022/cfp",
     "cfpEndDate": "2022-01-15",
-    "twitter": "@nullcon",
-    "cocUrl": "https://nullcon.net/about-conferencepolicy/"
+    "twitter": "@nullcon"
   },
   {
     "name": "CincyDeliver()",
@@ -31,10 +31,10 @@
     "city": "Cincinnati, OH",
     "country": "U.S.A.",
     "online": false,
+    "cocUrl": "https://www.cincydeliver.org/Home/CodeOfConduct",
     "cfpUrl": "https://www.cincydeliver.org/Sessions/Create",
     "cfpEndDate": "2022-04-30",
-    "twitter": "@DayOfAgile",
-    "cocUrl": "https://www.cincydeliver.org/Home/CodeOfConduct"
+    "twitter": "@DayOfAgile"
   },
   {
     "name": "Infobip Shift",
@@ -44,10 +44,10 @@
     "city": "Zadar",
     "country": "Croatia",
     "online": true,
+    "cocUrl": "https://shift.infobip.com/code/",
     "cfpUrl": "https://sessionize.com/infobipshift",
     "cfpEndDate": "2022-07-01",
-    "twitter": "@infobipshift",
-    "cocUrl": "https://shift.infobip.com/code/"
+    "twitter": "@infobipshift"
   },
   {
     "name": "TestFlix",
@@ -55,11 +55,11 @@
     "startDate": "2022-10-08",
     "endDate": "2022-10-09",
     "online": true,
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://www.thetesttribe.com/event-policy-and-code-of-conduct/",
     "cfpUrl": "https://www.thetesttribe.com/testflix-2022-call-for-papers",
     "cfpEndDate": "2022-05-15",
-    "twitter": "@the_test_tribe",
-    "cocUrl": "https://www.thetesttribe.com/event-policy-and-code-of-conduct/",
-    "offersSignLanguageOrCC": true
+    "twitter": "@the_test_tribe"
   },
   {
     "name": "BASTA!",
@@ -69,8 +69,8 @@
     "city": "Mainz",
     "country": "Germany",
     "online": true,
-    "twitter": "@BASTAcon",
-    "cocUrl": "https://basta.net/code-of-conduct-en/"
+    "cocUrl": "https://basta.net/code-of-conduct-en/",
+    "twitter": "@BASTAcon"
   },
   {
     "name": "API Conference Berlin",
@@ -80,8 +80,8 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
-    "twitter": "@api_conference",
-    "cocUrl": "https://apiconference.net/code-of-conduct/"
+    "cocUrl": "https://apiconference.net/code-of-conduct/",
+    "twitter": "@api_conference"
   },
   {
     "name": "API World",
@@ -91,10 +91,10 @@
     "city": "San Jose, CA",
     "country": "U.S.A.",
     "online": true,
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
     "cfpUrl": "https://sessionize.com/api-world-2022",
     "cfpEndDate": "2022-07-08",
-    "twitter": "@APIWorld",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/"
+    "twitter": "@APIWorld"
   },
   {
     "name": "Arm DevSummit",
@@ -112,8 +112,8 @@
     "startDate": "2022-11-03",
     "endDate": "2022-11-05",
     "online": true,
-    "twitter": "@AsyncAPISpec",
-    "cocUrl": "https://events.linuxfoundation.org/about/code-of-conduct/"
+    "cocUrl": "https://events.linuxfoundation.org/about/code-of-conduct/",
+    "twitter": "@AsyncAPISpec"
   },
   {
     "name": "Update Conference Prague",
@@ -123,10 +123,10 @@
     "city": "Prague",
     "country": "Czech Republic",
     "online": true,
+    "cocUrl": "https://www.updateconference.net/en/code-of-conduct",
     "cfpUrl": "https://www.updateconference.net/2022/call-for-speakers",
     "cfpEndDate": "2022-06-26",
-    "twitter": "@update_conf",
-    "cocUrl": "https://www.updateconference.net/en/code-of-conduct"
+    "twitter": "@update_conf"
   },
   {
     "name": "API Camp",
@@ -136,10 +136,10 @@
     "city": "Bangalore",
     "country": "India",
     "online": false,
+    "cocUrl": "https://apicamp.org/code-of-conduct/",
     "cfpUrl": "https://confengine.com/conferences/api-camp-2022/position-papers",
     "cfpEndDate": "2022-10-30",
-    "twitter": "@apicamp_org",
-    "cocUrl": "https://apicamp.org/code-of-conduct/"
+    "twitter": "@apicamp_org"
   },
   {
     "name": "Git Commit Show",
@@ -147,10 +147,10 @@
     "startDate": "2022-11-26",
     "endDate": "2022-11-27",
     "online": true,
+    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub",
     "cfpUrl": "http://push.gitcommit.show",
     "cfpEndDate": "2022-10-26",
-    "twitter": "@gitcommitshow",
-    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub"
+    "twitter": "@gitcommitshow"
   },
   {
     "name": "MAD Summit",
@@ -160,8 +160,8 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
-    "twitter": "@mad_summit",
-    "cocUrl": "https://mad-summit.de/code-of-conduct/"
+    "cocUrl": "https://mad-summit.de/code-of-conduct/",
+    "twitter": "@mad_summit"
   },
   {
     "name": "DevTernity",
@@ -169,7 +169,7 @@
     "startDate": "2022-12-08",
     "endDate": "2022-12-09",
     "online": true,
-    "twitter": "@devternity",
-    "cocUrl": "https://devternity.com/code_of_conduct.html"
+    "cocUrl": "https://devternity.com/code_of_conduct.html",
+    "twitter": "@devternity"
   }
 ]

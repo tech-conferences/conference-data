@@ -6,9 +6,9 @@
     "endDate": "2021-01-15",
     "city": "Montreal",
     "country": "Canada",
-    "twitter": "@omniprof",
+    "offersSignLanguageOrCC": false,
     "cocUrl": "https://www.dawsoncollege.qc.ca/dawscon/dawscon-code-of-conduct-code-de-conduite-pour-la-conference/",
-    "offersSignLanguageOrCC": false
+    "twitter": "@omniprof"
   },
   {
     "name": "WeAreDevelopers Live – Java Day",
@@ -16,11 +16,11 @@
     "startDate": "2021-01-20",
     "endDate": "2021-01-20",
     "online": true,
+    "offersSignLanguageOrCC": false,
+    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct/",
     "cfpUrl": "https://www.wearedevelopers.com/live/cfp",
     "cfpEndDate": "2021-01-11",
-    "twitter": "@WeAreDevs",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct/",
-    "offersSignLanguageOrCC": false
+    "twitter": "@WeAreDevs"
   },
   {
     "name": "DevNexus",
@@ -28,9 +28,9 @@
     "startDate": "2021-02-17",
     "endDate": "2021-02-17",
     "online": true,
-    "twitter": "@devnexus",
+    "offersSignLanguageOrCC": false,
     "cocUrl": "https://devnexus.com/code-of-conduct",
-    "offersSignLanguageOrCC": false
+    "twitter": "@devnexus"
   },
   {
     "name": "Node.TLV",
@@ -39,8 +39,8 @@
     "endDate": "2021-03-10",
     "city": "Tel Aviv",
     "country": "Israel",
-    "twitter": "@NodeTLV",
-    "cocUrl": "https://www.nodetlv.com/code-of-conduct"
+    "cocUrl": "https://www.nodetlv.com/code-of-conduct",
+    "twitter": "@NodeTLV"
   },
   {
     "name": "Conf42: Java",
@@ -65,8 +65,8 @@
     "startDate": "2021-06-21",
     "endDate": "2021-06-25",
     "online": true,
-    "twitter": "@ExtremeJavaCamp",
-    "cocUrl": "https://extreme-java-camp.de/code-of-conduct/"
+    "cocUrl": "https://extreme-java-camp.de/code-of-conduct/",
+    "twitter": "@ExtremeJavaCamp"
   },
   {
     "name": "jLove",
@@ -74,8 +74,8 @@
     "startDate": "2021-06-25",
     "endDate": "2021-06-26",
     "online": true,
-    "twitter": "@jloveconf",
-    "cocUrl": "https://berlincodeofconduct.org"
+    "cocUrl": "https://berlincodeofconduct.org",
+    "twitter": "@jloveconf"
   },
   {
     "name": "WeAreDevelopers Live - Java Day",
@@ -83,8 +83,8 @@
     "startDate": "2021-09-01",
     "endDate": "2021-09-01",
     "online": true,
-    "twitter": "@wearedevs",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/diversity-inclusion"
+    "cocUrl": "https://www.wearedevelopers.com/about/legal/diversity-inclusion",
+    "twitter": "@wearedevs"
   },
   {
     "name": "Kansas City Developer Conference",
@@ -94,8 +94,8 @@
     "city": "Kansas City, MO",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@kc_dc",
-    "cocUrl": "https://www.kcdc.info/code-of-conduct"
+    "cocUrl": "https://www.kcdc.info/code-of-conduct",
+    "twitter": "@kc_dc"
   },
   {
     "name": "JAX London",
@@ -113,8 +113,8 @@
     "startDate": "2021-10-05",
     "endDate": "2021-10-08",
     "online": true,
-    "twitter": "@jcon_conference",
-    "cocUrl": "https://jcon.one/code-of-conduct"
+    "cocUrl": "https://jcon.one/code-of-conduct",
+    "twitter": "@jcon_conference"
   },
   {
     "name": "UberConf",
@@ -124,8 +124,8 @@
     "city": "Denver, CO",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@nofluff",
-    "cocUrl": "https://uberconf.com/home/code_of_conduct"
+    "cocUrl": "https://uberconf.com/home/code_of_conduct",
+    "twitter": "@nofluff"
   },
   {
     "name": "MakeIT",
@@ -135,10 +135,10 @@
     "city": "Portorož",
     "country": "Slovenia",
     "online": true,
+    "offersSignLanguageOrCC": true,
     "cfpUrl": "https://makeit.si/index.php/en/conference/cfp-submission-2",
     "cfpEndDate": "2021-06-27",
-    "twitter": "@makeitconf2021",
-    "offersSignLanguageOrCC": true
+    "twitter": "@makeitconf2021"
   },
   {
     "name": "I Code Java Africa",
@@ -156,8 +156,8 @@
     "city": "Munich",
     "country": "Germany",
     "online": true,
-    "twitter": "@jaxcon",
-    "cocUrl": "https://jax.de/code-of-conduct/"
+    "cocUrl": "https://jax.de/code-of-conduct/",
+    "twitter": "@jaxcon"
   },
   {
     "name": "Devoxx Ukraine",
@@ -165,10 +165,10 @@
     "startDate": "2021-11-19",
     "endDate": "2021-11-20",
     "online": true,
+    "cocUrl": "https://devoxx.com.ua/code-of-conduct/",
     "cfpUrl": "https://dvua21.cfp.dev/#",
     "cfpEndDate": "2021-10-19",
-    "twitter": "@DevoxxUA",
-    "cocUrl": "https://devoxx.com.ua/code-of-conduct/"
+    "twitter": "@DevoxxUA"
   },
   {
     "name": "JavaZone",
@@ -177,10 +177,10 @@
     "endDate": "2021-12-09",
     "city": "Oslo",
     "country": "Norway",
-    "cfpUrl": "https://2021.javazone.no/#/speakers",
-    "cfpEndDate": "2021-08-05",
+    "offersSignLanguageOrCC": false,
     "cocUrl": "https://www.java.no/principles#",
-    "offersSignLanguageOrCC": false
+    "cfpUrl": "https://2021.javazone.no/#/speakers",
+    "cfpEndDate": "2021-08-05"
   },
   {
     "name": "jConf.dev",
@@ -190,10 +190,10 @@
     "city": "Chicago, IL",
     "country": "U.S.A.",
     "online": false,
+    "cocUrl": "https://2021.jconf.dev/codeofconduct/",
     "cfpUrl": "https://2021.jconf.dev/cfp",
     "cfpEndDate": "2021-08-01",
-    "twitter": "@jconfdev",
-    "cocUrl": "https://2021.jconf.dev/codeofconduct/"
+    "twitter": "@jconfdev"
   },
   {
     "name": "DevTernity",
@@ -201,8 +201,8 @@
     "startDate": "2021-12-10",
     "endDate": "2021-12-11",
     "online": true,
-    "twitter": "@devternity",
-    "cocUrl": "https://devternity.com/code_of_conduct.html"
+    "cocUrl": "https://devternity.com/code_of_conduct.html",
+    "twitter": "@devternity"
   },
   {
     "name": "ArchConf",
@@ -212,7 +212,7 @@
     "city": "Clearwater, FL",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@nofluff",
-    "cocUrl": "https://archconf.com/home/code_of_conduct"
+    "cocUrl": "https://archconf.com/home/code_of_conduct",
+    "twitter": "@nofluff"
   }
 ]

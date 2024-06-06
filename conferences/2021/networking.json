@@ -5,10 +5,10 @@
     "startDate": "2021-02-10",
     "endDate": "2021-02-12",
     "online": true,
+    "cocUrl": "https://foss-backstage.de/code-conduct",
     "cfpUrl": "https://foss-backstage.de/call-participation",
     "cfpEndDate": "2020-10-25",
-    "twitter": "@Fossbckstg",
-    "cocUrl": "https://foss-backstage.de/code-conduct"
+    "twitter": "@Fossbckstg"
   },
   {
     "name": "Cloud Transformation Champions",
@@ -16,8 +16,8 @@
     "startDate": "2021-03-02",
     "endDate": "2021-03-03",
     "online": true,
-    "twitter": "@CoriniumGlobal",
-    "offersSignLanguageOrCC": false
+    "offersSignLanguageOrCC": false,
+    "twitter": "@CoriniumGlobal"
   },
   {
     "name": "Women in Data Science (WiDS) Worldwide",
@@ -25,9 +25,9 @@
     "startDate": "2021-03-08",
     "endDate": "2021-03-08",
     "online": true,
-    "twitter": "@WiDS_Worldwide",
+    "offersSignLanguageOrCC": false,
     "cocUrl": "https://www.widsconference.org/codeofconduct.html",
-    "offersSignLanguageOrCC": false
+    "twitter": "@WiDS_Worldwide"
   },
   {
     "name": "Future Developer Summit",
@@ -35,8 +35,8 @@
     "startDate": "2021-03-10",
     "endDate": "2021-03-10",
     "online": true,
-    "twitter": "@SlashDataHQ",
-    "cocUrl": "https://www.futuredeveloper.io/code-of-conduct"
+    "cocUrl": "https://www.futuredeveloper.io/code-of-conduct",
+    "twitter": "@SlashDataHQ"
   },
   {
     "name": "Women Techmakers",
@@ -46,10 +46,10 @@
     "city": "Montreal",
     "country": "Canada",
     "online": false,
+    "offersSignLanguageOrCC": false,
     "cfpUrl": "https://www.papercall.io/wtmmontreal2021",
     "cfpEndDate": "2021-01-31",
-    "twitter": "@WTM_Montreal",
-    "offersSignLanguageOrCC": false
+    "twitter": "@WTM_Montreal"
   },
   {
     "name": "Women in Tech Summit",
@@ -57,9 +57,9 @@
     "startDate": "2021-03-24",
     "endDate": "2021-03-26",
     "online": true,
-    "twitter": "@womentechsummit",
+    "offersSignLanguageOrCC": false,
     "cocUrl": "https://womenintechsummit.net/code-of-conduct/",
-    "offersSignLanguageOrCC": false
+    "twitter": "@womentechsummit"
   },
   {
     "name": "Johnson Women in Tech",
@@ -67,8 +67,8 @@
     "startDate": "2021-03-26",
     "endDate": "2021-03-27",
     "online": true,
-    "twitter": "@CornellMBA",
-    "offersSignLanguageOrCC": false
+    "offersSignLanguageOrCC": false,
+    "twitter": "@CornellMBA"
   },
   {
     "name": "Her Future Summit",
@@ -76,9 +76,9 @@
     "startDate": "2021-03-31",
     "endDate": "2021-03-31",
     "online": true,
+    "offersSignLanguageOrCC": false,
     "cfpUrl": "https://www.eventbrite.com/e/her-future-summit-global-virtual-2021-tickets-135369992291",
-    "cfpEndDate": "2021-03-31",
-    "offersSignLanguageOrCC": false
+    "cfpEndDate": "2021-03-31"
   },
   {
     "name": "TECHSPO",
@@ -94,9 +94,9 @@
     "startDate": "2021-04-27",
     "endDate": "2021-04-30",
     "online": true,
-    "twitter": "@wieilc",
+    "offersSignLanguageOrCC": false,
     "cocUrl": "https://www.ieee.org/content/dam/ieee-org/ieee/web/org/about/ieee_code_of_conduct.pdf",
-    "offersSignLanguageOrCC": false
+    "twitter": "@wieilc"
   },
   {
     "name": "Women Transforming Technology Conference",
@@ -113,8 +113,8 @@
     "endDate": "2021-05-07",
     "city": "Mainz",
     "country": "Germany",
-    "twitter": "@jaxcon",
-    "offersSignLanguageOrCC": false
+    "offersSignLanguageOrCC": false,
+    "twitter": "@jaxcon"
   },
   {
     "name": "Wonder WebRTC unConference",
@@ -165,8 +165,8 @@
     "startDate": "2021-06-09",
     "endDate": "2021-06-09",
     "online": true,
-    "twitter": "@SlashDataHQ",
-    "cocUrl": "https://www.futuredeveloper.io/code-of-conduct"
+    "cocUrl": "https://www.futuredeveloper.io/code-of-conduct",
+    "twitter": "@SlashDataHQ"
   },
   {
     "name": "Women in Technology Summit",
@@ -174,10 +174,10 @@
     "startDate": "2021-06-22",
     "endDate": "2021-06-24",
     "online": true,
-    "cfpUrl": "https://witi.com/conferences/speakers/application",
-    "twitter": "@witi",
+    "offersSignLanguageOrCC": false,
     "cocUrl": "https://witi.com/code-of-ethics/",
-    "offersSignLanguageOrCC": false
+    "cfpUrl": "https://witi.com/conferences/speakers/application",
+    "twitter": "@witi"
   },
   {
     "name": "TECHSPO Sydney",
@@ -204,10 +204,10 @@
     "city": "Dar es Salaam",
     "country": "Tanzania",
     "online": true,
+    "offersSignLanguageOrCC": true,
     "cfpUrl": "https://conference.ternet.or.tz/submenu-content/7da5e50a-0fe9-469f-bff6-1880f645b932",
     "cfpEndDate": "2021-03-31",
-    "twitter": "@Ternet10",
-    "offersSignLanguageOrCC": true
+    "twitter": "@Ternet10"
   },
   {
     "name": "Community Summit North America",
@@ -234,8 +234,8 @@
     "startDate": "2021-10-18",
     "endDate": "2021-10-24",
     "online": true,
-    "twitter": "@FreelancersEU",
-    "cocUrl": "https://freelancersweek.org/about/"
+    "cocUrl": "https://freelancersweek.org/about/",
+    "twitter": "@FreelancersEU"
   },
   {
     "name": "Women in Tech Summit",
@@ -243,9 +243,9 @@
     "startDate": "2021-10-20",
     "endDate": "2021-10-22",
     "online": true,
-    "twitter": "@womentechsummit",
+    "offersSignLanguageOrCC": false,
     "cocUrl": "https://womenintechsummit.net/code-of-conduct/",
-    "offersSignLanguageOrCC": false
+    "twitter": "@womentechsummit"
   },
   {
     "name": "PASS Data Community Summit",
@@ -253,8 +253,8 @@
     "startDate": "2021-11-08",
     "endDate": "2021-11-12",
     "online": true,
-    "twitter": "@PASSDataSummit",
-    "cocUrl": "https://passdatacommunitysummit.com/code-of-conduct"
+    "cocUrl": "https://passdatacommunitysummit.com/code-of-conduct",
+    "twitter": "@PASSDataSummit"
   },
   {
     "name": "Tech Up For Women",
@@ -262,9 +262,9 @@
     "startDate": "2021-11-16",
     "endDate": "2021-11-16",
     "online": true,
+    "offersSignLanguageOrCC": false,
     "cfpUrl": "https://techupforwomen.com/speakers/#speakers",
-    "twitter": "@techupforwomen",
-    "offersSignLanguageOrCC": false
+    "twitter": "@techupforwomen"
   },
   {
     "name": "Prisma Serverless Conference",
@@ -272,8 +272,8 @@
     "startDate": "2021-11-18",
     "endDate": "2021-11-18",
     "online": true,
-    "twitter": "@Prisma",
-    "cocUrl": "https://github.com/prisma/Prisma-Day/blob/master/code-of-conduct.md"
+    "cocUrl": "https://github.com/prisma/Prisma-Day/blob/master/code-of-conduct.md",
+    "twitter": "@Prisma"
   },
   {
     "name": "Git Commit Show",
@@ -290,8 +290,8 @@
     "city": "Las Vegas, NV",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@awsreinvent",
-    "cocUrl": "https://aws.amazon.com/codeofconduct"
+    "cocUrl": "https://aws.amazon.com/codeofconduct",
+    "twitter": "@awsreinvent"
   },
   {
     "name": "The International Conference on 4th Industrial Revolution and Beyond",
@@ -301,7 +301,7 @@
     "city": "Dhaka",
     "country": "Bangladesh",
     "online": true,
-    "cocUrl": "https://www.ic4irb.org/",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://www.ic4irb.org/"
   }
 ]

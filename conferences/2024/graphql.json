@@ -7,8 +7,8 @@
     "city": "Austin, TX",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@nordicapis",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@nordicapis"
   },
   {
     "name": "Apidays New York",
@@ -18,11 +18,11 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.apidays.global/code-of-conduct/",
     "cfpUrl": "https://apidays.typeform.com/to/ILJeAaV8#event_name=xxxxx",
     "cfpEndDate": "2024-04-29",
     "twitter": "@APIdaysGlobal",
-    "cocUrl": "https://www.apidays.global/code-of-conduct/",
-    "locales": "EN",
     "mastodon": "@apidaysglobal@mastodon.social"
   },
   {
@@ -31,11 +31,11 @@
     "startDate": "2024-05-14",
     "endDate": "2024-05-14",
     "online": true,
+    "locales": "DE",
+    "cocUrl": "https://api.bettercode.eu/code_of_conduct.php",
     "cfpUrl": "https://api.bettercode.eu/cfp.php",
     "cfpEndDate": "2024-01-22",
-    "twitter": "@bettercodeconf",
-    "cocUrl": "https://api.bettercode.eu/code_of_conduct.php",
-    "locales": "DE"
+    "twitter": "@bettercodeconf"
   },
   {
     "name": "Apidays Helsinki & North",
@@ -45,11 +45,11 @@
     "city": "Helsinki",
     "country": "Finland",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.apidays.global/code-of-conduct/#",
     "cfpUrl": "https://apidays.typeform.com/to/ILJeAaV8#event_name=xxxxx",
     "cfpEndDate": "2024-05-27",
     "twitter": "@APIdaysGlobal",
-    "cocUrl": "https://www.apidays.global/code-of-conduct/#",
-    "locales": "EN",
     "mastodon": "@apidaysglobal@mastodon.social"
   },
   {
@@ -58,11 +58,11 @@
     "startDate": "2024-08-26",
     "endDate": "2024-08-29",
     "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdK969zJfqlb1x30AHHYS5ui7zSoyiKQso2qNbiqwnNavBlsg/viewform",
-    "cfpEndDate": "2024-05-22",
-    "cocUrl": "https://hasura.io/events/hasura-con-2024/code-of-conduct",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://hasura.io/events/hasura-con-2024/code-of-conduct",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdK969zJfqlb1x30AHHYS5ui7zSoyiKQso2qNbiqwnNavBlsg/viewform",
+    "cfpEndDate": "2024-05-22"
   },
   {
     "name": "GraphQLConf",
@@ -72,11 +72,11 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://graphql.org/conf/2024/speak/#code-of-conduct",
     "cfpUrl": "https://graphql.org/conf/2024/speak",
     "cfpEndDate": "2024-05-22",
-    "twitter": "@graphql",
-    "cocUrl": "https://graphql.org/conf/2024/speak/#code-of-conduct",
-    "locales": "EN"
+    "twitter": "@graphql"
   },
   {
     "name": "Apidays London",
@@ -86,11 +86,11 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.apidays.global/code-of-conduct/#",
     "cfpUrl": "https://apidays.typeform.com/to/ILJeAaV8#event_name=xxxxx",
     "cfpEndDate": "2024-09-17",
     "twitter": "@APIdaysGlobal",
-    "cocUrl": "https://www.apidays.global/code-of-conduct/#",
-    "locales": "EN",
     "mastodon": "@apidaysglobal@mastodon.social"
   },
   {
@@ -101,11 +101,11 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.apollographql.com/docs/community/code-of-conduct/",
     "cfpUrl": "https://reg.summit.graphql.com/flow/apollo/summit24/speaker-landing-page/page/home",
     "cfpEndDate": "2024-05-20",
-    "twitter": "@graphqlsummit",
-    "cocUrl": "https://www.apollographql.com/docs/community/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@graphqlsummit"
   },
   {
     "name": "Apidays Australia",
@@ -115,11 +115,11 @@
     "city": "Melbourne",
     "country": "Australia",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.apidays.global/code-of-conduct/#",
     "cfpUrl": "https://apidays.typeform.com/to/ILJeAaV8#event_name=xxxxx",
     "cfpEndDate": "2024-10-15",
     "twitter": "@APIdaysGlobal",
-    "cocUrl": "https://www.apidays.global/code-of-conduct/#",
-    "locales": "EN",
     "mastodon": "@apidaysglobal@mastodon.social"
   },
   {
@@ -130,10 +130,10 @@
     "city": "London",
     "country": "U.K.",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://portal.gitnation.org/coc",
     "cfpUrl": "https://forms.gle/vs8Qk8BJdSjaLFcB7",
     "cfpEndDate": "2024-06-11",
-    "twitter": "@ReactAdvanced",
-    "cocUrl": "https://portal.gitnation.org/coc",
-    "locales": "EN"
+    "twitter": "@ReactAdvanced"
   }
 ]

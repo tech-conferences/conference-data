@@ -14,9 +14,9 @@
     "endDate": "2021-02-19",
     "city": "Frankfurt am Main",
     "country": "Germany",
-    "twitter": "@bastacon",
+    "offersSignLanguageOrCC": false,
     "cocUrl": "https://basta.net/code-of-conduct/",
-    "offersSignLanguageOrCC": false
+    "twitter": "@bastacon"
   },
   {
     "name": "dotnetdays",
@@ -25,8 +25,8 @@
     "endDate": "2021-02-20",
     "city": "Iasi",
     "country": "Romania",
-    "twitter": "@dotnetdaysro",
-    "cocUrl": "https://dotnetdays.ro/2020/Home/CodeOfConduct"
+    "cocUrl": "https://dotnetdays.ro/2020/Home/CodeOfConduct",
+    "twitter": "@dotnetdaysro"
   },
   {
     "name": "Future Tech  NL",
@@ -34,10 +34,10 @@
     "startDate": "2021-03-24",
     "endDate": "2021-03-25",
     "online": true,
+    "cocUrl": "https://futuretech.nl/code-of-conduct/",
     "cfpUrl": "https://sessionize.com/future-tech-2021",
     "cfpEndDate": "2021-03-05",
-    "twitter": "@futuretechnl",
-    "cocUrl": "https://futuretech.nl/code-of-conduct/"
+    "twitter": "@futuretechnl"
   },
   {
     "name": "JetBrains .NET Day Online",
@@ -45,9 +45,9 @@
     "startDate": "2021-05-12",
     "endDate": "2021-05-12",
     "online": true,
+    "cocUrl": "https://info.jetbrains.com/code-of-conduct.html",
     "cfpUrl": "https://sessionize.com/jetbrains-dotnet-day-2021",
-    "cfpEndDate": "2021-03-14",
-    "cocUrl": "https://info.jetbrains.com/code-of-conduct.html"
+    "cfpEndDate": "2021-03-14"
   },
   {
     "name": "Cloud Lunch and Learn Marathon",
@@ -55,11 +55,11 @@
     "startDate": "2021-05-13",
     "endDate": "2021-05-14",
     "online": true,
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://www.cloudlunchlearn.com/code-of-conduct",
     "cfpUrl": "https://sessionize.com/cloud-lunch-and-learn-marathon-2021",
     "cfpEndDate": "2021-03-31",
-    "twitter": "@CloudLunchLearn",
-    "cocUrl": "https://www.cloudlunchlearn.com/code-of-conduct",
-    "offersSignLanguageOrCC": true
+    "twitter": "@CloudLunchLearn"
   },
   {
     "name": "Code Quality & Performance Virtual Conference",
@@ -67,10 +67,10 @@
     "startDate": "2021-06-18",
     "endDate": "2021-06-18",
     "online": true,
+    "cocUrl": "https://www.2020twenty.net/code-quality-and-performance-virtual-conference-2021/code-of-conduct/",
     "cfpUrl": "https://forms.gle/Y872ttumqUskpEyW9",
     "cfpEndDate": "2021-05-30",
-    "twitter": "@csharpcorner",
-    "cocUrl": "https://www.2020twenty.net/code-quality-and-performance-virtual-conference-2021/code-of-conduct/"
+    "twitter": "@csharpcorner"
   },
   {
     "name": "Nebraska Code",
@@ -80,8 +80,8 @@
     "city": "Lincoln, NE",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@amegala",
-    "cocUrl": "https://nebraskacode.amegala.com/Conduct"
+    "cocUrl": "https://nebraskacode.amegala.com/Conduct",
+    "twitter": "@amegala"
   },
   {
     "name": ".NET fwdays",
@@ -89,8 +89,8 @@
     "startDate": "2021-08-07",
     "endDate": "2021-08-07",
     "online": true,
-    "twitter": "@fwdays",
-    "cocUrl": "https://bit.ly/3xgRcJL"
+    "cocUrl": "https://bit.ly/3xgRcJL",
+    "twitter": "@fwdays"
   },
   {
     "name": "Visual Studio Live! Microsoft Headquarters",
@@ -99,8 +99,8 @@
     "endDate": "2021-08-13",
     "city": "Redmond, WA",
     "country": "U.S.A.",
-    "twitter": "@vslive",
-    "cocUrl": "https://vslive.com/pages/harassment.aspx"
+    "cocUrl": "https://vslive.com/pages/harassment.aspx",
+    "twitter": "@vslive"
   },
   {
     "name": "Code PaLOUsa",
@@ -108,10 +108,10 @@
     "startDate": "2021-08-18",
     "endDate": "2021-08-20",
     "online": true,
+    "cocUrl": "http://www.codepalousa.com/Resources/26",
     "cfpUrl": "https://sessionize.com/cpl21",
     "cfpEndDate": "2021-04-23",
-    "twitter": "@CodePaLOUsa",
-    "cocUrl": "http://www.codepalousa.com/Resources/26"
+    "twitter": "@CodePaLOUsa"
   },
   {
     "name": "Visual Studio Live! San Diego",
@@ -120,8 +120,8 @@
     "endDate": "2021-09-16",
     "city": "San Diego, CA",
     "country": "U.S.A.",
-    "twitter": "@vslive",
-    "cocUrl": "https://vslive.com/pages/harassment.aspx"
+    "cocUrl": "https://vslive.com/pages/harassment.aspx",
+    "twitter": "@vslive"
   },
   {
     "name": "Music City Code",
@@ -129,10 +129,10 @@
     "startDate": "2021-09-15",
     "endDate": "2021-09-17",
     "online": true,
+    "cocUrl": "https://www.musiccitytech.com/about/code-of-conduct/",
     "cfpUrl": "https://sessionize.com/music-city-tech-2021",
     "cfpEndDate": "2021-06-30",
-    "twitter": "@MusicCityTech",
-    "cocUrl": "https://www.musiccitytech.com/about/code-of-conduct/"
+    "twitter": "@MusicCityTech"
   },
   {
     "name": "BASTA! Hybrid",
@@ -142,8 +142,8 @@
     "city": "Mainz",
     "country": "Germany",
     "online": true,
-    "twitter": "@BASTAcon",
-    "cocUrl": "https://basta.net/code-of-conduct/"
+    "cocUrl": "https://basta.net/code-of-conduct/",
+    "twitter": "@BASTAcon"
   },
   {
     "name": "Prairie Code",
@@ -153,10 +153,10 @@
     "city": "Des Moines, IA",
     "country": "U.S.A.",
     "online": false,
+    "cocUrl": "https://prairiecode.amegala.com/Conduct",
     "cfpUrl": "https://www.amegala.com/#/cfp",
     "cfpEndDate": "2021-06-15",
-    "twitter": "@amegala",
-    "cocUrl": "https://prairiecode.amegala.com/Conduct"
+    "twitter": "@amegala"
   },
   {
     "name": "WeAreDevelopers Live - .NET Day",
@@ -164,10 +164,10 @@
     "startDate": "2021-10-27",
     "endDate": "2021-10-27",
     "online": true,
+    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct",
     "cfpUrl": "https://www.wearedevelopers.com/speakers/call-for-speakers",
     "cfpEndDate": "2021-09-30",
-    "twitter": "@wearedevs",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct"
+    "twitter": "@wearedevs"
   },
   {
     "name": "Update Conference Prague",
@@ -177,8 +177,8 @@
     "city": "Prague",
     "country": "Czech Republic",
     "online": true,
-    "twitter": "@update_conf",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@update_conf"
   },
   {
     "name": "betterCode() .NET 6",
@@ -186,8 +186,8 @@
     "startDate": "2021-11-23",
     "endDate": "2021-11-23",
     "online": true,
-    "twitter": "@bettercodeconf",
-    "cocUrl": "https://net.bettercode.eu/code_of_conduct.php"
+    "cocUrl": "https://net.bettercode.eu/code_of_conduct.php",
+    "twitter": "@bettercodeconf"
   },
   {
     "name": "DevIntersection",
@@ -197,9 +197,9 @@
     "city": "Las Vegas, NV",
     "country": "U.S.A.",
     "online": true,
+    "cocUrl": "https://devintersection.com/#!/conduct",
     "cfpUrl": "https://sessionize.com/devintersectionfall2021",
     "cfpEndDate": "2021-07-31",
-    "twitter": "@devintersection",
-    "cocUrl": "https://devintersection.com/#!/conduct"
+    "twitter": "@devintersection"
   }
 ]

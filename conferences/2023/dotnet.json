@@ -7,11 +7,11 @@
     "city": "Oakland, CA",
     "country": "U.S.A.",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
     "cfpUrl": "https://sessionize.com/developerweek-2023",
     "cfpEndDate": "2022-10-26",
-    "twitter": "@developerweek",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@developerweek"
   },
   {
     "name": "BASTA! Spring",
@@ -21,9 +21,9 @@
     "city": "Frankfurt am Main",
     "country": "Germany",
     "online": true,
-    "twitter": "@BASTAcon",
+    "offersSignLanguageOrCC": true,
     "cocUrl": "https://basta.net/code-of-conduct/",
-    "offersSignLanguageOrCC": true
+    "twitter": "@BASTAcon"
   },
   {
     "name": "ConFoo",
@@ -33,10 +33,10 @@
     "city": "Montreal",
     "country": "Canada",
     "online": false,
+    "cocUrl": "https://confoo.ca/en/code-of-conduct",
     "cfpUrl": "https://confoo.ca/en/2023/call-for-papers",
     "cfpEndDate": "2022-10-06",
-    "twitter": "@confooca",
-    "cocUrl": "https://confoo.ca/en/code-of-conduct"
+    "twitter": "@confooca"
   },
   {
     "name": "Visual Studio Live! Las Vegas",
@@ -46,9 +46,9 @@
     "city": "Las Vegas, NV",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@VSLive",
+    "locales": "EN",
     "cocUrl": "https://vslive.com/pages/harassment.aspx",
-    "locales": "EN"
+    "twitter": "@VSLive"
   },
   {
     "name": "Apprise Conf",
@@ -58,11 +58,11 @@
     "city": "Oslo",
     "country": "Norway",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://appriseconf.com/coc.html",
     "cfpUrl": "https://forms.gle/63C6sSAbzFLFzpX17",
     "cfpEndDate": "2023-01-31",
-    "twitter": "@appriseconf",
-    "cocUrl": "https://appriseconf.com/coc.html",
-    "locales": "EN"
+    "twitter": "@appriseconf"
   },
   {
     "name": "Update Days: MAUI",
@@ -72,9 +72,9 @@
     "city": "Prague",
     "country": "Czech Republic",
     "online": true,
-    "twitter": "@update_conf",
+    "locales": "EN",
     "cocUrl": "https://www.updateconference.net/en/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@update_conf"
   },
   {
     "name": "Wasm I/O",
@@ -84,10 +84,10 @@
     "city": "Barcelona",
     "country": "Spain",
     "online": false,
+    "cocUrl": "https://wasmio.tech/coc",
     "cfpUrl": "https://www.papercall.io/wasmio23",
     "cfpEndDate": "2023-01-17",
-    "twitter": "@wasm_io",
-    "cocUrl": "https://wasmio.tech/coc"
+    "twitter": "@wasm_io"
   },
   {
     "name": "dotnetdays",
@@ -97,10 +97,10 @@
     "city": "Iasi",
     "country": "Romania",
     "online": false,
+    "locales": "EN",
     "cfpUrl": "https://sessionize.com/dotnetdays-2023",
     "cfpEndDate": "2023-01-02",
-    "twitter": "@dotnetdayaro",
-    "locales": "EN"
+    "twitter": "@dotnetdayaro"
   },
   {
     "name": "dotnetdays",
@@ -108,11 +108,11 @@
     "startDate": "2023-04-20",
     "endDate": "2023-04-22",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://dotnetdays.ro/2023/Home/CodeOfConduct",
     "cfpUrl": "https://sessionize.com/dotnetdays-2023",
     "cfpEndDate": "2023-01-02",
-    "twitter": "@dotnetdaysro",
-    "cocUrl": "https://dotnetdays.ro/2023/Home/CodeOfConduct",
-    "locales": "EN"
+    "twitter": "@dotnetdaysro"
   },
   {
     "name": "ABP Conference",
@@ -120,11 +120,11 @@
     "startDate": "2023-05-10",
     "endDate": "2023-05-10",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://kommunity.com/volosoft/events/1st-abp-conference-96db1a54",
     "cfpUrl": "https://kommunity.com/volosoft/events/1st-abp-conference-96db1a54/cfp",
     "cfpEndDate": "2023-03-10",
-    "twitter": "@abpframework",
-    "cocUrl": "https://kommunity.com/volosoft/events/1st-abp-conference-96db1a54",
-    "locales": "EN"
+    "twitter": "@abpframework"
   },
   {
     "name": "Visual Studio Live! Nashville",
@@ -134,9 +134,9 @@
     "city": "Nashville, TN",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@VSLive",
+    "locales": "EN",
     "cocUrl": "https://vslive.com/pages/harassment.aspx",
-    "locales": "EN"
+    "twitter": "@VSLive"
   },
   {
     "name": "Scenic City Summit",
@@ -146,11 +146,11 @@
     "city": "Chattanooga, TN",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://sceniccitysummit.com/code-of-conduct/",
     "cfpUrl": "http://sessionize.com/scenic-city-summit-2023",
     "cfpEndDate": "2023-03-01",
-    "twitter": "@ScenicSummit",
-    "cocUrl": "https://sceniccitysummit.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@ScenicSummit"
   },
   {
     "name": "DevOpsCon Berlin",
@@ -158,11 +158,11 @@
     "startDate": "2023-06-12",
     "endDate": "2023-06-15",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://devopscon.io/code-of-conduct-de/",
     "cfpUrl": "https://callforpapers.sandsmedia.com",
     "cfpEndDate": "2023-01-11",
-    "twitter": "@devops_con",
-    "cocUrl": "https://devopscon.io/code-of-conduct-de/",
-    "locales": "EN"
+    "twitter": "@devops_con"
   },
   {
     "name": "ML Conference Munich",
@@ -172,9 +172,9 @@
     "city": "Munich",
     "country": "Germany",
     "online": true,
-    "twitter": "@mlconference",
+    "locales": "EN",
     "cocUrl": "https://mlconference.ai/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@mlconference"
   },
   {
     "name": "Visual Studio Live! Microsoft HQ",
@@ -184,9 +184,9 @@
     "city": "Redmond, WA",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@VSLive",
+    "locales": "EN",
     "cocUrl": "https://vslive.com/pages/harassment.aspx",
-    "locales": "EN"
+    "twitter": "@VSLive"
   },
   {
     "name": "WeAreDevelopers World Congress",
@@ -196,11 +196,11 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form.",
     "cfpUrl": "https://sessionize.com/wearedevelopers-worldcongress23",
     "cfpEndDate": "2023-07-19",
-    "twitter": "@WeAreDevs",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form.",
-    "locales": "EN"
+    "twitter": "@WeAreDevs"
   },
   {
     "name": "Visual Studio Live! San Diego",
@@ -210,9 +210,9 @@
     "city": "San Diego, CA",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@VSLive",
+    "locales": "EN",
     "cocUrl": "https://vslive.com/pages/harassment.aspx",
-    "locales": "EN"
+    "twitter": "@VSLive"
   },
   {
     "name": "WorldFestival",
@@ -222,11 +222,11 @@
     "city": "San Mateo, CA",
     "country": "U.S.A.",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
     "cfpUrl": "https://sessionize.com/worldfestival-2023",
     "cfpEndDate": "2023-06-30",
-    "twitter": "@worldfestivalhq",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@worldfestivalhq"
   },
   {
     "name": ".NET DeveloperDays",
@@ -236,9 +236,9 @@
     "city": "Warsaw",
     "country": "Poland",
     "online": true,
-    "twitter": "@daysdotnet",
+    "locales": "EN",
     "cocUrl": "https://net.developerdays.pl/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@daysdotnet"
   },
   {
     "name": "BASTA! Fall",
@@ -248,11 +248,11 @@
     "city": "Mainz",
     "country": "Germany",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://basta.net/code-of-conduct/",
     "cfpUrl": "https://basta.net/contact",
     "cfpEndDate": "2023-03-01",
-    "twitter": "@bastacon",
-    "cocUrl": "https://basta.net/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@bastacon"
   },
   {
     "name": "EngX Community Day",
@@ -260,8 +260,8 @@
     "startDate": "2023-10-05",
     "endDate": "2023-10-06",
     "online": true,
-    "twitter": "@CommunityDay_Co",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@CommunityDay_Co"
   },
   {
     "name": "C# Corner Annual Developer Conference",
@@ -271,11 +271,11 @@
     "city": "Delhi",
     "country": "India",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://conference.c-sharpcorner.com/code-of-conduct/",
     "cfpUrl": "https://forms.office.com/r/DUwbw7dcsW",
     "cfpEndDate": "2023-08-30",
-    "twitter": "@csharpcorner",
-    "cocUrl": "https://conference.c-sharpcorner.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@csharpcorner"
   },
   {
     "name": "SLA Conference Berlin",
@@ -285,11 +285,11 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://serverless-architecture.io/code-of-conduct/",
     "cfpUrl": "https://serverless-architecture.io/call-for-papers",
     "cfpEndDate": "2023-04-12",
-    "twitter": "@serverlesscon",
-    "cocUrl": "https://serverless-architecture.io/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@serverlesscon"
   },
   {
     "name": "Live! 360",
@@ -299,9 +299,9 @@
     "city": "Orlando, FL",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@Live360events",
+    "locales": "EN",
     "cocUrl": "https://live360events.com/pages/harassment.aspx",
-    "locales": "EN"
+    "twitter": "@Live360events"
   },
   {
     "name": "betterCode() .NET 8.0",
@@ -309,9 +309,9 @@
     "startDate": "2023-11-21",
     "endDate": "2023-11-21",
     "online": true,
-    "twitter": "@bettercodedonf",
+    "locales": "DE",
     "cocUrl": "https://net.bettercode.eu/code_of_conduct.php",
-    "locales": "DE"
+    "twitter": "@bettercodedonf"
   },
   {
     "name": "Update Conference Prague",
@@ -321,8 +321,8 @@
     "city": "Prague",
     "country": "Czech Republic",
     "online": true,
-    "twitter": "@update_conf",
+    "locales": "EN",
     "cocUrl": "https://www.updateconference.net/en/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@update_conf"
   }
 ]

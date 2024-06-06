@@ -36,10 +36,10 @@
     "startDate": "2021-09-07",
     "endDate": "2021-09-09",
     "online": true,
+    "cocUrl": "https://testcon.lt/code-of-conduct/",
     "cfpUrl": "https://testcon.lt/cfp",
     "cfpEndDate": "2021-08-31",
-    "twitter": "@TestConEurope",
-    "cocUrl": "https://testcon.lt/code-of-conduct/"
+    "twitter": "@TestConEurope"
   },
   {
     "name": "Swiss Testing Day",
@@ -96,8 +96,8 @@
     "startDate": "2021-09-28",
     "endDate": "2021-09-30",
     "online": true,
-    "twitter": "@esconfs",
-    "offersSignLanguageOrCC": false
+    "offersSignLanguageOrCC": false,
+    "twitter": "@esconfs"
   },
   {
     "name": "InflectraCon",
@@ -233,8 +233,8 @@
     "city": "Potsdam",
     "country": "Germany",
     "online": false,
-    "twitter": "@AgileTD",
-    "cocUrl": "https://agiletestingdays.com/code-of-conduct/"
+    "cocUrl": "https://agiletestingdays.com/code-of-conduct/",
+    "twitter": "@AgileTD"
   },
   {
     "name": "TestJS Summit",
@@ -242,8 +242,8 @@
     "startDate": "2021-11-18",
     "endDate": "2021-11-19",
     "online": true,
-    "twitter": "@TestJSSummit",
-    "cocUrl": "https://www.testjssummit.com/coc"
+    "cocUrl": "https://www.testjssummit.com/coc",
+    "twitter": "@TestJSSummit"
   },
   {
     "name": "ParisTestConf (PTC)",

@@ -7,9 +7,9 @@
     "city": "Hamburg",
     "country": "Germany",
     "online": false,
-    "twitter": "@RubyUnconfEU",
+    "locales": "EN,DE",
     "cocUrl": "https://berlincodeofconduct.org",
-    "locales": "EN,DE"
+    "twitter": "@RubyUnconfEU"
   },
   {
     "name": "RubyConf India",
@@ -19,10 +19,10 @@
     "city": "Pune",
     "country": "India",
     "online": false,
+    "locales": "EN",
     "cfpUrl": "https://www.papercall.io/rci23",
     "cfpEndDate": "2023-07-23",
-    "twitter": "@rubyconfindia",
-    "locales": "EN"
+    "twitter": "@rubyconfindia"
   },
   {
     "name": "Friendly.rb",
@@ -32,11 +32,11 @@
     "city": "Bucharest",
     "country": "Romania",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://friendlyrb.com/code-of-conduct",
     "cfpUrl": "https://friendlyrb.com/cfp",
     "cfpEndDate": "2023-04-01",
-    "twitter": "@friendlyrb",
-    "cocUrl": "https://friendlyrb.com/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@friendlyrb"
   },
   {
     "name": "Rails World",
@@ -46,11 +46,11 @@
     "city": "Amsterdam",
     "country": "Netherlands",
     "online": false,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://rubyonrails.org/conduct",
     "cfpUrl": "https://www.papercall.io/rails-world-2023",
     "cfpEndDate": "2023-06-16",
-    "twitter": "@rails",
-    "cocUrl": "https://rubyonrails.org/conduct",
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "twitter": "@rails"
   }
 ]

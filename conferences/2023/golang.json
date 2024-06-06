@@ -7,10 +7,10 @@
     "city": "Barcelona",
     "country": "Spain",
     "online": false,
+    "cocUrl": "https://wasmio.tech/coc",
     "cfpUrl": "https://www.papercall.io/wasmio23",
     "cfpEndDate": "2023-01-17",
-    "twitter": "@wasm_io",
-    "cocUrl": "https://wasmio.tech/coc"
+    "twitter": "@wasm_io"
   },
   {
     "name": "Conf42 Golang",
@@ -18,10 +18,10 @@
     "startDate": "2023-04-20",
     "endDate": "2023-04-20",
     "online": true,
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/conf42-golang-2023",
     "cfpEndDate": "2023-03-20",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct"
+    "twitter": "@conf42com"
   },
   {
     "name": "GothamGo",
@@ -31,11 +31,11 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "http://gothamgo.com/conduct",
     "cfpUrl": "https://www.papercall.io/gothamgo2023",
     "cfpEndDate": "2023-03-22",
-    "twitter": "@GothamGo",
-    "cocUrl": "http://gothamgo.com/conduct",
-    "locales": "EN"
+    "twitter": "@GothamGo"
   },
   {
     "name": "Cloud Foundry Day",
@@ -45,11 +45,11 @@
     "city": "Heidelberg",
     "country": "Germany",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://events.linuxfoundation.org/cloud-foundry-day/attend/code-of-conduct/",
     "cfpUrl": "https://events.linuxfoundation.org/cloud-foundry-day/program/cfp",
     "cfpEndDate": "2023-04-28",
-    "twitter": "@cloudfoundry",
-    "cocUrl": "https://events.linuxfoundation.org/cloud-foundry-day/attend/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@cloudfoundry"
   },
   {
     "name": "Gophercon India",
@@ -59,10 +59,10 @@
     "city": "Pune",
     "country": "India",
     "online": false,
+    "locales": "EN",
     "cfpUrl": "https://www.papercall.io/gci23",
     "cfpEndDate": "2023-08-06",
-    "twitter": "@GopherConIndia",
-    "locales": "EN"
+    "twitter": "@GopherConIndia"
   },
   {
     "name": "HugoConf",
@@ -70,8 +70,8 @@
     "startDate": "2023-09-21",
     "endDate": "2023-09-21",
     "online": true,
-    "twitter": "@hugoconf",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@hugoconf"
   },
   {
     "name": "GopherConAU",
@@ -81,9 +81,9 @@
     "city": "Sydney",
     "country": "Australia",
     "online": false,
-    "twitter": "@gopherconaunz",
+    "locales": "EN",
     "cocUrl": "https://gophercon.com.au/#code-of-conduct",
-    "locales": "EN"
+    "twitter": "@gopherconaunz"
   },
   {
     "name": "GoLab",
@@ -93,10 +93,10 @@
     "city": "Florence",
     "country": "Italy",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://golab.io/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/golab2023",
     "cfpEndDate": "2023-05-21",
-    "twitter": "@golab_conf",
-    "cocUrl": "https://golab.io/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@golab_conf"
   }
 ]

@@ -5,8 +5,8 @@
     "startDate": "2024-01-24",
     "endDate": "2024-01-24",
     "online": true,
-    "twitter": "@WeAreDevs",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@WeAreDevs"
   },
   {
     "name": "GOSIM",
@@ -34,11 +34,25 @@
     "startDate": "2024-08-22",
     "endDate": "2024-08-22",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/conf42-rustlang-2024",
     "cfpEndDate": "2024-07-22",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@conf42com"
+  },
+  {
+    "name": "RTC.On",
+    "url": "https://rtcon.live",
+    "startDate": "2024-09-11",
+    "endDate": "2024-09-13",
+    "city": "Kraków",
+    "country": "Poland",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://rtcon.live/code-of-conduct",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSel_6kQ6AXMAbtua6QjqfTAFiLauXSB0lHjl8uvd-wlTzzSwQ/viewform",
+    "cfpEndDate": "2024-06-28",
+    "twitter": "@ElixirMembrane"
   },
   {
     "name": "EuroRust",
@@ -48,9 +62,9 @@
     "city": "Vienna",
     "country": "Austria",
     "online": true,
-    "twitter": "@euro_rust",
-    "cocUrl": "https://eurorust.eu/code-of-conduct/",
     "locales": "EN",
+    "cocUrl": "https://eurorust.eu/code-of-conduct/",
+    "twitter": "@euro_rust",
     "mastodon": "@eurorust@fosstodon.org"
   },
   {
@@ -61,11 +75,11 @@
     "city": "Florence",
     "country": "Italy",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://rustlab.it/code-of-conduct",
     "cfpUrl": "https://sessionize.com/rustlab-2024",
     "cfpEndDate": "2024-05-01",
     "twitter": "@rustlab_conf",
-    "cocUrl": "https://rustlab.it/code-of-conduct",
-    "locales": "EN",
     "mastodon": "@rustlab@mastodon.uno"
   }
 ]

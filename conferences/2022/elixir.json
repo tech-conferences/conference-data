@@ -7,10 +7,10 @@
     "city": "London",
     "country": "U.K.",
     "online": true,
+    "cocUrl": "https://www.elixirconf.eu/assets/images/CoCEU.pdf",
     "cfpUrl": "https://eventil.com/events/elixirconf-eu-2022/cfp",
     "cfpEndDate": "2021-12-09",
-    "twitter": "@elixirconfeu",
-    "cocUrl": "https://www.elixirconf.eu/assets/images/CoCEU.pdf"
+    "twitter": "@elixirconfeu"
   },
   {
     "name": "Code BEAM Europe",
@@ -20,8 +20,8 @@
     "city": "Stockholm",
     "country": "Sweden",
     "online": true,
-    "twitter": "@CodeSyncGlobal",
-    "cocUrl": "https://codesync.global/about-us/#Conduct"
+    "cocUrl": "https://codesync.global/about-us/#Conduct",
+    "twitter": "@CodeSyncGlobal"
   },
   {
     "name": "Lambda Days",
@@ -31,7 +31,7 @@
     "city": "Kraków",
     "country": "Poland",
     "online": true,
-    "twitter": "@LambdaDays",
-    "cocUrl": "https://www.lambdadays.org/lambdadays2022/#code-of-conduct"
+    "cocUrl": "https://www.lambdadays.org/lambdadays2022/#code-of-conduct",
+    "twitter": "@LambdaDays"
   }
 ]

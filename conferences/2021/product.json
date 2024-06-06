@@ -14,8 +14,8 @@
     "endDate": "2021-02-09",
     "city": "London",
     "country": "U.K.",
-    "twitter": "@productschool",
-    "cocUrl": "https://productschool.com/code-of-conduct/"
+    "cocUrl": "https://productschool.com/code-of-conduct/",
+    "twitter": "@productschool"
   },
   {
     "name": "ProductWorld",
@@ -23,10 +23,10 @@
     "startDate": "2021-02-17",
     "endDate": "2021-02-19",
     "online": true,
-    "cfpUrl": "https://productworld.co/conference/speakers/apply-to-speak",
-    "cfpEndDate": "2020-12-11",
+    "offersSignLanguageOrCC": false,
     "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "offersSignLanguageOrCC": false
+    "cfpUrl": "https://productworld.co/conference/speakers/apply-to-speak",
+    "cfpEndDate": "2020-12-11"
   },
   {
     "name": "Mind the Product",
@@ -35,8 +35,8 @@
     "endDate": "2021-03-19",
     "city": "Singapore",
     "country": "Singapore",
-    "twitter": "@MindtheProduct",
-    "cocUrl": "https://www.mindtheproduct.com/code-of-conduct/"
+    "cocUrl": "https://www.mindtheproduct.com/code-of-conduct/",
+    "twitter": "@MindtheProduct"
   },
   {
     "name": "ABBYY Reimagine",
@@ -53,8 +53,8 @@
     "endDate": "2021-04-08",
     "city": "San Francisco, CA",
     "country": "U.S.A.",
-    "twitter": "@productschool",
-    "cocUrl": "https://productschool.com/code-of-conduct/"
+    "cocUrl": "https://productschool.com/code-of-conduct/",
+    "twitter": "@productschool"
   },
   {
     "name": "#mtpcon Digital APAC",
@@ -70,8 +70,8 @@
     "startDate": "2021-05-26",
     "endDate": "2021-05-26",
     "online": true,
-    "twitter": "@LTP_AUS",
-    "cocUrl": "https://www.leadingtheproduct.com/website-terms-conditions/"
+    "cocUrl": "https://www.leadingtheproduct.com/website-terms-conditions/",
+    "twitter": "@LTP_AUS"
   },
   {
     "name": "Integrate Remote - Microsoft Integration Conference",
@@ -87,10 +87,10 @@
     "startDate": "2021-06-07",
     "endDate": "2021-06-17",
     "online": true,
+    "cocUrl": "https://grafana.com/about/events/events-code-of-conduct/",
     "cfpUrl": "https://grafana-labs.typeform.com/to/j4cDsPwi",
     "cfpEndDate": "2021-04-09",
-    "twitter": "@Grafana",
-    "cocUrl": "https://grafana.com/about/events/events-code-of-conduct/"
+    "twitter": "@Grafana"
   },
   {
     "name": "European Product Owner & Requirements Engineering Day",
@@ -115,10 +115,10 @@
     "startDate": "2021-09-08",
     "endDate": "2021-09-09",
     "online": true,
+    "cocUrl": "https://skillsmatter.com/go/code-of-conduct",
     "cfpUrl": "https://skillsmatter.com/conferences/13255-p3x-2021#get_involved",
     "cfpEndDate": "2021-05-28",
-    "twitter": "@skillsmatter",
-    "cocUrl": "https://skillsmatter.com/go/code-of-conduct"
+    "twitter": "@skillsmatter"
   },
   {
     "name": "ProductCamp",
@@ -133,9 +133,9 @@
     "startDate": "2021-09-27",
     "endDate": "2021-09-29",
     "online": true,
-    "twitter": "@bosconference",
+    "offersSignLanguageOrCC": true,
     "cocUrl": "https://businessofsoftware.org/2017/07/business-software-conference-code-conduct/",
-    "offersSignLanguageOrCC": true
+    "twitter": "@bosconference"
   },
   {
     "name": "LTP DIGITAL USA",
@@ -151,8 +151,8 @@
     "startDate": "2021-11-11",
     "endDate": "2021-11-11",
     "online": true,
-    "twitter": "@inside_agile",
-    "cocUrl": "https://pod.inside-agile.de/code_of_conduct.php"
+    "cocUrl": "https://pod.inside-agile.de/code_of_conduct.php",
+    "twitter": "@inside_agile"
   },
   {
     "name": "Canvas X",
@@ -162,8 +162,8 @@
     "city": "Birmingham",
     "country": "U.K.",
     "online": true,
-    "twitter": "@canvasconf",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@canvasconf"
   },
   {
     "name": "Postgres Build",
@@ -179,7 +179,7 @@
     "startDate": "2021-12-07",
     "endDate": "2021-12-09",
     "online": true,
-    "twitter": "@MuleSoft",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@MuleSoft"
   }
 ]

@@ -5,10 +5,10 @@
     "startDate": "2021-01-18",
     "endDate": "2021-01-22",
     "online": true,
-    "cfpUrl": "https://laracon.eu/cfp",
-    "twitter": "@LaraconEU",
+    "offersSignLanguageOrCC": false,
     "cocUrl": "https://laracon.eu/code-of-conduct",
-    "offersSignLanguageOrCC": false
+    "cfpUrl": "https://laracon.eu/cfp",
+    "twitter": "@LaraconEU"
   },
   {
     "name": "The Online PHP Conference",
@@ -16,8 +16,8 @@
     "startDate": "2021-01-18",
     "endDate": "2021-01-22",
     "online": true,
-    "twitter": "@thephpcc",
-    "offersSignLanguageOrCC": false
+    "offersSignLanguageOrCC": false,
+    "twitter": "@thephpcc"
   },
   {
     "name": "ConFoo",
@@ -26,10 +26,10 @@
     "endDate": "2021-02-26",
     "city": "Montreal",
     "country": "Canada",
+    "cocUrl": "https://confoo.ca/en/code-of-conduct",
     "cfpUrl": "https://confoo.ca/en/yul2021/call-for-papers",
     "cfpEndDate": "2020-10-16",
-    "twitter": "@confooca",
-    "cocUrl": "https://confoo.ca/en/code-of-conduct"
+    "twitter": "@confooca"
   },
   {
     "name": "DrupalCon North America",
@@ -37,9 +37,9 @@
     "startDate": "2021-04-12",
     "endDate": "2021-04-16",
     "online": true,
-    "twitter": "@drupalcon",
+    "offersSignLanguageOrCC": true,
     "cocUrl": "https://events.drupal.org/code-conduct",
-    "offersSignLanguageOrCC": true
+    "twitter": "@drupalcon"
   },
   {
     "name": "International PHP Conference",
@@ -47,11 +47,11 @@
     "startDate": "2021-06-07",
     "endDate": "2021-06-11",
     "online": true,
+    "offersSignLanguageOrCC": false,
+    "cocUrl": "https://phpconference.com/code-of-conduct/",
     "cfpUrl": "https://phpconference.com/call-for-papers",
     "cfpEndDate": "2021-01-14",
-    "twitter": "@phpconference",
-    "cocUrl": "https://phpconference.com/code-of-conduct/",
-    "offersSignLanguageOrCC": false
+    "twitter": "@phpconference"
   },
   {
     "name": "phpday Digital Edition",
@@ -59,10 +59,10 @@
     "startDate": "2021-06-08",
     "endDate": "2021-06-08",
     "online": true,
+    "cocUrl": "https://2021.phpday.it/welcome/coc.html",
     "cfpUrl": "https://2021.phpday.it/welcome/cfp.html",
     "cfpEndDate": "2021-04-25",
-    "twitter": "@phpday",
-    "cocUrl": "https://2021.phpday.it/welcome/coc.html"
+    "twitter": "@phpday"
   },
   {
     "name": "Dutch PHP Conference",
@@ -70,11 +70,11 @@
     "startDate": "2021-06-17",
     "endDate": "2021-06-18",
     "online": true,
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://www.phpconference.nl/code-of-conduct",
     "cfpUrl": "https://www.phpconference.nl/node/150",
     "cfpEndDate": "2021-03-01",
-    "twitter": "@dpcon",
-    "cocUrl": "https://www.phpconference.nl/code-of-conduct",
-    "offersSignLanguageOrCC": true
+    "twitter": "@dpcon"
   },
   {
     "name": "SymfonyWorld Online",
@@ -82,8 +82,8 @@
     "startDate": "2021-06-17",
     "endDate": "2021-06-18",
     "online": true,
-    "twitter": "@symfony_live",
-    "cocUrl": "https://symfony.com/doc/current/contributing/code_of_conduct/care_team.html"
+    "cocUrl": "https://symfony.com/doc/current/contributing/code_of_conduct/care_team.html",
+    "twitter": "@symfony_live"
   },
   {
     "name": "PHP fwdays",
@@ -91,8 +91,8 @@
     "startDate": "2021-09-04",
     "endDate": "2021-09-04",
     "online": true,
-    "twitter": "@fwdays",
-    "cocUrl": "https://fwdays.com/en/page/code-of-conduct"
+    "cocUrl": "https://fwdays.com/en/page/code-of-conduct",
+    "twitter": "@fwdays"
   },
   {
     "name": "API Platform Conference",
@@ -110,10 +110,10 @@
     "startDate": "2021-09-24",
     "endDate": "2021-09-24",
     "online": true,
-    "cfpUrl": "https://2021.laravelday.it/welcome/cfp.html",
-    "twitter": "@LaravelDayIt",
+    "offersSignLanguageOrCC": false,
     "cocUrl": "https://2021.laravelday.it/welcome/coc.html",
-    "offersSignLanguageOrCC": false
+    "cfpUrl": "https://2021.laravelday.it/welcome/cfp.html",
+    "twitter": "@LaravelDayIt"
   },
   {
     "name": "Longhorn PHP",
@@ -123,8 +123,8 @@
     "city": "Austin, TX",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@longhornphp",
-    "cocUrl": "https://www.longhornphp.com/code-of-conduct"
+    "cocUrl": "https://www.longhornphp.com/code-of-conduct",
+    "twitter": "@longhornphp"
   },
   {
     "name": "ScotlandPHP",
@@ -134,8 +134,8 @@
     "city": "Edinburgh",
     "country": "Scotland",
     "online": false,
-    "twitter": "@scotlandphp",
-    "cocUrl": "https://conference.scotlandphp.co.uk/2021/code-of-conduct"
+    "cocUrl": "https://conference.scotlandphp.co.uk/2021/code-of-conduct",
+    "twitter": "@scotlandphp"
   },
   {
     "name": "International PHP Conference Munich",
@@ -145,8 +145,8 @@
     "city": "Munich",
     "country": "Germany",
     "online": true,
-    "twitter": "@phpconference",
-    "cocUrl": "https://phpconference.com/code-of-conduct/"
+    "cocUrl": "https://phpconference.com/code-of-conduct/",
+    "twitter": "@phpconference"
   },
   {
     "name": "TYPO3 Camp RheinRuhr",
@@ -164,8 +164,8 @@
     "startDate": "2021-11-25",
     "endDate": "2021-11-25",
     "online": true,
-    "twitter": "@bettercodeconf",
-    "cocUrl": "https://php.bettercode.eu/code_of_conduct.php"
+    "cocUrl": "https://php.bettercode.eu/code_of_conduct.php",
+    "twitter": "@bettercodeconf"
   },
   {
     "name": "SymfonyCon Disneyland Paris",
@@ -175,9 +175,9 @@
     "city": "Paris",
     "country": "France",
     "online": false,
+    "cocUrl": "https://symfony.com/doc/current/contributing/code_of_conduct/care_team.html",
     "cfpUrl": "https://live.symfony.com/2021-paris-con/cfp",
     "cfpEndDate": "2021-03-29",
-    "twitter": "@SymfonyCon",
-    "cocUrl": "https://symfony.com/doc/current/contributing/code_of_conduct/care_team.html"
+    "twitter": "@SymfonyCon"
   }
 ]

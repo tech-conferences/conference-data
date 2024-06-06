@@ -13,8 +13,8 @@
     "startDate": "2021-02-02",
     "endDate": "2021-02-04",
     "online": true,
-    "twitter": "@CoriniumGlobal",
-    "offersSignLanguageOrCC": false
+    "offersSignLanguageOrCC": false,
+    "twitter": "@CoriniumGlobal"
   },
   {
     "name": "AI+",
@@ -22,8 +22,8 @@
     "startDate": "2021-02-03",
     "endDate": "2021-02-03",
     "online": true,
-    "twitter": "@odsc",
-    "offersSignLanguageOrCC": false
+    "offersSignLanguageOrCC": false,
+    "twitter": "@odsc"
   },
   {
     "name": "Darwin's Circle",
@@ -39,8 +39,8 @@
     "startDate": "2021-03-02",
     "endDate": "2021-03-04",
     "online": true,
-    "twitter": "@CoriniumGlobal",
-    "offersSignLanguageOrCC": false
+    "offersSignLanguageOrCC": false,
+    "twitter": "@CoriniumGlobal"
   },
   {
     "name": "Reinforce",
@@ -48,10 +48,10 @@
     "startDate": "2021-03-03",
     "endDate": "2021-03-05",
     "online": true,
+    "offersSignLanguageOrCC": false,
     "cfpUrl": "http://ReinforceConf",
     "cfpEndDate": "2021-03-03",
-    "twitter": "@reinforceconf",
-    "offersSignLanguageOrCC": false
+    "twitter": "@reinforceconf"
   },
   {
     "name": "Pharma AI, IoT & Blockchain",
@@ -59,8 +59,8 @@
     "startDate": "2021-03-11",
     "endDate": "2021-03-11",
     "online": true,
-    "twitter": "@virtue_insight",
-    "offersSignLanguageOrCC": false
+    "offersSignLanguageOrCC": false,
+    "twitter": "@virtue_insight"
   },
   {
     "name": "ODSC East",
@@ -68,10 +68,10 @@
     "startDate": "2021-03-30",
     "endDate": "2021-04-01",
     "online": true,
-    "cfpEndDate": "2021-03-23",
-    "twitter": "@ODSC",
+    "offersSignLanguageOrCC": false,
     "cocUrl": "https://odsc.com/code-of-conduct/",
-    "offersSignLanguageOrCC": false
+    "cfpEndDate": "2021-03-23",
+    "twitter": "@ODSC"
   },
   {
     "name": "ODSC Mini-Bootcamp",
@@ -79,9 +79,9 @@
     "startDate": "2021-03-30",
     "endDate": "2021-04-01",
     "online": true,
-    "twitter": "@ODSC",
+    "offersSignLanguageOrCC": false,
     "cocUrl": "https://odsc.com/code-of-conduct/",
-    "offersSignLanguageOrCC": false
+    "twitter": "@ODSC"
   },
   {
     "name": "Geekle's Python for ML & AI Global Summit",
@@ -89,9 +89,9 @@
     "startDate": "2021-04-08",
     "endDate": "2021-04-09",
     "online": true,
+    "cocUrl": "https://geekle.us/code-of-conduct",
     "cfpUrl": "https://forms.gle/ryKkiJtqBgs6zT119",
-    "cfpEndDate": "2021-03-31",
-    "cocUrl": "https://geekle.us/code-of-conduct"
+    "cfpEndDate": "2021-03-31"
   },
   {
     "name": "Data Love",
@@ -99,10 +99,10 @@
     "startDate": "2021-04-16",
     "endDate": "2021-04-16",
     "online": true,
+    "cocUrl": "https://berlincodeofconduct.org/",
     "cfpUrl": "https://www.papercall.io/datalove",
     "cfpEndDate": "2021-03-07",
-    "twitter": "@_datalove",
-    "cocUrl": "https://berlincodeofconduct.org/"
+    "twitter": "@_datalove"
   },
   {
     "name": "DataYap Virtual Conference",
@@ -118,10 +118,10 @@
     "startDate": "2021-04-24",
     "endDate": "2021-04-24",
     "online": true,
+    "cocUrl": "https://bit.ly/3pBt0xG",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSd1rDUjEWA4R7j6iaq7-Isx0sVIAHe0sy8rXXV7E_7CxHqSSQ/viewform",
     "cfpEndDate": "2021-03-15",
-    "twitter": "@fwdays",
-    "cocUrl": "https://bit.ly/3pBt0xG"
+    "twitter": "@fwdays"
   },
   {
     "name": "Global AI Student Conference",
@@ -129,9 +129,9 @@
     "startDate": "2021-04-24",
     "endDate": "2021-04-24",
     "online": true,
-    "twitter": "@GlobAICommunity",
+    "offersSignLanguageOrCC": true,
     "cocUrl": "https://aiconf.education/code-of-conduct/",
-    "offersSignLanguageOrCC": true
+    "twitter": "@GlobAICommunity"
   },
   {
     "name": "Minds Mastering Machines",
@@ -139,11 +139,11 @@
     "startDate": "2021-04-27",
     "endDate": "2021-04-28",
     "online": true,
+    "offersSignLanguageOrCC": false,
+    "cocUrl": "https://m3-konferenz.de/code_of_conduct.php",
     "cfpUrl": "https://m3-konferenz.de/call_for_proposals_en.php",
     "cfpEndDate": "2021-01-17",
-    "twitter": "@M3_Konferenz",
-    "cocUrl": "https://m3-konferenz.de/code_of_conduct.php",
-    "offersSignLanguageOrCC": false
+    "twitter": "@M3_Konferenz"
   },
   {
     "name": "Kubernetes AI Day",
@@ -174,11 +174,11 @@
     "startDate": "2021-06-08",
     "endDate": "2021-06-10",
     "online": true,
+    "offersSignLanguageOrCC": false,
+    "cocUrl": "https://odsc.com/code-of-conduct/",
     "cfpUrl": "https://odsc.com/europe/call-for-speakers-europe",
     "cfpEndDate": "2021-05-01",
-    "twitter": "@odsc",
-    "cocUrl": "https://odsc.com/code-of-conduct/",
-    "offersSignLanguageOrCC": false
+    "twitter": "@odsc"
   },
   {
     "name": "ML Conference",
@@ -186,10 +186,10 @@
     "startDate": "2021-06-21",
     "endDate": "2021-06-23",
     "online": true,
-    "cfpEndDate": "2021-01-18",
-    "twitter": "@mlconference",
+    "offersSignLanguageOrCC": false,
     "cocUrl": "https://mlconference.ai/terms-and-conditions/",
-    "offersSignLanguageOrCC": false
+    "cfpEndDate": "2021-01-18",
+    "twitter": "@mlconference"
   },
   {
     "name": "Postgres Vision",
@@ -205,10 +205,10 @@
     "startDate": "2021-06-23",
     "endDate": "2021-06-24",
     "online": true,
+    "cocUrl": "https://conference.unicom.co.uk/sentiment-analysis/2021/uk/#code",
     "cfpUrl": "https://conference.unicom.co.uk/sentiment-analysis/2021/uk/#call",
     "cfpEndDate": "2021-05-10",
-    "twitter": "@unicomseminars",
-    "cocUrl": "https://conference.unicom.co.uk/sentiment-analysis/2021/uk/#code"
+    "twitter": "@unicomseminars"
   },
   {
     "name": "Intercon Conference",
@@ -218,8 +218,8 @@
     "city": "Las Vegas, NV",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@InterConWorld",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@InterConWorld"
   },
   {
     "name": "Women Data Summit",
@@ -227,10 +227,10 @@
     "startDate": "2021-06-25",
     "endDate": "2021-06-25",
     "online": true,
+    "cocUrl": "https://www.2020twenty.net/women-data-summit-2021/code-of-conduct/",
     "cfpUrl": "https://sessionize.com/women-data-summit-2021",
     "cfpEndDate": "2021-05-30",
-    "twitter": "@csharpcorner",
-    "cocUrl": "https://www.2020twenty.net/women-data-summit-2021/code-of-conduct/"
+    "twitter": "@csharpcorner"
   },
   {
     "name": "Apache Airflow Summit",
@@ -255,8 +255,8 @@
     "city": "Columbus, OH",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@wia_community",
-    "cocUrl": "https://womeninanalytics.com/about/code-of-conduct/"
+    "cocUrl": "https://womeninanalytics.com/about/code-of-conduct/",
+    "twitter": "@wia_community"
   },
   {
     "name": "Kafka Summit APAC",
@@ -264,10 +264,10 @@
     "startDate": "2021-07-27",
     "endDate": "2021-07-28",
     "online": true,
+    "cocUrl": "https://kafka-summit-org.netlify.app/code-of-c",
     "cfpUrl": "https://sessionize.com/kafka-summit-apac-2021",
     "cfpEndDate": "2021-04-05",
-    "twitter": "@ConfluentInc",
-    "cocUrl": "https://kafka-summit-org.netlify.app/code-of-c"
+    "twitter": "@ConfluentInc"
   },
   {
     "name": "Conf42: Machine Learning",
@@ -294,9 +294,9 @@
     "startDate": "2021-08-23",
     "endDate": "2021-08-26",
     "online": true,
+    "offersSignLanguageOrCC": true,
     "cfpUrl": "http://www.ieeeaitests.com/html/callForPapers.html",
-    "cfpEndDate": "2021-04-30",
-    "offersSignLanguageOrCC": true
+    "cfpEndDate": "2021-04-30"
   },
   {
     "name": "IEEE Mobile Cloud",
@@ -304,9 +304,9 @@
     "startDate": "2021-08-23",
     "endDate": "2021-08-26",
     "online": true,
+    "offersSignLanguageOrCC": true,
     "cfpUrl": "https://www.mobile-cloud.net/#call-for-papers",
-    "cfpEndDate": "2021-05-01",
-    "offersSignLanguageOrCC": true
+    "cfpEndDate": "2021-05-01"
   },
   {
     "name": "ODSC APAC Virtual Conference",
@@ -314,8 +314,8 @@
     "startDate": "2021-09-15",
     "endDate": "2021-09-16",
     "online": true,
-    "twitter": "@ODSC",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@ODSC"
   },
   {
     "name": "WeAreDevelopers Live - Database Day",
@@ -323,10 +323,10 @@
     "startDate": "2021-09-30",
     "endDate": "2021-09-30",
     "online": true,
+    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct",
     "cfpUrl": "https://www.wearedevelopers.com/speakers/call-for-speakers",
     "cfpEndDate": "2021-09-02",
-    "twitter": "@wearedevs",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct"
+    "twitter": "@wearedevs"
   },
   {
     "name": "PostgresConf South Africa",
@@ -343,11 +343,11 @@
     "startDate": "2021-10-09",
     "endDate": "2021-10-09",
     "online": true,
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://aiconf.education/code-of-conduct/",
     "cfpUrl": "https://sessionize.com/gais-conf-oct-21",
     "cfpEndDate": "2021-09-12",
-    "twitter": "@GlobAICommunity",
-    "cocUrl": "https://aiconf.education/code-of-conduct/",
-    "offersSignLanguageOrCC": true
+    "twitter": "@GlobAICommunity"
   },
   {
     "name": "Big Data and AI Toronto",
@@ -355,8 +355,8 @@
     "startDate": "2021-10-13",
     "endDate": "2021-10-14",
     "online": true,
-    "twitter": "@BigDataAITO",
-    "cocUrl": "https://www.bigdata-toronto.com/terms-and-conditions/"
+    "cocUrl": "https://www.bigdata-toronto.com/terms-and-conditions/",
+    "twitter": "@BigDataAITO"
   },
   {
     "name": "Web Summit; Developers & Data",
@@ -366,8 +366,8 @@
     "city": "Lisbon",
     "country": "Portugal",
     "online": false,
-    "twitter": "@websummit",
-    "cocUrl": "https://websummit.com/anti-harassment-policy"
+    "cocUrl": "https://websummit.com/anti-harassment-policy",
+    "twitter": "@websummit"
   },
   {
     "name": "OSA Con — Open Source Analytics Conference",
@@ -375,9 +375,9 @@
     "startDate": "2021-11-02",
     "endDate": "2021-11-02",
     "online": true,
+    "cocUrl": "https://altinity.com/osa-con-2021/code-of-conduct/",
     "cfpUrl": "https://forms.gle/mzzjuig8kG5QmM6v9",
-    "cfpEndDate": "2021-10-01",
-    "cocUrl": "https://altinity.com/osa-con-2021/code-of-conduct/"
+    "cfpEndDate": "2021-10-01"
   },
   {
     "name": "Big Data Analytics and Data Science",
@@ -395,8 +395,8 @@
     "startDate": "2021-11-09",
     "endDate": "2021-11-09",
     "online": true,
-    "twitter": "@M3_Konferenz",
-    "cocUrl": "https://m3-konferenz.de/code_of_conduct.php"
+    "cocUrl": "https://m3-konferenz.de/code_of_conduct.php",
+    "twitter": "@M3_Konferenz"
   },
   {
     "name": "ODSC West AIx Summit",
@@ -406,8 +406,8 @@
     "city": "Burlingame, CA",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@ODSC",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@ODSC"
   },
   {
     "name": "DOAG (Biggest European Conference about Oracle DB topics)",
@@ -432,10 +432,10 @@
     "startDate": "2021-11-18",
     "endDate": "2021-11-20",
     "online": true,
+    "cocUrl": "https://it-nonstop.net/about-the-conference/code-of-conduct",
     "cfpUrl": "https://it-nonstop.net/become-a-speaker",
     "cfpEndDate": "2021-06-30",
-    "twitter": "@it_nonstop",
-    "cocUrl": "https://it-nonstop.net/about-the-conference/code-of-conduct"
+    "twitter": "@it_nonstop"
   },
   {
     "name": "API Summit, DDD Summit & Microservices Summit",
@@ -445,8 +445,8 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
-    "twitter": "@apisummit_de",
-    "cocUrl": "https://api-summit.de/code-of-conduct/"
+    "cocUrl": "https://api-summit.de/code-of-conduct/",
+    "twitter": "@apisummit_de"
   },
   {
     "name": "ML Conference Singapore",
@@ -454,10 +454,10 @@
     "startDate": "2021-11-23",
     "endDate": "2021-11-25",
     "online": true,
+    "cocUrl": "https://mlconference.ai/code-of-conduct/",
     "cfpUrl": "https://mlconference.ai/call-for-papers",
     "cfpEndDate": "2021-05-24",
-    "twitter": "@mlconference",
-    "cocUrl": "https://mlconference.ai/code-of-conduct/"
+    "twitter": "@mlconference"
   },
   {
     "name": "Minds Mastering Machines – Special Day MLOps",
@@ -465,8 +465,8 @@
     "startDate": "2021-11-24",
     "endDate": "2021-11-24",
     "online": true,
-    "twitter": "@M3_Konferenz",
-    "cocUrl": "https://m3-konferenz.de/code_of_conduct.php"
+    "cocUrl": "https://m3-konferenz.de/code_of_conduct.php",
+    "twitter": "@M3_Konferenz"
   },
   {
     "name": "International Conference on Artificial Intelligence and Education",
@@ -494,8 +494,8 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
-    "twitter": "@mlconference",
-    "cocUrl": "https://mlconference.ai/code-of-conduct/"
+    "cocUrl": "https://mlconference.ai/code-of-conduct/",
+    "twitter": "@mlconference"
   },
   {
     "name": "Voice Conference",
@@ -505,8 +505,8 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
-    "twitter": "@Voice_Con",
-    "cocUrl": "https://voicecon.net/code-of-conduct/"
+    "cocUrl": "https://voicecon.net/code-of-conduct/",
+    "twitter": "@Voice_Con"
   },
   {
     "name": "data2day",
@@ -514,7 +514,7 @@
     "startDate": "2021-12-08",
     "endDate": "2021-12-08",
     "online": true,
-    "twitter": "@data2day",
-    "cocUrl": "https://www.data2day.de/code_of_conduct.php"
+    "cocUrl": "https://www.data2day.de/code_of_conduct.php",
+    "twitter": "@data2day"
   }
 ]

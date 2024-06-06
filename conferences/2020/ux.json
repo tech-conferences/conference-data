@@ -361,8 +361,8 @@
     "startDate": "2020-10-06",
     "endDate": "2020-10-09",
     "online": true,
-    "twitter": "@UXDXconf",
-    "offersSignLanguageOrCC": false
+    "offersSignLanguageOrCC": false,
+    "twitter": "@UXDXconf"
   },
   {
     "name": "SmashingConf",
@@ -422,9 +422,9 @@
     "startDate": "2020-11-06",
     "endDate": "2020-11-06",
     "online": true,
-    "twitter": "@webdirections",
+    "offersSignLanguageOrCC": true,
     "cocUrl": "https://www.webdirections.org/web-directions-event-code-of-conduct/",
-    "offersSignLanguageOrCC": true
+    "twitter": "@webdirections"
   },
   {
     "name": "Global Experience Summit",
@@ -474,8 +474,8 @@
     "startDate": "2020-11-20",
     "endDate": "2020-11-29",
     "online": true,
-    "cocUrl": "https://touch.ge/summit",
-    "offersSignLanguageOrCC": false
+    "offersSignLanguageOrCC": false,
+    "cocUrl": "https://touch.ge/summit"
   },
   {
     "name": "Design Inspire Conference",
@@ -492,9 +492,9 @@
     "startDate": "2020-11-30",
     "endDate": "2020-12-02",
     "online": true,
-    "twitter": "@DDDSummit",
+    "offersSignLanguageOrCC": false,
     "cocUrl": "https://ddd-summit.de/code-of-conduct/",
-    "offersSignLanguageOrCC": false
+    "twitter": "@DDDSummit"
   },
   {
     "name": "Savvy UX Summit",
@@ -502,8 +502,8 @@
     "startDate": "2020-12-07",
     "endDate": "2020-12-10",
     "online": true,
-    "twitter": "@SavvyUXSummit",
-    "offersSignLanguageOrCC": false
+    "offersSignLanguageOrCC": false,
+    "twitter": "@SavvyUXSummit"
   },
   {
     "name": "webinale",
@@ -522,8 +522,8 @@
     "startDate": "2020-12-07",
     "endDate": "2020-12-12",
     "online": true,
-    "twitter": "@uxindiaconf",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@uxindiaconf"
   },
   {
     "name": "An Event Apart San Francisco",

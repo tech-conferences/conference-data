@@ -5,12 +5,12 @@
     "startDate": "2023-02-07",
     "endDate": "2023-02-08",
     "online": true,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://geekle.us/code-of-conduct",
     "cfpUrl": "https://forms.gle/rTgVNu3ZVT6KY9mF7",
     "cfpEndDate": "2022-12-15",
-    "twitter": "@FlutterSummit",
-    "cocUrl": "https://geekle.us/code-of-conduct",
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "twitter": "@FlutterSummit"
   },
   {
     "name": "WeAreDevelopers Mobile Day",
@@ -18,11 +18,11 @@
     "startDate": "2023-03-15",
     "endDate": "2023-03-15",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form.",
     "cfpUrl": "https://sessionize.com/wearedevelopers-live-2023",
     "cfpEndDate": "2023-03-06",
-    "twitter": "@WeAreDevs",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form.",
-    "locales": "EN"
+    "twitter": "@WeAreDevs"
   },
   {
     "name": "Apprise Conf",
@@ -32,11 +32,11 @@
     "city": "Oslo",
     "country": "Norway",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://appriseconf.com/coc.html",
     "cfpUrl": "https://forms.gle/63C6sSAbzFLFzpX17",
     "cfpEndDate": "2023-01-31",
-    "twitter": "@appriseconf",
-    "cocUrl": "https://appriseconf.com/coc.html",
-    "locales": "EN"
+    "twitter": "@appriseconf"
   },
   {
     "name": "plDroid",
@@ -56,8 +56,8 @@
     "city": "Dresden",
     "country": "Germany",
     "online": false,
-    "twitter": "@mobilecamp",
-    "locales": "DE"
+    "locales": "DE",
+    "twitter": "@mobilecamp"
   },
   {
     "name": "JCON EUROPE",
@@ -67,11 +67,11 @@
     "city": "Cologne",
     "country": "Germany",
     "online": false,
+    "locales": "EN,DE",
+    "cocUrl": "https://2023.europe.jcon.one/code-of-conduct",
     "cfpUrl": "https://2023.europe.jcon.one/call-for-papers",
     "cfpEndDate": "2023-01-31",
-    "twitter": "@jcon_conference",
-    "cocUrl": "https://2023.europe.jcon.one/code-of-conduct",
-    "locales": "EN,DE"
+    "twitter": "@jcon_conference"
   },
   {
     "name": "droidcon Berlin",
@@ -81,8 +81,8 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
-    "twitter": "@droidconBerlin",
-    "locales": "EN,DE"
+    "locales": "EN,DE",
+    "twitter": "@droidconBerlin"
   },
   {
     "name": "Internet 2.0 Conference USA",
@@ -92,8 +92,8 @@
     "city": "Las Vegas, NV",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@internet2conf",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@internet2conf"
   },
   {
     "name": "WeAreDevelopers World Congress",
@@ -103,11 +103,11 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form.",
     "cfpUrl": "https://sessionize.com/wearedevelopers-worldcongress23",
     "cfpEndDate": "2023-07-19",
-    "twitter": "@WeAreDevs",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form.",
-    "locales": "EN"
+    "twitter": "@WeAreDevs"
   },
   {
     "name": "Mobile People Community Day - Uniting Tech Enthusiasts!",
@@ -115,8 +115,8 @@
     "startDate": "2023-08-15",
     "endDate": "2023-08-17",
     "online": true,
-    "twitter": "@CommunityDay_Co",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@CommunityDay_Co"
   },
   {
     "name": "React Native EU",
@@ -126,11 +126,11 @@
     "city": "Wrocław",
     "country": "Poland",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.react-native.eu/code-of-conduct",
     "cfpUrl": "https://www.react-native.eu/#callforpapers",
     "cfpEndDate": "2023-04-12",
-    "twitter": "@react_native_eu",
-    "cocUrl": "https://www.react-native.eu/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@react_native_eu"
   },
   {
     "name": "droidcon New York",
@@ -140,9 +140,9 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@droidconNYC",
-    "cocUrl": "https://nyc.droidcon.com/code-of-conduct/",
     "locales": "EN",
+    "cocUrl": "https://nyc.droidcon.com/code-of-conduct/",
+    "twitter": "@droidconNYC",
     "mastodon": "@droidcon@androiddev.social"
   },
   {
@@ -153,11 +153,11 @@
     "city": "Goa",
     "country": "India",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://nullcon.net/about-conferencepolicy/",
     "cfpUrl": "https://nullcon.net/goa-2023/cfp",
     "cfpEndDate": "2023-07-10",
-    "twitter": "@nullcon",
-    "cocUrl": "https://nullcon.net/about-conferencepolicy/",
-    "locales": "EN"
+    "twitter": "@nullcon"
   },
   {
     "name": "droidcon London",
@@ -167,9 +167,9 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
-    "twitter": "@droidconLondon",
-    "cocUrl": "https://london.droidcon.com/code-of-conduct/",
     "locales": "EN",
+    "cocUrl": "https://london.droidcon.com/code-of-conduct/",
+    "twitter": "@droidconLondon",
     "mastodon": "@droidcon@androiddev.social"
   },
   {
@@ -180,10 +180,10 @@
     "city": "Nairobi",
     "country": "Kenya",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://sessionize.com/droidcon-kenya-2023/",
     "cfpUrl": "https://sessionize.com/droidcon-kenya-2023",
     "cfpEndDate": "2023-09-11",
-    "twitter": "@droidconke",
-    "cocUrl": "https://sessionize.com/droidcon-kenya-2023/",
-    "locales": "EN"
+    "twitter": "@droidconke"
   }
 ]

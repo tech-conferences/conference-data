@@ -7,10 +7,10 @@
     "city": "Bochum",
     "country": "Germany",
     "online": true,
+    "locales": "EN",
     "cfpUrl": "https://embo.io/call-for-papers",
     "cfpEndDate": "2023-02-11",
-    "twitter": "@emboconference",
-    "locales": "EN"
+    "twitter": "@emboconference"
   },
   {
     "name": "Akademy",
@@ -20,11 +20,11 @@
     "city": "Thessaloniki",
     "country": "Greece",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://akademy.kde.org/2023/code-conduct/",
     "cfpUrl": "https://akademy.kde.org/2023/cfp",
     "cfpEndDate": "2023-03-30",
-    "twitter": "@akademy",
-    "cocUrl": "https://akademy.kde.org/2023/code-conduct/",
-    "locales": "EN"
+    "twitter": "@akademy"
   },
   {
     "name": "Cpp North",
@@ -34,9 +34,9 @@
     "city": "Toronto",
     "country": "Canada",
     "online": false,
-    "twitter": "@CppNorth",
+    "locales": "EN",
     "cocUrl": "https://cppnorth.ca/code-of-conduct.html",
-    "locales": "EN"
+    "twitter": "@CppNorth"
   },
   {
     "name": "WeAreDevelopers World Congress",
@@ -46,11 +46,11 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form.",
     "cfpUrl": "https://sessionize.com/wearedevelopers-worldcongress23",
     "cfpEndDate": "2023-07-19",
-    "twitter": "@WeAreDevs",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form.",
-    "locales": "EN"
+    "twitter": "@WeAreDevs"
   },
   {
     "name": "BASTA! Fall",
@@ -60,11 +60,11 @@
     "city": "Mainz",
     "country": "Germany",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://basta.net/code-of-conduct/",
     "cfpUrl": "https://basta.net/contact",
     "cfpEndDate": "2023-03-01",
-    "twitter": "@bastacon",
-    "cocUrl": "https://basta.net/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@bastacon"
   },
   {
     "name": "Build Stuff",
@@ -74,10 +74,10 @@
     "city": "Vilnius",
     "country": "Lithuania",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.buildstuff.events/code-of-conduct",
     "cfpUrl": "https://www.buildstuff.events/cfp",
     "cfpEndDate": "2023-07-02",
-    "twitter": "@BuildStuffConf",
-    "cocUrl": "https://www.buildstuff.events/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@BuildStuffConf"
   }
 ]

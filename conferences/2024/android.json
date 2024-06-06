@@ -5,10 +5,10 @@
     "startDate": "2024-03-09",
     "endDate": "2024-03-10",
     "online": true,
-    "cfpUrl": "https://cit2024.org/submission/index.php",
-    "cfpEndDate": "2024-01-06",
+    "locales": "EN",
     "cocUrl": "https://cit2024.org/submission/index.php",
-    "locales": "EN"
+    "cfpUrl": "https://cit2024.org/submission/index.php",
+    "cfpEndDate": "2024-01-06"
   },
   {
     "name": "Nullcon Berlin",
@@ -18,11 +18,11 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://nullcon.net/about-conferencepolicy",
     "cfpUrl": "https://nullcon.net/berlin-2024/cfp",
     "cfpEndDate": "2023-12-31",
-    "twitter": "@nullcon",
-    "cocUrl": "https://nullcon.net/about-conferencepolicy",
-    "locales": "EN"
+    "twitter": "@nullcon"
   },
   {
     "name": "AndroidMakers by droidcon",
@@ -32,11 +32,11 @@
     "city": "Paris",
     "country": "France",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://androidmakers.droidcon.com/code-of-conduct/",
     "cfpUrl": "https://sessionize.com/androidmakers-by-droidcon-2024",
     "cfpEndDate": "2024-03-01",
-    "twitter": "@AndroidMakersFR",
-    "cocUrl": "https://androidmakers.droidcon.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@AndroidMakersFR"
   },
   {
     "name": "Roboto Conference",
@@ -46,10 +46,10 @@
     "city": "Verona",
     "country": "Italy",
     "online": false,
+    "locales": "EN",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdtSib3b3eORN8fG2E2jp718y3enaClKSgPtBWHqrDIy9xJ4A/viewform",
     "cfpEndDate": "2024-04-30",
     "twitter": "@RobotoConf",
-    "locales": "EN",
     "mastodon": "@robotoconference@mastodon.social"
   },
   {
@@ -60,11 +60,11 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://sf.droidcon.com/code-of-conduct/",
     "cfpUrl": "https://sessionize.com/droidcon-san-francisco-2023",
     "cfpEndDate": "2024-04-14",
     "twitter": "@droidconSF",
-    "cocUrl": "https://sf.droidcon.com/code-of-conduct/",
-    "locales": "EN",
     "mastodon": "@droidcon@androiddev.social"
   },
   {
@@ -75,11 +75,11 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://berlin.droidcon.com/code-of-conduct/",
     "cfpUrl": "https://sessionize.com/droidcon-berlin-2022",
     "cfpEndDate": "2024-04-01",
     "twitter": "@droidconBerlin",
-    "cocUrl": "https://berlin.droidcon.com/code-of-conduct/",
-    "locales": "EN",
     "mastodon": "@droidcon@androiddev.social"
   },
   {
@@ -90,9 +90,9 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@droidconnyc",
+    "locales": "EN",
     "cocUrl": "https://nyc.droidcon.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@droidconnyc"
   },
   {
     "name": "MWC Las Vegas",
@@ -112,9 +112,9 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
-    "twitter": "@droidconLondon",
-    "cocUrl": "https://london.droidcon.com/code-of-conduct/",
     "locales": "EN",
+    "cocUrl": "https://london.droidcon.com/code-of-conduct/",
+    "twitter": "@droidconLondon",
     "mastodon": "@droidcon@androiddev.social"
   }
 ]
