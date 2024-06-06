@@ -5,10 +5,10 @@
     "startDate": "2022-01-13",
     "endDate": "2022-01-13",
     "online": true,
+    "cocUrl": "https://docs.google.com/document/u/2/d/e/2PACX-1vQYpW0tp7UO9oHm9dJAjTIKfEkaONMJucKAsCNww2p1JijSt1Etd21ocz1A8GUiYIsChdUXVyhkWZCf/pub",
     "cfpUrl": "https://cse.umn.edu/cs/news/code-freeze-2022-explores-developer-experience",
     "cfpEndDate": "2022-01-12",
-    "twitter": "@StephenThere",
-    "cocUrl": "https://docs.google.com/document/u/2/d/e/2PACX-1vQYpW0tp7UO9oHm9dJAjTIKfEkaONMJucKAsCNww2p1JijSt1Etd21ocz1A8GUiYIsChdUXVyhkWZCf/pub"
+    "twitter": "@StephenThere"
   },
   {
     "name": "Workforce Identity Governance & Access Management Summit",
@@ -16,8 +16,8 @@
     "startDate": "2022-02-24",
     "endDate": "2022-02-24",
     "online": true,
-    "twitter": "@altrusiaglobal",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@altrusiaglobal"
   },
   {
     "name": "The DEVOPS Conference",
@@ -25,10 +25,10 @@
     "startDate": "2022-03-08",
     "endDate": "2022-03-09",
     "online": true,
+    "cocUrl": "https://www.thedevopsconference.com/code-of-conduct",
     "cfpUrl": "https://www.thedevopsconference.com/call-for-papers",
     "cfpEndDate": "2021-12-16",
-    "twitter": "@eficode",
-    "cocUrl": "https://www.thedevopsconference.com/code-of-conduct"
+    "twitter": "@eficode"
   },
   {
     "name": "Reinforce AI Conference",
@@ -36,10 +36,10 @@
     "startDate": "2022-03-08",
     "endDate": "2022-03-10",
     "online": true,
+    "cocUrl": "https://reinforceconf.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/reinforce2022",
     "cfpEndDate": "2022-01-31",
-    "twitter": "@reinforceconf",
-    "cocUrl": "https://reinforceconf.com/code-of-conduct"
+    "twitter": "@reinforceconf"
   },
   {
     "name": "Global Artificial Intelligence Virtual Conference",
@@ -47,10 +47,10 @@
     "startDate": "2022-03-17",
     "endDate": "2022-03-19",
     "online": true,
+    "cocUrl": "http://www.globalbigdataconference.com/santa-clara/global-artificial-intelligence-virtual-conference/event-129.html",
     "cfpUrl": "http://www.globalbigdataconference.com/santa-clara/global-artificial-intelligence-virtual-conference/event-129.html#registration",
     "cfpEndDate": "2022-03-15",
-    "twitter": "@bigdataconf",
-    "cocUrl": "http://www.globalbigdataconference.com/santa-clara/global-artificial-intelligence-virtual-conference/event-129.html"
+    "twitter": "@bigdataconf"
   },
   {
     "name": "NVIDIA GTC",
@@ -70,10 +70,10 @@
     "city": "Lagos",
     "country": "Nigeria",
     "online": true,
+    "offersSignLanguageOrCC": true,
     "cfpUrl": "https://www.papercall.io/cfps/4213/submissions/new",
     "cfpEndDate": "2022-01-27",
-    "twitter": "@oscafrica",
-    "offersSignLanguageOrCC": true
+    "twitter": "@oscafrica"
   },
   {
     "name": "IoT Forum Africa",
@@ -83,8 +83,8 @@
     "city": "Johannesburg",
     "country": "South Africa",
     "online": true,
-    "twitter": "@ITNewsAfrica",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@ITNewsAfrica"
   },
   {
     "name": "Timescale Community Day",
@@ -92,10 +92,10 @@
     "startDate": "2022-03-31",
     "endDate": "2022-03-31",
     "online": true,
+    "cocUrl": "https://www.timescale.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/timescale-community-day-2022",
     "cfpEndDate": "2022-02-28",
-    "twitter": "@TimescaleDB",
-    "cocUrl": "https://www.timescale.com/code-of-conduct"
+    "twitter": "@TimescaleDB"
   },
   {
     "name": "QCon London",
@@ -105,8 +105,8 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
-    "twitter": "@qconlondon",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@qconlondon"
   },
   {
     "name": "Walmart AI Summit - Cognitive Retail At Scale",
@@ -123,10 +123,10 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
+    "cocUrl": "https://nullcon.net/about-conferencepolicy/",
     "cfpUrl": "https://nullcon.net/berlin-2022/cfp",
     "cfpEndDate": "2022-01-15",
-    "twitter": "@nullcon",
-    "cocUrl": "https://nullcon.net/about-conferencepolicy/"
+    "twitter": "@nullcon"
   },
   {
     "name": "Nepal Cloud Summit",
@@ -136,8 +136,8 @@
     "city": "Kathmandu",
     "country": "Nepal",
     "online": true,
-    "twitter": "@cloudsummitlive",
-    "cocUrl": "https://nepal.cloudsummit.live/code-of-conduct/"
+    "cocUrl": "https://nepal.cloudsummit.live/code-of-conduct/",
+    "twitter": "@cloudsummitlive"
   },
   {
     "name": "ODSC East",
@@ -155,10 +155,10 @@
     "startDate": "2022-04-20",
     "endDate": "2022-04-21",
     "online": true,
+    "cocUrl": "https://codementor.notion.site/Codementor-Events-Code-of-Conduct-37b9714c926c47b4a222429b6e873f48",
     "cfpUrl": "https://arcdotdev.typeform.com/to/JcAdJQgW",
     "cfpEndDate": "2022-04-13",
-    "twitter": "@CodementorIO",
-    "cocUrl": "https://codementor.notion.site/Codementor-Events-Code-of-Conduct-37b9714c926c47b4a222429b6e873f48"
+    "twitter": "@CodementorIO"
   },
   {
     "name": "DMML",
@@ -166,9 +166,9 @@
     "startDate": "2022-04-23",
     "endDate": "2022-04-24",
     "online": true,
+    "offersSignLanguageOrCC": true,
     "cfpUrl": "https://www.necom2022.org/dmml/submission",
-    "cfpEndDate": "2022-04-02",
-    "offersSignLanguageOrCC": true
+    "cfpEndDate": "2022-04-02"
   },
   {
     "name": "Appsilon Shiny Conference",
@@ -184,8 +184,8 @@
     "startDate": "2022-05-10",
     "endDate": "2022-05-20",
     "online": true,
-    "twitter": "@QCon",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@QCon"
   },
   {
     "name": "Voxxed Days",
@@ -195,8 +195,8 @@
     "city": "Zurich",
     "country": "Switzerland",
     "online": false,
-    "twitter": "@voxxedzurich",
-    "cocUrl": "https://voxxeddays.com/zurich/code-of-conduct/"
+    "cocUrl": "https://voxxeddays.com/zurich/code-of-conduct/",
+    "twitter": "@voxxedzurich"
   },
   {
     "name": "Conf42 Machine Learning",
@@ -204,10 +204,10 @@
     "startDate": "2022-05-19",
     "endDate": "2022-05-19",
     "online": true,
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/conf42-machine-learning-2022",
     "cfpEndDate": "2022-04-08",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct"
+    "twitter": "@conf42com"
   },
   {
     "name": "Spatial Data Science Conference London",
@@ -225,10 +225,10 @@
     "startDate": "2022-05-24",
     "endDate": "2022-05-25",
     "online": true,
+    "cocUrl": "https://www.tigergraph.com/privacy-policy/",
     "cfpUrl": "https://events.bizzabo.com/390232/page/2084487/call-for-speakers",
     "cfpEndDate": "2022-04-11",
-    "twitter": "@TigerGraphDB",
-    "cocUrl": "https://www.tigergraph.com/privacy-policy/"
+    "twitter": "@TigerGraphDB"
   },
   {
     "name": "YOW! Data",
@@ -236,8 +236,8 @@
     "startDate": "2022-05-30",
     "endDate": "2022-05-31",
     "online": true,
-    "twitter": "@yow_conf",
-    "cocUrl": "https://skillsmatter.com/go/code-of-conduct"
+    "cocUrl": "https://skillsmatter.com/go/code-of-conduct",
+    "twitter": "@yow_conf"
   },
   {
     "name": "Render-Atlanta (RenderATL)",
@@ -247,9 +247,9 @@
     "city": "Atlanta, GA",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@RenderATL",
+    "offersSignLanguageOrCC": true,
     "cocUrl": "RenderATL.com/thecode",
-    "offersSignLanguageOrCC": true
+    "twitter": "@RenderATL"
   },
   {
     "name": "MongoDB World",
@@ -259,11 +259,11 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "online": true,
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://www.mongodb.com/mongodb-world-code-conduct",
     "cfpUrl": "https://www.mongodb.com/world-2022-call-for-speakers",
     "cfpEndDate": "2022-01-18",
-    "twitter": "@MongoDB",
-    "cocUrl": "https://www.mongodb.com/mongodb-world-code-conduct",
-    "offersSignLanguageOrCC": true
+    "twitter": "@MongoDB"
   },
   {
     "name": "Berlin Buzzwords",
@@ -273,8 +273,8 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
-    "twitter": "@berlinbuzzwords",
-    "cocUrl": "https://2022.berlinbuzzwords.de/code-conduct"
+    "cocUrl": "https://2022.berlinbuzzwords.de/code-conduct",
+    "twitter": "@berlinbuzzwords"
   },
   {
     "name": "WeAreDevelopers World Congress",
@@ -295,8 +295,8 @@
     "city": "London",
     "country": "U.K.",
     "online": true,
-    "twitter": "@ODSC",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@ODSC"
   },
   {
     "name": "hub.berlin",
@@ -306,10 +306,10 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
+    "cocUrl": "https://www.hub.berlin/join-us/faq",
     "cfpUrl": "https://www.hub.berlin/business-festival-tickets-2022",
     "cfpEndDate": "2022-06-21",
-    "twitter": "@hub.berlin",
-    "cocUrl": "https://www.hub.berlin/join-us/faq"
+    "twitter": "@hub.berlin"
   },
   {
     "name": "BCI Summit - Big Data Management",
@@ -319,8 +319,8 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@BCISummit",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@BCISummit"
   },
   {
     "name": "Exploring the Future of Behaviour AI",
@@ -348,8 +348,8 @@
     "city": "Munich",
     "country": "Germany",
     "online": true,
-    "twitter": "@mlconference",
-    "cocUrl": "https://mlconference.ai/code-of-conduct/"
+    "cocUrl": "https://mlconference.ai/code-of-conduct/",
+    "twitter": "@mlconference"
   },
   {
     "name": "Data + AI Summit",
@@ -369,8 +369,8 @@
     "city": "Singapore",
     "country": "Singapore",
     "online": false,
-    "twitter": "@Common_Sense_BF",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@Common_Sense_BF"
   },
   {
     "name": "Neo4j Connections",
@@ -378,8 +378,8 @@
     "startDate": "2022-07-28",
     "endDate": "2022-07-28",
     "online": true,
-    "twitter": "@neo4j",
-    "cocUrl": "https://neo4j.com/connections/solving-real-world-problems-with-graphs-apac/"
+    "cocUrl": "https://neo4j.com/connections/solving-real-world-problems-with-graphs-apac/",
+    "twitter": "@neo4j"
   },
   {
     "name": "Ai4",
@@ -389,8 +389,8 @@
     "city": "Las Vegas, NV",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@Ai4Conferences",
-    "cocUrl": "https://ai4.io/usa/health-and-safety/"
+    "cocUrl": "https://ai4.io/usa/health-and-safety/",
+    "twitter": "@Ai4Conferences"
   },
   {
     "name": "ODSC APAC Virtual Conference",
@@ -416,9 +416,9 @@
     "endDate": "2022-09-15",
     "city": "Amsterdam",
     "country": "Netherlands",
+    "cocUrl": "https://github.com/aiven/uptime-conference-2022/blob/main/code-of-conduct.md",
     "cfpUrl": "https://sessionize.com/uptime-conference-2022/",
-    "cfpEndDate": "2022-03-09",
-    "cocUrl": "https://github.com/aiven/uptime-conference-2022/blob/main/code-of-conduct.md"
+    "cfpEndDate": "2022-03-09"
   },
   {
     "name": "Big Data Minds",
@@ -428,10 +428,10 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
+    "cocUrl": "https://www.we-conect.com/de/agb",
     "cfpUrl": "https://www.big-data-minds.com/sprecher",
     "cfpEndDate": "2022-09-15",
-    "twitter": "@weCONECT",
-    "cocUrl": "https://www.we-conect.com/de/agb"
+    "twitter": "@weCONECT"
   },
   {
     "name": "Enterprise AI Summit",
@@ -441,10 +441,10 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
+    "cocUrl": "https://www.we-conect.com/de/agb",
     "cfpUrl": "https://www.enterprise-ai-ml.de/sprecher",
     "cfpEndDate": "2022-09-15",
-    "twitter": "@weCONECT",
-    "cocUrl": "https://www.we-conect.com/de/agb"
+    "twitter": "@weCONECT"
   },
   {
     "name": "NVIDIA GTC",
@@ -452,8 +452,8 @@
     "startDate": "2022-09-19",
     "endDate": "2022-09-22",
     "online": true,
-    "twitter": "@nvidiagtc",
-    "cocUrl": "https://www.nvidia.com/gtc/code-of-conduct/"
+    "cocUrl": "https://www.nvidia.com/gtc/code-of-conduct/",
+    "twitter": "@nvidiagtc"
   },
   {
     "name": "LeanIX Connect Summit Europe",
@@ -463,8 +463,8 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
-    "twitter": "@leanix_net",
-    "cocUrl": "https://www.leanix-connect.com/code-of-conduct"
+    "cocUrl": "https://www.leanix-connect.com/code-of-conduct",
+    "twitter": "@leanix_net"
   },
   {
     "name": "data2day",
@@ -474,10 +474,10 @@
     "city": "Karlsruhe",
     "country": "Germany",
     "online": false,
+    "cocUrl": "https://www.data2day.de/code_of_conduct.php",
     "cfpUrl": "https://www.data2day.de/cfp_en.php",
     "cfpEndDate": "2022-05-02",
-    "twitter": "@data2day",
-    "cocUrl": "https://www.data2day.de/code_of_conduct.php"
+    "twitter": "@data2day"
   },
   {
     "name": "Web Data Extraction Summit",
@@ -487,8 +487,8 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
-    "twitter": "@ExtractSummit",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@ExtractSummit"
   },
   {
     "name": "Crunch Conference",
@@ -508,8 +508,8 @@
     "city": "Copenhagen",
     "country": "Denmark",
     "online": false,
-    "twitter": "@GOTOcon",
-    "cocUrl": "https://gotocph.com/2022/code-of-conduct"
+    "cocUrl": "https://gotocph.com/2022/code-of-conduct",
+    "twitter": "@GOTOcon"
   },
   {
     "name": "TWIMLcon",
@@ -527,8 +527,8 @@
     "city": "Gdansk",
     "country": "Poland",
     "online": true,
-    "twitter": "@infosharepl",
-    "cocUrl": "https://infoshare.pl/code-of-conduct.html"
+    "cocUrl": "https://infoshare.pl/code-of-conduct.html",
+    "twitter": "@infosharepl"
   },
   {
     "name": "TestFlix",
@@ -536,11 +536,11 @@
     "startDate": "2022-10-08",
     "endDate": "2022-10-09",
     "online": true,
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://www.thetesttribe.com/event-policy-and-code-of-conduct/",
     "cfpUrl": "https://www.thetesttribe.com/testflix-2022-call-for-papers",
     "cfpEndDate": "2022-05-15",
-    "twitter": "@the_test_tribe",
-    "cocUrl": "https://www.thetesttribe.com/event-policy-and-code-of-conduct/",
-    "offersSignLanguageOrCC": true
+    "twitter": "@the_test_tribe"
   },
   {
     "name": "AWS Pop Hub",
@@ -550,8 +550,8 @@
     "city": "Warsaw",
     "country": "Poland",
     "online": false,
-    "twitter": "@awscloud",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@awscloud"
   },
   {
     "name": "Feature Store Summit",
@@ -595,10 +595,10 @@
     "startDate": "2022-10-18",
     "endDate": "2022-10-18",
     "online": true,
+    "cocUrl": "https://www.we-conect.com/terms-and-conditions",
     "cfpUrl": "https://www.scale-up-360.com/de/data-architectures-engineering/speakers",
     "cfpEndDate": "2022-10-15",
-    "twitter": "@weCONECT",
-    "cocUrl": "https://www.we-conect.com/terms-and-conditions"
+    "twitter": "@weCONECT"
   },
   {
     "name": "MASCOTS 30th International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems",
@@ -626,10 +626,10 @@
     "startDate": "2022-10-25",
     "endDate": "2022-10-25",
     "online": true,
+    "cocUrl": "https://www.enterpy.de/code_of_conduct.php",
     "cfpUrl": "https://www.enterpy.de/cfp_en.php",
     "cfpEndDate": "2022-06-27",
-    "twitter": "@enterpyconf",
-    "cocUrl": "https://www.enterpy.de/code_of_conduct.php"
+    "twitter": "@enterpyconf"
   },
   {
     "name": "Arm DevSummit",
@@ -659,8 +659,8 @@
     "city": "Burlingame, CA",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@ODSC",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@ODSC"
   },
   {
     "name": "ODSC West - Mini-Bootcamp",
@@ -670,8 +670,8 @@
     "city": "Burlingame, CA",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@ODSC",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@ODSC"
   },
   {
     "name": "CWIC: The Hyperconnected Human",
@@ -693,8 +693,8 @@
     "city": "Austin, TX",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@nofluff",
-    "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct"
+    "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct",
+    "twitter": "@nofluff"
   },
   {
     "name": "BUILD STUFF",
@@ -704,8 +704,8 @@
     "city": "Vilnius",
     "country": "Lithuania",
     "online": true,
-    "twitter": "@BuildStuffConf",
-    "cocUrl": "https://www.buildstuff.events/code-of-conduct"
+    "cocUrl": "https://www.buildstuff.events/code-of-conduct",
+    "twitter": "@BuildStuffConf"
   },
   {
     "name": "Enterprise GraphQL Conference",
@@ -723,10 +723,10 @@
     "city": "Prague",
     "country": "Czech Republic",
     "online": true,
+    "cocUrl": "https://www.updateconference.net/en/code-of-conduct",
     "cfpUrl": "https://www.updateconference.net/2022/call-for-speakers",
     "cfpEndDate": "2022-06-26",
-    "twitter": "@update_conf",
-    "cocUrl": "https://www.updateconference.net/en/code-of-conduct"
+    "twitter": "@update_conf"
   },
   {
     "name": "Open Source Analytics Conference",
@@ -756,8 +756,8 @@
     "city": "Seattle, WA",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@PASSDataSummit",
-    "cocUrl": "https://passdatacommunitysummit.com/about/code-of-conduct"
+    "cocUrl": "https://passdatacommunitysummit.com/about/code-of-conduct",
+    "twitter": "@PASSDataSummit"
   },
   {
     "name": "NODES",
@@ -777,10 +777,10 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
+    "cocUrl": "https://www.we-conect.com/de/agb",
     "cfpUrl": "https://www.it-infrastructure-operations-summit.com/sprecher",
     "cfpEndDate": "2022-11-17",
-    "twitter": "@weCONECT",
-    "cocUrl": "https://www.we-conect.com/de/agb"
+    "twitter": "@weCONECT"
   },
   {
     "name": "Agile Testing Days",
@@ -790,10 +790,10 @@
     "city": "Potsdam",
     "country": "Germany",
     "online": false,
+    "cocUrl": "https://agiletestingdays.com/code-of-conduct/",
     "cfpUrl": "https://agiletestingdays.com/call-for-papers",
     "cfpEndDate": "2022-03-20",
-    "twitter": "@AgileTD",
-    "cocUrl": "https://agiletestingdays.com/code-of-conduct/"
+    "twitter": "@AgileTD"
   },
   {
     "name": "ScaleUp 360° Big Data Europe",
@@ -801,10 +801,10 @@
     "startDate": "2022-11-22",
     "endDate": "2022-11-22",
     "online": true,
+    "cocUrl": "https://www.we-conect.com/terms-and-conditions",
     "cfpUrl": "https://www.scale-up-360.com/en/big-data-europe/speakers",
     "cfpEndDate": "2022-11-19",
-    "twitter": "@weCONECT",
-    "cocUrl": "https://www.we-conect.com/terms-and-conditions"
+    "twitter": "@weCONECT"
   },
   {
     "name": "Data Science Global Summit",
@@ -812,11 +812,11 @@
     "startDate": "2022-11-22",
     "endDate": "2022-11-24",
     "online": true,
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://geekle.us/code-of-conduct",
     "cfpUrl": "https://docs.google.com/forms/d/1RaNnOUycuZwwc1wnaPkgtTQMBnHfBQnJziArTUKXH0Y",
     "cfpEndDate": "2022-11-08",
-    "twitter": "@DataScienceGlob",
-    "cocUrl": "https://geekle.us/code-of-conduct",
-    "offersSignLanguageOrCC": true
+    "twitter": "@DataScienceGlob"
   },
   {
     "name": "Big Data Conference Europe",
@@ -824,10 +824,10 @@
     "startDate": "2022-11-23",
     "endDate": "2022-11-24",
     "online": true,
+    "cocUrl": "https://bigdataconference.eu/code-of-conduct/",
     "cfpUrl": "https://bigdataconference.eu/call-for-track-hosts/",
     "cfpEndDate": "2022-11-03",
-    "twitter": "@BigDataConfEU",
-    "cocUrl": "https://bigdataconference.eu/code-of-conduct/"
+    "twitter": "@BigDataConfEU"
   },
   {
     "name": "Git Commit Show",
@@ -835,10 +835,10 @@
     "startDate": "2022-11-26",
     "endDate": "2022-11-27",
     "online": true,
+    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub",
     "cfpUrl": "http://push.gitcommit.show",
     "cfpEndDate": "2022-10-26",
-    "twitter": "@gitcommitshow",
-    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub"
+    "twitter": "@gitcommitshow"
   },
   {
     "name": "UbuCon Asia",
@@ -848,10 +848,10 @@
     "city": "Seoul",
     "country": "South Korea",
     "online": true,
+    "cocUrl": "https://github.com/ubucon-asia/CodeOfConduct",
     "cfpUrl": "https://2022.ubucon.asia/call-for-proposals",
     "cfpEndDate": "2022-09-14",
-    "twitter": "@UbuConAsia",
-    "cocUrl": "https://github.com/ubucon-asia/CodeOfConduct"
+    "twitter": "@UbuConAsia"
   },
   {
     "name": "YOW! London",
@@ -861,8 +861,8 @@
     "city": "London",
     "country": "U.K.",
     "online": true,
-    "twitter": "@gotocon",
-    "cocUrl": "https://yowlondon.com/2022/code-of-conduct"
+    "cocUrl": "https://yowlondon.com/2022/code-of-conduct",
+    "twitter": "@gotocon"
   },
   {
     "name": "INNOQ Technology Day",
@@ -870,8 +870,8 @@
     "startDate": "2022-11-30",
     "endDate": "2022-11-30",
     "online": true,
-    "twitter": "@INNOQ",
-    "cocUrl": "https://berlincodeofconduct.org/"
+    "cocUrl": "https://berlincodeofconduct.org/",
+    "twitter": "@INNOQ"
   },
   {
     "name": "ScaleUp 360° Enterprise Cloud Governance",
@@ -879,10 +879,10 @@
     "startDate": "2022-12-06",
     "endDate": "2022-12-06",
     "online": true,
+    "cocUrl": "https://www.we-conect.com/terms-and-conditions",
     "cfpUrl": "https://www.scale-up-360.com/de/enterprise-cloud-governance/speakers",
     "cfpEndDate": "2022-12-03",
-    "twitter": "@weCONECT",
-    "cocUrl": "https://www.we-conect.com/terms-and-conditions"
+    "twitter": "@weCONECT"
   },
   {
     "name": "SpringOne",
@@ -892,8 +892,8 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@springone",
-    "cocUrl": "https://springone.io/code-of-conduct"
+    "cocUrl": "https://springone.io/code-of-conduct",
+    "twitter": "@springone"
   },
   {
     "name": "WEBCONGRESS MIAMI",

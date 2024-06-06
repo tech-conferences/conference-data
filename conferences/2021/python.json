@@ -6,10 +6,10 @@
     "endDate": "2021-01-31",
     "city": "Belagavi",
     "country": "India",
-    "cfpUrl": "http://belpy.in/call-for-proposals.html",
-    "twitter": "@Belpy2021",
+    "offersSignLanguageOrCC": false,
     "cocUrl": "http://belpy.in/code-of-conduct.html",
-    "offersSignLanguageOrCC": false
+    "cfpUrl": "http://belpy.in/call-for-proposals.html",
+    "twitter": "@Belpy2021"
   },
   {
     "name": "PyCon Namibia",
@@ -24,8 +24,8 @@
     "startDate": "2021-03-09",
     "endDate": "2021-03-09",
     "online": true,
-    "twitter": "@enterpyconf",
-    "cocUrl": "https://www.enterpy.de/code_of_conduct.php"
+    "cocUrl": "https://www.enterpy.de/code_of_conduct.php",
+    "twitter": "@enterpyconf"
   },
   {
     "name": "enterPy",
@@ -33,11 +33,11 @@
     "startDate": "2021-04-15",
     "endDate": "2021-04-15",
     "online": true,
+    "offersSignLanguageOrCC": false,
+    "cocUrl": "https://www.enterpy.de/code_of_conduct.php",
     "cfpUrl": "https://www.enterpy.de/call_for_proposals_en.php",
     "cfpEndDate": "2021-01-18",
-    "twitter": "@enterpyconf",
-    "cocUrl": "https://www.enterpy.de/code_of_conduct.php",
-    "offersSignLanguageOrCC": false
+    "twitter": "@enterpyconf"
   },
   {
     "name": "enterPy",
@@ -45,11 +45,11 @@
     "startDate": "2021-05-06",
     "endDate": "2021-05-06",
     "online": true,
+    "offersSignLanguageOrCC": false,
+    "cocUrl": "https://www.enterpy.de/code_of_conduct.php",
     "cfpUrl": "https://www.enterpy.de/call_for_proposals_en.php",
     "cfpEndDate": "2021-01-18",
-    "twitter": "@enterpyconf",
-    "cocUrl": "https://www.enterpy.de/code_of_conduct.php",
-    "offersSignLanguageOrCC": false
+    "twitter": "@enterpyconf"
   },
   {
     "name": "Pycon",
@@ -57,10 +57,10 @@
     "startDate": "2021-05-12",
     "endDate": "2021-05-18",
     "online": true,
+    "cocUrl": "https://us.pycon.org/2021/about/code-of-conduct/",
     "cfpUrl": "https://us.pycon.org/2021/speaking/talks",
     "cfpEndDate": "2021-04-28",
-    "twitter": "@pycon",
-    "cocUrl": "https://us.pycon.org/2021/about/code-of-conduct/"
+    "twitter": "@pycon"
   },
   {
     "name": "Conf42: Python",
@@ -86,8 +86,8 @@
     "startDate": "2021-07-26",
     "endDate": "2021-08-01",
     "online": true,
-    "twitter": "@europython",
-    "cocUrl": "https://ep2021.europython.eu/coc/"
+    "cocUrl": "https://ep2021.europython.eu/coc/",
+    "twitter": "@europython"
   },
   {
     "name": "PyCon Au",
@@ -95,10 +95,10 @@
     "startDate": "2021-09-10",
     "endDate": "2021-09-12",
     "online": true,
+    "cocUrl": "https://2021.pycon.org.au/conduct/",
     "cfpUrl": "https://2021.pycon.org.au/speak",
     "cfpEndDate": "2021-06-10",
-    "twitter": "@PyConAU",
-    "cocUrl": "https://2021.pycon.org.au/conduct/"
+    "twitter": "@PyConAU"
   },
   {
     "name": "PyCon India",
@@ -106,10 +106,10 @@
     "startDate": "2021-09-17",
     "endDate": "2021-09-20",
     "online": true,
+    "cocUrl": "https://in.pycon.org/2021/coc.html",
     "cfpUrl": "https://in.pycon.org/cfp/2021/proposals",
     "cfpEndDate": "2021-05-07",
-    "twitter": "@pyconindia",
-    "cocUrl": "https://in.pycon.org/2021/coc.html"
+    "twitter": "@pyconindia"
   },
   {
     "name": "PyConZA",
@@ -126,8 +126,8 @@
     "startDate": "2021-10-11",
     "endDate": "2021-10-13",
     "online": true,
-    "twitter": "@MLSummit_DE",
-    "cocUrl": "https://mlsummit.ai/code-of-conduct/"
+    "cocUrl": "https://mlsummit.ai/code-of-conduct/",
+    "twitter": "@MLSummit_DE"
   },
   {
     "name": "Xtreme Python",
@@ -135,10 +135,10 @@
     "startDate": "2021-11-24",
     "endDate": "2021-11-24",
     "online": true,
+    "cocUrl": "https://bit.ly/2NL4ehr",
     "cfpUrl": "https://forms.gle/DPp3CacWMRYXsjhZ8",
     "cfpEndDate": "2021-07-31",
-    "twitter": "@xtremepython",
-    "cocUrl": "https://bit.ly/2NL4ehr"
+    "twitter": "@xtremepython"
   },
   {
     "name": "WeAreDevelopers Live - Python Day",
@@ -146,9 +146,9 @@
     "startDate": "2021-12-07",
     "endDate": "2021-12-07",
     "online": true,
+    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct",
     "cfpUrl": "https://www.wearedevelopers.com/speakers/call-for-speakers",
     "cfpEndDate": "2021-11-10",
-    "twitter": "@wearedevs",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct"
+    "twitter": "@wearedevs"
   }
 ]

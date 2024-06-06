@@ -21,10 +21,10 @@
     "startDate": "2022-02-17",
     "endDate": "2022-02-17",
     "online": true,
+    "cocUrl": "https://www.oc3.dev/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/oc3-2022",
     "cfpEndDate": "2021-12-07",
-    "twitter": "@EdgelessSystems",
-    "cocUrl": "https://www.oc3.dev/code-of-conduct"
+    "twitter": "@EdgelessSystems"
   },
   {
     "name": "B-Sides Tampa IT Security Conference",
@@ -34,10 +34,10 @@
     "city": "Tampa, FL",
     "country": "U.S.A.",
     "online": true,
+    "cocUrl": "https://bsidestampa.net/code-of-conduct/",
     "cfpUrl": "https://forms.zohopublic.com/isc2tampabaychapter/form/CFP/formperma/HBZJIUsxQk2aDT8raeZfK31PcUiCDL5Oomw4Dx0Pc5o",
     "cfpEndDate": "2022-01-16",
-    "twitter": "@BSidesTampa",
-    "cocUrl": "https://bsidestampa.net/code-of-conduct/"
+    "twitter": "@BSidesTampa"
   },
   {
     "name": "Nullcon International Security Conference",
@@ -47,10 +47,10 @@
     "city": "Goa",
     "country": "India",
     "online": false,
+    "cocUrl": "https://nullcon.net/goa-2022/cfp/",
     "cfpUrl": "https://nullcon.net/goa-2022/cfp",
     "cfpEndDate": "2021-11-30",
-    "twitter": "@nullcon",
-    "cocUrl": "https://nullcon.net/goa-2022/cfp/"
+    "twitter": "@nullcon"
   },
   {
     "name": "The DEVOPS Conference",
@@ -58,10 +58,10 @@
     "startDate": "2022-03-08",
     "endDate": "2022-03-09",
     "online": true,
+    "cocUrl": "https://www.thedevopsconference.com/code-of-conduct",
     "cfpUrl": "https://www.thedevopsconference.com/call-for-papers",
     "cfpEndDate": "2021-12-16",
-    "twitter": "@eficode",
-    "cocUrl": "https://www.thedevopsconference.com/code-of-conduct"
+    "twitter": "@eficode"
   },
   {
     "name": "Chaos Engineering",
@@ -69,10 +69,10 @@
     "startDate": "2022-03-10",
     "endDate": "2022-03-10",
     "online": true,
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/conf42-chaos-engineering-2022",
     "cfpEndDate": "2022-02-02",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct"
+    "twitter": "@conf42com"
   },
   {
     "name": "1337up Live",
@@ -99,10 +99,10 @@
     "city": "Oslo",
     "country": "Norway",
     "online": false,
+    "cocUrl": "https://ndcminnesota.com/code-of-conduct",
     "cfpUrl": "https://ndc-security.com/call-for-papers",
     "cfpEndDate": "2022-01-15",
-    "twitter": "@NDC_Conferences",
-    "cocUrl": "https://ndcminnesota.com/code-of-conduct"
+    "twitter": "@NDC_Conferences"
   },
   {
     "name": "QCon London",
@@ -112,8 +112,8 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
-    "twitter": "@qconlondon",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@qconlondon"
   },
   {
     "name": "Nullcon International Conference and Training Berlin",
@@ -123,10 +123,10 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
+    "cocUrl": "https://nullcon.net/about-conferencepolicy/",
     "cfpUrl": "https://nullcon.net/berlin-2022/cfp",
     "cfpEndDate": "2022-01-15",
-    "twitter": "@nullcon",
-    "cocUrl": "https://nullcon.net/about-conferencepolicy/"
+    "twitter": "@nullcon"
   },
   {
     "name": "WeAreDevelopers Security day",
@@ -134,10 +134,10 @@
     "startDate": "2022-04-20",
     "endDate": "2022-04-20",
     "online": true,
+    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form.",
     "cfpUrl": "https://sessionize.com/wearedevelopers-live-2022",
     "cfpEndDate": "2022-03-31",
-    "twitter": "@WeAreDevs",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form."
+    "twitter": "@WeAreDevs"
   },
   {
     "name": "DevOpsCon London",
@@ -147,10 +147,10 @@
     "city": "London",
     "country": "U.K.",
     "online": true,
+    "cocUrl": "https://devopscon.io/code-of-conduct/",
     "cfpUrl": "https://devopscon.io/call-for-papers",
     "cfpEndDate": "2021-11-08",
-    "twitter": "@devops_con",
-    "cocUrl": "https://devopscon.io/code-of-conduct/"
+    "twitter": "@devops_con"
   },
   {
     "name": "RuhrSec Day",
@@ -170,8 +170,8 @@
     "startDate": "2022-05-10",
     "endDate": "2022-05-20",
     "online": true,
-    "twitter": "@QCon",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@QCon"
   },
   {
     "name": "IT Security Summit",
@@ -181,8 +181,8 @@
     "city": "Munich",
     "country": "Germany",
     "online": false,
-    "twitter": "@ITSecSummit",
-    "cocUrl": "https://it-security-summit.de/code-of-conduct/"
+    "cocUrl": "https://it-security-summit.de/code-of-conduct/",
+    "twitter": "@ITSecSummit"
   },
   {
     "name": "Voxxed Days",
@@ -192,8 +192,8 @@
     "city": "Zurich",
     "country": "Switzerland",
     "online": false,
-    "twitter": "@voxxedzurich",
-    "cocUrl": "https://voxxeddays.com/zurich/code-of-conduct/"
+    "cocUrl": "https://voxxeddays.com/zurich/code-of-conduct/",
+    "twitter": "@voxxedzurich"
   },
   {
     "name": "Qubit Conference Prague",
@@ -203,8 +203,8 @@
     "city": "Prague",
     "country": "Czech Republic",
     "online": true,
-    "twitter": "@QubitCon",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@QubitCon"
   },
   {
     "name": "Hardwear.io Security Trainings & Conference USA",
@@ -214,10 +214,10 @@
     "city": "Santa Clara, CA",
     "country": "U.S.A.",
     "online": false,
+    "cocUrl": "https://hardwear.io/code-of-conduct/",
     "cfpUrl": "https://hardwear.io/usa-2022/cfp.php",
     "cfpEndDate": "2022-03-01",
-    "twitter": "@hardwear_io",
-    "cocUrl": "https://hardwear.io/code-of-conduct/"
+    "twitter": "@hardwear_io"
   },
   {
     "name": "WeAreDevelopers World Congress",
@@ -238,10 +238,10 @@
     "city": "Amsterdam",
     "country": "Netherlands",
     "online": true,
+    "cocUrl": "https://reactsummit.com/coc",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfVG_bNAebxhlERx1do33ekcmkLx25f1wh478MPv2CW6UvMlw/viewform",
     "cfpEndDate": "2022-03-20",
-    "twitter": "@ReactSummit",
-    "cocUrl": "https://reactsummit.com/coc"
+    "twitter": "@ReactSummit"
   },
   {
     "name": "Smart Cyber City",
@@ -260,10 +260,10 @@
     "city": "Munich",
     "country": "Germany",
     "online": false,
+    "cocUrl": "https://2022.jcon.one/code-of-conduct",
     "cfpUrl": "https://sessionize.com/jcon-2022-people",
     "cfpEndDate": "2022-03-31",
-    "twitter": "@jcon_conference",
-    "cocUrl": "https://2022.jcon.one/code-of-conduct"
+    "twitter": "@jcon_conference"
   },
   {
     "name": "BlackBerry Security Summit",
@@ -283,9 +283,9 @@
     "city": "Bend, OR",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@cascadiajs",
+    "offersSignLanguageOrCC": true,
     "cocUrl": "https://2022.cascadiajs.com/code-of-conduct",
-    "offersSignLanguageOrCC": true
+    "twitter": "@cascadiajs"
   },
   {
     "name": "sec4dev Conference & Bootcamp",
@@ -295,8 +295,8 @@
     "city": "Vienna",
     "country": "Austria",
     "online": false,
-    "twitter": "@sec4dev",
-    "cocUrl": "https://sec4dev.io/code-of-conduct"
+    "cocUrl": "https://sec4dev.io/code-of-conduct",
+    "twitter": "@sec4dev"
   },
   {
     "name": "Nullcon International Security Conference and Training Goa",
@@ -306,10 +306,10 @@
     "city": "Goa",
     "country": "India",
     "online": false,
+    "cocUrl": "https://nullcon.net/about-conferencepolicy/",
     "cfpUrl": "https://nullcon.net/goa-2022/cfp",
     "cfpEndDate": "2022-06-05",
-    "twitter": "@nullcon",
-    "cocUrl": "https://nullcon.net/about-conferencepolicy/"
+    "twitter": "@nullcon"
   },
   {
     "name": "SREday",
@@ -319,10 +319,10 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/sreday-2022",
     "cfpEndDate": "2022-08-01",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct"
+    "twitter": "@conf42com"
   },
   {
     "name": "Rethink! IT Security Herbst",
@@ -332,10 +332,10 @@
     "city": "Hamburg",
     "country": "Germany",
     "online": false,
+    "cocUrl": "https://www.we-conect.com/terms-and-conditions",
     "cfpUrl": "https://www.rethink-it-security-herbst.de/sprecher#",
     "cfpEndDate": "2022-09-15",
-    "twitter": "@weCONECT",
-    "cocUrl": "https://www.we-conect.com/terms-and-conditions"
+    "twitter": "@weCONECT"
   },
   {
     "name": "LeanIX Connect Summit Europe",
@@ -345,8 +345,8 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
-    "twitter": "@leanix_net",
-    "cocUrl": "https://www.leanix-connect.com/code-of-conduct"
+    "cocUrl": "https://www.leanix-connect.com/code-of-conduct",
+    "twitter": "@leanix_net"
   },
   {
     "name": "JCON-ONLINE",
@@ -354,10 +354,10 @@
     "startDate": "2022-09-20",
     "endDate": "2022-09-23",
     "online": true,
+    "cocUrl": "https://2022.jcon.one/code-of-conduct",
     "cfpUrl": "https://2022.jcon.one/call-for-papers",
     "cfpEndDate": "2022-03-31",
-    "twitter": "@jcon_conference",
-    "cocUrl": "https://2022.jcon.one/code-of-conduct"
+    "twitter": "@jcon_conference"
   },
   {
     "name": "GOTO Copenhagen",
@@ -367,8 +367,8 @@
     "city": "Copenhagen",
     "country": "Denmark",
     "online": false,
-    "twitter": "@GOTOcon",
-    "cocUrl": "https://gotocph.com/2022/code-of-conduct"
+    "cocUrl": "https://gotocph.com/2022/code-of-conduct",
+    "twitter": "@GOTOcon"
   },
   {
     "name": "Infoshare",
@@ -378,8 +378,8 @@
     "city": "Gdansk",
     "country": "Poland",
     "online": true,
-    "twitter": "@infosharepl",
-    "cocUrl": "https://infoshare.pl/code-of-conduct.html"
+    "cocUrl": "https://infoshare.pl/code-of-conduct.html",
+    "twitter": "@infosharepl"
   },
   {
     "name": "TestFlix",
@@ -387,11 +387,11 @@
     "startDate": "2022-10-08",
     "endDate": "2022-10-09",
     "online": true,
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://www.thetesttribe.com/event-policy-and-code-of-conduct/",
     "cfpUrl": "https://www.thetesttribe.com/testflix-2022-call-for-papers",
     "cfpEndDate": "2022-05-15",
-    "twitter": "@the_test_tribe",
-    "cocUrl": "https://www.thetesttribe.com/event-policy-and-code-of-conduct/",
-    "offersSignLanguageOrCC": true
+    "twitter": "@the_test_tribe"
   },
   {
     "name": "BASTA!",
@@ -401,8 +401,8 @@
     "city": "Mainz",
     "country": "Germany",
     "online": true,
-    "twitter": "@BASTAcon",
-    "cocUrl": "https://basta.net/code-of-conduct-en/"
+    "cocUrl": "https://basta.net/code-of-conduct-en/",
+    "twitter": "@BASTAcon"
   },
   {
     "name": "Dash",
@@ -412,10 +412,10 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "online": false,
+    "cocUrl": "https://www.dashcon.io/coc/",
     "cfpUrl": "https://www.dashcon.io/cfp",
     "cfpEndDate": "2022-08-12",
-    "twitter": "@dashconio",
-    "cocUrl": "https://www.dashcon.io/coc/"
+    "twitter": "@dashconio"
   },
   {
     "name": "JCON",
@@ -423,8 +423,8 @@
     "startDate": "2022-10-18",
     "endDate": "2022-10-21",
     "online": true,
-    "twitter": "@jcon_conference",
-    "cocUrl": "https://jcon.one/code-of-conduct"
+    "cocUrl": "https://jcon.one/code-of-conduct",
+    "twitter": "@jcon_conference"
   },
   {
     "name": "Ory Summit",
@@ -434,10 +434,10 @@
     "city": "Munich",
     "country": "Germany",
     "online": true,
+    "cocUrl": "https://www.ory.sh/code-of-conduct/",
     "cfpUrl": "https://sessionize.com/ory-summit",
     "cfpEndDate": "2022-08-30",
-    "twitter": "@OryCorp",
-    "cocUrl": "https://www.ory.sh/code-of-conduct/"
+    "twitter": "@OryCorp"
   },
   {
     "name": "BlackBerry Security Summt",
@@ -508,10 +508,10 @@
     "city": "Prague",
     "country": "Czech Republic",
     "online": true,
+    "cocUrl": "https://www.updateconference.net/en/code-of-conduct",
     "cfpUrl": "https://www.updateconference.net/2022/call-for-speakers",
     "cfpEndDate": "2022-06-26",
-    "twitter": "@update_conf",
-    "cocUrl": "https://www.updateconference.net/en/code-of-conduct"
+    "twitter": "@update_conf"
   },
   {
     "name": "Weave Sphere",
@@ -539,10 +539,10 @@
     "startDate": "2022-11-26",
     "endDate": "2022-11-27",
     "online": true,
+    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub",
     "cfpUrl": "http://push.gitcommit.show",
     "cfpEndDate": "2022-10-26",
-    "twitter": "@gitcommitshow",
-    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub"
+    "twitter": "@gitcommitshow"
   },
   {
     "name": "YOW! London",
@@ -552,8 +552,8 @@
     "city": "London",
     "country": "U.K.",
     "online": true,
-    "twitter": "@gotocon",
-    "cocUrl": "https://yowlondon.com/2022/code-of-conduct"
+    "cocUrl": "https://yowlondon.com/2022/code-of-conduct",
+    "twitter": "@gotocon"
   },
   {
     "name": "Conf42 DevSecOps",
@@ -561,10 +561,10 @@
     "startDate": "2022-12-01",
     "endDate": "2022-12-01",
     "online": true,
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/conf42-devsecops-2022",
     "cfpEndDate": "2022-10-28",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct"
+    "twitter": "@conf42com"
   },
   {
     "name": "AVAR's 25th Annual Cybersecurity Conference",
@@ -598,8 +598,8 @@
     "city": "Clearwater, FL",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@nofluff",
-    "cocUrl": "https://progressivewebexperience.io/home/code_of_conduct"
+    "cocUrl": "https://progressivewebexperience.io/home/code_of_conduct",
+    "twitter": "@nofluff"
   },
   {
     "name": "DevOpsCon Munich",
@@ -619,8 +619,8 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@springone",
-    "cocUrl": "https://springone.io/code-of-conduct"
+    "cocUrl": "https://springone.io/code-of-conduct",
+    "twitter": "@springone"
   },
   {
     "name": "DevSecCon Lightning",
@@ -628,9 +628,9 @@
     "startDate": "2022-12-07",
     "endDate": "2022-12-07",
     "online": true,
+    "cocUrl": "https://www.devseccon.com/code-of-conduct",
     "cfpUrl": "https://sessionize.com/devseccon-lightning-2022",
     "cfpEndDate": "2022-10-24",
-    "twitter": "@DevSecCon",
-    "cocUrl": "https://www.devseccon.com/code-of-conduct"
+    "twitter": "@DevSecCon"
   }
 ]

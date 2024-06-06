@@ -7,9 +7,9 @@
     "city": "Austin, TX",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@knowbility",
+    "offersSignLanguageOrCC": true,
     "cocUrl": "https://knowbility.org/programs/accessu-2022/code-of-conduct",
-    "offersSignLanguageOrCC": true
+    "twitter": "@knowbility"
   },
   {
     "name": "Agile India",
@@ -17,8 +17,8 @@
     "startDate": "2022-09-22",
     "endDate": "2022-09-24",
     "online": true,
-    "twitter": "@agileindia",
-    "cocUrl": "https://2022.agileindia.org/agile-india-values/"
+    "cocUrl": "https://2022.agileindia.org/agile-india-values/",
+    "twitter": "@agileindia"
   },
   {
     "name": "#a11yTO Conf",
@@ -28,9 +28,9 @@
     "city": "Toronto",
     "country": "Canada",
     "online": true,
-    "twitter": "@a11yTO",
+    "offersSignLanguageOrCC": true,
     "cocUrl": "https://a11yto.com/code-of-conduct",
-    "offersSignLanguageOrCC": true
+    "twitter": "@a11yTO"
   },
   {
     "name": "CWIC: The Hyperconnected Human",
@@ -52,11 +52,11 @@
     "city": "Milano",
     "country": "Italy",
     "online": true,
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://italia.wordcamp.org/2022/code-of-conduct/",
     "cfpUrl": "https://italia.wordcamp.org/2022/en/call-for-speakers",
     "cfpEndDate": "2022-09-15",
-    "twitter": "@WordCampItalia",
-    "cocUrl": "https://italia.wordcamp.org/2022/code-of-conduct/",
-    "offersSignLanguageOrCC": true
+    "twitter": "@WordCampItalia"
   },
   {
     "name": "Global Conference On Cyber Security And Cloud Engineering",

@@ -7,10 +7,10 @@
     "city": "Holguín",
     "country": "Cuba",
     "online": true,
+    "cocUrl": "https://holguin.python.pizza/",
     "cfpUrl": "https://forms.gle/feQmZLe2vb2LQJyN9",
     "cfpEndDate": "2021-12-18",
-    "twitter": "@pythonpizzaconf",
-    "cocUrl": "https://holguin.python.pizza/"
+    "twitter": "@pythonpizzaconf"
   },
   {
     "name": "Conf42 Python",
@@ -18,10 +18,10 @@
     "startDate": "2022-01-27",
     "endDate": "2022-01-27",
     "online": true,
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/conf42-python-2022",
     "cfpEndDate": "2021-12-27",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct"
+    "twitter": "@conf42com"
   },
   {
     "name": "Pycascades",
@@ -29,11 +29,11 @@
     "startDate": "2022-02-05",
     "endDate": "2022-02-06",
     "online": true,
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://2021.pycascades.com/about/code-of-conduct/",
     "cfpUrl": "https://pretalx.com/pycascades-2022/cfp",
     "cfpEndDate": "2021-10-24",
-    "twitter": "@pycascades",
-    "cocUrl": "https://2021.pycascades.com/about/code-of-conduct/",
-    "offersSignLanguageOrCC": true
+    "twitter": "@pycascades"
   },
   {
     "name": "NVIDIA GTC",
@@ -60,10 +60,10 @@
     "city": "Lagos",
     "country": "Nigeria",
     "online": true,
+    "offersSignLanguageOrCC": true,
     "cfpUrl": "https://www.papercall.io/cfps/4213/submissions/new",
     "cfpEndDate": "2022-01-27",
-    "twitter": "@oscafrica",
-    "offersSignLanguageOrCC": true
+    "twitter": "@oscafrica"
   },
   {
     "name": "PyCon DE & PyData",
@@ -73,8 +73,8 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
-    "twitter": "@PyConDE",
-    "cocUrl": "https://2022.pycon.de/code-of-conduct/"
+    "cocUrl": "https://2022.pycon.de/code-of-conduct/",
+    "twitter": "@PyConDE"
   },
   {
     "name": "Developer Growth Summit",
@@ -82,10 +82,10 @@
     "startDate": "2022-04-20",
     "endDate": "2022-04-21",
     "online": true,
+    "cocUrl": "https://codementor.notion.site/Codementor-Events-Code-of-Conduct-37b9714c926c47b4a222429b6e873f48",
     "cfpUrl": "https://arcdotdev.typeform.com/to/JcAdJQgW",
     "cfpEndDate": "2022-04-13",
-    "twitter": "@CodementorIO",
-    "cocUrl": "https://codementor.notion.site/Codementor-Events-Code-of-Conduct-37b9714c926c47b4a222429b6e873f48"
+    "twitter": "@CodementorIO"
   },
   {
     "name": "PyCon",
@@ -95,8 +95,8 @@
     "city": "Salt Lake City, UT",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@pycon",
-    "cocUrl": "https://us.pycon.org/2022/about/code-of-conduct/"
+    "cocUrl": "https://us.pycon.org/2022/about/code-of-conduct/",
+    "twitter": "@pycon"
   },
   {
     "name": "Odoo Roadshow Berlin",
@@ -118,8 +118,8 @@
     "city": "Florence",
     "country": "Italy",
     "online": false,
-    "twitter": "@pyconit",
-    "cocUrl": "https://github.com/pythonitalia/code-of-conducts/blob/master/online/english.md"
+    "cocUrl": "https://github.com/pythonitalia/code-of-conducts/blob/master/online/english.md",
+    "twitter": "@pyconit"
   },
   {
     "name": "Bazel eXchange",
@@ -127,10 +127,10 @@
     "startDate": "2022-06-21",
     "endDate": "2022-06-22",
     "online": true,
+    "cocUrl": "https://skillsmatter.com/go/code-of-conduct",
     "cfpUrl": "https://skillsmatter.com/conferences/13682-bazel-exchange#get_involved",
     "cfpEndDate": "2022-03-23",
-    "twitter": "@skillsmatter",
-    "cocUrl": "https://skillsmatter.com/go/code-of-conduct"
+    "twitter": "@skillsmatter"
   },
   {
     "name": "EuroPython",
@@ -148,11 +148,11 @@
     "startDate": "2022-09-06",
     "endDate": "2022-09-07",
     "online": true,
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://geekle.us/code-of-conduct",
     "cfpUrl": "https://forms.gle/tRxZeSmsuee4v6ux8",
     "cfpEndDate": "2022-08-24",
-    "twitter": "@GeekleOfficial",
-    "cocUrl": "https://geekle.us/code-of-conduct",
-    "offersSignLanguageOrCC": true
+    "twitter": "@GeekleOfficial"
   },
   {
     "name": "PyCon UK",
@@ -171,10 +171,10 @@
     "city": "Rapperswil-Jona",
     "country": "Switzerland",
     "online": false,
+    "cocUrl": "https://www.python-summit.ch/coc/",
     "cfpUrl": "https://www.python-summit.ch/cfp",
     "cfpEndDate": "2022-06-30",
-    "twitter": "@pythonsummit",
-    "cocUrl": "https://www.python-summit.ch/coc/"
+    "twitter": "@pythonsummit"
   },
   {
     "name": "Git Commit Show",
@@ -182,10 +182,10 @@
     "startDate": "2022-10-01",
     "endDate": "2022-10-02",
     "online": true,
+    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdFuHEOT9i5KBEOL56nbwn6HNGpsgGL55JGwwXYFdjC4kqnHw/viewform",
     "cfpEndDate": "2022-09-30",
-    "twitter": "@gitcommitshow",
-    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub"
+    "twitter": "@gitcommitshow"
   },
   {
     "name": "WeAreDevelopers Live - Python Day",
@@ -203,10 +203,10 @@
     "startDate": "2022-10-25",
     "endDate": "2022-10-25",
     "online": true,
+    "cocUrl": "https://www.enterpy.de/code_of_conduct.php",
     "cfpUrl": "https://www.enterpy.de/cfp_en.php",
     "cfpEndDate": "2022-06-27",
-    "twitter": "@enterpyconf",
-    "cocUrl": "https://www.enterpy.de/code_of_conduct.php"
+    "twitter": "@enterpyconf"
   },
   {
     "name": "Python at Scale",
@@ -216,8 +216,8 @@
     "city": "Austin, TX",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@CoiledHQ",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@CoiledHQ"
   },
   {
     "name": "BUILD STUFF",
@@ -227,8 +227,8 @@
     "city": "Vilnius",
     "country": "Lithuania",
     "online": true,
-    "twitter": "@BuildStuffConf",
-    "cocUrl": "https://www.buildstuff.events/code-of-conduct"
+    "cocUrl": "https://www.buildstuff.events/code-of-conduct",
+    "twitter": "@BuildStuffConf"
   },
   {
     "name": "NODES",
@@ -248,10 +248,10 @@
     "city": "Potsdam",
     "country": "Germany",
     "online": false,
+    "cocUrl": "https://agiletestingdays.com/code-of-conduct/",
     "cfpUrl": "https://agiletestingdays.com/call-for-papers",
     "cfpEndDate": "2022-03-20",
-    "twitter": "@AgileTD",
-    "cocUrl": "https://agiletestingdays.com/code-of-conduct/"
+    "twitter": "@AgileTD"
   },
   {
     "name": "Git Commit Show",
@@ -259,10 +259,10 @@
     "startDate": "2022-11-26",
     "endDate": "2022-11-27",
     "online": true,
+    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub",
     "cfpUrl": "http://push.gitcommit.show",
     "cfpEndDate": "2022-10-26",
-    "twitter": "@gitcommitshow",
-    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub"
+    "twitter": "@gitcommitshow"
   },
   {
     "name": "XtremePython Online Conference",
@@ -270,9 +270,9 @@
     "startDate": "2022-12-27",
     "endDate": "2022-12-27",
     "online": true,
+    "offersSignLanguageOrCC": true,
     "cfpUrl": "https://xtremepython.dev/2022/speakers",
     "cfpEndDate": "2022-08-31",
-    "twitter": "@xtremepython",
-    "offersSignLanguageOrCC": true
+    "twitter": "@xtremepython"
   }
 ]

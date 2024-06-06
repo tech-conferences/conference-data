@@ -17,8 +17,8 @@
     "city": "Aspen, CO",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@cppnow",
-    "cocUrl": "https://cppnow.org/about/code_of_conduct/"
+    "cocUrl": "https://cppnow.org/about/code_of_conduct/",
+    "twitter": "@cppnow"
   },
   {
     "name": "WeAreDevelopers World Congress",
@@ -39,8 +39,8 @@
     "city": "Toronto",
     "country": "Canada",
     "online": false,
-    "twitter": "@cppnorth",
-    "cocUrl": "https://cppnorth.ca/code-of-conduct.html"
+    "cocUrl": "https://cppnorth.ca/code-of-conduct.html",
+    "twitter": "@cppnorth"
   },
   {
     "name": "BUILD STUFF",
@@ -50,7 +50,7 @@
     "city": "Vilnius",
     "country": "Lithuania",
     "online": true,
-    "twitter": "@BuildStuffConf",
-    "cocUrl": "https://www.buildstuff.events/code-of-conduct"
+    "cocUrl": "https://www.buildstuff.events/code-of-conduct",
+    "twitter": "@BuildStuffConf"
   }
 ]

@@ -7,10 +7,10 @@
     "city": "Krynica Zdrój",
     "country": "Poland",
     "online": false,
+    "cocUrl": "https://www.typeville.io/",
     "cfpUrl": "https://sml.io/typeville",
     "cfpEndDate": "2022-01-09",
-    "twitter": "@typevilleconf",
-    "cocUrl": "https://www.typeville.io/"
+    "twitter": "@typevilleconf"
   },
   {
     "name": "JNation",
@@ -20,10 +20,10 @@
     "city": "Coimbra",
     "country": "Portugal",
     "online": false,
+    "cocUrl": "https://jnation.pt/code-of-conduct/",
     "cfpUrl": "https://jnation.pt/cfp",
     "cfpEndDate": "2022-05-01",
-    "twitter": "@jnationConf",
-    "cocUrl": "https://jnation.pt/code-of-conduct/"
+    "twitter": "@jnationConf"
   },
   {
     "name": "Lone Star Software Symposium",
@@ -33,8 +33,8 @@
     "city": "Austin, TX",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@nofluff",
-    "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct"
+    "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct",
+    "twitter": "@nofluff"
   },
   {
     "name": "DevTernity",
@@ -42,7 +42,7 @@
     "startDate": "2022-12-08",
     "endDate": "2022-12-09",
     "online": true,
-    "twitter": "@devternity",
-    "cocUrl": "https://devternity.com/code_of_conduct.html"
+    "cocUrl": "https://devternity.com/code_of_conduct.html",
+    "twitter": "@devternity"
   }
 ]

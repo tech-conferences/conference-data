@@ -7,8 +7,8 @@
     "city": "Munich",
     "country": "Germany",
     "online": false,
-    "twitter": "@oop_conference",
-    "locales": "DE"
+    "locales": "DE",
+    "twitter": "@oop_conference"
   },
   {
     "name": "Worqference",
@@ -16,8 +16,8 @@
     "startDate": "2024-02-23",
     "endDate": "2024-02-24",
     "online": true,
-    "twitter": "@the_test_tribe",
-    "cocUrl": "https://www.thetesttribe.com/code-of-conduct/"
+    "cocUrl": "https://www.thetesttribe.com/code-of-conduct/",
+    "twitter": "@the_test_tribe"
   },
   {
     "name": "QonfX",
@@ -25,8 +25,8 @@
     "startDate": "2024-04-20",
     "endDate": "2024-04-20",
     "online": true,
-    "twitter": "@the_test_tribe",
-    "cocUrl": "https://www.thetesttribe.com/code-of-conduct/"
+    "cocUrl": "https://www.thetesttribe.com/code-of-conduct/",
+    "twitter": "@the_test_tribe"
   },
   {
     "name": "Software Quality Days",
@@ -56,8 +56,8 @@
     "city": "Orlando, FL",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@TechWell",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@TechWell"
   },
   {
     "name": "Live2Test - The Premier Online Conference For Software Testing",
@@ -97,11 +97,11 @@
     "city": "Stockholm",
     "country": "Sweden",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://conference.eurostarsoftwaretesting.com/anti-harassment-policy/",
     "cfpUrl": "https://conference.eurostarsoftwaretesting.com/call-for-submissions",
     "cfpEndDate": "2023-09-17",
-    "twitter": "@esconfs",
-    "cocUrl": "https://conference.eurostarsoftwaretesting.com/anti-harassment-policy/",
-    "locales": "EN"
+    "twitter": "@esconfs"
   },
   {
     "name": "Selenium Conf Online",
@@ -109,11 +109,11 @@
     "startDate": "2024-06-21",
     "endDate": "2024-06-21",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://2024.seleniumconf.in/code-of-conduct",
     "cfpUrl": "https://2024.seleniumconf.in/submit-a-proposal",
     "cfpEndDate": "2024-04-30",
-    "twitter": "@seleniumconf",
-    "cocUrl": "https://2024.seleniumconf.in/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@seleniumconf"
   },
   {
     "name": "Code BEAM Coruña",
@@ -123,11 +123,11 @@
     "city": "A Coruña",
     "country": "Spain",
     "online": false,
+    "locales": "EN,ES,GL,PT",
+    "cocUrl": "https://codesync.global/about-us/#Conduct",
     "cfpUrl": "https://sessionize.com/code-beam-corunha-2024",
     "cfpEndDate": "2024-01-31",
-    "twitter": "@CodeBEAMCorunha",
-    "cocUrl": "https://codesync.global/about-us/#Conduct",
-    "locales": "EN,ES,GL,PT"
+    "twitter": "@CodeBEAMCorunha"
   },
   {
     "name": "NZTestingConf",
@@ -137,12 +137,12 @@
     "city": "Wellington",
     "country": "New Zealand",
     "online": false,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://nztestingconf.nz/code-of-conduct",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfqJFPx-RCveKBRlRjYn0LyKL32LFgsjLI8soNQ9zv8CfYqcQ/viewform",
     "cfpEndDate": "2024-02-29",
-    "twitter": "@NZTestingConf",
-    "cocUrl": "https://nztestingconf.nz/code-of-conduct",
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "twitter": "@NZTestingConf"
   },
   {
     "name": "Coderful - let's talk code",
@@ -152,11 +152,11 @@
     "city": "Catania",
     "country": "Italy",
     "online": false,
+    "locales": "IT",
+    "cocUrl": "https://www.coderful.io/codice-di-condotta/",
     "cfpUrl": "https://www.coderful.io/speakers",
     "cfpEndDate": "2024-03-10",
-    "twitter": "@coderful",
-    "cocUrl": "https://www.coderful.io/codice-di-condotta/",
-    "locales": "IT"
+    "twitter": "@coderful"
   },
   {
     "name": "TribeQonf",
@@ -166,8 +166,8 @@
     "city": "Bangalore",
     "country": "India",
     "online": false,
-    "twitter": "@the_test_tribe",
-    "cocUrl": "https://www.thetesttribe.com/code-of-conduct/"
+    "cocUrl": "https://www.thetesttribe.com/code-of-conduct/",
+    "twitter": "@the_test_tribe"
   },
   {
     "name": "Testμ Conference",
@@ -175,11 +175,11 @@
     "startDate": "2024-08-21",
     "endDate": "2024-08-23",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.lambdatest.com/testmuconf-2024/",
     "cfpUrl": "https://forms.gle/8qjrqXeXDvZHLBdp8",
     "cfpEndDate": "2024-04-20",
-    "twitter": "@lambdatesting",
-    "cocUrl": "https://www.lambdatest.com/testmuconf-2024/",
-    "locales": "EN"
+    "twitter": "@lambdatesting"
   },
   {
     "name": "Hands-on Testing",
@@ -189,8 +189,8 @@
     "city": "Mexico City",
     "country": "Mexico",
     "online": true,
-    "twitter": "@handsontesting",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@handsontesting"
   },
   {
     "name": "AutomationSTAR Vienna",
@@ -200,9 +200,9 @@
     "city": "Vienna",
     "country": "Austria",
     "online": false,
-    "twitter": "@AutomationConf",
+    "locales": "EN",
     "cocUrl": "https://automation.eurostarsoftwaretesting.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@AutomationConf"
   },
   {
     "name": "Test Istanbul",
@@ -222,11 +222,11 @@
     "city": "Portland, OR",
     "country": "U.S.A.",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.pnsqc.org/author_resources.php",
     "cfpUrl": "https://pnsqc.org/cfp",
     "cfpEndDate": "2024-04-01",
-    "twitter": "@PNSQC",
-    "cocUrl": "https://www.pnsqc.org/author_resources.php",
-    "locales": "EN"
+    "twitter": "@PNSQC"
   },
   {
     "name": "Conf42 Incident Management",
@@ -234,11 +234,11 @@
     "startDate": "2024-10-17",
     "endDate": "2024-10-17",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/conf42-incident-management-2024",
     "cfpEndDate": "2024-09-16",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@conf42com"
   },
   {
     "name": "TestFlix",
@@ -246,8 +246,8 @@
     "startDate": "2024-10-19",
     "endDate": "2024-10-20",
     "online": true,
-    "twitter": "@the_test_tribe",
-    "cocUrl": "https://www.thetesttribe.com/code-of-conduct/"
+    "cocUrl": "https://www.thetesttribe.com/code-of-conduct/",
+    "twitter": "@the_test_tribe"
   },
   {
     "name": "CypressConf | Call For Papers",
@@ -255,11 +255,11 @@
     "startDate": "2024-10-22",
     "endDate": "2024-10-23",
     "online": true,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
     "cfpUrl": "https://forms.gle/Vp7df4UHcCPHL1MCA",
     "cfpEndDate": "2024-04-17",
-    "twitter": "@Cypress_io",
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "twitter": "@Cypress_io"
   },
   {
     "name": "Testing United conference",
@@ -269,10 +269,10 @@
     "city": "Vienna",
     "country": "Austria",
     "online": false,
+    "locales": "EN",
     "cfpUrl": "https://www.testingunited.com/become-a-speaker-2024",
     "cfpEndDate": "2024-02-29",
-    "twitter": "@testing_united",
-    "locales": "EN"
+    "twitter": "@testing_united"
   },
   {
     "name": "Agile Testing Days",
@@ -282,11 +282,11 @@
     "city": "Potsdam",
     "country": "Germany",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://agiletestingdays.com/code-of-conduct/",
     "cfpUrl": "https://agiletestingdays.com/call-for-papers",
     "cfpEndDate": "2024-02-11",
-    "twitter": "@AgileTD",
-    "cocUrl": "https://agiletestingdays.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@AgileTD"
   },
   {
     "name": "Oh My Hack",
@@ -296,10 +296,10 @@
     "city": "Warsaw",
     "country": "Poland",
     "online": false,
+    "locales": "PL",
+    "cocUrl": "https://omhconf.pl/wp-content/uploads/2024/02/Code-of-Conduct-2024.pdf",
     "cfpUrl": "https://omhconf.pl/cfp-2024",
     "cfpEndDate": "2024-09-16",
-    "twitter": "@OMHconf",
-    "cocUrl": "https://omhconf.pl/wp-content/uploads/2024/02/Code-of-Conduct-2024.pdf",
-    "locales": "PL"
+    "twitter": "@OMHconf"
   }
 ]

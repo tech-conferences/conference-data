@@ -5,8 +5,8 @@
     "startDate": "2021-03-23",
     "endDate": "2021-03-25",
     "online": true,
-    "twitter": "@WeAreDevs",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct/"
+    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct/",
+    "twitter": "@WeAreDevs"
   },
   {
     "name": "Prisma Day",
@@ -14,10 +14,10 @@
     "startDate": "2021-06-29",
     "endDate": "2021-06-30",
     "online": true,
+    "cocUrl": "https://berlincodeofconduct.org/",
     "cfpUrl": "https://prisma103696.typeform.com/to/Vlfg1HE2",
     "cfpEndDate": "2021-05-23",
-    "twitter": "@prisma",
-    "cocUrl": "https://berlincodeofconduct.org/"
+    "twitter": "@prisma"
   },
   {
     "name": "Prisma Serverless Conference",
@@ -25,7 +25,7 @@
     "startDate": "2021-11-18",
     "endDate": "2021-11-18",
     "online": true,
-    "twitter": "@Prisma",
-    "cocUrl": "https://github.com/prisma/Prisma-Day/blob/master/code-of-conduct.md"
+    "cocUrl": "https://github.com/prisma/Prisma-Day/blob/master/code-of-conduct.md",
+    "twitter": "@Prisma"
   }
 ]

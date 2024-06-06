@@ -15,8 +15,8 @@
     "startDate": "2021-01-22",
     "endDate": "2021-01-22",
     "online": true,
-    "cocUrl": "https://communityday.shesharp.co/code-of-conduct/",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://communityday.shesharp.co/code-of-conduct/"
   },
   {
     "name": "Global Diversity CfP Day",
@@ -24,8 +24,8 @@
     "startDate": "2021-01-23",
     "endDate": "2021-01-23",
     "online": true,
-    "cocUrl": "https://www.globaldiversitycfpday.com/code-of-conduct",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://www.globaldiversitycfpday.com/code-of-conduct"
   },
   {
     "name": "Univention Summit",
@@ -34,8 +34,8 @@
     "endDate": "2021-01-28",
     "city": "Bremen",
     "country": "Germany",
-    "twitter": "@univention",
-    "offersSignLanguageOrCC": false
+    "offersSignLanguageOrCC": false,
+    "twitter": "@univention"
   },
   {
     "name": "AccessibilityCon",
@@ -43,8 +43,8 @@
     "startDate": "2021-02-03",
     "endDate": "2021-02-03",
     "online": true,
-    "cocUrl": "https://accessibilitycon.devcongalaxy.io/event-code-of-conduct/",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://accessibilitycon.devcongalaxy.io/event-code-of-conduct/"
   },
   {
     "name": "FOSDEM",
@@ -61,10 +61,10 @@
     "endDate": "2021-02-12",
     "city": "Amsterdam",
     "country": "Netherlands",
-    "cfpUrl": "https://docs.google.com/forms/u/1/d/e/1FAIpQLSeIu75vqZm3_aPIyi8iLOtv5W2QRsFlj7fhOIDYVDjiaXwa9g/viewform",
-    "twitter": "@Frontend_Love",
+    "offersSignLanguageOrCC": false,
     "cocUrl": "https://www.frontenddeveloperlove.com/code-of-conduct",
-    "offersSignLanguageOrCC": false
+    "cfpUrl": "https://docs.google.com/forms/u/1/d/e/1FAIpQLSeIu75vqZm3_aPIyi8iLOtv5W2QRsFlj7fhOIDYVDjiaXwa9g/viewform",
+    "twitter": "@Frontend_Love"
   },
   {
     "name": "InfoQ Live",
@@ -72,11 +72,11 @@
     "startDate": "2021-02-16",
     "endDate": "2021-02-16",
     "online": true,
+    "offersSignLanguageOrCC": false,
+    "cocUrl": "https://live.infoq.com/code-conduct",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfexoSjgtnIFrnTqNdST6BPH5FTYFS4gV1w0k5DWzGhDvipXw/viewform",
     "cfpEndDate": "2020-12-31",
-    "twitter": "@InfoQ",
-    "cocUrl": "https://live.infoq.com/code-conduct",
-    "offersSignLanguageOrCC": false
+    "twitter": "@InfoQ"
   },
   {
     "name": "CloudWorld",
@@ -84,10 +84,10 @@
     "startDate": "2021-02-17",
     "endDate": "2021-02-19",
     "online": true,
-    "cfpUrl": "https://cloudworldconf.com/conference/speakers/apply-to-speak",
-    "cfpEndDate": "2020-12-11",
+    "offersSignLanguageOrCC": false,
     "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "offersSignLanguageOrCC": false
+    "cfpUrl": "https://cloudworldconf.com/conference/speakers/apply-to-speak",
+    "cfpEndDate": "2020-12-11"
   },
   {
     "name": "DeveloperWeek",
@@ -95,11 +95,11 @@
     "startDate": "2021-02-17",
     "endDate": "2021-02-19",
     "online": true,
+    "offersSignLanguageOrCC": false,
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
     "cfpUrl": "https://www.developerweek.com/conference/call-for-speakers",
     "cfpEndDate": "2020-10-30",
-    "twitter": "@developerweek",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "offersSignLanguageOrCC": false
+    "twitter": "@developerweek"
   },
   {
     "name": "Conf42: Chaos Engineering",
@@ -117,9 +117,9 @@
     "startDate": "2021-02-26",
     "endDate": "2021-02-26",
     "online": true,
+    "offersSignLanguageOrCC": false,
     "cfpUrl": "https://www.eventbrite.com/e/afro-future-summit-2021-tickets-135509678095",
-    "cfpEndDate": "2021-02-26",
-    "offersSignLanguageOrCC": false
+    "cfpEndDate": "2021-02-26"
   },
   {
     "name": "SINFO",
@@ -127,8 +127,8 @@
     "startDate": "2021-03-01",
     "endDate": "2021-03-05",
     "online": true,
-    "twitter": "@sinfoist",
-    "cocUrl": "https://sinfo.org/coc.html"
+    "cocUrl": "https://sinfo.org/coc.html",
+    "twitter": "@sinfoist"
   },
   {
     "name": "DE{CODE}: The Virtual Developer Conference",
@@ -136,8 +136,8 @@
     "startDate": "2021-03-04",
     "endDate": "2021-03-04",
     "online": true,
-    "twitter": "@WPEngine",
-    "offersSignLanguageOrCC": false
+    "offersSignLanguageOrCC": false,
+    "twitter": "@WPEngine"
   },
   {
     "name": "FTW Conf",
@@ -153,8 +153,8 @@
     "startDate": "2021-03-10",
     "endDate": "2021-03-12",
     "online": true,
-    "twitter": "@SoftwArchSummit",
-    "offersSignLanguageOrCC": false
+    "offersSignLanguageOrCC": false,
+    "twitter": "@SoftwArchSummit"
   },
   {
     "name": "How To Bring Innovation To Your Business With AR x VR",
@@ -169,8 +169,8 @@
     "startDate": "2021-03-23",
     "endDate": "2021-03-23",
     "online": true,
-    "twitter": "@bettercodeconf",
-    "cocUrl": "https://api.bettercode.eu/code_of_conduct.php"
+    "cocUrl": "https://api.bettercode.eu/code_of_conduct.php",
+    "twitter": "@bettercodeconf"
   },
   {
     "name": "Codemotion Tech Conference - Italian Edition",
@@ -178,11 +178,11 @@
     "startDate": "2021-03-23",
     "endDate": "2021-03-25",
     "online": true,
+    "offersSignLanguageOrCC": false,
+    "cocUrl": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-italian-edition-spring/code-of-conduct",
     "cfpUrl": "https://extra.codemotion.com/onlineconf-italian-2021-cfp",
     "cfpEndDate": "2021-01-29",
-    "twitter": "@CodemotionIT",
-    "cocUrl": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-italian-edition-spring/code-of-conduct",
-    "offersSignLanguageOrCC": false
+    "twitter": "@CodemotionIT"
   },
   {
     "name": "Serverless Architecture Conference",
@@ -191,11 +191,11 @@
     "endDate": "2021-04-15",
     "city": "The Hague",
     "country": "Netherlands",
+    "offersSignLanguageOrCC": false,
+    "cocUrl": "https://serverless-architecture.io/code-of-conduct/",
     "cfpUrl": "https://serverless-architecture.io/call-for-papers",
     "cfpEndDate": "2020-11-02",
-    "twitter": "@serverlesscon",
-    "cocUrl": "https://serverless-architecture.io/code-of-conduct/",
-    "offersSignLanguageOrCC": false
+    "twitter": "@serverlesscon"
   },
   {
     "name": "AzureLive",
@@ -203,11 +203,11 @@
     "startDate": "2021-04-13",
     "endDate": "2021-04-13",
     "online": true,
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://azurelive.nl/code-of-conduct",
     "cfpUrl": "https://sessionize.com/azurelive/",
     "cfpEndDate": "2021-03-10",
-    "twitter": "@LiveAzure",
-    "cocUrl": "https://azurelive.nl/code-of-conduct",
-    "offersSignLanguageOrCC": true
+    "twitter": "@LiveAzure"
   },
   {
     "name": "Global Azure",
@@ -215,11 +215,11 @@
     "startDate": "2021-04-15",
     "endDate": "2021-04-17",
     "online": true,
+    "offersSignLanguageOrCC": false,
+    "cocUrl": "https://globalazure.net/#CoC",
     "cfpUrl": "https://sessionize.com/global-azure-2021/",
     "cfpEndDate": "2021-04-10",
-    "twitter": "@globalazure",
-    "cocUrl": "https://globalazure.net/#CoC",
-    "offersSignLanguageOrCC": false
+    "twitter": "@globalazure"
   },
   {
     "name": "betterCode API",
@@ -227,8 +227,8 @@
     "startDate": "2021-04-22",
     "endDate": "2021-04-22",
     "online": true,
-    "twitter": "@bettercodeconf",
-    "cocUrl": "https://api.bettercode.eu/code_of_conduct.php"
+    "cocUrl": "https://api.bettercode.eu/code_of_conduct.php",
+    "twitter": "@bettercodeconf"
   },
   {
     "name": "DeveloperWeek Europe",
@@ -236,10 +236,10 @@
     "startDate": "2021-04-27",
     "endDate": "2021-04-28",
     "online": true,
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
     "cfpUrl": "https://www.developerweek.com/europe/speakers/apply-to-speak",
     "cfpEndDate": "2021-03-05",
-    "twitter": "@developerweek",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/"
+    "twitter": "@developerweek"
   },
   {
     "name": "Red Hat Summit",
@@ -254,11 +254,11 @@
     "startDate": "2021-04-27",
     "endDate": "2021-04-30",
     "online": true,
+    "offersSignLanguageOrCC": false,
+    "cocUrl": "https://wurreka.com/code-of-conduct",
     "cfpUrl": "https://www.developersummit.com/live/2021/cfp",
     "cfpEndDate": "2021-02-26",
-    "twitter": "@developersummit",
-    "cocUrl": "https://wurreka.com/code-of-conduct",
-    "offersSignLanguageOrCC": false
+    "twitter": "@developersummit"
   },
   {
     "name": "DevX",
@@ -266,8 +266,8 @@
     "startDate": "2021-04-28",
     "endDate": "2021-04-29",
     "online": true,
-    "twitter": "@devxconf",
-    "cocUrl": "https://devxconf.org/code-of-conduct"
+    "cocUrl": "https://devxconf.org/code-of-conduct",
+    "twitter": "@devxconf"
   },
   {
     "name": "Conf42: Cloud Native",
@@ -285,8 +285,8 @@
     "startDate": "2021-05-06",
     "endDate": "2021-05-06",
     "online": true,
-    "twitter": "@hey_stac",
-    "cocUrl": "https://alldayhey.com/code-of-conduct"
+    "cocUrl": "https://alldayhey.com/code-of-conduct",
+    "twitter": "@hey_stac"
   },
   {
     "name": "QCon Plus",
@@ -294,11 +294,11 @@
     "startDate": "2021-05-10",
     "endDate": "2021-05-10",
     "online": true,
+    "offersSignLanguageOrCC": false,
+    "cocUrl": "https://plus.qconferences.com/code-conduct",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfexoSjgtnIFrnTqNdST6BPH5FTYFS4gV1w0k5DWzGhDvipXw/viewform",
     "cfpEndDate": "2021-03-31",
-    "twitter": "@QCon",
-    "cocUrl": "https://plus.qconferences.com/code-conduct",
-    "offersSignLanguageOrCC": false
+    "twitter": "@QCon"
   },
   {
     "name": "WeAreDevelopers Live – Future of Tech Day",
@@ -306,8 +306,8 @@
     "startDate": "2021-05-11",
     "endDate": "2021-05-11",
     "online": true,
-    "twitter": "@wearedevs",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct"
+    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct",
+    "twitter": "@wearedevs"
   },
   {
     "name": "DeveloperWeek Management",
@@ -315,10 +315,10 @@
     "startDate": "2021-05-11",
     "endDate": "2021-05-12",
     "online": true,
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
     "cfpUrl": "https://www.developerweek.com/global/conference/management/speakers",
     "cfpEndDate": "2021-03-12",
-    "twitter": "@developerweek",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/"
+    "twitter": "@developerweek"
   },
   {
     "name": "Percona Live ONLINE",
@@ -326,10 +326,10 @@
     "startDate": "2021-05-12",
     "endDate": "2021-05-13",
     "online": true,
+    "cocUrl": "https://www.percona.com/live/code-conduct",
     "cfpUrl": "https://cfp.percona.com",
     "cfpEndDate": "2021-02-28",
-    "twitter": "@percona",
-    "cocUrl": "https://www.percona.com/live/code-conduct"
+    "twitter": "@percona"
   },
   {
     "name": "PM GO",
@@ -345,8 +345,8 @@
     "startDate": "2021-05-15",
     "endDate": "2021-05-16",
     "online": true,
-    "twitter": "@wearedevs",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct"
+    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct",
+    "twitter": "@wearedevs"
   },
   {
     "name": "!!Con",
@@ -354,11 +354,11 @@
     "startDate": "2021-05-15",
     "endDate": "2021-05-22",
     "online": true,
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "http://bangbangcon.com/conduct.html",
     "cfpUrl": "http://bangbangcon.com/give-a-talk.html",
     "cfpEndDate": "2021-04-21",
-    "twitter": "@bangbangcon",
-    "cocUrl": "http://bangbangcon.com/conduct.html",
-    "offersSignLanguageOrCC": true
+    "twitter": "@bangbangcon"
   },
   {
     "name": "Codemotion",
@@ -366,10 +366,10 @@
     "startDate": "2021-05-18",
     "endDate": "2021-05-20",
     "online": true,
+    "cocUrl": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-spring/code-of-conduct",
     "cfpUrl": "https://extra.codemotion.com/onlineconf-spring-2021-cfp",
     "cfpEndDate": "2021-03-05",
-    "twitter": "@CodemotionWorld",
-    "cocUrl": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-spring/code-of-conduct"
+    "twitter": "@CodemotionWorld"
   },
   {
     "name": "I T.A.K.E",
@@ -410,8 +410,8 @@
     "city": "Munich",
     "country": "Germany",
     "online": true,
-    "twitter": "@apisummit_de",
-    "cocUrl": "https://api-summit.de/code-of-conduct/"
+    "cocUrl": "https://api-summit.de/code-of-conduct/",
+    "twitter": "@apisummit_de"
   },
   {
     "name": "Women Tech Conference",
@@ -444,8 +444,8 @@
     "city": "Aarhus",
     "country": "Denmark",
     "online": true,
-    "twitter": "@GOTOcon",
-    "cocUrl": "https://gotoaarhus.com/2021/pages/code-of-conduct"
+    "cocUrl": "https://gotoaarhus.com/2021/pages/code-of-conduct",
+    "twitter": "@GOTOcon"
   },
   {
     "name": "Wild West Hackin’ Fest - Way West",
@@ -469,8 +469,8 @@
     "startDate": "2021-06-22",
     "endDate": "2021-06-24",
     "online": true,
-    "twitter": "@SpinnakerSummit",
-    "cocUrl": "https://events.linuxfoundation.org/spinnaker-summit/attend/code-of-conduct/"
+    "cocUrl": "https://events.linuxfoundation.org/spinnaker-summit/attend/code-of-conduct/",
+    "twitter": "@SpinnakerSummit"
   },
   {
     "name": "HasuraCon",
@@ -478,10 +478,10 @@
     "startDate": "2021-06-23",
     "endDate": "2021-06-24",
     "online": true,
+    "cocUrl": "https://hasura.io/events/hasura-con-2021/code-of-conduct/",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfzt8Dn9mEfClm12ZrHpPfeq1XyZOpZE5TeuQ_M_eJYpVhsGQ/viewform",
     "cfpEndDate": "2021-05-07",
-    "twitter": "@hasurahq",
-    "cocUrl": "https://hasura.io/events/hasura-con-2021/code-of-conduct/"
+    "twitter": "@hasurahq"
   },
   {
     "name": "WeAreDevelopers World Congress",
@@ -489,10 +489,10 @@
     "startDate": "2021-06-28",
     "endDate": "2021-07-01",
     "online": true,
+    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct",
     "cfpUrl": "https://www.wearedevelopers.com/world-congress/call-for-speakers",
     "cfpEndDate": "2021-05-31",
-    "twitter": "@wearedevs",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct"
+    "twitter": "@wearedevs"
   },
   {
     "name": "Thrive-WiSE Micro Conference",
@@ -500,8 +500,8 @@
     "startDate": "2021-06-30",
     "endDate": "2021-06-30",
     "online": true,
-    "twitter": "@Thrive_WiSE_Org",
-    "cocUrl": "https://www.thrive-wise.org/code-of-conduct/"
+    "cocUrl": "https://www.thrive-wise.org/code-of-conduct/",
+    "twitter": "@Thrive_WiSE_Org"
   },
   {
     "name": "Big BFSI Future Tech Show",
@@ -519,8 +519,8 @@
     "city": "Wellington",
     "country": "New Zealand",
     "online": false,
-    "twitter": "@nzgda",
-    "cocUrl": "https://nzgdc.com/about-the-nzgdc/code-of-conduct/"
+    "cocUrl": "https://nzgdc.com/about-the-nzgdc/code-of-conduct/",
+    "twitter": "@nzgda"
   },
   {
     "name": "Ignite Innovation - Developer Conference",
@@ -528,10 +528,10 @@
     "startDate": "2021-08-06",
     "endDate": "2021-08-06",
     "online": true,
+    "cocUrl": "https://www.igniteinnovationfl.com/code-of-conduct",
     "cfpUrl": "https://forms.gle/cGvECeoiNxp7LVRs7",
     "cfpEndDate": "2021-06-30",
-    "twitter": "@sfapprentice",
-    "cocUrl": "https://www.igniteinnovationfl.com/code-of-conduct"
+    "twitter": "@sfapprentice"
   },
   {
     "name": "The Raku Conference",
@@ -539,10 +539,10 @@
     "startDate": "2021-08-07",
     "endDate": "2021-08-07",
     "online": true,
+    "cocUrl": "https://conf.raku.org/coc",
     "cfpUrl": "https://conf.raku.org/talks/submit",
     "cfpEndDate": "2021-07-15",
-    "twitter": "@rakuconference",
-    "cocUrl": "https://conf.raku.org/coc"
+    "twitter": "@rakuconference"
   },
   {
     "name": "Moar Serverless!!",
@@ -550,8 +550,8 @@
     "startDate": "2021-08-12",
     "endDate": "2021-08-12",
     "online": true,
-    "twitter": "@cfe_dev",
-    "cocUrl": "https://cfe.dev/conduct"
+    "cocUrl": "https://cfe.dev/conduct",
+    "twitter": "@cfe_dev"
   },
   {
     "name": "WorldFestival",
@@ -568,10 +568,10 @@
     "startDate": "2021-08-17",
     "endDate": "2021-08-19",
     "online": true,
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
     "cfpUrl": "https://sessionize.com/mobileweek-2021",
     "cfpEndDate": "2021-06-18",
-    "twitter": "@DevNetwork_",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/"
+    "twitter": "@DevNetwork_"
   },
   {
     "name": "REFACTR.TECH",
@@ -579,9 +579,9 @@
     "startDate": "2021-08-18",
     "endDate": "2021-08-20",
     "online": true,
-    "twitter": "@RefactrTech",
+    "offersSignLanguageOrCC": true,
     "cocUrl": "https://www.refactr.tech/code-of-conduct",
-    "offersSignLanguageOrCC": true
+    "twitter": "@RefactrTech"
   },
   {
     "name": "Voxxed Days Downunder",
@@ -590,10 +590,10 @@
     "endDate": "2021-08-24",
     "city": "Melbourne",
     "country": "Australia",
+    "cocUrl": "https://australia.voxxeddays.com/code-of-conduct/",
     "cfpUrl": "https://vxmelb21.cfp.dev",
     "cfpEndDate": "2021-03-31",
-    "twitter": "@VoxxedAustralia",
-    "cocUrl": "https://australia.voxxeddays.com/code-of-conduct/"
+    "twitter": "@VoxxedAustralia"
   },
   {
     "name": "WebConf LATAM",
@@ -601,10 +601,10 @@
     "startDate": "2021-08-23",
     "endDate": "2021-08-27",
     "online": true,
+    "cocUrl": "https://codear.org/coc",
     "cfpUrl": "https://webconf.tech/cfp",
     "cfpEndDate": "2021-06-30",
-    "twitter": "@WebConfLATAM",
-    "cocUrl": "https://codear.org/coc"
+    "twitter": "@WebConfLATAM"
   },
   {
     "name": "NDC Minnesota",
@@ -614,8 +614,8 @@
     "city": "Minneapolis, MN",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@NDC_Conferences",
-    "cocUrl": "https://ndcminnesota.com/code-of-conduct"
+    "cocUrl": "https://ndcminnesota.com/code-of-conduct",
+    "twitter": "@NDC_Conferences"
   },
   {
     "name": "International Conference on Cloud Computing and eGovernance",
@@ -633,10 +633,10 @@
     "startDate": "2021-08-26",
     "endDate": "2021-08-27",
     "online": true,
+    "cocUrl": "https://reliablewebsummit.com/code-of-conduct/",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScibByS8HM6fLgIxKSNnINkdGV2fHT04iNMAYENZzbwhWbcRg/viewform",
     "cfpEndDate": "2021-05-15",
-    "twitter": "@ReliableSummit",
-    "cocUrl": "https://reliablewebsummit.com/code-of-conduct/"
+    "twitter": "@ReliableSummit"
   },
   {
     "name": "Voxxed Days Downunder",
@@ -645,10 +645,10 @@
     "endDate": "2021-08-27",
     "city": "Sydney",
     "country": "Australia",
+    "cocUrl": "https://australia.voxxeddays.com/code-of-conduct/",
     "cfpUrl": "https://vxsyd21.cfp.dev",
     "cfpEndDate": "2021-03-31",
-    "twitter": "@VoxxedAustralia",
-    "cocUrl": "https://australia.voxxeddays.com/code-of-conduct/"
+    "twitter": "@VoxxedAustralia"
   },
   {
     "name": "Mile High Software Testing Conference",
@@ -658,8 +658,8 @@
     "city": "Denver, CO",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@SoftwareTestPro",
-    "cocUrl": "https://www.milehightesting.com/code-of-conduct/"
+    "cocUrl": "https://www.milehightesting.com/code-of-conduct/",
+    "twitter": "@SoftwareTestPro"
   },
   {
     "name": "betterCode Wasm",
@@ -667,8 +667,8 @@
     "startDate": "2021-08-31",
     "endDate": "2021-08-31",
     "online": true,
-    "twitter": "@bettercodeconf",
-    "cocUrl": "https://wasm.bettercode.eu/code_of_conduct.php"
+    "cocUrl": "https://wasm.bettercode.eu/code_of_conduct.php",
+    "twitter": "@bettercodeconf"
   },
   {
     "name": "Web Summer Camp",
@@ -678,8 +678,8 @@
     "city": "Sibenik",
     "country": "Croatia",
     "online": false,
-    "twitter": "@WebSummerCamp",
-    "cocUrl": "https://2021.websummercamp.com/code-of-conduct"
+    "cocUrl": "https://2021.websummercamp.com/code-of-conduct",
+    "twitter": "@WebSummerCamp"
   },
   {
     "name": "Ignite Innovation - Developers Conference",
@@ -687,9 +687,9 @@
     "startDate": "2021-09-03",
     "endDate": "2021-09-03",
     "online": true,
+    "cocUrl": "https://www.igniteinnovationfl.com/code-of-conduct",
     "cfpUrl": "https://www.igniteinnovationfl.com/call-for-speakers",
-    "twitter": "@IgniteFL",
-    "cocUrl": "https://www.igniteinnovationfl.com/code-of-conduct"
+    "twitter": "@IgniteFL"
   },
   {
     "name": "Infobip Shift",
@@ -699,10 +699,10 @@
     "city": "Split",
     "country": "Croatia",
     "online": true,
+    "cocUrl": "https://shift.infobip.com/code/",
     "cfpUrl": "https://sessionize.com/shift-dev-2021",
     "cfpEndDate": "2021-07-31",
-    "twitter": "@shiftconf_co",
-    "cocUrl": "https://shift.infobip.com/code/"
+    "twitter": "@shiftconf_co"
   },
   {
     "name": "DevBreak",
@@ -711,8 +711,8 @@
     "endDate": "2021-09-09",
     "city": "Bouville",
     "country": "France",
-    "twitter": "@DevBreak20",
-    "cocUrl": "https://www.devbreak.io/code-of-conduct"
+    "cocUrl": "https://www.devbreak.io/code-of-conduct",
+    "twitter": "@DevBreak20"
   },
   {
     "name": "fintech_devcon",
@@ -722,10 +722,10 @@
     "city": "Denver, CO",
     "country": "U.S.A.",
     "online": false,
+    "cocUrl": "https://github.com/moov-io/moov-slack-code-of-conduct",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSctiBK6uZdblbumlikeE9cA0HFM1sioJM4RDClSX8YV_sPcFQ/viewform",
     "cfpEndDate": "2021-03-31",
-    "twitter": "@fintechdevcon",
-    "cocUrl": "https://github.com/moov-io/moov-slack-code-of-conduct"
+    "twitter": "@fintechdevcon"
   },
   {
     "name": "DevSpace",
@@ -735,8 +735,8 @@
     "city": "Huntsville, AL",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@devspaceconf",
-    "cocUrl": "http://www.devspaceconf.com/conduct.html"
+    "cocUrl": "http://www.devspaceconf.com/conduct.html",
+    "twitter": "@devspaceconf"
   },
   {
     "name": "Azure Summit",
@@ -744,10 +744,10 @@
     "startDate": "2021-09-13",
     "endDate": "2021-09-19",
     "online": true,
+    "cocUrl": "https://azuresummit.live/code-of-conduct/",
     "cfpUrl": "https://sessionize.com/azure-summit-2021",
     "cfpEndDate": "2021-07-31",
-    "twitter": "@csharpcorner",
-    "cocUrl": "https://azuresummit.live/code-of-conduct/"
+    "twitter": "@csharpcorner"
   },
   {
     "name": "Swiss Testing Day",
@@ -756,8 +756,8 @@
     "endDate": "2021-09-14",
     "city": "Zurich",
     "country": "Switzerland",
-    "twitter": "@SwissTesting",
-    "offersSignLanguageOrCC": false
+    "offersSignLanguageOrCC": false,
+    "twitter": "@SwissTesting"
   },
   {
     "name": "Kansas City Developer Conference",
@@ -767,8 +767,8 @@
     "city": "Kansas City, MO",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@kc_dc",
-    "cocUrl": "https://www.kcdc.info/code-of-conduct"
+    "cocUrl": "https://www.kcdc.info/code-of-conduct",
+    "twitter": "@kc_dc"
   },
   {
     "name": "REFACTR.TECH",
@@ -777,8 +777,8 @@
     "endDate": "2021-09-17",
     "city": "Atlanta, GA",
     "country": "U.S.A.",
-    "twitter": "@RefactrTech",
-    "cocUrl": "https://www.refactr.tech/code-of-conduct/"
+    "cocUrl": "https://www.refactr.tech/code-of-conduct/",
+    "twitter": "@RefactrTech"
   },
   {
     "name": "Full Stack Day",
@@ -788,8 +788,8 @@
     "city": "Auckland",
     "country": "New Zealand",
     "online": false,
-    "twitter": "@fullstacknz",
-    "cocUrl": "https://www.fullstackday.com/codeofconduct.html"
+    "cocUrl": "https://www.fullstackday.com/codeofconduct.html",
+    "twitter": "@fullstacknz"
   },
   {
     "name": "WeAreDevelopers Live - Cloud Day",
@@ -797,10 +797,10 @@
     "startDate": "2021-09-22",
     "endDate": "2021-09-22",
     "online": true,
+    "cocUrl": "https://www.wearedevelopers.com/about/legal/diversity-inclusion",
     "cfpUrl": "https://www.wearedevelopers.com/speakers/call-for-speakers",
     "cfpEndDate": "2021-08-25",
-    "twitter": "@wearedevs",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/diversity-inclusion"
+    "twitter": "@wearedevs"
   },
   {
     "name": "Wild West Hackin’ Fest - Deadwood",
@@ -822,8 +822,8 @@
     "startDate": "2021-09-24",
     "endDate": "2021-09-24",
     "online": true,
-    "twitter": "@scenicsummit",
-    "cocUrl": "https://sceniccitysummit.com/code-of-conduct/"
+    "cocUrl": "https://sceniccitysummit.com/code-of-conduct/",
+    "twitter": "@scenicsummit"
   },
   {
     "name": "AdaLoversConf",
@@ -842,9 +842,9 @@
     "city": "Seattle, WA",
     "country": "U.S.A.",
     "online": true,
+    "cocUrl": "https://events.linuxfoundation.org/open-source-summit-north-america/attend/code-of-conduct/",
     "cfpUrl": "https://events.linuxfoundation.org/open-source-summit-north-america/program/cfp/",
-    "cfpEndDate": "2021-06-13",
-    "cocUrl": "https://events.linuxfoundation.org/open-source-summit-north-america/attend/code-of-conduct/"
+    "cfpEndDate": "2021-06-13"
   },
   {
     "name": "Geekfest",
@@ -860,8 +860,8 @@
     "endDate": "2021-10-01",
     "city": "Paris",
     "country": "France",
-    "twitter": "@DevoxxFR",
-    "cocUrl": "https://www.devoxx.fr/code-of-conduct/"
+    "cocUrl": "https://www.devoxx.fr/code-of-conduct/",
+    "twitter": "@DevoxxFR"
   },
   {
     "name": "Strange Loop",
@@ -870,10 +870,10 @@
     "endDate": "2021-10-02",
     "city": "St. Louis, MO",
     "country": "U.S.A.",
+    "cocUrl": "https://thestrangeloop.com/policies.html",
     "cfpUrl": "https://thestrangeloop.com/cfp.html",
     "cfpEndDate": "2021-04-30",
-    "twitter": "@strangeloop_stl",
-    "cocUrl": "https://thestrangeloop.com/policies.html"
+    "twitter": "@strangeloop_stl"
   },
   {
     "name": "QA Fest",
@@ -883,8 +883,8 @@
     "city": "Kyiv",
     "country": "Ukraine",
     "online": false,
-    "twitter": "@qafestua",
-    "cocUrl": "http://qafest.com/wp-content/uploads/2019/03/code_of_conduct.pdf"
+    "cocUrl": "http://qafest.com/wp-content/uploads/2019/03/code_of_conduct.pdf",
+    "twitter": "@qafestua"
   },
   {
     "name": "LinuxConf [ZA]",
@@ -903,8 +903,8 @@
     "city": "Vienna",
     "country": "Austria",
     "online": true,
-    "twitter": "@wearedevs",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct"
+    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct",
+    "twitter": "@wearedevs"
   },
   {
     "name": "P99 CONF",
@@ -912,8 +912,8 @@
     "startDate": "2021-10-06",
     "endDate": "2021-10-07",
     "online": true,
-    "twitter": "@p99conf",
-    "cocUrl": "https://www.p99conf.io/code-of-conduct/"
+    "cocUrl": "https://www.p99conf.io/code-of-conduct/",
+    "twitter": "@p99conf"
   },
   {
     "name": "Paris Web",
@@ -921,11 +921,11 @@
     "startDate": "2021-10-07",
     "endDate": "2021-10-08",
     "online": true,
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://www.paris-web.fr/code-de-conduite.php",
     "cfpUrl": "https://appel.paris-web.fr",
     "cfpEndDate": "2021-05-27",
-    "twitter": "@parisweb",
-    "cocUrl": "https://www.paris-web.fr/code-de-conduite.php",
-    "offersSignLanguageOrCC": true
+    "twitter": "@parisweb"
   },
   {
     "name": "Central Wisconsin IT Conference",
@@ -933,10 +933,10 @@
     "startDate": "2021-10-09",
     "endDate": "2021-10-09",
     "online": true,
+    "cocUrl": "https://cwitc.org/code-of-conduct",
     "cfpUrl": "https://cwitc.org/call-for-speakers",
     "cfpEndDate": "2021-05-01",
-    "twitter": "@CenWI_ITConf",
-    "cocUrl": "https://cwitc.org/code-of-conduct"
+    "twitter": "@CenWI_ITConf"
   },
   {
     "name": "CONCATENATE",
@@ -946,8 +946,8 @@
     "city": "Lagos",
     "country": "Nigeria",
     "online": true,
-    "twitter": "@ConcatenateConf",
-    "cocUrl": "https://www.concatenate.dev/codeofconduct/"
+    "cocUrl": "https://www.concatenate.dev/codeofconduct/",
+    "twitter": "@ConcatenateConf"
   },
   {
     "name": "API Conference",
@@ -966,9 +966,9 @@
     "endDate": "2021-10-13",
     "city": "Portland, OR",
     "country": "U.S.A.",
-    "twitter": "@PNSQC",
+    "offersSignLanguageOrCC": false,
     "cocUrl": "https://www.pnsqc.org/about-pnsqc/governance/",
-    "offersSignLanguageOrCC": false
+    "twitter": "@PNSQC"
   },
   {
     "name": "Serverless Architecture Conference",
@@ -986,10 +986,10 @@
     "startDate": "2021-10-11",
     "endDate": "2021-10-14",
     "online": true,
+    "cocUrl": "https://conferences.isaqb.org/info/#code-of-conduct",
     "cfpUrl": "https://conferences.isaqb.org/program/#cfp",
     "cfpEndDate": "2021-05-19",
-    "twitter": "@sag_conference",
-    "cocUrl": "https://conferences.isaqb.org/info/#code-of-conduct"
+    "twitter": "@sag_conference"
   },
   {
     "name": "Google Cloud Next",
@@ -1004,10 +1004,10 @@
     "startDate": "2021-10-13",
     "endDate": "2021-10-13",
     "online": true,
+    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct",
     "cfpUrl": "https://www.wearedevelopers.com/speakers/call-for-speakers",
     "cfpEndDate": "2021-09-15",
-    "twitter": "@wearedevs",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct"
+    "twitter": "@wearedevs"
   },
   {
     "name": "Infoshare",
@@ -1027,8 +1027,8 @@
     "city": "Kongsberg",
     "country": "Norway",
     "online": false,
-    "twitter": "@NDC_Conferences",
-    "cocUrl": "https://ndctechtown.com/code-of-conduct"
+    "cocUrl": "https://ndctechtown.com/code-of-conduct",
+    "twitter": "@NDC_Conferences"
   },
   {
     "name": "Codemotion - Spanish Edition",
@@ -1036,10 +1036,10 @@
     "startDate": "2021-10-19",
     "endDate": "2021-10-21",
     "online": true,
+    "cocUrl": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-spanish-edition-autumn/code-of-conduct",
     "cfpUrl": "https://extra.codemotion.com/onlineconf21-autumn-cfp",
     "cfpEndDate": "2021-07-09",
-    "twitter": "@CodemoMadrid",
-    "cocUrl": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-spanish-edition-autumn/code-of-conduct"
+    "twitter": "@CodemoMadrid"
   },
   {
     "name": "DevNet Create",
@@ -1047,10 +1047,10 @@
     "startDate": "2021-10-19",
     "endDate": "2021-10-21",
     "online": true,
+    "cocUrl": "https://developer.cisco.com/devnetcreate/2021/codeofconduct",
     "cfpUrl": "https://developer.cisco.com/devnetcreate",
     "cfpEndDate": "2021-07-09",
-    "twitter": "@CiscoDevNet",
-    "cocUrl": "https://developer.cisco.com/devnetcreate/2021/codeofconduct"
+    "twitter": "@CiscoDevNet"
   },
   {
     "name": "F# eXchange",
@@ -1086,10 +1086,10 @@
     "startDate": "2021-10-26",
     "endDate": "2021-10-28",
     "online": true,
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
     "cfpUrl": "https://apiworld.co/conference/apply-to-speak",
     "cfpEndDate": "2021-07-09",
-    "twitter": "@apiworld",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/"
+    "twitter": "@apiworld"
   },
   {
     "name": "ITNEXT Summit",
@@ -1098,8 +1098,8 @@
     "endDate": "2021-10-27",
     "city": "Amsterdam",
     "country": "Netherlands",
-    "twitter": "@itnext_io",
-    "cocUrl": "https://www.itnextsummit.com/wp-content/uploads/2019/01/code-of-conduct.pdf"
+    "cocUrl": "https://www.itnextsummit.com/wp-content/uploads/2019/01/code-of-conduct.pdf",
+    "twitter": "@itnext_io"
   },
   {
     "name": "Elevate",
@@ -1107,9 +1107,9 @@
     "startDate": "2021-10-28",
     "endDate": "2021-10-28",
     "online": true,
-    "twitter": "@Electric_AI",
+    "offersSignLanguageOrCC": true,
     "cocUrl": "https://hopin.com/events/elevate-2021",
-    "offersSignLanguageOrCC": true
+    "twitter": "@Electric_AI"
   },
   {
     "name": "OpenPOWER Summit NA",
@@ -1127,8 +1127,8 @@
     "city": "Reston, VA",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@nofluff",
-    "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct"
+    "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct",
+    "twitter": "@nofluff"
   },
   {
     "name": "QCon Plus",
@@ -1136,8 +1136,8 @@
     "startDate": "2021-11-01",
     "endDate": "2021-11-05",
     "online": true,
-    "twitter": "@QCon",
-    "cocUrl": "https://plus.qconferences.com/code-conduct"
+    "cocUrl": "https://plus.qconferences.com/code-conduct",
+    "twitter": "@QCon"
   },
   {
     "name": "QCon San Francisco",
@@ -1146,11 +1146,11 @@
     "endDate": "2021-11-05",
     "city": "San Francisco, CA",
     "country": "U.S.A.",
+    "offersSignLanguageOrCC": false,
+    "cocUrl": "https://qconferences.com/code-conduct",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfexoSjgtnIFrnTqNdST6BPH5FTYFS4gV1w0k5DWzGhDvipXw/viewform",
     "cfpEndDate": "2021-07-31",
-    "twitter": "@QConSF",
-    "cocUrl": "https://qconferences.com/code-conduct",
-    "offersSignLanguageOrCC": false
+    "twitter": "@QConSF"
   },
   {
     "name": "WeAreDevelopers Live - Mobile Day",
@@ -1158,10 +1158,10 @@
     "startDate": "2021-11-03",
     "endDate": "2021-11-03",
     "online": true,
+    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct",
     "cfpUrl": "https://www.wearedevelopers.com/speakers/call-for-speakers",
     "cfpEndDate": "2021-10-06",
-    "twitter": "@wearedevs",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct"
+    "twitter": "@wearedevs"
   },
   {
     "name": "The Big Transaction",
@@ -1171,10 +1171,10 @@
     "city": "New Orleans, LA",
     "country": "U.S.A.",
     "online": false,
+    "cocUrl": "https://www.thebigtransaction.com/policies/",
     "cfpUrl": "https://www.papercall.io/the-big-transaction",
     "cfpEndDate": "2021-07-15",
-    "twitter": "@bigtransaction",
-    "cocUrl": "https://www.thebigtransaction.com/policies/"
+    "twitter": "@bigtransaction"
   },
   {
     "name": "SeaGL",
@@ -1182,8 +1182,8 @@
     "startDate": "2021-11-05",
     "endDate": "2021-11-06",
     "online": true,
-    "twitter": "@seagl",
-    "cocUrl": "https://seagl.org/code_of_conduct.html"
+    "cocUrl": "https://seagl.org/code_of_conduct.html",
+    "twitter": "@seagl"
   },
   {
     "name": "GOTO Copenhagen",
@@ -1193,8 +1193,8 @@
     "city": "Copenhagen",
     "country": "Denmark",
     "online": false,
-    "twitter": "@gotocon",
-    "cocUrl": "https://gotocph.com/2021/pages/code-of-conduct"
+    "cocUrl": "https://gotocph.com/2021/pages/code-of-conduct",
+    "twitter": "@gotocon"
   },
   {
     "name": "AWE USA",
@@ -1204,10 +1204,10 @@
     "city": "Santa Clara, CA",
     "country": "U.S.A.",
     "online": false,
+    "cocUrl": "https://www.awexr.com/usa-2021/anti_harrassment",
     "cfpUrl": "https://www.awexr.com/usa-2021/submit_a_talk",
     "cfpEndDate": "2021-07-30",
-    "twitter": "@ARealityEvent",
-    "cocUrl": "https://www.awexr.com/usa-2021/anti_harrassment"
+    "twitter": "@ARealityEvent"
   },
   {
     "name": "Codemotion - Italian Edition",
@@ -1215,10 +1215,10 @@
     "startDate": "2021-11-09",
     "endDate": "2021-11-11",
     "online": true,
+    "cocUrl": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-italian-edition-autumn/code-of-conduct",
     "cfpUrl": "https://extra.codemotion.com/onlineconf21-autumn-cfp",
     "cfpEndDate": "2021-07-09",
-    "twitter": "@CodemotionIT",
-    "cocUrl": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-italian-edition-autumn/code-of-conduct"
+    "twitter": "@CodemotionIT"
   },
   {
     "name": "South Tyrol Free Software Conference",
@@ -1228,8 +1228,8 @@
     "city": "Bolzano",
     "country": "Italy",
     "online": true,
-    "twitter": "@SFScon",
-    "cocUrl": "https://www.sfscon.it/code-of-conduct/"
+    "cocUrl": "https://www.sfscon.it/code-of-conduct/",
+    "twitter": "@SFScon"
   },
   {
     "name": "Live! 360",
@@ -1247,10 +1247,10 @@
     "startDate": "2021-11-16",
     "endDate": "2021-11-18",
     "online": true,
+    "cocUrl": "https://events.linuxfoundation.org/about/code-of-conduct/",
     "cfpUrl": "https://linuxfoundation.smapply.io/prog/asyncapi_conference_2021",
     "cfpEndDate": "2021-10-17",
-    "twitter": "@AsyncAPISpec",
-    "cocUrl": "https://events.linuxfoundation.org/about/code-of-conduct/"
+    "twitter": "@AsyncAPISpec"
   },
   {
     "name": "DeveloperWeek Austin",
@@ -1258,8 +1258,8 @@
     "startDate": "2021-11-17",
     "endDate": "2021-11-18",
     "online": true,
-    "twitter": "@DevWeekATX",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/"
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
+    "twitter": "@DevWeekATX"
   },
   {
     "name": "EmacsConf",
@@ -1267,10 +1267,10 @@
     "startDate": "2021-11-27",
     "endDate": "2021-11-28",
     "online": true,
+    "cocUrl": "https://emacsconf.org/conduct/",
     "cfpUrl": "https://emacsconf.org/2021/cfp/",
     "cfpEndDate": "2021-09-30",
-    "twitter": "@EmacsConf",
-    "cocUrl": "https://emacsconf.org/conduct/"
+    "twitter": "@EmacsConf"
   },
   {
     "name": "NDC Oslo",
@@ -1280,8 +1280,8 @@
     "city": "Oslo",
     "country": "Norway",
     "online": false,
-    "twitter": "@NDC_Conferences",
-    "cocUrl": "https://ndcoslo.com/code-of-conduct"
+    "cocUrl": "https://ndcoslo.com/code-of-conduct",
+    "twitter": "@NDC_Conferences"
   },
   {
     "name": "Codemotion",
@@ -1289,10 +1289,10 @@
     "startDate": "2021-11-30",
     "endDate": "2021-12-02",
     "online": true,
+    "cocUrl": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-autumn/code-of-conduct",
     "cfpUrl": "https://extra.codemotion.com/onlineconf21-autumn-cfp",
     "cfpEndDate": "2021-07-09",
-    "twitter": "@CodemotionWorld",
-    "cocUrl": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-autumn/code-of-conduct"
+    "twitter": "@CodemotionWorld"
   },
   {
     "name": "Embedded Fest",
@@ -1300,9 +1300,9 @@
     "startDate": "2021-12-03",
     "endDate": "2021-12-03",
     "online": true,
+    "cocUrl": "https://embeddedfest.com/code%20of%20conduct.pdf",
     "cfpUrl": "https://embeddedfest.com/speakers_eng.html",
-    "cfpEndDate": "2021-10-29",
-    "cocUrl": "https://embeddedfest.com/code%20of%20conduct.pdf"
+    "cfpEndDate": "2021-10-29"
   },
   {
     "name": "DartUP",
@@ -1322,8 +1322,8 @@
     "city": "Clearwater, FL",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@pwx2021",
-    "cocUrl": "progressivewebexperience.io/home/code_of_conduct"
+    "cocUrl": "progressivewebexperience.io/home/code_of_conduct",
+    "twitter": "@pwx2021"
   },
   {
     "name": "IT-Tage Remote",
@@ -1339,8 +1339,8 @@
     "startDate": "2021-12-07",
     "endDate": "2021-12-09",
     "online": true,
-    "twitter": "@MuleSoft",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@MuleSoft"
   },
   {
     "name": "DevTernity",
@@ -1348,8 +1348,8 @@
     "startDate": "2021-12-10",
     "endDate": "2021-12-11",
     "online": true,
-    "twitter": "@devternity",
-    "cocUrl": "https://devternity.com/code_of_conduct.html"
+    "cocUrl": "https://devternity.com/code_of_conduct.html",
+    "twitter": "@devternity"
   },
   {
     "name": "WeAreDevelopers Live - Game Development Day",
@@ -1357,9 +1357,9 @@
     "startDate": "2021-12-15",
     "endDate": "2021-12-15",
     "online": true,
+    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct",
     "cfpUrl": "https://www.wearedevelopers.com/speakers/call-for-speakers",
     "cfpEndDate": "2021-11-17",
-    "twitter": "@wearedevs",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct"
+    "twitter": "@wearedevs"
   }
 ]

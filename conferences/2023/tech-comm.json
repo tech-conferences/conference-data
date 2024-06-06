@@ -17,10 +17,10 @@
     "city": "Pittsburgh, PA",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@drupalcon",
-    "cocUrl": "https://events.drupal.org/code-conduct",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://events.drupal.org/code-conduct",
+    "twitter": "@drupalcon"
   },
   {
     "name": "Web Directions Summit",
@@ -30,11 +30,11 @@
     "city": "Sydney",
     "country": "Australia",
     "online": true,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
     "cfpUrl": "https://webdirections.org/speaking",
     "cfpEndDate": "2023-05-31",
-    "twitter": "@webdirections",
-    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "twitter": "@webdirections"
   }
 ]

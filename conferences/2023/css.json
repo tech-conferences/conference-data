@@ -15,9 +15,9 @@
     "startDate": "2023-02-15",
     "endDate": "2023-02-15",
     "online": true,
-    "twitter": "@enterjsconf",
+    "locales": "DE",
     "cocUrl": "https://enterjs.de/code_of_conduct.php",
-    "locales": "DE"
+    "twitter": "@enterjsconf"
   },
   {
     "name": "HTML & CSS Days",
@@ -27,9 +27,9 @@
     "city": "Munich",
     "country": "Germany",
     "online": true,
-    "twitter": "@htmlcssdays",
+    "locales": "DE",
     "cocUrl": "https://javascript-days.de/code-of-conduct/",
-    "locales": "DE"
+    "twitter": "@htmlcssdays"
   },
   {
     "name": "International JavaScript Conference London",
@@ -39,9 +39,9 @@
     "city": "London",
     "country": "U.K.",
     "online": true,
-    "twitter": "@JavaScriptCon",
+    "locales": "EN",
     "cocUrl": "https://javascript-conference.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@JavaScriptCon"
   },
   {
     "name": "Remix Conf",
@@ -51,12 +51,12 @@
     "city": "Salt Lake City, UT",
     "country": "U.S.A.",
     "online": true,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://remix.run/conf/2023/coc",
     "cfpUrl": "https://sessionize.com/remix-2023",
     "cfpEndDate": "2023-02-08",
-    "twitter": "@remix_run",
-    "cocUrl": "https://remix.run/conf/2023/coc",
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "twitter": "@remix_run"
   },
   {
     "name": "200 OK",
@@ -66,9 +66,9 @@
     "city": "Tulsa, OK",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@200okconf",
+    "locales": "EN",
     "cocUrl": "https://www.techlahoma.org/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@200okconf"
   },
   {
     "name": "webinale",
@@ -78,9 +78,9 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
-    "twitter": "@webinale",
+    "locales": "EN",
     "cocUrl": "https://webinale.de/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@webinale"
   },
   {
     "name": "SmashingConf SF",
@@ -90,9 +90,9 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "online": false,
-    "cocUrl": "https://smashingconf.com/codeofconduct",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://smashingconf.com/codeofconduct"
   },
   {
     "name": "RenderATL",
@@ -102,8 +102,8 @@
     "city": "Atlanta, GA",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@RenderATL",
-    "cocUrl": "https://www.renderatl.com/codepolicy"
+    "cocUrl": "https://www.renderatl.com/codepolicy",
+    "twitter": "@RenderATL"
   },
   {
     "name": "DrupalCon",
@@ -113,10 +113,10 @@
     "city": "Pittsburgh, PA",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@drupalcon",
-    "cocUrl": "https://events.drupal.org/code-conduct",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://events.drupal.org/code-conduct",
+    "twitter": "@drupalcon"
   },
   {
     "name": "Web Directions Code",
@@ -126,10 +126,10 @@
     "city": "Melbourne",
     "country": "Australia",
     "online": true,
-    "twitter": "@webdirections",
-    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
+    "twitter": "@webdirections"
   },
   {
     "name": "Pixel Pioneers",
@@ -139,11 +139,11 @@
     "city": "Bristol",
     "country": "U.K.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://pixelpioneers.co/code-of-conduct",
     "cfpUrl": "https://pixelpioneers.co/call-for-speakers",
     "cfpEndDate": "2023-04-15",
-    "twitter": "@pixelpioneers",
-    "cocUrl": "https://pixelpioneers.co/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@pixelpioneers"
   },
   {
     "name": "Middlesbrough Front End Conference",
@@ -153,9 +153,9 @@
     "city": "Middlesbrough",
     "country": "U.K.",
     "online": false,
-    "twitter": "@middlesbroughfe",
+    "locales": "EN",
     "cocUrl": "https://www.middlesbroughfe.co.uk/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@middlesbroughfe"
   },
   {
     "name": "Fronteers Conference",
@@ -165,10 +165,10 @@
     "city": "Utrecht",
     "country": "Netherlands",
     "online": false,
-    "twitter": "@fronteersconf",
-    "cocUrl": "https://fronteersconf.org/code-of-conduct/",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://fronteersconf.org/code-of-conduct/",
+    "twitter": "@fronteersconf"
   },
   {
     "name": "revo.js",
@@ -178,12 +178,12 @@
     "city": "Timisoara",
     "country": "Romania",
     "online": false,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://revojs.ro/code-of-conduct/",
     "cfpUrl": "https://revojs.ro/2023/cfp",
     "cfpEndDate": "2023-06-04",
-    "twitter": "@revojsro",
-    "cocUrl": "https://revojs.ro/code-of-conduct/",
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "twitter": "@revojsro"
   },
   {
     "name": "JavaScript, Angular, React und HTML & CSS Days",
@@ -193,9 +193,9 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
-    "twitter": "@JS_Days",
+    "locales": "DE",
     "cocUrl": "https://javascript-days.de/code-of-conduct/",
-    "locales": "DE"
+    "twitter": "@JS_Days"
   },
   {
     "name": "MagnoliaJS",
@@ -205,8 +205,8 @@
     "city": "Jackson, MS",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@magnoliajsconf",
-    "cocUrl": "https://www.magnoliajs.com/conduct"
+    "cocUrl": "https://www.magnoliajs.com/conduct",
+    "twitter": "@magnoliajsconf"
   },
   {
     "name": "Web Directions Summit",
@@ -216,11 +216,11 @@
     "city": "Sydney",
     "country": "Australia",
     "online": true,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
     "cfpUrl": "https://webdirections.org/speaking",
     "cfpEndDate": "2023-05-31",
-    "twitter": "@webdirections",
-    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "twitter": "@webdirections"
   }
 ]

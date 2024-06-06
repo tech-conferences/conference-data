@@ -17,8 +17,8 @@
     "city": "Johannesburg",
     "country": "South Africa",
     "online": true,
-    "twitter": "@ITNewsAfrica",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@ITNewsAfrica"
   },
   {
     "name": "QCon London",
@@ -28,8 +28,8 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
-    "twitter": "@qconlondon",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@qconlondon"
   },
   {
     "name": "Nullcon International Conference and Training Berlin",
@@ -39,10 +39,10 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
+    "cocUrl": "https://nullcon.net/about-conferencepolicy/",
     "cfpUrl": "https://nullcon.net/berlin-2022/cfp",
     "cfpEndDate": "2022-01-15",
-    "twitter": "@nullcon",
-    "cocUrl": "https://nullcon.net/about-conferencepolicy/"
+    "twitter": "@nullcon"
   },
   {
     "name": "building IoT",
@@ -52,10 +52,10 @@
     "city": "Karlsruhe",
     "country": "Germany",
     "online": false,
+    "cocUrl": "https://www.buildingiot.de/code_of_conduct.php",
     "cfpUrl": "https://www.buildingiot.de/cfp_en.php",
     "cfpEndDate": "2022-01-10",
-    "twitter": "@building_iot",
-    "cocUrl": "https://www.buildingiot.de/code_of_conduct.php"
+    "twitter": "@building_iot"
   },
   {
     "name": "QCon Plus Online Software Conference",
@@ -63,8 +63,8 @@
     "startDate": "2022-05-10",
     "endDate": "2022-05-20",
     "online": true,
-    "twitter": "@QCon",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@QCon"
   },
   {
     "name": "THAT Conference",
@@ -74,8 +74,8 @@
     "city": "Round Rock, TX",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@thatconference",
-    "cocUrl": "https://that.us/support/code-of-conduct/"
+    "cocUrl": "https://that.us/support/code-of-conduct/",
+    "twitter": "@thatconference"
   },
   {
     "name": "Hardwear.io Security Trainings & Conference USA",
@@ -85,10 +85,10 @@
     "city": "Santa Clara, CA",
     "country": "U.S.A.",
     "online": false,
+    "cocUrl": "https://hardwear.io/code-of-conduct/",
     "cfpUrl": "https://hardwear.io/usa-2022/cfp.php",
     "cfpEndDate": "2022-03-01",
-    "twitter": "@hardwear_io",
-    "cocUrl": "https://hardwear.io/code-of-conduct/"
+    "twitter": "@hardwear_io"
   },
   {
     "name": "hub.berlin",
@@ -98,10 +98,10 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
+    "cocUrl": "https://www.hub.berlin/join-us/faq",
     "cfpUrl": "https://www.hub.berlin/business-festival-tickets-2022",
     "cfpEndDate": "2022-06-21",
-    "twitter": "@hub.berlin",
-    "cocUrl": "https://www.hub.berlin/join-us/faq"
+    "twitter": "@hub.berlin"
   },
   {
     "name": "Industrial IoT Conference",
@@ -111,8 +111,8 @@
     "city": "Munich",
     "country": "Germany",
     "online": false,
-    "twitter": "@IIoTConf",
-    "cocUrl": "https://www.iiot-conference.de/code_of_conduct.php"
+    "cocUrl": "https://www.iiot-conference.de/code_of_conduct.php",
+    "twitter": "@IIoTConf"
   },
   {
     "name": "Internet of Things Conference",
@@ -122,8 +122,8 @@
     "city": "Munich",
     "country": "Germany",
     "online": true,
-    "twitter": "@iotconf",
-    "cocUrl": "https://iotcon.de/code-of-conduct-en/"
+    "cocUrl": "https://iotcon.de/code-of-conduct-en/",
+    "twitter": "@iotconf"
   },
   {
     "name": "THAT Conference",
@@ -133,10 +133,10 @@
     "city": "Wisconsin Dells, WI",
     "country": "U.S.A.",
     "online": false,
+    "cocUrl": "https://that.us/support/code-of-conduct/",
     "cfpUrl": "https://that.us/call-for-counselors/wi/2022",
     "cfpEndDate": "2022-03-01",
-    "twitter": "@thatconference",
-    "cocUrl": "https://that.us/support/code-of-conduct/"
+    "twitter": "@thatconference"
   },
   {
     "name": "FullStack eXchange",
@@ -146,10 +146,10 @@
     "city": "London",
     "country": "U.K.",
     "online": true,
+    "cocUrl": "https://skillsmatter.com/go/code-of-conduct",
     "cfpUrl": "https://skillsmatter.com/conferences/13727-fullstack-exchange-online#get_involved",
     "cfpEndDate": "2022-04-28",
-    "twitter": "@skillsmatter",
-    "cocUrl": "https://skillsmatter.com/go/code-of-conduct"
+    "twitter": "@skillsmatter"
   },
   {
     "name": "2nd Annual Pharma Innovation Tech Congress",
@@ -177,10 +177,10 @@
     "city": "Zadar",
     "country": "Croatia",
     "online": true,
+    "cocUrl": "https://shift.infobip.com/code/",
     "cfpUrl": "https://sessionize.com/infobipshift",
     "cfpEndDate": "2022-07-01",
-    "twitter": "@infobipshift",
-    "cocUrl": "https://shift.infobip.com/code/"
+    "twitter": "@infobipshift"
   },
   {
     "name": "JCON-ONLINE",
@@ -188,10 +188,10 @@
     "startDate": "2022-09-20",
     "endDate": "2022-09-23",
     "online": true,
+    "cocUrl": "https://2022.jcon.one/code-of-conduct",
     "cfpUrl": "https://2022.jcon.one/call-for-papers",
     "cfpEndDate": "2022-03-31",
-    "twitter": "@jcon_conference",
-    "cocUrl": "https://2022.jcon.one/code-of-conduct"
+    "twitter": "@jcon_conference"
   },
   {
     "name": "Rethink! IT",
@@ -201,10 +201,10 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
+    "cocUrl": "https://www.we-conect.com/terms-and-conditions",
     "cfpUrl": "https://www.rethink-enterprise-it.de/sprecher",
     "cfpEndDate": "2022-09-18",
-    "twitter": "@weCONECT",
-    "cocUrl": "https://www.we-conect.com/terms-and-conditions"
+    "twitter": "@weCONECT"
   },
   {
     "name": "Devoxx Morocco",
@@ -214,8 +214,8 @@
     "city": "Taghazout, Agadir",
     "country": "Morocco",
     "online": false,
-    "twitter": "@DevoxxMA",
-    "cocUrl": "https://devoxx.ma/code-of-conduct/"
+    "cocUrl": "https://devoxx.ma/code-of-conduct/",
+    "twitter": "@DevoxxMA"
   },
   {
     "name": "TestFlix",
@@ -223,11 +223,11 @@
     "startDate": "2022-10-08",
     "endDate": "2022-10-09",
     "online": true,
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://www.thetesttribe.com/event-policy-and-code-of-conduct/",
     "cfpUrl": "https://www.thetesttribe.com/testflix-2022-call-for-papers",
     "cfpEndDate": "2022-05-15",
-    "twitter": "@the_test_tribe",
-    "cocUrl": "https://www.thetesttribe.com/event-policy-and-code-of-conduct/",
-    "offersSignLanguageOrCC": true
+    "twitter": "@the_test_tribe"
   },
   {
     "name": "AWS Pop Hub",
@@ -237,8 +237,8 @@
     "city": "Warsaw",
     "country": "Poland",
     "online": false,
-    "twitter": "@awscloud",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@awscloud"
   },
   {
     "name": "MASCOTS 30th International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems",
@@ -256,8 +256,8 @@
     "startDate": "2022-10-18",
     "endDate": "2022-10-21",
     "online": true,
-    "twitter": "@jcon_conference",
-    "cocUrl": "https://jcon.one/code-of-conduct"
+    "cocUrl": "https://jcon.one/code-of-conduct",
+    "twitter": "@jcon_conference"
   },
   {
     "name": "EclipseCon",
@@ -267,10 +267,10 @@
     "city": "Ludwigsburg",
     "country": "Germany",
     "online": false,
+    "cocUrl": "https://www.eclipsecon.org/2022/eclipse-community-events-code-conduct",
     "cfpUrl": "https://www.eclipsecon.org/2022/cfp",
     "cfpEndDate": "2022-06-15",
-    "twitter": "@eclipsecon",
-    "cocUrl": "https://www.eclipsecon.org/2022/eclipse-community-events-code-conduct"
+    "twitter": "@eclipsecon"
   },
   {
     "name": "Arm DevSummit",
@@ -302,8 +302,8 @@
     "city": "Vilnius",
     "country": "Lithuania",
     "online": true,
-    "twitter": "@BuildStuffConf",
-    "cocUrl": "https://www.buildstuff.events/code-of-conduct"
+    "cocUrl": "https://www.buildstuff.events/code-of-conduct",
+    "twitter": "@BuildStuffConf"
   },
   {
     "name": "Update Conference Prague",
@@ -313,10 +313,10 @@
     "city": "Prague",
     "country": "Czech Republic",
     "online": true,
+    "cocUrl": "https://www.updateconference.net/en/code-of-conduct",
     "cfpUrl": "https://www.updateconference.net/2022/call-for-speakers",
     "cfpEndDate": "2022-06-26",
-    "twitter": "@update_conf",
-    "cocUrl": "https://www.updateconference.net/en/code-of-conduct"
+    "twitter": "@update_conf"
   },
   {
     "name": "Weave Sphere",

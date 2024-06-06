@@ -7,9 +7,9 @@
     "city": "Paris",
     "country": "France",
     "online": true,
-    "twitter": "@BeJS_",
+    "locales": "EN",
     "cocUrl": "https://www.bejs.io/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@BeJS_"
   },
   {
     "name": "Highload fwdays",
@@ -19,11 +19,11 @@
     "city": "Kyiv",
     "country": "Ukraine",
     "online": true,
+    "locales": "EN,UK",
+    "cocUrl": "https://docs.google.com/document/d/12o0ydKmKe6Jw_VgTZF3U6hmI7yzgo5poxXjDzKDLuDw/edit#heading=h.r7izboewrqur",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdAivIfn0qM5SSljDvshD48IRrAsKUg5-tlznG__PzDuDK12g/viewform",
     "cfpEndDate": "2024-04-20",
-    "twitter": "@fwdays",
-    "cocUrl": "https://docs.google.com/document/d/12o0ydKmKe6Jw_VgTZF3U6hmI7yzgo5poxXjDzKDLuDw/edit#heading=h.r7izboewrqur",
-    "locales": "EN,UK"
+    "twitter": "@fwdays"
   },
   {
     "name": "Front End Performance Day",
@@ -31,8 +31,8 @@
     "startDate": "2024-06-05",
     "endDate": "2024-06-05",
     "online": true,
-    "twitter": "@WeAreDevs",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@WeAreDevs"
   },
   {
     "name": "SAP UI5con",
@@ -42,9 +42,9 @@
     "city": "St. Leon-Rot",
     "country": "Germany",
     "online": false,
-    "twitter": "@OpenUI5",
+    "locales": "EN,DE",
     "cocUrl": "https://openui5.org/ui5con/germany2024/codeofconduct.html",
-    "locales": "EN,DE"
+    "twitter": "@OpenUI5"
   },
   {
     "name": "TechLead Conference",
@@ -52,11 +52,11 @@
     "startDate": "2024-06-15",
     "endDate": "2024-06-19",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://portal.gitnation.org/coc",
     "cfpUrl": "https://forms.gle/anQx9Ct7CsrrZwur9",
     "cfpEndDate": "2024-03-31",
-    "twitter": "@TheTechLeadConf",
-    "cocUrl": "https://portal.gitnation.org/coc",
-    "locales": "EN"
+    "twitter": "@TheTechLeadConf"
   },
   {
     "name": "Web Directions Code",
@@ -66,9 +66,9 @@
     "city": "Melbourne",
     "country": "Australia",
     "online": true,
-    "twitter": "@webdirections",
+    "locales": "EN",
     "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@webdirections"
   },
   {
     "name": "InfoQ Dev Summit Boston",
@@ -78,8 +78,8 @@
     "city": "Boston, MA",
     "country": "U.S.A.",
     "online": false,
-    "cocUrl": "https://qconferences.com/code-conduct",
     "locales": "EN",
+    "cocUrl": "https://qconferences.com/code-conduct",
     "mastodon": "@infoq@techhub.social"
   },
   {
@@ -90,9 +90,9 @@
     "city": "Kraków",
     "country": "Poland",
     "online": true,
-    "twitter": "@update_conf",
+    "locales": "EN",
     "cocUrl": "https://www.updateconference.net/en/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@update_conf"
   },
   {
     "name": "Code Quality Conference",
@@ -100,11 +100,11 @@
     "startDate": "2024-06-27",
     "endDate": "2024-06-27",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://codequalityconf.com/code-of-conduct/",
     "cfpUrl": "https://forms.office.com/r/k3PqBpkD8N",
     "cfpEndDate": "2024-06-03",
-    "twitter": "@CSharpDotTV",
-    "cocUrl": "https://codequalityconf.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@CSharpDotTV"
   },
   {
     "name": "Festival of the Future",
@@ -114,8 +114,8 @@
     "city": "Munich",
     "country": "Germany",
     "online": false,
-    "twitter": "@1E9tech",
-    "locales": "EN,DE"
+    "locales": "EN,DE",
+    "twitter": "@1E9tech"
   },
   {
     "name": "Software Architecture Conference",
@@ -123,11 +123,11 @@
     "startDate": "2024-07-16",
     "endDate": "2024-07-16",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://softwarearchitecture.live/code-of-conduct/",
     "cfpUrl": "https://softwarearchitecture.live/code-of-conduct",
     "cfpEndDate": "2024-07-08",
-    "twitter": "@CSharpDotTV",
-    "cocUrl": "https://softwarearchitecture.live/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@CSharpDotTV"
   },
   {
     "name": "Software Architecture Conference",
@@ -135,11 +135,11 @@
     "startDate": "2024-08-18",
     "endDate": "2024-08-18",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://softwarearchitecture.live/code-of-conduct/",
     "cfpUrl": "https://forms.office.com/r/YjGJ0Xvp1q",
     "cfpEndDate": "2024-07-08",
-    "twitter": "@csharpdottv",
-    "cocUrl": "https://softwarearchitecture.live/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@csharpdottv"
   },
   {
     "name": "betterCode() ArchDoc",
@@ -147,8 +147,8 @@
     "startDate": "2024-09-30",
     "endDate": "2024-09-30",
     "online": true,
-    "cocUrl": "https://archdoc.bettercode.eu/code_of_conduct.php",
-    "locales": "DE"
+    "locales": "DE",
+    "cocUrl": "https://archdoc.bettercode.eu/code_of_conduct.php"
   },
   {
     "name": "performance.now()",
@@ -168,8 +168,8 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "online": false,
-    "cocUrl": "https://qconferences.com/code-conduct",
     "locales": "EN",
+    "cocUrl": "https://qconferences.com/code-conduct",
     "mastodon": "@qcon@techhub.social"
   }
 ]

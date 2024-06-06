@@ -1,5 +1,18 @@
 [
   {
+    "name": "ConFoo Montreal",
+    "url": "https://confoo.ca/en/2025",
+    "startDate": "2025-02-26",
+    "endDate": "2025-02-28",
+    "city": "Montreal",
+    "country": "Canada",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://confoo.ca/en/code-of-conduct",
+    "twitter": "@confooca",
+    "mastodon": "@confooca@techhub.social"
+  },
+  {
     "name": "Gartner Digital Workplace Summit",
     "url": "https://www.gartner.com/en/conferences/na/digital-workplace-us",
     "startDate": "2025-03-11",
@@ -7,8 +20,8 @@
     "city": "Grapevine, TX",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@Gartner_inc",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@Gartner_inc"
   },
   {
     "name": "Great International Developer Summit (GIDS)",
@@ -18,11 +31,11 @@
     "city": "Bengaluru",
     "country": "India",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://saltmarch.com/code-of-conduct",
     "cfpUrl": "https://developersummit.com/cfp",
     "cfpEndDate": "2024-09-30",
-    "twitter": "@developersummit",
-    "cocUrl": "https://saltmarch.com/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@developersummit"
   },
   {
     "name": "TEQNATION",
@@ -32,8 +45,8 @@
     "city": "Utrecht",
     "country": "Netherlands",
     "online": false,
-    "twitter": "@teqnationconf",
+    "locales": "EN",
     "cocUrl": "https://conference.teqnation.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@teqnationconf"
   }
 ]

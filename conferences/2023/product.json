@@ -7,11 +7,11 @@
     "city": "Oakland, CA",
     "country": "U.S.A.",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
     "cfpUrl": "https://sessionize.com/productworld-2023",
     "cfpEndDate": "2022-12-02",
-    "twitter": "@developerweek",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@developerweek"
   },
   {
     "name": "OC3",
@@ -19,11 +19,11 @@
     "startDate": "2023-03-15",
     "endDate": "2023-03-15",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.oc3.dev/code-of-conduct",
     "cfpUrl": "https://www.oc3.dev/program",
     "cfpEndDate": "2022-12-15",
-    "twitter": "@EdgelessSystems",
-    "cocUrl": "https://www.oc3.dev/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@EdgelessSystems"
   },
   {
     "name": "The Product Conference",
@@ -33,8 +33,8 @@
     "city": "Dublin",
     "country": "Ireland",
     "online": false,
-    "twitter": "@prodcollective",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@prodcollective"
   },
   {
     "name": "The New York Product Conference",
@@ -54,11 +54,11 @@
     "city": "Edinburgh",
     "country": "U.K.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://dibiconference.com/",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc5kVunTh68VQrYCVNIXn2UmPWIsNHhxoiGwU1Q600sRYaNZQ/viewform",
     "cfpEndDate": "2023-02-10",
-    "twitter": "@dibiconf",
-    "cocUrl": "https://dibiconference.com/",
-    "locales": "EN"
+    "twitter": "@dibiconf"
   },
   {
     "name": "The Product Conference",
@@ -85,10 +85,10 @@
     "startDate": "2023-06-08",
     "endDate": "2023-06-09",
     "online": true,
-    "cfpUrl": "https://sessionize.com/platformcon-2023",
-    "cfpEndDate": "2023-02-28",
+    "locales": "EN",
     "cocUrl": "https://platformcon.com/code-of-conduct",
-    "locales": "EN"
+    "cfpUrl": "https://sessionize.com/platformcon-2023",
+    "cfpEndDate": "2023-02-28"
   },
   {
     "name": "Grafana CON",
@@ -106,9 +106,9 @@
     "city": "Kuala Lumpur",
     "country": "Malaysia",
     "online": false,
-    "cocUrl": "https://conversationaltechsummit.com/",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://conversationaltechsummit.com/"
   },
   {
     "name": "WeAreDevelopers World Congress",
@@ -118,11 +118,11 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form.",
     "cfpUrl": "https://sessionize.com/wearedevelopers-worldcongress23",
     "cfpEndDate": "2023-07-19",
-    "twitter": "@WeAreDevs",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form.",
-    "locales": "EN"
+    "twitter": "@WeAreDevs"
   },
   {
     "name": "SpiceWorld",
@@ -132,11 +132,11 @@
     "city": "Austin, TX",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.spiceworks.com/spiceworld/",
     "cfpUrl": "https://www.spiceworks.com",
     "cfpEndDate": "2023-09-04",
-    "twitter": "@spiceworks",
-    "cocUrl": "https://www.spiceworks.com/spiceworld/",
-    "locales": "EN"
+    "twitter": "@spiceworks"
   },
   {
     "name": "SPM Summit North America",
@@ -156,8 +156,8 @@
     "city": "Cleveland, OH",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@prodcollective",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@prodcollective"
   },
   {
     "name": "Compass Tech Summit",
@@ -167,8 +167,8 @@
     "city": "Budapest",
     "country": "Hungary",
     "online": true,
-    "twitter": "@amuseconf",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@amuseconf"
   },
   {
     "name": "UXDX",
@@ -178,9 +178,9 @@
     "city": "Dublin",
     "country": "Ireland",
     "online": true,
-    "twitter": "@uxdxconf",
+    "locales": "EN",
     "cocUrl": "https://uxdx.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@uxdxconf"
   },
   {
     "name": "just product",
@@ -190,8 +190,8 @@
     "city": "Munich",
     "country": "Germany",
     "online": true,
-    "cocUrl": "https://www.product-masterclass.com/en/just-product/terms-and-conditions",
-    "locales": "EN"
+    "locales": "EN",
+    "cocUrl": "https://www.product-masterclass.com/en/just-product/terms-and-conditions"
   },
   {
     "name": "GOTO AI DAYS CHICAGO",
@@ -201,9 +201,9 @@
     "city": "Chicago, IL",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@GOTOcon",
+    "locales": "EN",
     "cocUrl": "https://gotochgo.com/ai-days-2023/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@GOTOcon"
   },
   {
     "name": "Web Directions Summit",
@@ -213,12 +213,12 @@
     "city": "Sydney",
     "country": "Australia",
     "online": true,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
     "cfpUrl": "https://webdirections.org/speaking",
     "cfpEndDate": "2023-05-31",
-    "twitter": "@webdirections",
-    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "twitter": "@webdirections"
   },
   {
     "name": "Prodacity",
@@ -228,10 +228,10 @@
     "city": "Washington, DC",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
     "cfpUrl": "https://share.hsforms.com/1CRq585GqTKatR1fRiN2RHQc2xkr",
     "cfpEndDate": "2023-07-31",
-    "twitter": "@Rise8_Inc",
-    "locales": "EN"
+    "twitter": "@Rise8_Inc"
   },
   {
     "name": "Product Management Festival",
@@ -241,8 +241,8 @@
     "city": "Zurich",
     "country": "Switzerland",
     "online": false,
-    "twitter": "@ProdMgmtF",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@ProdMgmtF"
   },
   {
     "name": "Italian Agile Days",
@@ -252,11 +252,11 @@
     "city": "Milano",
     "country": "Italy",
     "online": false,
+    "locales": "IT,EN",
+    "cocUrl": "https://www.agileday.it/",
     "cfpUrl": "https://sessionize.com/italian-agile-days-2023",
     "cfpEndDate": "2023-07-31",
-    "twitter": "@agileday",
-    "cocUrl": "https://www.agileday.it/",
-    "locales": "IT,EN"
+    "twitter": "@agileday"
   },
   {
     "name": "WeyWeyWeb",
@@ -266,10 +266,10 @@
     "city": "Malaga",
     "country": "Spain",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://recursos.yeswetech.org/guias/codigo-de-conducta/en-code-of-conduct",
     "cfpUrl": "https://forms.gle/nLWop1Aw7urdzGrt6",
     "cfpEndDate": "2023-09-01",
-    "twitter": "@WeyWeyWeb",
-    "cocUrl": "https://recursos.yeswetech.org/guias/codigo-de-conducta/en-code-of-conduct",
-    "locales": "EN"
+    "twitter": "@WeyWeyWeb"
   }
 ]

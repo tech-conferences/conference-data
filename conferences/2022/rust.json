@@ -7,10 +7,10 @@
     "city": "Krynica Zdrój",
     "country": "Poland",
     "online": false,
+    "cocUrl": "https://www.typeville.io/",
     "cfpUrl": "https://sml.io/typeville",
     "cfpEndDate": "2022-01-09",
-    "twitter": "@typevilleconf",
-    "cocUrl": "https://www.typeville.io/"
+    "twitter": "@typevilleconf"
   },
   {
     "name": "Rust Summit",
@@ -30,8 +30,8 @@
     "city": "Portland, OR",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@rustconf",
-    "cocUrl": "https://rustconf.com/about#code-of-conduct"
+    "cocUrl": "https://rustconf.com/about#code-of-conduct",
+    "twitter": "@rustconf"
   },
   {
     "name": "Conf42 Rustlang",
@@ -39,10 +39,10 @@
     "startDate": "2022-09-01",
     "endDate": "2022-09-01",
     "online": true,
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/conf42-rust-2022",
     "cfpEndDate": "2022-07-22",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct"
+    "twitter": "@conf42com"
   },
   {
     "name": "RustLab",
@@ -52,8 +52,8 @@
     "city": "Florence",
     "country": "Italy",
     "online": true,
-    "twitter": "@rustlab_conf",
-    "cocUrl": "https://rustlab.it/code-of-conduct/"
+    "cocUrl": "https://rustlab.it/code-of-conduct/",
+    "twitter": "@rustlab_conf"
   },
   {
     "name": "EuroRust",
@@ -63,10 +63,10 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
+    "cocUrl": "https://eurorust.eu/code-of-conduct/",
     "cfpUrl": "https://www.papercall.io/eurorust-2022",
     "cfpEndDate": "2022-08-28",
-    "twitter": "@euro_rust",
-    "cocUrl": "https://eurorust.eu/code-of-conduct/"
+    "twitter": "@euro_rust"
   },
   {
     "name": "betterCode() Rust",
@@ -74,7 +74,7 @@
     "startDate": "2022-11-09",
     "endDate": "2022-11-09",
     "online": true,
-    "twitter": "@bettercodeconf",
-    "cocUrl": "https://rust.bettercode.eu/code_of_conduct.php"
+    "cocUrl": "https://rust.bettercode.eu/code_of_conduct.php",
+    "twitter": "@bettercodeconf"
   }
 ]

@@ -5,9 +5,9 @@
     "startDate": "2024-02-29",
     "endDate": "2024-03-02",
     "online": true,
-    "twitter": "@cpponline",
-    "cocUrl": "https://berlincodeofconduct.org",
     "locales": "EN",
+    "cocUrl": "https://berlincodeofconduct.org",
+    "twitter": "@cpponline",
     "mastodon": "@cpponline@mastodon.social"
   },
   {
@@ -26,9 +26,9 @@
     "city": "Bristol",
     "country": "U.K.",
     "online": false,
-    "twitter": "@cpponsea",
+    "locales": "EN",
     "cocUrl": "https://accu.org/conf-menu-overviews/coc_code_of_conduct/",
-    "locales": "EN"
+    "twitter": "@cpponsea"
   },
   {
     "name": "International Conference on Cloud, Big Data and Web Services",
@@ -38,10 +38,10 @@
     "city": "Vancouver",
     "country": "Canada",
     "online": true,
-    "cfpUrl": "https://icaita2024.org/cbw/papersubmission",
-    "cfpEndDate": "2024-04-13",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "cfpUrl": "https://icaita2024.org/cbw/papersubmission",
+    "cfpEndDate": "2024-04-13"
   },
   {
     "name": "C ++ on Sea",
@@ -51,8 +51,8 @@
     "city": "Folkestone",
     "country": "U.K.",
     "online": false,
-    "cocUrl": "https://cpponsea.uk/conduct/",
-    "locales": "EN"
+    "locales": "EN",
+    "cocUrl": "https://cpponsea.uk/conduct/"
   },
   {
     "name": "Low Latency London",
@@ -62,9 +62,9 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
+    "locales": "EN",
     "cfpUrl": "https://forms.gle/BF7Sf5dTyGCBgV978",
-    "cfpEndDate": "2024-01-31",
-    "locales": "EN"
+    "cfpEndDate": "2024-01-31"
   },
   {
     "name": "Cpp North",
@@ -74,9 +74,9 @@
     "city": "Toronto",
     "country": "Canada",
     "online": false,
-    "twitter": "@CppNorth",
+    "locales": "EN",
     "cocUrl": "https://cppnorth.ca/code-of-conduct.html",
-    "locales": "EN"
+    "twitter": "@CppNorth"
   },
   {
     "name": "CppCon",
@@ -86,7 +86,7 @@
     "city": "Aurora, CO",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@cppcon",
-    "cocUrl": "https://cppcon.org/codeofconduct/"
+    "cocUrl": "https://cppcon.org/codeofconduct/",
+    "twitter": "@cppcon"
   }
 ]

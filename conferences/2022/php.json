@@ -25,10 +25,10 @@
     "city": "Montreal",
     "country": "Canada",
     "online": true,
+    "cocUrl": "https://confoo.ca/en/code-of-conduct",
     "cfpUrl": "https://confoo.ca/en/2022/call-for-papers",
     "cfpEndDate": "2021-10-06",
-    "twitter": "@confooca",
-    "cocUrl": "https://confoo.ca/en/code-of-conduct"
+    "twitter": "@confooca"
   },
   {
     "name": "QCon London",
@@ -38,8 +38,8 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
-    "twitter": "@qconlondon",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@qconlondon"
   },
   {
     "name": "Midwest PHP",
@@ -59,11 +59,11 @@
     "city": "Portland, OR",
     "country": "U.S.A.",
     "online": false,
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://events.drupal.org/code-conduct",
     "cfpUrl": "https://sessionize.com/drupalcon-portland-2022",
     "cfpEndDate": "2021-10-29",
-    "twitter": "@DrupalCon",
-    "cocUrl": "https://events.drupal.org/code-conduct",
-    "offersSignLanguageOrCC": true
+    "twitter": "@DrupalCon"
   },
   {
     "name": "QCon Plus Online Software Conference",
@@ -71,8 +71,8 @@
     "startDate": "2022-05-10",
     "endDate": "2022-05-20",
     "online": true,
-    "twitter": "@QCon",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@QCon"
   },
   {
     "name": "phpday",
@@ -82,10 +82,10 @@
     "city": "Verona",
     "country": "Italy",
     "online": true,
+    "cocUrl": "https://www.grusp.org/en/coc/",
     "cfpUrl": "https://grusp.org/CFPphpday",
     "cfpEndDate": "2022-02-01",
-    "twitter": "@phpday",
-    "cocUrl": "https://www.grusp.org/en/coc/"
+    "twitter": "@phpday"
   },
   {
     "name": "International PHP Conference",
@@ -95,10 +95,10 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
+    "cocUrl": "https://phpconference.com/code-of-conduct/",
     "cfpUrl": "https://callforpapers.sandsmedia.com",
     "cfpEndDate": "2022-01-13",
-    "twitter": "@phpconference",
-    "cocUrl": "https://phpconference.com/code-of-conduct/"
+    "twitter": "@phpconference"
   },
   {
     "name": "Drupalcamp Spain",
@@ -108,8 +108,8 @@
     "city": "Zaragoza",
     "country": "Spain",
     "online": false,
-    "twitter": "@drupalcampspain",
-    "cocUrl": "https://2022.drupalcamp.es/codigo-conducta"
+    "cocUrl": "https://2022.drupalcamp.es/codigo-conducta",
+    "twitter": "@drupalcampspain"
   },
   {
     "name": "Dutch PHP Conference - Online Edition",
@@ -117,9 +117,9 @@
     "startDate": "2022-06-24",
     "endDate": "2022-06-24",
     "online": true,
-    "twitter": "@dpcon",
+    "offersSignLanguageOrCC": true,
     "cocUrl": "https://www.phpconference.nl/code-of-conduct",
-    "offersSignLanguageOrCC": true
+    "twitter": "@dpcon"
   },
   {
     "name": "Dutch PHP Conference",
@@ -129,11 +129,11 @@
     "city": "Amsterdam",
     "country": "Netherlands",
     "online": false,
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://www.phpconference.nl/code-of-conduct",
     "cfpUrl": "https://cfp.phpconference.nl",
     "cfpEndDate": "2022-01-30",
-    "twitter": "@dpcon",
-    "cocUrl": "https://www.phpconference.nl/code-of-conduct",
-    "offersSignLanguageOrCC": true
+    "twitter": "@dpcon"
   },
   {
     "name": "Infobip Shift",
@@ -143,10 +143,10 @@
     "city": "Zadar",
     "country": "Croatia",
     "online": true,
+    "cocUrl": "https://shift.infobip.com/code/",
     "cfpUrl": "https://sessionize.com/infobipshift",
     "cfpEndDate": "2022-07-01",
-    "twitter": "@infobipshift",
-    "cocUrl": "https://shift.infobip.com/code/"
+    "twitter": "@infobipshift"
   },
   {
     "name": "CakeFest",
@@ -164,8 +164,8 @@
     "city": "Paris",
     "country": "France",
     "online": false,
-    "twitter": "@afup",
-    "cocUrl": "https://afup.org/p/986-code-de-conduite"
+    "cocUrl": "https://afup.org/p/986-code-de-conduite",
+    "twitter": "@afup"
   },
   {
     "name": "International PHP Conference",
@@ -175,8 +175,8 @@
     "city": "Munich",
     "country": "Germany",
     "online": true,
-    "twitter": "@phpconference",
-    "cocUrl": "https://phpconference.com/code-of-conduct/"
+    "cocUrl": "https://phpconference.com/code-of-conduct/",
+    "twitter": "@phpconference"
   },
   {
     "name": "Longhorn PHP",
@@ -186,10 +186,10 @@
     "city": "Austin, TX",
     "country": "U.S.A.",
     "online": false,
+    "cocUrl": "https://www.longhornphp.com/code-of-conduct",
     "cfpUrl": "https://cfp.longhornphp.com",
     "cfpEndDate": "2022-08-11",
-    "twitter": "@longhornphp",
-    "cocUrl": "https://www.longhornphp.com/code-of-conduct"
+    "twitter": "@longhornphp"
   },
   {
     "name": "WordCamp Italia",
@@ -199,11 +199,11 @@
     "city": "Milano",
     "country": "Italy",
     "online": true,
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://italia.wordcamp.org/2022/code-of-conduct/",
     "cfpUrl": "https://italia.wordcamp.org/2022/en/call-for-speakers",
     "cfpEndDate": "2022-09-15",
-    "twitter": "@WordCampItalia",
-    "cocUrl": "https://italia.wordcamp.org/2022/code-of-conduct/",
-    "offersSignLanguageOrCC": true
+    "twitter": "@WordCampItalia"
   },
   {
     "name": "Codeurs en Seine",
@@ -213,10 +213,10 @@
     "city": "Rouen",
     "country": "France",
     "online": false,
+    "cocUrl": "https://www.codeursenseine.com/2022/code-of-conduct",
     "cfpUrl": "https://conference-hall.io/public/event/Uv6XULhgmt7z2YuoJ8nq",
     "cfpEndDate": "2022-09-16",
-    "twitter": "@codeursenseine",
-    "cocUrl": "https://www.codeursenseine.com/2022/code-of-conduct"
+    "twitter": "@codeursenseine"
   },
   {
     "name": "Italian LaravelDay",
@@ -226,10 +226,10 @@
     "city": "Verona",
     "country": "Italy",
     "online": false,
-    "cfpUrl": "https://2022.laravelday.it/welcome/cfp.html",
-    "twitter": "@LaravelDayIt",
+    "offersSignLanguageOrCC": false,
     "cocUrl": "https://2022.laravelday.it/welcome/coc.html",
-    "offersSignLanguageOrCC": false
+    "cfpUrl": "https://2022.laravelday.it/welcome/cfp.html",
+    "twitter": "@LaravelDayIt"
   },
   {
     "name": "SymfonyCon Disneyland Paris",
@@ -239,10 +239,10 @@
     "city": "Paris",
     "country": "France",
     "online": false,
+    "cocUrl": "https://symfony.com/doc/current/contributing/code_of_conduct/care_team.html",
     "cfpUrl": "https://live.symfony.com/2022-paris-con/cfp",
     "cfpEndDate": "2022-08-29",
-    "twitter": "@SymfonyCon",
-    "cocUrl": "https://symfony.com/doc/current/contributing/code_of_conduct/care_team.html"
+    "twitter": "@SymfonyCon"
   },
   {
     "name": "Agile Testing Days",
@@ -252,10 +252,10 @@
     "city": "Potsdam",
     "country": "Germany",
     "online": false,
+    "cocUrl": "https://agiletestingdays.com/code-of-conduct/",
     "cfpUrl": "https://agiletestingdays.com/call-for-papers",
     "cfpEndDate": "2022-03-20",
-    "twitter": "@AgileTD",
-    "cocUrl": "https://agiletestingdays.com/code-of-conduct/"
+    "twitter": "@AgileTD"
   },
   {
     "name": "betterCode() PHP",
@@ -263,8 +263,8 @@
     "startDate": "2022-11-24",
     "endDate": "2022-11-24",
     "online": true,
-    "twitter": "@bettercodeconf",
-    "cocUrl": "https://php.bettercode.eu/code_of_conduct.php"
+    "cocUrl": "https://php.bettercode.eu/code_of_conduct.php",
+    "twitter": "@bettercodeconf"
   },
   {
     "name": "sfday",
@@ -272,9 +272,9 @@
     "startDate": "2022-12-06",
     "endDate": "2022-12-06",
     "online": true,
+    "cocUrl": "grusp.org/coc",
     "cfpUrl": "https://grusp.org/CFPsfday",
     "cfpEndDate": "2022-10-15",
-    "twitter": "@sfdayit",
-    "cocUrl": "grusp.org/coc"
+    "twitter": "@sfdayit"
   }
 ]

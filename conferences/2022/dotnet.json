@@ -5,10 +5,10 @@
     "startDate": "2022-01-24",
     "endDate": "2022-01-26",
     "online": true,
+    "cocUrl": "https://dotnetconference.com/code-of-conduct/",
     "cfpUrl": "https://sessionize.com/dotnet-virtual-conference-2022",
     "cfpEndDate": "2021-12-20",
-    "twitter": "@csharpcorner",
-    "cocUrl": "https://dotnetconference.com/code-of-conduct/"
+    "twitter": "@csharpcorner"
   },
   {
     "name": "BASTA! Spring",
@@ -18,8 +18,8 @@
     "city": "Frankfurt am Main",
     "country": "Germany",
     "online": true,
-    "twitter": "@BASTAcon",
-    "cocUrl": "https://basta.net/terms-of-participation/"
+    "cocUrl": "https://basta.net/terms-of-participation/",
+    "twitter": "@BASTAcon"
   },
   {
     "name": "dotnetdays romania",
@@ -27,8 +27,8 @@
     "startDate": "2022-03-21",
     "endDate": "2022-03-24",
     "online": true,
-    "twitter": "@dotnetdaysro",
-    "cocUrl": "https://dotnetdays.ro/Home/CodeOfConduct"
+    "cocUrl": "https://dotnetdays.ro/Home/CodeOfConduct",
+    "twitter": "@dotnetdaysro"
   },
   {
     "name": "DEVintersection",
@@ -38,8 +38,8 @@
     "city": "Las Vegas, NV",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@DEVintersection",
-    "cocUrl": "https://devintersection.com/#!/conduct"
+    "cocUrl": "https://devintersection.com/#!/conduct",
+    "twitter": "@DEVintersection"
   },
   {
     "name": "DotNetOS",
@@ -70,10 +70,10 @@
     "city": "Odense",
     "country": "Denmark",
     "online": true,
+    "cocUrl": "https://codegarden.umbraco.com/code-of-conduct/",
     "cfpUrl": "https://sessionize.com/umbraco-codegarden-2022",
     "cfpEndDate": "2022-03-03",
-    "twitter": "@codegarden",
-    "cocUrl": "https://codegarden.umbraco.com/code-of-conduct/"
+    "twitter": "@codegarden"
   },
   {
     "name": "CincyDeliver()",
@@ -83,10 +83,10 @@
     "city": "Cincinnati, OH",
     "country": "U.S.A.",
     "online": false,
+    "cocUrl": "https://www.cincydeliver.org/Home/CodeOfConduct",
     "cfpUrl": "https://www.cincydeliver.org/Sessions/Create",
     "cfpEndDate": "2022-04-30",
-    "twitter": "@DayOfAgile",
-    "cocUrl": "https://www.cincydeliver.org/Home/CodeOfConduct"
+    "twitter": "@DayOfAgile"
   },
   {
     "name": "PowerShell on the River",
@@ -108,10 +108,10 @@
     "city": "Nürnberg",
     "country": "Germany",
     "online": false,
+    "cocUrl": "https://www.herbstcampus.de/code_of_conduct.php",
     "cfpUrl": "https://www.herbstcampus.de/cfp.php",
     "cfpEndDate": "2022-05-09",
-    "twitter": "@Herbstcampus",
-    "cocUrl": "https://www.herbstcampus.de/code_of_conduct.php"
+    "twitter": "@Herbstcampus"
   },
   {
     "name": "Nullcon International Security Conference and Training Goa",
@@ -121,10 +121,10 @@
     "city": "Goa",
     "country": "India",
     "online": false,
+    "cocUrl": "https://nullcon.net/about-conferencepolicy/",
     "cfpUrl": "https://nullcon.net/goa-2022/cfp",
     "cfpEndDate": "2022-06-05",
-    "twitter": "@nullcon",
-    "cocUrl": "https://nullcon.net/about-conferencepolicy/"
+    "twitter": "@nullcon"
   },
   {
     "name": "BASTA!",
@@ -134,8 +134,8 @@
     "city": "Mainz",
     "country": "Germany",
     "online": true,
-    "twitter": "@BASTAcon",
-    "cocUrl": "https://basta.net/code-of-conduct-en/"
+    "cocUrl": "https://basta.net/code-of-conduct-en/",
+    "twitter": "@BASTAcon"
   },
   {
     "name": "dotnetdays Romania",
@@ -145,8 +145,8 @@
     "city": "Iasi",
     "country": "Romania",
     "online": false,
-    "twitter": "@dotnetdaysro",
-    "cocUrl": "https://dotnetdays.ro/2022/Home/CodeOfConduct"
+    "cocUrl": "https://dotnetdays.ro/2022/Home/CodeOfConduct",
+    "twitter": "@dotnetdaysro"
   },
   {
     "name": "Update Conference Prague",
@@ -156,10 +156,10 @@
     "city": "Prague",
     "country": "Czech Republic",
     "online": true,
+    "cocUrl": "https://www.updateconference.net/en/code-of-conduct",
     "cfpUrl": "https://www.updateconference.net/2022/call-for-speakers",
     "cfpEndDate": "2022-06-26",
-    "twitter": "@update_conf",
-    "cocUrl": "https://www.updateconference.net/en/code-of-conduct"
+    "twitter": "@update_conf"
   },
   {
     "name": "betterCode() .NET 7",
@@ -167,8 +167,8 @@
     "startDate": "2022-11-22",
     "endDate": "2022-11-22",
     "online": true,
-    "twitter": "@bettercodeconf",
-    "cocUrl": "https://net.bettercode.eu/code_of_conduct.php"
+    "cocUrl": "https://net.bettercode.eu/code_of_conduct.php",
+    "twitter": "@bettercodeconf"
   },
   {
     "name": "SpringOne",
@@ -178,8 +178,8 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@springone",
-    "cocUrl": "https://springone.io/code-of-conduct"
+    "cocUrl": "https://springone.io/code-of-conduct",
+    "twitter": "@springone"
   },
   {
     "name": "DevTernity",
@@ -187,7 +187,7 @@
     "startDate": "2022-12-08",
     "endDate": "2022-12-09",
     "online": true,
-    "twitter": "@devternity",
-    "cocUrl": "https://devternity.com/code_of_conduct.html"
+    "cocUrl": "https://devternity.com/code_of_conduct.html",
+    "twitter": "@devternity"
   }
 ]

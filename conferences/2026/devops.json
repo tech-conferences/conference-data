@@ -7,9 +7,9 @@
     "city": "Amsterdam",
     "country": "Netherlands",
     "online": true,
-    "cfpUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/cfp",
+    "locales": "EN",
     "cocUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/code-of-conduct/",
-    "locales": "EN"
+    "cfpUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/cfp"
   },
   {
     "name": "KubeCon + CloudNativeCon North America",
@@ -19,9 +19,9 @@
     "city": "Los Angeles, CA",
     "country": "U.S.A.",
     "online": false,
-    "cfpUrl": "https://sessionize.com/kubecon-cloudnativecon-north-america-2026",
-    "twitter": "@CloudNativeFdn",
+    "locales": "EN",
     "cocUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/attend/code-of-conduct/",
-    "locales": "EN"
+    "cfpUrl": "https://sessionize.com/kubecon-cloudnativecon-north-america-2026",
+    "twitter": "@CloudNativeFdn"
   }
 ]

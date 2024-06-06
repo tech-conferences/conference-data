@@ -121,8 +121,8 @@
     "startDate": "2020-10-23",
     "endDate": "2020-10-23",
     "online": true,
-    "twitter": "@rossconf",
-    "cocUrl": "https://www.rossconf.io/event/remote/"
+    "cocUrl": "https://www.rossconf.io/event/remote/",
+    "twitter": "@rossconf"
   },
   {
     "name": "RubyConf",
@@ -131,7 +131,7 @@
     "endDate": "2020-11-19",
     "city": "Houston, TX",
     "country": "U.S.A.",
-    "twitter": "@rubyconf",
-    "cocUrl": "https://rubyconf.org/policies"
+    "cocUrl": "https://rubyconf.org/policies",
+    "twitter": "@rubyconf"
   }
 ]

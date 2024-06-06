@@ -5,11 +5,11 @@
     "startDate": "2021-06-11",
     "endDate": "2021-06-11",
     "online": true,
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://www.webdirections.org/web-directions-event-code-of-conduct/",
     "cfpUrl": "https://www.webdirections.org/lazyload/#speak",
     "cfpEndDate": "2021-02-28",
-    "twitter": "@webdirections",
-    "cocUrl": "https://www.webdirections.org/web-directions-event-code-of-conduct/",
-    "offersSignLanguageOrCC": true
+    "twitter": "@webdirections"
   },
   {
     "name": "Data Nerd Days - USA",
@@ -17,8 +17,8 @@
     "startDate": "2021-11-03",
     "endDate": "2021-11-03",
     "online": true,
-    "twitter": "@NewRelic",
-    "cocUrl": "https://newrelic.com/sites/default/files/2021-09/Event_Terms_and_Conditions.pdf"
+    "cocUrl": "https://newrelic.com/sites/default/files/2021-09/Event_Terms_and_Conditions.pdf",
+    "twitter": "@NewRelic"
   },
   {
     "name": "Data Nerd Days - EMEA",
@@ -26,7 +26,7 @@
     "startDate": "2021-12-01",
     "endDate": "2021-12-01",
     "online": true,
-    "twitter": "@NewRelic",
-    "cocUrl": "https://newrelic.com/sites/default/files/2021-09/Event_Terms_and_Conditions.pdf"
+    "cocUrl": "https://newrelic.com/sites/default/files/2021-09/Event_Terms_and_Conditions.pdf",
+    "twitter": "@NewRelic"
   }
 ]

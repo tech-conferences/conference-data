@@ -17,8 +17,8 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
-    "twitter": "@qconlondon",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@qconlondon"
   },
   {
     "name": "DrupalCon",
@@ -28,11 +28,11 @@
     "city": "Portland, OR",
     "country": "U.S.A.",
     "online": false,
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://events.drupal.org/code-conduct",
     "cfpUrl": "https://sessionize.com/drupalcon-portland-2022",
     "cfpEndDate": "2021-10-29",
-    "twitter": "@DrupalCon",
-    "cocUrl": "https://events.drupal.org/code-conduct",
-    "offersSignLanguageOrCC": true
+    "twitter": "@DrupalCon"
   },
   {
     "name": "inside agile",
@@ -42,8 +42,8 @@
     "city": "Darmstadt",
     "country": "Germany",
     "online": false,
-    "twitter": "@inside_agile",
-    "cocUrl": "https://konf.inside-agile.de/code_of_conduct.php"
+    "cocUrl": "https://konf.inside-agile.de/code_of_conduct.php",
+    "twitter": "@inside_agile"
   },
   {
     "name": "PUSH Discovery",
@@ -51,10 +51,10 @@
     "startDate": "2022-05-10",
     "endDate": "2022-05-12",
     "online": true,
+    "cocUrl": "https://push-conference.com/legal/terms.php#code-of-conduct",
     "cfpUrl": "https://forms.gle/qHDVf5zZkEu3jC1W6",
     "cfpEndDate": "2022-03-11",
-    "twitter": "@pushconf",
-    "cocUrl": "https://push-conference.com/legal/terms.php#code-of-conduct"
+    "twitter": "@pushconf"
   },
   {
     "name": "QCon Plus Online Software Conference",
@@ -62,8 +62,8 @@
     "startDate": "2022-05-10",
     "endDate": "2022-05-20",
     "online": true,
-    "twitter": "@QCon",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@QCon"
   },
   {
     "name": "ProductCamp",
@@ -93,8 +93,8 @@
     "city": "Dublin",
     "country": "Ireland",
     "online": true,
-    "twitter": "@ProductElev8n",
-    "cocUrl": "https://skillsmatter.com/go/code-of-conduct"
+    "cocUrl": "https://skillsmatter.com/go/code-of-conduct",
+    "twitter": "@ProductElev8n"
   },
   {
     "name": "Infobip Shift",
@@ -104,10 +104,10 @@
     "city": "Zadar",
     "country": "Croatia",
     "online": true,
+    "cocUrl": "https://shift.infobip.com/code/",
     "cfpUrl": "https://sessionize.com/infobipshift",
     "cfpEndDate": "2022-07-01",
-    "twitter": "@infobipshift",
-    "cocUrl": "https://shift.infobip.com/code/"
+    "twitter": "@infobipshift"
   },
   {
     "name": "Impact Conference",
@@ -125,8 +125,8 @@
     "startDate": "2022-10-10",
     "endDate": "2022-10-10",
     "online": true,
-    "twitter": "@inside_agile",
-    "cocUrl": "https://fld.inside-agile.com/code_of_conduct.php"
+    "cocUrl": "https://fld.inside-agile.com/code_of_conduct.php",
+    "twitter": "@inside_agile"
   },
   {
     "name": "InfoComm Southeast Asia",
@@ -145,11 +145,11 @@
     "city": "Milano",
     "country": "Italy",
     "online": true,
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://italia.wordcamp.org/2022/code-of-conduct/",
     "cfpUrl": "https://italia.wordcamp.org/2022/en/call-for-speakers",
     "cfpEndDate": "2022-09-15",
-    "twitter": "@WordCampItalia",
-    "cocUrl": "https://italia.wordcamp.org/2022/code-of-conduct/",
-    "offersSignLanguageOrCC": true
+    "twitter": "@WordCampItalia"
   },
   {
     "name": "CTO Craft - Winter Conference",
@@ -157,9 +157,9 @@
     "startDate": "2022-11-14",
     "endDate": "2022-11-16",
     "online": true,
-    "twitter": "@CTOCraft",
+    "offersSignLanguageOrCC": true,
     "cocUrl": "https://conference.ctocraft.com/code-of-conduct/",
-    "offersSignLanguageOrCC": true
+    "twitter": "@CTOCraft"
   },
   {
     "name": "Git Commit Show",
@@ -167,10 +167,10 @@
     "startDate": "2022-11-26",
     "endDate": "2022-11-27",
     "online": true,
+    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub",
     "cfpUrl": "http://push.gitcommit.show",
     "cfpEndDate": "2022-10-26",
-    "twitter": "@gitcommitshow",
-    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub"
+    "twitter": "@gitcommitshow"
   },
   {
     "name": "International Product Conference",
@@ -180,8 +180,8 @@
     "city": "Prague",
     "country": "Czech Republic",
     "online": true,
-    "twitter": "@ParimatchTech",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@ParimatchTech"
   },
   {
     "name": "DevTernity",
@@ -189,7 +189,7 @@
     "startDate": "2022-12-08",
     "endDate": "2022-12-09",
     "online": true,
-    "twitter": "@devternity",
-    "cocUrl": "https://devternity.com/code_of_conduct.html"
+    "cocUrl": "https://devternity.com/code_of_conduct.html",
+    "twitter": "@devternity"
   }
 ]

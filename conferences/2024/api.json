@@ -7,8 +7,8 @@
     "city": "Austin, TX",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@nordicapis",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@nordicapis"
   },
   {
     "name": "betterCode() Clean Architecture",
@@ -16,9 +16,9 @@
     "startDate": "2024-03-19",
     "endDate": "2024-03-19",
     "online": true,
-    "twitter": "@bettercodeconf",
+    "locales": "DE",
     "cocUrl": "https://clean-architecture.bettercode.eu/code_of_conduct.php",
-    "locales": "DE"
+    "twitter": "@bettercodeconf"
   },
   {
     "name": "API Conference London",
@@ -28,11 +28,11 @@
     "city": "London",
     "country": "U.K.",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://apiconference.net/code-of-conduct/",
     "cfpUrl": "https://apiconference.net/call-for-papers",
     "cfpEndDate": "2023-10-31",
-    "twitter": "@api_conference",
-    "cocUrl": "https://apiconference.net/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@api_conference"
   },
   {
     "name": "Apidays Singapore",
@@ -42,11 +42,11 @@
     "city": "Singapore",
     "country": "Singapore",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.apidays.global/code-of-conduct/",
     "cfpUrl": "https://apidays.typeform.com/to/ILJeAaV8#event_name=xxxxx",
     "cfpEndDate": "2024-04-16",
     "twitter": "@APIdaysGlobal",
-    "cocUrl": "https://www.apidays.global/code-of-conduct/",
-    "locales": "EN",
     "mastodon": "@apidaysglobal@mastodon.social"
   },
   {
@@ -57,11 +57,11 @@
     "city": "Miami, FL",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://shift.infobip.com/us/code/",
     "cfpUrl": "https://airtable.com/apphDmd86uwqL6Riw/shrMHCWCVQK5rbHhz",
     "cfpEndDate": "2023-12-15",
-    "twitter": "@InfobipShift",
-    "cocUrl": "https://shift.infobip.com/us/code/",
-    "locales": "EN"
+    "twitter": "@InfobipShift"
   },
   {
     "name": "Apidays New York",
@@ -71,11 +71,11 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.apidays.global/code-of-conduct/",
     "cfpUrl": "https://apidays.typeform.com/to/ILJeAaV8#event_name=xxxxx",
     "cfpEndDate": "2024-04-29",
     "twitter": "@APIdaysGlobal",
-    "cocUrl": "https://www.apidays.global/code-of-conduct/",
-    "locales": "EN",
     "mastodon": "@apidaysglobal@mastodon.social"
   },
   {
@@ -86,11 +86,11 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.postman.com/legal/community-code-of-conduct/",
     "cfpUrl": "https://sessionize.com/postcon24",
     "cfpEndDate": "2024-01-23",
-    "twitter": "@getpostman",
-    "cocUrl": "https://www.postman.com/legal/community-code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@getpostman"
   },
   {
     "name": "betterCode() API",
@@ -98,11 +98,11 @@
     "startDate": "2024-05-14",
     "endDate": "2024-05-14",
     "online": true,
+    "locales": "DE",
+    "cocUrl": "https://api.bettercode.eu/code_of_conduct.php",
     "cfpUrl": "https://api.bettercode.eu/cfp.php",
     "cfpEndDate": "2024-01-22",
-    "twitter": "@bettercodeconf",
-    "cocUrl": "https://api.bettercode.eu/code_of_conduct.php",
-    "locales": "DE"
+    "twitter": "@bettercodeconf"
   },
   {
     "name": "TIL Conf",
@@ -110,8 +110,8 @@
     "startDate": "2024-05-16",
     "endDate": "2024-05-19",
     "online": true,
-    "cocUrl": "https://til-conf.netlify.app/coc/",
-    "locales": "EN"
+    "locales": "EN",
+    "cocUrl": "https://til-conf.netlify.app/coc/"
   },
   {
     "name": "5th International Conference on Natural Language Computing and AI",
@@ -119,10 +119,10 @@
     "startDate": "2024-05-18",
     "endDate": "2024-05-19",
     "online": true,
-    "cfpUrl": "https://ccsea2024.org/nlcai/index",
-    "cfpEndDate": "2024-05-11",
+    "locales": "EN",
     "cocUrl": "https://ccsea2024.org/index",
-    "locales": "EN"
+    "cfpUrl": "https://ccsea2024.org/nlcai/index",
+    "cfpEndDate": "2024-05-11"
   },
   {
     "name": "Apidays Helsinki & North",
@@ -132,11 +132,11 @@
     "city": "Helsinki",
     "country": "Finland",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.apidays.global/code-of-conduct/#",
     "cfpUrl": "https://apidays.typeform.com/to/ILJeAaV8#event_name=xxxxx",
     "cfpEndDate": "2024-05-27",
     "twitter": "@APIdaysGlobal",
-    "cocUrl": "https://www.apidays.global/code-of-conduct/#",
-    "locales": "EN",
     "mastodon": "@apidaysglobal@mastodon.social"
   },
   {
@@ -147,9 +147,9 @@
     "city": "Munich",
     "country": "Germany",
     "online": false,
-    "twitter": "@mad_summit",
+    "locales": "DE",
     "cocUrl": "https://mad-summit.de/code-of-conduct/",
-    "locales": "DE"
+    "twitter": "@mad_summit"
   },
   {
     "name": "IT Security Summit",
@@ -159,9 +159,9 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
-    "twitter": "@ITSecSummit",
+    "locales": "DE",
     "cocUrl": "https://it-security-summit.de/de/code-of-conduct/",
-    "locales": "DE"
+    "twitter": "@ITSecSummit"
   },
   {
     "name": "DevRelCon",
@@ -171,11 +171,11 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://mlh.io/code-of-conduct",
     "cfpUrl": "https://nyc24.devrelcon.dev/call-for-proposals",
     "cfpEndDate": "2024-03-01",
-    "twitter": "@devrelcon",
-    "cocUrl": "https://mlh.io/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@devrelcon"
   },
   {
     "name": "GraphQLConf",
@@ -185,11 +185,11 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://graphql.org/conf/2024/speak/#code-of-conduct",
     "cfpUrl": "https://graphql.org/conf/2024/speak",
     "cfpEndDate": "2024-05-22",
-    "twitter": "@graphql",
-    "cocUrl": "https://graphql.org/conf/2024/speak/#code-of-conduct",
-    "locales": "EN"
+    "twitter": "@graphql"
   },
   {
     "name": "Apidays London",
@@ -199,11 +199,11 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.apidays.global/code-of-conduct/#",
     "cfpUrl": "https://apidays.typeform.com/to/ILJeAaV8#event_name=xxxxx",
     "cfpEndDate": "2024-09-17",
     "twitter": "@APIdaysGlobal",
-    "cocUrl": "https://www.apidays.global/code-of-conduct/#",
-    "locales": "EN",
     "mastodon": "@apidaysglobal@mastodon.social"
   },
   {
@@ -224,11 +224,11 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.apollographql.com/docs/community/code-of-conduct/",
     "cfpUrl": "https://reg.summit.graphql.com/flow/apollo/summit24/speaker-landing-page/page/home",
     "cfpEndDate": "2024-05-20",
-    "twitter": "@graphqlsummit",
-    "cocUrl": "https://www.apollographql.com/docs/community/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@graphqlsummit"
   },
   {
     "name": "Apidays Australia",
@@ -238,11 +238,11 @@
     "city": "Melbourne",
     "country": "Australia",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.apidays.global/code-of-conduct/#",
     "cfpUrl": "https://apidays.typeform.com/to/ILJeAaV8#event_name=xxxxx",
     "cfpEndDate": "2024-10-15",
     "twitter": "@APIdaysGlobal",
-    "cocUrl": "https://www.apidays.global/code-of-conduct/#",
-    "locales": "EN",
     "mastodon": "@apidaysglobal@mastodon.social"
   },
   {
@@ -253,9 +253,9 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
-    "twitter": "@api_conference",
+    "locales": "EN",
     "cocUrl": "https://apiconference.net/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@api_conference"
   },
   {
     "name": "VOICE & AI",
@@ -265,8 +265,8 @@
     "city": "Arlington, VA",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@GoModev",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@GoModev"
   },
   {
     "name": "API World",
@@ -276,11 +276,11 @@
     "city": "Santa Clara, CA",
     "country": "U.S.A.",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
     "cfpUrl": "https://sessionize.com/api-world-2024",
     "cfpEndDate": "2024-05-31",
-    "twitter": "@APIWorld",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@APIWorld"
   },
   {
     "name": "Software Architecture Gathering",
@@ -290,11 +290,11 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://conferences.isaqb.org/software-architecture-gathering/code-of-conduct/",
     "cfpUrl": "https://sessionize.com/isaqb-software-architecture-gathering",
     "cfpEndDate": "2024-06-04",
-    "twitter": "@sag_conference",
-    "cocUrl": "https://conferences.isaqb.org/software-architecture-gathering/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@sag_conference"
   },
   {
     "name": "Apidays Paris",
@@ -304,11 +304,11 @@
     "city": "Paris",
     "country": "France",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.apidays.global/code-of-conduct/#",
     "cfpUrl": "https://apidays.typeform.com/to/ILJeAaV8#event_name=xxxxx",
     "cfpEndDate": "2024-12-02",
     "twitter": "@APIdaysGlobal",
-    "cocUrl": "https://www.apidays.global/code-of-conduct/#",
-    "locales": "EN",
     "mastodon": "@apidaysglobal@mastodon.social"
   }
 ]

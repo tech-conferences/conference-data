@@ -5,11 +5,11 @@
     "startDate": "2021-03-11",
     "endDate": "2021-03-11",
     "online": true,
+    "offersSignLanguageOrCC": false,
+    "cocUrl": "https://2021.cssday.it/welcome/coc.html",
     "cfpUrl": "https://2021.cssday.it/welcome/cfp.html",
     "cfpEndDate": "2021-01-31",
-    "twitter": "@cssday_it",
-    "cocUrl": "https://2021.cssday.it/welcome/coc.html",
-    "offersSignLanguageOrCC": false
+    "twitter": "@cssday_it"
   },
   {
     "name": "HTML & CSS Days",
@@ -18,8 +18,8 @@
     "endDate": "2021-03-25",
     "city": "Munich",
     "country": "Germany",
-    "cocUrl": "https://javascript-days.de/code-of-conduct/",
-    "offersSignLanguageOrCC": false
+    "offersSignLanguageOrCC": false,
+    "cocUrl": "https://javascript-days.de/code-of-conduct/"
   },
   {
     "name": "hover",
@@ -27,11 +27,11 @@
     "startDate": "2021-04-23",
     "endDate": "2021-04-30",
     "online": true,
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://www.webdirections.org/web-directions-event-code-of-conduct/",
     "cfpUrl": "https://www.webdirections.org/hover/#speak",
     "cfpEndDate": "2021-01-31",
-    "twitter": "@webdirections",
-    "cocUrl": "https://www.webdirections.org/web-directions-event-code-of-conduct/",
-    "offersSignLanguageOrCC": true
+    "twitter": "@webdirections"
   },
   {
     "name": "HTML & CSS Days",
@@ -41,8 +41,8 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
-    "twitter": "@htmlcssdays",
-    "cocUrl": "https://javascript-days.de/code-of-conduct/"
+    "cocUrl": "https://javascript-days.de/code-of-conduct/",
+    "twitter": "@htmlcssdays"
   },
   {
     "name": "CSS Conf Armenia",
@@ -52,7 +52,7 @@
     "city": "Yerevan",
     "country": "Armenia",
     "online": false,
-    "twitter": "@cssconfam",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@cssconfam"
   }
 ]

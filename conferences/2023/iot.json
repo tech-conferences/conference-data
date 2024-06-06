@@ -7,11 +7,11 @@
     "city": "Brussels",
     "country": "Belgium",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.openembedded.org/wiki/Code_of_Conduct",
     "cfpUrl": "https://pretalx.com/openembedded-workshop-2023/cfp",
     "cfpEndDate": "2022-12-15",
-    "twitter": "@OpenEmbeddedOrg",
-    "cocUrl": "https://www.openembedded.org/wiki/Code_of_Conduct",
-    "locales": "EN"
+    "twitter": "@OpenEmbeddedOrg"
   },
   {
     "name": "ConFoo",
@@ -21,10 +21,10 @@
     "city": "Montreal",
     "country": "Canada",
     "online": false,
+    "cocUrl": "https://confoo.ca/en/code-of-conduct",
     "cfpUrl": "https://confoo.ca/en/2023/call-for-papers",
     "cfpEndDate": "2022-10-06",
-    "twitter": "@confooca",
-    "cocUrl": "https://confoo.ca/en/code-of-conduct"
+    "twitter": "@confooca"
   },
   {
     "name": "Reinforce AI Conference",
@@ -34,8 +34,8 @@
     "city": "Budapest",
     "country": "Hungary",
     "online": true,
-    "twitter": "@reinforceconf",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@reinforceconf"
   },
   {
     "name": "Wasm I/O",
@@ -45,10 +45,10 @@
     "city": "Barcelona",
     "country": "Spain",
     "online": false,
+    "cocUrl": "https://wasmio.tech/coc",
     "cfpUrl": "https://www.papercall.io/wasmio23",
     "cfpEndDate": "2023-01-17",
-    "twitter": "@wasm_io",
-    "cocUrl": "https://wasmio.tech/coc"
+    "twitter": "@wasm_io"
   },
   {
     "name": "building IoT",
@@ -58,11 +58,11 @@
     "city": "Munich",
     "country": "Germany",
     "online": false,
+    "locales": "EN,DE",
+    "cocUrl": "https://www.buildingiot.de/code_of_conduct.php",
     "cfpUrl": "https://www.buildingiot.de/cfp_en.php",
     "cfpEndDate": "2022-12-12",
-    "twitter": "@building_iot",
-    "cocUrl": "https://www.buildingiot.de/code_of_conduct.php",
-    "locales": "EN,DE"
+    "twitter": "@building_iot"
   },
   {
     "name": "MTUG I.T. Summit and Tradeshow",
@@ -72,10 +72,10 @@
     "city": "Portland, ME",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
     "cfpUrl": "https://www.mtug.org/workshopRFP-summit",
     "cfpEndDate": "2023-03-03",
-    "twitter": "@MTUG_Maine",
-    "locales": "EN"
+    "twitter": "@MTUG_Maine"
   },
   {
     "name": "Hardwear.io USA",
@@ -85,11 +85,11 @@
     "city": "Santa Clara, CA",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://hardwear.io/code-of-conduct/",
     "cfpUrl": "https://hardwear.io/usa-2023/cfp.php",
     "cfpEndDate": "2023-02-10",
-    "twitter": "@hardwear_io",
-    "cocUrl": "https://hardwear.io/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@hardwear_io"
   },
   {
     "name": "Hardwear.io USA",
@@ -99,11 +99,11 @@
     "city": "Santa Clara, CA",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://hardwear.io/code-of-conduct/",
     "cfpUrl": "https://hardwear.io/usa-2023/cfp.php",
     "cfpEndDate": "2023-02-10",
-    "twitter": "@hardwear_io",
-    "cocUrl": "https://hardwear.io/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@hardwear_io"
   },
   {
     "name": "Internet 2.0 Conference USA",
@@ -113,8 +113,8 @@
     "city": "Las Vegas, NV",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@internet2conf",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@internet2conf"
   },
   {
     "name": "Silicon Labs Works With",
@@ -122,8 +122,8 @@
     "startDate": "2023-08-22",
     "endDate": "2023-08-23",
     "online": true,
-    "twitter": "@siliconlabs",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@siliconlabs"
   },
   {
     "name": "BlackBerry Summit",
@@ -143,11 +143,11 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://codesync.global/about-us/#Conduct",
     "cfpUrl": "https://sessionize.com/code-beam-europe-2023",
     "cfpEndDate": "2023-06-17",
-    "twitter": "@codebeamio",
-    "cocUrl": "https://codesync.global/about-us/#Conduct",
-    "locales": "EN"
+    "twitter": "@codebeamio"
   },
   {
     "name": "Hardwear.io Netherlands",
@@ -157,11 +157,11 @@
     "city": "The Hague",
     "country": "Netherlands",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://hardwear.io/code-of-conduct/",
     "cfpUrl": "https://hardwear.io/netherlands-2023/cfp.php",
     "cfpEndDate": "2023-08-20",
-    "twitter": "@hardwear_io",
-    "cocUrl": "https://hardwear.io/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@hardwear_io"
   },
   {
     "name": "Conf42 Internet of Things (IoT)",
@@ -169,9 +169,9 @@
     "startDate": "2023-12-14",
     "endDate": "2023-12-14",
     "online": true,
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/conf42-iot-2023",
     "cfpEndDate": "2023-11-14",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct"
+    "twitter": "@conf42com"
   }
 ]

@@ -7,11 +7,11 @@
     "city": "A Coruña",
     "country": "Spain",
     "online": false,
+    "locales": "EN,ES,GL,PT",
+    "cocUrl": "https://codesync.global/about-us/#Conduct",
     "cfpUrl": "https://sessionize.com/code-beam-corunha-2024",
     "cfpEndDate": "2024-01-31",
-    "twitter": "@CodeBEAMCorunha",
-    "cocUrl": "https://codesync.global/about-us/#Conduct",
-    "locales": "EN,ES,GL,PT"
+    "twitter": "@CodeBEAMCorunha"
   },
   {
     "name": "RTC.On",
@@ -21,10 +21,10 @@
     "city": "Kraków",
     "country": "Poland",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://rtcon.live/code-of-conduct",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSel_6kQ6AXMAbtua6QjqfTAFiLauXSB0lHjl8uvd-wlTzzSwQ/viewform",
     "cfpEndDate": "2024-06-28",
-    "twitter": "@ElixirMembrane",
-    "cocUrl": "https://rtcon.live/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@ElixirMembrane"
   }
 ]
