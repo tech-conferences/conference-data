@@ -41,6 +41,20 @@
     "twitter": "@conf42com"
   },
   {
+    "name": "RTC.On",
+    "url": "https://rtcon.live",
+    "startDate": "2024-09-11",
+    "endDate": "2024-09-13",
+    "city": "Kraków",
+    "country": "Poland",
+    "online": false,
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSel_6kQ6AXMAbtua6QjqfTAFiLauXSB0lHjl8uvd-wlTzzSwQ/viewform",
+    "cfpEndDate": "2024-06-28",
+    "twitter": "@ElixirMembrane",
+    "cocUrl": "https://rtcon.live/code-of-conduct",
+    "locales": "EN"
+  },
+  {
     "name": "EuroRust",
     "url": "http://eurorust.eu",
     "startDate": "2024-10-10",
