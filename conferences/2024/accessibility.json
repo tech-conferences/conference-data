@@ -52,6 +52,22 @@
     "twitter": "@fwdays"
   },
   {
+    "name": "Test",
+    "url": "https://test.com",
+    "startDate": "2024-06-13",
+    "endDate": "2024-06-14",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://google.com",
+    "cfpUrl": "https://google.om",
+    "cfpEndDate": "2024-06-12",
+    "twitter": "@cgrail",
+    "mastodon": "@cgrail@social.net"
+  },
+  {
     "name": "Paris Web",
     "url": "https://www.paris-web.fr",
     "startDate": "2024-09-26",
