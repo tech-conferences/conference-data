@@ -6,12 +6,12 @@ module.exports = [
   "city",
   "country",
   "online",
+  "locales",
+  "offersSignLanguageOrCC",
+  "cocUrl",
   "cfpUrl",
   "cfpEndDate",
   "twitter",
-  "cocUrl",
-  "locales",
   "github",
-  "mastodon",
-  "offersSignLanguageOrCC"
+  "mastodon"
 ];

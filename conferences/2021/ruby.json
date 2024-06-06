@@ -5,10 +5,10 @@
     "startDate": "2021-04-07",
     "endDate": "2021-04-07",
     "online": true,
+    "cocUrl": "https://2021.rubyday.it/welcome/coc.html",
     "cfpUrl": "https://2021.rubyday.it/welcome/cfp.html",
     "cfpEndDate": "2021-02-28",
-    "twitter": "@rubydayit",
-    "cocUrl": "https://2021.rubyday.it/welcome/coc.html"
+    "twitter": "@rubydayit"
   },
   {
     "name": "EuRuKo",
@@ -16,10 +16,10 @@
     "startDate": "2021-05-28",
     "endDate": "2021-05-29",
     "online": true,
+    "cocUrl": "https://euruko2021.org/code_of_conduct/",
     "cfpUrl": "https://sessionize.com/euruko-2021/",
     "cfpEndDate": "2021-04-18",
-    "twitter": "@euruko",
-    "cocUrl": "https://euruko2021.org/code_of_conduct/"
+    "twitter": "@euruko"
   },
   {
     "name": "RubyConf",
@@ -29,9 +29,9 @@
     "city": "Denver, CO",
     "country": "U.S.A.",
     "online": false,
+    "cocUrl": "http://rubyconf.org/policies",
     "cfpUrl": "https://cfp.rubycentral.org/events/rubyconf2021",
     "cfpEndDate": "2021-07-16",
-    "twitter": "@rubyconf",
-    "cocUrl": "http://rubyconf.org/policies"
+    "twitter": "@rubyconf"
   }
 ]

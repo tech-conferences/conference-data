@@ -7,9 +7,9 @@
     "city": "Oslo",
     "country": "Norway",
     "online": false,
-    "twitter": "@NDC_Conferences",
+    "locales": "EN",
     "cocUrl": "https://ndc-security.com/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@NDC_Conferences"
   },
   {
     "name": "CloudNativeSecurityCon",
@@ -19,10 +19,10 @@
     "city": "Seattle, WA",
     "country": "U.S.A.",
     "online": false,
-    "cfpUrl": "https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/program/cfp",
-    "cfpEndDate": "2022-11-13",
+    "locales": "EN",
     "cocUrl": "https://events.linuxfoundation.org/about/code-of-conduct/",
-    "locales": "EN"
+    "cfpUrl": "https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/program/cfp",
+    "cfpEndDate": "2022-11-13"
   },
   {
     "name": "OpenEmbedded Workshop",
@@ -32,11 +32,11 @@
     "city": "Brussels",
     "country": "Belgium",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.openembedded.org/wiki/Code_of_Conduct",
     "cfpUrl": "https://pretalx.com/openembedded-workshop-2023/cfp",
     "cfpEndDate": "2022-12-15",
-    "twitter": "@OpenEmbeddedOrg",
-    "cocUrl": "https://www.openembedded.org/wiki/Code_of_Conduct",
-    "locales": "EN"
+    "twitter": "@OpenEmbeddedOrg"
   },
   {
     "name": "ConFoo",
@@ -46,10 +46,10 @@
     "city": "Montreal",
     "country": "Canada",
     "online": false,
+    "cocUrl": "https://confoo.ca/en/code-of-conduct",
     "cfpUrl": "https://confoo.ca/en/2023/call-for-papers",
     "cfpEndDate": "2022-10-06",
-    "twitter": "@confooca",
-    "cocUrl": "https://confoo.ca/en/code-of-conduct"
+    "twitter": "@confooca"
   },
   {
     "name": "Nullcon International Security Conference & Training - Berlin",
@@ -59,10 +59,10 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
+    "cocUrl": "https://nullcon.net/about-conferencepolicy/",
     "cfpUrl": "https://nullcon.net/berlin-2023/cfp",
     "cfpEndDate": "2022-11-30",
-    "twitter": "@nullcon",
-    "cocUrl": "https://nullcon.net/about-conferencepolicy/"
+    "twitter": "@nullcon"
   },
   {
     "name": "OC3",
@@ -70,11 +70,11 @@
     "startDate": "2023-03-15",
     "endDate": "2023-03-15",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.oc3.dev/code-of-conduct",
     "cfpUrl": "https://www.oc3.dev/program",
     "cfpEndDate": "2022-12-15",
-    "twitter": "@EdgelessSystems",
-    "cocUrl": "https://www.oc3.dev/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@EdgelessSystems"
   },
   {
     "name": "Nigeria Cybersecurity Summit",
@@ -94,11 +94,11 @@
     "city": "Santa Clara, CA",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.usenix.org/conferences/coc",
     "cfpUrl": "https://www.usenix.org/conference/srecon23americas/call-for-participation",
     "cfpEndDate": "2022-12-01",
-    "twitter": "@srecon",
-    "cocUrl": "https://www.usenix.org/conferences/coc",
-    "locales": "EN"
+    "twitter": "@srecon"
   },
   {
     "name": "Voxxed Days Bucharest",
@@ -108,11 +108,11 @@
     "city": "Bucharest",
     "country": "Romania",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://romania.voxxeddays.com",
     "cfpUrl": "https://vdbuh23.cfp.dev/#",
     "cfpEndDate": "2023-01-15",
-    "twitter": "@VoxxedBucharest",
-    "cocUrl": "https://romania.voxxeddays.com",
-    "locales": "EN"
+    "twitter": "@VoxxedBucharest"
   },
   {
     "name": "Apprise Conf",
@@ -122,11 +122,11 @@
     "city": "Oslo",
     "country": "Norway",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://appriseconf.com/coc.html",
     "cfpUrl": "https://forms.gle/63C6sSAbzFLFzpX17",
     "cfpEndDate": "2023-01-31",
-    "twitter": "@appriseconf",
-    "cocUrl": "https://appriseconf.com/coc.html",
-    "locales": "EN"
+    "twitter": "@appriseconf"
   },
   {
     "name": "Develop",
@@ -136,11 +136,11 @@
     "city": "Mountain View, CA",
     "country": "U.S.A.",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://developer.cisco.com/develop/codeofconduct",
     "cfpUrl": "https://www.cvent.com/c/abstracts/2afe6360-109d-4894-86be-54e8de013d7c",
     "cfpEndDate": "2022-12-31",
-    "twitter": "@CiscoDevNet",
-    "cocUrl": "https://developer.cisco.com/develop/codeofconduct",
-    "locales": "EN"
+    "twitter": "@CiscoDevNet"
   },
   {
     "name": "Sp4rkcon",
@@ -160,9 +160,9 @@
     "city": "London",
     "country": "U.K.",
     "online": true,
-    "twitter": "@api_conference",
+    "locales": "EN",
     "cocUrl": "https://apiconference.net/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@api_conference"
   },
   {
     "name": "DevOps Conference London",
@@ -172,9 +172,9 @@
     "city": "London",
     "country": "U.K.",
     "online": true,
-    "twitter": "@devops_con",
+    "locales": "EN",
     "cocUrl": "https://devopscon.io/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@devops_con"
   },
   {
     "name": "Serverless Architecture Conference London",
@@ -184,9 +184,9 @@
     "city": "London",
     "country": "U.K.",
     "online": true,
-    "twitter": "@serverlesscon",
+    "locales": "EN",
     "cocUrl": "https://serverless-architecture.io/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@serverlesscon"
   },
   {
     "name": "Security Day",
@@ -194,8 +194,8 @@
     "startDate": "2023-04-26",
     "endDate": "2023-04-26",
     "online": true,
-    "twitter": "@wearedevs",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@wearedevs"
   },
   {
     "name": "Ateraverse",
@@ -203,8 +203,8 @@
     "startDate": "2023-05-03",
     "endDate": "2023-05-04",
     "online": true,
-    "cocUrl": "https://www.atera.com/terms-of-use/",
-    "locales": "EN"
+    "locales": "EN",
+    "cocUrl": "https://www.atera.com/terms-of-use/"
   },
   {
     "name": "MTUG I.T. Summit and Tradeshow",
@@ -214,10 +214,10 @@
     "city": "Portland, ME",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
     "cfpUrl": "https://www.mtug.org/workshopRFP-summit",
     "cfpEndDate": "2023-03-03",
-    "twitter": "@MTUG_Maine",
-    "locales": "EN"
+    "twitter": "@MTUG_Maine"
   },
   {
     "name": "SeaStar Quality Conference",
@@ -227,10 +227,10 @@
     "city": "Puerto Plata",
     "country": "Dominican Republic",
     "online": false,
+    "locales": "EN",
     "cfpUrl": "http://testmastersacademy.org",
     "cfpEndDate": "2023-03-07",
-    "twitter": "@TestMastersAcad",
-    "locales": "EN"
+    "twitter": "@TestMastersAcad"
   },
   {
     "name": "JAX",
@@ -240,9 +240,9 @@
     "city": "Mainz",
     "country": "Germany",
     "online": true,
-    "twitter": "@jaxcon",
+    "locales": "EN",
     "cocUrl": "https://jax.de/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@jaxcon"
   },
   {
     "name": "Linux Security Summit North America",
@@ -252,11 +252,11 @@
     "city": "Vancouver",
     "country": "Canada",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://events.linuxfoundation.org/linux-security-summit-north-america/attend/code-of-conduct/",
     "cfpUrl": "https://events.linuxfoundation.org/linux-security-summit-north-america/program/cfp",
     "cfpEndDate": "2023-03-01",
-    "twitter": "@linuxfoundation",
-    "cocUrl": "https://events.linuxfoundation.org/linux-security-summit-north-america/attend/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@linuxfoundation"
   },
   {
     "name": "RuhrSec",
@@ -266,8 +266,8 @@
     "city": "Bochum",
     "country": "Germany",
     "online": false,
-    "twitter": "@ruhrsec",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@ruhrsec"
   },
   {
     "name": "Visual Studio Live! Nashville",
@@ -277,9 +277,9 @@
     "city": "Nashville, TN",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@VSLive",
+    "locales": "EN",
     "cocUrl": "https://vslive.com/pages/harassment.aspx",
-    "locales": "EN"
+    "twitter": "@VSLive"
   },
   {
     "name": "Qubit Conference Prague",
@@ -289,10 +289,10 @@
     "city": "Prague",
     "country": "Czech Republic",
     "online": false,
+    "locales": "EN",
     "cfpUrl": "https://prague.qubitconference.com/call-speakers-form-prague",
     "cfpEndDate": "2023-02-28",
-    "twitter": "@QuBitCon",
-    "locales": "EN"
+    "twitter": "@QuBitCon"
   },
   {
     "name": "IT Security Summit",
@@ -302,9 +302,9 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
-    "twitter": "@ITSecuritySummit",
+    "locales": "DE",
     "cocUrl": "https://it-security-summit.de/code-of-conduct/",
-    "locales": "DE"
+    "twitter": "@ITSecuritySummit"
   },
   {
     "name": "International PHP Conference Berlin",
@@ -314,9 +314,9 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
-    "twitter": "@phpconference",
+    "locales": "EN",
     "cocUrl": "https://phpconference.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@phpconference"
   },
   {
     "name": "Heroes of Data Privacy",
@@ -337,8 +337,8 @@
     "city": "Atlanta, GA",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@RenderATL",
-    "cocUrl": "https://www.renderatl.com/codepolicy"
+    "cocUrl": "https://www.renderatl.com/codepolicy",
+    "twitter": "@RenderATL"
   },
   {
     "name": "MAD Summit München",
@@ -348,9 +348,9 @@
     "city": "Munich",
     "country": "Germany",
     "online": false,
-    "twitter": "@mad_summit",
+    "locales": "DE",
     "cocUrl": "https://mad-summit.de/muenchen/",
-    "locales": "DE"
+    "twitter": "@mad_summit"
   },
   {
     "name": "JCON EUROPE",
@@ -360,11 +360,11 @@
     "city": "Cologne",
     "country": "Germany",
     "online": false,
+    "locales": "EN,DE",
+    "cocUrl": "https://2023.europe.jcon.one/code-of-conduct",
     "cfpUrl": "https://2023.europe.jcon.one/call-for-papers",
     "cfpEndDate": "2023-01-31",
-    "twitter": "@jcon_conference",
-    "cocUrl": "https://2023.europe.jcon.one/code-of-conduct",
-    "locales": "EN,DE"
+    "twitter": "@jcon_conference"
   },
   {
     "name": "DeveloperWeek Latin America",
@@ -372,11 +372,11 @@
     "startDate": "2023-06-21",
     "endDate": "2023-06-22",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
     "cfpUrl": "https://sessionize.com/developerweek-latin-america-2023",
     "cfpEndDate": "2023-04-21",
-    "twitter": "@developerweek",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@developerweek"
   },
   {
     "name": "TribeQonf - 1 Conference For All things Testing",
@@ -386,9 +386,9 @@
     "city": "Bangalore",
     "country": "India",
     "online": false,
-    "twitter": "@the_test_tribe",
+    "locales": "EN",
     "cocUrl": "https://www.thetesttribe.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@the_test_tribe"
   },
   {
     "name": "Visual Studio Live! Microsoft HQ",
@@ -398,9 +398,9 @@
     "city": "Redmond, WA",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@VSLive",
+    "locales": "EN",
     "cocUrl": "https://vslive.com/pages/harassment.aspx",
-    "locales": "EN"
+    "twitter": "@VSLive"
   },
   {
     "name": "UberConf",
@@ -410,9 +410,9 @@
     "city": "Denver, CO",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@nofluff",
+    "locales": "EN",
     "cocUrl": "https://uberconf.com/home/code_of_conduct",
-    "locales": "EN"
+    "twitter": "@nofluff"
   },
   {
     "name": "The Diana Initiative",
@@ -422,11 +422,11 @@
     "city": "Las Vegas, NV",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.dianainitiative.org/about/policies/#CoC",
     "cfpUrl": "https://pretalx.com/the-diana-initiative-2023/cfp",
     "cfpEndDate": "2023-05-29",
-    "twitter": "@dianaInitiative",
-    "cocUrl": "https://www.dianainitiative.org/about/policies/#CoC",
-    "locales": "EN"
+    "twitter": "@dianaInitiative"
   },
   {
     "name": "Visual Studio Live! San Diego",
@@ -436,9 +436,9 @@
     "city": "San Diego, CA",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@VSLive",
+    "locales": "EN",
     "cocUrl": "https://vslive.com/pages/harassment.aspx",
-    "locales": "EN"
+    "twitter": "@VSLive"
   },
   {
     "name": "Skytalks at DEF CON",
@@ -448,11 +448,11 @@
     "city": "Las Vegas, NV",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://skytalks.info/code-of-conduct/",
     "cfpUrl": "https://cfp.skytalks.info/skytalks-2023",
     "cfpEndDate": "2023-05-31",
-    "twitter": "@dcskytalks",
-    "cocUrl": "https://skytalks.info/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@dcskytalks"
   },
   {
     "name": "DeveloperWeek CloudX",
@@ -462,11 +462,11 @@
     "city": "San Mateo, CA",
     "country": "U.S.A.",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
     "cfpUrl": "https://sessionize.com/developerweek-cloudx-2023",
     "cfpEndDate": "2023-05-26",
-    "twitter": "@developerweek",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@developerweek"
   },
   {
     "name": "Software Architecture Conference",
@@ -474,11 +474,11 @@
     "startDate": "2023-08-25",
     "endDate": "2023-08-25",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://softwarearchitecture.live/code-of-conduct/",
     "cfpUrl": "https://forms.office.com/r/XjVUaRDbKR",
     "cfpEndDate": "2023-07-05",
-    "twitter": "@csharpdottv",
-    "cocUrl": "https://softwarearchitecture.live/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@csharpdottv"
   },
   {
     "name": "SpiceWorld",
@@ -488,11 +488,11 @@
     "city": "Austin, TX",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.spiceworks.com/spiceworld/",
     "cfpUrl": "https://www.spiceworks.com",
     "cfpEndDate": "2023-09-04",
-    "twitter": "@spiceworks",
-    "cocUrl": "https://www.spiceworks.com/spiceworld/",
-    "locales": "EN"
+    "twitter": "@spiceworks"
   },
   {
     "name": "GNU Radio Conference",
@@ -502,12 +502,12 @@
     "city": "Tempe, AZ",
     "country": "U.S.A.",
     "online": true,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://events.gnuradio.org/event/21/page/91-code-of-conduct",
     "cfpUrl": "https://events.gnuradio.org/event/21/abstracts",
     "cfpEndDate": "2023-06-05",
-    "twitter": "@gnuradio",
-    "cocUrl": "https://events.gnuradio.org/event/21/page/91-code-of-conduct",
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "twitter": "@gnuradio"
   },
   {
     "name": "swampUP",
@@ -517,8 +517,8 @@
     "city": "San Jose, CA",
     "country": "U.S.A.",
     "online": false,
-    "cocUrl": "https://swampup.jfrog.com/code-of-conduct/",
-    "locales": "EN"
+    "locales": "EN",
+    "cocUrl": "https://swampup.jfrog.com/code-of-conduct/"
   },
   {
     "name": "Secure Our Streets Conference",
@@ -526,11 +526,11 @@
     "startDate": "2023-09-14",
     "endDate": "2023-09-14",
     "online": true,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
     "cfpUrl": "https://sos.asrg.io/cfp",
     "cfpEndDate": "2023-04-30",
-    "twitter": "@SecureOurStreet",
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "twitter": "@SecureOurStreet"
   },
   {
     "name": "Linux Security Summit Europe",
@@ -540,11 +540,11 @@
     "city": "Bilbao",
     "country": "Spain",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://events.linuxfoundation.org/linux-security-summit-europe/attend/code-of-conduct/",
     "cfpUrl": "https://events.linuxfoundation.org/linux-security-summit-europe/program/cfp",
     "cfpEndDate": "2023-06-05",
-    "twitter": "@linuxfoundation",
-    "cocUrl": "https://events.linuxfoundation.org/linux-security-summit-europe/attend/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@linuxfoundation"
   },
   {
     "name": "Nullcon Goa",
@@ -554,11 +554,11 @@
     "city": "Goa",
     "country": "India",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://nullcon.net/about-conferencepolicy/",
     "cfpUrl": "https://nullcon.net/goa-2023/cfp",
     "cfpEndDate": "2023-07-10",
-    "twitter": "@nullcon",
-    "cocUrl": "https://nullcon.net/about-conferencepolicy/",
-    "locales": "EN"
+    "twitter": "@nullcon"
   },
   {
     "name": "Mobile DevOps Summit",
@@ -576,12 +576,12 @@
     "city": "San Diego, CA",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://www.apollographql.com/docs/community/code-of-conduct/",
     "cfpUrl": "https://forms.gle/8kovzMG5nioK4Dkn6",
     "cfpEndDate": "2023-03-27",
-    "twitter": "@graphqlsummit",
-    "cocUrl": "https://www.apollographql.com/docs/community/code-of-conduct/",
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "twitter": "@graphqlsummit"
   },
   {
     "name": "Platform Summit",
@@ -591,8 +591,8 @@
     "city": "Stockholm",
     "country": "Sweden",
     "online": false,
-    "twitter": "@nordicapis",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@nordicapis"
   },
   {
     "name": "BlackBerry Summit",
@@ -612,11 +612,11 @@
     "city": "Santa Clara, CA",
     "country": "U.S.A.",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
     "cfpUrl": "https://sessionize.com/ai-devworld-2023",
     "cfpEndDate": "2023-06-09",
-    "twitter": "@APIWorld",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@APIWorld"
   },
   {
     "name": "Web Directions Summit",
@@ -626,12 +626,12 @@
     "city": "Sydney",
     "country": "Australia",
     "online": true,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
     "cfpUrl": "https://webdirections.org/speaking",
     "cfpEndDate": "2023-05-31",
-    "twitter": "@webdirections",
-    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "twitter": "@webdirections"
   },
   {
     "name": "Ory Summit",
@@ -641,11 +641,11 @@
     "city": "Munich",
     "country": "Germany",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.ory.sh/code-of-conduct/",
     "cfpUrl": "https://forms.gle/NnraCSvTmLJA4u756",
     "cfpEndDate": "2023-08-31",
-    "twitter": "@OryCorp",
-    "cocUrl": "https://www.ory.sh/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@OryCorp"
   },
   {
     "name": "Global Congress on Advanced Satellite Communications",
@@ -655,12 +655,12 @@
     "city": "Barcelona",
     "country": "Spain",
     "online": true,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://advanced-satellite-communications.peersalleyconferences.com/",
     "cfpUrl": "https://advanced-satellite-communications.peersalleyconferences.com/submit-abstract",
     "cfpEndDate": "2023-08-19",
-    "twitter": "@2023_adv",
-    "cocUrl": "https://advanced-satellite-communications.peersalleyconferences.com/",
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "twitter": "@2023_adv"
   },
   {
     "name": "26th International Cybersecurity Conference",
@@ -670,10 +670,10 @@
     "city": "Dubai",
     "country": "United Arab Emirates",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://aavar.org/index.php/rules-and-guidelines/@avar_asia",
     "cfpUrl": "https://forms.gle/yUQgxt4RLrKYErLy9",
     "cfpEndDate": "2023-08-12",
-    "twitter": "@avar_asia",
-    "cocUrl": "https://aavar.org/index.php/rules-and-guidelines/@avar_asia",
-    "locales": "EN"
+    "twitter": "@avar_asia"
   }
 ]

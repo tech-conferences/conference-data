@@ -7,11 +7,11 @@
     "city": "Oslo",
     "country": "Norway",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://appriseconf.com/coc.html",
     "cfpUrl": "https://forms.gle/63C6sSAbzFLFzpX17",
     "cfpEndDate": "2023-01-31",
-    "twitter": "@appriseconf",
-    "cocUrl": "https://appriseconf.com/coc.html",
-    "locales": "EN"
+    "twitter": "@appriseconf"
   },
   {
     "name": "purecode - Functional Programming Talks",
@@ -32,11 +32,11 @@
     "city": "Paris",
     "country": "France",
     "online": false,
+    "locales": "EN,FR",
+    "cocUrl": "https://www.devoxx.fr/presenter-a-devoxx/code-de-conduite/",
     "cfpUrl": "https://cfp.devoxx.fr",
     "cfpEndDate": "2023-01-08",
-    "twitter": "@DevoxxFR",
-    "cocUrl": "https://www.devoxx.fr/presenter-a-devoxx/code-de-conduite/",
-    "locales": "EN,FR"
+    "twitter": "@DevoxxFR"
   },
   {
     "name": "KotlinConf",
@@ -46,10 +46,10 @@
     "city": "Amsterdam",
     "country": "Netherlands",
     "online": false,
+    "cocUrl": "https://kotlinconf.com/code-of-conduct",
     "cfpUrl": "https://sessionize.com/kotlinconf-2023",
     "cfpEndDate": "2022-10-07",
-    "twitter": "@kotlinconf",
-    "cocUrl": "https://kotlinconf.com/code-of-conduct"
+    "twitter": "@kotlinconf"
   },
   {
     "name": "Spring IO",
@@ -69,9 +69,9 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@droidconNYC",
-    "cocUrl": "https://nyc.droidcon.com/code-of-conduct/",
     "locales": "EN",
+    "cocUrl": "https://nyc.droidcon.com/code-of-conduct/",
+    "twitter": "@droidconNYC",
     "mastodon": "@droidcon@androiddev.social"
   },
   {
@@ -82,9 +82,9 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
-    "twitter": "@droidconLondon",
-    "cocUrl": "https://london.droidcon.com/code-of-conduct/",
     "locales": "EN",
+    "cocUrl": "https://london.droidcon.com/code-of-conduct/",
+    "twitter": "@droidconLondon",
     "mastodon": "@droidcon@androiddev.social"
   },
   {
@@ -95,10 +95,10 @@
     "city": "Nairobi",
     "country": "Kenya",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://sessionize.com/droidcon-kenya-2023/",
     "cfpUrl": "https://sessionize.com/droidcon-kenya-2023",
     "cfpEndDate": "2023-09-11",
-    "twitter": "@droidconke",
-    "cocUrl": "https://sessionize.com/droidcon-kenya-2023/",
-    "locales": "EN"
+    "twitter": "@droidconke"
   }
 ]

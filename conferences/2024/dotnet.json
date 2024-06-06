@@ -7,9 +7,9 @@
     "city": "Frankfurt am Main",
     "country": "Germany",
     "online": true,
-    "twitter": "@bastacon",
+    "locales": "DE",
     "cocUrl": "https://basta.net/code-of-conduct-en/",
-    "locales": "DE"
+    "twitter": "@bastacon"
   },
   {
     "name": "Visual Studio Live! (VSLive!) Las Vegas",
@@ -19,10 +19,10 @@
     "city": "Las Vegas, NV",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@vslive",
-    "cocUrl": "https://vslive.com/pages/harassment.aspx",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://vslive.com/pages/harassment.aspx",
+    "twitter": "@vslive"
   },
   {
     "name": "dotnetdays",
@@ -32,8 +32,8 @@
     "city": "Iasi",
     "country": "Romania",
     "online": false,
-    "twitter": "@dotnetdaysro",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@dotnetdaysro"
   },
   {
     "name": "Global Azure London",
@@ -43,9 +43,9 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
+    "locales": "EN",
     "cfpUrl": "https://sessionize.com/global-azure-london-2024",
-    "cfpEndDate": "2024-03-15",
-    "locales": "EN"
+    "cfpEndDate": "2024-03-15"
   },
   {
     "name": "Visual Studio Live! (VSLive!) Chicago",
@@ -55,10 +55,10 @@
     "city": "Chicago, IL",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@vslive",
-    "cocUrl": "https://vslive.com/pages/harassment.aspx",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://vslive.com/pages/harassment.aspx",
+    "twitter": "@vslive"
   },
   {
     "name": "GOTO Amsterdam",
@@ -68,9 +68,9 @@
     "city": "Amsterdam",
     "country": "Netherlands",
     "online": false,
-    "twitter": "@GOTOcon",
+    "locales": "EN",
     "cocUrl": "https://gotoams.nl/2024/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@GOTOcon"
   },
   {
     "name": "BASTA! Fall",
@@ -80,9 +80,9 @@
     "city": "Mainz",
     "country": "Germany",
     "online": true,
-    "twitter": "@bastacon",
+    "locales": "DE",
     "cocUrl": "https://basta.net/code-of-conduct-en/",
-    "locales": "DE"
+    "twitter": "@bastacon"
   },
   {
     "name": "Update Days: .NET Performance",
@@ -92,9 +92,9 @@
     "city": "Kraków",
     "country": "Poland",
     "online": true,
-    "twitter": "@update_conf",
+    "locales": "EN",
     "cocUrl": "https://www.updateconference.net/en/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@update_conf"
   },
   {
     "name": "WeAreDevelopers - World Congress",
@@ -104,11 +104,11 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct",
     "cfpUrl": "https://sessionize.com/wearedevelopers-world-congress-2024",
     "cfpEndDate": "2024-06-04",
-    "twitter": "@wearedevs",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@wearedevs"
   },
   {
     "name": ".NET fwdays",
@@ -118,10 +118,10 @@
     "city": "Kyiv",
     "country": "Ukraine",
     "online": true,
+    "locales": "EN,UK",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfOlpCL3DGMq2N8yj9ILQmutG_76g-BcNEUEMpG48Wmbzrp6A/viewform",
     "cfpEndDate": "2024-06-20",
-    "twitter": "@fwdays",
-    "locales": "EN,UK"
+    "twitter": "@fwdays"
   },
   {
     "name": "Visual Studio Live! (VSLive!) @ Microsoft HQ",
@@ -131,10 +131,10 @@
     "city": "Redmond, WA",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@vslive",
-    "cocUrl": "https://vslive.com/pages/harassment.aspx",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://vslive.com/pages/harassment.aspx",
+    "twitter": "@vslive"
   },
   {
     "name": "Update Conference Prague",
@@ -144,9 +144,9 @@
     "city": "Prague",
     "country": "Czech Republic",
     "online": true,
-    "twitter": "@update_conf",
+    "locales": "EN",
     "cocUrl": "https://www.updateconference.net/en/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@update_conf"
   },
   {
     "name": "betterCode() .NET 9.0",
@@ -154,7 +154,7 @@
     "startDate": "2024-11-19",
     "endDate": "2024-11-19",
     "online": true,
-    "cocUrl": "https://net.bettercode.eu/code_of_conduct.php",
-    "locales": "DE"
+    "locales": "DE",
+    "cocUrl": "https://net.bettercode.eu/code_of_conduct.php"
   }
 ]

@@ -7,10 +7,10 @@
     "city": "Las Vegas, NV",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@vslive",
-    "cocUrl": "https://vslive.com/pages/harassment.aspx",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://vslive.com/pages/harassment.aspx",
+    "twitter": "@vslive"
   },
   {
     "name": "Visual Studio Live! (VSLive!) Chicago",
@@ -20,10 +20,10 @@
     "city": "Chicago, IL",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@vslive",
-    "cocUrl": "https://vslive.com/pages/harassment.aspx",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://vslive.com/pages/harassment.aspx",
+    "twitter": "@vslive"
   },
   {
     "name": "enterJS",
@@ -33,11 +33,11 @@
     "city": "Mainz",
     "country": "Germany",
     "online": false,
+    "locales": "EN,DE",
+    "cocUrl": "https://enterjs.de/code_of_conduct.php",
     "cfpUrl": "https://enterjs.de/cfp_en.php",
     "cfpEndDate": "2023-11-15",
-    "twitter": "@enterjsconf",
-    "cocUrl": "https://enterjs.de/code_of_conduct.php",
-    "locales": "EN,DE"
+    "twitter": "@enterjsconf"
   },
   {
     "name": "Micro Frontends Conference",
@@ -45,10 +45,10 @@
     "startDate": "2024-06-17",
     "endDate": "2024-06-17",
     "online": true,
-    "cfpUrl": "https://sessionize.com/micro-frontends-conference-2024",
-    "cfpEndDate": "2024-03-31",
+    "locales": "EN",
     "cocUrl": "https://conference.microfrontends.cloud/code-of-conduct",
-    "locales": "EN"
+    "cfpUrl": "https://sessionize.com/micro-frontends-conference-2024",
+    "cfpEndDate": "2024-03-31"
   },
   {
     "name": "JSConf Budapest",
@@ -58,11 +58,11 @@
     "city": "Budapest",
     "country": "Hungary",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://jsconfbp.com/code-of-conduct",
     "cfpUrl": "https://jsconfbp.com/call-for-papers",
     "cfpEndDate": "2024-01-26",
     "twitter": "@jsconfbp",
-    "cocUrl": "https://jsconfbp.com/code-of-conduct",
-    "locales": "EN",
     "mastodon": "@jsconfbp@mstdn.social"
   },
   {
@@ -73,11 +73,11 @@
     "city": "Catania",
     "country": "Italy",
     "online": false,
+    "locales": "IT",
+    "cocUrl": "https://www.coderful.io/codice-di-condotta/",
     "cfpUrl": "https://www.coderful.io/speakers",
     "cfpEndDate": "2024-03-10",
-    "twitter": "@coderful",
-    "cocUrl": "https://www.coderful.io/codice-di-condotta/",
-    "locales": "IT"
+    "twitter": "@coderful"
   },
   {
     "name": "Middlesbrough Front End Conference",
@@ -87,9 +87,9 @@
     "city": "Middlesbrough",
     "country": "U.K.",
     "online": false,
-    "twitter": "@middlesbroughfe",
+    "locales": "EN",
     "cocUrl": "https://www.middlesbroughfe.co.uk/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@middlesbroughfe"
   },
   {
     "name": "Visual Studio Live! (VSLive!) @ Microsoft HQ",
@@ -99,10 +99,10 @@
     "city": "Redmond, WA",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@vslive",
-    "cocUrl": "https://vslive.com/pages/harassment.aspx",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://vslive.com/pages/harassment.aspx",
+    "twitter": "@vslive"
   },
   {
     "name": "JSConf Ireland",
@@ -112,11 +112,11 @@
     "city": "Dublin",
     "country": "Ireland",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.jsconf.ie/code-of-conduct",
     "cfpUrl": "https://www.jsconf.ie/call-for-proposals",
     "cfpEndDate": "2024-02-29",
-    "twitter": "@JSConfIE",
-    "cocUrl": "https://www.jsconf.ie/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@JSConfIE"
   },
   {
     "name": "React Advanced London",
@@ -126,11 +126,11 @@
     "city": "London",
     "country": "U.K.",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://portal.gitnation.org/coc",
     "cfpUrl": "https://forms.gle/vs8Qk8BJdSjaLFcB7",
     "cfpEndDate": "2024-06-11",
-    "twitter": "@ReactAdvanced",
-    "cocUrl": "https://portal.gitnation.org/coc",
-    "locales": "EN"
+    "twitter": "@ReactAdvanced"
   },
   {
     "name": "React Summit US",
@@ -140,11 +140,11 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://portal.gitnation.org/coc",
     "cfpUrl": "https://forms.gle/aFJk2xHfegCqHW2b9",
     "cfpEndDate": "2024-07-01",
-    "twitter": "@ReactSummit",
-    "cocUrl": "https://portal.gitnation.org/coc",
-    "locales": "EN"
+    "twitter": "@ReactSummit"
   },
   {
     "name": "Frontend Barcelona Conference",
@@ -154,11 +154,11 @@
     "city": "Barcelona",
     "country": "Spain",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://frontend.barcelona/code-of-conduct",
     "cfpUrl": "https://frontend.barcelona/call-for-papers",
     "cfpEndDate": "2024-09-30",
-    "twitter": "@frontendbcn",
-    "cocUrl": "https://frontend.barcelona/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@frontendbcn"
   },
   {
     "name": "React Day Berlin",
@@ -168,10 +168,10 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://portal.gitnation.org/coc",
     "cfpUrl": "https://forms.gle/xFDmUHGY1b7hb77c7",
     "cfpEndDate": "2024-08-12",
-    "twitter": "@reactdayberlin",
-    "cocUrl": "https://portal.gitnation.org/coc",
-    "locales": "EN"
+    "twitter": "@reactdayberlin"
   }
 ]

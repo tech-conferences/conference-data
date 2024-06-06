@@ -14,10 +14,10 @@
     "endDate": "2021-02-05",
     "city": "Tulsa, OK",
     "country": "U.S.A.",
+    "cocUrl": "https://www.techlahoma.org/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/uxok-2021",
     "cfpEndDate": "2020-10-01",
-    "twitter": "@uxokconf",
-    "cocUrl": "https://www.techlahoma.org/code-of-conduct"
+    "twitter": "@uxokconf"
   },
   {
     "name": "UXLx Masters",
@@ -25,8 +25,8 @@
     "startDate": "2021-02-10",
     "endDate": "2021-02-12",
     "online": true,
-    "twitter": "@uxlx",
-    "offersSignLanguageOrCC": false
+    "offersSignLanguageOrCC": false,
+    "twitter": "@uxlx"
   },
   {
     "name": "Outcome",
@@ -35,11 +35,11 @@
     "endDate": "2021-02-12",
     "city": "Chandigarh",
     "country": "India",
+    "offersSignLanguageOrCC": false,
+    "cocUrl": "http://outcomeconf.com/code-of-conduct/",
     "cfpUrl": "https://outcomeconf.com/call-for-speakers",
     "cfpEndDate": "2020-11-20",
-    "twitter": "@vingar",
-    "cocUrl": "http://outcomeconf.com/code-of-conduct/",
-    "offersSignLanguageOrCC": false
+    "twitter": "@vingar"
   },
   {
     "name": "World-class Designer Conference",
@@ -47,9 +47,9 @@
     "startDate": "2021-02-18",
     "endDate": "2021-02-19",
     "online": true,
-    "twitter": "@class_designer",
+    "offersSignLanguageOrCC": true,
     "cocUrl": "https://conf.wcd.school/code-of-conduct",
-    "offersSignLanguageOrCC": true
+    "twitter": "@class_designer"
   },
   {
     "name": "UXDX APAC",
@@ -57,8 +57,8 @@
     "startDate": "2021-03-04",
     "endDate": "2021-03-05",
     "online": true,
-    "twitter": "@UXDXConf",
-    "offersSignLanguageOrCC": false
+    "offersSignLanguageOrCC": false,
+    "twitter": "@UXDXConf"
   },
   {
     "name": "axe-con",
@@ -76,8 +76,8 @@
     "endDate": "2021-03-18",
     "city": "Birmingham",
     "country": "U.K.",
-    "twitter": "@canvasconf",
-    "cocUrl": "https://docs.google.com/document/d/1E5eiXx868wRSLvExCctywlVulSUkFjlTX2J1PwM_aPA/edit"
+    "cocUrl": "https://docs.google.com/document/d/1E5eiXx868wRSLvExCctywlVulSUkFjlTX2J1PwM_aPA/edit",
+    "twitter": "@canvasconf"
   },
   {
     "name": "The BAD Conference",
@@ -93,8 +93,8 @@
     "startDate": "2021-04-27",
     "endDate": "2021-04-27",
     "online": true,
-    "twitter": "@smashingmembers",
-    "cocUrl": "https://smashingconf.com/codeofconduct"
+    "cocUrl": "https://smashingconf.com/codeofconduct",
+    "twitter": "@smashingmembers"
   },
   {
     "name": "IAC",
@@ -102,9 +102,9 @@
     "startDate": "2021-04-28",
     "endDate": "2021-04-30",
     "online": true,
-    "twitter": "@theiaconf",
+    "offersSignLanguageOrCC": false,
     "cocUrl": "https://www.theiaconference.com/about/code-of-conduct/",
-    "offersSignLanguageOrCC": false
+    "twitter": "@theiaconf"
   },
   {
     "name": "Global FinTech Design Summit",
@@ -120,10 +120,10 @@
     "startDate": "2021-06-05",
     "endDate": "2021-06-06",
     "online": true,
+    "cocUrl": "https://www.uxcampeurope.org/code-of-conduct.html",
     "cfpUrl": "https://www.uxcampeurope.org/session-registration.html",
     "cfpEndDate": "2021-06-05",
-    "twitter": "@uxcampeurope",
-    "cocUrl": "https://www.uxcampeurope.org/code-of-conduct.html"
+    "twitter": "@uxcampeurope"
   },
   {
     "name": "webinale",
@@ -131,11 +131,11 @@
     "startDate": "2021-06-07",
     "endDate": "2021-06-11",
     "online": true,
+    "offersSignLanguageOrCC": false,
+    "cocUrl": "https://webinale.de/code-of-conduct-en/",
     "cfpUrl": "https://webinale.de/call-for-papers",
     "cfpEndDate": "2021-01-14",
-    "twitter": "@webinale",
-    "cocUrl": "https://webinale.de/code-of-conduct-en/",
-    "offersSignLanguageOrCC": false
+    "twitter": "@webinale"
   },
   {
     "name": "DDDx: Domain-Driven Design eXchange",
@@ -143,8 +143,8 @@
     "startDate": "2021-06-08",
     "endDate": "2021-06-09",
     "online": true,
-    "twitter": "@skillsmatter",
-    "cocUrl": "https://skillsmatter.com/go/code-of-conduct"
+    "cocUrl": "https://skillsmatter.com/go/code-of-conduct",
+    "twitter": "@skillsmatter"
   },
   {
     "name": "CSSCAMP",
@@ -152,8 +152,8 @@
     "startDate": "2021-07-14",
     "endDate": "2021-07-14",
     "online": true,
-    "twitter": "@csscamp",
-    "cocUrl": "https://csscamp.tech/code-of-conduct/"
+    "cocUrl": "https://csscamp.tech/code-of-conduct/",
+    "twitter": "@csscamp"
   },
   {
     "name": "Savvy UX Summit",
@@ -169,8 +169,8 @@
     "startDate": "2021-09-23",
     "endDate": "2021-09-24",
     "online": true,
-    "twitter": "@uxyall",
-    "cocUrl": "https://www.uxyall.org/coc"
+    "cocUrl": "https://www.uxyall.org/coc",
+    "twitter": "@uxyall"
   },
   {
     "name": "Amuse",
@@ -198,10 +198,10 @@
     "startDate": "2021-10-21",
     "endDate": "2021-10-22",
     "online": true,
+    "cocUrl": "https://push-conference.com/legal/terms.php#code-of-conduct",
     "cfpUrl": "https://pushconf.typeform.com/to/qAzkfCX3",
     "cfpEndDate": "2021-05-07",
-    "twitter": "@pushconf",
-    "cocUrl": "https://push-conference.com/legal/terms.php#code-of-conduct"
+    "twitter": "@pushconf"
   },
   {
     "name": "CanUX",
@@ -210,8 +210,8 @@
     "endDate": "2021-11-07",
     "city": "Ottawa",
     "country": "Canada",
-    "twitter": "@canuxconf",
-    "cocUrl": "https://canux.io/about/code-of-conduct/"
+    "cocUrl": "https://canux.io/about/code-of-conduct/",
+    "twitter": "@canuxconf"
   },
   {
     "name": "UX Live",
@@ -221,7 +221,7 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
-    "twitter": "@techcircus_",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@techcircus_"
   }
 ]

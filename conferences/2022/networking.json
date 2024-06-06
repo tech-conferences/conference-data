@@ -5,8 +5,8 @@
     "startDate": "2022-02-05",
     "endDate": "2022-02-06",
     "online": true,
-    "twitter": "@fosdem",
-    "cocUrl": "https://fosdem.org/2022/practical/conduct/"
+    "cocUrl": "https://fosdem.org/2022/practical/conduct/",
+    "twitter": "@fosdem"
   },
   {
     "name": "The DEVOPS Conference",
@@ -14,10 +14,10 @@
     "startDate": "2022-03-08",
     "endDate": "2022-03-09",
     "online": true,
+    "cocUrl": "https://www.thedevopsconference.com/code-of-conduct",
     "cfpUrl": "https://www.thedevopsconference.com/call-for-papers",
     "cfpEndDate": "2021-12-16",
-    "twitter": "@eficode",
-    "cocUrl": "https://www.thedevopsconference.com/code-of-conduct"
+    "twitter": "@eficode"
   },
   {
     "name": "FOSS Backstage",
@@ -27,10 +27,10 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
+    "cocUrl": "https://foss-backstage.de/code-conduct",
     "cfpUrl": "https://pretalx.com/foss-backstage-2022",
     "cfpEndDate": "2021-11-15",
-    "twitter": "@Fossbckstg",
-    "cocUrl": "https://foss-backstage.de/code-conduct"
+    "twitter": "@Fossbckstg"
   },
   {
     "name": "NVIDIA GTC",
@@ -50,10 +50,10 @@
     "city": "Lagos",
     "country": "Nigeria",
     "online": true,
+    "offersSignLanguageOrCC": true,
     "cfpUrl": "https://www.papercall.io/cfps/4213/submissions/new",
     "cfpEndDate": "2022-01-27",
-    "twitter": "@oscafrica",
-    "offersSignLanguageOrCC": true
+    "twitter": "@oscafrica"
   },
   {
     "name": "IoT Forum Africa",
@@ -63,8 +63,8 @@
     "city": "Johannesburg",
     "country": "South Africa",
     "online": true,
-    "twitter": "@ITNewsAfrica",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@ITNewsAfrica"
   },
   {
     "name": "StaffPlus New York",
@@ -74,11 +74,11 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "online": false,
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://leaddev.com/code-conduct",
     "cfpUrl": "https://leaddev.com/leaddev-call-proposals",
     "cfpEndDate": "2021-12-13",
-    "twitter": "@TheLeadDev",
-    "cocUrl": "https://leaddev.com/code-conduct",
-    "offersSignLanguageOrCC": true
+    "twitter": "@TheLeadDev"
   },
   {
     "name": "LeadDev New York",
@@ -88,9 +88,9 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@TheLeadDev",
+    "offersSignLanguageOrCC": true,
     "cocUrl": "https://leaddev.com/code-conduct",
-    "offersSignLanguageOrCC": true
+    "twitter": "@TheLeadDev"
   },
   {
     "name": "LeadingEng New York",
@@ -100,11 +100,11 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "online": false,
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://leaddev.com/code-conduct",
     "cfpUrl": "https://leaddev.com/leaddev-call-proposals",
     "cfpEndDate": "2021-12-13",
-    "twitter": "@TheLeadDev",
-    "cocUrl": "https://leaddev.com/code-conduct",
-    "offersSignLanguageOrCC": true
+    "twitter": "@TheLeadDev"
   },
   {
     "name": "Nullcon International Conference and Training Berlin",
@@ -114,10 +114,10 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
+    "cocUrl": "https://nullcon.net/about-conferencepolicy/",
     "cfpUrl": "https://nullcon.net/berlin-2022/cfp",
     "cfpEndDate": "2022-01-15",
-    "twitter": "@nullcon",
-    "cocUrl": "https://nullcon.net/about-conferencepolicy/"
+    "twitter": "@nullcon"
   },
   {
     "name": "DevX Conf",
@@ -125,9 +125,9 @@
     "startDate": "2022-05-02",
     "endDate": "2022-05-03",
     "online": true,
-    "twitter": "@devxconf",
+    "offersSignLanguageOrCC": true,
     "cocUrl": "https://devxconf.org/code-of-conduct",
-    "offersSignLanguageOrCC": true
+    "twitter": "@devxconf"
   },
   {
     "name": "FutureStack",
@@ -161,8 +161,8 @@
     "city": "Round Rock, TX",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@thatconference",
-    "cocUrl": "https://that.us/support/code-of-conduct/"
+    "cocUrl": "https://that.us/support/code-of-conduct/",
+    "twitter": "@thatconference"
   },
   {
     "name": "<CODE/CRAFTS>",
@@ -179,8 +179,8 @@
     "startDate": "2022-05-30",
     "endDate": "2022-05-31",
     "online": true,
-    "twitter": "@yow_conf",
-    "cocUrl": "https://skillsmatter.com/go/code-of-conduct"
+    "cocUrl": "https://skillsmatter.com/go/code-of-conduct",
+    "twitter": "@yow_conf"
   },
   {
     "name": "EMERGE",
@@ -200,9 +200,9 @@
     "city": "Atlanta, GA",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@RenderATL",
+    "offersSignLanguageOrCC": true,
     "cocUrl": "RenderATL.com/thecode",
-    "offersSignLanguageOrCC": true
+    "twitter": "@RenderATL"
   },
   {
     "name": "LeadDev London",
@@ -212,11 +212,11 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://leaddev.com/code-conduct",
     "cfpUrl": "https://leaddev.com/leaddev-call-proposals",
     "cfpEndDate": "2022-02-13",
-    "twitter": "@TheLeadDev",
-    "cocUrl": "https://leaddev.com/code-conduct",
-    "offersSignLanguageOrCC": true
+    "twitter": "@TheLeadDev"
   },
   {
     "name": "INTEGRATE",
@@ -249,10 +249,10 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
+    "cocUrl": "https://github.com/prisma/prisma/blob/main/CODE_OF_CONDUCT.md",
     "cfpUrl": "https://prisma103696.typeform.com/to/Gm9zMrKA",
     "cfpEndDate": "2022-04-25",
-    "twitter": "@prisma",
-    "cocUrl": "https://github.com/prisma/prisma/blob/main/CODE_OF_CONDUCT.md"
+    "twitter": "@prisma"
   },
   {
     "name": "hub.berlin",
@@ -262,10 +262,10 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
+    "cocUrl": "https://www.hub.berlin/join-us/faq",
     "cfpUrl": "https://www.hub.berlin/business-festival-tickets-2022",
     "cfpEndDate": "2022-06-21",
-    "twitter": "@hub.berlin",
-    "cocUrl": "https://www.hub.berlin/join-us/faq"
+    "twitter": "@hub.berlin"
   },
   {
     "name": "DEEP Startup Ecosystem Conference",
@@ -295,10 +295,10 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
+    "cocUrl": "https://icinga.com/community/events/icinga-camp-berlin-2022/",
     "cfpUrl": "https://icinga.com/community/events/icinga-camp-berlin-2022/#call-for-papers",
     "cfpEndDate": "2022-05-15",
-    "twitter": "@icinga",
-    "cocUrl": "https://icinga.com/community/events/icinga-camp-berlin-2022/"
+    "twitter": "@icinga"
   },
   {
     "name": "THAT Conference",
@@ -308,10 +308,10 @@
     "city": "Wisconsin Dells, WI",
     "country": "U.S.A.",
     "online": false,
+    "cocUrl": "https://that.us/support/code-of-conduct/",
     "cfpUrl": "https://that.us/call-for-counselors/wi/2022",
     "cfpEndDate": "2022-03-01",
-    "twitter": "@thatconference",
-    "cocUrl": "https://that.us/support/code-of-conduct/"
+    "twitter": "@thatconference"
   },
   {
     "name": "CincyDeliver()",
@@ -321,10 +321,10 @@
     "city": "Cincinnati, OH",
     "country": "U.S.A.",
     "online": false,
+    "cocUrl": "https://www.cincydeliver.org/Home/CodeOfConduct",
     "cfpUrl": "https://www.cincydeliver.org/Sessions/Create",
     "cfpEndDate": "2022-04-30",
-    "twitter": "@DayOfAgile",
-    "cocUrl": "https://www.cincydeliver.org/Home/CodeOfConduct"
+    "twitter": "@DayOfAgile"
   },
   {
     "name": "Selenium Conf",
@@ -332,10 +332,10 @@
     "startDate": "2022-07-29",
     "endDate": "2022-07-30",
     "online": true,
+    "cocUrl": "https://2022.seleniumconf.in/code-of-conduct.html",
     "cfpUrl": "https://confengine.com/conferences/selenium-conf-2022",
     "cfpEndDate": "2022-05-31",
-    "twitter": "@seleniumconf",
-    "cocUrl": "https://2022.seleniumconf.in/code-of-conduct.html"
+    "twitter": "@seleniumconf"
   },
   {
     "name": "International Congress on Ad-Hoc Networks",
@@ -355,9 +355,9 @@
     "city": "Bend, OR",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@cascadiajs",
+    "offersSignLanguageOrCC": true,
     "cocUrl": "https://2022.cascadiajs.com/code-of-conduct",
-    "offersSignLanguageOrCC": true
+    "twitter": "@cascadiajs"
   },
   {
     "name": "ContainerDays Hybrid",
@@ -379,8 +379,8 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
-    "twitter": "@AmA_conf",
-    "cocUrl": "https://www.agile-meets-architecture.com/code-of-conduct"
+    "cocUrl": "https://www.agile-meets-architecture.com/code-of-conduct",
+    "twitter": "@AmA_conf"
   },
   {
     "name": "NodeJS One Africa",
@@ -390,10 +390,10 @@
     "city": "Johannesburg",
     "country": "South Africa",
     "online": true,
+    "cocUrl": "https://nodejsone.com/code-of-conduct/",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeyo0Du4V5FTGeR2_grPN6vkHUi_UVHBKerTmnh3tjolTUU1Q/viewform",
     "cfpEndDate": "2022-08-01",
-    "twitter": "@nodejsone",
-    "cocUrl": "https://nodejsone.com/code-of-conduct/"
+    "twitter": "@nodejsone"
   },
   {
     "name": "Nullcon International Security Conference and Training Goa",
@@ -403,10 +403,10 @@
     "city": "Goa",
     "country": "India",
     "online": false,
+    "cocUrl": "https://nullcon.net/about-conferencepolicy/",
     "cfpUrl": "https://nullcon.net/goa-2022/cfp",
     "cfpEndDate": "2022-06-05",
-    "twitter": "@nullcon",
-    "cocUrl": "https://nullcon.net/about-conferencepolicy/"
+    "twitter": "@nullcon"
   },
   {
     "name": "Software Architecture Summit",
@@ -416,8 +416,8 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
-    "twitter": "@SoftwArchSummit",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@SoftwArchSummit"
   },
   {
     "name": "STARTTOUGH TALKS: BOOST YOUR STARTUP",
@@ -425,9 +425,9 @@
     "startDate": "2022-09-15",
     "endDate": "2022-09-15",
     "online": true,
-    "twitter": "@lemoneye",
+    "offersSignLanguageOrCC": true,
     "cocUrl": "https://events.lemon.io/privacy-policy",
-    "offersSignLanguageOrCC": true
+    "twitter": "@lemoneye"
   },
   {
     "name": "Infobip Shift",
@@ -437,10 +437,10 @@
     "city": "Zadar",
     "country": "Croatia",
     "online": true,
+    "cocUrl": "https://shift.infobip.com/code/",
     "cfpUrl": "https://sessionize.com/infobipshift",
     "cfpEndDate": "2022-07-01",
-    "twitter": "@infobipshift",
-    "cocUrl": "https://shift.infobip.com/code/"
+    "twitter": "@infobipshift"
   },
   {
     "name": "LeanIX Connect Summit Europe",
@@ -450,8 +450,8 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
-    "twitter": "@leanix_net",
-    "cocUrl": "https://www.leanix-connect.com/code-of-conduct"
+    "cocUrl": "https://www.leanix-connect.com/code-of-conduct",
+    "twitter": "@leanix_net"
   },
   {
     "name": "Grace Hopper Celebration",
@@ -471,10 +471,10 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "online": false,
+    "cocUrl": "https://2022.pgconf.nyc/inclusion/",
     "cfpUrl": "https://2022.pgconf.nyc/callforpapers",
     "cfpEndDate": "2022-05-31",
-    "twitter": "@pgconfnyc",
-    "cocUrl": "https://2022.pgconf.nyc/inclusion/"
+    "twitter": "@pgconfnyc"
   },
   {
     "name": "YOW! London",
@@ -492,8 +492,8 @@
     "startDate": "2022-09-22",
     "endDate": "2022-09-24",
     "online": true,
-    "twitter": "@agileindia",
-    "cocUrl": "https://2022.agileindia.org/agile-india-values/"
+    "cocUrl": "https://2022.agileindia.org/agile-india-values/",
+    "twitter": "@agileindia"
   },
   {
     "name": "DEX",
@@ -511,10 +511,10 @@
     "startDate": "2022-10-01",
     "endDate": "2022-10-02",
     "online": true,
+    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdFuHEOT9i5KBEOL56nbwn6HNGpsgGL55JGwwXYFdjC4kqnHw/viewform",
     "cfpEndDate": "2022-09-30",
-    "twitter": "@gitcommitshow",
-    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub"
+    "twitter": "@gitcommitshow"
   },
   {
     "name": "Linq",
@@ -543,10 +543,10 @@
     "city": "Munich",
     "country": "Germany",
     "online": true,
+    "cocUrl": "https://www.ory.sh/code-of-conduct/",
     "cfpUrl": "https://sessionize.com/ory-summit",
     "cfpEndDate": "2022-08-30",
-    "twitter": "@OryCorp",
-    "cocUrl": "https://www.ory.sh/code-of-conduct/"
+    "twitter": "@OryCorp"
   },
   {
     "name": "React Advanced London",
@@ -556,11 +556,11 @@
     "city": "London",
     "country": "U.K.",
     "online": true,
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://reactadvanced.com/coc",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScDO_8VuVGKp_PZAepiJe6WHEbdc7UeDS4jX3PzgMO4OeMFQQ/viewform",
     "cfpEndDate": "2022-07-31",
-    "twitter": "@ReactAdvanced",
-    "cocUrl": "https://reactadvanced.com/coc",
-    "offersSignLanguageOrCC": true
+    "twitter": "@ReactAdvanced"
   },
   {
     "name": "Arm DevSummit",
@@ -622,8 +622,8 @@
     "startDate": "2022-11-02",
     "endDate": "2022-11-04",
     "online": true,
-    "twitter": "@SIGNALConf",
-    "cocUrl": "https://www.signal2022.com/twilio/codeofconduct"
+    "cocUrl": "https://www.signal2022.com/twilio/codeofconduct",
+    "twitter": "@SIGNALConf"
   },
   {
     "name": "UK Cyber Week",
@@ -643,8 +643,8 @@
     "city": "Vilnius",
     "country": "Lithuania",
     "online": true,
-    "twitter": "@BuildStuffConf",
-    "cocUrl": "https://www.buildstuff.events/code-of-conduct"
+    "cocUrl": "https://www.buildstuff.events/code-of-conduct",
+    "twitter": "@BuildStuffConf"
   },
   {
     "name": "WordCamp Italia",
@@ -654,11 +654,11 @@
     "city": "Milano",
     "country": "Italy",
     "online": true,
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://italia.wordcamp.org/2022/code-of-conduct/",
     "cfpUrl": "https://italia.wordcamp.org/2022/en/call-for-speakers",
     "cfpEndDate": "2022-09-15",
-    "twitter": "@WordCampItalia",
-    "cocUrl": "https://italia.wordcamp.org/2022/code-of-conduct/",
-    "offersSignLanguageOrCC": true
+    "twitter": "@WordCampItalia"
   },
   {
     "name": "CTO Craft - Winter Conference",
@@ -666,9 +666,9 @@
     "startDate": "2022-11-14",
     "endDate": "2022-11-16",
     "online": true,
-    "twitter": "@CTOCraft",
+    "offersSignLanguageOrCC": true,
     "cocUrl": "https://conference.ctocraft.com/code-of-conduct/",
-    "offersSignLanguageOrCC": true
+    "twitter": "@CTOCraft"
   },
   {
     "name": "Open Source Monitoring Conference",
@@ -678,10 +678,10 @@
     "city": "Nürnberg",
     "country": "Germany",
     "online": false,
+    "cocUrl": "https://osmc.de/code-of-conduct/",
     "cfpUrl": "https://osmc.de/call-for-papers",
     "cfpEndDate": "2022-06-30",
-    "twitter": "@netwaysevents",
-    "cocUrl": "https://osmc.de/code-of-conduct/"
+    "twitter": "@netwaysevents"
   },
   {
     "name": "Weave Sphere",
@@ -701,10 +701,10 @@
     "city": "Córdoba",
     "country": "Argentina",
     "online": true,
+    "cocUrl": "https://codear.org/coc",
     "cfpUrl": "https://webconf.tech/cfp",
     "cfpEndDate": "2022-10-01",
-    "twitter": "@WebConfLATAM",
-    "cocUrl": "https://codear.org/coc"
+    "twitter": "@WebConfLATAM"
   },
   {
     "name": "Git Commit Show",
@@ -712,10 +712,10 @@
     "startDate": "2022-11-26",
     "endDate": "2022-11-27",
     "online": true,
+    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub",
     "cfpUrl": "http://push.gitcommit.show",
     "cfpEndDate": "2022-10-26",
-    "twitter": "@gitcommitshow",
-    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub"
+    "twitter": "@gitcommitshow"
   },
   {
     "name": "INNOQ Technology Day",
@@ -723,8 +723,8 @@
     "startDate": "2022-11-30",
     "endDate": "2022-11-30",
     "online": true,
-    "twitter": "@INNOQ",
-    "cocUrl": "https://berlincodeofconduct.org/"
+    "cocUrl": "https://berlincodeofconduct.org/",
+    "twitter": "@INNOQ"
   },
   {
     "name": "React Day Berlin",
@@ -734,10 +734,10 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
+    "cocUrl": "https://reactday.berlin/coc",
     "cfpUrl": "https://forms.gle/fvEuTAsn7cSGGzXN7",
     "cfpEndDate": "2022-09-25",
-    "twitter": "@reactdayberlin",
-    "cocUrl": "https://reactday.berlin/coc"
+    "twitter": "@reactdayberlin"
   },
   {
     "name": "Global Conference On Cyber Security And Cloud Engineering",
@@ -759,8 +759,8 @@
     "city": "Miami, FL",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@ImmerseSummit",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@ImmerseSummit"
   },
   {
     "name": "SpringOne",
@@ -770,8 +770,8 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@springone",
-    "cocUrl": "https://springone.io/code-of-conduct"
+    "cocUrl": "https://springone.io/code-of-conduct",
+    "twitter": "@springone"
   },
   {
     "name": "WEBCONGRESS MIAMI",

@@ -21,10 +21,10 @@
     "startDate": "2022-03-08",
     "endDate": "2022-03-09",
     "online": true,
+    "cocUrl": "https://www.thedevopsconference.com/code-of-conduct",
     "cfpUrl": "https://www.thedevopsconference.com/call-for-papers",
     "cfpEndDate": "2021-12-16",
-    "twitter": "@eficode",
-    "cocUrl": "https://www.thedevopsconference.com/code-of-conduct"
+    "twitter": "@eficode"
   },
   {
     "name": "NVIDIA GTC",
@@ -44,11 +44,11 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "online": false,
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://leaddev.com/code-conduct",
     "cfpUrl": "https://leaddev.com/leaddev-call-proposals",
     "cfpEndDate": "2021-12-13",
-    "twitter": "@TheLeadDev",
-    "cocUrl": "https://leaddev.com/code-conduct",
-    "offersSignLanguageOrCC": true
+    "twitter": "@TheLeadDev"
   },
   {
     "name": "QCon London",
@@ -58,8 +58,8 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
-    "twitter": "@qconlondon",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@qconlondon"
   },
   {
     "name": "LeadDev New York",
@@ -69,9 +69,9 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@TheLeadDev",
+    "offersSignLanguageOrCC": true,
     "cocUrl": "https://leaddev.com/code-conduct",
-    "offersSignLanguageOrCC": true
+    "twitter": "@TheLeadDev"
   },
   {
     "name": "LeadingEng New York",
@@ -81,11 +81,11 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "online": false,
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://leaddev.com/code-conduct",
     "cfpUrl": "https://leaddev.com/leaddev-call-proposals",
     "cfpEndDate": "2021-12-13",
-    "twitter": "@TheLeadDev",
-    "cocUrl": "https://leaddev.com/code-conduct",
-    "offersSignLanguageOrCC": true
+    "twitter": "@TheLeadDev"
   },
   {
     "name": "Developer Growth Summit",
@@ -93,10 +93,10 @@
     "startDate": "2022-04-20",
     "endDate": "2022-04-21",
     "online": true,
+    "cocUrl": "https://codementor.notion.site/Codementor-Events-Code-of-Conduct-37b9714c926c47b4a222429b6e873f48",
     "cfpUrl": "https://arcdotdev.typeform.com/to/JcAdJQgW",
     "cfpEndDate": "2022-04-13",
-    "twitter": "@CodementorIO",
-    "cocUrl": "https://codementor.notion.site/Codementor-Events-Code-of-Conduct-37b9714c926c47b4a222429b6e873f48"
+    "twitter": "@CodementorIO"
   },
   {
     "name": "Central Ohio Software Symposium",
@@ -106,8 +106,8 @@
     "city": "Columbus, OH",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@nofluff",
-    "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct"
+    "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct",
+    "twitter": "@nofluff"
   },
   {
     "name": "inside agile",
@@ -117,8 +117,8 @@
     "city": "Darmstadt",
     "country": "Germany",
     "online": false,
-    "twitter": "@inside_agile",
-    "cocUrl": "https://konf.inside-agile.de/code_of_conduct.php"
+    "cocUrl": "https://konf.inside-agile.de/code_of_conduct.php",
+    "twitter": "@inside_agile"
   },
   {
     "name": "DevOps Enterprise Summit Virtual - Europe",
@@ -136,8 +136,8 @@
     "startDate": "2022-05-10",
     "endDate": "2022-05-20",
     "online": true,
-    "twitter": "@QCon",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@QCon"
   },
   {
     "name": "Infoshare F3",
@@ -157,9 +157,9 @@
     "startDate": "2022-05-31",
     "endDate": "2022-05-31",
     "online": true,
-    "twitter": "@CTOCraft",
+    "offersSignLanguageOrCC": true,
     "cocUrl": "https://conference.ctocraft.com/code-of-conduct/",
-    "offersSignLanguageOrCC": true
+    "twitter": "@CTOCraft"
   },
   {
     "name": "Render-Atlanta (RenderATL)",
@@ -169,9 +169,9 @@
     "city": "Atlanta, GA",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@RenderATL",
+    "offersSignLanguageOrCC": true,
     "cocUrl": "RenderATL.com/thecode",
-    "offersSignLanguageOrCC": true
+    "twitter": "@RenderATL"
   },
   {
     "name": "Agile Testing Days USA",
@@ -181,8 +181,8 @@
     "city": "Chicago, IL",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@AgileTDUSA",
-    "cocUrl": "https://agiletestingdays.us/code-of-conduct/"
+    "cocUrl": "https://agiletestingdays.us/code-of-conduct/",
+    "twitter": "@AgileTDUSA"
   },
   {
     "name": "IEEE Women in Engineering International Leadership Conference",
@@ -204,11 +204,11 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://leaddev.com/code-conduct",
     "cfpUrl": "https://leaddev.com/leaddev-call-proposals",
     "cfpEndDate": "2022-02-13",
-    "twitter": "@TheLeadDev",
-    "cocUrl": "https://leaddev.com/code-conduct",
-    "offersSignLanguageOrCC": true
+    "twitter": "@TheLeadDev"
   },
   {
     "name": "hub.berlin",
@@ -218,10 +218,10 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
+    "cocUrl": "https://www.hub.berlin/join-us/faq",
     "cfpUrl": "https://www.hub.berlin/business-festival-tickets-2022",
     "cfpEndDate": "2022-06-21",
-    "twitter": "@hub.berlin",
-    "cocUrl": "https://www.hub.berlin/join-us/faq"
+    "twitter": "@hub.berlin"
   },
   {
     "name": "DEEP Startup Ecosystem Conference",
@@ -241,8 +241,8 @@
     "city": "Nashville, TN",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@AgileAlliance",
-    "cocUrl": "https://www.agilealliance.org/code_of_conduct/"
+    "cocUrl": "https://www.agilealliance.org/code_of_conduct/",
+    "twitter": "@AgileAlliance"
   },
   {
     "name": "Agile meets Architecture",
@@ -252,8 +252,8 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
-    "twitter": "@AmA_conf",
-    "cocUrl": "https://www.agile-meets-architecture.com/code-of-conduct"
+    "cocUrl": "https://www.agile-meets-architecture.com/code-of-conduct",
+    "twitter": "@AmA_conf"
   },
   {
     "name": "Infobip Shift",
@@ -263,10 +263,10 @@
     "city": "Zadar",
     "country": "Croatia",
     "online": true,
+    "cocUrl": "https://shift.infobip.com/code/",
     "cfpUrl": "https://sessionize.com/infobipshift",
     "cfpEndDate": "2022-07-01",
-    "twitter": "@infobipshift",
-    "cocUrl": "https://shift.infobip.com/code/"
+    "twitter": "@infobipshift"
   },
   {
     "name": "LeanIX Connect Summit Europe",
@@ -276,8 +276,8 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
-    "twitter": "@leanix_net",
-    "cocUrl": "https://www.leanix-connect.com/code-of-conduct"
+    "cocUrl": "https://www.leanix-connect.com/code-of-conduct",
+    "twitter": "@leanix_net"
   },
   {
     "name": "Grace Hopper Celebration",
@@ -295,10 +295,10 @@
     "startDate": "2022-09-20",
     "endDate": "2022-09-23",
     "online": true,
+    "cocUrl": "https://2022.jcon.one/code-of-conduct",
     "cfpUrl": "https://2022.jcon.one/call-for-papers",
     "cfpEndDate": "2022-03-31",
-    "twitter": "@jcon_conference",
-    "cocUrl": "https://2022.jcon.one/code-of-conduct"
+    "twitter": "@jcon_conference"
   },
   {
     "name": "YOW! London",
@@ -316,8 +316,8 @@
     "startDate": "2022-09-22",
     "endDate": "2022-09-24",
     "online": true,
-    "twitter": "@agileindia",
-    "cocUrl": "https://2022.agileindia.org/agile-india-values/"
+    "cocUrl": "https://2022.agileindia.org/agile-india-values/",
+    "twitter": "@agileindia"
   },
   {
     "name": "Immerse Global Summit",
@@ -335,10 +335,10 @@
     "startDate": "2022-10-01",
     "endDate": "2022-10-02",
     "online": true,
+    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdFuHEOT9i5KBEOL56nbwn6HNGpsgGL55JGwwXYFdjC4kqnHw/viewform",
     "cfpEndDate": "2022-09-30",
-    "twitter": "@gitcommitshow",
-    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub"
+    "twitter": "@gitcommitshow"
   },
   {
     "name": "TestFlix",
@@ -346,11 +346,11 @@
     "startDate": "2022-10-08",
     "endDate": "2022-10-09",
     "online": true,
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://www.thetesttribe.com/event-policy-and-code-of-conduct/",
     "cfpUrl": "https://www.thetesttribe.com/testflix-2022-call-for-papers",
     "cfpEndDate": "2022-05-15",
-    "twitter": "@the_test_tribe",
-    "cocUrl": "https://www.thetesttribe.com/event-policy-and-code-of-conduct/",
-    "offersSignLanguageOrCC": true
+    "twitter": "@the_test_tribe"
   },
   {
     "name": "LeadDev San Francisco",
@@ -360,11 +360,11 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "online": false,
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://leaddev.com/code-conduct",
     "cfpUrl": "https://leaddev.submittable.com/submit/7c2c8da9-17e3-483d-961b-a97e977093bb/leaddev-san-francisco-2022-call-for-proposals",
     "cfpEndDate": "2022-04-29",
-    "twitter": "@TheLeadDev",
-    "cocUrl": "https://leaddev.com/code-conduct",
-    "offersSignLanguageOrCC": true
+    "twitter": "@TheLeadDev"
   },
   {
     "name": "Startup Eurasia Conference",
@@ -384,11 +384,11 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://leaddev.com/code-conduct",
     "cfpUrl": "https://leaddev.submittable.com/submit/9d57534a-1130-42df-82e2-f8992d7a1a6b/leaddev-berlin-2022-call-for-proposals",
     "cfpEndDate": "2022-04-29",
-    "twitter": "@TheLeadDev",
-    "cocUrl": "https://leaddev.com/code-conduct",
-    "offersSignLanguageOrCC": true
+    "twitter": "@TheLeadDev"
   },
   {
     "name": "BUILD STUFF",
@@ -398,8 +398,8 @@
     "city": "Vilnius",
     "country": "Lithuania",
     "online": true,
-    "twitter": "@BuildStuffConf",
-    "cocUrl": "https://www.buildstuff.events/code-of-conduct"
+    "cocUrl": "https://www.buildstuff.events/code-of-conduct",
+    "twitter": "@BuildStuffConf"
   },
   {
     "name": "CTO Craft - Winter Conference",
@@ -407,9 +407,9 @@
     "startDate": "2022-11-14",
     "endDate": "2022-11-16",
     "online": true,
-    "twitter": "@CTOCraft",
+    "offersSignLanguageOrCC": true,
     "cocUrl": "https://conference.ctocraft.com/code-of-conduct/",
-    "offersSignLanguageOrCC": true
+    "twitter": "@CTOCraft"
   },
   {
     "name": "Git Commit Show",
@@ -417,10 +417,10 @@
     "startDate": "2022-11-26",
     "endDate": "2022-11-27",
     "online": true,
+    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub",
     "cfpUrl": "http://push.gitcommit.show",
     "cfpEndDate": "2022-10-26",
-    "twitter": "@gitcommitshow",
-    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub"
+    "twitter": "@gitcommitshow"
   },
   {
     "name": "INNOQ Technology Day",
@@ -428,8 +428,8 @@
     "startDate": "2022-11-30",
     "endDate": "2022-11-30",
     "online": true,
-    "twitter": "@INNOQ",
-    "cocUrl": "https://berlincodeofconduct.org/"
+    "cocUrl": "https://berlincodeofconduct.org/",
+    "twitter": "@INNOQ"
   },
   {
     "name": "SpringOne",
@@ -439,8 +439,8 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@springone",
-    "cocUrl": "https://springone.io/code-of-conduct"
+    "cocUrl": "https://springone.io/code-of-conduct",
+    "twitter": "@springone"
   },
   {
     "name": "WEBCONGRESS MIAMI",
@@ -460,8 +460,8 @@
     "city": "Clearwater, FL",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@nofluff",
-    "cocUrl": "https://techleadersummit.io/home/code_of_conduct"
+    "cocUrl": "https://techleadersummit.io/home/code_of_conduct",
+    "twitter": "@nofluff"
   },
   {
     "name": "DevTernity",
@@ -469,8 +469,8 @@
     "startDate": "2022-12-08",
     "endDate": "2022-12-09",
     "online": true,
-    "twitter": "@devternity",
-    "cocUrl": "https://devternity.com/code_of_conduct.html"
+    "cocUrl": "https://devternity.com/code_of_conduct.html",
+    "twitter": "@devternity"
   },
   {
     "name": "ArchConf",
@@ -480,7 +480,7 @@
     "city": "Clearwater, FL",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@nofluff",
-    "cocUrl": "https://archconf.com/home/code_of_conduct"
+    "cocUrl": "https://archconf.com/home/code_of_conduct",
+    "twitter": "@nofluff"
   }
 ]

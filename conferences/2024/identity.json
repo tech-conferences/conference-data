@@ -7,8 +7,8 @@
     "city": "Dresden",
     "country": "Germany",
     "online": false,
-    "twitter": "@authenticondd",
-    "locales": "DE,EN"
+    "locales": "DE,EN",
+    "twitter": "@authenticondd"
   },
   {
     "name": "IIW Internet Identity Workshop",
@@ -18,9 +18,9 @@
     "city": "Mountain View, CA",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@idworkshop",
+    "locales": "EN",
     "cocUrl": "https://internetidentityworkshop.com/engagement-guidelines/",
-    "locales": "EN"
+    "twitter": "@idworkshop"
   },
   {
     "name": "identiverse",
@@ -30,8 +30,8 @@
     "city": "Las Vegas, NV",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@Identiverse",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@Identiverse"
   },
   {
     "name": "eic European Identity and Cloud Conference",
@@ -41,8 +41,8 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
-    "twitter": "@eic_conference",
-    "locales": "DE,EN"
+    "locales": "DE,EN",
+    "twitter": "@eic_conference"
   },
   {
     "name": "DICE Digital Identity unConference Europe",
@@ -52,8 +52,8 @@
     "city": "Zurich",
     "country": "Switzerland",
     "online": false,
-    "twitter": "@IdentityWoman",
-    "locales": "DE,EN"
+    "locales": "DE,EN",
+    "twitter": "@IdentityWoman"
   },
   {
     "name": "Authenticate",
@@ -63,7 +63,7 @@
     "city": "Carlsbad, CA",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@AuthenticateCon",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@AuthenticateCon"
   }
 ]

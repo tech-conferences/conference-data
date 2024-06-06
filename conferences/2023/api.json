@@ -17,10 +17,10 @@
     "city": "Paris",
     "country": "France",
     "online": false,
+    "locales": "FR",
     "cfpUrl": "https://conference-hall.io/public/event/hoyBWUXe43dnoiBekZaB",
     "cfpEndDate": "2022-11-14",
-    "twitter": "@OVHcloud_Tech",
-    "locales": "FR"
+    "twitter": "@OVHcloud_Tech"
   },
   {
     "name": "DeveloperWeek",
@@ -30,11 +30,11 @@
     "city": "Oakland, CA",
     "country": "U.S.A.",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
     "cfpUrl": "https://sessionize.com/developerweek-2023",
     "cfpEndDate": "2022-10-26",
-    "twitter": "@developerweek",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@developerweek"
   },
   {
     "name": "ConFoo",
@@ -44,10 +44,10 @@
     "city": "Montreal",
     "country": "Canada",
     "online": false,
+    "cocUrl": "https://confoo.ca/en/code-of-conduct",
     "cfpUrl": "https://confoo.ca/en/2023/call-for-papers",
     "cfpEndDate": "2022-10-06",
-    "twitter": "@confooca",
-    "cocUrl": "https://confoo.ca/en/code-of-conduct"
+    "twitter": "@confooca"
   },
   {
     "name": "Develop",
@@ -57,11 +57,11 @@
     "city": "Mountain View, CA",
     "country": "U.S.A.",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://developer.cisco.com/develop/codeofconduct",
     "cfpUrl": "https://www.cvent.com/c/abstracts/2afe6360-109d-4894-86be-54e8de013d7c",
     "cfpEndDate": "2022-12-31",
-    "twitter": "@CiscoDevNet",
-    "cocUrl": "https://developer.cisco.com/develop/codeofconduct",
-    "locales": "EN"
+    "twitter": "@CiscoDevNet"
   },
   {
     "name": "API Conference London",
@@ -71,9 +71,9 @@
     "city": "London",
     "country": "U.K.",
     "online": true,
-    "twitter": "@api_conference",
+    "locales": "EN",
     "cocUrl": "https://apiconference.net/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@api_conference"
   },
   {
     "name": "QonfX - Embracing the Future of Testing",
@@ -81,9 +81,9 @@
     "startDate": "2023-04-29",
     "endDate": "2023-04-29",
     "online": true,
-    "twitter": "@the_test_tribe",
+    "locales": "EN",
     "cocUrl": "https://www.thetesttribe.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@the_test_tribe"
   },
   {
     "name": "BeJS Conf",
@@ -93,11 +93,11 @@
     "city": "Brussels",
     "country": "Belgium",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.bejs.io/code-of-conduct",
     "cfpUrl": "https://forms.gle/2cMQNF39mwMiQgG98",
     "cfpEndDate": "2023-02-17",
-    "twitter": "@BeJS_",
-    "cocUrl": "https://www.bejs.io/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@BeJS_"
   },
   {
     "name": "phpday",
@@ -107,11 +107,11 @@
     "city": "Verona",
     "country": "Italy",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://2023.phpday.it/welcome/coc.html",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdo5I9UCxBTmVWNa4UKzkpk2f_ObW4Ce_kHuXBy2zZWcKuEwg/viewform",
     "cfpEndDate": "2023-01-16",
-    "twitter": "@phpday",
-    "cocUrl": "https://2023.phpday.it/welcome/coc.html",
-    "locales": "EN"
+    "twitter": "@phpday"
   },
   {
     "name": "RenderATL",
@@ -121,8 +121,8 @@
     "city": "Atlanta, GA",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@RenderATL",
-    "cocUrl": "https://www.renderatl.com/codepolicy"
+    "cocUrl": "https://www.renderatl.com/codepolicy",
+    "twitter": "@RenderATL"
   },
   {
     "name": "MAD Summit München",
@@ -132,9 +132,9 @@
     "city": "Munich",
     "country": "Germany",
     "online": false,
-    "twitter": "@mad_summit",
+    "locales": "DE",
     "cocUrl": "https://mad-summit.de/muenchen/",
-    "locales": "DE"
+    "twitter": "@mad_summit"
   },
   {
     "name": "JCON EUROPE",
@@ -144,11 +144,11 @@
     "city": "Cologne",
     "country": "Germany",
     "online": false,
+    "locales": "EN,DE",
+    "cocUrl": "https://2023.europe.jcon.one/code-of-conduct",
     "cfpUrl": "https://2023.europe.jcon.one/call-for-papers",
     "cfpEndDate": "2023-01-31",
-    "twitter": "@jcon_conference",
-    "cocUrl": "https://2023.europe.jcon.one/code-of-conduct",
-    "locales": "EN,DE"
+    "twitter": "@jcon_conference"
   },
   {
     "name": "OOP",
@@ -168,9 +168,9 @@
     "city": "Bangalore",
     "country": "India",
     "online": false,
-    "twitter": "@the_test_tribe",
+    "locales": "EN",
     "cocUrl": "https://www.thetesttribe.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@the_test_tribe"
   },
   {
     "name": "WeAreDevelopers World Congress",
@@ -180,11 +180,11 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form.",
     "cfpUrl": "https://sessionize.com/wearedevelopers-worldcongress23",
     "cfpEndDate": "2023-07-19",
-    "twitter": "@WeAreDevs",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form.",
-    "locales": "EN"
+    "twitter": "@WeAreDevs"
   },
   {
     "name": "DeveloperWeek CloudX",
@@ -194,11 +194,11 @@
     "city": "San Mateo, CA",
     "country": "U.S.A.",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
     "cfpUrl": "https://sessionize.com/developerweek-cloudx-2023",
     "cfpEndDate": "2023-05-26",
-    "twitter": "@developerweek",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@developerweek"
   },
   {
     "name": "Outland",
@@ -218,8 +218,8 @@
     "city": "Washington, DC",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@VOICEandAI",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@VOICEandAI"
   },
   {
     "name": "API Platform Conference",
@@ -229,9 +229,9 @@
     "city": "Lille",
     "country": "France",
     "online": true,
-    "twitter": "@ApiPlatform",
+    "locales": "EN,FR",
     "cocUrl": "https://api-platform.com/con/2023/code-of-conduct",
-    "locales": "EN,FR"
+    "twitter": "@ApiPlatform"
   },
   {
     "name": "TestFlix - Global Software Testing Conference",
@@ -239,9 +239,9 @@
     "startDate": "2023-09-23",
     "endDate": "2023-09-24",
     "online": true,
-    "twitter": "@the_test_tribe",
+    "locales": "EN",
     "cocUrl": "https://www.thetesttribe.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@the_test_tribe"
   },
   {
     "name": "GraphQL Summit",
@@ -251,12 +251,12 @@
     "city": "San Diego, CA",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://www.apollographql.com/docs/community/code-of-conduct/",
     "cfpUrl": "https://forms.gle/8kovzMG5nioK4Dkn6",
     "cfpEndDate": "2023-03-27",
-    "twitter": "@graphqlsummit",
-    "cocUrl": "https://www.apollographql.com/docs/community/code-of-conduct/",
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "twitter": "@graphqlsummit"
   },
   {
     "name": "API Conference Berlin",
@@ -266,11 +266,11 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://apiconference.net/code-of-conduct/",
     "cfpUrl": "https://apiconference.net/code-of-conduct",
     "cfpEndDate": "2023-04-12",
-    "twitter": "@api_conference",
-    "cocUrl": "https://apiconference.net/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@api_conference"
   },
   {
     "name": "Platform Summit",
@@ -280,8 +280,8 @@
     "city": "Stockholm",
     "country": "Sweden",
     "online": false,
-    "twitter": "@nordicapis",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@nordicapis"
   },
   {
     "name": "APIWorld",
@@ -291,11 +291,11 @@
     "city": "Santa Clara, CA",
     "country": "U.S.A.",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
     "cfpUrl": "https://sessionize.com/api-world-2023",
     "cfpEndDate": "2023-06-09",
-    "twitter": "@APIWorld",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@APIWorld"
   },
   {
     "name": "Adobe Developers Live | APAC: Content & Commerce",
@@ -303,10 +303,10 @@
     "startDate": "2023-11-15",
     "endDate": "2023-11-15",
     "online": true,
-    "twitter": "@AdobeDevs",
-    "cocUrl": "https://business.adobe.com/events/developers-live-code-of-conduct.html",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://business.adobe.com/events/developers-live-code-of-conduct.html",
+    "twitter": "@AdobeDevs"
   },
   {
     "name": "Open Data & Open Infrastructure Summit",
@@ -314,8 +314,8 @@
     "startDate": "2023-11-20",
     "endDate": "2023-11-22",
     "online": true,
-    "twitter": "@openmesh",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@openmesh"
   },
   {
     "name": "MAD Summit",
@@ -325,8 +325,8 @@
     "city": "Munich",
     "country": "Germany",
     "online": false,
-    "twitter": "@mad_summit",
+    "locales": "DE",
     "cocUrl": "https://mad-summit.de/code-of-conduct/",
-    "locales": "DE"
+    "twitter": "@mad_summit"
   }
 ]

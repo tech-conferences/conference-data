@@ -7,9 +7,9 @@
     "city": "Lisbon",
     "country": "Portugal",
     "online": false,
-    "twitter": "@LaraconEU",
+    "locales": "EN",
     "cocUrl": "https://laracon.eu/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@LaraconEU"
   },
   {
     "name": "VeryTechTrip",
@@ -19,10 +19,10 @@
     "city": "Paris",
     "country": "France",
     "online": false,
+    "locales": "FR",
     "cfpUrl": "https://conference-hall.io/public/event/hoyBWUXe43dnoiBekZaB",
     "cfpEndDate": "2022-11-14",
-    "twitter": "@OVHcloud_Tech",
-    "locales": "FR"
+    "twitter": "@OVHcloud_Tech"
   },
   {
     "name": "PHP UK Conference",
@@ -32,11 +32,11 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.phpconference.co.uk/conduct/",
     "cfpUrl": "https://sessionize.com/php-uk-2023",
     "cfpEndDate": "2022-09-30",
-    "twitter": "@PHPUKConference",
-    "cocUrl": "https://www.phpconference.co.uk/conduct/",
-    "locales": "EN"
+    "twitter": "@PHPUKConference"
   },
   {
     "name": "Meet Magento Florida",
@@ -46,12 +46,12 @@
     "city": "Hollywood, FL",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://meetmagentofl.com/code-of-conduct/",
     "cfpUrl": "https://meetmagentofl.com/product/buy-mm23fl-tickets",
     "cfpEndDate": "2022-12-13",
-    "twitter": "@MeetMagentoFL",
-    "cocUrl": "https://meetmagentofl.com/code-of-conduct/",
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "twitter": "@MeetMagentoFL"
   },
   {
     "name": "ConFoo",
@@ -61,10 +61,10 @@
     "city": "Montreal",
     "country": "Canada",
     "online": false,
+    "cocUrl": "https://confoo.ca/en/code-of-conduct",
     "cfpUrl": "https://confoo.ca/en/2023/call-for-papers",
     "cfpEndDate": "2022-10-06",
-    "twitter": "@confooca",
-    "cocUrl": "https://confoo.ca/en/code-of-conduct"
+    "twitter": "@confooca"
   },
   {
     "name": "Laracon India",
@@ -74,9 +74,9 @@
     "city": "Ahmedabad",
     "country": "India",
     "online": false,
-    "twitter": "@LaraconIN",
+    "locales": "EN",
     "cocUrl": "https://laracon.in/code-of-conduct.html",
-    "locales": "EN"
+    "twitter": "@LaraconIN"
   },
   {
     "name": "Symfony Live Paris",
@@ -86,9 +86,9 @@
     "city": "Paris",
     "country": "France",
     "online": false,
-    "twitter": "@symfony_live",
+    "locales": "FR",
     "cocUrl": "https://symfony.com/doc/current/contributing/code_of_conduct/care_team.html",
-    "locales": "FR"
+    "twitter": "@symfony_live"
   },
   {
     "name": "PHP fwdays",
@@ -96,11 +96,11 @@
     "startDate": "2023-04-22",
     "endDate": "2023-04-22",
     "online": true,
+    "locales": "EN,UK",
+    "cocUrl": "https://fwdays.com/en/page/code-of-conduct",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScv5cLFHFh5Leh7b3FdmCCsf2vir0CtMYoc7Eia6uCZEBSTDQ/viewform",
     "cfpEndDate": "2023-03-10",
-    "twitter": "@fwdays",
-    "cocUrl": "https://fwdays.com/en/page/code-of-conduct",
-    "locales": "EN,UK"
+    "twitter": "@fwdays"
   },
   {
     "name": "AFUP Day",
@@ -120,10 +120,10 @@
     "city": "Wrocław",
     "country": "Poland",
     "online": false,
+    "locales": "EN,PL",
     "cfpUrl": "https://www.drupalcamp.pl/en/proposed-sessions",
     "cfpEndDate": "2023-04-16",
-    "twitter": "@DrupalCampPol",
-    "locales": "EN,PL"
+    "twitter": "@DrupalCampPol"
   },
   {
     "name": "php[tek]",
@@ -133,9 +133,9 @@
     "city": "Chicago, IL",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@phptek",
+    "locales": "EN",
     "cocUrl": "https://tek.phparch.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@phptek"
   },
   {
     "name": "phpday",
@@ -145,11 +145,11 @@
     "city": "Verona",
     "country": "Italy",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://2023.phpday.it/welcome/coc.html",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdo5I9UCxBTmVWNa4UKzkpk2f_ObW4Ce_kHuXBy2zZWcKuEwg/viewform",
     "cfpEndDate": "2023-01-16",
-    "twitter": "@phpday",
-    "cocUrl": "https://2023.phpday.it/welcome/coc.html",
-    "locales": "EN"
+    "twitter": "@phpday"
   },
   {
     "name": "International PHP Conference Berlin",
@@ -159,9 +159,9 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
-    "twitter": "@phpconference",
+    "locales": "EN",
     "cocUrl": "https://phpconference.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@phpconference"
   },
   {
     "name": "DrupalCon",
@@ -171,10 +171,10 @@
     "city": "Pittsburgh, PA",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@drupalcon",
-    "cocUrl": "https://events.drupal.org/code-conduct",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://events.drupal.org/code-conduct",
+    "twitter": "@drupalcon"
   },
   {
     "name": "AgileTD Open Air",
@@ -194,11 +194,11 @@
     "startDate": "2023-06-15",
     "endDate": "2023-06-16",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://symfony.com/doc/current/contributing/code_of_conduct/care_team.html",
     "cfpUrl": "https://live.symfony.com/2023-online-june/cfp",
     "cfpEndDate": "2023-03-06",
-    "twitter": "@symfony_live",
-    "cocUrl": "https://symfony.com/doc/current/contributing/code_of_conduct/care_team.html",
-    "locales": "EN"
+    "twitter": "@symfony_live"
   },
   {
     "name": "Laracon",
@@ -208,9 +208,9 @@
     "city": "Nashville, TN",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@LaraconUS",
+    "locales": "EN",
     "cocUrl": "https://laracon.us/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@LaraconUS"
   },
   {
     "name": "WeAreDevelopers World Congress",
@@ -220,11 +220,11 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form.",
     "cfpUrl": "https://sessionize.com/wearedevelopers-worldcongress23",
     "cfpEndDate": "2023-07-19",
-    "twitter": "@WeAreDevs",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form.",
-    "locales": "EN"
+    "twitter": "@WeAreDevs"
   },
   {
     "name": "PHP fwdays",
@@ -234,11 +234,11 @@
     "city": "Kyiv",
     "country": "Ukraine",
     "online": true,
+    "locales": "EN,UK",
+    "cocUrl": "https://fwdays.com/en/page/code-of-conduct",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScv5cLFHFh5Leh7b3FdmCCsf2vir0CtMYoc7Eia6uCZEBSTDQ/viewform",
     "cfpEndDate": "2023-07-10",
-    "twitter": "@fwdays",
-    "cocUrl": "https://fwdays.com/en/page/code-of-conduct",
-    "locales": "EN,UK"
+    "twitter": "@fwdays"
   },
   {
     "name": "Web Summer Camp",
@@ -248,9 +248,9 @@
     "city": "Opatija",
     "country": "Croatia",
     "online": false,
-    "twitter": "@websummercamp",
+    "locales": "EN",
     "cocUrl": "https://websummercamp.com/2023/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@websummercamp"
   },
   {
     "name": "API Platform Conference",
@@ -260,9 +260,9 @@
     "city": "Lille",
     "country": "France",
     "online": true,
-    "twitter": "@ApiPlatform",
+    "locales": "EN,FR",
     "cocUrl": "https://api-platform.com/con/2023/code-of-conduct",
-    "locales": "EN,FR"
+    "twitter": "@ApiPlatform"
   },
   {
     "name": "CakeFest",
@@ -272,9 +272,9 @@
     "city": "Los Angeles, CA",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@cakephp",
+    "locales": "EN",
     "cocUrl": "https://cakefest.org/conduct",
-    "locales": "EN"
+    "twitter": "@cakephp"
   },
   {
     "name": "SymfonyLive Berlin",
@@ -284,9 +284,9 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
-    "twitter": "@symfony_live",
-    "cocUrl": "https://symfony.com/doc/current/contributing/code_of_conduct/index.html",
     "locales": "DE",
+    "cocUrl": "https://symfony.com/doc/current/contributing/code_of_conduct/index.html",
+    "twitter": "@symfony_live",
     "mastodon": "@symfony@mastodon.social"
   },
   {
@@ -295,11 +295,11 @@
     "startDate": "2023-10-13",
     "endDate": "2023-10-13",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://phpconference.nl/code-of-conduct",
     "cfpUrl": "https://phpconference.nl/call-for-papers-dpc23",
     "cfpEndDate": "2023-07-28",
-    "twitter": "@dpcon",
-    "cocUrl": "https://phpconference.nl/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@dpcon"
   },
   {
     "name": "International PHP Conference",
@@ -309,11 +309,11 @@
     "city": "Munich",
     "country": "Germany",
     "online": true,
+    "locales": "EN,DE",
+    "cocUrl": "https://phpconference.com/code-of-conduct/",
     "cfpUrl": "https://phpconference.com/call-for-papers",
     "cfpEndDate": "2023-05-02",
-    "twitter": "@phpconference",
-    "cocUrl": "https://phpconference.com/code-of-conduct/",
-    "locales": "EN,DE"
+    "twitter": "@phpconference"
   },
   {
     "name": "Longhorn PHP",
@@ -323,11 +323,11 @@
     "city": "Austin, TX",
     "country": "U.S.A.",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.longhornphp.com/code-of-conduct",
     "cfpUrl": "https://cfp.longhornphp.com",
     "cfpEndDate": "2023-06-30",
-    "twitter": "@longhornphp",
-    "cocUrl": "https://www.longhornphp.com/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@longhornphp"
   },
   {
     "name": "Laracon AU",
@@ -337,9 +337,9 @@
     "city": "Sydney",
     "country": "Australia",
     "online": false,
-    "twitter": "@laraconau",
+    "locales": "EN",
     "cocUrl": "https://laracon.au/conduct",
-    "locales": "EN"
+    "twitter": "@laraconau"
   },
   {
     "name": "PHPCon Poland",
@@ -349,9 +349,9 @@
     "city": "Zawiercie",
     "country": "Poland",
     "online": false,
-    "twitter": "@PHPConPoland",
+    "locales": "EN",
     "cocUrl": "https://2023.phpcon.pl/en/coc",
-    "locales": "EN"
+    "twitter": "@PHPConPoland"
   },
   {
     "name": "betterCode() PHP",
@@ -359,9 +359,9 @@
     "startDate": "2023-11-27",
     "endDate": "2023-11-27",
     "online": true,
-    "twitter": "@bettercodeconf",
+    "locales": "EN,DE",
     "cocUrl": "https://php.bettercode.eu/code_of_conduct.php",
-    "locales": "EN,DE"
+    "twitter": "@bettercodeconf"
   },
   {
     "name": "SymfonyCon Brussels",
@@ -371,8 +371,8 @@
     "city": "Brussels",
     "country": "Belgium",
     "online": false,
-    "twitter": "@SymfonyCon",
+    "locales": "EN",
     "cocUrl": "https://symfony.com/doc/current/contributing/code_of_conduct/care_team.html",
-    "locales": "EN"
+    "twitter": "@SymfonyCon"
   }
 ]

@@ -7,10 +7,10 @@
     "city": "Helsinki",
     "country": "Finland",
     "online": false,
+    "cocUrl": "https://robotframework.org/code-of-conduct",
     "cfpUrl": "https://cfp.robocon.io/robocon-2023",
     "cfpEndDate": "2022-09-16",
-    "twitter": "@robocon",
-    "cocUrl": "https://robotframework.org/code-of-conduct"
+    "twitter": "@robocon"
   },
   {
     "name": "Testing, Agile, DevOps and Lowcode Showcase: Methods and Tools",
@@ -20,9 +20,9 @@
     "city": "Manchester",
     "country": "U.K.",
     "online": false,
-    "twitter": "@UNICOMSeminars",
+    "locales": "EN",
     "cocUrl": "https://conference.unicomseminars.org/agile-devops-software-testing-conference/manchester/#Code-Of-Conduct",
-    "locales": "EN"
+    "twitter": "@UNICOMSeminars"
   },
   {
     "name": "Conf42 Chaos Engineering",
@@ -30,10 +30,10 @@
     "startDate": "2023-02-16",
     "endDate": "2023-02-16",
     "online": true,
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/conf42-chaos-engineering-2023",
     "cfpEndDate": "2023-01-16",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct"
+    "twitter": "@conf42com"
   },
   {
     "name": "ConFoo",
@@ -43,10 +43,10 @@
     "city": "Montreal",
     "country": "Canada",
     "online": false,
+    "cocUrl": "https://confoo.ca/en/code-of-conduct",
     "cfpUrl": "https://confoo.ca/en/2023/call-for-papers",
     "cfpEndDate": "2022-10-06",
-    "twitter": "@confooca",
-    "cocUrl": "https://confoo.ca/en/code-of-conduct"
+    "twitter": "@confooca"
   },
   {
     "name": "Testing, Agile, DevOps and Low code Showcase: Methods and Tools",
@@ -56,9 +56,9 @@
     "city": "Bengaluru",
     "country": "India",
     "online": true,
-    "twitter": "@UNICOMLearning",
+    "locales": "EN",
     "cocUrl": "https://www.unicomlearning.com/agile-devops-software-testing-conference/bengaluru-india-2023/#codeofconduct",
-    "locales": "EN"
+    "twitter": "@UNICOMLearning"
   },
   {
     "name": "RoboCon",
@@ -66,10 +66,10 @@
     "startDate": "2023-02-28",
     "endDate": "2023-03-02",
     "online": true,
+    "cocUrl": "https://robotframework.org/code-of-conduct",
     "cfpUrl": "https://cfp.robocon.io/robocon-2023-online",
     "cfpEndDate": "2022-10-14",
-    "twitter": "@robocon",
-    "cocUrl": "https://robotframework.org/code-of-conduct"
+    "twitter": "@robocon"
   },
   {
     "name": "Test Automation University Conference",
@@ -77,8 +77,8 @@
     "startDate": "2023-03-08",
     "endDate": "2023-03-09",
     "online": true,
-    "twitter": "@TestAutomationU",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@TestAutomationU"
   },
   {
     "name": "Apprise Conf",
@@ -88,11 +88,11 @@
     "city": "Oslo",
     "country": "Norway",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://appriseconf.com/coc.html",
     "cfpUrl": "https://forms.gle/63C6sSAbzFLFzpX17",
     "cfpEndDate": "2023-01-31",
-    "twitter": "@appriseconf",
-    "cocUrl": "https://appriseconf.com/coc.html",
-    "locales": "EN"
+    "twitter": "@appriseconf"
   },
   {
     "name": "DevOps Midwest",
@@ -112,12 +112,12 @@
     "city": "Washington, DC",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://www.inflectracon.com/code-of-conduct-2022",
     "cfpUrl": "https://www.inflectracon.com/become-a-speaker-2023",
     "cfpEndDate": "2022-10-31",
-    "twitter": "@inflectracon",
-    "cocUrl": "https://www.inflectracon.com/code-of-conduct-2022",
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "twitter": "@inflectracon"
   },
   {
     "name": "Quality Engineering Community Day",
@@ -125,9 +125,9 @@
     "startDate": "2023-04-20",
     "endDate": "2023-04-20",
     "online": true,
-    "twitter": "@CommunityDay_Co",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@CommunityDay_Co"
   },
   {
     "name": "QonfX - Embracing the Future of Testing",
@@ -135,9 +135,9 @@
     "startDate": "2023-04-29",
     "endDate": "2023-04-29",
     "online": true,
-    "twitter": "@the_test_tribe",
+    "locales": "EN",
     "cocUrl": "https://www.thetesttribe.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@the_test_tribe"
   },
   {
     "name": "Star East",
@@ -147,9 +147,9 @@
     "city": "Orlando, FL",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@TechWell",
+    "locales": "EN",
     "cocUrl": "https://stareast.techwell.com/code-conduct",
-    "locales": "EN"
+    "twitter": "@TechWell"
   },
   {
     "name": "Conf42 Site Reliability Engineering",
@@ -157,10 +157,10 @@
     "startDate": "2023-05-04",
     "endDate": "2023-05-04",
     "online": true,
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/conf42-sre-2023",
     "cfpEndDate": "2023-04-04",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct"
+    "twitter": "@conf42com"
   },
   {
     "name": "SeaStar Quality Conference",
@@ -170,10 +170,10 @@
     "city": "Puerto Plata",
     "country": "Dominican Republic",
     "online": false,
+    "locales": "EN",
     "cfpUrl": "http://testmastersacademy.org",
     "cfpEndDate": "2023-03-07",
-    "twitter": "@TestMastersAcad",
-    "locales": "EN"
+    "twitter": "@TestMastersAcad"
   },
   {
     "name": "JAX",
@@ -183,9 +183,9 @@
     "city": "Mainz",
     "country": "Germany",
     "online": true,
-    "twitter": "@jaxcon",
+    "locales": "EN",
     "cocUrl": "https://jax.de/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@jaxcon"
   },
   {
     "name": "Remix Conf",
@@ -195,12 +195,12 @@
     "city": "Salt Lake City, UT",
     "country": "U.S.A.",
     "online": true,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://remix.run/conf/2023/coc",
     "cfpUrl": "https://sessionize.com/remix-2023",
     "cfpEndDate": "2023-02-08",
-    "twitter": "@remix_run",
-    "cocUrl": "https://remix.run/conf/2023/coc",
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "twitter": "@remix_run"
   },
   {
     "name": "BeJS Conf",
@@ -210,11 +210,11 @@
     "city": "Brussels",
     "country": "Belgium",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.bejs.io/code-of-conduct",
     "cfpUrl": "https://forms.gle/2cMQNF39mwMiQgG98",
     "cfpEndDate": "2023-02-17",
-    "twitter": "@BeJS_",
-    "cocUrl": "https://www.bejs.io/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@BeJS_"
   },
   {
     "name": "phpday",
@@ -224,11 +224,11 @@
     "city": "Verona",
     "country": "Italy",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://2023.phpday.it/welcome/coc.html",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdo5I9UCxBTmVWNa4UKzkpk2f_ObW4Ce_kHuXBy2zZWcKuEwg/viewform",
     "cfpEndDate": "2023-01-16",
-    "twitter": "@phpday",
-    "cocUrl": "https://2023.phpday.it/welcome/coc.html",
-    "locales": "EN"
+    "twitter": "@phpday"
   },
   {
     "name": "Agile Testing Days USA",
@@ -238,10 +238,10 @@
     "city": "Chicago, IL",
     "country": "U.S.A.",
     "online": false,
+    "cocUrl": "https://agiletestingdays.us/code-of-conduct/",
     "cfpUrl": "https://agiletestingdays.us/call-for-papers",
     "cfpEndDate": "2022-09-30",
-    "twitter": "@AgileTDZone",
-    "cocUrl": "https://agiletestingdays.us/code-of-conduct/"
+    "twitter": "@AgileTDZone"
   },
   {
     "name": "International PHP Conference Berlin",
@@ -251,9 +251,9 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
-    "twitter": "@phpconference",
+    "locales": "EN",
     "cocUrl": "https://phpconference.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@phpconference"
   },
   {
     "name": "Software Quality Days",
@@ -263,11 +263,11 @@
     "city": "Munich",
     "country": "Germany",
     "online": false,
+    "locales": "EN,DE",
+    "cocUrl": "https://www.software-quality-days.com/en/general-event-conditions",
     "cfpUrl": "https://www.software-quality-days.com/en/lecturers/call-for-practical-papers",
     "cfpEndDate": "2022-11-30",
-    "twitter": "@swqd",
-    "cocUrl": "https://www.software-quality-days.com/en/general-event-conditions",
-    "locales": "EN,DE"
+    "twitter": "@swqd"
   },
   {
     "name": "UXLx User Experience Lisbon",
@@ -287,10 +287,10 @@
     "city": "Columbus, OH",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc4RuC-pxVvFcC5VR4Yw6Ud2psGfQ2GNRFryZItyDNjy0gliQ/viewform",
     "cfpEndDate": "2023-02-28",
-    "twitter": "@qaorthehighway",
-    "locales": "EN"
+    "twitter": "@qaorthehighway"
   },
   {
     "name": "RenderATL",
@@ -300,8 +300,8 @@
     "city": "Atlanta, GA",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@RenderATL",
-    "cocUrl": "https://www.renderatl.com/codepolicy"
+    "cocUrl": "https://www.renderatl.com/codepolicy",
+    "twitter": "@RenderATL"
   },
   {
     "name": "Conf42 Observability",
@@ -309,10 +309,10 @@
     "startDate": "2023-06-08",
     "endDate": "2023-06-08",
     "online": true,
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/conf42-observability-2023",
     "cfpEndDate": "2023-05-08",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct"
+    "twitter": "@conf42com"
   },
   {
     "name": "AgileTD Open Air",
@@ -334,10 +334,10 @@
     "city": "Antwerp",
     "country": "Belgium",
     "online": false,
+    "cocUrl": "https://conference.eurostarsoftwaretesting.com/anti-harassment-policy/",
     "cfpUrl": "https://conference.eurostarsoftwaretesting.com/call-for-submissions",
     "cfpEndDate": "2022-09-09",
-    "twitter": "@esconfs",
-    "cocUrl": "https://conference.eurostarsoftwaretesting.com/anti-harassment-policy/"
+    "twitter": "@esconfs"
   },
   {
     "name": "MAD Summit: Modularisierung, API Design, DDD",
@@ -347,9 +347,9 @@
     "city": "Munich",
     "country": "Germany",
     "online": false,
-    "twitter": "@mad_summit",
+    "locales": "DE",
     "cocUrl": "https://mad-summit.de/code-of-conduct/",
-    "locales": "DE"
+    "twitter": "@mad_summit"
   },
   {
     "name": "JCON EUROPE",
@@ -359,11 +359,11 @@
     "city": "Cologne",
     "country": "Germany",
     "online": false,
+    "locales": "EN,DE",
+    "cocUrl": "https://2023.europe.jcon.one/code-of-conduct",
     "cfpUrl": "https://2023.europe.jcon.one/call-for-papers",
     "cfpEndDate": "2023-01-31",
-    "twitter": "@jcon_conference",
-    "cocUrl": "https://2023.europe.jcon.one/code-of-conduct",
-    "locales": "EN,DE"
+    "twitter": "@jcon_conference"
   },
   {
     "name": "Appium Conf",
@@ -373,11 +373,11 @@
     "city": "Bengaluru",
     "country": "India",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://appiumconf.com/code-of-conduct/",
     "cfpUrl": "https://confng.in/911K6WUX",
     "cfpEndDate": "2023-03-19",
-    "twitter": "@appium_conf",
-    "cocUrl": "https://appiumconf.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@appium_conf"
   },
   {
     "name": "TribeQonf - 1 Conference For All things Testing",
@@ -387,9 +387,9 @@
     "city": "Bangalore",
     "country": "India",
     "online": false,
-    "twitter": "@the_test_tribe",
+    "locales": "EN",
     "cocUrl": "https://www.thetesttribe.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@the_test_tribe"
   },
   {
     "name": "UberConf",
@@ -399,9 +399,9 @@
     "city": "Denver, CO",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@nofluff",
+    "locales": "EN",
     "cocUrl": "https://uberconf.com/home/code_of_conduct",
-    "locales": "EN"
+    "twitter": "@nofluff"
   },
   {
     "name": "Testmu - Decode The Future of Testing",
@@ -409,8 +409,8 @@
     "startDate": "2023-08-22",
     "endDate": "2023-08-24",
     "online": true,
-    "cocUrl": "https://www.lambdatest.com/testmuconf-2023/",
-    "locales": "EN"
+    "locales": "EN",
+    "cocUrl": "https://www.lambdatest.com/testmuconf-2023/"
   },
   {
     "name": "TestFlix - Global Software Testing Conference",
@@ -418,9 +418,9 @@
     "startDate": "2023-09-23",
     "endDate": "2023-09-24",
     "online": true,
-    "twitter": "@the_test_tribe",
+    "locales": "EN",
     "cocUrl": "https://www.thetesttribe.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@the_test_tribe"
   },
   {
     "name": "QA: Challenge Accepted",
@@ -430,11 +430,11 @@
     "city": "Sofia",
     "country": "Bulgaria",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://webbicus.com/TermsForParticipationAndCodeOfConduct.pdf",
     "cfpUrl": "https://forms.gle/wtt2t1SajDSeWLkE8",
     "cfpEndDate": "2023-05-01",
-    "twitter": "@qachallenge",
-    "cocUrl": "https://webbicus.com/TermsForParticipationAndCodeOfConduct.pdf",
-    "locales": "EN"
+    "twitter": "@qachallenge"
   },
   {
     "name": "STARWEST",
@@ -444,9 +444,9 @@
     "city": "Anaheim, CA",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@techwell",
+    "locales": "EN",
     "cocUrl": "https://starwest.techwell.com/code-conduct",
-    "locales": "EN"
+    "twitter": "@techwell"
   },
   {
     "name": "HUSTEF",
@@ -456,10 +456,10 @@
     "city": "Budapest",
     "country": "Hungary",
     "online": false,
-    "cfpUrl": "https://hustef.hu/wp-content/uploads/2023/02/HUSTEF-2023-Call-for-Proposals_final.pdf",
-    "cfpEndDate": "2023-04-24",
+    "locales": "EN",
     "cocUrl": "https://hustef.hu/code-of-conduct/",
-    "locales": "EN"
+    "cfpUrl": "https://hustef.hu/wp-content/uploads/2023/02/HUSTEF-2023-Call-for-Proposals_final.pdf",
+    "cfpEndDate": "2023-04-24"
   },
   {
     "name": "All Things Open",
@@ -469,8 +469,8 @@
     "city": "Raleigh, NC",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@AllThingsOpen",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@AllThingsOpen"
   },
   {
     "name": "SeaStar Quality Conference",
@@ -480,10 +480,10 @@
     "city": "Playa Dorada",
     "country": "Dominican Republic",
     "online": true,
-    "twitter": "@TestMastersAcad",
-    "cocUrl": "https://quality.seastarconf.com",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://quality.seastarconf.com",
+    "twitter": "@TestMastersAcad"
   },
   {
     "name": "CypressConf",
@@ -491,8 +491,8 @@
     "startDate": "2023-10-17",
     "endDate": "2023-10-17",
     "online": true,
-    "twitter": "@Cypress_io",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@Cypress_io"
   },
   {
     "name": "QA&TEST Embedded",
@@ -502,8 +502,8 @@
     "city": "Bilbao",
     "country": "Spain",
     "online": false,
-    "twitter": "@QATestBilbao",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@QATestBilbao"
   },
   {
     "name": "Conf42 Incident Management",
@@ -511,10 +511,10 @@
     "startDate": "2023-10-19",
     "endDate": "2023-10-19",
     "online": true,
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/conf42-incident-management-2023",
     "cfpEndDate": "2023-09-19",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct"
+    "twitter": "@conf42com"
   },
   {
     "name": "TestCon Europe Conference",
@@ -524,10 +524,10 @@
     "city": "Vilnius",
     "country": "Lithuania",
     "online": true,
+    "locales": "EN",
     "cfpUrl": "https://airtable.com/shrv8qzaTIR41DxGn",
     "cfpEndDate": "2023-09-15",
-    "twitter": "@testconeurope",
-    "locales": "EN"
+    "twitter": "@testconeurope"
   },
   {
     "name": "Agile Testing Days",
@@ -537,11 +537,11 @@
     "city": "Potsdam",
     "country": "Germany",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://agiletestingdays.com/code-of-conduct/",
     "cfpUrl": "https://agiletestingdays.com/call-for-papers",
     "cfpEndDate": "2023-03-19",
-    "twitter": "@AgileTDZone",
-    "cocUrl": "https://agiletestingdays.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@AgileTDZone"
   },
   {
     "name": "TestJS Summit",
@@ -551,10 +551,10 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://testjssummit.com/coc",
     "cfpUrl": "https://forms.gle/NkJp1nAAEvxztTnBA",
     "cfpEndDate": "2023-09-01",
-    "twitter": "@TestJSSummit",
-    "cocUrl": "https://testjssummit.com/coc",
-    "locales": "EN"
+    "twitter": "@TestJSSummit"
   }
 ]

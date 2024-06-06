@@ -5,9 +5,9 @@
     "startDate": "2021-03-01",
     "endDate": "2021-03-01",
     "online": true,
-    "twitter": "@pausefest",
+    "offersSignLanguageOrCC": false,
     "cocUrl": "https://www.pausefest.com.au/images/Documents/Pause-Fest-Code-of-Conduct.pdf",
-    "offersSignLanguageOrCC": false
+    "twitter": "@pausefest"
   },
   {
     "name": "Agile meets Architecture",
@@ -16,10 +16,10 @@
     "endDate": "2021-03-11",
     "city": "Berlin",
     "country": "Germany",
+    "cocUrl": "https://agile-meets-architecture.com/code-of-conduct",
     "cfpUrl": "https://agile-meets-architecture.com/call-for-proposals",
     "cfpEndDate": "2020-08-31",
-    "twitter": "@ama_conf",
-    "cocUrl": "https://agile-meets-architecture.com/code-of-conduct"
+    "twitter": "@ama_conf"
   },
   {
     "name": "FINTECH WORLD FORUM",
@@ -27,8 +27,8 @@
     "startDate": "2021-03-25",
     "endDate": "2021-03-26",
     "online": true,
-    "twitter": "@fintechwforum",
-    "offersSignLanguageOrCC": false
+    "offersSignLanguageOrCC": false,
+    "twitter": "@fintechwforum"
   },
   {
     "name": "DrupalCon North America",
@@ -36,11 +36,11 @@
     "startDate": "2021-04-12",
     "endDate": "2021-04-16",
     "online": true,
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://events.drupal.org/code-conduct",
     "cfpUrl": "https://events.drupal.org/drupalcon2021/sessions/cfp",
     "cfpEndDate": "2021-02-14",
-    "twitter": "@drupalcon",
-    "cocUrl": "https://events.drupal.org/code-conduct",
-    "offersSignLanguageOrCC": true
+    "twitter": "@drupalcon"
   },
   {
     "name": "LeadDev Together",
@@ -48,9 +48,9 @@
     "startDate": "2021-04-13",
     "endDate": "2021-04-13",
     "online": true,
-    "twitter": "@theleaddev",
+    "offersSignLanguageOrCC": true,
     "cocUrl": "https://leaddev.com/code-conduct",
-    "offersSignLanguageOrCC": true
+    "twitter": "@theleaddev"
   },
   {
     "name": "Coworking Symposium",
@@ -66,11 +66,11 @@
     "startDate": "2021-05-07",
     "endDate": "2021-05-07",
     "online": true,
+    "offersSignLanguageOrCC": false,
+    "cocUrl": "https://www.developer-first.com/code-of-conduct",
     "cfpUrl": "https://www.developer-first.com/call-for-proposals",
     "cfpEndDate": "2021-02-05",
-    "twitter": "@developer_first",
-    "cocUrl": "https://www.developer-first.com/code-of-conduct",
-    "offersSignLanguageOrCC": false
+    "twitter": "@developer_first"
   },
   {
     "name": "Running Remote Online",
@@ -78,8 +78,8 @@
     "startDate": "2021-05-21",
     "endDate": "2021-05-21",
     "online": true,
-    "twitter": "@runningremote",
-    "cocUrl": "https://runningremote.com/"
+    "cocUrl": "https://runningremote.com/",
+    "twitter": "@runningremote"
   },
   {
     "name": "Emtech Next",
@@ -128,8 +128,8 @@
     "startDate": "2021-11-18",
     "endDate": "2021-11-18",
     "online": true,
-    "twitter": "@Prisma",
-    "cocUrl": "https://github.com/prisma/Prisma-Day/blob/master/code-of-conduct.md"
+    "cocUrl": "https://github.com/prisma/Prisma-Day/blob/master/code-of-conduct.md",
+    "twitter": "@Prisma"
   },
   {
     "name": "Tech Leader Summit",
@@ -139,8 +139,8 @@
     "city": "Clearwater, FL",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@nofluff",
-    "cocUrl": "https://techleadersummit.io/home/code_of_conduct"
+    "cocUrl": "https://techleadersummit.io/home/code_of_conduct",
+    "twitter": "@nofluff"
   },
   {
     "name": "Agile Leadership Conference",
@@ -148,7 +148,7 @@
     "startDate": "2021-12-09",
     "endDate": "2021-12-09",
     "online": true,
-    "twitter": "@inside_agile",
-    "cocUrl": "https://alc.inside-agile.de/code_of_conduct.php"
+    "cocUrl": "https://alc.inside-agile.de/code_of_conduct.php",
+    "twitter": "@inside_agile"
   }
 ]

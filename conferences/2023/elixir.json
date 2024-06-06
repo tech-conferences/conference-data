@@ -18,8 +18,8 @@
     "city": "Kraków",
     "country": "Poland",
     "online": false,
-    "cocUrl": "https://rtcon.live/code-of-conduct",
-    "locales": "EN"
+    "locales": "EN",
+    "cocUrl": "https://rtcon.live/code-of-conduct"
   },
   {
     "name": "Code BEAM Europe",
@@ -29,10 +29,10 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://codesync.global/about-us/#Conduct",
     "cfpUrl": "https://sessionize.com/code-beam-europe-2023",
     "cfpEndDate": "2023-06-17",
-    "twitter": "@codebeamio",
-    "cocUrl": "https://codesync.global/about-us/#Conduct",
-    "locales": "EN"
+    "twitter": "@codebeamio"
   }
 ]

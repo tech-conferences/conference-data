@@ -6,9 +6,9 @@
     "endDate": "2025-01-31",
     "city": "Phoenix, AZ",
     "country": "U.S.A.",
+    "cocUrl": "https://halfstackconf.com/code-of-conduct",
     "cfpUrl": "https://halfstackconf.com/phoenix/",
-    "twitter": "@halfstackconf",
-    "cocUrl": "https://halfstackconf.com/code-of-conduct"
+    "twitter": "@halfstackconf"
   },
   {
     "name": "ConFoo Montreal",
@@ -18,10 +18,10 @@
     "city": "Montreal",
     "country": "Canada",
     "online": true,
-    "twitter": "@confooca",
-    "mastodon": "@confooca@techhub.social",
+    "locales": "EN",
     "cocUrl": "https://confoo.ca/en/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@confooca",
+    "mastodon": "@confooca@techhub.social"
   },
   {
     "name": "Frontrunners",
@@ -31,11 +31,11 @@
     "city": "Washington, DC",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://frontrunners.tech/conduct",
     "cfpUrl": "https://www.papercall.io/frontrunners2025",
     "cfpEndDate": "2024-11-15",
-    "twitter": "@frontrunnersdc",
-    "cocUrl": "https://frontrunners.tech/conduct",
-    "locales": "EN"
+    "twitter": "@frontrunnersdc"
   },
   {
     "name": "CityJS London",
@@ -45,10 +45,10 @@
     "city": "London",
     "country": "U.K.",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://london.cityjsconf.org/coc",
     "cfpUrl": "https://london.cityjsconf.org/cfp",
     "cfpEndDate": "2024-12-31",
-    "twitter": "@cityjsconf",
-    "cocUrl": "https://london.cityjsconf.org/coc",
-    "locales": "EN"
+    "twitter": "@cityjsconf"
   }
 ]

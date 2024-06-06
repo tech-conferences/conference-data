@@ -7,11 +7,11 @@
     "city": "Bordeaux",
     "country": "France",
     "online": false,
+    "locales": "FR",
+    "cocUrl": "https://www.pycon.fr/2023/fr/conduct.html",
     "cfpUrl": "https://cfp-2023.pycon.fr/cfp",
     "cfpEndDate": "2023-01-07",
-    "twitter": "@pyconfr",
-    "cocUrl": "https://www.pycon.fr/2023/fr/conduct.html",
-    "locales": "FR"
+    "twitter": "@pyconfr"
   },
   {
     "name": "PyCon Namibia",
@@ -21,10 +21,10 @@
     "city": "Windhoek",
     "country": "Namibia",
     "online": false,
-    "cfpUrl": "https://na.pycon.org/call-proposals",
-    "cfpEndDate": "2023-01-22",
+    "locales": "EN",
     "cocUrl": "https://na.pycon.org/code-of-conduct/",
-    "locales": "EN"
+    "cfpUrl": "https://na.pycon.org/call-proposals",
+    "cfpEndDate": "2023-01-22"
   },
   {
     "name": "ConFoo",
@@ -34,10 +34,10 @@
     "city": "Montreal",
     "country": "Canada",
     "online": false,
+    "cocUrl": "https://confoo.ca/en/code-of-conduct",
     "cfpUrl": "https://confoo.ca/en/2023/call-for-papers",
     "cfpEndDate": "2022-10-06",
-    "twitter": "@confooca",
-    "cocUrl": "https://confoo.ca/en/code-of-conduct"
+    "twitter": "@confooca"
   },
   {
     "name": "t3chfest",
@@ -47,11 +47,11 @@
     "city": "Madrid",
     "country": "Spain",
     "online": true,
+    "locales": "ES",
+    "cocUrl": "https://t3chfest.es/2023/en/codigo-conducta",
     "cfpUrl": "https://t3chfest.es/2023/en/call-for-talks",
     "cfpEndDate": "2022-12-11",
-    "twitter": "@t3chfest",
-    "cocUrl": "https://t3chfest.es/2023/en/codigo-conducta",
-    "locales": "ES"
+    "twitter": "@t3chfest"
   },
   {
     "name": "GeoPython",
@@ -61,11 +61,11 @@
     "city": "Basel",
     "country": "Switzerland",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://2023.geopython.net/#codeofconduct",
     "cfpUrl": "https://2023.geopython.net/#speakers",
     "cfpEndDate": "2023-01-12",
-    "twitter": "@GeoPythonConf",
-    "cocUrl": "https://2023.geopython.net/#codeofconduct",
-    "locales": "EN"
+    "twitter": "@GeoPythonConf"
   },
   {
     "name": "Conf42 Python",
@@ -73,10 +73,10 @@
     "startDate": "2023-03-09",
     "endDate": "2023-03-09",
     "online": true,
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/conf42-python-2023",
     "cfpEndDate": "2023-02-09",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct"
+    "twitter": "@conf42com"
   },
   {
     "name": "Python Web Conf",
@@ -84,11 +84,11 @@
     "startDate": "2023-03-13",
     "endDate": "2023-03-17",
     "online": true,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
     "cfpUrl": "https://www.papercall.io/pwc-2023",
     "cfpEndDate": "2022-12-30",
-    "twitter": "@pythonwebconf",
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "twitter": "@pythonwebconf"
   },
   {
     "name": "PyCascades",
@@ -98,11 +98,11 @@
     "city": "Vancouver",
     "country": "Canada",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://2023.pycascades.com/about/code-of-conduct/",
     "cfpUrl": "https://pretalx.com/pycascades-2023/cfp",
     "cfpEndDate": "2022-11-30",
-    "twitter": "@pycascades",
-    "cocUrl": "https://2023.pycascades.com/about/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@pycascades"
   },
   {
     "name": "Wasm I/O",
@@ -112,10 +112,10 @@
     "city": "Barcelona",
     "country": "Spain",
     "online": false,
+    "cocUrl": "https://wasmio.tech/coc",
     "cfpUrl": "https://www.papercall.io/wasmio23",
     "cfpEndDate": "2023-01-17",
-    "twitter": "@wasm_io",
-    "cocUrl": "https://wasmio.tech/coc"
+    "twitter": "@wasm_io"
   },
   {
     "name": "QCon London International Software Development Conference",
@@ -125,8 +125,8 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
-    "twitter": "@QCon",
-    "cocUrl": "https://qconferences.com/code-conduct"
+    "cocUrl": "https://qconferences.com/code-conduct",
+    "twitter": "@QCon"
   },
   {
     "name": "Python Day",
@@ -134,8 +134,8 @@
     "startDate": "2023-04-05",
     "endDate": "2023-04-05",
     "online": true,
-    "twitter": "@WeAreDevs",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@WeAreDevs"
   },
   {
     "name": "Django Day Copenhagen",
@@ -145,11 +145,11 @@
     "city": "Copenhagen",
     "country": "Denmark",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://2023.djangoday.dk/conduct/",
     "cfpUrl": "https://2023.djangoday.dk/cfp",
     "cfpEndDate": "2023-02-28",
-    "twitter": "@djangodenmark",
-    "cocUrl": "https://2023.djangoday.dk/conduct/",
-    "locales": "EN"
+    "twitter": "@djangodenmark"
   },
   {
     "name": "PyCon DE & PyData Berlin",
@@ -159,11 +159,11 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://2023.pycon.de/code-of-conduct/",
     "cfpUrl": "https://2023.pycon.de/blog/call-for-proposals",
     "cfpEndDate": "2023-01-05",
-    "twitter": "@PyConDE",
-    "cocUrl": "https://2023.pycon.de/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@PyConDE"
   },
   {
     "name": "PyCon (US)",
@@ -173,9 +173,9 @@
     "city": "Salt Lake City, UT",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@pycon",
+    "locales": "EN",
     "cocUrl": "https://us.pycon.org/2023/about/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@pycon"
   },
   {
     "name": "JAX",
@@ -185,9 +185,9 @@
     "city": "Mainz",
     "country": "Germany",
     "online": true,
-    "twitter": "@jaxcon",
+    "locales": "EN",
     "cocUrl": "https://jax.de/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@jaxcon"
   },
   {
     "name": "TechSaloniki",
@@ -197,8 +197,8 @@
     "city": "Thessaloniki",
     "country": "Greece",
     "online": false,
-    "twitter": "@TechSaloniki",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@TechSaloniki"
   },
   {
     "name": "PyCon LT",
@@ -208,8 +208,8 @@
     "city": "Vilnius",
     "country": "Lithuania",
     "online": false,
-    "twitter": "@pyconlt",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@pyconlt"
   },
   {
     "name": "PyCon Italia",
@@ -219,8 +219,8 @@
     "city": "Florence",
     "country": "Italy",
     "online": false,
-    "twitter": "@pyconit",
-    "cocUrl": "https://github.com/pythonitalia/code-of-conducts/blob/master/online/english.md"
+    "cocUrl": "https://github.com/pythonitalia/code-of-conducts/blob/master/online/english.md",
+    "twitter": "@pyconit"
   },
   {
     "name": "DjangoCon Europe",
@@ -228,9 +228,9 @@
     "startDate": "2023-05-29",
     "endDate": "2023-06-02",
     "online": true,
-    "twitter": "@DjangoConEurope",
+    "locales": "EN",
     "cocUrl": "https://2023.djangocon.eu/conduct/",
-    "locales": "EN"
+    "twitter": "@DjangoConEurope"
   },
   {
     "name": "AgileTD Open Air",
@@ -252,11 +252,11 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form.",
     "cfpUrl": "https://sessionize.com/wearedevelopers-worldcongress23",
     "cfpEndDate": "2023-07-19",
-    "twitter": "@WeAreDevs",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form.",
-    "locales": "EN"
+    "twitter": "@WeAreDevs"
   },
   {
     "name": "MobileWeek",
@@ -266,11 +266,11 @@
     "city": "San Mateo, CA",
     "country": "U.S.A.",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
     "cfpUrl": "https://sessionize.com/mobileweek-2023",
     "cfpEndDate": "2023-06-30",
-    "twitter": "@DevNetwork_",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@DevNetwork_"
   },
   {
     "name": "Cloud Builders: Python Conf",
@@ -278,9 +278,9 @@
     "startDate": "2023-09-06",
     "endDate": "2023-09-06",
     "online": true,
-    "twitter": "@cloudbuildersua",
+    "locales": "EN",
     "cocUrl": "https://www.cloud-builders.tech/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@cloudbuildersua"
   },
   {
     "name": "AI & Data Open Source Summit",
@@ -288,11 +288,11 @@
     "startDate": "2023-09-06",
     "endDate": "2023-09-07",
     "online": true,
-    "cfpUrl": "https://forms.gle/niHdyyJWVuW1qxUM6",
-    "cfpEndDate": "2023-07-10",
-    "cocUrl": "http://aidataossummit.com/",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "http://aidataossummit.com/",
+    "cfpUrl": "https://forms.gle/niHdyyJWVuW1qxUM6",
+    "cfpEndDate": "2023-07-10"
   },
   {
     "name": "PyCon CZ",
@@ -302,11 +302,11 @@
     "city": "Prague",
     "country": "Czech Republic",
     "online": false,
+    "locales": "EN,CS",
+    "cocUrl": "https://cz.pycon.org/2023/coc/",
     "cfpUrl": "https://cz.pycon.org/2023/cfp",
     "cfpEndDate": "2023-06-25",
-    "twitter": "@pyconcz",
-    "cocUrl": "https://cz.pycon.org/2023/coc/",
-    "locales": "EN,CS"
+    "twitter": "@pyconcz"
   },
   {
     "name": "PyConUK",
@@ -316,13 +316,13 @@
     "city": "Cardiff",
     "country": "U.K.",
     "online": false,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://2023.pyconuk.org/code-of-conduct/",
     "cfpUrl": "https://2023.pyconuk.org/call-for-proposals",
     "cfpEndDate": "2023-06-30",
     "twitter": "@PyConUK",
-    "cocUrl": "https://2023.pyconuk.org/code-of-conduct/",
-    "locales": "EN",
-    "mastodon": "@PyConUK@fosstodon.org",
-    "offersSignLanguageOrCC": true
+    "mastodon": "@PyConUK@fosstodon.org"
   },
   {
     "name": "Pycon India",
@@ -342,12 +342,12 @@
     "city": "Durham, NC",
     "country": "U.S.A.",
     "online": true,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://github.com/djangocon/2023.djangocon.us/blob/main/CODE_OF_CONDUCT.md",
     "cfpUrl": "https://2023.djangocon.us/speaking",
     "cfpEndDate": "2023-05-15",
-    "twitter": "@djangocon",
-    "cocUrl": "https://github.com/djangocon/2023.djangocon.us/blob/main/CODE_OF_CONDUCT.md",
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "twitter": "@djangocon"
   },
   {
     "name": "XtremePython",
@@ -355,11 +355,11 @@
     "startDate": "2023-12-05",
     "endDate": "2023-12-05",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "http://www.zindell.com/documents/codeofconduct.pdf",
     "cfpUrl": "https://forms.gle/7dv6iqToggY8Gshs5",
     "cfpEndDate": "2023-09-30",
-    "twitter": "@xtremepython",
-    "cocUrl": "http://www.zindell.com/documents/codeofconduct.pdf",
-    "locales": "EN"
+    "twitter": "@xtremepython"
   },
   {
     "name": "Python Day",

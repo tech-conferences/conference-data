@@ -7,8 +7,8 @@
     "city": "Round Rock, TX",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@thatconference",
-    "cocUrl": "https://that.us/support/code-of-conduct/"
+    "cocUrl": "https://that.us/support/code-of-conduct/",
+    "twitter": "@thatconference"
   },
   {
     "name": "Graph + AI Summit",
@@ -16,10 +16,10 @@
     "startDate": "2022-05-24",
     "endDate": "2022-05-25",
     "online": true,
+    "cocUrl": "https://www.tigergraph.com/privacy-policy/",
     "cfpUrl": "https://events.bizzabo.com/390232/page/2084487/call-for-speakers",
     "cfpEndDate": "2022-04-11",
-    "twitter": "@TigerGraphDB",
-    "cocUrl": "https://www.tigergraph.com/privacy-policy/"
+    "twitter": "@TigerGraphDB"
   },
   {
     "name": "React Summit",
@@ -29,10 +29,10 @@
     "city": "Amsterdam",
     "country": "Netherlands",
     "online": true,
+    "cocUrl": "https://reactsummit.com/coc",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfVG_bNAebxhlERx1do33ekcmkLx25f1wh478MPv2CW6UvMlw/viewform",
     "cfpEndDate": "2022-03-20",
-    "twitter": "@ReactSummit",
-    "cocUrl": "https://reactsummit.com/coc"
+    "twitter": "@ReactSummit"
   },
   {
     "name": "HasuraCon",
@@ -40,11 +40,11 @@
     "startDate": "2022-06-28",
     "endDate": "2022-06-30",
     "online": true,
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://hasura.io/events/hasura-con-2022/code-of-conduct/",
     "cfpUrl": "https://forms.hasura.io/hascon22-cfp",
     "cfpEndDate": "2022-04-30",
-    "twitter": "@hasurahq",
-    "cocUrl": "https://hasura.io/events/hasura-con-2022/code-of-conduct/",
-    "offersSignLanguageOrCC": true
+    "twitter": "@hasurahq"
   },
   {
     "name": "THAT Conference",
@@ -54,10 +54,10 @@
     "city": "Wisconsin Dells, WI",
     "country": "U.S.A.",
     "online": false,
+    "cocUrl": "https://that.us/support/code-of-conduct/",
     "cfpUrl": "https://that.us/call-for-counselors/wi/2022",
     "cfpEndDate": "2022-03-01",
-    "twitter": "@thatconference",
-    "cocUrl": "https://that.us/support/code-of-conduct/"
+    "twitter": "@thatconference"
   },
   {
     "name": "Neo4j Connections",
@@ -65,8 +65,8 @@
     "startDate": "2022-07-28",
     "endDate": "2022-07-28",
     "online": true,
-    "twitter": "@neo4j",
-    "cocUrl": "https://neo4j.com/connections/solving-real-world-problems-with-graphs-apac/"
+    "cocUrl": "https://neo4j.com/connections/solving-real-world-problems-with-graphs-apac/",
+    "twitter": "@neo4j"
   },
   {
     "name": "GraphQL Conf.",
@@ -74,8 +74,8 @@
     "startDate": "2022-09-29",
     "endDate": "2022-09-29",
     "online": true,
-    "twitter": "@thegraphqlconf",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@thegraphqlconf"
   },
   {
     "name": "GraphQL Summit",
@@ -85,10 +85,10 @@
     "city": "San Diego, CA",
     "country": "U.S.A.",
     "online": false,
+    "cocUrl": "https://www.apollographql.com/docs/community/code-of-conduct/",
     "cfpUrl": "https://forms.gle/jhzZHGdnxRjx8q8R7",
     "cfpEndDate": "2022-06-29",
-    "twitter": "@graphqlsummit",
-    "cocUrl": "https://www.apollographql.com/docs/community/code-of-conduct/"
+    "twitter": "@graphqlsummit"
   },
   {
     "name": "API Conference Berlin",
@@ -98,8 +98,8 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
-    "twitter": "@api_conference",
-    "cocUrl": "https://apiconference.net/code-of-conduct/"
+    "cocUrl": "https://apiconference.net/code-of-conduct/",
+    "twitter": "@api_conference"
   },
   {
     "name": "Adobe Developers Live: Headless",
@@ -107,8 +107,8 @@
     "startDate": "2022-11-09",
     "endDate": "2022-11-09",
     "online": true,
-    "twitter": "@adobedevs",
-    "cocUrl": "In signup and event day page"
+    "cocUrl": "In signup and event day page",
+    "twitter": "@adobedevs"
   },
   {
     "name": "Enterprise GraphQL Conference",
@@ -126,10 +126,10 @@
     "city": "Prague",
     "country": "Czech Republic",
     "online": true,
+    "cocUrl": "https://www.updateconference.net/en/code-of-conduct",
     "cfpUrl": "https://www.updateconference.net/2022/call-for-speakers",
     "cfpEndDate": "2022-06-26",
-    "twitter": "@update_conf",
-    "cocUrl": "https://www.updateconference.net/en/code-of-conduct"
+    "twitter": "@update_conf"
   },
   {
     "name": "NODES",
@@ -149,9 +149,9 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
+    "cocUrl": "https://graphqlgalaxy.com/coc",
     "cfpUrl": "https://forms.gle/u1xMobfq8MVQGdDx5",
     "cfpEndDate": "2022-09-24",
-    "twitter": "@graphqlgalaxy",
-    "cocUrl": "https://graphqlgalaxy.com/coc"
+    "twitter": "@graphqlgalaxy"
   }
 ]

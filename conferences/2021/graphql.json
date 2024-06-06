@@ -5,11 +5,11 @@
     "startDate": "2021-02-22",
     "endDate": "2021-02-25",
     "online": true,
+    "offersSignLanguageOrCC": false,
+    "cocUrl": "https://www.graphql.asia/code-of-conduct/",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdIKOPK9VaxhJptC7f2zk1PsvQMkxE7W7Jl1-xemCea9JpZng/viewform",
     "cfpEndDate": "2021-01-07",
-    "twitter": "@graphqlasia",
-    "cocUrl": "https://www.graphql.asia/code-of-conduct/",
-    "offersSignLanguageOrCC": false
+    "twitter": "@graphqlasia"
   },
   {
     "name": "API Conference",
@@ -18,11 +18,11 @@
     "endDate": "2021-04-14",
     "city": "The Hague",
     "country": "Netherlands",
+    "offersSignLanguageOrCC": false,
+    "cocUrl": "https://apiconference.net/code-of-conduct/",
     "cfpUrl": "https://apiconference.net/call-for-papers",
     "cfpEndDate": "2020-11-02",
-    "twitter": "@api_conference",
-    "cocUrl": "https://apiconference.net/code-of-conduct/",
-    "offersSignLanguageOrCC": false
+    "twitter": "@api_conference"
   },
   {
     "name": "Dgraph Day",

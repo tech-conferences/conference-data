@@ -13,10 +13,10 @@
     "startDate": "2022-03-08",
     "endDate": "2022-03-09",
     "online": true,
+    "cocUrl": "https://www.thedevopsconference.com/code-of-conduct",
     "cfpUrl": "https://www.thedevopsconference.com/call-for-papers",
     "cfpEndDate": "2021-12-16",
-    "twitter": "@eficode",
-    "cocUrl": "https://www.thedevopsconference.com/code-of-conduct"
+    "twitter": "@eficode"
   },
   {
     "name": "Software Architecture Summit",
@@ -46,10 +46,10 @@
     "city": "Lagos",
     "country": "Nigeria",
     "online": true,
+    "offersSignLanguageOrCC": true,
     "cfpUrl": "https://www.papercall.io/cfps/4213/submissions/new",
     "cfpEndDate": "2022-01-27",
-    "twitter": "@oscafrica",
-    "offersSignLanguageOrCC": true
+    "twitter": "@oscafrica"
   },
   {
     "name": "Design Value Conference",
@@ -66,8 +66,8 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
-    "twitter": "@qconlondon",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@qconlondon"
   },
   {
     "name": "An Event Apart Spring Summit",
@@ -75,8 +75,8 @@
     "startDate": "2022-04-18",
     "endDate": "2022-04-20",
     "online": true,
-    "twitter": "@aneventapart",
-    "cocUrl": "https://aneventapart.com/registration-information#code-of-conduct"
+    "cocUrl": "https://aneventapart.com/registration-information#code-of-conduct",
+    "twitter": "@aneventapart"
   },
   {
     "name": "PUSH Discovery",
@@ -84,10 +84,10 @@
     "startDate": "2022-05-10",
     "endDate": "2022-05-12",
     "online": true,
+    "cocUrl": "https://push-conference.com/legal/terms.php#code-of-conduct",
     "cfpUrl": "https://forms.gle/qHDVf5zZkEu3jC1W6",
     "cfpEndDate": "2022-03-11",
-    "twitter": "@pushconf",
-    "cocUrl": "https://push-conference.com/legal/terms.php#code-of-conduct"
+    "twitter": "@pushconf"
   },
   {
     "name": "QCon Plus Online Software Conference",
@@ -95,8 +95,8 @@
     "startDate": "2022-05-10",
     "endDate": "2022-05-20",
     "online": true,
-    "twitter": "@QCon",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@QCon"
   },
   {
     "name": "THAT Conference",
@@ -106,8 +106,8 @@
     "city": "Round Rock, TX",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@thatconference",
-    "cocUrl": "https://that.us/support/code-of-conduct/"
+    "cocUrl": "https://that.us/support/code-of-conduct/",
+    "twitter": "@thatconference"
   },
   {
     "name": "UXLx: User Experience Lisbon",
@@ -137,10 +137,10 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
+    "cocUrl": "https://webinale.de/code-of-conduct-en/",
     "cfpUrl": "https://callforpapers.sandsmedia.com",
     "cfpEndDate": "2022-01-13",
-    "twitter": "@webinale",
-    "cocUrl": "https://webinale.de/code-of-conduct-en/"
+    "twitter": "@webinale"
   },
   {
     "name": "Render-Atlanta (RenderATL)",
@@ -150,9 +150,9 @@
     "city": "Atlanta, GA",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@RenderATL",
+    "offersSignLanguageOrCC": true,
     "cocUrl": "RenderATL.com/thecode",
-    "offersSignLanguageOrCC": true
+    "twitter": "@RenderATL"
   },
   {
     "name": "ProductCamp",
@@ -172,10 +172,10 @@
     "city": "Fort Lauderdale, FL",
     "country": "U.S.A.",
     "online": false,
+    "cocUrl": "https://vueconf.us/codeofconduct/",
     "cfpUrl": "https://vueconf.us/call-for-papers",
     "cfpEndDate": "2022-02-28",
-    "twitter": "@vueconfus",
-    "cocUrl": "https://vueconf.us/codeofconduct/"
+    "twitter": "@vueconfus"
   },
   {
     "name": "Pixel Pioneers",
@@ -185,10 +185,10 @@
     "city": "Bristol",
     "country": "U.K.",
     "online": false,
+    "cocUrl": "https://pixelpioneers.co/code-of-conduct",
     "cfpUrl": "https://pixelpioneers.co/call-for-speakers",
     "cfpEndDate": "2022-02-01",
-    "twitter": "@pixelpioneers",
-    "cocUrl": "https://pixelpioneers.co/code-of-conduct"
+    "twitter": "@pixelpioneers"
   },
   {
     "name": "uxday",
@@ -198,8 +198,8 @@
     "city": "Faenza",
     "country": "Italy",
     "online": true,
-    "twitter": "@uxdayit",
-    "cocUrl": "https://grusp.org/en/coc"
+    "cocUrl": "https://grusp.org/en/coc",
+    "twitter": "@uxdayit"
   },
   {
     "name": "Online Ecommerce Conference for Conversion Growth",
@@ -207,8 +207,8 @@
     "startDate": "2022-06-16",
     "endDate": "2022-06-16",
     "online": true,
-    "twitter": "@turumburum",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@turumburum"
   },
   {
     "name": "SmashingConf San Francisco",
@@ -218,8 +218,8 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@smashingconf",
-    "cocUrl": "https://smashingconf.com/codeofconduct"
+    "cocUrl": "https://smashingconf.com/codeofconduct",
+    "twitter": "@smashingconf"
   },
   {
     "name": "SmashingConf Austin",
@@ -229,8 +229,8 @@
     "city": "Austin, TX",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@smashingconf",
-    "cocUrl": "https://smashingconf.com/codeofconduct"
+    "cocUrl": "https://smashingconf.com/codeofconduct",
+    "twitter": "@smashingconf"
   },
   {
     "name": "DDX Conference",
@@ -250,10 +250,10 @@
     "city": "Wisconsin Dells, WI",
     "country": "U.S.A.",
     "online": false,
+    "cocUrl": "https://that.us/support/code-of-conduct/",
     "cfpUrl": "https://that.us/call-for-counselors/wi/2022",
     "cfpEndDate": "2022-03-01",
-    "twitter": "@thatconference",
-    "cocUrl": "https://that.us/support/code-of-conduct/"
+    "twitter": "@thatconference"
   },
   {
     "name": "Product Elevation",
@@ -263,8 +263,8 @@
     "city": "Dublin",
     "country": "Ireland",
     "online": true,
-    "twitter": "@ProductElev8n",
-    "cocUrl": "https://skillsmatter.com/go/code-of-conduct"
+    "cocUrl": "https://skillsmatter.com/go/code-of-conduct",
+    "twitter": "@ProductElev8n"
   },
   {
     "name": "UX Nordic",
@@ -283,9 +283,9 @@
     "city": "Bend, OR",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@cascadiajs",
+    "offersSignLanguageOrCC": true,
     "cocUrl": "https://2022.cascadiajs.com/code-of-conduct",
-    "offersSignLanguageOrCC": true
+    "twitter": "@cascadiajs"
   },
   {
     "name": "SmashingConf Freiburg",
@@ -295,8 +295,8 @@
     "city": "Freiburg",
     "country": "Germany",
     "online": true,
-    "twitter": "@smashingconf",
-    "cocUrl": "https://smashingconf.com/codeofconduct"
+    "cocUrl": "https://smashingconf.com/codeofconduct",
+    "twitter": "@smashingconf"
   },
   {
     "name": "uxcon vienna",
@@ -316,10 +316,10 @@
     "city": "Zadar",
     "country": "Croatia",
     "online": true,
+    "cocUrl": "https://shift.infobip.com/code/",
     "cfpUrl": "https://sessionize.com/infobipshift",
     "cfpEndDate": "2022-07-01",
-    "twitter": "@infobipshift",
-    "cocUrl": "https://shift.infobip.com/code/"
+    "twitter": "@infobipshift"
   },
   {
     "name": "Agile India",
@@ -327,8 +327,8 @@
     "startDate": "2022-09-22",
     "endDate": "2022-09-24",
     "online": true,
-    "twitter": "@agileindia",
-    "cocUrl": "https://2022.agileindia.org/agile-india-values/"
+    "cocUrl": "https://2022.agileindia.org/agile-india-values/",
+    "twitter": "@agileindia"
   },
   {
     "name": "Design Matters",
@@ -338,8 +338,8 @@
     "city": "Copenhagen",
     "country": "Denmark",
     "online": true,
-    "twitter": "@designmattersdk",
-    "cocUrl": "https://designmatters.io/"
+    "cocUrl": "https://designmatters.io/",
+    "twitter": "@designmattersdk"
   },
   {
     "name": "Amuse Conference",
@@ -349,8 +349,8 @@
     "city": "Budapest",
     "country": "Hungary",
     "online": true,
-    "twitter": "@amuseconf",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@amuseconf"
   },
   {
     "name": "Intersection Conference",
@@ -360,8 +360,8 @@
     "city": "Turin",
     "country": "Italy",
     "online": false,
-    "twitter": "@Intersection_eu",
-    "cocUrl": "https://www.intersection-conference.eu/code-of-conduct"
+    "cocUrl": "https://www.intersection-conference.eu/code-of-conduct",
+    "twitter": "@Intersection_eu"
   },
   {
     "name": "SmashingConf New York",
@@ -371,8 +371,8 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@smashingconf",
-    "cocUrl": "https://smashingconf.com/codeofconduct"
+    "cocUrl": "https://smashingconf.com/codeofconduct",
+    "twitter": "@smashingconf"
   },
   {
     "name": "Create!Summit - Arts & Tech Summit",
@@ -404,8 +404,8 @@
     "city": "Munich",
     "country": "Germany",
     "online": false,
-    "twitter": "@pushconf",
-    "cocUrl": "https://push-conference.com/legal/terms.php#code-of-conduct"
+    "cocUrl": "https://push-conference.com/legal/terms.php#code-of-conduct",
+    "twitter": "@pushconf"
   },
   {
     "name": "CONNECT.TECH",
@@ -415,10 +415,10 @@
     "city": "Atlanta, GA",
     "country": "U.S.A.",
     "online": false,
+    "cocUrl": "https://2022.connect.tech/codeofconduct/",
     "cfpUrl": "https://sessionize.com/connect-tech-2022",
     "cfpEndDate": "2022-06-18",
-    "twitter": "@connect_js",
-    "cocUrl": "https://2022.connect.tech/codeofconduct/"
+    "twitter": "@connect_js"
   },
   {
     "name": "STHLM Xperience Conference",
@@ -428,8 +428,8 @@
     "city": "Stockholm",
     "country": "Sweden",
     "online": true,
-    "twitter": "@SthlmXperience",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@SthlmXperience"
   },
   {
     "name": "Codeurs en Seine",
@@ -439,10 +439,10 @@
     "city": "Rouen",
     "country": "France",
     "online": false,
+    "cocUrl": "https://www.codeursenseine.com/2022/code-of-conduct",
     "cfpUrl": "https://conference-hall.io/public/event/Uv6XULhgmt7z2YuoJ8nq",
     "cfpEndDate": "2022-09-16",
-    "twitter": "@codeursenseine",
-    "cocUrl": "https://www.codeursenseine.com/2022/code-of-conduct"
+    "twitter": "@codeursenseine"
   },
   {
     "name": "INNOQ Technology Day",
@@ -450,8 +450,8 @@
     "startDate": "2022-11-30",
     "endDate": "2022-11-30",
     "online": true,
-    "twitter": "@INNOQ",
-    "cocUrl": "https://berlincodeofconduct.org/"
+    "cocUrl": "https://berlincodeofconduct.org/",
+    "twitter": "@INNOQ"
   },
   {
     "name": "Progressive Web Experience",
@@ -461,8 +461,8 @@
     "city": "Clearwater, FL",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@nofluff",
-    "cocUrl": "https://progressivewebexperience.io/home/code_of_conduct"
+    "cocUrl": "https://progressivewebexperience.io/home/code_of_conduct",
+    "twitter": "@nofluff"
   },
   {
     "name": "WEBCONGRESS MIAMI",
@@ -482,9 +482,9 @@
     "city": "Arlington, VA",
     "country": "U.S.A.",
     "online": false,
+    "cocUrl": "https://frontrunners.tech//policies/conduct.html",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeVqFwR2_Bn3poybhyT9ZzGVG4YTuAZUVstUbx_IzuzAQUM9Q/viewform",
     "cfpEndDate": "2022-10-17",
-    "twitter": "@frontrunnersdc",
-    "cocUrl": "https://frontrunners.tech//policies/conduct.html"
+    "twitter": "@frontrunnersdc"
   }
 ]

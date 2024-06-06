@@ -644,8 +644,8 @@
     "startDate": "2020-09-29",
     "endDate": "2020-10-01",
     "online": true,
-    "twitter": "@ApacheCon",
-    "cocUrl": "https://www.apachecon.com/acah2020/conduct.html"
+    "cocUrl": "https://www.apachecon.com/acah2020/conduct.html",
+    "twitter": "@ApacheCon"
   },
   {
     "name": "Sustainable Software Engineering",
@@ -701,8 +701,8 @@
     "startDate": "2020-10-07",
     "endDate": "2020-10-09",
     "online": true,
-    "twitter": "@SlackHQ",
-    "cocUrl": "https://slack.com/intl/en-nl/frontiers/faq"
+    "cocUrl": "https://slack.com/intl/en-nl/frontiers/faq",
+    "twitter": "@SlackHQ"
   },
   {
     "name": "Google Assistant Developer Day",
@@ -783,8 +783,8 @@
     "endDate": "2020-10-17",
     "city": "Bucharest",
     "country": "Romania",
-    "twitter": "@DevFestRomania",
-    "offersSignLanguageOrCC": false
+    "offersSignLanguageOrCC": false,
+    "twitter": "@DevFestRomania"
   },
   {
     "name": "All Things Open",
@@ -820,8 +820,8 @@
     "startDate": "2020-10-22",
     "endDate": "2020-10-22",
     "online": true,
-    "twitter": "@MSPowerPlat",
-    "cocUrl": "https://powerplatformconference.splashthat.com"
+    "cocUrl": "https://powerplatformconference.splashthat.com",
+    "twitter": "@MSPowerPlat"
   },
   {
     "name": "DevFest WI",
@@ -895,8 +895,8 @@
     "endDate": "2020-11-04",
     "city": "Düsseldorf",
     "country": "Germany",
-    "twitter": "@EntwicklerKON",
-    "offersSignLanguageOrCC": false
+    "offersSignLanguageOrCC": false,
+    "twitter": "@EntwicklerKON"
   },
   {
     "name": "QCon Plus",
@@ -904,9 +904,9 @@
     "startDate": "2020-11-04",
     "endDate": "2020-11-04",
     "online": true,
-    "twitter": "@QCon",
+    "offersSignLanguageOrCC": false,
     "cocUrl": "https://plus.qconferences.com/code-conduct",
-    "offersSignLanguageOrCC": false
+    "twitter": "@QCon"
   },
   {
     "name": "Web Directions Summit",
@@ -998,9 +998,9 @@
     "startDate": "2020-11-12",
     "endDate": "2020-11-13",
     "online": true,
-    "twitter": "@ScaleByTheBay",
+    "offersSignLanguageOrCC": false,
     "cocUrl": "https://github.com/bythebay/policies/blob/master/citizen_code_of_conduct.md",
-    "offersSignLanguageOrCC": false
+    "twitter": "@ScaleByTheBay"
   },
   {
     "name": "Postman Galaxy",
@@ -1136,9 +1136,9 @@
     "startDate": "2020-12-08",
     "endDate": "2020-12-10",
     "online": true,
-    "twitter": "@githubuniverse",
+    "offersSignLanguageOrCC": false,
     "cocUrl": "https://githubuniverse.com/code-of-conduct/",
-    "offersSignLanguageOrCC": false
+    "twitter": "@githubuniverse"
   },
   {
     "name": "DeveloperWeek",
@@ -1155,8 +1155,8 @@
     "startDate": "2020-12-10",
     "endDate": "2020-12-10",
     "online": true,
-    "twitter": "@bettercodeconf",
+    "offersSignLanguageOrCC": false,
     "cocUrl": "https://pod.bettercode.eu/code_of_conduct.php",
-    "offersSignLanguageOrCC": false
+    "twitter": "@bettercodeconf"
   }
 ]

@@ -5,11 +5,11 @@
     "startDate": "2023-01-14",
     "endDate": "2023-01-15",
     "online": true,
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://yougotthis.io/conduct",
     "cfpUrl": "https://airtable.com/shruPP1zoptlV7TYt",
     "cfpEndDate": "2022-08-31",
-    "twitter": "@YouGotThisConf",
-    "cocUrl": "https://yougotthis.io/conduct",
-    "offersSignLanguageOrCC": true
+    "twitter": "@YouGotThisConf"
   },
   {
     "name": "ConFoo",
@@ -19,10 +19,10 @@
     "city": "Montreal",
     "country": "Canada",
     "online": false,
+    "cocUrl": "https://confoo.ca/en/code-of-conduct",
     "cfpUrl": "https://confoo.ca/en/2023/call-for-papers",
     "cfpEndDate": "2022-10-06",
-    "twitter": "@confooca",
-    "cocUrl": "https://confoo.ca/en/code-of-conduct"
+    "twitter": "@confooca"
   },
   {
     "name": "LevelUp",
@@ -38,11 +38,11 @@
     "startDate": "2023-03-09",
     "endDate": "2023-03-10",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://techleadconf.com/coc",
     "cfpUrl": "https://forms.gle/DAAqV4DHZMYJ2bN57",
     "cfpEndDate": "2023-02-01",
-    "twitter": "@TechLeadJS",
-    "cocUrl": "https://techleadconf.com/coc",
-    "locales": "EN"
+    "twitter": "@TechLeadJS"
   },
   {
     "name": "FOSS Backstage",
@@ -52,9 +52,9 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
-    "twitter": "@fossbckstg",
+    "locales": "EN",
     "cocUrl": "https://23.foss-backstage.de/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@fossbckstg"
   },
   {
     "name": "Ateraverse",
@@ -62,8 +62,8 @@
     "startDate": "2023-05-03",
     "endDate": "2023-05-04",
     "online": true,
-    "cocUrl": "https://www.atera.com/terms-of-use/",
-    "locales": "EN"
+    "locales": "EN",
+    "cocUrl": "https://www.atera.com/terms-of-use/"
   },
   {
     "name": "Startup CTO Summit. From Code to Culture: The CTO's Journey",
@@ -82,9 +82,9 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
-    "twitter": "@CTOCraft",
+    "locales": "EN",
     "cocUrl": "https://conference.ctocraft.com/london-2023/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@CTOCraft"
   },
   {
     "name": "RenderATL",
@@ -94,8 +94,8 @@
     "city": "Atlanta, GA",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@RenderATL",
-    "cocUrl": "https://www.renderatl.com/codepolicy"
+    "cocUrl": "https://www.renderatl.com/codepolicy",
+    "twitter": "@RenderATL"
   },
   {
     "name": "Agile + DevOps West",
@@ -105,9 +105,9 @@
     "city": "Las Vegas, NV",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@techwell",
+    "locales": "EN",
     "cocUrl": "https://agiledevopswest.techwell.com/code-conduct",
-    "locales": "EN"
+    "twitter": "@techwell"
   },
   {
     "name": "PlatformCon",
@@ -115,10 +115,10 @@
     "startDate": "2023-06-08",
     "endDate": "2023-06-09",
     "online": true,
-    "cfpUrl": "https://sessionize.com/platformcon-2023",
-    "cfpEndDate": "2023-02-28",
+    "locales": "EN",
     "cocUrl": "https://platformcon.com/code-of-conduct",
-    "locales": "EN"
+    "cfpUrl": "https://sessionize.com/platformcon-2023",
+    "cfpEndDate": "2023-02-28"
   },
   {
     "name": "LeadDev",
@@ -128,9 +128,9 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
-    "twitter": "@theleaddev",
+    "locales": "EN",
     "cocUrl": "https://leaddev.com/code-conduct",
-    "locales": "EN"
+    "twitter": "@theleaddev"
   },
   {
     "name": "StaffPlus",
@@ -140,9 +140,9 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
-    "twitter": "@theleaddev",
+    "locales": "EN",
     "cocUrl": "https://leaddev.com/code-conduct",
-    "locales": "EN"
+    "twitter": "@theleaddev"
   },
   {
     "name": "LeadingEng",
@@ -152,9 +152,9 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
-    "twitter": "@theleaddev",
+    "locales": "EN",
     "cocUrl": "https://leaddev.com/code-conduct",
-    "locales": "EN"
+    "twitter": "@theleaddev"
   },
   {
     "name": "NZ Tech Rally",
@@ -164,9 +164,9 @@
     "city": "Wellington",
     "country": "New Zealand",
     "online": false,
-    "twitter": "@NZTechRally",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@NZTechRally"
   },
   {
     "name": "Internet 2.0 Conference USA",
@@ -176,8 +176,8 @@
     "city": "Las Vegas, NV",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@internet2conf",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@internet2conf"
   },
   {
     "name": "REFACTOR: DX",
@@ -187,11 +187,11 @@
     "city": "Toronto",
     "country": "Canada",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.refactorconf.com/dx#/conduct",
     "cfpUrl": "https://www.papercall.io/refactor-dx-2023",
     "cfpEndDate": "2023-05-31",
-    "twitter": "@refactorconf",
-    "cocUrl": "https://www.refactorconf.com/dx#/conduct",
-    "locales": "EN"
+    "twitter": "@refactorconf"
   },
   {
     "name": "Software Architecture Conference",
@@ -199,11 +199,11 @@
     "startDate": "2023-08-25",
     "endDate": "2023-08-25",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://softwarearchitecture.live/code-of-conduct/",
     "cfpUrl": "https://forms.office.com/r/XjVUaRDbKR",
     "cfpEndDate": "2023-07-05",
-    "twitter": "@csharpdottv",
-    "cocUrl": "https://softwarearchitecture.live/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@csharpdottv"
   },
   {
     "name": "Gartner IT Symposium/Xpo",
@@ -223,9 +223,9 @@
     "city": "Copenhagen",
     "country": "Denmark",
     "online": false,
-    "twitter": "@GOTOcon",
+    "locales": "EN",
     "cocUrl": "https://gotocph.com/2023/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@GOTOcon"
   },
   {
     "name": "Intersection Conference",
@@ -235,11 +235,11 @@
     "city": "Turin",
     "country": "Italy",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://torino2022.intersection-conference.eu/code-of-conduct.html",
     "cfpUrl": "https://www.intersection-conference.eu/call-for-speakers",
     "cfpEndDate": "2023-05-31",
-    "twitter": "@intersection_eu",
-    "cocUrl": "https://torino2022.intersection-conference.eu/code-of-conduct.html",
-    "locales": "EN"
+    "twitter": "@intersection_eu"
   },
   {
     "name": "SeaStar Quality Conference",
@@ -249,10 +249,10 @@
     "city": "Playa Dorada",
     "country": "Dominican Republic",
     "online": true,
-    "twitter": "@TestMastersAcad",
-    "cocUrl": "https://quality.seastarconf.com",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://quality.seastarconf.com",
+    "twitter": "@TestMastersAcad"
   },
   {
     "name": "GOTO AI DAYS CHICAGO",
@@ -262,9 +262,9 @@
     "city": "Chicago, IL",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@GOTOcon",
+    "locales": "EN",
     "cocUrl": "https://gotochgo.com/ai-days-2023/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@GOTOcon"
   },
   {
     "name": "Agile + DevOps East",
@@ -274,8 +274,8 @@
     "city": "Orlando, FL",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@techwell",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@techwell"
   },
   {
     "name": "Prodacity",
@@ -285,10 +285,10 @@
     "city": "Washington, DC",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
     "cfpUrl": "https://share.hsforms.com/1CRq585GqTKatR1fRiN2RHQc2xkr",
     "cfpEndDate": "2023-07-31",
-    "twitter": "@Rise8_Inc",
-    "locales": "EN"
+    "twitter": "@Rise8_Inc"
   },
   {
     "name": "InnerSource Summit",
@@ -296,9 +296,9 @@
     "startDate": "2023-11-15",
     "endDate": "2023-11-16",
     "online": true,
-    "twitter": "@InnerSourceOrg",
+    "locales": "EN",
     "cocUrl": "https://innersourcecommons.org/about/codeofconduct/",
-    "locales": "EN"
+    "twitter": "@InnerSourceOrg"
   },
   {
     "name": "Tech Leader Summit",
@@ -308,8 +308,8 @@
     "city": "Clearwater, FL",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@nofluff",
+    "locales": "EN",
     "cocUrl": "https://techleadersummit.io/home/code_of_conduct",
-    "locales": "EN"
+    "twitter": "@nofluff"
   }
 ]

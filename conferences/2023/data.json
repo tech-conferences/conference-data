@@ -5,9 +5,9 @@
     "startDate": "2023-01-18",
     "endDate": "2023-01-18",
     "online": true,
-    "twitter": "@ODSC",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@ODSC"
   },
   {
     "name": "Boosting SaaS Products with New Technologies Big Data. Data Science. Artificial Intelligence. Machine Learning",
@@ -15,9 +15,9 @@
     "startDate": "2023-01-18",
     "endDate": "2023-01-19",
     "online": true,
-    "twitter": "@Glorium_Tech",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@Glorium_Tech"
   },
   {
     "name": "Data Teams Summit",
@@ -25,10 +25,10 @@
     "startDate": "2023-01-25",
     "endDate": "2023-01-25",
     "online": true,
+    "locales": "EN",
     "cfpUrl": "https://datateamssummit.com/cfp",
     "cfpEndDate": "2023-01-09",
-    "twitter": "@ilovedataops",
-    "locales": "EN"
+    "twitter": "@ilovedataops"
   },
   {
     "name": "CPX 360",
@@ -46,9 +46,9 @@
     "city": "Austin, TX",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@DataSciSalon",
+    "locales": "EN",
     "cocUrl": "https://www.datascience.salon/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@DataSciSalon"
   },
   {
     "name": "Reinforce AI Conference",
@@ -58,8 +58,8 @@
     "city": "Budapest",
     "country": "Hungary",
     "online": true,
-    "twitter": "@reinforceconf",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@reinforceconf"
   },
   {
     "name": "Velocity Data and Analytics Summit",
@@ -77,9 +77,9 @@
     "startDate": "2023-03-20",
     "endDate": "2023-03-23",
     "online": true,
-    "twitter": "@NVIDIAGTC",
+    "locales": "EN",
     "cocUrl": "https://www.nvidia.com/gtc/",
-    "locales": "EN"
+    "twitter": "@NVIDIAGTC"
   },
   {
     "name": "QCon London International Software Development Conference",
@@ -89,8 +89,8 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
-    "twitter": "@QCon",
-    "cocUrl": "https://qconferences.com/code-conduct"
+    "cocUrl": "https://qconferences.com/code-conduct",
+    "twitter": "@QCon"
   },
   {
     "name": "Azure Cosmos Conf",
@@ -98,11 +98,11 @@
     "startDate": "2023-03-28",
     "endDate": "2023-03-28",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://learn.microsoft.com/en-us/legal/learnevents/codeofconduct",
     "cfpUrl": "https://sessionize.com/azure-cosmos-db-conf-2023",
     "cfpEndDate": "2023-02-01",
-    "twitter": "@AzureCosmosDB",
-    "cocUrl": "https://learn.microsoft.com/en-us/legal/learnevents/codeofconduct",
-    "locales": "EN"
+    "twitter": "@AzureCosmosDB"
   },
   {
     "name": "Data Council",
@@ -112,8 +112,8 @@
     "city": "Austin, TX",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@DataCouncilAI",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@DataCouncilAI"
   },
   {
     "name": "MLconf",
@@ -133,11 +133,11 @@
     "city": "Paris",
     "country": "France",
     "online": false,
+    "locales": "EN,FR",
+    "cocUrl": "https://www.devoxx.fr/presenter-a-devoxx/code-de-conduite/",
     "cfpUrl": "https://cfp.devoxx.fr",
     "cfpEndDate": "2023-01-08",
-    "twitter": "@DevoxxFR",
-    "cocUrl": "https://www.devoxx.fr/presenter-a-devoxx/code-de-conduite/",
-    "locales": "EN,FR"
+    "twitter": "@DevoxxFR"
   },
   {
     "name": "PGDay/MED",
@@ -155,9 +155,9 @@
     "startDate": "2023-04-18",
     "endDate": "2023-04-19",
     "online": true,
-    "twitter": "@cituscon",
+    "locales": "EN",
     "cocUrl": "https://www.citusdata.com/cituscon/2023/coc/",
-    "locales": "EN"
+    "twitter": "@cituscon"
   },
   {
     "name": "pgDay Chicago",
@@ -166,9 +166,9 @@
     "endDate": "2023-04-20",
     "city": "Chicago, IL",
     "country": "U.S.A.",
-    "twitter": "@pgdaychicago",
+    "locales": "EN",
     "cocUrl": "https://2023.pgdaychicago.org/inclusion/",
-    "locales": "EN"
+    "twitter": "@pgdaychicago"
   },
   {
     "name": "PyData",
@@ -178,11 +178,11 @@
     "city": "Seattle, WA",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://pydata.org/seattle2023/conduct/",
     "cfpUrl": "https://pydata.org/seattle2023/present",
     "cfpEndDate": "2023-02-06",
-    "twitter": "@PyData",
-    "cocUrl": "https://pydata.org/seattle2023/conduct/",
-    "locales": "EN"
+    "twitter": "@PyData"
   },
   {
     "name": "OpenWorks",
@@ -192,9 +192,9 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@mariadb",
+    "locales": "EN",
     "cocUrl": "https://openworks.mariadb.com/W09RmL",
-    "locales": "EN"
+    "twitter": "@mariadb"
   },
   {
     "name": "Rise of AI Conference Berlin",
@@ -214,8 +214,8 @@
     "city": "Boston, MA",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@ODSC",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@ODSC"
   },
   {
     "name": "NexTech Week Tokyo",
@@ -245,8 +245,8 @@
     "city": "Leuven",
     "country": "Belgium",
     "online": false,
-    "cocUrl": "https://pgconf.be/codeofconduct.html",
-    "locales": "EN"
+    "locales": "EN",
+    "cocUrl": "https://pgconf.be/codeofconduct.html"
   },
   {
     "name": "Conf42 Machine Learning",
@@ -254,10 +254,10 @@
     "startDate": "2023-05-18",
     "endDate": "2023-05-18",
     "online": true,
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/conf42-machine-learning-2023",
     "cfpEndDate": "2023-04-18",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct"
+    "twitter": "@conf42com"
   },
   {
     "name": "The Annual Nepal AI School (ANAIS)",
@@ -267,11 +267,11 @@
     "city": "Kathmandu",
     "country": "Nepal",
     "online": false,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
     "cfpUrl": "https://nepalschool.naamii.com.np/applications",
     "cfpEndDate": "2023-04-07",
-    "twitter": "@naamii_nepal",
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "twitter": "@naamii_nepal"
   },
   {
     "name": "Heroes of Data Privacy",
@@ -310,8 +310,8 @@
     "city": "Stockholm",
     "country": "Sweden",
     "online": false,
-    "cocUrl": "https://www.devsum.se/about/code-of-conduct",
-    "locales": "EN"
+    "locales": "EN",
+    "cocUrl": "https://www.devsum.se/about/code-of-conduct"
   },
   {
     "name": "The Data Science Conference",
@@ -321,10 +321,10 @@
     "city": "Chicago, IL",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
     "cfpUrl": "https://www.thedatascienceconference.com/be-a-speaker",
     "cfpEndDate": "2023-02-25",
-    "twitter": "@_tdsc_",
-    "locales": "EN"
+    "twitter": "@_tdsc_"
   },
   {
     "name": "PGCon",
@@ -334,8 +334,8 @@
     "city": "Ottawa",
     "country": "Canada",
     "online": false,
-    "twitter": "@pgcon",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@pgcon"
   },
   {
     "name": "Machine Learning Day",
@@ -343,8 +343,8 @@
     "startDate": "2023-05-31",
     "endDate": "2023-05-31",
     "online": true,
-    "twitter": "@WeAreDevs",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@WeAreDevs"
   },
   {
     "name": "Common Sense Data & Analytics - Predict, North America",
@@ -354,8 +354,8 @@
     "city": "Dallas, TX",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@Common_Sense_BF",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@Common_Sense_BF"
   },
   {
     "name": "Cloud Day",
@@ -363,8 +363,8 @@
     "startDate": "2023-06-07",
     "endDate": "2023-06-07",
     "online": true,
-    "twitter": "@WeAreDevs",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@WeAreDevs"
   },
   {
     "name": "DSS NYC: AI and Machine Learning in Finance & Technology",
@@ -374,9 +374,9 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@DataSciSalon",
+    "locales": "EN",
     "cocUrl": "https://www.datascience.salon/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@DataSciSalon"
   },
   {
     "name": "DSS NYC: AI and Machine Learning in Media, Advertising & Entertainment",
@@ -386,9 +386,9 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@DataSciSalon",
+    "locales": "EN",
     "cocUrl": "https://www.datascience.salon/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@DataSciSalon"
   },
   {
     "name": "Berlin Buzzwords",
@@ -398,11 +398,11 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://2023.berlinbuzzwords.de/code-of-conduct/",
     "cfpUrl": "https://2023.berlinbuzzwords.de/call-for-papers",
     "cfpEndDate": "2023-02-19",
-    "twitter": "@berlinbuzzwords",
-    "cocUrl": "https://2023.berlinbuzzwords.de/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@berlinbuzzwords"
   },
   {
     "name": "PG Day France",
@@ -412,11 +412,11 @@
     "city": "Strasbourg",
     "country": "France",
     "online": false,
+    "locales": "FR",
+    "cocUrl": "https://pgday.fr/codedeconduite",
     "cfpUrl": "https://www.pgday.fr/appel",
     "cfpEndDate": "2023-04-16",
-    "twitter": "@PGDAY_Fr",
-    "cocUrl": "https://pgday.fr/codedeconduite",
-    "locales": "FR"
+    "twitter": "@PGDAY_Fr"
   },
   {
     "name": "ML Conference Munich",
@@ -426,9 +426,9 @@
     "city": "Munich",
     "country": "Germany",
     "online": true,
-    "twitter": "@mlconference",
+    "locales": "EN",
     "cocUrl": "https://mlconference.ai/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@mlconference"
   },
   {
     "name": "Databricks Data + AI Summit",
@@ -438,9 +438,9 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@Data_AI_Summit",
+    "locales": "EN",
     "cocUrl": "https://www.databricks.com/dataaisummit/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@Data_AI_Summit"
   },
   {
     "name": "Common Sense AI Day, SF",
@@ -450,9 +450,9 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@Common_Sense_BF",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@Common_Sense_BF"
   },
   {
     "name": "PostgreSQL Conference Germany",
@@ -462,9 +462,9 @@
     "city": "Essen",
     "country": "Germany",
     "online": false,
-    "twitter": "@pgconfde",
+    "locales": "EN",
     "cocUrl": "https://2023.pgconf.de/codeofconduct/",
-    "locales": "EN"
+    "twitter": "@pgconfde"
   },
   {
     "name": "Swiss PGDay",
@@ -474,11 +474,11 @@
     "city": "St. Gallen",
     "country": "Switzerland",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.pgday.ch/2023/#about",
     "cfpUrl": "https://pgday.ch/2023/#cfs",
     "cfpEndDate": "2023-04-17",
-    "twitter": "@swiss_pgday",
-    "cocUrl": "https://www.pgday.ch/2023/#about",
-    "locales": "EN"
+    "twitter": "@swiss_pgday"
   },
   {
     "name": "BCI Summit: Transforming Data and AI",
@@ -488,8 +488,8 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@bcisummit",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@bcisummit"
   },
   {
     "name": "Women+ in Data and AI Tech Festival",
@@ -499,9 +499,9 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
-    "twitter": "@WDAI_festival",
+    "locales": "EN",
     "cocUrl": "https://women-in-data-ai.tech/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@WDAI_festival"
   },
   {
     "name": "IEEE BigDataServices",
@@ -521,8 +521,8 @@
     "city": "Columbus, OH",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@dataconnectconf",
-    "cocUrl": "https://www.womeninanalytics.com/code-of-conduct"
+    "cocUrl": "https://www.womeninanalytics.com/code-of-conduct",
+    "twitter": "@dataconnectconf"
   },
   {
     "name": "WeAreDevelopers World Congress",
@@ -532,11 +532,11 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form.",
     "cfpUrl": "https://sessionize.com/wearedevelopers-worldcongress23",
     "cfpEndDate": "2023-07-19",
-    "twitter": "@WeAreDevs",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form.",
-    "locales": "EN"
+    "twitter": "@WeAreDevs"
   },
   {
     "name": "Techsauce Global Summit",
@@ -557,11 +557,11 @@
     "city": "Ibiza",
     "country": "Spain",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://pgibz.io/code-of-conduct.html",
     "cfpUrl": "https://pgibz.io/#talks",
     "cfpEndDate": "2023-07-09",
-    "twitter": "@pg_ibz",
-    "cocUrl": "https://pgibz.io/code-of-conduct.html",
-    "locales": "EN"
+    "twitter": "@pg_ibz"
   },
   {
     "name": "Civo Navigate Europe",
@@ -571,11 +571,11 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.civo.com/navigate/code-of-conduct",
     "cfpUrl": "https://www-eur.cvent.com/c/abstracts/b25e8cdd-b19d-4626-8b2b-0fdb1ecb565d",
     "cfpEndDate": "2023-05-31",
-    "twitter": "@CivoCloud",
-    "cocUrl": "https://www.civo.com/navigate/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@CivoCloud"
   },
   {
     "name": "Try Swift! NYC",
@@ -585,11 +585,11 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.tryswift.co/code-of-conduct/",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdZGAKQLn8CmSz2dVkDzUUVTp3eV0I-7krx5VUnJQRy9FlDVQ/viewform",
     "cfpEndDate": "2023-05-31",
-    "twitter": "@tryswiftworld",
-    "cocUrl": "https://www.tryswift.co/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@tryswiftworld"
   },
   {
     "name": "VOICE & AI",
@@ -599,8 +599,8 @@
     "city": "Washington, DC",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@VOICEandAI",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@VOICEandAI"
   },
   {
     "name": "GNU Radio Conference",
@@ -610,12 +610,12 @@
     "city": "Tempe, AZ",
     "country": "U.S.A.",
     "online": true,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://events.gnuradio.org/event/21/page/91-code-of-conduct",
     "cfpUrl": "https://events.gnuradio.org/event/21/abstracts",
     "cfpEndDate": "2023-06-05",
-    "twitter": "@gnuradio",
-    "cocUrl": "https://events.gnuradio.org/event/21/page/91-code-of-conduct",
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "twitter": "@gnuradio"
   },
   {
     "name": "AI & Data Open Source Summit",
@@ -623,11 +623,11 @@
     "startDate": "2023-09-06",
     "endDate": "2023-09-07",
     "online": true,
-    "cfpUrl": "https://forms.gle/niHdyyJWVuW1qxUM6",
-    "cfpEndDate": "2023-07-10",
-    "cocUrl": "http://aidataossummit.com/",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "http://aidataossummit.com/",
+    "cfpUrl": "https://forms.gle/niHdyyJWVuW1qxUM6",
+    "cfpEndDate": "2023-07-10"
   },
   {
     "name": "DSS Miami: AI and Machine Learning in the Enterprise",
@@ -637,9 +637,9 @@
     "city": "Miami, FL",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@DataSciSalon",
+    "locales": "EN",
     "cocUrl": "https://www.datascience.salon/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@DataSciSalon"
   },
   {
     "name": "DevOpsDays Ukraine: Disaster Recovery",
@@ -647,9 +647,9 @@
     "startDate": "2023-09-14",
     "endDate": "2023-09-15",
     "online": true,
-    "twitter": "@devopsdays_kyiv",
-    "cocUrl": "https://devopsdays.org/events/2023-kyiv/conduct",
     "locales": "EN",
+    "cocUrl": "https://devopsdays.org/events/2023-kyiv/conduct",
+    "twitter": "@devopsdays_kyiv",
     "mastodon": "@devopsdays_ukraine@hachyderm.io"
   },
   {
@@ -660,8 +660,8 @@
     "city": "Nantes",
     "country": "France",
     "online": true,
-    "twitter": "@salondata",
-    "locales": "FR"
+    "locales": "FR",
+    "twitter": "@salondata"
   },
   {
     "name": "Big Data LDN",
@@ -671,8 +671,8 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
-    "twitter": "@bigdata_ldn",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@bigdata_ldn"
   },
   {
     "name": "APAC Data 2030 Summit",
@@ -682,8 +682,8 @@
     "city": "Singapore",
     "country": "Singapore",
     "online": false,
-    "twitter": "@apacdata2030",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@apacdata2030"
   },
   {
     "name": "GOTO COPENHAGEN",
@@ -693,9 +693,9 @@
     "city": "Copenhagen",
     "country": "Denmark",
     "online": false,
-    "twitter": "@GOTOcon",
+    "locales": "EN",
     "cocUrl": "https://gotocph.com/2023/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@GOTOcon"
   },
   {
     "name": "Data & Analytics Conference",
@@ -736,8 +736,8 @@
     "city": "Budapest",
     "country": "Hungary",
     "online": true,
-    "twitter": "@amuseconf",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@amuseconf"
   },
   {
     "name": "UC Berkeley AI Summit",
@@ -757,11 +757,11 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.ai.engineer/conduct",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdVCTSSDPkcIBjJeqZqq1Ox-PWS6cCxzxdZ9BbZ1z5z56C8eA/viewform",
     "cfpEndDate": "2023-08-20",
-    "twitter": "@aiDotEngineer",
-    "cocUrl": "https://www.ai.engineer/conduct",
-    "locales": "EN"
+    "twitter": "@aiDotEngineer"
   },
   {
     "name": "Intersection Conference",
@@ -771,11 +771,11 @@
     "city": "Turin",
     "country": "Italy",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://torino2022.intersection-conference.eu/code-of-conduct.html",
     "cfpUrl": "https://www.intersection-conference.eu/call-for-speakers",
     "cfpEndDate": "2023-05-31",
-    "twitter": "@intersection_eu",
-    "cocUrl": "https://torino2022.intersection-conference.eu/code-of-conduct.html",
-    "locales": "EN"
+    "twitter": "@intersection_eu"
   },
   {
     "name": "data2day",
@@ -785,11 +785,11 @@
     "city": "Karlsruhe",
     "country": "Germany",
     "online": false,
+    "locales": "EN,DE",
+    "cocUrl": "https://www.data2day.de/code_of_conduct.php",
     "cfpUrl": "https://www.data2day.de/cfp_en.php",
     "cfpEndDate": "2023-05-08",
-    "twitter": "@data2day",
-    "cocUrl": "https://www.data2day.de/code_of_conduct.php",
-    "locales": "EN,DE"
+    "twitter": "@data2day"
   },
   {
     "name": "Prompt Engineering Conference",
@@ -797,10 +797,10 @@
     "startDate": "2023-10-12",
     "endDate": "2023-10-12",
     "online": true,
-    "cfpUrl": "https://sessionize.com/prompt-engineering-conference-2023",
-    "cfpEndDate": "2023-09-12",
+    "locales": "EN",
     "cocUrl": "https://promptengineering.rocks/code-of-conduct",
-    "locales": "EN"
+    "cfpUrl": "https://sessionize.com/prompt-engineering-conference-2023",
+    "cfpEndDate": "2023-09-12"
   },
   {
     "name": "C# Corner Annual Developer Conference",
@@ -810,11 +810,11 @@
     "city": "Delhi",
     "country": "India",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://conference.c-sharpcorner.com/code-of-conduct/",
     "cfpUrl": "https://forms.office.com/r/DUwbw7dcsW",
     "cfpEndDate": "2023-08-30",
-    "twitter": "@csharpcorner",
-    "cocUrl": "https://conference.c-sharpcorner.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@csharpcorner"
   },
   {
     "name": "SeaStar Quality Conference",
@@ -824,10 +824,10 @@
     "city": "Playa Dorada",
     "country": "Dominican Republic",
     "online": true,
-    "twitter": "@TestMastersAcad",
-    "cocUrl": "https://quality.seastarconf.com",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://quality.seastarconf.com",
+    "twitter": "@TestMastersAcad"
   },
   {
     "name": "SingleStore Now: The Real-Time AI Conference",
@@ -847,10 +847,10 @@
     "city": "Tel Aviv",
     "country": "Israel",
     "online": false,
-    "cfpUrl": "https://pgday.org.il/#cfp",
-    "cfpEndDate": "2023-06-30",
+    "locales": "EN",
     "cocUrl": "https://pgday.org.il/#organization",
-    "locales": "EN"
+    "cfpUrl": "https://pgday.org.il/#cfp",
+    "cfpEndDate": "2023-06-30"
   },
   {
     "name": "GOTO AI DAYS CHICAGO",
@@ -860,9 +860,9 @@
     "city": "Chicago, IL",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@GOTOcon",
+    "locales": "EN",
     "cocUrl": "https://gotochgo.com/ai-days-2023/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@GOTOcon"
   },
   {
     "name": "AI DevWorld",
@@ -872,11 +872,11 @@
     "city": "Santa Clara, CA",
     "country": "U.S.A.",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
     "cfpUrl": "https://sessionize.com/ai-devworld-2023",
     "cfpEndDate": "2023-06-09",
-    "twitter": "@APIWorld",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@APIWorld"
   },
   {
     "name": "APIWorld",
@@ -886,11 +886,11 @@
     "city": "Santa Clara, CA",
     "country": "U.S.A.",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
     "cfpUrl": "https://sessionize.com/api-world-2023",
     "cfpEndDate": "2023-06-09",
-    "twitter": "@APIWorld",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@APIWorld"
   },
   {
     "name": "MLOps World",
@@ -900,10 +900,10 @@
     "city": "Austin, TX",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
     "cfpUrl": "https://mlopsworld.com/call-for-speakers",
     "cfpEndDate": "2023-06-15",
-    "twitter": "@MLOpsWorld",
-    "locales": "EN"
+    "twitter": "@MLOpsWorld"
   },
   {
     "name": "NODES",
@@ -911,10 +911,10 @@
     "startDate": "2023-10-26",
     "endDate": "2023-10-26",
     "online": true,
+    "locales": "EN",
     "cfpUrl": "https://dev.neo4j.com/417Qa1D",
     "cfpEndDate": "2023-06-30",
-    "twitter": "@neo4j",
-    "locales": "EN"
+    "twitter": "@neo4j"
   },
   {
     "name": "ODSC West",
@@ -924,8 +924,8 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@ODSC",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@ODSC"
   },
   {
     "name": "KubeCon + CloudNativeCon",
@@ -935,11 +935,11 @@
     "city": "Chicago, IL",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/attend/code-of-conduct/",
     "cfpUrl": "https://sessionize.com/kubecon-cloudnativecon-north-america-2023",
     "cfpEndDate": "2023-06-18",
-    "twitter": "@CloudNativeFdn",
-    "cocUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/attend/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@CloudNativeFdn"
   },
   {
     "name": "INNOQ Technology Day",
@@ -947,8 +947,8 @@
     "startDate": "2023-11-13",
     "endDate": "2023-11-13",
     "online": true,
-    "twitter": "@INNOQ",
     "locales": "DE,EN",
+    "twitter": "@INNOQ",
     "mastodon": "@INNOQ@innoq.social"
   },
   {
@@ -959,11 +959,11 @@
     "city": "Oakland, CA",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://github.com/bythebay/policies/blob/master/citizen_code_of_conduct.md",
     "cfpUrl": "https://www.scale.bythebay.io/cfp",
     "cfpEndDate": "2023-05-14",
-    "twitter": "@ScaleByTheBay",
-    "cocUrl": "https://github.com/bythebay/policies/blob/master/citizen_code_of_conduct.md",
-    "locales": "EN"
+    "twitter": "@ScaleByTheBay"
   },
   {
     "name": "Celosphere",
@@ -973,9 +973,9 @@
     "city": "Munich",
     "country": "Germany",
     "online": false,
-    "twitter": "@Celonis",
+    "locales": "EN,DE",
     "cocUrl": "https://www.celonis.com/celosphere/faq/",
-    "locales": "EN,DE"
+    "twitter": "@Celonis"
   },
   {
     "name": "NVIDIA LLM Developer Day - A Free Virtual Event",
@@ -991,8 +991,8 @@
     "startDate": "2023-11-20",
     "endDate": "2023-11-22",
     "online": true,
-    "twitter": "@openmesh",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@openmesh"
   },
   {
     "name": "Big Data Conference Europe",
@@ -1002,10 +1002,10 @@
     "city": "Vilnius",
     "country": "Lithuania",
     "online": true,
+    "locales": "EN",
     "cfpUrl": "https://airtable.com/shrqoYRKfsZhwHFrf",
     "cfpEndDate": "2023-10-15",
-    "twitter": "@BigDataConfEU",
-    "locales": "EN"
+    "twitter": "@BigDataConfEU"
   },
   {
     "name": "Conversational AI & Customer Experience Summit",
@@ -1026,9 +1026,9 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
-    "twitter": "@mlconference",
+    "locales": "EN",
     "cocUrl": "https://mlconference.ai/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@mlconference"
   },
   {
     "name": "ABAPConf",
@@ -1036,10 +1036,10 @@
     "startDate": "2023-12-07",
     "endDate": "2023-12-07",
     "online": true,
+    "locales": "EN,DE",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdcuJUqj1Pn5rp8rTVjeaWzb8B-eNSe3McV3VbSlWvW-UE7CQ/viewform",
     "cfpEndDate": "2023-09-30",
-    "twitter": "@AbapConf",
-    "locales": "EN,DE"
+    "twitter": "@AbapConf"
   },
   {
     "name": "AI EXPO",
@@ -1059,11 +1059,11 @@
     "city": "Singapore",
     "country": "Singapore",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://javascript-conference.com/code-of-conduct/",
     "cfpUrl": "https://javascript-conference.com/code-of-conduct",
     "cfpEndDate": "2023-06-26",
-    "twitter": "@JavaScriptCon",
-    "cocUrl": "https://javascript-conference.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@JavaScriptCon"
   },
   {
     "name": "AI.dev: Open Souce GenAI & ML Summit",
@@ -1073,11 +1073,11 @@
     "city": "San Jose, CA",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://events.linuxfoundation.org/ai-dev-north-america/attend/code-of-conduct/",
     "cfpUrl": "https://events.linuxfoundation.org/ai-dev-north-america/program/cfp",
     "cfpEndDate": "2023-10-23",
-    "twitter": "@LinuxFoundation",
-    "cocUrl": "https://events.linuxfoundation.org/ai-dev-north-america/attend/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@LinuxFoundation"
   },
   {
     "name": "PostgreSQL Conference Europe",
@@ -1087,7 +1087,7 @@
     "city": "Prague",
     "country": "Czech Republic",
     "online": false,
-    "twitter": "@pgconfeu",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@pgconfeu"
   }
 ]

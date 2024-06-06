@@ -20,9 +20,9 @@
     "startDate": "2022-02-15",
     "endDate": "2022-02-16",
     "online": true,
+    "cocUrl": "https://wp.geekle.us/code-of-conduct",
     "cfpUrl": "https://forms.gle/7eApNCA7X8NfvngVA",
-    "cfpEndDate": "2021-12-01",
-    "cocUrl": "https://wp.geekle.us/code-of-conduct"
+    "cfpEndDate": "2021-12-01"
   },
   {
     "name": "QA or the Highway",
@@ -39,10 +39,10 @@
     "startDate": "2022-03-08",
     "endDate": "2022-03-09",
     "online": true,
+    "cocUrl": "https://www.thedevopsconference.com/code-of-conduct",
     "cfpUrl": "https://www.thedevopsconference.com/call-for-papers",
     "cfpEndDate": "2021-12-16",
-    "twitter": "@eficode",
-    "cocUrl": "https://www.thedevopsconference.com/code-of-conduct"
+    "twitter": "@eficode"
   },
   {
     "name": "QA & TEST Safety and Security Online",
@@ -70,10 +70,10 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
+    "cocUrl": "https://nullcon.net/about-conferencepolicy/",
     "cfpUrl": "https://nullcon.net/berlin-2022/cfp",
     "cfpEndDate": "2022-01-15",
-    "twitter": "@nullcon",
-    "cocUrl": "https://nullcon.net/about-conferencepolicy/"
+    "twitter": "@nullcon"
   },
   {
     "name": "Test Driven Conf",
@@ -83,9 +83,9 @@
     "city": "Moscow",
     "country": "Russia",
     "online": true,
+    "cocUrl": "https://conf.ontico.ru/code-of-conduct.html",
     "cfpUrl": "https://cfp.tdconf.ru",
-    "cfpEndDate": "2021-12-25",
-    "cocUrl": "https://conf.ontico.ru/code-of-conduct.html"
+    "cfpEndDate": "2021-12-25"
   },
   {
     "name": "InflectraCon",
@@ -95,8 +95,8 @@
     "city": "Washington, DC",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@inflectraCon",
-    "cocUrl": "https://www.inflectracon.com/code-of-conduct-2022"
+    "cocUrl": "https://www.inflectracon.com/code-of-conduct-2022",
+    "twitter": "@inflectraCon"
   },
   {
     "name": "QA or the Highway",
@@ -116,8 +116,8 @@
     "city": "Cologne",
     "country": "Germany",
     "online": false,
-    "twitter": "@AgileTD",
-    "cocUrl": "https://agiletestingdays.com/code-of-conduct/"
+    "cocUrl": "https://agiletestingdays.com/code-of-conduct/",
+    "twitter": "@AgileTD"
   },
   {
     "name": "expo:QA",
@@ -136,9 +136,9 @@
     "city": "Atlanta, GA",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@RenderATL",
+    "offersSignLanguageOrCC": true,
     "cocUrl": "RenderATL.com/thecode",
-    "offersSignLanguageOrCC": true
+    "twitter": "@RenderATL"
   },
   {
     "name": "Agile Testing Days USA",
@@ -148,8 +148,8 @@
     "city": "Chicago, IL",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@AgileTDUSA",
-    "cocUrl": "https://agiletestingdays.us/code-of-conduct/"
+    "cocUrl": "https://agiletestingdays.us/code-of-conduct/",
+    "twitter": "@AgileTDUSA"
   },
   {
     "name": "30th Annual EuroSTAR Conference",
@@ -159,8 +159,8 @@
     "city": "Copenhagen",
     "country": "Denmark",
     "online": false,
-    "twitter": "@esconfs",
-    "cocUrl": "https://conference.eurostarsoftwaretesting.com/anti-harassment-policy/"
+    "cocUrl": "https://conference.eurostarsoftwaretesting.com/anti-harassment-policy/",
+    "twitter": "@esconfs"
   },
   {
     "name": "Conf42 Site Reliability Engineering (SRE)",
@@ -168,10 +168,10 @@
     "startDate": "2022-06-09",
     "endDate": "2022-06-09",
     "online": true,
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/conf42-sre-2022",
     "cfpEndDate": "2022-05-06",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct"
+    "twitter": "@conf42com"
   },
   {
     "name": "ACM Multimedia Systems Conference - MMSys",
@@ -193,8 +193,8 @@
     "city": "Cluj-Napoca",
     "country": "Romania",
     "online": true,
-    "twitter": "@romaniatesting",
-    "cocUrl": "https://romaniatesting.ro/code-of-conduct/"
+    "cocUrl": "https://romaniatesting.ro/code-of-conduct/",
+    "twitter": "@romaniatesting"
   },
   {
     "name": "React Summit",
@@ -204,10 +204,10 @@
     "city": "Amsterdam",
     "country": "Netherlands",
     "online": true,
+    "cocUrl": "https://reactsummit.com/coc",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfVG_bNAebxhlERx1do33ekcmkLx25f1wh478MPv2CW6UvMlw/viewform",
     "cfpEndDate": "2022-03-20",
-    "twitter": "@ReactSummit",
-    "cocUrl": "https://reactsummit.com/coc"
+    "twitter": "@ReactSummit"
   },
   {
     "name": "DevOpsCon Berlin",
@@ -217,10 +217,10 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
+    "cocUrl": "https://devopscon.io/code-of-conduct/",
     "cfpUrl": "https://callforpapers.sandsmedia.com",
     "cfpEndDate": "2022-05-01",
-    "twitter": "@devops_con",
-    "cocUrl": "https://devopscon.io/code-of-conduct/"
+    "twitter": "@devops_con"
   },
   {
     "name": "Swiss Testing Day",
@@ -240,10 +240,10 @@
     "city": "Munich",
     "country": "Germany",
     "online": false,
+    "cocUrl": "https://2022.jcon.one/code-of-conduct",
     "cfpUrl": "https://sessionize.com/jcon-2022-people",
     "cfpEndDate": "2022-03-31",
-    "twitter": "@jcon_conference",
-    "cocUrl": "https://2022.jcon.one/code-of-conduct"
+    "twitter": "@jcon_conference"
   },
   {
     "name": "Selenium Conf Lite",
@@ -251,8 +251,8 @@
     "startDate": "2022-07-14",
     "endDate": "2022-07-14",
     "online": true,
-    "twitter": "@seleniumconf",
-    "cocUrl": "https://2022.seleniumconf.in/code-of-conduct.html"
+    "cocUrl": "https://2022.seleniumconf.in/code-of-conduct.html",
+    "twitter": "@seleniumconf"
   },
   {
     "name": "Agile, DevOps & Testing: People, Process and Technology",
@@ -260,8 +260,8 @@
     "startDate": "2022-07-20",
     "endDate": "2022-07-21",
     "online": true,
-    "twitter": "@UNICOMLearning",
-    "cocUrl": "https://conference.unicomseminars.org/agile-devops-software-testing-conference/apac-july/#code"
+    "cocUrl": "https://conference.unicomseminars.org/agile-devops-software-testing-conference/apac-july/#code",
+    "twitter": "@UNICOMLearning"
   },
   {
     "name": "Testμ",
@@ -269,8 +269,8 @@
     "startDate": "2022-07-23",
     "endDate": "2022-07-25",
     "online": true,
-    "twitter": "@lambdatesting",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@lambdatesting"
   },
   {
     "name": "Selenium Conf",
@@ -278,10 +278,10 @@
     "startDate": "2022-07-29",
     "endDate": "2022-07-30",
     "online": true,
+    "cocUrl": "https://2022.seleniumconf.in/code-of-conduct.html",
     "cfpUrl": "https://confengine.com/conferences/selenium-conf-2022",
     "cfpEndDate": "2022-05-31",
-    "twitter": "@seleniumconf",
-    "cocUrl": "https://2022.seleniumconf.in/code-of-conduct.html"
+    "twitter": "@seleniumconf"
   },
   {
     "name": "IEEE AUTOTESTCON",
@@ -299,10 +299,10 @@
     "city": "Goa",
     "country": "India",
     "online": false,
+    "cocUrl": "https://nullcon.net/about-conferencepolicy/",
     "cfpUrl": "https://nullcon.net/goa-2022/cfp",
     "cfpEndDate": "2022-06-05",
-    "twitter": "@nullcon",
-    "cocUrl": "https://nullcon.net/about-conferencepolicy/"
+    "twitter": "@nullcon"
   },
   {
     "name": "SREday",
@@ -312,10 +312,10 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/sreday-2022",
     "cfpEndDate": "2022-08-01",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct"
+    "twitter": "@conf42com"
   },
   {
     "name": "JCON-ONLINE",
@@ -323,10 +323,10 @@
     "startDate": "2022-09-20",
     "endDate": "2022-09-23",
     "online": true,
+    "cocUrl": "https://2022.jcon.one/code-of-conduct",
     "cfpUrl": "https://2022.jcon.one/call-for-papers",
     "cfpEndDate": "2022-03-31",
-    "twitter": "@jcon_conference",
-    "cocUrl": "https://2022.jcon.one/code-of-conduct"
+    "twitter": "@jcon_conference"
   },
   {
     "name": "Conf42 Incident Management",
@@ -334,10 +334,10 @@
     "startDate": "2022-09-29",
     "endDate": "2022-09-29",
     "online": true,
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/conf42-incident-management-2022",
     "cfpEndDate": "2022-08-26",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct"
+    "twitter": "@conf42com"
   },
   {
     "name": "SEETEST",
@@ -354,11 +354,11 @@
     "startDate": "2022-10-08",
     "endDate": "2022-10-09",
     "online": true,
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://www.thetesttribe.com/event-policy-and-code-of-conduct/",
     "cfpUrl": "https://www.thetesttribe.com/testflix-2022-call-for-papers",
     "cfpEndDate": "2022-05-15",
-    "twitter": "@the_test_tribe",
-    "cocUrl": "https://www.thetesttribe.com/event-policy-and-code-of-conduct/",
-    "offersSignLanguageOrCC": true
+    "twitter": "@the_test_tribe"
   },
   {
     "name": "AutomationSTAR Conference",
@@ -366,10 +366,10 @@
     "startDate": "2022-10-17",
     "endDate": "2022-10-18",
     "online": true,
+    "cocUrl": "https://automation.eurostarsoftwaretesting.com/code-of-conduct/",
     "cfpUrl": "https://automation.eurostarsoftwaretesting.com/coming-soon",
     "cfpEndDate": "2022-10-16",
-    "twitter": "@AutomationConf",
-    "cocUrl": "https://automation.eurostarsoftwaretesting.com/code-of-conduct/"
+    "twitter": "@AutomationConf"
   },
   {
     "name": "QA Global Summit",
@@ -377,11 +377,11 @@
     "startDate": "2022-10-18",
     "endDate": "2022-10-19",
     "online": true,
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://geekle.us/code-of-conduct",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSemM0xLLOL--WU5Ix9yRjpWwN-xbyHaaio21fLWAsZVb2PxeQ/viewform",
     "cfpEndDate": "2022-10-01",
-    "twitter": "@GeekleOfficial",
-    "cocUrl": "https://geekle.us/code-of-conduct",
-    "offersSignLanguageOrCC": true
+    "twitter": "@GeekleOfficial"
   },
   {
     "name": "JCON",
@@ -389,8 +389,8 @@
     "startDate": "2022-10-18",
     "endDate": "2022-10-21",
     "online": true,
-    "twitter": "@jcon_conference",
-    "cocUrl": "https://jcon.one/code-of-conduct"
+    "cocUrl": "https://jcon.one/code-of-conduct",
+    "twitter": "@jcon_conference"
   },
   {
     "name": "Testing Talks",
@@ -400,8 +400,8 @@
     "city": "Melbourne",
     "country": "Australia",
     "online": false,
-    "twitter": "@testingtalks",
-    "cocUrl": "https://www.testingtalks.com.au/terms_and_conditions"
+    "cocUrl": "https://www.testingtalks.com.au/terms_and_conditions",
+    "twitter": "@testingtalks"
   },
   {
     "name": "EclipseCon",
@@ -411,10 +411,10 @@
     "city": "Ludwigsburg",
     "country": "Germany",
     "online": false,
+    "cocUrl": "https://www.eclipsecon.org/2022/eclipse-community-events-code-conduct",
     "cfpUrl": "https://www.eclipsecon.org/2022/cfp",
     "cfpEndDate": "2022-06-15",
-    "twitter": "@eclipsecon",
-    "cocUrl": "https://www.eclipsecon.org/2022/eclipse-community-events-code-conduct"
+    "twitter": "@eclipsecon"
   },
   {
     "name": "TestCon Europe",
@@ -424,9 +424,9 @@
     "city": "Vilnius",
     "country": "Lithuania",
     "online": true,
+    "cocUrl": "https://testcon.lt/code-of-conduct/",
     "cfpUrl": "https://airtable.com/shrnlAKGCLYEtzHar",
-    "twitter": "@TestConEurope",
-    "cocUrl": "https://testcon.lt/code-of-conduct/"
+    "twitter": "@TestConEurope"
   },
   {
     "name": "National Software Testing Conference",
@@ -454,10 +454,10 @@
     "startDate": "2022-10-26",
     "endDate": "2022-10-27",
     "online": true,
+    "cocUrl": "https://testcon.lt/code-of-conduct/",
     "cfpUrl": "https://testcon.lt/cfp",
     "cfpEndDate": "2022-06-30",
-    "twitter": "@TestConEurope",
-    "cocUrl": "https://testcon.lt/code-of-conduct/"
+    "twitter": "@TestConEurope"
   },
   {
     "name": "CWIC: The Hyperconnected Human",
@@ -477,10 +477,10 @@
     "startDate": "2022-11-04",
     "endDate": "2022-11-04",
     "online": true,
+    "cocUrl": "https://testjssummit.com/coc",
     "cfpUrl": "https://forms.gle/xLZ8omTK4TAyeGVt7",
     "cfpEndDate": "2022-09-16",
-    "twitter": "@TestJSSummit",
-    "cocUrl": "https://testjssummit.com/coc"
+    "twitter": "@TestJSSummit"
   },
   {
     "name": "Update Conference Prague",
@@ -490,10 +490,10 @@
     "city": "Prague",
     "country": "Czech Republic",
     "online": true,
+    "cocUrl": "https://www.updateconference.net/en/code-of-conduct",
     "cfpUrl": "https://www.updateconference.net/2022/call-for-speakers",
     "cfpEndDate": "2022-06-26",
-    "twitter": "@update_conf",
-    "cocUrl": "https://www.updateconference.net/en/code-of-conduct"
+    "twitter": "@update_conf"
   },
   {
     "name": "CTO Craft - Winter Conference",
@@ -501,9 +501,9 @@
     "startDate": "2022-11-14",
     "endDate": "2022-11-16",
     "online": true,
-    "twitter": "@CTOCraft",
+    "offersSignLanguageOrCC": true,
     "cocUrl": "https://conference.ctocraft.com/code-of-conduct/",
-    "offersSignLanguageOrCC": true
+    "twitter": "@CTOCraft"
   },
   {
     "name": "{unscripted}",
@@ -523,10 +523,10 @@
     "city": "Potsdam",
     "country": "Germany",
     "online": true,
+    "cocUrl": "https://agiletestingdays.com/code-of-conduct/",
     "cfpUrl": "https://agiletestingdays.com/call-for-papers",
     "cfpEndDate": "2022-03-20",
-    "twitter": "@AgileTD",
-    "cocUrl": "https://agiletestingdays.com/code-of-conduct/"
+    "twitter": "@AgileTD"
   },
   {
     "name": "JConf Peru",
@@ -544,10 +544,10 @@
     "startDate": "2022-11-26",
     "endDate": "2022-11-27",
     "online": true,
+    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub",
     "cfpUrl": "http://push.gitcommit.show",
     "cfpEndDate": "2022-10-26",
-    "twitter": "@gitcommitshow",
-    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub"
+    "twitter": "@gitcommitshow"
   },
   {
     "name": "MAD Summit",
@@ -557,8 +557,8 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
-    "twitter": "@mad_summit",
-    "cocUrl": "https://mad-summit.de/code-of-conduct/"
+    "cocUrl": "https://mad-summit.de/code-of-conduct/",
+    "twitter": "@mad_summit"
   },
   {
     "name": "DevTernity",
@@ -566,7 +566,7 @@
     "startDate": "2022-12-08",
     "endDate": "2022-12-09",
     "online": true,
-    "twitter": "@devternity",
-    "cocUrl": "https://devternity.com/code_of_conduct.html"
+    "cocUrl": "https://devternity.com/code_of_conduct.html",
+    "twitter": "@devternity"
   }
 ]

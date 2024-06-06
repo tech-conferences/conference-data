@@ -5,10 +5,10 @@
     "startDate": "2021-03-24",
     "endDate": "2021-03-24",
     "online": true,
+    "offersSignLanguageOrCC": true,
     "cfpUrl": "https://itsecapac.com/2nd-it-security-virtual-strategy-meeting/registration-portal/#redirect-portal",
     "cfpEndDate": "2021-03-23",
-    "twitter": "@RockbirdMedia",
-    "offersSignLanguageOrCC": true
+    "twitter": "@RockbirdMedia"
   },
   {
     "name": "buildingt IoT",
@@ -16,11 +16,11 @@
     "startDate": "2021-03-24",
     "endDate": "2021-03-25",
     "online": true,
+    "offersSignLanguageOrCC": false,
+    "cocUrl": "https://www.buildingiot.de/code_of_conduct.php",
     "cfpUrl": "https://www.buildingiot.de/call_for_proposals_en.php",
     "cfpEndDate": "2021-01-11",
-    "twitter": "@building_iot",
-    "cocUrl": "https://www.buildingiot.de/code_of_conduct.php",
-    "offersSignLanguageOrCC": false
+    "twitter": "@building_iot"
   },
   {
     "name": "Embedded IoT World",
@@ -28,9 +28,9 @@
     "startDate": "2021-04-28",
     "endDate": "2021-04-29",
     "online": true,
-    "twitter": "@iotworldseries",
+    "offersSignLanguageOrCC": false,
     "cocUrl": "https://tmt.knect365.com/embedded-iot-world/diversity-pledge-code-of-conduct/",
-    "offersSignLanguageOrCC": false
+    "twitter": "@iotworldseries"
   },
   {
     "name": "Kubernetes on Edge Day",
@@ -46,8 +46,8 @@
     "startDate": "2021-06-21",
     "endDate": "2021-06-23",
     "online": true,
-    "twitter": "@iotconf",
-    "offersSignLanguageOrCC": false
+    "offersSignLanguageOrCC": false,
+    "twitter": "@iotconf"
   },
   {
     "name": "Hardwear.io Security Trainings & Conference USA",
@@ -55,10 +55,10 @@
     "startDate": "2021-07-05",
     "endDate": "2021-07-10",
     "online": true,
+    "cocUrl": "https://hardwear.io/code-of-conduct/",
     "cfpUrl": "https://share.hsforms.com/1wDDFsfHxTdW4BNOwBue9UQ4d2c8",
     "cfpEndDate": "2021-05-15",
-    "twitter": "@hardwear_io",
-    "cocUrl": "https://hardwear.io/code-of-conduct/"
+    "twitter": "@hardwear_io"
   },
   {
     "name": "Vintage Computer Festival East",
@@ -77,9 +77,9 @@
     "city": "Seattle, WA",
     "country": "U.S.A.",
     "online": true,
+    "cocUrl": "https://events.linuxfoundation.org/embedded-linux-conference-north-america/attend/code-of-conduct/",
     "cfpUrl": "https://events.linuxfoundation.org/embedded-linux-conference-north-america/program/cfp/",
-    "cfpEndDate": "2021-06-13",
-    "cocUrl": "https://events.linuxfoundation.org/embedded-linux-conference-north-america/attend/code-of-conduct/"
+    "cfpEndDate": "2021-06-13"
   },
   {
     "name": "Hardwear.io Security Trainings and Conference Netherlands",
@@ -89,9 +89,9 @@
     "city": "The Hague",
     "country": "Netherlands",
     "online": false,
+    "cocUrl": "https://hardwear.io/code-of-conduct/",
     "cfpUrl": "https://hardwear.io/netherlands-2021/cfp.php",
     "cfpEndDate": "2021-08-20",
-    "twitter": "@hardwear_io",
-    "cocUrl": "https://hardwear.io/code-of-conduct/"
+    "twitter": "@hardwear_io"
   }
 ]

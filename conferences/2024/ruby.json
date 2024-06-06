@@ -7,9 +7,9 @@
     "city": "Wrocław",
     "country": "Poland",
     "online": false,
-    "twitter": "@wrocloverb",
+    "locales": "EN",
     "cocUrl": "https://2024.wrocloverb.com/coc",
-    "locales": "EN"
+    "twitter": "@wrocloverb"
   },
   {
     "name": "Helvetic Ruby",
@@ -19,7 +19,7 @@
     "city": "Zurich",
     "country": "Switzerland",
     "online": false,
-    "cocUrl": "https://helvetic-ruby.ch/code-of-conduct/",
-    "locales": "EN"
+    "locales": "EN",
+    "cocUrl": "https://helvetic-ruby.ch/code-of-conduct/"
   }
 ]

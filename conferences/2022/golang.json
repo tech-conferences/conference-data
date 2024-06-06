@@ -5,10 +5,10 @@
     "startDate": "2022-03-31",
     "endDate": "2022-03-31",
     "online": true,
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/conf42-golang-2022",
     "cfpEndDate": "2022-02-25",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct"
+    "twitter": "@conf42com"
   },
   {
     "name": "Hugo Conf",
@@ -16,10 +16,10 @@
     "startDate": "2022-07-08",
     "endDate": "2022-07-09",
     "online": true,
+    "cocUrl": "https://hugoconf.io/code-of-conduct",
     "cfpUrl": "https://hugoconf.io/code-of-conduct",
     "cfpEndDate": "2022-06-15",
-    "twitter": "@hugoconf",
-    "cocUrl": "https://hugoconf.io/code-of-conduct"
+    "twitter": "@hugoconf"
   },
   {
     "name": "Gophercon Europe",
@@ -39,9 +39,9 @@
     "city": "Munich",
     "country": "Germany",
     "online": true,
+    "cocUrl": "https://www.ory.sh/code-of-conduct/",
     "cfpUrl": "https://sessionize.com/ory-summit",
     "cfpEndDate": "2022-08-30",
-    "twitter": "@OryCorp",
-    "cocUrl": "https://www.ory.sh/code-of-conduct/"
+    "twitter": "@OryCorp"
   }
 ]

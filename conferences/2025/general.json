@@ -7,10 +7,10 @@
     "city": "Montreal",
     "country": "Canada",
     "online": true,
-    "twitter": "@confooca",
-    "mastodon": "@confooca@techhub.social",
+    "locales": "EN",
     "cocUrl": "https://confoo.ca/en/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@confooca",
+    "mastodon": "@confooca@techhub.social"
   },
   {
     "name": "Gartner Digital Workplace Summit",
@@ -20,8 +20,8 @@
     "city": "Grapevine, TX",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@Gartner_inc",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@Gartner_inc"
   },
   {
     "name": "Great International Developer Summit (GIDS)",
@@ -31,11 +31,11 @@
     "city": "Bengaluru",
     "country": "India",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://saltmarch.com/code-of-conduct",
     "cfpUrl": "https://developersummit.com/cfp",
     "cfpEndDate": "2024-09-30",
-    "twitter": "@developersummit",
-    "cocUrl": "https://saltmarch.com/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@developersummit"
   },
   {
     "name": "TEQNATION",
@@ -45,8 +45,8 @@
     "city": "Utrecht",
     "country": "Netherlands",
     "online": false,
-    "twitter": "@teqnationconf",
+    "locales": "EN",
     "cocUrl": "https://conference.teqnation.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@teqnationconf"
   }
 ]

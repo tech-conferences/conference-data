@@ -171,9 +171,9 @@
     "startDate": "2020-11-30",
     "endDate": "2020-12-02",
     "online": true,
-    "twitter": "@apisummit_de",
+    "offersSignLanguageOrCC": false,
     "cocUrl": "https://api-summit.de/",
-    "offersSignLanguageOrCC": false
+    "twitter": "@apisummit_de"
   },
   {
     "name": "betterCode .Net 5.0",
@@ -181,9 +181,9 @@
     "startDate": "2020-12-03",
     "endDate": "2020-12-03",
     "online": true,
-    "twitter": "@bettercodeconf",
+    "offersSignLanguageOrCC": false,
     "cocUrl": "https://net50.bettercode.eu/code_of_conduct.php",
-    "offersSignLanguageOrCC": false
+    "twitter": "@bettercodeconf"
   },
   {
     "name": "Dev Intersection",

@@ -7,10 +7,10 @@
     "city": "Dubai",
     "country": "United Arab Emirates",
     "online": false,
-    "cfpUrl": "https://aisca2024.org",
-    "cfpEndDate": "2024-02-10",
+    "locales": "EN",
     "cocUrl": "https://aisca2024.org/mliob/index",
-    "locales": "EN"
+    "cfpUrl": "https://aisca2024.org",
+    "cfpEndDate": "2024-02-10"
   },
   {
     "name": "axe-con",
@@ -18,13 +18,13 @@
     "startDate": "2024-02-20",
     "endDate": "2024-02-22",
     "online": true,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://www.deque.com/axe-con/code-of-conduct/",
     "cfpUrl": "https://www.deque.com/axe-con/call-for-speakers",
     "cfpEndDate": "2023-10-06",
     "twitter": "@dequesystems",
-    "cocUrl": "https://www.deque.com/axe-con/code-of-conduct/",
-    "locales": "EN",
-    "mastodon": "@dequesystems@mstdn.social",
-    "offersSignLanguageOrCC": true
+    "mastodon": "@dequesystems@mstdn.social"
   },
   {
     "name": "Accessibility Days",
@@ -34,8 +34,8 @@
     "city": "Rome",
     "country": "Italy",
     "online": true,
-    "twitter": "@a11y_days",
-    "locales": "IT"
+    "locales": "IT",
+    "twitter": "@a11y_days"
   },
   {
     "name": "Highload fwdays",
@@ -45,11 +45,11 @@
     "city": "Kyiv",
     "country": "Ukraine",
     "online": true,
+    "locales": "EN,UK",
+    "cocUrl": "https://docs.google.com/document/d/12o0ydKmKe6Jw_VgTZF3U6hmI7yzgo5poxXjDzKDLuDw/edit#heading=h.r7izboewrqur",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdAivIfn0qM5SSljDvshD48IRrAsKUg5-tlznG__PzDuDK12g/viewform",
     "cfpEndDate": "2024-04-20",
-    "twitter": "@fwdays",
-    "cocUrl": "https://docs.google.com/document/d/12o0ydKmKe6Jw_VgTZF3U6hmI7yzgo5poxXjDzKDLuDw/edit#heading=h.r7izboewrqur",
-    "locales": "EN,UK"
+    "twitter": "@fwdays"
   },
   {
     "name": "Paris Web",
@@ -59,11 +59,11 @@
     "city": "Paris",
     "country": "France",
     "online": false,
-    "cfpUrl": "https://appel.paris-web.fr",
-    "twitter": "@parisweb",
-    "cocUrl": "https://www.paris-web.fr/code-de-conduite.php",
     "locales": "FR",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://www.paris-web.fr/code-de-conduite.php",
+    "cfpUrl": "https://appel.paris-web.fr",
+    "twitter": "@parisweb"
   },
   {
     "name": "#a11yTO Conf",
@@ -73,10 +73,10 @@
     "city": "Toronto",
     "country": "Canada",
     "online": true,
-    "twitter": "@a11yto",
-    "cocUrl": "https://conf.a11yto.com/code-of-conduct",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://conf.a11yto.com/code-of-conduct",
+    "twitter": "@a11yto"
   },
   {
     "name": "Build Stuff Conference",
@@ -86,11 +86,11 @@
     "city": "Vilnius",
     "country": "Lithuania",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.buildstuff.events/code-of-conduct",
     "cfpUrl": "https://www.buildstuff.events/cfp",
     "cfpEndDate": "2024-06-20",
-    "twitter": "@BuildStuffConf",
-    "cocUrl": "https://www.buildstuff.events/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@BuildStuffConf"
   },
   {
     "name": "Agile Testing Days",
@@ -100,11 +100,11 @@
     "city": "Potsdam",
     "country": "Germany",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://agiletestingdays.com/code-of-conduct/",
     "cfpUrl": "https://agiletestingdays.com/call-for-papers",
     "cfpEndDate": "2024-02-11",
-    "twitter": "@AgileTD",
-    "cocUrl": "https://agiletestingdays.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@AgileTD"
   },
   {
     "name": "Web Directions Summit",
@@ -114,11 +114,11 @@
     "city": "Sydney",
     "country": "Australia",
     "online": true,
-    "cfpUrl": "https://webdirections.org/speaking",
-    "twitter": "@webdirections",
-    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
+    "cfpUrl": "https://webdirections.org/speaking",
+    "twitter": "@webdirections"
   },
   {
     "name": "WeyWeyWeb",
@@ -128,10 +128,10 @@
     "city": "Malaga",
     "country": "Spain",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://recursos.yeswetech.org/guias/codigo-de-conducta/en-code-of-conduct",
     "cfpUrl": "https://forms.gle/9PMZza735aVeDBaV7",
     "cfpEndDate": "2024-06-30",
-    "twitter": "@WeyWeyWeb",
-    "cocUrl": "https://recursos.yeswetech.org/guias/codigo-de-conducta/en-code-of-conduct",
-    "locales": "EN"
+    "twitter": "@WeyWeyWeb"
   }
 ]

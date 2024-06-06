@@ -7,10 +7,10 @@
     "city": "Krynica Zdrój",
     "country": "Poland",
     "online": false,
+    "cocUrl": "https://www.typeville.io/",
     "cfpUrl": "https://sml.io/typeville",
     "cfpEndDate": "2022-01-09",
-    "twitter": "@typevilleconf",
-    "cocUrl": "https://www.typeville.io/"
+    "twitter": "@typevilleconf"
   },
   {
     "name": "ScalaCon",
@@ -18,8 +18,8 @@
     "startDate": "2022-10-04",
     "endDate": "2022-10-07",
     "online": true,
-    "twitter": "@scalacon",
-    "cocUrl": "http://www.scalacon.org/coc/"
+    "cocUrl": "http://www.scalacon.org/coc/",
+    "twitter": "@scalacon"
   },
   {
     "name": "BUILD STUFF",
@@ -29,7 +29,7 @@
     "city": "Vilnius",
     "country": "Lithuania",
     "online": true,
-    "twitter": "@BuildStuffConf",
-    "cocUrl": "https://www.buildstuff.events/code-of-conduct"
+    "cocUrl": "https://www.buildstuff.events/code-of-conduct",
+    "twitter": "@BuildStuffConf"
   }
 ]
