@@ -2,6 +2,7 @@ const parse = require('date-fns/parse');
 const differenceInDays = require('date-fns/differenceInDays');
 const validLocations = require('../../config/validLocations');
 const validFields = require('../../config/validFields');
+const allowedUrls = require('../../config/allowedUrls');
 
 const maxDurationInDays = 10;
 const twitterRegex = /@\w([\w\.]){1,15}$/;
@@ -81,11 +82,22 @@ module.exports = function checkConference(year, conference, assertField) {
         assertField(!httpNoQuestionmarkRegex.test(value), property, 'should not contain a "?"', value);
         assertField(!urlShortener.test(value), property, 'should not use url shorteners', value);
 
+        // If the URL is in the allowedUrls array, return early
+        if (allowedUrls.includes(value)) {
+            return;
+        }
+
         const yearInUrl = value.match(/20\d{2}/);
 
         // If a 4-digit number starting with "20" is found in the URL
         if (yearInUrl) {
             const year = yearInUrl[0];
+
+            // // Skip the year check for folders from 2013 to 2023
+            // if (year >= 2013 && year <= 2023) {
+            //     return;
+            // }
+
             const eventStartYear = new Date(conference.startDate).getFullYear();
             const eventEndYear = new Date(conference.endDate).getFullYear();
 
