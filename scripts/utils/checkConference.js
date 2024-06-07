@@ -4,8 +4,7 @@ const validLocations = require('../../config/validLocations');
 const validFields = require('../../config/validFields');
 
 const maxDurationInDays = 10;
-const twitterRegex = /^@\w([\w\.]){1,15}$/;
-const mastodonRegex = /^@\w+@\w+(\.\w+)+$/;
+const twitterRegex = /@\w([\w\.]){1,15}$/;
 const httpRegex = /^http(s?):\/\//;
 const httpNoQuestionmarkRegex = /\?/;
 const urlShortener = /(\/bit\.ly)|(\/t\.co)/;
@@ -14,11 +13,12 @@ const emptyStringRegex = /^\s+$|^$/gi;
 const onlineRegex = /online|remote|everywhere|world|web|global|virtual|www|http/i;
 const dateFormat = 'yyyy-MM-dd';
 const dateRegex = /(2\d\d\d)-(0[1-9])|(1[012])-(0[1-9])|([12][0-9])|(3[01])/;
+const year2000Regex = /20\d{2}/;
 const REQUIRED_KEYS = ['name', 'url', 'startDate', 'endDate'];
 const validLocationsHint = ' - Check/Maintain the file "config/validLocations.js"';
 
 module.exports = function checkConference(year, conference, assertField) {
-    const { name, url, cfpUrl, twitter, mastodon } = conference;
+    const { name, url, cfpUrl, twitter } = conference;
 
     REQUIRED_KEYS.forEach(requiredKey => {
         assertField(conference.hasOwnProperty(requiredKey), requiredKey, `is missing`);
@@ -60,9 +60,6 @@ module.exports = function checkConference(year, conference, assertField) {
     if (twitter && twitter.length > 0 && !twitterRegex.test(twitter)) {
         assertField(twitterRegex.test(twitter), 'twitter', 'should be formatted like @twitter', twitter);
     }
-    if (mastodon && mastodon.length > 0 && !mastodonRegex.test(mastodon)) {
-        assertField(mastodonRegex.test(mastodon), 'mastodon', 'should be formatted like @username@domain.tld', mastodon);
-    }
 
     function checkLocation(country, city) {
         const isCountryValid = validLocations[country];
@@ -84,5 +81,29 @@ module.exports = function checkConference(year, conference, assertField) {
         assertField(httpRegex.test(value), property, 'should start with http', value);
         assertField(!httpNoQuestionmarkRegex.test(value), property, 'should not contain a "?"', value);
         assertField(!urlShortener.test(value), property, 'should not use url shorteners', value);
+        checkYearInUrl(conference, property, value);
+    }
+
+    function checkYearInUrl(conference, property, value) {
+        const urlContainsYear = value.match(year2000Regex);
+
+        // If a 4-digit number starting with "20" is found in the URL
+        if (urlContainsYear) {
+            const year = parseInt(urlContainsYear[0]);
+            const eventStartYear = new Date(conference.startDate).getFullYear();
+            const diffInYears = Math.abs(year - eventStartYear);
+            if (diffInYears == 0 || diffInYears > 5) {
+                return;
+            }
+            const eventEndYear = new Date(conference.endDate).getFullYear();
+
+            // Check if the year in the URL matches the event start or end year
+            assertField(
+                year === eventStartYear.toString() || year === eventEndYear.toString(),
+                property,
+                `If a year is present in the URL, it should match the event start or end year`,
+                value
+            );
+        }
     }
 };
