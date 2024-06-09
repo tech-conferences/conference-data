@@ -275,6 +275,18 @@
     "twitter": "@testing_united"
   },
   {
+    "name": "Tokyo Test Fest",
+    "url": "https://tokyotestfest.com",
+    "startDate": "2024-11-15",
+    "endDate": "2024-11-15",
+    "city": "Tokyo",
+    "country": "Japan",
+    "online": false,
+    "locales": "EN,JA",
+    "cocUrl": "https://tokyotestfest.com/code_of_conduct/",
+    "twitter": "@tokyotestfest"
+  },
+  {
     "name": "Agile Testing Days",
     "url": "https://agiletestingdays.com",
     "startDate": "2024-11-19",
