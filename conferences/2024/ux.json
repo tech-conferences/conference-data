@@ -244,6 +244,18 @@
     "locales": "DE"
   },
   {
+    "name": "UX Y'all",
+    "url": "https://www.uxyall.org",
+    "startDate": "2024-09-19",
+    "endDate": "2024-09-20",
+    "city": "Raleigh, NC",
+    "country": "U.S.A.",
+    "online": true,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://www.uxyall.org/coc"
+  },
+  {
     "name": "uxcon vienna",
     "url": "https://www.uxcon.at",
     "startDate": "2024-09-19",
@@ -253,18 +265,6 @@
     "online": true,
     "locales": "EN",
     "twitter": "@uxconvienna"
-  },
-  {
-    "name": "UX Y'all",
-    "url": "https://www.uxyall.org",
-    "startDate": "2024-09-19",
-    "endDate": "2024-09-20",
-    "city": "Raleigh",
-    "country": "U.S.A.",
-    "online": true,
-    "locales": "EN",
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://www.uxyall.org/coc"
   },
   {
     "name": "Paris Web",
