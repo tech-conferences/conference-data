@@ -4,7 +4,7 @@ const checkConference = require('./utils/checkConference');
 const logTestResult = require('./utils/logTestResult');
 const findLineNumber = require('./utils/findLineNumber');
 
-const label = 'Conference Tests Runtime';
+const label = "Conference Tests Runtime";
 console.time(label);
 
 const conferencesJSON = conferenceReader();
