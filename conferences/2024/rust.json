@@ -55,6 +55,21 @@
     "twitter": "@ElixirMembrane"
   },
   {
+    "name": "SquiggleConf",
+    "url": "https://squiggleconf.com",
+    "startDate": "2024-10-03",
+    "endDate": "2024-10-04",
+    "city": "Boston, MA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://2024.squiggleconf.com/code-of-conduct",
+    "cfpUrl": "https://cfp.squiggleconf.com",
+    "cfpEndDate": "2024-07-08",
+    "twitter": "@SquiggleConf",
+    "mastodon": "@SquiggleConf@fosstodon.org"
+  },
+  {
     "name": "EuroRust",
     "url": "http://eurorust.eu",
     "startDate": "2024-10-10",

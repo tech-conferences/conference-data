@@ -744,6 +744,21 @@
     "twitter": "@nordicjs"
   },
   {
+    "name": "SquiggleConf",
+    "url": "https://squiggleconf.com",
+    "startDate": "2024-10-03",
+    "endDate": "2024-10-04",
+    "city": "Boston, MA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://2024.squiggleconf.com/code-of-conduct",
+    "cfpUrl": "https://cfp.squiggleconf.com",
+    "cfpEndDate": "2024-07-08",
+    "twitter": "@SquiggleConf",
+    "mastodon": "@SquiggleConf@fosstodon.org"
+  },
+  {
     "name": "International JavaScript Conference New York",
     "url": "https://javascript-conference.com/new-york",
     "startDate": "2024-10-07",
