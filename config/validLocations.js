@@ -309,6 +309,7 @@ module.exports = {
     "Palermo",
     "Parma",
     "Pisa",
+    "Pescara",
     "Prato",
     "Rome",
     "Trento",
