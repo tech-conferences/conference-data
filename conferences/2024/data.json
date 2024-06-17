@@ -870,8 +870,7 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
-    "locales": "EN",
-    "twitter": "@pgdaylowlands"
+    "locales": "EN"
   },
   {
     "name": "RTC.On",
@@ -886,6 +885,20 @@
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSel_6kQ6AXMAbtua6QjqfTAFiLauXSB0lHjl8uvd-wlTzzSwQ/viewform",
     "cfpEndDate": "2024-06-28",
     "twitter": "@ElixirMembrane"
+  },
+    {
+    "name": "PGDay Lowlands",
+    "url": "https://2024.pgday.nl/",
+    "startDate": "2024-09-13",
+    "endDate": "2024-09-13",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://2024.pgday.nl/code-of-conduct/",
+    "cfpUrl": "https://2024.pgday.nl/call-for-papers/",
+    "cfpEndDate": "2024-07-09",
+    "twitter": "@pgdaylowlands"
   },
   {
     "name": "Big Data London",
@@ -1092,6 +1105,20 @@
     "online": false,
     "locales": "EN",
     "twitter": "@CoriniumGlobal"
+  },
+  {
+    "name": "PGConf EU",
+    "url": "https://2024.pgconf.eu/",
+    "startDate": "2024-10-22",
+    "endDate": "2024-10-25",
+    "city": "Athens",
+    "country": "Greece",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://2024.pgconf.eu/code-of-conduct/",
+    "cfpUrl": "https://2024.pgconf.eu/call-for-papers/",
+    "cfpEndDate": "2024-07-01",
+    "twitter": "@pgconfeu"
   },
   {
     "name": "AI_dev: Open Souce GenAI & ML Summit Japan",
