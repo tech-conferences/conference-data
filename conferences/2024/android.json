@@ -83,6 +83,19 @@
     "mastodon": "@droidcon@androiddev.social"
   },
   {
+    "name": "5th Edition of Cardiology World Conference",
+    "url": "https://cardiologyworldconference.com",
+    "startDate": "2024-09-05",
+    "endDate": "2024-09-07",
+    "city": "Madrid",
+    "country": "Spain",
+    "online": true,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cfpUrl": "https://cardiologyworldconference.com/program/scientific-sessions",
+    "cfpEndDate": "2024-09-02"
+  },
+  {
     "name": "droidcon NYC",
     "url": "https://nyc.droidcon.com",
     "startDate": "2024-09-19",
