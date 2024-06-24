@@ -1086,6 +1086,19 @@
     "mastodon": "@matrix@mastodon.matrix.org"
   },
   {
+    "name": "The Matrix Conference",
+    "url": "https://2024.matrix.org/about",
+    "startDate": "2024-09-19",
+    "endDate": "2024-09-22",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://matrix.org/legal/code-of-conduct/",
+    "cfpUrl": "https://cfp.matrix.org/matrixconf2024",
+    "cfpEndDate": "2024-06-30"
+  },
+  {
     "name": "JoomlaDay DACH",
     "url": "https://dach.joomladay.org",
     "startDate": "2024-09-20",
