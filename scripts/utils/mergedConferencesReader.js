@@ -16,7 +16,7 @@ function mergedConferencesReader() {
             for (const conference of conferences) {
                 const url = new URL(conference.url);
                 const baseUrl = url.origin + url.pathname;
-                const simpleUrl = baseUrl.replace('www.', '').replace('https://', '').replace('http://', '');
+                const simpleUrl = baseUrl.replace('www.', '').replace('https://', '').replace('http://', '').replace(/\/$/, '');
                 const key = `${simpleUrl}-${conference.city}-${conference.startDate.slice(0, 7)}`;
                 if (!confsOfYear[key]) {
                     conference.stacks = [];
