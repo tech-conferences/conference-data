@@ -302,6 +302,18 @@
     "locales": "EN"
   },
   {
+    "name": "MAD Summit",
+    "url": "https://mad-summit.de/berlin",
+    "startDate": "2024-11-25",
+    "endDate": "2024-11-27",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "locales": "DE,EN",
+    "cocUrl": "https://mad-summit.de/code-of-conduct/",
+    "twitter": "@mad_summit"
+  },
+  {
     "name": "WeyWeyWeb",
     "url": "https://www.weyweyweb.com",
     "startDate": "2024-11-27",
