@@ -297,6 +297,18 @@
     "twitter": "@sag_conference"
   },
   {
+    "name": "MAD Summit",
+    "url": "https://mad-summit.de/berlin",
+    "startDate": "2024-11-25",
+    "endDate": "2024-11-27",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "locales": "DE,EN",
+    "cocUrl": "https://mad-summit.de/code-of-conduct/",
+    "twitter": "@mad_summit"
+  },
+  {
     "name": "Apidays Paris",
     "url": "https://www.apidays.global/paris",
     "startDate": "2024-12-03",
