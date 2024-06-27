@@ -83,6 +83,17 @@
     "mastodon": "@droidcon@androiddev.social"
   },
   {
+    "name": "AGRI",
+    "url": "https://agriculturemeetings.wordpress.com",
+    "startDate": "2024-09-16",
+    "endDate": "2024-09-18",
+    "city": "Rome",
+    "country": "Italy",
+    "online": true,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "droidcon NYC",
     "url": "https://nyc.droidcon.com",
     "startDate": "2024-09-19",
