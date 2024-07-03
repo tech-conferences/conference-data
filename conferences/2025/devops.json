@@ -23,15 +23,16 @@
   },
   {
     "name": "JCON EUROPE",
-    "url": "https://jcon.one",
+    "url": "https://2025.europe.jcon.one",
     "startDate": "2025-05-19",
     "endDate": "2025-05-22",
     "city": "Cologne",
     "country": "Germany",
     "online": false,
     "locales": "EN,DE",
-    "cocUrl": "https://2024.europe.jcon.one/code-of-conduct",
-    "twitter": "@jcon_conference"
+    "cocUrl": "https://2025.europe.jcon.one/code-of-conduct",
+    "twitter": "@jcon_conference",
+    "mastodon": "@jcon@mastodon.social"
   },
   {
     "name": "KubeCon + CloudNativeCon North America",
