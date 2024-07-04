@@ -12,6 +12,18 @@
     "cfpUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/cfp"
   },
   {
+    "name": "QCon London",
+    "url": "https://qconlondon.com/medialisting2025",
+    "startDate": "2025-04-07",
+    "endDate": "2025-04-09",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://qconferences.com/code-conduct",
+    "twitter": "@qconlondon"
+  },
+  {
     "name": "Camunda Community Summit",
     "url": "https://www.camundacon.com/amsterdam/",
     "startDate": "2025-05-13",
