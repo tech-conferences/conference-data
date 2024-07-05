@@ -23,5 +23,17 @@
     "cocUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/attend/code-of-conduct/",
     "cfpUrl": "https://sessionize.com/kubecon-cloudnativecon-north-america-2026",
     "twitter": "@CloudNativeFdn"
+  },
+  {
+    "name": "testing conference",
+    "url": "https://jpdiaz.dev",
+    "startDate": "2026-10-26",
+    "endDate": "2026-10-29",
+    "city": "Los Angeles, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://jp.diaz",
+    "cfpUrl": "https://jpdiaz/404"
   }
 ]
