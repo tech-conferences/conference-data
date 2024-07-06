@@ -21,5 +21,17 @@
     "locales": "EN,PL",
     "cocUrl": "https://confidence-conference.org/code-of-conduct/",
     "twitter": "@CONFidenceConf"
+  },
+  {
+    "name": "EuroSTAR",
+    "url": "https://conference.eurostarsoftwaretesting.com",
+    "startDate": "2025-06-03",
+    "endDate": "2025-06-06",
+    "city": "Edinburgh",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://conference.eurostarsoftwaretesting.com/anti-harassment-policy/",
+    "twitter": "@esconfs"
   }
 ]
