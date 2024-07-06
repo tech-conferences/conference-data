@@ -97,6 +97,15 @@
     "twitter": "@update_conf"
   },
   {
+    "name": "test",
+    "url": "https://test.com",
+    "startDate": "2024-07-06",
+    "endDate": "2024-07-06",
+    "online": true,
+    "locales": "EN",
+    "mastodon": "@friendlyrb@ruby.social"
+  },
+  {
     "name": "WeAreDevelopers - World Congress",
     "url": "https://www.wearedevelopers.com/world-congress",
     "startDate": "2024-07-17",
