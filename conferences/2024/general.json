@@ -1159,16 +1159,6 @@
     "twitter": "@GOTOcon"
   },
   {
-    "name": "Umbraco US Festival",
-    "url": "https://umbracofestival.us/",
-    "startDate": "2024-10-03",
-    "endDate": "2024-10-04",
-    "city": "Chicago, IL",
-    "country": "U.S.A.",
-    "online": false,
-    "locales": "EN"
-  },
-  {
     "name": "Intersection",
     "url": "https://www.intersection-conference.eu",
     "startDate": "2024-10-03",
@@ -1178,6 +1168,16 @@
     "online": true,
     "locales": "EN",
     "twitter": "@intersection_eu"
+  },
+  {
+    "name": "Umbraco US Festival",
+    "url": "https://umbracofestival.us/",
+    "startDate": "2024-10-03",
+    "endDate": "2024-10-04",
+    "city": "Chicago, IL",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN"
   },
   {
     "name": "SmashingConf New York",
