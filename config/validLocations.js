@@ -145,6 +145,7 @@ module.exports = {
         'Goa',
         'Gurgaon',
         'Hyderabad',
+        'Jaipur',
         'Kochi',
         'Mumbai',
         'Noida',
