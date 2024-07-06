@@ -50,5 +50,17 @@
     "cfpUrl": "https://london.cityjsconf.org/cfp",
     "cfpEndDate": "2024-12-31",
     "twitter": "@cityjsconf"
+  },
+  {
+    "name": "International JavaScript Conference London",
+    "url": "https://javascript-conference.com/london",
+    "startDate": "2025-05-12",
+    "endDate": "2025-05-15",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://javascript-conference.com/service-info/code-of-conduct/",
+    "twitter": "@JavaScriptCon"
   }
 ]
