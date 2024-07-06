@@ -1,5 +1,15 @@
 [
   {
+    "name": "Conf42 Chaos Engineering",
+    "url": "https://www.conf42.com/ce2025",
+    "startDate": "2025-02-13",
+    "endDate": "2025-02-13",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
+    "twitter": "@conf42com"
+  },
+  {
     "name": "robocon",
     "url": "https://robocon.io",
     "startDate": "2025-02-13",
@@ -9,15 +19,5 @@
     "online": false,
     "locales": "EN",
     "twitter": "@robotframework"
-  },
-  {
-    "name": "Conf42 Chaos Engineering",
-    "url": "https://www.conf42.com/ce2025",
-    "startDate": "2025-02-13",
-    "endDate": "2025-02-13",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "twitter": "@conf42com"
   }
 ]
