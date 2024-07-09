@@ -40,5 +40,19 @@
     "cfpUrl": "https://sessionize.com/code-beam-europe-2024",
     "cfpEndDate": "2024-05-28",
     "twitter": "@codebeamio"
+  },
+  {
+    "name": "Functional Conf",
+    "url": "https://functionalconf.com",
+    "startDate": "2024-11-21",
+    "endDate": "2024-11-23",
+    "city": "Bengaluru",
+    "country": "India",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://functionalconf.com/code-of-conduct/",
+    "cfpUrl": "https://confengine.com/conferences/functional-conf-2024/proposals",
+    "cfpEndDate": "2024-09-01",
+    "twitter": "@fnconf"
   }
 ]
