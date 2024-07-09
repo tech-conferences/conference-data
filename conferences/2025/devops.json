@@ -81,6 +81,21 @@
     "twitter": "@devops_con"
   },
   {
+    "name": "EuroSTAR Conference",
+    "url": "https://conference.eurostarsoftwaretesting.com/tickets",
+    "startDate": "2025-06-03",
+    "endDate": "2025-06-06",
+    "city": "Edinburgh",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://conference.eurostarsoftwaretesting.com/anti-harassment-policy/",
+    "cfpUrl": "https://conference.eurostarsoftwaretesting.com",
+    "cfpEndDate": "2024-10-13",
+    "twitter": "@esconfs",
+    "mastodon": "@EuroSTARconferences@sw-development-is.social"
+  },
+  {
     "name": "KubeCon + CloudNativeCon North America",
     "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2025/",
     "startDate": "2025-11-10",
