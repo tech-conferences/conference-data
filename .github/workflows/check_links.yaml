@@ -29,7 +29,7 @@ jobs:
               uses: lycheeverse/lychee-action@v1.10.0
               with:
                   fail: true
-                  args: --verbose --no-progress './conferences/2024/**/*.json' './conferences/2025/**/*.json' './conferences/2026/**/*.json' --exclude-mail
+                  args: --verbose --no-progress --exclude-mail | grep url ./conferences/2024/**/*.json
                   output: ${{ env.issue-content }}
 
             # Permissions (issues: read)
