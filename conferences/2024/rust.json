@@ -29,6 +29,20 @@
     "locales": "EN"
   },
   {
+    "name": "UA Rust Conference",
+    "url": "https://uarust.com",
+    "startDate": "2024-07-27",
+    "endDate": "2024-07-27",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "online": true,
+    "locales": "EN,UK",
+    "cocUrl": "https://uarust.com/#Home",
+    "cfpUrl": "https://don't_have_one",
+    "cfpEndDate": "2024-07-26",
+    "twitter": "@RustUkraine"
+  },
+  {
     "name": "Blockchain Futurist Conference",
     "url": "https://futuristconference.com",
     "startDate": "2024-08-13",
