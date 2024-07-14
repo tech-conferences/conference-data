@@ -222,6 +222,19 @@
     "mastodon": "@djangocon@fosstodon.org"
   },
   {
+    "name": "Django Day",
+    "url": "https://2024.djangoday.dk",
+    "startDate": "2024-10-04",
+    "endDate": "2024-10-04",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://2024.djangoday.dk/conduct/",
+    "twitter": "@djangodenmark",
+    "mastodon": "@djangodenmark@fosstodon.org"
+  },
+  {
     "name": "dotPy",
     "url": "https://www.dotpy.io",
     "startDate": "2024-10-16",
