@@ -261,6 +261,16 @@
     "twitter": "@pythonbrasil"
   },
   {
+    "name": "PyConFR",
+    "url": "https://www.pycon.fr/2024",
+    "startDate": "2024-10-31",
+    "endDate": "2024-11-03",
+    "online": true,
+    "locales": "EN,FR",
+    "cocUrl": "https://www.pycon.fr/2024/en/conduct.html",
+    "twitter": "@pyconfr"
+  },
+  {
     "name": "NODES",
     "url": "https://neo4j.com/nodes-2024",
     "startDate": "2024-11-07",
