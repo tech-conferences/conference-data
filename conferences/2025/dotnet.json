@@ -21,5 +21,17 @@
     "online": false,
     "cocUrl": "https://futuretech.nl/code-of-conduct/",
     "twitter": "@futuretechnl"
+  },
+  {
+    "name": "DevOpsCon Berlin",
+    "url": "https://devopscon.io/berlin",
+    "startDate": "2025-06-16",
+    "endDate": "2025-06-19",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://devopscon.io/code-of-conduct",
+    "twitter": "@devops_con"
   }
 ]
