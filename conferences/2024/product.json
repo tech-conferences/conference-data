@@ -89,17 +89,6 @@
     "cocUrl": "https://www.product-masterclass.com/en/just-product/terms-and-conditions"
   },
   {
-    "name": "Product Management Festival",
-    "url": "https://productmanagementfestival.com",
-    "startDate": "2024-11-06",
-    "endDate": "2024-11-07",
-    "city": "Zurich",
-    "country": "Switzerland",
-    "online": false,
-    "locales": "EN",
-    "twitter": "@ProdMgmtF"
-  },
-  {
     "name": "Conversational AI & Customer Experience Summit",
     "url": "https://conversationaltechsummit.com",
     "startDate": "2024-11-06",
@@ -109,6 +98,17 @@
     "online": false,
     "locales": "EN",
     "twitter": "@AltrusiaGlobal"
+  },
+  {
+    "name": "Product Management Festival",
+    "url": "https://productmanagementfestival.com",
+    "startDate": "2024-11-06",
+    "endDate": "2024-11-07",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@ProdMgmtF"
   },
   {
     "name": "PUSH UX",
