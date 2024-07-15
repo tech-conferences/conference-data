@@ -62,5 +62,16 @@
     "cfpEndDate": "2024-05-01",
     "twitter": "@golab_conf",
     "mastodon": "@golab@mastodon.uno"
+  },
+  {
+    "name": "Gophercon India",
+    "url": "https://gopherconindia.org",
+    "startDate": "2024-12-01",
+    "endDate": "2024-12-01",
+    "city": "Jaipur",
+    "country": "India",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@GopherConIndia"
   }
 ]
