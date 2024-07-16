@@ -171,5 +171,18 @@
     "locales": "EN",
     "cocUrl": "https://qconferences.com/code-conduct",
     "mastodon": "@qcon@techhub.social"
+  },
+  {
+    "name": "International Conference on Clinical and Medical Case Reports",
+    "url": "https://www.longdom.com/casereports",
+    "startDate": "2024-11-28",
+    "endDate": "2024-11-29",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "CCR",
+    "cfpUrl": "https://www.longdom.com/casereports/registration",
+    "cfpEndDate": "2024-08-30"
   }
 ]
