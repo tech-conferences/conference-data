@@ -1475,6 +1475,19 @@
     "twitter": "@SFScon"
   },
   {
+    "name": "FOSSCOMM",
+    "url": "https://2024.fosscomm.gr",
+    "startDate": "2024-11-09",
+    "endDate": "2024-11-10",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "online": false,
+    "locales": "EL,EN",
+    "cocUrl": "https://2024.fosscomm.gr/code-of-conduct/",
+    "cfpUrl": "https://2024.fosscomm.gr/call-for-papers",
+    "cfpEndDate": "2024-09-15"
+  },
+  {
     "name": "WasmCon",
     "url": "https://events.linuxfoundation.org/wasmcon",
     "startDate": "2024-11-11",
