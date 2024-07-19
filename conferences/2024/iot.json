@@ -90,26 +90,26 @@
     "cfpEndDate": "2024-01-31",
     "twitter": "@Websweek"
   },
-{
-  "name": "Silicon Labs 'Works With' Hyderabad",
-  "url": "https://workswith.silabs.com/event/Hyderabad/summary",
-  "startDate": "2024-10-17",
-  "endDate": "2024-10-17",
-  "city": "Hyderabad",
-  "country": "India",
-  "online": false,
-  "locales": "EN"
-},
-{
-  "name": "Silicon Labs 'Works With' San Jose",
-  "url": "https://workswith.silabs.com/event/2308e738-b80a-4d9c-be09-daf784c53b19/summary",
-  "startDate": "2024-09-19",
-  "endDate": "2024-09-19",
-  "city": "San Jose, CA",
-  "country": "U.S.A.",
-  "online": false,
-  "locales": "EN"
-},
+  {
+    "name": "Silicon Labs 'Works With' San Jose",
+    "url": "https://workswith.silabs.com/event/2308e738-b80a-4d9c-be09-daf784c53b19/summary",
+    "startDate": "2024-09-19",
+    "endDate": "2024-09-19",
+    "city": "San Jose, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN"
+  },
+  {
+    "name": "Silicon Labs 'Works With' Hyderabad",
+    "url": "https://workswith.silabs.com/event/Hyderabad/summary",
+    "startDate": "2024-10-17",
+    "endDate": "2024-10-17",
+    "city": "Hyderabad",
+    "country": "India",
+    "online": false,
+    "locales": "EN"
+  },
   {
     "name": "Hardwear.io Netherlands",
     "url": "https://hardwear.io/netherlands-2024/register.php",
