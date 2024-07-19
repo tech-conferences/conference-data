@@ -102,11 +102,21 @@
   },
   {
     "name": "Silicon Labs 'Works With' Hyderabad",
-    "url": "https://workswith.silabs.com/event/Hyderabad/summary",
+    "url": "https://workswith.silabs.com/event/Hyderabad",
     "startDate": "2024-10-17",
     "endDate": "2024-10-17",
     "city": "Hyderabad",
     "country": "India",
+    "online": false,
+    "locales": "EN"
+  },
+  {
+    "name": "Silicon Labs 'Works With' Shanghai",
+    "url": "https://workswith.silabs.com/event/shanghai",
+    "startDate": "2024-10-24",
+    "endDate": "2024-10-24",
+    "city": "Shanghai",
+    "country": "China",
     "online": false,
     "locales": "EN"
   },
