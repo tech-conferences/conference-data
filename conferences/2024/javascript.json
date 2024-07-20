@@ -377,20 +377,6 @@
     "twitter": "@cityjsconf"
   },
   {
-    "name": "CityJS Athens",
-    "url": "https://greece.cityjsconf.org",
-    "startDate": "2024-06-06",
-    "endDate": "2024-06-08",
-    "city": "Athens",
-    "country": "Greece",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://greece.cityjsconf.org/coc",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeoXZyODj4PANOc1oWMuhi4AyB-nuZ3AnEIBoFkuhRgZm3jDg/viewform",
-    "cfpEndDate": "2024-03-31",
-    "twitter": "@cityjsconf"
-  },
-  {
     "name": "JSCraftCamp",
     "url": "https://jscraftcamp.org",
     "startDate": "2024-06-07",
@@ -1002,6 +988,18 @@
     "cfpUrl": "https://forms.gle/9PMZza735aVeDBaV7",
     "cfpEndDate": "2024-06-30",
     "twitter": "@WeyWeyWeb"
+  },
+  {
+    "name": "CityJS Athens",
+    "url": "https://athens.cityjsconf.org",
+    "startDate": "2024-11-28",
+    "endDate": "2024-11-29",
+    "city": "Athens",
+    "country": "Greece",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://athens.cityjsconf.org/coc",
+    "twitter": "@cityjsconf"
   },
   {
     "name": "React Africa",
