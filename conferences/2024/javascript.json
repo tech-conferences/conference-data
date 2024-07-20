@@ -377,20 +377,6 @@
     "twitter": "@cityjsconf"
   },
   {
-    "name": "CityJS Athens",
-    "url": "https://greece.cityjsconf.org",
-    "startDate": "2024-06-06",
-    "endDate": "2024-06-08",
-    "city": "Athens",
-    "country": "Greece",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://greece.cityjsconf.org/coc",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeoXZyODj4PANOc1oWMuhi4AyB-nuZ3AnEIBoFkuhRgZm3jDg/viewform",
-    "cfpEndDate": "2024-03-31",
-    "twitter": "@cityjsconf"
-  },
-  {
     "name": "JSCraftCamp",
     "url": "https://jscraftcamp.org",
     "startDate": "2024-06-07",
@@ -1004,7 +990,7 @@
     "twitter": "@WeyWeyWeb"
   },
   {
-    "name": "CityJS Athens November Event",
+    "name": "CityJS Athens",
     "url": "https://athens.cityjsconf.org",
     "startDate": "2024-11-28",
     "endDate": "2024-11-29",
@@ -1013,8 +999,6 @@
     "online": true,
     "locales": "EN",
     "cocUrl": "https://athens.cityjsconf.org/coc",
-    "cfpUrl": "https://athens.cityjsconf.org",
-    "cfpEndDate": "2024-09-15",
     "twitter": "@cityjsconf"
   },
   {
