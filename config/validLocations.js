@@ -55,7 +55,7 @@ module.exports = {
     'Cayman Islands': ['George Town'],
     Chile: ['San Antonio', 'Santiago'],
     China: ['Beijing', 'China', 'Guangzhou', 'Hainan Island', 'Hangzhou', 'Nanjing', 'Shanghai', 'Shenzhen', 'Zhengzhou'],
-    Colombia: ['Bogotá', 'Duitama, Boyacá', 'Medellín'],
+    Colombia: ['Bogotá', 'Duitama, Boyacá','Cali', 'Cartagena', 'Medellín'],
     Croatia: ['Dubrovnik', 'Labin', 'Opatija', 'Osijek', 'Rovinj', 'Sibenik', 'Split', 'Zadar', 'Zagreb'],
     Cuba: ['Holguín', 'Villa Clara'],
     Cyprus: ['Larnaca', 'Paphos'],
