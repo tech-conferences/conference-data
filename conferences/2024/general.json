@@ -967,6 +967,16 @@
     "twitter": "@KubeCon_"
   },
   {
+    "name": "Platzi Conf",
+    "url": "https://platzi.com/conf",
+    "startDate": "2024-09-07",
+    "endDate": "2024-09-07",
+    "city": "Bogotá",
+    "country": "Colombia",
+    "online": false,
+    "locales": "ES"
+  },
+  {
     "name": "Akademy",
     "url": "https://akademy.kde.org/2024/",
     "startDate": "2024-09-07",
@@ -979,16 +989,6 @@
     "cfpEndDate": "2024-05-31",
     "twitter": "@akademy",
     "mastodon": "@akademy@floss.social"
-  },
-  {
-    "name": "Platzi Conf",
-    "url": "https://platzi.com/conf",
-    "startDate": "2024-09-07",
-    "endDate": "2024-09-07",
-    "city": "Bogotá",
-    "country": "Colombia",
-    "online": false,
-    "locales": "ES"
   },
   {
     "name": "Gartner Application Innovation & Business Solutions Summit",
