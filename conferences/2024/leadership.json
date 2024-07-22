@@ -191,18 +191,6 @@
     "twitter": "@ctocraft"
   },
   {
-    "name": "Italian Agile Day",
-    "url": "https://www.agileday.it/index-en.html",
-    "startDate": "2024-11-08",
-    "endDate": "2024-11-09",
-    "city": "Florence",
-    "country": "Italy",
-    "online": false,
-    "locales": "EN,IT",
-    "cfpUrl": "https://www.agileday.it/c4sdetails-en.html",
-    "cfpEndDate": "2024-07-28"
-  },
-  {
     "name": "BoyaConf",
     "url": "https://2024.boyaconf.com",
     "startDate": "2024-11-08",
@@ -216,6 +204,18 @@
     "cfpUrl": "https://cfs.boyaconf.com",
     "cfpEndDate": "2024-09-01",
     "twitter": "@boyaca_dev"
+  },
+  {
+    "name": "Italian Agile Day",
+    "url": "https://www.agileday.it/index-en.html",
+    "startDate": "2024-11-08",
+    "endDate": "2024-11-09",
+    "city": "Florence",
+    "country": "Italy",
+    "online": false,
+    "locales": "EN,IT",
+    "cfpUrl": "https://www.agileday.it/c4sdetails-en.html",
+    "cfpEndDate": "2024-07-28"
   },
   {
     "name": "QCon",
