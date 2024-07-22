@@ -203,6 +203,21 @@
     "cfpEndDate": "2024-07-28"
   },
   {
+    "name": "BoyaConf",
+    "url": "https://2024.boyaconf.com",
+    "startDate": "2024-11-08",
+    "endDate": "2024-11-09",
+    "city": "Tunja",
+    "country": "Colombia",
+    "online": false,
+    "locales": "ES",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://github.com/boyaca-dev/code-of-conduct/blob/bc/readme-es.md",
+    "cfpUrl": "https://cfs.boyaconf.com",
+    "cfpEndDate": "2024-09-01",
+    "twitter": "@boyaca_dev"
+  },
+  {
     "name": "QCon",
     "url": "https://qconsf.com/medialisting2024",
     "startDate": "2024-11-18",
