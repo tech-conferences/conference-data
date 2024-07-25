@@ -1,7 +1,7 @@
 // Reorder a file by running (from the scripts folder)
-const fs = require('fs');
-const conferenceReader = require('./utils/conferenceReader');
-const orderConferences = require('./utils/orderConferences');
+import fs from 'fs';
+import conferenceReader from './utils/conferenceReader.js';
+import orderConferences from './utils/orderConferences.js';
 
 const BASE_DIR = 'conferences';
 

@@ -1,7 +1,7 @@
-const conferenceReader = require('./conferenceReader');
+import conferenceReader from './conferenceReader.js';
 const conferencesJSON = conferenceReader();
 
-function mergedConferencesReader() {
+export default function mergedConferencesReader() {
     const mergedConferences = {};
     const errors = {};
     for (const year of Object.keys(conferencesJSON)) {
@@ -63,4 +63,3 @@ function mergedConferencesReader() {
         errors: errors
     };
 }
-module.exports = mergedConferencesReader;

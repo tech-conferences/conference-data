@@ -1,11 +1,11 @@
-const fs = require('fs');
-const assert = require('assert');
-const topics = require('../../config/topics');
-const orderConferences = require('./orderConferences');
+import fs from 'fs';
+import assert from 'assert';
+import { topics } from '../../config/topics.js';
+import orderConferences from './orderConferences.js';
 
 const jsonFileRegex = /(.*).json$/;
 
-module.exports = function conferenceReader(reorderConferences) {
+export default function conferenceReader(reorderConferences) {
     const conferencesJSON = {};
 
     fs.readdirSync('conferences').forEach(year => {
@@ -14,7 +14,7 @@ module.exports = function conferenceReader(reorderConferences) {
             const filePath = `conferences/${year}/${fileName}`;
             assert(jsonFileRegex.test(fileName));
             const topic = jsonFileRegex.exec(fileName)[1];
-            assert(topics.indexOf(topic) != -1, `Topic "${topic} is not in topic list. File: ${filePath}`);
+            assert(topics.indexOf(topic) != -1, `Topic "${topic}" is not in topic list. File: ${filePath}`);
             const fileContent = fs.readFileSync(filePath);
             if (fileContent.toString() === '[]') {
                 return;
@@ -34,4 +34,4 @@ module.exports = function conferenceReader(reorderConferences) {
     });
 
     return conferencesJSON;
-};
+}

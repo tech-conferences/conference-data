@@ -1,5 +1,5 @@
-const fs = require('fs');
-const mergedConferencesReader = require('./utils/mergedConferencesReader');
+import fs from 'fs';
+import mergedConferencesReader from './utils/mergedConferencesReader.js';
 
 const mergedConferences = mergedConferencesReader();
 

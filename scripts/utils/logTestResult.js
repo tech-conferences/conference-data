@@ -1,7 +1,7 @@
-const colorLog = require('barecolor');
-const commentPullRequest = require('./commentPullRequest');
+import colorLog from 'barecolor';
+import commentPullRequest from './commentPullRequest.js';
 
-module.exports = function logtTestResult(testResult) {
+export default function logTestResult(testResult) {
     const allErrors = [];
     for (const year of Object.keys(testResult.errors)) {
         const errorsOfYear = [];
@@ -41,4 +41,4 @@ module.exports = function logtTestResult(testResult) {
     } else {
         colorLog.greenln(`✓ Checks for all ${testResult.conferenceCounter} conferences have passed successfully`);
     }
-};
+}
