@@ -1,5 +1,5 @@
-const github = require('@actions/github');
 const { Octokit } = require('@octokit/rest');
+const github = require('@actions/github');
 
 module.exports = async function commentPullRequest(token, allErrors) {
     const { context: eventContext } = github;
