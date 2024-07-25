@@ -1,5 +1,4 @@
-const parse = require('date-fns/parse');
-const differenceInDays = require('date-fns/differenceInDays');
+const { parse, differenceInDays } = require('date-fns');
 const validLocations = require('../../config/validLocations');
 const validFields = require('../../config/validFields');
 

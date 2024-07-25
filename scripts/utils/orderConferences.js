@@ -1,5 +1,5 @@
 const sortBy = require('lodash/sortBy');
-const parse = require('date-fns/parse');
+const { parse } = require('date-fns');
 const propertyOrder = require('../../config/validFields');
 
 module.exports = function orderConferences(conferences) {
