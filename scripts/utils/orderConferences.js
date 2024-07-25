@@ -1,8 +1,8 @@
-const sortBy = require('lodash/sortBy');
-const { parse } = require('date-fns');
-const propertyOrder = require('../../config/validFields');
+import sortBy from 'lodash/sortBy.js';
+import { parse } from 'date-fns';
+import validFields from '../../config/validFields.js';
 
-module.exports = function orderConferences(conferences) {
+export default function orderConferences(conferences) {
     if (!Array.isArray(conferences)) {
         return;
     }
@@ -14,11 +14,11 @@ module.exports = function orderConferences(conferences) {
 
     const sortedConfByProperties = sortedConfs.map(conference => {
         const sortedEntry = {};
-        propertyOrder.forEach(property => {
+        validFields.forEach(property => {
             sortedEntry[property] = conference[property];
         });
         return sortedEntry;
     });
 
     return JSON.stringify(sortedConfByProperties, null, 2);
-};
+}

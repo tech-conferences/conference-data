@@ -1,6 +1,6 @@
 // Reorder a file by running (from the scripts folder)
-const fs = require('fs').promises;
-const conferenceReader = require('./utils/conferenceReader');
+import fs from 'fs';
+import conferenceReader from './utils/conferenceReader.js';
 
 const conferencesJSON = conferenceReader();
 
@@ -31,5 +31,9 @@ const locations = {};
             }
         });
     console.log(JSON.stringify(sortedLocations, null, '  '));
-    fs.writeFile('config/validLocations.js', 'module.exports = ' + JSON.stringify(sortedLocations, null, 2));
+    fs.writeFile('config/validLocations.js', 'export const validLocations = ' + JSON.stringify(sortedLocations, null, 2), err => {
+        if (err) {
+            console.error(err);
+        }
+    });
 })();

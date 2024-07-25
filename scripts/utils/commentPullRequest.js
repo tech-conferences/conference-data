@@ -1,7 +1,7 @@
-const { Octokit } = require('@octokit/rest');
-const github = require('@actions/github');
+import { Octokit } from '@octokit/rest';
+import * as github from '@actions/github';
 
-module.exports = async function commentPullRequest(token, allErrors) {
+export default async function commentPullRequest(token, allErrors) {
     const { context: eventContext } = github;
     if (!eventContext.issue || !eventContext.issue.number) {
         return;
@@ -31,4 +31,4 @@ module.exports = async function commentPullRequest(token, allErrors) {
         process.exitCode = 1;
         process.exit(1);
     }
-};
+}

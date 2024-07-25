@@ -1,6 +1,6 @@
-const { parse, differenceInDays } = require('date-fns');
-const validLocations = require('../../config/validLocations');
-const validFields = require('../../config/validFields');
+import { parse, differenceInDays } from 'date-fns';
+import { validLocations } from '../../config/validLocations.js';
+import validFields from '../../config/validFields.js';
 
 const maxDurationInDays = 10;
 const twitterRegex = /@\w([\w\.]){1,15}$/;
@@ -16,7 +16,7 @@ const year2000Regex = /20\d{2}/;
 const REQUIRED_KEYS = ['name', 'url', 'startDate', 'endDate'];
 const validLocationsHint = ' - Check/Maintain the file "config/validLocations.js"';
 
-module.exports = function checkConference(year, conference, assertField) {
+export default function checkConference(year, conference, assertField) {
     const { name, url, cfpUrl, twitter } = conference;
 
     REQUIRED_KEYS.forEach(requiredKey => {
@@ -105,4 +105,4 @@ module.exports = function checkConference(year, conference, assertField) {
             );
         }
     }
-};
+}

@@ -1,8 +1,8 @@
-const conferenceReader = require('./utils/conferenceReader');
-const mergedConferencesReader = require('./utils/mergedConferencesReader');
-const checkConference = require('./utils/checkConference');
-const logTestResult = require('./utils/logTestResult');
-const findLineNumber = require('./utils/findLineNumber');
+import conferenceReader from './utils/conferenceReader.js';
+import mergedConferencesReader from './utils/mergedConferencesReader.js';
+import checkConference from './utils/checkConference.js';
+import logTestResult from './utils/logTestResult.js';
+import findLineNumber from './utils/findLineNumber.js';
 
 const label = 'Conference Tests Runtime';
 console.time(label);

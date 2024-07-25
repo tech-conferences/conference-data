@@ -1,8 +1,10 @@
-const clarinet = require('clarinet');
-const parser = clarinet.parser();
-const fs = require('fs');
+import fs from 'fs';
+import assert from 'assert';
+import clarinet from 'clarinet';
 
-module.exports = function findLineNumber(conferenceToFind, property, fileName) {
+const parser = clarinet.parser();
+
+export default function findLineNumber(conferenceToFind, property, fileName) {
     var currentConference = {};
     var foundConference;
     var currentKey;
@@ -63,4 +65,4 @@ module.exports = function findLineNumber(conferenceToFind, property, fileName) {
         return foundConference[Object.keys(foundConference)[0]].line;
     }
     return null;
-};
+}
