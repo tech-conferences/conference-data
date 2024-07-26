@@ -1,13 +1,30 @@
 import conferenceReader from './conferenceReader.js';
-const conferencesJSON = conferenceReader();
+import { stringSimilarity } from 'string-similarity-js';
+import { parse, differenceInDays } from 'date-fns';
 
 export default function mergedConferencesReader() {
+    const conferencesJSON = conferenceReader();
     const mergedConferences = {};
     const errors = {};
+    const dateFormat = 'yyyy-MM-dd';
     for (const year of Object.keys(conferencesJSON)) {
         const confsOfYear = {};
         const almostIdentical = [];
         const duplicates = [];
+        function hasAlmostIdentical(key, conference) {
+            for (const confOfYear of Object.keys(confsOfYear)) {
+                const similarity = stringSimilarity(key, confOfYear);
+                if (similarity > 0.95) {
+                    const startDate = parse(conference.startDate, dateFormat, new Date());
+                    const startDateSimilar = parse(confsOfYear[confOfYear].startDate, dateFormat, new Date());
+                    const daysDiff = Math.abs(differenceInDays(startDate, startDateSimilar));
+                    if (daysDiff < 10) {
+                        console.log(`Similarity of ${key} and ${confOfYear} is ${similarity}`);
+                        return confsOfYear[confOfYear];
+                    }
+                }
+            }
+        }
         for (const stack of Object.keys(conferencesJSON[year])) {
             const conferences = conferencesJSON[year][stack];
             if (!Array.isArray(conferences)) {
@@ -17,11 +34,21 @@ export default function mergedConferencesReader() {
                 const url = new URL(conference.url);
                 const baseUrl = url.origin + url.pathname;
                 const simpleUrl = baseUrl.replace('www.', '').replace('https://', '').replace('http://', '').replace(/\/$/, '');
-                const key = `${simpleUrl}-${conference.city}-${conference.startDate.slice(0, 7)}`;
+                const key = `${simpleUrl}-${conference.city || ''}-${conference.startDate.slice(0, 7)}`;
+
                 if (!confsOfYear[key]) {
-                    conference.stacks = [];
-                    conference.stacks.push(stack);
-                    confsOfYear[key] = conference;
+                    const almostIdenticalConf = hasAlmostIdentical(key, conference);
+                    if (almostIdenticalConf) {
+                        almostIdentical.push({
+                            conference: almostIdenticalConf,
+                            otherConference: conference,
+                            stack: stack
+                        });
+                    } else {
+                        conference.stacks = [];
+                        conference.stacks.push(stack);
+                        confsOfYear[key] = conference;
+                    }
                 } else {
                     const existingConf = confsOfYear[key];
                     if (existingConf.stacks.indexOf(stack) !== -1) {
