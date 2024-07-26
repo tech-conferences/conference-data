@@ -1,5 +1,8 @@
 import colorLog from 'barecolor';
 import commentPullRequest from './commentPullRequest.js';
+import sortBy from 'lodash/sortBy.js';
+import uniqWith from 'lodash/uniqWith.js';
+import isEqual from 'lodash/isEqual.js';
 
 export default function logTestResult(testResult) {
     const allErrors = [];
@@ -23,7 +26,9 @@ export default function logTestResult(testResult) {
             }
         });
         colorLog.black('\n');
-        for (const error of errorsOfYear) {
+        const sortedErrorsOfYear = sortBy(errorsOfYear, ['value', 'fileName', 'lineNumber']);
+        const uniqSortedErrorsOfYear = uniqWith(sortedErrorsOfYear, isEqual);
+        for (const error of uniqSortedErrorsOfYear) {
             const value = error.value ? ` - got "${error.value}"` : '';
             colorLog.redln(` - Error: ${error.message}${value} in file: ${error.fileName}:${error.lineNumber}`);
         }

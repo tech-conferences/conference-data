@@ -1,5 +1,5 @@
 import conferenceReader from './conferenceReader.js';
-import { stringSimilarity } from "string-similarity-js";
+import { stringSimilarity } from 'string-similarity-js';
 import { parse, differenceInDays } from 'date-fns';
 
 export default function mergedConferencesReader() {
@@ -17,8 +17,8 @@ export default function mergedConferencesReader() {
                 if (similarity > 0.95) {
                     const startDate = parse(conference.startDate, dateFormat, new Date());
                     const startDateSimilar = parse(confsOfYear[confOfYear].startDate, dateFormat, new Date());
-                    const durationInDays = differenceInDays(startDate, startDateSimilar);
-                    if (durationInDays < 10) {
+                    const daysDiff = Math.abs(differenceInDays(startDate, startDateSimilar));
+                    if (daysDiff < 10) {
                         console.log(`Similarity of ${key} and ${confOfYear} is ${similarity}`);
                         return confsOfYear[confOfYear];
                     }
@@ -34,7 +34,7 @@ export default function mergedConferencesReader() {
                 const url = new URL(conference.url);
                 const baseUrl = url.origin + url.pathname;
                 const simpleUrl = baseUrl.replace('www.', '').replace('https://', '').replace('http://', '').replace(/\/$/, '');
-                const key = `${simpleUrl}-${conference.city || ""}-${conference.startDate.slice(0, 7)}`;
+                const key = `${simpleUrl}-${conference.city || ''}-${conference.startDate.slice(0, 7)}`;
 
                 if (!confsOfYear[key]) {
                     const almostIdenticalConf = hasAlmostIdentical(key, conference);
