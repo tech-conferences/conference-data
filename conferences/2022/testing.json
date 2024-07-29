@@ -63,19 +63,6 @@
     "twitter": "@NVIDIAGTC"
   },
   {
-    "name": "Nullcon International Conference and Training Berlin",
-    "url": "https://nullcon.net/berlin-2022",
-    "startDate": "2022-04-08",
-    "endDate": "2022-04-09",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": false,
-    "cocUrl": "https://nullcon.net/about-conferencepolicy/",
-    "cfpUrl": "https://nullcon.net/berlin-2022/cfp",
-    "cfpEndDate": "2022-01-15",
-    "twitter": "@nullcon"
-  },
-  {
     "name": "Test Driven Conf",
     "url": "https://tdconf.ru",
     "startDate": "2022-04-28",
@@ -447,17 +434,6 @@
     "country": "U.S.A.",
     "online": false,
     "twitter": "@Arm"
-  },
-  {
-    "name": "TestCon Europe",
-    "url": "https://testcon.lt",
-    "startDate": "2022-10-26",
-    "endDate": "2022-10-27",
-    "online": true,
-    "cocUrl": "https://testcon.lt/code-of-conduct/",
-    "cfpUrl": "https://testcon.lt/cfp",
-    "cfpEndDate": "2022-06-30",
-    "twitter": "@TestConEurope"
   },
   {
     "name": "CWIC: The Hyperconnected Human",

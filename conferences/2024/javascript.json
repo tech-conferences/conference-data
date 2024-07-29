@@ -140,18 +140,6 @@
     "twitter": "@BeJS_"
   },
   {
-    "name": "CityJS London",
-    "url": "https://london.cityjsconf.org",
-    "startDate": "2024-04-04",
-    "endDate": "2024-04-05",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://london.cityjsconf.org/cfp",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf6qcmCOYCfUZdsQ6XbxTWV03P7k5rFMXbSoi9FHU9t6l9R9g/viewform",
-    "cfpEndDate": "2023-12-31",
-    "twitter": "@cityjsconf"
-  },
-  {
     "name": "Node Congress",
     "url": "https://nodecongress.com",
     "startDate": "2024-04-04",
@@ -190,16 +178,6 @@
     "cfpUrl": "https://callforpapers.sandsmedia.com",
     "cfpEndDate": "2023-10-30",
     "twitter": "@JavaScriptCon"
-  },
-  {
-    "name": "The XtremeJS Online Conference",
-    "url": "https://xtremejs.dev",
-    "startDate": "2024-04-09",
-    "endDate": "2024-04-09",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "http://www.zindell.com/documents/codeofconduct.pdf",
-    "twitter": "@xtremejsconf"
   },
   {
     "name": "Azure Cosmos DB Conf",
