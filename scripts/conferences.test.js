@@ -35,7 +35,7 @@ for (const year of Object.keys(mergedConferences.conferences)) {
     const conferences = mergedConferences.conferences[year];
     for (const conference of conferences) {
         for (const stack of conference.stacks) {
-            if(testResult.errors[year][stack] === undefined) {
+            if (testResult.errors[year][stack] === undefined) {
                 testResult.errors[year][stack] = [];
             }
             function assertField(condition, field, message, value) {
@@ -47,7 +47,7 @@ for (const year of Object.keys(mergedConferences.conferences)) {
         }
     }
     testResult.conferenceCounter += conferences.length;
-    
+
     if (mergedConferences.errors[year]) {
         const errorsOfYear = mergedConferences.errors[year];
         function reportDuplicate(error, message) {
