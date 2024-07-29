@@ -37,6 +37,11 @@ export default function mergedConferencesReader() {
                 if (daysDiff > 10) {
                     continue;
                 }
+                const nameSimilarity = stringSimilarity(conference.name, confOfYear.name);
+                if (nameSimilarity > 0.91 && conference.city === confOfYear.city) {
+                    console.log(`Name similarity of ${conference.name} and ${confOfYear.name} is ${nameSimilarity}`);
+                    return confOfYear;
+                }
                 const confOfYearSimpleUrl = createSimpleUrl(confOfYear);
                 const urlSimilarity = stringSimilarity(confSimpleUrl, confOfYearSimpleUrl);
                 if (urlSimilarity > 0.91) {
