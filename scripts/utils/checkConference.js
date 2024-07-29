@@ -23,6 +23,9 @@ export default function checkConference(year, conference, assertField) {
         assertField(conference.hasOwnProperty(requiredKey), requiredKey, `is missing`);
     });
     Object.keys(conference).forEach(key => {
+        if (key == 'startDateParsed' || key == 'stacks' || key == 'endDateParsed') {
+            return;
+        }
         assertField(validFields.indexOf(key) !== -1, key, `property is not valid`);
         assertField(!emptyStringRegex.test(conference[key]), key, `property should not be empty`);
     });
@@ -30,11 +33,11 @@ export default function checkConference(year, conference, assertField) {
     checkUrl(conference, 'url');
     assertField(dateRegex.test(conference.startDate), 'startDate', 'should be of format yyyy-mm-dd', conference.startDate);
     assertField(conference.startDate.length === 10, 'startDate', 'should have a length of 10 characters', conference.startDate);
-    const startDate = parse(conference.startDate, dateFormat, new Date());
+    const startDate = conference.startDateParsed;
     assertField(startDate.getFullYear() == year, 'startDate', 'should be in the same year as file location', startDate.getFullYear());
     assertField(dateRegex.test(conference.endDate), 'endDate', 'should be of format yyyy-mm-dd', conference.endDate);
     assertField(conference.endDate.length === 10, 'endDate', 'should have a length of 10 characters', conference.endDate);
-    const endDate = parse(conference.endDate, dateFormat, new Date());
+    const endDate = conference.endDateParsed;
     assertField(startDate.getTime() <= endDate.getTime(), 'endDate', 'should be after start date', `${conference.startDate} <= ${conference.endDate}`);
     const durationInDays = differenceInDays(endDate, startDate);
     assertField(durationInDays <= maxDurationInDays, 'endDate', `the duration of the conference is above the max limit of ${maxDurationInDays} days`, durationInDays);

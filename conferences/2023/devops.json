@@ -11,15 +11,6 @@
     "twitter": "@conf42com"
   },
   {
-    "name": "SpringOne Essentials",
-    "url": "https://springone.io",
-    "startDate": "2023-02-01",
-    "endDate": "2023-02-03",
-    "online": true,
-    "locales": "EN",
-    "twitter": "@springone"
-  },
-  {
     "name": "VeryTechTrip",
     "url": "https://verytechtrip.com",
     "startDate": "2023-02-02",
@@ -799,18 +790,6 @@
     "twitter": "@nofluff"
   },
   {
-    "name": "DevOpsCon",
-    "url": "https://devopscon.io/berlin",
-    "startDate": "2023-06-12",
-    "endDate": "2023-06-15",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://devopscon.io/code-of-conduct/",
-    "twitter": "@devops_con"
-  },
-  {
     "name": "DevOpsCon Berlin",
     "url": "https://devopscon.io/berlin",
     "startDate": "2023-06-12",
@@ -1028,17 +1007,6 @@
     "online": false,
     "cocUrl": "https://devopsdays.org/events/2023-des-moines/conduct",
     "twitter": "@DevOpsDaysDSM"
-  },
-  {
-    "name": "Devopsdays Boise",
-    "url": "https://devopsdays.org/events/2023-washington-dc/welcome/",
-    "startDate": "2023-09-12",
-    "endDate": "2023-09-12",
-    "city": "Boise, ID",
-    "country": "U.S.A.",
-    "online": false,
-    "cocUrl": "https://devopsdays.org/events/2023-boise/conduct",
-    "twitter": "@devopsdaysboise"
   },
   {
     "name": "swampUP",
@@ -1324,16 +1292,6 @@
     "twitter": "@devopsdaysoslo"
   },
   {
-    "name": "ChefConf",
-    "url": "https://www.chef.io/chefconf",
-    "startDate": "2023-10-12",
-    "endDate": "2023-10-13",
-    "online": true,
-    "locales": "EN",
-    "cfpUrl": "https://sessionize.com/chefconf-23-Germany",
-    "cfpEndDate": "2023-06-16"
-  },
-  {
     "name": "Northern Virginia Software Symposium",
     "url": "https://nofluffjuststuff.com/reston",
     "startDate": "2023-10-13",
@@ -1463,17 +1421,6 @@
     "twitter": "@eficode"
   },
   {
-    "name": "DevOps World",
-    "url": "https://www.devopsworld.com",
-    "startDate": "2023-10-26",
-    "endDate": "2023-10-26",
-    "city": "Singapore",
-    "country": "Singapore",
-    "online": false,
-    "locales": "EN",
-    "twitter": "@devopsconf"
-  },
-  {
     "name": "DevOpsDays Tel Aviv",
     "url": "https://devopsdays.org/events/2023-tel-aviv",
     "startDate": "2023-10-30",
@@ -1485,17 +1432,6 @@
     "cocUrl": "https://tlvcommunity.dev/code-of-conduct.html",
     "cfpUrl": "https://sessionize.com/devopsdays-tel-aviv-2023",
     "cfpEndDate": "2023-05-31",
-    "twitter": "@devopsdaystlv"
-  },
-  {
-    "name": "Devopsdays Tel Aviv",
-    "url": "https://devopsdays.org/events/2023-tel-aviv/welcome/",
-    "startDate": "2023-10-30",
-    "endDate": "2023-10-31",
-    "city": "Tel Aviv",
-    "country": "Israel",
-    "online": false,
-    "cocUrl": "https://devopsdays.org/events/2023-tel-aviv/conduct",
     "twitter": "@devopsdaystlv"
   },
   {
@@ -1667,30 +1603,6 @@
     "locales": "EN",
     "cocUrl": "https://devopsvision.io/home/code_of_conduct",
     "twitter": "@nofluff"
-  },
-  {
-    "name": "MAD Summit",
-    "url": "https://mad-summit.de/berlin",
-    "startDate": "2023-12-04",
-    "endDate": "2023-12-06",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": false,
-    "locales": "DE",
-    "cocUrl": "https://mad-summit.de/code-of-conduct/",
-    "twitter": "@mad_summit"
-  },
-  {
-    "name": "DevOpsCon Munich",
-    "url": "https://devopscon.io/munich",
-    "startDate": "2023-12-04",
-    "endDate": "2023-12-07",
-    "city": "Munich",
-    "country": "Germany",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://devopscon.io/code-of-conduct/",
-    "twitter": "@devops_con"
   },
   {
     "name": "DevOpsCon",

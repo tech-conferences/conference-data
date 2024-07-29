@@ -11,17 +11,48 @@ export default function mergedConferencesReader() {
         const confsOfYear = {};
         const almostIdentical = [];
         const duplicates = [];
-        function hasAlmostIdentical(key, conference) {
-            for (const confOfYear of Object.keys(confsOfYear)) {
-                const similarity = stringSimilarity(key, confOfYear);
-                if (similarity > 0.95) {
-                    const startDate = parse(conference.startDate, dateFormat, new Date());
-                    const startDateSimilar = parse(confsOfYear[confOfYear].startDate, dateFormat, new Date());
-                    const daysDiff = Math.abs(differenceInDays(startDate, startDateSimilar));
-                    if (daysDiff < 10) {
-                        console.log(`Similarity of ${key} and ${confOfYear} is ${similarity}`);
-                        return confsOfYear[confOfYear];
+        function getBaseUrl(conference) {
+            const url = new URL(conference.url);
+            return url.origin.replace('www.', '').replace('https://', '').replace('http://', '');
+        }
+        function createSimpleUrl(conference) {
+            const url = new URL(conference.url);
+            const baseUrl = url.origin + url.pathname;
+            return baseUrl.replace('www.', '').replace('https://', '').replace('http://', '').replace(/\/$/, '');
+        }
+        function createUrlPath(conference) {
+            const url = new URL(conference.url);
+            return url.pathname.replace(/\/$/, '');
+        }
+        function createConferenceKey(conference) {
+            return `${conference.name}-${createUrlPath(conference)}`;
+        }
+        function hasAlmostIdentical(conference) {
+            const confKey = createConferenceKey(conference);
+            const confSimpleUrl = createSimpleUrl(conference)
+            for (const confOfYearObjectKey of Object.keys(confsOfYear)) {
+                const confOfYear = confsOfYear[confOfYearObjectKey];
+                const confOfYearKey = createConferenceKey(confOfYear);
+                const daysDiff = Math.abs(differenceInDays(conference.startDateParsed, confOfYear.startDateParsed));
+                if (daysDiff > 10) {
+                    continue;
+                }
+                const confOfYearSimpleUrl = createSimpleUrl(confOfYear);
+                const urlSimilarity = stringSimilarity(confSimpleUrl, confOfYearSimpleUrl);
+                if (urlSimilarity > 0.91) {
+                    console.log(`URL similarity of ${confSimpleUrl} and ${confOfYearSimpleUrl} is ${urlSimilarity}`);
+                    return confOfYear;
+                }
+                const similarity = stringSimilarity(confKey, confOfYearKey);
+                if (similarity > 0.78) {
+                    if (conference.city !== confOfYear.city) {
+                        continue
                     }
+                    if (getBaseUrl(conference) !== getBaseUrl(confOfYear)) {
+                        continue;
+                    }
+                    console.log(`Similarity of ${confKey} and ${confOfYearKey} is ${similarity}`);
+                    return confOfYear;
                 }
             }
         }
@@ -30,14 +61,13 @@ export default function mergedConferencesReader() {
             if (!Array.isArray(conferences)) {
                 continue;
             }
-            for (const conference of conferences) {
-                const url = new URL(conference.url);
-                const baseUrl = url.origin + url.pathname;
-                const simpleUrl = baseUrl.replace('www.', '').replace('https://', '').replace('http://', '').replace(/\/$/, '');
-                const key = `${simpleUrl}-${conference.city || ''}-${conference.startDate.slice(0, 7)}`;
 
+            for (const conference of conferences) {
+                conference.startDateParsed = parse(conference.startDate, dateFormat, new Date());
+                conference.endDateParsed = parse(conference.endDate, dateFormat, new Date());
+                const key = `${createSimpleUrl(conference)}-${conference.city || ''}-${conference.startDate.slice(0, 7)}`;
                 if (!confsOfYear[key]) {
-                    const almostIdenticalConf = hasAlmostIdentical(key, conference);
+                    const almostIdenticalConf = hasAlmostIdentical(conference);
                     if (almostIdenticalConf) {
                         almostIdentical.push({
                             conference: almostIdenticalConf,
@@ -86,7 +116,7 @@ export default function mergedConferencesReader() {
         }
     }
     return {
-        mergedConferences: mergedConferences,
+        conferences: mergedConferences,
         errors: errors
     };
 }

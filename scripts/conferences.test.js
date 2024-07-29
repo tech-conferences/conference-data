@@ -7,7 +7,6 @@ import findLineNumber from './utils/findLineNumber.js';
 const label = 'Conference Tests Runtime';
 console.time(label);
 
-const conferencesJSON = conferenceReader();
 const mergedConferences = mergedConferencesReader();
 
 const testResult = {
@@ -31,16 +30,14 @@ function reportError(year, stack, conference, field, value, message) {
     pushError(year, stack, lineNumber, `[${field}] ${message}`, value);
 }
 
-for (const year of Object.keys(conferencesJSON)) {
+for (const year of Object.keys(mergedConferences.conferences)) {
     testResult.errors[year] = {};
-    for (const stack of Object.keys(conferencesJSON[year])) {
-        const conferences = conferencesJSON[year][stack];
-        testResult.errors[year][stack] = [];
-        if (!Array.isArray(conferences)) {
-            pushError(year, stack, 1, 'List of conferences must be an array', typeof conferences);
-            continue;
-        }
-        for (const conference of conferences) {
+    const conferences = mergedConferences.conferences[year];
+    for (const conference of conferences) {
+        for (const stack of conference.stacks) {
+            if(testResult.errors[year][stack] === undefined) {
+                testResult.errors[year][stack] = [];
+            }
             function assertField(condition, field, message, value) {
                 if (!condition) {
                     reportError(year, stack, conference, field, value, message);
@@ -48,8 +45,9 @@ for (const year of Object.keys(conferencesJSON)) {
             }
             checkConference(year, conference, assertField);
         }
-        testResult.conferenceCounter += conferences.length;
     }
+    testResult.conferenceCounter += conferences.length;
+    
     if (mergedConferences.errors[year]) {
         const errorsOfYear = mergedConferences.errors[year];
         function reportDuplicate(error, message) {
