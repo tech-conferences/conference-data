@@ -228,16 +228,6 @@
     "twitter": "@DevOpsDaysRDU"
   },
   {
-    "name": "Devopsdays Raleigh",
-    "url": "https://devopsdays.org/events/2024-raleigh/welcome/",
-    "startDate": "2024-04-10",
-    "endDate": "2024-04-11",
-    "city": "Raleigh, NC",
-    "country": "U.S.A.",
-    "cocUrl": "https://devopsdays.org/events/2024-raleigh/conduct",
-    "twitter": "@DevOpsDaysRDU"
-  },
-  {
     "name": "Devopsdays Aarhus",
     "url": "https://devopsdays.org/events/2024-aarhus/welcome/",
     "startDate": "2024-04-16",
@@ -396,30 +386,6 @@
     "cfpUrl": "https://talks.devopsdays.org/devopsdays-seattle-2024/cfp",
     "cfpEndDate": "2024-01-15",
     "twitter": "@DevOpsDaysSEA"
-  },
-  {
-    "name": "DevOpsDays Kansas City",
-    "url": "https://devopsdayskc.org",
-    "startDate": "2024-05-15",
-    "endDate": "2024-05-16",
-    "city": "Kansas City, MO",
-    "country": "U.S.A.",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://devopsdays.org/events/2024-kansas-city/conduct",
-    "cfpUrl": "https://talks.devopsdays.org/devopsdays-kc-2024",
-    "cfpEndDate": "2024-01-31",
-    "twitter": "@devopsdayskc"
-  },
-  {
-    "name": "Devopsdays Kansas City",
-    "url": "https://devopsdays.org/events/2024-kansas-city/welcome/",
-    "startDate": "2024-05-15",
-    "endDate": "2024-05-16",
-    "city": "Kansas City, MO",
-    "country": "U.S.A.",
-    "cocUrl": "https://devopsdays.org/events/2024-kansas-city/conduct",
-    "twitter": "@devopsdayskc"
   },
   {
     "name": "TIL Conf",
