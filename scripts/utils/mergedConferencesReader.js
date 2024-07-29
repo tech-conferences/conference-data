@@ -37,25 +37,26 @@ export default function mergedConferencesReader() {
                 if (daysDiff > 10) {
                     continue;
                 }
-                const nameSimilarity = stringSimilarity(conference.name, confOfYear.name);
-                if (nameSimilarity > 0.91 && conference.city === confOfYear.city) {
-                    console.log(`Name similarity of ${conference.name} and ${confOfYear.name} is ${nameSimilarity}`);
-                    return confOfYear;
+                const oneConfIsOnline = (conference.city && !confOfYear.city) || (!conference.city && confOfYear.city);
+                if (!oneConfIsOnline && conference.city !== confOfYear.city) {
+                    continue;
                 }
                 const confOfYearSimpleUrl = createSimpleUrl(confOfYear);
                 const urlSimilarity = stringSimilarity(confSimpleUrl, confOfYearSimpleUrl);
-                if (urlSimilarity > 0.91) {
+                if (urlSimilarity > 0.9) {
                     console.log(`URL similarity of ${confSimpleUrl} and ${confOfYearSimpleUrl} is ${urlSimilarity}`);
+                    return confOfYear;
+                }
+                if (getBaseUrl(conference) !== getBaseUrl(confOfYear)) {
+                    continue;
+                }
+                const nameSimilarity = stringSimilarity(conference.name, confOfYear.name);
+                if (nameSimilarity > 0.91) {
+                    console.log(`Name similarity of ${conference.name} and ${confOfYear.name} is ${nameSimilarity}`);
                     return confOfYear;
                 }
                 const similarity = stringSimilarity(confKey, confOfYearKey);
                 if (similarity > 0.78) {
-                    if (conference.city !== confOfYear.city) {
-                        continue;
-                    }
-                    if (getBaseUrl(conference) !== getBaseUrl(confOfYear)) {
-                        continue;
-                    }
                     console.log(`Similarity of ${confKey} and ${confOfYearKey} is ${similarity}`);
                     return confOfYear;
                 }
