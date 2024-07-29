@@ -29,7 +29,7 @@ export default function mergedConferencesReader() {
         }
         function hasAlmostIdentical(conference) {
             const confKey = createConferenceKey(conference);
-            const confSimpleUrl = createSimpleUrl(conference)
+            const confSimpleUrl = createSimpleUrl(conference);
             for (const confOfYearObjectKey of Object.keys(confsOfYear)) {
                 const confOfYear = confsOfYear[confOfYearObjectKey];
                 const confOfYearKey = createConferenceKey(confOfYear);
@@ -46,7 +46,7 @@ export default function mergedConferencesReader() {
                 const similarity = stringSimilarity(confKey, confOfYearKey);
                 if (similarity > 0.78) {
                     if (conference.city !== confOfYear.city) {
-                        continue
+                        continue;
                     }
                     if (getBaseUrl(conference) !== getBaseUrl(confOfYear)) {
                         continue;
