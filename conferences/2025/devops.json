@@ -69,6 +69,18 @@
     "mastodon": "@jcon@mastodon.social"
   },
   {
+    "name": "EuroSTAR Conference",
+    "url": "https://conference.eurostarsoftwaretesting.com/tickets",
+    "startDate": "2025-06-03",
+    "endDate": "2025-06-06",
+    "city": "Edinburgh",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@esconfs",
+    "mastodon": "@EuroSTARconferences@sw-development-is.social"
+  },
+  {
     "name": "DevOpsCon Berlin",
     "url": "https://devopscon.io/berlin",
     "startDate": "2025-06-16",
