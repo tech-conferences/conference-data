@@ -13,6 +13,14 @@
   },
   {
     "name": "KubeCon + CloudNativeCon North America",
+    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-202",
+    "startDate": "2026-10-26",
+    "endDate": "2026-10-26",
+    "online": true,
+    "locales": "EN"
+  },
+  {
+    "name": "KubeCon + CloudNativeCon North America",
     "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/",
     "startDate": "2026-10-26",
     "endDate": "2026-10-29",
@@ -23,13 +31,5 @@
     "cocUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/attend/code-of-conduct/",
     "cfpUrl": "https://sessionize.com/kubecon-cloudnativecon-north-america-2026",
     "twitter": "@CloudNativeFdn"
-  },
-  {
-    "name": "KubeCon + CloudNativeCon North America",
-    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-202",
-    "startDate": "2026-10-26",
-    "endDate": "2026-10-26",
-    "online": true,
-    "locales": "EN"
   }
 ]
