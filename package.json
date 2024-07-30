@@ -1,26 +1,29 @@
 {
   "name": "www.confs.tech-data",
   "version": "0.1.0",
-  "type": "module",
   "dependencies": {
     "@actions/github": "^6.0.0",
-    "@octokit/rest": "^19.0.13",
-    "barecolor": "^1.0.1",
+    "@octokit/rest": "^21.0.1",
+    "@types/clarinet": "^0.12.3",
+    "chalk": "^5.3.0",
     "clarinet": "^0.12.4",
     "date-fns": "^3.6.0",
-    "string-similarity-js": "^2.1.4"
+    "string-similarity-js": "^2.1.4",
+    "tsx": "^4.16.2",
+    "typescript": "^5.5.4"
   },
   "devDependencies": {
+    "@types/lodash": "^4.17.7",
     "git-json-merge": "^1.0.0",
     "lodash": "^4.17.21",
     "nodemon": "^3.1.4",
     "prettier": "^3.3.3"
   },
   "scripts": {
-    "start": "nodemon scripts/conferences.test.js --exec \"npm run format && node\"",
-    "test": "node scripts/conferences.test.js",
-    "updateValidLocations": "node ./scripts/updateValidLocations.js",
-    "reorder-confs": "node ./scripts/reorderConferencesByDate.js",
+    "start": "tsx --watch scripts/conferences.test.ts",
+    "test": "npm run format && tsx scripts/conferences.test.ts",
+    "updateValidLocations": "tsx ./scripts/updateValidLocations.ts",
+    "reorder-confs": "tsx ./scripts/reorderConferencesByDate.ts",
     "format": "prettier scripts --write",
     "lint": "prettier scripts --check"
   },

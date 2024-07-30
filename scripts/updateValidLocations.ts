@@ -2,9 +2,9 @@
 import fs from 'fs';
 import conferenceReader from './utils/conferenceReader.js';
 
-const conferencesJSON = conferenceReader();
+const conferencesJSON = conferenceReader(false);
 
-const locations = {};
+const locations: { [key: string]: string[] } = {};
 (async function () {
     for (const year of Object.keys(conferencesJSON)) {
         for (const topic of Object.keys(conferencesJSON[year])) {
@@ -22,7 +22,7 @@ const locations = {};
             }
         }
     }
-    const sortedLocations = {};
+    const sortedLocations: { [key: string]: string[] } = {};
     Object.keys(locations)
         .sort()
         .map(location => {

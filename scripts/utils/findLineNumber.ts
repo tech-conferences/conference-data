@@ -1,15 +1,15 @@
 import fs from 'fs';
-import assert from 'assert';
 import clarinet from 'clarinet';
+import { Conference } from './Conference';
 
 const parser = clarinet.parser();
 
-export default function findLineNumber(conferenceToFind, property, fileName) {
-    var currentConference = {};
-    var foundConference;
-    var currentKey;
+export default function findLineNumber(conferenceToFind: Conference, property: string, fileName: string) {
+    var currentConference: any = {};
+    var foundConference: any;
+    var currentKey: string;
 
-    function setKey(key) {
+    function setKey(key: string) {
         if (!key) {
             return;
         }
@@ -37,13 +37,13 @@ export default function findLineNumber(conferenceToFind, property, fileName) {
         }
     };
 
-    function isConferenceToFind(currentConference) {
+    function isConferenceToFind(currentConference: any) {
         const keys = Object.keys(conferenceToFind);
         if (keys.length !== Object.keys(conferenceToFind).length) {
             return false;
         }
         for (const key of keys) {
-            if (currentConference[key] && currentConference[key].value !== conferenceToFind[key]) {
+            if (currentConference[key] && currentConference[key].value !== conferenceToFind[key as keyof Conference]) {
                 return false;
             }
         }
@@ -57,7 +57,8 @@ export default function findLineNumber(conferenceToFind, property, fileName) {
     };
 
     const fileContent = fs.readFileSync(fileName);
-    parser.write(fileContent.toString()).close();
+    parser.write(fileContent.toString());
+    parser.close();
     if (foundConference) {
         if (foundConference[property]) {
             return foundConference[property].line;

@@ -1,20 +1,24 @@
-import conferenceReader from './utils/conferenceReader.js';
-import mergedConferencesReader from './utils/mergedConferencesReader.js';
-import checkConference from './utils/checkConference.js';
-import logTestResult from './utils/logTestResult.js';
-import findLineNumber from './utils/findLineNumber.js';
+import mergedConferencesReader from './utils/mergedConferencesReader';
+import checkConference from './utils/checkConference';
+import logTestResult from './utils/logTestResult';
+import findLineNumber from './utils/findLineNumber';
+import { DuplicateError } from './utils/DuplicateError';
+import { Conference } from './utils/Conference';
+import { AssertField } from './utils/AssertField';
+import { TestResult } from './utils/TestResult';
 
+console.log('Running conference tests...');
 const label = 'Conference Tests Runtime';
 console.time(label);
 
 const mergedConferences = mergedConferencesReader();
 
-const testResult = {
+const testResult: TestResult = {
     errors: {},
     conferenceCounter: 0
 };
 
-function pushError(year, stack, lineNumber, message, value) {
+function pushError(year: string, stack: string, lineNumber: number, message: string, value?: string) {
     const fileName = `conferences/${year}/${stack}.json`;
     testResult.errors[year][stack].push({
         fileName: fileName,
@@ -24,7 +28,7 @@ function pushError(year, stack, lineNumber, message, value) {
     });
 }
 
-function reportError(year, stack, conference, field, value, message) {
+function reportError(year: string, stack: string, conference: Conference, field: string, message: string, value?: string) {
     const fileName = `conferences/${year}/${stack}.json`;
     const lineNumber = findLineNumber(conference, field, fileName);
     pushError(year, stack, lineNumber, `[${field}] ${message}`, value);
@@ -38,19 +42,19 @@ for (const year of Object.keys(mergedConferences.conferences)) {
             if (testResult.errors[year][stack] === undefined) {
                 testResult.errors[year][stack] = [];
             }
-            function assertField(condition, field, message, value) {
+            const assertFieldFunction: AssertField = (condition, field, message, value) => {
                 if (!condition) {
-                    reportError(year, stack, conference, field, value, message);
+                    reportError(year, stack, conference, field, message, value);
                 }
-            }
-            checkConference(year, conference, assertField);
+            };
+            checkConference(year, conference, assertFieldFunction);
         }
     }
     testResult.conferenceCounter += conferences.length;
 
     if (mergedConferences.errors[year]) {
         const errorsOfYear = mergedConferences.errors[year];
-        function reportDuplicate(error, message) {
+        function reportDuplicate(error: DuplicateError, message: string) {
             const duplicateConference = error.otherConference;
             reportError(year, error.stack, duplicateConference, 'name', duplicateConference.name, message);
             for (const stack of error.conference.stacks) {

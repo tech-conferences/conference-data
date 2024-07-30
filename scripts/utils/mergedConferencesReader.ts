@@ -1,33 +1,38 @@
-import conferenceReader from './conferenceReader.js';
+import conferenceReader from './conferenceReader';
 import { stringSimilarity } from 'string-similarity-js';
 import { parse, differenceInDays } from 'date-fns';
+import { Conference } from './Conference';
+import { MergedConference } from './MergedConference';
+import { DuplicateErrors } from './DuplicateErrors';
+import { DuplicateError } from './DuplicateError';
 
 export default function mergedConferencesReader() {
-    const conferencesJSON = conferenceReader();
-    const mergedConferences = {};
-    const errors = {};
+    const conferencesJSON = conferenceReader(false);
+    const mergedConferences: { [key: string]: MergedConference[] } = {};
+
+    const errors: { [key: string]: DuplicateErrors } = {};
     const dateFormat = 'yyyy-MM-dd';
     for (const year of Object.keys(conferencesJSON)) {
-        const confsOfYear = {};
-        const almostIdentical = [];
-        const duplicates = [];
-        function getBaseUrl(conference) {
+        const confsOfYear: { [key: string]: MergedConference } = {};
+        const almostIdentical: DuplicateError[] = [];
+        const duplicates: DuplicateError[] = [];
+        function getBaseUrl(conference: Conference) {
             const url = new URL(conference.url);
             return url.origin.replace('www.', '').replace('https://', '').replace('http://', '');
         }
-        function createSimpleUrl(conference) {
+        function createSimpleUrl(conference: Conference) {
             const url = new URL(conference.url);
             const baseUrl = url.origin + url.pathname;
             return baseUrl.replace('www.', '').replace('https://', '').replace('http://', '').replace(/\/$/, '');
         }
-        function createUrlPath(conference) {
+        function createUrlPath(conference: Conference) {
             const url = new URL(conference.url);
             return url.pathname.replace(/\/$/, '');
         }
-        function createConferenceKey(conference) {
+        function createConferenceKey(conference: Conference) {
             return `${conference.name}-${createUrlPath(conference)}`;
         }
-        function hasAlmostIdentical(conference) {
+        function hasAlmostIdentical(conference: MergedConference) {
             const confKey = createConferenceKey(conference);
             const confSimpleUrl = createSimpleUrl(conference);
             for (const confOfYearObjectKey of Object.keys(confsOfYear)) {
@@ -69,11 +74,16 @@ export default function mergedConferencesReader() {
             }
 
             for (const conference of conferences) {
-                conference.startDateParsed = parse(conference.startDate, dateFormat, new Date());
-                conference.endDateParsed = parse(conference.endDate, dateFormat, new Date());
+                const mergedConference: MergedConference = {
+                    ...conference,
+                    startDateParsed: parse(conference.startDate, dateFormat, new Date()),
+                    endDateParsed: parse(conference.endDate, dateFormat, new Date()),
+                    cfpEndDateParsed: conference.cfpEndDate ? parse(conference.cfpEndDate, dateFormat, new Date()) : undefined,
+                    stacks: []
+                };
                 const key = `${createSimpleUrl(conference)}-${conference.city || ''}-${conference.startDate.slice(0, 7)}`;
                 if (!confsOfYear[key]) {
-                    const almostIdenticalConf = hasAlmostIdentical(conference);
+                    const almostIdenticalConf = hasAlmostIdentical(mergedConference);
                     if (almostIdenticalConf) {
                         almostIdentical.push({
                             conference: almostIdenticalConf,
@@ -81,9 +91,8 @@ export default function mergedConferencesReader() {
                             stack: stack
                         });
                     } else {
-                        conference.stacks = [];
-                        conference.stacks.push(stack);
-                        confsOfYear[key] = conference;
+                        mergedConference.stacks.push(stack);
+                        confsOfYear[key] = mergedConference;
                     }
                 } else {
                     const existingConf = confsOfYear[key];
