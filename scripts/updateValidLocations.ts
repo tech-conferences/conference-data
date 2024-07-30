@@ -31,7 +31,7 @@ const locations: { [key: string]: string[] } = {};
             }
         });
     console.log(JSON.stringify(sortedLocations, null, '  '));
-    fs.writeFile('config/validLocations.js', 'export const validLocations = ' + JSON.stringify(sortedLocations, null, 2), err => {
+    fs.writeFile('scripts/config/validLocations.ts', 'export const validLocations = ' + JSON.stringify(sortedLocations, null, 2), err => {
         if (err) {
             console.error(err);
         }

@@ -22,8 +22,8 @@
   "scripts": {
     "start": "tsx --watch scripts/conferences.test.ts",
     "test": "npm run format && tsx scripts/conferences.test.ts",
-    "updateValidLocations": "tsx ./scripts/updateValidLocations.ts",
-    "reorder-confs": "tsx ./scripts/reorderConferencesByDate.ts",
+    "updateValidLocations": "tsx ./scripts/updateValidLocations.ts && npm run format",
+    "reorder-confs": "tsx ./scripts/reorderConferencesByDate.ts && npm run format",
     "format": "prettier scripts --write",
     "lint": "prettier scripts --check"
   },
