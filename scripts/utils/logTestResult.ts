@@ -39,12 +39,13 @@ export default function logTestResult(testResult: TestResult) {
     const duplicateErrorMessages: string[] = [];
     function logDuplicateError(conference: MergedConference, duplicateLabel: string) {
         duplicateErrorMessages.push(
-            `${duplicateLabel}: "${conference.name}" from ${conference.startDate} to ${conference.endDate} URL: ${conference.url} Stacks: ${conference.stacks}`
+            `${duplicateLabel}: "${conference.name}" from ${conference.startDate} to ${conference.endDate} Stacks: ${conference.stacks}`
         );
+        duplicateErrorMessages.push(`URL: ${conference.url}`);
         for (const stack of conference.stacks) {
             const fileName = `conferences/${conference.startDateParsed.getFullYear()}/${stack}.json`;
             const lineNumber = findLineNumber(conference, 'name', fileName);
-            duplicateErrorMessages.push(`- ${fileName}:${lineNumber}`);
+            duplicateErrorMessages.push(`File: ${fileName}:${lineNumber}`);
         }
     }
     for (const duplicateError of testResult.duplicateErrors) {
