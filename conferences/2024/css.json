@@ -71,35 +71,6 @@
     "twitter": "@CSSDayConf"
   },
   {
-    "name": "RenderATL",
-    "url": "https://RenderATL.com",
-    "startDate": "2024-06-12",
-    "endDate": "2024-06-14",
-    "city": "Atlanta, GA",
-    "country": "U.S.A.",
-    "online": false,
-    "locales": "EN",
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://renderatl.com/code-of-conduct",
-    "cfpUrl": "https://renderatl.com/cfp",
-    "cfpEndDate": "2023-11-13",
-    "twitter": "@RenderATL"
-  },
-  {
-    "name": "Pixel Pioneers",
-    "url": "https://pixelpioneers.co/events/bristol-2024",
-    "startDate": "2024-06-14",
-    "endDate": "2024-06-14",
-    "city": "Bristol",
-    "country": "U.K.",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://pixelpioneers.co/code-of-conduct",
-    "cfpUrl": "https://pixelpioneers.co/call-for-speakers",
-    "cfpEndDate": "2024-04-15",
-    "twitter": "@pixelpioneers"
-  },
-  {
     "name": "CascadiaJS",
     "url": "https://cascadiajs.com/2024",
     "startDate": "2024-06-19",
@@ -166,18 +137,6 @@
     "cfpUrl": "https://forms.gle/Yq3WP7dq2o4fEkgE6",
     "cfpEndDate": "2024-08-01",
     "twitter": "@what_the_stack"
-  },
-  {
-    "name": "JavaScript & Angular Days",
-    "url": "https://javascript-days.de/berlin",
-    "startDate": "2024-10-21",
-    "endDate": "2024-10-24",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "locales": "DE",
-    "cocUrl": "https://javascript-days.de/code-of-conduct/",
-    "twitter": "@js_days"
   },
   {
     "name": "Frontend Barcelona Conference",

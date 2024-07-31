@@ -1,16 +1,5 @@
 [
   {
-    "name": "Code Freeze: DevEx",
-    "url": "https://cse.umn.edu/umsec/events/code-freeze-2022-developer-experience",
-    "startDate": "2022-01-13",
-    "endDate": "2022-01-13",
-    "online": true,
-    "cocUrl": "https://docs.google.com/document/u/2/d/e/2PACX-1vQYpW0tp7UO9oHm9dJAjTIKfEkaONMJucKAsCNww2p1JijSt1Etd21ocz1A8GUiYIsChdUXVyhkWZCf/pub",
-    "cfpUrl": "https://cse.umn.edu/cs/news/code-freeze-2022-explores-developer-experience",
-    "cfpEndDate": "2022-01-12",
-    "twitter": "@StephenThere"
-  },
-  {
     "name": "Devopsdays Aarhus",
     "url": "https://devopsdays.org/events/2022-aarhus/welcome/",
     "startDate": "2022-01-25",
@@ -141,16 +130,6 @@
     "cfpUrl": "https://grusp.org/CFPIDI",
     "cfpEndDate": "2022-01-06",
     "twitter": "@incontrodevops"
-  },
-  {
-    "name": "NVIDIA GTC",
-    "url": "https://www.nvidia.com/gtc",
-    "startDate": "2022-03-21",
-    "endDate": "2022-03-24",
-    "city": "San Jose, CA",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@NVIDIAGTC"
   },
   {
     "name": "Voxxed Days Bucharest",
@@ -293,17 +272,6 @@
     "twitter": "@devops_con"
   },
   {
-    "name": "Conf42 Cloud Native",
-    "url": "https://www.conf42.com/cloud2022",
-    "startDate": "2022-04-28",
-    "endDate": "2022-04-28",
-    "online": true,
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "cfpUrl": "https://www.papercall.io/conf42-cloud-native-2022",
-    "cfpEndDate": "2022-03-25",
-    "twitter": "@conf42com"
-  },
-  {
     "name": "Devopsdays Boise",
     "url": "https://devopsdays.org/events/2022-boise/welcome/",
     "startDate": "2022-05-03",
@@ -403,15 +371,6 @@
     "twitter": "@ITRevDOES"
   },
   {
-    "name": "QCon Plus Online Software Conference",
-    "url": "https://plus.qconferences.com",
-    "startDate": "2022-05-10",
-    "endDate": "2022-05-20",
-    "online": true,
-    "offersSignLanguageOrCC": true,
-    "twitter": "@QCon"
-  },
-  {
     "name": "AgileTD Open Air",
     "url": "https://openair.agiletestingdays.com",
     "startDate": "2022-05-17",
@@ -446,35 +405,12 @@
     "twitter": "@kubecon_"
   },
   {
-    "name": "Infoshare F3",
-    "url": "https://f3.infoshare.pl",
-    "startDate": "2022-05-19",
-    "endDate": "2022-05-19",
-    "city": "Gdansk",
-    "country": "Poland",
-    "online": false,
-    "cfpUrl": "https://f3.infoshare.pl/rejestracja",
-    "cfpEndDate": "2022-05-18",
-    "twitter": "@infosharepl"
-  },
-  {
     "name": "SKILup Day: DevSecOps",
     "url": "https://www.skilupdays.io/devsecops-22",
     "startDate": "2022-05-19",
     "endDate": "2022-05-19",
     "online": true,
     "twitter": "@DEVOPSINST"
-  },
-  {
-    "name": "THAT Conference",
-    "url": "https://that.us/events/tx/2022",
-    "startDate": "2022-05-23",
-    "endDate": "2022-05-26",
-    "city": "Round Rock, TX",
-    "country": "U.S.A.",
-    "online": false,
-    "cocUrl": "https://that.us/support/code-of-conduct/",
-    "twitter": "@thatconference"
   },
   {
     "name": "Devopsdays Prague",
@@ -568,17 +504,6 @@
     "cocUrl": "https://platformcon.com/code-of-conuct",
     "cfpUrl": "https://platformcon.com/submit-talk",
     "cfpEndDate": "2022-04-10"
-  },
-  {
-    "name": "GOTO Aarhus",
-    "url": "https://gotoaarhus.com",
-    "startDate": "2022-06-13",
-    "endDate": "2022-06-16",
-    "city": "Aarhus",
-    "country": "Denmark",
-    "online": false,
-    "cocUrl": "https://gotoaarhus.com/2022/pages/code-of-conduct",
-    "twitter": "@GOTOcon"
   },
   {
     "name": "WeAreDevelopers World Congress",
@@ -717,19 +642,6 @@
     "endDate": "2022-07-27",
     "online": true,
     "twitter": "@bigdataconf"
-  },
-  {
-    "name": "THAT Conference",
-    "url": "https://that.us/events/wi/2022",
-    "startDate": "2022-07-25",
-    "endDate": "2022-07-28",
-    "city": "Wisconsin Dells, WI",
-    "country": "U.S.A.",
-    "online": false,
-    "cocUrl": "https://that.us/support/code-of-conduct/",
-    "cfpUrl": "https://that.us/call-for-counselors/wi/2022",
-    "cfpEndDate": "2022-03-01",
-    "twitter": "@thatconference"
   },
   {
     "name": "Devopsdays Medellín",
@@ -933,30 +845,6 @@
     "twitter": "@devopsdaysdc"
   },
   {
-    "name": "Infobip Shift",
-    "url": "https://shift.infobip.com",
-    "startDate": "2022-09-19",
-    "endDate": "2022-09-20",
-    "city": "Zadar",
-    "country": "Croatia",
-    "online": true,
-    "cocUrl": "https://shift.infobip.com/code/",
-    "cfpUrl": "https://sessionize.com/infobipshift",
-    "cfpEndDate": "2022-07-01",
-    "twitter": "@infobipshift"
-  },
-  {
-    "name": "JCON-ONLINE",
-    "url": "https://jcon.one",
-    "startDate": "2022-09-20",
-    "endDate": "2022-09-23",
-    "online": true,
-    "cocUrl": "https://2022.jcon.one/code-of-conduct",
-    "cfpUrl": "https://2022.jcon.one/call-for-papers",
-    "cfpEndDate": "2022-03-31",
-    "twitter": "@jcon_conference"
-  },
-  {
     "name": "DevopsDays Berlin",
     "url": "https://devopsdays.org/events/2022-berlin/welcome",
     "startDate": "2022-09-21",
@@ -1005,28 +893,6 @@
     "cocUrl": "https://devopsdays.org/events/2022-cairo/conduct",
     "cfpUrl": "https://www.papercall.io/cairo2022",
     "cfpEndDate": "2022-08-13"
-  },
-  {
-    "name": "PGConf NYC",
-    "url": "https://2022.pgconf.nyc",
-    "startDate": "2022-09-22",
-    "endDate": "2022-09-23",
-    "city": "New York, NY",
-    "country": "U.S.A.",
-    "online": false,
-    "cocUrl": "https://2022.pgconf.nyc/inclusion/",
-    "cfpUrl": "https://2022.pgconf.nyc/callforpapers",
-    "cfpEndDate": "2022-05-31",
-    "twitter": "@pgconfnyc"
-  },
-  {
-    "name": "Agile India",
-    "url": "https://2022.agileindia.org",
-    "startDate": "2022-09-22",
-    "endDate": "2022-09-24",
-    "online": true,
-    "cocUrl": "https://2022.agileindia.org/agile-india-values/",
-    "twitter": "@agileindia"
   },
   {
     "name": "DevopsDays Portugal",
@@ -1096,17 +962,6 @@
     "twitter": "@DevOpsDaysLDN"
   },
   {
-    "name": "GOTO Copenhagen",
-    "url": "https://gotocph.com",
-    "startDate": "2022-10-03",
-    "endDate": "2022-10-07",
-    "city": "Copenhagen",
-    "country": "Denmark",
-    "online": false,
-    "cocUrl": "https://gotocph.com/2022/code-of-conduct",
-    "twitter": "@GOTOcon"
-  },
-  {
     "name": "DevOps Global Summit",
     "url": "https://events.geekle.us/devops",
     "startDate": "2022-10-04",
@@ -1173,17 +1028,6 @@
     "cfpUrl": "https://www.thetesttribe.com/testflix-2022-call-for-papers",
     "cfpEndDate": "2022-05-15",
     "twitter": "@the_test_tribe"
-  },
-  {
-    "name": "AWS Pop Hub",
-    "url": "https://www.aws-hub.pl",
-    "startDate": "2022-10-10",
-    "endDate": "2022-10-14",
-    "city": "Warsaw",
-    "country": "Poland",
-    "online": false,
-    "offersSignLanguageOrCC": true,
-    "twitter": "@awscloud"
   },
   {
     "name": "BASTA!",
@@ -1256,17 +1100,6 @@
     "twitter": "@devopsdaysehv"
   },
   {
-    "name": "NixCon",
-    "url": "https://2022.nixcon.org",
-    "startDate": "2022-10-20",
-    "endDate": "2022-10-22",
-    "city": "Paris",
-    "country": "France",
-    "online": true,
-    "cocUrl": "https://2022.nixcon.org/code-of-conduct.html",
-    "twitter": "@nixcon_org"
-  },
-  {
     "name": "Devopsdays Tampa Bay",
     "url": "https://devopsdays.org/events/2022-tampa/welcome/",
     "startDate": "2022-10-21",
@@ -1304,17 +1137,6 @@
     "twitter": "@devopsdayswaw"
   },
   {
-    "name": "International PHP Conference",
-    "url": "https://phpconference.com/munich",
-    "startDate": "2022-10-24",
-    "endDate": "2022-10-28",
-    "city": "Munich",
-    "country": "Germany",
-    "online": true,
-    "cocUrl": "https://phpconference.com/code-of-conduct/",
-    "twitter": "@phpconference"
-  },
-  {
     "name": "QCon San Francisco Software Conference",
     "url": "https://qconsf.com",
     "startDate": "2022-10-24",
@@ -1333,16 +1155,6 @@
     "country": "Netherlands",
     "online": false,
     "cocUrl": "https://www.usenix.org/conferences/coc"
-  },
-  {
-    "name": "Arm DevSummit",
-    "url": "https://devsummit.arm.com",
-    "startDate": "2022-10-26",
-    "endDate": "2022-10-27",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@Arm"
   },
   {
     "name": "Devopsdays Montréal",
@@ -1441,28 +1253,6 @@
     "twitter": "@devopsdayrio"
   },
   {
-    "name": "W-JAX",
-    "url": "https://jax.de/munich",
-    "startDate": "2022-11-07",
-    "endDate": "2022-11-11",
-    "city": "Munich",
-    "country": "Germany",
-    "online": true,
-    "cocUrl": "https://jax.de/code-of-conduct-en/",
-    "twitter": "@jaxcon"
-  },
-  {
-    "name": "GitHub Universe",
-    "url": "https://www.githubuniverse.com",
-    "startDate": "2022-11-09",
-    "endDate": "2022-11-10",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": true,
-    "cocUrl": "https://docs.github.com/en/site-policy/github-terms/github-event-code-of-conduct",
-    "twitter": "@github"
-  },
-  {
     "name": "Enterprise GraphQL Conference",
     "url": "https://hasura.io/enterprisegraphql",
     "startDate": "2022-11-10",
@@ -1490,16 +1280,6 @@
     "cfpUrl": "https://www.updateconference.net/2022/call-for-speakers",
     "cfpEndDate": "2022-06-26",
     "twitter": "@update_conf"
-  },
-  {
-    "name": "Open Source Analytics Conference",
-    "url": "https://altinity.com/osa-con",
-    "startDate": "2022-11-15",
-    "endDate": "2022-11-15",
-    "online": true,
-    "cfpUrl": "https://forms.gle/mxPdPfVYEo2ATMHp9",
-    "cfpEndDate": "2022-09-15",
-    "twitter": "@AltinityDB"
   },
   {
     "name": "PASS Data Community SUMMIT",
@@ -1532,19 +1312,6 @@
     "country": "U.S.A.",
     "online": true,
     "twitter": "@UnscriptedConf"
-  },
-  {
-    "name": "Codeurs en Seine",
-    "url": "https://www.codeursenseine.com/2022",
-    "startDate": "2022-11-17",
-    "endDate": "2022-11-17",
-    "city": "Rouen",
-    "country": "France",
-    "online": false,
-    "cocUrl": "https://www.codeursenseine.com/2022/code-of-conduct",
-    "cfpUrl": "https://conference-hall.io/public/event/Uv6XULhgmt7z2YuoJ8nq",
-    "cfpEndDate": "2022-09-16",
-    "twitter": "@codeursenseine"
   },
   {
     "name": "DevOpsDays Bengaluru",
@@ -1607,30 +1374,6 @@
     "twitter": "@DevopsdaysB"
   },
   {
-    "name": "Git Commit Show",
-    "url": "https://gitcommit.show",
-    "startDate": "2022-11-26",
-    "endDate": "2022-11-27",
-    "online": true,
-    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub",
-    "cfpUrl": "http://push.gitcommit.show",
-    "cfpEndDate": "2022-10-26",
-    "twitter": "@gitcommitshow"
-  },
-  {
-    "name": "UbuCon Asia",
-    "url": "https://2022.ubucon.asia",
-    "startDate": "2022-11-26",
-    "endDate": "2022-11-27",
-    "city": "Seoul",
-    "country": "South Korea",
-    "online": true,
-    "cocUrl": "https://github.com/ubucon-asia/CodeOfConduct",
-    "cfpUrl": "https://2022.ubucon.asia/call-for-proposals",
-    "cfpEndDate": "2022-09-14",
-    "twitter": "@UbuConAsia"
-  },
-  {
     "name": "MAD Summit",
     "url": "https://mad-summit.de/berlin",
     "startDate": "2022-11-28",
@@ -1640,26 +1383,6 @@
     "online": true,
     "cocUrl": "https://mad-summit.de/code-of-conduct/",
     "twitter": "@mad_summit"
-  },
-  {
-    "name": "YOW! London",
-    "url": "https://yowlondon.com/2022",
-    "startDate": "2022-11-28",
-    "endDate": "2022-11-30",
-    "city": "London",
-    "country": "U.K.",
-    "online": true,
-    "cocUrl": "https://yowlondon.com/2022/code-of-conduct",
-    "twitter": "@gotocon"
-  },
-  {
-    "name": "INNOQ Technology Day",
-    "url": "https://technologyday.innoq.com",
-    "startDate": "2022-11-30",
-    "endDate": "2022-11-30",
-    "online": true,
-    "cocUrl": "https://berlincodeofconduct.org/",
-    "twitter": "@INNOQ"
   },
   {
     "name": "Conf42 DevSecOps",
@@ -1724,15 +1447,6 @@
     "country": "Australia",
     "online": false,
     "cocUrl": "https://www.usenix.org/conferences/coc"
-  },
-  {
-    "name": "DevTernity",
-    "url": "https://devternity.com",
-    "startDate": "2022-12-08",
-    "endDate": "2022-12-09",
-    "online": true,
-    "cocUrl": "https://devternity.com/code_of_conduct.html",
-    "twitter": "@devternity"
   },
   {
     "name": "Devopsdays Recife",

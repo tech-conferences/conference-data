@@ -8,26 +8,6 @@
     "twitter": "@techcircus_"
   },
   {
-    "name": "Software Architecture Summit",
-    "url": "https://software-architecture-summit.de/muenchen",
-    "startDate": "2022-03-14",
-    "endDate": "2022-03-16",
-    "city": "Munich",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@SoftwArchSummit"
-  },
-  {
-    "name": "NVIDIA GTC",
-    "url": "https://www.nvidia.com/gtc",
-    "startDate": "2022-03-21",
-    "endDate": "2022-03-24",
-    "city": "San Jose, CA",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@NVIDIAGTC"
-  },
-  {
     "name": "Open Source Festival",
     "url": "https://festival.oscafrica.org",
     "startDate": "2022-03-24",
@@ -77,26 +57,6 @@
     "cfpUrl": "https://forms.gle/qHDVf5zZkEu3jC1W6",
     "cfpEndDate": "2022-03-11",
     "twitter": "@pushconf"
-  },
-  {
-    "name": "QCon Plus Online Software Conference",
-    "url": "https://plus.qconferences.com",
-    "startDate": "2022-05-10",
-    "endDate": "2022-05-20",
-    "online": true,
-    "offersSignLanguageOrCC": true,
-    "twitter": "@QCon"
-  },
-  {
-    "name": "THAT Conference",
-    "url": "https://that.us/events/tx/2022",
-    "startDate": "2022-05-23",
-    "endDate": "2022-05-26",
-    "city": "Round Rock, TX",
-    "country": "U.S.A.",
-    "online": false,
-    "cocUrl": "https://that.us/support/code-of-conduct/",
-    "twitter": "@thatconference"
   },
   {
     "name": "UXLx: User Experience Lisbon",
@@ -224,19 +184,6 @@
     "twitter": "@design_drives"
   },
   {
-    "name": "THAT Conference",
-    "url": "https://that.us/events/wi/2022",
-    "startDate": "2022-07-25",
-    "endDate": "2022-07-28",
-    "city": "Wisconsin Dells, WI",
-    "country": "U.S.A.",
-    "online": false,
-    "cocUrl": "https://that.us/support/code-of-conduct/",
-    "cfpUrl": "https://that.us/call-for-counselors/wi/2022",
-    "cfpEndDate": "2022-03-01",
-    "twitter": "@thatconference"
-  },
-  {
     "name": "Product Elevation",
     "url": "https://productelevation.org",
     "startDate": "2022-08-08",
@@ -288,28 +235,6 @@
     "country": "Austria",
     "online": false,
     "twitter": "@uxconvienna"
-  },
-  {
-    "name": "Infobip Shift",
-    "url": "https://shift.infobip.com",
-    "startDate": "2022-09-19",
-    "endDate": "2022-09-20",
-    "city": "Zadar",
-    "country": "Croatia",
-    "online": true,
-    "cocUrl": "https://shift.infobip.com/code/",
-    "cfpUrl": "https://sessionize.com/infobipshift",
-    "cfpEndDate": "2022-07-01",
-    "twitter": "@infobipshift"
-  },
-  {
-    "name": "Agile India",
-    "url": "https://2022.agileindia.org",
-    "startDate": "2022-09-22",
-    "endDate": "2022-09-24",
-    "online": true,
-    "cocUrl": "https://2022.agileindia.org/agile-india-values/",
-    "twitter": "@agileindia"
   },
   {
     "name": "Design Matters",
@@ -413,28 +338,6 @@
     "twitter": "@SthlmXperience"
   },
   {
-    "name": "Codeurs en Seine",
-    "url": "https://www.codeursenseine.com/2022",
-    "startDate": "2022-11-17",
-    "endDate": "2022-11-17",
-    "city": "Rouen",
-    "country": "France",
-    "online": false,
-    "cocUrl": "https://www.codeursenseine.com/2022/code-of-conduct",
-    "cfpUrl": "https://conference-hall.io/public/event/Uv6XULhgmt7z2YuoJ8nq",
-    "cfpEndDate": "2022-09-16",
-    "twitter": "@codeursenseine"
-  },
-  {
-    "name": "INNOQ Technology Day",
-    "url": "https://technologyday.innoq.com",
-    "startDate": "2022-11-30",
-    "endDate": "2022-11-30",
-    "online": true,
-    "cocUrl": "https://berlincodeofconduct.org/",
-    "twitter": "@INNOQ"
-  },
-  {
     "name": "Progressive Web Experience",
     "url": "https://progressivewebexperience.io",
     "startDate": "2022-12-04",
@@ -444,16 +347,6 @@
     "online": true,
     "cocUrl": "https://progressivewebexperience.io/home/code_of_conduct",
     "twitter": "@nofluff"
-  },
-  {
-    "name": "WEBCONGRESS MIAMI",
-    "url": "https://www.webcongress.com/miami",
-    "startDate": "2022-12-07",
-    "endDate": "2022-12-07",
-    "city": "Miami, FL",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@webcongress"
   },
   {
     "name": "Frontrunners JS/Web",

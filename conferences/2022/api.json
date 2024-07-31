@@ -24,32 +24,6 @@
     "twitter": "@nullcon"
   },
   {
-    "name": "CincyDeliver()",
-    "url": "http://www.cincydeliver.org",
-    "startDate": "2022-07-29",
-    "endDate": "2022-07-29",
-    "city": "Cincinnati, OH",
-    "country": "U.S.A.",
-    "online": false,
-    "cocUrl": "https://www.cincydeliver.org/Home/CodeOfConduct",
-    "cfpUrl": "https://www.cincydeliver.org/Sessions/Create",
-    "cfpEndDate": "2022-04-30",
-    "twitter": "@DayOfAgile"
-  },
-  {
-    "name": "Infobip Shift",
-    "url": "https://shift.infobip.com",
-    "startDate": "2022-09-19",
-    "endDate": "2022-09-20",
-    "city": "Zadar",
-    "country": "Croatia",
-    "online": true,
-    "cocUrl": "https://shift.infobip.com/code/",
-    "cfpUrl": "https://sessionize.com/infobipshift",
-    "cfpEndDate": "2022-07-01",
-    "twitter": "@infobipshift"
-  },
-  {
     "name": "TestFlix",
     "url": "https://www.thetesttribe.com/testflix-2022",
     "startDate": "2022-10-08",
@@ -97,16 +71,6 @@
     "twitter": "@APIWorld"
   },
   {
-    "name": "Arm DevSummit",
-    "url": "https://devsummit.arm.com",
-    "startDate": "2022-10-26",
-    "endDate": "2022-10-27",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@Arm"
-  },
-  {
     "name": "AsyncAPI Conference",
     "url": "https://conference.asyncapi.com",
     "startDate": "2022-11-03",
@@ -142,17 +106,6 @@
     "twitter": "@apicamp_org"
   },
   {
-    "name": "Git Commit Show",
-    "url": "https://gitcommit.show",
-    "startDate": "2022-11-26",
-    "endDate": "2022-11-27",
-    "online": true,
-    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub",
-    "cfpUrl": "http://push.gitcommit.show",
-    "cfpEndDate": "2022-10-26",
-    "twitter": "@gitcommitshow"
-  },
-  {
     "name": "MAD Summit",
     "url": "https://mad-summit.de/berlin",
     "startDate": "2022-11-28",
@@ -162,14 +115,5 @@
     "online": true,
     "cocUrl": "https://mad-summit.de/code-of-conduct/",
     "twitter": "@mad_summit"
-  },
-  {
-    "name": "DevTernity",
-    "url": "https://devternity.com",
-    "startDate": "2022-12-08",
-    "endDate": "2022-12-09",
-    "online": true,
-    "cocUrl": "https://devternity.com/code_of_conduct.html",
-    "twitter": "@devternity"
   }
 ]

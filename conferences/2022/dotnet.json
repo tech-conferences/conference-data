@@ -76,19 +76,6 @@
     "twitter": "@codegarden"
   },
   {
-    "name": "CincyDeliver()",
-    "url": "http://www.cincydeliver.org",
-    "startDate": "2022-07-29",
-    "endDate": "2022-07-29",
-    "city": "Cincinnati, OH",
-    "country": "U.S.A.",
-    "online": false,
-    "cocUrl": "https://www.cincydeliver.org/Home/CodeOfConduct",
-    "cfpUrl": "https://www.cincydeliver.org/Sessions/Create",
-    "cfpEndDate": "2022-04-30",
-    "twitter": "@DayOfAgile"
-  },
-  {
     "name": "PowerShell on the River",
     "url": "https://www.powershellchatt.com",
     "startDate": "2022-08-12",
@@ -99,19 +86,6 @@
     "cfpUrl": "https://www.powershellchatt.com/speakers/becomeaspeaker",
     "cfpEndDate": "2022-04-30",
     "twitter": "@PSHChatt"
-  },
-  {
-    "name": "Herbstcampus",
-    "url": "https://www.herbstcampus.de",
-    "startDate": "2022-09-06",
-    "endDate": "2022-09-08",
-    "city": "Nürnberg",
-    "country": "Germany",
-    "online": false,
-    "cocUrl": "https://www.herbstcampus.de/code_of_conduct.php",
-    "cfpUrl": "https://www.herbstcampus.de/cfp.php",
-    "cfpEndDate": "2022-05-09",
-    "twitter": "@Herbstcampus"
   },
   {
     "name": "Nullcon International Security Conference and Training Goa",
@@ -180,14 +154,5 @@
     "online": false,
     "cocUrl": "https://springone.io/code-of-conduct",
     "twitter": "@springone"
-  },
-  {
-    "name": "DevTernity",
-    "url": "https://devternity.com",
-    "startDate": "2022-12-08",
-    "endDate": "2022-12-09",
-    "online": true,
-    "cocUrl": "https://devternity.com/code_of_conduct.html",
-    "twitter": "@devternity"
   }
 ]

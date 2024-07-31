@@ -1,19 +1,5 @@
 [
   {
-    "name": "DeveloperWeek",
-    "url": "https://www.developerweek.com",
-    "startDate": "2023-02-15",
-    "endDate": "2023-02-23",
-    "city": "Oakland, CA",
-    "country": "U.S.A.",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "cfpUrl": "https://sessionize.com/developerweek-2023",
-    "cfpEndDate": "2022-10-26",
-    "twitter": "@developerweek"
-  },
-  {
     "name": "BASTA! Spring",
     "url": "https://basta.net/frankfurt-en",
     "startDate": "2023-02-20",
@@ -24,19 +10,6 @@
     "offersSignLanguageOrCC": true,
     "cocUrl": "https://basta.net/code-of-conduct/",
     "twitter": "@BASTAcon"
-  },
-  {
-    "name": "ConFoo",
-    "url": "https://confoo.ca/en/2023",
-    "startDate": "2023-02-22",
-    "endDate": "2023-02-24",
-    "city": "Montreal",
-    "country": "Canada",
-    "online": false,
-    "cocUrl": "https://confoo.ca/en/code-of-conduct",
-    "cfpUrl": "https://confoo.ca/en/2023/call-for-papers",
-    "cfpEndDate": "2022-10-06",
-    "twitter": "@confooca"
   },
   {
     "name": "Visual Studio Live! Las Vegas",
@@ -75,19 +48,6 @@
     "locales": "EN",
     "cocUrl": "https://www.updateconference.net/en/code-of-conduct",
     "twitter": "@update_conf"
-  },
-  {
-    "name": "Wasm I/O",
-    "url": "https://wasmio.tech",
-    "startDate": "2023-03-23",
-    "endDate": "2023-03-24",
-    "city": "Barcelona",
-    "country": "Spain",
-    "online": false,
-    "cocUrl": "https://wasmio.tech/coc",
-    "cfpUrl": "https://www.papercall.io/wasmio23",
-    "cfpEndDate": "2023-01-17",
-    "twitter": "@wasm_io"
   },
   {
     "name": "dotnetdays",
@@ -163,20 +123,6 @@
     "twitter": "@VSLive"
   },
   {
-    "name": "WeAreDevelopers World Congress",
-    "url": "https://www.wearedevelopers.com/world-congress",
-    "startDate": "2023-07-27",
-    "endDate": "2023-07-28",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form.",
-    "cfpUrl": "https://sessionize.com/wearedevelopers-worldcongress23",
-    "cfpEndDate": "2023-07-19",
-    "twitter": "@WeAreDevs"
-  },
-  {
     "name": "Visual Studio Live! San Diego",
     "url": "https://vslive.com/events/san-diego-2023/home.aspx",
     "startDate": "2023-08-07",
@@ -187,20 +133,6 @@
     "locales": "EN",
     "cocUrl": "https://vslive.com/pages/harassment.aspx",
     "twitter": "@VSLive"
-  },
-  {
-    "name": "WorldFestival",
-    "url": "https://worldfestival.com",
-    "startDate": "2023-08-15",
-    "endDate": "2023-08-23",
-    "city": "San Mateo, CA",
-    "country": "U.S.A.",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "cfpUrl": "https://sessionize.com/worldfestival-2023",
-    "cfpEndDate": "2023-06-30",
-    "twitter": "@worldfestivalhq"
   },
   {
     "name": ".NET DeveloperDays",

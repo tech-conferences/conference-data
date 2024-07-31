@@ -22,15 +22,6 @@
     "twitter": "@ITRevDOES"
   },
   {
-    "name": "QCon Plus Online Software Conference",
-    "url": "https://plus.qconferences.com",
-    "startDate": "2022-05-10",
-    "endDate": "2022-05-20",
-    "online": true,
-    "offersSignLanguageOrCC": true,
-    "twitter": "@QCon"
-  },
-  {
     "name": "Render-Atlanta (RenderATL)",
     "url": "https://www.renderatl.com",
     "startDate": "2022-06-01",
@@ -41,18 +32,6 @@
     "offersSignLanguageOrCC": true,
     "cocUrl": "RenderATL.com/thecode",
     "twitter": "@RenderATL"
-  },
-  {
-    "name": "ACM Multimedia Systems Conference - MMSys",
-    "url": "https://mmsys2022.ie",
-    "startDate": "2022-06-14",
-    "endDate": "2022-06-17",
-    "city": "Athlone",
-    "country": "Ireland",
-    "online": false,
-    "cfpUrl": "https://mmsys2022.ie/downloads/MMSys2022_CallForPapers.pdf",
-    "cfpEndDate": "2022-01-21",
-    "twitter": "@acmmmsys"
   },
   {
     "name": "React Summit",
@@ -78,39 +57,6 @@
     "offersSignLanguageOrCC": true,
     "cocUrl": "https://2022.cascadiajs.com/code-of-conduct",
     "twitter": "@cascadiajs"
-  },
-  {
-    "name": "Infobip Shift",
-    "url": "https://shift.infobip.com",
-    "startDate": "2022-09-19",
-    "endDate": "2022-09-20",
-    "city": "Zadar",
-    "country": "Croatia",
-    "online": true,
-    "cocUrl": "https://shift.infobip.com/code/",
-    "cfpUrl": "https://sessionize.com/infobipshift",
-    "cfpEndDate": "2022-07-01",
-    "twitter": "@infobipshift"
-  },
-  {
-    "name": "JCON-ONLINE",
-    "url": "https://jcon.one",
-    "startDate": "2022-09-20",
-    "endDate": "2022-09-23",
-    "online": true,
-    "cocUrl": "https://2022.jcon.one/code-of-conduct",
-    "cfpUrl": "https://2022.jcon.one/call-for-papers",
-    "cfpEndDate": "2022-03-31",
-    "twitter": "@jcon_conference"
-  },
-  {
-    "name": "Agile India",
-    "url": "https://2022.agileindia.org",
-    "startDate": "2022-09-22",
-    "endDate": "2022-09-24",
-    "online": true,
-    "cocUrl": "https://2022.agileindia.org/agile-india-values/",
-    "twitter": "@agileindia"
   },
   {
     "name": "Conf42 Incident Management",
@@ -194,41 +140,6 @@
     "twitter": "@JavaScriptCon"
   },
   {
-    "name": "International PHP Conference",
-    "url": "https://phpconference.com/munich",
-    "startDate": "2022-10-24",
-    "endDate": "2022-10-28",
-    "city": "Munich",
-    "country": "Germany",
-    "online": true,
-    "cocUrl": "https://phpconference.com/code-of-conduct/",
-    "twitter": "@phpconference"
-  },
-  {
-    "name": "performance.now()",
-    "url": "https://perfnow.nl",
-    "startDate": "2022-10-27",
-    "endDate": "2022-10-28",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "online": true,
-    "twitter": "@perfnowconf"
-  },
-  {
-    "name": "Jamstack Conf",
-    "url": "https://jamstack.org/conf",
-    "startDate": "2022-11-07",
-    "endDate": "2022-11-08",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": true,
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://jamstack.org/code-of-conduct/",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc-z50GyD7zXzr_JCn2M1NBFZ-h65kSdu7zn43V1u2qAKO3ew/viewform",
-    "cfpEndDate": "2022-11-04",
-    "twitter": "@jamstackconf"
-  },
-  {
     "name": "Enterprise GraphQL Conference",
     "url": "https://hasura.io/enterprisegraphql",
     "startDate": "2022-11-10",
@@ -274,17 +185,6 @@
     "twitter": "@AgileTD"
   },
   {
-    "name": "Git Commit Show",
-    "url": "https://gitcommit.show",
-    "startDate": "2022-11-26",
-    "endDate": "2022-11-27",
-    "online": true,
-    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub",
-    "cfpUrl": "http://push.gitcommit.show",
-    "cfpEndDate": "2022-10-26",
-    "twitter": "@gitcommitshow"
-  },
-  {
     "name": "enterJS Web-Performance Day",
     "url": "https://enterjs.de/web-performance.php",
     "startDate": "2022-12-01",
@@ -292,16 +192,6 @@
     "online": true,
     "cocUrl": "https://enterjs.de/code_of_conduct.php",
     "twitter": "@enterjsconf"
-  },
-  {
-    "name": "WEBCONGRESS MIAMI",
-    "url": "https://www.webcongress.com/miami",
-    "startDate": "2022-12-07",
-    "endDate": "2022-12-07",
-    "city": "Miami, FL",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@webcongress"
   },
   {
     "name": "WeAreDevelopers Machine Learning Day",

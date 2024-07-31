@@ -73,15 +73,6 @@
     "twitter": "@DeveloperWeek"
   },
   {
-    "name": "Smashing Conference",
-    "url": "https://smashingconf.com/london-2018",
-    "startDate": "2018-02-07",
-    "endDate": "2018-02-08",
-    "city": "London",
-    "country": "U.K.",
-    "twitter": "@smashingconf"
-  },
-  {
     "name": "The Rolling Scopes Conference",
     "url": "https://2018.conf.rollingscopes.com",
     "startDate": "2018-02-10",
@@ -375,15 +366,6 @@
     "twitter": "@bgwebsummmit"
   },
   {
-    "name": "Smashing Conference",
-    "url": "https://smashingconf.com/sf-2018",
-    "startDate": "2018-04-17",
-    "endDate": "2018-04-18",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "twitter": "@smashingconf"
-  },
-  {
     "name": "JSHeroes",
     "url": "https://jsheroes.io",
     "startDate": "2018-04-18",
@@ -492,15 +474,6 @@
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfJny3HzeAdgDM_RiTizJnlgRSvbwtIRqM035gG7vfQMLQPmQ/viewform",
     "cfpEndDate": "2017-11-16",
     "twitter": "@deltavconf"
-  },
-  {
-    "name": "ReasonConf",
-    "url": "https://www.reason-conf.com",
-    "startDate": "2018-05-11",
-    "endDate": "2018-05-13",
-    "city": "Vienna",
-    "country": "Austria",
-    "twitter": "@reasonconf"
   },
   {
     "name": "ReactEurope",
@@ -615,15 +588,6 @@
     "cfpUrl": "https://www.papercall.io/webreb2018",
     "cfpEndDate": "2018-02-25",
     "twitter": "@web_rebels"
-  },
-  {
-    "name": "Webconf.asia",
-    "url": "https://webconf.asia",
-    "startDate": "2018-06-06",
-    "endDate": "2018-06-09",
-    "city": "Hong Kong",
-    "country": "Hong Kong",
-    "twitter": "@webconf_asia"
   },
   {
     "name": "Best of Web",
@@ -744,15 +708,6 @@
     "city": "Chernivtsi",
     "country": "Ukraine",
     "twitter": "@ChernivtsiJS"
-  },
-  {
-    "name": "Smashing Conference",
-    "url": "https://smashingconf.com/toronto-2018",
-    "startDate": "2018-06-26",
-    "endDate": "2018-06-27",
-    "city": "Toronto",
-    "country": "Canada",
-    "twitter": "@smashingconf"
   },
   {
     "name": "WorkerConf",
@@ -1038,17 +993,6 @@
     "twitter": "@nordicjs"
   },
   {
-    "name": "Refresh",
-    "url": "http://refresh.rocks",
-    "startDate": "2018-09-07",
-    "endDate": "2018-09-07",
-    "city": "Tallinn",
-    "country": "Estonia",
-    "cfpUrl": "http://refresh.rocks/call-for-papers",
-    "cfpEndDate": "2018-02-18",
-    "twitter": "@REFRESHRocks"
-  },
-  {
     "name": "Reactathon",
     "url": "https://www.reactathon.com",
     "startDate": "2018-09-07",
@@ -1065,15 +1009,6 @@
     "city": "Lagos",
     "country": "Nigeria",
     "twitter": "@nodejsnigeria"
-  },
-  {
-    "name": "Smashing Conference",
-    "url": "https://smashingconf.com/freiburg-2018",
-    "startDate": "2018-09-10",
-    "endDate": "2018-09-11",
-    "city": "Freiburg",
-    "country": "Germany",
-    "twitter": "@smashingconf"
   },
   {
     "name": "JSFoo",
@@ -1177,15 +1112,6 @@
     "cfpUrl": "https://goo.gl/forms/tJJBwTCur7KkqjPq2",
     "cfpEndDate": "2018-06-30",
     "twitter": "@reactboston"
-  },
-  {
-    "name": "Web Unleashed",
-    "url": "http://fitc.ca/event/webu18/",
-    "startDate": "2018-10-01",
-    "endDate": "2018-10-02",
-    "city": "Toronto",
-    "country": "Canada",
-    "twitter": "@fitc"
   },
   {
     "name": "Framework Summit",
@@ -1304,15 +1230,6 @@
     "twitter": "@MirrorConf"
   },
   {
-    "name": "SmashingConf NY",
-    "url": "https://smashingconf.com/ny-2018",
-    "startDate": "2018-10-23",
-    "endDate": "2018-10-24",
-    "city": "New York, NY",
-    "country": "U.S.A.",
-    "twitter": "@smashingconf"
-  },
-  {
     "name": "BlendWebMix",
     "url": "http://www.blendwebmix.com",
     "startDate": "2018-10-24",
@@ -1391,16 +1308,6 @@
     "cfpUrl": "https://www.papercall.io/libertyjs-2018",
     "cfpEndDate": "2018-09-01",
     "twitter": "@liberty_js"
-  },
-  {
-    "name": "Web Directions Summit",
-    "url": "http://webdirections.org/wds",
-    "startDate": "2018-11-01",
-    "endDate": "2018-11-02",
-    "city": "Sydney",
-    "country": "Australia",
-    "cfpUrl": "https://www.webdirections.org/speaking",
-    "twitter": "@webdirections"
   },
   {
     "name": "RVA.js",

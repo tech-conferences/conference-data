@@ -5,20 +5,7 @@ import { Conference } from './Conference';
 import { MergedConference } from './MergedConference';
 import { DuplicateError } from './DuplicateError';
 import { DuplicateType } from './DuplicateType';
-
-function isIdentical(conference: MergedConference, other: MergedConference) {
-    for (const field of Object.keys(conference)) {
-        if (field == 'startDateParsed' || field == 'stacks' || field == 'endDateParsed' || field == 'cfpEndDateParsed') {
-            continue;
-        }
-        const value = conference[field as keyof Conference];
-        const otherValue = other[field as keyof Conference];
-        if (value !== otherValue) {
-            return false;
-        }
-    }
-    return true;
-}
+import IsConferenceEqual from './IsConferenceEqual';
 
 export default function mergedConferencesReader() {
     const conferencesJSON = conferenceReader(false);
@@ -113,7 +100,7 @@ export default function mergedConferencesReader() {
                             duplicate: mergedConference,
                             type: DuplicateType.Duplicate
                         });
-                    } else if (!isIdentical(existingConf, mergedConference)) {
+                    } else if (!IsConferenceEqual(existingConf, mergedConference)) {
                         duplicateErrors.push({
                             conference: existingConf,
                             duplicate: mergedConference,
@@ -121,6 +108,13 @@ export default function mergedConferencesReader() {
                         });
                     } else {
                         existingConf.stacks.push(stack);
+                        if (existingConf.stacks.indexOf('general') !== -1 && existingConf.stacks.length > 1) {
+                            duplicateErrors.push({
+                                conference: existingConf,
+                                duplicate: mergedConference,
+                                type: DuplicateType.NotOnlyGeneral
+                            });
+                        }
                     }
                 }
             }

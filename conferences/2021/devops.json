@@ -345,14 +345,6 @@
     "twitter": "@MicroservSummit"
   },
   {
-    "name": "DeepSource Next",
-    "url": "https://deepsource.io/next",
-    "startDate": "2021-06-08",
-    "endDate": "2021-06-08",
-    "online": true,
-    "twitter": "@DeepSourceHQ"
-  },
-  {
     "name": "Lead Dev London",
     "url": "https://theleaddeveloper.com/",
     "startDate": "2021-06-08",
@@ -829,15 +821,6 @@
     "twitter": "@ConLifecycle"
   },
   {
-    "name": "DeveloperWeek Austin",
-    "url": "https://www.developerweek.com/Austin",
-    "startDate": "2021-11-17",
-    "endDate": "2021-11-18",
-    "online": true,
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "twitter": "@DevWeekATX"
-  },
-  {
     "name": "DevOpsCon Singapore",
     "url": "https://devopscon.io/singapore",
     "startDate": "2021-11-22",
@@ -878,14 +861,5 @@
     "online": true,
     "cocUrl": "https://devopscon.io/code-of-conduct/",
     "twitter": "@devops_con"
-  },
-  {
-    "name": "MuleSoft Transform",
-    "url": "https://www.mulesoft.com/transform",
-    "startDate": "2021-12-07",
-    "endDate": "2021-12-09",
-    "online": true,
-    "offersSignLanguageOrCC": true,
-    "twitter": "@MuleSoft"
   }
 ]

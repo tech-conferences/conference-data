@@ -12,20 +12,6 @@
     "twitter": "@BeJS_"
   },
   {
-    "name": "Highload fwdays",
-    "url": "https://fwdays.com/en/event/highload-fwdays-2024",
-    "startDate": "2024-05-25",
-    "endDate": "2024-05-25",
-    "city": "Kyiv",
-    "country": "Ukraine",
-    "online": true,
-    "locales": "EN,UK",
-    "cocUrl": "https://docs.google.com/document/d/12o0ydKmKe6Jw_VgTZF3U6hmI7yzgo5poxXjDzKDLuDw/edit#heading=h.r7izboewrqur",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdAivIfn0qM5SSljDvshD48IRrAsKUg5-tlznG__PzDuDK12g/viewform",
-    "cfpEndDate": "2024-04-20",
-    "twitter": "@fwdays"
-  },
-  {
     "name": "Front End Performance Day",
     "url": "https://www.wearedevelopers.com/event/front-end-performance-day-june-2024",
     "startDate": "2024-06-05",
@@ -45,18 +31,6 @@
     "locales": "EN,DE",
     "cocUrl": "https://openui5.org/ui5con/germany2024/codeofconduct.html",
     "twitter": "@OpenUI5"
-  },
-  {
-    "name": "TechLead Conference",
-    "url": "https://techleadconf.com",
-    "startDate": "2024-06-15",
-    "endDate": "2024-06-19",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://portal.gitnation.org/coc",
-    "cfpUrl": "https://forms.gle/anQx9Ct7CsrrZwur9",
-    "cfpEndDate": "2024-03-31",
-    "twitter": "@TheTechLeadConf"
   },
   {
     "name": "Web Directions Code",
@@ -107,17 +81,6 @@
     "twitter": "@CSharpDotTV"
   },
   {
-    "name": "Festival of the Future",
-    "url": "https://festival.1e9.community/english",
-    "startDate": "2024-06-27",
-    "endDate": "2024-06-30",
-    "city": "Munich",
-    "country": "Germany",
-    "online": false,
-    "locales": "EN,DE",
-    "twitter": "@1E9tech"
-  },
-  {
     "name": "Software Architecture Conference",
     "url": "https://softwarearchitecture.live",
     "startDate": "2024-07-16",
@@ -140,15 +103,6 @@
     "cfpUrl": "https://forms.office.com/r/YjGJ0Xvp1q",
     "cfpEndDate": "2024-07-08",
     "twitter": "@csharpdottv"
-  },
-  {
-    "name": "betterCode() ArchDoc",
-    "url": "https://archdoc.bettercode.eu",
-    "startDate": "2024-09-30",
-    "endDate": "2024-09-30",
-    "online": true,
-    "locales": "DE",
-    "cocUrl": "https://archdoc.bettercode.eu/code_of_conduct.php"
   },
   {
     "name": "IDPCon",

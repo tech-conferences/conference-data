@@ -1,4 +1,5 @@
 export enum DuplicateType {
     Duplicate,
-    AlmostIdentical
+    AlmostIdentical,
+    NotOnlyGeneral
 }

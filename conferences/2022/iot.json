@@ -1,15 +1,5 @@
 [
   {
-    "name": "NVIDIA GTC",
-    "url": "https://www.nvidia.com/gtc",
-    "startDate": "2022-03-21",
-    "endDate": "2022-03-24",
-    "city": "San Jose, CA",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@NVIDIAGTC"
-  },
-  {
     "name": "IoT Forum Africa",
     "url": "https://itnewsafrica.com/events/event/iot-forum-africa-2022",
     "startDate": "2022-03-29",
@@ -56,26 +46,6 @@
     "cfpUrl": "https://www.buildingiot.de/cfp_en.php",
     "cfpEndDate": "2022-01-10",
     "twitter": "@building_iot"
-  },
-  {
-    "name": "QCon Plus Online Software Conference",
-    "url": "https://plus.qconferences.com",
-    "startDate": "2022-05-10",
-    "endDate": "2022-05-20",
-    "online": true,
-    "offersSignLanguageOrCC": true,
-    "twitter": "@QCon"
-  },
-  {
-    "name": "THAT Conference",
-    "url": "https://that.us/events/tx/2022",
-    "startDate": "2022-05-23",
-    "endDate": "2022-05-26",
-    "city": "Round Rock, TX",
-    "country": "U.S.A.",
-    "online": false,
-    "cocUrl": "https://that.us/support/code-of-conduct/",
-    "twitter": "@thatconference"
   },
   {
     "name": "Hardwear.io Security Trainings & Conference USA",
@@ -126,19 +96,6 @@
     "twitter": "@iotconf"
   },
   {
-    "name": "THAT Conference",
-    "url": "https://that.us/events/wi/2022",
-    "startDate": "2022-07-25",
-    "endDate": "2022-07-28",
-    "city": "Wisconsin Dells, WI",
-    "country": "U.S.A.",
-    "online": false,
-    "cocUrl": "https://that.us/support/code-of-conduct/",
-    "cfpUrl": "https://that.us/call-for-counselors/wi/2022",
-    "cfpEndDate": "2022-03-01",
-    "twitter": "@thatconference"
-  },
-  {
     "name": "FullStack eXchange",
     "url": "https://skillsmatter.com/conferences/13770-fullstack-exchange-2022",
     "startDate": "2022-07-27",
@@ -168,30 +125,6 @@
     "endDate": "2022-09-15",
     "online": true,
     "twitter": "@siliconlabs"
-  },
-  {
-    "name": "Infobip Shift",
-    "url": "https://shift.infobip.com",
-    "startDate": "2022-09-19",
-    "endDate": "2022-09-20",
-    "city": "Zadar",
-    "country": "Croatia",
-    "online": true,
-    "cocUrl": "https://shift.infobip.com/code/",
-    "cfpUrl": "https://sessionize.com/infobipshift",
-    "cfpEndDate": "2022-07-01",
-    "twitter": "@infobipshift"
-  },
-  {
-    "name": "JCON-ONLINE",
-    "url": "https://jcon.one",
-    "startDate": "2022-09-20",
-    "endDate": "2022-09-23",
-    "online": true,
-    "cocUrl": "https://2022.jcon.one/code-of-conduct",
-    "cfpUrl": "https://2022.jcon.one/call-for-papers",
-    "cfpEndDate": "2022-03-31",
-    "twitter": "@jcon_conference"
   },
   {
     "name": "Rethink! IT",
@@ -230,17 +163,6 @@
     "twitter": "@the_test_tribe"
   },
   {
-    "name": "AWS Pop Hub",
-    "url": "https://www.aws-hub.pl",
-    "startDate": "2022-10-10",
-    "endDate": "2022-10-14",
-    "city": "Warsaw",
-    "country": "Poland",
-    "online": false,
-    "offersSignLanguageOrCC": true,
-    "twitter": "@awscloud"
-  },
-  {
     "name": "MASCOTS 30th International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems",
     "url": "https://mascots.iitis.pl",
     "startDate": "2022-10-18",
@@ -273,16 +195,6 @@
     "twitter": "@eclipsecon"
   },
   {
-    "name": "Arm DevSummit",
-    "url": "https://devsummit.arm.com",
-    "startDate": "2022-10-26",
-    "endDate": "2022-10-27",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@Arm"
-  },
-  {
     "name": "CWIC: The Hyperconnected Human",
     "url": "https://www.cambridgewireless.co.uk/events/conferences/cwic",
     "startDate": "2022-11-02",
@@ -293,17 +205,6 @@
     "cfpUrl": "https://www.cambridgewireless.co.uk/events/conferences/cwic/cwic-call-speakers",
     "cfpEndDate": "2022-08-19",
     "twitter": "@CambWireless"
-  },
-  {
-    "name": "BUILD STUFF",
-    "url": "https://www.buildstuff.events",
-    "startDate": "2022-11-09",
-    "endDate": "2022-11-11",
-    "city": "Vilnius",
-    "country": "Lithuania",
-    "online": true,
-    "cocUrl": "https://www.buildstuff.events/code-of-conduct",
-    "twitter": "@BuildStuffConf"
   },
   {
     "name": "Update Conference Prague",

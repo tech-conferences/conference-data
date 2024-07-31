@@ -25,30 +25,6 @@
     "twitter": "@UNICOMSeminars"
   },
   {
-    "name": "Conf42 Chaos Engineering",
-    "url": "https://www.conf42.com/ce2023",
-    "startDate": "2023-02-16",
-    "endDate": "2023-02-16",
-    "online": true,
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "cfpUrl": "https://www.papercall.io/conf42-chaos-engineering-2023",
-    "cfpEndDate": "2023-01-16",
-    "twitter": "@conf42com"
-  },
-  {
-    "name": "ConFoo",
-    "url": "https://confoo.ca/en/2023",
-    "startDate": "2023-02-22",
-    "endDate": "2023-02-24",
-    "city": "Montreal",
-    "country": "Canada",
-    "online": false,
-    "cocUrl": "https://confoo.ca/en/code-of-conduct",
-    "cfpUrl": "https://confoo.ca/en/2023/call-for-papers",
-    "cfpEndDate": "2022-10-06",
-    "twitter": "@confooca"
-  },
-  {
     "name": "Testing, Agile, DevOps and Low code Showcase: Methods and Tools",
     "url": "https://www.unicomlearning.com/agile-devops-software-testing-conference/bengaluru-india-2023",
     "startDate": "2023-02-23",
@@ -93,16 +69,6 @@
     "cfpUrl": "https://forms.gle/63C6sSAbzFLFzpX17",
     "cfpEndDate": "2023-01-31",
     "twitter": "@appriseconf"
-  },
-  {
-    "name": "DevOps Midwest",
-    "url": "https://www.sketchdev.io/devopsmidwest",
-    "startDate": "2023-04-13",
-    "endDate": "2023-04-13",
-    "city": "St. Louis, MO",
-    "country": "U.S.A.",
-    "online": false,
-    "locales": "EN"
   },
   {
     "name": "InflectraCon",
@@ -150,17 +116,6 @@
     "locales": "EN",
     "cocUrl": "https://stareast.techwell.com/code-conduct",
     "twitter": "@TechWell"
-  },
-  {
-    "name": "Conf42 Site Reliability Engineering",
-    "url": "https://www.conf42.com/sre2023",
-    "startDate": "2023-05-04",
-    "endDate": "2023-05-04",
-    "online": true,
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "cfpUrl": "https://www.papercall.io/conf42-sre-2023",
-    "cfpEndDate": "2023-04-04",
-    "twitter": "@conf42com"
   },
   {
     "name": "SeaStar Quality Conference",
@@ -256,20 +211,6 @@
     "twitter": "@phpconference"
   },
   {
-    "name": "Software Quality Days",
-    "url": "https://www.software-quality-days.com",
-    "startDate": "2023-05-23",
-    "endDate": "2023-05-25",
-    "city": "Munich",
-    "country": "Germany",
-    "online": false,
-    "locales": "EN,DE",
-    "cocUrl": "https://www.software-quality-days.com/en/general-event-conditions",
-    "cfpUrl": "https://www.software-quality-days.com/en/lecturers/call-for-practical-papers",
-    "cfpEndDate": "2022-11-30",
-    "twitter": "@swqd"
-  },
-  {
     "name": "UXLx User Experience Lisbon",
     "url": "https://www.ux-lx.com",
     "startDate": "2023-05-23",
@@ -302,17 +243,6 @@
     "online": false,
     "cocUrl": "https://www.renderatl.com/codepolicy",
     "twitter": "@RenderATL"
-  },
-  {
-    "name": "Conf42 Observability",
-    "url": "https://www.conf42.com/obs2023",
-    "startDate": "2023-06-08",
-    "endDate": "2023-06-08",
-    "online": true,
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "cfpUrl": "https://www.papercall.io/conf42-observability-2023",
-    "cfpEndDate": "2023-05-08",
-    "twitter": "@conf42com"
   },
   {
     "name": "AgileTD Open Air",
@@ -504,17 +434,6 @@
     "online": false,
     "locales": "EN",
     "twitter": "@QATestBilbao"
-  },
-  {
-    "name": "Conf42 Incident Management",
-    "url": "https://www.conf42.com/im2023",
-    "startDate": "2023-10-19",
-    "endDate": "2023-10-19",
-    "online": true,
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "cfpUrl": "https://www.papercall.io/conf42-incident-management-2023",
-    "cfpEndDate": "2023-09-19",
-    "twitter": "@conf42com"
   },
   {
     "name": "TestCon Europe Conference",

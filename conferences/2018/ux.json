@@ -17,15 +17,6 @@
     "country": "France"
   },
   {
-    "name": "Smashing Conference",
-    "url": "https://smashingconf.com/london-2018",
-    "startDate": "2018-02-07",
-    "endDate": "2018-02-08",
-    "city": "London",
-    "country": "U.K.",
-    "twitter": "@smashingconf"
-  },
-  {
     "name": "Awwwards Berlin",
     "url": "https://conference.awwwards.com/berlin",
     "startDate": "2018-02-07",
@@ -93,15 +84,6 @@
     "cfpUrl": "https://2018.conc.at/#cfp",
     "cfpEndDate": "2017-12-01",
     "twitter": "@conc_at"
-  },
-  {
-    "name": "ConFoo Montreal",
-    "url": "https://confoo.ca/en/yul2018",
-    "startDate": "2018-03-07",
-    "endDate": "2018-03-09",
-    "city": "Montreal",
-    "country": "Canada",
-    "twitter": "@confooca"
   },
   {
     "name": "ACM IUI",
@@ -185,14 +167,6 @@
     "country": "Indonesia"
   },
   {
-    "name": "An Event Apart",
-    "url": "https://aneventapart.com/event/seattle-2018",
-    "startDate": "2018-04-02",
-    "endDate": "2018-04-04",
-    "city": "Seattle, WA",
-    "country": "U.S.A."
-  },
-  {
     "name": "Web Directions Design",
     "url": "http://webdirections.org/design",
     "startDate": "2018-04-11",
@@ -200,15 +174,6 @@
     "city": "Melbourne",
     "country": "Australia",
     "twitter": "@webdirections"
-  },
-  {
-    "name": "Smashing Conference",
-    "url": "https://smashingconf.com/sf-2018",
-    "startDate": "2018-04-17",
-    "endDate": "2018-04-18",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "twitter": "@smashingconf"
   },
   {
     "name": "CHI",
@@ -242,15 +207,6 @@
     "city": "Boston, MA",
     "country": "U.S.A.",
     "twitter": "@HOWbrand"
-  },
-  {
-    "name": "Beyond Tellerrand",
-    "url": "https://beyondtellerrand.com/events/duesseldorf-2018",
-    "startDate": "2018-05-07",
-    "endDate": "2018-05-09",
-    "city": "Düsseldorf",
-    "country": "Germany",
-    "twitter": "@btconf"
   },
   {
     "name": "UX+DEV Summit",
@@ -440,15 +396,6 @@
     "country": "Canada"
   },
   {
-    "name": "Smashing Conference",
-    "url": "https://smashingconf.com/toronto-2018",
-    "startDate": "2018-06-26",
-    "endDate": "2018-06-27",
-    "city": "Toronto",
-    "country": "Canada",
-    "twitter": "@smashingconf"
-  },
-  {
     "name": "UXPA",
     "url": "http://uxpa2018.org",
     "startDate": "2018-06-26",
@@ -487,15 +434,6 @@
     "cfpEndDate": "2018-03-04"
   },
   {
-    "name": "THAT Conference",
-    "url": "https://www.thatconference.com",
-    "startDate": "2018-08-06",
-    "endDate": "2018-08-08",
-    "city": "Wisconsin Dells, WI",
-    "country": "U.S.A.",
-    "twitter": "@ThatConference"
-  },
-  {
     "name": "UXWeek",
     "url": "http://uxweek.com",
     "startDate": "2018-08-21",
@@ -522,17 +460,6 @@
     "city": "Stockholm",
     "country": "Sweden",
     "twitter": "@nordicdesign"
-  },
-  {
-    "name": "Refresh",
-    "url": "http://refresh.rocks",
-    "startDate": "2018-09-07",
-    "endDate": "2018-09-07",
-    "city": "Tallinn",
-    "country": "Estonia",
-    "cfpUrl": "http://refresh.rocks/call-for-papers",
-    "cfpEndDate": "2018-02-18",
-    "twitter": "@REFRESHRocks"
   },
   {
     "name": "The UX Conference",
@@ -635,15 +562,6 @@
     "twitter": "@push_conf"
   },
   {
-    "name": "SmashingConf NY",
-    "url": "https://smashingconf.com/ny-2018",
-    "startDate": "2018-10-23",
-    "endDate": "2018-10-24",
-    "city": "New York, NY",
-    "country": "U.S.A.",
-    "twitter": "@smashingconf"
-  },
-  {
     "name": "Made By Few",
     "url": "https://madebyfew.com",
     "startDate": "2018-10-25",
@@ -671,15 +589,6 @@
     "twitter": "@DesignUpConf"
   },
   {
-    "name": "Web Directions Summit",
-    "url": "http://webdirections.org/wds",
-    "startDate": "2018-11-01",
-    "endDate": "2018-11-02",
-    "city": "Sydney",
-    "country": "Australia",
-    "twitter": "@webdirections"
-  },
-  {
     "name": "Accessibility Club",
     "url": "https://a11y.club",
     "startDate": "2018-11-05",
@@ -689,14 +598,6 @@
     "cfpUrl": "https://colloq.io/events/accessibility-club/2018/berlin/1/callforpapers",
     "cfpEndDate": "2018-07-01",
     "twitter": "@a11yclub"
-  },
-  {
-    "name": "Beyond Tellerrand",
-    "url": "https://beyondtellerrand.com/events/berlin-2018",
-    "startDate": "2018-11-05",
-    "endDate": "2018-11-08",
-    "city": "Berlin",
-    "country": "Germany"
   },
   {
     "name": "Design Systems London",

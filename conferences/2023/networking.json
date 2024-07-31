@@ -1,29 +1,5 @@
 [
   {
-    "name": "FOSS Backstage",
-    "url": "https://23.foss-backstage.de",
-    "startDate": "2023-03-13",
-    "endDate": "2023-03-14",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://23.foss-backstage.de/code-of-conduct/",
-    "twitter": "@fossbckstg"
-  },
-  {
-    "name": "Agile India",
-    "url": "https://2023.agileindia.org",
-    "startDate": "2023-03-15",
-    "endDate": "2023-03-19",
-    "city": "Bengaluru",
-    "country": "India",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://2023.agileindia.org/agile-india-values/",
-    "twitter": "@agileindia"
-  },
-  {
     "name": "International Space Convention",
     "url": "https://www.internationalspaceconvention.com",
     "startDate": "2023-03-16",
@@ -55,16 +31,6 @@
     "locales": "EN",
     "cfpUrl": "https://gnuradio-eu-23.sciencesconf.org/registration",
     "cfpEndDate": "2023-02-28"
-  },
-  {
-    "name": "Cloud Builders: Java Conf",
-    "url": "https://www.cloud-builders.tech",
-    "startDate": "2023-03-30",
-    "endDate": "2023-03-30",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://www.cloud-builders.tech/code-of-conduct",
-    "twitter": "@cloudbuildersua"
   },
   {
     "name": "Node Congress",
@@ -210,16 +176,6 @@
     "twitter": "@reactsummit"
   },
   {
-    "name": "Blockchain Community Day",
-    "url": "https://wearecommunity.io/events/blockchain-community-day-2023",
-    "startDate": "2023-06-06",
-    "endDate": "2023-06-09",
-    "online": true,
-    "locales": "EN",
-    "offersSignLanguageOrCC": true,
-    "twitter": "@BlockchainProfs"
-  },
-  {
     "name": "AgileTD Open Air",
     "url": "https://openair.agiletestingdays.com",
     "startDate": "2023-06-13",
@@ -269,18 +225,6 @@
     "twitter": "@jcon_conference"
   },
   {
-    "name": "StaffPlus",
-    "url": "https://leaddev.com/staffplus-london",
-    "startDate": "2023-06-27",
-    "endDate": "2023-06-28",
-    "city": "London",
-    "country": "U.K.",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://leaddev.com/code-conduct",
-    "twitter": "@theleaddev"
-  },
-  {
     "name": "Festival of the Future",
     "url": "https://festivalderzukunft.com/EN",
     "startDate": "2023-07-06",
@@ -292,18 +236,6 @@
     "twitter": "@1E9tech"
   },
   {
-    "name": "NZ Tech Rally",
-    "url": "https://nztechrally.com",
-    "startDate": "2023-07-07",
-    "endDate": "2023-07-07",
-    "city": "Wellington",
-    "country": "New Zealand",
-    "online": false,
-    "locales": "EN",
-    "offersSignLanguageOrCC": true,
-    "twitter": "@NZTechRally"
-  },
-  {
     "name": "Nomad City Conference",
     "url": "https://www.nomadcity.org/nomad-city-festival-2023",
     "startDate": "2023-07-22",
@@ -313,68 +245,6 @@
     "online": false,
     "locales": "EN",
     "twitter": "@nomadcityGC"
-  },
-  {
-    "name": "THAT Conference Wisconsin",
-    "url": "https://that.us/events/wi/2023",
-    "startDate": "2023-07-24",
-    "endDate": "2023-07-27",
-    "city": "Wisconsin Dells, WI",
-    "country": "U.S.A.",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://that.us/support/code-of-conduct/",
-    "cfpUrl": "https://that.us/call-for-counselors/wi/2023",
-    "cfpEndDate": "2023-03-01",
-    "twitter": "@thatconference"
-  },
-  {
-    "name": "WeAreDevelopers World Congress",
-    "url": "https://www.wearedevelopers.com/world-congress",
-    "startDate": "2023-07-27",
-    "endDate": "2023-07-28",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form.",
-    "cfpUrl": "https://sessionize.com/wearedevelopers-worldcongress23",
-    "cfpEndDate": "2023-07-19",
-    "twitter": "@WeAreDevs"
-  },
-  {
-    "name": "Frontinsampa + Code In The Dark Brasil",
-    "url": "https://frontinsampa.com.br/pt-br",
-    "startDate": "2023-07-29",
-    "endDate": "2023-07-29",
-    "city": "São Paulo",
-    "country": "Brazil",
-    "online": false,
-    "locales": "PT",
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://pt-br.confcodeofconduct.com/",
-    "twitter": "@frontinsp"
-  },
-  {
-    "name": "Techsauce Global Summit",
-    "url": "https://summit.techsauce.co",
-    "startDate": "2023-08-16",
-    "endDate": "2023-08-17",
-    "city": "Bangkok",
-    "country": "Thailand",
-    "online": false,
-    "locales": "EN,TH",
-    "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "Outland",
-    "url": "https://outland.sh",
-    "startDate": "2023-08-26",
-    "endDate": "2023-08-26",
-    "city": "Palm Springs, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "locales": "EN"
   },
   {
     "name": "SpiceWorld",
@@ -533,20 +403,6 @@
     "cocUrl": "https://conference.ctocraft.com/november-2023/code-of-conduct/"
   },
   {
-    "name": "Scale By The Bay",
-    "url": "https://www.scale.bythebay.io",
-    "startDate": "2023-11-13",
-    "endDate": "2023-11-15",
-    "city": "Oakland, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://github.com/bythebay/policies/blob/master/citizen_code_of_conduct.md",
-    "cfpUrl": "https://www.scale.bythebay.io/cfp",
-    "cfpEndDate": "2023-05-14",
-    "twitter": "@ScaleByTheBay"
-  },
-  {
     "name": "Build Stuff",
     "url": "https://www.buildstuff.events",
     "startDate": "2023-11-15",
@@ -559,20 +415,6 @@
     "cfpUrl": "https://www.buildstuff.events/cfp",
     "cfpEndDate": "2023-07-02",
     "twitter": "@BuildStuffConf"
-  },
-  {
-    "name": "Italian Agile Days",
-    "url": "https://www.agileday.it",
-    "startDate": "2023-11-17",
-    "endDate": "2023-11-18",
-    "city": "Milano",
-    "country": "Italy",
-    "online": false,
-    "locales": "IT,EN",
-    "cocUrl": "https://www.agileday.it/",
-    "cfpUrl": "https://sessionize.com/italian-agile-days-2023",
-    "cfpEndDate": "2023-07-31",
-    "twitter": "@agileday"
   },
   {
     "name": "Open Source Cloud Strategies and Solutions",
@@ -622,18 +464,5 @@
     "locales": "DE",
     "cocUrl": "https://mad-summit.de/code-of-conduct/",
     "twitter": "@mad_summit"
-  },
-  {
-    "name": "Open Source Experience",
-    "url": "https://www.opensource-experience.com",
-    "startDate": "2023-12-06",
-    "endDate": "2023-12-07",
-    "city": "Paris",
-    "country": "France",
-    "online": false,
-    "locales": "FR",
-    "cfpUrl": "https://sessionize.com/open-source-experience-2023",
-    "cfpEndDate": "2023-06-25",
-    "twitter": "@OSXP_Paris"
   }
 ]

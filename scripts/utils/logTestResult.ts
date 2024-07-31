@@ -58,10 +58,18 @@ export default function logTestResult(testResult: TestResult) {
             duplicateErrorMessages.push(`  File: ${fileName}:${lineNumber}`);
         }
     }
+    function getDuplicateDescription(type: DuplicateType) {
+        switch (type) {
+            case DuplicateType.Duplicate:
+                return 'duplicate conferences';
+            case DuplicateType.AlmostIdentical:
+                return 'almost identical conferences';
+            case DuplicateType.NotOnlyGeneral:
+                return 'general conference with other stack';
+        }
+    }
     for (const duplicateError of testResult.duplicateErrors) {
-        duplicateErrorMessages.push(
-            `Error: Found ${duplicateError.type == DuplicateType.Duplicate ? 'duplicate' : 'almost identical'} conference: ${duplicateError.conference.name}`
-        );
+        duplicateErrorMessages.push(`Error: Found ${getDuplicateDescription(duplicateError.type)}: ${duplicateError.conference.name}`);
         logDuplicateFileName(duplicateError.conference);
         logDuplicateFileName(duplicateError.duplicate);
         logDifferences(duplicateError.conference, duplicateError.duplicate);

@@ -30,20 +30,6 @@
     "cfpEndDate": "2024-01-06"
   },
   {
-    "name": "Civo Navigate North America",
-    "url": "https://www.civo.com/navigate/north-america",
-    "startDate": "2024-02-20",
-    "endDate": "2024-02-21",
-    "city": "Austin, TX",
-    "country": "U.S.A.",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://www.civo.com/navigate/code-of-conduct",
-    "cfpUrl": "https://sessionize.com/civo-navigate-austin",
-    "cfpEndDate": "2023-09-29",
-    "twitter": "@civocloud"
-  },
-  {
     "name": "Generative AI for Marketing Summit",
     "url": "https://www.aidataanalytics.network/events-generative-ai-for-marketing",
     "startDate": "2024-02-27",
@@ -227,20 +213,6 @@
     "cfpUrl": "https://aka.ms/AzureCosmosDBConf24CFP",
     "cfpEndDate": "2024-02-15",
     "twitter": "@AzureCosmosDB"
-  },
-  {
-    "name": "Navigate Local Tampa",
-    "url": "https://www.civo.com/navigate/local-tampa-2024",
-    "startDate": "2024-04-16",
-    "endDate": "2024-04-16",
-    "city": "Tampa, FL",
-    "country": "U.S.A.",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://www.civo.com/navigate/code-of-conduct",
-    "cfpUrl": "https://sessionize.com/civo-navigate-local-tampa-2024",
-    "cfpEndDate": "2024-02-11",
-    "twitter": "@CivoCloud"
   },
   {
     "name": "Devoxx Greece",
@@ -669,17 +641,6 @@
     "mastodon": "@Swiss_PGDay@fosstodon.org"
   },
   {
-    "name": "Festival of the Future",
-    "url": "https://festival.1e9.community/english",
-    "startDate": "2024-06-27",
-    "endDate": "2024-06-30",
-    "city": "Munich",
-    "country": "Germany",
-    "online": false,
-    "locales": "EN,DE",
-    "twitter": "@1E9tech"
-  },
-  {
     "name": "Mirai - AI Tech Event",
     "url": "https://mirai.events",
     "startDate": "2024-07-05",
@@ -780,18 +741,6 @@
     "twitter": "@Ai4Conferences"
   },
   {
-    "name": "Blockchain Futurist Conference",
-    "url": "https://futuristconference.com",
-    "startDate": "2024-08-13",
-    "endDate": "2024-08-14",
-    "city": "Toronto",
-    "country": "Canada",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://www.futuristconference.com/code-of-conduct",
-    "twitter": "@Futurist_Conf"
-  },
-  {
     "name": "AI Showcase",
     "url": "https://sfai.vercel.app",
     "startDate": "2024-08-16",
@@ -811,16 +760,6 @@
     "online": false,
     "locales": "EN",
     "twitter": "@CoriniumGlobal"
-  },
-  {
-    "name": "Platzi Conf",
-    "url": "https://platzi.com/conf",
-    "startDate": "2024-09-07",
-    "endDate": "2024-09-07",
-    "city": "Bogotá",
-    "country": "Colombia",
-    "online": false,
-    "locales": "ES"
   },
   {
     "name": "CDAO Brazil",
@@ -945,17 +884,6 @@
     "online": false,
     "locales": "EN",
     "twitter": "@apacdata2030"
-  },
-  {
-    "name": "TechHeads Conference",
-    "url": "https://techheads.se",
-    "startDate": "2024-09-24",
-    "endDate": "2024-09-24",
-    "city": "Kalmar",
-    "country": "Sweden",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://techheads.se/code-of-conduct/"
   },
   {
     "name": "hayaData",
@@ -1304,17 +1232,6 @@
     "locales": "EN",
     "cocUrl": "https://www.updateconference.net/en/code-of-conduct",
     "twitter": "@update_conf"
-  },
-  {
-    "name": "Live! 360",
-    "url": "https://live360events.com/Events/Orlando-2024",
-    "startDate": "2024-11-17",
-    "endDate": "2024-11-22",
-    "city": "Orlando, FL",
-    "country": "U.S.A.",
-    "online": false,
-    "locales": "EN",
-    "twitter": "@Live360events"
   },
   {
     "name": "CDAO Nordics",

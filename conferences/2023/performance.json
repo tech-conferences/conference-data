@@ -10,19 +10,6 @@
     "twitter": "@enterjsconf"
   },
   {
-    "name": "ConFoo",
-    "url": "https://confoo.ca/en/2023",
-    "startDate": "2023-02-22",
-    "endDate": "2023-02-24",
-    "city": "Montreal",
-    "country": "Canada",
-    "online": false,
-    "cocUrl": "https://confoo.ca/en/code-of-conduct",
-    "cfpUrl": "https://confoo.ca/en/2023/call-for-papers",
-    "cfpEndDate": "2022-10-06",
-    "twitter": "@confooca"
-  },
-  {
     "name": "LevelUp",
     "url": "https://clickup.com/events/levelup",
     "startDate": "2023-02-28",
@@ -55,19 +42,6 @@
     "cfpUrl": "https://www.usenix.org/conference/srecon23americas/call-for-participation",
     "cfpEndDate": "2022-12-01",
     "twitter": "@srecon"
-  },
-  {
-    "name": "Wasm I/O",
-    "url": "https://wasmio.tech",
-    "startDate": "2023-03-23",
-    "endDate": "2023-03-24",
-    "city": "Barcelona",
-    "country": "Spain",
-    "online": false,
-    "cocUrl": "https://wasmio.tech/coc",
-    "cfpUrl": "https://www.papercall.io/wasmio23",
-    "cfpEndDate": "2023-01-17",
-    "twitter": "@wasm_io"
   },
   {
     "name": "Open Source Day",
@@ -247,19 +221,6 @@
     "twitter": "@gsas_io"
   },
   {
-    "name": "P99 CONF",
-    "url": "https://www.p99conf.io",
-    "startDate": "2023-10-18",
-    "endDate": "2023-10-19",
-    "online": true,
-    "locales": "EN",
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://www.p99conf.io/code-of-conduct/",
-    "cfpUrl": "https://sessionize.com/p99-conf-2023",
-    "cfpEndDate": "2023-05-12",
-    "twitter": "@p99conf"
-  },
-  {
     "name": "AI DevWorld",
     "url": "https://aidevworld.com",
     "startDate": "2023-10-24",
@@ -287,18 +248,5 @@
     "cfpUrl": "https://webdirections.org/speaking",
     "cfpEndDate": "2023-05-31",
     "twitter": "@webdirections"
-  },
-  {
-    "name": "Open Source Experience",
-    "url": "https://www.opensource-experience.com",
-    "startDate": "2023-12-06",
-    "endDate": "2023-12-07",
-    "city": "Paris",
-    "country": "France",
-    "online": false,
-    "locales": "FR",
-    "cfpUrl": "https://sessionize.com/open-source-experience-2023",
-    "cfpEndDate": "2023-06-25",
-    "twitter": "@OSXP_Paris"
   }
 ]
