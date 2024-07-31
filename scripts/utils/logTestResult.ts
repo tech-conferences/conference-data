@@ -5,6 +5,7 @@ import { TestResult } from './TestResult';
 import { ErrorDetail } from './ErrorDetail';
 import { MergedConference } from './MergedConference';
 import findLineNumber from './findLineNumber';
+import { Conference } from './Conference';
 
 export default function logTestResult(testResult: TestResult) {
     const allErrors: ErrorDetail[] = [];
@@ -37,19 +38,30 @@ export default function logTestResult(testResult: TestResult) {
     }
 
     const duplicateErrorMessages: string[] = [];
-    function logDuplicateError(conference: MergedConference, duplicateLabel: string) {
-        duplicateErrorMessages.push(`${duplicateLabel}: "${conference.name}" from ${conference.startDate} to ${conference.endDate} Stacks: ${conference.stacks}`);
-        duplicateErrorMessages.push(`URL: ${conference.url}`);
+    function logDifferences(conference: Conference, duplicate: Conference) {
+        for (const field of Object.keys(conference)) {
+            if (field == 'startDateParsed' || field == 'stacks' || field == 'endDateParsed' || field == 'cfpEndDateParsed') {
+                continue;
+            }
+            const value = conference[field as keyof Conference];
+            const duplicateValue = duplicate[field as keyof Conference];
+            if (value !== duplicateValue) {
+                duplicateErrorMessages.push(`  Difference in field ${field}: "${value}" vs "${duplicateValue}"`);
+            }
+        }
+    }
+    function logDuplicateFileName(conference: MergedConference) {
         for (const stack of conference.stacks) {
             const fileName = `conferences/${conference.startDateParsed.getFullYear()}/${stack}.json`;
             const lineNumber = findLineNumber(conference, 'name', fileName);
-            duplicateErrorMessages.push(`File: ${fileName}:${lineNumber}`);
+            duplicateErrorMessages.push(`  File: ${fileName}:${lineNumber}`);
         }
     }
     for (const duplicateError of testResult.duplicateErrors) {
-        duplicateErrorMessages.push(`Error: Found duplicate conference`);
-        logDuplicateError(duplicateError.conference, 'Conference');
-        logDuplicateError(duplicateError.duplicate, 'Duplicate');
+        duplicateErrorMessages.push(`Error: Found duplicate conference: ${duplicateError.conference.name}`);
+        logDuplicateFileName(duplicateError.conference);
+        logDuplicateFileName(duplicateError.duplicate);
+        logDifferences(duplicateError.conference, duplicateError.duplicate);
     }
     for (const duplicateErrorMessage of duplicateErrorMessages) {
         console.log(chalk.red.bold(duplicateErrorMessage));
