@@ -2,7 +2,6 @@ import mergedConferencesReader from './utils/mergedConferencesReader';
 import checkConference from './utils/checkConference';
 import logTestResult from './utils/logTestResult';
 import findLineNumber from './utils/findLineNumber';
-import { DuplicateError } from './utils/DuplicateError';
 import { Conference } from './utils/Conference';
 import { AssertField } from './utils/AssertField';
 import { TestResult } from './utils/TestResult';
@@ -15,6 +14,7 @@ const mergedConferences = mergedConferencesReader();
 
 const testResult: TestResult = {
     errors: {},
+    duplicateErrors: mergedConferences.duplicateErrors,
     conferenceCounter: 0
 };
 
@@ -51,23 +51,6 @@ for (const year of Object.keys(mergedConferences.conferences)) {
         }
     }
     testResult.conferenceCounter += conferences.length;
-
-    if (mergedConferences.errors[year]) {
-        const errorsOfYear = mergedConferences.errors[year];
-        function reportDuplicate(error: DuplicateError, message: string) {
-            const duplicateConference = error.otherConference;
-            reportError(year, error.stack, duplicateConference, 'name', duplicateConference.name, message);
-            for (const stack of error.conference.stacks) {
-                reportError(year, stack, error.conference, 'name', duplicateConference.name, message);
-            }
-        }
-        for (const duplicate of errorsOfYear.duplicates) {
-            reportDuplicate(duplicate, 'Found duplicate conference');
-        }
-        for (const almostIdentical of errorsOfYear.almostIdentical) {
-            reportDuplicate(almostIdentical, 'Found almost identical conference');
-        }
-    }
 }
 
 logTestResult(testResult);

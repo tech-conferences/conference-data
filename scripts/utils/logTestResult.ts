@@ -3,6 +3,8 @@ import commentPullRequest from './commentPullRequest';
 import { sortBy, uniqWith, isEqual } from 'lodash';
 import { TestResult } from './TestResult';
 import { ErrorDetail } from './ErrorDetail';
+import { MergedConference } from './MergedConference';
+import findLineNumber from './findLineNumber';
 
 export default function logTestResult(testResult: TestResult) {
     const allErrors: ErrorDetail[] = [];
@@ -34,11 +36,31 @@ export default function logTestResult(testResult: TestResult) {
         }
     }
 
-    if (allErrors.length !== 0) {
-        console.log(chalk.red('Tests failed'));
+    const duplicateErrorMessages: string[] = [];
+    function logDuplicateError(conference: MergedConference, duplicateLabel: string) {
+        duplicateErrorMessages.push(
+            `${duplicateLabel}: "${conference.name}" from ${conference.startDate} to ${conference.endDate} URL: ${conference.url} Stacks: ${conference.stacks}`
+        );
+        for (const stack of conference.stacks) {
+            const fileName = `conferences/${conference.startDateParsed.getFullYear()}/${stack}.json`;
+            const lineNumber = findLineNumber(conference, 'name', fileName);
+            duplicateErrorMessages.push(`- ${fileName}:${lineNumber}`);
+        }
+    }
+    for (const duplicateError of testResult.duplicateErrors) {
+        duplicateErrorMessages.push(`Error: Found duplicate conference`);
+        logDuplicateError(duplicateError.conference, 'Conference');
+        logDuplicateError(duplicateError.duplicate, 'Duplicate');
+    }
+    for (const duplicateErrorMessage of duplicateErrorMessages) {
+        console.log(chalk.red.bold(duplicateErrorMessage));
+    }
+
+    if (allErrors.length !== 0 || testResult.duplicateErrors.length !== 0) {
+        console.log(chalk.red.bold('Error: Tests failed'));
         const token = process.env['GITHUB_TOKEN'];
         if (token) {
-            commentPullRequest(token, allErrors);
+            commentPullRequest(token, allErrors, duplicateErrorMessages);
         } else {
             process.exitCode = 1;
             process.exit(1);
