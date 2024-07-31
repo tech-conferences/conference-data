@@ -3,19 +3,17 @@ import { stringSimilarity } from 'string-similarity-js';
 import { parse, differenceInDays } from 'date-fns';
 import { Conference } from './Conference';
 import { MergedConference } from './MergedConference';
-import { DuplicateErrors } from './DuplicateErrors';
 import { DuplicateError } from './DuplicateError';
+import { DuplicateType } from './DuplicateType';
 
 export default function mergedConferencesReader() {
     const conferencesJSON = conferenceReader(false);
     const mergedConferences: { [key: string]: MergedConference[] } = {};
 
-    const errors: { [key: string]: DuplicateErrors } = {};
+    const duplicateErrors: DuplicateError[] = [];
     const dateFormat = 'yyyy-MM-dd';
     for (const year of Object.keys(conferencesJSON)) {
         const confsOfYear: { [key: string]: MergedConference } = {};
-        const almostIdentical: DuplicateError[] = [];
-        const duplicates: DuplicateError[] = [];
         function getBaseUrl(conference: Conference) {
             const url = new URL(conference.url);
             return url.origin.replace('www.', '').replace('https://', '').replace('http://', '');
@@ -79,28 +77,27 @@ export default function mergedConferencesReader() {
                     startDateParsed: parse(conference.startDate, dateFormat, new Date()),
                     endDateParsed: parse(conference.endDate, dateFormat, new Date()),
                     cfpEndDateParsed: conference.cfpEndDate ? parse(conference.cfpEndDate, dateFormat, new Date()) : undefined,
-                    stacks: []
+                    stacks: [stack]
                 };
                 const key = `${createSimpleUrl(conference)}-${conference.city || ''}-${conference.startDate.slice(0, 7)}`;
                 if (!confsOfYear[key]) {
                     const almostIdenticalConf = hasAlmostIdentical(mergedConference);
                     if (almostIdenticalConf) {
-                        almostIdentical.push({
+                        duplicateErrors.push({
                             conference: almostIdenticalConf,
-                            otherConference: conference,
-                            stack: stack
+                            duplicate: mergedConference,
+                            type: DuplicateType.AlmostIdentical
                         });
                     } else {
-                        mergedConference.stacks.push(stack);
                         confsOfYear[key] = mergedConference;
                     }
                 } else {
                     const existingConf = confsOfYear[key];
                     if (existingConf.stacks.indexOf(stack) !== -1) {
-                        duplicates.push({
+                        duplicateErrors.push({
                             conference: existingConf,
-                            otherConference: conference,
-                            stack: stack
+                            duplicate: mergedConference,
+                            type: DuplicateType.Duplicate
                         });
                     } else if (
                         existingConf.startDate !== conference.startDate ||
@@ -110,10 +107,10 @@ export default function mergedConferencesReader() {
                         existingConf.twitter !== conference.twitter
                     ) {
                         if (!(existingConf.startDate > conference.endDate || conference.startDate > existingConf.endDate)) {
-                            almostIdentical.push({
+                            duplicateErrors.push({
                                 conference: existingConf,
-                                otherConference: conference,
-                                stack: stack
+                                duplicate: mergedConference,
+                                type: DuplicateType.AlmostIdentical
                             });
                         }
                     } else {
@@ -123,15 +120,9 @@ export default function mergedConferencesReader() {
             }
         }
         mergedConferences[year] = Object.values(confsOfYear);
-        if (almostIdentical.length !== 0 || duplicates.length !== 0) {
-            errors[year] = {
-                almostIdentical: almostIdentical,
-                duplicates: duplicates
-            };
-        }
     }
     return {
         conferences: mergedConferences,
-        errors: errors
+        duplicateErrors: duplicateErrors
     };
 }

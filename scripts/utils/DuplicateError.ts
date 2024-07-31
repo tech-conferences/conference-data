@@ -1,8 +1,8 @@
-import { Conference } from './Conference';
+import { DuplicateType } from './DuplicateType';
 import { MergedConference } from './MergedConference';
 
 export interface DuplicateError {
     conference: MergedConference;
-    otherConference: Conference;
-    stack: string;
+    duplicate: MergedConference;
+    type: DuplicateType;
 }
