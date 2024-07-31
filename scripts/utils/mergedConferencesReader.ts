@@ -6,6 +6,20 @@ import { MergedConference } from './MergedConference';
 import { DuplicateError } from './DuplicateError';
 import { DuplicateType } from './DuplicateType';
 
+function isIdentical(conference: MergedConference, other: MergedConference) {
+    for (const field of Object.keys(conference)) {
+        if (field == 'startDateParsed' || field == 'stacks' || field == 'endDateParsed' || field == 'cfpEndDateParsed') {
+            continue;
+        }
+        const value = conference[field as keyof Conference];
+        const otherValue = other[field as keyof Conference];
+        if (value !== otherValue) {
+            return false;
+        }
+    }
+    return true;
+}
+
 export default function mergedConferencesReader() {
     const conferencesJSON = conferenceReader(false);
     const mergedConferences: { [key: string]: MergedConference[] } = {};
@@ -35,9 +49,8 @@ export default function mergedConferencesReader() {
             const confSimpleUrl = createSimpleUrl(conference);
             for (const confOfYearObjectKey of Object.keys(confsOfYear)) {
                 const confOfYear = confsOfYear[confOfYearObjectKey];
-                const confOfYearKey = createConferenceKey(confOfYear);
                 const daysDiff = Math.abs(differenceInDays(conference.startDateParsed, confOfYear.startDateParsed));
-                if (daysDiff > 10) {
+                if (daysDiff > 15) {
                     continue;
                 }
                 const oneConfIsOnline = (conference.city && !confOfYear.city) || (!conference.city && confOfYear.city);
@@ -58,8 +71,9 @@ export default function mergedConferencesReader() {
                     console.log(`Name similarity of ${conference.name} and ${confOfYear.name} is ${nameSimilarity}`);
                     return confOfYear;
                 }
+                const confOfYearKey = createConferenceKey(confOfYear);
                 const similarity = stringSimilarity(confKey, confOfYearKey);
-                if (similarity > 0.78) {
+                if (similarity > 0.81) {
                     console.log(`Similarity of ${confKey} and ${confOfYearKey} is ${similarity}`);
                     return confOfYear;
                 }
@@ -99,20 +113,12 @@ export default function mergedConferencesReader() {
                             duplicate: mergedConference,
                             type: DuplicateType.Duplicate
                         });
-                    } else if (
-                        existingConf.startDate !== conference.startDate ||
-                        existingConf.endDate !== conference.endDate ||
-                        existingConf.name !== conference.name ||
-                        existingConf.url !== conference.url ||
-                        existingConf.twitter !== conference.twitter
-                    ) {
-                        if (!(existingConf.startDate > conference.endDate || conference.startDate > existingConf.endDate)) {
-                            duplicateErrors.push({
-                                conference: existingConf,
-                                duplicate: mergedConference,
-                                type: DuplicateType.AlmostIdentical
-                            });
-                        }
+                    } else if (!isIdentical(existingConf, mergedConference)) {
+                        duplicateErrors.push({
+                            conference: existingConf,
+                            duplicate: mergedConference,
+                            type: DuplicateType.AlmostIdentical
+                        });
                     } else {
                         existingConf.stacks.push(stack);
                     }
