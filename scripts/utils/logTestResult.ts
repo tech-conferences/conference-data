@@ -6,6 +6,7 @@ import { ErrorDetail } from './ErrorDetail';
 import { MergedConference } from './MergedConference';
 import findLineNumber from './findLineNumber';
 import { Conference } from './Conference';
+import { DuplicateType } from './DuplicateType';
 
 export default function logTestResult(testResult: TestResult) {
     const allErrors: ErrorDetail[] = [];
@@ -58,7 +59,9 @@ export default function logTestResult(testResult: TestResult) {
         }
     }
     for (const duplicateError of testResult.duplicateErrors) {
-        duplicateErrorMessages.push(`Error: Found duplicate conference: ${duplicateError.conference.name}`);
+        duplicateErrorMessages.push(
+            `Error: Found ${duplicateError.type == DuplicateType.Duplicate ? 'duplicate' : 'almost identical'} conference: ${duplicateError.conference.name}`
+        );
         logDuplicateFileName(duplicateError.conference);
         logDuplicateFileName(duplicateError.duplicate);
         logDifferences(duplicateError.conference, duplicateError.duplicate);
