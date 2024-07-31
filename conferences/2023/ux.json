@@ -23,19 +23,6 @@
     "twitter": "@uxnewzealand"
   },
   {
-    "name": "ConFoo",
-    "url": "https://confoo.ca/en/2023",
-    "startDate": "2023-02-22",
-    "endDate": "2023-02-24",
-    "city": "Montreal",
-    "country": "Canada",
-    "online": false,
-    "cocUrl": "https://confoo.ca/en/code-of-conduct",
-    "cfpUrl": "https://confoo.ca/en/2023/call-for-papers",
-    "cfpEndDate": "2022-10-06",
-    "twitter": "@confooca"
-  },
-  {
     "name": "Frontrunners",
     "url": "https://frontrunners.tech",
     "startDate": "2023-03-10",
@@ -288,21 +275,6 @@
     "online": true,
     "locales": "EN",
     "cocUrl": "https://designmatters.wpress.dk/dm23/wp-content/uploads/sites/18/2022/12/Code-of-Conduct.pdf"
-  },
-  {
-    "name": "Paris Web",
-    "url": "https://www.paris-web.fr",
-    "startDate": "2023-09-28",
-    "endDate": "2023-09-30",
-    "city": "Paris",
-    "country": "France",
-    "online": false,
-    "locales": "FR",
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://www.paris-web.fr/code-de-conduite.php",
-    "cfpUrl": "https://appel.paris-web.fr",
-    "cfpEndDate": "2023-04-09",
-    "twitter": "@parisweb"
   },
   {
     "name": "Compass Tech Summit",

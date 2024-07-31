@@ -1,32 +1,5 @@
 [
   {
-    "name": "OpenEmbedded Workshop",
-    "url": "https://pretalx.com/openembedded-workshop-2023",
-    "startDate": "2023-02-06",
-    "endDate": "2023-02-06",
-    "city": "Brussels",
-    "country": "Belgium",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://www.openembedded.org/wiki/Code_of_Conduct",
-    "cfpUrl": "https://pretalx.com/openembedded-workshop-2023/cfp",
-    "cfpEndDate": "2022-12-15",
-    "twitter": "@OpenEmbeddedOrg"
-  },
-  {
-    "name": "ConFoo",
-    "url": "https://confoo.ca/en/2023",
-    "startDate": "2023-02-22",
-    "endDate": "2023-02-24",
-    "city": "Montreal",
-    "country": "Canada",
-    "online": false,
-    "cocUrl": "https://confoo.ca/en/code-of-conduct",
-    "cfpUrl": "https://confoo.ca/en/2023/call-for-papers",
-    "cfpEndDate": "2022-10-06",
-    "twitter": "@confooca"
-  },
-  {
     "name": "Reinforce AI Conference",
     "url": "https://reinforceconf.com/2023",
     "startDate": "2023-03-06",
@@ -36,19 +9,6 @@
     "online": true,
     "locales": "EN",
     "twitter": "@reinforceconf"
-  },
-  {
-    "name": "Wasm I/O",
-    "url": "https://wasmio.tech",
-    "startDate": "2023-03-23",
-    "endDate": "2023-03-24",
-    "city": "Barcelona",
-    "country": "Spain",
-    "online": false,
-    "cocUrl": "https://wasmio.tech/coc",
-    "cfpUrl": "https://www.papercall.io/wasmio23",
-    "cfpEndDate": "2023-01-17",
-    "twitter": "@wasm_io"
   },
   {
     "name": "building IoT",
@@ -63,19 +23,6 @@
     "cfpUrl": "https://www.buildingiot.de/cfp_en.php",
     "cfpEndDate": "2022-12-12",
     "twitter": "@building_iot"
-  },
-  {
-    "name": "MTUG I.T. Summit and Tradeshow",
-    "url": "https://www.mtug.org/techsummit",
-    "startDate": "2023-05-04",
-    "endDate": "2023-05-04",
-    "city": "Portland, ME",
-    "country": "U.S.A.",
-    "online": false,
-    "locales": "EN",
-    "cfpUrl": "https://www.mtug.org/workshopRFP-summit",
-    "cfpEndDate": "2023-03-03",
-    "twitter": "@MTUG_Maine"
   },
   {
     "name": "Hardwear.io USA",

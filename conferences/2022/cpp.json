@@ -1,15 +1,5 @@
 [
   {
-    "name": "NVIDIA GTC",
-    "url": "https://www.nvidia.com/gtc",
-    "startDate": "2022-03-21",
-    "endDate": "2022-03-24",
-    "city": "San Jose, CA",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@NVIDIAGTC"
-  },
-  {
     "name": "C++ Now",
     "url": "https://cppnow.org",
     "startDate": "2022-05-01",
@@ -41,16 +31,5 @@
     "online": false,
     "cocUrl": "https://cppnorth.ca/code-of-conduct.html",
     "twitter": "@cppnorth"
-  },
-  {
-    "name": "BUILD STUFF",
-    "url": "https://www.buildstuff.events",
-    "startDate": "2022-11-09",
-    "endDate": "2022-11-11",
-    "city": "Vilnius",
-    "country": "Lithuania",
-    "online": true,
-    "cocUrl": "https://www.buildstuff.events/code-of-conduct",
-    "twitter": "@BuildStuffConf"
   }
 ]

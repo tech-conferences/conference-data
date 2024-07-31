@@ -1,15 +1,5 @@
 [
   {
-    "name": "NVIDIA GTC",
-    "url": "https://www.nvidia.com/gtc",
-    "startDate": "2022-03-21",
-    "endDate": "2022-03-24",
-    "city": "San Jose, CA",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@NVIDIAGTC"
-  },
-  {
     "name": "QCon London",
     "url": "https://qconlondon.com",
     "startDate": "2022-04-04",
@@ -57,15 +47,6 @@
     "twitter": "@pushconf"
   },
   {
-    "name": "QCon Plus Online Software Conference",
-    "url": "https://plus.qconferences.com",
-    "startDate": "2022-05-10",
-    "endDate": "2022-05-20",
-    "online": true,
-    "offersSignLanguageOrCC": true,
-    "twitter": "@QCon"
-  },
-  {
     "name": "ProductCamp",
     "url": "https://www.productcamp.pl",
     "startDate": "2022-06-02",
@@ -97,19 +78,6 @@
     "twitter": "@ProductElev8n"
   },
   {
-    "name": "Infobip Shift",
-    "url": "https://shift.infobip.com",
-    "startDate": "2022-09-19",
-    "endDate": "2022-09-20",
-    "city": "Zadar",
-    "country": "Croatia",
-    "online": true,
-    "cocUrl": "https://shift.infobip.com/code/",
-    "cfpUrl": "https://sessionize.com/infobipshift",
-    "cfpEndDate": "2022-07-01",
-    "twitter": "@infobipshift"
-  },
-  {
     "name": "Impact Conference",
     "url": "https://impact-conf.com",
     "startDate": "2022-10-05",
@@ -118,15 +86,6 @@
     "country": "Hungary",
     "online": true,
     "twitter": "@impact_conf"
-  },
-  {
-    "name": "Flight Levels Day",
-    "url": "https://fld.inside-agile.com",
-    "startDate": "2022-10-10",
-    "endDate": "2022-10-10",
-    "online": true,
-    "cocUrl": "https://fld.inside-agile.com/code_of_conduct.php",
-    "twitter": "@inside_agile"
   },
   {
     "name": "InfoComm Southeast Asia",
@@ -152,27 +111,6 @@
     "twitter": "@WordCampItalia"
   },
   {
-    "name": "CTO Craft - Winter Conference",
-    "url": "https://conference.ctocraft.com",
-    "startDate": "2022-11-14",
-    "endDate": "2022-11-16",
-    "online": true,
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://conference.ctocraft.com/code-of-conduct/",
-    "twitter": "@CTOCraft"
-  },
-  {
-    "name": "Git Commit Show",
-    "url": "https://gitcommit.show",
-    "startDate": "2022-11-26",
-    "endDate": "2022-11-27",
-    "online": true,
-    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub",
-    "cfpUrl": "http://push.gitcommit.show",
-    "cfpEndDate": "2022-10-26",
-    "twitter": "@gitcommitshow"
-  },
-  {
     "name": "International Product Conference",
     "url": "https://parimatch.tech/event/product-conference-prague",
     "startDate": "2022-12-02",
@@ -182,14 +120,5 @@
     "online": true,
     "locales": "EN",
     "twitter": "@ParimatchTech"
-  },
-  {
-    "name": "DevTernity",
-    "url": "https://devternity.com",
-    "startDate": "2022-12-08",
-    "endDate": "2022-12-09",
-    "online": true,
-    "cocUrl": "https://devternity.com/code_of_conduct.html",
-    "twitter": "@devternity"
   }
 ]

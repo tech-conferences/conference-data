@@ -170,20 +170,6 @@
     "twitter": "@uxlx"
   },
   {
-    "name": "Pixel Pioneers",
-    "url": "https://pixelpioneers.co/events/bristol-2024",
-    "startDate": "2024-06-14",
-    "endDate": "2024-06-14",
-    "city": "Bristol",
-    "country": "U.K.",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://pixelpioneers.co/code-of-conduct",
-    "cfpUrl": "https://pixelpioneers.co/call-for-speakers",
-    "cfpEndDate": "2024-04-15",
-    "twitter": "@pixelpioneers"
-  },
-  {
     "name": "UXPA International Conference",
     "url": "https://uxpa2024.org",
     "startDate": "2024-06-24",
@@ -278,20 +264,6 @@
     "twitter": "@uxconvienna"
   },
   {
-    "name": "Paris Web",
-    "url": "https://www.paris-web.fr",
-    "startDate": "2024-09-26",
-    "endDate": "2024-09-28",
-    "city": "Paris",
-    "country": "France",
-    "online": false,
-    "locales": "FR",
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://www.paris-web.fr/code-de-conduite.php",
-    "cfpUrl": "https://appel.paris-web.fr",
-    "twitter": "@parisweb"
-  },
-  {
     "name": "Compass Tech Summit",
     "url": "https://ti.to/crafthub/compass-tech-summit-2024",
     "startDate": "2024-10-03",
@@ -303,17 +275,6 @@
     "twitter": "@amuseconf"
   },
   {
-    "name": "Intersection",
-    "url": "https://www.intersection-conference.eu",
-    "startDate": "2024-10-03",
-    "endDate": "2024-10-04",
-    "city": "Turin",
-    "country": "Italy",
-    "online": true,
-    "locales": "EN",
-    "twitter": "@intersection_eu"
-  },
-  {
     "name": "Design It. Build it. (DIBI)",
     "url": "https://dibiconference.com",
     "startDate": "2024-10-09",
@@ -323,17 +284,6 @@
     "online": false,
     "locales": "EN",
     "twitter": "@dibiconf"
-  },
-  {
-    "name": "Software Architecture Summit",
-    "url": "https://software-architecture-summit.de/berlin",
-    "startDate": "2024-10-14",
-    "endDate": "2024-10-16",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": false,
-    "locales": "DE",
-    "twitter": "@SoftwArchSummit"
   },
   {
     "name": "Design Matters",
@@ -397,19 +347,5 @@
     "locales": "DE,EN",
     "cocUrl": "https://mad-summit.de/code-of-conduct/",
     "twitter": "@mad_summit"
-  },
-  {
-    "name": "WeyWeyWeb",
-    "url": "https://www.weyweyweb.com",
-    "startDate": "2024-11-27",
-    "endDate": "2024-11-29",
-    "city": "Malaga",
-    "country": "Spain",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://recursos.yeswetech.org/guias/codigo-de-conducta/en-code-of-conduct",
-    "cfpUrl": "https://forms.gle/9PMZza735aVeDBaV7",
-    "cfpEndDate": "2024-06-30",
-    "twitter": "@WeyWeyWeb"
   }
 ]

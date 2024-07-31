@@ -25,33 +25,6 @@
     "cfpEndDate": "2022-11-13"
   },
   {
-    "name": "OpenEmbedded Workshop",
-    "url": "https://pretalx.com/openembedded-workshop-2023",
-    "startDate": "2023-02-06",
-    "endDate": "2023-02-06",
-    "city": "Brussels",
-    "country": "Belgium",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://www.openembedded.org/wiki/Code_of_Conduct",
-    "cfpUrl": "https://pretalx.com/openembedded-workshop-2023/cfp",
-    "cfpEndDate": "2022-12-15",
-    "twitter": "@OpenEmbeddedOrg"
-  },
-  {
-    "name": "ConFoo",
-    "url": "https://confoo.ca/en/2023",
-    "startDate": "2023-02-22",
-    "endDate": "2023-02-24",
-    "city": "Montreal",
-    "country": "Canada",
-    "online": false,
-    "cocUrl": "https://confoo.ca/en/code-of-conduct",
-    "cfpUrl": "https://confoo.ca/en/2023/call-for-papers",
-    "cfpEndDate": "2022-10-06",
-    "twitter": "@confooca"
-  },
-  {
     "name": "Nullcon International Security Conference & Training - Berlin",
     "url": "https://nullcon.net/berlin-2023",
     "startDate": "2023-03-09",
@@ -177,18 +150,6 @@
     "twitter": "@devops_con"
   },
   {
-    "name": "Serverless Architecture Conference London",
-    "url": "https://serverless-architecture.io/london",
-    "startDate": "2023-04-24",
-    "endDate": "2023-04-27",
-    "city": "London",
-    "country": "U.K.",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://serverless-architecture.io/code-of-conduct/",
-    "twitter": "@serverlesscon"
-  },
-  {
     "name": "Security Day",
     "url": "https://www.wearedevelopers.com/event/security-day-april-2023",
     "startDate": "2023-04-26",
@@ -205,19 +166,6 @@
     "online": true,
     "locales": "EN",
     "cocUrl": "https://www.atera.com/terms-of-use/"
-  },
-  {
-    "name": "MTUG I.T. Summit and Tradeshow",
-    "url": "https://www.mtug.org/techsummit",
-    "startDate": "2023-05-04",
-    "endDate": "2023-05-04",
-    "city": "Portland, ME",
-    "country": "U.S.A.",
-    "online": false,
-    "locales": "EN",
-    "cfpUrl": "https://www.mtug.org/workshopRFP-summit",
-    "cfpEndDate": "2023-03-03",
-    "twitter": "@MTUG_Maine"
   },
   {
     "name": "SeaStar Quality Conference",
@@ -367,18 +315,6 @@
     "twitter": "@jcon_conference"
   },
   {
-    "name": "DeveloperWeek Latin America",
-    "url": "https://www.developerweek.com/latin-america",
-    "startDate": "2023-06-21",
-    "endDate": "2023-06-22",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "cfpUrl": "https://sessionize.com/developerweek-latin-america-2023",
-    "cfpEndDate": "2023-04-21",
-    "twitter": "@developerweek"
-  },
-  {
     "name": "TribeQonf - 1 Conference For All things Testing",
     "url": "https://www.thetesttribe.com/tribeqonf",
     "startDate": "2023-07-14",
@@ -453,20 +389,6 @@
     "cfpUrl": "https://cfp.skytalks.info/skytalks-2023",
     "cfpEndDate": "2023-05-31",
     "twitter": "@dcskytalks"
-  },
-  {
-    "name": "DeveloperWeek CloudX",
-    "url": "https://www.developerweek.com/cloudx",
-    "startDate": "2023-08-15",
-    "endDate": "2023-08-23",
-    "city": "San Mateo, CA",
-    "country": "U.S.A.",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "cfpUrl": "https://sessionize.com/developerweek-cloudx-2023",
-    "cfpEndDate": "2023-05-26",
-    "twitter": "@developerweek"
   },
   {
     "name": "Software Architecture Conference",

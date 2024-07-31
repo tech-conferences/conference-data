@@ -13,19 +13,6 @@
     "twitter": "@OVHcloud_Tech"
   },
   {
-    "name": "Wasm I/O",
-    "url": "https://wasmio.tech",
-    "startDate": "2023-03-23",
-    "endDate": "2023-03-24",
-    "city": "Barcelona",
-    "country": "Spain",
-    "online": false,
-    "cocUrl": "https://wasmio.tech/coc",
-    "cfpUrl": "https://www.papercall.io/wasmio23",
-    "cfpEndDate": "2023-01-17",
-    "twitter": "@wasm_io"
-  },
-  {
     "name": "Devoxx France",
     "url": "https://devoxx.fr",
     "startDate": "2023-04-12",
@@ -73,30 +60,6 @@
     "locales": "EN",
     "cocUrl": "https://eurorust.eu/code-of-conduct/",
     "twitter": "@euro_rust"
-  },
-  {
-    "name": "RTC.On",
-    "url": "https://rtcon.live",
-    "startDate": "2023-10-12",
-    "endDate": "2023-10-14",
-    "city": "Kraków",
-    "country": "Poland",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://rtcon.live/code-of-conduct"
-  },
-  {
-    "name": "P99 CONF",
-    "url": "https://www.p99conf.io",
-    "startDate": "2023-10-18",
-    "endDate": "2023-10-19",
-    "online": true,
-    "locales": "EN",
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://www.p99conf.io/code-of-conduct/",
-    "cfpUrl": "https://sessionize.com/p99-conf-2023",
-    "cfpEndDate": "2023-05-12",
-    "twitter": "@p99conf"
   },
   {
     "name": "betterCode() Rust",

@@ -1,17 +1,5 @@
 [
   {
-    "name": "Tech Rocks Asia",
-    "url": "https://techrocks.asia",
-    "startDate": "2024-01-07",
-    "endDate": "2024-01-07",
-    "city": "Bangkok",
-    "country": "Thailand",
-    "online": false,
-    "locales": "EN",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSck3x5BMryjiYGRQBKpQ4Y5btotKqcMJmH-B1vsiFpUfU0VRg/viewform",
-    "cfpEndDate": "2023-12-01"
-  },
-  {
     "name": "Devopsdays Tel Aviv",
     "url": "https://devopsdays.org/events/2024-tel-aviv/welcome/",
     "startDate": "2024-01-21",
@@ -388,15 +376,6 @@
     "twitter": "@DevOpsDaysSEA"
   },
   {
-    "name": "TIL Conf",
-    "url": "https://til-conf.netlify.app",
-    "startDate": "2024-05-16",
-    "endDate": "2024-05-19",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://til-conf.netlify.app/coc/"
-  },
-  {
     "name": "Devopsdays Sao Paulo",
     "url": "https://devopsdays.org/events/2024-saopaulo/welcome/",
     "startDate": "2024-05-18",
@@ -445,20 +424,6 @@
     "cfpUrl": "https://talks.devopsdays.org/devopsdays-baltimore-2024/cfp",
     "cfpEndDate": "2024-02-01",
     "twitter": "@DevOpsDaysBmore"
-  },
-  {
-    "name": "KCD New York",
-    "url": "https://community.cncf.io/events/details/cncf-kcd-new-york-presents-kcd-new-york-2024",
-    "startDate": "2024-05-22",
-    "endDate": "2024-05-22",
-    "city": "New York, NY",
-    "country": "U.S.A.",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://community.cncf.io/events/details/cncf-kcd-new-york-presents-kcd-new-york-2024/",
-    "cfpUrl": "https://cncly.co/cfp-ny24",
-    "cfpEndDate": "2024-02-11",
-    "twitter": "@KcdNewyork"
   },
   {
     "name": "OpenInfra Day France",
@@ -520,18 +485,6 @@
     "mastodon": "@devopsdays_ukraine@mastodon.social"
   },
   {
-    "name": "DeveloperWeek Latin America",
-    "url": "https://www.developerweek.com/latin-america",
-    "startDate": "2024-06-05",
-    "endDate": "2024-06-06",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "cfpUrl": "https://sessionize.com/developerweek-latin-america-2024",
-    "cfpEndDate": "2024-04-21",
-    "twitter": "@DeveloperWeek"
-  },
-  {
     "name": "Icinga Summit",
     "url": "https://icinga.com/summit",
     "startDate": "2024-06-05",
@@ -544,19 +497,6 @@
     "cfpUrl": "https://icinga.com/summit/cfp",
     "cfpEndDate": "2024-03-31",
     "twitter": "@icinga"
-  },
-  {
-    "name": "Big Sky Dev Con",
-    "url": "https://bigskydevcon.com",
-    "startDate": "2024-06-08",
-    "endDate": "2024-06-08",
-    "city": "Bozeman, MT",
-    "country": "U.S.A.",
-    "online": false,
-    "locales": "EN",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeDNjPCp4iRPcs11xPIn6ikJ3QhliCspbN_5n0SsqIBP-tA8w/viewform",
-    "cfpEndDate": "2024-04-01",
-    "twitter": "@BigSkyDevCon"
   },
   {
     "name": "INTEGRATE",
@@ -1093,20 +1033,6 @@
     "cfpUrl": "https://sessionize.com/cloudx-2024",
     "cfpEndDate": "2024-06-14",
     "twitter": "@DeveloperWeek"
-  },
-  {
-    "name": "Heapcon",
-    "url": "https://heapcon.io",
-    "startDate": "2024-11-07",
-    "endDate": "2024-11-08",
-    "city": "Belgrade",
-    "country": "Serbia",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://heapcon.io/2024/code-of-conduct",
-    "cfpUrl": "https://heapcon.io/2024/call-for-papers",
-    "cfpEndDate": "2024-06-01",
-    "twitter": "@Heapconf"
   },
   {
     "name": "KubeCon + CloudNativeCon North America",

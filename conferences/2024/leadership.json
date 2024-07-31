@@ -21,18 +21,6 @@
     "locales": "EN"
   },
   {
-    "name": "FlowCon",
-    "url": "https://www.flowcon.fr",
-    "startDate": "2024-03-06",
-    "endDate": "2024-03-07",
-    "city": "Paris",
-    "country": "France",
-    "online": false,
-    "locales": "EN,FR",
-    "cocUrl": "https://www.flowcon.fr/code-of-conduct/",
-    "twitter": "@FlowConFR"
-  },
-  {
     "name": "Internet 2.0 Conference USA",
     "url": "https://www.internet2conf.com",
     "startDate": "2024-03-18",
@@ -108,30 +96,6 @@
     "twitter": "@CTOCraft"
   },
   {
-    "name": "Women Who Code CONNECT: Thrive in Tech",
-    "url": "http://www.womenwhocode.com/connect",
-    "startDate": "2024-05-16",
-    "endDate": "2024-05-16",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://womenwhocode.com/codeofconduct",
-    "cfpUrl": "https://code.womenwhocode.com/connect-2024-cfp",
-    "cfpEndDate": "2024-03-25",
-    "twitter": "@womenwhocode"
-  },
-  {
-    "name": "TechLead Conference",
-    "url": "https://techleadconf.com",
-    "startDate": "2024-06-15",
-    "endDate": "2024-06-19",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://portal.gitnation.org/coc",
-    "cfpUrl": "https://forms.gle/anQx9Ct7CsrrZwur9",
-    "cfpEndDate": "2024-03-31",
-    "twitter": "@TheTechLeadConf"
-  },
-  {
     "name": "InfoQ Dev Summit Boston",
     "url": "https://devsummit.infoq.com/boston_medialisting2024",
     "startDate": "2024-06-24",
@@ -180,16 +144,6 @@
     "twitter": "@itrevsummit"
   },
   {
-    "name": "Platzi Conf",
-    "url": "https://platzi.com/conf",
-    "startDate": "2024-09-07",
-    "endDate": "2024-09-07",
-    "city": "Bogotá",
-    "country": "Colombia",
-    "online": false,
-    "locales": "ES"
-  },
-  {
     "name": "CTO Craft Con Berlin",
     "url": "https://conference.ctocraft.com/berlin-2024",
     "startDate": "2024-09-24",
@@ -199,33 +153,6 @@
     "online": false,
     "locales": "EN",
     "twitter": "@ctocraft"
-  },
-  {
-    "name": "BoyaConf",
-    "url": "https://2024.boyaconf.com",
-    "startDate": "2024-11-08",
-    "endDate": "2024-11-09",
-    "city": "Tunja",
-    "country": "Colombia",
-    "online": false,
-    "locales": "ES",
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://github.com/boyaca-dev/code-of-conduct/blob/bc/readme-es.md",
-    "cfpUrl": "https://cfs.boyaconf.com",
-    "cfpEndDate": "2024-09-01",
-    "twitter": "@boyaca_dev"
-  },
-  {
-    "name": "Italian Agile Day",
-    "url": "https://www.agileday.it/index-en.html",
-    "startDate": "2024-11-08",
-    "endDate": "2024-11-09",
-    "city": "Florence",
-    "country": "Italy",
-    "online": false,
-    "locales": "EN,IT",
-    "cfpUrl": "https://www.agileday.it/c4sdetails-en.html",
-    "cfpEndDate": "2024-07-28"
   },
   {
     "name": "QCon",

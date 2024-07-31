@@ -36,16 +36,6 @@
     "twitter": "@pycascades"
   },
   {
-    "name": "NVIDIA GTC",
-    "url": "https://www.nvidia.com/gtc",
-    "startDate": "2022-03-21",
-    "endDate": "2022-03-24",
-    "city": "San Jose, CA",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@NVIDIAGTC"
-  },
-  {
     "name": "WeAreDevelopers Machine Learning Day",
     "url": "https://www.wearedevelopers.com/event/machine-learning-day-2303",
     "startDate": "2022-03-23",
@@ -122,17 +112,6 @@
     "twitter": "@pyconit"
   },
   {
-    "name": "Bazel eXchange",
-    "url": "https://skillsmatter.com/conferences/13682-bazel-exchange",
-    "startDate": "2022-06-21",
-    "endDate": "2022-06-22",
-    "online": true,
-    "cocUrl": "https://skillsmatter.com/go/code-of-conduct",
-    "cfpUrl": "https://skillsmatter.com/conferences/13682-bazel-exchange#get_involved",
-    "cfpEndDate": "2022-03-23",
-    "twitter": "@skillsmatter"
-  },
-  {
     "name": "EuroPython",
     "url": "https://ep2022.europython.eu",
     "startDate": "2022-07-11",
@@ -177,17 +156,6 @@
     "twitter": "@pythonsummit"
   },
   {
-    "name": "Git Commit Show",
-    "url": "https://gitcommit.show",
-    "startDate": "2022-10-01",
-    "endDate": "2022-10-02",
-    "online": true,
-    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdFuHEOT9i5KBEOL56nbwn6HNGpsgGL55JGwwXYFdjC4kqnHw/viewform",
-    "cfpEndDate": "2022-09-30",
-    "twitter": "@gitcommitshow"
-  },
-  {
     "name": "WeAreDevelopers Live - Python Day",
     "url": "https://www.wearedevelopers.com/event/python-day-1222",
     "startDate": "2022-10-05",
@@ -220,17 +188,6 @@
     "twitter": "@CoiledHQ"
   },
   {
-    "name": "BUILD STUFF",
-    "url": "https://www.buildstuff.events",
-    "startDate": "2022-11-09",
-    "endDate": "2022-11-11",
-    "city": "Vilnius",
-    "country": "Lithuania",
-    "online": true,
-    "cocUrl": "https://www.buildstuff.events/code-of-conduct",
-    "twitter": "@BuildStuffConf"
-  },
-  {
     "name": "NODES",
     "url": "https://neo4j.com/nodes-2022",
     "startDate": "2022-11-16",
@@ -252,17 +209,6 @@
     "cfpUrl": "https://agiletestingdays.com/call-for-papers",
     "cfpEndDate": "2022-03-20",
     "twitter": "@AgileTD"
-  },
-  {
-    "name": "Git Commit Show",
-    "url": "https://gitcommit.show",
-    "startDate": "2022-11-26",
-    "endDate": "2022-11-27",
-    "online": true,
-    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub",
-    "cfpUrl": "http://push.gitcommit.show",
-    "cfpEndDate": "2022-10-26",
-    "twitter": "@gitcommitshow"
   },
   {
     "name": "XtremePython Online Conference",

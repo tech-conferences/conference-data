@@ -23,16 +23,6 @@
     "twitter": "@htmlcssdays"
   },
   {
-    "name": "NVIDIA GTC",
-    "url": "https://www.nvidia.com/gtc",
-    "startDate": "2022-03-21",
-    "endDate": "2022-03-24",
-    "city": "San Jose, CA",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@NVIDIAGTC"
-  },
-  {
     "name": "cssday",
     "url": "https://cssday.it",
     "startDate": "2022-04-01",
@@ -133,19 +123,6 @@
     "twitter": "@smashingconf"
   },
   {
-    "name": "Infobip Shift",
-    "url": "https://shift.infobip.com",
-    "startDate": "2022-09-19",
-    "endDate": "2022-09-20",
-    "city": "Zadar",
-    "country": "Croatia",
-    "online": true,
-    "cocUrl": "https://shift.infobip.com/code/",
-    "cfpUrl": "https://sessionize.com/infobipshift",
-    "cfpEndDate": "2022-07-01",
-    "twitter": "@infobipshift"
-  },
-  {
     "name": "International JavaScript Conference",
     "url": "https://javascript-conference.com/new-york",
     "startDate": "2022-09-26",
@@ -165,17 +142,6 @@
     "online": true,
     "cocUrl": "https://smashingconf.com/codeofconduct",
     "twitter": "@smashingconf"
-  },
-  {
-    "name": "JavaScript/Angular/React/HTML & CSS Days",
-    "url": "https://javascript-days.de/berlin",
-    "startDate": "2022-10-17",
-    "endDate": "2022-10-20",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "cocUrl": "https://javascript-days.de/code-of-conduct/",
-    "twitter": "@JS_Days"
   },
   {
     "name": "International JavaScript Conference",

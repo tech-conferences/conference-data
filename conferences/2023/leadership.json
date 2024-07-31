@@ -1,30 +1,5 @@
 [
   {
-    "name": "You Got This Broadcasting Service",
-    "url": "https://yougotthis.io/events/broadcasting-service",
-    "startDate": "2023-01-14",
-    "endDate": "2023-01-15",
-    "online": true,
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://yougotthis.io/conduct",
-    "cfpUrl": "https://airtable.com/shruPP1zoptlV7TYt",
-    "cfpEndDate": "2022-08-31",
-    "twitter": "@YouGotThisConf"
-  },
-  {
-    "name": "ConFoo",
-    "url": "https://confoo.ca/en/2023",
-    "startDate": "2023-02-22",
-    "endDate": "2023-02-24",
-    "city": "Montreal",
-    "country": "Canada",
-    "online": false,
-    "cocUrl": "https://confoo.ca/en/code-of-conduct",
-    "cfpUrl": "https://confoo.ca/en/2023/call-for-papers",
-    "cfpEndDate": "2022-10-06",
-    "twitter": "@confooca"
-  },
-  {
     "name": "LevelUp",
     "url": "https://clickup.com/events/levelup",
     "startDate": "2023-02-28",
@@ -43,18 +18,6 @@
     "cfpUrl": "https://forms.gle/DAAqV4DHZMYJ2bN57",
     "cfpEndDate": "2023-02-01",
     "twitter": "@TechLeadJS"
-  },
-  {
-    "name": "FOSS Backstage",
-    "url": "https://23.foss-backstage.de",
-    "startDate": "2023-03-13",
-    "endDate": "2023-03-14",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://23.foss-backstage.de/code-of-conduct/",
-    "twitter": "@fossbckstg"
   },
   {
     "name": "Ateraverse",
@@ -133,18 +96,6 @@
     "twitter": "@theleaddev"
   },
   {
-    "name": "StaffPlus",
-    "url": "https://leaddev.com/staffplus-london",
-    "startDate": "2023-06-27",
-    "endDate": "2023-06-28",
-    "city": "London",
-    "country": "U.K.",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://leaddev.com/code-conduct",
-    "twitter": "@theleaddev"
-  },
-  {
     "name": "LeadingEng",
     "url": "https://leaddev.com/leadingeng-london",
     "startDate": "2023-06-29",
@@ -157,18 +108,6 @@
     "twitter": "@theleaddev"
   },
   {
-    "name": "NZ Tech Rally",
-    "url": "https://nztechrally.com",
-    "startDate": "2023-07-07",
-    "endDate": "2023-07-07",
-    "city": "Wellington",
-    "country": "New Zealand",
-    "online": false,
-    "locales": "EN",
-    "offersSignLanguageOrCC": true,
-    "twitter": "@NZTechRally"
-  },
-  {
     "name": "Internet 2.0 Conference USA",
     "url": "https://www.internet2conf.com",
     "startDate": "2023-07-10",
@@ -178,20 +117,6 @@
     "online": false,
     "locales": "EN",
     "twitter": "@internet2conf"
-  },
-  {
-    "name": "REFACTOR: DX",
-    "url": "https://www.refactorconf.com/dx",
-    "startDate": "2023-07-12",
-    "endDate": "2023-07-13",
-    "city": "Toronto",
-    "country": "Canada",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://www.refactorconf.com/dx#/conduct",
-    "cfpUrl": "https://www.papercall.io/refactor-dx-2023",
-    "cfpEndDate": "2023-05-31",
-    "twitter": "@refactorconf"
   },
   {
     "name": "Software Architecture Conference",

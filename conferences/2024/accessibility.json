@@ -38,34 +38,6 @@
     "twitter": "@a11y_days"
   },
   {
-    "name": "Highload fwdays",
-    "url": "https://fwdays.com/en/event/highload-fwdays-2024",
-    "startDate": "2024-05-25",
-    "endDate": "2024-05-25",
-    "city": "Kyiv",
-    "country": "Ukraine",
-    "online": true,
-    "locales": "EN,UK",
-    "cocUrl": "https://docs.google.com/document/d/12o0ydKmKe6Jw_VgTZF3U6hmI7yzgo5poxXjDzKDLuDw/edit#heading=h.r7izboewrqur",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdAivIfn0qM5SSljDvshD48IRrAsKUg5-tlznG__PzDuDK12g/viewform",
-    "cfpEndDate": "2024-04-20",
-    "twitter": "@fwdays"
-  },
-  {
-    "name": "Paris Web",
-    "url": "https://www.paris-web.fr",
-    "startDate": "2024-09-26",
-    "endDate": "2024-09-28",
-    "city": "Paris",
-    "country": "France",
-    "online": false,
-    "locales": "FR",
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://www.paris-web.fr/code-de-conduite.php",
-    "cfpUrl": "https://appel.paris-web.fr",
-    "twitter": "@parisweb"
-  },
-  {
     "name": "#a11yTO Conf",
     "url": "https://conf.a11yto.com",
     "startDate": "2024-10-03",
@@ -114,33 +86,5 @@
     "cfpUrl": "https://agiletestingdays.com/call-for-papers",
     "cfpEndDate": "2024-02-11",
     "twitter": "@AgileTD"
-  },
-  {
-    "name": "Web Directions Summit",
-    "url": "https://webdirections.org/dev-summit/",
-    "startDate": "2024-11-27",
-    "endDate": "2024-11-28",
-    "city": "Sydney",
-    "country": "Australia",
-    "online": true,
-    "locales": "EN",
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
-    "cfpUrl": "https://webdirections.org/speaking",
-    "twitter": "@webdirections"
-  },
-  {
-    "name": "WeyWeyWeb",
-    "url": "https://www.weyweyweb.com",
-    "startDate": "2024-11-27",
-    "endDate": "2024-11-29",
-    "city": "Malaga",
-    "country": "Spain",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://recursos.yeswetech.org/guias/codigo-de-conducta/en-code-of-conduct",
-    "cfpUrl": "https://forms.gle/9PMZza735aVeDBaV7",
-    "cfpEndDate": "2024-06-30",
-    "twitter": "@WeyWeyWeb"
   }
 ]

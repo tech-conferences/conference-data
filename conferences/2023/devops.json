@@ -24,18 +24,6 @@
     "twitter": "@OVHcloud_Tech"
   },
   {
-    "name": "Civo Navigate",
-    "url": "https://www.civo.com/navigate",
-    "startDate": "2023-02-07",
-    "endDate": "2023-02-08",
-    "city": "Tampa, FL",
-    "country": "U.S.A.",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://www.civo.com/navigate/code-of-conduct",
-    "twitter": "@CivoCloud"
-  },
-  {
     "name": "Config Mgmt Camp",
     "url": "https://cfgmgmtcamp.eu/ghent2023/",
     "startDate": "2023-02-07",
@@ -92,19 +80,6 @@
     "cocUrl": "https://www.hashicorp.com/community-guidelines",
     "cfpUrl": "https://sessionize.com/hashitalks-2023",
     "cfpEndDate": "2022-12-07"
-  },
-  {
-    "name": "ConFoo",
-    "url": "https://confoo.ca/en/2023",
-    "startDate": "2023-02-22",
-    "endDate": "2023-02-24",
-    "city": "Montreal",
-    "country": "Canada",
-    "online": false,
-    "cocUrl": "https://confoo.ca/en/code-of-conduct",
-    "cfpUrl": "https://confoo.ca/en/2023/call-for-papers",
-    "cfpEndDate": "2022-10-06",
-    "twitter": "@confooca"
   },
   {
     "name": "Testing, Agile, DevOps and Low code Showcase: Methods and Tools",
@@ -182,18 +157,6 @@
     "cfpUrl": "https://www.oc3.dev/program",
     "cfpEndDate": "2022-12-15",
     "twitter": "@EdgelessSystems"
-  },
-  {
-    "name": "Agile India",
-    "url": "https://2023.agileindia.org",
-    "startDate": "2023-03-15",
-    "endDate": "2023-03-19",
-    "city": "Bengaluru",
-    "country": "India",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://2023.agileindia.org/agile-india-values/",
-    "twitter": "@agileindia"
   },
   {
     "name": "Devopsdays Melbourne",
@@ -362,16 +325,6 @@
     "cocUrl": "https://devopsdays.org/events/2023-raleigh/conduct",
     "cfpEndDate": "2023-01-27",
     "twitter": "@DevOpsDaysRDU"
-  },
-  {
-    "name": "DevOps Midwest",
-    "url": "https://www.sketchdev.io/devopsmidwest",
-    "startDate": "2023-04-13",
-    "endDate": "2023-04-13",
-    "city": "St. Louis, MO",
-    "country": "U.S.A.",
-    "online": false,
-    "locales": "EN"
   },
   {
     "name": "KubeCon + CloudNativeCon Europe",
@@ -553,15 +506,6 @@
     "cfpUrl": "https://events.linuxfoundation.org/cdcon-gitopscon/program/cfp",
     "cfpEndDate": "2023-02-10",
     "twitter": "@CDeliveryFdn"
-  },
-  {
-    "name": "Student Day",
-    "url": "https://www.wearedevelopers.com/event/student-day-may-2023",
-    "startDate": "2023-05-10",
-    "endDate": "2023-05-10",
-    "online": true,
-    "locales": "EN",
-    "twitter": "@WeAreDevelopers"
   },
   {
     "name": "Camunda Community Summit",
@@ -897,20 +841,6 @@
     "twitter": "@VSLive"
   },
   {
-    "name": "WeAreDevelopers World Congress",
-    "url": "https://www.wearedevelopers.com/world-congress",
-    "startDate": "2023-07-27",
-    "endDate": "2023-07-28",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form.",
-    "cfpUrl": "https://sessionize.com/wearedevelopers-worldcongress23",
-    "cfpEndDate": "2023-07-19",
-    "twitter": "@WeAreDevs"
-  },
-  {
     "name": "Devopsdays Seattle",
     "url": "https://devopsdays.org/events/2023-seattle/welcome/",
     "startDate": "2023-08-01",
@@ -958,20 +888,6 @@
     "online": false,
     "cocUrl": "https://devopsdays.org/events/2023-dallas/conduct",
     "twitter": "@devopsdaysdfw"
-  },
-  {
-    "name": "Civo Navigate Europe",
-    "url": "https://www.civo.com/navigate",
-    "startDate": "2023-09-05",
-    "endDate": "2023-09-06",
-    "city": "London",
-    "country": "U.K.",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://www.civo.com/navigate/code-of-conduct",
-    "cfpUrl": "https://www-eur.cvent.com/c/abstracts/b25e8cdd-b19d-4626-8b2b-0fdb1ecb565d",
-    "cfpEndDate": "2023-05-31",
-    "twitter": "@CivoCloud"
   },
   {
     "name": "DevOps Talks Conference Singapore",
@@ -1060,20 +976,6 @@
     "cocUrl": "https://devopsdays.org/events/2023-kyiv/conduct",
     "twitter": "@devopsdays_kyiv",
     "mastodon": "@devopsdays_ukraine@hachyderm.io"
-  },
-  {
-    "name": "Infobip Shift",
-    "url": "https://shift.infobip.com",
-    "startDate": "2023-09-18",
-    "endDate": "2023-09-19",
-    "city": "Zadar",
-    "country": "Croatia",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://shift.infobip.com/code/",
-    "cfpUrl": "https://sessionize.com/infobip-shift-2023",
-    "cfpEndDate": "2023-05-15",
-    "twitter": "@InfobipShift"
   },
   {
     "name": "Software Architecture fwdays",
@@ -1524,17 +1426,6 @@
     "locales": "EN",
     "cocUrl": "https://live360events.com/pages/harassment.aspx",
     "twitter": "@Live360events"
-  },
-  {
-    "name": "ObservabilityCON",
-    "url": "https://grafana.com/about/events/observabilitycon/2023",
-    "startDate": "2023-11-14",
-    "endDate": "2023-11-15",
-    "city": "London",
-    "country": "U.K.",
-    "online": false,
-    "locales": "EN",
-    "twitter": "@grafana"
   },
   {
     "name": "InnerSource Summit",

@@ -12,20 +12,6 @@
     "twitter": "@bastacon"
   },
   {
-    "name": "Civo Navigate North America",
-    "url": "https://www.civo.com/navigate/north-america",
-    "startDate": "2024-02-20",
-    "endDate": "2024-02-21",
-    "city": "Austin, TX",
-    "country": "U.S.A.",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://www.civo.com/navigate/code-of-conduct",
-    "cfpUrl": "https://sessionize.com/civo-navigate-austin",
-    "cfpEndDate": "2023-09-29",
-    "twitter": "@civocloud"
-  },
-  {
     "name": "RegTech Live: an FStech Conference",
     "url": "https://www.fstech.co.uk/regtechlive/index.php",
     "startDate": "2024-02-27",
@@ -171,16 +157,6 @@
     "locales": "EN"
   },
   {
-    "name": "Gulaschprogrammiernacht",
-    "url": "https://entropia.de/GPN22",
-    "startDate": "2024-05-30",
-    "endDate": "2024-06-02",
-    "city": "Karlsruhe",
-    "country": "Germany",
-    "online": false,
-    "locales": "EN,DE"
-  },
-  {
     "name": "Hardwear.io",
     "url": "https://hardwear.io",
     "startDate": "2024-05-31",
@@ -218,17 +194,6 @@
     "locales": "EN",
     "cocUrl": "https://gotoams.nl/2024/code-of-conduct",
     "twitter": "@GOTOcon"
-  },
-  {
-    "name": "RISK Conference",
-    "url": "https://risk-conference.com",
-    "startDate": "2024-06-12",
-    "endDate": "2024-06-13",
-    "city": "Laško",
-    "country": "Slovenia",
-    "online": false,
-    "locales": "EN",
-    "twitter": "@REAL__security"
   },
   {
     "name": "BSides Strasbourg",
@@ -481,29 +446,6 @@
     "country": "Sweden",
     "online": false,
     "locales": "EN"
-  },
-  {
-    "name": "Software Architecture Summit",
-    "url": "https://software-architecture-summit.de/berlin",
-    "startDate": "2024-10-14",
-    "endDate": "2024-10-16",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": false,
-    "locales": "DE",
-    "twitter": "@SoftwArchSummit"
-  },
-  {
-    "name": "Serverless Architecture Conference Berlin",
-    "url": "https://serverless-architecture.io/berlin",
-    "startDate": "2024-10-21",
-    "endDate": "2024-10-23",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://serverless-architecture.io/code-of-conduct/",
-    "twitter": "@serverlesscon"
   },
   {
     "name": "SOSS Fusion",

@@ -82,16 +82,6 @@
     "online": true
   },
   {
-    "name": "NVIDIA GTC",
-    "url": "https://www.nvidia.com/gtc",
-    "startDate": "2022-03-21",
-    "endDate": "2022-03-24",
-    "city": "San Jose, CA",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@NVIDIAGTC"
-  },
-  {
     "name": "NDC Security",
     "url": "https://ndc-security.com",
     "startDate": "2022-04-03",
@@ -163,15 +153,6 @@
     "cfpUrl": "https://www.ruhrsec.de/2022/index.html#cfp",
     "cfpEndDate": "2022-03-21",
     "twitter": "@ruhrsec"
-  },
-  {
-    "name": "QCon Plus Online Software Conference",
-    "url": "https://plus.qconferences.com",
-    "startDate": "2022-05-10",
-    "endDate": "2022-05-20",
-    "online": true,
-    "offersSignLanguageOrCC": true,
-    "twitter": "@QCon"
   },
   {
     "name": "IT Security Summit",
@@ -349,28 +330,6 @@
     "twitter": "@leanix_net"
   },
   {
-    "name": "JCON-ONLINE",
-    "url": "https://jcon.one",
-    "startDate": "2022-09-20",
-    "endDate": "2022-09-23",
-    "online": true,
-    "cocUrl": "https://2022.jcon.one/code-of-conduct",
-    "cfpUrl": "https://2022.jcon.one/call-for-papers",
-    "cfpEndDate": "2022-03-31",
-    "twitter": "@jcon_conference"
-  },
-  {
-    "name": "GOTO Copenhagen",
-    "url": "https://gotocph.com",
-    "startDate": "2022-10-03",
-    "endDate": "2022-10-07",
-    "city": "Copenhagen",
-    "country": "Denmark",
-    "online": false,
-    "cocUrl": "https://gotocph.com/2022/code-of-conduct",
-    "twitter": "@GOTOcon"
-  },
-  {
     "name": "Infoshare",
     "url": "https://infoshare.pl/conference",
     "startDate": "2022-10-06",
@@ -520,28 +479,6 @@
     "country": "U.S.A.",
     "online": true,
     "twitter": "@UnscriptedConf"
-  },
-  {
-    "name": "Git Commit Show",
-    "url": "https://gitcommit.show",
-    "startDate": "2022-11-26",
-    "endDate": "2022-11-27",
-    "online": true,
-    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub",
-    "cfpUrl": "http://push.gitcommit.show",
-    "cfpEndDate": "2022-10-26",
-    "twitter": "@gitcommitshow"
-  },
-  {
-    "name": "YOW! London",
-    "url": "https://yowlondon.com/2022",
-    "startDate": "2022-11-28",
-    "endDate": "2022-11-30",
-    "city": "London",
-    "country": "U.K.",
-    "online": true,
-    "cocUrl": "https://yowlondon.com/2022/code-of-conduct",
-    "twitter": "@gotocon"
   },
   {
     "name": "Conf42 DevSecOps",

@@ -62,34 +62,6 @@
     "twitter": "@jsworldconf"
   },
   {
-    "name": "Devworld Conference",
-    "url": "https://devworldconference.com",
-    "startDate": "2024-02-29",
-    "endDate": "2024-03-01",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://devworldconference.com/code-of-conduct",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSePbiKSSOLKQOJqG65ifQ0KtY1dsqPqA7N0pu9QY1bK1-ciDQ/viewform",
-    "cfpEndDate": "2023-09-30",
-    "twitter": "@devworld_conf"
-  },
-  {
-    "name": "Open Source Day",
-    "url": "https://2024.osday.dev",
-    "startDate": "2024-03-07",
-    "endDate": "2024-03-08",
-    "city": "Florence",
-    "country": "Italy",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://2024.osday.dev/code-of-conduct",
-    "cfpUrl": "https://sessionize.com/opensourceday24",
-    "cfpEndDate": "2024-01-31",
-    "twitter": "@schrodinger_hat"
-  },
-  {
     "name": "Frontrunners",
     "url": "https://frontrunners.tech",
     "startDate": "2024-03-08",
@@ -308,17 +280,6 @@
     "twitter": "@AngularBelgrade"
   },
   {
-    "name": "Frontend Nation",
-    "url": "https://frontendnation.com",
-    "startDate": "2024-06-04",
-    "endDate": "2024-06-07",
-    "online": true,
-    "locales": "EN",
-    "cfpUrl": "https://forms.gle/NkmrpzoPESvAawq48",
-    "cfpEndDate": "2024-04-30",
-    "twitter": "@frontendnation"
-  },
-  {
     "name": "SAP UI5con",
     "url": "https://openui5.org/ui5con/germany2024",
     "startDate": "2024-06-05",
@@ -329,18 +290,6 @@
     "locales": "EN,DE",
     "cocUrl": "https://openui5.org/ui5con/germany2024/codeofconduct.html",
     "twitter": "@OpenUI5"
-  },
-  {
-    "name": "DeveloperWeek Latin America",
-    "url": "https://www.developerweek.com/latin-america",
-    "startDate": "2024-06-05",
-    "endDate": "2024-06-06",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "cfpUrl": "https://sessionize.com/developerweek-latin-america-2024",
-    "cfpEndDate": "2024-04-21",
-    "twitter": "@DeveloperWeek"
   },
   {
     "name": "CityJS Athens",
@@ -365,19 +314,6 @@
     "locales": "EN",
     "cocUrl": "https://jscraftcamp.org/values",
     "twitter": "@JSCraftCamp"
-  },
-  {
-    "name": "Big Sky Dev Con",
-    "url": "https://bigskydevcon.com",
-    "startDate": "2024-06-08",
-    "endDate": "2024-06-08",
-    "city": "Bozeman, MT",
-    "country": "U.S.A.",
-    "online": false,
-    "locales": "EN",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeDNjPCp4iRPcs11xPIn6ikJ3QhliCspbN_5n0SsqIBP-tA8w/viewform",
-    "cfpEndDate": "2024-04-01",
-    "twitter": "@BigSkyDevCon"
   },
   {
     "name": "JS Conf Armenia",
@@ -406,21 +342,6 @@
     "cfpUrl": "https://conference.eurostarsoftwaretesting.com/call-for-submissions",
     "cfpEndDate": "2023-09-17",
     "twitter": "@esconfs"
-  },
-  {
-    "name": "RenderATL",
-    "url": "https://RenderATL.com",
-    "startDate": "2024-06-12",
-    "endDate": "2024-06-14",
-    "city": "Atlanta, GA",
-    "country": "U.S.A.",
-    "online": false,
-    "locales": "EN",
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://renderatl.com/code-of-conduct",
-    "cfpUrl": "https://renderatl.com/cfp",
-    "cfpEndDate": "2023-11-13",
-    "twitter": "@RenderATL"
   },
   {
     "name": "Future Frontend",
@@ -811,18 +732,6 @@
     "twitter": "@fwdays"
   },
   {
-    "name": "JavaScript & Angular Days",
-    "url": "https://javascript-days.de/berlin",
-    "startDate": "2024-10-21",
-    "endDate": "2024-10-24",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "locales": "DE",
-    "cocUrl": "https://javascript-days.de/code-of-conduct/",
-    "twitter": "@js_days"
-  },
-  {
     "name": "CypressConf",
     "url": "https://www.cypress.io/blog/2024/04/02/cypressconf-2024-cfp",
     "startDate": "2024-10-22",
@@ -986,34 +895,6 @@
     "cfpUrl": "https://javascript-conference.com/singapore/call-for-papers-sing",
     "cfpEndDate": "2024-05-13",
     "twitter": "@JavaScriptCon"
-  },
-  {
-    "name": "Web Directions Summit",
-    "url": "https://webdirections.org/dev-summit/",
-    "startDate": "2024-11-27",
-    "endDate": "2024-11-28",
-    "city": "Sydney",
-    "country": "Australia",
-    "online": true,
-    "locales": "EN",
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
-    "cfpUrl": "https://webdirections.org/speaking",
-    "twitter": "@webdirections"
-  },
-  {
-    "name": "WeyWeyWeb",
-    "url": "https://www.weyweyweb.com",
-    "startDate": "2024-11-27",
-    "endDate": "2024-11-29",
-    "city": "Malaga",
-    "country": "Spain",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://recursos.yeswetech.org/guias/codigo-de-conducta/en-code-of-conduct",
-    "cfpUrl": "https://forms.gle/9PMZza735aVeDBaV7",
-    "cfpEndDate": "2024-06-30",
-    "twitter": "@WeyWeyWeb"
   },
   {
     "name": "CityJS Athens",

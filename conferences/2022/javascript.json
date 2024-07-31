@@ -91,16 +91,6 @@
     "twitter": "@enterjsconf"
   },
   {
-    "name": "Software Architecture Summit",
-    "url": "https://software-architecture-summit.de/muenchen",
-    "startDate": "2022-03-14",
-    "endDate": "2022-03-16",
-    "city": "Munich",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@SoftwArchSummit"
-  },
-  {
     "name": "StrapiConf",
     "url": "https://conf.strapi.io",
     "startDate": "2022-03-16",
@@ -312,15 +302,6 @@
     "twitter": "@reactathon"
   },
   {
-    "name": "QCon Plus Online Software Conference",
-    "url": "https://plus.qconferences.com",
-    "startDate": "2022-05-10",
-    "endDate": "2022-05-20",
-    "online": true,
-    "offersSignLanguageOrCC": true,
-    "twitter": "@QCon"
-  },
-  {
     "name": "WeAreDevelopers JavaScript Day",
     "url": "https://www.wearedevelopers.com/event/javascript-day-0518",
     "startDate": "2022-05-18",
@@ -330,17 +311,6 @@
     "cfpUrl": "https://www.wearedevelopers.com/speakers/cfp",
     "cfpEndDate": "2022-04-27",
     "twitter": "@WeAreDevs"
-  },
-  {
-    "name": "THAT Conference",
-    "url": "https://that.us/events/tx/2022",
-    "startDate": "2022-05-23",
-    "endDate": "2022-05-26",
-    "city": "Round Rock, TX",
-    "country": "U.S.A.",
-    "online": false,
-    "cocUrl": "https://that.us/support/code-of-conduct/",
-    "twitter": "@thatconference"
   },
   {
     "name": "Remix Conf",
@@ -438,19 +408,6 @@
     "online": true,
     "cfpUrl": "https://sessionize.com/wearedevs2022",
     "cfpEndDate": "2022-01-31"
-  },
-  {
-    "name": "Prisma Day",
-    "url": "https://www.prisma.io/day",
-    "startDate": "2022-06-15",
-    "endDate": "2022-06-16",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "cocUrl": "https://github.com/prisma/prisma/blob/main/CODE_OF_CONDUCT.md",
-    "cfpUrl": "https://prisma103696.typeform.com/to/Gm9zMrKA",
-    "cfpEndDate": "2022-04-25",
-    "twitter": "@prisma"
   },
   {
     "name": "JSNation Conference",
@@ -571,19 +528,6 @@
     "twitter": "@fwdays"
   },
   {
-    "name": "THAT Conference",
-    "url": "https://that.us/events/wi/2022",
-    "startDate": "2022-07-25",
-    "endDate": "2022-07-28",
-    "city": "Wisconsin Dells, WI",
-    "country": "U.S.A.",
-    "online": false,
-    "cocUrl": "https://that.us/support/code-of-conduct/",
-    "cfpUrl": "https://that.us/call-for-counselors/wi/2022",
-    "cfpEndDate": "2022-03-01",
-    "twitter": "@thatconference"
-  },
-  {
     "name": "FullStack eXchange",
     "url": "https://skillsmatter.com/conferences/13770-fullstack-exchange-2022",
     "startDate": "2022-07-27",
@@ -640,19 +584,6 @@
     "online": true,
     "cocUrl": "https://smashingconf.com/codeofconduct",
     "twitter": "@smashingconf"
-  },
-  {
-    "name": "Herbstcampus",
-    "url": "https://www.herbstcampus.de",
-    "startDate": "2022-09-06",
-    "endDate": "2022-09-08",
-    "city": "Nürnberg",
-    "country": "Germany",
-    "online": false,
-    "cocUrl": "https://www.herbstcampus.de/code_of_conduct.php",
-    "cfpUrl": "https://www.herbstcampus.de/cfp.php",
-    "cfpEndDate": "2022-05-09",
-    "twitter": "@Herbstcampus"
   },
   {
     "name": "NodeJS One Africa",
@@ -769,17 +700,6 @@
     "online": true,
     "cocUrl": "https://reactalicante.es/code-of-conduct",
     "twitter": "@reactalicante"
-  },
-  {
-    "name": "Git Commit Show",
-    "url": "https://gitcommit.show",
-    "startDate": "2022-10-01",
-    "endDate": "2022-10-02",
-    "online": true,
-    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdFuHEOT9i5KBEOL56nbwn6HNGpsgGL55JGwwXYFdjC4kqnHw/viewform",
-    "cfpEndDate": "2022-09-30",
-    "twitter": "@gitcommitshow"
   },
   {
     "name": "vuejs.de Conf",
@@ -902,17 +822,6 @@
     "online": true,
     "cocUrl": "https://docs.google.com/document/d/1biFWD08Wrd99gRZNv4Q1tawEYGZEI3bd3J55E5uG2ZU/edit",
     "twitter": "@NxDevTools"
-  },
-  {
-    "name": "JavaScript/Angular/React/HTML & CSS Days",
-    "url": "https://javascript-days.de/berlin",
-    "startDate": "2022-10-17",
-    "endDate": "2022-10-20",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "cocUrl": "https://javascript-days.de/code-of-conduct/",
-    "twitter": "@JS_Days"
   },
   {
     "name": "React Days",
@@ -1096,17 +1005,6 @@
     "twitter": "@fwdays"
   },
   {
-    "name": "BUILD STUFF",
-    "url": "https://www.buildstuff.events",
-    "startDate": "2022-11-09",
-    "endDate": "2022-11-11",
-    "city": "Vilnius",
-    "country": "Lithuania",
-    "online": true,
-    "cocUrl": "https://www.buildstuff.events/code-of-conduct",
-    "twitter": "@BuildStuffConf"
-  },
-  {
     "name": "JSWORLD Conference USA",
     "url": "https://usa.jsworldconference.com",
     "startDate": "2022-11-11",
@@ -1142,19 +1040,6 @@
     "twitter": "@neo4j"
   },
   {
-    "name": "Codeurs en Seine",
-    "url": "https://www.codeursenseine.com/2022",
-    "startDate": "2022-11-17",
-    "endDate": "2022-11-17",
-    "city": "Rouen",
-    "country": "France",
-    "online": false,
-    "cocUrl": "https://www.codeursenseine.com/2022/code-of-conduct",
-    "cfpUrl": "https://conference-hall.io/public/event/Uv6XULhgmt7z2YuoJ8nq",
-    "cfpEndDate": "2022-09-16",
-    "twitter": "@codeursenseine"
-  },
-  {
     "name": "Conf42 JavaScript",
     "url": "https://www.conf42.com/js2022",
     "startDate": "2022-11-17",
@@ -1177,17 +1062,6 @@
     "cfpUrl": "https://2022.vueday.it/welcome/cfp.html",
     "cfpEndDate": "2022-08-21",
     "twitter": "@vuedayit"
-  },
-  {
-    "name": "Git Commit Show",
-    "url": "https://gitcommit.show",
-    "startDate": "2022-11-26",
-    "endDate": "2022-11-27",
-    "online": true,
-    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub",
-    "cfpUrl": "http://push.gitcommit.show",
-    "cfpEndDate": "2022-10-26",
-    "twitter": "@gitcommitshow"
   },
   {
     "name": "XtremeJS Online Conference",

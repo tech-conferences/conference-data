@@ -50,19 +50,6 @@
     "twitter": "@appjsconf"
   },
   {
-    "name": "Prisma Day",
-    "url": "https://www.prisma.io/day",
-    "startDate": "2022-06-15",
-    "endDate": "2022-06-16",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "cocUrl": "https://github.com/prisma/prisma/blob/main/CODE_OF_CONDUCT.md",
-    "cfpUrl": "https://prisma103696.typeform.com/to/Gm9zMrKA",
-    "cfpEndDate": "2022-04-25",
-    "twitter": "@prisma"
-  },
-  {
     "name": "React Summit",
     "url": "https://reactsummit.com",
     "startDate": "2022-06-17",
@@ -99,19 +86,6 @@
     "offersSignLanguageOrCC": true,
     "cocUrl": "https://2022.cascadiajs.com/code-of-conduct",
     "twitter": "@cascadiajs"
-  },
-  {
-    "name": "Infobip Shift",
-    "url": "https://shift.infobip.com",
-    "startDate": "2022-09-19",
-    "endDate": "2022-09-20",
-    "city": "Zadar",
-    "country": "Croatia",
-    "online": true,
-    "cocUrl": "https://shift.infobip.com/code/",
-    "cfpUrl": "https://sessionize.com/infobipshift",
-    "cfpEndDate": "2022-07-01",
-    "twitter": "@infobipshift"
   },
   {
     "name": "International JavaScript Conference",
@@ -152,17 +126,6 @@
     "twitter": "@fwdays"
   },
   {
-    "name": "BUILD STUFF",
-    "url": "https://www.buildstuff.events",
-    "startDate": "2022-11-09",
-    "endDate": "2022-11-11",
-    "city": "Vilnius",
-    "country": "Lithuania",
-    "online": true,
-    "cocUrl": "https://www.buildstuff.events/code-of-conduct",
-    "twitter": "@BuildStuffConf"
-  },
-  {
     "name": "Update Conference Prague",
     "url": "https://www.updateconference.net",
     "startDate": "2022-11-10",
@@ -183,14 +146,5 @@
     "online": true,
     "cocUrl": "https://enterjs.de/code_of_conduct.php",
     "twitter": "@enterjsconf"
-  },
-  {
-    "name": "DevTernity",
-    "url": "https://devternity.com",
-    "startDate": "2022-12-08",
-    "endDate": "2022-12-09",
-    "online": true,
-    "cocUrl": "https://devternity.com/code_of_conduct.html",
-    "twitter": "@devternity"
   }
 ]

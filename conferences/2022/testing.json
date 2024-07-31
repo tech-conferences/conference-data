@@ -42,16 +42,6 @@
     "twitter": "@QATestBilbao"
   },
   {
-    "name": "NVIDIA GTC",
-    "url": "https://www.nvidia.com/gtc",
-    "startDate": "2022-03-21",
-    "endDate": "2022-03-24",
-    "city": "San Jose, CA",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@NVIDIAGTC"
-  },
-  {
     "name": "Test Driven Conf",
     "url": "https://tdconf.ru",
     "startDate": "2022-04-28",
@@ -148,18 +138,6 @@
     "cfpUrl": "https://www.papercall.io/conf42-sre-2022",
     "cfpEndDate": "2022-05-06",
     "twitter": "@conf42com"
-  },
-  {
-    "name": "ACM Multimedia Systems Conference - MMSys",
-    "url": "https://mmsys2022.ie",
-    "startDate": "2022-06-14",
-    "endDate": "2022-06-17",
-    "city": "Athlone",
-    "country": "Ireland",
-    "online": false,
-    "cfpUrl": "https://mmsys2022.ie/downloads/MMSys2022_CallForPapers.pdf",
-    "cfpEndDate": "2022-01-21",
-    "twitter": "@acmmmsys"
   },
   {
     "name": "Romanian Testing Conference",
@@ -294,17 +272,6 @@
     "twitter": "@conf42com"
   },
   {
-    "name": "JCON-ONLINE",
-    "url": "https://jcon.one",
-    "startDate": "2022-09-20",
-    "endDate": "2022-09-23",
-    "online": true,
-    "cocUrl": "https://2022.jcon.one/code-of-conduct",
-    "cfpUrl": "https://2022.jcon.one/call-for-papers",
-    "cfpEndDate": "2022-03-31",
-    "twitter": "@jcon_conference"
-  },
-  {
     "name": "Conf42 Incident Management",
     "url": "https://www.conf42.com/im2022",
     "startDate": "2022-09-29",
@@ -415,16 +382,6 @@
     "cocUrl": "http://softwaretesting.news/national-software-testing-conference/code-of-conduct/"
   },
   {
-    "name": "Arm DevSummit",
-    "url": "https://devsummit.arm.com",
-    "startDate": "2022-10-26",
-    "endDate": "2022-10-27",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@Arm"
-  },
-  {
     "name": "CWIC: The Hyperconnected Human",
     "url": "https://www.cambridgewireless.co.uk/events/conferences/cwic",
     "startDate": "2022-11-02",
@@ -461,16 +418,6 @@
     "twitter": "@update_conf"
   },
   {
-    "name": "CTO Craft - Winter Conference",
-    "url": "https://conference.ctocraft.com",
-    "startDate": "2022-11-14",
-    "endDate": "2022-11-16",
-    "online": true,
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://conference.ctocraft.com/code-of-conduct/",
-    "twitter": "@CTOCraft"
-  },
-  {
     "name": "{unscripted}",
     "url": "https://www.unscriptedconf.io",
     "startDate": "2022-11-16",
@@ -491,17 +438,6 @@
     "twitter": "@perujug"
   },
   {
-    "name": "Git Commit Show",
-    "url": "https://gitcommit.show",
-    "startDate": "2022-11-26",
-    "endDate": "2022-11-27",
-    "online": true,
-    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub",
-    "cfpUrl": "http://push.gitcommit.show",
-    "cfpEndDate": "2022-10-26",
-    "twitter": "@gitcommitshow"
-  },
-  {
     "name": "MAD Summit",
     "url": "https://mad-summit.de/berlin",
     "startDate": "2022-11-28",
@@ -511,14 +447,5 @@
     "online": true,
     "cocUrl": "https://mad-summit.de/code-of-conduct/",
     "twitter": "@mad_summit"
-  },
-  {
-    "name": "DevTernity",
-    "url": "https://devternity.com",
-    "startDate": "2022-12-08",
-    "endDate": "2022-12-09",
-    "online": true,
-    "cocUrl": "https://devternity.com/code_of_conduct.html",
-    "twitter": "@devternity"
   }
 ]

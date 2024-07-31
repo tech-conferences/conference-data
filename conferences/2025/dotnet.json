@@ -1,29 +1,5 @@
 [
   {
-    "name": "BASTA! Spring",
-    "url": "https://basta.net/frankfurt-en",
-    "startDate": "2025-03-03",
-    "endDate": "2025-03-07",
-    "city": "Frankfurt am Main",
-    "country": "Germany",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://basta.net/code-of-conduct-en/",
-    "twitter": "@bastacon"
-  },
-  {
-    "name": "Visual Studio Live! (VSLive!) Las Vegas",
-    "url": "https://vslive.com/Events/Las-Vegas-2025",
-    "startDate": "2025-03-10",
-    "endDate": "2025-03-14",
-    "city": "Las Vegas, NV",
-    "country": "U.S.A.",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://vslive.com/pages/harassment.aspx",
-    "twitter": "@vslive"
-  },
-  {
     "name": "Future Tech  NL",
     "url": "https://futuretech.nl",
     "startDate": "2025-03-13",
@@ -59,17 +35,5 @@
     "locales": "EN",
     "cocUrl": "https://mlconference.ai/code-of-conduct",
     "twitter": "@mlconference"
-  },
-  {
-    "name": "DevOpsCon Berlin",
-    "url": "https://devopscon.io/berlin",
-    "startDate": "2025-06-16",
-    "endDate": "2025-06-19",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://devopscon.io/code-of-conduct",
-    "twitter": "@devops_con"
   }
 ]
