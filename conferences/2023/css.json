@@ -1,15 +1,5 @@
 [
   {
-    "name": "Refresh",
-    "url": "https://refresh.rocks/",
-    "startDate": "2023-01-26",
-    "endDate": "2023-01-27",
-    "city": "Tartu",
-    "country": "Estonia",
-    "online": false,
-    "twitter": "@RefreshRocks"
-  },
-  {
     "name": "enterJS Web-Performance Day",
     "url": "https://enterjs.de/web-performance.php",
     "startDate": "2023-02-15",
@@ -42,21 +32,6 @@
     "locales": "EN",
     "cocUrl": "https://javascript-conference.com/code-of-conduct/",
     "twitter": "@JavaScriptCon"
-  },
-  {
-    "name": "Remix Conf",
-    "url": "https://remix.run/conf",
-    "startDate": "2023-05-09",
-    "endDate": "2023-05-11",
-    "city": "Salt Lake City, UT",
-    "country": "U.S.A.",
-    "online": true,
-    "locales": "EN",
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://remix.run/conf/2023/coc",
-    "cfpUrl": "https://sessionize.com/remix-2023",
-    "cfpEndDate": "2023-02-08",
-    "twitter": "@remix_run"
   },
   {
     "name": "200 OK",
@@ -93,30 +68,6 @@
     "locales": "EN",
     "offersSignLanguageOrCC": true,
     "cocUrl": "https://smashingconf.com/codeofconduct"
-  },
-  {
-    "name": "RenderATL",
-    "url": "https://www.renderatl.com",
-    "startDate": "2023-05-31",
-    "endDate": "2023-06-02",
-    "city": "Atlanta, GA",
-    "country": "U.S.A.",
-    "online": false,
-    "cocUrl": "https://www.renderatl.com/codepolicy",
-    "twitter": "@RenderATL"
-  },
-  {
-    "name": "DrupalCon",
-    "url": "https://events.drupal.org/drupalcon",
-    "startDate": "2023-06-05",
-    "endDate": "2023-06-08",
-    "city": "Pittsburgh, PA",
-    "country": "U.S.A.",
-    "online": false,
-    "locales": "EN",
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://events.drupal.org/code-conduct",
-    "twitter": "@drupalcon"
   },
   {
     "name": "Web Directions Code",
@@ -183,31 +134,5 @@
     "locales": "DE",
     "cocUrl": "https://javascript-days.de/code-of-conduct/",
     "twitter": "@JS_Days"
-  },
-  {
-    "name": "MagnoliaJS",
-    "url": "https://www.magnoliajs.com",
-    "startDate": "2023-10-17",
-    "endDate": "2023-10-18",
-    "city": "Jackson, MS",
-    "country": "U.S.A.",
-    "online": true,
-    "cocUrl": "https://www.magnoliajs.com/conduct",
-    "twitter": "@magnoliajsconf"
-  },
-  {
-    "name": "Web Directions Summit",
-    "url": "https://webdirections.org/summit",
-    "startDate": "2023-10-26",
-    "endDate": "2023-10-27",
-    "city": "Sydney",
-    "country": "Australia",
-    "online": true,
-    "locales": "EN",
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
-    "cfpUrl": "https://webdirections.org/speaking",
-    "cfpEndDate": "2023-05-31",
-    "twitter": "@webdirections"
   }
 ]

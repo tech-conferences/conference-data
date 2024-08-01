@@ -16,28 +16,6 @@
     "twitter": "@skillsmatter"
   },
   {
-    "name": "QCon London",
-    "url": "https://qconlondon.com",
-    "startDate": "2022-04-04",
-    "endDate": "2022-04-06",
-    "city": "London",
-    "country": "U.K.",
-    "online": false,
-    "offersSignLanguageOrCC": true,
-    "twitter": "@qconlondon"
-  },
-  {
-    "name": "Developer Growth Summit",
-    "url": "https://www.codementor.io/events/developer-growth-summit",
-    "startDate": "2022-04-20",
-    "endDate": "2022-04-21",
-    "online": true,
-    "cocUrl": "https://codementor.notion.site/Codementor-Events-Code-of-Conduct-37b9714c926c47b4a222429b6e873f48",
-    "cfpUrl": "https://arcdotdev.typeform.com/to/JcAdJQgW",
-    "cfpEndDate": "2022-04-13",
-    "twitter": "@CodementorIO"
-  },
-  {
     "name": "inside agile",
     "url": "https://konf.inside-agile.de",
     "startDate": "2022-05-03",
@@ -69,18 +47,6 @@
     "twitter": "@CTOCraft"
   },
   {
-    "name": "Render-Atlanta (RenderATL)",
-    "url": "https://www.renderatl.com",
-    "startDate": "2022-06-01",
-    "endDate": "2022-06-04",
-    "city": "Atlanta, GA",
-    "country": "U.S.A.",
-    "online": false,
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "RenderATL.com/thecode",
-    "twitter": "@RenderATL"
-  },
-  {
     "name": "Agile Testing Days USA",
     "url": "https://agiletestingdays.us",
     "startDate": "2022-06-05",
@@ -102,42 +68,6 @@
     "cfpUrl": "https://ieee-wie-ilc.org/cfs2022",
     "cfpEndDate": "2022-02-01",
     "twitter": "@wieilc"
-  },
-  {
-    "name": "hub.berlin",
-    "url": "https://www.hub.berlin",
-    "startDate": "2022-06-22",
-    "endDate": "2022-06-23",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": false,
-    "cocUrl": "https://www.hub.berlin/join-us/faq",
-    "cfpUrl": "https://www.hub.berlin/business-festival-tickets-2022",
-    "cfpEndDate": "2022-06-21",
-    "twitter": "@hub.berlin"
-  },
-  {
-    "name": "LeanIX Connect Summit Europe",
-    "url": "https://www.leanix-connect.com/europe",
-    "startDate": "2022-09-20",
-    "endDate": "2022-09-21",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "cocUrl": "https://www.leanix-connect.com/code-of-conduct",
-    "twitter": "@leanix_net"
-  },
-  {
-    "name": "TestFlix",
-    "url": "https://www.thetesttribe.com/testflix-2022",
-    "startDate": "2022-10-08",
-    "endDate": "2022-10-09",
-    "online": true,
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://www.thetesttribe.com/event-policy-and-code-of-conduct/",
-    "cfpUrl": "https://www.thetesttribe.com/testflix-2022-call-for-papers",
-    "cfpEndDate": "2022-05-15",
-    "twitter": "@the_test_tribe"
   },
   {
     "name": "LeadDev San Francisco",
@@ -166,17 +96,6 @@
     "cfpUrl": "https://leaddev.submittable.com/submit/9d57534a-1130-42df-82e2-f8992d7a1a6b/leaddev-berlin-2022-call-for-proposals",
     "cfpEndDate": "2022-04-29",
     "twitter": "@TheLeadDev"
-  },
-  {
-    "name": "SpringOne",
-    "url": "https://springone.io",
-    "startDate": "2022-12-06",
-    "endDate": "2022-12-08",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "cocUrl": "https://springone.io/code-of-conduct",
-    "twitter": "@springone"
   },
   {
     "name": "Tech Leader Summit",

@@ -121,6 +121,19 @@
     "twitter": "@CodemoIT"
   },
   {
+    "name": "Open Source Festival",
+    "url": "https://festival.oscafrica.org",
+    "startDate": "2022-03-24",
+    "endDate": "2022-03-26",
+    "city": "Lagos",
+    "country": "Nigeria",
+    "online": true,
+    "offersSignLanguageOrCC": true,
+    "cfpUrl": "https://www.papercall.io/cfps/4213/submissions/new",
+    "cfpEndDate": "2022-01-27",
+    "twitter": "@oscafrica"
+  },
+  {
     "name": "ETHDubai",
     "url": "https://www.ethdubaiconf.org/",
     "startDate": "2022-03-29",
@@ -157,6 +170,17 @@
     "cfpUrl": "https://apiconference.net/call-for-papers",
     "cfpEndDate": "2021-11-02",
     "twitter": "@api_conference"
+  },
+  {
+    "name": "QCon London",
+    "url": "https://qconlondon.com",
+    "startDate": "2022-04-04",
+    "endDate": "2022-04-06",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "offersSignLanguageOrCC": true,
+    "twitter": "@qconlondon"
   },
   {
     "name": "Serverless Architecture Conference",
@@ -233,6 +257,19 @@
     "twitter": "@TheLeadDev"
   },
   {
+    "name": "Nullcon International Conference and Training Berlin",
+    "url": "https://nullcon.net",
+    "startDate": "2022-04-08",
+    "endDate": "2022-04-09",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "cocUrl": "https://nullcon.net/about-conferencepolicy/",
+    "cfpUrl": "https://nullcon.net/berlin-2022/cfp",
+    "cfpEndDate": "2022-01-15",
+    "twitter": "@nullcon"
+  },
+  {
     "name": "Dev Nexus",
     "url": "https://devnexus.com",
     "startDate": "2022-04-11",
@@ -253,6 +290,30 @@
     "online": true,
     "cocUrl": "https://nepal.cloudsummit.live/code-of-conduct/",
     "twitter": "@cloudsummitlive"
+  },
+  {
+    "name": "Developer Growth Summit",
+    "url": "https://www.codementor.io/events/developer-growth-summit",
+    "startDate": "2022-04-20",
+    "endDate": "2022-04-21",
+    "online": true,
+    "cocUrl": "https://codementor.notion.site/Codementor-Events-Code-of-Conduct-37b9714c926c47b4a222429b6e873f48",
+    "cfpUrl": "https://arcdotdev.typeform.com/to/JcAdJQgW",
+    "cfpEndDate": "2022-04-13",
+    "twitter": "@CodementorIO"
+  },
+  {
+    "name": "TypeVille",
+    "url": "https://www.typeville.io",
+    "startDate": "2022-04-20",
+    "endDate": "2022-04-22",
+    "city": "Krynica Zdrój",
+    "country": "Poland",
+    "online": false,
+    "cocUrl": "https://www.typeville.io/",
+    "cfpUrl": "https://sml.io/typeville",
+    "cfpEndDate": "2022-01-09",
+    "twitter": "@typevilleconf"
   },
   {
     "name": "Northern Virginia Software Symposium",
@@ -408,6 +469,18 @@
     "twitter": "@NDC_Conferences"
   },
   {
+    "name": "Render-Atlanta (RenderATL)",
+    "url": "https://www.renderatl.com",
+    "startDate": "2022-06-01",
+    "endDate": "2022-06-04",
+    "city": "Atlanta, GA",
+    "country": "U.S.A.",
+    "online": false,
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "RenderATL.com/thecode",
+    "twitter": "@RenderATL"
+  },
+  {
     "name": "LeadDev London",
     "url": "https://leaddev.com/leaddev-london",
     "startDate": "2022-06-07",
@@ -430,6 +503,20 @@
     "twitter": "@SUSE"
   },
   {
+    "name": "App.js Conf",
+    "url": "https://appjs.co",
+    "startDate": "2022-06-08",
+    "endDate": "2022-06-10",
+    "city": "Kraków",
+    "country": "Poland",
+    "online": true,
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://appjs.co/Code-of-Conduct.pdf",
+    "cfpUrl": "https://docs.google.com/forms/d/1-TUgnCqqGsTufBv2W5Nn8rXzoBg7qpBZKoQT0qKp7jA/edit",
+    "cfpEndDate": "2022-02-22",
+    "twitter": "@appjsconf"
+  },
+  {
     "name": "GOTO Aarhus",
     "url": "https://gotoaarhus.com",
     "startDate": "2022-06-13",
@@ -439,6 +526,17 @@
     "online": false,
     "cocUrl": "https://gotoaarhus.com/2022/pages/code-of-conduct",
     "twitter": "@GOTOcon"
+  },
+  {
+    "name": "WeAreDevelopers World Congress",
+    "url": "https://www.wearedevelopers.com/world-congress/#",
+    "startDate": "2022-06-14",
+    "endDate": "2022-06-15",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/wearedevs2022",
+    "cfpEndDate": "2022-01-31"
   },
   {
     "name": "ACM Multimedia Systems Conference - MMSys",
@@ -466,6 +564,19 @@
     "twitter": "@prisma"
   },
   {
+    "name": "React Summit",
+    "url": "https://reactsummit.com",
+    "startDate": "2022-06-17",
+    "endDate": "2022-06-21",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": true,
+    "cocUrl": "https://reactsummit.com/coc",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfVG_bNAebxhlERx1do33ekcmkLx25f1wh478MPv2CW6UvMlw/viewform",
+    "cfpEndDate": "2022-03-20",
+    "twitter": "@ReactSummit"
+  },
+  {
     "name": "Valencia Tech Festival",
     "url": "https://vlctechfest.org",
     "startDate": "2022-06-18",
@@ -488,6 +599,32 @@
     "cfpUrl": "https://skillsmatter.com/conferences/13682-bazel-exchange#get_involved",
     "cfpEndDate": "2022-03-23",
     "twitter": "@skillsmatter"
+  },
+  {
+    "name": "JCON-PEOPLE",
+    "url": "https://jcon.one",
+    "startDate": "2022-06-21",
+    "endDate": "2022-06-22",
+    "city": "Munich",
+    "country": "Germany",
+    "online": false,
+    "cocUrl": "https://2022.jcon.one/code-of-conduct",
+    "cfpUrl": "https://sessionize.com/jcon-2022-people",
+    "cfpEndDate": "2022-03-31",
+    "twitter": "@jcon_conference"
+  },
+  {
+    "name": "hub.berlin",
+    "url": "https://www.hub.berlin",
+    "startDate": "2022-06-22",
+    "endDate": "2022-06-23",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "cocUrl": "https://www.hub.berlin/join-us/faq",
+    "cfpUrl": "https://www.hub.berlin/business-festival-tickets-2022",
+    "cfpEndDate": "2022-06-21",
+    "twitter": "@hub.berlin"
   },
   {
     "name": "DDD europe",
@@ -637,6 +774,18 @@
     "twitter": "@CodePaLOUsa"
   },
   {
+    "name": "CascadiaJS",
+    "url": "https://2022.cascadiajs.com",
+    "startDate": "2022-08-30",
+    "endDate": "2022-09-02",
+    "city": "Bend, OR",
+    "country": "U.S.A.",
+    "online": false,
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://2022.cascadiajs.com/code-of-conduct",
+    "twitter": "@cascadiajs"
+  },
+  {
     "name": "FlutterVikings",
     "url": "https://fluttervikings.com",
     "startDate": "2022-08-31",
@@ -712,6 +861,19 @@
     "twitter": "@ReactNewYork"
   },
   {
+    "name": "Nullcon International Security Conference and Training Goa",
+    "url": "https://nullcon.net/goa-2022",
+    "startDate": "2022-09-09",
+    "endDate": "2022-09-10",
+    "city": "Goa",
+    "country": "India",
+    "online": false,
+    "cocUrl": "https://nullcon.net/about-conferencepolicy/",
+    "cfpUrl": "https://nullcon.net/goa-2022/cfp",
+    "cfpEndDate": "2022-06-05",
+    "twitter": "@nullcon"
+  },
+  {
     "name": "Software Architecture Summit",
     "url": "https://software-architecture-summit.de/berlin",
     "startDate": "2022-09-12",
@@ -756,6 +918,17 @@
     "cfpUrl": "https://sessionize.com/infobipshift",
     "cfpEndDate": "2022-07-01",
     "twitter": "@infobipshift"
+  },
+  {
+    "name": "LeanIX Connect Summit Europe",
+    "url": "https://www.leanix-connect.com/europe",
+    "startDate": "2022-09-20",
+    "endDate": "2022-09-21",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "cocUrl": "https://www.leanix-connect.com/code-of-conduct",
+    "twitter": "@leanix_net"
   },
   {
     "name": "Grace Hopper Celebration",
@@ -936,6 +1109,18 @@
     "twitter": "@GOTOcon"
   },
   {
+    "name": "TestFlix",
+    "url": "https://www.thetesttribe.com/testflix-2022",
+    "startDate": "2022-10-08",
+    "endDate": "2022-10-09",
+    "online": true,
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://www.thetesttribe.com/event-policy-and-code-of-conduct/",
+    "cfpUrl": "https://www.thetesttribe.com/testflix-2022-call-for-papers",
+    "cfpEndDate": "2022-05-15",
+    "twitter": "@the_test_tribe"
+  },
+  {
     "name": "NDC Sydney",
     "url": "https://ndcsydney.com",
     "startDate": "2022-10-09",
@@ -969,6 +1154,17 @@
     "twitter": "@awscloud"
   },
   {
+    "name": "BASTA!",
+    "url": "https://basta.net/mainz-en",
+    "startDate": "2022-10-10",
+    "endDate": "2022-10-14",
+    "city": "Mainz",
+    "country": "Germany",
+    "online": true,
+    "cocUrl": "https://basta.net/code-of-conduct-en/",
+    "twitter": "@BASTAcon"
+  },
+  {
     "name": "Serverless Architecture Conference",
     "url": "https://serverless-architecture.io/berlin",
     "startDate": "2022-10-17",
@@ -1000,6 +1196,15 @@
     "cfpUrl": "https://extra.codemotion.com/conferencemilan2022-cfp",
     "cfpEndDate": "2022-07-08",
     "twitter": "@CodemotionIT"
+  },
+  {
+    "name": "JCON",
+    "url": "https://jcon.one",
+    "startDate": "2022-10-18",
+    "endDate": "2022-10-21",
+    "online": true,
+    "cocUrl": "https://jcon.one/code-of-conduct",
+    "twitter": "@jcon_conference"
   },
   {
     "name": "Indy.Code()",
@@ -1142,6 +1347,30 @@
     "twitter": "@KanDDDinsky"
   },
   {
+    "name": "CWIC: The Hyperconnected Human",
+    "url": "https://www.cambridgewireless.co.uk/events/conferences/cwic",
+    "startDate": "2022-11-02",
+    "endDate": "2022-11-02",
+    "city": "Cambridge",
+    "country": "U.K.",
+    "online": true,
+    "cfpUrl": "https://www.cambridgewireless.co.uk/events/conferences/cwic/cwic-call-speakers",
+    "cfpEndDate": "2022-08-19",
+    "twitter": "@CambWireless"
+  },
+  {
+    "name": "Developer Productivity Summit",
+    "url": "https://dpesummit.com",
+    "startDate": "2022-11-02",
+    "endDate": "2022-11-03",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "cfpUrl": "https://dpesummit.com/#speakers",
+    "cfpEndDate": "2022-11-01",
+    "twitter": "@dpesummit"
+  },
+  {
     "name": "SIGNAL",
     "url": "https://www.signal2022.com",
     "startDate": "2022-11-02",
@@ -1162,6 +1391,17 @@
     "cfpUrl": "https://heapcon.io/call-for-papers",
     "cfpEndDate": "2022-05-31",
     "twitter": "@Heapconf"
+  },
+  {
+    "name": "Lone Star Software Symposium",
+    "url": "https://nofluffjuststuff.com/austin",
+    "startDate": "2022-11-04",
+    "endDate": "2022-11-06",
+    "city": "Austin, TX",
+    "country": "U.S.A.",
+    "online": true,
+    "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct",
+    "twitter": "@nofluff"
   },
   {
     "name": "Jamstack Conf",
@@ -1232,6 +1472,41 @@
     "twitter": "@BuildStuffConf"
   },
   {
+    "name": "Enterprise GraphQL Conference",
+    "url": "https://hasura.io/enterprisegraphql",
+    "startDate": "2022-11-10",
+    "endDate": "2022-11-10",
+    "online": true,
+    "twitter": "@hasurahq"
+  },
+  {
+    "name": "Update Conference Prague",
+    "url": "https://www.updateconference.net",
+    "startDate": "2022-11-10",
+    "endDate": "2022-11-11",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "online": true,
+    "cocUrl": "https://www.updateconference.net/en/code-of-conduct",
+    "cfpUrl": "https://www.updateconference.net/2022/call-for-speakers",
+    "cfpEndDate": "2022-06-26",
+    "twitter": "@update_conf"
+  },
+  {
+    "name": "WordCamp Italia",
+    "url": "https://italia.wordcamp.org",
+    "startDate": "2022-11-11",
+    "endDate": "2022-11-12",
+    "city": "Milano",
+    "country": "Italy",
+    "online": true,
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://italia.wordcamp.org/2022/code-of-conduct/",
+    "cfpUrl": "https://italia.wordcamp.org/2022/en/call-for-speakers",
+    "cfpEndDate": "2022-09-15",
+    "twitter": "@WordCampItalia"
+  },
+  {
     "name": "TechRadarCon",
     "url": "https://techradarcon.com",
     "startDate": "2022-11-14",
@@ -1284,6 +1559,16 @@
     "twitter": "@AltinityDB"
   },
   {
+    "name": "Weave Sphere",
+    "url": "http://weavesphere.co",
+    "startDate": "2022-11-15",
+    "endDate": "2022-11-17",
+    "city": "Toronto",
+    "country": "Canada",
+    "online": false,
+    "twitter": "@weavesphere"
+  },
+  {
     "name": "DeveloperWeek Enterprise",
     "url": "https://www.developerweek.com/global/conference/enterprise",
     "startDate": "2022-11-16",
@@ -1293,6 +1578,16 @@
     "cfpUrl": "https://sessionize.com/developerweek-enterprise2022",
     "cfpEndDate": "2022-09-23",
     "twitter": "@DeveloperWeek"
+  },
+  {
+    "name": "NODES",
+    "url": "https://neo4j.com/nodes-2022",
+    "startDate": "2022-11-16",
+    "endDate": "2022-11-17",
+    "online": true,
+    "cfpUrl": "https://sessionize.com/neo4j-nodes-2022",
+    "cfpEndDate": "2022-08-20",
+    "twitter": "@neo4j"
   },
   {
     "name": "Codeurs en Seine",
@@ -1354,6 +1649,19 @@
     "cfpUrl": "https://webconf.tech/cfp",
     "cfpEndDate": "2022-10-01",
     "twitter": "@WebConfLATAM"
+  },
+  {
+    "name": "Agile Testing Days",
+    "url": "https://agiletestingdays.com",
+    "startDate": "2022-11-21",
+    "endDate": "2022-11-24",
+    "city": "Potsdam",
+    "country": "Germany",
+    "online": false,
+    "cocUrl": "https://agiletestingdays.com/code-of-conduct/",
+    "cfpUrl": "https://agiletestingdays.com/call-for-papers",
+    "cfpEndDate": "2022-03-20",
+    "twitter": "@AgileTD"
   },
   {
     "name": "Codemotion Online Conference Spanish Edition",
@@ -1421,6 +1729,15 @@
     "twitter": "@INNOQ"
   },
   {
+    "name": "enterJS Web-Performance Day",
+    "url": "https://enterjs.de/web-performance.php",
+    "startDate": "2022-12-01",
+    "endDate": "2022-12-01",
+    "online": true,
+    "cocUrl": "https://enterjs.de/code_of_conduct.php",
+    "twitter": "@enterjsconf"
+  },
+  {
     "name": "Oπe\\n Conf Athens",
     "url": "https://www.open-conf.gr/",
     "startDate": "2022-12-02",
@@ -1455,6 +1772,17 @@
     "online": true,
     "cocUrl": "https://clean-architecture.bettercode.eu/code_of_conduct.php",
     "twitter": "@bettercodeconf"
+  },
+  {
+    "name": "SpringOne",
+    "url": "https://springone.io",
+    "startDate": "2022-12-06",
+    "endDate": "2022-12-08",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "cocUrl": "https://springone.io/code-of-conduct",
+    "twitter": "@springone"
   },
   {
     "name": "ABAPConf",

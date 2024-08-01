@@ -11,42 +11,6 @@
     "twitter": "@sec4dev"
   },
   {
-    "name": "Nullcon International Conference and Training Berlin",
-    "url": "https://nullcon.net",
-    "startDate": "2022-04-08",
-    "endDate": "2022-04-09",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": false,
-    "cocUrl": "https://nullcon.net/about-conferencepolicy/",
-    "cfpUrl": "https://nullcon.net/berlin-2022/cfp",
-    "cfpEndDate": "2022-01-15",
-    "twitter": "@nullcon"
-  },
-  {
-    "name": "TestFlix",
-    "url": "https://www.thetesttribe.com/testflix-2022",
-    "startDate": "2022-10-08",
-    "endDate": "2022-10-09",
-    "online": true,
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://www.thetesttribe.com/event-policy-and-code-of-conduct/",
-    "cfpUrl": "https://www.thetesttribe.com/testflix-2022-call-for-papers",
-    "cfpEndDate": "2022-05-15",
-    "twitter": "@the_test_tribe"
-  },
-  {
-    "name": "BASTA!",
-    "url": "https://basta.net/mainz-en",
-    "startDate": "2022-10-10",
-    "endDate": "2022-10-14",
-    "city": "Mainz",
-    "country": "Germany",
-    "online": true,
-    "cocUrl": "https://basta.net/code-of-conduct-en/",
-    "twitter": "@BASTAcon"
-  },
-  {
     "name": "API Conference Berlin",
     "url": "https://apiconference.net/berlin",
     "startDate": "2022-10-17",
@@ -78,19 +42,6 @@
     "online": true,
     "cocUrl": "https://events.linuxfoundation.org/about/code-of-conduct/",
     "twitter": "@AsyncAPISpec"
-  },
-  {
-    "name": "Update Conference Prague",
-    "url": "https://www.updateconference.net",
-    "startDate": "2022-11-10",
-    "endDate": "2022-11-11",
-    "city": "Prague",
-    "country": "Czech Republic",
-    "online": true,
-    "cocUrl": "https://www.updateconference.net/en/code-of-conduct",
-    "cfpUrl": "https://www.updateconference.net/2022/call-for-speakers",
-    "cfpEndDate": "2022-06-26",
-    "twitter": "@update_conf"
   },
   {
     "name": "API Camp",

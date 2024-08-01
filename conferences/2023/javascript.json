@@ -22,16 +22,6 @@
     "cocUrl": "https://cfe.dev/conduct/"
   },
   {
-    "name": "Refresh",
-    "url": "https://refresh.rocks/",
-    "startDate": "2023-01-26",
-    "endDate": "2023-01-27",
-    "city": "Tartu",
-    "country": "Estonia",
-    "online": false,
-    "twitter": "@RefreshRocks"
-  },
-  {
     "name": "WeAreDevelopers Vue.js Day",
     "url": "https://www.wearedevelopers.com/event/vue-js-day-february-2023",
     "startDate": "2023-02-01",
@@ -166,45 +156,6 @@
     "twitter": "@JS_Days"
   },
   {
-    "name": "Apprise Conf",
-    "url": "https://appriseconf.com",
-    "startDate": "2023-03-23",
-    "endDate": "2023-03-23",
-    "city": "Oslo",
-    "country": "Norway",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://appriseconf.com/coc.html",
-    "cfpUrl": "https://forms.gle/63C6sSAbzFLFzpX17",
-    "cfpEndDate": "2023-01-31",
-    "twitter": "@appriseconf"
-  },
-  {
-    "name": "Open Source Day",
-    "url": "https://2023.osday.dev",
-    "startDate": "2023-03-24",
-    "endDate": "2023-03-24",
-    "city": "Florence",
-    "country": "Italy",
-    "online": true,
-    "locales": "EN,IT",
-    "cocUrl": "https://www.schrodinger-hat.it/code-of-conduct",
-    "cfpUrl": "https://sessionize.com/opensourceday23",
-    "cfpEndDate": "2023-02-05",
-    "twitter": "@OSDayDev"
-  },
-  {
-    "name": "QCon London International Software Development Conference",
-    "url": "https://qconlondon.com",
-    "startDate": "2023-03-27",
-    "endDate": "2023-03-29",
-    "city": "London",
-    "country": "U.K.",
-    "online": false,
-    "cocUrl": "https://qconferences.com/code-conduct",
-    "twitter": "@QCon"
-  },
-  {
     "name": "CityJS Conference London",
     "url": "https://london.cityjsconf.org",
     "startDate": "2023-03-29",
@@ -216,20 +167,6 @@
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeHxOmoGqlJtUptbh4390ywKnzqiFUG1W-qgwCGUWKwRLj19w/viewform",
     "cfpEndDate": "2022-12-31",
     "twitter": "@cityjsconf"
-  },
-  {
-    "name": "Devoxx France",
-    "url": "https://devoxx.fr",
-    "startDate": "2023-04-12",
-    "endDate": "2023-04-14",
-    "city": "Paris",
-    "country": "France",
-    "online": false,
-    "locales": "EN,FR",
-    "cocUrl": "https://www.devoxx.fr/presenter-a-devoxx/code-de-conduite/",
-    "cfpUrl": "https://cfp.devoxx.fr",
-    "cfpEndDate": "2023-01-08",
-    "twitter": "@DevoxxFR"
   },
   {
     "name": "Node Congress",
@@ -300,33 +237,6 @@
     "twitter": "@reactathon"
   },
   {
-    "name": "JAX",
-    "url": "https://jax.de/mainz",
-    "startDate": "2023-05-08",
-    "endDate": "2023-05-12",
-    "city": "Mainz",
-    "country": "Germany",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://jax.de/code-of-conduct/",
-    "twitter": "@jaxcon"
-  },
-  {
-    "name": "Remix Conf",
-    "url": "https://remix.run/conf",
-    "startDate": "2023-05-09",
-    "endDate": "2023-05-11",
-    "city": "Salt Lake City, UT",
-    "country": "U.S.A.",
-    "online": true,
-    "locales": "EN",
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://remix.run/conf/2023/coc",
-    "cfpUrl": "https://sessionize.com/remix-2023",
-    "cfpEndDate": "2023-02-08",
-    "twitter": "@remix_run"
-  },
-  {
     "name": "OpenJS World",
     "url": "https://events.linuxfoundation.org/open-source-summit-north-america/about/openjs-world/",
     "startDate": "2023-05-10",
@@ -349,20 +259,6 @@
     "locales": "EN",
     "cocUrl": "https://www.techlahoma.org/code-of-conduct/",
     "twitter": "@200okconf"
-  },
-  {
-    "name": "BeJS Conf",
-    "url": "https://www.bejs.io/conf",
-    "startDate": "2023-05-12",
-    "endDate": "2023-05-12",
-    "city": "Brussels",
-    "country": "Belgium",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://www.bejs.io/code-of-conduct",
-    "cfpUrl": "https://forms.gle/2cMQNF39mwMiQgG98",
-    "cfpEndDate": "2023-02-17",
-    "twitter": "@BeJS_"
   },
   {
     "name": "TechSaloniki",
@@ -478,17 +374,6 @@
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScK-LAQC_ZBlLOZ8HzzAMjwZq8BX6kFqXom9UIk8WQlwPqfJw/viewform",
     "cfpEndDate": "2023-03-31",
     "twitter": "@cityjsconf"
-  },
-  {
-    "name": "RenderATL",
-    "url": "https://www.renderatl.com",
-    "startDate": "2023-05-31",
-    "endDate": "2023-06-02",
-    "city": "Atlanta, GA",
-    "country": "U.S.A.",
-    "online": false,
-    "cocUrl": "https://www.renderatl.com/codepolicy",
-    "twitter": "@RenderATL"
   },
   {
     "name": "JSNation",
@@ -1017,17 +902,6 @@
     "twitter": "@JS_Days"
   },
   {
-    "name": "MagnoliaJS",
-    "url": "https://www.magnoliajs.com",
-    "startDate": "2023-10-17",
-    "endDate": "2023-10-18",
-    "city": "Jackson, MS",
-    "country": "U.S.A.",
-    "online": true,
-    "cocUrl": "https://www.magnoliajs.com/conduct",
-    "twitter": "@magnoliajsconf"
-  },
-  {
     "name": "React+TS fwdays",
     "url": "https://fwdays.com/en/event/react-ts-fwdays-2023",
     "startDate": "2023-10-17",
@@ -1092,21 +966,6 @@
     "locales": "EN",
     "cfpUrl": "https://vercel.fyi/cfp",
     "cfpEndDate": "2023-09-24"
-  },
-  {
-    "name": "Web Directions Summit",
-    "url": "https://webdirections.org/summit",
-    "startDate": "2023-10-26",
-    "endDate": "2023-10-27",
-    "city": "Sydney",
-    "country": "Australia",
-    "online": true,
-    "locales": "EN",
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
-    "cfpUrl": "https://webdirections.org/speaking",
-    "cfpEndDate": "2023-05-31",
-    "twitter": "@webdirections"
   },
   {
     "name": "reactjsday",

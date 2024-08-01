@@ -18,19 +18,6 @@
     "online": true
   },
   {
-    "name": "Nullcon International Conference and Training Berlin",
-    "url": "https://nullcon.net",
-    "startDate": "2022-04-08",
-    "endDate": "2022-04-09",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": false,
-    "cocUrl": "https://nullcon.net/about-conferencepolicy/",
-    "cfpUrl": "https://nullcon.net/berlin-2022/cfp",
-    "cfpEndDate": "2022-01-15",
-    "twitter": "@nullcon"
-  },
-  {
     "name": "Droidcon Lisbon",
     "url": "https://www.lisbon.droidcon.com",
     "startDate": "2022-04-21",
@@ -64,31 +51,6 @@
     "cfpEndDate": "2022-04-01"
   },
   {
-    "name": "App.js Conf",
-    "url": "https://appjs.co",
-    "startDate": "2022-06-08",
-    "endDate": "2022-06-10",
-    "city": "Kraków",
-    "country": "Poland",
-    "online": true,
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://appjs.co/Code-of-Conduct.pdf",
-    "cfpUrl": "https://docs.google.com/forms/d/1-TUgnCqqGsTufBv2W5Nn8rXzoBg7qpBZKoQT0qKp7jA/edit",
-    "cfpEndDate": "2022-02-22",
-    "twitter": "@appjsconf"
-  },
-  {
-    "name": "WeAreDevelopers World Congress",
-    "url": "https://www.wearedevelopers.com/world-congress/#",
-    "startDate": "2022-06-14",
-    "endDate": "2022-06-15",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/wearedevs2022",
-    "cfpEndDate": "2022-01-31"
-  },
-  {
     "name": "Droidcon Berlin",
     "url": "https://www.berlin.droidcon.com",
     "startDate": "2022-07-06",
@@ -119,19 +81,6 @@
     "cocUrl": "https://www.nyc.droidcon.com/code-of-conduct"
   },
   {
-    "name": "Nullcon International Security Conference and Training Goa",
-    "url": "https://nullcon.net/goa-2022",
-    "startDate": "2022-09-09",
-    "endDate": "2022-09-10",
-    "city": "Goa",
-    "country": "India",
-    "online": false,
-    "cocUrl": "https://nullcon.net/about-conferencepolicy/",
-    "cfpUrl": "https://nullcon.net/goa-2022/cfp",
-    "cfpEndDate": "2022-06-05",
-    "twitter": "@nullcon"
-  },
-  {
     "name": "Droidcon London",
     "url": "https://www.london.droidcon.com",
     "startDate": "2022-10-27",
@@ -140,17 +89,5 @@
     "country": "U.K.",
     "online": false,
     "cocUrl": "https://www.london.droidcon.com/code-of-conduct"
-  },
-  {
-    "name": "Developer Productivity Summit",
-    "url": "https://dpesummit.com",
-    "startDate": "2022-11-02",
-    "endDate": "2022-11-03",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://dpesummit.com/#speakers",
-    "cfpEndDate": "2022-11-01",
-    "twitter": "@dpesummit"
   }
 ]

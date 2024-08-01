@@ -10,19 +10,6 @@
     "locales": "EN,HI"
   },
   {
-    "name": "VeryTechTrip",
-    "url": "https://verytechtrip.com",
-    "startDate": "2023-02-02",
-    "endDate": "2023-02-02",
-    "city": "Paris",
-    "country": "France",
-    "online": false,
-    "locales": "FR",
-    "cfpUrl": "https://conference-hall.io/public/event/hoyBWUXe43dnoiBekZaB",
-    "cfpEndDate": "2022-11-14",
-    "twitter": "@OVHcloud_Tech"
-  },
-  {
     "name": "Develop",
     "url": "https://developer.cisco.com/develop/2023",
     "startDate": "2023-04-05",
@@ -59,20 +46,6 @@
     "twitter": "@the_test_tribe"
   },
   {
-    "name": "BeJS Conf",
-    "url": "https://www.bejs.io/conf",
-    "startDate": "2023-05-12",
-    "endDate": "2023-05-12",
-    "city": "Brussels",
-    "country": "Belgium",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://www.bejs.io/code-of-conduct",
-    "cfpUrl": "https://forms.gle/2cMQNF39mwMiQgG98",
-    "cfpEndDate": "2023-02-17",
-    "twitter": "@BeJS_"
-  },
-  {
     "name": "phpday",
     "url": "https://2023.phpday.it",
     "startDate": "2023-05-18",
@@ -87,17 +60,6 @@
     "twitter": "@phpday"
   },
   {
-    "name": "RenderATL",
-    "url": "https://www.renderatl.com",
-    "startDate": "2023-05-31",
-    "endDate": "2023-06-02",
-    "city": "Atlanta, GA",
-    "country": "U.S.A.",
-    "online": false,
-    "cocUrl": "https://www.renderatl.com/codepolicy",
-    "twitter": "@RenderATL"
-  },
-  {
     "name": "MAD Summit München",
     "url": "https://mad-summit.de/muenchen",
     "startDate": "2023-06-19",
@@ -108,20 +70,6 @@
     "locales": "DE",
     "cocUrl": "https://mad-summit.de/muenchen/",
     "twitter": "@mad_summit"
-  },
-  {
-    "name": "JCON EUROPE",
-    "url": "https://2023.europe.jcon.one",
-    "startDate": "2023-06-20",
-    "endDate": "2023-06-23",
-    "city": "Cologne",
-    "country": "Germany",
-    "online": false,
-    "locales": "EN,DE",
-    "cocUrl": "https://2023.europe.jcon.one/code-of-conduct",
-    "cfpUrl": "https://2023.europe.jcon.one/call-for-papers",
-    "cfpEndDate": "2023-01-31",
-    "twitter": "@jcon_conference"
   },
   {
     "name": "OOP",

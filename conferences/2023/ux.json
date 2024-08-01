@@ -35,45 +35,6 @@
     "twitter": "@frontrunnersdc"
   },
   {
-    "name": "Apprise Conf",
-    "url": "https://appriseconf.com",
-    "startDate": "2023-03-23",
-    "endDate": "2023-03-23",
-    "city": "Oslo",
-    "country": "Norway",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://appriseconf.com/coc.html",
-    "cfpUrl": "https://forms.gle/63C6sSAbzFLFzpX17",
-    "cfpEndDate": "2023-01-31",
-    "twitter": "@appriseconf"
-  },
-  {
-    "name": "Open Source Day",
-    "url": "https://2023.osday.dev",
-    "startDate": "2023-03-24",
-    "endDate": "2023-03-24",
-    "city": "Florence",
-    "country": "Italy",
-    "online": true,
-    "locales": "EN,IT",
-    "cocUrl": "https://www.schrodinger-hat.it/code-of-conduct",
-    "cfpUrl": "https://sessionize.com/opensourceday23",
-    "cfpEndDate": "2023-02-05",
-    "twitter": "@OSDayDev"
-  },
-  {
-    "name": "QCon London International Software Development Conference",
-    "url": "https://qconlondon.com",
-    "startDate": "2023-03-27",
-    "endDate": "2023-03-29",
-    "city": "London",
-    "country": "U.K.",
-    "online": false,
-    "cocUrl": "https://qconferences.com/code-conduct",
-    "twitter": "@QCon"
-  },
-  {
     "name": "ConveyUX",
     "url": "https://conveyux.com",
     "startDate": "2023-05-02",
@@ -110,20 +71,6 @@
     "twitter": "@dibiconf"
   },
   {
-    "name": "BeJS Conf",
-    "url": "https://www.bejs.io/conf",
-    "startDate": "2023-05-12",
-    "endDate": "2023-05-12",
-    "city": "Brussels",
-    "country": "Belgium",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://www.bejs.io/code-of-conduct",
-    "cfpUrl": "https://forms.gle/2cMQNF39mwMiQgG98",
-    "cfpEndDate": "2023-02-17",
-    "twitter": "@BeJS_"
-  },
-  {
     "name": "webinale",
     "url": "https://webinale.de",
     "startDate": "2023-05-22",
@@ -136,16 +83,6 @@
     "twitter": "@webinale"
   },
   {
-    "name": "UXLx User Experience Lisbon",
-    "url": "https://www.ux-lx.com",
-    "startDate": "2023-05-23",
-    "endDate": "2023-05-26",
-    "city": "Lisbon",
-    "country": "Portugal",
-    "online": false,
-    "twitter": "@uxlx"
-  },
-  {
     "name": "DevSum",
     "url": "https://www.devsum.se",
     "startDate": "2023-05-25",
@@ -155,17 +92,6 @@
     "online": false,
     "locales": "EN",
     "cocUrl": "https://www.devsum.se/about/code-of-conduct"
-  },
-  {
-    "name": "RenderATL",
-    "url": "https://www.renderatl.com",
-    "startDate": "2023-05-31",
-    "endDate": "2023-06-02",
-    "city": "Atlanta, GA",
-    "country": "U.S.A.",
-    "online": false,
-    "cocUrl": "https://www.renderatl.com/codepolicy",
-    "twitter": "@RenderATL"
   },
   {
     "name": "Digital Design & UX Next",
@@ -192,20 +118,6 @@
     "cfpUrl": "https://pixelpioneers.co/call-for-speakers",
     "cfpEndDate": "2023-04-15",
     "twitter": "@pixelpioneers"
-  },
-  {
-    "name": "JCON EUROPE",
-    "url": "https://2023.europe.jcon.one",
-    "startDate": "2023-06-20",
-    "endDate": "2023-06-23",
-    "city": "Cologne",
-    "country": "Germany",
-    "online": false,
-    "locales": "EN,DE",
-    "cocUrl": "https://2023.europe.jcon.one/code-of-conduct",
-    "cfpUrl": "https://2023.europe.jcon.one/call-for-papers",
-    "cfpEndDate": "2023-01-31",
-    "twitter": "@jcon_conference"
   },
   {
     "name": "Config",
@@ -326,21 +238,6 @@
     "cfpUrl": "https://push-conference.com/ux-2023/calls",
     "cfpEndDate": "2023-05-31",
     "twitter": "@pushconf"
-  },
-  {
-    "name": "Web Directions Summit",
-    "url": "https://webdirections.org/summit",
-    "startDate": "2023-10-26",
-    "endDate": "2023-10-27",
-    "city": "Sydney",
-    "country": "Australia",
-    "online": true,
-    "locales": "EN",
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
-    "cfpUrl": "https://webdirections.org/speaking",
-    "cfpEndDate": "2023-05-31",
-    "twitter": "@webdirections"
   },
   {
     "name": "UX Brighton",

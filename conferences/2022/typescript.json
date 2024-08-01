@@ -1,18 +1,5 @@
 [
   {
-    "name": "TypeVille",
-    "url": "https://www.typeville.io",
-    "startDate": "2022-04-20",
-    "endDate": "2022-04-22",
-    "city": "Krynica Zdrój",
-    "country": "Poland",
-    "online": false,
-    "cocUrl": "https://www.typeville.io/",
-    "cfpUrl": "https://sml.io/typeville",
-    "cfpEndDate": "2022-01-09",
-    "twitter": "@typevilleconf"
-  },
-  {
     "name": "TS Congress",
     "url": "https://typescriptcongress.com",
     "startDate": "2022-04-29",
@@ -22,45 +9,6 @@
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScq-aWVf_oGvLdstVdsKJAfWzxpAsWoQNz_KrrGN2gqfASQ1A/viewform",
     "cfpEndDate": "2022-03-01",
     "twitter": "@ts_congress"
-  },
-  {
-    "name": "Render-Atlanta (RenderATL)",
-    "url": "https://www.renderatl.com",
-    "startDate": "2022-06-01",
-    "endDate": "2022-06-04",
-    "city": "Atlanta, GA",
-    "country": "U.S.A.",
-    "online": false,
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "RenderATL.com/thecode",
-    "twitter": "@RenderATL"
-  },
-  {
-    "name": "App.js Conf",
-    "url": "https://appjs.co",
-    "startDate": "2022-06-08",
-    "endDate": "2022-06-10",
-    "city": "Kraków",
-    "country": "Poland",
-    "online": true,
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://appjs.co/Code-of-Conduct.pdf",
-    "cfpUrl": "https://docs.google.com/forms/d/1-TUgnCqqGsTufBv2W5Nn8rXzoBg7qpBZKoQT0qKp7jA/edit",
-    "cfpEndDate": "2022-02-22",
-    "twitter": "@appjsconf"
-  },
-  {
-    "name": "React Summit",
-    "url": "https://reactsummit.com",
-    "startDate": "2022-06-17",
-    "endDate": "2022-06-21",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "online": true,
-    "cocUrl": "https://reactsummit.com/coc",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfVG_bNAebxhlERx1do33ekcmkLx25f1wh478MPv2CW6UvMlw/viewform",
-    "cfpEndDate": "2022-03-20",
-    "twitter": "@ReactSummit"
   },
   {
     "name": "FullStack eXchange",
@@ -74,18 +22,6 @@
     "cfpUrl": "https://skillsmatter.com/conferences/13727-fullstack-exchange-online#get_involved",
     "cfpEndDate": "2022-04-28",
     "twitter": "@skillsmatter"
-  },
-  {
-    "name": "CascadiaJS",
-    "url": "https://2022.cascadiajs.com",
-    "startDate": "2022-08-30",
-    "endDate": "2022-09-02",
-    "city": "Bend, OR",
-    "country": "U.S.A.",
-    "online": false,
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://2022.cascadiajs.com/code-of-conduct",
-    "twitter": "@cascadiajs"
   },
   {
     "name": "International JavaScript Conference",
@@ -124,27 +60,5 @@
     "online": true,
     "cocUrl": "https://fwdays.com/en/page/code-of-conduct",
     "twitter": "@fwdays"
-  },
-  {
-    "name": "Update Conference Prague",
-    "url": "https://www.updateconference.net",
-    "startDate": "2022-11-10",
-    "endDate": "2022-11-11",
-    "city": "Prague",
-    "country": "Czech Republic",
-    "online": true,
-    "cocUrl": "https://www.updateconference.net/en/code-of-conduct",
-    "cfpUrl": "https://www.updateconference.net/2022/call-for-speakers",
-    "cfpEndDate": "2022-06-26",
-    "twitter": "@update_conf"
-  },
-  {
-    "name": "enterJS Web-Performance Day",
-    "url": "https://enterjs.de/web-performance.php",
-    "startDate": "2022-12-01",
-    "endDate": "2022-12-01",
-    "online": true,
-    "cocUrl": "https://enterjs.de/code_of_conduct.php",
-    "twitter": "@enterjsconf"
   }
 ]

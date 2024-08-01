@@ -52,17 +52,6 @@
     "twitter": "@dotnetosorg"
   },
   {
-    "name": "WeAreDevelopers World Congress",
-    "url": "https://www.wearedevelopers.com/world-congress/#",
-    "startDate": "2022-06-14",
-    "endDate": "2022-06-15",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/wearedevs2022",
-    "cfpEndDate": "2022-01-31"
-  },
-  {
     "name": "Umbraco Codegarden",
     "url": "https://codegarden.umbraco.com",
     "startDate": "2022-06-15",
@@ -88,30 +77,6 @@
     "twitter": "@PSHChatt"
   },
   {
-    "name": "Nullcon International Security Conference and Training Goa",
-    "url": "https://nullcon.net/goa-2022",
-    "startDate": "2022-09-09",
-    "endDate": "2022-09-10",
-    "city": "Goa",
-    "country": "India",
-    "online": false,
-    "cocUrl": "https://nullcon.net/about-conferencepolicy/",
-    "cfpUrl": "https://nullcon.net/goa-2022/cfp",
-    "cfpEndDate": "2022-06-05",
-    "twitter": "@nullcon"
-  },
-  {
-    "name": "BASTA!",
-    "url": "https://basta.net/mainz-en",
-    "startDate": "2022-10-10",
-    "endDate": "2022-10-14",
-    "city": "Mainz",
-    "country": "Germany",
-    "online": true,
-    "cocUrl": "https://basta.net/code-of-conduct-en/",
-    "twitter": "@BASTAcon"
-  },
-  {
     "name": "dotnetdays Romania",
     "url": "https://dotnetdays.ro",
     "startDate": "2022-10-20",
@@ -123,19 +88,6 @@
     "twitter": "@dotnetdaysro"
   },
   {
-    "name": "Update Conference Prague",
-    "url": "https://www.updateconference.net",
-    "startDate": "2022-11-10",
-    "endDate": "2022-11-11",
-    "city": "Prague",
-    "country": "Czech Republic",
-    "online": true,
-    "cocUrl": "https://www.updateconference.net/en/code-of-conduct",
-    "cfpUrl": "https://www.updateconference.net/2022/call-for-speakers",
-    "cfpEndDate": "2022-06-26",
-    "twitter": "@update_conf"
-  },
-  {
     "name": "betterCode() .NET 7",
     "url": "https://net.bettercode.eu",
     "startDate": "2022-11-22",
@@ -143,16 +95,5 @@
     "online": true,
     "cocUrl": "https://net.bettercode.eu/code_of_conduct.php",
     "twitter": "@bettercodeconf"
-  },
-  {
-    "name": "SpringOne",
-    "url": "https://springone.io",
-    "startDate": "2022-12-06",
-    "endDate": "2022-12-08",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "cocUrl": "https://springone.io/code-of-conduct",
-    "twitter": "@springone"
   }
 ]

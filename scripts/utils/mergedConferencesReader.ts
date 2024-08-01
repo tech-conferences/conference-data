@@ -115,6 +115,13 @@ export default function mergedConferencesReader() {
                                 type: DuplicateType.NotOnlyGeneral
                             });
                         }
+                        if (existingConf.stacks.length > 3) {
+                            duplicateErrors.push({
+                                conference: existingConf,
+                                duplicate: mergedConference,
+                                type: DuplicateType.TooManyStacks
+                            });
+                        }
                     }
                 }
             }

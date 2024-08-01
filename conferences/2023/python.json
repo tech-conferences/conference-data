@@ -92,17 +92,6 @@
     "twitter": "@pycascades"
   },
   {
-    "name": "QCon London International Software Development Conference",
-    "url": "https://qconlondon.com",
-    "startDate": "2023-03-27",
-    "endDate": "2023-03-29",
-    "city": "London",
-    "country": "U.K.",
-    "online": false,
-    "cocUrl": "https://qconferences.com/code-conduct",
-    "twitter": "@QCon"
-  },
-  {
     "name": "Python Day",
     "url": "https://www.wearedevelopers.com/event/python-day-april-2023",
     "startDate": "2023-04-05",
@@ -152,18 +141,6 @@
     "twitter": "@pycon"
   },
   {
-    "name": "JAX",
-    "url": "https://jax.de/mainz",
-    "startDate": "2023-05-08",
-    "endDate": "2023-05-12",
-    "city": "Mainz",
-    "country": "Germany",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://jax.de/code-of-conduct/",
-    "twitter": "@jaxcon"
-  },
-  {
     "name": "TechSaloniki",
     "url": "https://techsaloniki.gr",
     "startDate": "2023-05-12",
@@ -205,18 +182,6 @@
     "locales": "EN",
     "cocUrl": "https://2023.djangocon.eu/conduct/",
     "twitter": "@DjangoConEurope"
-  },
-  {
-    "name": "AgileTD Open Air",
-    "url": "https://openair.agiletestingdays.com",
-    "startDate": "2023-06-13",
-    "endDate": "2023-06-15",
-    "city": "Cologne",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://cfp.trendig.com/AgileTD_OpenAir_2023",
-    "cfpEndDate": "2022-08-31",
-    "twitter": "@AgileTDOpenAir"
   },
   {
     "name": "MobileWeek",

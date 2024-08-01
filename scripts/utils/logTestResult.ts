@@ -66,6 +66,8 @@ export default function logTestResult(testResult: TestResult) {
                 return 'almost identical conferences';
             case DuplicateType.NotOnlyGeneral:
                 return 'general conference with other stack';
+            case DuplicateType.TooManyStacks:
+                return 'conference with too many stacks';
         }
     }
     for (const duplicateError of testResult.duplicateErrors) {

@@ -69,17 +69,6 @@
     "locales": "EN"
   },
   {
-    "name": "Heroes of Data Privacy",
-    "url": "https://www.heroesofdataprivacy.com/index.html",
-    "startDate": "2023-05-24",
-    "endDate": "2023-05-25",
-    "city": "Vienna",
-    "country": "Austria",
-    "online": false,
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
-  },
-  {
     "name": "PlatformCon",
     "url": "https://platformcon.com",
     "startDate": "2023-06-08",
@@ -190,21 +179,6 @@
     "locales": "EN",
     "cocUrl": "https://gotochgo.com/ai-days-2023/code-of-conduct",
     "twitter": "@GOTOcon"
-  },
-  {
-    "name": "Web Directions Summit",
-    "url": "https://webdirections.org/summit",
-    "startDate": "2023-10-26",
-    "endDate": "2023-10-27",
-    "city": "Sydney",
-    "country": "Australia",
-    "online": true,
-    "locales": "EN",
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
-    "cfpUrl": "https://webdirections.org/speaking",
-    "cfpEndDate": "2023-05-31",
-    "twitter": "@webdirections"
   },
   {
     "name": "Prodacity",

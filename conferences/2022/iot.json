@@ -11,30 +11,6 @@
     "twitter": "@ITNewsAfrica"
   },
   {
-    "name": "QCon London",
-    "url": "https://qconlondon.com",
-    "startDate": "2022-04-04",
-    "endDate": "2022-04-06",
-    "city": "London",
-    "country": "U.K.",
-    "online": false,
-    "offersSignLanguageOrCC": true,
-    "twitter": "@qconlondon"
-  },
-  {
-    "name": "Nullcon International Conference and Training Berlin",
-    "url": "https://nullcon.net",
-    "startDate": "2022-04-08",
-    "endDate": "2022-04-09",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": false,
-    "cocUrl": "https://nullcon.net/about-conferencepolicy/",
-    "cfpUrl": "https://nullcon.net/berlin-2022/cfp",
-    "cfpEndDate": "2022-01-15",
-    "twitter": "@nullcon"
-  },
-  {
     "name": "building IoT",
     "url": "https://www.buildingiot.de",
     "startDate": "2022-05-10",
@@ -59,19 +35,6 @@
     "cfpUrl": "https://hardwear.io/usa-2022/cfp.php",
     "cfpEndDate": "2022-03-01",
     "twitter": "@hardwear_io"
-  },
-  {
-    "name": "hub.berlin",
-    "url": "https://www.hub.berlin",
-    "startDate": "2022-06-22",
-    "endDate": "2022-06-23",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": false,
-    "cocUrl": "https://www.hub.berlin/join-us/faq",
-    "cfpUrl": "https://www.hub.berlin/business-festival-tickets-2022",
-    "cfpEndDate": "2022-06-21",
-    "twitter": "@hub.berlin"
   },
   {
     "name": "Industrial IoT Conference",
@@ -151,18 +114,6 @@
     "twitter": "@DevoxxMA"
   },
   {
-    "name": "TestFlix",
-    "url": "https://www.thetesttribe.com/testflix-2022",
-    "startDate": "2022-10-08",
-    "endDate": "2022-10-09",
-    "online": true,
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://www.thetesttribe.com/event-policy-and-code-of-conduct/",
-    "cfpUrl": "https://www.thetesttribe.com/testflix-2022-call-for-papers",
-    "cfpEndDate": "2022-05-15",
-    "twitter": "@the_test_tribe"
-  },
-  {
     "name": "MASCOTS 30th International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems",
     "url": "https://mascots.iitis.pl",
     "startDate": "2022-10-18",
@@ -171,15 +122,6 @@
     "cfpUrl": "https://mascots.iitis.pl/cfp",
     "cfpEndDate": "2022-06-01",
     "twitter": "@iitis"
-  },
-  {
-    "name": "JCON",
-    "url": "https://jcon.one",
-    "startDate": "2022-10-18",
-    "endDate": "2022-10-21",
-    "online": true,
-    "cocUrl": "https://jcon.one/code-of-conduct",
-    "twitter": "@jcon_conference"
   },
   {
     "name": "EclipseCon",
@@ -193,40 +135,5 @@
     "cfpUrl": "https://www.eclipsecon.org/2022/cfp",
     "cfpEndDate": "2022-06-15",
     "twitter": "@eclipsecon"
-  },
-  {
-    "name": "CWIC: The Hyperconnected Human",
-    "url": "https://www.cambridgewireless.co.uk/events/conferences/cwic",
-    "startDate": "2022-11-02",
-    "endDate": "2022-11-02",
-    "city": "Cambridge",
-    "country": "U.K.",
-    "online": true,
-    "cfpUrl": "https://www.cambridgewireless.co.uk/events/conferences/cwic/cwic-call-speakers",
-    "cfpEndDate": "2022-08-19",
-    "twitter": "@CambWireless"
-  },
-  {
-    "name": "Update Conference Prague",
-    "url": "https://www.updateconference.net",
-    "startDate": "2022-11-10",
-    "endDate": "2022-11-11",
-    "city": "Prague",
-    "country": "Czech Republic",
-    "online": true,
-    "cocUrl": "https://www.updateconference.net/en/code-of-conduct",
-    "cfpUrl": "https://www.updateconference.net/2022/call-for-speakers",
-    "cfpEndDate": "2022-06-26",
-    "twitter": "@update_conf"
-  },
-  {
-    "name": "Weave Sphere",
-    "url": "http://weavesphere.co",
-    "startDate": "2022-11-15",
-    "endDate": "2022-11-17",
-    "city": "Toronto",
-    "country": "Canada",
-    "online": false,
-    "twitter": "@weavesphere"
   }
 ]

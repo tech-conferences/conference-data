@@ -12,19 +12,6 @@
     "twitter": "@LaraconEU"
   },
   {
-    "name": "VeryTechTrip",
-    "url": "https://verytechtrip.com",
-    "startDate": "2023-02-02",
-    "endDate": "2023-02-02",
-    "city": "Paris",
-    "country": "France",
-    "online": false,
-    "locales": "FR",
-    "cfpUrl": "https://conference-hall.io/public/event/hoyBWUXe43dnoiBekZaB",
-    "cfpEndDate": "2022-11-14",
-    "twitter": "@OVHcloud_Tech"
-  },
-  {
     "name": "PHP UK Conference",
     "url": "https://www.phpconference.co.uk",
     "startDate": "2023-02-14",
@@ -149,31 +136,6 @@
     "locales": "EN",
     "cocUrl": "https://phpconference.com/code-of-conduct/",
     "twitter": "@phpconference"
-  },
-  {
-    "name": "DrupalCon",
-    "url": "https://events.drupal.org/drupalcon",
-    "startDate": "2023-06-05",
-    "endDate": "2023-06-08",
-    "city": "Pittsburgh, PA",
-    "country": "U.S.A.",
-    "online": false,
-    "locales": "EN",
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://events.drupal.org/code-conduct",
-    "twitter": "@drupalcon"
-  },
-  {
-    "name": "AgileTD Open Air",
-    "url": "https://openair.agiletestingdays.com",
-    "startDate": "2023-06-13",
-    "endDate": "2023-06-15",
-    "city": "Cologne",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://cfp.trendig.com/AgileTD_OpenAir_2023",
-    "cfpEndDate": "2022-08-31",
-    "twitter": "@AgileTDOpenAir"
   },
   {
     "name": "SymfonyOnline",

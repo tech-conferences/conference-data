@@ -1,15 +1,5 @@
 [
   {
-    "name": "Refresh",
-    "url": "https://refresh.rocks/",
-    "startDate": "2023-01-26",
-    "endDate": "2023-01-27",
-    "city": "Tartu",
-    "country": "Estonia",
-    "online": false,
-    "twitter": "@RefreshRocks"
-  },
-  {
     "name": "axe-con",
     "url": "https://www.deque.com/axe-con",
     "startDate": "2023-03-15",
@@ -20,20 +10,6 @@
     "cfpUrl": "https://www.deque.com/axe-con/call-for-speakers",
     "cfpEndDate": "2022-12-02",
     "twitter": "@dequesystems"
-  },
-  {
-    "name": "Apprise Conf",
-    "url": "https://appriseconf.com",
-    "startDate": "2023-03-23",
-    "endDate": "2023-03-23",
-    "city": "Oslo",
-    "country": "Norway",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://appriseconf.com/coc.html",
-    "cfpUrl": "https://forms.gle/63C6sSAbzFLFzpX17",
-    "cfpEndDate": "2023-01-31",
-    "twitter": "@appriseconf"
   },
   {
     "name": "Camunda Community Summit",
@@ -58,16 +34,6 @@
     "twitter": "@webinale"
   },
   {
-    "name": "UXLx User Experience Lisbon",
-    "url": "https://www.ux-lx.com",
-    "startDate": "2023-05-23",
-    "endDate": "2023-05-26",
-    "city": "Lisbon",
-    "country": "Portugal",
-    "online": false,
-    "twitter": "@uxlx"
-  },
-  {
     "name": "TestFlix - Global Software Testing Conference",
     "url": "https://www.thetesttribe.com/testflix-2023",
     "startDate": "2023-09-23",
@@ -76,17 +42,6 @@
     "locales": "EN",
     "cocUrl": "https://www.thetesttribe.com/code-of-conduct/",
     "twitter": "@the_test_tribe"
-  },
-  {
-    "name": "MagnoliaJS",
-    "url": "https://www.magnoliajs.com",
-    "startDate": "2023-10-17",
-    "endDate": "2023-10-18",
-    "city": "Jackson, MS",
-    "country": "U.S.A.",
-    "online": true,
-    "cocUrl": "https://www.magnoliajs.com/conduct",
-    "twitter": "@magnoliajsconf"
   },
   {
     "name": "#a11yTO Conf",
@@ -113,21 +68,6 @@
     "offersSignLanguageOrCC": true,
     "cocUrl": "https://gaming.a11yto.com/code-of-conduct",
     "twitter": "@a11yto"
-  },
-  {
-    "name": "Web Directions Summit",
-    "url": "https://webdirections.org/summit",
-    "startDate": "2023-10-26",
-    "endDate": "2023-10-27",
-    "city": "Sydney",
-    "country": "Australia",
-    "online": true,
-    "locales": "EN",
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
-    "cfpUrl": "https://webdirections.org/speaking",
-    "cfpEndDate": "2023-05-31",
-    "twitter": "@webdirections"
   },
   {
     "name": "The Design + Accessibility Summit",

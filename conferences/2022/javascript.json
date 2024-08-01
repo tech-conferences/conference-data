@@ -154,19 +154,6 @@
     "twitter": "@DevOpsJS"
   },
   {
-    "name": "Open Source Festival",
-    "url": "https://festival.oscafrica.org",
-    "startDate": "2022-03-24",
-    "endDate": "2022-03-26",
-    "city": "Lagos",
-    "country": "Nigeria",
-    "online": true,
-    "offersSignLanguageOrCC": true,
-    "cfpUrl": "https://www.papercall.io/cfps/4213/submissions/new",
-    "cfpEndDate": "2022-01-27",
-    "twitter": "@oscafrica"
-  },
-  {
     "name": "React Conference Live",
     "url": "https://reactlive.nl",
     "startDate": "2022-04-01",
@@ -178,17 +165,6 @@
     "cfpUrl": "https://reactlive.nl/speakers",
     "cfpEndDate": "2022-01-01",
     "twitter": "@reactlivenl"
-  },
-  {
-    "name": "QCon London",
-    "url": "https://qconlondon.com",
-    "startDate": "2022-04-04",
-    "endDate": "2022-04-06",
-    "city": "London",
-    "country": "U.K.",
-    "online": false,
-    "offersSignLanguageOrCC": true,
-    "twitter": "@qconlondon"
   },
   {
     "name": "WebGameDev Summit",
@@ -230,17 +206,6 @@
     "online": true,
     "cocUrl": "https://2022.emberconf.com/code-of-conduct",
     "twitter": "@EmberConf"
-  },
-  {
-    "name": "Developer Growth Summit",
-    "url": "https://www.codementor.io/events/developer-growth-summit",
-    "startDate": "2022-04-20",
-    "endDate": "2022-04-21",
-    "online": true,
-    "cocUrl": "https://codementor.notion.site/Codementor-Events-Code-of-Conduct-37b9714c926c47b4a222429b6e873f48",
-    "cfpUrl": "https://arcdotdev.typeform.com/to/JcAdJQgW",
-    "cfpEndDate": "2022-04-13",
-    "twitter": "@CodementorIO"
   },
   {
     "name": "jsday",
@@ -339,18 +304,6 @@
     "twitter": "@cityjsconf"
   },
   {
-    "name": "Render-Atlanta (RenderATL)",
-    "url": "https://www.renderatl.com",
-    "startDate": "2022-06-01",
-    "endDate": "2022-06-04",
-    "city": "Atlanta, GA",
-    "country": "U.S.A.",
-    "online": false,
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "RenderATL.com/thecode",
-    "twitter": "@RenderATL"
-  },
-  {
     "name": "JSConf Budapest",
     "url": "https://jsconfbp.com",
     "startDate": "2022-06-02",
@@ -359,20 +312,6 @@
     "country": "Hungary",
     "online": false,
     "twitter": "@jsconfbp"
-  },
-  {
-    "name": "App.js Conf",
-    "url": "https://appjs.co",
-    "startDate": "2022-06-08",
-    "endDate": "2022-06-10",
-    "city": "Kraków",
-    "country": "Poland",
-    "online": true,
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://appjs.co/Code-of-Conduct.pdf",
-    "cfpUrl": "https://docs.google.com/forms/d/1-TUgnCqqGsTufBv2W5Nn8rXzoBg7qpBZKoQT0qKp7jA/edit",
-    "cfpEndDate": "2022-02-22",
-    "twitter": "@appjsconf"
   },
   {
     "name": "Vueconf.US",
@@ -399,17 +338,6 @@
     "twitter": "@jsheroes"
   },
   {
-    "name": "WeAreDevelopers World Congress",
-    "url": "https://www.wearedevelopers.com/world-congress/#",
-    "startDate": "2022-06-14",
-    "endDate": "2022-06-15",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/wearedevs2022",
-    "cfpEndDate": "2022-01-31"
-  },
-  {
     "name": "JSNation Conference",
     "url": "https://jsnation.com",
     "startDate": "2022-06-16",
@@ -421,19 +349,6 @@
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdg61J505yUnt5StZHobWplb2gQx9XcCc1MFU9KeZW52RAC6g/viewform",
     "cfpEndDate": "2022-03-20",
     "twitter": "@thejsnation"
-  },
-  {
-    "name": "React Summit",
-    "url": "https://reactsummit.com",
-    "startDate": "2022-06-17",
-    "endDate": "2022-06-21",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "online": true,
-    "cocUrl": "https://reactsummit.com/coc",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfVG_bNAebxhlERx1do33ekcmkLx25f1wh478MPv2CW6UvMlw/viewform",
-    "cfpEndDate": "2022-03-20",
-    "twitter": "@ReactSummit"
   },
   {
     "name": "SmashingConf San Francisco",
@@ -550,20 +465,6 @@
     "online": false,
     "cocUrl": "https://www.javascriptandfriends.com/codeofconduct",
     "twitter": "@JSFriendsConf"
-  },
-  {
-    "name": "CascadiaJS",
-    "url": "https://2022.cascadiajs.com",
-    "startDate": "2022-08-30",
-    "endDate": "2022-09-02",
-    "city": "Bend, OR",
-    "country": "U.S.A.",
-    "online": false,
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://2022.cascadiajs.com/code-of-conduct",
-    "cfpUrl": "https://2022.cascadiajs.com/cfp",
-    "cfpEndDate": "2022-04-17",
-    "twitter": "@cascadiajs"
   },
   {
     "name": "React Native EU",
@@ -802,17 +703,6 @@
     "twitter": "@smashingconf"
   },
   {
-    "name": "BASTA!",
-    "url": "https://basta.net/mainz-en",
-    "startDate": "2022-10-10",
-    "endDate": "2022-10-14",
-    "city": "Mainz",
-    "country": "Germany",
-    "online": true,
-    "cocUrl": "https://basta.net/code-of-conduct-en/",
-    "twitter": "@BASTAcon"
-  },
-  {
     "name": "Nx Conf",
     "url": "https://nx.dev/conf",
     "startDate": "2022-10-17",
@@ -960,17 +850,6 @@
     "twitter": "@TestJSSummit"
   },
   {
-    "name": "Lone Star Software Symposium",
-    "url": "https://nofluffjuststuff.com/austin",
-    "startDate": "2022-11-04",
-    "endDate": "2022-11-06",
-    "city": "Austin, TX",
-    "country": "U.S.A.",
-    "online": true,
-    "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct",
-    "twitter": "@nofluff"
-  },
-  {
     "name": "CONNECT.TECH",
     "url": "https://2022.connect.tech",
     "startDate": "2022-11-07",
@@ -1030,16 +909,6 @@
     "twitter": "@halfstackconf"
   },
   {
-    "name": "NODES",
-    "url": "https://neo4j.com/nodes-2022",
-    "startDate": "2022-11-16",
-    "endDate": "2022-11-17",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/neo4j-nodes-2022",
-    "cfpEndDate": "2022-08-20",
-    "twitter": "@neo4j"
-  },
-  {
     "name": "Conf42 JavaScript",
     "url": "https://www.conf42.com/js2022",
     "startDate": "2022-11-17",
@@ -1073,15 +942,6 @@
     "cfpUrl": "https://xtremejs.dev/2022/speakers",
     "cfpEndDate": "2022-08-31",
     "twitter": "@xtremejsconf"
-  },
-  {
-    "name": "enterJS Web-Performance Day",
-    "url": "https://enterjs.de/web-performance.php",
-    "startDate": "2022-12-01",
-    "endDate": "2022-12-01",
-    "online": true,
-    "cocUrl": "https://enterjs.de/code_of_conduct.php",
-    "twitter": "@enterjsconf"
   },
   {
     "name": "React Day Berlin",

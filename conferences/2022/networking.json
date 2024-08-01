@@ -22,19 +22,6 @@
     "twitter": "@Fossbckstg"
   },
   {
-    "name": "Open Source Festival",
-    "url": "https://festival.oscafrica.org",
-    "startDate": "2022-03-24",
-    "endDate": "2022-03-26",
-    "city": "Lagos",
-    "country": "Nigeria",
-    "online": true,
-    "offersSignLanguageOrCC": true,
-    "cfpUrl": "https://www.papercall.io/cfps/4213/submissions/new",
-    "cfpEndDate": "2022-01-27",
-    "twitter": "@oscafrica"
-  },
-  {
     "name": "IoT Forum Africa",
     "url": "https://itnewsafrica.com/events/event/iot-forum-africa-2022",
     "startDate": "2022-03-29",
@@ -44,19 +31,6 @@
     "online": true,
     "offersSignLanguageOrCC": true,
     "twitter": "@ITNewsAfrica"
-  },
-  {
-    "name": "Nullcon International Conference and Training Berlin",
-    "url": "https://nullcon.net",
-    "startDate": "2022-04-08",
-    "endDate": "2022-04-09",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": false,
-    "cocUrl": "https://nullcon.net/about-conferencepolicy/",
-    "cfpUrl": "https://nullcon.net/berlin-2022/cfp",
-    "cfpEndDate": "2022-01-15",
-    "twitter": "@nullcon"
   },
   {
     "name": "DevX Conf",
@@ -109,18 +83,6 @@
     "twitter": "@EmergeConfHQ"
   },
   {
-    "name": "Render-Atlanta (RenderATL)",
-    "url": "https://www.renderatl.com",
-    "startDate": "2022-06-01",
-    "endDate": "2022-06-04",
-    "city": "Atlanta, GA",
-    "country": "U.S.A.",
-    "online": false,
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "RenderATL.com/thecode",
-    "twitter": "@RenderATL"
-  },
-  {
     "name": "INTEGRATE",
     "url": "https://www.kovai.co/integrate-2022",
     "startDate": "2022-06-13",
@@ -130,19 +92,6 @@
     "online": true,
     "cfpUrl": "https://www.kovai.co/integrate-2022/terms-and-conditions.html",
     "cfpEndDate": "2022-01-18"
-  },
-  {
-    "name": "hub.berlin",
-    "url": "https://www.hub.berlin",
-    "startDate": "2022-06-22",
-    "endDate": "2022-06-23",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": false,
-    "cocUrl": "https://www.hub.berlin/join-us/faq",
-    "cfpUrl": "https://www.hub.berlin/business-festival-tickets-2022",
-    "cfpEndDate": "2022-06-21",
-    "twitter": "@hub.berlin"
   },
   {
     "name": "Webit Global Impact Forum",
@@ -189,18 +138,6 @@
     "offersSignLanguageOrCC": true
   },
   {
-    "name": "CascadiaJS",
-    "url": "https://2022.cascadiajs.com",
-    "startDate": "2022-08-30",
-    "endDate": "2022-09-02",
-    "city": "Bend, OR",
-    "country": "U.S.A.",
-    "online": false,
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://2022.cascadiajs.com/code-of-conduct",
-    "twitter": "@cascadiajs"
-  },
-  {
     "name": "ContainerDays Hybrid",
     "url": "https://www.containerdays.io",
     "startDate": "2022-09-05",
@@ -226,19 +163,6 @@
     "twitter": "@nodejsone"
   },
   {
-    "name": "Nullcon International Security Conference and Training Goa",
-    "url": "https://nullcon.net/goa-2022",
-    "startDate": "2022-09-09",
-    "endDate": "2022-09-10",
-    "city": "Goa",
-    "country": "India",
-    "online": false,
-    "cocUrl": "https://nullcon.net/about-conferencepolicy/",
-    "cfpUrl": "https://nullcon.net/goa-2022/cfp",
-    "cfpEndDate": "2022-06-05",
-    "twitter": "@nullcon"
-  },
-  {
     "name": "STARTTOUGH TALKS: BOOST YOUR STARTUP",
     "url": "https://events.lemon.io",
     "startDate": "2022-09-15",
@@ -247,17 +171,6 @@
     "offersSignLanguageOrCC": true,
     "cocUrl": "https://events.lemon.io/privacy-policy",
     "twitter": "@lemoneye"
-  },
-  {
-    "name": "LeanIX Connect Summit Europe",
-    "url": "https://www.leanix-connect.com/europe",
-    "startDate": "2022-09-20",
-    "endDate": "2022-09-21",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "cocUrl": "https://www.leanix-connect.com/code-of-conduct",
-    "twitter": "@leanix_net"
   },
   {
     "name": "Linq",
@@ -306,18 +219,6 @@
     "twitter": "@ReactAdvanced"
   },
   {
-    "name": "CWIC: The Hyperconnected Human",
-    "url": "https://www.cambridgewireless.co.uk/events/conferences/cwic",
-    "startDate": "2022-11-02",
-    "endDate": "2022-11-02",
-    "city": "Cambridge",
-    "country": "U.K.",
-    "online": true,
-    "cfpUrl": "https://www.cambridgewireless.co.uk/events/conferences/cwic/cwic-call-speakers",
-    "cfpEndDate": "2022-08-19",
-    "twitter": "@CambWireless"
-  },
-  {
     "name": "Innotech Houston",
     "url": "http://www.Innotechhouston.com",
     "startDate": "2022-11-02",
@@ -328,18 +229,6 @@
     "twitter": "@TechstrongJen"
   },
   {
-    "name": "Developer Productivity Summit",
-    "url": "https://dpesummit.com",
-    "startDate": "2022-11-02",
-    "endDate": "2022-11-03",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://dpesummit.com/#speakers",
-    "cfpEndDate": "2022-11-01",
-    "twitter": "@dpesummit"
-  },
-  {
     "name": "UK Cyber Week",
     "url": "https://www.ukcyberweek.co.uk",
     "startDate": "2022-11-03",
@@ -348,20 +237,6 @@
     "country": "U.K.",
     "online": true,
     "twitter": "@UKCyberWeek"
-  },
-  {
-    "name": "WordCamp Italia",
-    "url": "https://italia.wordcamp.org",
-    "startDate": "2022-11-11",
-    "endDate": "2022-11-12",
-    "city": "Milano",
-    "country": "Italy",
-    "online": true,
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://italia.wordcamp.org/2022/code-of-conduct/",
-    "cfpUrl": "https://italia.wordcamp.org/2022/en/call-for-speakers",
-    "cfpEndDate": "2022-09-15",
-    "twitter": "@WordCampItalia"
   },
   {
     "name": "Open Source Monitoring Conference",
@@ -375,16 +250,6 @@
     "cfpUrl": "https://osmc.de/call-for-papers",
     "cfpEndDate": "2022-06-30",
     "twitter": "@netwaysevents"
-  },
-  {
-    "name": "Weave Sphere",
-    "url": "http://weavesphere.co",
-    "startDate": "2022-11-15",
-    "endDate": "2022-11-17",
-    "city": "Toronto",
-    "country": "Canada",
-    "online": false,
-    "twitter": "@weavesphere"
   },
   {
     "name": "React Day Berlin",
@@ -421,16 +286,5 @@
     "online": true,
     "locales": "EN",
     "twitter": "@ImmerseSummit"
-  },
-  {
-    "name": "SpringOne",
-    "url": "https://springone.io",
-    "startDate": "2022-12-06",
-    "endDate": "2022-12-08",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "cocUrl": "https://springone.io/code-of-conduct",
-    "twitter": "@springone"
   }
 ]
