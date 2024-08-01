@@ -1,19 +1,5 @@
 [
   {
-    "name": "Apprise Conf",
-    "url": "https://appriseconf.com",
-    "startDate": "2023-03-23",
-    "endDate": "2023-03-23",
-    "city": "Oslo",
-    "country": "Norway",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://appriseconf.com/coc.html",
-    "cfpUrl": "https://forms.gle/63C6sSAbzFLFzpX17",
-    "cfpEndDate": "2023-01-31",
-    "twitter": "@appriseconf"
-  },
-  {
     "name": "purecode - Functional Programming Talks",
     "url": "https://www.purecode.tech",
     "startDate": "2023-03-23",
@@ -23,20 +9,6 @@
     "online": false,
     "locales": "EN",
     "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "Devoxx France",
-    "url": "https://devoxx.fr",
-    "startDate": "2023-04-12",
-    "endDate": "2023-04-14",
-    "city": "Paris",
-    "country": "France",
-    "online": false,
-    "locales": "EN,FR",
-    "cocUrl": "https://www.devoxx.fr/presenter-a-devoxx/code-de-conduite/",
-    "cfpUrl": "https://cfp.devoxx.fr",
-    "cfpEndDate": "2023-01-08",
-    "twitter": "@DevoxxFR"
   },
   {
     "name": "KotlinConf",

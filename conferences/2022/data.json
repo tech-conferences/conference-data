@@ -31,19 +31,6 @@
     "twitter": "@bigdataconf"
   },
   {
-    "name": "Open Source Festival",
-    "url": "https://festival.oscafrica.org",
-    "startDate": "2022-03-24",
-    "endDate": "2022-03-26",
-    "city": "Lagos",
-    "country": "Nigeria",
-    "online": true,
-    "offersSignLanguageOrCC": true,
-    "cfpUrl": "https://www.papercall.io/cfps/4213/submissions/new",
-    "cfpEndDate": "2022-01-27",
-    "twitter": "@oscafrica"
-  },
-  {
     "name": "IoT Forum Africa",
     "url": "https://itnewsafrica.com/events/event/iot-forum-africa-2022",
     "startDate": "2022-03-29",
@@ -66,35 +53,11 @@
     "twitter": "@TimescaleDB"
   },
   {
-    "name": "QCon London",
-    "url": "https://qconlondon.com",
-    "startDate": "2022-04-04",
-    "endDate": "2022-04-06",
-    "city": "London",
-    "country": "U.K.",
-    "online": false,
-    "offersSignLanguageOrCC": true,
-    "twitter": "@qconlondon"
-  },
-  {
     "name": "Walmart AI Summit - Cognitive Retail At Scale",
     "url": "https://one.walmart.com/content/globaltechindia/en_in/events/ai-summit.html",
     "startDate": "2022-04-06",
     "endDate": "2022-04-07",
     "online": true
-  },
-  {
-    "name": "Nullcon International Conference and Training Berlin",
-    "url": "https://nullcon.net",
-    "startDate": "2022-04-08",
-    "endDate": "2022-04-09",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": false,
-    "cocUrl": "https://nullcon.net/about-conferencepolicy/",
-    "cfpUrl": "https://nullcon.net/berlin-2022/cfp",
-    "cfpEndDate": "2022-01-15",
-    "twitter": "@nullcon"
   },
   {
     "name": "ODSC East",
@@ -105,17 +68,6 @@
     "country": "U.S.A.",
     "online": false,
     "twitter": "@ODSC"
-  },
-  {
-    "name": "Developer Growth Summit",
-    "url": "https://www.codementor.io/events/developer-growth-summit",
-    "startDate": "2022-04-20",
-    "endDate": "2022-04-21",
-    "online": true,
-    "cocUrl": "https://codementor.notion.site/Codementor-Events-Code-of-Conduct-37b9714c926c47b4a222429b6e873f48",
-    "cfpUrl": "https://arcdotdev.typeform.com/to/JcAdJQgW",
-    "cfpEndDate": "2022-04-13",
-    "twitter": "@CodementorIO"
   },
   {
     "name": "DMML",
@@ -188,18 +140,6 @@
     "twitter": "@yow_conf"
   },
   {
-    "name": "Render-Atlanta (RenderATL)",
-    "url": "https://www.renderatl.com",
-    "startDate": "2022-06-01",
-    "endDate": "2022-06-04",
-    "city": "Atlanta, GA",
-    "country": "U.S.A.",
-    "online": false,
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "RenderATL.com/thecode",
-    "twitter": "@RenderATL"
-  },
-  {
     "name": "MongoDB World",
     "url": "https://www.mongodb.com/world",
     "startDate": "2022-06-07",
@@ -225,17 +165,6 @@
     "twitter": "@berlinbuzzwords"
   },
   {
-    "name": "WeAreDevelopers World Congress",
-    "url": "https://www.wearedevelopers.com/world-congress/#",
-    "startDate": "2022-06-14",
-    "endDate": "2022-06-15",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/wearedevs2022",
-    "cfpEndDate": "2022-01-31"
-  },
-  {
     "name": "ODSC Europe",
     "url": "https://odsc.com/europe/",
     "startDate": "2022-06-15",
@@ -245,19 +174,6 @@
     "online": true,
     "offersSignLanguageOrCC": true,
     "twitter": "@ODSC"
-  },
-  {
-    "name": "hub.berlin",
-    "url": "https://www.hub.berlin",
-    "startDate": "2022-06-22",
-    "endDate": "2022-06-23",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": false,
-    "cocUrl": "https://www.hub.berlin/join-us/faq",
-    "cfpUrl": "https://www.hub.berlin/business-festival-tickets-2022",
-    "cfpEndDate": "2022-06-21",
-    "twitter": "@hub.berlin"
   },
   {
     "name": "BCI Summit - Big Data Management",
@@ -394,17 +310,6 @@
     "twitter": "@nvidiagtc"
   },
   {
-    "name": "LeanIX Connect Summit Europe",
-    "url": "https://www.leanix-connect.com/europe",
-    "startDate": "2022-09-20",
-    "endDate": "2022-09-21",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "cocUrl": "https://www.leanix-connect.com/code-of-conduct",
-    "twitter": "@leanix_net"
-  },
-  {
     "name": "data2day",
     "url": "https://www.data2day.de",
     "startDate": "2022-09-20",
@@ -456,18 +361,6 @@
     "online": true,
     "cocUrl": "https://infoshare.pl/code-of-conduct.html",
     "twitter": "@infosharepl"
-  },
-  {
-    "name": "TestFlix",
-    "url": "https://www.thetesttribe.com/testflix-2022",
-    "startDate": "2022-10-08",
-    "endDate": "2022-10-09",
-    "online": true,
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://www.thetesttribe.com/event-policy-and-code-of-conduct/",
-    "cfpUrl": "https://www.thetesttribe.com/testflix-2022-call-for-papers",
-    "cfpEndDate": "2022-05-15",
-    "twitter": "@the_test_tribe"
   },
   {
     "name": "Feature Store Summit",
@@ -570,60 +463,6 @@
     "twitter": "@ODSC"
   },
   {
-    "name": "CWIC: The Hyperconnected Human",
-    "url": "https://www.cambridgewireless.co.uk/events/conferences/cwic",
-    "startDate": "2022-11-02",
-    "endDate": "2022-11-02",
-    "city": "Cambridge",
-    "country": "U.K.",
-    "online": true,
-    "cfpUrl": "https://www.cambridgewireless.co.uk/events/conferences/cwic/cwic-call-speakers",
-    "cfpEndDate": "2022-08-19",
-    "twitter": "@CambWireless"
-  },
-  {
-    "name": "Lone Star Software Symposium",
-    "url": "https://nofluffjuststuff.com/austin",
-    "startDate": "2022-11-04",
-    "endDate": "2022-11-06",
-    "city": "Austin, TX",
-    "country": "U.S.A.",
-    "online": true,
-    "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct",
-    "twitter": "@nofluff"
-  },
-  {
-    "name": "Enterprise GraphQL Conference",
-    "url": "https://hasura.io/enterprisegraphql",
-    "startDate": "2022-11-10",
-    "endDate": "2022-11-10",
-    "online": true,
-    "twitter": "@hasurahq"
-  },
-  {
-    "name": "Update Conference Prague",
-    "url": "https://www.updateconference.net",
-    "startDate": "2022-11-10",
-    "endDate": "2022-11-11",
-    "city": "Prague",
-    "country": "Czech Republic",
-    "online": true,
-    "cocUrl": "https://www.updateconference.net/en/code-of-conduct",
-    "cfpUrl": "https://www.updateconference.net/2022/call-for-speakers",
-    "cfpEndDate": "2022-06-26",
-    "twitter": "@update_conf"
-  },
-  {
-    "name": "Weave Sphere",
-    "url": "http://weavesphere.co",
-    "startDate": "2022-11-15",
-    "endDate": "2022-11-17",
-    "city": "Toronto",
-    "country": "Canada",
-    "online": false,
-    "twitter": "@weavesphere"
-  },
-  {
     "name": "PASS Data Community SUMMIT",
     "url": "https://passdatacommunitysummit.com",
     "startDate": "2022-11-15",
@@ -633,16 +472,6 @@
     "online": true,
     "cocUrl": "https://passdatacommunitysummit.com/about/code-of-conduct",
     "twitter": "@PASSDataSummit"
-  },
-  {
-    "name": "NODES",
-    "url": "https://neo4j.com/nodes-2022",
-    "startDate": "2022-11-16",
-    "endDate": "2022-11-17",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/neo4j-nodes-2022",
-    "cfpEndDate": "2022-08-20",
-    "twitter": "@neo4j"
   },
   {
     "name": "IT Infrastructure & Operations Summit",
@@ -656,19 +485,6 @@
     "cfpUrl": "https://www.it-infrastructure-operations-summit.com/sprecher",
     "cfpEndDate": "2022-11-17",
     "twitter": "@weCONECT"
-  },
-  {
-    "name": "Agile Testing Days",
-    "url": "https://agiletestingdays.com",
-    "startDate": "2022-11-21",
-    "endDate": "2022-11-24",
-    "city": "Potsdam",
-    "country": "Germany",
-    "online": false,
-    "cocUrl": "https://agiletestingdays.com/code-of-conduct/",
-    "cfpUrl": "https://agiletestingdays.com/call-for-papers",
-    "cfpEndDate": "2022-03-20",
-    "twitter": "@AgileTD"
   },
   {
     "name": "ScaleUp 360° Big Data Europe",
@@ -714,16 +530,5 @@
     "cfpUrl": "https://www.scale-up-360.com/de/enterprise-cloud-governance/speakers",
     "cfpEndDate": "2022-12-03",
     "twitter": "@weCONECT"
-  },
-  {
-    "name": "SpringOne",
-    "url": "https://springone.io",
-    "startDate": "2022-12-06",
-    "endDate": "2022-12-08",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "cocUrl": "https://springone.io/code-of-conduct",
-    "twitter": "@springone"
   }
 ]

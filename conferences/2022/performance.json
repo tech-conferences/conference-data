@@ -22,43 +22,6 @@
     "twitter": "@ITRevDOES"
   },
   {
-    "name": "Render-Atlanta (RenderATL)",
-    "url": "https://www.renderatl.com",
-    "startDate": "2022-06-01",
-    "endDate": "2022-06-04",
-    "city": "Atlanta, GA",
-    "country": "U.S.A.",
-    "online": false,
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "RenderATL.com/thecode",
-    "twitter": "@RenderATL"
-  },
-  {
-    "name": "React Summit",
-    "url": "https://reactsummit.com",
-    "startDate": "2022-06-17",
-    "endDate": "2022-06-21",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "online": true,
-    "cocUrl": "https://reactsummit.com/coc",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfVG_bNAebxhlERx1do33ekcmkLx25f1wh478MPv2CW6UvMlw/viewform",
-    "cfpEndDate": "2022-03-20",
-    "twitter": "@ReactSummit"
-  },
-  {
-    "name": "CascadiaJS",
-    "url": "https://2022.cascadiajs.com",
-    "startDate": "2022-08-30",
-    "endDate": "2022-09-02",
-    "city": "Bend, OR",
-    "country": "U.S.A.",
-    "online": false,
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://2022.cascadiajs.com/code-of-conduct",
-    "twitter": "@cascadiajs"
-  },
-  {
     "name": "Conf42 Incident Management",
     "url": "https://www.conf42.com/im2022",
     "startDate": "2022-09-29",
@@ -83,18 +46,6 @@
     "twitter": "@gsas_io"
   },
   {
-    "name": "TestFlix",
-    "url": "https://www.thetesttribe.com/testflix-2022",
-    "startDate": "2022-10-08",
-    "endDate": "2022-10-09",
-    "online": true,
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://www.thetesttribe.com/event-policy-and-code-of-conduct/",
-    "cfpUrl": "https://www.thetesttribe.com/testflix-2022-call-for-papers",
-    "cfpEndDate": "2022-05-15",
-    "twitter": "@the_test_tribe"
-  },
-  {
     "name": "Dash",
     "url": "https://www.dashcon.io",
     "startDate": "2022-10-18",
@@ -106,15 +57,6 @@
     "cfpUrl": "https://www.dashcon.io/cfp",
     "cfpEndDate": "2022-08-12",
     "twitter": "@dashconio"
-  },
-  {
-    "name": "JCON",
-    "url": "https://jcon.one",
-    "startDate": "2022-10-18",
-    "endDate": "2022-10-21",
-    "online": true,
-    "cocUrl": "https://jcon.one/code-of-conduct",
-    "twitter": "@jcon_conference"
   },
   {
     "name": "P99 CONF",
@@ -140,27 +82,6 @@
     "twitter": "@JavaScriptCon"
   },
   {
-    "name": "Enterprise GraphQL Conference",
-    "url": "https://hasura.io/enterprisegraphql",
-    "startDate": "2022-11-10",
-    "endDate": "2022-11-10",
-    "online": true,
-    "twitter": "@hasurahq"
-  },
-  {
-    "name": "Update Conference Prague",
-    "url": "https://www.updateconference.net",
-    "startDate": "2022-11-10",
-    "endDate": "2022-11-11",
-    "city": "Prague",
-    "country": "Czech Republic",
-    "online": true,
-    "cocUrl": "https://www.updateconference.net/en/code-of-conduct",
-    "cfpUrl": "https://www.updateconference.net/2022/call-for-speakers",
-    "cfpEndDate": "2022-06-26",
-    "twitter": "@update_conf"
-  },
-  {
     "name": "WeAreDevelopers Container Day",
     "url": "https://www.wearedevelopers.com/event/container-day-1611",
     "startDate": "2022-11-16",
@@ -170,28 +91,6 @@
     "cfpUrl": "https://sessionize.com/wadlive2022",
     "cfpEndDate": "2022-11-09",
     "twitter": "@WeAreDevs"
-  },
-  {
-    "name": "Agile Testing Days",
-    "url": "https://agiletestingdays.com",
-    "startDate": "2022-11-21",
-    "endDate": "2022-11-24",
-    "city": "Potsdam",
-    "country": "Germany",
-    "online": false,
-    "cocUrl": "https://agiletestingdays.com/code-of-conduct/",
-    "cfpUrl": "https://agiletestingdays.com/call-for-papers",
-    "cfpEndDate": "2022-03-20",
-    "twitter": "@AgileTD"
-  },
-  {
-    "name": "enterJS Web-Performance Day",
-    "url": "https://enterjs.de/web-performance.php",
-    "startDate": "2022-12-01",
-    "endDate": "2022-12-01",
-    "online": true,
-    "cocUrl": "https://enterjs.de/code_of_conduct.php",
-    "twitter": "@enterjsconf"
   },
   {
     "name": "WeAreDevelopers Machine Learning Day",

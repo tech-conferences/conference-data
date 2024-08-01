@@ -43,19 +43,6 @@
     "online": true
   },
   {
-    "name": "Open Source Festival",
-    "url": "https://festival.oscafrica.org",
-    "startDate": "2022-03-24",
-    "endDate": "2022-03-26",
-    "city": "Lagos",
-    "country": "Nigeria",
-    "online": true,
-    "offersSignLanguageOrCC": true,
-    "cfpUrl": "https://www.papercall.io/cfps/4213/submissions/new",
-    "cfpEndDate": "2022-01-27",
-    "twitter": "@oscafrica"
-  },
-  {
     "name": "PyCon DE & PyData",
     "url": "https://2022.pycon.de",
     "startDate": "2022-04-11",
@@ -65,17 +52,6 @@
     "online": false,
     "cocUrl": "https://2022.pycon.de/code-of-conduct/",
     "twitter": "@PyConDE"
-  },
-  {
-    "name": "Developer Growth Summit",
-    "url": "https://www.codementor.io/events/developer-growth-summit",
-    "startDate": "2022-04-20",
-    "endDate": "2022-04-21",
-    "online": true,
-    "cocUrl": "https://codementor.notion.site/Codementor-Events-Code-of-Conduct-37b9714c926c47b4a222429b6e873f48",
-    "cfpUrl": "https://arcdotdev.typeform.com/to/JcAdJQgW",
-    "cfpEndDate": "2022-04-13",
-    "twitter": "@CodementorIO"
   },
   {
     "name": "PyCon",
@@ -186,29 +162,6 @@
     "online": true,
     "offersSignLanguageOrCC": true,
     "twitter": "@CoiledHQ"
-  },
-  {
-    "name": "NODES",
-    "url": "https://neo4j.com/nodes-2022",
-    "startDate": "2022-11-16",
-    "endDate": "2022-11-17",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/neo4j-nodes-2022",
-    "cfpEndDate": "2022-08-20",
-    "twitter": "@neo4j"
-  },
-  {
-    "name": "Agile Testing Days",
-    "url": "https://agiletestingdays.com",
-    "startDate": "2022-11-21",
-    "endDate": "2022-11-24",
-    "city": "Potsdam",
-    "country": "Germany",
-    "online": false,
-    "cocUrl": "https://agiletestingdays.com/code-of-conduct/",
-    "cfpUrl": "https://agiletestingdays.com/call-for-papers",
-    "cfpEndDate": "2022-03-20",
-    "twitter": "@AgileTD"
   },
   {
     "name": "XtremePython Online Conference",

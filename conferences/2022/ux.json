@@ -8,35 +8,11 @@
     "twitter": "@techcircus_"
   },
   {
-    "name": "Open Source Festival",
-    "url": "https://festival.oscafrica.org",
-    "startDate": "2022-03-24",
-    "endDate": "2022-03-26",
-    "city": "Lagos",
-    "country": "Nigeria",
-    "online": true,
-    "offersSignLanguageOrCC": true,
-    "cfpUrl": "https://www.papercall.io/cfps/4213/submissions/new",
-    "cfpEndDate": "2022-01-27",
-    "twitter": "@oscafrica"
-  },
-  {
     "name": "Design Value Conference",
     "url": "https://get.uxpin.com/design-value-conference-2022",
     "startDate": "2022-03-29",
     "endDate": "2022-03-29",
     "online": true
-  },
-  {
-    "name": "QCon London",
-    "url": "https://qconlondon.com",
-    "startDate": "2022-04-04",
-    "endDate": "2022-04-06",
-    "city": "London",
-    "country": "U.K.",
-    "online": false,
-    "offersSignLanguageOrCC": true,
-    "twitter": "@qconlondon"
   },
   {
     "name": "An Event Apart Spring Summit",
@@ -82,18 +58,6 @@
     "cfpUrl": "https://callforpapers.sandsmedia.com",
     "cfpEndDate": "2022-01-13",
     "twitter": "@webinale"
-  },
-  {
-    "name": "Render-Atlanta (RenderATL)",
-    "url": "https://www.renderatl.com",
-    "startDate": "2022-06-01",
-    "endDate": "2022-06-04",
-    "city": "Atlanta, GA",
-    "country": "U.S.A.",
-    "online": false,
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "RenderATL.com/thecode",
-    "twitter": "@RenderATL"
   },
   {
     "name": "ProductCamp",
@@ -204,18 +168,6 @@
     "online": true
   },
   {
-    "name": "CascadiaJS",
-    "url": "https://2022.cascadiajs.com",
-    "startDate": "2022-08-30",
-    "endDate": "2022-09-02",
-    "city": "Bend, OR",
-    "country": "U.S.A.",
-    "online": false,
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://2022.cascadiajs.com/code-of-conduct",
-    "twitter": "@cascadiajs"
-  },
-  {
     "name": "SmashingConf Freiburg",
     "url": "https://smashingconf.com/freiburg-2022",
     "startDate": "2022-09-05",
@@ -289,18 +241,6 @@
     "cfpUrl": "https://www.eventbrite.com/e/createsummit-arts-creativity-summit-tickets-398656511357",
     "cfpEndDate": "2022-10-21",
     "twitter": "@unavailable"
-  },
-  {
-    "name": "CWIC: The Hyperconnected Human",
-    "url": "https://www.cambridgewireless.co.uk/events/conferences/cwic",
-    "startDate": "2022-11-02",
-    "endDate": "2022-11-02",
-    "city": "Cambridge",
-    "country": "U.K.",
-    "online": true,
-    "cfpUrl": "https://www.cambridgewireless.co.uk/events/conferences/cwic/cwic-call-speakers",
-    "cfpEndDate": "2022-08-19",
-    "twitter": "@CambWireless"
   },
   {
     "name": "PUSH UX",

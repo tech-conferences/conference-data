@@ -31,17 +31,6 @@
     "twitter": "@confooca"
   },
   {
-    "name": "QCon London",
-    "url": "https://qconlondon.com",
-    "startDate": "2022-04-04",
-    "endDate": "2022-04-06",
-    "city": "London",
-    "country": "U.K.",
-    "online": false,
-    "offersSignLanguageOrCC": true,
-    "twitter": "@qconlondon"
-  },
-  {
     "name": "Midwest PHP",
     "url": "https://midwestphp.org",
     "startDate": "2022-04-21",
@@ -149,20 +138,6 @@
     "twitter": "@longhornphp"
   },
   {
-    "name": "WordCamp Italia",
-    "url": "https://italia.wordcamp.org",
-    "startDate": "2022-11-11",
-    "endDate": "2022-11-12",
-    "city": "Milano",
-    "country": "Italy",
-    "online": true,
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://italia.wordcamp.org/2022/code-of-conduct/",
-    "cfpUrl": "https://italia.wordcamp.org/2022/en/call-for-speakers",
-    "cfpEndDate": "2022-09-15",
-    "twitter": "@WordCampItalia"
-  },
-  {
     "name": "Italian LaravelDay",
     "url": "https://2022.laravelday.it/",
     "startDate": "2022-11-17",
@@ -187,19 +162,6 @@
     "cfpUrl": "https://live.symfony.com/2022-paris-con/cfp",
     "cfpEndDate": "2022-08-29",
     "twitter": "@SymfonyCon"
-  },
-  {
-    "name": "Agile Testing Days",
-    "url": "https://agiletestingdays.com",
-    "startDate": "2022-11-21",
-    "endDate": "2022-11-24",
-    "city": "Potsdam",
-    "country": "Germany",
-    "online": false,
-    "cocUrl": "https://agiletestingdays.com/code-of-conduct/",
-    "cfpUrl": "https://agiletestingdays.com/call-for-papers",
-    "cfpEndDate": "2022-03-20",
-    "twitter": "@AgileTD"
   },
   {
     "name": "betterCode() PHP",

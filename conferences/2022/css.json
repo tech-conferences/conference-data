@@ -45,18 +45,6 @@
     "twitter": "@aneventapart"
   },
   {
-    "name": "Render-Atlanta (RenderATL)",
-    "url": "https://www.renderatl.com",
-    "startDate": "2022-06-01",
-    "endDate": "2022-06-04",
-    "city": "Atlanta, GA",
-    "country": "U.S.A.",
-    "online": false,
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "RenderATL.com/thecode",
-    "twitter": "@RenderATL"
-  },
-  {
     "name": "CSS Day",
     "url": "https://cssday.nl/2022",
     "startDate": "2022-06-09",
@@ -65,17 +53,6 @@
     "country": "Netherlands",
     "cocUrl": "https://cssday.nl/2022/contact#code-of-conduct",
     "twitter": "@cssdayconf"
-  },
-  {
-    "name": "WeAreDevelopers World Congress",
-    "url": "https://www.wearedevelopers.com/world-congress/#",
-    "startDate": "2022-06-14",
-    "endDate": "2022-06-15",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/wearedevs2022",
-    "cfpEndDate": "2022-01-31"
   },
   {
     "name": "SmashingConf San Francisco",
@@ -98,18 +75,6 @@
     "online": true,
     "cocUrl": "https://smashingconf.com/codeofconduct",
     "twitter": "@smashingconf"
-  },
-  {
-    "name": "CascadiaJS",
-    "url": "https://2022.cascadiajs.com",
-    "startDate": "2022-08-30",
-    "endDate": "2022-09-02",
-    "city": "Bend, OR",
-    "country": "U.S.A.",
-    "online": false,
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://2022.cascadiajs.com/code-of-conduct",
-    "twitter": "@cascadiajs"
   },
   {
     "name": "SmashingConf Freiburg",
@@ -183,15 +148,6 @@
     "online": true,
     "cocUrl": "https://fwdays.com/en/page/code-of-conduct",
     "twitter": "@fwdays"
-  },
-  {
-    "name": "enterJS Web-Performance Day",
-    "url": "https://enterjs.de/web-performance.php",
-    "startDate": "2022-12-01",
-    "endDate": "2022-12-01",
-    "online": true,
-    "cocUrl": "https://enterjs.de/code_of_conduct.php",
-    "twitter": "@enterjsconf"
   },
   {
     "name": "Frontrunners JS/Web",

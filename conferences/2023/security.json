@@ -88,20 +88,6 @@
     "twitter": "@VoxxedBucharest"
   },
   {
-    "name": "Apprise Conf",
-    "url": "https://appriseconf.com",
-    "startDate": "2023-03-23",
-    "endDate": "2023-03-23",
-    "city": "Oslo",
-    "country": "Norway",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://appriseconf.com/coc.html",
-    "cfpUrl": "https://forms.gle/63C6sSAbzFLFzpX17",
-    "cfpEndDate": "2023-01-31",
-    "twitter": "@appriseconf"
-  },
-  {
     "name": "Develop",
     "url": "https://developer.cisco.com/develop/2023",
     "startDate": "2023-04-05",
@@ -181,18 +167,6 @@
     "twitter": "@TestMastersAcad"
   },
   {
-    "name": "JAX",
-    "url": "https://jax.de/mainz",
-    "startDate": "2023-05-08",
-    "endDate": "2023-05-12",
-    "city": "Mainz",
-    "country": "Germany",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://jax.de/code-of-conduct/",
-    "twitter": "@jaxcon"
-  },
-  {
     "name": "Linux Security Summit North America",
     "url": "https://events.linuxfoundation.org/linux-security-summit-north-america",
     "startDate": "2023-05-10",
@@ -267,28 +241,6 @@
     "twitter": "@phpconference"
   },
   {
-    "name": "Heroes of Data Privacy",
-    "url": "https://www.heroesofdataprivacy.com/index.html",
-    "startDate": "2023-05-24",
-    "endDate": "2023-05-25",
-    "city": "Vienna",
-    "country": "Austria",
-    "online": false,
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "RenderATL",
-    "url": "https://www.renderatl.com",
-    "startDate": "2023-05-31",
-    "endDate": "2023-06-02",
-    "city": "Atlanta, GA",
-    "country": "U.S.A.",
-    "online": false,
-    "cocUrl": "https://www.renderatl.com/codepolicy",
-    "twitter": "@RenderATL"
-  },
-  {
     "name": "MAD Summit München",
     "url": "https://mad-summit.de/muenchen",
     "startDate": "2023-06-19",
@@ -299,20 +251,6 @@
     "locales": "DE",
     "cocUrl": "https://mad-summit.de/muenchen/",
     "twitter": "@mad_summit"
-  },
-  {
-    "name": "JCON EUROPE",
-    "url": "https://2023.europe.jcon.one",
-    "startDate": "2023-06-20",
-    "endDate": "2023-06-23",
-    "city": "Cologne",
-    "country": "Germany",
-    "online": false,
-    "locales": "EN,DE",
-    "cocUrl": "https://2023.europe.jcon.one/code-of-conduct",
-    "cfpUrl": "https://2023.europe.jcon.one/call-for-papers",
-    "cfpEndDate": "2023-01-31",
-    "twitter": "@jcon_conference"
   },
   {
     "name": "TribeQonf - 1 Conference For All things Testing",
@@ -539,21 +477,6 @@
     "cfpUrl": "https://sessionize.com/ai-devworld-2023",
     "cfpEndDate": "2023-06-09",
     "twitter": "@APIWorld"
-  },
-  {
-    "name": "Web Directions Summit",
-    "url": "https://webdirections.org/summit",
-    "startDate": "2023-10-26",
-    "endDate": "2023-10-27",
-    "city": "Sydney",
-    "country": "Australia",
-    "online": true,
-    "locales": "EN",
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
-    "cfpUrl": "https://webdirections.org/speaking",
-    "cfpEndDate": "2023-05-31",
-    "twitter": "@webdirections"
   },
   {
     "name": "Ory Summit",

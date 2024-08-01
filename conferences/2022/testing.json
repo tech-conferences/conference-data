@@ -95,18 +95,6 @@
     "twitter": "@expoqa"
   },
   {
-    "name": "Render-Atlanta (RenderATL)",
-    "url": "https://www.renderatl.com",
-    "startDate": "2022-06-01",
-    "endDate": "2022-06-04",
-    "city": "Atlanta, GA",
-    "country": "U.S.A.",
-    "online": false,
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "RenderATL.com/thecode",
-    "twitter": "@RenderATL"
-  },
-  {
     "name": "Agile Testing Days USA",
     "url": "https://agiletestingdays.us",
     "startDate": "2022-06-05",
@@ -151,19 +139,6 @@
     "twitter": "@romaniatesting"
   },
   {
-    "name": "React Summit",
-    "url": "https://reactsummit.com",
-    "startDate": "2022-06-17",
-    "endDate": "2022-06-21",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "online": true,
-    "cocUrl": "https://reactsummit.com/coc",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfVG_bNAebxhlERx1do33ekcmkLx25f1wh478MPv2CW6UvMlw/viewform",
-    "cfpEndDate": "2022-03-20",
-    "twitter": "@ReactSummit"
-  },
-  {
     "name": "DevOpsCon Berlin",
     "url": "https://devopscon.io/berlin",
     "startDate": "2022-06-20",
@@ -185,19 +160,6 @@
     "country": "Switzerland",
     "online": false,
     "twitter": "@SwissTesting"
-  },
-  {
-    "name": "JCON-PEOPLE",
-    "url": "https://jcon.one",
-    "startDate": "2022-06-21",
-    "endDate": "2022-06-22",
-    "city": "Munich",
-    "country": "Germany",
-    "online": false,
-    "cocUrl": "https://2022.jcon.one/code-of-conduct",
-    "cfpUrl": "https://sessionize.com/jcon-2022-people",
-    "cfpEndDate": "2022-03-31",
-    "twitter": "@jcon_conference"
   },
   {
     "name": "Selenium Conf Lite",
@@ -246,19 +208,6 @@
     "country": "U.S.A."
   },
   {
-    "name": "Nullcon International Security Conference and Training Goa",
-    "url": "https://nullcon.net/goa-2022",
-    "startDate": "2022-09-09",
-    "endDate": "2022-09-10",
-    "city": "Goa",
-    "country": "India",
-    "online": false,
-    "cocUrl": "https://nullcon.net/about-conferencepolicy/",
-    "cfpUrl": "https://nullcon.net/goa-2022/cfp",
-    "cfpEndDate": "2022-06-05",
-    "twitter": "@nullcon"
-  },
-  {
     "name": "SREday",
     "url": "https://www.sreday.com",
     "startDate": "2022-09-15",
@@ -292,18 +241,6 @@
     "online": true
   },
   {
-    "name": "TestFlix",
-    "url": "https://www.thetesttribe.com/testflix-2022",
-    "startDate": "2022-10-08",
-    "endDate": "2022-10-09",
-    "online": true,
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://www.thetesttribe.com/event-policy-and-code-of-conduct/",
-    "cfpUrl": "https://www.thetesttribe.com/testflix-2022-call-for-papers",
-    "cfpEndDate": "2022-05-15",
-    "twitter": "@the_test_tribe"
-  },
-  {
     "name": "AutomationSTAR Conference",
     "url": "https://automation.eurostarsoftwaretesting.com",
     "startDate": "2022-10-17",
@@ -325,15 +262,6 @@
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSemM0xLLOL--WU5Ix9yRjpWwN-xbyHaaio21fLWAsZVb2PxeQ/viewform",
     "cfpEndDate": "2022-10-01",
     "twitter": "@GeekleOfficial"
-  },
-  {
-    "name": "JCON",
-    "url": "https://jcon.one",
-    "startDate": "2022-10-18",
-    "endDate": "2022-10-21",
-    "online": true,
-    "cocUrl": "https://jcon.one/code-of-conduct",
-    "twitter": "@jcon_conference"
   },
   {
     "name": "Testing Talks",
@@ -382,18 +310,6 @@
     "cocUrl": "http://softwaretesting.news/national-software-testing-conference/code-of-conduct/"
   },
   {
-    "name": "CWIC: The Hyperconnected Human",
-    "url": "https://www.cambridgewireless.co.uk/events/conferences/cwic",
-    "startDate": "2022-11-02",
-    "endDate": "2022-11-02",
-    "city": "Cambridge",
-    "country": "U.K.",
-    "online": true,
-    "cfpUrl": "https://www.cambridgewireless.co.uk/events/conferences/cwic/cwic-call-speakers",
-    "cfpEndDate": "2022-08-19",
-    "twitter": "@CambWireless"
-  },
-  {
     "name": "TestJS Summit",
     "url": "https://testjssummit.com",
     "startDate": "2022-11-04",
@@ -403,19 +319,6 @@
     "cfpUrl": "https://forms.gle/xLZ8omTK4TAyeGVt7",
     "cfpEndDate": "2022-09-16",
     "twitter": "@TestJSSummit"
-  },
-  {
-    "name": "Update Conference Prague",
-    "url": "https://www.updateconference.net",
-    "startDate": "2022-11-10",
-    "endDate": "2022-11-11",
-    "city": "Prague",
-    "country": "Czech Republic",
-    "online": true,
-    "cocUrl": "https://www.updateconference.net/en/code-of-conduct",
-    "cfpUrl": "https://www.updateconference.net/2022/call-for-speakers",
-    "cfpEndDate": "2022-06-26",
-    "twitter": "@update_conf"
   },
   {
     "name": "{unscripted}",

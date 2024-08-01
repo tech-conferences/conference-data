@@ -1,44 +1,5 @@
 [
   {
-    "name": "VeryTechTrip",
-    "url": "https://verytechtrip.com",
-    "startDate": "2023-02-02",
-    "endDate": "2023-02-02",
-    "city": "Paris",
-    "country": "France",
-    "online": false,
-    "locales": "FR",
-    "cfpUrl": "https://conference-hall.io/public/event/hoyBWUXe43dnoiBekZaB",
-    "cfpEndDate": "2022-11-14",
-    "twitter": "@OVHcloud_Tech"
-  },
-  {
-    "name": "Devoxx France",
-    "url": "https://devoxx.fr",
-    "startDate": "2023-04-12",
-    "endDate": "2023-04-14",
-    "city": "Paris",
-    "country": "France",
-    "online": false,
-    "locales": "EN,FR",
-    "cocUrl": "https://www.devoxx.fr/presenter-a-devoxx/code-de-conduite/",
-    "cfpUrl": "https://cfp.devoxx.fr",
-    "cfpEndDate": "2023-01-08",
-    "twitter": "@DevoxxFR"
-  },
-  {
-    "name": "JAX",
-    "url": "https://jax.de/mainz",
-    "startDate": "2023-05-08",
-    "endDate": "2023-05-12",
-    "city": "Mainz",
-    "country": "Germany",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://jax.de/code-of-conduct/",
-    "twitter": "@jaxcon"
-  },
-  {
     "name": "Conf42 Rustlang",
     "url": "https://www.conf42.com/rustlang2023",
     "startDate": "2023-09-07",

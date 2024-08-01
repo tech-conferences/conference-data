@@ -25,20 +25,6 @@
     "twitter": "@WeAreDevs"
   },
   {
-    "name": "Apprise Conf",
-    "url": "https://appriseconf.com",
-    "startDate": "2023-03-23",
-    "endDate": "2023-03-23",
-    "city": "Oslo",
-    "country": "Norway",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://appriseconf.com/coc.html",
-    "cfpUrl": "https://forms.gle/63C6sSAbzFLFzpX17",
-    "cfpEndDate": "2023-01-31",
-    "twitter": "@appriseconf"
-  },
-  {
     "name": "plDroid",
     "url": "https://pldroid.com",
     "startDate": "2023-05-30",
@@ -58,20 +44,6 @@
     "online": false,
     "locales": "DE",
     "twitter": "@mobilecamp"
-  },
-  {
-    "name": "JCON EUROPE",
-    "url": "https://2023.europe.jcon.one",
-    "startDate": "2023-06-20",
-    "endDate": "2023-06-23",
-    "city": "Cologne",
-    "country": "Germany",
-    "online": false,
-    "locales": "EN,DE",
-    "cocUrl": "https://2023.europe.jcon.one/code-of-conduct",
-    "cfpUrl": "https://2023.europe.jcon.one/call-for-papers",
-    "cfpEndDate": "2023-01-31",
-    "twitter": "@jcon_conference"
   },
   {
     "name": "droidcon Berlin",

@@ -74,17 +74,6 @@
     "twitter": "@NVIDIAGTC"
   },
   {
-    "name": "QCon London International Software Development Conference",
-    "url": "https://qconlondon.com",
-    "startDate": "2023-03-27",
-    "endDate": "2023-03-29",
-    "city": "London",
-    "country": "U.K.",
-    "online": false,
-    "cocUrl": "https://qconferences.com/code-conduct",
-    "twitter": "@QCon"
-  },
-  {
     "name": "Data Council",
     "url": "https://www.datacouncil.ai",
     "startDate": "2023-03-28",
@@ -104,20 +93,6 @@
     "country": "U.S.A.",
     "online": false,
     "twitter": "@MLconf"
-  },
-  {
-    "name": "Devoxx France",
-    "url": "https://devoxx.fr",
-    "startDate": "2023-04-12",
-    "endDate": "2023-04-14",
-    "city": "Paris",
-    "country": "France",
-    "online": false,
-    "locales": "EN,FR",
-    "cocUrl": "https://www.devoxx.fr/presenter-a-devoxx/code-de-conduite/",
-    "cfpUrl": "https://cfp.devoxx.fr",
-    "cfpEndDate": "2023-01-08",
-    "twitter": "@DevoxxFR"
   },
   {
     "name": "PGDay/MED",
@@ -252,17 +227,6 @@
     "cfpUrl": "https://nepalschool.naamii.com.np/applications",
     "cfpEndDate": "2023-04-07",
     "twitter": "@naamii_nepal"
-  },
-  {
-    "name": "Heroes of Data Privacy",
-    "url": "https://www.heroesofdataprivacy.com/index.html",
-    "startDate": "2023-05-24",
-    "endDate": "2023-05-25",
-    "city": "Vienna",
-    "country": "Austria",
-    "online": false,
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
   },
   {
     "name": "Intelligent Health",
