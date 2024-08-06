@@ -7,8 +7,8 @@ import { DuplicateError } from './DuplicateError';
 import { DuplicateType } from './DuplicateType';
 import IsConferenceEqual from './IsConferenceEqual';
 
-export default function mergedConferencesReader() {
-    const conferencesJSON = conferenceReader(false);
+export default function mergedConferencesReader(reorderConferences: boolean) {
+    const conferencesJSON = conferenceReader(reorderConferences);
     const mergedConferences: { [key: string]: MergedConference[] } = {};
 
     const duplicateErrors: DuplicateError[] = [];

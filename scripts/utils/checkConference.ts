@@ -17,7 +17,7 @@ const dateFormat: string = 'yyyy-MM-dd';
 const dateRegex: RegExp = /(2\d\d\d)-(0[1-9])|(1[012])-(0[1-9])|([12][0-9])|(3[01])/;
 const year2000Regex: RegExp = /20\d{2}/;
 const REQUIRED_KEYS: string[] = ['name', 'url', 'startDate', 'endDate'];
-const validLocationsHint: string = ' - Check/Maintain the file "config/validLocations.js"';
+const validLocationsHint: string = ' - Check/Maintain the file "scripts/config/validLocations.ts"';
 
 export default function (year: string, conference: MergedConference, assertField: AssertField) {
     const { name, url, cfpUrl, twitter } = conference;

@@ -25,6 +25,21 @@
     "twitter": "@frontrunnersdc"
   },
   {
+    "name": "JavaLand",
+    "url": "https://www.javaland.eu",
+    "startDate": "2025-04-01",
+    "endDate": "2025-04-03",
+    "city": "Nürburgring",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN,DE",
+    "cocUrl": "https://www.javaland.eu/de/verhaltenscodex/",
+    "cfpUrl": "https://www.javaland.eu/de/referierende",
+    "cfpEndDate": "2024-09-06",
+    "twitter": "@DOAGeV",
+    "mastodon": "@JavaLandConf@ijug.social"
+  },
+  {
     "name": "CityJS London",
     "url": "https://london.cityjsconf.org",
     "startDate": "2025-04-23",

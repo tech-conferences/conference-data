@@ -10,7 +10,7 @@ console.log('Running conference tests...');
 const label = 'Conference Tests Runtime';
 console.time(label);
 
-const mergedConferences = mergedConferencesReader();
+const mergedConferences = mergedConferencesReader(false);
 
 const testResult: TestResult = {
     errors: {},

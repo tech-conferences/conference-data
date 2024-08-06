@@ -11,7 +11,7 @@ import { uniqWith } from 'lodash';
 const BASE_DIR = 'conferences';
 
 const conferencesJSON = conferenceReader(true);
-const mergedConferences = mergedConferencesReader();
+const mergedConferences = mergedConferencesReader(true);
 const generalDuplicateErrors = mergedConferences.duplicateErrors.filter(error => error.type === DuplicateType.NotOnlyGeneral);
 const containsGeneralDuplicateErrors = generalDuplicateErrors.length > 0;
 const conferencesWithTooManyStacks = mergedConferences.duplicateErrors.filter(error => error.type === DuplicateType.TooManyStacks).map(error => error.conference);
