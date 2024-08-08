@@ -80,7 +80,7 @@ export default async function logTestResult(testResult: TestResult) {
         if (token) {
             const prUrl = await getDuplicatePr(token, duplicateError);
             if (prUrl) {
-                duplicateErrorMessages.push(`  Pull Request: ${prUrl}`);
+                duplicateErrorMessages.push(`  Potential Duplicate PR: ${prUrl}`);
             }
         }
     }
