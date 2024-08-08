@@ -1,6 +1,7 @@
-import { Octokit } from '@octokit/rest';
 import * as github from '@actions/github';
+import { Octokit } from '@octokit/rest';
 import { ErrorDetail } from './ErrorDetail';
+import getPrBranchUrl from './getPrBranchUrl';
 
 export default async function commentPullRequest(token: string, allErrors: ErrorDetail[], duplicateErrorMessages: string[]) {
     const { context: eventContext } = github;
@@ -11,11 +12,12 @@ export default async function commentPullRequest(token: string, allErrors: Error
         auth: token
     });
     const prNumber = eventContext.issue.number;
+    const prBranchUrl = await getPrBranchUrl(token);
     const comments = allErrors.map(error => {
         return {
             path: error.fileName,
             line: error.lineNumber,
-            body: error.message
+            body: error.message.replace('scripts/config/validLocations.ts', `[scripts/config/validLocations.ts](${prBranchUrl}/scripts/config/validLocations.ts)`)
         };
     });
 
