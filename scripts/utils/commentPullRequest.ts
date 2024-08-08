@@ -17,7 +17,7 @@ export default async function commentPullRequest(token: string, allErrors: Error
         return {
             path: error.fileName,
             line: error.lineNumber,
-            body: error.message.replace('scripts/config/validLocations.ts', `[scripts/config/validLocations.ts](${prBranchUrl}scripts/config/validLocations.ts)`)
+            body: error.message.replace('scripts/config/validLocations.ts', `[scripts/config/validLocations.ts](${prBranchUrl}/scripts/config/validLocations.ts)`)
         };
     });
 
