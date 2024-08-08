@@ -9,7 +9,7 @@ import { Conference } from './Conference';
 import { DuplicateType } from './DuplicateType';
 import getDuplicatePr from './getDuplicatePr';
 
-export default function logTestResult(testResult: TestResult) {
+export default async function logTestResult(testResult: TestResult) {
     const allErrors: ErrorDetail[] = [];
     const token = process.env['GITHUB_TOKEN'];
     for (const year of Object.keys(testResult.errors)) {
@@ -78,7 +78,7 @@ export default function logTestResult(testResult: TestResult) {
         logDuplicateFileName(duplicateError.duplicate);
         logDifferences(duplicateError.conference, duplicateError.duplicate);
         if (token) {
-            const prUrl = getDuplicatePr(token, duplicateError);
+            const prUrl = await getDuplicatePr(token, duplicateError);
             if (prUrl) {
                 duplicateErrorMessages.push(`  Pull Request: ${prUrl}`);
             }
