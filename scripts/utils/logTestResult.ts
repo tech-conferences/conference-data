@@ -9,6 +9,7 @@ import { Conference } from './Conference';
 import { DuplicateType } from './DuplicateType';
 import getDuplicatePr from './getDuplicatePr';
 import * as github from '@actions/github';
+import getPrBranchUrl from './getPrBranchUrl';
 
 export default async function logTestResult(testResult: TestResult) {
     const allErrors: ErrorDetail[] = [];
@@ -42,8 +43,7 @@ export default async function logTestResult(testResult: TestResult) {
     }
 
     const duplicateErrorMessages: string[] = [];
-    const { context: eventContext } = github;
-    const fileNamePrefix = eventContext?.ref ? eventContext?.ref : '';
+    const prBranchUrl = await getPrBranchUrl(token);
     function logDifferences(conference: Conference, duplicate: Conference) {
         for (const field of Object.keys(conference)) {
             if (field == 'startDateParsed' || field == 'stacks' || field == 'endDateParsed' || field == 'cfpEndDateParsed') {
@@ -60,7 +60,14 @@ export default async function logTestResult(testResult: TestResult) {
         for (const stack of conference.stacks) {
             const fileName = `conferences/${conference.startDateParsed.getFullYear()}/${stack}.json`;
             const lineNumber = findLineNumber(conference, 'name', fileName);
-            duplicateErrorMessages.push(`  File: ${fileNamePrefix}${fileName}:${lineNumber}`);
+            const fileNameWithNumber = '${fileName}:${lineNumber}';
+            if (prBranchUrl) {
+                duplicateErrorMessages.push(`  File: [${fileNameWithNumber}](${prBranchUrl}/${fileName}#L${lineNumber})`);
+            } else {
+                duplicateErrorMessages.push(`  File: ${fileNameWithNumber}`);
+            }
+
+
         }
     }
     function getDuplicateDescription(type: DuplicateType) {
