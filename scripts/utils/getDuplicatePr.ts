@@ -2,8 +2,6 @@ import { Octokit } from '@octokit/rest';
 import * as github from '@actions/github';
 import { DuplicateError } from './DuplicateError';
 
-
-
 export default async function getDuplicatePr(token: string, duplicateError: DuplicateError): Promise<String | undefined> {
     const { context: eventContext } = github;
     if (!eventContext?.repo?.owner) {
