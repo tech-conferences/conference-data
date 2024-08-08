@@ -19,7 +19,7 @@ export default async function getDuplicatePr(token: string, duplicateError: Dupl
         });
         if (prsWithUrl.data.items.length > 0) {
             const pr = prsWithUrl.data.items[0];
-            return `[${pr.title}](${pr.id})](pr.html_url)`;
+            return `[${pr.title} #${pr.id}](pr.html_url)`;
         }
     }
     const url = new URL(duplicateError.conference.url);
