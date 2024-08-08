@@ -60,14 +60,12 @@ export default async function logTestResult(testResult: TestResult) {
         for (const stack of conference.stacks) {
             const fileName = `conferences/${conference.startDateParsed.getFullYear()}/${stack}.json`;
             const lineNumber = findLineNumber(conference, 'name', fileName);
-            const fileNameWithNumber = '${fileName}:${lineNumber}';
+            const fileNameWithNumber = `${fileName}:${lineNumber}`;
             if (prBranchUrl) {
                 duplicateErrorMessages.push(`  File: [${fileNameWithNumber}](${prBranchUrl}/${fileName}#L${lineNumber})`);
             } else {
                 duplicateErrorMessages.push(`  File: ${fileNameWithNumber}`);
             }
-
-
         }
     }
     function getDuplicateDescription(type: DuplicateType) {
