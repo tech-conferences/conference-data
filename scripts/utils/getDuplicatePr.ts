@@ -10,7 +10,7 @@ export default async function getDuplicatePr(token: string, duplicateError: Dupl
     const octokit = new Octokit({
         auth: token
     });
-    const qPrefix = `is:pr is:merged repo:${eventContext.repo.owner}/${eventContext.repo.repo}`;
+    const qPrefix = `is:pr is:merged repo:${eventContext.repo.owner}/${eventContext.repo.repo} `;
     const url = new URL(duplicateError.conference.url);
     const baseUrl = url.origin.replace('www.', '').replace('https://', '').replace('http://', '');
     const path = url.pathname.replace(/\/$/, '');
