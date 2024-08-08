@@ -1,7 +1,6 @@
 import { Octokit } from '@octokit/rest';
 import * as github from '@actions/github';
 import { ErrorDetail } from './ErrorDetail';
-import { DuplicateError } from './DuplicateError';
 
 export default async function commentPullRequest(token: string, allErrors: ErrorDetail[], duplicateErrorMessages: string[]) {
     const { context: eventContext } = github;

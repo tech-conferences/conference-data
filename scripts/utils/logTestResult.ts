@@ -7,9 +7,11 @@ import { MergedConference } from './MergedConference';
 import findLineNumber from './findLineNumber';
 import { Conference } from './Conference';
 import { DuplicateType } from './DuplicateType';
+import getDuplicatePr from './getDuplicatePr';
 
 export default function logTestResult(testResult: TestResult) {
     const allErrors: ErrorDetail[] = [];
+    const token = process.env['GITHUB_TOKEN'];
     for (const year of Object.keys(testResult.errors)) {
         const errorsOfYear: ErrorDetail[] = [];
         process.stdout.write(chalk.gray(`${year}: `));
@@ -75,6 +77,12 @@ export default function logTestResult(testResult: TestResult) {
         logDuplicateFileName(duplicateError.conference);
         logDuplicateFileName(duplicateError.duplicate);
         logDifferences(duplicateError.conference, duplicateError.duplicate);
+        if (token) {
+            const prUrl = getDuplicatePr(token, duplicateError);
+            if (prUrl) {
+                duplicateErrorMessages.push(`  Pull Request: ${prUrl}`);
+            }
+        }
     }
     for (const duplicateErrorMessage of duplicateErrorMessages) {
         console.log(chalk.red.bold(duplicateErrorMessage));
@@ -82,7 +90,6 @@ export default function logTestResult(testResult: TestResult) {
 
     if (allErrors.length !== 0 || testResult.duplicateErrors.length !== 0) {
         console.log(chalk.red.bold('Error: Tests failed'));
-        const token = process.env['GITHUB_TOKEN'];
         if (token) {
             commentPullRequest(token, allErrors, duplicateErrorMessages);
         } else {
