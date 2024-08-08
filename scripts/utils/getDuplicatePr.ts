@@ -18,19 +18,19 @@ export default async function getDuplicatePr(token: string, duplicateError: Dupl
         q: qPrefix + baseUrl + path
     });
     if (prsWithUrl.data.items.length > 0) {
-        return prsWithUrl.data.items[0].url;
+        return prsWithUrl.data.items[0].html_url;
     }
     const prsWithBaseUrl = await octokit.search.issuesAndPullRequests({
         q: qPrefix + baseUrl
     });
     if (prsWithBaseUrl.data.items.length > 0) {
-        return prsWithUrl.data.items[0].url;
+        return prsWithUrl.data.items[0].html_url;
     }
     const prsWithName = await octokit.search.issuesAndPullRequests({
         q: qPrefix + duplicateError.conference.name
     });
     if (prsWithName.data.items.length > 0) {
-        return prsWithUrl.data.items[0].url;
+        return prsWithUrl.data.items[0].html_url;
     }
     return undefined;
 }
