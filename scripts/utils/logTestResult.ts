@@ -22,9 +22,6 @@ export default async function logTestResult(testResult: TestResult) {
             const errors = testResult.errors[year][topic];
             if (errors.length >= 1) {
                 for (const error of errors) {
-                    if (prBranchUrl) {
-                        error.message.replace('scripts/config/validLocations.ts', `[scripts/config/validLocations.ts](${prBranchUrl}scripts/config/validLocations.ts)`);
-                    }
                     errorsOfYear.push(error);
                     allErrors.push(error);
                 }
