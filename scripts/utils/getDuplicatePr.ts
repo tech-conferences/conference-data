@@ -2,6 +2,8 @@ import { Octokit } from '@octokit/rest';
 import * as github from '@actions/github';
 import { DuplicateError } from './DuplicateError';
 
+
+
 export default async function getDuplicatePr(token: string, duplicateError: DuplicateError): Promise<String | undefined> {
     const { context: eventContext } = github;
     if (!eventContext?.repo?.owner) {
@@ -11,26 +13,29 @@ export default async function getDuplicatePr(token: string, duplicateError: Dupl
         auth: token
     });
     const qPrefix = `is:pr is:merged repo:${eventContext.repo.owner}/${eventContext.repo.repo} `;
+    async function searchPrs(query: string): Promise<String | undefined> {
+        const prsWithUrl = await octokit.search.issuesAndPullRequests({
+            q: qPrefix + query
+        });
+        if (prsWithUrl.data.items.length > 0) {
+            const pr = prsWithUrl.data.items[0];
+            return `[${pr.title}](${pr.id})](pr.html_url)`;
+        }
+    }
     const url = new URL(duplicateError.conference.url);
     const baseUrl = url.origin.replace('www.', '').replace('https://', '').replace('http://', '');
     const path = url.pathname.replace(/\/$/, '');
-    const prsWithUrl = await octokit.search.issuesAndPullRequests({
-        q: qPrefix + baseUrl + path
-    });
-    if (prsWithUrl.data.items.length > 0) {
-        return prsWithUrl.data.items[0].html_url;
+    const prWithUrl = await searchPrs(baseUrl + path);
+    if (prWithUrl) {
+        return prWithUrl;
     }
-    const prsWithBaseUrl = await octokit.search.issuesAndPullRequests({
-        q: qPrefix + baseUrl
-    });
-    if (prsWithBaseUrl.data.items.length > 0) {
-        return prsWithUrl.data.items[0].html_url;
+    const prWithBaseUrl = await searchPrs(baseUrl);
+    if (prWithBaseUrl) {
+        return prWithBaseUrl;
     }
-    const prsWithName = await octokit.search.issuesAndPullRequests({
-        q: qPrefix + duplicateError.conference.name
-    });
-    if (prsWithName.data.items.length > 0) {
-        return prsWithUrl.data.items[0].html_url;
+    const prWithName = await searchPrs(duplicateError.conference.name);
+    if (prWithName) {
+        return prWithName;
     }
     return undefined;
 }
