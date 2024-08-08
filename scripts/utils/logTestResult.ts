@@ -1,19 +1,19 @@
 import chalk from 'chalk';
-import commentPullRequest from './commentPullRequest';
-import { sortBy, uniqWith, isEqual } from 'lodash';
-import { TestResult } from './TestResult';
-import { ErrorDetail } from './ErrorDetail';
-import { MergedConference } from './MergedConference';
-import findLineNumber from './findLineNumber';
+import { isEqual, sortBy, uniqWith } from 'lodash';
 import { Conference } from './Conference';
 import { DuplicateType } from './DuplicateType';
+import { ErrorDetail } from './ErrorDetail';
+import { MergedConference } from './MergedConference';
+import { TestResult } from './TestResult';
+import commentPullRequest from './commentPullRequest';
+import findLineNumber from './findLineNumber';
 import getDuplicatePr from './getDuplicatePr';
-import * as github from '@actions/github';
 import getPrBranchUrl from './getPrBranchUrl';
 
 export default async function logTestResult(testResult: TestResult) {
     const allErrors: ErrorDetail[] = [];
     const token = process.env['GITHUB_TOKEN'];
+    const prBranchUrl = await getPrBranchUrl(token);
     for (const year of Object.keys(testResult.errors)) {
         const errorsOfYear: ErrorDetail[] = [];
         process.stdout.write(chalk.gray(`${year}: `));
@@ -22,6 +22,9 @@ export default async function logTestResult(testResult: TestResult) {
             const errors = testResult.errors[year][topic];
             if (errors.length >= 1) {
                 for (const error of errors) {
+                    if (prBranchUrl) {
+                        error.message.replace('scripts/config/validLocations.ts', `[scripts/config/validLocations.ts](${prBranchUrl}scripts/config/validLocations.ts)`);
+                    }
                     errorsOfYear.push(error);
                     allErrors.push(error);
                 }
@@ -43,7 +46,6 @@ export default async function logTestResult(testResult: TestResult) {
     }
 
     const duplicateErrorMessages: string[] = [];
-    const prBranchUrl = await getPrBranchUrl(token);
     function logDifferences(conference: Conference, duplicate: Conference) {
         for (const field of Object.keys(conference)) {
             if (field == 'startDateParsed' || field == 'stacks' || field == 'endDateParsed' || field == 'cfpEndDateParsed') {
