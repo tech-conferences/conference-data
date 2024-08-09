@@ -95,11 +95,14 @@ export default async function logTestResult(testResult: TestResult) {
         console.log(chalk.red.bold(duplicateErrorMessage));
     }
 
-    if (allErrors.length !== 0 || testResult.duplicateErrors.length !== 0) {
+    if (allErrors.length !== 0 || testResult.duplicateErrors.length !== 0 || testResult.error) {
         console.log(chalk.red.bold('Error: Tests failed'));
         if (token) {
-            commentPullRequest(token, allErrors, duplicateErrorMessages);
+            commentPullRequest(token, allErrors, duplicateErrorMessages, testResult.error);
         } else {
+            if (testResult.error) {
+                console.error(`Error: ${testResult.error}`);
+            }
             process.exitCode = 1;
             process.exit(1);
         }

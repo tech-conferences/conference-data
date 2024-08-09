@@ -2,8 +2,9 @@ import * as github from '@actions/github';
 import { Octokit } from '@octokit/rest';
 import { ErrorDetail } from './ErrorDetail';
 import getPrBranchUrl from './getPrBranchUrl';
+import { ReorderError } from './ReorderError';
 
-export default async function commentPullRequest(token: string, allErrors: ErrorDetail[], duplicateErrorMessages: string[]) {
+export default async function commentPullRequest(token: string, allErrors: ErrorDetail[], duplicateErrorMessages: string[], error?: Error) {
     const { context: eventContext } = github;
     if (!eventContext.issue || !eventContext.issue.number) {
         return;
@@ -20,6 +21,16 @@ export default async function commentPullRequest(token: string, allErrors: Error
             body: error.message.replace('scripts/config/validLocations.ts', `[scripts/config/validLocations.ts](${prBranchUrl}/scripts/config/validLocations.ts)`)
         };
     });
+    if (error instanceof ReorderError) {
+        await octokit.issues.createComment({
+            owner: eventContext.repo.owner,
+            repo: eventContext.repo.repo,
+            issue_number: prNumber,
+            body: `### Conferences not in the right order,\n
+             please run the following command locally: \`npm run reorder-confs\` \n
+             or run the job [reorder job](https://github.com/tech-conferences/conference-data/actions/workflows/reorder.yml)`
+        });
+    }
 
     try {
         if (comments.length != 0) {
