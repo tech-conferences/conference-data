@@ -26,9 +26,7 @@ export default async function commentPullRequest(token: string, allErrors: Error
             owner: eventContext.repo.owner,
             repo: eventContext.repo.repo,
             issue_number: prNumber,
-            body: `### Conferences not in the right order,\n
-             please run the following command locally: \`npm run reorder-confs\` \n
-             or run the job [reorder job](https://github.com/tech-conferences/conference-data/actions/workflows/reorder.yml)`
+            body: `### Conferences not in the right order,\nplease run the following command locally: \`npm run reorder-confs\` \nor run the job [reorder job](https://github.com/tech-conferences/conference-data/actions/workflows/reorder.yml) for this branch`
         });
     }
 
