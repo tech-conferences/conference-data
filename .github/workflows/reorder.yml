@@ -37,15 +37,7 @@ jobs:
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
         with:
-          author_name: Christian Grail
+          author_name: Confs.tech Reorder Bot
           author_email: cgrail@users.noreply.github.com
           message: 'Reorder conferences'
-          branch: reorder
-          add: "['*.json', 'config/validLocations.js']"
-      - name: Create pull request
-        uses: thomaseizinger/create-pull-request@master
-        with:
-          GITHUB_TOKEN: ${{ secrets.CONFS_REORDER }}
-          head: reorder
-          base: main
-          title: "Reorder conferences"
+          add: "['*.json']"
