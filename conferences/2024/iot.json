@@ -1,19 +1,5 @@
 [
   {
-    "name": "Nullcon Berlin",
-    "url": "https://nullcon.net/berlin-2024",
-    "startDate": "2024-03-14",
-    "endDate": "2024-03-15",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://nullcon.net/about-conferencepolicy",
-    "cfpUrl": "https://nullcon.net/berlin-2024/cfp",
-    "cfpEndDate": "2023-12-31",
-    "twitter": "@nullcon"
-  },
-  {
     "name": "building IoT",
     "url": "https://www.buildingiot.de",
     "startDate": "2024-02-21",
@@ -26,6 +12,20 @@
     "cfpUrl": "https://www.buildingiot.de/cfp_en.php",
     "cfpEndDate": "2023-09-11",
     "twitter": "@building_iot"
+  },
+  {
+    "name": "Nullcon Berlin",
+    "url": "https://nullcon.net/berlin-2024",
+    "startDate": "2024-03-14",
+    "endDate": "2024-03-15",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://nullcon.net/about-conferencepolicy",
+    "cfpUrl": "https://nullcon.net/berlin-2024/cfp",
+    "cfpEndDate": "2023-12-31",
+    "twitter": "@nullcon"
   },
   {
     "name": "13th International Conference on Software Engineering and Applications",
