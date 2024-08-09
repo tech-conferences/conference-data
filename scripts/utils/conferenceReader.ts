@@ -1,9 +1,10 @@
-import fs from 'fs';
 import assert from 'assert';
+import fs from 'fs';
 import { topics } from '../config/topics';
-import orderConferences from './orderConferences';
 import { Conference } from './Conference';
 import { ConferencesJSON } from './ConferencesJSON';
+import orderConferences from './orderConferences';
+import { ReorderError } from './ReorderError';
 
 const jsonFileRegex = /(.*).json$/;
 
@@ -30,7 +31,7 @@ export default function conferenceReader(reorderConferences: boolean): Conferenc
             }
             const orderedConferences = orderConferences(conferences);
             if (!reorderConferences && fileContentString !== orderedConferences) {
-                assert.fail(`Conferences not in the right order: "${filePath}". Please run 'npm run reorder-confs'`);
+                throw new ReorderError(`Conferences not in the right order: "${filePath}". Please run 'npm run reorder-confs'`);
             }
             conferencesJSON[year][topic] = conferences;
         });
