@@ -1174,6 +1174,20 @@
     "twitter": "@AltrusiaGlobal"
   },
   {
+    "name": "DevIgnition",
+    "url": "https://devignition.com",
+    "startDate": "2024-11-07",
+    "endDate": "2024-11-07",
+    "city": "Washington, DC",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://devignition.com/conduct",
+    "cfpUrl": "https://www.papercall.io/devignition2024",
+    "cfpEndDate": "2024-09-27",
+    "twitter": "@devignition"
+  },
+  {
     "name": "NODES",
     "url": "https://neo4j.com/nodes-2024",
     "startDate": "2024-11-07",
@@ -1194,20 +1208,6 @@
     "online": false,
     "locales": "EN,PL",
     "twitter": "@MLinPL"
-  },
-  {
-    "name": "DevIgnition",
-    "url": "https://devignition.com",
-    "startDate": "2024-11-07",
-    "endDate": "2024-11-07",
-    "city": "Washington, DC",
-    "country": "U.S.A.",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://devignition.com/conduct",
-    "cfpUrl": "https://www.papercall.io/devignition2024",
-    "cfpEndDate": "2024-09-27",
-    "twitter": "@devignition"
   },
   {
     "name": "Software Architecture Gathering",

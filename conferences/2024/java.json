@@ -318,17 +318,6 @@
     "twitter": "@jaxcon"
   },
   {
-    "name": "NODES",
-    "url": "https://neo4j.com/nodes-2024",
-    "startDate": "2024-11-07",
-    "endDate": "2024-11-07",
-    "online": true,
-    "locales": "EN",
-    "cfpUrl": "https://sessionize.com/nodes-2024",
-    "cfpEndDate": "2024-06-15",
-    "twitter": "@neo4j"
-  },
-  {
     "name": "DevIgnition",
     "url": "https://devignition.com",
     "startDate": "2024-11-07",
@@ -341,6 +330,17 @@
     "cfpUrl": "https://www.papercall.io/devignition2024",
     "cfpEndDate": "2024-09-27",
     "twitter": "@devignition"
+  },
+  {
+    "name": "NODES",
+    "url": "https://neo4j.com/nodes-2024",
+    "startDate": "2024-11-07",
+    "endDate": "2024-11-07",
+    "online": true,
+    "locales": "EN",
+    "cfpUrl": "https://sessionize.com/nodes-2024",
+    "cfpEndDate": "2024-06-15",
+    "twitter": "@neo4j"
   },
   {
     "name": "DevOps Vision",
