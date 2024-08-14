@@ -49,6 +49,7 @@ jobs:
               with:
                   title: 'docs: Broken links found'
                   content-filepath: ${{ env.issue-content }}
+                  token: ${{ secrets.BROKEN_LINK }}
                   # Update an existing issue if one was found (issue_number),
                   # otherwise an empty value creates a new issue:
                   issue-number: ${{ steps['last-issue']['outputs']['issue-number'] }}
