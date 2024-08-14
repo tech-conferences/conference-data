@@ -48,6 +48,7 @@ jobs:
               uses: peter-evans/create-issue-from-file@v4
               with:
                   title: 'docs: Broken links found'
+                  token: ${{ secrets.BROKEN_LINK }}
                   content-filepath: ${{ env.issue-content }}
                   # Update an existing issue if one was found (issue_number),
                   # otherwise an empty value creates a new issue:
