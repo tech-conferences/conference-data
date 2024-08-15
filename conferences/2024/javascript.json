@@ -600,8 +600,6 @@
     "online": false,
     "locales": "IT",
     "cocUrl": "https://www.coderful.io/codice-di-condotta/",
-    "cfpUrl": "https://www.coderful.io/speakers",
-    "cfpEndDate": "2024-03-10",
     "twitter": "@coderful"
   },
   {
@@ -617,16 +615,6 @@
     "cfpUrl": "https://sessionize.com/web-summer-camp-2024",
     "cfpEndDate": "2024-03-31",
     "twitter": "@websummercamp"
-  },
-  {
-    "name": "We Love JS London",
-    "url": "https://welovejs.vercel.app/london",
-    "startDate": "2024-07-12",
-    "endDate": "2024-07-13",
-    "city": "London",
-    "country": "U.K.",
-    "online": false,
-    "locales": "EN"
   },
   {
     "name": "Middlesbrough Front End Conference",
@@ -676,18 +664,6 @@
     "online": false,
     "locales": "EN",
     "twitter": "@cityjsconf"
-  },
-  {
-    "name": "We Love JS",
-    "url": "https://welovejs.vercel.app",
-    "startDate": "2024-08-09",
-    "endDate": "2024-08-10",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "online": false,
-    "locales": "EN",
-    "cfpUrl": "https://forms.gle/WYcDZcRW6gsy6qHj9",
-    "cfpEndDate": "2024-06-30"
   },
   {
     "name": "React Rally",

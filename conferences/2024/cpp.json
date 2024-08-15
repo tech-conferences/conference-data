@@ -11,14 +11,6 @@
     "mastodon": "@cpponline@mastodon.social"
   },
   {
-    "name": "Embedded Day",
-    "url": "https://www.wearedevelopers.com/event/embedded-day-april-2024",
-    "startDate": "2024-04-17",
-    "endDate": "2024-04-17",
-    "online": true,
-    "locales": "EN"
-  },
-  {
     "name": "ACCU Conference",
     "url": "https://accuconference.org",
     "startDate": "2024-04-17",
@@ -53,18 +45,6 @@
     "online": false,
     "locales": "EN",
     "cocUrl": "https://cpponsea.uk/conduct/"
-  },
-  {
-    "name": "Low Latency London",
-    "url": "https://l3.axra.org",
-    "startDate": "2024-07-19",
-    "endDate": "2024-07-20",
-    "city": "London",
-    "country": "U.K.",
-    "online": false,
-    "locales": "EN",
-    "cfpUrl": "https://forms.gle/BF7Sf5dTyGCBgV978",
-    "cfpEndDate": "2024-01-31"
   },
   {
     "name": "Cpp North",
