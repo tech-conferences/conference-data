@@ -23,6 +23,7 @@
     "start": "tsx --watch scripts/conferences.test.ts",
     "test": "npm run format && tsx scripts/conferences.test.ts",
     "updateValidLocations": "tsx ./scripts/updateValidLocations.ts && npm run format",
+    "removeBrokenLinks": "tsx ./scripts/removeBrokenLycheeLinks.ts",
     "reorder-confs": "tsx ./scripts/reorderConferencesByDate.ts && npm run format",
     "format": "prettier scripts --write",
     "lint": "prettier scripts --check"
