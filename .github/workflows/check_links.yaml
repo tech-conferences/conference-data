@@ -34,7 +34,7 @@ jobs:
             - name: Comment Broken Links
                 uses: marocchino/sticky-pull-request-comment@v2
                 with:
-                path: ${{ env.issue-content }}
+                    path: ${{ env.issue-content }}
             # Permissions (issues: read)
             - name: 'Look for an existing issue'
               if: ${{ failure() }}
