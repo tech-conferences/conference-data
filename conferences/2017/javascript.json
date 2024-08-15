@@ -64,13 +64,6 @@
     "country": "U.S.A."
   },
   {
-    "name": "JS Remote Conf",
-    "url": "https://devchat.tv/conferences/js-remote-conf-2017",
-    "startDate": "2017-03-15",
-    "endDate": "2017-03-15",
-    "online": true
-  },
-  {
     "name": "NG-NL",
     "url": "http://ng-nl.org",
     "startDate": "2017-03-16",
@@ -133,14 +126,6 @@
     "endDate": "2017-03-30",
     "city": "Oxford",
     "country": "U.K."
-  },
-  {
-    "name": "An Event Apart",
-    "url": "https://aneventapart.com/event/seattle-2017",
-    "startDate": "2017-04-03",
-    "endDate": "2017-04-03",
-    "city": "Seattle, WA",
-    "country": "U.S.A."
   },
   {
     "name": "Smashing Conference",
@@ -247,14 +232,6 @@
     "country": "Spain"
   },
   {
-    "name": "An Event Apart",
-    "url": "https://aneventapart.com/event/boston-2017",
-    "startDate": "2017-05-15",
-    "endDate": "2017-05-17",
-    "city": "Boston, MA",
-    "country": "U.S.A."
-  },
-  {
     "name": "Beyond Tellerrand",
     "url": "https://beyondtellerrand.com/events/duesseldorf-2017",
     "startDate": "2017-05-15",
@@ -293,14 +270,6 @@
     "endDate": "2017-05-24",
     "city": "Athens",
     "country": "Greece"
-  },
-  {
-    "name": "Respond",
-    "url": "http://www.webdirections.org/respond16",
-    "startDate": "2017-05-26",
-    "endDate": "2017-05-26",
-    "city": "Sydney",
-    "country": "Australia"
   },
   {
     "name": "ng-cruise",
@@ -407,14 +376,6 @@
     "country": "Israel"
   },
   {
-    "name": "jsconf.be",
-    "url": "https://www.jsconf.be/en",
-    "startDate": "2017-06-29",
-    "endDate": "2017-06-29",
-    "city": "Bruges",
-    "country": "Belgium"
-  },
-  {
     "name": "Frontinsampa",
     "url": "http://www.frontinsampa.com.br",
     "startDate": "2017-07-01",
@@ -437,30 +398,6 @@
     "endDate": "2017-07-06",
     "city": "Barcelona",
     "country": "Spain"
-  },
-  {
-    "name": "Chain React",
-    "url": "https://infinite.red/ChainReactConf",
-    "startDate": "2017-07-10",
-    "endDate": "2017-07-11",
-    "city": "Portland, OR",
-    "country": "U.S.A."
-  },
-  {
-    "name": "An Event Apart",
-    "url": "https://aneventapart.com/event/washington-dc-2017",
-    "startDate": "2017-07-10",
-    "endDate": "2017-07-12",
-    "city": "Washington, DC",
-    "country": "U.S.A."
-  },
-  {
-    "name": "FullStack",
-    "url": "https://skillsmatter.com/conferences/8264-fullstack-2017-the-conference-on-javascript-node-and-internet-of-things",
-    "startDate": "2017-07-12",
-    "endDate": "2017-07-14",
-    "city": "London",
-    "country": "U.K."
   },
   {
     "name": "JSinSA",
@@ -509,14 +446,6 @@
     "endDate": "2017-08-25",
     "city": "Salt Lake City, UT",
     "country": "U.S.A."
-  },
-  {
-    "name": "BrazilJS",
-    "url": "https://braziljs.org/conf/2017",
-    "startDate": "2017-08-25",
-    "endDate": "2017-08-25",
-    "city": "Porto Alegre",
-    "country": "Brazil"
   },
   {
     "name": "Node Summit",
@@ -673,15 +602,6 @@
     "country": "Spain"
   },
   {
-    "name": "Frontend Dev Conf",
-    "url": "http://fdconf.by/en",
-    "startDate": "2017-09-30",
-    "endDate": "2017-09-30",
-    "city": "Minsk",
-    "country": "Belarus",
-    "twitter": "@fdconf"
-  },
-  {
     "name": "HamOnt JS",
     "url": "https://www.eventbrite.ca/e/hamont-js-2017-tickets-36962820792",
     "startDate": "2017-09-30",
@@ -696,14 +616,6 @@
     "endDate": "2017-10-05",
     "city": "New Haven, CT",
     "country": "U.S.A."
-  },
-  {
-    "name": "Node Interactive",
-    "url": "http://events.linuxfoundation.org/events/node-interactive",
-    "startDate": "2017-10-04",
-    "endDate": "2017-10-06",
-    "city": "Vancouver",
-    "country": "Canada"
   },
   {
     "name": "Fronteers Conference",
@@ -796,14 +708,6 @@
     "country": "Canada"
   },
   {
-    "name": "Chrome Dev Summit",
-    "url": "https://developer.chrome.com/devsummit",
-    "startDate": "2017-10-23",
-    "endDate": "2017-10-24",
-    "city": "San Francisco, CA",
-    "country": "U.S.A."
-  },
-  {
     "name": "International JavaScript Conference",
     "url": "https://javascript-conference.com/en",
     "startDate": "2017-10-23",
@@ -858,14 +762,6 @@
     "endDate": "2017-10-31",
     "city": "Tel Aviv",
     "country": "Israel"
-  },
-  {
-    "name": "An Event Apart",
-    "url": "https://aneventapart.com/event/san-francisco-2017",
-    "startDate": "2017-10-30",
-    "endDate": "2017-11-01",
-    "city": "San Francisco, CA",
-    "country": "U.S.A."
   },
   {
     "name": "RVA.js",
@@ -1041,13 +937,5 @@
     "city": "Moscow",
     "country": "Russia",
     "twitter": "@HolyJSconf"
-  },
-  {
-    "name": "An Event Apart",
-    "url": "https://aneventapart.com/event/denver-2017",
-    "startDate": "2017-12-11",
-    "endDate": "2017-12-13",
-    "city": "Denver, CO",
-    "country": "U.S.A."
   }
 ]

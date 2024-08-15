@@ -49,13 +49,6 @@
     "online": true
   },
   {
-    "name": "ICSTPMA - International Conference on Software Testing Process, Methods and Approaches",
-    "url": "https://waset.org/software-testing-process-methods-and-approaches-conference-in-september-2021-in-london/",
-    "startDate": "2021-09-23",
-    "endDate": "2021-09-24",
-    "online": true
-  },
-  {
     "name": "SEETEST (10th edition)",
     "url": "https://seetest.org/",
     "startDate": "2021-09-27",
@@ -119,14 +112,6 @@
     "country": "Slovakia"
   },
   {
-    "name": "PNSQC",
-    "url": "https://www.pnsqc.org/2021-conference",
-    "startDate": "2021-10-11",
-    "endDate": "2021-10-13",
-    "online": true,
-    "twitter": "@PNSQC"
-  },
-  {
     "name": "HUSTEF - Hungarian Software Testing Forum",
     "url": "https://hustef.hu/",
     "startDate": "2021-10-18",
@@ -141,14 +126,6 @@
     "endDate": "2021-10-22",
     "online": true,
     "twitter": "@QATestBilbao"
-  },
-  {
-    "name": "ICSSTVV - International Conference on Software System Testing, Validation and Verification",
-    "url": "https://waset.org/software-system-testing-validation-and-verification-conference-in-october-2021-in-london/",
-    "startDate": "2021-10-21",
-    "endDate": "2021-10-22",
-    "city": "London",
-    "country": "U.K."
   },
   {
     "name": "TestFlix Global Software Testing Binge",
@@ -192,15 +169,6 @@
     "country": "Italy"
   },
   {
-    "name": "Testit",
-    "url": "https://www.knowit.se/event/testit2021",
-    "startDate": "2021-11-11",
-    "endDate": "2021-11-11",
-    "city": "Malmö",
-    "country": "Sweden",
-    "online": false
-  },
-  {
     "name": "Testing United",
     "url": "https://testingunited.com/",
     "startDate": "2021-11-11",
@@ -236,13 +204,5 @@
     "endDate": "2021-11-26",
     "online": true,
     "twitter": "@ParisTestConf"
-  },
-  {
-    "name": "System Testing and Validation (STV) Workshop at IEEE QRS conference",
-    "url": "https://www.fokus.fraunhofer.de/en/sqc/event/stv21",
-    "startDate": "2021-12-06",
-    "endDate": "2021-12-10",
-    "city": "Hainan Island",
-    "country": "China"
   }
 ]

@@ -23,7 +23,6 @@
     "endDate": "2018-01-20",
     "city": "Pune",
     "country": "India",
-    "cfpUrl": "https://reactfoo.talkfunnel.com/2018-pune",
     "twitter": "@ReactFoo"
   },
   {
@@ -154,8 +153,6 @@
     "endDate": "2018-03-03",
     "city": "Salzburg",
     "country": "Austria",
-    "cfpUrl": "https://2018.conc.at/#cfp",
-    "cfpEndDate": "2017-12-01",
     "twitter": "@conc_at"
   },
   {
@@ -315,17 +312,7 @@
     "endDate": "2018-04-05",
     "city": "Newcastle-Upon-Tyne",
     "country": "U.K.",
-    "cfpUrl": "https://2018.frontendne.co.uk/call-for-speakers.html",
-    "cfpEndDate": "2017-12-07",
     "twitter": "@FrontendNE"
-  },
-  {
-    "name": "JSConf Tahoe",
-    "url": "http://www.tahoejs.com/events/2018/4/6/jsconf-tahoe",
-    "startDate": "2018-04-06",
-    "endDate": "2018-04-06",
-    "city": "Truckee, CA",
-    "country": "U.S.A."
   },
   {
     "name": "International JavaScript Conference",
@@ -510,8 +497,6 @@
     "endDate": "2018-05-25",
     "city": "Warsaw",
     "country": "Poland",
-    "cfpUrl": "https://2018.front-trends.com/speaking-at-front-trends",
-    "cfpEndDate": "2018-03-31",
     "twitter": "@fronttrends"
   },
   {
@@ -524,15 +509,6 @@
     "twitter": "@YGLFConf"
   },
   {
-    "name": "Vuejs Roadtrip – Barcelona",
-    "url": "https://www.vuejsroadtrip.com/barcelona",
-    "startDate": "2018-05-25",
-    "endDate": "2018-05-25",
-    "city": "Barcelona",
-    "country": "Spain",
-    "twitter": "@vuejsroadtrip"
-  },
-  {
     "name": "ReactFoo Mumbai",
     "url": "https://reactfoo.in/2018-mumbai",
     "startDate": "2018-05-26",
@@ -540,15 +516,6 @@
     "city": "Mumbai",
     "country": "India",
     "twitter": "@ReactFoo"
-  },
-  {
-    "name": "JSConf Belgium",
-    "url": "https://www.jsconf.be/en",
-    "startDate": "2018-05-29",
-    "endDate": "2018-05-30",
-    "city": "Bruges",
-    "country": "Belgium",
-    "cfpUrl": "https://www.jsconf.be/en/#callforpapers"
   },
   {
     "name": "Amsterdam JSNation",
@@ -665,8 +632,6 @@
     "endDate": "2018-06-21",
     "city": "Darmstadt",
     "country": "Germany",
-    "cfpUrl": "https://www.enterjs.de/call-for-proposals-en",
-    "cfpEndDate": "2018-01-14",
     "twitter": "@enterjsconf"
   },
   {
@@ -687,8 +652,6 @@
     "endDate": "2018-06-22",
     "city": "Denver, CO",
     "country": "U.S.A.",
-    "cfpUrl": "http://speak.dinosaurjs.org/events/2018",
-    "cfpEndDate": "2018-03-15",
     "twitter": "@dinosaur_js"
   },
   {
@@ -734,28 +697,6 @@
     "city": "Odessa",
     "country": "Ukraine",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeQqU4iM-vBx6VRWHQcE1zKh3LW4KZ5231Oe0dQx-neBrrc3g/viewform"
-  },
-  {
-    "name": "Chain React",
-    "url": "https://infinite.red/ChainReactConf",
-    "startDate": "2018-07-11",
-    "endDate": "2018-07-13",
-    "city": "Portland, OR",
-    "country": "U.S.A.",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSds5yoYMF2pjYerv2SOpAOWwgG4_8e4fIle1h5XmbI4Q0LEgw/viewform",
-    "cfpEndDate": "2018-02-28",
-    "twitter": "@ChainReactConf"
-  },
-  {
-    "name": "FullStack",
-    "url": "https://skillsmatter.com/conferences/9815-fullstack-2018-the-conference-on-javascript-node-and-internet-of-things",
-    "startDate": "2018-07-11",
-    "endDate": "2018-07-13",
-    "city": "London",
-    "country": "U.K.",
-    "cfpUrl": "https://skillsmatter.com/conferences/9815-fullstack-2018-the-conference-on-javascript-node-and-internet-of-things#get_involved",
-    "cfpEndDate": "2018-02-23",
-    "twitter": "@FullStackCon"
   },
   {
     "name": "Frontinsampa",
@@ -846,8 +787,6 @@
     "endDate": "2018-08-10",
     "city": "Minneapolis, MN",
     "country": "U.S.A.",
-    "cfpUrl": "http://www.midwestjs.com/#cfp",
-    "cfpEndDate": "2018-04-27",
     "twitter": "@midwest_js"
   },
   {
@@ -875,8 +814,6 @@
     "endDate": "2018-08-17",
     "city": "Salt Lake City, UT",
     "country": "U.S.A.",
-    "cfpUrl": "http://speak.reactrally.com/events/react-rally-2018",
-    "cfpEndDate": "2018-04-01",
     "twitter": "@ReactRally"
   },
   {
@@ -894,8 +831,6 @@
     "endDate": "2018-08-18",
     "city": "Delhi",
     "country": "India",
-    "cfpUrl": "https://reactfoo.talkfunnel.com/2018-delhi/",
-    "cfpEndDate": "2018-06-15",
     "twitter": "@ReactFoo"
   },
   {
@@ -905,19 +840,7 @@
     "endDate": "2018-08-23",
     "city": "Carlsbad, CA",
     "country": "U.S.A.",
-    "cfpUrl": "https://2018.jsconf.us/call-for-speakers",
-    "cfpEndDate": "2018-05-01",
     "twitter": "@jsconfus"
-  },
-  {
-    "name": "BrazilJS",
-    "url": "https://braziljs.org/conf/",
-    "startDate": "2018-08-24",
-    "endDate": "2018-08-25",
-    "city": "Porto Alegre",
-    "country": "Brazil",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScvM9sctUCe2vjbUxv3QzhRimn5ztB7JyPgbnpTDksS3eTpQw/viewform",
-    "twitter": "@braziljs"
   },
   {
     "name": "Web Summer Camp",
@@ -1078,8 +1001,6 @@
     "endDate": "2018-09-22",
     "city": "Minsk",
     "country": "Belarus",
-    "cfpUrl": "https://www.papercall.io/cssminskjs",
-    "cfpEndDate": "2018-08-05",
     "twitter": "@CSS_Minsk_JS"
   },
   {
@@ -1259,15 +1180,6 @@
     "twitter": "@telerik"
   },
   {
-    "name": "ViewSource",
-    "url": "https://events.mozilla.org/viewsource2018",
-    "startDate": "2018-10-26",
-    "endDate": "2018-10-26",
-    "city": "London",
-    "country": "U.K.",
-    "twitter": "@viewsourceconf"
-  },
-  {
     "name": "ConFrontJS",
     "url": "https://confrontjs.com",
     "startDate": "2018-10-29",
@@ -1305,8 +1217,6 @@
     "endDate": "2018-11-02",
     "city": "Philadelphia, PA",
     "country": "U.S.A.",
-    "cfpUrl": "https://www.papercall.io/libertyjs-2018",
-    "cfpEndDate": "2018-09-01",
     "twitter": "@liberty_js"
   },
   {
@@ -1416,15 +1326,6 @@
     "twitter": "@dotJS"
   },
   {
-    "name": "Chrome Dev Summit",
-    "url": "https://developer.chrome.com/devsummit",
-    "startDate": "2018-11-12",
-    "endDate": "2018-11-13",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "twitter": "@ChromiumDev"
-  },
-  {
     "name": "ColdFront",
     "url": "https://2018.coldfront.co",
     "startDate": "2018-11-13",
@@ -1463,16 +1364,6 @@
     "cfpUrl": "https://2018.cascadiajs.com/call-for-presenters",
     "cfpEndDate": "2018-07-20",
     "twitter": "@CascadiaJS"
-  },
-  {
-    "name": "FrontMania",
-    "url": "https://www.frontmania.com/conference",
-    "startDate": "2018-11-16",
-    "endDate": "2018-11-16",
-    "city": "Utrecht",
-    "country": "Netherlands",
-    "cfpUrl": "https://www.papercall.io/frontmania",
-    "cfpEndDate": "2018-08-31"
   },
   {
     "name": "HalfStack",
@@ -1583,14 +1474,6 @@
     "endDate": "2018-12-05",
     "city": "Clearwater, FL",
     "country": "U.S.A."
-  },
-  {
-    "name": "Clojure eXchange",
-    "url": "https://skillsmatter.com/conferences/10459-clojure-exchange-2018",
-    "startDate": "2018-12-03",
-    "endDate": "2018-12-04",
-    "city": "London",
-    "country": "U.K."
   },
   {
     "name": "NationJS React",

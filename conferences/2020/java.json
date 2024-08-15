@@ -17,14 +17,6 @@
     "twitter": "@gointothebox"
   },
   {
-    "name": "Spring I/O Bridge",
-    "url": "https://2020.springio.net/bridge",
-    "startDate": "2020-05-15",
-    "endDate": "2020-05-15",
-    "online": true,
-    "twitter": "@spring_io"
-  },
-  {
     "name": "25 Hours of Java",
     "url": "https://blog.codefx.org/25-hours-of-java",
     "startDate": "2020-05-23",
@@ -47,14 +39,6 @@
     "endDate": "2020-06-02",
     "online": true,
     "twitter": "@JNationConf"
-  },
-  {
-    "name": "Java Fest",
-    "url": "https://javafest.com.ua/indexe.html",
-    "startDate": "2020-06-05",
-    "endDate": "2020-06-05",
-    "city": "Kyiv",
-    "country": "Ukraine"
   },
   {
     "name": "Devoxx Poland",
@@ -106,8 +90,6 @@
     "startDate": "2020-09-03",
     "endDate": "2020-09-03",
     "online": true,
-    "cfpUrl": "https://developersummit.wufoo.com/forms/gids-live-series-2020-call-for-proposals",
-    "cfpEndDate": "2020-08-24",
     "twitter": "@developersummit"
   },
   {
@@ -180,14 +162,6 @@
     "city": "Barcelona",
     "country": "Spain",
     "twitter": "@spring_io"
-  },
-  {
-    "name": "MakeIT Week",
-    "url": "https://makeit.si/index.php/en",
-    "startDate": "2020-10-12",
-    "endDate": "2020-10-16",
-    "online": true,
-    "twitter": "@makeitconf2020"
   },
   {
     "name": "EclipseCon",
@@ -288,22 +262,5 @@
     "cfpUrl": "https://www.papercall.io/jlove",
     "cfpEndDate": "2020-11-01",
     "twitter": "@jloveconf"
-  },
-  {
-    "name": "Future.Works Tech Conference",
-    "url": "https://future.works/techconference",
-    "startDate": "2020-12-09",
-    "endDate": "2020-12-09",
-    "online": true,
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "Trivadis DevDays",
-    "url": "https://www.oio.de/news/java-xml-hauskonferenz-devdays-2020.htm",
-    "startDate": "2020-12-17",
-    "endDate": "2020-12-18",
-    "city": "Mannheim",
-    "country": "Germany",
-    "offersSignLanguageOrCC": false
   }
 ]

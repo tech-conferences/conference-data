@@ -1,13 +1,5 @@
 [
   {
-    "name": "PyTennessee",
-    "url": "https://www.pytennessee.org/",
-    "startDate": "2019-02-09",
-    "endDate": "2019-02-10",
-    "city": "Nashville, TN",
-    "country": "U.S.A."
-  },
-  {
     "name": "Berlin Python Pizza",
     "url": "https://berlin.python.pizza",
     "startDate": "2019-02-23",
@@ -32,8 +24,6 @@
     "endDate": "2019-02-25",
     "city": "Seattle, WA",
     "country": "U.S.A.",
-    "cfpUrl": "https://www.papercall.io/pycascades-2019",
-    "cfpEndDate": "2018-10-22",
     "twitter": "@pycascades"
   },
   {
@@ -103,20 +93,7 @@
     "endDate": "2019-05-26",
     "city": "Munich",
     "country": "Germany",
-    "cfpUrl": "https://www.papercall.io/pyconweb19",
-    "cfpEndDate": "2019-02-14",
     "twitter": "@pyconweb"
-  },
-  {
-    "name": "PyCon CZ",
-    "url": "https://cz.pycon.org/2019",
-    "startDate": "2019-06-14",
-    "endDate": "2019-06-16",
-    "city": "Ostrava",
-    "country": "Czech Republic",
-    "cfpUrl": "https://cz.pycon.org/2019/proposals/",
-    "cfpEndDate": "2019-02-17",
-    "twitter": "@pyconcz"
   },
   {
     "name": "EuroPython",
@@ -175,8 +152,6 @@
     "endDate": "2019-09-17",
     "city": "Cardiff",
     "country": "U.K.",
-    "cfpUrl": "https://2019.pyconuk.org/call-proposals",
-    "cfpEndDate": "2019-06-07",
     "twitter": "@pyconuk"
   },
   {
@@ -216,17 +191,6 @@
     "twitter": "@PyConDE"
   },
   {
-    "name": "PyCon Ireland",
-    "url": "https://python.ie/pycon-2019",
-    "startDate": "2019-10-12",
-    "endDate": "2019-10-13",
-    "city": "Dublin",
-    "country": "Ireland",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfFMqjFG50oDCzfip2xjOytLbHtwZkYfRRIVk6otYSJyMNCoQ/viewform",
-    "cfpEndDate": "2019-08-25",
-    "twitter": "@PythonIreland"
-  },
-  {
     "name": "Python Brasil",
     "url": "https://2019.pythonbrasil.org.br",
     "startDate": "2019-10-23",
@@ -241,9 +205,7 @@
     "startDate": "2019-11-01",
     "endDate": "2019-11-01",
     "city": "Saint Petersburg",
-    "country": "Russia",
-    "cfpUrl": "https://piterpy.com/en/speaker#form",
-    "cfpEndDate": "2019-10-13"
+    "country": "Russia"
   },
   {
     "name": "Women Who Code Python Summit",

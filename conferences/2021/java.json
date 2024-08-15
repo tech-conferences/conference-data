@@ -11,18 +11,6 @@
     "twitter": "@omniprof"
   },
   {
-    "name": "WeAreDevelopers Live – Java Day",
-    "url": "https://wearedevelopers.com/event/java-day",
-    "startDate": "2021-01-20",
-    "endDate": "2021-01-20",
-    "online": true,
-    "offersSignLanguageOrCC": false,
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct/",
-    "cfpUrl": "https://www.wearedevelopers.com/live/cfp",
-    "cfpEndDate": "2021-01-11",
-    "twitter": "@WeAreDevs"
-  },
-  {
     "name": "DevNexus",
     "url": "https://devnexus.com",
     "startDate": "2021-02-17",
@@ -48,16 +36,7 @@
     "startDate": "2021-03-25",
     "endDate": "2021-03-25",
     "online": true,
-    "cfpUrl": "https://www.papercall.io/conf42-java-2021",
-    "cfpEndDate": "2021-02-08",
     "twitter": "@conf42com"
-  },
-  {
-    "name": "Vaadin Dev Day",
-    "url": "https://pages.vaadin.com/vaadin-dev-day-spring2021",
-    "startDate": "2021-06-17",
-    "endDate": "2021-06-17",
-    "online": true
   },
   {
     "name": "Extreme Java Camp",
@@ -76,15 +55,6 @@
     "online": true,
     "cocUrl": "https://berlincodeofconduct.org",
     "twitter": "@jloveconf"
-  },
-  {
-    "name": "WeAreDevelopers Live - Java Day",
-    "url": "https://www.wearedevelopers.com/event/java-day-0921",
-    "startDate": "2021-09-01",
-    "endDate": "2021-09-01",
-    "online": true,
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/diversity-inclusion",
-    "twitter": "@wearedevs"
   },
   {
     "name": "JAX London",
@@ -117,19 +87,6 @@
     "twitter": "@nofluff"
   },
   {
-    "name": "MakeIT",
-    "url": "https://makeit.si/index.php/en",
-    "startDate": "2021-10-11",
-    "endDate": "2021-10-12",
-    "city": "Portorož",
-    "country": "Slovenia",
-    "online": true,
-    "offersSignLanguageOrCC": true,
-    "cfpUrl": "https://makeit.si/index.php/en/conference/cfp-submission-2",
-    "cfpEndDate": "2021-06-27",
-    "twitter": "@makeitconf2021"
-  },
-  {
     "name": "I Code Java Africa",
     "url": "https://j-sa.co",
     "startDate": "2021-10-12",
@@ -155,8 +112,6 @@
     "endDate": "2021-11-20",
     "online": true,
     "cocUrl": "https://devoxx.com.ua/code-of-conduct/",
-    "cfpUrl": "https://dvua21.cfp.dev/#",
-    "cfpEndDate": "2021-10-19",
     "twitter": "@DevoxxUA"
   },
   {

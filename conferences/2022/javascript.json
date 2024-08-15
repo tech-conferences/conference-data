@@ -75,22 +75,6 @@
     "twitter": "@fwdays"
   },
   {
-    "name": "GatsbyConf",
-    "url": "https://www.gatsbyjs.com/gatsbyconf-2022",
-    "startDate": "2022-03-02",
-    "endDate": "2022-03-03",
-    "online": true
-  },
-  {
-    "name": "Svelte Day",
-    "url": "https://enterjs.de/svelteday.php",
-    "startDate": "2022-03-10",
-    "endDate": "2022-03-10",
-    "online": true,
-    "cocUrl": "https://enterjs.de/code_of_conduct.php",
-    "twitter": "@enterjsconf"
-  },
-  {
     "name": "StrapiConf",
     "url": "https://conf.strapi.io",
     "startDate": "2022-03-16",
@@ -138,8 +122,6 @@
     "endDate": "2022-03-25",
     "online": true,
     "cocUrl": "https://cityjsconf.org/coc/",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdhXejorIkVvL2T-9_R9NdMHsqbBisGxcZZKobRdDrvp5ui8w/viewform",
-    "cfpEndDate": "2022-01-15",
     "twitter": "@cityjsconf"
   },
   {
@@ -162,8 +144,6 @@
     "country": "Netherlands",
     "online": true,
     "cocUrl": "https://reactlive.nl/code-of-conduct",
-    "cfpUrl": "https://reactlive.nl/speakers",
-    "cfpEndDate": "2022-01-01",
     "twitter": "@reactlivenl"
   },
   {
@@ -188,15 +168,6 @@
     "offersSignLanguageOrCC": true,
     "cocUrl": "https://miami.jsworldconference.com/code-of-conduct",
     "twitter": "@reactmiamiconf"
-  },
-  {
-    "name": "An Event Apart Spring Summit",
-    "url": "https://aneventapart.com/event/spring-summit-2022",
-    "startDate": "2022-04-18",
-    "endDate": "2022-04-20",
-    "online": true,
-    "cocUrl": "https://aneventapart.com/registration-information#code-of-conduct",
-    "twitter": "@aneventapart"
   },
   {
     "name": "EmberConf",
@@ -240,8 +211,6 @@
     "online": true,
     "offersSignLanguageOrCC": true,
     "cocUrl": "cityjsconf.org/coc",
-    "cfpUrl": "https://forms.gle/3stLQ4oj5kNP7BWZ6",
-    "cfpEndDate": "2022-03-15",
     "twitter": "@cityjsconf"
   },
   {
@@ -267,17 +236,6 @@
     "twitter": "@reactathon"
   },
   {
-    "name": "WeAreDevelopers JavaScript Day",
-    "url": "https://www.wearedevelopers.com/event/javascript-day-0518",
-    "startDate": "2022-05-18",
-    "endDate": "2022-05-18",
-    "online": true,
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form.",
-    "cfpUrl": "https://www.wearedevelopers.com/speakers/cfp",
-    "cfpEndDate": "2022-04-27",
-    "twitter": "@WeAreDevs"
-  },
-  {
     "name": "Remix Conf",
     "url": "https://remix.run/conf",
     "startDate": "2022-05-24",
@@ -286,8 +244,6 @@
     "country": "U.S.A.",
     "online": false,
     "cocUrl": "https://remix.run/conf/coc",
-    "cfpUrl": "https://remix.run/conf/speakers/you",
-    "cfpEndDate": "2022-02-28",
     "twitter": "@remix_run"
   },
   {
@@ -299,8 +255,6 @@
     "country": "Greece",
     "online": true,
     "cocUrl": "https://cityjsconf.org/coc/",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfZlld4FzlWKg-2nc-JpIdzWSOgcLQ2jGYFSlK9K4X1b-waHQ/viewform",
-    "cfpEndDate": "2022-03-25",
     "twitter": "@cityjsconf"
   },
   {
@@ -321,7 +275,6 @@
     "city": "Fort Lauderdale, FL",
     "country": "U.S.A.",
     "online": false,
-    "cocUrl": "https://vueconf.us/codeofconduct/",
     "cfpUrl": "https://vueconf.us/call-for-papers",
     "cfpEndDate": "2022-02-28",
     "twitter": "@vueconfus"
@@ -443,19 +396,6 @@
     "twitter": "@fwdays"
   },
   {
-    "name": "FullStack eXchange",
-    "url": "https://skillsmatter.com/conferences/13770-fullstack-exchange-2022",
-    "startDate": "2022-07-27",
-    "endDate": "2022-07-28",
-    "city": "London",
-    "country": "U.K.",
-    "online": true,
-    "cocUrl": "https://skillsmatter.com/go/code-of-conduct",
-    "cfpUrl": "https://skillsmatter.com/conferences/13727-fullstack-exchange-online#get_involved",
-    "cfpEndDate": "2022-04-28",
-    "twitter": "@skillsmatter"
-  },
-  {
     "name": "JavaScript and Friends Conference",
     "url": "https://www.javascriptandfriends.com",
     "startDate": "2022-07-29",
@@ -538,7 +478,6 @@
     "startDate": "2022-09-13",
     "endDate": "2022-09-13",
     "online": true,
-    "cocUrl": "https://miduconf.com/codigo-de-conducta",
     "cfpUrl": "https://forms.gle/1Jtfi7Fh4iee7Qv29",
     "cfpEndDate": "2022-08-15",
     "twitter": "@midudev"
@@ -566,8 +505,6 @@
     "country": "France",
     "online": true,
     "cocUrl": "http://emberfest.eu/code-of-conduct/",
-    "cfpUrl": "https://www.papercall.io/emberfest-2022",
-    "cfpEndDate": "2022-08-14",
     "twitter": "@emberfest"
   },
   {
@@ -820,17 +757,6 @@
     "twitter": "@WebSummit"
   },
   {
-    "name": "WeAreDevelopers React Day",
-    "url": "https://www.wearedevelopers.com/event/react-day",
-    "startDate": "2022-11-02",
-    "endDate": "2022-11-02",
-    "online": true,
-    "cocUrl": "https://sessionize.com/wadlive2022/",
-    "cfpUrl": "https://sessionize.com/wadlive2022",
-    "cfpEndDate": "2022-10-26",
-    "twitter": "@WeAreDevs"
-  },
-  {
     "name": "Front Stage",
     "url": "https://frontdevstage.com",
     "startDate": "2022-11-04",
@@ -915,8 +841,6 @@
     "endDate": "2022-11-17",
     "online": true,
     "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "cfpUrl": "https://www.papercall.io/conf42-javascript-2022",
-    "cfpEndDate": "2022-10-14",
     "twitter": "@conf42com"
   },
   {
@@ -964,7 +888,6 @@
     "city": "Clearwater, FL",
     "country": "U.S.A.",
     "online": true,
-    "cocUrl": "https://progressivewebexperience.io/home/code_of_conduct",
     "twitter": "@nofluff"
   },
   {
@@ -975,7 +898,6 @@
     "city": "Arlington, VA",
     "country": "U.S.A.",
     "online": false,
-    "cocUrl": "https://frontrunners.tech//policies/conduct.html",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeVqFwR2_Bn3poybhyT9ZzGVG4YTuAZUVstUbx_IzuzAQUM9Q/viewform",
     "cfpEndDate": "2022-10-17",
     "twitter": "@frontrunnersdc"

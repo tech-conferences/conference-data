@@ -15,8 +15,6 @@
     "endDate": "2021-02-25",
     "online": true,
     "offersSignLanguageOrCC": false,
-    "cfpUrl": "https://sec4dev.io/call-for-proposals",
-    "cfpEndDate": "2020-12-20",
     "twitter": "@sec4dev"
   },
   {
@@ -130,7 +128,6 @@
     "startDate": "2021-08-05",
     "endDate": "2021-08-08",
     "online": true,
-    "cocUrl": "https://defcon.org/html/links/dc-code-of-conduct.html",
     "twitter": "@defcon"
   },
   {
@@ -142,7 +139,6 @@
     "country": "U.S.A.",
     "online": false,
     "offersSignLanguageOrCC": false,
-    "cocUrl": "https://membercommunity.wicys.org/page/Conduct",
     "cfpUrl": "https://www.wicys.org/events/call-for-participation",
     "cfpEndDate": "2021-03-01",
     "twitter": "@WiCySorg"
@@ -248,8 +244,6 @@
     "endDate": "2021-11-05",
     "online": true,
     "cocUrl": "https://www.avast.com/privacy-policy",
-    "cfpUrl": "https://cybersecai.com/call-for-speakers",
-    "cfpEndDate": "2021-07-31",
     "twitter": "@CyberSecAI"
   }
 ]

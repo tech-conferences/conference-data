@@ -1,14 +1,5 @@
 [
   {
-    "name": "PHPBenelux Conference",
-    "url": "https://conference.phpbenelux.eu/2018",
-    "startDate": "2018-01-26",
-    "endDate": "2018-01-27",
-    "city": "Antwerp",
-    "country": "Belgium",
-    "twitter": "@phpbenelux"
-  },
-  {
     "name": "SunshinePHP Developer Conference",
     "url": "http://2018.sunshinephp.com",
     "startDate": "2018-02-09",
@@ -125,15 +116,6 @@
     "twitter": "@fwdays"
   },
   {
-    "name": "LaravelConf Taiwan",
-    "url": "https://laravelconf.tw/en",
-    "startDate": "2018-07-08",
-    "endDate": "2018-07-08",
-    "city": "Taipei",
-    "country": "Taiwan",
-    "twitter": "@laravelconftw"
-  },
-  {
     "name": "PHPDetroit Conference",
     "url": "https://phpdetroit.io",
     "startDate": "2018-07-26",
@@ -154,17 +136,6 @@
     "cfpUrl": "https://cfp.southeastphp.com",
     "cfpEndDate": "2018-04-15",
     "twitter": "@southeastphp"
-  },
-  {
-    "name": "Laracon EU",
-    "url": "https://laracon.eu/2018/",
-    "startDate": "2018-08-29",
-    "endDate": "2018-08-31",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "cfpUrl": "https://laracon.eu/2018/cfp/",
-    "cfpEndDate": "2018-04-30",
-    "twitter": "@laraconeu"
   },
   {
     "name": "Drupal Europe",
@@ -196,15 +167,6 @@
     "cfpUrl": "https://cfp.wavephp.com",
     "cfpEndDate": "2018-03-16",
     "twitter": "@wavephp"
-  },
-  {
-    "name": "PHP Developer Days",
-    "url": "https://2018.phpdd.org/index.html",
-    "startDate": "2018-09-21",
-    "endDate": "2018-09-22",
-    "city": "Dresden",
-    "country": "Germany",
-    "twitter": "@phpdd"
   },
   {
     "name": "Dot All Conf",

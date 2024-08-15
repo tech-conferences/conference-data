@@ -1,21 +1,5 @@
 [
   {
-    "name": "WE Local Baltimore, MD",
-    "url": "https://welocal.swe.org/baltimore/location",
-    "startDate": "2019-02-08",
-    "endDate": "2019-02-09",
-    "city": "Baltimore, MD",
-    "country": "U.S.A."
-  },
-  {
-    "name": "WE Local Tampa",
-    "url": "https://welocal.swe.org/tampa/location",
-    "startDate": "2019-02-15",
-    "endDate": "2019-02-16",
-    "city": "Tampa, FL",
-    "country": "U.S.A."
-  },
-  {
     "name": "AWS Community Day Nordics",
     "url": "https://awscommunitynordics.org/communityday",
     "startDate": "2019-02-19",
@@ -24,38 +8,12 @@
     "country": "Denmark"
   },
   {
-    "name": "WE Local St. Louis",
-    "url": "https://welocal.swe.org/st-louis/location",
-    "startDate": "2019-03-01",
-    "endDate": "2019-03-02",
-    "city": "St. Louis, MO",
-    "country": "U.S.A."
-  },
-  {
-    "name": "WE Local Denver",
-    "url": "https://welocal.swe.org/denver/location",
-    "startDate": "2019-03-15",
-    "endDate": "2019-03-16",
-    "city": "Denver, CO",
-    "country": "U.S.A."
-  },
-  {
-    "name": "WE Local Bellevue",
-    "url": "https://welocal.swe.org/bellevue/location",
-    "startDate": "2019-04-05",
-    "endDate": "2019-04-06",
-    "city": "Bellevue, WA",
-    "country": "U.S.A."
-  },
-  {
     "name": "foss-north",
     "url": "https://foss-north.se",
     "startDate": "2019-04-07",
     "endDate": "2019-04-10",
     "city": "Gothenburg",
-    "country": "Sweden",
-    "cfpUrl": "https://foss-north.se/2019/contribute.html#papers",
-    "cfpEndDate": "2019-02-24"
+    "country": "Sweden"
   },
   {
     "name": "Business of Software Conference Europe",
@@ -65,14 +23,6 @@
     "city": "Cambridge",
     "country": "U.K.",
     "twitter": "@BoSConference"
-  },
-  {
-    "name": "WE Local India",
-    "url": "https://welocal.swe.org/bengaluru/location",
-    "startDate": "2019-04-11",
-    "endDate": "2019-04-13",
-    "city": "Bengaluru",
-    "country": "India"
   },
   {
     "name": "MVP Conference LATAM",
@@ -90,17 +40,7 @@
     "endDate": "2019-04-23",
     "city": "Palo Alto, CA",
     "country": "U.S.A.",
-    "cfpUrl": "http://www.womentransformingtechnology.com/2019-call-for-participation.html",
     "twitter": "@WomenTransform2"
-  },
-  {
-    "name": "WE Local Europe",
-    "url": "https://welocal.swe.org/berlin/location",
-    "startDate": "2019-05-15",
-    "endDate": "2019-05-17",
-    "city": "Berlin",
-    "country": "Germany",
-    "cfpUrl": "https://welocal.swe.org/about/become-a-speaker/"
   },
   {
     "name": "IEEE Women In Engineering International Leadership Conference",
@@ -109,7 +49,6 @@
     "endDate": "2019-05-24",
     "city": "Austin, TX",
     "country": "U.S.A.",
-    "cfpUrl": "http://ieee-wie-ilc.org/call-for-speakers/",
     "twitter": "@wieilc"
   },
   {
@@ -122,15 +61,6 @@
     "cfpUrl": "https://checkout.eventlama.com/#/events/best-of-web-2019/cfp",
     "cfpEndDate": "2019-03-17",
     "twitter": "@bestofwebconf"
-  },
-  {
-    "name": "Agile Venture Vimercate",
-    "url": "https://www.agileday.it/venture/2019/vimercate",
-    "startDate": "2019-06-08",
-    "endDate": "2019-06-08",
-    "city": "Vimercate",
-    "country": "Italy",
-    "twitter": "@agileday"
   },
   {
     "name": "TuxCon",
@@ -219,17 +149,6 @@
     "country": "U.S.A."
   },
   {
-    "name": "African Women in Media  Conference & Festival",
-    "url": "https://awim19.africanwomeninmedia.com/",
-    "startDate": "2019-07-11",
-    "endDate": "2019-07-13",
-    "city": "Nairobi",
-    "country": "Kenya",
-    "cfpUrl": "http://africanwomeninmedia.com/cfp-awim19/",
-    "cfpEndDate": "2019-01-28",
-    "twitter": "@realawim"
-  },
-  {
     "name": "Cloud Native Summit",
     "url": "https://www.cloudnativesummit.co",
     "startDate": "2019-08-05",
@@ -253,9 +172,7 @@
     "startDate": "2019-08-31",
     "endDate": "2019-08-31",
     "city": "Singapore",
-    "country": "Singapore",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdVCHXjhYQbtV1lrM9vW1fDyBUrxiGccwS6bNefcMipOoM7MQ/viewform",
-    "cfpEndDate": "2019-06-15"
+    "country": "Singapore"
   },
   {
     "name": "TECHSPO London",
@@ -272,14 +189,6 @@
     "endDate": "2019-09-08",
     "city": "Castelraimondo",
     "country": "Italy"
-  },
-  {
-    "name": "IEEE International Conference on Image Processing (ICIP)",
-    "url": "http://2019.ieeeicip.org/index.php",
-    "startDate": "2019-09-22",
-    "endDate": "2019-09-25",
-    "city": "Taipei",
-    "country": "Taiwan"
   },
   {
     "name": "IT Arena",

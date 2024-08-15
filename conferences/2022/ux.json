@@ -15,15 +15,6 @@
     "online": true
   },
   {
-    "name": "An Event Apart Spring Summit",
-    "url": "https://aneventapart.com/event/spring-summit-2022",
-    "startDate": "2022-04-18",
-    "endDate": "2022-04-20",
-    "online": true,
-    "cocUrl": "https://aneventapart.com/registration-information#code-of-conduct",
-    "twitter": "@aneventapart"
-  },
-  {
     "name": "PUSH Discovery",
     "url": "https://push-conference.com/discovery",
     "startDate": "2022-05-10",
@@ -77,7 +68,6 @@
     "city": "Fort Lauderdale, FL",
     "country": "U.S.A.",
     "online": false,
-    "cocUrl": "https://vueconf.us/codeofconduct/",
     "cfpUrl": "https://vueconf.us/call-for-papers",
     "cfpEndDate": "2022-02-28",
     "twitter": "@vueconfus"
@@ -285,7 +275,6 @@
     "city": "Clearwater, FL",
     "country": "U.S.A.",
     "online": true,
-    "cocUrl": "https://progressivewebexperience.io/home/code_of_conduct",
     "twitter": "@nofluff"
   },
   {
@@ -296,7 +285,6 @@
     "city": "Arlington, VA",
     "country": "U.S.A.",
     "online": false,
-    "cocUrl": "https://frontrunners.tech//policies/conduct.html",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeVqFwR2_Bn3poybhyT9ZzGVG4YTuAZUVstUbx_IzuzAQUM9Q/viewform",
     "cfpEndDate": "2022-10-17",
     "twitter": "@frontrunnersdc"

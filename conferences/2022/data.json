@@ -1,14 +1,5 @@
 [
   {
-    "name": "Workforce Identity Governance & Access Management Summit",
-    "url": "https://www.altrusiaglobal.com/wigam",
-    "startDate": "2022-02-24",
-    "endDate": "2022-02-24",
-    "online": true,
-    "offersSignLanguageOrCC": true,
-    "twitter": "@altrusiaglobal"
-  },
-  {
     "name": "Reinforce AI Conference",
     "url": "https://reinforceconf.com",
     "startDate": "2022-03-08",
@@ -40,24 +31,6 @@
     "online": true,
     "offersSignLanguageOrCC": true,
     "twitter": "@ITNewsAfrica"
-  },
-  {
-    "name": "Timescale Community Day",
-    "url": "https://www.timescale.com/community-day",
-    "startDate": "2022-03-31",
-    "endDate": "2022-03-31",
-    "online": true,
-    "cocUrl": "https://www.timescale.com/code-of-conduct",
-    "cfpUrl": "https://www.papercall.io/timescale-community-day-2022",
-    "cfpEndDate": "2022-02-28",
-    "twitter": "@TimescaleDB"
-  },
-  {
-    "name": "Walmart AI Summit - Cognitive Retail At Scale",
-    "url": "https://one.walmart.com/content/globaltechindia/en_in/events/ai-summit.html",
-    "startDate": "2022-04-06",
-    "endDate": "2022-04-07",
-    "online": true
   },
   {
     "name": "ODSC East",
@@ -105,8 +78,6 @@
     "endDate": "2022-05-19",
     "online": true,
     "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "cfpUrl": "https://www.papercall.io/conf42-machine-learning-2022",
-    "cfpEndDate": "2022-04-08",
     "twitter": "@conf42com"
   },
   {
@@ -126,18 +97,7 @@
     "endDate": "2022-05-25",
     "online": true,
     "cocUrl": "https://www.tigergraph.com/privacy-policy/",
-    "cfpUrl": "https://events.bizzabo.com/390232/page/2084487/call-for-speakers",
-    "cfpEndDate": "2022-04-11",
     "twitter": "@TigerGraphDB"
-  },
-  {
-    "name": "YOW! Data",
-    "url": "https://skillsmatter.com/conferences/13659-yow-data-2022",
-    "startDate": "2022-05-30",
-    "endDate": "2022-05-31",
-    "online": true,
-    "cocUrl": "https://skillsmatter.com/go/code-of-conduct",
-    "twitter": "@yow_conf"
   },
   {
     "name": "MongoDB World",
@@ -161,7 +121,6 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
-    "cocUrl": "https://2022.berlinbuzzwords.de/code-conduct",
     "twitter": "@berlinbuzzwords"
   },
   {
@@ -216,17 +175,6 @@
     "cocUrl": "https://databricks.com/dataaisummit/north-america-2022/code-of-conduct"
   },
   {
-    "name": "Common Sense Data & Analytics Predict, SG",
-    "url": "https://www.commonsense.events/cs23-data-analytics-predict-sg",
-    "startDate": "2022-07-24",
-    "endDate": "2022-07-26",
-    "city": "Singapore",
-    "country": "Singapore",
-    "online": false,
-    "locales": "EN",
-    "twitter": "@Common_Sense_BF"
-  },
-  {
     "name": "Neo4j Connections",
     "url": "https://neo4j.com/event/neo4j-connections-solving-real-world-problems-with-graphs-asia-pacific-copy-july-28",
     "startDate": "2022-07-28",
@@ -253,15 +201,6 @@
     "endDate": "2022-09-08",
     "online": true,
     "twitter": "@ODSC"
-  },
-  {
-    "name": "Common Sense Data & Analytics APAC",
-    "url": "https://www.commonsense.events/cs22-data-analytics-summit-apac",
-    "startDate": "2022-09-07",
-    "endDate": "2022-09-09",
-    "city": "Singapore",
-    "country": "Singapore",
-    "online": false
   },
   {
     "name": "Uptime by Aiven",
@@ -378,18 +317,6 @@
     "online": true
   },
   {
-    "name": "Common Sense Data and Analytics Summit North America",
-    "url": "https://www.commonsense.events/cs22-data-analytics-summit-na",
-    "startDate": "2022-10-12",
-    "endDate": "2022-10-14",
-    "city": "Dallas, TX",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://www.commonsense.events/cs22-data-analytics-summit-na/#participate",
-    "cfpEndDate": "2022-10-07",
-    "twitter": "@Common_Sense_BF"
-  },
-  {
     "name": "Linq",
     "url": "https://linqconf.com",
     "startDate": "2022-10-13",
@@ -397,17 +324,6 @@
     "city": "Paphos",
     "country": "Cyprus",
     "online": false
-  },
-  {
-    "name": "ScaleUp 360° Smart Data Architectures & Data Engineering",
-    "url": "https://www.scale-up-360.com/de/data-architectures-engineering",
-    "startDate": "2022-10-18",
-    "endDate": "2022-10-18",
-    "online": true,
-    "cocUrl": "https://www.we-conect.com/terms-and-conditions",
-    "cfpUrl": "https://www.scale-up-360.com/de/data-architectures-engineering/speakers",
-    "cfpEndDate": "2022-10-15",
-    "twitter": "@weCONECT"
   },
   {
     "name": "MASCOTS 30th International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems",
@@ -487,17 +403,6 @@
     "twitter": "@weCONECT"
   },
   {
-    "name": "ScaleUp 360° Big Data Europe",
-    "url": "https://www.scale-up-360.com/en/big-data-europe",
-    "startDate": "2022-11-22",
-    "endDate": "2022-11-22",
-    "online": true,
-    "cocUrl": "https://www.we-conect.com/terms-and-conditions",
-    "cfpUrl": "https://www.scale-up-360.com/en/big-data-europe/speakers",
-    "cfpEndDate": "2022-11-19",
-    "twitter": "@weCONECT"
-  },
-  {
     "name": "Data Science Global Summit",
     "url": "https://events.geekle.us/data-science2",
     "startDate": "2022-11-22",
@@ -505,8 +410,6 @@
     "online": true,
     "offersSignLanguageOrCC": true,
     "cocUrl": "https://geekle.us/code-of-conduct",
-    "cfpUrl": "https://docs.google.com/forms/d/1RaNnOUycuZwwc1wnaPkgtTQMBnHfBQnJziArTUKXH0Y",
-    "cfpEndDate": "2022-11-08",
     "twitter": "@DataScienceGlob"
   },
   {
@@ -519,16 +422,5 @@
     "cfpUrl": "https://bigdataconference.eu/call-for-track-hosts/",
     "cfpEndDate": "2022-11-03",
     "twitter": "@BigDataConfEU"
-  },
-  {
-    "name": "ScaleUp 360° Enterprise Cloud Governance",
-    "url": "https://www.scale-up-360.com/de/enterprise-cloud-governance",
-    "startDate": "2022-12-06",
-    "endDate": "2022-12-06",
-    "online": true,
-    "cocUrl": "https://www.we-conect.com/terms-and-conditions",
-    "cfpUrl": "https://www.scale-up-360.com/de/enterprise-cloud-governance/speakers",
-    "cfpEndDate": "2022-12-03",
-    "twitter": "@weCONECT"
   }
 ]

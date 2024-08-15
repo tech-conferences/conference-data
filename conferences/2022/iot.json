@@ -44,7 +44,6 @@
     "city": "Munich",
     "country": "Germany",
     "online": false,
-    "cocUrl": "https://www.iiot-conference.de/code_of_conduct.php",
     "twitter": "@IIoTConf"
   },
   {
@@ -57,19 +56,6 @@
     "online": true,
     "cocUrl": "https://iotcon.de/code-of-conduct-en/",
     "twitter": "@iotconf"
-  },
-  {
-    "name": "FullStack eXchange",
-    "url": "https://skillsmatter.com/conferences/13770-fullstack-exchange-2022",
-    "startDate": "2022-07-27",
-    "endDate": "2022-07-28",
-    "city": "London",
-    "country": "U.K.",
-    "online": true,
-    "cocUrl": "https://skillsmatter.com/go/code-of-conduct",
-    "cfpUrl": "https://skillsmatter.com/conferences/13727-fullstack-exchange-online#get_involved",
-    "cfpEndDate": "2022-04-28",
-    "twitter": "@skillsmatter"
   },
   {
     "name": "2nd Annual Pharma Innovation Tech Congress",
@@ -98,8 +84,6 @@
     "country": "Germany",
     "online": false,
     "cocUrl": "https://www.we-conect.com/terms-and-conditions",
-    "cfpUrl": "https://www.rethink-enterprise-it.de/sprecher",
-    "cfpEndDate": "2022-09-18",
     "twitter": "@weCONECT"
   },
   {

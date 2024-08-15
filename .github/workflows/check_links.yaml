@@ -17,17 +17,13 @@ jobs:
             issue-lookup-label: automated-link-issue
             issue-content: ./lychee-out.md
         steps:
-            - name: Get current year
-              run: echo "CURRENT_YEAR=$(date +'%Y')" >> $GITHUB_ENV
-            - name: Get next year
-              run: echo "NEXT_YEAR=$(date -d '+1 year' +'%Y')" >> $GITHUB_ENV
             - uses: actions/checkout@v4
             - name: Link Checker
               id: lychee
               uses: lycheeverse/lychee-action@v1.10.0
               with:
                   fail: true
-                  args: --cache --verbose --no-progress './conferences/${{ env.CURRENT_YEAR }}/**/*.json' './conferences/${{ env.NEXT_YEAR }}/**/*.json'
+                  args: --cache --verbose --no-progress './conferences/**/*.json'
                   output: ${{ env.issue-content }}
             - name: Comment Broken Links
               if: ${{ failure() }}

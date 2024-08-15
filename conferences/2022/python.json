@@ -19,8 +19,6 @@
     "endDate": "2022-01-27",
     "online": true,
     "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "cfpUrl": "https://www.papercall.io/conf42-python-2022",
-    "cfpEndDate": "2021-12-27",
     "twitter": "@conf42com"
   },
   {
@@ -34,13 +32,6 @@
     "cfpUrl": "https://pretalx.com/pycascades-2022/cfp",
     "cfpEndDate": "2021-10-24",
     "twitter": "@pycascades"
-  },
-  {
-    "name": "WeAreDevelopers Machine Learning Day",
-    "url": "https://www.wearedevelopers.com/event/machine-learning-day-2303",
-    "startDate": "2022-03-23",
-    "endDate": "2022-03-23",
-    "online": true
   },
   {
     "name": "PyCon DE & PyData",
@@ -130,16 +121,6 @@
     "cfpUrl": "https://www.python-summit.ch/cfp",
     "cfpEndDate": "2022-06-30",
     "twitter": "@pythonsummit"
-  },
-  {
-    "name": "WeAreDevelopers Live - Python Day",
-    "url": "https://www.wearedevelopers.com/event/python-day-1222",
-    "startDate": "2022-10-05",
-    "endDate": "2022-10-05",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/wadlive2022",
-    "cfpEndDate": "2022-09-28",
-    "twitter": "@wearedevs"
   },
   {
     "name": "enterPy",

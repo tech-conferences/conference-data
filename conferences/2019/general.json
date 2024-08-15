@@ -153,15 +153,6 @@
     "twitter": "@qconlondon"
   },
   {
-    "name": "tabGeeks",
-    "url": "https://2019.tabgeeks.com/",
-    "startDate": "2019-03-06",
-    "endDate": "2019-03-08",
-    "city": "Long Beach, CA",
-    "country": "U.S.A.",
-    "twitter": "@tabgeeks"
-  },
-  {
     "name": "ScaleConf",
     "url": "https://scaleconf.org",
     "startDate": "2019-03-07",
@@ -233,17 +224,6 @@
     "twitter": "@t3chfest"
   },
   {
-    "name": "DevEast",
-    "url": "https://deveast.uk/",
-    "startDate": "2019-03-15",
-    "endDate": "2019-03-15",
-    "city": "Ipswich",
-    "country": "U.K.",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfgV7EwndHJgASZyzU4EG8TSp6bvvhCfjnymwEuHQR05HmhFg/viewform",
-    "cfpEndDate": "2018-01-31",
-    "twitter": "@Dev_East"
-  },
-  {
     "name": "Breizhcamp",
     "url": "https://www.breizhcamp.org",
     "startDate": "2019-03-20",
@@ -283,8 +263,6 @@
     "endDate": "2019-03-23",
     "city": "Rome",
     "country": "Italy",
-    "cfpUrl": "https://tickets.codemotion.com/rome2019-codemotionworld-com-call-for-papers-guidelines",
-    "cfpEndDate": "2018-12-12",
     "twitter": "@CodemotionWorld"
   },
   {
@@ -303,8 +281,6 @@
     "endDate": "2019-03-23",
     "city": "Montreal",
     "country": "Canada",
-    "cfpUrl": "https://www.papercall.io/wtmmontreal2019",
-    "cfpEndDate": "2019-01-01",
     "twitter": "@WTM_Montreal"
   },
   {
@@ -348,15 +324,6 @@
     "twitter": "@IOTForumAfrica"
   },
   {
-    "name": "TF Blockchain",
-    "url": "https://www.tfblock.io/",
-    "startDate": "2019-03-28",
-    "endDate": "2019-03-28",
-    "city": "Seattle, WA",
-    "country": "U.S.A.",
-    "twitter": "@tfblockchain"
-  },
-  {
     "name": "Women in Tech Summit (MidAtlantic)",
     "url": "https://midatlantic.womenintechsummit.net",
     "startDate": "2019-03-28",
@@ -392,19 +359,7 @@
     "endDate": "2019-04-03",
     "city": "Amsterdam",
     "country": "Netherlands",
-    "cfpUrl": "https://tickets.codemotion.com/amsterdam2019-codemotionworld-com-call-for-papers-guidelines/",
-    "cfpEndDate": "2018-11-19",
     "twitter": "@CodemotionWorld"
-  },
-  {
-    "name": "MainXchange",
-    "url": "https://mainxchange.de/",
-    "startDate": "2019-04-03",
-    "endDate": "2019-04-03",
-    "city": "Wuerzburg",
-    "country": "Germany",
-    "cfpUrl": "https://mainxchange.de/callforpapers.html",
-    "cfpEndDate": "2019-01-19"
   },
   {
     "name": "Code Talks - Commerce Edition",
@@ -413,7 +368,6 @@
     "endDate": "2019-04-05",
     "city": "Berlin",
     "country": "Germany",
-    "cfpUrl": "https://commerce.codetalks.de/",
     "twitter": "@codetalkshh"
   },
   {
@@ -468,15 +422,6 @@
     "twitter": "@serverlesscon"
   },
   {
-    "name": "JAMstack_conf NYC",
-    "url": "https://jamstackconf.com/nyc",
-    "startDate": "2019-04-09",
-    "endDate": "2019-04-10",
-    "city": "New York, NY",
-    "country": "U.S.A.",
-    "twitter": "@jamstackconf"
-  },
-  {
     "name": "Web à Québec",
     "url": "https://webaquebec.org",
     "startDate": "2019-04-09",
@@ -497,31 +442,12 @@
     "twitter": "@DubTechSummit"
   },
   {
-    "name": "OpenWest",
-    "url": "https://openwest.org/",
-    "startDate": "2019-04-10",
-    "endDate": "2019-04-12",
-    "city": "Sandy, UT",
-    "country": "U.S.A.",
-    "cfpUrl": "https://cfp.openwest.org/",
-    "cfpEndDate": "2019-01-07",
-    "twitter": "@openwestconf"
-  },
-  {
     "name": "Venture Day Minsk",
     "url": "http://www.venturedayminsk.com",
     "startDate": "2019-04-11",
     "endDate": "2019-04-11",
     "city": "Minsk",
     "country": "Belarus"
-  },
-  {
-    "name": "Business of Software Europe",
-    "url": "https://thebln.com/event/business-software-conference-europe-2019",
-    "startDate": "2019-04-11",
-    "endDate": "2019-04-12",
-    "city": "Cambridge",
-    "country": "U.K."
   },
   {
     "name": "Developers Conference Mauritius",
@@ -541,8 +467,6 @@
     "endDate": "2019-04-13",
     "city": "Knoxville, TN",
     "country": "U.S.A.",
-    "cfpUrl": "http://codestock.org/speaker-submission/",
-    "cfpEndDate": "2018-11-09",
     "twitter": "@CodeStock"
   },
   {
@@ -588,8 +512,6 @@
     "endDate": "2019-04-13",
     "city": "San Francisco, CA",
     "country": "U.S.A.",
-    "cfpUrl": "https://code.womenwhocode.com/connect2019cfp/",
-    "cfpEndDate": "2019-02-01",
     "twitter": "@WomenWhoCode"
   },
   {
@@ -630,17 +552,6 @@
     "city": "Toronto",
     "country": "Canada",
     "twitter": "@fitc"
-  },
-  {
-    "name": "Great International Developer Summit",
-    "url": "https://www.developermarch.com/developersummit/index.html",
-    "startDate": "2019-04-22",
-    "endDate": "2019-04-26",
-    "city": "Bangalore",
-    "country": "India",
-    "cfpUrl": "https://developermarch.com/developersummit/cfp/callForProposals.html#form",
-    "cfpEndDate": "2019-02-09",
-    "twitter": "@developersummit"
   },
   {
     "name": "Visual Studio Live!",
@@ -733,17 +644,6 @@
     "twitter": "@wonderwomentech"
   },
   {
-    "name": "BeyondTech",
-    "url": "https://skillsmatter.com/conferences/11735-beyondtech-2019",
-    "startDate": "2019-05-01",
-    "endDate": "2019-05-02",
-    "city": "London",
-    "country": "U.K.",
-    "cfpUrl": "https://skillsmatter.com/conferences/11735-beyondtech-2019#get_involved",
-    "cfpEndDate": "2019-01-14",
-    "twitter": "@skillsmatter"
-  },
-  {
     "name": "Women in Tech Summit (Midwest)",
     "url": "https://midwest.womenintechsummit.net",
     "startDate": "2019-05-03",
@@ -772,15 +672,6 @@
     "cfpUrl": "https://sessionize.com/build",
     "cfpEndDate": "2019-03-16",
     "twitter": "@MicrosoftBuild"
-  },
-  {
-    "name": "Red Hat Summit",
-    "url": "https://www.redhat.com/en/summit/2019",
-    "startDate": "2019-05-07",
-    "endDate": "2019-05-09",
-    "city": "Boston, MA",
-    "country": "U.S.A.",
-    "twitter": "@RedHatSummit"
   },
   {
     "name": "CRAFT",
@@ -812,17 +703,6 @@
     "twitter": "@TechspoNYC"
   },
   {
-    "name": "Agile Venture Bolzano",
-    "url": "https://www.agileday.it/venture/2019/bolzano",
-    "startDate": "2019-05-10",
-    "endDate": "2019-05-10",
-    "city": "Bolzano",
-    "country": "Italy",
-    "cfpUrl": "https://sessionize.com/agile-venture-bolzano",
-    "cfpEndDate": "2019-04-02",
-    "twitter": "@agilebolzano"
-  },
-  {
     "name": "Austin API Summit",
     "url": "https://nordicapis.com/events/austin-api-summit-2019/",
     "startDate": "2019-05-13",
@@ -849,8 +729,6 @@
     "endDate": "2019-05-16",
     "city": "Santa Clara, CA",
     "country": "U.S.A.",
-    "cfpUrl": "https://get.knect365.com/iot-world/speaking-submission-2019",
-    "cfpEndDate": "2019-01-31",
     "twitter": "@IoTWorldSeries"
   },
   {
@@ -883,15 +761,6 @@
     "twitter": "@rivieradev"
   },
   {
-    "name": "Latitude59",
-    "url": "http://www.latitude59.ee/en",
-    "startDate": "2019-05-16",
-    "endDate": "2019-05-17",
-    "city": "Tallinn",
-    "country": "Estonia",
-    "twitter": "@latitude59"
-  },
-  {
     "name": "200 OK",
     "url": "http://200ok.us",
     "startDate": "2019-05-17",
@@ -901,17 +770,6 @@
     "cfpUrl": "https://cfp.techlahoma.org/events/200ok-2019",
     "cfpEndDate": "2019-03-04",
     "twitter": "@200okconf"
-  },
-  {
-    "name": "DDD Netherlands",
-    "url": "https://www.dddnetherlands.com/",
-    "startDate": "2019-05-18",
-    "endDate": "2019-05-18",
-    "city": "Utrecht",
-    "country": "Netherlands",
-    "cfpUrl": "http://cfp.dddnetherlands.com/",
-    "cfpEndDate": "2019-01-31",
-    "twitter": "@DDDNetherlands"
   },
   {
     "name": "Interop",
@@ -1037,7 +895,6 @@
     "endDate": "2019-06-06",
     "city": "London",
     "country": "U.K.",
-    "cfpUrl": "https://wonderwomentech.com/speak/call-for-proposals/",
     "twitter": "@wonderwomentech"
   },
   {
@@ -1050,15 +907,6 @@
     "cfpUrl": "https://sessionize.com/revolutionconf-2019/",
     "cfpEndDate": "2019-01-18",
     "twitter": "@revconf"
-  },
-  {
-    "name": "WeAreDevelopers",
-    "url": "https://www.wearedevelopers.com/world-congress-2019",
-    "startDate": "2019-06-06",
-    "endDate": "2019-06-07",
-    "city": "Berlin",
-    "country": "Germany",
-    "twitter": "@WeAreDevs"
   },
   {
     "name": "Conference for Kotliners",
@@ -1362,8 +1210,6 @@
     "endDate": "2019-08-02",
     "city": "Nakhon Pathom",
     "country": "Thailand",
-    "cfpUrl": "http://cseducation.org/importantdate",
-    "cfpEndDate": "2019-05-10",
     "twitter": "@GSTF_Singapore"
   },
   {
@@ -1373,8 +1219,6 @@
     "endDate": "2019-08-02",
     "city": "Baltimore, MD",
     "country": "U.S.A.",
-    "cfpUrl": "https://www.middevcon.com/call-for-speakers",
-    "cfpEndDate": "2019-04-13",
     "twitter": "@middevcon"
   },
   {
@@ -1472,8 +1316,6 @@
     "endDate": "2019-09-05",
     "city": "Nürnberg",
     "country": "Germany",
-    "cfpUrl": "https://www.herbstcampus.de/proposal_einreichen.php",
-    "cfpEndDate": "2019-04-04",
     "twitter": "@Herbstcampus"
   },
   {
@@ -1501,8 +1343,6 @@
     "endDate": "2019-09-06",
     "city": "Omaha, NE",
     "country": "U.S.A.",
-    "cfpUrl": "https://careerlink.com/hdc/session-submission",
-    "cfpEndDate": "2019-06-14",
     "twitter": "@HDC411"
   },
   {
@@ -1733,9 +1573,7 @@
     "startDate": "2019-09-28",
     "endDate": "2019-09-28",
     "city": "Houston, TX",
-    "country": "U.S.A.",
-    "cfpUrl": "https://www.papercall.io/devfest-houston",
-    "cfpEndDate": "2019-09-10"
+    "country": "U.S.A."
   },
   {
     "name": "DevFest St. Louis",
@@ -1942,15 +1780,6 @@
     "twitter": "@webcampzagreb"
   },
   {
-    "name": "HackConf",
-    "url": "https://www.hackconf.bg/en",
-    "startDate": "2019-10-11",
-    "endDate": "2019-10-13",
-    "city": "Sofia",
-    "country": "Bulgaria",
-    "twitter": "@HackConf_"
-  },
-  {
     "name": "Code Camp NYC",
     "url": "https://codecampnyc.org",
     "startDate": "2019-10-12",
@@ -1999,18 +1828,7 @@
     "endDate": "2019-10-16",
     "city": "Portland, OR",
     "country": "U.S.A.",
-    "cfpUrl": "https://www.pnsqc.org/2019-conference/call-proposals",
-    "cfpEndDate": "2019-04-07",
     "twitter": "@PNSQC"
-  },
-  {
-    "name": "Red Hat Forum",
-    "url": "https://www.redhat.com/de/events/red-hat-forum-emea",
-    "startDate": "2019-10-15",
-    "endDate": "2019-10-15",
-    "city": "London",
-    "country": "U.K.",
-    "twitter": "@RedHatUK"
   },
   {
     "name": "TestCon Europe",
@@ -2030,8 +1848,6 @@
     "endDate": "2019-10-18",
     "city": "Santa Clara, CA",
     "country": "U.S.A.",
-    "cfpUrl": "http://www.unicodeconference.org/call-for-participation.htm",
-    "cfpEndDate": "2019-03-08",
     "twitter": "@unicode"
   },
   {
@@ -2078,17 +1894,7 @@
     "endDate": "2019-10-23",
     "city": "Paris",
     "country": "France",
-    "cfpUrl": "https://vxdms2019.cfp.dev/#/login",
-    "cfpEndDate": "2019-07-05",
     "twitter": "@vxdmicroservice"
-  },
-  {
-    "name": "Spec",
-    "url": "https://slack.com/spec",
-    "startDate": "2019-10-22",
-    "endDate": "2019-10-23",
-    "city": "San Francisco, CA",
-    "country": "U.S.A."
   },
   {
     "name": "ApacheCon Europe",
@@ -2124,8 +1930,6 @@
     "endDate": "2019-10-26",
     "city": "Philadelphia, PA",
     "country": "U.S.A.",
-    "cfpUrl": "https://www.asem.org/Call-for-Papers-2019",
-    "cfpEndDate": "2019-02-25",
     "twitter": "@asemconnect"
   },
   {
@@ -2169,14 +1973,6 @@
     "twitter": "@EntwicklerKON"
   },
   {
-    "name": "Bloomreach Connect Amsterdam",
-    "url": "https://events.bloomreach.com/connect/amsterdam",
-    "startDate": "2019-10-29",
-    "endDate": "2019-10-29",
-    "city": "Amsterdam",
-    "country": "Netherlands"
-  },
-  {
     "name": "Vonage Campus",
     "url": "https://www.vonage.com/campus",
     "startDate": "2019-10-29",
@@ -2192,17 +1988,6 @@
     "city": "Kyiv",
     "country": "Ukraine",
     "twitter": "@devoxx"
-  },
-  {
-    "name": "Ohio LinuxFest",
-    "url": "https://ohiolinux.org/registration",
-    "startDate": "2019-11-01",
-    "endDate": "2019-11-02",
-    "city": "Columbus, OH",
-    "country": "U.S.A.",
-    "cfpUrl": "https://ohiolinux.org/call-for-presentations",
-    "cfpEndDate": "2019-08-17",
-    "twitter": "@ohiolinux"
   },
   {
     "name": "Agile Testing Days",
@@ -2293,7 +2078,6 @@
     "endDate": "2019-11-07",
     "city": "Long Beach, CA",
     "country": "U.S.A.",
-    "cfpUrl": "https://wonderwomentech.com/speak/call-for-proposals/",
     "twitter": "@wonderwomentech"
   },
   {
@@ -2402,8 +2186,6 @@
     "endDate": "2019-11-15",
     "city": "San Francisco, CA",
     "country": "U.S.A.",
-    "cfpUrl": "https://qconsf.com/talk-submissions",
-    "cfpEndDate": "2019-09-27",
     "twitter": "@QConSF"
   },
   {
@@ -2414,16 +2196,6 @@
     "city": "Tel Aviv",
     "country": "Israel",
     "twitter": "@cloudnativeil"
-  },
-  {
-    "name": "No Code Conference",
-    "url": "https://webflow.com/nocodeconf",
-    "startDate": "2019-11-12",
-    "endDate": "2019-11-13",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "cfpUrl": "https://webflow.com/nocodeconf/cfp",
-    "cfpEndDate": "2019-08-25"
   },
   {
     "name": "VR Days",
@@ -2485,16 +2257,6 @@
     "twitter": "@Buildstuffua"
   },
   {
-    "name": "DOAG Konferenz + Ausstellung",
-    "url": "https://2019.doag.org/de/home",
-    "startDate": "2019-11-19",
-    "endDate": "2019-11-22",
-    "city": "Nürnberg",
-    "country": "Germany",
-    "cfpEndDate": "2019-06-04",
-    "twitter": "@DOAGeV"
-  },
-  {
     "name": "International Digital Public Health Conference",
     "url": "http://www.acm-digitalhealth.org",
     "startDate": "2019-11-20",
@@ -2522,16 +2284,6 @@
     "city": "Rouen",
     "country": "France",
     "twitter": "@codeursenseine"
-  },
-  {
-    "name": "DartUP",
-    "url": "http://dartup.ru/en",
-    "startDate": "2019-11-23",
-    "endDate": "2019-11-23",
-    "city": "Saint Petersburg",
-    "country": "Russia",
-    "cfpUrl": "https://www.papercall.io/dartup",
-    "cfpEndDate": "2019-11-01"
   },
   {
     "name": "Embedded Fest",

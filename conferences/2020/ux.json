@@ -217,14 +217,6 @@
     "twitter": "@dsgndayconf"
   },
   {
-    "name": "An Event Apart – Online Together",
-    "url": "https://aneventapart.com/event/online-0620",
-    "startDate": "2020-06-15",
-    "endDate": "2020-06-15",
-    "online": true,
-    "twitter": "@aneventapart"
-  },
-  {
     "name": "sofaconf",
     "url": "https://2020.sofaconf.com/",
     "startDate": "2020-06-22",
@@ -238,22 +230,6 @@
     "endDate": "2020-06-26",
     "online": true,
     "twitter": "@UXRCollective"
-  },
-  {
-    "name": "The FinTech Design Summit",
-    "url": "https://fintechdesignsummit.com/new-york",
-    "startDate": "2020-06-30",
-    "endDate": "2020-06-30",
-    "online": true,
-    "twitter": "@fdsummit"
-  },
-  {
-    "name": "An Event Apart – Human-Centered Design",
-    "url": "https://aneventapart.com/event/online-0720",
-    "startDate": "2020-07-20",
-    "endDate": "2020-07-20",
-    "online": true,
-    "twitter": "@aneventapart"
   },
   {
     "name": "NN/g UX Conference",
@@ -400,14 +376,6 @@
     "twitter": "@ecomDS"
   },
   {
-    "name": "An Event Apart – Online Together",
-    "url": "https://aneventapart.com/event/online-1020",
-    "startDate": "2020-10-26",
-    "endDate": "2020-10-28",
-    "online": true,
-    "twitter": "@aneventapart"
-  },
-  {
     "name": "Product://remote",
     "url": "https://webdirections.org/product",
     "startDate": "2020-11-06",
@@ -506,23 +474,5 @@
     "cfpUrl": "https://webinale.de/call-for-papers-en",
     "cfpEndDate": "2019-11-25",
     "twitter": "@webinale"
-  },
-  {
-    "name": "UXINDIA",
-    "url": "https://www.ux-india.org/uxindia2020",
-    "startDate": "2020-12-07",
-    "endDate": "2020-12-12",
-    "online": true,
-    "offersSignLanguageOrCC": true,
-    "twitter": "@uxindiaconf"
-  },
-  {
-    "name": "An Event Apart San Francisco",
-    "url": "https://aneventapart.com/event/san-francisco-2020",
-    "startDate": "2020-12-14",
-    "endDate": "2020-12-16",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "twitter": "@aneventapart"
   }
 ]

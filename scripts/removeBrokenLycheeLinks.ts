@@ -15,15 +15,20 @@ for (const fileWithBrokenLinks of filesWithBrokenLinks) {
         if (errors.includes(conference.url)) {
             return false;
         }
-        if (errors.includes(conference.cfpUrl)) {
-            return false;
-        }
-        if (errors.includes(conference.cocUrl)) {
-            return false;
-        }
         return true;
     });
-    fs.writeFile(fileWithBrokenLinks, JSON.stringify(filteredConferences, null, 2), () => {
+    const cleanedAndFilteredConferences = filteredConferences.map((conference: any) => {
+        if (errors.includes(conference.cfpUrl)) {
+            delete conference.cfpUrl;
+            delete conference.cfpEndDate;
+
+        }
+        if (errors.includes(conference.cocUrl)) {
+            delete conference.cocUrl;
+        }
+        return conference;
+    });
+    fs.writeFile(fileWithBrokenLinks, JSON.stringify(cleanedAndFilteredConferences, null, 2), () => {
         console.log(`File ${fileWithBrokenLinks} was successfully reordered`);
     });
 }

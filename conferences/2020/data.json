@@ -1,13 +1,5 @@
 [
   {
-    "name": "7th International Conference on Artificial Intelligence and Applications (AIAPP)",
-    "url": "https://cosit2020.org/aiapp/index.html",
-    "startDate": "2020-01-25",
-    "endDate": "2020-01-26",
-    "city": "Zurich",
-    "country": "Switzerland"
-  },
-  {
     "name": "The Deep Learning Summit",
     "url": "https://www.re-work.co/summits/sanfrancisco-summit-2020",
     "startDate": "2020-01-30",
@@ -32,15 +24,6 @@
     "endDate": "2020-02-19",
     "city": "Heidelberg",
     "country": "Germany"
-  },
-  {
-    "name": "AI in Healthcare Qatar",
-    "url": "https://www.keynotic.com/AIHQ",
-    "startDate": "2020-03-02",
-    "endDate": "2020-03-02",
-    "city": "Doha",
-    "country": "Qatar",
-    "twitter": "@keynotic"
   },
   {
     "name": "Women in Data Science (WiDS)",
@@ -136,7 +119,6 @@
     "endDate": "2020-06-09",
     "city": "Berlin",
     "country": "Germany",
-    "cfpUrl": "https://berlinbuzzwords.de/call-submissions",
     "twitter": "@berlinbuzzwords"
   },
   {
@@ -238,16 +220,6 @@
     "twitter": "@Postgres_London"
   },
   {
-    "name": "PGDay Russia",
-    "url": "https://pgday.ru/en/2020",
-    "startDate": "2020-07-10",
-    "endDate": "2020-07-10",
-    "city": "Saint Petersburg",
-    "country": "Russia",
-    "cfpUrl": "https://pgday.ru/en/2020/for-speakers",
-    "cfpEndDate": "2020-04-06"
-  },
-  {
     "name": "9th International Conference on Data Mining & Knowledge Management Process (CDKP)",
     "url": "https://icaita2020.org/cdkp/index.html",
     "startDate": "2020-07-11",
@@ -328,16 +300,6 @@
     "city": "Atlanta, GA",
     "country": "U.S.A.",
     "twitter": "@southerndsc"
-  },
-  {
-    "name": "Kafka Summit",
-    "url": "https://events.kafka-summit.org/2020",
-    "startDate": "2020-08-24",
-    "endDate": "2020-08-25",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/kafka-summit-austin-2020",
-    "cfpEndDate": "2020-05-17",
-    "twitter": "@apachekafka"
   },
   {
     "name": "Fighting AI Bias with High-Quality Training Data",
@@ -449,15 +411,6 @@
     "online": true
   },
   {
-    "name": "AI Dev Day",
-    "url": "https://konf.me/addconf",
-    "startDate": "2020-09-25",
-    "endDate": "2020-09-25",
-    "online": true,
-    "cfpUrl": "http://konf.me/addcfp",
-    "cfpEndDate": "2020-09-10"
-  },
-  {
     "name": "International Conference on Data Mining and Software Engineering",
     "url": "https://dmse2020.org",
     "startDate": "2020-09-26",
@@ -508,8 +461,6 @@
     "endDate": "2020-10-09",
     "city": "Montevideo",
     "country": "Uruguay",
-    "cfpUrl": "https://latin-r.com/blog/presentacion-trabajos",
-    "cfpEndDate": "2020-04-30",
     "twitter": "@LatinR_Conf"
   },
   {
@@ -708,14 +659,5 @@
     "online": true,
     "offersSignLanguageOrCC": true,
     "twitter": "@ODSC"
-  },
-  {
-    "name": "DSS Virtual: Applying AI & Machine Learning to Finance & Technology",
-    "url": "https://www.datascience.salon/travel-finance-and-technology",
-    "startDate": "2020-12-08",
-    "endDate": "2020-12-11",
-    "online": true,
-    "cfpUrl": "https://formulatedby.typeform.com/to/cNIXwj",
-    "twitter": "@DataSciSalon"
   }
 ]

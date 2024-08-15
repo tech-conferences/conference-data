@@ -6,19 +6,7 @@
     "endDate": "2020-02-22",
     "city": "Bangalore",
     "country": "India",
-    "cfpUrl": "https://www.papercall.io/graphql-asia",
-    "cfpEndDate": "2019-10-15",
     "twitter": "@graphqlasia"
-  },
-  {
-    "name": "Hasura Con",
-    "url": "https://hasura.io/events/hasura-con-2020",
-    "startDate": "2020-06-03",
-    "endDate": "2020-06-10",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScW8-f8XBStaODlg_FgieTmtuv2XyqrvKYRBT7hzdmjHpVerw/viewform",
-    "cfpEndDate": "2020-05-08",
-    "twitter": "@hasurahq"
   },
   {
     "name": "API Conference Berlin",
@@ -29,15 +17,6 @@
     "country": "Germany",
     "cfpEndDate": "2020-05-19",
     "twitter": "@api_conference"
-  },
-  {
-    "name": "Enterprise GraphQL Conf",
-    "url": "https://hasura.io/enterprisegraphql",
-    "startDate": "2020-10-21",
-    "endDate": "2020-10-22",
-    "online": true,
-    "offersSignLanguageOrCC": false,
-    "cocUrl": "https://hasura.io/enterprisegraphql/code-of-conduct/"
   },
   {
     "name": "GraphQL Summit",

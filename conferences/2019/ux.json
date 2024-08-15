@@ -17,15 +17,6 @@
     "country": "Vietnam"
   },
   {
-    "name": "Invisible Talks",
-    "url": "https://invisibletalks.com/conference",
-    "startDate": "2019-01-17",
-    "endDate": "2019-01-17",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "twitter": "@invisibletalks"
-  },
-  {
     "name": "Toronto Design Offsite Festival",
     "url": "https://designto.org",
     "startDate": "2019-01-18",
@@ -183,15 +174,6 @@
     "country": "Russia"
   },
   {
-    "name": "An Event Apart",
-    "url": "https://aneventapart.com/event/seattle-2019",
-    "startDate": "2019-03-04",
-    "endDate": "2019-03-06",
-    "city": "Seattle, WA",
-    "country": "U.S.A.",
-    "twitter": "@aneventapart"
-  },
-  {
     "name": "Bogotá Design Festival",
     "url": "https://www.bogotadesignfestival.co",
     "startDate": "2019-03-05",
@@ -199,15 +181,6 @@
     "city": "Bogotá",
     "country": "Colombia",
     "twitter": "@BogDesignFest"
-  },
-  {
-    "name": "Service Design in Government",
-    "url": "https://govservicedesign.net/2019",
-    "startDate": "2019-03-06",
-    "endDate": "2019-03-08",
-    "city": "Edinburgh",
-    "country": "Scotland",
-    "twitter": "@sdingov"
   },
   {
     "name": "UX Camp Brighton",
@@ -243,15 +216,6 @@
     "city": "Cape Town",
     "country": "South Africa",
     "twitter": "@letspixelup"
-  },
-  {
-    "name": "ConveyUX",
-    "url": "https://conveyux.com/conveyux-seattle",
-    "startDate": "2019-03-12",
-    "endDate": "2019-03-13",
-    "city": "Seattle, WA",
-    "country": "U.S.A.",
-    "twitter": "@ConveyUX"
   },
   {
     "name": "IAC - Information Architecture Conference",
@@ -407,15 +371,6 @@
     "twitter": "@creativesouthga"
   },
   {
-    "name": "FinTech Design Summit",
-    "url": "https://fintechdesignsummit.com/london",
-    "startDate": "2019-04-12",
-    "endDate": "2019-04-12",
-    "city": "London",
-    "country": "U.K.",
-    "twitter": "@fdsummit"
-  },
-  {
     "name": "Smashing Conference",
     "url": "https://smashingconf.com/sf-2019/",
     "startDate": "2019-04-16",
@@ -458,15 +413,6 @@
     "city": "Washington, DC",
     "country": "U.S.A.",
     "twitter": "@nngroup"
-  },
-  {
-    "name": "People Nerds San Francisco",
-    "url": "https://dscout.com/people-nerds-sf-2019",
-    "startDate": "2019-05-01",
-    "endDate": "2019-05-01",
-    "city": "Chicago, IL",
-    "country": "U.S.A.",
-    "twitter": "@dscout"
   },
   {
     "name": "UX Burlington",
@@ -522,23 +468,12 @@
     "twitter": "@nngroup"
   },
   {
-    "name": "UX in the City",
-    "url": "https://uxinthecity.net/2019/manchester",
-    "startDate": "2019-05-14",
-    "endDate": "2019-05-15",
-    "city": "Manchester",
-    "country": "U.K.",
-    "twitter": "@uxcitymcr"
-  },
-  {
     "name": "John Slatin AccessU",
     "url": "https://knowbility.org/programs/accessu",
     "startDate": "2019-05-14",
     "endDate": "2019-05-17",
     "city": "Austin, TX",
     "country": "U.S.A.",
-    "cfpUrl": "https://knowbility.org/programs/accessu/2019/callforpapers/",
-    "cfpEndDate": "2019-02-01",
     "twitter": "@knowbility"
   },
   {
@@ -629,15 +564,6 @@
     "twitter": "@expfighters"
   },
   {
-    "name": "Enterprise UX",
-    "url": "https://rosenfeldmedia.com/eux2019",
-    "startDate": "2019-06-03",
-    "endDate": "2019-06-05",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "twitter": "@exconference"
-  },
-  {
     "name": "Webinale",
     "url": "https://webinale.de/en",
     "startDate": "2019-06-03",
@@ -679,15 +605,6 @@
     "endDate": "2019-06-12",
     "city": "Larnaca",
     "country": "Cyprus"
-  },
-  {
-    "name": "Pervasive Displays Symposium",
-    "url": "http://pervasivedisplays.org/2019",
-    "startDate": "2019-06-12",
-    "endDate": "2019-06-14",
-    "city": "Palermo",
-    "country": "Italy",
-    "twitter": "@PerDisAcm"
   },
   {
     "name": "UX Scotland",
@@ -859,15 +776,6 @@
     "twitter": "@uxcamphh"
   },
   {
-    "name": "An Event Apart",
-    "url": "https://aneventapart.com/event/washington-dc",
-    "startDate": "2019-07-29",
-    "endDate": "2019-07-31",
-    "city": "Washington, DC",
-    "country": "U.S.A.",
-    "twitter": "@aneventapart"
-  },
-  {
     "name": "UX & Digital Design Week",
     "url": "https://futurelondonacademy.co.uk/en/course/ux-and-digital-design",
     "startDate": "2019-08-12",
@@ -893,15 +801,6 @@
     "city": "Denver, CO",
     "country": "U.S.A.",
     "twitter": "@radsummit"
-  },
-  {
-    "name": "An Event Apart",
-    "url": "https://aneventapart.com/event/chicago-2019",
-    "startDate": "2019-08-26",
-    "endDate": "2019-08-28",
-    "city": "Chicagexas, IL",
-    "country": "U.S.A.",
-    "twitter": "@aneventapart"
   },
   {
     "name": "UX Australia",
@@ -990,15 +889,6 @@
     "country": "Australia"
   },
   {
-    "name": "The FinTech Design Summit",
-    "url": "http://www.fintechdesignsummit.com/new-york",
-    "startDate": "2019-10-03",
-    "endDate": "2019-10-03",
-    "city": "New York, NY",
-    "country": "U.S.A.",
-    "twitter": "@fdsummit"
-  },
-  {
     "name": "UX Designers Camp",
     "url": "https://www.uxdesignerscamp.com",
     "startDate": "2019-10-05",
@@ -1035,14 +925,6 @@
     "city": "Birmingham",
     "country": "U.K.",
     "twitter": "@canvasconf"
-  },
-  {
-    "name": "Midwest UX",
-    "url": "http://2019.midwestuxconference.com/",
-    "startDate": "2019-10-12",
-    "endDate": "2019-10-12",
-    "city": "Grand Rapids, MI",
-    "country": "U.S.A."
   },
   {
     "name": "UXcited",
@@ -1086,14 +968,6 @@
     "country": "U.S.A."
   },
   {
-    "name": "An Event Apart",
-    "url": "https://aneventapart.com/event/denver-2019",
-    "startDate": "2019-10-28",
-    "endDate": "2019-10-30",
-    "city": "Denver, CO",
-    "country": "U.S.A."
-  },
-  {
     "name": "JAM London",
     "url": "https://www.jamlondon.io/events/conferences/jam-london-2019",
     "startDate": "2019-10-31",
@@ -1101,15 +975,6 @@
     "city": "London",
     "country": "U.K.",
     "twitter": "@makingjam"
-  },
-  {
-    "name": "IxDA - Interaction Latin America",
-    "url": "http://ila.ixda.org/2019",
-    "startDate": "2019-10-31",
-    "endDate": "2019-11-02",
-    "city": "Medellín",
-    "country": "Colombia",
-    "twitter": "@ixdamedellin"
   },
   {
     "name": "CanUX",
@@ -1176,15 +1041,6 @@
     "twitter": "@SthlmXperience"
   },
   {
-    "name": "Product Management Festival",
-    "url": "https://productmanagementfestival.com/zurich/",
-    "startDate": "2019-11-14",
-    "endDate": "2019-11-15",
-    "city": "Zurich",
-    "country": "Switzerland",
-    "twitter": "@ProdMgmtF"
-  },
-  {
     "name": "Mobile UX London Conference",
     "url": "https://mobileuxlondon.com",
     "startDate": "2019-11-21",
@@ -1203,24 +1059,6 @@
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdMlydittpPpWLcd0tiDqadmAoaQv2nD8F8w4esqwdyKQt1aw/viewform",
     "cfpEndDate": "2019-09-15",
     "twitter": "@wearewebclerks"
-  },
-  {
-    "name": "UX Summit",
-    "url": "http://interaction-designba.org/ux-summit-19",
-    "startDate": "2019-12-07",
-    "endDate": "2019-12-07",
-    "city": "Buenos Aires",
-    "country": "Argentina",
-    "twitter": "@IDF_BsAs"
-  },
-  {
-    "name": "An Event Apart",
-    "url": "https://aneventapart.com/event/san-francisco-2019",
-    "startDate": "2019-12-09",
-    "endDate": "2019-12-11",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "twitter": "@aneventapart"
   },
   {
     "name": "Voice Conference",
