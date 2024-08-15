@@ -9,15 +9,6 @@
     "twitter": "@ShmooConPuzzle"
   },
   {
-    "name": "AppSec California",
-    "url": "https://2019.appseccalifornia.org/",
-    "startDate": "2019-01-22",
-    "endDate": "2019-01-25",
-    "city": "Santa Monica, CA",
-    "country": "U.S.A.",
-    "twitter": "@AppSecCali"
-  },
-  {
     "name": "QuBit Belgrade",
     "url": "https://belgrade.qubitconference.com",
     "startDate": "2019-02-06",
@@ -27,16 +18,6 @@
     "cfpUrl": "https://belgrade.qubitconference.com/speaking-bureau/",
     "cfpEndDate": "2019-01-15",
     "twitter": "@QuBitCon"
-  },
-  {
-    "name": "DevSecCon Singapore",
-    "url": "https://www.devseccon.com/singapore-2019",
-    "startDate": "2019-02-28",
-    "endDate": "2019-03-01",
-    "city": "Singapore",
-    "country": "Singapore",
-    "cfpUrl": "https://www.devseccon.com/call-for-proposals/",
-    "twitter": "@devseccon"
   },
   {
     "name": "nullcon",
@@ -94,14 +75,6 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "twitter": "@ieeessp"
-  },
-  {
-    "name": "ITWeb Security Summit",
-    "url": "https://v2.itweb.co.za/event/itweb/security-summit-2019",
-    "startDate": "2019-05-23",
-    "endDate": "2019-05-24",
-    "city": "Cape Town",
-    "country": "South Africa"
   },
   {
     "name": "OWASP Global AppSec Tel Aviv",
@@ -165,18 +138,7 @@
     "endDate": "2019-09-06",
     "city": "Mountain View, CA",
     "country": "U.S.A.",
-    "cfpUrl": "https://easychair.org/cfp/osfc2019",
-    "cfpEndDate": "2019-06-15",
     "twitter": "@osfc_io"
-  },
-  {
-    "name": "BalCCon",
-    "url": "https://2k19.balccon.org/index.php",
-    "startDate": "2019-09-13",
-    "endDate": "2019-09-15",
-    "city": "Novi Sad",
-    "country": "Serbia",
-    "twitter": "@balcc0n"
   },
   {
     "name": "hardwear.io",
@@ -212,8 +174,6 @@
     "endDate": "2019-10-09",
     "city": "Kuala Lumpur",
     "country": "Malaysia",
-    "cfpUrl": "https://www.nanosec.asia/cfp/",
-    "cfpEndDate": "2019-03-31",
     "twitter": "@nanosec_asia"
   },
   {
@@ -223,8 +183,6 @@
     "endDate": "2019-10-10",
     "city": "San Jose, CA",
     "country": "U.S.A.",
-    "cfpUrl": "https://www.armtechcon.com/call-for-papers",
-    "cfpEndDate": "2019-04-29",
     "twitter": "@Arm"
   },
   {
@@ -251,8 +209,6 @@
     "endDate": "2019-10-15",
     "city": "Nitra",
     "country": "Slovakia",
-    "cfpUrl": "https://drivingdigital.org/#speakers",
-    "cfpEndDate": "2019-07-10",
     "twitter": "@QuBitCon"
   },
   {
@@ -300,13 +256,5 @@
     "endDate": "2019-12-07",
     "city": "Cape Town",
     "country": "South Africa"
-  },
-  {
-    "name": "DevSecOps Days Austin, TX",
-    "url": "https://www.devsecopsdays.com/2019-devsecopsdays-austin",
-    "startDate": "2019-12-16",
-    "endDate": "2019-12-16",
-    "city": "Austin, TX",
-    "country": "U.S.A."
   }
 ]

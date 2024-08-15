@@ -29,8 +29,6 @@
     "country": "Sweden",
     "online": true,
     "cocUrl": "https://www.jfokus.se/articles/code-of-conduct",
-    "cfpUrl": "https://www.jfokus.se/iamahero",
-    "cfpEndDate": "2022-09-30",
     "twitter": "@Jfokus"
   },
   {
@@ -68,8 +66,6 @@
     "online": false,
     "locales": "EN",
     "cocUrl": "https://romania.voxxeddays.com",
-    "cfpUrl": "https://vdbuh23.cfp.dev/#",
-    "cfpEndDate": "2023-01-15",
     "twitter": "@VoxxedBucharest"
   },
   {
@@ -118,8 +114,6 @@
     "online": true,
     "locales": "EN",
     "cocUrl": "https://j-sa.co/code-of-conduct/",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScpi9ZE3FKDai5fiXvtanqe_N5PgTUItp030zbS0Q5QM-IA7g/viewform",
-    "cfpEndDate": "2023-02-05",
     "twitter": "@JavaAfrica"
   },
   {
@@ -239,18 +233,6 @@
     "mastodon": "@JavaForumNord@ijug.social"
   },
   {
-    "name": "WeAreDevelopers Java Developer Day",
-    "url": "https://www.wearedevelopers.com/event/java-developer-day-september-2023",
-    "startDate": "2023-09-13",
-    "endDate": "2023-09-13",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=Exercise%20consideration%20and%20respect%20in,and%20of%20your%20fellow%20participants.",
-    "cfpUrl": "https://sessionize.com/wearedevelopers-live-2023-season-6",
-    "cfpEndDate": "2023-08-21",
-    "twitter": "@WeAreDevs"
-  },
-  {
     "name": "New England Software Symposium",
     "url": "https://nofluffjuststuff.com/boston",
     "startDate": "2023-09-22",
@@ -332,8 +314,6 @@
     "online": true,
     "locales": "EN",
     "cocUrl": "https://j-sa.co/code-of-conduct/",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScpi9ZE3FKDai5fiXvtanqe_N5PgTUItp030zbS0Q5QM-IA7g/viewform",
-    "cfpEndDate": "2023-02-05",
     "twitter": "@JavaAfrica"
   },
   {
@@ -345,8 +325,6 @@
     "country": "Romania",
     "online": false,
     "locales": "EN",
-    "cfpUrl": "https://vdcluj23.cfp.dev/#",
-    "cfpEndDate": "2023-08-05",
     "twitter": "@VoxxedCluj"
   },
   {
@@ -443,8 +421,6 @@
     "online": true,
     "locales": "EN",
     "cocUrl": "https://cloud-builders.tech/legal-docs/code-of-conduct/",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf5H5pa8mW3IO_mBGJgE97yh5r76A0IwOGt6s8gUXByH25OsQ/viewform",
-    "cfpEndDate": "2023-11-23",
     "twitter": "@cloudbuildersua",
     "mastodon": "@CloudBuildersUA@mastodon.social"
   },

@@ -104,17 +104,5 @@
     "country": "Netherlands",
     "online": true,
     "twitter": "@perfnowconf"
-  },
-  {
-    "name": "QCon",
-    "url": "https://qconsf.com/medialisting2024",
-    "startDate": "2024-11-18",
-    "endDate": "2024-11-22",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://qconferences.com/code-conduct",
-    "mastodon": "@qcon@techhub.social"
   }
 ]

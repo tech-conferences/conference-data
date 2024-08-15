@@ -43,8 +43,6 @@
     "country": "U.S.A.",
     "online": true,
     "cocUrl": "https://that.us/support/code-of-conduct/",
-    "cfpUrl": "https://that.us/call-for-counselors/tx/2023",
-    "cfpEndDate": "2022-10-01",
     "twitter": "@thatconference"
   },
   {
@@ -71,16 +69,6 @@
     "cfpUrl": "https://conference-hall.io/public/event/ZGJWM1x64evaNUzycEzn",
     "cfpEndDate": "2022-10-15",
     "twitter": "@SnowCampIO"
-  },
-  {
-    "name": "Refresh",
-    "url": "https://refresh.rocks/",
-    "startDate": "2023-01-26",
-    "endDate": "2023-01-27",
-    "city": "Tartu",
-    "country": "Estonia",
-    "online": false,
-    "twitter": "@RefreshRocks"
   },
   {
     "name": "VeryTechTrip",
@@ -160,8 +148,6 @@
     "endDate": "2023-02-16",
     "online": true,
     "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "cfpUrl": "https://www.papercall.io/conf42-chaos-engineering-2023",
-    "cfpEndDate": "2023-01-16",
     "twitter": "@conf42com"
   },
   {
@@ -176,28 +162,6 @@
     "cfpUrl": "https://confoo.ca/en/2023/call-for-papers",
     "cfpEndDate": "2022-10-06",
     "twitter": "@confooca"
-  },
-  {
-    "name": "International Conference On Advances In Intelligent Systems and Computing",
-    "url": "http://www.labtechinnovations.com/events/confernce/ICAISC/index.php",
-    "startDate": "2023-02-27",
-    "endDate": "2023-02-28",
-    "online": true,
-    "locales": "EN",
-    "offersSignLanguageOrCC": true,
-    "cfpUrl": "http://www.labtechinnovations.com/events/confernce/ICAISC/call-for-paper.php",
-    "cfpEndDate": "2023-02-15"
-  },
-  {
-    "name": "WeAreDevelopers Women in Tech Day",
-    "url": "https://www.wearedevelopers.com/event/women-in-tech-day-march-2023",
-    "startDate": "2023-03-08",
-    "endDate": "2023-03-08",
-    "online": true,
-    "locales": "EN",
-    "cfpUrl": "https://sessionize.com/wearedevelopers-live-2023",
-    "cfpEndDate": "2023-03-07",
-    "twitter": "@WeAreDevs"
   },
   {
     "name": "SCaLE 20x",
@@ -306,7 +270,6 @@
     "city": "Barcelona",
     "country": "Spain",
     "online": false,
-    "cocUrl": "https://wasmio.tech/coc",
     "cfpUrl": "https://www.papercall.io/wasmio23",
     "cfpEndDate": "2023-01-17",
     "twitter": "@wasm_io"
@@ -356,8 +319,7 @@
     "city": "Lagos",
     "country": "Nigeria",
     "online": true,
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://techuniteafrica.com/terms-conditions/"
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "Cloud Builders: Java Conf",
@@ -366,7 +328,6 @@
     "endDate": "2023-03-30",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://www.cloud-builders.tech/code-of-conduct",
     "twitter": "@cloudbuildersua"
   },
   {
@@ -469,8 +430,6 @@
     "online": false,
     "locales": "EN",
     "cocUrl": "https://saltmarch.com/code-of-conduct",
-    "cfpUrl": "https://developersummit.wufoo.com/forms/gids-2023-call-for-proposals",
-    "cfpEndDate": "2022-11-10",
     "twitter": "@developersummit"
   },
   {
@@ -492,22 +451,7 @@
     "endDate": "2023-05-04",
     "online": true,
     "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "cfpUrl": "https://www.papercall.io/conf42-sre-2023",
-    "cfpEndDate": "2023-04-04",
     "twitter": "@conf42com"
-  },
-  {
-    "name": "MTUG I.T. Summit and Tradeshow",
-    "url": "https://www.mtug.org/techsummit",
-    "startDate": "2023-05-04",
-    "endDate": "2023-05-04",
-    "city": "Portland, ME",
-    "country": "U.S.A.",
-    "online": false,
-    "locales": "EN",
-    "cfpUrl": "https://www.mtug.org/workshopRFP-summit",
-    "cfpEndDate": "2023-03-03",
-    "twitter": "@MTUG_Maine"
   },
   {
     "name": "Stir Trek",
@@ -547,36 +491,12 @@
     "twitter": "@CodemoMadrid"
   },
   {
-    "name": "Remix Conf",
-    "url": "https://remix.run/conf",
-    "startDate": "2023-05-09",
-    "endDate": "2023-05-11",
-    "city": "Salt Lake City, UT",
-    "country": "U.S.A.",
-    "online": true,
-    "locales": "EN",
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://remix.run/conf/2023/coc",
-    "cfpUrl": "https://sessionize.com/remix-2023",
-    "cfpEndDate": "2023-02-08",
-    "twitter": "@remix_run"
-  },
-  {
     "name": "WomenTech Global Conference",
     "url": "https://www.womentech.net/women-tech-conference",
     "startDate": "2023-05-09",
     "endDate": "2023-05-11",
     "online": true,
     "twitter": "@womentechnet"
-  },
-  {
-    "name": "Student Day",
-    "url": "https://www.wearedevelopers.com/event/student-day-may-2023",
-    "startDate": "2023-05-10",
-    "endDate": "2023-05-10",
-    "online": true,
-    "locales": "EN",
-    "twitter": "@WeAreDevelopers"
   },
   {
     "name": "Open Source Summit North America",
@@ -683,22 +603,7 @@
     "online": true,
     "locales": "EN",
     "offersSignLanguageOrCC": true,
-    "cocUrl": "https://business.adobe.com/events/developers-live-code-of-conduct.html",
     "twitter": "@adobedevs"
-  },
-  {
-    "name": "Dev Conf Cape Town",
-    "url": "https://www.devconf.co.za/capetown",
-    "startDate": "2023-05-23",
-    "endDate": "2023-05-23",
-    "city": "Cape Town",
-    "country": "South Africa",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://www.devconf.co.za/codeofconduct",
-    "cfpUrl": "https://sessionize.com/devconf-2023",
-    "cfpEndDate": "2023-01-17",
-    "twitter": "@devconfza"
   },
   {
     "name": "Microsoft Build",
@@ -761,51 +666,6 @@
     "twitter": "@uxlx"
   },
   {
-    "name": "Web3 Day",
-    "url": "https://www.wearedevelopers.com/event/web3-day-may-2023",
-    "startDate": "2023-05-24",
-    "endDate": "2023-05-24",
-    "online": true,
-    "locales": "EN",
-    "twitter": "@WeAreDevs"
-  },
-  {
-    "name": "Heroes of Data Privacy",
-    "url": "https://www.heroesofdataprivacy.com/index.html",
-    "startDate": "2023-05-24",
-    "endDate": "2023-05-25",
-    "city": "Vienna",
-    "country": "Austria",
-    "online": false,
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "Dev Conf Pretoria",
-    "url": "https://www.devconf.co.za/pretoria",
-    "startDate": "2023-05-25",
-    "endDate": "2023-05-25",
-    "city": "Pretoria",
-    "country": "South Africa",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://www.devconf.co.za/codeofconduct",
-    "cfpUrl": "https://sessionize.com/devconf-2023",
-    "cfpEndDate": "2023-01-17",
-    "twitter": "@devconfza"
-  },
-  {
-    "name": "Laserfiche Empower",
-    "url": "https://event.laserfiche.com/Empower23LongBeach",
-    "startDate": "2023-05-31",
-    "endDate": "2023-06-01",
-    "city": "Long Beach, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
-  },
-  {
     "name": "RenderATL",
     "url": "https://www.renderatl.com",
     "startDate": "2023-05-31",
@@ -813,7 +673,6 @@
     "city": "Atlanta, GA",
     "country": "U.S.A.",
     "online": false,
-    "cocUrl": "https://www.renderatl.com/codepolicy",
     "twitter": "@RenderATL"
   },
   {
@@ -836,19 +695,6 @@
     "country": "U.S.A.",
     "online": false,
     "twitter": "@EP_NATES"
-  },
-  {
-    "name": "DrupalCon",
-    "url": "https://events.drupal.org/drupalcon",
-    "startDate": "2023-06-05",
-    "endDate": "2023-06-08",
-    "city": "Pittsburgh, PA",
-    "country": "U.S.A.",
-    "online": false,
-    "locales": "EN",
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://events.drupal.org/code-conduct",
-    "twitter": "@drupalcon"
   },
   {
     "name": "Blockchain Community Day",
@@ -878,8 +724,6 @@
     "endDate": "2023-06-08",
     "online": true,
     "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "cfpUrl": "https://www.papercall.io/conf42-observability-2023",
-    "cfpEndDate": "2023-05-08",
     "twitter": "@conf42com"
   },
   {
@@ -979,8 +823,6 @@
     "online": false,
     "locales": "EN,DE",
     "cocUrl": "https://2023.europe.jcon.one/code-of-conduct",
-    "cfpUrl": "https://2023.europe.jcon.one/call-for-papers",
-    "cfpEndDate": "2023-01-31",
     "twitter": "@jcon_conference"
   },
   {
@@ -1080,8 +922,6 @@
     "endDate": "2023-06-29",
     "online": true,
     "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "cfpUrl": "https://www.papercall.io/conf42-quantum-computing-2023",
-    "cfpEndDate": "2023-05-29",
     "twitter": "@conf42com"
   },
   {
@@ -1093,7 +933,6 @@
     "country": "Spain",
     "online": false,
     "locales": "EN,ES",
-    "cocUrl": "https://www.devbcn.com/codeOfConduct",
     "twitter": "@dev_bcn"
   },
   {
@@ -1117,9 +956,6 @@
     "country": "Canada",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://www.refactorconf.com/dx#/conduct",
-    "cfpUrl": "https://www.papercall.io/refactor-dx-2023",
-    "cfpEndDate": "2023-05-31",
     "twitter": "@refactorconf"
   },
   {
@@ -1153,8 +989,6 @@
     "online": true,
     "locales": "EN",
     "cocUrl": "https://that.us/support/code-of-conduct/",
-    "cfpUrl": "https://that.us/call-for-counselors/wi/2023",
-    "cfpEndDate": "2023-03-01",
     "twitter": "@thatconference"
   },
   {
@@ -1222,18 +1056,6 @@
     "cfpUrl": "https://amegala.com/#/cfp/indycode/2023",
     "cfpEndDate": "2023-04-30",
     "twitter": "@amegala"
-  },
-  {
-    "name": "World Conference on Computer and Information Technology",
-    "url": "https://www.steconf.org/conference/world-conference-on-computer-and-information-technology",
-    "startDate": "2023-08-11",
-    "endDate": "2023-08-12",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "locales": "EN",
-    "cfpUrl": "https://www.steconf.org/conference/world-conference-on-computer-and-information-technology/#topics",
-    "cfpEndDate": "2023-07-21"
   },
   {
     "name": "DeveloperWeek CloudX",
@@ -1501,8 +1323,6 @@
     "locales": "EN",
     "offersSignLanguageOrCC": true,
     "cocUrl": "https://www.thestrangeloop.com/policies.html#coc",
-    "cfpUrl": "https://thestrangeloop.com/cfp.html",
-    "cfpEndDate": "2023-04-30",
     "twitter": "@strangeloop_stl"
   },
   {
@@ -1603,16 +1423,6 @@
     "twitter": "@PNSQC"
   },
   {
-    "name": "ChefConf",
-    "url": "https://www.chef.io/chefconf",
-    "startDate": "2023-10-12",
-    "endDate": "2023-10-13",
-    "online": true,
-    "locales": "EN",
-    "cfpUrl": "https://sessionize.com/chefconf-23-Germany",
-    "cfpEndDate": "2023-06-16"
-  },
-  {
     "name": "RTC.On",
     "url": "https://rtcon.live",
     "startDate": "2023-10-12",
@@ -1647,8 +1457,6 @@
     "online": true,
     "locales": "ES",
     "cocUrl": "https://codear.org/coc",
-    "cfpUrl": "https://webconf.tech/cfp",
-    "cfpEndDate": "2023-09-01",
     "twitter": "@WebConfLATAM"
   },
   {
@@ -1696,8 +1504,6 @@
     "endDate": "2023-10-19",
     "online": true,
     "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "cfpUrl": "https://www.papercall.io/conf42-incident-management-2023",
-    "cfpEndDate": "2023-09-19",
     "twitter": "@conf42com"
   },
   {
@@ -1901,14 +1707,6 @@
     "twitter": "@DevfestSXB"
   },
   {
-    "name": "Machine Learning Day",
-    "url": "https://www.wearedevelopers.com/event/machine-learning-day-november-2023",
-    "startDate": "2023-11-15",
-    "endDate": "2023-11-15",
-    "online": true,
-    "locales": "EN"
-  },
-  {
     "name": "Italian Agile Days",
     "url": "https://www.agileday.it",
     "startDate": "2023-11-17",
@@ -1968,14 +1766,6 @@
     "locales": "EN",
     "cfpUrl": "https://sessionize.com/software-architecture-gathering-2023",
     "cfpEndDate": "2023-06-15"
-  },
-  {
-    "name": "WebDev Day",
-    "url": "https://www.wearedevelopers.com/event/webdev-day-november-2023",
-    "startDate": "2023-11-29",
-    "endDate": "2023-11-29",
-    "online": true,
-    "locales": "EN"
   },
   {
     "name": "Open Source Experience",

@@ -114,7 +114,6 @@
     "endDate": "2024-03-21",
     "online": true,
     "locales": "DE",
-    "cocUrl": "https://www.mastering-gitops.de/code_of_conduct.php",
     "cfpUrl": "https://mastering-gitops.de/cfp.php",
     "cfpEndDate": "2023-11-09",
     "twitter": "@ConfLifecycle"
@@ -538,9 +537,6 @@
     "country": "Spain",
     "online": false,
     "locales": "EN,ES",
-    "cocUrl": "https://devbcn.com/codeOfConduct",
-    "cfpUrl": "http://devbcn.com/cfp",
-    "cfpEndDate": "2024-04-01",
     "twitter": "@devbcn"
   },
   {
@@ -1030,9 +1026,7 @@
     "city": "Mannheim",
     "country": "Germany",
     "online": false,
-    "locales": "DE",
-    "cfpUrl": "https://www.continuouslifecycle.de/cfp.php",
-    "cfpEndDate": "2024-05-05"
+    "locales": "DE"
   },
   {
     "name": "Devops Barcelona",
@@ -1047,18 +1041,6 @@
     "cfpUrl": "https://devops.barcelona/call-for-papers",
     "cfpEndDate": "2024-06-30",
     "twitter": "@devopsbarcelona"
-  },
-  {
-    "name": "QCon San Francisco",
-    "url": "https://qconsf.com",
-    "startDate": "2024-11-18",
-    "endDate": "2024-11-22",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://qconferences.com/code-conduct",
-    "twitter": "@qcon"
   },
   {
     "name": "Agile Testing Days",

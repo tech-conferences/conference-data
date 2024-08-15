@@ -6,7 +6,6 @@
     "endDate": "2018-01-29",
     "city": "Paris",
     "country": "France",
-    "cfpUrl": "https://www.dotswift.io/LT",
     "twitter": "@dotSwift"
   },
   {
@@ -34,28 +33,12 @@
     "country": "Japan"
   },
   {
-    "name": "MobileTech",
-    "url": "https://mobiletechcon.de/en",
-    "startDate": "2018-03-12",
-    "endDate": "2018-03-14",
-    "city": "Munich",
-    "country": "Germany"
-  },
-  {
     "name": "Appdevcon",
     "url": "http://appdevcon.nl",
     "startDate": "2018-03-15",
     "endDate": "2018-03-16",
     "city": "Amsterdam",
     "country": "Netherlands"
-  },
-  {
-    "name": "iOSCon",
-    "url": "https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers",
-    "startDate": "2018-03-22",
-    "endDate": "2018-03-23",
-    "city": "London",
-    "country": "U.K."
   },
   {
     "name": "RWDevCon",
@@ -87,9 +70,7 @@
     "startDate": "2018-05-13",
     "endDate": "2018-05-16",
     "city": "Berlin",
-    "country": "Germany",
-    "cfpUrl": "http://cfp.uikonf.com/about",
-    "cfpEndDate": "2018-03-08"
+    "country": "Germany"
   },
   {
     "name": "WWDC",
@@ -143,17 +124,6 @@
     "twitter": "@addconf"
   },
   {
-    "name": "/dev/world",
-    "url": "http://devworld.com.au/",
-    "startDate": "2018-08-26",
-    "endDate": "2018-08-28",
-    "city": "Melbourne",
-    "country": "Australia",
-    "cfpUrl": "http://devworld.com.au/#cfp",
-    "cfpEndDate": "2018-05-15",
-    "twitter": "@AUC_ANZ"
-  },
-  {
     "name": "360|iDev",
     "url": "http://360idev.com",
     "startDate": "2018-08-26",
@@ -195,8 +165,6 @@
     "endDate": "2018-09-14",
     "city": "Berlin",
     "country": "Germany",
-    "cfpUrl": "https://goo.gl/forms/tQ7X5RSwf3f7CNKN2",
-    "cfpEndDate": "2018-06-15",
     "twitter": "@SwiftServerConf"
   },
   {
@@ -224,16 +192,6 @@
     "city": "Kraków",
     "country": "Poland",
     "twitter": "@mobiconf"
-  },
-  {
-    "name": "AppsConf",
-    "url": "http://appsconf.ru/2018",
-    "startDate": "2018-10-08",
-    "endDate": "2018-10-09",
-    "city": "Moscow",
-    "country": "Russia",
-    "cfpUrl": "https://onticoconferences.typeform.com/to/Rb1GCj",
-    "cfpEndDate": "2018-08-03"
   },
   {
     "name": "Swift by Northwest",

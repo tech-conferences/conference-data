@@ -65,15 +65,6 @@
     "twitter": "@MindtheProduct"
   },
   {
-    "name": "Leading the Product",
-    "url": "https://www.leadingtheproduct.com/ltp-conference-apac",
-    "startDate": "2021-05-26",
-    "endDate": "2021-05-26",
-    "online": true,
-    "cocUrl": "https://www.leadingtheproduct.com/website-terms-conditions/",
-    "twitter": "@LTP_AUS"
-  },
-  {
     "name": "Integrate Remote - Microsoft Integration Conference",
     "url": "https://www.biztalk360.com/integrate-2021-remote",
     "startDate": "2021-06-01",
@@ -115,9 +106,6 @@
     "startDate": "2021-09-08",
     "endDate": "2021-09-09",
     "online": true,
-    "cocUrl": "https://skillsmatter.com/go/code-of-conduct",
-    "cfpUrl": "https://skillsmatter.com/conferences/13255-p3x-2021#get_involved",
-    "cfpEndDate": "2021-05-28",
     "twitter": "@skillsmatter"
   },
   {
@@ -136,14 +124,6 @@
     "offersSignLanguageOrCC": true,
     "cocUrl": "https://businessofsoftware.org/2017/07/business-software-conference-code-conduct/",
     "twitter": "@bosconference"
-  },
-  {
-    "name": "LTP DIGITAL USA",
-    "url": "https://www.leadingtheproduct.com/conference/usa/ltp2021",
-    "startDate": "2021-11-09",
-    "endDate": "2021-11-09",
-    "online": true,
-    "offersSignLanguageOrCC": true
   },
   {
     "name": "Product Owner Day",
@@ -170,7 +150,6 @@
     "url": "https://www.postgresbuild.com",
     "startDate": "2021-11-30",
     "endDate": "2021-12-01",
-    "online": true,
-    "cocUrl": "https://www.postgresbuild.com/code-of-conduct"
+    "online": true
   }
 ]

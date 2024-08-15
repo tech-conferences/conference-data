@@ -124,21 +124,6 @@
     "twitter": "@rejektsio"
   },
   {
-    "name": "Cloud Native Summit",
-    "url": "https://cloudnativesummit.online/",
-    "startDate": "2020-04-07",
-    "endDate": "2020-04-07",
-    "online": true
-  },
-  {
-    "name": "All Day DevOps",
-    "url": "https://www.alldaydevops.com/spring-break",
-    "startDate": "2020-04-17",
-    "endDate": "2020-04-17",
-    "online": true,
-    "twitter": "@alldaydevops"
-  },
-  {
     "name": "Red Hat Summit",
     "url": "https://www.redhat.com/en/summit",
     "startDate": "2020-04-28",
@@ -185,24 +170,6 @@
     "twitter": "@CloudBees"
   },
   {
-    "name": "Container Camp",
-    "url": "https://2020.container.camp/web",
-    "startDate": "2020-05-22",
-    "endDate": "2020-05-22",
-    "online": true,
-    "cfpUrl": "https://containercamp.typeform.com/to/P7EG6i",
-    "cfpEndDate": "2020-04-20",
-    "twitter": "@containercamp"
-  },
-  {
-    "name": "Docker Con Live",
-    "url": "https://docker.events.cube365.net/docker/dockercon",
-    "startDate": "2020-05-29",
-    "endDate": "2020-05-29",
-    "online": true,
-    "twitter": "@DockerCon"
-  },
-  {
     "name": "ChefConf Seattle + ChefConf London Online",
     "url": "https://chefconf.io",
     "startDate": "2020-06-02",
@@ -241,14 +208,6 @@
     "startDate": "2020-06-17",
     "endDate": "2020-06-18",
     "online": true
-  },
-  {
-    "name": "HashiConf Digital",
-    "url": "https://hashiconf.com/digital/",
-    "startDate": "2020-06-22",
-    "endDate": "2020-06-24",
-    "online": true,
-    "twitter": "@HashiConf"
   },
   {
     "name": "DevOpsCon",
@@ -357,19 +316,7 @@
     "url": "https://devopsindiasummit.com",
     "startDate": "2020-09-09",
     "endDate": "2020-09-09",
-    "online": true,
-    "cfpUrl": "https://devopsindiasummit.com/call-for-speakers",
-    "cfpEndDate": "2020-05-15"
-  },
-  {
-    "name": "DeveloperWeek DC",
-    "url": "https://www.developerweek.com/DC",
-    "startDate": "2020-09-15",
-    "endDate": "2020-09-16",
-    "city": "Washington, DC",
-    "country": "U.S.A.",
-    "cfpUrl": "https://www.developerweek.com/DC/conference/apply-to-speak",
-    "twitter": "@DevWeekDC"
+    "online": true
   },
   {
     "name": "DevSecOps SKILup Day",
@@ -429,8 +376,7 @@
     "startDate": "2020-10-03",
     "endDate": "2020-10-03",
     "city": "Castelo Branco",
-    "country": "Portugal",
-    "cocUrl": "http://speaking.aidicb.pt/anti-harrassment-policy"
+    "country": "Portugal"
   },
   {
     "name": "Chaos Conf",
@@ -469,15 +415,6 @@
     "twitter": "@devops_con"
   },
   {
-    "name": "HashiConf US",
-    "url": "https://hashiconf.com/us",
-    "startDate": "2020-10-12",
-    "endDate": "2020-10-15",
-    "online": true,
-    "cocUrl": "https://hashiconf.com/digital-october/code-of-conduct/",
-    "twitter": "@hashiconf"
-  },
-  {
     "name": "DevOps Enterprise Summit",
     "url": "https://events.itrevolution.com/virtual/",
     "startDate": "2020-10-13",
@@ -509,8 +446,7 @@
     "url": "https://devopsfest.ru",
     "startDate": "2020-11-06",
     "endDate": "2020-11-07",
-    "online": true,
-    "cocUrl": "https://2020.devopsfest.ru/en-code-of-conduct"
+    "online": true
   },
   {
     "name": "All Day DevOps",
@@ -538,16 +474,6 @@
     "online": true,
     "cocUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/attend/code-of-conduct/",
     "twitter": "@CloudNativeFdn"
-  },
-  {
-    "name": "Continuous Lifecycle: Continuous Delivery Day",
-    "url": "https://www.continuouslifecycle.de/continuous_delivery.php",
-    "startDate": "2020-11-24",
-    "endDate": "2020-11-24",
-    "online": true,
-    "offersSignLanguageOrCC": false,
-    "cocUrl": "https://www.continuouslifecycle.de/code_of_conduct.php",
-    "twitter": "@ConLifecycle"
   },
   {
     "name": "fin:CODE",
@@ -588,16 +514,6 @@
     "offersSignLanguageOrCC": false
   },
   {
-    "name": "Continuous Lifecycle: Container Deep Dive",
-    "url": "https://www.continuouslifecycle.de/container.php",
-    "startDate": "2020-12-09",
-    "endDate": "2020-12-09",
-    "online": true,
-    "offersSignLanguageOrCC": false,
-    "cocUrl": "https://www.continuouslifecycle.de/code_of_conduct.php",
-    "twitter": "@ConLifecycle"
-  },
-  {
     "name": "Community Summit TLV",
     "url": "https://tlvcommunity.dev",
     "startDate": "2020-12-17",
@@ -605,8 +521,6 @@
     "online": true,
     "offersSignLanguageOrCC": false,
     "cocUrl": "https://tlvcommunity.dev/code-of-conduct.html",
-    "cfpUrl": "https://tlvcommunity.dev/call-for-papers.html",
-    "cfpEndDate": "2020-11-12",
     "twitter": "@devopsdaystlv"
   }
 ]

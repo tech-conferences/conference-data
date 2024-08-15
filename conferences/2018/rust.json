@@ -1,32 +1,5 @@
 [
   {
-    "name": "RustFest Paris",
-    "url": "http://rustfest.eu/",
-    "startDate": "2018-05-26",
-    "endDate": "2018-05-27",
-    "city": "Paris",
-    "country": "France",
-    "twitter": "@rustfest"
-  },
-  {
-    "name": "RustConf",
-    "url": "http://rustconf.com/",
-    "startDate": "2018-08-16",
-    "endDate": "2018-08-17",
-    "city": "Portland, OR",
-    "country": "U.S.A.",
-    "twitter": "@rustconf"
-  },
-  {
-    "name": "Code Mesh LDN",
-    "url": "https://codesync.global/conferences/code-mesh-2018",
-    "startDate": "2018-11-08",
-    "endDate": "2018-11-09",
-    "city": "London",
-    "country": "U.K.",
-    "twitter": "@CodeMeshIO"
-  },
-  {
     "name": "RustFest Rome",
     "url": "https://rome.rustfest.eu",
     "startDate": "2018-11-24",

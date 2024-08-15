@@ -42,14 +42,6 @@
     "twitter": "@ux_istanbul"
   },
   {
-    "name": "Design Indaba",
-    "url": "http://www.designindaba.com/events/design-indaba-conference-2018",
-    "startDate": "2018-02-21",
-    "endDate": "2018-02-23",
-    "city": "Cape Town",
-    "country": "South Africa"
-  },
-  {
     "name": "World Information Architecture Day",
     "url": "http://2018.wiadswitzerland.org",
     "startDate": "2018-02-23",
@@ -81,18 +73,7 @@
     "endDate": "2018-03-03",
     "city": "Salzburg",
     "country": "Austria",
-    "cfpUrl": "https://2018.conc.at/#cfp",
-    "cfpEndDate": "2017-12-01",
     "twitter": "@conc_at"
-  },
-  {
-    "name": "ACM IUI",
-    "url": "http://iui.acm.org/2018",
-    "startDate": "2018-03-07",
-    "endDate": "2018-03-11",
-    "city": "Tokyo",
-    "country": "Japan",
-    "twitter": "@acmiui"
   },
   {
     "name": "ReactFest",
@@ -167,15 +148,6 @@
     "country": "Indonesia"
   },
   {
-    "name": "Web Directions Design",
-    "url": "http://webdirections.org/design",
-    "startDate": "2018-04-11",
-    "endDate": "2018-04-13",
-    "city": "Melbourne",
-    "country": "Australia",
-    "twitter": "@webdirections"
-  },
-  {
     "name": "CHI",
     "url": "https://chi2018.acm.org",
     "startDate": "2018-04-21",
@@ -189,14 +161,6 @@
     "startDate": "2018-04-23",
     "endDate": "2018-04-25",
     "city": "Austin, TX",
-    "country": "U.S.A."
-  },
-  {
-    "name": "Generate",
-    "url": "https://www.generateconf.com/new-york",
-    "startDate": "2018-04-25",
-    "endDate": "2018-04-27",
-    "city": "New York, NY",
     "country": "U.S.A."
   },
   {
@@ -227,38 +191,12 @@
     "twitter": "@99u"
   },
   {
-    "name": "UX South Africa",
-    "url": "https://uxsouthafrica.com/jhb2018",
-    "startDate": "2018-05-09",
-    "endDate": "2018-05-11",
-    "city": "Johannesburg",
-    "country": "South Africa",
-    "twitter": "@UXSouthafrica"
-  },
-  {
     "name": "Awwwards San Francisco",
     "url": "https://conference.awwwards.com/san-francisco",
     "startDate": "2018-05-10",
     "endDate": "2018-05-11",
     "city": "San Francisco, CA",
     "country": "U.S.A."
-  },
-  {
-    "name": "Design Thinking",
-    "url": "https://10times.com/design-thinkingsydney",
-    "startDate": "2018-05-15",
-    "endDate": "2018-05-17",
-    "city": "Sydney",
-    "country": "Australia"
-  },
-  {
-    "name": "Delight Summit",
-    "url": "http://delight.us/conference",
-    "startDate": "2018-05-21",
-    "endDate": "2018-05-22",
-    "city": "Portland, OR",
-    "country": "U.S.A.",
-    "twitter": "@DelightConf"
   },
   {
     "name": "CONFAB",
@@ -320,23 +258,6 @@
     "country": "Canada"
   },
   {
-    "name": "Layers",
-    "url": "https://layers.is/",
-    "startDate": "2018-06-04",
-    "endDate": "2018-06-06",
-    "city": "San Jose, CA",
-    "country": "U.S.A.",
-    "twitter": "@layersconf"
-  },
-  {
-    "name": "POLISHOPA Design Thinking Conference",
-    "url": "http://polishopa.pl/en",
-    "startDate": "2018-06-04",
-    "endDate": "2018-06-07",
-    "city": "Bydgoszcz",
-    "country": "Poland"
-  },
-  {
     "name": "Product Camp",
     "url": "https://productcamp.pl",
     "startDate": "2018-06-07",
@@ -369,14 +290,6 @@
     "city": "London",
     "country": "U.K.",
     "twitter": "@iegroup"
-  },
-  {
-    "name": "UX Scotland",
-    "url": "http://uxscotland.net/2018",
-    "startDate": "2018-06-13",
-    "endDate": "2018-06-15",
-    "city": "Edinburgh",
-    "country": "U.K."
   },
   {
     "name": "CSS Day + UX Special",
@@ -424,16 +337,6 @@
     "twitter": "@addconf"
   },
   {
-    "name": "ACM UMAP",
-    "url": "http://www.um.org/umap2018",
-    "startDate": "2018-07-08",
-    "endDate": "2018-07-11",
-    "city": "Singapore",
-    "country": "Singapore",
-    "cfpUrl": "http://www.um.org/umap2018/cfp",
-    "cfpEndDate": "2018-03-04"
-  },
-  {
     "name": "UXWeek",
     "url": "http://uxweek.com",
     "startDate": "2018-08-21",
@@ -441,16 +344,6 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "twitter": "@AdaptivePath"
-  },
-  {
-    "name": "UX Australia",
-    "url": "http://www.uxaustralia.com.au/conferences/uxaustralia-2018",
-    "startDate": "2018-08-28",
-    "endDate": "2018-08-31",
-    "city": "Melbourne",
-    "country": "Australia",
-    "cfpUrl": "http://www.uxaustralia.com.au/conferences/uxaustralia-2018/call-for-proposals",
-    "cfpEndDate": "2018-03-18"
   },
   {
     "name": "Nordic.design",
@@ -498,16 +391,6 @@
     "twitter": "@designmattersdk"
   },
   {
-    "name": "EuroIA",
-    "url": "http://www.euroia.org/",
-    "startDate": "2018-09-27",
-    "endDate": "2018-09-29",
-    "city": "Dublin",
-    "country": "Ireland",
-    "cfpUrl": "http://euroia.org/submissions",
-    "cfpEndDate": "2018-03-03"
-  },
-  {
     "name": "Design Leadership Summit",
     "url": "https://designleadership.io",
     "startDate": "2018-09-29",
@@ -523,15 +406,6 @@
     "endDate": "2018-10-07",
     "city": "Dublin",
     "country": "Ireland"
-  },
-  {
-    "name": "MidwestUX",
-    "url": "https://www.2018.midwestuxconference.com/",
-    "startDate": "2018-10-11",
-    "endDate": "2018-10-13",
-    "city": "Chicago, IL",
-    "country": "U.S.A.",
-    "twitter": "@midwestux"
   },
   {
     "name": "World Usability Congress",
@@ -553,30 +427,12 @@
     "twitter": "@MirrorConf"
   },
   {
-    "name": "push",
-    "url": "http://push-conference.com/2018",
-    "startDate": "2018-10-18",
-    "endDate": "2018-10-19",
-    "city": "Munich",
-    "country": "Germany",
-    "twitter": "@push_conf"
-  },
-  {
     "name": "Made By Few",
     "url": "https://madebyfew.com",
     "startDate": "2018-10-25",
     "endDate": "2018-10-27",
     "city": "Little Rock, AR",
     "country": "U.S.A."
-  },
-  {
-    "name": "ViewSource",
-    "url": "https://events.mozilla.org/viewsource2018",
-    "startDate": "2018-10-26",
-    "endDate": "2018-10-26",
-    "city": "London",
-    "country": "U.K.",
-    "twitter": "@viewsourceconf"
   },
   {
     "name": "DesignUp",
@@ -595,8 +451,6 @@
     "endDate": "2018-11-05",
     "city": "Berlin",
     "country": "Germany",
-    "cfpUrl": "https://colloq.io/events/accessibility-club/2018/berlin/1/callforpapers",
-    "cfpEndDate": "2018-07-01",
     "twitter": "@a11yclub"
   },
   {

@@ -27,15 +27,6 @@
     "twitter": "@ruby_fosdem"
   },
   {
-    "name": "Ruby Conf AU",
-    "url": "http://www.rubyconf.org.au/2017",
-    "startDate": "2017-02-09",
-    "endDate": "2017-02-10",
-    "city": "Melbourne",
-    "country": "Australia",
-    "twitter": "@rubyconf_au"
-  },
-  {
     "name": "RubyConf Philippines",
     "url": "http://rubyconf.ph",
     "startDate": "2017-03-16",
@@ -61,15 +52,6 @@
     "city": "Vilnius",
     "country": "Lithuania",
     "twitter": "@rubyconflt"
-  },
-  {
-    "name": "RubyConfBY",
-    "url": "http://rubyconference.by/en",
-    "startDate": "2017-04-02",
-    "endDate": "2017-04-02",
-    "city": "Minsk",
-    "country": "Belarus",
-    "twitter": "@rubyconfby"
   },
   {
     "name": "RubyHACK",
@@ -179,24 +161,6 @@
     "country": "China"
   },
   {
-    "name": "RubyKaigi",
-    "url": "http://rubykaigi.org/2017",
-    "startDate": "2017-09-18",
-    "endDate": "2017-09-20",
-    "city": "Hiroshima",
-    "country": "Japan",
-    "twitter": "@rubykaigi"
-  },
-  {
-    "name": "RailsClub",
-    "url": "http://railsclub.ru/en/main",
-    "startDate": "2017-09-23",
-    "endDate": "2017-09-23",
-    "city": "Moscow",
-    "country": "Russia",
-    "twitter": "@railsclub_ru"
-  },
-  {
     "name": "EuRuKo",
     "url": "http://www.euruko2017.org",
     "startDate": "2017-09-29",
@@ -213,15 +177,6 @@
     "city": "Nashville, TN",
     "country": "U.S.A.",
     "twitter": "@southeastruby"
-  },
-  {
-    "name": "RubyConf Jakarta",
-    "url": "http://ruby.id/conf/2017",
-    "startDate": "2017-10-06",
-    "endDate": "2017-10-07",
-    "city": "Jakarta",
-    "country": "Indonesia",
-    "twitter": "@id_ruby"
   },
   {
     "name": "London Ruby Unconference",

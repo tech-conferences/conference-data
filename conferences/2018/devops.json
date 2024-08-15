@@ -1,13 +1,5 @@
 [
   {
-    "name": "DevOpsDay - Baltimore, MD",
-    "url": "http://www.devopsdays.org/events/2018-baltimore",
-    "startDate": "2018-03-22",
-    "endDate": "2018-03-23",
-    "city": "Baltimore, MD",
-    "country": "U.S.A."
-  },
-  {
     "name": "DevOpsDay - Maringá",
     "url": "https://www.devopsdays.org/events/2018-maringa",
     "startDate": "2018-03-23",
@@ -104,14 +96,6 @@
     "country": "China"
   },
   {
-    "name": "DevOpsDay - Kyiv",
-    "url": "https://www.devopsdays.org/events/2018-Kyiv",
-    "startDate": "2018-05-05",
-    "endDate": "2018-05-05",
-    "city": "Kyiv",
-    "country": "Ukraine"
-  },
-  {
     "name": "DevOpsDay - City",
     "url": "https://www.devopsdays.org/events/2018-salt-lake-city",
     "startDate": "2018-05-15",
@@ -145,17 +129,6 @@
     "cfpUrl": "https://2018.container.camp/au/",
     "cfpEndDate": "2018-03-01",
     "twitter": "@containercamp"
-  },
-  {
-    "name": "DevOpsDays Stockholm",
-    "url": "https://www.devopsdays.org/events/2018-stockholm/welcome",
-    "startDate": "2018-05-24",
-    "endDate": "2018-05-25",
-    "city": "Stockholm",
-    "country": "Sweden",
-    "cfpUrl": "https://www.devopsdays.org/events/2018-stockholm/propose",
-    "cfpEndDate": "2018-04-02",
-    "twitter": "@devopsdayssthlm"
   },
   {
     "name": "DevOpsDay - Victoria",
@@ -308,14 +281,6 @@
     "country": "Germany"
   },
   {
-    "name": "Jenkins World",
-    "url": "https://www.cloudbees.com/jenkinsworld",
-    "startDate": "2018-09-16",
-    "endDate": "2018-09-19",
-    "city": "San Francisco, CA",
-    "country": "U.S.A."
-  },
-  {
     "name": "DevOpsDay - Columbus",
     "url": "https://www.devopsdays.org/events/2018-columbus",
     "startDate": "2018-09-19",
@@ -340,14 +305,6 @@
     "country": "South Africa"
   },
   {
-    "name": "Microsoft Ignite",
-    "url": "https://www.microsoft.com/en-us/ignite/default.aspx",
-    "startDate": "2018-09-24",
-    "endDate": "2018-09-28",
-    "city": "Orlando, FL",
-    "country": "U.S.A."
-  },
-  {
     "name": "DevOpsDay - Riga",
     "url": "https://www.devopsdays.org/events/2018-riga",
     "startDate": "2018-09-27",
@@ -356,30 +313,11 @@
     "country": "Latvia"
   },
   {
-    "name": "Functions",
-    "url": "https://functions.events/2018/toronto",
-    "startDate": "2018-09-28",
-    "endDate": "2018-09-28",
-    "city": "Toronto",
-    "country": "Canada",
-    "cfpUrl": "https://www.papercall.io/serverless-to-2018",
-    "cfpEndDate": "2018-07-31",
-    "twitter": "@FunctionsConf"
-  },
-  {
     "name": "DevOpsDay - Detroit",
     "url": "https://www.devopsdays.org/events/2018-detroit",
     "startDate": "2018-10-03",
     "endDate": "2018-10-04",
     "city": "Detroit, MI",
-    "country": "U.S.A."
-  },
-  {
-    "name": "Innersource Commons Fall Summit",
-    "url": "http://paypal.github.io/InnerSourceCommons/events/isc-fall-2018",
-    "startDate": "2018-10-03",
-    "endDate": "2018-10-05",
-    "city": "Islandia, NY",
     "country": "U.S.A."
   },
   {
@@ -434,14 +372,6 @@
     "country": "U.S.A."
   },
   {
-    "name": "Jenkins World",
-    "url": "https://www.cloudbees.com/jenkinsworld",
-    "startDate": "2018-10-22",
-    "endDate": "2018-10-25",
-    "city": "Nice",
-    "country": "France"
-  },
-  {
     "name": "DevOpsDay - Philadelphia",
     "url": "https://www.devopsdays.org/events/2018-philadelphia",
     "startDate": "2018-10-23",
@@ -491,9 +421,7 @@
     "startDate": "2018-11-08",
     "endDate": "2018-11-08",
     "city": "Nürnberg",
-    "country": "Germany",
-    "cfpUrl": "https://opensourcecamp.de/submit-a-talk/",
-    "cfpEndDate": "2018-09-15"
+    "country": "Germany"
   },
   {
     "name": "CLC",
@@ -540,8 +468,6 @@
     "endDate": "2018-12-19",
     "city": "Tel Aviv",
     "country": "Israel",
-    "cfpUrl": "https://www.papercall.io/devopsdaystlv2018/",
-    "cfpEndDate": "2018-09-30",
     "twitter": "@DevOpsDaysTLV"
   }
 ]

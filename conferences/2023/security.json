@@ -83,8 +83,6 @@
     "online": false,
     "locales": "EN",
     "cocUrl": "https://romania.voxxeddays.com",
-    "cfpUrl": "https://vdbuh23.cfp.dev/#",
-    "cfpEndDate": "2023-01-15",
     "twitter": "@VoxxedBucharest"
   },
   {
@@ -134,24 +132,6 @@
     "locales": "EN",
     "cocUrl": "https://devopscon.io/code-of-conduct/",
     "twitter": "@devops_con"
-  },
-  {
-    "name": "Security Day",
-    "url": "https://www.wearedevelopers.com/event/security-day-april-2023",
-    "startDate": "2023-04-26",
-    "endDate": "2023-04-26",
-    "online": true,
-    "locales": "EN",
-    "twitter": "@wearedevs"
-  },
-  {
-    "name": "Ateraverse",
-    "url": "https://www.atera.com/lp/ateraverse",
-    "startDate": "2023-05-03",
-    "endDate": "2023-05-04",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://www.atera.com/terms-of-use/"
   },
   {
     "name": "SeaStar Quality Conference",
@@ -297,7 +277,6 @@
     "country": "U.S.A.",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://www.dianainitiative.org/about/policies/#CoC",
     "cfpUrl": "https://pretalx.com/the-diana-initiative-2023/cfp",
     "cfpEndDate": "2023-05-29",
     "twitter": "@dianaInitiative"
@@ -323,9 +302,6 @@
     "country": "U.S.A.",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://skytalks.info/code-of-conduct/",
-    "cfpUrl": "https://cfp.skytalks.info/skytalks-2023",
-    "cfpEndDate": "2023-05-31",
     "twitter": "@dcskytalks"
   },
   {
@@ -339,20 +315,6 @@
     "cfpUrl": "https://forms.office.com/r/XjVUaRDbKR",
     "cfpEndDate": "2023-07-05",
     "twitter": "@csharpdottv"
-  },
-  {
-    "name": "SpiceWorld",
-    "url": "https://www.spiceworks.com/spiceworld",
-    "startDate": "2023-09-05",
-    "endDate": "2023-09-07",
-    "city": "Austin, TX",
-    "country": "U.S.A.",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://www.spiceworks.com/spiceworld/",
-    "cfpUrl": "https://www.spiceworks.com",
-    "cfpEndDate": "2023-09-04",
-    "twitter": "@spiceworks"
   },
   {
     "name": "GNU Radio Conference",
@@ -388,8 +350,6 @@
     "online": true,
     "locales": "EN",
     "offersSignLanguageOrCC": true,
-    "cfpUrl": "https://sos.asrg.io/cfp",
-    "cfpEndDate": "2023-04-30",
     "twitter": "@SecureOurStreet"
   },
   {
@@ -516,7 +476,6 @@
     "country": "United Arab Emirates",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://aavar.org/index.php/rules-and-guidelines/@avar_asia",
     "cfpUrl": "https://forms.gle/yUQgxt4RLrKYErLy9",
     "cfpEndDate": "2023-08-12",
     "twitter": "@avar_asia"

@@ -52,8 +52,6 @@
     "country": "Norway",
     "online": true,
     "cocUrl": "https://fluttervikings.com/code-of-conduct",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf3G7gOIQVsfj_CLY3a_el7uiJI_VOOSyuNEi3p-vknFO3nyA/viewform",
-    "cfpEndDate": "2021-11-14",
     "twitter": "@FlutterVikings"
   },
   {
@@ -74,8 +72,6 @@
     "country": "U.K.",
     "online": false,
     "cocUrl": "https://ndcoslo.com/code-of-conduct",
-    "cfpUrl": "https://ndc-london.com/cfp",
-    "cfpEndDate": "2021-09-26",
     "twitter": "@NDC_Conferences"
   },
   {
@@ -141,7 +137,6 @@
     "city": "Dubai",
     "country": "United Arab Emirates",
     "online": false,
-    "cocUrl": "https://www.ethdubaiconf.org/coc.html",
     "twitter": "@ETHDubaiConf"
   },
   {
@@ -167,8 +162,6 @@
     "country": "Netherlands",
     "online": true,
     "cocUrl": "https://apiconference.net/code-of-conduct/",
-    "cfpUrl": "https://apiconference.net/call-for-papers",
-    "cfpEndDate": "2021-11-02",
     "twitter": "@api_conference"
   },
   {
@@ -191,21 +184,7 @@
     "country": "Netherlands",
     "online": true,
     "cocUrl": "https://serverless-architecture.io/code-of-conduct/",
-    "cfpUrl": "https://serverless-architecture.io/call-for-papers",
-    "cfpEndDate": "2021-11-01",
     "twitter": "@serverlesscon"
-  },
-  {
-    "name": "DevConf",
-    "url": "https://www.devconf.co.za/capetown",
-    "startDate": "2022-04-05",
-    "endDate": "2022-04-05",
-    "city": "Cape Town",
-    "country": "South Africa",
-    "online": false,
-    "cfpUrl": "https://sessionize.com/devconf-2022",
-    "cfpEndDate": "2021-11-12",
-    "twitter": "@devconfza"
   },
   {
     "name": "LeadDev New York",
@@ -218,18 +197,6 @@
     "offersSignLanguageOrCC": true,
     "cocUrl": "https://leaddev.com/code-conduct",
     "twitter": "@TheLeadDev"
-  },
-  {
-    "name": "DevConf",
-    "url": "https://www.devconf.co.za/joburg",
-    "startDate": "2022-04-07",
-    "endDate": "2022-04-07",
-    "city": "Johannesburg",
-    "country": "South Africa",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/devconf-2022",
-    "cfpEndDate": "2021-11-12",
-    "twitter": "@devconfza"
   },
   {
     "name": "CodeStock",
@@ -288,7 +255,6 @@
     "city": "Kathmandu",
     "country": "Nepal",
     "online": true,
-    "cocUrl": "https://nepal.cloudsummit.live/code-of-conduct/",
     "twitter": "@cloudsummitlive"
   },
   {
@@ -352,8 +318,6 @@
     "endDate": "2022-04-28",
     "online": true,
     "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "cfpUrl": "https://www.papercall.io/conf42-cloud-native-2022",
-    "cfpEndDate": "2022-03-25",
     "twitter": "@conf42com"
   },
   {
@@ -396,24 +360,6 @@
     "online": true,
     "offersSignLanguageOrCC": true,
     "twitter": "@QCon"
-  },
-  {
-    "name": "Karlsruher Entwicklertag",
-    "url": "https://www.entwicklertag.de/karlsruhe/2022/",
-    "startDate": "2022-05-16",
-    "endDate": "2022-05-18",
-    "city": "Karlsruhe",
-    "country": "Germany",
-    "online": false
-  },
-  {
-    "name": "YOW! Lambda Jam",
-    "url": "https://skillsmatter.com/conferences/13660-yow-lambdajam-2022",
-    "startDate": "2022-05-17",
-    "endDate": "2022-05-18",
-    "online": true,
-    "cocUrl": "https://skillsmatter.com/go/code-of-conduct",
-    "twitter": "@yow_conf"
   },
   {
     "name": "Infoshare F3",
@@ -511,7 +457,6 @@
     "country": "Poland",
     "online": true,
     "offersSignLanguageOrCC": true,
-    "cocUrl": "https://appjs.co/Code-of-Conduct.pdf",
     "cfpUrl": "https://docs.google.com/forms/d/1-TUgnCqqGsTufBv2W5Nn8rXzoBg7qpBZKoQT0qKp7jA/edit",
     "cfpEndDate": "2022-02-22",
     "twitter": "@appjsconf"
@@ -571,7 +516,6 @@
     "city": "Amsterdam",
     "country": "Netherlands",
     "online": true,
-    "cocUrl": "https://reactsummit.com/coc",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfVG_bNAebxhlERx1do33ekcmkLx25f1wh478MPv2CW6UvMlw/viewform",
     "cfpEndDate": "2022-03-20",
     "twitter": "@ReactSummit"
@@ -588,17 +532,6 @@
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdjQybze8ikwe_gkNMOPO1UfDo9_AAAl6u_WJdO8-CR_pO13Q/viewform",
     "cfpEndDate": "2022-05-27",
     "twitter": "@vlctechfest"
-  },
-  {
-    "name": "Bazel eXchange",
-    "url": "https://skillsmatter.com/conferences/13682-bazel-exchange",
-    "startDate": "2022-06-21",
-    "endDate": "2022-06-22",
-    "online": true,
-    "cocUrl": "https://skillsmatter.com/go/code-of-conduct",
-    "cfpUrl": "https://skillsmatter.com/conferences/13682-bazel-exchange#get_involved",
-    "cfpEndDate": "2022-03-23",
-    "twitter": "@skillsmatter"
   },
   {
     "name": "JCON-PEOPLE",
@@ -621,9 +554,6 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
-    "cocUrl": "https://www.hub.berlin/join-us/faq",
-    "cfpUrl": "https://www.hub.berlin/business-festival-tickets-2022",
-    "cfpEndDate": "2022-06-21",
     "twitter": "@hub.berlin"
   },
   {
@@ -653,8 +583,6 @@
     "endDate": "2022-06-30",
     "online": true,
     "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "cfpUrl": "https://www.papercall.io/conf42-quantum-computing-2022",
-    "cfpEndDate": "2022-05-27",
     "twitter": "@conf42com"
   },
   {
@@ -675,7 +603,6 @@
     "city": "Nashville, TN",
     "country": "U.S.A.",
     "online": false,
-    "cocUrl": "https://www.agilealliance.org/code_of_conduct/",
     "twitter": "@AgileAlliance"
   },
   {
@@ -698,8 +625,6 @@
     "country": "U.S.A.",
     "online": false,
     "cocUrl": "https://that.us/support/code-of-conduct/",
-    "cfpUrl": "https://that.us/call-for-counselors/wi/2022",
-    "cfpEndDate": "2022-03-01",
     "twitter": "@thatconference"
   },
   {
@@ -881,7 +806,6 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
-    "cocUrl": "https://software-architecture-summit.de/code-of-conduct/",
     "twitter": "@SoftwArchSummit"
   },
   {
@@ -915,8 +839,6 @@
     "country": "Croatia",
     "online": true,
     "cocUrl": "https://shift.infobip.com/code/",
-    "cfpUrl": "https://sessionize.com/infobipshift",
-    "cfpEndDate": "2022-07-01",
     "twitter": "@infobipshift"
   },
   {
@@ -947,8 +869,6 @@
     "endDate": "2022-09-23",
     "online": true,
     "cocUrl": "https://2022.jcon.one/code-of-conduct",
-    "cfpUrl": "https://2022.jcon.one/call-for-papers",
-    "cfpEndDate": "2022-03-31",
     "twitter": "@jcon_conference"
   },
   {
@@ -963,16 +883,6 @@
     "cfpUrl": "https://2022.pgconf.nyc/callforpapers",
     "cfpEndDate": "2022-05-31",
     "twitter": "@pgconfnyc"
-  },
-  {
-    "name": "YOW! London",
-    "url": "https://skillsmatter.com/conferences/13690-yow-london",
-    "startDate": "2022-09-22",
-    "endDate": "2022-09-23",
-    "city": "London",
-    "country": "U.K.",
-    "online": true,
-    "twitter": "@yowconf"
   },
   {
     "name": "Agile India",
@@ -993,8 +903,6 @@
     "online": false,
     "offersSignLanguageOrCC": true,
     "cocUrl": "https://thestrangeloop.com/policies.html",
-    "cfpUrl": "https://thestrangeloop.com/cfp.html",
-    "cfpEndDate": "2022-04-20",
     "twitter": "@strangeloop_stl"
   },
   {
@@ -1054,16 +962,6 @@
     "online": true,
     "cocUrl": "https://ndcminnesota.com/code-of-conduct",
     "twitter": "@NDC_Conferences"
-  },
-  {
-    "name": "DEX",
-    "url": "https://sentry.io/events/dex",
-    "startDate": "2022-09-28",
-    "endDate": "2022-09-28",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@getsentry"
   },
   {
     "name": "Immerse Global Summit",
@@ -1227,9 +1125,6 @@
     "country": "India",
     "online": false,
     "offersSignLanguageOrCC": true,
-    "cocUrl": "https://azconf.dev/code-of-conduct",
-    "cfpUrl": "https://azconf.dev/cfs",
-    "cfpEndDate": "2022-08-31",
     "twitter": "@AzConfDev"
   },
   {
@@ -1239,8 +1134,6 @@
     "endDate": "2022-10-20",
     "online": true,
     "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "cfpUrl": "https://www.papercall.io/conf42-kube-native-2022",
-    "cfpEndDate": "2022-09-05",
     "twitter": "@conf42com"
   },
   {
@@ -1250,8 +1143,6 @@
     "endDate": "2022-10-20",
     "online": true,
     "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "cfpUrl": "https://www.papercall.io/conf42-web30-2022",
-    "cfpEndDate": "2022-09-16",
     "twitter": "@conf42com"
   },
   {
@@ -1354,8 +1245,6 @@
     "city": "Cambridge",
     "country": "U.K.",
     "online": true,
-    "cfpUrl": "https://www.cambridgewireless.co.uk/events/conferences/cwic/cwic-call-speakers",
-    "cfpEndDate": "2022-08-19",
     "twitter": "@CambWireless"
   },
   {
@@ -1470,14 +1359,6 @@
     "online": true,
     "cocUrl": "https://www.buildstuff.events/code-of-conduct",
     "twitter": "@BuildStuffConf"
-  },
-  {
-    "name": "Enterprise GraphQL Conference",
-    "url": "https://hasura.io/enterprisegraphql",
-    "startDate": "2022-11-10",
-    "endDate": "2022-11-10",
-    "online": true,
-    "twitter": "@hasurahq"
   },
   {
     "name": "Update Conference Prague",
@@ -1619,7 +1500,6 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
-    "cocUrl": "https://www.modernfrontends.live/code-of-conduct",
     "cfpUrl": "https://sessionize.com/modern-frontends-live-2022",
     "cfpEndDate": "2022-07-31",
     "twitter": "@modernfrontends"
@@ -1646,8 +1526,6 @@
     "country": "Argentina",
     "online": true,
     "cocUrl": "https://codear.org/coc",
-    "cfpUrl": "https://webconf.tech/cfp",
-    "cfpEndDate": "2022-10-01",
     "twitter": "@WebConfLATAM"
   },
   {
@@ -1727,15 +1605,6 @@
     "online": true,
     "cocUrl": "https://berlincodeofconduct.org/",
     "twitter": "@INNOQ"
-  },
-  {
-    "name": "enterJS Web-Performance Day",
-    "url": "https://enterjs.de/web-performance.php",
-    "startDate": "2022-12-01",
-    "endDate": "2022-12-01",
-    "online": true,
-    "cocUrl": "https://enterjs.de/code_of_conduct.php",
-    "twitter": "@enterjsconf"
   },
   {
     "name": "Oπe\\n Conf Athens",
@@ -1851,7 +1720,6 @@
     "country": "Armenia",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://highload.am/code-of-conduct.html",
     "cfpUrl": "https://cfp.highload.am",
     "cfpEndDate": "2022-10-12",
     "twitter": "@ArmeniaHighload"

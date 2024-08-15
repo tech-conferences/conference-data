@@ -7,8 +7,6 @@
     "city": "Belagavi",
     "country": "India",
     "offersSignLanguageOrCC": false,
-    "cocUrl": "http://belpy.in/code-of-conduct.html",
-    "cfpUrl": "http://belpy.in/call-for-proposals.html",
     "twitter": "@Belpy2021"
   },
   {
@@ -35,8 +33,6 @@
     "online": true,
     "offersSignLanguageOrCC": false,
     "cocUrl": "https://www.enterpy.de/code_of_conduct.php",
-    "cfpUrl": "https://www.enterpy.de/call_for_proposals_en.php",
-    "cfpEndDate": "2021-01-18",
     "twitter": "@enterpyconf"
   },
   {
@@ -47,20 +43,7 @@
     "online": true,
     "offersSignLanguageOrCC": false,
     "cocUrl": "https://www.enterpy.de/code_of_conduct.php",
-    "cfpUrl": "https://www.enterpy.de/call_for_proposals_en.php",
-    "cfpEndDate": "2021-01-18",
     "twitter": "@enterpyconf"
-  },
-  {
-    "name": "Pycon",
-    "url": "https://us.pycon.org/2021",
-    "startDate": "2021-05-12",
-    "endDate": "2021-05-18",
-    "online": true,
-    "cocUrl": "https://us.pycon.org/2021/about/code-of-conduct/",
-    "cfpUrl": "https://us.pycon.org/2021/speaking/talks",
-    "cfpEndDate": "2021-04-28",
-    "twitter": "@pycon"
   },
   {
     "name": "Conf42: Python",
@@ -68,8 +51,6 @@
     "startDate": "2021-05-27",
     "endDate": "2021-05-27",
     "online": true,
-    "cfpUrl": "https://www.papercall.io/conf42-python-for-finance-2021",
-    "cfpEndDate": "2021-04-12",
     "twitter": "@conf42com"
   },
   {
@@ -106,9 +87,6 @@
     "startDate": "2021-09-17",
     "endDate": "2021-09-20",
     "online": true,
-    "cocUrl": "https://in.pycon.org/2021/coc.html",
-    "cfpUrl": "https://in.pycon.org/cfp/2021/proposals",
-    "cfpEndDate": "2021-05-07",
     "twitter": "@pyconindia"
   },
   {
@@ -116,9 +94,7 @@
     "url": "https://za.pycon.org",
     "startDate": "2021-10-07",
     "endDate": "2021-10-08",
-    "online": true,
-    "cfpUrl": "https://za.pycon.org/tickets/submit-talk",
-    "cfpEndDate": "2021-08-16"
+    "online": true
   },
   {
     "name": "Machine Learning Summit",
@@ -139,16 +115,5 @@
     "cfpUrl": "https://forms.gle/DPp3CacWMRYXsjhZ8",
     "cfpEndDate": "2021-07-31",
     "twitter": "@xtremepython"
-  },
-  {
-    "name": "WeAreDevelopers Live - Python Day",
-    "url": "https://www.wearedevelopers.com/event/python-day-1221",
-    "startDate": "2021-12-07",
-    "endDate": "2021-12-07",
-    "online": true,
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct",
-    "cfpUrl": "https://www.wearedevelopers.com/speakers/call-for-speakers",
-    "cfpEndDate": "2021-11-10",
-    "twitter": "@wearedevs"
   }
 ]

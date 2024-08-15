@@ -16,21 +16,9 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
-    "cocUrl": "https://foss-backstage.de/code-conduct",
     "cfpUrl": "https://pretalx.com/foss-backstage-2022",
     "cfpEndDate": "2021-11-15",
     "twitter": "@Fossbckstg"
-  },
-  {
-    "name": "IoT Forum Africa",
-    "url": "https://itnewsafrica.com/events/event/iot-forum-africa-2022",
-    "startDate": "2022-03-29",
-    "endDate": "2022-03-30",
-    "city": "Johannesburg",
-    "country": "South Africa",
-    "online": true,
-    "offersSignLanguageOrCC": true,
-    "twitter": "@ITNewsAfrica"
   },
   {
     "name": "DevX Conf",
@@ -64,15 +52,6 @@
     "online": false
   },
   {
-    "name": "YOW! Data",
-    "url": "https://skillsmatter.com/conferences/13659-yow-data-2022",
-    "startDate": "2022-05-30",
-    "endDate": "2022-05-31",
-    "online": true,
-    "cocUrl": "https://skillsmatter.com/go/code-of-conduct",
-    "twitter": "@yow_conf"
-  },
-  {
     "name": "EMERGE",
     "url": "https://emergeconf.io",
     "startDate": "2022-06-01",
@@ -81,17 +60,6 @@
     "country": "Armenia",
     "online": true,
     "twitter": "@EmergeConfHQ"
-  },
-  {
-    "name": "INTEGRATE",
-    "url": "https://www.kovai.co/integrate-2022",
-    "startDate": "2022-06-13",
-    "endDate": "2022-06-15",
-    "city": "London",
-    "country": "U.K.",
-    "online": true,
-    "cfpUrl": "https://www.kovai.co/integrate-2022/terms-and-conditions.html",
-    "cfpEndDate": "2022-01-18"
   },
   {
     "name": "Webit Global Impact Forum",
@@ -128,16 +96,6 @@
     "twitter": "@seleniumconf"
   },
   {
-    "name": "International Congress on Ad-Hoc Networks",
-    "url": "https://intcongress.com/international-congress-on-ad-hoc-networks-2022",
-    "startDate": "2022-08-11",
-    "endDate": "2022-08-12",
-    "city": "Hong Kong",
-    "country": "Hong Kong",
-    "online": false,
-    "offersSignLanguageOrCC": true
-  },
-  {
     "name": "ContainerDays Hybrid",
     "url": "https://www.containerdays.io",
     "startDate": "2022-09-05",
@@ -169,7 +127,6 @@
     "endDate": "2022-09-15",
     "online": true,
     "offersSignLanguageOrCC": true,
-    "cocUrl": "https://events.lemon.io/privacy-policy",
     "twitter": "@lemoneye"
   },
   {
@@ -213,7 +170,6 @@
     "country": "U.K.",
     "online": true,
     "offersSignLanguageOrCC": true,
-    "cocUrl": "https://reactadvanced.com/coc",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScDO_8VuVGKp_PZAepiJe6WHEbdc7UeDS4jX3PzgMO4OeMFQQ/viewform",
     "cfpEndDate": "2022-07-31",
     "twitter": "@ReactAdvanced"
@@ -259,7 +215,6 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
-    "cocUrl": "https://reactday.berlin/coc",
     "cfpUrl": "https://forms.gle/fvEuTAsn7cSGGzXN7",
     "cfpEndDate": "2022-09-25",
     "twitter": "@reactdayberlin"

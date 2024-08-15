@@ -1,13 +1,5 @@
 [
   {
-    "name": ".NET Conf Korea",
-    "url": "https://2021.dotnetdev.kr/",
-    "startDate": "2021-01-15",
-    "endDate": "2021-01-15",
-    "online": true,
-    "offersSignLanguageOrCC": false
-  },
-  {
     "name": "BASTA!",
     "url": "https://basta.net",
     "startDate": "2021-02-15",
@@ -25,7 +17,6 @@
     "endDate": "2021-02-20",
     "city": "Iasi",
     "country": "Romania",
-    "cocUrl": "https://dotnetdays.ro/2020/Home/CodeOfConduct",
     "twitter": "@dotnetdaysro"
   },
   {
@@ -87,32 +78,9 @@
     "startDate": "2021-08-18",
     "endDate": "2021-08-20",
     "online": true,
-    "cocUrl": "http://www.codepalousa.com/Resources/26",
     "cfpUrl": "https://sessionize.com/cpl21",
     "cfpEndDate": "2021-04-23",
     "twitter": "@CodePaLOUsa"
-  },
-  {
-    "name": "Music City Code",
-    "url": "https://www.musiccitytech.com/conferences/music-city-code",
-    "startDate": "2021-09-15",
-    "endDate": "2021-09-17",
-    "online": true,
-    "cocUrl": "https://www.musiccitytech.com/about/code-of-conduct/",
-    "cfpUrl": "https://sessionize.com/music-city-tech-2021",
-    "cfpEndDate": "2021-06-30",
-    "twitter": "@MusicCityTech"
-  },
-  {
-    "name": "BASTA! Hybrid",
-    "url": "https://basta.net/mainz",
-    "startDate": "2021-09-20",
-    "endDate": "2021-09-24",
-    "city": "Mainz",
-    "country": "Germany",
-    "online": true,
-    "cocUrl": "https://basta.net/code-of-conduct/",
-    "twitter": "@BASTAcon"
   },
   {
     "name": "Prairie Code",
@@ -126,17 +94,6 @@
     "cfpUrl": "https://www.amegala.com/#/cfp",
     "cfpEndDate": "2021-06-15",
     "twitter": "@amegala"
-  },
-  {
-    "name": "WeAreDevelopers Live - .NET Day",
-    "url": "https://www.wearedevelopers.com/event/net-day",
-    "startDate": "2021-10-27",
-    "endDate": "2021-10-27",
-    "online": true,
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct",
-    "cfpUrl": "https://www.wearedevelopers.com/speakers/call-for-speakers",
-    "cfpEndDate": "2021-09-30",
-    "twitter": "@wearedevs"
   },
   {
     "name": "Update Conference Prague",

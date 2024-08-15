@@ -45,15 +45,6 @@
     "twitter": "@PHPUKConference"
   },
   {
-    "name": "TYPO3camp Venlo",
-    "url": "http://www.typo3campvenlo.nl/en",
-    "startDate": "2020-03-12",
-    "endDate": "2020-03-14",
-    "city": "Venlo",
-    "country": "Netherlands",
-    "twitter": "@TYPO3campVenlo"
-  },
-  {
     "name": "MidCamp",
     "url": "https://www.midcamp.org",
     "startDate": "2020-03-18",
@@ -88,13 +79,6 @@
     "city": "Berlin",
     "country": "Germany",
     "twitter": "@phpconference"
-  },
-  {
-    "name": "The Online PHP Conference",
-    "url": "https://thephp.cc/news/2020/04/the-online-php-conference",
-    "startDate": "2020-05-26",
-    "endDate": "2020-05-27",
-    "online": true
   },
   {
     "name": "PHP fwdays",
@@ -155,8 +139,6 @@
     "endDate": "2020-08-02",
     "city": "Karlsruhe",
     "country": "Germany",
-    "cfpUrl": "https://t3dd20.typo3.com/call-for-paper",
-    "cfpEndDate": "2020-04-30",
     "twitter": "@typo3"
   },
   {
@@ -214,9 +196,7 @@
     "startDate": "2020-10-23",
     "endDate": "2020-10-24",
     "city": "Novosibirsk",
-    "country": "Russia",
-    "cfpUrl": "https://hardfest.ru/en/#rec216142907",
-    "cfpEndDate": "2020-09-21"
+    "country": "Russia"
   },
   {
     "name": "International PHP Conference",
@@ -260,16 +240,5 @@
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfFh53tWIezFiQTq-b_F9Q939hif9LmyUIfvNs7kVJNDAuA-A/viewform",
     "cfpEndDate": "2020-06-27",
     "twitter": "@sfdayit"
-  },
-  {
-    "name": "SymfonyCon Paris",
-    "url": "https://paris2020.symfony.com/",
-    "startDate": "2020-12-03",
-    "endDate": "2020-12-04",
-    "city": "Paris",
-    "country": "France",
-    "cfpUrl": "https://paris2020.symfony.com/cfp",
-    "cfpEndDate": "2020-05-10",
-    "twitter": "@symfonycon"
   }
 ]

@@ -35,8 +35,6 @@
     "country": "U.S.A.",
     "online": true,
     "cocUrl": "https://bsidestampa.net/code-of-conduct/",
-    "cfpUrl": "https://forms.zohopublic.com/isc2tampabaychapter/form/CFP/formperma/HBZJIUsxQk2aDT8raeZfK31PcUiCDL5Oomw4Dx0Pc5o",
-    "cfpEndDate": "2022-01-16",
     "twitter": "@BSidesTampa"
   },
   {
@@ -70,16 +68,7 @@
     "endDate": "2022-03-10",
     "online": true,
     "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "cfpUrl": "https://www.papercall.io/conf42-chaos-engineering-2022",
-    "cfpEndDate": "2022-02-02",
     "twitter": "@conf42com"
-  },
-  {
-    "name": "1337up Live",
-    "url": "https://www.intigriti.com/1337uplive",
-    "startDate": "2022-03-12",
-    "endDate": "2022-03-12",
-    "online": true
   },
   {
     "name": "NDC Security",
@@ -93,17 +82,6 @@
     "cfpUrl": "https://ndc-security.com/call-for-papers",
     "cfpEndDate": "2022-01-15",
     "twitter": "@NDC_Conferences"
-  },
-  {
-    "name": "WeAreDevelopers Security day",
-    "url": "https://www.wearedevelopers.com/event/security-day-0203",
-    "startDate": "2022-04-20",
-    "endDate": "2022-04-20",
-    "online": true,
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form.",
-    "cfpUrl": "https://sessionize.com/wearedevelopers-live-2022",
-    "cfpEndDate": "2022-03-31",
-    "twitter": "@WeAreDevs"
   },
   {
     "name": "DevOpsCon London",
@@ -215,8 +193,6 @@
     "country": "U.K.",
     "online": false,
     "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "cfpUrl": "https://www.papercall.io/sreday-2022",
-    "cfpEndDate": "2022-08-01",
     "twitter": "@conf42com"
   },
   {
@@ -323,8 +299,6 @@
     "endDate": "2022-12-01",
     "online": true,
     "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "cfpUrl": "https://www.papercall.io/conf42-devsecops-2022",
-    "cfpEndDate": "2022-10-28",
     "twitter": "@conf42com"
   },
   {
@@ -359,7 +333,6 @@
     "city": "Clearwater, FL",
     "country": "U.S.A.",
     "online": true,
-    "cocUrl": "https://progressivewebexperience.io/home/code_of_conduct",
     "twitter": "@nofluff"
   },
   {

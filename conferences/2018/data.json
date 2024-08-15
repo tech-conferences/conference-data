@@ -36,14 +36,6 @@
     "twitter": "@PyDataLondon"
   },
   {
-    "name": "Python in Astronomy",
-    "url": "http://openastronomy.org/pyastro/2018",
-    "startDate": "2018-04-30",
-    "endDate": "2018-05-04",
-    "city": "New York, NY",
-    "country": "U.S.A."
-  },
-  {
     "name": "TiE Inflect",
     "url": "https://www.tieinflect.org",
     "startDate": "2018-05-04",
@@ -72,23 +64,12 @@
     "cfpEndDate": "2018-04-01"
   },
   {
-    "name": " FutureWorld",
-    "url": "http://fitc.ca/event/futureworld2018",
-    "startDate": "2018-06-09",
-    "endDate": "2018-06-09",
-    "city": "Toronto",
-    "country": "Canada",
-    "twitter": "@fitc"
-  },
-  {
     "name": "PyData Berlin",
     "url": "https://pydata.org/berlin2018",
     "startDate": "2018-07-06",
     "endDate": "2018-07-08",
     "city": "Berlin",
     "country": "Germany",
-    "cfpUrl": "https://pydata.org/berlin2018/cfp",
-    "cfpEndDate": "2018-05-31",
     "twitter": "@PyData"
   },
   {
@@ -121,16 +102,6 @@
     "twitter": "@VoiceSummitAI"
   },
   {
-    "name": "JuliaCon",
-    "url": "http://juliacon.org/2018",
-    "startDate": "2018-08-07",
-    "endDate": "2018-08-11",
-    "city": "London",
-    "country": "U.K.",
-    "cfpUrl": "http://juliacon.org/2018/cfp",
-    "cfpEndDate": "2018-04-30"
-  },
-  {
     "name": "Conference on Machine Learning, Optimization and Data science",
     "url": "https://lod2018.icas.xyz/",
     "startDate": "2018-09-13",
@@ -139,14 +110,6 @@
     "country": "Italy",
     "cfpUrl": "https://lod2018.icas.xyz/call-for-papers/",
     "cfpEndDate": "2018-03-31"
-  },
-  {
-    "name": "Insurance Analytics Canada Summit",
-    "url": "http://events.insurancenexus.com/canada",
-    "startDate": "2018-09-25",
-    "endDate": "2018-09-26",
-    "city": "Toronto",
-    "country": "Canada"
   },
   {
     "name": "data2day",
@@ -167,14 +130,6 @@
     "twitter": "@EventsEmerging"
   },
   {
-    "name": "Insurance AI and Analytics Europe",
-    "url": "http://events.insurancenexus.com/insuranceanalyticseu",
-    "startDate": "2018-10-09",
-    "endDate": "2018-10-10",
-    "city": "London",
-    "country": "U.K."
-  },
-  {
     "name": "Rakuten Technology Conference",
     "url": "https://tech.rakuten.co.jp",
     "startDate": "2018-10-27",
@@ -182,16 +137,6 @@
     "city": "Tokyo",
     "country": "Japan",
     "twitter": "@rakuten_tech"
-  },
-  {
-    "name": "Web Directions AI",
-    "url": "http://webdirections.org/ai",
-    "startDate": "2018-10-31",
-    "endDate": "2018-10-31",
-    "city": "Sydney",
-    "country": "Australia",
-    "cfpUrl": "https://www.webdirections.org/speaking",
-    "cfpEndDate": "2018-05-01"
   },
   {
     "name": "Big Data LDN",
@@ -209,8 +154,6 @@
     "endDate": "2018-11-30",
     "city": "Atlanta, GA",
     "country": "U.S.A.",
-    "cfpUrl": "http://datascicon.tech/cfp.html",
-    "cfpEndDate": "2018-10-01",
     "twitter": "@datascicon"
   },
   {

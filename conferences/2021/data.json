@@ -84,16 +84,6 @@
     "twitter": "@ODSC"
   },
   {
-    "name": "Geekle's Python for ML & AI Global Summit",
-    "url": "https://python.geekle.us/",
-    "startDate": "2021-04-08",
-    "endDate": "2021-04-09",
-    "online": true,
-    "cocUrl": "https://geekle.us/code-of-conduct",
-    "cfpUrl": "https://forms.gle/ryKkiJtqBgs6zT119",
-    "cfpEndDate": "2021-03-31"
-  },
-  {
     "name": "Data Love",
     "url": "https://datalove.konfy.care",
     "startDate": "2021-04-16",
@@ -141,8 +131,6 @@
     "online": true,
     "offersSignLanguageOrCC": false,
     "cocUrl": "https://m3-konferenz.de/code_of_conduct.php",
-    "cfpUrl": "https://m3-konferenz.de/call_for_proposals_en.php",
-    "cfpEndDate": "2021-01-17",
     "twitter": "@M3_Konferenz"
   },
   {
@@ -200,17 +188,6 @@
     "twitter": "@EDBPostgres"
   },
   {
-    "name": "AI, Machine Learning & Sentiment Analysis",
-    "url": "https://conference.unicom.co.uk/sentiment-analysis/2021/uk",
-    "startDate": "2021-06-23",
-    "endDate": "2021-06-24",
-    "online": true,
-    "cocUrl": "https://conference.unicom.co.uk/sentiment-analysis/2021/uk/#code",
-    "cfpUrl": "https://conference.unicom.co.uk/sentiment-analysis/2021/uk/#call",
-    "cfpEndDate": "2021-05-10",
-    "twitter": "@unicomseminars"
-  },
-  {
     "name": "Intercon Conference",
     "url": "https://www.intercon.world",
     "startDate": "2021-06-23",
@@ -244,7 +221,6 @@
     "city": "Columbus, OH",
     "country": "U.S.A.",
     "online": true,
-    "cocUrl": "https://womeninanalytics.com/about/code-of-conduct/",
     "twitter": "@wia_community"
   },
   {
@@ -264,8 +240,6 @@
     "startDate": "2021-07-29",
     "endDate": "2021-07-29",
     "online": true,
-    "cfpUrl": "https://www.papercall.io/conf42-machine-learning-2021",
-    "cfpEndDate": "2021-06-14",
     "twitter": "@conf42com"
   },
   {
@@ -278,24 +252,12 @@
     "cfpEndDate": "2021-05-01"
   },
   {
-    "name": "IEEE Conference On Artificial Intelligence Testing",
-    "url": "http://www.ieeeaitests.com/index.html",
-    "startDate": "2021-08-23",
-    "endDate": "2021-08-26",
-    "online": true,
-    "offersSignLanguageOrCC": true,
-    "cfpUrl": "http://www.ieeeaitests.com/html/callForPapers.html",
-    "cfpEndDate": "2021-04-30"
-  },
-  {
     "name": "IEEE Mobile Cloud",
     "url": "https://www.mobile-cloud.net",
     "startDate": "2021-08-23",
     "endDate": "2021-08-26",
     "online": true,
-    "offersSignLanguageOrCC": true,
-    "cfpUrl": "https://www.mobile-cloud.net/#call-for-papers",
-    "cfpEndDate": "2021-05-01"
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "ODSC APAC Virtual Conference",
@@ -305,17 +267,6 @@
     "online": true,
     "offersSignLanguageOrCC": true,
     "twitter": "@ODSC"
-  },
-  {
-    "name": "WeAreDevelopers Live - Database Day",
-    "url": "https://www.wearedevelopers.com/event/database-day",
-    "startDate": "2021-09-30",
-    "endDate": "2021-09-30",
-    "online": true,
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct",
-    "cfpUrl": "https://www.wearedevelopers.com/speakers/call-for-speakers",
-    "cfpEndDate": "2021-09-02",
-    "twitter": "@wearedevs"
   },
   {
     "name": "PostgresConf South Africa",
@@ -379,15 +330,6 @@
     "offersSignLanguageOrCC": true
   },
   {
-    "name": "Minds Mastering Machines – Special Day NLP",
-    "url": "https://m3-konferenz.de/nlp.php",
-    "startDate": "2021-11-09",
-    "endDate": "2021-11-09",
-    "online": true,
-    "cocUrl": "https://m3-konferenz.de/code_of_conduct.php",
-    "twitter": "@M3_Konferenz"
-  },
-  {
     "name": "ODSC West AIx Summit",
     "url": "https://odsc.com/california/aix-west",
     "startDate": "2021-11-16",
@@ -397,13 +339,6 @@
     "online": true,
     "offersSignLanguageOrCC": true,
     "twitter": "@ODSC"
-  },
-  {
-    "name": "DOAG (Biggest European Conference about Oracle DB topics)",
-    "url": "https://2021.doag.org/de/home",
-    "startDate": "2021-11-16",
-    "endDate": "2021-11-18",
-    "online": true
   },
   {
     "name": "ODSC West",
@@ -444,8 +379,6 @@
     "endDate": "2021-11-25",
     "online": true,
     "cocUrl": "https://mlconference.ai/code-of-conduct/",
-    "cfpUrl": "https://mlconference.ai/call-for-papers",
-    "cfpEndDate": "2021-05-24",
     "twitter": "@mlconference"
   },
   {
@@ -456,17 +389,6 @@
     "online": true,
     "cocUrl": "https://m3-konferenz.de/code_of_conduct.php",
     "twitter": "@M3_Konferenz"
-  },
-  {
-    "name": "International Conference on Artificial Intelligence and Education",
-    "url": "https://econf.co/icaie2021/index.html",
-    "startDate": "2021-11-26",
-    "endDate": "2021-11-27",
-    "city": "Singapore",
-    "country": "Singapore",
-    "online": false,
-    "cfpUrl": "https://econf.co/icaie2021/cfp.html",
-    "cfpEndDate": "2021-10-30"
   },
   {
     "name": "Postgres Build",

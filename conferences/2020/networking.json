@@ -14,17 +14,7 @@
     "endDate": "2020-01-18",
     "city": "Bangalore",
     "country": "India",
-    "cfpUrl": "https://indiaos.in/propose-a-talk",
     "twitter": "@IndiaOSConf"
-  },
-  {
-    "name": "European Testing Conference",
-    "url": "https://europeantestingconference.eu/2020",
-    "startDate": "2020-02-06",
-    "endDate": "2020-02-07",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "twitter": "@eurotestingconf"
   },
   {
     "name": "Nor(Dev):Con",
@@ -43,15 +33,6 @@
     "city": "Brussels",
     "country": "Belgium",
     "twitter": "@WorkshopSummit"
-  },
-  {
-    "name": "Women Impact Tech",
-    "url": "https://womenimpacttech.com/event/sanfrancisco2020",
-    "startDate": "2020-03-05",
-    "endDate": "2020-03-05",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "twitter": "@womenimpacttech"
   },
   {
     "name": "Johnson Women in Tech",
@@ -86,7 +67,6 @@
     "endDate": "2020-05-20",
     "city": "San Diego, CA",
     "country": "U.S.A.",
-    "cfpUrl": "http://www.cvent.com/events/2020-ieee-women-in-engineering-international-leadership-conference-wie-ilc-/event-summary-8b62849ef4bb4e418affbb9fac591331.aspx",
     "twitter": "@wieilc"
   },
   {
@@ -110,8 +90,6 @@
     "endDate": "2020-05-28",
     "city": "Paris",
     "country": "France",
-    "cfpUrl": "https://nomadays.events/cfp",
-    "cfpEndDate": "2020-04-03",
     "twitter": "@nomadays_events"
   },
   {
@@ -132,24 +110,6 @@
     "twitter": "@witi"
   },
   {
-    "name": "Women Impact Tech",
-    "url": "https://womenimpacttech.com/event/boston2020",
-    "startDate": "2020-07-30",
-    "endDate": "2020-07-30",
-    "city": "Boston, MA",
-    "country": "U.S.A.",
-    "twitter": "@womenimpacttech"
-  },
-  {
-    "name": "Women Impact Tech",
-    "url": "https://womenimpacttech.com/event/nyc2020",
-    "startDate": "2020-08-27",
-    "endDate": "2020-08-27",
-    "city": "New York, NY",
-    "country": "U.S.A.",
-    "twitter": "@womenimpacttech"
-  },
-  {
     "name": "Intelligent Health",
     "url": "https://intelligenthealth.ai",
     "startDate": "2020-09-09",
@@ -166,16 +126,6 @@
     "twitter": "@techexeter"
   },
   {
-    "name": "International Conference on Advanced Science and Technology",
-    "url": "https://stemconferences.com/icast/index.html",
-    "startDate": "2020-09-15",
-    "endDate": "2020-09-16",
-    "city": "London",
-    "country": "U.K.",
-    "cfpUrl": "https://stemconferences.com/icast/cfp.html",
-    "cfpEndDate": "2020-08-10"
-  },
-  {
     "name": "Women in Tech Summit",
     "url": "http://midwest.womenintechsummit.net",
     "startDate": "2020-09-25",
@@ -183,14 +133,6 @@
     "city": "Chicago, IL",
     "country": "U.S.A.",
     "twitter": "@womentechsummit"
-  },
-  {
-    "name": "Testcon",
-    "url": "https://www.clavent.com/testcon-2020-bangalore",
-    "startDate": "2020-09-25",
-    "endDate": "2020-09-26",
-    "online": true,
-    "twitter": "@Testcon2020"
   },
   {
     "name": "Future Developer Summit",
@@ -207,7 +149,6 @@
     "endDate": "2020-10-02",
     "city": "Orlando, FL",
     "country": "U.S.A.",
-    "cfpUrl": "https://ghc.anitab.org/2020-speakers",
     "twitter": "@ghc"
   },
   {
@@ -215,9 +156,7 @@
     "url": "https://conf.activitypub.rocks",
     "startDate": "2020-10-02",
     "endDate": "2020-10-05",
-    "online": true,
-    "cfpUrl": "https://conf.activitypub.rocks/cfp",
-    "cfpEndDate": "2020-07-08"
+    "online": true
   },
   {
     "name": "GFiT- Information Technology Virtual Expo",
@@ -245,7 +184,6 @@
     "endDate": "2020-10-16",
     "city": "Santa Clara, CA",
     "country": "U.S.A.",
-    "cfpUrl": "https://www.womenofsiliconvalley.com/speaker-enquiries",
     "twitter": "@wintechseries"
   },
   {
@@ -283,16 +221,6 @@
     "twitter": "@QuantumTech_"
   },
   {
-    "name": "Lesbians Who Tech & Allies Summit",
-    "url": "https://lesbianswhotech.org/sanfrancisco2020",
-    "startDate": "2020-10-28",
-    "endDate": "2020-10-30",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "cfpUrl": "https://lesbianswhotech.org/sanfrancisco2020/speaker-application",
-    "twitter": "@lesbiantech"
-  },
-  {
     "name": "MODXpo",
     "url": "https://2020.modxpo.eu",
     "startDate": "2020-10-29",
@@ -324,15 +252,6 @@
     "twitter": "@TechGirlzorg"
   },
   {
-    "name": "Women Impact Tech",
-    "url": "https://womenimpacttech.com/event/la2020",
-    "startDate": "2020-11-04",
-    "endDate": "2020-11-04",
-    "city": "Los Angeles, CA",
-    "country": "U.S.A.",
-    "twitter": "@womenimpacttech"
-  },
-  {
     "name": "WE",
     "url": "https://societyofwomenengineers.swe.org",
     "startDate": "2020-11-05",
@@ -359,15 +278,6 @@
     "twitter": "@womentechsummit"
   },
   {
-    "name": "Women in Tech Festival",
-    "url": "https://siliconvalleyforum.com/women-in-tech-festival",
-    "startDate": "2020-11-13",
-    "endDate": "2020-11-14",
-    "city": "Mountain View, CA",
-    "country": "U.S.A.",
-    "twitter": "@SVForum"
-  },
-  {
     "name": "Techfest LIVE features Road-to-WCIT Malaysia",
     "url": "https://techfest.my",
     "startDate": "2020-11-18",
@@ -375,15 +285,6 @@
     "city": "Penang",
     "country": "Malaysia",
     "twitter": "@TechFestMY"
-  },
-  {
-    "name": "Women Impact Tech",
-    "url": "https://womenimpacttech.com/event/seattle2020",
-    "startDate": "2020-12-08",
-    "endDate": "2020-12-08",
-    "city": "Seattle, WA",
-    "country": "U.S.A.",
-    "twitter": "@womenimpacttech"
   },
   {
     "name": "Ghana Tech Summit",

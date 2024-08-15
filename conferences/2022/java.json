@@ -1,14 +1,5 @@
 [
   {
-    "name": "Java Day",
-    "url": "https://www.wearedevelopers.com/event/java-day-1201",
-    "startDate": "2022-01-12",
-    "endDate": "2022-01-12",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/wearedevelopers-live-2022",
-    "cfpEndDate": "2022-01-03"
-  },
-  {
     "name": "JChampionsConf",
     "url": "https://jchampionsconf.com",
     "startDate": "2022-01-20",
@@ -24,8 +15,6 @@
     "city": "Bucharest",
     "country": "Romania",
     "online": true,
-    "cfpUrl": "https://vdbuh22.cfp.dev/#",
-    "cfpEndDate": "2022-01-20",
     "twitter": "@VoxxedBucharest"
   },
   {
@@ -49,8 +38,6 @@
     "city": "London",
     "country": "U.K.",
     "online": true,
-    "cfpUrl": "https://devoxxuk22.cfp.dev/#",
-    "cfpEndDate": "2022-01-28",
     "twitter": "@DevoxxUK"
   },
   {
@@ -72,7 +59,6 @@
     "city": "Barcelona",
     "country": "Spain",
     "online": false,
-    "cocUrl": "https://2022.springio.net/codeofconduct",
     "cfpUrl": "https://www.papercall.io/springio22",
     "cfpEndDate": "2022-03-01",
     "twitter": "@spring_io"
@@ -90,18 +76,6 @@
     "twitter": "@javadayistanbul"
   },
   {
-    "name": "MakeIT",
-    "url": "https://makeit.si/index.php/en",
-    "startDate": "2022-06-02",
-    "endDate": "2022-06-03",
-    "city": "Portorož",
-    "country": "Slovenia",
-    "online": false,
-    "cfpUrl": "https://makeit.si/index.php/en/conference/cfp-submission-2",
-    "cfpEndDate": "2022-02-28",
-    "twitter": "@makeitconf2022"
-  },
-  {
     "name": "JNation",
     "url": "https://jnation.pt",
     "startDate": "2022-06-07",
@@ -110,8 +84,6 @@
     "country": "Portugal",
     "online": false,
     "cocUrl": "https://jnation.pt/code-of-conduct/",
-    "cfpUrl": "https://jnation.pt/cfp",
-    "cfpEndDate": "2022-05-01",
     "twitter": "@jnationConf"
   },
   {
@@ -152,17 +124,7 @@
     "startDate": "2022-08-23",
     "endDate": "2022-08-23",
     "online": true,
-    "cocUrl": "https://www.cloud-builders.tech/code-of-conduct",
     "twitter": "@cloudbuildersua"
-  },
-  {
-    "name": "Java Forum",
-    "url": "https://events.skillsmatter.com/java-forum-2022",
-    "startDate": "2022-08-31",
-    "endDate": "2022-08-31",
-    "online": true,
-    "cocUrl": "https://skillsmatter.com/go/code-of-conduct",
-    "twitter": "@skillsmatter"
   },
   {
     "name": "JavaZone",
@@ -191,17 +153,6 @@
     "twitter": "@nodejsone"
   },
   {
-    "name": "WeAreDevelopers Java Day",
-    "url": "https://www.wearedevelopers.com/event/java-day-2109",
-    "startDate": "2022-09-21",
-    "endDate": "2022-09-21",
-    "online": true,
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form.",
-    "cfpUrl": "https://sessionize.com/wadlive2022",
-    "cfpEndDate": "2022-09-01",
-    "twitter": "@WeAreDevs"
-  },
-  {
     "name": "jconf.dev",
     "url": "https://2022.jconf.dev",
     "startDate": "2022-09-26",
@@ -213,14 +164,6 @@
     "cfpUrl": "https://sessionize.com/jconf-dev-2022",
     "cfpEndDate": "2022-07-05",
     "twitter": "@jconfdev"
-  },
-  {
-    "name": "IntelliJ IDEA Conf",
-    "url": "https://pages.jetbrains.com/intellij-idea-conf-2022",
-    "startDate": "2022-09-29",
-    "endDate": "2022-09-30",
-    "online": true,
-    "cocUrl": "https://berlincodeofconduct.org"
   },
   {
     "name": "JAX London",

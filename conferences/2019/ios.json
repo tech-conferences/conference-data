@@ -6,20 +6,7 @@
     "endDate": "2019-01-19",
     "city": "Singapore",
     "country": "Singapore",
-    "cfpUrl": "https://www.papercall.io/iosconfsg",
-    "cfpEndDate": "2018-10-15",
     "twitter": "@iosconfsg"
-  },
-  {
-    "name": "dotSwift",
-    "url": "https://www.dotswift.io/",
-    "startDate": "2019-01-28",
-    "endDate": "2019-01-28",
-    "city": "Paris",
-    "country": "France",
-    "cfpUrl": "https://goo.gl/forms/T4Z7rTy2RxfhUebd2",
-    "cfpEndDate": "2019-01-01",
-    "twitter": "@dotSwift"
   },
   {
     "name": "AppDevCon",
@@ -38,9 +25,7 @@
     "startDate": "2019-03-21",
     "endDate": "2019-03-22",
     "city": "London",
-    "country": "U.K.",
-    "cfpUrl": "https://skillsmatter.com/conferences/10823-ioscon-2019-the-conference-for-ios-and-swift-developers#get_involved",
-    "cfpEndDate": "2018-11-26"
+    "country": "U.K."
   },
   {
     "name": "try! Swift Tokyo",
@@ -189,8 +174,6 @@
     "endDate": "2019-09-04",
     "city": "Melbourne",
     "country": "Australia",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfMy_CVigYeioDJ9mpoLX41TuVGbyDBmBrG-aqFAfX4ZlmENw/viewform",
-    "cfpEndDate": "2019-06-05",
     "twitter": "@AUC_ANZ"
   },
   {
@@ -202,17 +185,6 @@
     "country": "U.S.A.",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdZGAKQLn8CmSz2dVkDzUUVTp3eV0I-7krx5VUnJQRy9FlDVQ/viewform",
     "twitter": "@tryswiftnyc"
-  },
-  {
-    "name": "iPlayground",
-    "url": "http://iplayground.io/2019",
-    "startDate": "2019-09-21",
-    "endDate": "2019-09-22",
-    "city": "Taipei",
-    "country": "Taiwan",
-    "cfpUrl": "https://cfp.iplayground.io/events/iplayground_2019",
-    "cfpEndDate": "2019-08-10",
-    "twitter": "@theiPlayground"
   },
   {
     "name": "FrenchKit",
@@ -237,14 +209,6 @@
     "twitter": "@pragmamarkorg"
   },
   {
-    "name": "SwiftUI Bootcamp",
-    "url": "https://www.devsassemble.com/one-day-swiftui-bootcamp-london",
-    "startDate": "2019-10-19",
-    "endDate": "2019-10-20",
-    "city": "London",
-    "country": "U.K."
-  },
-  {
     "name": "Mobilization IX",
     "url": "http://2019.mobilization.pl",
     "startDate": "2019-10-26",
@@ -264,15 +228,6 @@
     "country": "Norway",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc1jaV9hfpSz5Y-ZTvWhUMSgANaB2bSjzLG8_nYnNabbzB0mw/viewform",
     "twitter": "@mobileeraconf"
-  },
-  {
-    "name": "Swift Heroes",
-    "url": "https://swiftheroes.com/2019/en",
-    "startDate": "2019-11-15",
-    "endDate": "2019-11-15",
-    "city": "Turin",
-    "country": "Italy",
-    "twitter": "@swiftheroes_it"
   },
   {
     "name": "Swift Alps",
@@ -300,8 +255,6 @@
     "endDate": "2019-12-05",
     "city": "Karlsruhe",
     "country": "Germany",
-    "cfpUrl": "https://heise-macdev.de/call_for_proposals.php",
-    "cfpEndDate": "2019-06-21",
     "twitter": "@heiseMacDev"
   }
 ]

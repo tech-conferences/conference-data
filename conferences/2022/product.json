@@ -63,7 +63,6 @@
     "city": "Dublin",
     "country": "Ireland",
     "online": true,
-    "cocUrl": "https://skillsmatter.com/go/code-of-conduct",
     "twitter": "@ProductElev8n"
   },
   {
@@ -84,16 +83,5 @@
     "city": "Bangkok",
     "country": "Thailand",
     "online": true
-  },
-  {
-    "name": "International Product Conference",
-    "url": "https://parimatch.tech/event/product-conference-prague",
-    "startDate": "2022-12-02",
-    "endDate": "2022-12-02",
-    "city": "Prague",
-    "country": "Czech Republic",
-    "online": true,
-    "locales": "EN",
-    "twitter": "@ParimatchTech"
   }
 ]
