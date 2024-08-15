@@ -419,18 +419,6 @@
     "twitter": "@DevNetwork_"
   },
   {
-    "name": "Artificial Intelligence & Machine Learning (AI & ML)",
-    "url": "https://www.conf42.com/aiml2024",
-    "startDate": "2024-05-30",
-    "endDate": "2024-05-30",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "cfpUrl": "https://www.papercall.io/conf42-artificial-intelligence-machine-learning-2024",
-    "cfpEndDate": "2024-04-29",
-    "twitter": "@conf42com"
-  },
-  {
     "name": "AI World Congress",
     "url": "https://aiconference.london/",
     "startDate": "2024-05-30",
@@ -741,16 +729,6 @@
     "twitter": "@Ai4Conferences"
   },
   {
-    "name": "AI Showcase",
-    "url": "https://sfai.vercel.app",
-    "startDate": "2024-08-16",
-    "endDate": "2024-08-17",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "locales": "EN"
-  },
-  {
     "name": "The Modern Data Quality Summit",
     "url": "https://moderndataqualitysummit.com",
     "startDate": "2024-08-20",
@@ -915,9 +893,7 @@
     "country": "Germany",
     "online": false,
     "locales": "DE",
-    "cocUrl": "https://berlincodeofconduct.org/de/",
-    "cfpUrl": "https://iterate.ruhr/callforpapers",
-    "cfpEndDate": "2024-06-30"
+    "cocUrl": "https://berlincodeofconduct.org/de/"
   },
   {
     "name": "GovAI Summit",
@@ -1065,17 +1041,6 @@
     "cfpUrl": "https://www.dotai.io/cfp",
     "cfpEndDate": "2024-04-30",
     "twitter": "@dotaiconf"
-  },
-  {
-    "name": "International Conference on Machine Learning and Artificial Intelligence",
-    "url": "https://www.pagesconferences.com/2024/robotics-artificial-intelligence",
-    "startDate": "2024-10-21",
-    "endDate": "2024-10-23",
-    "city": "Edinburgh",
-    "country": "U.K.",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://www.pagesconferences.com/2024/robotics-artificial-intelligence"
   },
   {
     "name": "CDAO Perth",
@@ -1333,7 +1298,6 @@
     "country": "Poland",
     "online": false,
     "locales": "PL",
-    "cocUrl": "https://omhconf.pl/wp-content/uploads/2024/02/Code-of-Conduct-2024.pdf",
     "cfpUrl": "https://omhconf.pl/cfp-2024",
     "cfpEndDate": "2024-09-16",
     "twitter": "@OMHconf"

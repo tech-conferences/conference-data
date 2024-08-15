@@ -35,8 +35,6 @@
     "online": false,
     "locales": "EN",
     "cocUrl": "https://that.us/support/code-of-conduct/",
-    "cfpUrl": "https://that.us/call-for-counselors/tx/2024",
-    "cfpEndDate": "2023-10-01",
     "twitter": "@thatconference"
   },
   {
@@ -157,15 +155,6 @@
     "twitter": "@schrodinger_hat"
   },
   {
-    "name": "Women In Tech Day",
-    "url": "https://www.wearedevelopers.com/event/women-in-tech-day-march-2024",
-    "startDate": "2024-03-08",
-    "endDate": "2024-03-08",
-    "online": true,
-    "locales": "EN",
-    "twitter": "@WeAreDevs"
-  },
-  {
     "name": "Software Architecture Summit München",
     "url": "https://software-architecture-summit.de/muenchen",
     "startDate": "2024-03-11",
@@ -239,15 +228,6 @@
     "twitter": "@MITechCon"
   },
   {
-    "name": "Web3 Day",
-    "url": "https://www.wearedevelopers.com/event/web3-day-april-2024",
-    "startDate": "2024-04-03",
-    "endDate": "2024-04-03",
-    "online": true,
-    "locales": "EN",
-    "twitter": "@WeAreDevs"
-  },
-  {
     "name": "PostgreSQL Conference Germany",
     "url": "https://2024.pgconf.de",
     "startDate": "2024-04-12",
@@ -297,15 +277,6 @@
     "twitter": "@CivoCloud"
   },
   {
-    "name": "Vue.js Day",
-    "url": "https://www.wearedevelopers.com/event/vue-js-day-april-2024",
-    "startDate": "2024-04-17",
-    "endDate": "2024-04-17",
-    "online": true,
-    "locales": "EN",
-    "twitter": "@WeAreDevs"
-  },
-  {
     "name": "Great International Developer Summit (GIDS)",
     "url": "https://developersummit.com",
     "startDate": "2024-04-23",
@@ -315,18 +286,7 @@
     "online": false,
     "locales": "EN",
     "cocUrl": "https://saltmarch.com/code-of-conduct",
-    "cfpUrl": "https://form.jotform.com/developersummit/gids-2024-call-for-proposals",
-    "cfpEndDate": "2023-10-31",
     "twitter": "@developersummit"
-  },
-  {
-    "name": "Cloud Day",
-    "url": "https://www.wearedevelopers.com/event/cloud-day-april-2024",
-    "startDate": "2024-04-24",
-    "endDate": "2024-04-24",
-    "online": true,
-    "locales": "EN",
-    "twitter": "@WeAreDevs"
   },
   {
     "name": "Middle East Enterprise AI & Analytics Summit",
@@ -379,18 +339,6 @@
     "twitter": "@devopsdayskc"
   },
   {
-    "name": "Women Who Code CONNECT: Thrive in Tech",
-    "url": "http://www.womenwhocode.com/connect",
-    "startDate": "2024-05-16",
-    "endDate": "2024-05-16",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://womenwhocode.com/codeofconduct",
-    "cfpUrl": "https://code.womenwhocode.com/connect-2024-cfp",
-    "cfpEndDate": "2024-03-25",
-    "twitter": "@womenwhocode"
-  },
-  {
     "name": "TIL Conf",
     "url": "https://til-conf.netlify.app",
     "startDate": "2024-05-16",
@@ -435,15 +383,6 @@
     "cfpUrl": "https://cncly.co/cfp-ny24",
     "cfpEndDate": "2024-02-11",
     "twitter": "@KcdNewyork"
-  },
-  {
-    "name": "Machine Learning Day",
-    "url": "https://www.wearedevelopers.com/event/machine-learning-day-may-2024",
-    "startDate": "2024-05-22",
-    "endDate": "2024-05-22",
-    "online": true,
-    "locales": "EN",
-    "twitter": "@WeAreDevs"
   },
   {
     "name": "Craft IT",
@@ -1484,7 +1423,7 @@
     "locales": "ES",
     "offersSignLanguageOrCC": true,
     "cocUrl": "https://github.com/boyaca-dev/code-of-conduct/blob/bc/readme-es.md",
-    "cfpUrl": "https://cfs.boyaconf.com",
+    "cfpUrl": "https://sessionize.com/boyaconf-2024",
     "cfpEndDate": "2024-09-01",
     "twitter": "@boyaca_dev"
   },

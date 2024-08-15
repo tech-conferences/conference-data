@@ -10,14 +10,6 @@
     "locales": "EN"
   },
   {
-    "name": "International Space Convention",
-    "url": "https://www.internationalspaceconvention.com",
-    "startDate": "2024-02-12",
-    "endDate": "2024-02-16",
-    "online": true,
-    "locales": "EN"
-  },
-  {
     "name": "FOSS Backstage",
     "url": "https://24.foss-backstage.de",
     "startDate": "2024-03-04",
@@ -233,7 +225,7 @@
   },
   {
     "name": "InfoQ Dev Summit Boston",
-    "url": "https://devsummit.infoq.com/boston_medialisting2024",
+    "url": "https://devsummit.infoq.com/conference/boston2024",
     "startDate": "2024-06-24",
     "endDate": "2024-06-25",
     "city": "Boston, MA",
@@ -291,9 +283,7 @@
     "country": "Germany",
     "online": false,
     "locales": "DE",
-    "cocUrl": "https://berlincodeofconduct.org/de/",
-    "cfpUrl": "https://iterate.ruhr/callforpapers",
-    "cfpEndDate": "2024-06-30"
+    "cocUrl": "https://berlincodeofconduct.org/de/"
   },
   {
     "name": "Unicorns in Tech Summit: dear___future",
