@@ -18,11 +18,9 @@ jobs:
             issue-content: ./lychee-out.md
         steps:
             - name: Get current year
-              id: current_year
-              run: echo "::set-output name=date::$(date +'%Y')"
+              run: echo "CURRENT_YEAR=$(date +'%Y')" >> $GITHUB_ENV
             - name: Get next year
-              id: next_year
-              run: echo "::set-output name=date::$(date -d '+1 year' +'%Y')"
+              run: echo "NEXT_YEAR=$(date -d '+1 year' +'%Y')" >> $GITHUB_ENV
             - uses: actions/checkout@v4
             - name: Restore lychee cache
               uses: actions/cache@v4
@@ -35,7 +33,7 @@ jobs:
               uses: lycheeverse/lychee-action@v1.10.0
               with:
                   fail: true
-                  args: --verbose --no-progress './conferences/2024/**/*.json' './conferences/2025/**/*.json' './conferences/2026/**/*.json' --exclude-mail
+                  args: --verbose --no-progress './conferences/$CURRENT_YEAR/**/*.json' './conferences/$NEXT_YEAR/**/*.json' --exclude-mail
                   output: ${{ env.issue-content }}
             - name: Comment Broken Links
               if: ${{ failure() }}
