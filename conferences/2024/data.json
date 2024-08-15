@@ -210,8 +210,6 @@
     "online": true,
     "locales": "EN",
     "cocUrl": "https://developer.microsoft.com/reactor/codeofconduct/",
-    "cfpUrl": "https://aka.ms/AzureCosmosDBConf24CFP",
-    "cfpEndDate": "2024-02-15",
     "twitter": "@AzureCosmosDB"
   },
   {
@@ -1252,9 +1250,7 @@
     "country": "Germany",
     "online": false,
     "locales": "EN",
-    "offersSignLanguageOrCC": true,
-    "cfpUrl": "https://www.automantia.in/aiam24-munich",
-    "cfpEndDate": "2024-11-20"
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "Conf42 Prompt Engineering",
