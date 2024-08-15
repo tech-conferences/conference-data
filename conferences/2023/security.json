@@ -83,8 +83,6 @@
     "online": false,
     "locales": "EN",
     "cocUrl": "https://romania.voxxeddays.com",
-    "cfpUrl": "https://vdbuh23.cfp.dev/#",
-    "cfpEndDate": "2023-01-15",
     "twitter": "@VoxxedBucharest"
   },
   {
@@ -134,24 +132,6 @@
     "locales": "EN",
     "cocUrl": "https://devopscon.io/code-of-conduct/",
     "twitter": "@devops_con"
-  },
-  {
-    "name": "Security Day",
-    "url": "https://www.wearedevelopers.com/event/security-day-april-2023",
-    "startDate": "2023-04-26",
-    "endDate": "2023-04-26",
-    "online": true,
-    "locales": "EN",
-    "twitter": "@wearedevs"
-  },
-  {
-    "name": "Ateraverse",
-    "url": "https://www.atera.com/lp/ateraverse",
-    "startDate": "2023-05-03",
-    "endDate": "2023-05-04",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://www.atera.com/terms-of-use/"
   },
   {
     "name": "SeaStar Quality Conference",
@@ -516,7 +496,6 @@
     "country": "United Arab Emirates",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://aavar.org/index.php/rules-and-guidelines/@avar_asia",
     "cfpUrl": "https://forms.gle/yUQgxt4RLrKYErLy9",
     "cfpEndDate": "2023-08-12",
     "twitter": "@avar_asia"

@@ -34,18 +34,6 @@
     "twitter": "@FlutterSummit"
   },
   {
-    "name": "WeAreDevelopers Mobile Day",
-    "url": "https://www.wearedevelopers.com/event/mobile-day-march-2023",
-    "startDate": "2023-03-15",
-    "endDate": "2023-03-15",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form.",
-    "cfpUrl": "https://sessionize.com/wearedevelopers-live-2023",
-    "cfpEndDate": "2023-03-06",
-    "twitter": "@WeAreDevs"
-  },
-  {
     "name": "NYSwifty",
     "url": "https://nyswifty.com",
     "startDate": "2023-04-18",
@@ -54,8 +42,6 @@
     "country": "U.S.A.",
     "online": false,
     "locales": "EN",
-    "cfpUrl": "https://www.papercall.io/nyswifty",
-    "cfpEndDate": "2023-01-31",
     "twitter": "@nyswifty"
   },
   {
@@ -271,8 +257,6 @@
     "online": false,
     "locales": "EN",
     "cocUrl": "http://confcodeofconduct.com/",
-    "cfpUrl": "https://www.papercall.io/do-ios-2023",
-    "cfpEndDate": "2023-08-31",
     "twitter": "@iosconf",
     "mastodon": "@appforce1@hachyderm.io"
   }

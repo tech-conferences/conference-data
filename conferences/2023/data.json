@@ -10,16 +10,6 @@
     "twitter": "@ODSC"
   },
   {
-    "name": "Boosting SaaS Products with New Technologies Big Data. Data Science. Artificial Intelligence. Machine Learning",
-    "url": "https://gloriumtech.com/boosting-saas-products-with-new-technologies",
-    "startDate": "2023-01-18",
-    "endDate": "2023-01-19",
-    "online": true,
-    "locales": "EN",
-    "offersSignLanguageOrCC": true,
-    "twitter": "@Glorium_Tech"
-  },
-  {
     "name": "Data Teams Summit",
     "url": "https://datateamssummit.com",
     "startDate": "2023-01-25",
@@ -210,8 +200,6 @@
     "endDate": "2023-05-18",
     "online": true,
     "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "cfpUrl": "https://www.papercall.io/conf42-machine-learning-2023",
-    "cfpEndDate": "2023-04-18",
     "twitter": "@conf42com"
   },
   {
@@ -282,35 +270,6 @@
     "twitter": "@pgcon"
   },
   {
-    "name": "Machine Learning Day",
-    "url": "https://www.wearedevelopers.com/event/machine-learning-day-may-2023",
-    "startDate": "2023-05-31",
-    "endDate": "2023-05-31",
-    "online": true,
-    "locales": "EN",
-    "twitter": "@WeAreDevs"
-  },
-  {
-    "name": "Common Sense Data & Analytics - Predict, North America",
-    "url": "https://www.commonsense.events/events/cs23-data-analytics-predict-na",
-    "startDate": "2023-06-06",
-    "endDate": "2023-06-08",
-    "city": "Dallas, TX",
-    "country": "U.S.A.",
-    "online": false,
-    "locales": "EN",
-    "twitter": "@Common_Sense_BF"
-  },
-  {
-    "name": "Cloud Day",
-    "url": "https://www.wearedevelopers.com/event/cloud-day-june-2023",
-    "startDate": "2023-06-07",
-    "endDate": "2023-06-07",
-    "online": true,
-    "locales": "EN",
-    "twitter": "@WeAreDevs"
-  },
-  {
     "name": "DSS NYC: AI and Machine Learning in Finance & Technology",
     "url": "https://www.datascience.salon/nyc/finance-and-technology",
     "startDate": "2023-06-07",
@@ -371,18 +330,6 @@
     "locales": "EN",
     "cocUrl": "https://www.databricks.com/dataaisummit/code-of-conduct/",
     "twitter": "@Data_AI_Summit"
-  },
-  {
-    "name": "Common Sense AI Day, SF",
-    "url": "https://www.commonsense.events/events/cs23-ai-day-sf",
-    "startDate": "2023-06-27",
-    "endDate": "2023-06-27",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "locales": "EN",
-    "offersSignLanguageOrCC": true,
-    "twitter": "@Common_Sense_BF"
   },
   {
     "name": "PostgreSQL Conference Germany",
@@ -516,7 +463,6 @@
     "online": true,
     "locales": "EN",
     "offersSignLanguageOrCC": true,
-    "cocUrl": "http://aidataossummit.com/",
     "cfpUrl": "https://forms.gle/niHdyyJWVuW1qxUM6",
     "cfpEndDate": "2023-07-10"
   },
@@ -589,17 +535,6 @@
     "twitter": "@GOTOcon"
   },
   {
-    "name": "Data & Analytics Conference",
-    "url": "https://www.commonsense.events/events/cs23-data-analytics-insight-day-boston",
-    "startDate": "2023-10-03",
-    "endDate": "2023-10-03",
-    "city": "Boston, MA",
-    "country": "U.S.A.",
-    "online": false,
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
-  },
-  {
     "name": "SnapLogic Integreat Tour",
     "url": "https://www.snaplogic.com/integreat-tour/san-francisco",
     "startDate": "2023-10-03",
@@ -639,7 +574,6 @@
     "country": "U.S.A.",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://www.ai.engineer/conduct",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdVCTSSDPkcIBjJeqZqq1Ox-PWS6cCxzxdZ9BbZ1z5z56C8eA/viewform",
     "cfpEndDate": "2023-08-20",
     "twitter": "@aiDotEngineer"

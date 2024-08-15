@@ -6,8 +6,6 @@
     "endDate": "2023-01-26",
     "online": true,
     "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "cfpUrl": "https://www.papercall.io/conf42-devops-2023",
-    "cfpEndDate": "2022-12-26",
     "twitter": "@conf42com"
   },
   {
@@ -32,7 +30,6 @@
     "country": "U.K.",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://conference.unicomseminars.org/agile-devops-software-testing-conference/manchester/#Code-Of-Conduct",
     "twitter": "@UNICOMSeminars"
   },
   {
@@ -46,27 +43,6 @@
     "cocUrl": "https://devopsasiasummit.com/devops-asia-summit-2023/",
     "cfpUrl": "https://devopsasiasummit.com/devops-asia-summit-2023",
     "cfpEndDate": "2022-11-30"
-  },
-  {
-    "name": "WeAreDevelopers DevOps Day",
-    "url": "https://www.wearedevelopers.com/event/devops-day-february-2023",
-    "startDate": "2023-02-15",
-    "endDate": "2023-02-15",
-    "online": true,
-    "locales": "EN",
-    "cfpUrl": "https://sessionize.com/wearedevelopers-live-2023",
-    "cfpEndDate": "2023-02-14",
-    "twitter": "@WeAreDevs"
-  },
-  {
-    "name": "HashiTalks",
-    "url": "https://events.hashicorp.com/hashitalks2023",
-    "startDate": "2023-02-16",
-    "endDate": "2023-02-17",
-    "online": true,
-    "cocUrl": "https://www.hashicorp.com/community-guidelines",
-    "cfpUrl": "https://sessionize.com/hashitalks-2023",
-    "cfpEndDate": "2022-12-07"
   },
   {
     "name": "Testing, Agile, DevOps and Low code Showcase: Methods and Tools",
@@ -210,8 +186,6 @@
     "online": false,
     "locales": "EN",
     "cocUrl": "https://romania.voxxeddays.com",
-    "cfpUrl": "https://vdbuh23.cfp.dev/#",
-    "cfpEndDate": "2023-01-15",
     "twitter": "@VoxxedBucharest"
   },
   {
@@ -221,8 +195,6 @@
     "endDate": "2023-03-30",
     "online": true,
     "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "cfpUrl": "https://www.papercall.io/conf42-cloud-native-2023",
-    "cfpEndDate": "2023-02-28",
     "twitter": "@conf42com"
   },
   {
@@ -438,8 +410,6 @@
     "country": "Brazil",
     "online": false,
     "cocUrl": "https://devopsdays.org/events/2023-aracaju/conduct",
-    "cfpUrl": "https://www.papercall.io/dodaju2023",
-    "cfpEndDate": "2023-03-11",
     "twitter": "@dodaracaju"
   },
   {
@@ -542,17 +512,6 @@
     "cocUrl": "https://devops.talksplus.com/melbourne/code-of-conduct"
   },
   {
-    "name": "KubeHuddle",
-    "url": "https://kubehuddle.com/2023/",
-    "startDate": "2023-05-17",
-    "endDate": "2023-05-18",
-    "city": "Toronto",
-    "country": "Canada",
-    "online": false,
-    "cocUrl": "https://kubehuddle.com/code-of-conduct/",
-    "twitter": "@kubehuddle"
-  },
-  {
     "name": "KubeHuddle Toronto",
     "url": "https://kubehuddle.com",
     "startDate": "2023-05-17",
@@ -647,17 +606,6 @@
     "locales": "EN",
     "cocUrl": "https://agiledevopswest.techwell.com/code-conduct",
     "twitter": "@techwell"
-  },
-  {
-    "name": "INTEGRATE",
-    "url": "https://www.serverless360.com/integrate-2023",
-    "startDate": "2023-06-05",
-    "endDate": "2023-06-07",
-    "city": "London",
-    "country": "U.K.",
-    "online": true,
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
   },
   {
     "name": "PlatformCon",
@@ -923,8 +871,6 @@
     "country": "U.K.",
     "online": false,
     "cocUrl": "https://devopsdays.org/events/2023-london/conduct",
-    "cfpUrl": "https://devopsdays.org/events/2023-london/propose",
-    "cfpEndDate": "2023-05-20",
     "twitter": "@DevOpsDaysLDN"
   },
   {
@@ -992,8 +938,6 @@
     "endDate": "2023-09-28",
     "online": true,
     "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "cfpUrl": "https://www.papercall.io/conf42-kube-native-2023",
-    "cfpEndDate": "2023-08-28",
     "twitter": "@conf42com"
   },
   {
@@ -1032,18 +976,6 @@
     "cocUrl": "https://hustef.hu/code-of-conduct/",
     "cfpUrl": "https://hustef.hu/wp-content/uploads/2023/02/HUSTEF-2023-Call-for-Proposals_final.pdf",
     "cfpEndDate": "2023-04-24"
-  },
-  {
-    "name": "WeAreDevelopers DevOps Day",
-    "url": "https://www.wearedevelopers.com/event/devops-day-october-2023",
-    "startDate": "2023-10-04",
-    "endDate": "2023-10-04",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=Exercise%20consideration%20and%20respect%20in,and%20of%20your%20fellow%20participants.",
-    "cfpUrl": "https://sessionize.com/wearedevelopers-live-2023-season-6",
-    "cfpEndDate": "2023-09-27",
-    "twitter": "@WeAreDevs"
   },
   {
     "name": "Mobile DevOps Summit",
@@ -1151,18 +1083,6 @@
     "cfpUrl": "https://www.papercall.io/dodbos23",
     "cfpEndDate": "2023-05-31",
     "twitter": "@devopsdaysbos"
-  },
-  {
-    "name": "Icinga Camp Milan",
-    "url": "https://icinga.com/community/events/icinga-camp-milan-2023",
-    "startDate": "2023-10-17",
-    "endDate": "2023-10-17",
-    "city": "Milano",
-    "country": "Italy",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://tickets.icinga.com/ICM2023/page/code-of-conduct/",
-    "twitter": "@Icinga"
   },
   {
     "name": "DevOps World",
@@ -1402,8 +1322,6 @@
     "endDate": "2023-11-30",
     "online": true,
     "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "cfpUrl": "https://www.papercall.io/conf42-devsecops-2023",
-    "cfpEndDate": "2023-10-30",
     "twitter": "@conf42com"
   },
   {
