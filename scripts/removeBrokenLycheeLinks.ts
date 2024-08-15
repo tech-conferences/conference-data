@@ -21,7 +21,6 @@ for (const fileWithBrokenLinks of filesWithBrokenLinks) {
         if (errors.includes(conference.cfpUrl)) {
             delete conference.cfpUrl;
             delete conference.cfpEndDate;
-
         }
         if (errors.includes(conference.cocUrl)) {
             delete conference.cocUrl;
