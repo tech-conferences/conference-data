@@ -33,7 +33,7 @@ jobs:
               uses: lycheeverse/lychee-action@v1.10.0
               with:
                   fail: true
-                  args: --verbose --no-progress './conferences/$CURRENT_YEAR/**/*.json' './conferences/$NEXT_YEAR/**/*.json' --exclude-mail
+                  args: --verbose --no-progress './conferences/${{ $CURRENT_YEAR }}/**/*.json' './conferences/${{ $NEXT_YEAR }}/**/*.json'
                   output: ${{ env.issue-content }}
             - name: Comment Broken Links
               if: ${{ failure() }}
