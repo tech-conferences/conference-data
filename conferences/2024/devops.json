@@ -375,15 +375,6 @@
     "twitter": "@devopsdayskc"
   },
   {
-    "name": "TIL Conf",
-    "url": "https://til-conf.netlify.app",
-    "startDate": "2024-05-16",
-    "endDate": "2024-05-19",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://til-conf.netlify.app/coc/"
-  },
-  {
     "name": "DevOpsCon San Diego",
     "url": "https://devopscon.io/san-diego",
     "startDate": "2024-05-20",
@@ -479,31 +470,6 @@
     "cfpEndDate": "2024-05-04",
     "twitter": "@devopsdays_kyiv",
     "mastodon": "@devopsdays_ukraine@mastodon.social"
-  },
-  {
-    "name": "DeveloperWeek Latin America",
-    "url": "https://www.developerweek.com/latin-america",
-    "startDate": "2024-06-05",
-    "endDate": "2024-06-06",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "cfpUrl": "https://sessionize.com/developerweek-latin-america-2024",
-    "cfpEndDate": "2024-04-21",
-    "twitter": "@DeveloperWeek"
-  },
-  {
-    "name": "Big Sky Dev Con",
-    "url": "https://bigskydevcon.com",
-    "startDate": "2024-06-08",
-    "endDate": "2024-06-08",
-    "city": "Bozeman, MT",
-    "country": "U.S.A.",
-    "online": false,
-    "locales": "EN",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeDNjPCp4iRPcs11xPIn6ikJ3QhliCspbN_5n0SsqIBP-tA8w/viewform",
-    "cfpEndDate": "2024-04-01",
-    "twitter": "@BigSkyDevCon"
   },
   {
     "name": "INTEGRATE",
