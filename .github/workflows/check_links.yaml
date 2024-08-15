@@ -36,6 +36,7 @@ jobs:
               uses: marocchino/sticky-pull-request-comment@v2
               with:
                   path: ${{ env.issue-content }}
+                  GITHUB_TOKEN: ${{ secrets.BROKEN_LINK }}
             # Permissions (issues: read)
             - name: 'Look for an existing issue'
               if: ${{ failure() }}
