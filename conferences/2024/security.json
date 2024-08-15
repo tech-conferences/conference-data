@@ -138,15 +138,6 @@
     "mastodon": "@BSidesSF@infosec.exchange"
   },
   {
-    "name": "Security Day",
-    "url": "https://www.wearedevelopers.com/event/security-day-may-2024",
-    "startDate": "2024-05-08",
-    "endDate": "2024-05-08",
-    "online": true,
-    "locales": "EN",
-    "twitter": "@WeAreDevs"
-  },
-  {
     "name": "13th International Conference on Software Engineering and Applications",
     "url": "https://ccsea2024.org/sea/index",
     "startDate": "2024-05-18",
@@ -514,7 +505,6 @@
     "country": "Poland",
     "online": false,
     "locales": "PL",
-    "cocUrl": "https://omhconf.pl/wp-content/uploads/2024/02/Code-of-Conduct-2024.pdf",
     "cfpUrl": "https://omhconf.pl/cfp-2024",
     "cfpEndDate": "2024-09-16",
     "twitter": "@OMHconf"

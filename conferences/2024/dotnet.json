@@ -25,17 +25,6 @@
     "twitter": "@vslive"
   },
   {
-    "name": "dotnetdays",
-    "url": "https://dotnetdays.ro",
-    "startDate": "2024-04-18",
-    "endDate": "2024-04-20",
-    "city": "Iasi",
-    "country": "Romania",
-    "online": false,
-    "locales": "EN",
-    "twitter": "@dotnetdaysro"
-  },
-  {
     "name": "Global Azure London",
     "url": "https://globalazure.net",
     "startDate": "2024-04-19",
@@ -83,18 +72,6 @@
     "locales": "DE",
     "cocUrl": "https://basta.net/code-of-conduct-en/",
     "twitter": "@bastacon"
-  },
-  {
-    "name": "Update Days: .NET Performance",
-    "url": "https://performance.updatedays.pl",
-    "startDate": "2024-06-26",
-    "endDate": "2024-06-27",
-    "city": "Kraków",
-    "country": "Poland",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://www.updateconference.net/en/code-of-conduct",
-    "twitter": "@update_conf"
   },
   {
     "name": "WeAreDevelopers - World Congress",
@@ -145,9 +122,7 @@
     "country": "Germany",
     "online": false,
     "locales": "DE",
-    "cocUrl": "https://berlincodeofconduct.org/de/",
-    "cfpUrl": "https://iterate.ruhr/callforpapers",
-    "cfpEndDate": "2024-06-30"
+    "cocUrl": "https://berlincodeofconduct.org/de/"
   },
   {
     "name": ".NET DeveloperDays",

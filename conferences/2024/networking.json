@@ -1,5 +1,31 @@
 [
   {
+    "name": "Codemash",
+    "url": "https://codemash.org",
+    "startDate": "2024-01-09",
+    "endDate": "2024-01-12",
+    "city": "Sandusky, OH",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://codemash.org/codemash-code-conduct/",
+    "cfpUrl": "https://sessionize.com/codemash-2024",
+    "cfpEndDate": "2023-08-31",
+    "twitter": "@codemash"
+  },
+  {
+    "name": "THAT Conference Texas",
+    "url": "https://that.us/events/tx/2024/",
+    "startDate": "2024-01-29",
+    "endDate": "2024-02-01",
+    "city": "Round Rock, TX",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://that.us/support/code-of-conduct/",
+    "twitter": "@thatconference"
+  },
+  {
     "name": "CYSEC Qatar",
     "url": "https://www.cysecqatar.com",
     "startDate": "2024-02-07",
@@ -7,14 +33,6 @@
     "city": "Doha",
     "country": "Qatar",
     "online": false,
-    "locales": "EN"
-  },
-  {
-    "name": "International Space Convention",
-    "url": "https://www.internationalspaceconvention.com",
-    "startDate": "2024-02-12",
-    "endDate": "2024-02-16",
-    "online": true,
     "locales": "EN"
   },
   {
@@ -291,9 +309,7 @@
     "country": "Germany",
     "online": false,
     "locales": "DE",
-    "cocUrl": "https://berlincodeofconduct.org/de/",
-    "cfpUrl": "https://iterate.ruhr/callforpapers",
-    "cfpEndDate": "2024-06-30"
+    "cocUrl": "https://berlincodeofconduct.org/de/"
   },
   {
     "name": "Unicorns in Tech Summit: dear___future",
