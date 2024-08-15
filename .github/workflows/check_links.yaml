@@ -32,6 +32,7 @@ jobs:
                   args: --verbose --no-progress './conferences/2024/**/*.json' './conferences/2025/**/*.json' './conferences/2026/**/*.json' --exclude-mail
                   output: ${{ env.issue-content }}
             - name: Comment Broken Links
+              if: ${{ failure() }}
               uses: marocchino/sticky-pull-request-comment@v2
               with:
                   path: ${{ env.issue-content }}
