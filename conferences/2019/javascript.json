@@ -84,15 +84,6 @@
     "twitter": "@frontfest"
   },
   {
-    "name": "Frontend Developer Love",
-    "url": "http://www.frontenddeveloperlove.com/",
-    "startDate": "2019-02-13",
-    "endDate": "2019-02-15",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "twitter": "@frontend_love"
-  },
-  {
     "name": "Vue.js Amsterdam",
     "url": "https://www.vuejs.amsterdam",
     "startDate": "2019-02-14",
@@ -253,17 +244,6 @@
     "cfpUrl": "https://goo.gl/forms/Pn9LFBDuAGvWJyZf1",
     "cfpEndDate": "2019-02-14",
     "twitter": "@appjsconf"
-  },
-  {
-    "name": "JS Fest",
-    "url": "http://jsfest.com.ua/indexe.html",
-    "startDate": "2019-04-05",
-    "endDate": "2019-04-06",
-    "city": "Kyiv",
-    "country": "Ukraine",
-    "cfpUrl": "http://jsfest.com.ua/speakers_eng.html",
-    "cfpEndDate": "2019-02-23",
-    "twitter": "@jsfestua"
   },
   {
     "name": "ForwardJS Ottawa",
@@ -820,17 +800,6 @@
     "twitter": "@jscamp"
   },
   {
-    "name": "OdessaJS",
-    "url": "http://odessajs.org/",
-    "startDate": "2019-07-20",
-    "endDate": "2019-07-21",
-    "city": "Odessa",
-    "country": "Ukraine",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeQqU4iM-vBx6VRWHQcE1zKh3LW4KZ5231Oe0dQx-neBrrc3g/viewform",
-    "cfpEndDate": "2019-03-30",
-    "twitter": "@OdessaJS"
-  },
-  {
     "name": "Swift India Conference",
     "url": "https://swiftindia.in",
     "startDate": "2019-07-28",
@@ -967,8 +936,6 @@
     "endDate": "2019-08-30",
     "city": "Zurich",
     "country": "Switzerland",
-    "cfpUrl": "https://frontendconf.ch/call-for-speakers",
-    "cfpEndDate": "2019-04-30",
     "twitter": "@frontendconfch"
   },
   {
@@ -1310,7 +1277,6 @@
     "endDate": "2019-10-11",
     "city": "Stockholm",
     "country": "Sweden",
-    "cfpUrl": "http://nordicjs.com/call-for-speakers",
     "twitter": "@nordicjs"
   },
   {
@@ -1521,9 +1487,7 @@
     "startDate": "2019-11-08",
     "endDate": "2019-11-09",
     "city": "Kyiv",
-    "country": "Ukraine",
-    "cfpUrl": "http://jsfest.com.ua/speakers_eng.html",
-    "cfpEndDate": "2019-10-01"
+    "country": "Ukraine"
   },
   {
     "name": "NodeConf.EU",

@@ -70,8 +70,7 @@
     "city": "Nashville, TN",
     "country": "U.S.A.",
     "online": false,
-    "locales": "EN",
-    "cocUrl": "https://www.datatuneconf.com/code-of-conduct.html"
+    "locales": "EN"
   },
   {
     "name": "The DEVOPS Conference",
@@ -164,8 +163,6 @@
     "online": true,
     "locales": "EN",
     "cocUrl": "https://serverless-architecture.io/code-of-conduct/",
-    "cfpUrl": "https://serverless-architecture.io/call-for-papers",
-    "cfpEndDate": "2023-10-30",
     "twitter": "@serverlesscon"
   },
   {
@@ -417,16 +414,6 @@
     "twitter": "@DevNetwork_"
   },
   {
-    "name": "AI World Congress",
-    "url": "https://aiconference.london/",
-    "startDate": "2024-05-30",
-    "endDate": "2024-05-31",
-    "city": "London",
-    "country": "U.K.",
-    "online": false,
-    "locales": "EN"
-  },
-  {
     "name": "International Conference on Automated Planning and Scheduling (ICAPS)",
     "url": "https://icaps24.icaps-conference.org/",
     "startDate": "2024-06-01",
@@ -611,20 +598,6 @@
     "locales": "EN",
     "cocUrl": "https://mlconference.ai/code-of-conduct/",
     "twitter": "@mlconference"
-  },
-  {
-    "name": "Swiss PGDay",
-    "url": "https://www.pgday.ch/2024",
-    "startDate": "2024-06-27",
-    "endDate": "2024-06-28",
-    "city": "Rapperswil-Jona",
-    "country": "Switzerland",
-    "online": false,
-    "locales": "EN,DE",
-    "cocUrl": "https://www.postgresql.org/about/policies/coc/",
-    "cfpUrl": "https://www.pgday.ch/2024/#cfs",
-    "cfpEndDate": "2024-04-08",
-    "mastodon": "@Swiss_PGDay@fosstodon.org"
   },
   {
     "name": "Mirai - AI Tech Event",

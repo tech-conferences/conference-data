@@ -1,14 +1,5 @@
 [
   {
-    "name": "CodeMash",
-    "url": "http://www.codemash.org/",
-    "startDate": "2019-01-08",
-    "endDate": "2019-01-11",
-    "city": "Sandusky, OH",
-    "country": "U.S.A.",
-    "twitter": "@codemash"
-  },
-  {
     "name": "DevFest Florida",
     "url": "https://devfestflorida.org/",
     "startDate": "2019-01-19",
@@ -79,15 +70,6 @@
     "twitter": "@gnunify"
   },
   {
-    "name": "FITC Amsterdam",
-    "url": "http://fitc.ca/event/am19/",
-    "startDate": "2019-02-18",
-    "endDate": "2019-02-19",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "twitter": "@fitc"
-  },
-  {
     "name": "parallel",
     "url": "https://parallelcon.de",
     "startDate": "2019-02-19",
@@ -112,17 +94,6 @@
     "city": "Riga",
     "country": "Latvia",
     "twitter": "@TechChill"
-  },
-  {
-    "name": "!!Con West",
-    "url": "http://bangbangcon.com/west/",
-    "startDate": "2019-02-23",
-    "endDate": "2019-02-24",
-    "city": "Santa Cruz, CA",
-    "country": "U.S.A.",
-    "cfpUrl": "http://bangbangcon.com/west/cfp/",
-    "cfpEndDate": "2018-11-30",
-    "twitter": "@bangbangconwest"
   },
   {
     "name": "SQLBits",
@@ -233,17 +204,6 @@
     "twitter": "@breizhcamp"
   },
   {
-    "name": "Momentum",
-    "url": "http://momentumdevcon.com/",
-    "startDate": "2019-03-21",
-    "endDate": "2019-03-21",
-    "city": "Cincinnati, OH",
-    "country": "U.S.A.",
-    "cfpUrl": "https://sessionize.com/momentum",
-    "cfpEndDate": "2018-11-21",
-    "twitter": "@momentumdevcon"
-  },
-  {
     "name": "Pixels Camp",
     "url": "https://pixels.camp/",
     "startDate": "2019-03-21",
@@ -329,17 +289,6 @@
     "city": "Washington, DC",
     "country": "U.S.A.",
     "twitter": "@womentechsummit"
-  },
-  {
-    "name": "Women Techmakers Greece",
-    "url": "https://womentechmakers.gr/iwd19",
-    "startDate": "2019-03-30",
-    "endDate": "2019-03-30",
-    "city": "Athens",
-    "country": "Greece",
-    "cfpUrl": "https://sessionize.com/women-techmakers-greece-summit-iwd19",
-    "cfpEndDate": "2019-03-06",
-    "twitter": "@wtmgreece"
   },
   {
     "name": "‹Programming›",
@@ -519,26 +468,6 @@
     "city": "Paris",
     "country": "France",
     "twitter": "@devoxx"
-  },
-  {
-    "name": "DevExperience",
-    "url": "http://devexperience.ro/",
-    "startDate": "2019-04-19",
-    "endDate": "2019-04-19",
-    "city": "Iasi",
-    "country": "Romania",
-    "cfpUrl": "https://www.papercall.io/devexperience-iasi",
-    "cfpEndDate": "2018-12-23",
-    "twitter": "@devexperiencero"
-  },
-  {
-    "name": "FITC Toronto",
-    "url": "http://fitc.ca/event/to19/",
-    "startDate": "2019-04-21",
-    "endDate": "2019-04-23",
-    "city": "Toronto",
-    "country": "Canada",
-    "twitter": "@fitc"
   },
   {
     "name": "Visual Studio Live!",
@@ -790,8 +719,6 @@
     "endDate": "2019-05-24",
     "city": "Stockholm",
     "country": "Sweden",
-    "cfpUrl": "http://www.devsum.se/cfp/",
-    "cfpEndDate": "2018-12-23",
     "twitter": "@DevSum_swe"
   },
   {
@@ -838,8 +765,6 @@
     "endDate": "2019-05-26",
     "city": "Marseille",
     "country": "France",
-    "cfpUrl": "http://minidebconf-mrs.debian.net/#cfp",
-    "cfpEndDate": "2019-04-21",
     "twitter": "@MiniDebConf_MRS"
   },
   {
@@ -1067,16 +992,6 @@
     "twitter": "@devoxx"
   },
   {
-    "name": "S-BPM ONE",
-    "url": "http://www.s-bpm-one.org/s-bpm-one-2019",
-    "startDate": "2019-06-26",
-    "endDate": "2019-06-28",
-    "city": "Seville",
-    "country": "Spain",
-    "cfpUrl": "http://www.s-bpm-one.org/cfp2019/",
-    "cfpEndDate": "2019-02-28"
-  },
-  {
     "name": "Sunny Tech",
     "url": "https://sunny-tech.io",
     "startDate": "2019-06-27",
@@ -1145,17 +1060,6 @@
     "city": "Denver, CO",
     "country": "U.S.A.",
     "cfpUrl": "https://uberconf.com/home/speaker_request"
-  },
-  {
-    "name": "Kansas City Dev Con",
-    "url": "http://www.kcdc.info/",
-    "startDate": "2019-07-17",
-    "endDate": "2019-07-19",
-    "city": "Kansas City, MO",
-    "country": "U.S.A.",
-    "cfpUrl": "https://sessionize.com/kcdc-2019",
-    "cfpEndDate": "2019-01-31",
-    "twitter": "@kc_dc"
   },
   {
     "name": "SIGGRAPH",
@@ -1282,15 +1186,6 @@
     "country": "India",
     "cfpUrl": "https://cmt3.research.microsoft.com/FOSSCONIndia2019",
     "cfpEndDate": "2019-06-10"
-  },
-  {
-    "name": "Herbstcampus",
-    "url": "https://www.herbstcampus.de/",
-    "startDate": "2019-09-03",
-    "endDate": "2019-09-05",
-    "city": "Nürnberg",
-    "country": "Germany",
-    "twitter": "@Herbstcampus"
   },
   {
     "name": "YOW! Perth",
@@ -1916,8 +1811,6 @@
     "endDate": "2019-10-29",
     "city": "Gdansk",
     "country": "Poland",
-    "cfpUrl": "http://aadays.pl/call-for-proposals-2019",
-    "cfpEndDate": "2019-06-05",
     "twitter": "@AADaysPoland"
   },
   {
@@ -2053,8 +1946,6 @@
     "endDate": "2019-11-08",
     "city": "Malmö",
     "country": "Sweden",
-    "cfpUrl": "http://oredev.org/cfp/call-for-papers",
-    "cfpEndDate": "2019-03-31",
     "twitter": "@oredev"
   },
   {
@@ -2242,9 +2133,7 @@
     "startDate": "2019-11-30",
     "endDate": "2019-11-30",
     "city": "Kyiv",
-    "country": "Ukraine",
-    "cfpUrl": "http://www.embeddedfest.com/speakers_eng.html",
-    "cfpEndDate": "2019-10-26"
+    "country": "Ukraine"
   },
   {
     "name": "Women Who Code Blockchain Summit",

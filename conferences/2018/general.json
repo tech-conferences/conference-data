@@ -386,14 +386,6 @@
     "twitter": "@techinporto"
   },
   {
-    "name": "DeveloperWeek",
-    "url": "http://www.developerweek.com/NYC",
-    "startDate": "2018-06-18",
-    "endDate": "2018-06-20",
-    "city": "New York, NY",
-    "country": "U.S.A."
-  },
-  {
     "name": "Tech Open Air",
     "url": "https://toa.berlin",
     "startDate": "2018-06-19",
@@ -547,15 +539,6 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "twitter": "@googlecloud"
-  },
-  {
-    "name": "Web Directions Leaders",
-    "url": "http://webdirections.org/leaders",
-    "startDate": "2018-08-01",
-    "endDate": "2018-08-01",
-    "city": "Melbourne",
-    "country": "Australia",
-    "twitter": "@webdirections"
   },
   {
     "name": "DevConf",
@@ -730,16 +713,6 @@
     "twitter": "@wke"
   },
   {
-    "name": "CodeDaze",
-    "url": "http://codedaze.me/",
-    "startDate": "2018-09-14",
-    "endDate": "2018-09-15",
-    "city": "Buffalo, NY",
-    "country": "U.S.A.",
-    "cfpUrl": "https://www.papercall.io/codedazevol2",
-    "cfpEndDate": "2018-04-30"
-  },
-  {
     "name": "Highload fwdays",
     "url": "https://fwdays.com/en/event/highload-fwdays-2018",
     "startDate": "2018-09-15",
@@ -829,24 +802,6 @@
     "city": "St. Louis, MO",
     "country": "U.S.A.",
     "twitter": "@strangeloop_stl"
-  },
-  {
-    "name": "DevConf",
-    "url": "http://devconf.pl/",
-    "startDate": "2018-09-27",
-    "endDate": "2018-09-28",
-    "city": "Kraków",
-    "country": "Poland",
-    "twitter": "@devconfpl"
-  },
-  {
-    "name": "Web Unleashed",
-    "url": "http://fitc.ca/event/webu18/",
-    "startDate": "2018-10-01",
-    "endDate": "2018-10-02",
-    "city": "Toronto",
-    "country": "Canada",
-    "twitter": "@fitc"
   },
   {
     "name": "API City",
@@ -976,17 +931,6 @@
     "twitter": "@devfestnantes"
   },
   {
-    "name": "Software-QS-Tag",
-    "url": "http://www.qs-tag.de/en",
-    "startDate": "2018-10-18",
-    "endDate": "2018-10-19",
-    "city": "Frankfurt am Main",
-    "country": "Germany",
-    "cfpUrl": "http://www.qs-tag.de/en/call-for-papers/",
-    "cfpEndDate": "2018-08-01",
-    "twitter": "@SoftwareQSTag"
-  },
-  {
     "name": "Bosnia Agile Day",
     "url": "https://conference.agile.ba",
     "startDate": "2018-10-20",
@@ -1081,16 +1025,6 @@
     "city": "Berlin",
     "country": "Germany",
     "twitter": "@GOTOber"
-  },
-  {
-    "name": "Web Directions Culture",
-    "url": "http://webdirections.org/culture",
-    "startDate": "2018-10-31",
-    "endDate": "2018-10-31",
-    "city": "Sydney",
-    "country": "Australia",
-    "cfpUrl": "https://www.webdirections.org/speaking",
-    "cfpEndDate": "2018-05-01"
   },
   {
     "name": "Cloud Native Israel",
@@ -1234,8 +1168,6 @@
     "endDate": "2018-11-26",
     "city": "Brisbane",
     "country": "Australia",
-    "cfpUrl": "http://brisbanectosummit.yowconference.com.au/call-for-presentations/",
-    "cfpEndDate": "2018-10-19",
     "twitter": "@yow_conf"
   },
   {
@@ -1245,8 +1177,6 @@
     "endDate": "2018-11-28",
     "city": "Sydney",
     "country": "Australia",
-    "cfpUrl": "http://sydneyctosummit.yowconference.com.au/call-for-presentations/",
-    "cfpEndDate": "2018-10-19",
     "twitter": "@yow_conf"
   },
   {

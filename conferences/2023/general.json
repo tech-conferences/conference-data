@@ -454,19 +454,6 @@
     "twitter": "@conf42com"
   },
   {
-    "name": "MTUG I.T. Summit and Tradeshow",
-    "url": "https://www.mtug.org/techsummit",
-    "startDate": "2023-05-04",
-    "endDate": "2023-05-04",
-    "city": "Portland, ME",
-    "country": "U.S.A.",
-    "online": false,
-    "locales": "EN",
-    "cfpUrl": "https://www.mtug.org/workshopRFP-summit",
-    "cfpEndDate": "2023-03-03",
-    "twitter": "@MTUG_Maine"
-  },
-  {
     "name": "Stir Trek",
     "url": "https://stirtrek.com",
     "startDate": "2023-05-05",
@@ -1470,8 +1457,6 @@
     "online": true,
     "locales": "ES",
     "cocUrl": "https://codear.org/coc",
-    "cfpUrl": "https://webconf.tech/cfp",
-    "cfpEndDate": "2023-09-01",
     "twitter": "@WebConfLATAM"
   },
   {

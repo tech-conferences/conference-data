@@ -97,28 +97,12 @@
     "country": "South Korea"
   },
   {
-    "name": "Mobcon Europe",
-    "url": "http://mobcon.com/mobcon-europe",
-    "startDate": "2017-03-25",
-    "endDate": "2017-03-26",
-    "city": "Sofia",
-    "country": "Bulgaria"
-  },
-  {
     "name": "Devoxx",
     "url": "http://devoxx.fr",
     "startDate": "2017-04-05",
     "endDate": "2017-04-07",
     "city": "Paris",
     "country": "France"
-  },
-  {
-    "name": "Droidcon",
-    "url": "http://it.droidcon.com/2017",
-    "startDate": "2017-04-06",
-    "endDate": "2017-04-07",
-    "city": "Turin",
-    "country": "Italy"
   },
   {
     "name": "United Dev Conf",
@@ -188,16 +172,6 @@
     "country": "U.S.A."
   },
   {
-    "name": "Mobius",
-    "url": "http://mobiusconf.com/en",
-    "startDate": "2017-04-21",
-    "endDate": "2017-04-22",
-    "city": "Saint Petersburg",
-    "country": "Russia",
-    "cfpUrl": "http://mobiusconf.com/en/callforpapers",
-    "cfpEndDate": "2017-02-22"
-  },
-  {
     "name": "App Builders",
     "url": "https://appbuilders.ch",
     "startDate": "2017-04-24",
@@ -222,16 +196,6 @@
     "country": "U.S.A."
   },
   {
-    "name": "The Developer's Conference",
-    "url": "http://www.thedevelopersconference.com.br/tdc/2017/florianopolis",
-    "startDate": "2017-05-03",
-    "endDate": "2017-05-06",
-    "city": "Florianópolis",
-    "country": "Brazil",
-    "cfpUrl": "http://www.thedevelopersconference.com.br/tdc/2017/florianopolis/call4papers",
-    "cfpEndDate": "2017-02-20"
-  },
-  {
     "name": "DevFestDC",
     "url": "http://www.devfestdc.org",
     "startDate": "2017-05-05",
@@ -248,14 +212,6 @@
     "endDate": "2017-05-09",
     "city": "Warsaw",
     "country": "Poland"
-  },
-  {
-    "name": "OSCON",
-    "url": "http://conferences.oreilly.com/oscon/oscon-tx",
-    "startDate": "2017-05-08",
-    "endDate": "2017-05-11",
-    "city": "Austin, TX",
-    "country": "U.S.A."
   },
   {
     "name": "APPFORUM Americas",
@@ -356,16 +312,6 @@
     "city": "Washington, DC",
     "country": "U.S.A.",
     "cfpEndDate": "2017-02-13"
-  },
-  {
-    "name": "The Developer's Conference",
-    "url": "http://www.thedevelopersconference.com.br/tdc/2017/saopaulo",
-    "startDate": "2017-07-18",
-    "endDate": "2017-07-22",
-    "city": "São Paulo",
-    "country": "Brazil",
-    "cfpUrl": "http://www.thedevelopersconference.com.br/tdc/2017/saopaulo/call4papers",
-    "cfpEndDate": "2017-05-30"
   },
   {
     "name": "GDG/Heraklion",

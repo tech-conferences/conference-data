@@ -180,15 +180,6 @@
     "twitter": "@jrubyconfeu"
   },
   {
-    "name": "Burlington Ruby Conference",
-    "url": "http://burlingtonruby.github.io/conference",
-    "startDate": "2015-07-31",
-    "endDate": "2015-08-02",
-    "city": "Burlington, VT",
-    "country": "U.S.A.",
-    "twitter": "@btvrubyconf"
-  },
-  {
     "name": "eurucamp",
     "url": "http://eurucamp.org",
     "startDate": "2015-07-31",
@@ -205,15 +196,6 @@
     "city": "Pune",
     "country": "India",
     "twitter": "@deccanrubyconf"
-  },
-  {
-    "name": "Ruby Midwest",
-    "url": "http://www.rubymidwest.com/",
-    "startDate": "2015-08-28",
-    "endDate": "2015-08-29",
-    "city": "Kansas City, MO",
-    "country": "U.S.A.",
-    "twitter": "@rubymidwest"
   },
   {
     "name": "Barcelona Ruby Conf",
@@ -358,14 +340,5 @@
     "city": "Tel Aviv",
     "country": "Israel",
     "twitter": "@railsisrael"
-  },
-  {
-    "name": "RubyKaigi",
-    "url": "http://rubykaigi.org/2015",
-    "startDate": "2015-12-11",
-    "endDate": "2015-12-13",
-    "city": "Tokyo",
-    "country": "Japan",
-    "twitter": "@rubykaigi"
   }
 ]

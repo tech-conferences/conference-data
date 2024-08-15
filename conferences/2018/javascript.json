@@ -63,15 +63,6 @@
     "cfpEndDate": "2017-09-17"
   },
   {
-    "name": "DeveloperWeek JavaScript Conference",
-    "url": "http://www.developerweek.com/javascript-conference",
-    "startDate": "2018-02-05",
-    "endDate": "2018-02-06",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "twitter": "@DeveloperWeek"
-  },
-  {
     "name": "The Rolling Scopes Conference",
     "url": "https://2018.conf.rollingscopes.com",
     "startDate": "2018-02-10",
@@ -287,8 +278,6 @@
     "endDate": "2018-03-31",
     "city": "Kyiv",
     "country": "Ukraine",
-    "cfpUrl": "http://jsfest.com.ua/speakers_eng.html",
-    "cfpEndDate": "2018-03-15",
     "twitter": "@jsfestua"
   },
   {
@@ -747,8 +736,6 @@
     "endDate": "2018-07-25",
     "city": "San Francisco, CA",
     "country": "U.S.A.",
-    "cfpUrl": "http://www.nodesummit.com/speakers/become-a-speaker",
-    "cfpEndDate": "2018-05-01",
     "twitter": "@NodeSummit"
   },
   {
@@ -790,15 +777,6 @@
     "city": "Kharkiv",
     "country": "Ukraine",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfBnYEw1abC4-qpuv1XglHMibSqaxpyIU09X9mrKmGYr2ScJQ/viewform"
-  },
-  {
-    "name": "JS CraftCamp",
-    "url": "http://jscraftcamp.org/",
-    "startDate": "2018-08-10",
-    "endDate": "2018-08-11",
-    "city": "Munich",
-    "country": "Germany",
-    "twitter": "@jscraftcamp"
   },
   {
     "name": "React Rally",
