@@ -72,8 +72,6 @@
     "country": "U.K.",
     "online": false,
     "cocUrl": "https://ndcoslo.com/code-of-conduct",
-    "cfpUrl": "https://ndc-london.com/cfp",
-    "cfpEndDate": "2021-09-26",
     "twitter": "@NDC_Conferences"
   },
   {
@@ -139,7 +137,6 @@
     "city": "Dubai",
     "country": "United Arab Emirates",
     "online": false,
-    "cocUrl": "https://www.ethdubaiconf.org/coc.html",
     "twitter": "@ETHDubaiConf"
   },
   {
@@ -165,8 +162,6 @@
     "country": "Netherlands",
     "online": true,
     "cocUrl": "https://apiconference.net/code-of-conduct/",
-    "cfpUrl": "https://apiconference.net/call-for-papers",
-    "cfpEndDate": "2021-11-02",
     "twitter": "@api_conference"
   },
   {
@@ -189,8 +184,6 @@
     "country": "Netherlands",
     "online": true,
     "cocUrl": "https://serverless-architecture.io/code-of-conduct/",
-    "cfpUrl": "https://serverless-architecture.io/call-for-papers",
-    "cfpEndDate": "2021-11-01",
     "twitter": "@serverlesscon"
   },
   {
@@ -262,7 +255,6 @@
     "city": "Kathmandu",
     "country": "Nepal",
     "online": true,
-    "cocUrl": "https://nepal.cloudsummit.live/code-of-conduct/",
     "twitter": "@cloudsummitlive"
   },
   {
@@ -524,7 +516,6 @@
     "city": "Amsterdam",
     "country": "Netherlands",
     "online": true,
-    "cocUrl": "https://reactsummit.com/coc",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfVG_bNAebxhlERx1do33ekcmkLx25f1wh478MPv2CW6UvMlw/viewform",
     "cfpEndDate": "2022-03-20",
     "twitter": "@ReactSummit"
@@ -815,7 +806,6 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
-    "cocUrl": "https://software-architecture-summit.de/code-of-conduct/",
     "twitter": "@SoftwArchSummit"
   },
   {
@@ -879,8 +869,6 @@
     "endDate": "2022-09-23",
     "online": true,
     "cocUrl": "https://2022.jcon.one/code-of-conduct",
-    "cfpUrl": "https://2022.jcon.one/call-for-papers",
-    "cfpEndDate": "2022-03-31",
     "twitter": "@jcon_conference"
   },
   {
@@ -915,8 +903,6 @@
     "online": false,
     "offersSignLanguageOrCC": true,
     "cocUrl": "https://thestrangeloop.com/policies.html",
-    "cfpUrl": "https://thestrangeloop.com/cfp.html",
-    "cfpEndDate": "2022-04-20",
     "twitter": "@strangeloop_stl"
   },
   {
@@ -1139,7 +1125,6 @@
     "country": "India",
     "online": false,
     "offersSignLanguageOrCC": true,
-    "cocUrl": "https://azconf.dev/code-of-conduct",
     "twitter": "@AzConfDev"
   },
   {
@@ -1515,7 +1500,6 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
-    "cocUrl": "https://www.modernfrontends.live/code-of-conduct",
     "cfpUrl": "https://sessionize.com/modern-frontends-live-2022",
     "cfpEndDate": "2022-07-31",
     "twitter": "@modernfrontends"
@@ -1738,7 +1722,6 @@
     "country": "Armenia",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://highload.am/code-of-conduct.html",
     "cfpUrl": "https://cfp.highload.am",
     "cfpEndDate": "2022-10-12",
     "twitter": "@ArmeniaHighload"

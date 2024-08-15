@@ -29,7 +29,6 @@
     "country": "Germany",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://nodecongress.com/coc",
     "cfpUrl": "https://forms.gle/jexnQbSsUZKefsqMA",
     "cfpEndDate": "2023-01-15",
     "twitter": "@NodeCongress"
@@ -83,7 +82,6 @@
     "country": "U.K.",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://vuejslive.com/coc",
     "cfpUrl": "https://forms.gle/V1727ta24LLFBqKD7",
     "cfpEndDate": "2023-02-05",
     "twitter": "@VueJSLive"
@@ -109,9 +107,6 @@
     "city": "Chicago, IL",
     "country": "U.S.A.",
     "online": false,
-    "cocUrl": "https://agiletestingdays.us/code-of-conduct/",
-    "cfpUrl": "https://agiletestingdays.us/call-for-papers",
-    "cfpEndDate": "2022-09-30",
     "twitter": "@AgileTDZone"
   },
   {
@@ -123,7 +118,6 @@
     "country": "Netherlands",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://reactsummit.com/coc",
     "twitter": "@reactsummit"
   },
   {
@@ -161,20 +155,6 @@
     "twitter": "@nomadcityGC"
   },
   {
-    "name": "SpiceWorld",
-    "url": "https://www.spiceworks.com/spiceworld",
-    "startDate": "2023-09-05",
-    "endDate": "2023-09-07",
-    "city": "Austin, TX",
-    "country": "U.S.A.",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://www.spiceworks.com/spiceworld/",
-    "cfpUrl": "https://www.spiceworks.com",
-    "cfpEndDate": "2023-09-04",
-    "twitter": "@spiceworks"
-  },
-  {
     "name": "VOICE & AI",
     "url": "https://www.voiceand.ai",
     "startDate": "2023-09-05",
@@ -209,8 +189,6 @@
     "online": false,
     "offersSignLanguageOrCC": true,
     "cocUrl": "https://stackconf.eu/code-of-conduct/",
-    "cfpUrl": "https://stackconf.eu/cfp_info",
-    "cfpEndDate": "2023-03-31",
     "twitter": "@stackonf"
   },
   {

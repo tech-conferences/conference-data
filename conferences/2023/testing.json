@@ -7,7 +7,6 @@
     "city": "Helsinki",
     "country": "Finland",
     "online": false,
-    "cocUrl": "https://robotframework.org/code-of-conduct",
     "cfpUrl": "https://cfp.robocon.io/robocon-2023",
     "cfpEndDate": "2022-09-16",
     "twitter": "@robocon"
@@ -41,7 +40,6 @@
     "startDate": "2023-02-28",
     "endDate": "2023-03-02",
     "online": true,
-    "cocUrl": "https://robotframework.org/code-of-conduct",
     "cfpUrl": "https://cfp.robocon.io/robocon-2023-online",
     "cfpEndDate": "2022-10-14",
     "twitter": "@robocon"
@@ -127,9 +125,6 @@
     "city": "Chicago, IL",
     "country": "U.S.A.",
     "online": false,
-    "cocUrl": "https://agiletestingdays.us/code-of-conduct/",
-    "cfpUrl": "https://agiletestingdays.us/call-for-papers",
-    "cfpEndDate": "2022-09-30",
     "twitter": "@AgileTDZone"
   },
   {
@@ -358,7 +353,6 @@
     "country": "Germany",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://testjssummit.com/coc",
     "cfpUrl": "https://forms.gle/NkJp1nAAEvxztTnBA",
     "cfpEndDate": "2023-09-01",
     "twitter": "@TestJSSummit"

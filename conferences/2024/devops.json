@@ -537,9 +537,6 @@
     "country": "Spain",
     "online": false,
     "locales": "EN,ES",
-    "cocUrl": "https://devbcn.com/codeOfConduct",
-    "cfpUrl": "http://devbcn.com/cfp",
-    "cfpEndDate": "2024-04-01",
     "twitter": "@devbcn"
   },
   {
@@ -1029,9 +1026,7 @@
     "city": "Mannheim",
     "country": "Germany",
     "online": false,
-    "locales": "DE",
-    "cfpUrl": "https://www.continuouslifecycle.de/cfp.php",
-    "cfpEndDate": "2024-05-05"
+    "locales": "DE"
   },
   {
     "name": "Devops Barcelona",

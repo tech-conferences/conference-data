@@ -65,15 +65,6 @@
     "twitter": "@MindtheProduct"
   },
   {
-    "name": "Leading the Product",
-    "url": "https://www.leadingtheproduct.com/ltp-conference-apac",
-    "startDate": "2021-05-26",
-    "endDate": "2021-05-26",
-    "online": true,
-    "cocUrl": "https://www.leadingtheproduct.com/website-terms-conditions/",
-    "twitter": "@LTP_AUS"
-  },
-  {
     "name": "Integrate Remote - Microsoft Integration Conference",
     "url": "https://www.biztalk360.com/integrate-2021-remote",
     "startDate": "2021-06-01",
@@ -115,7 +106,6 @@
     "startDate": "2021-09-08",
     "endDate": "2021-09-09",
     "online": true,
-    "cocUrl": "https://skillsmatter.com/go/code-of-conduct",
     "twitter": "@skillsmatter"
   },
   {
@@ -160,7 +150,6 @@
     "url": "https://www.postgresbuild.com",
     "startDate": "2021-11-30",
     "endDate": "2021-12-01",
-    "online": true,
-    "cocUrl": "https://www.postgresbuild.com/code-of-conduct"
+    "online": true
   }
 ]

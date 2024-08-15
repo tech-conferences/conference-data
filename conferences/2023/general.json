@@ -270,7 +270,6 @@
     "city": "Barcelona",
     "country": "Spain",
     "online": false,
-    "cocUrl": "https://wasmio.tech/coc",
     "cfpUrl": "https://www.papercall.io/wasmio23",
     "cfpEndDate": "2023-01-17",
     "twitter": "@wasm_io"
@@ -329,7 +328,6 @@
     "endDate": "2023-03-30",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://www.cloud-builders.tech/code-of-conduct",
     "twitter": "@cloudbuildersua"
   },
   {
@@ -504,21 +502,6 @@
     "cfpUrl": "https://extra.codemotion.com/madrid23-cfp",
     "cfpEndDate": "2023-02-22",
     "twitter": "@CodemoMadrid"
-  },
-  {
-    "name": "Remix Conf",
-    "url": "https://remix.run/conf",
-    "startDate": "2023-05-09",
-    "endDate": "2023-05-11",
-    "city": "Salt Lake City, UT",
-    "country": "U.S.A.",
-    "online": true,
-    "locales": "EN",
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://remix.run/conf/2023/coc",
-    "cfpUrl": "https://sessionize.com/remix-2023",
-    "cfpEndDate": "2023-02-08",
-    "twitter": "@remix_run"
   },
   {
     "name": "WomenTech Global Conference",
@@ -853,8 +836,6 @@
     "online": false,
     "locales": "EN,DE",
     "cocUrl": "https://2023.europe.jcon.one/code-of-conduct",
-    "cfpUrl": "https://2023.europe.jcon.one/call-for-papers",
-    "cfpEndDate": "2023-01-31",
     "twitter": "@jcon_conference"
   },
   {
@@ -965,7 +946,6 @@
     "country": "Spain",
     "online": false,
     "locales": "EN,ES",
-    "cocUrl": "https://www.devbcn.com/codeOfConduct",
     "twitter": "@dev_bcn"
   },
   {
@@ -989,7 +969,6 @@
     "country": "Canada",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://www.refactorconf.com/dx#/conduct",
     "twitter": "@refactorconf"
   },
   {
@@ -1357,8 +1336,6 @@
     "locales": "EN",
     "offersSignLanguageOrCC": true,
     "cocUrl": "https://www.thestrangeloop.com/policies.html#coc",
-    "cfpUrl": "https://thestrangeloop.com/cfp.html",
-    "cfpEndDate": "2023-04-30",
     "twitter": "@strangeloop_stl"
   },
   {
@@ -1457,16 +1434,6 @@
     "online": true,
     "locales": "EN",
     "twitter": "@PNSQC"
-  },
-  {
-    "name": "ChefConf",
-    "url": "https://www.chef.io/chefconf",
-    "startDate": "2023-10-12",
-    "endDate": "2023-10-13",
-    "online": true,
-    "locales": "EN",
-    "cfpUrl": "https://sessionize.com/chefconf-23-Germany",
-    "cfpEndDate": "2023-06-16"
   },
   {
     "name": "RTC.On",

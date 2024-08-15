@@ -54,8 +54,6 @@
     "country": "Sweden",
     "online": true,
     "cocUrl": "https://www.jfokus.se/articles/code-of-conduct",
-    "cfpUrl": "https://www.jfokus.se/iamahero",
-    "cfpEndDate": "2022-09-30",
     "twitter": "@Jfokus"
   },
   {
@@ -151,7 +149,6 @@
     "country": "Germany",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://nodecongress.com/coc",
     "cfpUrl": "https://forms.gle/jexnQbSsUZKefsqMA",
     "cfpEndDate": "2023-01-15",
     "twitter": "@NodeCongress"
@@ -254,7 +251,6 @@
     "country": "U.K.",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://vuejslive.com/coc",
     "cfpUrl": "https://forms.gle/V1727ta24LLFBqKD7",
     "cfpEndDate": "2023-02-05",
     "twitter": "@VueJSLive"
@@ -280,7 +276,6 @@
     "country": "Romania",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://jsheroes.io/code-of-conduct",
     "twitter": "@jsheroes2023"
   },
   {
@@ -353,7 +348,6 @@
     "country": "Netherlands",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://jsnation.com/coc",
     "twitter": "@thejsnation"
   },
   {
@@ -631,7 +625,6 @@
     "endDate": "2023-09-22",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://typescriptcongress.com/coc",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc4wHj6DCO2whrLYX2Q3qh-Lu779tFlg_ZnyYk4for_jAUGhA/viewform",
     "cfpEndDate": "2023-05-31",
     "twitter": "@ts_congress"
@@ -663,20 +656,6 @@
     "twitter": "@JavaScriptCon"
   },
   {
-    "name": "BASTA! Fall",
-    "url": "https://basta.net/mainz",
-    "startDate": "2023-09-25",
-    "endDate": "2023-09-29",
-    "city": "Mainz",
-    "country": "Germany",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://basta.net/code-of-conduct/",
-    "cfpUrl": "https://basta.net/contact",
-    "cfpEndDate": "2023-03-01",
-    "twitter": "@bastacon"
-  },
-  {
     "name": "JSDayIE",
     "url": "https://www.jsday.ie",
     "startDate": "2023-09-26",
@@ -684,7 +663,6 @@
     "city": "Dublin",
     "country": "Ireland",
     "online": true,
-    "cocUrl": "https://www.jsday.ie/code-of-conduct",
     "twitter": "@jsdayie"
   },
   {
@@ -706,7 +684,6 @@
     "endDate": "2023-09-29",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://jsgamedev.com/coc",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfRoTXIcY-EWgMBKvJ2gMBngBNP0V22_eUaX3yAUONn5q94NQ/viewform",
     "cfpEndDate": "2023-08-01",
     "twitter": "@jsgamedevsummit"
@@ -810,7 +787,6 @@
     "country": "U.S.A.",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://libertyjs.com/code-of-conduct/",
     "cfpUrl": "https://www.papercall.io/libertyjs-2023",
     "cfpEndDate": "2023-06-01",
     "twitter": "@liberty_js"
@@ -864,7 +840,6 @@
     "country": "U.K.",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://reactadvanced.com/coc",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdffc5sBeIW2CFVavgBv4n1o_mYTAFmBhw_3Ed0Xb076CBtCA/viewform",
     "cfpEndDate": "2023-06-26",
     "twitter": "@ReactAdvanced"
@@ -962,7 +937,6 @@
     "country": "U.S.A.",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://reactsummit.us/coc",
     "twitter": "@reactsummit"
   },
   {
@@ -1050,7 +1024,6 @@
     "country": "Germany",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://testjssummit.com/coc",
     "cfpUrl": "https://forms.gle/NkJp1nAAEvxztTnBA",
     "cfpEndDate": "2023-09-01",
     "twitter": "@TestJSSummit"
@@ -1064,7 +1037,6 @@
     "country": "Germany",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://reactday.berlin/coc",
     "cfpUrl": "https://forms.gle/Y2JWrJ1kES9FYaUw6",
     "cfpEndDate": "2023-08-04",
     "twitter": "@reactdayberlin"

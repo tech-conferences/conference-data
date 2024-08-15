@@ -91,8 +91,6 @@
     "endDate": "2020-05-28",
     "city": "Paris",
     "country": "France",
-    "cfpUrl": "https://nomadays.events/cfp",
-    "cfpEndDate": "2020-04-03",
     "twitter": "@nomadays_events"
   },
   {
@@ -159,9 +157,7 @@
     "url": "https://conf.activitypub.rocks",
     "startDate": "2020-10-02",
     "endDate": "2020-10-05",
-    "online": true,
-    "cfpUrl": "https://conf.activitypub.rocks/cfp",
-    "cfpEndDate": "2020-07-08"
+    "online": true
   },
   {
     "name": "GFiT- Information Technology Virtual Expo",

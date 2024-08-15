@@ -14,7 +14,6 @@
     "startDate": "2022-02-08",
     "endDate": "2022-02-08",
     "online": true,
-    "cocUrl": "https://africa.jsworldconference.com/code-of-conduct/",
     "twitter": "@Frontend_Love"
   },
   {
@@ -130,7 +129,6 @@
     "startDate": "2022-03-24",
     "endDate": "2022-03-25",
     "online": true,
-    "cocUrl": "https://devopsjsconf.com/coc",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeFvGGcqRe8U0DJX7G_0bm_7wwnzXV5dzsAKnqE0rfxw86hlA/viewform",
     "cfpEndDate": "2022-02-01",
     "twitter": "@DevOpsJS"
@@ -166,7 +164,6 @@
     "country": "U.S.A.",
     "online": true,
     "offersSignLanguageOrCC": true,
-    "cocUrl": "https://miami.jsworldconference.com/code-of-conduct",
     "twitter": "@reactmiamiconf"
   },
   {
@@ -219,7 +216,6 @@
     "startDate": "2022-04-29",
     "endDate": "2022-04-29",
     "online": true,
-    "cocUrl": "https://typescriptcongress.com/coc",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScq-aWVf_oGvLdstVdsKJAfWzxpAsWoQNz_KrrGN2gqfASQ1A/viewform",
     "cfpEndDate": "2022-03-01",
     "twitter": "@ts_congress"
@@ -234,17 +230,6 @@
     "online": true,
     "cocUrl": "https://www.reactathon.com/conduct",
     "twitter": "@reactathon"
-  },
-  {
-    "name": "Remix Conf",
-    "url": "https://remix.run/conf",
-    "startDate": "2022-05-24",
-    "endDate": "2022-05-25",
-    "city": "Salt Lake City, UT",
-    "country": "U.S.A.",
-    "online": false,
-    "cocUrl": "https://remix.run/conf/coc",
-    "twitter": "@remix_run"
   },
   {
     "name": "CityJS Athens",
@@ -275,8 +260,6 @@
     "city": "Fort Lauderdale, FL",
     "country": "U.S.A.",
     "online": false,
-    "cfpUrl": "https://vueconf.us/call-for-papers",
-    "cfpEndDate": "2022-02-28",
     "twitter": "@vueconfus"
   },
   {
@@ -287,7 +270,6 @@
     "city": "Cluj-Napoca",
     "country": "Romania",
     "online": false,
-    "cocUrl": "https://jsheroes.io/code-of-conduct",
     "twitter": "@jsheroes"
   },
   {
@@ -298,7 +280,6 @@
     "city": "Amsterdam",
     "country": "Netherlands",
     "online": true,
-    "cocUrl": "https://jsnation.com/coc",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdg61J505yUnt5StZHobWplb2gQx9XcCc1MFU9KeZW52RAC6g/viewform",
     "cfpEndDate": "2022-03-20",
     "twitter": "@thejsnation"
@@ -384,7 +365,6 @@
     "endDate": "2022-07-01",
     "city": "Newquay",
     "country": "U.K.",
-    "cocUrl": "https://halfstackconf.com/newquay/code-of-conduct/",
     "twitter": "@halfstackconf"
   },
   {
@@ -696,7 +676,6 @@
     "country": "U.K.",
     "online": true,
     "offersSignLanguageOrCC": true,
-    "cocUrl": "https://reactadvanced.com/coc",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScDO_8VuVGKp_PZAepiJe6WHEbdc7UeDS4jX3PzgMO4OeMFQQ/viewform",
     "cfpEndDate": "2022-07-31",
     "twitter": "@ReactAdvanced"
@@ -770,7 +749,6 @@
     "startDate": "2022-11-04",
     "endDate": "2022-11-04",
     "online": true,
-    "cocUrl": "https://testjssummit.com/coc",
     "cfpUrl": "https://forms.gle/xLZ8omTK4TAyeGVt7",
     "cfpEndDate": "2022-09-16",
     "twitter": "@TestJSSummit"
@@ -817,7 +795,6 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "online": true,
-    "cocUrl": "https://usa.jsworldconference.com/code-of-conduct",
     "cfpUrl": "https://forms.gle/35eQbm4vnb82ezBS6",
     "cfpEndDate": "2022-09-09",
     "twitter": "@jsworldconf"
@@ -875,7 +852,6 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
-    "cocUrl": "https://reactday.berlin/coc",
     "cfpUrl": "https://forms.gle/fvEuTAsn7cSGGzXN7",
     "cfpEndDate": "2022-09-25",
     "twitter": "@reactdayberlin"

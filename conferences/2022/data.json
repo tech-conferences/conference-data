@@ -43,16 +43,6 @@
     "twitter": "@ODSC"
   },
   {
-    "name": "DMML",
-    "url": "https://www.necom2022.org/dmml/index",
-    "startDate": "2022-04-23",
-    "endDate": "2022-04-24",
-    "online": true,
-    "offersSignLanguageOrCC": true,
-    "cfpUrl": "https://www.necom2022.org/dmml/submission",
-    "cfpEndDate": "2022-04-02"
-  },
-  {
     "name": "Appsilon Shiny Conference",
     "url": "https://hopin.com/events/shinyconference2022",
     "startDate": "2022-04-27",
@@ -171,8 +161,7 @@
     "endDate": "2022-06-30",
     "city": "San Francisco, CA",
     "country": "U.S.A.",
-    "online": true,
-    "cocUrl": "https://databricks.com/dataaisummit/north-america-2022/code-of-conduct"
+    "online": true
   },
   {
     "name": "Neo4j Connections",
@@ -331,8 +320,6 @@
     "startDate": "2022-10-18",
     "endDate": "2022-10-20",
     "online": true,
-    "cfpUrl": "https://mascots.iitis.pl/cfp",
-    "cfpEndDate": "2022-06-01",
     "twitter": "@iitis"
   },
   {

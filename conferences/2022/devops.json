@@ -104,7 +104,6 @@
     "city": "Bologna",
     "country": "Italy",
     "online": true,
-    "cocUrl": "https://www.grusp.org/coc/",
     "cfpUrl": "https://grusp.org/CFPIDI",
     "cfpEndDate": "2022-01-06",
     "twitter": "@incontrodevops"
@@ -125,7 +124,6 @@
     "startDate": "2022-03-24",
     "endDate": "2022-03-25",
     "online": true,
-    "cocUrl": "https://devopsjsconf.com/coc",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeFvGGcqRe8U0DJX7G_0bm_7wwnzXV5dzsAKnqE0rfxw86hlA/viewform",
     "cfpEndDate": "2022-02-01",
     "twitter": "@DevOpsJS"
@@ -352,7 +350,6 @@
     "city": "Chicago, IL",
     "country": "U.S.A.",
     "online": false,
-    "cocUrl": "https://agiletestingdays.us/code-of-conduct/",
     "twitter": "@AgileTDUSA"
   },
   {
@@ -364,8 +361,6 @@
     "country": "Portugal",
     "online": false,
     "cocUrl": "https://jnation.pt/code-of-conduct/",
-    "cfpUrl": "https://jnation.pt/cfp",
-    "cfpEndDate": "2022-05-01",
     "twitter": "@jnationConf"
   },
   {

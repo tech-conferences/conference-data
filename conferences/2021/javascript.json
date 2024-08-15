@@ -6,7 +6,6 @@
     "endDate": "2021-01-15",
     "city": "Phoenix, AZ",
     "country": "U.S.A.",
-    "cocUrl": "https://halfstackconf.com/phoenix/code-of-conduct/",
     "cfpUrl": "https://halfstackconf.com/phoenix/",
     "cfpEndDate": "2020-08-31",
     "twitter": "@halfstackconf"
@@ -16,8 +15,7 @@
     "url": "https://testjssummit.com/",
     "startDate": "2021-01-28",
     "endDate": "2021-01-29",
-    "online": true,
-    "cocUrl": "https://testjssummit.com/coc"
+    "online": true
   },
   {
     "name": "TheJam.dev",
@@ -44,7 +42,6 @@
     "startDate": "2021-02-18",
     "endDate": "2021-02-19",
     "online": true,
-    "cocUrl": "https://nodecongress.com/coc",
     "twitter": "@nodecongress"
   },
   {
@@ -88,7 +85,6 @@
     "endDate": "2021-03-09",
     "city": "Prague",
     "country": "Czech Republic",
-    "cocUrl": "https://reactiveconf.com/code-of-conduct/",
     "twitter": "@ReactiveConf"
   },
   {
@@ -151,7 +147,6 @@
     "endDate": "2021-03-30",
     "online": true,
     "offersSignLanguageOrCC": false,
-    "cocUrl": "https://devopsjsconf.com/coc",
     "cfpUrl": "https://forms.gle/4kwg6NSCWRfPEdAx6",
     "cfpEndDate": "2021-02-15",
     "twitter": "@devopsjs"
@@ -173,8 +168,6 @@
     "endDate": "2021-04-14",
     "online": true,
     "offersSignLanguageOrCC": false,
-    "cfpUrl": "http://vueconf.us/cfp",
-    "cfpEndDate": "2021-01-16",
     "twitter": "@vueconfus"
   },
   {
@@ -192,7 +185,6 @@
     "endDate": "2021-04-16",
     "city": "Cluj-Napoca",
     "country": "Romania",
-    "cocUrl": "https://jsheroes.io/code-of-conduct",
     "twitter": "@jsheroes"
   },
   {
@@ -259,7 +251,6 @@
     "startDate": "2021-05-21",
     "endDate": "2021-05-21",
     "online": true,
-    "cocUrl": "https://usa.jsworldconference.com/code-of-conduct/",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf7nvgyyhXvln0PFNdjW16AFVfD62ewJp_1InP78G_3YTAQeA/viewform",
     "cfpEndDate": "2021-04-02",
     "twitter": "@Frontend_Love"
@@ -471,8 +462,6 @@
     "country": "Italy",
     "online": true,
     "cocUrl": "https://emberfest.eu/code-of-conduct/",
-    "cfpUrl": "https://cfp.emberfest.eu/events/emberfest-2021",
-    "cfpEndDate": "2021-08-13",
     "twitter": "@EmberFest"
   },
   {
@@ -544,7 +533,6 @@
     "city": "London",
     "country": "U.K.",
     "online": true,
-    "cocUrl": "https://reactadvanced.com/coc",
     "twitter": "@ReactAdvanced"
   },
   {
@@ -581,7 +569,6 @@
     "startDate": "2021-10-29",
     "endDate": "2021-10-29",
     "online": true,
-    "cocUrl": "https://africa.jsworldconference.com/code-of-conduct/",
     "twitter": "@Frontend_Love"
   },
   {
@@ -641,7 +628,6 @@
     "city": "Tel Aviv",
     "country": "Israel",
     "online": true,
-    "cocUrl": "https://www.nodetlv.com/code-of-conduct",
     "cfpUrl": "https://forms.gle/qp2SKjnCa7EggQ469",
     "cfpEndDate": "2021-07-01",
     "twitter": "@NodeTLV"

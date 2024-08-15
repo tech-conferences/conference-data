@@ -5,9 +5,7 @@
     "startDate": "2021-01-04",
     "endDate": "2021-01-05",
     "city": "Tokyo",
-    "country": "Japan",
-    "cfpUrl": "http://www.iccmap.iisrc.org/call-for-papers/",
-    "cfpEndDate": "2020-10-30"
+    "country": "Japan"
   },
   {
     "name": "Global Diversity CfP Day",
@@ -15,8 +13,7 @@
     "startDate": "2021-01-23",
     "endDate": "2021-01-23",
     "online": true,
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://www.globaldiversitycfpday.com/code-of-conduct"
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "Univention Summit",
@@ -138,18 +135,6 @@
     "twitter": "@bettercodeconf"
   },
   {
-    "name": "Codemotion Tech Conference - Italian Edition",
-    "url": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-italian-edition-spring",
-    "startDate": "2021-03-23",
-    "endDate": "2021-03-25",
-    "online": true,
-    "offersSignLanguageOrCC": false,
-    "cocUrl": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-italian-edition-spring/code-of-conduct",
-    "cfpUrl": "https://extra.codemotion.com/onlineconf-italian-2021-cfp",
-    "cfpEndDate": "2021-01-29",
-    "twitter": "@CodemotionIT"
-  },
-  {
     "name": "Serverless Architecture Conference",
     "url": "https://serverless-architecture.io/thehague",
     "startDate": "2021-04-12",
@@ -158,8 +143,6 @@
     "country": "Netherlands",
     "offersSignLanguageOrCC": false,
     "cocUrl": "https://serverless-architecture.io/code-of-conduct/",
-    "cfpUrl": "https://serverless-architecture.io/call-for-papers",
-    "cfpEndDate": "2020-11-02",
     "twitter": "@serverlesscon"
   },
   {
@@ -258,7 +241,6 @@
     "endDate": "2021-05-10",
     "online": true,
     "offersSignLanguageOrCC": false,
-    "cocUrl": "https://plus.qconferences.com/code-conduct",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfexoSjgtnIFrnTqNdST6BPH5FTYFS4gV1w0k5DWzGhDvipXw/viewform",
     "cfpEndDate": "2021-03-31",
     "twitter": "@QCon"
@@ -426,7 +408,6 @@
     "city": "Wellington",
     "country": "New Zealand",
     "online": false,
-    "cocUrl": "https://nzgdc.com/about-the-nzgdc/code-of-conduct/",
     "twitter": "@nzgda"
   },
   {
@@ -435,7 +416,6 @@
     "startDate": "2021-08-06",
     "endDate": "2021-08-06",
     "online": true,
-    "cocUrl": "https://www.igniteinnovationfl.com/code-of-conduct",
     "cfpUrl": "https://forms.gle/cGvECeoiNxp7LVRs7",
     "cfpEndDate": "2021-06-30",
     "twitter": "@sfapprentice"
@@ -497,7 +477,6 @@
     "endDate": "2021-08-24",
     "city": "Melbourne",
     "country": "Australia",
-    "cocUrl": "https://australia.voxxeddays.com/code-of-conduct/",
     "cfpUrl": "https://vxmelb21.cfp.dev",
     "cfpEndDate": "2021-03-31",
     "twitter": "@VoxxedAustralia"
@@ -580,7 +559,6 @@
     "startDate": "2021-09-03",
     "endDate": "2021-09-03",
     "online": true,
-    "cocUrl": "https://www.igniteinnovationfl.com/code-of-conduct",
     "twitter": "@IgniteFL"
   },
   {
@@ -603,7 +581,6 @@
     "endDate": "2021-09-09",
     "city": "Bouville",
     "country": "France",
-    "cocUrl": "https://www.devbreak.io/code-of-conduct",
     "twitter": "@DevBreak20"
   },
   {
@@ -634,7 +611,6 @@
     "startDate": "2021-09-13",
     "endDate": "2021-09-19",
     "online": true,
-    "cocUrl": "https://azuresummit.live/code-of-conduct/",
     "cfpUrl": "https://sessionize.com/azure-summit-2021",
     "cfpEndDate": "2021-07-31",
     "twitter": "@csharpcorner"
@@ -722,7 +698,6 @@
     "endDate": "2021-10-01",
     "city": "Paris",
     "country": "France",
-    "cocUrl": "https://www.devoxx.fr/code-of-conduct/",
     "twitter": "@DevoxxFR"
   },
   {
@@ -733,8 +708,6 @@
     "city": "St. Louis, MO",
     "country": "U.S.A.",
     "cocUrl": "https://thestrangeloop.com/policies.html",
-    "cfpUrl": "https://thestrangeloop.com/cfp.html",
-    "cfpEndDate": "2021-04-30",
     "twitter": "@strangeloop_stl"
   },
   {
@@ -965,7 +938,6 @@
     "startDate": "2021-11-01",
     "endDate": "2021-11-05",
     "online": true,
-    "cocUrl": "https://plus.qconferences.com/code-conduct",
     "twitter": "@QCon"
   },
   {

@@ -303,9 +303,6 @@
     "country": "U.S.A.",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://skytalks.info/code-of-conduct/",
-    "cfpUrl": "https://cfp.skytalks.info/skytalks-2023",
-    "cfpEndDate": "2023-05-31",
     "twitter": "@dcskytalks"
   },
   {
@@ -319,20 +316,6 @@
     "cfpUrl": "https://forms.office.com/r/XjVUaRDbKR",
     "cfpEndDate": "2023-07-05",
     "twitter": "@csharpdottv"
-  },
-  {
-    "name": "SpiceWorld",
-    "url": "https://www.spiceworks.com/spiceworld",
-    "startDate": "2023-09-05",
-    "endDate": "2023-09-07",
-    "city": "Austin, TX",
-    "country": "U.S.A.",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://www.spiceworks.com/spiceworld/",
-    "cfpUrl": "https://www.spiceworks.com",
-    "cfpEndDate": "2023-09-04",
-    "twitter": "@spiceworks"
   },
   {
     "name": "GNU Radio Conference",
@@ -368,8 +351,6 @@
     "online": true,
     "locales": "EN",
     "offersSignLanguageOrCC": true,
-    "cfpUrl": "https://sos.asrg.io/cfp",
-    "cfpEndDate": "2023-04-30",
     "twitter": "@SecureOurStreet"
   },
   {
