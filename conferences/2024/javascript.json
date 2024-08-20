@@ -938,17 +938,6 @@
     "twitter": "@frontendbcn"
   },
   {
-    "name": "JSConf Chile",
-    "url": "https://jsconf.cl",
-    "startDate": "2024-12-05",
-    "endDate": "2024-12-07",
-    "city": "Santiago",
-    "country": "Chile",
-    "online": false,
-    "locales": "ES",
-    "twitter": "@jsconfcl"
-  },
-  {
     "name": "Armada JS",
     "url": "https://armada-js.com",
     "startDate": "2024-12-05",
@@ -961,6 +950,17 @@
     "cfpUrl": "https://armada-js.com/call-for-papers",
     "cfpEndDate": "2024-10-01",
     "twitter": "@armada_js"
+  },
+  {
+    "name": "JSConf Chile",
+    "url": "https://jsconf.cl",
+    "startDate": "2024-12-05",
+    "endDate": "2024-12-07",
+    "city": "Santiago",
+    "country": "Chile",
+    "online": false,
+    "locales": "ES",
+    "twitter": "@jsconfcl"
   },
   {
     "name": "React Day Berlin",
