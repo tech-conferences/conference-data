@@ -45,7 +45,7 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
-    "cocUrl": "https://webinale.de/code-of-conduct-en/",
+    "cocUrl": "https://webinale.de/code-of-conduct-en",
     "cfpUrl": "https://callforpapers.sandsmedia.com",
     "cfpEndDate": "2022-01-13",
     "twitter": "@webinale"
@@ -173,7 +173,7 @@
     "city": "Copenhagen",
     "country": "Denmark",
     "online": true,
-    "cocUrl": "https://designmatters.io/",
+    "cocUrl": "https://designmatters.io",
     "twitter": "@designmattersdk"
   },
   {
@@ -238,7 +238,7 @@
     "city": "Atlanta, GA",
     "country": "U.S.A.",
     "online": false,
-    "cocUrl": "https://2022.connect.tech/codeofconduct/",
+    "cocUrl": "https://2022.connect.tech/codeofconduct",
     "cfpUrl": "https://sessionize.com/connect-tech-2022",
     "cfpEndDate": "2022-06-18",
     "twitter": "@connect_js"

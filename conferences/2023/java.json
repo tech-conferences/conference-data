@@ -53,7 +53,7 @@
     "city": "Brühl",
     "country": "Germany",
     "online": false,
-    "cocUrl": "https://www.javaland.eu/de/verhaltenscodex/",
+    "cocUrl": "https://www.javaland.eu/de/verhaltenscodex",
     "twitter": "@JavaLandConf"
   },
   {
@@ -113,7 +113,7 @@
     "country": "South Africa",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://j-sa.co/code-of-conduct/",
+    "cocUrl": "https://j-sa.co/code-of-conduct",
     "twitter": "@JavaAfrica"
   },
   {
@@ -124,7 +124,7 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
-    "cocUrl": "https://www.devoxx.co.uk/code-of-conduct/",
+    "cocUrl": "https://www.devoxx.co.uk/code-of-conduct",
     "twitter": "@DevoxxUK"
   },
   {
@@ -228,7 +228,7 @@
     "country": "Germany",
     "online": false,
     "locales": "DE,EN",
-    "cocUrl": "https://javaforumnord.de/2023/verhaltenscodex-code-of-conduct/",
+    "cocUrl": "https://javaforumnord.de/2023/verhaltenscodex-code-of-conduct",
     "twitter": "@JavaForumNord",
     "mastodon": "@JavaForumNord@ijug.social"
   },
@@ -266,7 +266,7 @@
     "country": "U.S.A.",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://javascript-conference.com/code-of-conduct/",
+    "cocUrl": "https://javascript-conference.com/code-of-conduct",
     "cfpUrl": "https://javascript-conference.com/code-of-conduct",
     "cfpEndDate": "2023-03-20",
     "twitter": "@JavaScriptCon"
@@ -290,7 +290,7 @@
     "country": "U.K.",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://jaxlondon.com/code-of-conduct/",
+    "cocUrl": "https://jaxlondon.com/code-of-conduct",
     "cfpUrl": "https://jaxlondon.com/contact",
     "cfpEndDate": "2023-07-17",
     "twitter": "@jaxlondon"
@@ -313,7 +313,7 @@
     "country": "South Africa",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://j-sa.co/code-of-conduct/",
+    "cocUrl": "https://j-sa.co/code-of-conduct",
     "twitter": "@JavaAfrica"
   },
   {
@@ -371,7 +371,7 @@
     "country": "Germany",
     "online": true,
     "locales": "DE,EN",
-    "cocUrl": "https://jax.de/code-of-conduct-en/",
+    "cocUrl": "https://jax.de/code-of-conduct-en",
     "cfpUrl": "https://jax.de/contact-en",
     "cfpEndDate": "2023-05-11",
     "twitter": "@jaxcon"
@@ -420,7 +420,7 @@
     "endDate": "2023-11-30",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://cloud-builders.tech/legal-docs/code-of-conduct/",
+    "cocUrl": "https://cloud-builders.tech/legal-docs/code-of-conduct",
     "twitter": "@cloudbuildersua",
     "mastodon": "@CloudBuildersUA@mastodon.social"
   },

@@ -32,7 +32,7 @@
     "country": "U.K.",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://apiconference.net/code-of-conduct/",
+    "cocUrl": "https://apiconference.net/code-of-conduct",
     "twitter": "@api_conference"
   },
   {
@@ -58,7 +58,7 @@
     "country": "Germany",
     "online": false,
     "locales": "DE",
-    "cocUrl": "https://mad-summit.de/muenchen/",
+    "cocUrl": "https://mad-summit.de/muenchen",
     "twitter": "@mad_summit"
   },
   {
@@ -80,7 +80,7 @@
     "country": "India",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://www.thetesttribe.com/code-of-conduct/",
+    "cocUrl": "https://www.thetesttribe.com/code-of-conduct",
     "twitter": "@the_test_tribe"
   },
   {
@@ -113,7 +113,7 @@
     "endDate": "2023-09-24",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://www.thetesttribe.com/code-of-conduct/",
+    "cocUrl": "https://www.thetesttribe.com/code-of-conduct",
     "twitter": "@the_test_tribe"
   },
   {
@@ -126,7 +126,7 @@
     "online": false,
     "locales": "EN",
     "offersSignLanguageOrCC": true,
-    "cocUrl": "https://www.apollographql.com/docs/community/code-of-conduct/",
+    "cocUrl": "https://www.apollographql.com/docs/community/code-of-conduct",
     "cfpUrl": "https://forms.gle/8kovzMG5nioK4Dkn6",
     "cfpEndDate": "2023-03-27",
     "twitter": "@graphqlsummit"
@@ -140,7 +140,7 @@
     "country": "Germany",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://apiconference.net/code-of-conduct/",
+    "cocUrl": "https://apiconference.net/code-of-conduct",
     "cfpUrl": "https://apiconference.net/code-of-conduct",
     "cfpEndDate": "2023-04-12",
     "twitter": "@api_conference"
@@ -165,7 +165,7 @@
     "country": "Germany",
     "online": false,
     "locales": "DE",
-    "cocUrl": "https://mad-summit.de/code-of-conduct/",
+    "cocUrl": "https://mad-summit.de/code-of-conduct",
     "twitter": "@mad_summit"
   }
 ]
