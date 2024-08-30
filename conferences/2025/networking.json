@@ -14,20 +14,8 @@
     "twitter": "@ruhrsec"
   },
   {
-    "name": "Tech Rocks Asia",
-    "url": "https://techrocks.asia",
-    "startDate": "2025-02-28",
-    "endDate": "2025-02-28",
-    "city": "Ho Chi Minh City",
-    "country": "Vietnam",
-    "online": false,
-    "locales": "EN",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfEZTE6YAGWyG7ug8FZRYr-RQvs2HDo8MRVLgObopO_kdBHHQ/viewform",
-    "cfpEndDate": "2024-11-30"
-  },
-  {
     "name": "Camunda Community Summit",
-    "url": "https://www.camundacon.com/amsterdam/",
+    "url": "https://www.camundacon.com/amsterdam",
     "startDate": "2025-05-13",
     "endDate": "2025-05-15",
     "city": "Amsterdam",
@@ -57,7 +45,7 @@
     "country": "Poland",
     "online": false,
     "locales": "EN,PL",
-    "cocUrl": "https://confidence-conference.org/code-of-conduct/",
+    "cocUrl": "https://confidence-conference.org/code-of-conduct",
     "twitter": "@CONFidenceConf"
   }
 ]

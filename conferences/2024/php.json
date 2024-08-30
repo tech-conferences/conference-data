@@ -30,7 +30,7 @@
     "country": "U.K.",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://www.phpconference.co.uk/conduct/",
+    "cocUrl": "https://www.phpconference.co.uk/conduct",
     "twitter": "@PHPUKConference"
   },
   {
@@ -118,7 +118,7 @@
   },
   {
     "name": "PHP Velho Oeste",
-    "url": "https://www.phpvelhoeste.com.br/2024/",
+    "url": "https://www.phpvelhoeste.com.br/2024",
     "startDate": "2024-05-17",
     "endDate": "2024-05-18",
     "city": "Chapecó",
@@ -236,7 +236,7 @@
     "country": "Germany",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://phpconference.com/code-of-conduct/",
+    "cocUrl": "https://phpconference.com/code-of-conduct",
     "cfpUrl": "https://phpconference.com/call-for-papers",
     "cfpEndDate": "2024-06-05",
     "twitter": "@phpconference"

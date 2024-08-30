@@ -7,7 +7,7 @@
     "city": "Holguín",
     "country": "Cuba",
     "online": true,
-    "cocUrl": "https://holguin.python.pizza/",
+    "cocUrl": "https://holguin.python.pizza",
     "cfpUrl": "https://forms.gle/feQmZLe2vb2LQJyN9",
     "cfpEndDate": "2021-12-18",
     "twitter": "@pythonpizzaconf"
@@ -28,7 +28,7 @@
     "endDate": "2022-02-06",
     "online": true,
     "offersSignLanguageOrCC": true,
-    "cocUrl": "https://2021.pycascades.com/about/code-of-conduct/",
+    "cocUrl": "https://2021.pycascades.com/about/code-of-conduct",
     "cfpUrl": "https://pretalx.com/pycascades-2022/cfp",
     "cfpEndDate": "2021-10-24",
     "twitter": "@pycascades"
@@ -41,7 +41,7 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
-    "cocUrl": "https://2022.pycon.de/code-of-conduct/",
+    "cocUrl": "https://2022.pycon.de/code-of-conduct",
     "twitter": "@PyConDE"
   },
   {
@@ -52,7 +52,7 @@
     "city": "Salt Lake City, UT",
     "country": "U.S.A.",
     "online": false,
-    "cocUrl": "https://us.pycon.org/2022/about/code-of-conduct/",
+    "cocUrl": "https://us.pycon.org/2022/about/code-of-conduct",
     "twitter": "@pycon"
   },
   {
@@ -69,7 +69,7 @@
   },
   {
     "name": "PyCon Italy",
-    "url": "https://pycon.it/",
+    "url": "https://pycon.it",
     "startDate": "2022-06-02",
     "endDate": "2022-06-05",
     "city": "Florence",
@@ -86,7 +86,7 @@
     "city": "Dublin",
     "country": "Ireland",
     "online": false,
-    "cocUrl": "https://www.europython-society.org/coc/"
+    "cocUrl": "https://www.europython-society.org/coc"
   },
   {
     "name": "PyGeekle",
@@ -117,7 +117,7 @@
     "city": "Rapperswil-Jona",
     "country": "Switzerland",
     "online": false,
-    "cocUrl": "https://www.python-summit.ch/coc/",
+    "cocUrl": "https://www.python-summit.ch/coc",
     "twitter": "@pythonsummit"
   },
   {

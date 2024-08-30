@@ -33,7 +33,7 @@
     "endDate": "2019-03-08",
     "city": "Pasadena, CA",
     "country": "U.S.A.",
-    "cfpUrl": "https://www.devopsdays.org/events/2019-los-angeles/propose//",
+    "cfpUrl": "https://www.devopsdays.org/events/2019-los-angeles/propose/",
     "cfpEndDate": "2019-01-15"
   },
   {
@@ -51,13 +51,13 @@
     "endDate": "2019-03-21",
     "city": "Vilnius",
     "country": "Lithuania",
-    "cfpUrl": "https://devopspro.lt/cfp/",
+    "cfpUrl": "https://devopspro.lt/cfp",
     "cfpEndDate": "2019-02-10",
     "twitter": "@DevOpsLT"
   },
   {
     "name": "gRPC Conf",
-    "url": "https://grpconf19.sched.com/",
+    "url": "https://grpconf19.sched.com",
     "startDate": "2019-03-21",
     "endDate": "2019-03-21",
     "city": "Sunnyvale, CA",
@@ -65,7 +65,7 @@
   },
   {
     "name": "Kubernetes Day India",
-    "url": "https://kdi19.sched.com/",
+    "url": "https://kdi19.sched.com",
     "startDate": "2019-03-23",
     "endDate": "2019-03-23",
     "city": "Bengaluru",
@@ -108,12 +108,12 @@
   },
   {
     "name": "UKNOF 43",
-    "url": "https://indico.uknof.org.uk/event/46/",
+    "url": "https://indico.uknof.org.uk/event/46",
     "startDate": "2019-04-09",
     "endDate": "2019-04-09",
     "city": "Manchester",
     "country": "U.K.",
-    "cfpUrl": "https://indico.uknof.org.uk/event/46/abstracts/",
+    "cfpUrl": "https://indico.uknof.org.uk/event/46/abstracts",
     "cfpEndDate": "2019-02-26",
     "twitter": "@uknof"
   },
@@ -183,12 +183,12 @@
   },
   {
     "name": "Open Source Data Center",
-    "url": "https://osdc.de/",
+    "url": "https://osdc.de",
     "startDate": "2019-05-14",
     "endDate": "2019-05-15",
     "city": "Berlin",
     "country": "Germany",
-    "cfpUrl": "https://osdc.de/submit-a-talk/",
+    "cfpUrl": "https://osdc.de/submit-a-talk",
     "cfpEndDate": "2019-01-31",
     "twitter": "@netways"
   },
@@ -212,7 +212,7 @@
   },
   {
     "name": "Open Source Camp - Ansible",
-    "url": "https://opensourcecamp.de/",
+    "url": "https://opensourcecamp.de",
     "startDate": "2019-05-16",
     "endDate": "2019-05-16",
     "city": "Berlin",
@@ -235,7 +235,7 @@
     "endDate": "2019-05-23",
     "city": "Barcelona",
     "country": "Spain",
-    "cfpUrl": "https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2019/cfp/",
+    "cfpUrl": "https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2019/cfp",
     "cfpEndDate": "2019-01-14"
   },
   {
@@ -318,7 +318,7 @@
     "endDate": "2019-06-14",
     "city": "Berlin",
     "country": "Germany",
-    "cfpUrl": "https://devopsconference.de/call-for-papers-en/",
+    "cfpUrl": "https://devopsconference.de/call-for-papers-en",
     "cfpEndDate": "2018-12-13",
     "twitter": "@devops_con"
   },
@@ -333,7 +333,7 @@
   },
   {
     "name": "Cloud Native Day",
-    "url": "https://cloudnative.amsterdam/",
+    "url": "https://cloudnative.amsterdam",
     "startDate": "2019-06-14",
     "endDate": "2019-06-14",
     "city": "Amsterdam",
@@ -366,7 +366,7 @@
   },
   {
     "name": "Rootconf",
-    "url": "https://rootconf.in/2019/",
+    "url": "https://rootconf.in/2019",
     "startDate": "2019-06-21",
     "endDate": "2019-06-22",
     "city": "Bangalore",
@@ -397,12 +397,12 @@
   },
   {
     "name": "DevopsDays Amsterdam",
-    "url": "https://www.devopsdays.org/events/2019-amsterdam/welcome/",
+    "url": "https://www.devopsdays.org/events/2019-amsterdam/welcome",
     "startDate": "2019-06-25",
     "endDate": "2019-06-28",
     "city": "Amsterdam",
     "country": "Netherlands",
-    "cfpUrl": "https://sessionize.com/dodams2019/",
+    "cfpUrl": "https://sessionize.com/dodams2019",
     "cfpEndDate": "2019-04-01",
     "twitter": "@devopsams"
   },
@@ -606,7 +606,7 @@
     "endDate": "2019-09-27",
     "city": "London",
     "country": "U.K.",
-    "cfpUrl": "https://www.devopsdays.org/events/2019-london/propose/",
+    "cfpUrl": "https://www.devopsdays.org/events/2019-london/propose",
     "cfpEndDate": "2019-05-26",
     "twitter": "@DevOpsDaysLDN"
   },
@@ -803,7 +803,7 @@
   },
   {
     "name": "KubeCon + CloudNativeCon",
-    "url": "https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/",
+    "url": "https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019",
     "startDate": "2019-11-18",
     "endDate": "2019-11-21",
     "city": "San Diego, CA",

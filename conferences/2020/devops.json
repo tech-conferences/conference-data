@@ -19,7 +19,7 @@
   },
   {
     "name": "devopsdays Vitoria",
-    "url": "https://devopsdays.org/events/2020-vitoria/welcome/",
+    "url": "https://devopsdays.org/events/2020-vitoria/welcome",
     "startDate": "2020-02-08",
     "endDate": "2020-02-08",
     "city": "Vitoria",
@@ -36,7 +36,7 @@
   },
   {
     "name": "devopsdays Madrid",
-    "url": "https://devopsdays.org/events/2020-madrid/welcome/",
+    "url": "https://devopsdays.org/events/2020-madrid/welcome",
     "startDate": "2020-02-21",
     "endDate": "2020-02-21",
     "city": "Madrid",
@@ -45,7 +45,7 @@
   },
   {
     "name": "devopsdays Geneva",
-    "url": "https://devopsdays.org/events/2020-geneva/welcome/",
+    "url": "https://devopsdays.org/events/2020-geneva/welcome",
     "startDate": "2020-02-24",
     "endDate": "2020-02-25",
     "city": "Geneva",
@@ -54,7 +54,7 @@
   },
   {
     "name": "devopsdays Charlotte",
-    "url": "https://devopsdays.org/events/2020-charlotte/welcome/",
+    "url": "https://devopsdays.org/events/2020-charlotte/welcome",
     "startDate": "2020-02-27",
     "endDate": "2020-02-28",
     "city": "Charlotte, NC",
@@ -63,7 +63,7 @@
   },
   {
     "name": "devopsdays Cáceres",
-    "url": "https://devopsdays.org/events/2020-caceres/welcome/",
+    "url": "https://devopsdays.org/events/2020-caceres/welcome",
     "startDate": "2020-03-05",
     "endDate": "2020-03-06",
     "city": "Cáceres",
@@ -156,7 +156,7 @@
   },
   {
     "name": "RedisConf",
-    "url": "https://events.redislabs.com/redisconf20/",
+    "url": "https://events.redislabs.com/redisconf20",
     "startDate": "2020-05-12",
     "endDate": "2020-05-13",
     "online": true
@@ -204,7 +204,7 @@
   },
   {
     "name": "stackconf (formerly OSDC)",
-    "url": "https://stackconf.eu/",
+    "url": "https://stackconf.eu",
     "startDate": "2020-06-17",
     "endDate": "2020-06-18",
     "online": true
@@ -235,7 +235,7 @@
   },
   {
     "name": "devopsdays Denver",
-    "url": "https://devopsdays.org/events/2020-denver/welcome/",
+    "url": "https://devopsdays.org/events/2020-denver/welcome",
     "startDate": "2020-08-10",
     "endDate": "2020-08-12",
     "city": "Denver, CO",
@@ -243,7 +243,7 @@
   },
   {
     "name": "KubeCon + CloudNativeCon Europe",
-    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/",
+    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe",
     "startDate": "2020-08-17",
     "endDate": "2020-08-20",
     "online": true,
@@ -288,7 +288,7 @@
   },
   {
     "name": "Devopsdays Zürich",
-    "url": "https://devopsdays.org/events/2020-zurich/welcome/",
+    "url": "https://devopsdays.org/events/2020-zurich/welcome",
     "startDate": "2020-09-01",
     "endDate": "2020-09-01",
     "online": true
@@ -328,7 +328,7 @@
   },
   {
     "name": "Devopsdays Cairo",
-    "url": "https://devopsdays.org/events/2020-cairo/welcome/",
+    "url": "https://devopsdays.org/events/2020-cairo/welcome",
     "startDate": "2020-09-21",
     "endDate": "2020-09-21",
     "online": true
@@ -353,7 +353,7 @@
   },
   {
     "name": "Devopsdays Prague",
-    "url": "https://devopsdays.org/events/2020-prague/welcome/",
+    "url": "https://devopsdays.org/events/2020-prague/welcome",
     "startDate": "2020-09-29",
     "endDate": "2020-09-30",
     "city": "Prague",
@@ -401,7 +401,7 @@
     "startDate": "2020-10-07",
     "endDate": "2020-10-08",
     "online": true,
-    "cocUrl": "https://events.linuxfoundation.org/cdcon/attend/code-of-conduct/",
+    "cocUrl": "https://events.linuxfoundation.org/cdcon/attend/code-of-conduct",
     "twitter": "@CDeliveryFdn"
   },
   {
@@ -411,12 +411,12 @@
     "endDate": "2020-10-15",
     "city": "Berlin",
     "country": "Germany",
-    "cocUrl": "https://devopscon.io/code-of-conduct/",
+    "cocUrl": "https://devopscon.io/code-of-conduct",
     "twitter": "@devops_con"
   },
   {
     "name": "DevOps Enterprise Summit",
-    "url": "https://events.itrevolution.com/virtual/",
+    "url": "https://events.itrevolution.com/virtual",
     "startDate": "2020-10-13",
     "endDate": "2020-10-15",
     "online": true,
@@ -468,11 +468,11 @@
   },
   {
     "name": "KubeCon + CloudNativeCon North America",
-    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/",
+    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america",
     "startDate": "2020-11-17",
     "endDate": "2020-11-20",
     "online": true,
-    "cocUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/attend/code-of-conduct/",
+    "cocUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/attend/code-of-conduct",
     "twitter": "@CloudNativeFdn"
   },
   {
@@ -491,7 +491,7 @@
     "endDate": "2020-12-02",
     "online": true,
     "offersSignLanguageOrCC": false,
-    "cocUrl": "https://microservices-summit.de/code-of-conduct/",
+    "cocUrl": "https://microservices-summit.de/code-of-conduct",
     "twitter": "@MicroservSummit"
   },
   {
@@ -501,7 +501,7 @@
     "endDate": "2020-12-03",
     "city": "Munich",
     "country": "Germany",
-    "cocUrl": "https://devopscon.io/code-of-conduct/",
+    "cocUrl": "https://devopscon.io/code-of-conduct",
     "cfpUrl": "https://callforpapers.sandsmedia.com",
     "twitter": "@devops_con"
   },
