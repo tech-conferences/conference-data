@@ -62,7 +62,7 @@
     "city": "Verona",
     "country": "Italy",
     "online": true,
-    "cocUrl": "https://www.grusp.org/en/coc/",
+    "cocUrl": "https://www.grusp.org/en/coc",
     "cfpUrl": "https://grusp.org/CFPphpday",
     "cfpEndDate": "2022-02-01",
     "twitter": "@phpday"
@@ -75,7 +75,7 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
-    "cocUrl": "https://phpconference.com/code-of-conduct/",
+    "cocUrl": "https://phpconference.com/code-of-conduct",
     "cfpUrl": "https://callforpapers.sandsmedia.com",
     "cfpEndDate": "2022-01-13",
     "twitter": "@phpconference"
@@ -139,7 +139,7 @@
   },
   {
     "name": "Italian LaravelDay",
-    "url": "https://2022.laravelday.it/",
+    "url": "https://2022.laravelday.it",
     "startDate": "2022-11-17",
     "endDate": "2022-11-17",
     "city": "Verona",

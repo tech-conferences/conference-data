@@ -18,7 +18,7 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
-    "cocUrl": "https://apiconference.net/code-of-conduct/",
+    "cocUrl": "https://apiconference.net/code-of-conduct",
     "twitter": "@api_conference"
   },
   {
@@ -29,7 +29,7 @@
     "city": "San Jose, CA",
     "country": "U.S.A.",
     "online": true,
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct",
     "cfpUrl": "https://sessionize.com/api-world-2022",
     "cfpEndDate": "2022-07-08",
     "twitter": "@APIWorld"
@@ -40,7 +40,7 @@
     "startDate": "2022-11-03",
     "endDate": "2022-11-05",
     "online": true,
-    "cocUrl": "https://events.linuxfoundation.org/about/code-of-conduct/",
+    "cocUrl": "https://events.linuxfoundation.org/about/code-of-conduct",
     "twitter": "@AsyncAPISpec"
   },
   {
@@ -63,7 +63,7 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
-    "cocUrl": "https://mad-summit.de/code-of-conduct/",
+    "cocUrl": "https://mad-summit.de/code-of-conduct",
     "twitter": "@mad_summit"
   }
 ]

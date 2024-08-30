@@ -45,7 +45,7 @@
   },
   {
     "name": "Pause Fest",
-    "url": "https://pausefest.com.au/",
+    "url": "https://pausefest.com.au",
     "startDate": "2019-02-06",
     "endDate": "2019-02-08",
     "city": "Melbourne",
@@ -68,7 +68,7 @@
     "endDate": "2019-02-08",
     "city": "Honolulu, HI",
     "country": "U.S.A.",
-    "cfpUrl": "https://www.jsconfhi.com/call-for-speakers/",
+    "cfpUrl": "https://www.jsconfhi.com/call-for-speakers",
     "cfpEndDate": "2018-08-10",
     "twitter": "@jsconfhi"
   },
@@ -79,8 +79,6 @@
     "endDate": "2019-02-09",
     "city": "Madrid",
     "country": "Spain",
-    "cfpUrl": "https://frontfest.es/",
-    "cfpEndDate": "2018-11-11",
     "twitter": "@frontfest"
   },
   {
@@ -200,7 +198,7 @@
     "endDate": "2019-04-03",
     "city": "Redwood City, CA",
     "country": "U.S.A.",
-    "cfpUrl": "https://perfmattersconf.com/speak/",
+    "cfpUrl": "https://perfmattersconf.com/speak",
     "cfpEndDate": "2018-11-15",
     "twitter": "@perfmattersconf"
   },
@@ -236,7 +234,7 @@
   },
   {
     "name": "App.js Conf",
-    "url": "https://appjs.co/",
+    "url": "https://appjs.co",
     "startDate": "2019-04-04",
     "endDate": "2019-04-05",
     "city": "Kraków",
@@ -257,7 +255,7 @@
   },
   {
     "name": "Sencha Community Days",
-    "url": "https://sencha-community-days.de/",
+    "url": "https://sencha-community-days.de",
     "startDate": "2019-04-10",
     "endDate": "2019-04-11",
     "city": "Karlsruhe",
@@ -296,12 +294,12 @@
   },
   {
     "name": "ReasonConf",
-    "url": "https://www.reason-conf.com/",
+    "url": "https://www.reason-conf.com",
     "startDate": "2019-04-11",
     "endDate": "2019-04-13",
     "city": "Vienna",
     "country": "Austria",
-    "cfpUrl": "https://www.reason-conf.com/cfp/",
+    "cfpUrl": "https://www.reason-conf.com/cfp",
     "cfpEndDate": "2019-01-31",
     "twitter": "@reasonconf"
   },
@@ -318,7 +316,7 @@
   },
   {
     "name": "VueDay Verona",
-    "url": "https://2019.vueday.it/",
+    "url": "https://2019.vueday.it",
     "startDate": "2019-04-12",
     "endDate": "2019-04-12",
     "city": "Verona",
@@ -327,7 +325,7 @@
   },
   {
     "name": "Smashing Conference",
-    "url": "https://smashingconf.com/sf-2019/",
+    "url": "https://smashingconf.com/sf-2019",
     "startDate": "2019-04-16",
     "endDate": "2019-04-17",
     "city": "San Francisco, CA",
@@ -410,7 +408,7 @@
     "endDate": "2019-05-09",
     "city": "Verona",
     "country": "Italy",
-    "cfpUrl": "https://cfp.jsday.it/",
+    "cfpUrl": "https://cfp.jsday.it",
     "cfpEndDate": "2019-02-04",
     "twitter": "@jsconfit"
   },
@@ -441,7 +439,7 @@
     "endDate": "2019-05-15",
     "city": "London",
     "country": "U.K.",
-    "cfpUrl": "https://javascript-conference.com/call-for-papers/",
+    "cfpUrl": "https://javascript-conference.com/call-for-papers",
     "cfpEndDate": "2018-10-31",
     "twitter": "@JavaScriptCon"
   },
@@ -510,7 +508,7 @@
     "endDate": "2019-05-25",
     "city": "Saint Petersburg",
     "country": "Russia",
-    "cfpUrl": "https://holyjs-piter.ru/en/callforpapers/",
+    "cfpUrl": "https://holyjs-piter.ru/en/callforpapers",
     "twitter": "@HolyJSconf"
   },
   {
@@ -526,7 +524,7 @@
   },
   {
     "name": "ngVikings",
-    "url": "https://ngvikings.org/",
+    "url": "https://ngvikings.org",
     "startDate": "2019-05-27",
     "endDate": "2019-05-28",
     "city": "Copenhagen",
@@ -537,7 +535,7 @@
   },
   {
     "name": "Vue Day Alicante",
-    "url": "https://vueday.org/",
+    "url": "https://vueday.org",
     "startDate": "2019-05-31",
     "endDate": "2019-05-31",
     "city": "Alicante",
@@ -551,7 +549,7 @@
     "endDate": "2019-06-02",
     "city": "Berlin",
     "country": "Germany",
-    "cfpUrl": "https://2019.jsconf.eu/call-for-speakers/",
+    "cfpUrl": "https://2019.jsconf.eu/call-for-speakers",
     "cfpEndDate": "2018-12-23",
     "twitter": "@jsconfeu"
   },
@@ -588,7 +586,7 @@
   },
   {
     "name": "JSFoo Coimbatore",
-    "url": "https://jsfoo.in/2019-coimbatore/",
+    "url": "https://jsfoo.in/2019-coimbatore",
     "startDate": "2019-06-08",
     "endDate": "2019-06-08",
     "city": "Coimbatore",
@@ -599,7 +597,7 @@
   },
   {
     "name": "VueConf China",
-    "url": "https://vue.w3ctech.com/",
+    "url": "https://vue.w3ctech.com",
     "startDate": "2019-06-08",
     "endDate": "2019-06-08",
     "city": "Shanghai",
@@ -616,7 +614,7 @@
   },
   {
     "name": "ReactNext",
-    "url": "https://react-next.com/",
+    "url": "https://react-next.com",
     "startDate": "2019-06-11",
     "endDate": "2019-06-11",
     "city": "Tel Aviv",
@@ -638,7 +636,7 @@
   },
   {
     "name": "React Day Norway",
-    "url": "https://reactnorway.com/",
+    "url": "https://reactnorway.com",
     "startDate": "2019-06-12",
     "endDate": "2019-06-12",
     "city": "Larvik",
@@ -661,7 +659,7 @@
     "endDate": "2019-06-16",
     "city": "Singapore",
     "country": "Singapore",
-    "cfpUrl": "https://contribute.jsconf.asia/",
+    "cfpUrl": "https://contribute.jsconf.asia",
     "twitter": "@jsconfasia"
   },
   {
@@ -712,12 +710,12 @@
   },
   {
     "name": "NodeConf Colombia",
-    "url": "https://colombia.nodeconf.com/",
+    "url": "https://colombia.nodeconf.com",
     "startDate": "2019-06-21",
     "endDate": "2019-06-22",
     "city": "Medellín",
     "country": "Colombia",
-    "cfpUrl": "https://cfp.nodeconf.co/",
+    "cfpUrl": "https://cfp.nodeconf.co",
     "cfpEndDate": "2019-02-28",
     "twitter": "@NodeConfCo"
   },
@@ -826,7 +824,7 @@
     "endDate": "2019-08-02",
     "city": "Columbus, OH",
     "country": "U.S.A.",
-    "cfpUrl": "https://sessionize.com/javascript-and-friends-conference/",
+    "cfpUrl": "https://sessionize.com/javascript-and-friends-conference",
     "cfpEndDate": "2019-04-11",
     "twitter": "@JSFriendsConf"
   },
@@ -892,7 +890,7 @@
   },
   {
     "name": "HalfStack",
-    "url": "https://halfstackconf.com/newyork/",
+    "url": "https://halfstackconf.com/newyork",
     "startDate": "2019-08-23",
     "endDate": "2019-08-23",
     "city": "New York, NY",
@@ -940,7 +938,7 @@
   },
   {
     "name": "JSFoo: VueDay",
-    "url": "https://jsfoo.in/2019-vueday/",
+    "url": "https://jsfoo.in/2019-vueday",
     "startDate": "2019-08-30",
     "endDate": "2019-08-30",
     "city": "Bangalore",
@@ -1048,7 +1046,7 @@
   },
   {
     "name": "HalfStack",
-    "url": "https://halfstackconf.com/vienna/",
+    "url": "https://halfstackconf.com/vienna",
     "startDate": "2019-09-19",
     "endDate": "2019-09-19",
     "city": "Vienna",
@@ -1117,7 +1115,7 @@
   },
   {
     "name": "JSConf Budapest",
-    "url": "https://jsconfbp.com/",
+    "url": "https://jsconfbp.com",
     "startDate": "2019-09-26",
     "endDate": "2019-09-27",
     "city": "Budapest",
@@ -1137,7 +1135,7 @@
   },
   {
     "name": "React India",
-    "url": "https://www.reactindia.io/",
+    "url": "https://www.reactindia.io",
     "startDate": "2019-09-26",
     "endDate": "2019-09-28",
     "city": "Goa",
@@ -1184,7 +1182,7 @@
     "endDate": "2019-10-04",
     "city": "Timisoara",
     "country": "Romania",
-    "cfpUrl": "https://revojs.ro/cfp/",
+    "cfpUrl": "https://revojs.ro/cfp",
     "cfpEndDate": "2019-06-17",
     "twitter": "@revojsro"
   },
@@ -1292,7 +1290,7 @@
   },
   {
     "name": "Vue Fes Japan",
-    "url": "https://vuefes.jp/2019/",
+    "url": "https://vuefes.jp/2019",
     "startDate": "2019-10-12",
     "endDate": "2019-10-12",
     "city": "Tokyo",
@@ -1310,7 +1308,7 @@
   },
   {
     "name": "Smashing Conference",
-    "url": "https://smashingconf.com/ny-2019/",
+    "url": "https://smashingconf.com/ny-2019",
     "startDate": "2019-10-15",
     "endDate": "2019-10-16",
     "city": "New York, NY",
@@ -1567,7 +1565,7 @@
   },
   {
     "name": "HalfStack",
-    "url": "https://halfstackconf.com/london/",
+    "url": "https://halfstackconf.com/london",
     "startDate": "2019-11-22",
     "endDate": "2019-11-22",
     "city": "London",
@@ -1587,7 +1585,7 @@
   },
   {
     "name": "FEConf",
-    "url": "https://2019.feconf.kr/",
+    "url": "https://2019.feconf.kr",
     "startDate": "2019-11-26",
     "endDate": "2019-11-26",
     "city": "Seoul",
@@ -1608,7 +1606,7 @@
   },
   {
     "name": "vuecamp",
-    "url": "https://vuecamp.de/",
+    "url": "https://vuecamp.de",
     "startDate": "2019-11-26",
     "endDate": "2019-11-27",
     "city": "Berlin",

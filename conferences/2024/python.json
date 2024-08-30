@@ -45,7 +45,7 @@
     "country": "U.S.A.",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://2024.pycascades.com/about/code-of-conduct/",
+    "cocUrl": "https://2024.pycascades.com/about/code-of-conduct",
     "cfpUrl": "https://pretalx.com/pycascades-2024/cfp",
     "cfpEndDate": "2024-01-04",
     "twitter": "@pycascades",
@@ -58,7 +58,7 @@
     "endDate": "2024-04-16",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://developer.microsoft.com/reactor/codeofconduct/",
+    "cocUrl": "https://developer.microsoft.com/reactor/codeofconduct",
     "twitter": "@AzureCosmosDB"
   },
   {
@@ -86,7 +86,7 @@
   },
   {
     "name": "PyCon DE & PyData Berlin",
-    "url": "https://2024.pycon.de/",
+    "url": "https://2024.pycon.de",
     "startDate": "2024-04-22",
     "endDate": "2024-04-24",
     "city": "Berlin",
@@ -138,7 +138,7 @@
     "country": "Germany",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://mlconference.ai/code-of-conduct/",
+    "cocUrl": "https://mlconference.ai/code-of-conduct",
     "twitter": "@mlconference"
   },
   {
@@ -155,15 +155,15 @@
   },
   {
     "name": "Pytorch",
-    "url": "https://events.linuxfoundation.org/pytorch-conference/",
+    "url": "https://events.linuxfoundation.org/pytorch-conference",
     "startDate": "2024-09-18",
     "endDate": "2024-09-19",
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://events.linuxfoundation.org/pytorch-conference/attend/code-of-conduct/",
-    "cfpUrl": "https://events.linuxfoundation.org/pytorch-conference/program/cfp/",
+    "cocUrl": "https://events.linuxfoundation.org/pytorch-conference/attend/code-of-conduct",
+    "cfpUrl": "https://events.linuxfoundation.org/pytorch-conference/program/cfp",
     "cfpEndDate": "2024-06-07",
     "twitter": "@PyTorch"
   },
@@ -204,7 +204,7 @@
     "online": true,
     "locales": "EN",
     "cocUrl": "https://github.com/djangocon/2024.djangocon.us/blob/main/CODE_OF_CONDUCT.md",
-    "cfpUrl": "https://2024.djangocon.us/speaking/",
+    "cfpUrl": "https://2024.djangocon.us/speaking",
     "cfpEndDate": "2024-04-24",
     "twitter": "@djangocon",
     "mastodon": "@djangocon@fosstodon.org"
@@ -244,7 +244,7 @@
     "country": "Brazil",
     "online": false,
     "locales": "EN,ES",
-    "cocUrl": "https://apyb.python.org.br/pythonbrasil/cdc/",
+    "cocUrl": "https://apyb.python.org.br/pythonbrasil/cdc",
     "twitter": "@pythonbrasil"
   },
   {

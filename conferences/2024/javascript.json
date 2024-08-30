@@ -19,7 +19,7 @@
     "country": "Poland",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://berlincodeofconduct.org/",
+    "cocUrl": "https://berlincodeofconduct.org",
     "cfpUrl": "https://forms.gle/cVVXvVZC3zdRsWwG7",
     "cfpEndDate": "2024-01-07"
   },
@@ -84,7 +84,7 @@
     "country": "Germany",
     "online": true,
     "locales": "DE",
-    "cocUrl": "https://javascript-days.de/code-of-conduct/",
+    "cocUrl": "https://javascript-days.de/code-of-conduct",
     "twitter": "@JS_Days"
   },
   {
@@ -96,7 +96,7 @@
     "country": "Poland",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://fest.dev/coc/",
+    "cocUrl": "https://fest.dev/coc",
     "twitter": "@devfestconf"
   },
   {
@@ -146,7 +146,7 @@
     "country": "U.K.",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://javascript-conference.com/code-of-conduct/",
+    "cocUrl": "https://javascript-conference.com/code-of-conduct",
     "cfpUrl": "https://callforpapers.sandsmedia.com",
     "cfpEndDate": "2023-10-30",
     "twitter": "@JavaScriptCon"
@@ -158,7 +158,7 @@
     "endDate": "2024-04-16",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://developer.microsoft.com/reactor/codeofconduct/",
+    "cocUrl": "https://developer.microsoft.com/reactor/codeofconduct",
     "twitter": "@AzureCosmosDB"
   },
   {
@@ -205,7 +205,7 @@
     "online": true,
     "locales": "EN",
     "offersSignLanguageOrCC": true,
-    "cocUrl": "https://conf.11ty.dev/cfp/",
+    "cocUrl": "https://conf.11ty.dev/cfp",
     "cfpUrl": "https://conf.11ty.dev/#speaking",
     "cfpEndDate": "2024-03-22",
     "twitter": "@eleven_ty",
@@ -213,7 +213,7 @@
   },
   {
     "name": "React Conf",
-    "url": "https://conf.react.dev/",
+    "url": "https://conf.react.dev",
     "startDate": "2024-05-15",
     "endDate": "2024-05-16",
     "city": "Henderson, NV",
@@ -230,7 +230,7 @@
     "country": "U.S.A.",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://javascript-conference.com/code-of-conduct/",
+    "cocUrl": "https://javascript-conference.com/code-of-conduct",
     "cfpUrl": "https://javascript-conference.com/call-for-papers-sd",
     "cfpEndDate": "2024-01-09",
     "twitter": "@JavaScriptCon"
@@ -334,7 +334,7 @@
     "country": "Sweden",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://conference.eurostarsoftwaretesting.com/anti-harassment-policy/",
+    "cocUrl": "https://conference.eurostarsoftwaretesting.com/anti-harassment-policy",
     "cfpUrl": "https://conference.eurostarsoftwaretesting.com/call-for-submissions",
     "cfpEndDate": "2023-09-17",
     "twitter": "@esconfs"
@@ -348,7 +348,7 @@
     "country": "Finland",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://berlincodeofconduct.org/",
+    "cocUrl": "https://berlincodeofconduct.org",
     "twitter": "@future_frontend"
   },
   {
@@ -427,7 +427,7 @@
     "country": "Australia",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
+    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct",
     "twitter": "@webdirections"
   },
   {
@@ -452,7 +452,7 @@
     "endDate": "2024-06-27",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://reactandchill.live/code-of-conduct/",
+    "cocUrl": "https://reactandchill.live/code-of-conduct",
     "cfpUrl": "https://forms.office.com/r/7uxfcCmGBE",
     "cfpEndDate": "2024-05-20",
     "twitter": "@CSharpdotTV"
@@ -479,7 +479,7 @@
     "country": "Italy",
     "online": false,
     "locales": "IT",
-    "cocUrl": "https://www.coderful.io/codice-di-condotta/",
+    "cocUrl": "https://www.coderful.io/codice-di-condotta",
     "twitter": "@coderful"
   },
   {
@@ -672,7 +672,7 @@
     "country": "U.S.A.",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://javascript-conference.com/code-of-conduct/",
+    "cocUrl": "https://javascript-conference.com/code-of-conduct",
     "twitter": "@JavaScriptCon"
   },
   {
@@ -683,7 +683,7 @@
     "city": "Bonn",
     "country": "Germany",
     "online": false,
-    "cocUrl": "https://conf.vuejs.de/code-of-conduct/",
+    "cocUrl": "https://conf.vuejs.de/code-of-conduct",
     "twitter": "@vue_js_de"
   },
   {
@@ -813,7 +813,7 @@
     "country": "Germany",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://javascript-conference.com/code-of-conduct/",
+    "cocUrl": "https://javascript-conference.com/code-of-conduct",
     "twitter": "@JavaScriptCon"
   },
   {
@@ -899,7 +899,7 @@
     "country": "Singapore",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://javascript-conference.com/code-of-conduct/",
+    "cocUrl": "https://javascript-conference.com/code-of-conduct",
     "cfpUrl": "https://javascript-conference.com/singapore/call-for-papers-sing",
     "cfpEndDate": "2024-05-13",
     "twitter": "@JavaScriptCon"
