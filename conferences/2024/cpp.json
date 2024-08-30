@@ -19,7 +19,7 @@
     "country": "U.K.",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://accu.org/conf-menu-overviews/coc_code_of_conduct/",
+    "cocUrl": "https://accu.org/conf-menu-overviews/coc_code_of_conduct",
     "twitter": "@cpponsea"
   },
   {
@@ -44,7 +44,7 @@
     "country": "U.K.",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://cpponsea.uk/conduct/"
+    "cocUrl": "https://cpponsea.uk/conduct"
   },
   {
     "name": "Cpp North",
@@ -65,7 +65,7 @@
     "city": "Aurora, CO",
     "country": "U.S.A.",
     "online": true,
-    "cocUrl": "https://cppcon.org/codeofconduct/",
+    "cocUrl": "https://cppcon.org/codeofconduct",
     "twitter": "@cppcon"
   }
 ]

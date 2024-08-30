@@ -8,7 +8,7 @@
     "country": "Germany",
     "online": true,
     "locales": "DE",
-    "cocUrl": "https://basta.net/code-of-conduct-en/",
+    "cocUrl": "https://basta.net/code-of-conduct-en",
     "twitter": "@bastacon"
   },
   {
@@ -95,19 +95,19 @@
     "country": "Poland",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://fest.dev/coc/",
+    "cocUrl": "https://fest.dev/coc",
     "twitter": "@devfestconf"
   },
   {
     "name": "WiCys",
-    "url": "https://www.wicys.org/events/wicys-2024/",
+    "url": "https://www.wicys.org/events/wicys-2024",
     "startDate": "2024-04-11",
     "endDate": "2024-04-13",
     "city": "Nashville, TN",
     "country": "U.S.A.",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://www.wicys.org/code-of-conduct/",
+    "cocUrl": "https://www.wicys.org/code-of-conduct",
     "twitter": "@WiCySorg"
   },
   {
@@ -154,7 +154,7 @@
     "country": "U.S.A.",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://hardwear.io/code-of-conduct/",
+    "cocUrl": "https://hardwear.io/code-of-conduct",
     "cfpUrl": "https://hardwear.io/usa-2024/cfp.php",
     "cfpEndDate": "2024-02-15",
     "twitter": "@hardwear_io"
@@ -166,7 +166,7 @@
     "endDate": "2024-06-05",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://devopsdays.com.ua/code-of-conduct/",
+    "cocUrl": "https://devopsdays.com.ua/code-of-conduct",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfcE8aUHo_mFGfdl4d8rD6ZYhcS71ZOPH078JPWH1lRrcZi2Q/viewform",
     "cfpEndDate": "2024-05-04",
     "twitter": "@devopsdays_kyiv",
@@ -207,12 +207,12 @@
     "country": "Germany",
     "online": false,
     "locales": "DE",
-    "cocUrl": "https://it-security-summit.de/de/code-of-conduct/",
+    "cocUrl": "https://it-security-summit.de/de/code-of-conduct",
     "twitter": "@ITSecSummit"
   },
   {
     "name": "AI Risk Summit",
-    "url": "https://www.airisksummit.com/",
+    "url": "https://www.airisksummit.com",
     "startDate": "2024-06-25",
     "endDate": "2024-06-26",
     "city": "Half Moon Bay, CA",
@@ -229,12 +229,12 @@
     "country": "U.S.A.",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://events.linuxfoundation.org/about/code-of-conduct/",
+    "cocUrl": "https://events.linuxfoundation.org/about/code-of-conduct",
     "cfpUrl": "https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/program/cfp"
   },
   {
     "name": "CISO Melbourne",
-    "url": "https://ciso-mel.coriniumintelligence.com/",
+    "url": "https://ciso-mel.coriniumintelligence.com",
     "startDate": "2024-07-16",
     "endDate": "2024-07-17",
     "city": "Melbourne",
@@ -266,7 +266,7 @@
     "country": "Mexico",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://bsidescdmx.org/en/code-of-conduct/",
+    "cocUrl": "https://bsidescdmx.org/en/code-of-conduct",
     "cfpUrl": "https://sessionize.com/security-bsides-cdmx-2024",
     "cfpEndDate": "2024-04-30",
     "twitter": "@bsidescdmx"
@@ -280,7 +280,7 @@
     "country": "U.S.A.",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://www.dianainitiative.org/about/policies/",
+    "cocUrl": "https://www.dianainitiative.org/about/policies",
     "cfpUrl": "https://www.dianainitiative.org/call-for-presentations-2024",
     "cfpEndDate": "2024-05-30",
     "twitter": "@DianaInitiative"
@@ -311,7 +311,7 @@
   },
   {
     "name": "CISO Brisbane",
-    "url": "https://ciso-bris.coriniumintelligence.com/",
+    "url": "https://ciso-bris.coriniumintelligence.com",
     "startDate": "2024-08-27",
     "endDate": "2024-08-27",
     "city": "Brisbane",
@@ -322,14 +322,14 @@
   },
   {
     "name": "SOSS Policy Summit",
-    "url": "https://events.linuxfoundation.org/soss-policy-summit-dc/",
+    "url": "https://events.linuxfoundation.org/soss-policy-summit-dc",
     "startDate": "2024-09-09",
     "endDate": "2024-09-09",
     "city": "Washington, DC",
     "country": "U.S.A.",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://events.linuxfoundation.org/soss-policy-summit-dc/attend/code-of-conduct/",
+    "cocUrl": "https://events.linuxfoundation.org/soss-policy-summit-dc/attend/code-of-conduct",
     "twitter": "@openssf"
   },
   {
@@ -341,7 +341,7 @@
     "country": "U.S.A.",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://swampup.jfrog.com/code-of-conduct/",
+    "cocUrl": "https://swampup.jfrog.com/code-of-conduct",
     "cfpUrl": "https://sessionize.com/swampup-2024",
     "cfpEndDate": "2024-04-30",
     "twitter": "@jfrog"
@@ -375,28 +375,28 @@
   },
   {
     "name": "Linux security summit Europe",
-    "url": "https://events.linuxfoundation.org/linux-security-summit-europe/",
+    "url": "https://events.linuxfoundation.org/linux-security-summit-europe",
     "startDate": "2024-09-16",
     "endDate": "2024-09-17",
     "city": "Vienna",
     "country": "Austria",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://events.linuxfoundation.org/linux-security-summit-europe/attend/code-of-conduct/",
-    "cfpUrl": "https://events.linuxfoundation.org/linux-security-summit-europe/program/cfp/",
+    "cocUrl": "https://events.linuxfoundation.org/linux-security-summit-europe/attend/code-of-conduct",
+    "cfpUrl": "https://events.linuxfoundation.org/linux-security-summit-europe/program/cfp",
     "cfpEndDate": "2024-05-19",
     "twitter": "@linuxfoundation"
   },
   {
     "name": "SOSS Community Day Europe",
-    "url": "https://events.linuxfoundation.org/soss-community-day-europe/",
+    "url": "https://events.linuxfoundation.org/soss-community-day-europe",
     "startDate": "2024-09-19",
     "endDate": "2024-09-19",
     "city": "Vienna",
     "country": "Austria",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://events.linuxfoundation.org/soss-community-day-europe/attend/code-of-conduct/",
+    "cocUrl": "https://events.linuxfoundation.org/soss-community-day-europe/attend/code-of-conduct",
     "twitter": "@openssf"
   },
   {
@@ -438,14 +438,14 @@
   },
   {
     "name": "SOSS Fusion",
-    "url": "https://events.linuxfoundation.org/soss-fusion/",
+    "url": "https://events.linuxfoundation.org/soss-fusion",
     "startDate": "2024-10-22",
     "endDate": "2024-10-23",
     "city": "Atlanta, GA",
     "country": "U.S.A.",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://events.linuxfoundation.org/soss-fusion/attend/code-of-conduct/",
+    "cocUrl": "https://events.linuxfoundation.org/soss-fusion/attend/code-of-conduct",
     "twitter": "@openssf"
   },
   {
@@ -457,7 +457,7 @@
     "country": "Cayman Islands",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://bsides.ky/conference-code-of-conduct/",
+    "cocUrl": "https://bsides.ky/conference-code-of-conduct",
     "cfpUrl": "https://sessionize.com/security-bsides-cayman-islands-2024",
     "cfpEndDate": "2024-05-30"
   },
@@ -528,7 +528,7 @@
     "country": "Germany",
     "online": true,
     "locales": "EN,DE",
-    "cocUrl": "https://it-security-summit.de/code-of-conduct/",
+    "cocUrl": "https://it-security-summit.de/code-of-conduct",
     "twitter": "@ITSecSummit"
   },
   {

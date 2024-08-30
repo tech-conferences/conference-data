@@ -33,7 +33,7 @@
     "country": "France",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://androidmakers.droidcon.com/code-of-conduct/",
+    "cocUrl": "https://androidmakers.droidcon.com/code-of-conduct",
     "cfpUrl": "https://sessionize.com/androidmakers-by-droidcon-2024",
     "cfpEndDate": "2024-03-01",
     "twitter": "@AndroidMakersFR"
@@ -61,7 +61,7 @@
     "country": "U.S.A.",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://sf.droidcon.com/code-of-conduct/",
+    "cocUrl": "https://sf.droidcon.com/code-of-conduct",
     "cfpUrl": "https://sessionize.com/droidcon-san-francisco-2024",
     "cfpEndDate": "2024-04-14",
     "twitter": "@droidconSF",
@@ -76,7 +76,7 @@
     "country": "Germany",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://berlin.droidcon.com/code-of-conduct/",
+    "cocUrl": "https://berlin.droidcon.com/code-of-conduct",
     "cfpUrl": "https://sessionize.com/droidcon-berlin-2024",
     "cfpEndDate": "2024-04-01",
     "twitter": "@droidconBerlin",
@@ -102,12 +102,12 @@
     "country": "U.S.A.",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://nyc.droidcon.com/code-of-conduct/",
+    "cocUrl": "https://nyc.droidcon.com/code-of-conduct",
     "twitter": "@droidconnyc"
   },
   {
     "name": "MWC Las Vegas",
-    "url": "https://www.mwclasvegas.com/",
+    "url": "https://www.mwclasvegas.com",
     "startDate": "2024-10-08",
     "endDate": "2024-10-09",
     "city": "Las Vegas, NV",
@@ -124,7 +124,7 @@
     "country": "U.K.",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://london.droidcon.com/code-of-conduct/",
+    "cocUrl": "https://london.droidcon.com/code-of-conduct",
     "twitter": "@droidconLondon",
     "mastodon": "@droidcon@androiddev.social"
   }

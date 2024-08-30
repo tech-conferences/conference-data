@@ -8,7 +8,7 @@
     "country": "Germany",
     "online": false,
     "locales": "EN,DE",
-    "cocUrl": "https://www.javaland.eu/de/verhaltenscodex/",
+    "cocUrl": "https://www.javaland.eu/de/verhaltenscodex",
     "cfpUrl": "https://www.javaland.eu/de/referierende",
     "cfpEndDate": "2024-09-06",
     "twitter": "@DOAGeV",
@@ -16,14 +16,14 @@
   },
   {
     "name": "KubeCon + CloudNativeCon Europe",
-    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2025/",
+    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2025",
     "startDate": "2025-04-01",
     "endDate": "2025-04-04",
     "city": "London",
     "country": "U.K.",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/code-of-conduct/",
+    "cocUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/code-of-conduct",
     "cfpUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/cfp"
   },
   {
@@ -58,12 +58,12 @@
     "country": "U.K.",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://devopscon.io/code-of-conduct/",
+    "cocUrl": "https://devopscon.io/code-of-conduct",
     "twitter": "@devops_con"
   },
   {
     "name": "Camunda Community Summit",
-    "url": "https://www.camundacon.com/amsterdam/",
+    "url": "https://www.camundacon.com/amsterdam",
     "startDate": "2025-05-13",
     "endDate": "2025-05-15",
     "city": "Amsterdam",
@@ -86,14 +86,14 @@
   },
   {
     "name": "KubeCon + CloudNativeCon North America",
-    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2025/",
+    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2025",
     "startDate": "2025-11-10",
     "endDate": "2025-11-13",
     "city": "Atlanta, GA",
     "country": "U.S.A.",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/attend/code-of-conduct/",
+    "cocUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/attend/code-of-conduct",
     "twitter": "@CloudNativeFdn"
   }
 ]

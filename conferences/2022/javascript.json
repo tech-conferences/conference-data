@@ -5,7 +5,7 @@
     "startDate": "2022-01-26",
     "endDate": "2022-01-27",
     "online": true,
-    "cocUrl": "https://cfe.dev/conduct/",
+    "cocUrl": "https://cfe.dev/conduct",
     "twitter": "@cfe_dev"
   },
   {
@@ -46,7 +46,7 @@
     "city": "Tamil Nadu",
     "country": "India",
     "online": true,
-    "cocUrl": "https://india.cityjsconf.org/coc/",
+    "cocUrl": "https://india.cityjsconf.org/coc",
     "cfpUrl": "https://tinyurl.com/cityjsconfindia",
     "cfpEndDate": "2000-12-31",
     "twitter": "@cityjsindia"
@@ -91,7 +91,7 @@
     "city": "Munich",
     "country": "Germany",
     "online": true,
-    "cocUrl": "https://javascript-days.de/code-of-conduct/",
+    "cocUrl": "https://javascript-days.de/code-of-conduct",
     "twitter": "@AngularDays"
   },
   {
@@ -102,7 +102,7 @@
     "city": "Munich",
     "country": "Germany",
     "online": true,
-    "cocUrl": "https://javascript-days.de/code-of-conduct/",
+    "cocUrl": "https://javascript-days.de/code-of-conduct",
     "twitter": "@JS_Days"
   },
   {
@@ -111,7 +111,7 @@
     "startDate": "2022-03-21",
     "endDate": "2022-03-24",
     "online": true,
-    "cocUrl": "https://javascript-days.de/code-of-conduct/",
+    "cocUrl": "https://javascript-days.de/code-of-conduct",
     "twitter": "@React_Days"
   },
   {
@@ -120,7 +120,7 @@
     "startDate": "2022-03-23",
     "endDate": "2022-03-25",
     "online": true,
-    "cocUrl": "https://cityjsconf.org/coc/",
+    "cocUrl": "https://cityjsconf.org/coc",
     "twitter": "@cityjsconf"
   },
   {
@@ -239,7 +239,7 @@
     "city": "Athens",
     "country": "Greece",
     "online": true,
-    "cocUrl": "https://cityjsconf.org/coc/",
+    "cocUrl": "https://cityjsconf.org/coc",
     "twitter": "@cityjsconf"
   },
   {
@@ -316,7 +316,7 @@
     "city": "Larvik",
     "country": "Norway",
     "online": true,
-    "cocUrl": "https://berlincodeofconduct.org/",
+    "cocUrl": "https://berlincodeofconduct.org",
     "cfpUrl": "https://forms.gle/ZKhA3LNk7rRjRFuw5",
     "cfpEndDate": "2022-05-06",
     "twitter": "@ReactNorway"
@@ -340,7 +340,7 @@
     "city": "Tel Aviv",
     "country": "Israel",
     "online": false,
-    "cocUrl": "https://www.react-next.com/conference-code-of-conduct/",
+    "cocUrl": "https://www.react-next.com/conference-code-of-conduct",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSe6Y96XYmzgk9kBbE1vk7KeHK45XwQ8FvsM2X0kywSrbe5D7Q/viewform",
     "cfpEndDate": "2022-04-20",
     "twitter": "@ReactNext"
@@ -353,14 +353,14 @@
     "city": "Tel Aviv",
     "country": "Israel",
     "online": false,
-    "cocUrl": "https://www.nodetlv.com/conference-code-of-conduct/",
+    "cocUrl": "https://www.nodetlv.com/conference-code-of-conduct",
     "cfpUrl": "https://forms.gle/ab9nCbpigvqT4bW9A",
     "cfpEndDate": "2022-04-15",
     "twitter": "@NodeTLV"
   },
   {
     "name": "HalfStack Newquay",
-    "url": "https://halfstackconf.com/newquay/",
+    "url": "https://halfstackconf.com/newquay",
     "startDate": "2022-07-01",
     "endDate": "2022-07-01",
     "city": "Newquay",
@@ -414,7 +414,7 @@
     "city": "Johannesburg",
     "country": "South Africa",
     "online": true,
-    "cocUrl": "https://nodejsone.com/code-of-conduct/",
+    "cocUrl": "https://nodejsone.com/code-of-conduct",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeyo0Du4V5FTGeR2_grPN6vkHUi_UVHBKerTmnh3tjolTUU1Q/viewform",
     "cfpEndDate": "2022-08-01",
     "twitter": "@nodejsone"
@@ -434,13 +434,13 @@
   },
   {
     "name": "React Finland",
-    "url": "https://react-finland.fi/",
+    "url": "https://react-finland.fi",
     "startDate": "2022-09-12",
     "endDate": "2022-09-16",
     "city": "Helsinki",
     "country": "Finland",
     "online": false,
-    "cocUrl": "https://berlincodeofconduct.org/",
+    "cocUrl": "https://berlincodeofconduct.org",
     "twitter": "@ReactFinland"
   },
   {
@@ -526,7 +526,7 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
-    "cocUrl": "https://conf.vuejs.de/code-of-conduct/",
+    "cocUrl": "https://conf.vuejs.de/code-of-conduct",
     "twitter": "@vue_js_de"
   },
   {
@@ -535,7 +535,7 @@
     "startDate": "2022-10-05",
     "endDate": "2022-10-06",
     "online": true,
-    "cocUrl": "https://pwasummit.org/code-of-conduct/",
+    "cocUrl": "https://pwasummit.org/code-of-conduct",
     "cfpUrl": "https://sessionize.com/pwa-summit-2022",
     "cfpEndDate": "2022-07-13",
     "twitter": "@pwasummit"
@@ -571,7 +571,7 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
-    "cocUrl": "https://ng-de.org/code-of-conduct/",
+    "cocUrl": "https://ng-de.org/code-of-conduct",
     "twitter": "@ngdeconf"
   },
   {
@@ -637,7 +637,7 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
-    "cocUrl": "https://javascript-days.de/code-of-conduct/",
+    "cocUrl": "https://javascript-days.de/code-of-conduct",
     "twitter": "@React_Days"
   },
   {
@@ -687,7 +687,7 @@
     "city": "Munich",
     "country": "Germany",
     "online": true,
-    "cocUrl": "https://javascript-conference.com/code-of-conduct/",
+    "cocUrl": "https://javascript-conference.com/code-of-conduct",
     "twitter": "@JavaScriptCon"
   },
   {
@@ -698,7 +698,7 @@
     "city": "Warsaw",
     "country": "Poland",
     "online": true,
-    "cocUrl": "https://www.ng-poland.pl/code-of-conduct/",
+    "cocUrl": "https://www.ng-poland.pl/code-of-conduct",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeVsK-OA9HudBjk7CpkKNCK8M_DD4_DF-AsFLAP8wdHeZ3O-g/viewform",
     "cfpEndDate": "2022-10-16",
     "twitter": "@ngPolandConf"
@@ -719,7 +719,7 @@
     "city": "Warsaw",
     "country": "Poland",
     "online": true,
-    "cocUrl": "https://www.js-poland.pl/code-of-conduct/",
+    "cocUrl": "https://www.js-poland.pl/code-of-conduct",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeVsK-OA9HudBjk7CpkKNCK8M_DD4_DF-AsFLAP8wdHeZ3O-g/viewform",
     "cfpEndDate": "2022-10-16",
     "twitter": "@jsPolandConf"
@@ -760,7 +760,7 @@
     "city": "Atlanta, GA",
     "country": "U.S.A.",
     "online": false,
-    "cocUrl": "https://2022.connect.tech/codeofconduct/",
+    "cocUrl": "https://2022.connect.tech/codeofconduct",
     "cfpUrl": "https://sessionize.com/connect-tech-2022",
     "cfpEndDate": "2022-06-18",
     "twitter": "@connect_js"

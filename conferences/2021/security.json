@@ -25,7 +25,7 @@
     "city": "Tampa, FL",
     "country": "U.S.A.",
     "offersSignLanguageOrCC": true,
-    "cocUrl": "https://bsidestampa.net/code-of-conduct/",
+    "cocUrl": "https://bsidestampa.net/code-of-conduct",
     "twitter": "@BSidesTampa"
   },
   {
@@ -53,11 +53,11 @@
   },
   {
     "name": "Cloud Native Security Day",
-    "url": "https://events.linuxfoundation.org/cloud-native-security-day-europe/",
+    "url": "https://events.linuxfoundation.org/cloud-native-security-day-europe",
     "startDate": "2021-05-04",
     "endDate": "2021-05-04",
     "online": true,
-    "cocUrl": "https://events.linuxfoundation.org/cloud-native-security-day-europe/attend/code-of-conduct/"
+    "cocUrl": "https://events.linuxfoundation.org/cloud-native-security-day-europe/attend/code-of-conduct"
   },
   {
     "name": "Qubit Conference New York",
@@ -86,7 +86,7 @@
     "city": "Munich",
     "country": "Germany",
     "online": true,
-    "cocUrl": "https://it-security-summit.de/code-of-conduct/",
+    "cocUrl": "https://it-security-summit.de/code-of-conduct",
     "twitter": "@ITSecSummit"
   },
   {
@@ -149,7 +149,7 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
-    "cocUrl": "https://it-security-summit.de/code-of-conduct/",
+    "cocUrl": "https://it-security-summit.de/code-of-conduct",
     "twitter": "@ITSecSummit"
   },
   {
@@ -175,13 +175,13 @@
   },
   {
     "name": "Linux Security Summit Europe",
-    "url": "https://events.linuxfoundation.org/linux-security-summit-europe/",
+    "url": "https://events.linuxfoundation.org/linux-security-summit-europe",
     "startDate": "2021-09-27",
     "endDate": "2021-09-29",
     "city": "Dublin",
     "country": "Ireland",
-    "cocUrl": "https://events.linuxfoundation.org/linux-security-summit-europe/attend/code-of-conduct/",
-    "cfpUrl": "https://events.linuxfoundation.org/linux-security-summit-europe/program/cfp/",
+    "cocUrl": "https://events.linuxfoundation.org/linux-security-summit-europe/attend/code-of-conduct",
+    "cfpUrl": "https://events.linuxfoundation.org/linux-security-summit-europe/program/cfp",
     "cfpEndDate": "2021-06-27"
   },
   {
@@ -192,7 +192,7 @@
     "city": "Seattle, WA",
     "country": "U.S.A.",
     "online": true,
-    "cocUrl": "https://events.linuxfoundation.org/linux-security-summit-north-america/attend/code-of-conduct/",
+    "cocUrl": "https://events.linuxfoundation.org/linux-security-summit-north-america/attend/code-of-conduct",
     "cfpUrl": "https://events.linuxfoundation.org/linux-security-summit-north-america/program/cfp",
     "cfpEndDate": "2021-07-11",
     "twitter": "@linuxfoundation"
@@ -223,7 +223,7 @@
     "startDate": "2021-10-11",
     "endDate": "2021-10-13",
     "online": true,
-    "cocUrl": "https://it-security-camp.de/code-of-conduct/",
+    "cocUrl": "https://it-security-camp.de/code-of-conduct",
     "twitter": "@ITSecurityCamp"
   },
   {
@@ -232,7 +232,7 @@
     "startDate": "2021-10-28",
     "endDate": "2021-10-29",
     "online": true,
-    "cocUrl": "https://www.ory.sh/code-of-conduct/",
+    "cocUrl": "https://www.ory.sh/code-of-conduct",
     "twitter": "@OryCorp"
   },
   {

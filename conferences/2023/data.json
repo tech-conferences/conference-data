@@ -29,7 +29,7 @@
     "country": "U.S.A.",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://www.datascience.salon/code-of-conduct/",
+    "cocUrl": "https://www.datascience.salon/code-of-conduct",
     "twitter": "@DataSciSalon"
   },
   {
@@ -60,7 +60,7 @@
     "endDate": "2023-03-23",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://www.nvidia.com/gtc/",
+    "cocUrl": "https://www.nvidia.com/gtc",
     "twitter": "@NVIDIAGTC"
   },
   {
@@ -86,7 +86,7 @@
   },
   {
     "name": "PGDay/MED",
-    "url": "https://2023.pgdaymed.org/",
+    "url": "https://2023.pgdaymed.org",
     "startDate": "2023-04-13",
     "endDate": "2023-04-13",
     "city": "St Julian's",
@@ -96,23 +96,23 @@
   },
   {
     "name": "Citus Con",
-    "url": "https://www.citusdata.com/cituscon/2023/",
+    "url": "https://www.citusdata.com/cituscon/2023",
     "startDate": "2023-04-18",
     "endDate": "2023-04-19",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://www.citusdata.com/cituscon/2023/coc/",
+    "cocUrl": "https://www.citusdata.com/cituscon/2023/coc",
     "twitter": "@cituscon"
   },
   {
     "name": "pgDay Chicago",
-    "url": "https://2023.pgdaychicago.org/",
+    "url": "https://2023.pgdaychicago.org",
     "startDate": "2023-04-20",
     "endDate": "2023-04-20",
     "city": "Chicago, IL",
     "country": "U.S.A.",
     "locales": "EN",
-    "cocUrl": "https://2023.pgdaychicago.org/inclusion/",
+    "cocUrl": "https://2023.pgdaychicago.org/inclusion",
     "twitter": "@pgdaychicago"
   },
   {
@@ -124,7 +124,7 @@
     "country": "U.S.A.",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://pydata.org/seattle2023/conduct/",
+    "cocUrl": "https://pydata.org/seattle2023/conduct",
     "cfpUrl": "https://pydata.org/seattle2023/present",
     "cfpEndDate": "2023-02-06",
     "twitter": "@PyData"
@@ -174,7 +174,7 @@
   },
   {
     "name": "PostgreSQL Conference Nepal",
-    "url": "https://pgconf.org.np/",
+    "url": "https://pgconf.org.np",
     "startDate": "2023-05-11",
     "endDate": "2023-05-12",
     "city": "Kathmandu",
@@ -271,7 +271,7 @@
   },
   {
     "name": "PG Day France",
-    "url": "https://www.pgday.fr/",
+    "url": "https://www.pgday.fr",
     "startDate": "2023-06-19",
     "endDate": "2023-06-20",
     "city": "Strasbourg",
@@ -292,7 +292,7 @@
     "country": "Germany",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://mlconference.ai/code-of-conduct/",
+    "cocUrl": "https://mlconference.ai/code-of-conduct",
     "twitter": "@mlconference"
   },
   {
@@ -304,19 +304,19 @@
     "country": "U.S.A.",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://www.databricks.com/dataaisummit/code-of-conduct/",
+    "cocUrl": "https://www.databricks.com/dataaisummit/code-of-conduct",
     "twitter": "@Data_AI_Summit"
   },
   {
     "name": "PostgreSQL Conference Germany",
-    "url": "https://2023.pgconf.de/",
+    "url": "https://2023.pgconf.de",
     "startDate": "2023-06-27",
     "endDate": "2023-06-27",
     "city": "Essen",
     "country": "Germany",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://2023.pgconf.de/codeofconduct/",
+    "cocUrl": "https://2023.pgconf.de/codeofconduct",
     "twitter": "@pgconfde"
   },
   {
@@ -386,7 +386,7 @@
     "country": "U.S.A.",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://www.tryswift.co/code-of-conduct/",
+    "cocUrl": "https://www.tryswift.co/code-of-conduct",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdZGAKQLn8CmSz2dVkDzUUVTp3eV0I-7krx5VUnJQRy9FlDVQ/viewform",
     "cfpEndDate": "2023-05-31",
     "twitter": "@tryswiftworld"
@@ -437,7 +437,7 @@
     "country": "U.S.A.",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://www.datascience.salon/code-of-conduct/",
+    "cocUrl": "https://www.datascience.salon/code-of-conduct",
     "twitter": "@DataSciSalon"
   },
   {
@@ -574,7 +574,7 @@
     "country": "India",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://conference.c-sharpcorner.com/code-of-conduct/",
+    "cocUrl": "https://conference.c-sharpcorner.com/code-of-conduct",
     "cfpUrl": "https://forms.office.com/r/DUwbw7dcsW",
     "cfpEndDate": "2023-08-30",
     "twitter": "@csharpcorner"
@@ -604,7 +604,7 @@
   },
   {
     "name": "PGDay Israel",
-    "url": "https://pgday.org.il/",
+    "url": "https://pgday.org.il",
     "startDate": "2023-10-19",
     "endDate": "2023-10-19",
     "city": "Tel Aviv",
@@ -636,7 +636,7 @@
     "country": "U.S.A.",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct",
     "cfpUrl": "https://sessionize.com/ai-devworld-2023",
     "cfpEndDate": "2023-06-09",
     "twitter": "@APIWorld"
@@ -667,7 +667,7 @@
   },
   {
     "name": "ODSC West",
-    "url": "https://odsc.com/california/",
+    "url": "https://odsc.com/california",
     "startDate": "2023-10-31",
     "endDate": "2023-11-03",
     "city": "San Francisco, CA",
@@ -685,7 +685,7 @@
     "country": "U.S.A.",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/attend/code-of-conduct/",
+    "cocUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/attend/code-of-conduct",
     "cfpUrl": "https://sessionize.com/kubecon-cloudnativecon-north-america-2023",
     "cfpEndDate": "2023-06-18",
     "twitter": "@CloudNativeFdn"
@@ -699,7 +699,7 @@
     "country": "Germany",
     "online": false,
     "locales": "EN,DE",
-    "cocUrl": "https://www.celonis.com/celosphere/faq/",
+    "cocUrl": "https://www.celonis.com/celosphere/faq",
     "twitter": "@Celonis"
   },
   {
@@ -735,7 +735,7 @@
     "country": "Germany",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://mlconference.ai/code-of-conduct/",
+    "cocUrl": "https://mlconference.ai/code-of-conduct",
     "twitter": "@mlconference"
   },
   {
@@ -757,7 +757,7 @@
     "country": "Singapore",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://javascript-conference.com/code-of-conduct/",
+    "cocUrl": "https://javascript-conference.com/code-of-conduct",
     "cfpUrl": "https://javascript-conference.com/code-of-conduct",
     "cfpEndDate": "2023-06-26",
     "twitter": "@JavaScriptCon"
@@ -771,14 +771,14 @@
     "country": "U.S.A.",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://events.linuxfoundation.org/ai-dev-north-america/attend/code-of-conduct/",
+    "cocUrl": "https://events.linuxfoundation.org/ai-dev-north-america/attend/code-of-conduct",
     "cfpUrl": "https://events.linuxfoundation.org/ai-dev-north-america/program/cfp",
     "cfpEndDate": "2023-10-23",
     "twitter": "@LinuxFoundation"
   },
   {
     "name": "PostgreSQL Conference Europe",
-    "url": "https://2023.pgconf.eu/",
+    "url": "https://2023.pgconf.eu",
     "startDate": "2023-12-12",
     "endDate": "2023-12-15",
     "city": "Prague",
