@@ -63,5 +63,17 @@
     "locales": "EN",
     "cocUrl": "https://javascript-conference.com/service-info/code-of-conduct",
     "twitter": "@JavaScriptCon"
+  },
+  {
+    "name": "App.js Conference",
+    "url": "https://appjs.co",
+    "startDate": "2025-05-28",
+    "endDate": "2025-05-30",
+    "city": "Kraków",
+    "country": "Poland",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://appjs.co/code-of-conduct",
+    "twitter": "@appjsconf"
   }
 ]
