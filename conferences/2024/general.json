@@ -597,6 +597,7 @@
     "online": false,
     "locales": "EN",
     "offersSignLanguageOrCC": true,
+    "cocUrl": "https://renderatl.com/code-of-conduct",
     "twitter": "@RenderATL"
   },
   {
@@ -1131,6 +1132,18 @@
     "country": "U.S.A.",
     "online": false,
     "locales": "EN"
+  },
+  {
+    "name": "unKonf",
+    "url": "https://unkonf.de/en",
+    "startDate": "2024-10-05",
+    "endDate": "2024-10-05",
+    "city": "Mannheim",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@unKonf",
+    "mastodon": "@unKonf@rheinneckar.social"
   },
   {
     "name": "SmashingConf New York",
