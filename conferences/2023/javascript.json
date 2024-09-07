@@ -19,7 +19,7 @@
     "endDate": "2023-01-26",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://cfe.dev/conduct/"
+    "cocUrl": "https://cfe.dev/conduct"
   },
   {
     "name": "HalfStack",
@@ -126,7 +126,7 @@
     "country": "Germany",
     "online": true,
     "locales": "DE",
-    "cocUrl": "https://javascript-days.de/code-of-conduct/",
+    "cocUrl": "https://javascript-days.de/code-of-conduct",
     "twitter": "@JS_Days"
   },
   {
@@ -177,7 +177,7 @@
     "country": "U.K.",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://javascript-conference.com/code-of-conduct/",
+    "cocUrl": "https://javascript-conference.com/code-of-conduct",
     "twitter": "@JavaScriptCon"
   },
   {
@@ -204,18 +204,18 @@
     "online": false,
     "locales": "EN",
     "offersSignLanguageOrCC": true,
-    "cocUrl": "https://www.reactathon.com/conduct/",
+    "cocUrl": "https://www.reactathon.com/conduct",
     "twitter": "@reactathon"
   },
   {
     "name": "OpenJS World",
-    "url": "https://events.linuxfoundation.org/open-source-summit-north-america/about/openjs-world/",
+    "url": "https://events.linuxfoundation.org/open-source-summit-north-america/about/openjs-world",
     "startDate": "2023-05-10",
     "endDate": "2023-05-12",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://events.linuxfoundation.org/open-source-summit-north-america/attend/code-of-conduct/",
-    "cfpUrl": "https://events.linuxfoundation.org/open-source-summit-north-america/program/cfp/",
+    "cocUrl": "https://events.linuxfoundation.org/open-source-summit-north-america/attend/code-of-conduct",
+    "cfpUrl": "https://events.linuxfoundation.org/open-source-summit-north-america/program/cfp",
     "cfpEndDate": "2023-02-05",
     "twitter": "@openjsf"
   },
@@ -228,7 +228,7 @@
     "country": "U.S.A.",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://www.techlahoma.org/code-of-conduct/",
+    "cocUrl": "https://www.techlahoma.org/code-of-conduct",
     "twitter": "@200okconf"
   },
   {
@@ -358,7 +358,7 @@
     "city": "Bengaluru",
     "country": "India",
     "online": true,
-    "cocUrl": "https://www.jsconf.in/code-of-conduct/",
+    "cocUrl": "https://www.jsconf.in/code-of-conduct",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScK_4aWEcrERtJPZX9kaA9cUlMdFYVp0xX55r8poVCavdTW2Q/viewform",
     "cfpEndDate": "2023-04-25",
     "twitter": "@jsconf_india"
@@ -384,7 +384,7 @@
     "online": true,
     "locales": "EN",
     "offersSignLanguageOrCC": true,
-    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
+    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct",
     "twitter": "@webdirections"
   },
   {
@@ -423,7 +423,7 @@
     "country": "Israel",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://www.react-next.com/conference-code-of-conduct/",
+    "cocUrl": "https://www.react-next.com/conference-code-of-conduct",
     "cfpUrl": "https://sessionize.com/Reactnext23",
     "cfpEndDate": "2023-01-31",
     "twitter": "@ReactNext"
@@ -437,7 +437,7 @@
     "country": "Israel",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://www.nodetlv.com/conference-code-of-conduct/",
+    "cocUrl": "https://www.nodetlv.com/conference-code-of-conduct",
     "cfpUrl": "https://sessionize.com/nodetlv-2023",
     "cfpEndDate": "2023-01-31",
     "twitter": "@nodetlv"
@@ -600,7 +600,7 @@
     "country": "U.S.A.",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://undergroundjs.com/code-of-conduct/",
+    "cocUrl": "https://undergroundjs.com/code-of-conduct",
     "twitter": "@undergroundjs"
   },
   {
@@ -612,7 +612,7 @@
     "country": "Spain",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://emberfest.eu/code-of-conduct/",
+    "cocUrl": "https://emberfest.eu/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/emberfest-2023",
     "cfpEndDate": "2023-07-31",
     "twitter": "@emberfest"
@@ -649,7 +649,7 @@
     "country": "U.S.A.",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://javascript-conference.com/code-of-conduct/",
+    "cocUrl": "https://javascript-conference.com/code-of-conduct",
     "cfpUrl": "https://javascript-conference.com/code-of-conduct",
     "cfpEndDate": "2023-03-20",
     "twitter": "@JavaScriptCon"
@@ -772,7 +772,7 @@
     "online": false,
     "locales": "EN",
     "offersSignLanguageOrCC": true,
-    "cocUrl": "https://revojs.ro/code-of-conduct/",
+    "cocUrl": "https://revojs.ro/code-of-conduct",
     "cfpUrl": "https://revojs.ro/2023/cfp",
     "cfpEndDate": "2023-06-04",
     "twitter": "@revojsro"
@@ -799,7 +799,7 @@
     "country": "India",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://conference.c-sharpcorner.com/code-of-conduct/",
+    "cocUrl": "https://conference.c-sharpcorner.com/code-of-conduct",
     "cfpUrl": "https://forms.office.com/r/DUwbw7dcsW",
     "cfpEndDate": "2023-08-30",
     "twitter": "@csharpcorner"
@@ -813,7 +813,7 @@
     "country": "Germany",
     "online": true,
     "locales": "DE",
-    "cocUrl": "https://javascript-days.de/code-of-conduct/",
+    "cocUrl": "https://javascript-days.de/code-of-conduct",
     "twitter": "@JS_Days"
   },
   {
@@ -852,7 +852,7 @@
     "country": "Germany",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://javascript-conference.com/service-info/code-of-conduct/",
+    "cocUrl": "https://javascript-conference.com/service-info/code-of-conduct",
     "cfpUrl": "https://javascript-conference.com/service-info",
     "cfpEndDate": "2023-04-03",
     "twitter": "@JavaScriptCon"

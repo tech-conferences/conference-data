@@ -1,7 +1,7 @@
 [
   {
     "name": "Software Quality Days",
-    "url": "https://www.software-quality-days.com/",
+    "url": "https://www.software-quality-days.com",
     "startDate": "2022-01-18",
     "endDate": "2022-01-20",
     "city": "Vienna",
@@ -18,7 +18,7 @@
   },
   {
     "name": "QA or the Highway",
-    "url": "https://www.qaorthehighway.com/",
+    "url": "https://www.qaorthehighway.com",
     "startDate": "2022-02-22",
     "endDate": "2022-02-22",
     "city": "Columbus, OH",
@@ -27,7 +27,7 @@
   },
   {
     "name": "QA & TEST Safety and Security Online",
-    "url": "https://safety.qatest.org/",
+    "url": "https://safety.qatest.org",
     "startDate": "2022-03-17",
     "endDate": "2022-03-18",
     "online": true,
@@ -74,7 +74,7 @@
     "city": "Cologne",
     "country": "Germany",
     "online": false,
-    "cocUrl": "https://agiletestingdays.com/code-of-conduct/",
+    "cocUrl": "https://agiletestingdays.com/code-of-conduct",
     "twitter": "@AgileTD"
   },
   {
@@ -95,7 +95,7 @@
     "city": "Copenhagen",
     "country": "Denmark",
     "online": false,
-    "cocUrl": "https://conference.eurostarsoftwaretesting.com/anti-harassment-policy/",
+    "cocUrl": "https://conference.eurostarsoftwaretesting.com/anti-harassment-policy",
     "twitter": "@esconfs"
   },
   {
@@ -115,7 +115,7 @@
     "city": "Cluj-Napoca",
     "country": "Romania",
     "online": true,
-    "cocUrl": "https://romaniatesting.ro/code-of-conduct/",
+    "cocUrl": "https://romaniatesting.ro/code-of-conduct",
     "twitter": "@romaniatesting"
   },
   {
@@ -126,7 +126,7 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
-    "cocUrl": "https://devopscon.io/code-of-conduct/",
+    "cocUrl": "https://devopscon.io/code-of-conduct",
     "cfpUrl": "https://callforpapers.sandsmedia.com",
     "cfpEndDate": "2022-05-01",
     "twitter": "@devops_con"
@@ -172,7 +172,7 @@
   },
   {
     "name": "IEEE AUTOTESTCON",
-    "url": "https://www.autotestcon.com/",
+    "url": "https://www.autotestcon.com",
     "startDate": "2022-08-28",
     "endDate": "2022-08-31",
     "city": "Oxon Hill, MD",
@@ -213,7 +213,7 @@
     "startDate": "2022-10-17",
     "endDate": "2022-10-18",
     "online": true,
-    "cocUrl": "https://automation.eurostarsoftwaretesting.com/code-of-conduct/",
+    "cocUrl": "https://automation.eurostarsoftwaretesting.com/code-of-conduct",
     "cfpUrl": "https://automation.eurostarsoftwaretesting.com/coming-soon",
     "cfpEndDate": "2022-10-16",
     "twitter": "@AutomationConf"
@@ -262,7 +262,7 @@
     "city": "Vilnius",
     "country": "Lithuania",
     "online": true,
-    "cocUrl": "https://testcon.lt/code-of-conduct/",
+    "cocUrl": "https://testcon.lt/code-of-conduct",
     "cfpUrl": "https://airtable.com/shrnlAKGCLYEtzHar",
     "twitter": "@TestConEurope"
   },
@@ -304,7 +304,7 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
-    "cocUrl": "https://mad-summit.de/code-of-conduct/",
+    "cocUrl": "https://mad-summit.de/code-of-conduct",
     "twitter": "@mad_summit"
   }
 ]

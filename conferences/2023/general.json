@@ -7,7 +7,7 @@
     "city": "Sandusky, OH",
     "country": "U.S.A.",
     "online": false,
-    "cocUrl": "https://www.codemash.org/codemash-code-conduct/",
+    "cocUrl": "https://www.codemash.org/codemash-code-conduct",
     "twitter": "@codemash"
   },
   {
@@ -42,7 +42,7 @@
     "city": "Round Rock, TX",
     "country": "U.S.A.",
     "online": true,
-    "cocUrl": "https://that.us/support/code-of-conduct/",
+    "cocUrl": "https://that.us/support/code-of-conduct",
     "twitter": "@thatconference"
   },
   {
@@ -65,7 +65,7 @@
     "city": "Grenoble",
     "country": "France",
     "online": false,
-    "cocUrl": "https://snowcamp.io/fr/coc/",
+    "cocUrl": "https://snowcamp.io/fr/coc",
     "cfpUrl": "https://conference-hall.io/public/event/ZGJWM1x64evaNUzycEzn",
     "cfpEndDate": "2022-10-15",
     "twitter": "@SnowCampIO"
@@ -136,7 +136,7 @@
     "country": "U.S.A.",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct",
     "cfpUrl": "https://sessionize.com/developerweek-2023",
     "cfpEndDate": "2022-10-26",
     "twitter": "@developerweek"
@@ -197,7 +197,7 @@
     "country": "Germany",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://23.foss-backstage.de/code-of-conduct/",
+    "cocUrl": "https://23.foss-backstage.de/code-of-conduct",
     "twitter": "@fossbckstg"
   },
   {
@@ -209,7 +209,7 @@
     "country": "Germany",
     "online": false,
     "locales": "DE",
-    "cocUrl": "https://software-architecture-summit.de/service-info/code-of-conduct/",
+    "cocUrl": "https://software-architecture-summit.de/service-info/code-of-conduct",
     "twitter": "@SoftwArchSummit"
   },
   {
@@ -221,7 +221,7 @@
     "country": "India",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://2023.agileindia.org/agile-india-values/",
+    "cocUrl": "https://2023.agileindia.org/agile-india-values",
     "twitter": "@agileindia"
   },
   {
@@ -339,7 +339,7 @@
     "country": "U.S.A.",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://2023.phillyemergingtech.com/code-of-conduct/"
+    "cocUrl": "https://2023.phillyemergingtech.com/code-of-conduct"
   },
   {
     "name": "Devoxx France",
@@ -350,7 +350,7 @@
     "country": "France",
     "online": false,
     "locales": "EN,FR",
-    "cocUrl": "https://www.devoxx.fr/presenter-a-devoxx/code-de-conduite/",
+    "cocUrl": "https://www.devoxx.fr/presenter-a-devoxx/code-de-conduite",
     "cfpUrl": "https://cfp.devoxx.fr",
     "cfpEndDate": "2023-01-08",
     "twitter": "@DevoxxFR"
@@ -417,7 +417,7 @@
     "country": "U.K.",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://serverless-architecture.io/code-of-conduct/",
+    "cocUrl": "https://serverless-architecture.io/code-of-conduct",
     "twitter": "@serverlesscon"
   },
   {
@@ -462,7 +462,7 @@
     "country": "U.S.A.",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://stirtrek.com/info/codeofconduct/",
+    "cocUrl": "https://stirtrek.com/info/codeofconduct",
     "twitter": "@stirtrek"
   },
   {
@@ -474,7 +474,7 @@
     "country": "Germany",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://jax.de/code-of-conduct/",
+    "cocUrl": "https://jax.de/code-of-conduct",
     "twitter": "@jaxcon"
   },
   {
@@ -507,7 +507,7 @@
     "country": "Canada",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://events.linuxfoundation.org/open-source-summit-north-america/attend/code-of-conduct/",
+    "cocUrl": "https://events.linuxfoundation.org/open-source-summit-north-america/attend/code-of-conduct",
     "twitter": "@linuxfoundation"
   },
   {
@@ -652,7 +652,7 @@
     "city": "Vilnius",
     "country": "Lithuania",
     "online": true,
-    "cocUrl": "https://devdays.lt/code-of-conduct/",
+    "cocUrl": "https://devdays.lt/code-of-conduct",
     "twitter": "@DevDaysEurope"
   },
   {
@@ -783,7 +783,7 @@
     "country": "Norway",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://berlincodeofconduct.org/",
+    "cocUrl": "https://berlincodeofconduct.org",
     "cfpUrl": "https://forms.gle/4c5JCnkc9iGTbXu59",
     "cfpEndDate": "2023-05-15",
     "twitter": "@ReactNorway"
@@ -797,7 +797,7 @@
     "country": "Germany",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://2023.berlinbuzzwords.de/code-of-conduct/",
+    "cocUrl": "https://2023.berlinbuzzwords.de/code-of-conduct",
     "cfpUrl": "https://2023.berlinbuzzwords.de/call-for-papers",
     "cfpEndDate": "2023-02-19",
     "twitter": "@berlinbuzzwords"
@@ -834,7 +834,7 @@
     "country": "Germany",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://events.linuxfoundation.org/cloud-foundry-day/attend/code-of-conduct/",
+    "cocUrl": "https://events.linuxfoundation.org/cloud-foundry-day/attend/code-of-conduct",
     "cfpUrl": "https://events.linuxfoundation.org/cloud-foundry-day/program/cfp",
     "cfpEndDate": "2023-04-28",
     "twitter": "@cloudfoundry"
@@ -846,7 +846,7 @@
     "endDate": "2023-06-22",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct",
     "cfpUrl": "https://sessionize.com/developerweek-latin-america-2023",
     "cfpEndDate": "2023-04-21",
     "twitter": "@developerweek"
@@ -896,22 +896,22 @@
     "country": "Czech Republic",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://events.linuxfoundation.org/embedded-open-source-summit/attend/code-of-conduct/",
+    "cocUrl": "https://events.linuxfoundation.org/embedded-open-source-summit/attend/code-of-conduct",
     "cfpUrl": "https://events.linuxfoundation.org/embedded-open-source-summit/program/cfp",
     "cfpEndDate": "2023-02-27",
     "twitter": "@linuxfoundation"
   },
   {
     "name": "FOSS4G",
-    "url": "https://2023.foss4g.org/",
+    "url": "https://2023.foss4g.org",
     "startDate": "2023-06-28",
     "endDate": "2023-06-30",
     "city": "Prizren",
     "country": "Kosovo",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://2023.foss4g.org/code-of-conduct/",
-    "cfpUrl": "https://2023.foss4g.org/call-for-papers/",
+    "cocUrl": "https://2023.foss4g.org/code-of-conduct",
+    "cfpUrl": "https://2023.foss4g.org/call-for-papers",
     "cfpEndDate": "2023-02-19",
     "twitter": "@foss4g"
   },
@@ -960,7 +960,7 @@
   },
   {
     "name": "FOSSY",
-    "url": "https://sfconservancy.org/fossy/",
+    "url": "https://sfconservancy.org/fossy",
     "startDate": "2023-07-13",
     "endDate": "2023-07-16",
     "city": "Portland, OR",
@@ -988,7 +988,7 @@
     "country": "U.S.A.",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://that.us/support/code-of-conduct/",
+    "cocUrl": "https://that.us/support/code-of-conduct",
     "twitter": "@thatconference"
   },
   {
@@ -1015,7 +1015,7 @@
     "online": false,
     "locales": "PT",
     "offersSignLanguageOrCC": true,
-    "cocUrl": "https://pt-br.confcodeofconduct.com/",
+    "cocUrl": "https://pt-br.confcodeofconduct.com",
     "twitter": "@frontinsp"
   },
   {
@@ -1027,7 +1027,7 @@
     "country": "U.S.A.",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://www.beercitycode.com/conduct/",
+    "cocUrl": "https://www.beercitycode.com/conduct",
     "twitter": "@BeerCityCode"
   },
   {
@@ -1039,7 +1039,7 @@
     "country": "Germany",
     "online": false,
     "locales": "DE,EN",
-    "cocUrl": "https://froscon.org/faq/coc/",
+    "cocUrl": "https://froscon.org/faq/coc",
     "twitter": "@froscon",
     "mastodon": "@FrOSCon@bonn.social"
   },
@@ -1066,7 +1066,7 @@
     "country": "U.S.A.",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct",
     "cfpUrl": "https://sessionize.com/developerweek-cloudx-2023",
     "cfpEndDate": "2023-05-26",
     "twitter": "@developerweek"
@@ -1080,7 +1080,7 @@
     "country": "U.S.A.",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct",
     "cfpUrl": "https://sessionize.com/worldfestival-2023",
     "cfpEndDate": "2023-06-30",
     "twitter": "@worldfestivalhq"
@@ -1191,22 +1191,22 @@
     "country": "U.S.A.",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://events.linuxfoundation.org/wasmcon/attend/code-of-conduct/",
+    "cocUrl": "https://events.linuxfoundation.org/wasmcon/attend/code-of-conduct",
     "cfpUrl": "https://events.linuxfoundation.org/wasmcon/program/cfp",
     "cfpEndDate": "2023-06-25",
     "twitter": "@linuxfoundation"
   },
   {
     "name": "DebConf",
-    "url": "https://debconf23.debconf.org/",
+    "url": "https://debconf23.debconf.org",
     "startDate": "2023-09-10",
     "endDate": "2023-09-17",
     "city": "Kochi",
     "country": "India",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://debconf23.debconf.org/about/coc/",
-    "cfpUrl": "https://debconf23.debconf.org/cfp/",
+    "cocUrl": "https://debconf23.debconf.org/about/coc",
+    "cfpUrl": "https://debconf23.debconf.org/cfp",
     "twitter": "@DebConf"
   },
   {
@@ -1218,7 +1218,7 @@
     "country": "Germany",
     "online": false,
     "locales": "DE",
-    "cocUrl": "https://software-architecture-summit.de/service-info/code-of-conduct/",
+    "cocUrl": "https://software-architecture-summit.de/service-info/code-of-conduct",
     "twitter": "@SoftwArchSummit"
   },
   {
@@ -1268,7 +1268,7 @@
     "country": "Croatia",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://shift.infobip.com/code/",
+    "cocUrl": "https://shift.infobip.com/code",
     "cfpUrl": "https://sessionize.com/infobip-shift-2023",
     "cfpEndDate": "2023-05-15",
     "twitter": "@InfobipShift"
@@ -1296,7 +1296,7 @@
     "country": "Spain",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://events.linuxfoundation.org/open-source-summit-europe/attend/code-of-conduct/",
+    "cocUrl": "https://events.linuxfoundation.org/open-source-summit-europe/attend/code-of-conduct",
     "twitter": "@linuxfoundation"
   },
   {
@@ -1309,7 +1309,7 @@
     "online": false,
     "locales": "EN",
     "offersSignLanguageOrCC": true,
-    "cocUrl": "https://fronteersconf.org/code-of-conduct/",
+    "cocUrl": "https://fronteersconf.org/code-of-conduct",
     "twitter": "@fronteersconf"
   },
   {
@@ -1369,7 +1369,7 @@
   },
   {
     "name": "QCon",
-    "url": "https://qconsf.com/",
+    "url": "https://qconsf.com",
     "startDate": "2023-10-02",
     "endDate": "2023-10-06",
     "city": "San Francisco, CA",
@@ -1492,7 +1492,7 @@
     "online": true,
     "locales": "EN",
     "offersSignLanguageOrCC": true,
-    "cocUrl": "https://www.p99conf.io/code-of-conduct/",
+    "cocUrl": "https://www.p99conf.io/code-of-conduct",
     "cfpUrl": "https://sessionize.com/p99-conf-2023",
     "cfpEndDate": "2023-05-12",
     "twitter": "@p99conf"
@@ -1548,7 +1548,7 @@
     "country": "Germany",
     "online": true,
     "locales": "EN,DE",
-    "cocUrl": "https://phpconference.com/code-of-conduct/",
+    "cocUrl": "https://phpconference.com/code-of-conduct",
     "cfpUrl": "https://phpconference.com/call-for-papers",
     "cfpEndDate": "2023-05-02",
     "twitter": "@phpconference"
@@ -1562,7 +1562,7 @@
     "country": "Poland",
     "online": false,
     "locales": "EN,PL",
-    "cocUrl": "https://dev.infoshare.pl/documents/",
+    "cocUrl": "https://dev.infoshare.pl/documents",
     "cfpUrl": "https://dev.infoshare.pl/documents",
     "cfpEndDate": "2023-10-23",
     "twitter": "@nfosharepl"
@@ -1576,7 +1576,7 @@
     "country": "U.S.A.",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct",
     "cfpUrl": "https://sessionize.com/api-world-2023",
     "cfpEndDate": "2023-06-09",
     "twitter": "@APIWorld"
@@ -1591,7 +1591,7 @@
     "online": true,
     "locales": "EN",
     "offersSignLanguageOrCC": true,
-    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
+    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct",
     "cfpUrl": "https://webdirections.org/speaking",
     "cfpEndDate": "2023-05-31",
     "twitter": "@webdirections"
@@ -1689,7 +1689,7 @@
     "country": "Germany",
     "online": false,
     "locales": "EN,DE",
-    "cocUrl": "https://ctwebdev.de/code-of-conduct/",
+    "cocUrl": "https://ctwebdev.de/code-of-conduct",
     "twitter": "@ct_webdev"
   },
   {
@@ -1715,7 +1715,7 @@
     "country": "Italy",
     "online": false,
     "locales": "IT,EN",
-    "cocUrl": "https://www.agileday.it/",
+    "cocUrl": "https://www.agileday.it",
     "cfpUrl": "https://sessionize.com/italian-agile-days-2023",
     "cfpEndDate": "2023-07-31",
     "twitter": "@agileday"
@@ -1798,7 +1798,7 @@
     "endDate": "2023-12-08",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://neovimconf.live/code-of-conduct/",
+    "cocUrl": "https://neovimconf.live/code-of-conduct",
     "cfpUrl": "https://neovimconf.live/lightning",
     "cfpEndDate": "2023-12-07",
     "twitter": "@vimconflive"
@@ -1812,7 +1812,7 @@
     "country": "U.S.A.",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://events.linuxfoundation.org/cassandra-summit/attend/code-of-conduct/",
+    "cocUrl": "https://events.linuxfoundation.org/cassandra-summit/attend/code-of-conduct",
     "twitter": "@linuxfoundation"
   }
 ]

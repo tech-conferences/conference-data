@@ -32,7 +32,7 @@
     "online": true,
     "locales": "EN",
     "offersSignLanguageOrCC": true,
-    "cocUrl": "https://conf.11ty.dev/cfp/",
+    "cocUrl": "https://conf.11ty.dev/cfp",
     "cfpUrl": "https://conf.11ty.dev/#speaking",
     "cfpEndDate": "2024-03-22",
     "twitter": "@eleven_ty",
@@ -85,7 +85,7 @@
     "country": "Australia",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
+    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct",
     "twitter": "@webdirections"
   },
   {
@@ -128,6 +128,15 @@
     "cfpUrl": "https://forms.gle/Yq3WP7dq2o4fEkgE6",
     "cfpEndDate": "2024-08-01",
     "twitter": "@what_the_stack"
+  },
+  {
+    "name": "JetBrains JavaScript Day",
+    "url": "https://jb.gg/JSD24_confs",
+    "startDate": "2024-10-24",
+    "endDate": "2024-10-24",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://lp.jetbrains.com/code-of-conduct-events/?_gl=1*keh0mg*_gcl_aw*R0NMLjE3MTg4Mjc0MTYuRUFJYUlRb2JDaE1JOF91a2hidm9oZ01WRXFSYUJSMkNFQS1QRUFFWUFTQUFFZ0lacFBEX0J3RQ..*_gcl_au*MTY0OTk1NTg0NS4xNzIwNDQ5OTc1*_ga*MTQ1MzIwMzk5NS4xNjg5MjYzNTI5*_ga_9J976DJZ68*MTcyNDc2OTM3Ni4zMDEuMC4xNzI0NzY5Mzc4LjU4LjAuMA.."
   },
   {
     "name": "Frontend Barcelona Conference",

@@ -412,7 +412,7 @@
   },
   {
     "name": "NodeDay",
-    "url": "http://nodeday.com/",
+    "url": "http://nodeday.com",
     "startDate": "2018-05-02",
     "endDate": "2018-05-02",
     "city": "Toronto",
@@ -591,7 +591,7 @@
   },
   {
     "name": "FrontCon",
-    "url": "https://frontcon.lv/",
+    "url": "https://frontcon.lv",
     "startDate": "2018-06-14",
     "endDate": "2018-06-15",
     "city": "Riga",
@@ -658,7 +658,7 @@
   },
   {
     "name": "WorkerConf",
-    "url": "https://worker.sh/",
+    "url": "https://worker.sh",
     "startDate": "2018-06-28",
     "endDate": "2018-06-28",
     "city": "Dornbirn",
@@ -713,7 +713,7 @@
   },
   {
     "name": "NodeConf",
-    "url": "http://nodeconf.com/",
+    "url": "http://nodeconf.com",
     "startDate": "2018-07-20",
     "endDate": "2018-07-22",
     "city": "Walker Creek Ranch, CA",
@@ -771,7 +771,7 @@
   },
   {
     "name": "ngTalks Conference",
-    "url": "https://ngtalks.io/",
+    "url": "https://ngtalks.io",
     "startDate": "2018-08-08",
     "endDate": "2018-08-11",
     "city": "Kharkiv",
@@ -927,7 +927,7 @@
     "endDate": "2018-09-14",
     "city": "Sandy, UT",
     "country": "U.S.A.",
-    "cfpUrl": "https://sessionize.com/utahjs-conf-2018/",
+    "cfpUrl": "https://sessionize.com/utahjs-conf-2018",
     "cfpEndDate": "2018-06-17"
   },
   {
@@ -937,7 +937,7 @@
     "endDate": "2018-09-21",
     "city": "New York, NY",
     "country": "U.S.A.",
-    "cfpUrl": "https://sessionize.com/empirejs-2018/",
+    "cfpUrl": "https://sessionize.com/empirejs-2018",
     "cfpEndDate": "2018-06-15",
     "twitter": "@empirejs"
   },
@@ -1214,7 +1214,7 @@
   },
   {
     "name": "Vue Fes Japan",
-    "url": "https://vuefes.jp/",
+    "url": "https://vuefes.jp",
     "startDate": "2018-11-03",
     "endDate": "2018-11-03",
     "city": "Tokyo",
@@ -1272,7 +1272,7 @@
   },
   {
     "name": "performance.now()",
-    "url": "https://perfnow.nl/",
+    "url": "https://perfnow.nl",
     "startDate": "2018-11-08",
     "endDate": "2018-11-09",
     "city": "Amsterdam",
@@ -1390,12 +1390,12 @@
   },
   {
     "name": "HolyJS",
-    "url": "https://holyjs-moscow.ru/en/",
+    "url": "https://holyjs-moscow.ru/en",
     "startDate": "2018-11-24",
     "endDate": "2018-11-25",
     "city": "Moscow",
     "country": "Russia",
-    "cfpUrl": "https://holyjs-moscow.ru/en/callforpapers/",
+    "cfpUrl": "https://holyjs-moscow.ru/en/callforpapers",
     "cfpEndDate": "2018-09-15",
     "twitter": "@HolyJSconf"
   },

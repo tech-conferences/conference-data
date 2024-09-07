@@ -8,6 +8,18 @@
     "country": "Belgium",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://berlincodeofconduct.org/"
+    "cocUrl": "https://berlincodeofconduct.org"
+  },
+  {
+    "name": "Clojure/conj",
+    "url": "https://2024.clojure-conj.org",
+    "startDate": "2024-10-23",
+    "endDate": "2024-10-25",
+    "city": "Alexandria, VA",
+    "country": "U.S.A.",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://2024.clojure-conj.org/#/coc",
+    "twitter": "@clojure_conj"
   }
 ]

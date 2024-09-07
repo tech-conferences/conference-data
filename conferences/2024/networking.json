@@ -18,7 +18,7 @@
     "country": "Germany",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://tickets.plainschwarz.com/fossback24/page/i-agree-to-abide-by-the-foss-backstage-code-of-conduct/",
+    "cocUrl": "https://tickets.plainschwarz.com/fossback24/page/i-agree-to-abide-by-the-foss-backstage-code-of-conduct",
     "cfpUrl": "https://program.foss-backstage.de/fossback24/cfp",
     "cfpEndDate": "2023-11-15",
     "twitter": "@fossbckstg",
@@ -58,7 +58,7 @@
     "country": "France",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://events.linuxfoundation.org/about/code-of-conduct/",
+    "cocUrl": "https://events.linuxfoundation.org/about/code-of-conduct",
     "twitter": "@CloudNativeFdn"
   },
   {
@@ -70,7 +70,7 @@
     "country": "Canada",
     "online": false,
     "locales": "EN,FR",
-    "cocUrl": "https://wtmmontreal.com/code-of-conduct/",
+    "cocUrl": "https://wtmmontreal.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/wtmmontreal2024",
     "cfpEndDate": "2024-02-23",
     "twitter": "@WTM_Montreal"
@@ -139,7 +139,7 @@
     "country": "U.K.",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://conference.ctocraft.com/london-2024/code-of-conduct/",
+    "cocUrl": "https://conference.ctocraft.com/london-2024/code-of-conduct",
     "cfpUrl": "https://conference.ctocraft.com/london-2024/call-for-papers",
     "cfpEndDate": "2024-01-26",
     "twitter": "@CTOCraft"
@@ -156,7 +156,7 @@
   },
   {
     "name": "Sovereign Cloud Stack Summit May",
-    "url": "https://scs.community/summit2024/",
+    "url": "https://scs.community/summit2024",
     "startDate": "2024-05-14",
     "endDate": "2024-05-14",
     "city": "Berlin",
@@ -173,7 +173,7 @@
     "country": "U.S.A.",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://sf.droidcon.com/code-of-conduct/",
+    "cocUrl": "https://sf.droidcon.com/code-of-conduct",
     "cfpUrl": "https://sessionize.com/droidcon-san-francisco-2024",
     "cfpEndDate": "2024-04-14",
     "twitter": "@droidconSF",
@@ -215,7 +215,7 @@
   },
   {
     "name": "The MERGE",
-    "url": "https://merge.berlin/",
+    "url": "https://merge.berlin",
     "startDate": "2024-06-13",
     "endDate": "2024-06-14",
     "city": "Berlin",
@@ -244,7 +244,7 @@
     "country": "Germany",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://berlin.droidcon.com/code-of-conduct/",
+    "cocUrl": "https://berlin.droidcon.com/code-of-conduct",
     "cfpUrl": "https://sessionize.com/droidcon-berlin-2024",
     "cfpEndDate": "2024-04-01",
     "twitter": "@droidconBerlin",
@@ -271,7 +271,7 @@
     "country": "U.S.A.",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://nyc.droidcon.com/code-of-conduct/",
+    "cocUrl": "https://nyc.droidcon.com/code-of-conduct",
     "twitter": "@droidconnyc"
   },
   {
@@ -283,7 +283,7 @@
     "country": "Germany",
     "online": false,
     "locales": "DE",
-    "cocUrl": "https://berlincodeofconduct.org/de/"
+    "cocUrl": "https://berlincodeofconduct.org/de"
   },
   {
     "name": "ABC Conclave - Dubai",
@@ -308,7 +308,7 @@
   },
   {
     "name": "Camunda Community Summit",
-    "url": "https://www.camundacon.com/na/",
+    "url": "https://www.camundacon.com/na",
     "startDate": "2024-10-16",
     "endDate": "2024-10-17",
     "city": "New York, NY",
@@ -325,7 +325,7 @@
     "country": "U.S.A.",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct",
     "cfpUrl": "https://sessionize.com/cloudx-2024",
     "cfpEndDate": "2024-06-14",
     "twitter": "@DeveloperWeek"
@@ -388,7 +388,7 @@
     "online": false,
     "locales": "EN,DE",
     "offersSignLanguageOrCC": true,
-    "cocUrl": "https://osmc.de/code-of-conduct/",
+    "cocUrl": "https://osmc.de/code-of-conduct",
     "cfpUrl": "https://osmc.de/call-for-papers",
     "cfpEndDate": "2024-08-15",
     "twitter": "@osmc"

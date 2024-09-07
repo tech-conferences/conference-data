@@ -38,7 +38,7 @@
     "city": "Barcelona",
     "country": "Spain",
     "online": false,
-    "cocUrl": "https://gsas.io/",
+    "cocUrl": "https://gsas.io",
     "cfpUrl": "https://gsas867743.typeform.com/to/axj5tZIN",
     "cfpEndDate": "2022-04-15",
     "twitter": "@gsas_io"
@@ -51,7 +51,7 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "online": false,
-    "cocUrl": "https://www.dashcon.io/coc/",
+    "cocUrl": "https://www.dashcon.io/coc",
     "cfpUrl": "https://www.dashcon.io/cfp",
     "cfpEndDate": "2022-08-12",
     "twitter": "@dashconio"
@@ -63,7 +63,7 @@
     "endDate": "2022-10-20",
     "online": true,
     "offersSignLanguageOrCC": true,
-    "cocUrl": "https://www.p99conf.io/code-of-conduct/",
+    "cocUrl": "https://www.p99conf.io/code-of-conduct",
     "cfpUrl": "https://sessionize.com/p99-conf-2022",
     "cfpEndDate": "2022-04-30",
     "twitter": "@p99conf"
@@ -76,7 +76,7 @@
     "city": "Munich",
     "country": "Germany",
     "online": true,
-    "cocUrl": "https://javascript-conference.com/code-of-conduct/",
+    "cocUrl": "https://javascript-conference.com/code-of-conduct",
     "twitter": "@JavaScriptCon"
   }
 ]

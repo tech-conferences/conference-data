@@ -12,7 +12,7 @@
   },
   {
     "name": "CDAO UK",
-    "url": "https://cdao-uk.coriniumintelligence.com/",
+    "url": "https://cdao-uk.coriniumintelligence.com",
     "startDate": "2025-02-12",
     "endDate": "2025-02-13",
     "city": "London",
@@ -34,6 +34,18 @@
     "twitter": "@mlconference"
   },
   {
+    "name": "Future Frontend",
+    "url": "https://futurefrontend.com",
+    "startDate": "2025-05-27",
+    "endDate": "2025-05-28",
+    "city": "Espoo",
+    "country": "Finland",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://berlincodeofconduct.org/",
+    "twitter": "@future_frontend"
+  },
+  {
     "name": "CONFidence",
     "url": "https://confidence-conference.org",
     "startDate": "2025-06-02",
@@ -42,7 +54,7 @@
     "country": "Poland",
     "online": false,
     "locales": "EN,PL",
-    "cocUrl": "https://confidence-conference.org/code-of-conduct/",
+    "cocUrl": "https://confidence-conference.org/code-of-conduct",
     "twitter": "@CONFidenceConf"
   },
   {
@@ -54,7 +66,7 @@
     "country": "U.K.",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://conference.eurostarsoftwaretesting.com/anti-harassment-policy/",
+    "cocUrl": "https://conference.eurostarsoftwaretesting.com/anti-harassment-policy",
     "twitter": "@esconfs"
   }
 ]

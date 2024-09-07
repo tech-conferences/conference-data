@@ -1,5 +1,17 @@
 [
   {
+    "name": Unhacked International CyberSecurity",
+    "url": "https://momentera.org/conferences/unhacked-conference",
+    "startDate": "2025-02-10",
+    "endDate": "2025-02-12",
+    "city": "Vienna",
+    "country": "Austria",
+    "online": true,
+    "locales": "EN",
+    "cfpUrl": "https://momentera.org/conferences/unhacked-conference/register.php",
+    "cfpEndDate": "2024-12-18"
+  },
+  {
     "name": "RuhrSec",
     "url": "https://www.ruhrsec.de/2025",
     "startDate": "2025-02-20",
@@ -14,8 +26,20 @@
     "twitter": "@ruhrsec"
   },
   {
+    "name": "Serverless Architecture Conference London",
+    "url": "https://serverless-architecture.io/london",
+    "startDate": "2025-05-12",
+    "endDate": "2025-05-15",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://serverless-architecture.io/code-of-conduct/",
+    "twitter": "@serverlesscon"
+  },
+  {
     "name": "Camunda Community Summit",
-    "url": "https://www.camundacon.com/amsterdam/",
+    "url": "https://www.camundacon.com/amsterdam",
     "startDate": "2025-05-13",
     "endDate": "2025-05-15",
     "city": "Amsterdam",
@@ -37,6 +61,18 @@
     "mastodon": "@jcon@mastodon.social"
   },
   {
+    "name": "App.js Conference",
+    "url": "https://appjs.co",
+    "startDate": "2025-05-28",
+    "endDate": "2025-05-30",
+    "city": "Kraków",
+    "country": "Poland",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://appjs.co/code-of-conduct",
+    "twitter": "@appjsconf"
+  },
+  {
     "name": "CONFidence",
     "url": "https://confidence-conference.org",
     "startDate": "2025-06-02",
@@ -45,7 +81,7 @@
     "country": "Poland",
     "online": false,
     "locales": "EN,PL",
-    "cocUrl": "https://confidence-conference.org/code-of-conduct/",
+    "cocUrl": "https://confidence-conference.org/code-of-conduct",
     "twitter": "@CONFidenceConf"
   }
 ]

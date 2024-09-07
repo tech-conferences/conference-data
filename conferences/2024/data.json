@@ -74,7 +74,7 @@
   },
   {
     "name": "The DEVOPS Conference",
-    "url": "https://www.thedevopsconference.com/",
+    "url": "https://www.thedevopsconference.com",
     "startDate": "2024-03-14",
     "endDate": "2024-03-14",
     "city": "London",
@@ -102,7 +102,7 @@
     "country": "U.S.A.",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://www.nvidia.com/gtc/code-of-conduct/",
+    "cocUrl": "https://www.nvidia.com/gtc/code-of-conduct",
     "twitter": "@NVIDIAGTC"
   },
   {
@@ -114,7 +114,7 @@
     "country": "France",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://events.linuxfoundation.org/about/code-of-conduct/",
+    "cocUrl": "https://events.linuxfoundation.org/about/code-of-conduct",
     "twitter": "@CloudNativeFdn"
   },
   {
@@ -148,7 +148,7 @@
     "country": "Canada",
     "online": false,
     "locales": "EN,FR",
-    "cocUrl": "https://wtmmontreal.com/code-of-conduct/",
+    "cocUrl": "https://wtmmontreal.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/wtmmontreal2024",
     "cfpEndDate": "2024-02-23",
     "twitter": "@WTM_Montreal"
@@ -162,7 +162,7 @@
     "country": "U.K.",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://serverless-architecture.io/code-of-conduct/",
+    "cocUrl": "https://serverless-architecture.io/code-of-conduct",
     "twitter": "@serverlesscon"
   },
   {
@@ -206,7 +206,7 @@
     "endDate": "2024-04-16",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://developer.microsoft.com/reactor/codeofconduct/",
+    "cocUrl": "https://developer.microsoft.com/reactor/codeofconduct",
     "twitter": "@AzureCosmosDB"
   },
   {
@@ -218,13 +218,13 @@
     "country": "Greece",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://devoxx.gr/code-of-conduct/",
+    "cocUrl": "https://devoxx.gr/code-of-conduct",
     "cfpUrl": "https://dvgr24.cfp.dev/#/login",
     "cfpEndDate": "2023-12-15"
   },
   {
     "name": "PyCon DE & PyData Berlin",
-    "url": "https://2024.pycon.de/",
+    "url": "https://2024.pycon.de",
     "startDate": "2024-04-22",
     "endDate": "2024-04-24",
     "city": "Berlin",
@@ -295,7 +295,7 @@
     "country": "U.K.",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://www.devoxx.co.uk/code-of-conduct/",
+    "cocUrl": "https://www.devoxx.co.uk/code-of-conduct",
     "twitter": "@DevoxxUK"
   },
   {
@@ -307,7 +307,7 @@
     "country": "Spain",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://berlincodeofconduct.org/",
+    "cocUrl": "https://berlincodeofconduct.org",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdeZM1qf2fuLaXj06R4BA4dbh0mE8O2kly3vVaR6928xJfXvQ/viewform",
     "cfpEndDate": "2024-01-01",
     "twitter": "@JOTBConf"
@@ -355,7 +355,7 @@
   },
   {
     "name": "Embedded Vision Summit",
-    "url": "https://embeddedvisionsummit.com/",
+    "url": "https://embeddedvisionsummit.com",
     "startDate": "2024-05-21",
     "endDate": "2024-05-23",
     "city": "Santa Clara, CA",
@@ -383,20 +383,20 @@
     "country": "Germany",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://webinale.de/code-of-conduct-en/",
+    "cocUrl": "https://webinale.de/code-of-conduct-en",
     "cfpUrl": "https://webinale.de/call-for-papers-en",
     "cfpEndDate": "2023-11-20",
     "twitter": "@webinale"
   },
   {
     "name": "PGConf.dev",
-    "url": "https://2024.pgconf.dev/",
+    "url": "https://2024.pgconf.dev",
     "startDate": "2024-05-28",
     "endDate": "2024-05-31",
     "city": "Vancouver",
     "country": "Canada",
     "locales": "EN",
-    "cocUrl": "https://2024.pgconf.dev/coc/",
+    "cocUrl": "https://2024.pgconf.dev/coc",
     "twitter": "@pgconfdev"
   },
   {
@@ -408,14 +408,14 @@
     "country": "U.S.A.",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct",
     "cfpUrl": "https://sessionize.com/ai-devsummit-2024",
     "cfpEndDate": "2024-03-22",
     "twitter": "@DevNetwork_"
   },
   {
     "name": "International Conference on Automated Planning and Scheduling (ICAPS)",
-    "url": "https://icaps24.icaps-conference.org/",
+    "url": "https://icaps24.icaps-conference.org",
     "startDate": "2024-06-01",
     "endDate": "2024-06-06",
     "city": "Banff",
@@ -454,7 +454,7 @@
     "country": "Germany",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://2024.berlinbuzzwords.de/code-of-conduct/",
+    "cocUrl": "https://2024.berlinbuzzwords.de/code-of-conduct",
     "cfpUrl": "https://2024.berlinbuzzwords.de/call-for-papers",
     "cfpEndDate": "2024-02-25",
     "twitter": "@berlinbuzzwords",
@@ -517,7 +517,7 @@
   },
   {
     "name": "International Conference on Pattern Recognition and Artificial Intelligence (ICPRAI)",
-    "url": "https://brain.korea.ac.kr/icprai2024/",
+    "url": "https://brain.korea.ac.kr/icprai2024",
     "startDate": "2024-06-18",
     "endDate": "2024-06-21",
     "city": "Jeju",
@@ -527,14 +527,14 @@
   },
   {
     "name": "AI_dev: Open Souce GenAI & ML Summit",
-    "url": "https://events.linuxfoundation.org/ai-dev-europe/",
+    "url": "https://events.linuxfoundation.org/ai-dev-europe",
     "startDate": "2024-06-19",
     "endDate": "2024-06-20",
     "city": "Paris",
     "country": "France",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://events.linuxfoundation.org/ai-dev-europe/attend/code-of-conduct/",
+    "cocUrl": "https://events.linuxfoundation.org/ai-dev-europe/attend/code-of-conduct",
     "cfpUrl": "https://events.linuxfoundation.org/ai-dev-europe/program/cfp",
     "cfpEndDate": "2024-03-05",
     "twitter": "@LinuxFoundation"
@@ -596,7 +596,7 @@
     "country": "Germany",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://mlconference.ai/code-of-conduct/",
+    "cocUrl": "https://mlconference.ai/code-of-conduct",
     "twitter": "@mlconference"
   },
   {
@@ -618,20 +618,8 @@
     "country": "U.K.",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://turingfest.com/code-of-conduct/",
+    "cocUrl": "https://turingfest.com/code-of-conduct",
     "twitter": "@turingfest"
-  },
-  {
-    "name": "8th Annual Toronto Machine Learning Summit (TMLS)",
-    "url": "https://www.torontomachinelearning.com/",
-    "startDate": "2024-07-10",
-    "endDate": "2024-07-14",
-    "city": "Toronto",
-    "country": "Canada",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://www.torontomachinelearning.com/code-of-conduct/",
-    "twitter": "@TMLS_TO"
   },
   {
     "name": "DataConnect Conference",
@@ -646,7 +634,7 @@
   },
   {
     "name": "AI in Production",
-    "url": "https://www.aiinproduction.com/",
+    "url": "https://www.aiinproduction.com",
     "startDate": "2024-07-18",
     "endDate": "2024-07-19",
     "city": "Asheville, NC",
@@ -690,13 +678,13 @@
   },
   {
     "name": "Ai4",
-    "url": "https://ai4.io/vegas/",
+    "url": "https://ai4.io/vegas",
     "startDate": "2024-08-12",
     "endDate": "2024-08-14",
     "city": "Las Vegas, NV",
     "country": "U.S.A.",
     "online": false,
-    "cocUrl": "https://ai4.io/usa/health-and-safety/",
+    "cocUrl": "https://ai4.io/usa/health-and-safety",
     "twitter": "@Ai4Conferences"
   },
   {
@@ -709,7 +697,7 @@
   },
   {
     "name": "CDAO Melbourne",
-    "url": "https://cdao-mel.coriniumintelligence.com/",
+    "url": "https://cdao-mel.coriniumintelligence.com",
     "startDate": "2024-09-02",
     "endDate": "2024-09-04",
     "city": "Melbourne",
@@ -759,7 +747,7 @@
   },
   {
     "name": "Data Architecture",
-    "url": "https://data-architecture-uk.coriniumintelligence.com/",
+    "url": "https://data-architecture-uk.coriniumintelligence.com",
     "startDate": "2024-09-11",
     "endDate": "2024-09-11",
     "city": "London",
@@ -770,7 +758,7 @@
   },
   {
     "name": "PGDay UK",
-    "url": "https://pgday.uk/",
+    "url": "https://pgday.uk",
     "startDate": "2024-09-11",
     "endDate": "2024-09-11",
     "city": "London",
@@ -794,21 +782,21 @@
   },
   {
     "name": "PGDay Lowlands",
-    "url": "https://2024.pgday.nl/",
+    "url": "https://2024.pgday.nl",
     "startDate": "2024-09-13",
     "endDate": "2024-09-13",
     "city": "Amsterdam",
     "country": "Netherlands",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://2024.pgday.nl/code-of-conduct/",
-    "cfpUrl": "https://2024.pgday.nl/call-for-papers/",
+    "cocUrl": "https://2024.pgday.nl/code-of-conduct",
+    "cfpUrl": "https://2024.pgday.nl/call-for-papers",
     "cfpEndDate": "2024-07-09",
     "twitter": "@pgdaylowlands"
   },
   {
     "name": "Big Data London",
-    "url": "https://bigdataldn.com/",
+    "url": "https://bigdataldn.com",
     "startDate": "2024-09-18",
     "endDate": "2024-09-19",
     "city": "London",
@@ -863,11 +851,11 @@
     "country": "Germany",
     "online": false,
     "locales": "DE",
-    "cocUrl": "https://berlincodeofconduct.org/de/"
+    "cocUrl": "https://berlincodeofconduct.org/de"
   },
   {
     "name": "GovAI Summit",
-    "url": "https://www.govaisummit.com/",
+    "url": "https://www.govaisummit.com",
     "startDate": "2024-09-28",
     "endDate": "2024-09-30",
     "city": "Arlington, VA",
@@ -877,15 +865,15 @@
   },
   {
     "name": "PGConf NYC",
-    "url": "https://2024.pgconf.nyc/",
+    "url": "https://2024.pgconf.nyc",
     "startDate": "2024-09-30",
     "endDate": "2024-10-02",
     "city": "New York, NY",
     "country": "U.S.A.",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://2024.pgconf.nyc/policies/",
-    "cfpUrl": "https://postgresql.us/events/pgconfnyc2024/",
+    "cocUrl": "https://2024.pgconf.nyc/policies",
+    "cfpUrl": "https://postgresql.us/events/pgconfnyc2024",
     "cfpEndDate": "2024-06-05",
     "twitter": "@pgconfnyc"
   },
@@ -912,6 +900,17 @@
     "locales": "EN"
   },
   {
+    "name": "SingleStore Now",
+    "url": "https://events.singlestore.com/singlestore-now-2024",
+    "startDate": "2024-10-03",
+    "endDate": "2024-10-03",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@singlestoredb"
+  },
+  {
     "name": "Compass Tech Summit",
     "url": "https://ti.to/crafthub/compass-tech-summit-2024",
     "startDate": "2024-10-03",
@@ -931,7 +930,7 @@
     "country": "U.S.A.",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://mlconference.ai/code-of-conduct/",
+    "cocUrl": "https://mlconference.ai/code-of-conduct",
     "cfpUrl": "https://mlconference.ai/new-york/call-for-papers",
     "cfpEndDate": "2024-03-25",
     "twitter": "@mlconference"
@@ -945,7 +944,7 @@
     "country": "U.S.A.",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://www.apollographql.com/docs/community/code-of-conduct/",
+    "cocUrl": "https://www.apollographql.com/docs/community/code-of-conduct",
     "cfpUrl": "https://reg.summit.graphql.com/flow/apollo/summit24/speaker-landing-page/page/home",
     "cfpEndDate": "2024-05-20",
     "twitter": "@graphqlsummit"
@@ -975,21 +974,21 @@
   },
   {
     "name": "AI.dev: Open Souce GenAI & ML Summit",
-    "url": "https://events.linuxfoundation.org/ai-dev-north-america/",
+    "url": "https://events.linuxfoundation.org/ai-dev-north-america",
     "startDate": "2024-10-14",
     "endDate": "2024-10-15",
     "city": "Seattle, WA",
     "country": "U.S.A.",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://events.linuxfoundation.org/ai-dev-north-america/attend/code-of-conduct/",
+    "cocUrl": "https://events.linuxfoundation.org/ai-dev-north-america/attend/code-of-conduct",
     "cfpUrl": "https://events.linuxfoundation.org/ai-dev-north-america/program/cfp",
     "cfpEndDate": "2023-10-23",
     "twitter": "@LinuxFoundation"
   },
   {
     "name": "CDAO  Malaysia",
-    "url": "https://cdao-my.coriniumintelligence.com/",
+    "url": "https://cdao-my.coriniumintelligence.com",
     "startDate": "2024-10-15",
     "endDate": "2024-10-15",
     "city": "Kuala Lumpur",
@@ -1000,7 +999,7 @@
   },
   {
     "name": "CDAO Fall",
-    "url": "https://cdao-fall.coriniumintelligence.com/",
+    "url": "https://cdao-fall.coriniumintelligence.com",
     "startDate": "2024-10-15",
     "endDate": "2024-10-17",
     "city": "Boston, MA",
@@ -1025,7 +1024,7 @@
   },
   {
     "name": "CDAO Perth",
-    "url": "https://cdao-perth.coriniumintelligence.com/",
+    "url": "https://cdao-perth.coriniumintelligence.com",
     "startDate": "2024-10-22",
     "endDate": "2024-10-22",
     "city": "Perth",
@@ -1036,28 +1035,28 @@
   },
   {
     "name": "PGConf EU",
-    "url": "https://2024.pgconf.eu/",
+    "url": "https://2024.pgconf.eu",
     "startDate": "2024-10-22",
     "endDate": "2024-10-25",
     "city": "Athens",
     "country": "Greece",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://2024.pgconf.eu/code-of-conduct/",
-    "cfpUrl": "https://2024.pgconf.eu/call-for-papers/",
+    "cocUrl": "https://2024.pgconf.eu/code-of-conduct",
+    "cfpUrl": "https://2024.pgconf.eu/call-for-papers",
     "cfpEndDate": "2024-07-01",
     "twitter": "@pgconfeu"
   },
   {
     "name": "AI_dev: Open Souce GenAI & ML Summit Japan",
-    "url": "https://events.linuxfoundation.org/ai-dev-japan/",
+    "url": "https://events.linuxfoundation.org/ai-dev-japan",
     "startDate": "2024-10-28",
     "endDate": "2024-10-29",
     "city": "Tokyo",
     "country": "Japan",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://events.linuxfoundation.org/ai-dev-japan/attend/code-of-conduct/",
+    "cocUrl": "https://events.linuxfoundation.org/ai-dev-japan/attend/code-of-conduct",
     "cfpUrl": "https://events.linuxfoundation.org/ai-dev-japan/program/cfp",
     "cfpEndDate": "2024-07-07",
     "twitter": "@LinuxFoundation"
@@ -1074,7 +1073,7 @@
   },
   {
     "name": "CDAO Frankfurt",
-    "url": "https://cdao-frankfurt.coriniumintelligence.com/",
+    "url": "https://cdao-frankfurt.coriniumintelligence.com",
     "startDate": "2024-10-30",
     "endDate": "2024-10-30",
     "city": "Frankfurt am Main",
@@ -1085,7 +1084,7 @@
   },
   {
     "name": "CDAO New Zealand",
-    "url": "https://cdao-nz.coriniumintelligence.com/",
+    "url": "https://cdao-nz.coriniumintelligence.com",
     "startDate": "2024-11-05",
     "endDate": "2024-11-06",
     "city": "Auckland",
@@ -1103,7 +1102,7 @@
     "country": "U.S.A.",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct",
     "cfpUrl": "https://sessionize.com/cloudx-2024",
     "cfpEndDate": "2024-06-14",
     "twitter": "@DeveloperWeek"
@@ -1164,14 +1163,14 @@
     "country": "Germany",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://conferences.isaqb.org/software-architecture-gathering/code-of-conduct/",
+    "cocUrl": "https://conferences.isaqb.org/software-architecture-gathering/code-of-conduct",
     "cfpUrl": "https://sessionize.com/isaqb-software-architecture-gathering",
     "cfpEndDate": "2024-06-04",
     "twitter": "@sag_conference"
   },
   {
     "name": "CDAO Europe",
-    "url": "https://cdao-eu.coriniumintelligence.com/",
+    "url": "https://cdao-eu.coriniumintelligence.com",
     "startDate": "2024-11-12",
     "endDate": "2024-11-12",
     "city": "Amsterdam",
@@ -1215,7 +1214,7 @@
   },
   {
     "name": "CDAO Nordics",
-    "url": "https://cdao-nordics.coriniumintelligence.com/",
+    "url": "https://cdao-nordics.coriniumintelligence.com",
     "startDate": "2024-11-19",
     "endDate": "2024-11-19",
     "city": "Stockholm",
@@ -1249,7 +1248,7 @@
   },
   {
     "name": "Cypher",
-    "url": "https://cypher.aimresearch.co/",
+    "url": "https://cypher.aimresearch.co",
     "startDate": "2024-11-21",
     "endDate": "2024-11-22",
     "city": "Santa Clara, CA",
