@@ -84,7 +84,8 @@ export default async function logTestResult(testResult: TestResult) {
         logDuplicateFileName(duplicateError.conference);
         logDuplicateFileName(duplicateError.duplicate);
         logDifferences(duplicateError.conference, duplicateError.duplicate);
-        if (token) {
+        const duplicateWithPotentialPreviousPr = duplicateError.type === DuplicateType.Duplicate || duplicateError.type === DuplicateType.AlmostIdentical;
+        if (token && duplicateWithPotentialPreviousPr) {
             const prUrl = await getDuplicatePr(token, duplicateError);
             if (prUrl) {
                 duplicateErrorMessages.push(`  Potential Duplicate PR: ${prUrl}`);
