@@ -2,7 +2,6 @@ import * as github from '@actions/github';
 import { Octokit } from '@octokit/rest';
 import { ErrorDetail } from './ErrorDetail';
 import getPrBranchUrl from './getPrBranchUrl';
-import { ReorderError } from './ReorderError';
 
 export default async function commentPullRequest(token: string, allErrors: ErrorDetail[], duplicateErrorMessages: string[], error?: Error) {
     const { context: eventContext } = github;
@@ -21,7 +20,7 @@ export default async function commentPullRequest(token: string, allErrors: Error
             body: error.message.replace('scripts/config/validLocations.ts', `[scripts/config/validLocations.ts](${prBranchUrl}/scripts/config/validLocations.ts)`)
         };
     });
-    if (error instanceof ReorderError) {
+    if (error && error instanceof Error) {
         await octokit.issues.createComment({
             owner: eventContext.repo.owner,
             repo: eventContext.repo.repo,
