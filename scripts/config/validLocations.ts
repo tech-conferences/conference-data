@@ -65,7 +65,7 @@ export const validLocations = {
     Egypt: ['Cairo'],
     Estonia: ['Tallinn', 'Tartu'],
     Ethiopia: ['Addis Ababa'],
-    Finland: ['Helsinki', 'Oulu'],
+    Finland: ['Espoo', 'Helsinki', 'Oulu'],
     France: [
         'Anduze',
         'Bordeaux',
