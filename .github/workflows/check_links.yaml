@@ -1,9 +1,6 @@
 name: Check links
 
 on:
-    pull_request:
-        branches: [main]
-    workflow_dispatch:
     schedule:
         - cron: '16 2 * * 6'
 
