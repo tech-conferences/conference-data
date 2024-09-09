@@ -44,7 +44,7 @@ export default async function commentPullRequest(token: string, allErrors: Error
                 owner: eventContext.repo.owner,
                 repo: eventContext.repo.repo,
                 issue_number: prNumber,
-                body: `### Duplicate Conferences\n${duplicateErrorMessages.join('\n')}`
+                body: `### ${duplicateErrorMessages.join('\n')}`
             });
         }
     } catch (error) {
