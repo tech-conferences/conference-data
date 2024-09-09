@@ -59,6 +59,9 @@ try {
         testResult.error = exception;
     }
 }
+if (testResult.conferenceCounter === 0 && testResult.error === undefined) {
+    testResult.error = new Error('No conferences found');
+}
 
 logTestResult(testResult);
 console.timeEnd(label);
