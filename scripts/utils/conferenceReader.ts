@@ -27,7 +27,7 @@ export default function conferenceReader(reorderConferences: boolean): Conferenc
             try {
                 conferences = JSON.parse(fileContentString);
             } catch (exception) {
-                assert.fail(`Unable to read file: "${filePath}". Error: ${exception}`);
+                throw new Error(`Unable to read file: "${filePath}". Error: ${exception}`);
             }
             const orderedConferences = orderConferences(conferences);
             if (!reorderConferences && fileContentString !== orderedConferences) {
