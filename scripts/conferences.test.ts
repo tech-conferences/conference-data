@@ -4,7 +4,6 @@ import { Conference } from './utils/Conference';
 import findLineNumber from './utils/findLineNumber';
 import logTestResult from './utils/logTestResult';
 import mergedConferencesReader from './utils/mergedConferencesReader';
-import { ReorderError } from './utils/ReorderError';
 import { TestResult } from './utils/TestResult';
 
 console.log('Running conference tests...');
@@ -56,7 +55,7 @@ try {
         testResult.conferenceCounter += conferences.length;
     }
 } catch (exception) {
-    if (exception instanceof ReorderError) {
+    if (exception instanceof Error) {
         testResult.error = exception;
     }
 }
