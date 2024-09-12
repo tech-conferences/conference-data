@@ -1,5 +1,20 @@
 [
   {
+    "name": "Rustikon",
+    "url": "https://www.rustikon.dev",
+    "startDate": "2025-03-26",
+    "endDate": "2025-03-26",
+    "city": "Warsaw",
+    "country": "Poland",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.rustikon.dev/faq",
+    "cfpUrl": "https://sessionize.com/rustikon-2025",
+    "cfpEndDate": "2024-10-13",
+    "twitter": "@rustikon_conf",
+    "mastodon": "@Rustikon@mastodon.socia"
+  },
+  {
     "name": "JAX",
     "url": "https://jax.de/mainz",
     "startDate": "2025-05-05",
