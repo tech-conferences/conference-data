@@ -1268,6 +1268,18 @@
     "locales": "EN"
   },
   {
+    "name": "MLCon Berlin",
+    "url": "https://mlconference.ai/berlin",
+    "startDate": "2024-11-25",
+    "endDate": "2024-11-29",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://mlconference.ai/code-of-conduct/",
+    "twitter": "@mlconference"
+  },
+  {
     "name": "Oh My Hack",
     "url": "https://omhconf.pl",
     "startDate": "2024-11-26",
