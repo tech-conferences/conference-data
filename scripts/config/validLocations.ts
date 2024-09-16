@@ -123,6 +123,7 @@ export const validLocations = {
         'St. Leon-Rot',
         'Stuttgart',
         'Tegernsee',
+        'Weiden',
         'Wuerzburg'
     ],
     Ghana: ['Accra'],
