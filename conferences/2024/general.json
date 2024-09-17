@@ -1577,20 +1577,6 @@
     "twitter": "@fnconf"
   },
   {
-    "name": "Open Conf",
-    "url": "https://www.open-conf.gr",
-    "startDate": "2024-11-22",
-    "endDate": "2024-11-23",
-    "city": "Athens",
-    "country": "Greece",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://www.open-conf.gr/code-of-conduct",
-    "cfpUrl": "https://sessionize.com/open-conf-2024",
-    "cfpEndDate": "2024-03-29",
-    "twitter": "@open_conf"
-  },
-  {
     "name": "NZ Tech Rally",
     "url": "https://nztechrally.nz",
     "startDate": "2024-11-22",
@@ -1604,6 +1590,20 @@
     "cfpUrl": "https://nztechrally.nz/call-for-proposals",
     "cfpEndDate": "2024-06-27",
     "twitter": "@NZTechRally"
+  },
+  {
+    "name": "Open Conf",
+    "url": "https://www.open-conf.gr",
+    "startDate": "2024-11-22",
+    "endDate": "2024-11-23",
+    "city": "Athens",
+    "country": "Greece",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.open-conf.gr/code-of-conduct",
+    "cfpUrl": "https://sessionize.com/open-conf-2024",
+    "cfpEndDate": "2024-03-29",
+    "twitter": "@open_conf"
   },
   {
     "name": "Web Directions Summit",
