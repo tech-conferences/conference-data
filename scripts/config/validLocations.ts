@@ -193,7 +193,7 @@ export const validLocations = {
     Malaysia: ['Cyberjaya', 'Iskandar Malaysia', 'Kuala Lumpur', 'Penang', 'Sabah'],
     Malta: ["St Julian's", 'Valletta'],
     Mauritius: ['Moka'],
-    Mexico: ['Guadalajara', 'Mexico City', 'Puerto Vallarta'],
+    Mexico: ['Guadalajara', 'Mazatlán', 'Mexico City', 'Puerto Vallarta'],
     Moldova: ['Chișinău'],
     Morocco: ['Casablanca', 'Taghazout, Agadir'],
     Namibia: ['Windhoek'],
