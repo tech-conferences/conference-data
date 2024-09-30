@@ -117,5 +117,15 @@
     "country": "Netherlands",
     "online": true,
     "twitter": "@perfnowconf"
+  },
+  {
+    "name": "InnerSource Summit",
+    "url": "https://innersourcecommons.org/events/isc-2024",
+    "startDate": "2024-11-20",
+    "endDate": "2024-11-21",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://innersourcecommons.org/about/codeofconduct/",
+    "twitter": "@InnerSourceOrg"
   }
 ]
