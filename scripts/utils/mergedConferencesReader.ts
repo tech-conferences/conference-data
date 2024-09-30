@@ -10,6 +10,10 @@ import IsConferenceEqual from './IsConferenceEqual';
 export default function mergedConferencesReader(reorderConferences: boolean) {
     const conferencesJSON = conferenceReader(reorderConferences);
     const mergedConferences: { [key: string]: MergedConference[] } = {};
+    // magic numbers - determined by trial and error
+    const urlSimilarityThreshold = 0.905;
+    const nameSimilarityThreshold = 0.91;
+    const confKeySimiliarityThreshold = 0.77;
 
     const duplicateErrors: DuplicateError[] = [];
     const dateFormat = 'yyyy-MM-dd';
@@ -46,7 +50,7 @@ export default function mergedConferencesReader(reorderConferences: boolean) {
                 }
                 const confOfYearSimpleUrl = createSimpleUrl(confOfYear);
                 const urlSimilarity = stringSimilarity(confSimpleUrl, confOfYearSimpleUrl);
-                if (urlSimilarity > 0.9) {
+                if (urlSimilarity > urlSimilarityThreshold) {
                     console.log(`URL similarity of ${confSimpleUrl} and ${confOfYearSimpleUrl} is ${urlSimilarity}`);
                     return confOfYear;
                 }
@@ -54,13 +58,13 @@ export default function mergedConferencesReader(reorderConferences: boolean) {
                     continue;
                 }
                 const nameSimilarity = stringSimilarity(conference.name, confOfYear.name);
-                if (nameSimilarity > 0.91) {
+                if (nameSimilarity > nameSimilarityThreshold) {
                     console.log(`Name similarity of ${conference.name} and ${confOfYear.name} is ${nameSimilarity}`);
                     return confOfYear;
                 }
                 const confOfYearKey = createConferenceKey(confOfYear);
                 const similarity = stringSimilarity(confKey, confOfYearKey);
-                if (similarity > 0.81) {
+                if (similarity > confKeySimiliarityThreshold) {
                     console.log(`Similarity of ${confKey} and ${confOfYearKey} is ${similarity}`);
                     return confOfYear;
                 }
