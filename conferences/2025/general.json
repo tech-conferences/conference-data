@@ -124,18 +124,6 @@
     "mastodon": "@socallinuxexpo@social.linux.pizza"
   },
   {
-    "name": "Visual Studio Live! (VSLive!) Las Vegas",
-    "url": "https://vslive.com/Events/Las-Vegas-2025",
-    "startDate": "2025-03-10",
-    "endDate": "2025-03-14",
-    "city": "Las Vegas, NV",
-    "country": "U.S.A.",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://vslive.com/pages/harassment.aspx",
-    "twitter": "@vslive"
-  },
-  {
     "name": "FOSS Backstage",
     "url": "https://25.foss-backstage.de",
     "startDate": "2025-03-10",
@@ -148,6 +136,18 @@
     "cfpUrl": "https://25.foss-backstage.de/call-for-participation",
     "cfpEndDate": "2024-11-13",
     "mastodon": "@FOSSBackstage@floss.social"
+  },
+  {
+    "name": "Visual Studio Live",
+    "url": "https://vslive.com/Events/Las-Vegas-2025",
+    "startDate": "2025-03-10",
+    "endDate": "2025-03-14",
+    "city": "Las Vegas, NV",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://vslive.com/pages/harassment.aspx",
+    "twitter": "@vslive"
   },
   {
     "name": "Digital Crafts Day",
