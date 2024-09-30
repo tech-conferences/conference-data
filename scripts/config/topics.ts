@@ -24,6 +24,7 @@ export const topics = [
     'kotlin',
     'leadership',
     'networking',
+    'opensource',
     'performance',
     'php',
     'product',

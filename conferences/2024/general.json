@@ -139,20 +139,6 @@
     "twitter": "@FlowConFR"
   },
   {
-    "name": "Open Source Day",
-    "url": "https://2024.osday.dev",
-    "startDate": "2024-03-07",
-    "endDate": "2024-03-08",
-    "city": "Florence",
-    "country": "Italy",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://2024.osday.dev/code-of-conduct",
-    "cfpUrl": "https://sessionize.com/opensourceday24",
-    "cfpEndDate": "2024-01-31",
-    "twitter": "@schrodinger_hat"
-  },
-  {
     "name": "Software Architecture Summit München",
     "url": "https://software-architecture-summit.de/muenchen",
     "startDate": "2024-03-11",
@@ -795,18 +781,6 @@
     "twitter": "@conf42com"
   },
   {
-    "name": "Open Source Days",
-    "url": "https://events.linuxfoundation.org/open-source-days",
-    "startDate": "2024-07-28",
-    "endDate": "2024-07-28",
-    "city": "Denver, CO",
-    "country": "U.S.A.",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://events.linuxfoundation.org/open-source-days/attend/code-of-conduct",
-    "twitter": "@AcademySwf"
-  },
-  {
     "name": "THAT Conference",
     "url": "https://thatconference.com/wi",
     "startDate": "2024-07-29",
@@ -983,19 +957,6 @@
     "cocUrl": "https://shift.infobip.com/code",
     "cfpUrl": "https://sessionize.com/infobip-shift-2024",
     "cfpEndDate": "2024-06-30"
-  },
-  {
-    "name": "Open Source Summit Europe",
-    "url": "https://events.linuxfoundation.org/open-source-summit-europe",
-    "startDate": "2024-09-16",
-    "endDate": "2024-09-18",
-    "city": "Vienna",
-    "country": "Austria",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://events.linuxfoundation.org/open-source-summit-europe/program/cfp/#code-of-conduct",
-    "cfpUrl": "https://events.linuxfoundation.org/open-source-summit-europe/program/cfp",
-    "cfpEndDate": "2024-04-30"
   },
   {
     "name": "Linux Plumbers Conference",
@@ -1313,20 +1274,6 @@
     "twitter": "@risc_v"
   },
   {
-    "name": "Open Community Experience",
-    "url": "https://www.ocxconf.org",
-    "startDate": "2024-10-22",
-    "endDate": "2024-10-24",
-    "city": "Mainz",
-    "country": "Germany",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://www.ocxconf.org/event/778b82cc-6834-48a4-a58e-f883c5a7b8c9/websitePage:ee47dccb-4092-42fc-b65e-fd61f080e6cb",
-    "cfpUrl": "https://www.ocxconf.org/event/778b82cc-6834-48a4-a58e-f883c5a7b8c9/websitePage:77320887-9b93-4211-8865-637a602eb991",
-    "cfpEndDate": "2024-06-10",
-    "twitter": "@ocxconference"
-  },
-  {
     "name": "AWS Notes. Chapter 3: Data Engineering",
     "url": "https://aws-user-group.com.ua/data",
     "startDate": "2024-10-24",
@@ -1356,18 +1303,6 @@
     "country": "Germany",
     "online": false,
     "locales": "EN"
-  },
-  {
-    "name": "Open Source Summit Japan",
-    "url": "https://events.linuxfoundation.org/open-source-summit-japan",
-    "startDate": "2024-10-28",
-    "endDate": "2024-10-29",
-    "city": "Tokyo",
-    "country": "Japan",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://events.linuxfoundation.org/open-source-summit-japan/program/cfp/#code-of-conduct",
-    "cfpUrl": "https://events.linuxfoundation.org/open-source-summit-japan/program/cfp"
   },
   {
     "name": "SmashingConf Antwerp",
@@ -1485,19 +1420,6 @@
     "twitter": "@SFScon"
   },
   {
-    "name": "FOSSCOMM",
-    "url": "https://2024.fosscomm.gr",
-    "startDate": "2024-11-09",
-    "endDate": "2024-11-10",
-    "city": "Thessaloniki",
-    "country": "Greece",
-    "online": false,
-    "locales": "EL,EN",
-    "cocUrl": "https://2024.fosscomm.gr/code-of-conduct",
-    "cfpUrl": "https://2024.fosscomm.gr/call-for-papers",
-    "cfpEndDate": "2024-09-15"
-  },
-  {
     "name": "WasmCon",
     "url": "https://events.linuxfoundation.org/wasmcon",
     "startDate": "2024-11-11",
@@ -1559,16 +1481,6 @@
     "online": false,
     "locales": "EN",
     "twitter": "@Live360events"
-  },
-  {
-    "name": "The Open Source Analytics Conference",
-    "url": "https://osacon.io",
-    "startDate": "2024-11-19",
-    "endDate": "2024-11-21",
-    "online": true,
-    "locales": "EN",
-    "cfpUrl": "https://sessionize.com/osa-con-2024",
-    "cfpEndDate": "2024-08-30"
   },
   {
     "name": "Devfest Strasbourg",
