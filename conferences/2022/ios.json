@@ -9,28 +9,13 @@
     "twitter": "@iosconfsg"
   },
   {
-    "name": "Flutter Vikings",
-    "url": "https://fluttervikings.com",
-    "startDate": "2022-02-02",
-    "endDate": "2022-02-03",
-    "city": "Oslo",
-    "country": "Norway",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf3G7gOIQVsfj_CLY3a_el7uiJI_VOOSyuNEi3p-vknFO3nyA/viewform",
-    "cfpEndDate": "2021-11-14",
-    "twitter": "@FlutterVikings",
-    "cocUrl": "https://fluttervikings.com/code-of-conduct"
-  },
-  {
     "name": "Conf42 Mobile",
     "url": "https://www.conf42.com/mobile2022",
     "startDate": "2022-02-17",
     "endDate": "2022-02-17",
     "online": true,
-    "cfpUrl": "https://www.papercall.io/conf42-mobile-2022",
-    "cfpEndDate": "2022-01-06",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct"
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
+    "twitter": "@conf42com"
   },
   {
     "name": "betterCode() Flutter",
@@ -38,8 +23,7 @@
     "startDate": "2022-05-24",
     "endDate": "2022-05-24",
     "online": true,
-    "twitter": "@bettercodeconf",
-    "cocUrl": "https://flutter.bettercode.eu/code_of_conduct.php"
+    "twitter": "@bettercodeconf"
   },
   {
     "name": "plSwift",
@@ -62,20 +46,6 @@
     "twitter": "@Apple"
   },
   {
-    "name": "App.js Conf",
-    "url": "https://appjs.co",
-    "startDate": "2022-06-08",
-    "endDate": "2022-06-10",
-    "city": "Kraków",
-    "country": "Poland",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/1-TUgnCqqGsTufBv2W5Nn8rXzoBg7qpBZKoQT0qKp7jA/edit",
-    "cfpEndDate": "2022-02-22",
-    "twitter": "@appjsconf",
-    "cocUrl": "https://appjs.co/Code-of-Conduct.pdf",
-    "offersSignLanguageOrCC": true
-  },
-  {
     "name": "Appdevcon",
     "url": "https://appdevcon.nl",
     "startDate": "2022-06-21",
@@ -83,8 +53,8 @@
     "city": "Amsterdam",
     "country": "Netherlands",
     "online": false,
-    "twitter": "@appdevconNL",
-    "cocUrl": "https://appdevcon.nl/code-of-conduct/"
+    "cocUrl": "https://appdevcon.nl/code-of-conduct",
+    "twitter": "@appdevconNL"
   },
   {
     "name": "Women Who Code Mobile Summit",
@@ -114,23 +84,7 @@
     "city": "Denver, CO",
     "country": "U.S.A.",
     "online": true,
-    "cfpUrl": "https://360idev.com/call-for-papers/",
-    "cfpEndDate": "2022-05-25",
     "twitter": "@360idev"
-  },
-  {
-    "name": "FlutterVikings",
-    "url": "https://fluttervikings.com",
-    "startDate": "2022-08-31",
-    "endDate": "2022-09-01",
-    "city": "Oslo",
-    "country": "Norway",
-    "online": true,
-    "cfpUrl": "https://fluttervikings.com/cfp",
-    "cfpEndDate": "2022-05-01",
-    "twitter": "@fluttervikings",
-    "cocUrl": "https://fluttervikings.com/code-of-conduct/",
-    "offersSignLanguageOrCC": true
   },
   {
     "name": "iOSDev UK",
@@ -140,8 +94,8 @@
     "city": "Aberystwyth",
     "country": "U.K.",
     "online": false,
-    "twitter": "@IOSDEVUK",
-    "cocUrl": "https://www.iosdevuk.com/inclusivity"
+    "cocUrl": "https://www.iosdevuk.com/inclusivity",
+    "twitter": "@IOSDEVUK"
   },
   {
     "name": "NSSpain",
@@ -161,8 +115,8 @@
     "city": "Paris",
     "country": "France",
     "online": false,
-    "twitter": "@frenchkitconf",
-    "cocUrl": "https://github.com/FrenchKit/FrenchKitCodeOfConduct/"
+    "cocUrl": "https://github.com/FrenchKit/FrenchKitCodeOfConduct",
+    "twitter": "@frenchkitconf"
   },
   {
     "name": "iOS Developers Global Summit",
@@ -170,11 +124,11 @@
     "startDate": "2022-10-11",
     "endDate": "2022-10-12",
     "online": true,
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://geekle.us/code-of-conduct",
     "cfpUrl": "https://forms.gle/PpuzPRaf6mSWrW268",
     "cfpEndDate": "2022-10-01",
-    "twitter": "@geekleofficial",
-    "cocUrl": "https://geekle.us/code-of-conduct",
-    "offersSignLanguageOrCC": true
+    "twitter": "@geekleofficial"
   },
   {
     "name": "SwiftLeeds",
@@ -204,10 +158,8 @@
     "city": "Amsterdam",
     "country": "Netherlands",
     "online": false,
-    "cfpUrl": "https://www.papercall.io/do-ios-2022",
-    "cfpEndDate": "2022-09-23",
-    "twitter": "@iosconf",
-    "cocUrl": "https://confcodeofconduct.com/"
+    "cocUrl": "https://confcodeofconduct.com",
+    "twitter": "@iosconf"
   },
   {
     "name": "SyncSwift",
@@ -248,9 +200,9 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
+    "cocUrl": "https://www.serversideswift.info/coc",
     "cfpUrl": "https://forms.gle/tWMWZpChcuPL6q2C8",
     "cfpEndDate": "2022-09-30",
-    "twitter": "@SwiftServerConf",
-    "cocUrl": "https://www.serversideswift.info/coc/"
+    "twitter": "@SwiftServerConf"
   }
 ]

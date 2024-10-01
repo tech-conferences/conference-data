@@ -1,14 +1,68 @@
 [
   {
+    "name": "JavaLand",
+    "url": "https://www.javaland.eu",
+    "startDate": "2025-04-01",
+    "endDate": "2025-04-03",
+    "city": "Nürburgring",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN,DE",
+    "cocUrl": "https://www.javaland.eu/de/verhaltenscodex",
+    "cfpUrl": "https://www.javaland.eu/de/referierende",
+    "cfpEndDate": "2024-09-06",
+    "twitter": "@DOAGeV",
+    "mastodon": "@JavaLandConf@ijug.social"
+  },
+  {
+    "name": "Into The Box",
+    "url": "https://www.intothebox.org",
+    "startDate": "2025-04-30",
+    "endDate": "2025-05-02",
+    "city": "Washington, DC",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.intothebox.org/code-of-conduct",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSey2AsWchrQpiGVEZjod15EH8NbO4ZRJgJcJv-_POqZyzxpiA/viewform",
+    "cfpEndDate": "2024-11-01",
+    "twitter": "@GoIntoTheBox"
+  },
+  {
+    "name": "Devoxx UK",
+    "url": "https://www.devoxx.co.uk",
+    "startDate": "2025-05-07",
+    "endDate": "2025-05-09",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.devoxx.co.uk/code-of-respect/",
+    "twitter": "@DevoxxUK"
+  },
+  {
     "name": "JCON EUROPE",
-    "url": "https://jcon.one",
+    "url": "https://2025.europe.jcon.one",
     "startDate": "2025-05-19",
     "endDate": "2025-05-22",
     "city": "Cologne",
     "country": "Germany",
     "online": false,
+    "locales": "EN,DE",
+    "cocUrl": "https://2025.europe.jcon.one/code-of-conduct",
     "twitter": "@jcon_conference",
-    "cocUrl": "https://2024.europe.jcon.one/code-of-conduct",
-    "locales": "EN,DE"
+    "mastodon": "@jcon@mastodon.social"
+  },
+  {
+    "name": "UberConf",
+    "url": "https://uberconf.com",
+    "startDate": "2025-07-15",
+    "endDate": "2025-07-18",
+    "city": "Denver, CO",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://uberconf.com/home/code_of_conduct",
+    "twitter": "@nofluff"
   }
 ]

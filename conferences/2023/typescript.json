@@ -1,42 +1,5 @@
 [
   {
-    "name": "Refresh",
-    "url": "https://refresh.rocks/",
-    "startDate": "2023-01-26",
-    "endDate": "2023-01-27",
-    "city": "Tartu",
-    "country": "Estonia",
-    "online": false,
-    "twitter": "@RefreshRocks"
-  },
-  {
-    "name": "ConFoo",
-    "url": "https://confoo.ca/en/2023",
-    "startDate": "2023-02-22",
-    "endDate": "2023-02-24",
-    "city": "Montreal",
-    "country": "Canada",
-    "online": false,
-    "cfpUrl": "https://confoo.ca/en/2023/call-for-papers",
-    "cfpEndDate": "2022-10-06",
-    "twitter": "@confooca",
-    "cocUrl": "https://confoo.ca/en/code-of-conduct"
-  },
-  {
-    "name": "Apprise Conf",
-    "url": "https://appriseconf.com",
-    "startDate": "2023-03-23",
-    "endDate": "2023-03-23",
-    "city": "Oslo",
-    "country": "Norway",
-    "online": false,
-    "cfpUrl": "https://forms.gle/63C6sSAbzFLFzpX17",
-    "cfpEndDate": "2023-01-31",
-    "twitter": "@appriseconf",
-    "cocUrl": "https://appriseconf.com/coc.html",
-    "locales": "EN"
-  },
-  {
     "name": "International JavaScript Conference London",
     "url": "https://javascript-conference.com/london",
     "startDate": "2023-04-24",
@@ -44,49 +7,9 @@
     "city": "London",
     "country": "U.K.",
     "online": true,
-    "twitter": "@JavaScriptCon",
-    "cocUrl": "https://javascript-conference.com/code-of-conduct/",
-    "locales": "EN"
-  },
-  {
-    "name": "Remix Conf",
-    "url": "https://remix.run/conf",
-    "startDate": "2023-05-09",
-    "endDate": "2023-05-11",
-    "city": "Salt Lake City, UT",
-    "country": "U.S.A.",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/remix-2023",
-    "cfpEndDate": "2023-02-08",
-    "twitter": "@remix_run",
-    "cocUrl": "https://remix.run/conf/2023/coc",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "BeJS Conf",
-    "url": "https://www.bejs.io/conf",
-    "startDate": "2023-05-12",
-    "endDate": "2023-05-12",
-    "city": "Brussels",
-    "country": "Belgium",
-    "online": true,
-    "cfpUrl": "https://forms.gle/2cMQNF39mwMiQgG98",
-    "cfpEndDate": "2023-02-17",
-    "twitter": "@BeJS_",
-    "cocUrl": "https://www.bejs.io/code-of-conduct",
-    "locales": "EN"
-  },
-  {
-    "name": "RenderATL",
-    "url": "https://www.renderatl.com",
-    "startDate": "2023-05-31",
-    "endDate": "2023-06-02",
-    "city": "Atlanta, GA",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@RenderATL",
-    "cocUrl": "https://www.renderatl.com/codepolicy"
+    "cocUrl": "https://javascript-conference.com/code-of-conduct",
+    "twitter": "@JavaScriptCon"
   },
   {
     "name": "JSConf India",
@@ -96,10 +19,10 @@
     "city": "Bengaluru",
     "country": "India",
     "online": true,
+    "cocUrl": "https://www.jsconf.in/code-of-conduct",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScK_4aWEcrERtJPZX9kaA9cUlMdFYVp0xX55r8poVCavdTW2Q/viewform",
     "cfpEndDate": "2023-04-25",
-    "twitter": "@jsconf_india",
-    "cocUrl": "https://www.jsconf.in/code-of-conduct/"
+    "twitter": "@jsconf_india"
   },
   {
     "name": "enterJS",
@@ -109,10 +32,10 @@
     "city": "Darmstadt",
     "country": "Germany",
     "online": false,
+    "cocUrl": "https://enterjs.de/code_of_conduct_en.php",
     "cfpUrl": "https://enterjs.de/cfp_en.php",
     "cfpEndDate": "2023-01-23",
-    "twitter": "@enterjsconf",
-    "cocUrl": "https://enterjs.de/code_of_conduct_en.php"
+    "twitter": "@enterjsconf"
   },
   {
     "name": "TypeScript Conference",
@@ -120,11 +43,10 @@
     "startDate": "2023-09-21",
     "endDate": "2023-09-22",
     "online": true,
+    "locales": "EN",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc4wHj6DCO2whrLYX2Q3qh-Lu779tFlg_ZnyYk4for_jAUGhA/viewform",
     "cfpEndDate": "2023-05-31",
-    "twitter": "@ts_congress",
-    "cocUrl": "https://typescriptcongress.com/coc",
-    "locales": "EN"
+    "twitter": "@ts_congress"
   },
   {
     "name": "React Alicante",
@@ -134,22 +56,11 @@
     "city": "Alicante",
     "country": "Spain",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://reactalicante.es/code-of-conduct",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfvebbV1xEHBHLY2b1Ks21aj1q5mx-TWc_I7a2plPbjoI_-AQ/viewform",
     "cfpEndDate": "2023-04-01",
-    "twitter": "@ReactAlicante",
-    "cocUrl": "https://reactalicante.es/code-of-conduct",
-    "locales": "EN"
-  },
-  {
-    "name": "MagnoliaJS",
-    "url": "https://www.magnoliajs.com",
-    "startDate": "2023-10-17",
-    "endDate": "2023-10-18",
-    "city": "Jackson, MS",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@magnoliajsconf",
-    "cocUrl": "https://www.magnoliajs.com/conduct"
+    "twitter": "@ReactAlicante"
   },
   {
     "name": "React+TS fwdays",
@@ -159,26 +70,11 @@
     "city": "Kyiv",
     "country": "Ukraine",
     "online": true,
+    "locales": "EN,UK",
+    "cocUrl": "https://fwdays.com/en/page/code-of-conduct",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSe0U9NstFvEsLjm-3WcCehrrHGmjbajAh1cGrzpVcxNdOYPVQ/viewform",
     "cfpEndDate": "2023-09-12",
-    "twitter": "@fwdays",
-    "cocUrl": "https://fwdays.com/en/page/code-of-conduct",
-    "locales": "EN,UK"
-  },
-  {
-    "name": "Web Directions Summit",
-    "url": "https://webdirections.org/summit",
-    "startDate": "2023-10-26",
-    "endDate": "2023-10-27",
-    "city": "Sydney",
-    "country": "Australia",
-    "online": true,
-    "cfpUrl": "https://webdirections.org/speaking",
-    "cfpEndDate": "2023-05-31",
-    "twitter": "@webdirections",
-    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "twitter": "@fwdays"
   },
   {
     "name": "Angular Belgrade Day",
@@ -188,8 +84,8 @@
     "city": "Belgrade",
     "country": "Serbia",
     "online": false,
-    "twitter": "@angularbelgrade",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@angularbelgrade"
   },
   {
     "name": "HalfStack London",
@@ -199,10 +95,10 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://halfstackconf.com/code-of-conduct",
     "cfpUrl": "https://halfstackconf.com/cfp",
     "cfpEndDate": "2023-10-15",
-    "twitter": "@halfstackconf",
-    "cocUrl": "https://halfstackconf.com/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@halfstackconf"
   }
 ]

@@ -1,33 +1,5 @@
 [
   {
-    "name": "Codemash",
-    "url": "https://codemash.org",
-    "startDate": "2024-01-09",
-    "endDate": "2024-01-12",
-    "city": "Sandusky, OH",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://sessionize.com/codemash-2024",
-    "cfpEndDate": "2023-08-31",
-    "twitter": "@codemash",
-    "cocUrl": "https://codemash.org/codemash-code-conduct/",
-    "locales": "EN"
-  },
-  {
-    "name": "THAT Conference Texas",
-    "url": "https://that.us/events/tx/2024/",
-    "startDate": "2024-01-29",
-    "endDate": "2024-02-01",
-    "city": "Round Rock, TX",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://that.us/call-for-counselors/tx/2024",
-    "cfpEndDate": "2023-10-01",
-    "twitter": "@thatconference",
-    "cocUrl": "https://that.us/support/code-of-conduct/",
-    "locales": "EN"
-  },
-  {
     "name": "CYSEC Qatar",
     "url": "https://www.cysecqatar.com",
     "startDate": "2024-02-07",
@@ -38,14 +10,6 @@
     "locales": "EN"
   },
   {
-    "name": "International Space Convention",
-    "url": "https://www.internationalspaceconvention.com",
-    "startDate": "2024-02-12",
-    "endDate": "2024-02-16",
-    "online": true,
-    "locales": "EN"
-  },
-  {
     "name": "FOSS Backstage",
     "url": "https://24.foss-backstage.de",
     "startDate": "2024-03-04",
@@ -53,38 +17,12 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://tickets.plainschwarz.com/fossback24/page/i-agree-to-abide-by-the-foss-backstage-code-of-conduct",
     "cfpUrl": "https://program.foss-backstage.de/fossback24/cfp",
     "cfpEndDate": "2023-11-15",
     "twitter": "@fossbckstg",
-    "cocUrl": "https://tickets.plainschwarz.com/fossback24/page/i-agree-to-abide-by-the-foss-backstage-code-of-conduct/",
-    "locales": "EN",
     "mastodon": "@FOSSBackstage@floss.social"
-  },
-  {
-    "name": "Open Source Day",
-    "url": "https://2024.osday.dev",
-    "startDate": "2024-03-07",
-    "endDate": "2024-03-08",
-    "city": "Florence",
-    "country": "Italy",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/opensourceday24",
-    "cfpEndDate": "2024-01-31",
-    "twitter": "@schrodinger_hat",
-    "cocUrl": "https://2024.osday.dev/code-of-conduct",
-    "locales": "EN"
-  },
-  {
-    "name": "Software Architecture Summit München",
-    "url": "https://software-architecture-summit.de/muenchen",
-    "startDate": "2024-03-11",
-    "endDate": "2024-03-13",
-    "city": "Munich",
-    "country": "Germany",
-    "online": false,
-    "twitter": "@SoftwArchSummit",
-    "cocUrl": "https://software-architecture-summit.de/service-info/code-of-conduct/",
-    "locales": "DE"
   },
   {
     "name": "Nullcon Berlin",
@@ -94,11 +32,11 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://nullcon.net/about-conferencepolicy",
     "cfpUrl": "https://nullcon.net/berlin-2024/cfp",
     "cfpEndDate": "2023-12-31",
-    "twitter": "@nullcon",
-    "cocUrl": "https://nullcon.net/about-conferencepolicy",
-    "locales": "EN"
+    "twitter": "@nullcon"
   },
   {
     "name": "Internet 2.0 Conference USA",
@@ -108,8 +46,8 @@
     "city": "Las Vegas, NV",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@internet2conf",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@internet2conf"
   },
   {
     "name": "KubeCon + CloudNativeCon",
@@ -119,9 +57,9 @@
     "city": "Paris",
     "country": "France",
     "online": true,
-    "twitter": "@CloudNativeFdn",
-    "cocUrl": "https://events.linuxfoundation.org/about/code-of-conduct/",
-    "locales": "EN"
+    "locales": "EN",
+    "cocUrl": "https://events.linuxfoundation.org/about/code-of-conduct",
+    "twitter": "@CloudNativeFdn"
   },
   {
     "name": "Women Techmakers Montreal",
@@ -131,11 +69,11 @@
     "city": "Montreal",
     "country": "Canada",
     "online": false,
+    "locales": "EN,FR",
+    "cocUrl": "https://wtmmontreal.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/wtmmontreal2024",
     "cfpEndDate": "2024-02-23",
-    "twitter": "@WTM_Montreal",
-    "cocUrl": "https://wtmmontreal.com/code-of-conduct/",
-    "locales": "EN,FR"
+    "twitter": "@WTM_Montreal"
   },
   {
     "name": "Derby City Data Days",
@@ -155,10 +93,10 @@
     "city": "Dubai",
     "country": "United Arab Emirates",
     "online": false,
+    "locales": "EN",
     "cfpUrl": "https://www.globalaishow.com/tickets",
     "cfpEndDate": "2024-04-15",
-    "twitter": "@GlobalAIShow",
-    "locales": "EN"
+    "twitter": "@GlobalAIShow"
   },
   {
     "name": "Running Remote",
@@ -168,8 +106,8 @@
     "city": "Lisbon",
     "country": "Portugal",
     "online": true,
-    "twitter": "@RunningRemote",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@RunningRemote"
   },
   {
     "name": "Women in Tech Global Conference",
@@ -177,8 +115,8 @@
     "startDate": "2024-04-23",
     "endDate": "2024-04-25",
     "online": true,
-    "twitter": "@WomenTechNet",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@WomenTechNet"
   },
   {
     "name": "Vue.js Live Conference",
@@ -186,11 +124,11 @@
     "startDate": "2024-04-25",
     "endDate": "2024-04-26",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://portal.gitnation.org/coc",
     "cfpUrl": "https://forms.gle/EcuL1hQHRJ3ibPre9",
     "cfpEndDate": "2024-03-15",
-    "twitter": "@VueJSLive",
-    "cocUrl": "https://portal.gitnation.org/coc",
-    "locales": "EN"
+    "twitter": "@VueJSLive"
   },
   {
     "name": "CTO Craft Con",
@@ -200,15 +138,15 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://conference.ctocraft.com/london-2024/code-of-conduct",
     "cfpUrl": "https://conference.ctocraft.com/london-2024/call-for-papers",
     "cfpEndDate": "2024-01-26",
-    "twitter": "@CTOCraft",
-    "cocUrl": "https://conference.ctocraft.com/london-2024/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@CTOCraft"
   },
   {
     "name": "EU-Startups Summit",
-    "url": "https://www.eu-startups.com/eu-startups-summit-2024/",
+    "url": "https://www.eu-startups.com/eu-startups-summit-2024",
     "startDate": "2024-05-09",
     "endDate": "2024-05-10",
     "city": "Valletta",
@@ -218,24 +156,12 @@
   },
   {
     "name": "Sovereign Cloud Stack Summit May",
-    "url": "https://scs.community/summit2024/",
+    "url": "https://scs.community/summit2024",
     "startDate": "2024-05-14",
     "endDate": "2024-05-14",
     "city": "Berlin",
     "country": "Germany",
     "online": false,
-    "locales": "EN"
-  },
-  {
-    "name": "Women Who Code CONNECT: Thrive in Tech",
-    "url": "http://www.womenwhocode.com/connect",
-    "startDate": "2024-05-16",
-    "endDate": "2024-05-16",
-    "online": true,
-    "cfpUrl": "https://code.womenwhocode.com/connect-2024-cfp",
-    "cfpEndDate": "2024-03-25",
-    "twitter": "@womenwhocode",
-    "cocUrl": "https://womenwhocode.com/codeofconduct",
     "locales": "EN"
   },
   {
@@ -246,11 +172,11 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "online": false,
-    "cfpUrl": "https://sessionize.com/droidcon-san-francisco-2023",
+    "locales": "EN",
+    "cocUrl": "https://sf.droidcon.com/code-of-conduct",
+    "cfpUrl": "https://sessionize.com/droidcon-san-francisco-2024",
     "cfpEndDate": "2024-04-14",
     "twitter": "@droidconSF",
-    "cocUrl": "https://sf.droidcon.com/code-of-conduct/",
-    "locales": "EN",
     "mastodon": "@droidcon@androiddev.social"
   },
   {
@@ -261,9 +187,9 @@
     "city": "Rapperswil-Jona",
     "country": "Switzerland",
     "online": true,
-    "twitter": "@zurihac",
+    "locales": "EN",
     "cocUrl": "https://berlincodeofconduct.org",
-    "locales": "EN"
+    "twitter": "@zurihac"
   },
   {
     "name": "European Power Platform Conference (EPPC)",
@@ -273,12 +199,23 @@
     "city": "Brussels",
     "country": "Belgium",
     "online": true,
-    "twitter": "@europeanppc",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@europeanppc"
+  },
+  {
+    "name": "MozFest House Amsterdam",
+    "url": "https://www.mozillafestival.org/nl",
+    "startDate": "2024-06-11",
+    "endDate": "2024-06-13",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": true,
+    "locales": "EN,NL",
+    "twitter": "@mozillafestival"
   },
   {
     "name": "The MERGE",
-    "url": "https://merge.berlin/",
+    "url": "https://merge.berlin",
     "startDate": "2024-06-13",
     "endDate": "2024-06-14",
     "city": "Berlin",
@@ -288,15 +225,15 @@
   },
   {
     "name": "InfoQ Dev Summit Boston",
-    "url": "https://devsummit.infoq.com/boston_medialisting2024",
+    "url": "https://devsummit.infoq.com/conference/boston2024",
     "startDate": "2024-06-24",
     "endDate": "2024-06-25",
     "city": "Boston, MA",
     "country": "U.S.A.",
     "online": false,
-    "cocUrl": "https://qconferences.com/code-conduct",
     "locales": "EN",
-    "mastodon": "@techhub.social@infoq"
+    "cocUrl": "https://qconferences.com/code-conduct",
+    "mastodon": "@infoq@techhub.social"
   },
   {
     "name": "droidcon Berlin",
@@ -306,11 +243,11 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
-    "cfpUrl": "https://sessionize.com/droidcon-berlin-2022",
+    "locales": "EN",
+    "cocUrl": "https://berlin.droidcon.com/code-of-conduct",
+    "cfpUrl": "https://sessionize.com/droidcon-berlin-2024",
     "cfpEndDate": "2024-04-01",
     "twitter": "@droidconBerlin",
-    "cocUrl": "https://berlin.droidcon.com/code-of-conduct/",
-    "locales": "EN",
     "mastodon": "@droidcon@androiddev.social"
   },
   {
@@ -321,8 +258,8 @@
     "city": "Gabrovo",
     "country": "Bulgaria",
     "online": false,
-    "cocUrl": "https://how.camp",
     "locales": "EN,BG",
+    "cocUrl": "https://how.camp",
     "mastodon": "@howcamp@fosstodon.org"
   },
   {
@@ -333,31 +270,72 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@droidconnyc",
-    "cocUrl": "https://nyc.droidcon.com/code-of-conduct/",
-    "locales": "EN"
+    "locales": "EN",
+    "cocUrl": "https://nyc.droidcon.com/code-of-conduct",
+    "twitter": "@droidconnyc"
   },
   {
-    "name": "TechHeads Conference",
-    "url": "https://techheads.se",
-    "startDate": "2024-09-24",
-    "endDate": "2024-09-24",
-    "city": "Kalmar",
-    "country": "Sweden",
+    "name": "iterate=>RUHR",
+    "url": "https://iterate.ruhr",
+    "startDate": "2024-09-27",
+    "endDate": "2024-09-28",
+    "city": "Essen",
+    "country": "Germany",
     "online": false,
-    "cocUrl": "https://techheads.se/code-of-conduct/",
-    "locales": "EN"
+    "locales": "DE",
+    "cocUrl": "https://berlincodeofconduct.org/de"
   },
   {
-    "name": "Serverless Architecture Conference Berlin",
-    "url": "https://serverless-architecture.io/berlin",
-    "startDate": "2024-10-21",
-    "endDate": "2024-10-23",
+    "name": "Unicorns in Tech Summit: dear___future",
+    "url": "https://www.unicornsintech.com/uit-summit-24",
+    "startDate": "2024-10-12",
+    "endDate": "2024-10-12",
     "city": "Berlin",
     "country": "Germany",
+    "online": false,
+    "locales": "EN,DE"
+  },
+  {
+    "name": "Camunda Community Summit",
+    "url": "https://www.camundacon.com/na",
+    "startDate": "2024-10-16",
+    "endDate": "2024-10-17",
+    "city": "New York, NY",
+    "country": "U.S.A.",
     "online": true,
-    "twitter": "@serverlesscon",
-    "cocUrl": "https://serverless-architecture.io/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
+    "name": "ETLS Connect",
+    "url": "https://itrevolution.com/product/etls-connect-october-2024",
+    "startDate": "2024-10-23",
+    "endDate": "2024-10-23",
+    "online": true,
+    "locales": "EN",
+    "twitter": "@ITRevSummit"
+  },
+  {
+    "name": "CloudX",
+    "url": "https://www.developerweek.com/cloudx",
+    "startDate": "2024-11-05",
+    "endDate": "2024-11-07",
+    "city": "Santa Clara, CA",
+    "country": "U.S.A.",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct",
+    "cfpUrl": "https://sessionize.com/cloudx-2024",
+    "cfpEndDate": "2024-06-14",
+    "twitter": "@DeveloperWeek"
+  },
+  {
+    "name": "AfroTech",
+    "url": "https://afrotechconference.com",
+    "startDate": "2024-11-13",
+    "endDate": "2024-11-16",
+    "city": "Houston, TX",
+    "country": "U.S.A.",
+    "online": false,
     "locales": "EN"
   },
   {
@@ -368,11 +346,9 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "online": true,
-    "cfpUrl": "https://forms.gle/xu7MJi1GkXTZd8Bi8",
-    "cfpEndDate": "2024-07-01",
-    "twitter": "@thejsnation",
+    "locales": "EN",
     "cocUrl": "https://portal.gitnation.org/coc",
-    "locales": "EN"
+    "twitter": "@thejsnation"
   },
   {
     "name": "React Summit US",
@@ -382,23 +358,23 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://portal.gitnation.org/coc",
     "cfpUrl": "https://forms.gle/aFJk2xHfegCqHW2b9",
     "cfpEndDate": "2024-07-01",
-    "twitter": "@ReactSummit",
-    "cocUrl": "https://portal.gitnation.org/coc",
-    "locales": "EN"
+    "twitter": "@ReactSummit"
   },
   {
     "name": "QCon",
-    "url": "https://qconsf.com/medialisting2024",
+    "url": "https://qconsf.com",
     "startDate": "2024-11-18",
     "endDate": "2024-11-22",
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "online": false,
-    "cocUrl": "https://qconferences.com/code-conduct",
     "locales": "EN",
-    "mastodon": "@techhub.social@qcon"
+    "cocUrl": "https://qconferences.com/code-conduct",
+    "mastodon": "@qcon@techhub.social"
   },
   {
     "name": "Open Source Monitoring Conference",
@@ -408,11 +384,25 @@
     "city": "Nürnberg",
     "country": "Germany",
     "online": false,
+    "locales": "EN,DE",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://osmc.de/code-of-conduct",
     "cfpUrl": "https://osmc.de/call-for-papers",
     "cfpEndDate": "2024-08-15",
-    "twitter": "@osmc",
-    "cocUrl": "https://osmc.de/code-of-conduct/",
-    "locales": "EN,DE",
-    "offersSignLanguageOrCC": true
+    "twitter": "@osmc"
+  },
+  {
+    "name": "React Day Berlin",
+    "url": "https://reactday.berlin",
+    "startDate": "2024-12-13",
+    "endDate": "2024-12-16",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://portal.gitnation.org/coc",
+    "cfpUrl": "https://forms.gle/xFDmUHGY1b7hb77c7",
+    "cfpEndDate": "2024-08-12",
+    "twitter": "@reactdayberlin"
   }
 ]

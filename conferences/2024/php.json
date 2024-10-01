@@ -1,25 +1,13 @@
 [
   {
-    "name": "Tech Rocks Asia",
-    "url": "https://techrocks.asia",
-    "startDate": "2024-01-07",
-    "endDate": "2024-01-07",
-    "city": "Bangkok",
-    "country": "Thailand",
-    "online": false,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSck3x5BMryjiYGRQBKpQ4Y5btotKqcMJmH-B1vsiFpUfU0VRg/viewform",
-    "cfpEndDate": "2023-12-01",
-    "locales": "EN"
-  },
-  {
     "name": "SymfonyOnline",
     "url": "https://live.symfony.com/2024-online-january",
     "startDate": "2024-01-18",
     "endDate": "2024-01-19",
     "online": true,
-    "twitter": "@symfony_live",
+    "locales": "EN",
     "cocUrl": "https://symfony.com/doc/current/contributing/code_of_conduct/care_team.html",
-    "locales": "EN"
+    "twitter": "@symfony_live"
   },
   {
     "name": "Laracon EU",
@@ -29,9 +17,9 @@
     "city": "Amsterdam",
     "country": "Netherlands",
     "online": false,
+    "locales": "EN",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScFypq0-07JLgvFylUB6RcmE_0uBqPdte4l-UPNxqbmi7kHBw/viewform",
-    "cfpEndDate": "2024-01-31",
-    "locales": "EN"
+    "cfpEndDate": "2024-01-31"
   },
   {
     "name": "PHP UK Conference",
@@ -41,11 +29,9 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
-    "cfpUrl": "https://www.papercall.io/phpuk2024",
-    "cfpEndDate": "2023-09-30",
-    "twitter": "@PHPUKConference",
-    "cocUrl": "https://www.phpconference.co.uk/conduct/",
-    "locales": "EN"
+    "locales": "EN",
+    "cocUrl": "https://www.phpconference.co.uk/conduct",
+    "twitter": "@PHPUKConference"
   },
   {
     "name": "The Dutch PHP Conference",
@@ -55,11 +41,11 @@
     "city": "Amsterdam",
     "country": "Netherlands",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://phpconference.nl/code-of-conduct",
     "cfpUrl": "https://sessionize.com/dpc24",
     "cfpEndDate": "2023-12-17",
     "twitter": "@dpcon",
-    "cocUrl": "https://phpconference.nl/code-of-conduct",
-    "locales": "EN",
     "mastodon": "@dpc_ibuildings@mastodon.social"
   },
   {
@@ -70,11 +56,11 @@
     "city": "Udaipur",
     "country": "India",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://laracon.in/code-of-conduct.html",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdHBOswhGtvmrZLaeHDwdnksJ4oHCvNG58oTyC5roTNA99Qjw/viewform",
     "cfpEndDate": "2024-02-29",
-    "twitter": "@LaraconIN",
-    "cocUrl": "https://laracon.in/code-of-conduct.html",
-    "locales": "EN"
+    "twitter": "@LaraconIN"
   },
   {
     "name": "SymfonyLive Paris",
@@ -84,11 +70,11 @@
     "city": "Paris",
     "country": "France",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://symfony.com/doc/current/contributing/code_of_conduct/care_team.html",
     "cfpUrl": "https://live.symfony.com/2024-paris/cfp",
     "cfpEndDate": "2023-12-18",
-    "twitter": "@symfony_live",
-    "cocUrl": "https://symfony.com/doc/current/contributing/code_of_conduct/care_team.html",
-    "locales": "EN"
+    "twitter": "@symfony_live"
   },
   {
     "name": "PHP[TEK]",
@@ -98,11 +84,11 @@
     "city": "Chicago, IL",
     "country": "U.S.A.",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://tek.phparch.com/code-of-conduct",
     "cfpUrl": "https://sessionize.com/phptek-2024",
     "cfpEndDate": "2023-11-30",
     "twitter": "@phptek",
-    "cocUrl": "https://tek.phparch.com/code-of-conduct",
-    "locales": "EN",
     "mastodon": "@tek@phparch.social"
   },
   {
@@ -113,8 +99,8 @@
     "city": "Takamatsu",
     "country": "Japan",
     "online": false,
-    "twitter": "@phpcon_kagawa",
-    "locales": "JA"
+    "locales": "JA",
+    "twitter": "@phpcon_kagawa"
   },
   {
     "name": "phpday",
@@ -124,44 +110,22 @@
     "city": "Verona",
     "country": "Italy",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://2024.phpday.it/welcome/coc.html",
     "cfpUrl": "https://sessionize.com/phpday-2024",
     "cfpEndDate": "2024-01-14",
-    "twitter": "@phpday",
-    "cocUrl": "https://2024.phpday.it/welcome/coc.html",
-    "locales": "EN"
-  },
-  {
-    "name": "phpday",
-    "url": "https://2024.phpday.it",
-    "startDate": "2024-05-16",
-    "endDate": "2024-05-17",
-    "online": true,
-    "cfpUrl": "https://2024.phpday.it/welcome/cfp.html",
-    "cfpEndDate": "2024-01-14",
-    "twitter": "@phpday",
-    "locales": "EN"
+    "twitter": "@phpday"
   },
   {
     "name": "PHP Velho Oeste",
-    "url": "http://www.phpvelhoeste.com.br/2024",
+    "url": "https://www.phpvelhoeste.com.br/2024",
     "startDate": "2024-05-17",
     "endDate": "2024-05-18",
     "city": "Chapecó",
     "country": "Brazil",
     "online": false,
-    "twitter": "@leocavalcante",
-    "locales": "EN"
-  },
-  {
-    "name": "International PHP Conference",
-    "url": "https://phpconference.com/berlin-en",
-    "startDate": "2024-05-27",
-    "endDate": "2024-05-31",
-    "online": true,
-    "cfpUrl": "https://phpconference.com/call-for-papers",
-    "cfpEndDate": "2023-11-27",
-    "twitter": "@phpconference",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@leocavalcante"
   },
   {
     "name": "International PHP Conference",
@@ -171,10 +135,10 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
+    "locales": "EN",
     "cfpUrl": "https://www.phpconference.com/call-for-papers",
     "cfpEndDate": "2023-11-27",
-    "twitter": "@phpconference",
-    "locales": "EN"
+    "twitter": "@phpconference"
   },
   {
     "name": "SymfonyOnline June",
@@ -182,77 +146,12 @@
     "startDate": "2024-06-06",
     "endDate": "2024-06-07",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://symfony.com/doc/current/contributing/code_of_conduct/care_team.html",
     "cfpUrl": "https://live.symfony.com/2024-online-june/cfp",
     "cfpEndDate": "2024-03-07",
     "twitter": "@symfony_live",
-    "cocUrl": "https://symfony.com/doc/current/contributing/code_of_conduct/care_team.html",
-    "locales": "EN",
     "mastodon": "@symfony@mastodon.social"
-  },
-  {
-    "name": "PHP Conference Fukuoka",
-    "url": "https://phpcon.fukuoka.jp/2024",
-    "startDate": "2024-06-22",
-    "endDate": "2024-06-22",
-    "city": "Fukuoka",
-    "country": "Japan",
-    "online": false,
-    "twitter": "@phpcon_fukuoka",
-    "locales": "JA"
-  },
-  {
-    "name": "Web Summer Camp",
-    "url": "https://websummercamp.com",
-    "startDate": "2024-07-04",
-    "endDate": "2024-07-06",
-    "city": "Opatija",
-    "country": "Croatia",
-    "online": false,
-    "cfpUrl": "https://sessionize.com/web-summer-camp-2024",
-    "cfpEndDate": "2024-03-31",
-    "twitter": "@websummercamp",
-    "cocUrl": "https://websummercamp.com/2024/code-of-conduct",
-    "locales": "EN"
-  },
-  {
-    "name": "CakeFest",
-    "url": "https://cakefest.org",
-    "startDate": "2024-07-24",
-    "endDate": "2024-07-26",
-    "city": "Esch-sur-Alzette",
-    "country": "Luxembourg",
-    "online": true,
-    "twitter": "@cakephp",
-    "cocUrl": "https://cakefest.org/conduct",
-    "locales": "EN"
-  },
-  {
-    "name": "Laravel Live Denmark",
-    "url": "https://laravellive.dk",
-    "startDate": "2024-08-22",
-    "endDate": "2024-08-23",
-    "city": "Copenhagen",
-    "country": "Denmark",
-    "online": false,
-    "cfpUrl": "https://laravellive.dk/become-a-speaker",
-    "cfpEndDate": "2024-03-01",
-    "twitter": "@laravellivedk",
-    "cocUrl": "https://laravellive.dk/code-of-conduct",
-    "locales": "EN"
-  },
-  {
-    "name": "SymfonyCon Vienna",
-    "url": "https://live.symfony.com/2024-vienna-con",
-    "startDate": "2024-12-03",
-    "endDate": "2024-12-06",
-    "city": "Vienna",
-    "country": "Austria",
-    "online": false,
-    "cfpUrl": "https://live.symfony.com/2024-vienna-con/cfp",
-    "cfpEndDate": "2024-09-02",
-    "twitter": "@SymfonyCon",
-    "cocUrl": "https://symfony.com/care",
-    "locales": "EN"
   },
   {
     "name": "SymfonyLive Berlin",
@@ -262,8 +161,119 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
-    "twitter": "@symfony_live",
+    "locales": "EN",
     "cocUrl": "https://symfony.com/care",
-    "locales": "EN"
+    "twitter": "@symfony_live"
+  },
+  {
+    "name": "PHP Conference Fukuoka",
+    "url": "https://phpcon.fukuoka.jp/2024",
+    "startDate": "2024-06-22",
+    "endDate": "2024-06-22",
+    "city": "Fukuoka",
+    "country": "Japan",
+    "online": false,
+    "locales": "JA",
+    "twitter": "@phpcon_fukuoka"
+  },
+  {
+    "name": "Web Summer Camp",
+    "url": "https://websummercamp.com",
+    "startDate": "2024-07-04",
+    "endDate": "2024-07-06",
+    "city": "Opatija",
+    "country": "Croatia",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://websummercamp.com/2024/code-of-conduct",
+    "cfpUrl": "https://sessionize.com/web-summer-camp-2024",
+    "cfpEndDate": "2024-03-31",
+    "twitter": "@websummercamp"
+  },
+  {
+    "name": "CakeFest",
+    "url": "https://cakefest.org",
+    "startDate": "2024-07-24",
+    "endDate": "2024-07-26",
+    "city": "Esch-sur-Alzette",
+    "country": "Luxembourg",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://cakefest.org/conduct",
+    "twitter": "@cakephp"
+  },
+  {
+    "name": "PHP fwdays",
+    "url": "https://fwdays.com/en/event/php-fwdays-2024",
+    "startDate": "2024-08-17",
+    "endDate": "2024-08-17",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "online": true,
+    "locales": "EN,UK",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf4xAhBCFHOehDJdjXYv_PBkqrKU7NmMrE_5FzvuVPb-LJu1A/viewform",
+    "cfpEndDate": "2024-07-18",
+    "twitter": "@fwdays"
+  },
+  {
+    "name": "Laravel Live Denmark",
+    "url": "https://laravellive.dk",
+    "startDate": "2024-08-22",
+    "endDate": "2024-08-23",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://laravellive.dk/code-of-conduct",
+    "twitter": "@laravellivedk"
+  },
+  {
+    "name": "WordPress Core Days",
+    "url": "https://events.wordpress.org/rome/2024/coredays",
+    "startDate": "2024-11-08",
+    "endDate": "2024-11-09",
+    "city": "Rome",
+    "country": "Italy",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://events.wordpress.org/rome/2024/coredays/code-of-conduct/",
+    "twitter": "@wp_ita"
+  },
+  {
+    "name": "International PHP Conference Munich",
+    "url": "https://phpconference.com/munich",
+    "startDate": "2024-11-11",
+    "endDate": "2024-11-15",
+    "city": "Munich",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://phpconference.com/code-of-conduct",
+    "cfpUrl": "https://phpconference.com/call-for-papers",
+    "cfpEndDate": "2024-06-05",
+    "twitter": "@phpconference"
+  },
+  {
+    "name": "betterCode() PHP",
+    "url": "https://php.bettercode.eu",
+    "startDate": "2024-11-21",
+    "endDate": "2024-11-21",
+    "online": true,
+    "locales": "DE",
+    "cocUrl": "https://php.bettercode.eu/code_of_conduct.php"
+  },
+  {
+    "name": "SymfonyCon Vienna",
+    "url": "https://live.symfony.com/2024-vienna-con",
+    "startDate": "2024-12-03",
+    "endDate": "2024-12-06",
+    "city": "Vienna",
+    "country": "Austria",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://symfony.com/care",
+    "cfpUrl": "https://live.symfony.com/2024-vienna-con/cfp",
+    "cfpEndDate": "2024-09-02",
+    "twitter": "@SymfonyCon"
   }
 ]

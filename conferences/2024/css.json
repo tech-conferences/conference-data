@@ -7,8 +7,8 @@
     "city": "St. Petersburg, FL",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@frontendconf",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@frontendconf"
   },
   {
     "name": "Frontrunners",
@@ -18,20 +18,11 @@
     "city": "Arlington, VA",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://frontrunners.tech/conduct",
     "cfpUrl": "https://www.papercall.io/frontrunners2024",
     "cfpEndDate": "2023-10-20",
-    "twitter": "@frontrunnersdc",
-    "cocUrl": "https://frontrunners.tech/conduct",
-    "locales": "EN"
-  },
-  {
-    "name": "WebDev Day",
-    "url": "https://www.wearedevelopers.com/event/webdev-day-march-2024",
-    "startDate": "2024-03-20",
-    "endDate": "2024-03-20",
-    "online": true,
-    "twitter": "@WeAreDevs",
-    "locales": "EN"
+    "twitter": "@frontrunnersdc"
   },
   {
     "name": "The 11ty International Symposium on Making Web Sites Real Good",
@@ -39,13 +30,13 @@
     "startDate": "2024-05-09",
     "endDate": "2024-05-09",
     "online": true,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://conf.11ty.dev/cfp",
     "cfpUrl": "https://conf.11ty.dev/#speaking",
     "cfpEndDate": "2024-03-22",
     "twitter": "@eleven_ty",
-    "cocUrl": "https://conf.11ty.dev/cfp/",
-    "locales": "EN",
-    "mastodon": "@eleventy@fosstodon.org",
-    "offersSignLanguageOrCC": true
+    "mastodon": "@eleventy@fosstodon.org"
   },
   {
     "name": "SAP UI5con",
@@ -55,38 +46,20 @@
     "city": "St. Leon-Rot",
     "country": "Germany",
     "online": false,
-    "twitter": "@OpenUI5",
+    "locales": "EN,DE",
     "cocUrl": "https://openui5.org/ui5con/germany2024/codeofconduct.html",
-    "locales": "EN,DE"
+    "twitter": "@OpenUI5"
   },
   {
-    "name": "RenderATL",
-    "url": "https://RenderATL.com",
-    "startDate": "2024-06-12",
-    "endDate": "2024-06-14",
-    "city": "Atlanta, GA",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://renderatl.com/cfp",
-    "cfpEndDate": "2023-11-13",
-    "twitter": "@RenderATL",
-    "cocUrl": "https://renderatl.com/code-of-conduct",
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "Pixel Pioneers",
-    "url": "https://pixelpioneers.co/events/bristol-2024",
-    "startDate": "2024-06-14",
-    "endDate": "2024-06-14",
-    "city": "Bristol",
-    "country": "U.K.",
-    "online": false,
-    "cfpUrl": "https://pixelpioneers.co/call-for-speakers",
-    "cfpEndDate": "2024-04-15",
-    "twitter": "@pixelpioneers",
-    "cocUrl": "https://pixelpioneers.co/code-of-conduct",
-    "locales": "EN"
+    "name": "CSSDAY",
+    "url": "https://cssday.nl/2024",
+    "startDate": "2024-06-06",
+    "endDate": "2024-06-07",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": true,
+    "cocUrl": "https://cssday.nl/2024/contact#code-of-conduct",
+    "twitter": "@CSSDayConf"
   },
   {
     "name": "CascadiaJS",
@@ -96,12 +69,24 @@
     "city": "Seattle, WA",
     "country": "U.S.A.",
     "online": true,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://cascadiajs.com/code-of-conduct",
     "cfpUrl": "https://cascadiajs.com/2024/cfp",
     "cfpEndDate": "2024-02-04",
-    "twitter": "@cascadiajs",
-    "cocUrl": "https://cascadiajs.com/code-of-conduct",
+    "twitter": "@cascadiajs"
+  },
+  {
+    "name": "Web Directions Code",
+    "url": "https://webdirections.org/code",
+    "startDate": "2024-06-20",
+    "endDate": "2024-06-21",
+    "city": "Melbourne",
+    "country": "Australia",
+    "online": true,
     "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct",
+    "twitter": "@webdirections"
   },
   {
     "name": "JSConf Budapest",
@@ -111,11 +96,11 @@
     "city": "Budapest",
     "country": "Hungary",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://jsconfbp.com/code-of-conduct",
     "cfpUrl": "https://jsconfbp.com/call-for-papers",
     "cfpEndDate": "2024-01-26",
     "twitter": "@jsconfbp",
-    "cocUrl": "https://jsconfbp.com/code-of-conduct",
-    "locales": "EN",
     "mastodon": "@jsconfbp@mstdn.social"
   },
   {
@@ -126,9 +111,32 @@
     "city": "Middlesbrough",
     "country": "U.K.",
     "online": false,
-    "twitter": "@middlesbroughfe",
+    "locales": "EN",
     "cocUrl": "https://www.middlesbroughfe.co.uk/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@middlesbroughfe"
+  },
+  {
+    "name": "What The Stack?",
+    "url": "https://wts.sh",
+    "startDate": "2024-09-14",
+    "endDate": "2024-09-14",
+    "city": "Skopje",
+    "country": "North Macedonia",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://github.com/stumpsyn/policies/blob/master/citizen_code_of_conduct.md",
+    "cfpUrl": "https://forms.gle/Yq3WP7dq2o4fEkgE6",
+    "cfpEndDate": "2024-08-01",
+    "twitter": "@what_the_stack"
+  },
+  {
+    "name": "JetBrains JavaScript Day",
+    "url": "https://jb.gg/JSD24_confs",
+    "startDate": "2024-10-24",
+    "endDate": "2024-10-24",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://lp.jetbrains.com/code-of-conduct-events/?_gl=1*keh0mg*_gcl_aw*R0NMLjE3MTg4Mjc0MTYuRUFJYUlRb2JDaE1JOF91a2hidm9oZ01WRXFSYUJSMkNFQS1QRUFFWUFTQUFFZ0lacFBEX0J3RQ..*_gcl_au*MTY0OTk1NTg0NS4xNzIwNDQ5OTc1*_ga*MTQ1MzIwMzk5NS4xNjg5MjYzNTI5*_ga_9J976DJZ68*MTcyNDc2OTM3Ni4zMDEuMC4xNzI0NzY5Mzc4LjU4LjAuMA.."
   },
   {
     "name": "Frontend Barcelona Conference",
@@ -138,10 +146,10 @@
     "city": "Barcelona",
     "country": "Spain",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://frontend.barcelona/code-of-conduct",
     "cfpUrl": "https://frontend.barcelona/call-for-papers",
     "cfpEndDate": "2024-09-30",
-    "twitter": "@frontendbcn",
-    "cocUrl": "https://frontend.barcelona/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@frontendbcn"
   }
 ]

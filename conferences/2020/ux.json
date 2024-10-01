@@ -217,16 +217,8 @@
     "twitter": "@dsgndayconf"
   },
   {
-    "name": "An Event Apart – Online Together",
-    "url": "https://aneventapart.com/event/online-0620",
-    "startDate": "2020-06-15",
-    "endDate": "2020-06-15",
-    "online": true,
-    "twitter": "@aneventapart"
-  },
-  {
     "name": "sofaconf",
-    "url": "https://2020.sofaconf.com/",
+    "url": "https://2020.sofaconf.com",
     "startDate": "2020-06-22",
     "endDate": "2020-06-26",
     "online": true
@@ -240,24 +232,8 @@
     "twitter": "@UXRCollective"
   },
   {
-    "name": "The FinTech Design Summit",
-    "url": "https://fintechdesignsummit.com/new-york",
-    "startDate": "2020-06-30",
-    "endDate": "2020-06-30",
-    "online": true,
-    "twitter": "@fdsummit"
-  },
-  {
-    "name": "An Event Apart – Human-Centered Design",
-    "url": "https://aneventapart.com/event/online-0720",
-    "startDate": "2020-07-20",
-    "endDate": "2020-07-20",
-    "online": true,
-    "twitter": "@aneventapart"
-  },
-  {
     "name": "NN/g UX Conference",
-    "url": "https://www.nngroup.com/training/july/",
+    "url": "https://www.nngroup.com/training/july",
     "startDate": "2020-07-25",
     "endDate": "2020-07-31",
     "online": true,
@@ -265,7 +241,7 @@
   },
   {
     "name": "NN/g UX Conference",
-    "url": "https://www.nngroup.com/training/august/",
+    "url": "https://www.nngroup.com/training/august",
     "startDate": "2020-08-10",
     "endDate": "2020-08-10",
     "online": true,
@@ -356,15 +332,6 @@
     "twitter": "@uxdxconf"
   },
   {
-    "name": "UXDX",
-    "url": "https://uxdx.com/europe/2020/agenda",
-    "startDate": "2020-10-06",
-    "endDate": "2020-10-09",
-    "online": true,
-    "twitter": "@UXDXconf",
-    "offersSignLanguageOrCC": false
-  },
-  {
     "name": "SmashingConf",
     "url": "https://smashingconf.com/austin-2020",
     "startDate": "2020-10-13",
@@ -388,8 +355,6 @@
     "endDate": "2020-10-20",
     "city": "New Orleans, LA",
     "country": "U.S.A.",
-    "cfpUrl": "http://uiarchconf.com/cfp",
-    "cfpEndDate": "2019-10-31",
     "twitter": "@uiarchconf"
   },
   {
@@ -409,22 +374,14 @@
     "twitter": "@ecomDS"
   },
   {
-    "name": "An Event Apart – Online Together",
-    "url": "https://aneventapart.com/event/online-1020",
-    "startDate": "2020-10-26",
-    "endDate": "2020-10-28",
-    "online": true,
-    "twitter": "@aneventapart"
-  },
-  {
     "name": "Product://remote",
     "url": "https://webdirections.org/product",
     "startDate": "2020-11-06",
     "endDate": "2020-11-06",
     "online": true,
-    "twitter": "@webdirections",
-    "cocUrl": "https://www.webdirections.org/web-directions-event-code-of-conduct/",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://www.webdirections.org/web-directions-event-code-of-conduct",
+    "twitter": "@webdirections"
   },
   {
     "name": "Global Experience Summit",
@@ -474,8 +431,8 @@
     "startDate": "2020-11-20",
     "endDate": "2020-11-29",
     "online": true,
-    "cocUrl": "https://touch.ge/summit",
-    "offersSignLanguageOrCC": false
+    "offersSignLanguageOrCC": false,
+    "cocUrl": "https://touch.ge/summit"
   },
   {
     "name": "Design Inspire Conference",
@@ -492,9 +449,9 @@
     "startDate": "2020-11-30",
     "endDate": "2020-12-02",
     "online": true,
-    "twitter": "@DDDSummit",
-    "cocUrl": "https://ddd-summit.de/code-of-conduct/",
-    "offersSignLanguageOrCC": false
+    "offersSignLanguageOrCC": false,
+    "cocUrl": "https://ddd-summit.de/code-of-conduct",
+    "twitter": "@DDDSummit"
   },
   {
     "name": "Savvy UX Summit",
@@ -502,8 +459,8 @@
     "startDate": "2020-12-07",
     "endDate": "2020-12-10",
     "online": true,
-    "twitter": "@SavvyUXSummit",
-    "offersSignLanguageOrCC": false
+    "offersSignLanguageOrCC": false,
+    "twitter": "@SavvyUXSummit"
   },
   {
     "name": "webinale",
@@ -515,23 +472,5 @@
     "cfpUrl": "https://webinale.de/call-for-papers-en",
     "cfpEndDate": "2019-11-25",
     "twitter": "@webinale"
-  },
-  {
-    "name": "UXINDIA",
-    "url": "https://www.ux-india.org/uxindia2020",
-    "startDate": "2020-12-07",
-    "endDate": "2020-12-12",
-    "online": true,
-    "twitter": "@uxindiaconf",
-    "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "An Event Apart San Francisco",
-    "url": "https://aneventapart.com/event/san-francisco-2020",
-    "startDate": "2020-12-14",
-    "endDate": "2020-12-16",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "twitter": "@aneventapart"
   }
 ]

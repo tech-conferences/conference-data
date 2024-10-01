@@ -1,0 +1,26 @@
+[
+  {
+    "name": "API Conference London",
+    "url": "https://apiconference.net/london",
+    "startDate": "2025-05-12",
+    "endDate": "2025-05-15",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://apiconference.net/code-of-conduct",
+    "twitter": "@api_conference"
+  },
+  {
+    "name": "UberConf",
+    "url": "https://uberconf.com",
+    "startDate": "2025-07-15",
+    "endDate": "2025-07-18",
+    "city": "Denver, CO",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://uberconf.com/home/code_of_conduct",
+    "twitter": "@nofluff"
+  }
+]

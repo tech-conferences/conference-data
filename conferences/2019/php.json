@@ -1,14 +1,5 @@
 [
   {
-    "name": "PHPBenelux Conference",
-    "url": "https://conference.phpbenelux.eu/2019/",
-    "startDate": "2019-01-25",
-    "endDate": "2019-01-26",
-    "city": "Antwerp",
-    "country": "Belgium",
-    "twitter": "@phpbenelux"
-  },
-  {
     "name": "DrupalCamp NJ",
     "url": "https://www.drupalcampnj.org",
     "startDate": "2019-02-01",
@@ -58,17 +49,6 @@
     "twitter": "@jestphp"
   },
   {
-    "name": "Midwest PHP",
-    "url": "https://2019.midwestphp.org/",
-    "startDate": "2019-03-08",
-    "endDate": "2019-03-09",
-    "city": "Bloomington, MN",
-    "country": "U.S.A.",
-    "cfpUrl": "https://cfp.midwestphp.org/",
-    "cfpEndDate": "2018-11-15",
-    "twitter": "@midwestphp"
-  },
-  {
     "name": "PHP Yorkshire",
     "url": "https://www.phpyorkshire.co.uk",
     "startDate": "2019-04-11",
@@ -86,8 +66,6 @@
     "endDate": "2019-05-04",
     "city": "Austin, TX",
     "country": "U.S.A.",
-    "cfpUrl": "https://cfp.longhornphp.com/",
-    "cfpEndDate": "2018-12-15",
     "twitter": "@longhornphp"
   },
   {
@@ -97,7 +75,7 @@
     "endDate": "2019-05-11",
     "city": "Verona",
     "country": "Italy",
-    "cfpUrl": "https://cfp.phpday.it/",
+    "cfpUrl": "https://cfp.phpday.it",
     "twitter": "@phpday"
   },
   {
@@ -129,24 +107,13 @@
     "twitter": "@phparch"
   },
   {
-    "name": "Laracon EU (south)",
-    "url": "https://laracon.eu/2019",
-    "startDate": "2019-05-23",
-    "endDate": "2019-05-23",
-    "city": "Madrid",
-    "country": "Spain",
-    "cfpUrl": "https://conf-feedback.typeform.com/to/TjI0Gv",
-    "cfpEndDate": "2019-04-05",
-    "twitter": "@laraconeu"
-  },
-  {
     "name": "PHP Serbia Conference",
     "url": "https://2019.phpsrbija.rs",
     "startDate": "2019-05-25",
     "endDate": "2019-05-26",
     "city": "Belgrade",
     "country": "Serbia",
-    "cfpUrl": "https://cfp.phpsrbija.rs/",
+    "cfpUrl": "https://cfp.phpsrbija.rs",
     "cfpEndDate": "2019-02-01",
     "twitter": "@PHPSrbija"
   },
@@ -157,8 +124,6 @@
     "endDate": "2019-06-04",
     "city": "Leipzig",
     "country": "Germany",
-    "cfpUrl": "https://de.meet-magento.com/meet-magento-de/call-for-papers/",
-    "cfpEndDate": "2019-01-31",
     "twitter": "@meetmagento"
   },
   {
@@ -168,7 +133,7 @@
     "endDate": "2019-06-07",
     "city": "Berlin",
     "country": "Germany",
-    "cfpUrl": "https://phpconference.com/call-for-papers/",
+    "cfpUrl": "https://phpconference.com/call-for-papers",
     "cfpEndDate": "2018-10-31",
     "twitter": "@phpconference"
   },
@@ -189,9 +154,7 @@
     "startDate": "2019-06-07",
     "endDate": "2019-06-07",
     "city": "Cardiff",
-    "country": "U.K.",
-    "cfpUrl": "https://www.papercall.io/blue-conf-2019",
-    "cfpEndDate": "2019-05-31"
+    "country": "U.K."
   },
   {
     "name": "MageTitans NL",
@@ -257,17 +220,6 @@
     "cfpEndDate": "2019-06-15"
   },
   {
-    "name": "Laracon EU",
-    "url": "https://laracon.eu/2019",
-    "startDate": "2019-08-28",
-    "endDate": "2019-08-30",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "cfpUrl": "https://conf-feedback.typeform.com/to/XnOrdq",
-    "cfpEndDate": "2019-05-15",
-    "twitter": "@laraconeu"
-  },
-  {
     "name": "Web Summer Camp",
     "url": "https://2019.websummercamp.com",
     "startDate": "2019-08-28",
@@ -303,8 +255,6 @@
     "endDate": "2019-10-04",
     "city": "Tampa, FL",
     "country": "U.S.A.",
-    "cfpUrl": "https://www.papercall.io/lightningphp2019",
-    "cfpEndDate": "2019-08-02",
     "twitter": "@LightningPHP"
   },
   {
@@ -357,17 +307,6 @@
     "cfpUrl": "https://cfs.scotlandphp.co.uk",
     "cfpEndDate": "2019-04-22",
     "twitter": "@scotlandphp"
-  },
-  {
-    "name": "ScotlandPHP",
-    "url": "https://scophp.co",
-    "startDate": "2019-11-08",
-    "endDate": "2019-11-09",
-    "city": "Edinburgh",
-    "country": "U.K.",
-    "cfpUrl": "https://scophp.co/cfs",
-    "cfpEndDate": "2019-04-22",
-    "twitter": "@ScotlandPHP"
   },
   {
     "name": "Bulgaria PHP Conference",

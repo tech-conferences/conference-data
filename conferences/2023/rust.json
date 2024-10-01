@@ -1,75 +1,12 @@
 [
   {
-    "name": "VeryTechTrip",
-    "url": "https://verytechtrip.com",
-    "startDate": "2023-02-02",
-    "endDate": "2023-02-02",
-    "city": "Paris",
-    "country": "France",
-    "online": false,
-    "cfpUrl": "https://conference-hall.io/public/event/hoyBWUXe43dnoiBekZaB",
-    "cfpEndDate": "2022-11-14",
-    "twitter": "@OVHcloud_Tech",
-    "locales": "FR"
-  },
-  {
-    "name": "Wasm I/O",
-    "url": "https://wasmio.tech",
-    "startDate": "2023-03-23",
-    "endDate": "2023-03-24",
-    "city": "Barcelona",
-    "country": "Spain",
-    "online": false,
-    "cfpUrl": "https://www.papercall.io/wasmio23",
-    "cfpEndDate": "2023-01-17",
-    "twitter": "@wasm_io",
-    "cocUrl": "https://wasmio.tech/coc"
-  },
-  {
-    "name": "Devoxx France",
-    "url": "https://devoxx.fr",
-    "startDate": "2023-04-12",
-    "endDate": "2023-04-14",
-    "city": "Paris",
-    "country": "France",
-    "online": false,
-    "cfpUrl": "https://cfp.devoxx.fr",
-    "cfpEndDate": "2023-01-08",
-    "twitter": "@DevoxxFR",
-    "cocUrl": "https://www.devoxx.fr/presenter-a-devoxx/code-de-conduite/",
-    "locales": "EN,FR"
-  },
-  {
-    "name": "JAX",
-    "url": "https://jax.de/mainz",
-    "startDate": "2023-05-08",
-    "endDate": "2023-05-12",
-    "city": "Mainz",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@jaxcon",
-    "cocUrl": "https://jax.de/code-of-conduct/",
-    "locales": "EN"
-  },
-  {
     "name": "Conf42 Rustlang",
     "url": "https://www.conf42.com/rustlang2023",
     "startDate": "2023-09-07",
     "endDate": "2023-09-07",
     "online": true,
-    "cfpUrl": "https://www.papercall.io/conf42-rust-2023",
-    "cfpEndDate": "2023-08-07",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct"
-  },
-  {
-    "name": "EuroRust",
-    "url": "http://eurorust.eu",
-    "startDate": "2023-10-12",
-    "endDate": "2023-10-13",
-    "online": true,
-    "twitter": "@euro_rust",
-    "cocUrl": "https://eurorust.eu/2022/code-of-conduct/"
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
+    "twitter": "@conf42com"
   },
   {
     "name": "EuroRust",
@@ -79,33 +16,9 @@
     "city": "Brussels",
     "country": "Belgium",
     "online": true,
-    "twitter": "@euro_rust",
-    "cocUrl": "https://eurorust.eu/code-of-conduct/",
-    "locales": "EN"
-  },
-  {
-    "name": "RTC.On",
-    "url": "https://rtcon.live",
-    "startDate": "2023-10-12",
-    "endDate": "2023-10-14",
-    "city": "Kraków",
-    "country": "Poland",
-    "online": false,
-    "cocUrl": "https://rtcon.live/code-of-conduct",
-    "locales": "EN"
-  },
-  {
-    "name": "P99 CONF",
-    "url": "https://www.p99conf.io",
-    "startDate": "2023-10-18",
-    "endDate": "2023-10-19",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/p99-conf-2023",
-    "cfpEndDate": "2023-05-12",
-    "twitter": "@p99conf",
-    "cocUrl": "https://www.p99conf.io/code-of-conduct/",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "cocUrl": "https://eurorust.eu/code-of-conduct",
+    "twitter": "@euro_rust"
   },
   {
     "name": "betterCode() Rust",
@@ -113,9 +26,9 @@
     "startDate": "2023-10-24",
     "endDate": "2023-10-24",
     "online": true,
-    "twitter": "@bettercodeconf",
+    "locales": "EN,DE",
     "cocUrl": "https://rust.bettercode.eu/code_of_conduct.php",
-    "locales": "EN,DE"
+    "twitter": "@bettercodeconf"
   },
   {
     "name": "RustLab",
@@ -125,10 +38,10 @@
     "city": "Florence",
     "country": "Italy",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://rustlab.it/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/rustlab2023",
     "cfpEndDate": "2023-05-26",
-    "twitter": "@rustlab_conf",
-    "cocUrl": "https://rustlab.it/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@rustlab_conf"
   }
 ]

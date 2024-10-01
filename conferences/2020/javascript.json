@@ -1,7 +1,7 @@
 [
   {
     "name": "HalfStack",
-    "url": "https://halfstackconf.com/phoenix/",
+    "url": "https://halfstackconf.com/phoenix",
     "startDate": "2020-01-17",
     "endDate": "2020-01-17",
     "city": "Phoenix, AZ",
@@ -73,7 +73,7 @@
   },
   {
     "name": "FrontFest",
-    "url": "https://frontfest.es/",
+    "url": "https://frontfest.es",
     "startDate": "2020-02-15",
     "endDate": "2020-02-15",
     "city": "Madrid",
@@ -186,22 +186,6 @@
     "online": true
   },
   {
-    "name": "MagnoliaJS",
-    "url": "https://magnoliajs.com/",
-    "startDate": "2020-04-15",
-    "endDate": "2020-04-16",
-    "online": true
-  },
-  {
-    "name": "NodeConf Armenia",
-    "url": "http://armenia.nodeconf.com/",
-    "startDate": "2020-04-25",
-    "endDate": "2020-04-25",
-    "city": "Yerevan",
-    "country": "Armenia",
-    "twitter": "@nodeconfam"
-  },
-  {
     "name": "Byteconf React",
     "url": "https://www.bytesized.xyz/react-2020",
     "startDate": "2020-05-01",
@@ -249,14 +233,6 @@
     "endDate": "2020-05-15",
     "online": true,
     "twitter": "@jsremoteconf"
-  },
-  {
-    "name": "HalfStack Online",
-    "url": "https://halfstackconf.com/online/",
-    "startDate": "2020-05-22",
-    "endDate": "2020-05-22",
-    "online": true,
-    "twitter": "@halfstackconf"
   },
   {
     "name": "ForwardJS in the Interweb",
@@ -307,14 +283,6 @@
     "twitter": "@openjsf"
   },
   {
-    "name": "Prisma Day",
-    "url": "http://prisma.io/day",
-    "startDate": "2020-06-26",
-    "endDate": "2020-06-26",
-    "online": true,
-    "twitter": "@prisma"
-  },
-  {
     "name": "OdessaJS'",
     "url": "http://odessajs.org",
     "startDate": "2020-07-04",
@@ -349,13 +317,6 @@
     "twitter": "@angularnl"
   },
   {
-    "name": "Create: Front-end",
-    "url": "https://createfrontenddevelopers.splashthat.com/",
-    "startDate": "2020-07-29",
-    "endDate": "2020-07-29",
-    "online": true
-  },
-  {
     "name": "JavaScript and Friends Conference",
     "url": "https://www.javascriptandfriends.com",
     "startDate": "2020-08-13",
@@ -371,15 +332,6 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "twitter": "@halfstackconf"
-  },
-  {
-    "name": "RenderATL",
-    "url": "https://www.renderatl.com",
-    "startDate": "2020-08-24",
-    "endDate": "2020-08-26",
-    "city": "Atlanta, GA",
-    "country": "U.S.A.",
-    "twitter": "@renderATL"
   },
   {
     "name": "You Gotta Love Frontend",
@@ -505,15 +457,6 @@
     "twitter": "@GeekleOfficial"
   },
   {
-    "name": "RxJS Live! London",
-    "url": "https://rxjs.live/london",
-    "startDate": "2020-09-17",
-    "endDate": "2020-09-18",
-    "city": "London",
-    "country": "U.K.",
-    "twitter": "@rxjslive"
-  },
-  {
     "name": "Vue.js Global",
     "url": "https://www.vuejs.amsterdam",
     "startDate": "2020-09-17",
@@ -584,7 +527,7 @@
   },
   {
     "name": "Angular Days",
-    "url": "https://javascript-days.de/angular/",
+    "url": "https://javascript-days.de/angular",
     "startDate": "2020-10-05",
     "endDate": "2020-10-08",
     "city": "Berlin",
@@ -593,7 +536,7 @@
   },
   {
     "name": "HTML & CSS Days",
-    "url": "https://javascript-days.de/html-css/",
+    "url": "https://javascript-days.de/html-css",
     "startDate": "2020-10-05",
     "endDate": "2020-10-08",
     "city": "Berlin",
@@ -775,9 +718,9 @@
     "startDate": "2020-12-08",
     "endDate": "2020-12-09",
     "online": true,
-    "twitter": "@FrontEndConnect",
-    "cocUrl": "https://frontend-con.io/code-of-conduct/",
-    "offersSignLanguageOrCC": false
+    "offersSignLanguageOrCC": false,
+    "cocUrl": "https://frontend-con.io/code-of-conduct",
+    "twitter": "@FrontEndConnect"
   },
   {
     "name": "AngularUP",
@@ -787,14 +730,6 @@
     "city": "Tel Aviv",
     "country": "Israel",
     "twitter": "@AngularUP"
-  },
-  {
-    "name": "Future.Works Tech Conference",
-    "url": "https://future.works/techconference",
-    "startDate": "2020-12-10",
-    "endDate": "2020-12-10",
-    "online": true,
-    "offersSignLanguageOrCC": false
   },
   {
     "name": "HalfStack Charlotte",

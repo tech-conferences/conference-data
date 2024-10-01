@@ -1,0 +1,60 @@
+[
+  {
+    "name": "AI DevWorld",
+    "url": "https://aidevworld.com",
+    "startDate": "2025-02-11",
+    "endDate": "2025-02-20",
+    "city": "Santa Clara, CA",
+    "country": "U.S.A.",
+    "online": true,
+    "locales": "EN",
+    "twitter": "@AIDevWorld"
+  },
+  {
+    "name": "CDAO UK",
+    "url": "https://cdao-uk.coriniumintelligence.com",
+    "startDate": "2025-02-12",
+    "endDate": "2025-02-13",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@CoriniumGlobal"
+  },
+  {
+    "name": "MLCon",
+    "url": "https://mlconference.ai/munich",
+    "startDate": "2025-05-23",
+    "endDate": "2025-05-26",
+    "city": "Munich",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://mlconference.ai/code-of-conduct",
+    "twitter": "@mlconference"
+  },
+  {
+    "name": "CONFidence",
+    "url": "https://confidence-conference.org",
+    "startDate": "2025-06-02",
+    "endDate": "2025-06-03",
+    "city": "Kraków",
+    "country": "Poland",
+    "online": false,
+    "locales": "EN,PL",
+    "cocUrl": "https://confidence-conference.org/code-of-conduct",
+    "twitter": "@CONFidenceConf"
+  },
+  {
+    "name": "EuroSTAR",
+    "url": "https://conference.eurostarsoftwaretesting.com",
+    "startDate": "2025-06-03",
+    "endDate": "2025-06-06",
+    "city": "Edinburgh",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://conference.eurostarsoftwaretesting.com/anti-harassment-policy",
+    "twitter": "@esconfs"
+  }
+]

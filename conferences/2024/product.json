@@ -7,9 +7,18 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@developerweek",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "locales": "EN"
+    "locales": "EN",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct",
+    "twitter": "@developerweek"
+  },
+  {
+    "name": "Portal Talks",
+    "url": "https://www.portaltalks.io",
+    "startDate": "2024-06-26",
+    "endDate": "2024-06-27",
+    "online": true,
+    "locales": "EN",
+    "twitter": "@tweetsbyport"
   },
   {
     "name": "Turing Fest",
@@ -19,9 +28,87 @@
     "city": "Edinburgh",
     "country": "U.K.",
     "online": false,
-    "twitter": "@turingfest",
-    "cocUrl": "https://turingfest.com/code-of-conduct/",
-    "locales": "EN"
+    "locales": "EN",
+    "cocUrl": "https://turingfest.com/code-of-conduct",
+    "twitter": "@turingfest"
+  },
+  {
+    "name": "UX & Product Design Week",
+    "url": "https://futurelondonacademy.co.uk/en/course/ux-and-digital-design",
+    "startDate": "2024-08-06",
+    "endDate": "2024-08-09",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://futurelondonacademy.co.uk/en/course/ux-and-digital-design"
+  },
+  {
+    "name": "Compass Tech Summit",
+    "url": "https://ti.to/crafthub/compass-tech-summit-2024",
+    "startDate": "2024-10-03",
+    "endDate": "2024-10-04",
+    "city": "Budapest",
+    "country": "Hungary",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@amuseconf"
+  },
+  {
+    "name": "Design It. Build it. (DIBI)",
+    "url": "https://dibiconference.com",
+    "startDate": "2024-10-09",
+    "endDate": "2024-10-10",
+    "city": "Edinburgh",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@dibiconf"
+  },
+  {
+    "name": "UXDX",
+    "url": "https://uxdx.com/emea/2024",
+    "startDate": "2024-10-09",
+    "endDate": "2024-10-11",
+    "city": "Dublin",
+    "country": "Ireland",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://uxdx.com/code-of-conduct",
+    "twitter": "@uxdxconf"
+  },
+  {
+    "name": "just product",
+    "url": "https://www.product-masterclass.com/events/just-product",
+    "startDate": "2024-10-10",
+    "endDate": "2024-10-11",
+    "city": "Munich",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.product-masterclass.com/legal/terms-and-conditions"
+  },
+  {
+    "name": "Conversational AI & Customer Experience Summit",
+    "url": "https://conversationaltechsummit.com",
+    "startDate": "2024-11-06",
+    "endDate": "2024-11-07",
+    "city": "Munich",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@AltrusiaGlobal"
+  },
+  {
+    "name": "Product Management Festival",
+    "url": "https://productmanagementfestival.com",
+    "startDate": "2024-11-06",
+    "endDate": "2024-11-07",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@ProdMgmtF"
   },
   {
     "name": "PUSH UX",

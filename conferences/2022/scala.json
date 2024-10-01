@@ -1,35 +1,10 @@
 [
   {
-    "name": "TypeVille",
-    "url": "https://www.typeville.io",
-    "startDate": "2022-04-20",
-    "endDate": "2022-04-22",
-    "city": "Krynica Zdrój",
-    "country": "Poland",
-    "online": false,
-    "cfpUrl": "https://sml.io/typeville",
-    "cfpEndDate": "2022-01-09",
-    "twitter": "@typevilleconf",
-    "cocUrl": "https://www.typeville.io/"
-  },
-  {
     "name": "ScalaCon",
     "url": "http://www.scalacon.org",
     "startDate": "2022-10-04",
     "endDate": "2022-10-07",
     "online": true,
-    "twitter": "@scalacon",
-    "cocUrl": "http://www.scalacon.org/coc/"
-  },
-  {
-    "name": "BUILD STUFF",
-    "url": "https://www.buildstuff.events",
-    "startDate": "2022-11-09",
-    "endDate": "2022-11-11",
-    "city": "Vilnius",
-    "country": "Lithuania",
-    "online": true,
-    "twitter": "@BuildStuffConf",
-    "cocUrl": "https://www.buildstuff.events/code-of-conduct"
+    "twitter": "@scalacon"
   }
 ]

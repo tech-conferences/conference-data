@@ -1,0 +1,76 @@
+[
+  {
+    "name": "NDC Security",
+    "url": "https://ndc-security.com",
+    "startDate": "2025-01-20",
+    "endDate": "2025-01-23",
+    "city": "Oslo",
+    "country": "Norway",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://ndc-security.com",
+    "twitter": "@NDC_Conferences"
+  },
+  {
+    "name": "RuhrSec",
+    "url": "https://www.ruhrsec.de/2025",
+    "startDate": "2025-02-20",
+    "endDate": "2025-02-21",
+    "city": "Bochum",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.ruhrsec.de/2025/codeofconduct.html",
+    "cfpUrl": "https://www.ruhrsec.de/2025/cfp.html",
+    "cfpEndDate": "2024-11-10",
+    "twitter": "@ruhrsec"
+  },
+  {
+    "name": "Gartner Identity & Access Management Summit",
+    "url": "https://www.gartner.com/en/conferences/emea/identity-access-management-uk",
+    "startDate": "2025-03-24",
+    "endDate": "2025-03-25",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@Gartner_inc"
+  },
+  {
+    "name": "Into The Box",
+    "url": "https://www.intothebox.org",
+    "startDate": "2025-04-30",
+    "endDate": "2025-05-02",
+    "city": "Washington, DC",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.intothebox.org/code-of-conduct",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSey2AsWchrQpiGVEZjod15EH8NbO4ZRJgJcJv-_POqZyzxpiA/viewform",
+    "cfpEndDate": "2024-11-01",
+    "twitter": "@GoIntoTheBox"
+  },
+  {
+    "name": "CONFidence",
+    "url": "https://confidence-conference.org",
+    "startDate": "2025-06-02",
+    "endDate": "2025-06-03",
+    "city": "Kraków",
+    "country": "Poland",
+    "online": false,
+    "locales": "EN,PL",
+    "cocUrl": "https://confidence-conference.org/code-of-conduct",
+    "twitter": "@CONFidenceConf"
+  },
+  {
+    "name": "CISO Indonesia",
+    "url": "https://ciso-id.coriniumintelligence.com",
+    "startDate": "2025-12-03",
+    "endDate": "2025-12-03",
+    "city": "Jakarta",
+    "country": "Indonesia",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@CoriniumGlobal"
+  }
+]

@@ -7,8 +7,8 @@
     "city": "St. Petersburg, FL",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@frontendconf",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@frontendconf"
   },
   {
     "name": "Kongres Next.js",
@@ -18,10 +18,10 @@
     "city": "Warsaw",
     "country": "Poland",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://berlincodeofconduct.org",
     "cfpUrl": "https://forms.gle/cVVXvVZC3zdRsWwG7",
-    "cfpEndDate": "2024-01-07",
-    "cocUrl": "https://berlincodeofconduct.org/",
-    "locales": "EN"
+    "cfpEndDate": "2024-01-07"
   },
   {
     "name": "DevOps.js Conference",
@@ -29,11 +29,11 @@
     "startDate": "2024-02-15",
     "endDate": "2024-02-16",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://portal.gitnation.org/coc",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeCa_cPGvnxzjGyKf1dIKGVCyJ_iK80vnN5h1R4QKXN7y_Z-Q/viewform",
     "cfpEndDate": "2023-11-30",
-    "twitter": "@DevOpsJS",
-    "cocUrl": "https://portal.gitnation.org/coc",
-    "locales": "EN"
+    "twitter": "@DevOpsJS"
   },
   {
     "name": "Vuejs Amsterdam",
@@ -43,11 +43,11 @@
     "city": "Amsterdam",
     "country": "Netherlands",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://vuejs.amsterdam/code-of-conduct",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdBbHhAW75hY5hhCqV0NFcyYzo_XuJVROG5tu2ZZ__HlAan3w/viewform",
     "cfpEndDate": "2023-11-01",
-    "twitter": "@vuejsamsterdam",
-    "cocUrl": "https://vuejs.amsterdam/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@vuejsamsterdam"
   },
   {
     "name": "JSworld Conference",
@@ -57,37 +57,9 @@
     "city": "Amsterdam",
     "country": "Netherlands",
     "online": true,
-    "twitter": "@jsworldconf",
+    "locales": "EN",
     "cocUrl": "https://jsworldconference.com/code-of-conduct",
-    "locales": "EN"
-  },
-  {
-    "name": "Devworld Conference",
-    "url": "https://devworldconference.com",
-    "startDate": "2024-02-29",
-    "endDate": "2024-03-01",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSePbiKSSOLKQOJqG65ifQ0KtY1dsqPqA7N0pu9QY1bK1-ciDQ/viewform",
-    "cfpEndDate": "2023-09-30",
-    "twitter": "@devworld_conf",
-    "cocUrl": "https://devworldconference.com/code-of-conduct",
-    "locales": "EN"
-  },
-  {
-    "name": "Open Source Day",
-    "url": "https://2024.osday.dev",
-    "startDate": "2024-03-07",
-    "endDate": "2024-03-08",
-    "city": "Florence",
-    "country": "Italy",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/opensourceday24",
-    "cfpEndDate": "2024-01-31",
-    "twitter": "@schrodinger_hat",
-    "cocUrl": "https://2024.osday.dev/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@jsworldconf"
   },
   {
     "name": "Frontrunners",
@@ -97,11 +69,11 @@
     "city": "Arlington, VA",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://frontrunners.tech/conduct",
     "cfpUrl": "https://www.papercall.io/frontrunners2024",
     "cfpEndDate": "2023-10-20",
-    "twitter": "@frontrunnersdc",
-    "cocUrl": "https://frontrunners.tech/conduct",
-    "locales": "EN"
+    "twitter": "@frontrunnersdc"
   },
   {
     "name": "JavaScript Days - JavaScript, Angular, React, HTML & CSS Days",
@@ -111,9 +83,9 @@
     "city": "Munich",
     "country": "Germany",
     "online": true,
-    "twitter": "@JS_Days",
-    "cocUrl": "https://javascript-days.de/code-of-conduct/",
-    "locales": "DE"
+    "locales": "DE",
+    "cocUrl": "https://javascript-days.de/code-of-conduct",
+    "twitter": "@JS_Days"
   },
   {
     "name": "Fest.dev Krakow JavaScript Conference",
@@ -123,9 +95,9 @@
     "city": "Kraków",
     "country": "Poland",
     "online": false,
-    "twitter": "@devfestconf",
-    "cocUrl": "https://fest.dev/coc/",
-    "locales": "EN"
+    "locales": "EN",
+    "cocUrl": "https://fest.dev/coc",
+    "twitter": "@devfestconf"
   },
   {
     "name": "REACT PARIS",
@@ -135,21 +107,9 @@
     "city": "Paris",
     "country": "France",
     "online": true,
-    "twitter": "@BeJS_",
+    "locales": "EN",
     "cocUrl": "https://www.bejs.io/code-of-conduct",
-    "locales": "EN"
-  },
-  {
-    "name": "CityJS London",
-    "url": "https://london.cityjsconf.org",
-    "startDate": "2024-04-04",
-    "endDate": "2024-04-05",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf6qcmCOYCfUZdsQ6XbxTWV03P7k5rFMXbSoi9FHU9t6l9R9g/viewform",
-    "cfpEndDate": "2023-12-31",
-    "twitter": "@cityjsconf",
-    "cocUrl": "https://london.cityjsconf.org/cfp",
-    "locales": "EN"
+    "twitter": "@BeJS_"
   },
   {
     "name": "Node Congress",
@@ -157,11 +117,11 @@
     "startDate": "2024-04-04",
     "endDate": "2024-04-05",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://portal.gitnation.org/coc",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScLx5ROANCEzC47EdVVDv2hcOxZCMfZjvkPyPdCPWwL9QOCJA/viewform",
     "cfpEndDate": "2024-02-11",
-    "twitter": "@NodeCongress",
-    "cocUrl": "https://portal.gitnation.org/coc",
-    "locales": "EN"
+    "twitter": "@NodeCongress"
   },
   {
     "name": "CityJS London",
@@ -171,11 +131,11 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://london.cityjsconf.org/coc",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf6qcmCOYCfUZdsQ6XbxTWV03P7k5rFMXbSoi9FHU9t6l9R9g/viewform",
     "cfpEndDate": "2023-12-31",
-    "twitter": "@cityjsconf",
-    "cocUrl": "https://london.cityjsconf.org/coc",
-    "locales": "EN"
+    "twitter": "@cityjsconf"
   },
   {
     "name": "International JavaScript Conference London",
@@ -185,21 +145,11 @@
     "city": "London",
     "country": "U.K.",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://javascript-conference.com/code-of-conduct",
     "cfpUrl": "https://callforpapers.sandsmedia.com",
     "cfpEndDate": "2023-10-30",
-    "twitter": "@JavaScriptCon",
-    "cocUrl": "https://javascript-conference.com/code-of-conduct/",
-    "locales": "EN"
-  },
-  {
-    "name": "The XtremeJS Online Conference",
-    "url": "https://xtremejs.dev",
-    "startDate": "2024-04-09",
-    "endDate": "2024-04-09",
-    "online": true,
-    "twitter": "@xtremejsconf",
-    "cocUrl": "http://www.zindell.com/documents/codeofconduct.pdf",
-    "locales": "EN"
+    "twitter": "@JavaScriptCon"
   },
   {
     "name": "Azure Cosmos DB Conf",
@@ -207,11 +157,9 @@
     "startDate": "2024-04-16",
     "endDate": "2024-04-16",
     "online": true,
-    "cfpUrl": "https://aka.ms/AzureCosmosDBConf24CFP",
-    "cfpEndDate": "2024-02-15",
-    "twitter": "@AzureCosmosDB",
-    "cocUrl": "https://developer.microsoft.com/reactor/codeofconduct/",
-    "locales": "EN"
+    "locales": "EN",
+    "cocUrl": "https://developer.microsoft.com/reactor/codeofconduct",
+    "twitter": "@AzureCosmosDB"
   },
   {
     "name": "React Miami",
@@ -221,9 +169,9 @@
     "city": "Miami, FL",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@ReactMiamiConf",
+    "locales": "EN",
     "cocUrl": "https://github.com/React-Miami-Conf/React-Miami-Code-of-Conduct/blob/main/code-of-conduct.md",
-    "locales": "EN"
+    "twitter": "@ReactMiamiConf"
   },
   {
     "name": "Vue.js Live Conference",
@@ -231,11 +179,11 @@
     "startDate": "2024-04-25",
     "endDate": "2024-04-26",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://portal.gitnation.org/coc",
     "cfpUrl": "https://forms.gle/EcuL1hQHRJ3ibPre9",
     "cfpEndDate": "2024-03-15",
-    "twitter": "@VueJSLive",
-    "cocUrl": "https://portal.gitnation.org/coc",
-    "locales": "EN"
+    "twitter": "@VueJSLive"
   },
   {
     "name": "enterJS",
@@ -245,11 +193,9 @@
     "city": "Mainz",
     "country": "Germany",
     "online": false,
-    "cfpUrl": "https://enterjs.de/cfp_en.php",
-    "cfpEndDate": "2023-11-15",
-    "twitter": "@enterjsconf",
+    "locales": "EN,DE",
     "cocUrl": "https://enterjs.de/code_of_conduct.php",
-    "locales": "EN,DE"
+    "twitter": "@enterjsconf"
   },
   {
     "name": "The 11ty International Symposium on Making Web Sites Real Good",
@@ -257,13 +203,23 @@
     "startDate": "2024-05-09",
     "endDate": "2024-05-09",
     "online": true,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://conf.11ty.dev/cfp",
     "cfpUrl": "https://conf.11ty.dev/#speaking",
     "cfpEndDate": "2024-03-22",
     "twitter": "@eleven_ty",
-    "cocUrl": "https://conf.11ty.dev/cfp/",
-    "locales": "EN",
-    "mastodon": "@eleventy@fosstodon.org",
-    "offersSignLanguageOrCC": true
+    "mastodon": "@eleventy@fosstodon.org"
+  },
+  {
+    "name": "React Conf",
+    "url": "https://conf.react.dev",
+    "startDate": "2024-05-15",
+    "endDate": "2024-05-16",
+    "city": "Henderson, NV",
+    "country": "U.S.A.",
+    "online": true,
+    "locales": "EN"
   },
   {
     "name": "International JavaScript Conference",
@@ -273,11 +229,11 @@
     "city": "San Diego, CA",
     "country": "U.S.A.",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://javascript-conference.com/code-of-conduct",
     "cfpUrl": "https://javascript-conference.com/call-for-papers-sd",
     "cfpEndDate": "2024-01-09",
-    "twitter": "@JavaScriptCon",
-    "cocUrl": "https://javascript-conference.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@JavaScriptCon"
   },
   {
     "name": "App.js Conf",
@@ -287,9 +243,9 @@
     "city": "Kraków",
     "country": "Poland",
     "online": true,
-    "twitter": "@appjsconf",
+    "locales": "EN",
     "cocUrl": "https://appjs.co/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@appjsconf"
   },
   {
     "name": "JSHeroes",
@@ -299,11 +255,11 @@
     "city": "Cluj-Napoca",
     "country": "Romania",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://jsheroes.io/coc",
     "cfpUrl": "https://jsheroes.io/speak",
     "cfpEndDate": "2023-12-31",
-    "twitter": "@jsheroes",
-    "cocUrl": "https://jsheroes.io/coc",
-    "locales": "EN"
+    "twitter": "@jsheroes"
   },
   {
     "name": "NG Belgrade Conf",
@@ -313,22 +269,11 @@
     "city": "Belgrade",
     "country": "Serbia",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://angularbelgrade.org/code-of-conduct",
     "cfpUrl": "https://forms.gle/CtiYUbP3JfjyTFzt8",
     "cfpEndDate": "2024-03-01",
-    "twitter": "@AngularBelgrade",
-    "cocUrl": "https://angularbelgrade.org/code-of-conduct",
-    "locales": "EN"
-  },
-  {
-    "name": "Frontend Nation",
-    "url": "https://frontendnation.com",
-    "startDate": "2024-06-04",
-    "endDate": "2024-06-07",
-    "online": true,
-    "cfpUrl": "https://forms.gle/NkmrpzoPESvAawq48",
-    "cfpEndDate": "2024-04-30",
-    "twitter": "@frontendnation",
-    "locales": "EN"
+    "twitter": "@AngularBelgrade"
   },
   {
     "name": "SAP UI5con",
@@ -338,9 +283,9 @@
     "city": "St. Leon-Rot",
     "country": "Germany",
     "online": false,
-    "twitter": "@OpenUI5",
+    "locales": "EN,DE",
     "cocUrl": "https://openui5.org/ui5con/germany2024/codeofconduct.html",
-    "locales": "EN,DE"
+    "twitter": "@OpenUI5"
   },
   {
     "name": "CityJS Athens",
@@ -348,25 +293,11 @@
     "startDate": "2024-06-06",
     "endDate": "2024-06-08",
     "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeoXZyODj4PANOc1oWMuhi4AyB-nuZ3AnEIBoFkuhRgZm3jDg/viewform",
-    "cfpEndDate": "2024-03-31",
-    "twitter": "@cityjsconf",
+    "locales": "EN",
     "cocUrl": "https://athens.cityjsconf.org",
-    "locales": "EN"
-  },
-  {
-    "name": "CityJS Athens",
-    "url": "https://greece.cityjsconf.org",
-    "startDate": "2024-06-06",
-    "endDate": "2024-06-08",
-    "city": "Athens",
-    "country": "Greece",
-    "online": false,
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeoXZyODj4PANOc1oWMuhi4AyB-nuZ3AnEIBoFkuhRgZm3jDg/viewform",
     "cfpEndDate": "2024-03-31",
-    "twitter": "@cityjsconf",
-    "cocUrl": "https://greece.cityjsconf.org/coc",
-    "locales": "EN"
+    "twitter": "@cityjsconf"
   },
   {
     "name": "JSCraftCamp",
@@ -376,22 +307,9 @@
     "city": "Munich",
     "country": "Germany",
     "online": false,
-    "twitter": "@JSCraftCamp",
+    "locales": "EN",
     "cocUrl": "https://jscraftcamp.org/values",
-    "locales": "EN"
-  },
-  {
-    "name": "Big Sky Dev Con",
-    "url": "https://bigskydevcon.com",
-    "startDate": "2024-06-08",
-    "endDate": "2024-06-08",
-    "city": "Bozeman, MT",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeDNjPCp4iRPcs11xPIn6ikJ3QhliCspbN_5n0SsqIBP-tA8w/viewform",
-    "cfpEndDate": "2024-04-01",
-    "twitter": "@BigSkyDevCon",
-    "locales": "EN"
+    "twitter": "@JSCraftCamp"
   },
   {
     "name": "JS Conf Armenia",
@@ -401,11 +319,11 @@
     "city": "Yerevan",
     "country": "Armenia",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://github.com/JSConfArmenia/conf-19/blob/master/CODE_OF_CONDUCT.md",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdccia2sNblqLaCFpwONao35vxpNSkSp6wwoN3lqXpHyKUacA/viewform",
     "cfpEndDate": "2024-05-10",
-    "twitter": "@JSConfAM",
-    "cocUrl": "https://github.com/JSConfArmenia/conf-19/blob/master/CODE_OF_CONDUCT.md",
-    "locales": "EN"
+    "twitter": "@JSConfAM"
   },
   {
     "name": "EuroSTAR Conference",
@@ -415,26 +333,11 @@
     "city": "Stockholm",
     "country": "Sweden",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://conference.eurostarsoftwaretesting.com/anti-harassment-policy",
     "cfpUrl": "https://conference.eurostarsoftwaretesting.com/call-for-submissions",
     "cfpEndDate": "2023-09-17",
-    "twitter": "@esconfs",
-    "cocUrl": "https://conference.eurostarsoftwaretesting.com/anti-harassment-policy/",
-    "locales": "EN"
-  },
-  {
-    "name": "RenderATL",
-    "url": "https://RenderATL.com",
-    "startDate": "2024-06-12",
-    "endDate": "2024-06-14",
-    "city": "Atlanta, GA",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://renderatl.com/cfp",
-    "cfpEndDate": "2023-11-13",
-    "twitter": "@RenderATL",
-    "cocUrl": "https://renderatl.com/code-of-conduct",
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "twitter": "@esconfs"
   },
   {
     "name": "Future Frontend",
@@ -444,9 +347,9 @@
     "city": "Helsinki",
     "country": "Finland",
     "online": false,
-    "twitter": "@future_frontend",
-    "cocUrl": "https://berlincodeofconduct.org/",
-    "locales": "EN"
+    "locales": "EN",
+    "cocUrl": "https://berlincodeofconduct.org",
+    "twitter": "@future_frontend"
   },
   {
     "name": "JSNation",
@@ -456,11 +359,11 @@
     "city": "Amsterdam",
     "country": "Netherlands",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://portal.gitnation.org/coc",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScvcV6bdrNmF0mLKZf9At74MtPQnZazJRqBJfKkOiruyXbHbw/viewform",
     "cfpEndDate": "2024-03-03",
-    "twitter": "@thejsnation",
-    "cocUrl": "https://portal.gitnation.org/coc",
-    "locales": "EN"
+    "twitter": "@thejsnation"
   },
   {
     "name": "React Summit",
@@ -470,10 +373,10 @@
     "city": "Amsterdam",
     "country": "Netherlands",
     "online": true,
+    "locales": "EN",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfeqfjOglU2yyJtVK7AR5gt_tkby8YVXNCCywIMSc9npGlnLA/viewform",
     "cfpEndDate": "2024-03-03",
-    "twitter": "@ReactSummit",
-    "locales": "EN"
+    "twitter": "@ReactSummit"
   },
   {
     "name": "JavaScript fwdays",
@@ -483,11 +386,11 @@
     "city": "Kyiv",
     "country": "Ukraine",
     "online": true,
+    "locales": "EN,UK",
+    "cocUrl": "https://docs.google.com/document/d/12o0ydKmKe6Jw_VgTZF3U6hmI7yzgo5poxXjDzKDLuDw/edit#heading=h.r7izboewrqur",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdP8Zin7kaNw_L32HWONGhXoxbnFalh6Hl0YWxE98qW5l0tFg/viewform",
     "cfpEndDate": "2024-05-15",
-    "twitter": "@fwdays",
-    "cocUrl": "https://docs.google.com/document/d/12o0ydKmKe6Jw_VgTZF3U6hmI7yzgo5poxXjDzKDLuDw/edit#heading=h.r7izboewrqur",
-    "locales": "EN,UK"
+    "twitter": "@fwdays"
   },
   {
     "name": "Micro Frontends Conference",
@@ -495,10 +398,10 @@
     "startDate": "2024-06-17",
     "endDate": "2024-06-17",
     "online": true,
-    "cfpUrl": "https://sessionize.com/micro-frontends-conference-2024",
-    "cfpEndDate": "2024-03-31",
+    "locales": "EN",
     "cocUrl": "https://conference.microfrontends.cloud/code-of-conduct",
-    "locales": "EN"
+    "cfpUrl": "https://sessionize.com/micro-frontends-conference-2024",
+    "cfpEndDate": "2024-03-31"
   },
   {
     "name": "CascadiaJS",
@@ -508,12 +411,24 @@
     "city": "Seattle, WA",
     "country": "U.S.A.",
     "online": true,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://cascadiajs.com/code-of-conduct",
     "cfpUrl": "https://cascadiajs.com/2024/cfp",
     "cfpEndDate": "2024-02-04",
-    "twitter": "@cascadiajs",
-    "cocUrl": "https://cascadiajs.com/code-of-conduct",
+    "twitter": "@cascadiajs"
+  },
+  {
+    "name": "Web Directions Code",
+    "url": "https://webdirections.org/code",
+    "startDate": "2024-06-20",
+    "endDate": "2024-06-21",
+    "city": "Melbourne",
+    "country": "Australia",
+    "online": true,
     "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct",
+    "twitter": "@webdirections"
   },
   {
     "name": "JSConf Budapest",
@@ -523,11 +438,11 @@
     "city": "Budapest",
     "country": "Hungary",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://jsconfbp.com/code-of-conduct",
     "cfpUrl": "https://jsconfbp.com/call-for-papers",
     "cfpEndDate": "2024-01-26",
     "twitter": "@jsconfbp",
-    "cocUrl": "https://jsconfbp.com/code-of-conduct",
-    "locales": "EN",
     "mastodon": "@jsconfbp@mstdn.social"
   },
   {
@@ -536,11 +451,11 @@
     "startDate": "2024-06-27",
     "endDate": "2024-06-27",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://reactandchill.live/code-of-conduct",
     "cfpUrl": "https://forms.office.com/r/7uxfcCmGBE",
     "cfpEndDate": "2024-05-20",
-    "twitter": "@CSharpdotTV",
-    "cocUrl": "https://reactandchill.live/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@CSharpdotTV"
   },
   {
     "name": "dotJS",
@@ -550,11 +465,10 @@
     "city": "Paris",
     "country": "France",
     "online": true,
+    "locales": "EN",
     "cfpUrl": "https://www.dotjs.io/cfp",
     "cfpEndDate": "2024-03-19",
-    "twitter": "@dotjs",
-    "cocUrl": "https://www.dotjs.io/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@dotjs"
   },
   {
     "name": "Coderful - let's talk code",
@@ -564,11 +478,9 @@
     "city": "Catania",
     "country": "Italy",
     "online": false,
-    "cfpUrl": "https://www.coderful.io/speakers",
-    "cfpEndDate": "2024-03-10",
-    "twitter": "@coderful",
-    "cocUrl": "https://www.coderful.io/codice-di-condotta/",
-    "locales": "IT"
+    "locales": "IT",
+    "cocUrl": "https://www.coderful.io/codice-di-condotta",
+    "twitter": "@coderful"
   },
   {
     "name": "Web Summer Camp",
@@ -578,25 +490,11 @@
     "city": "Opatija",
     "country": "Croatia",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://websummercamp.com/2024/code-of-conduct",
     "cfpUrl": "https://sessionize.com/web-summer-camp-2024",
     "cfpEndDate": "2024-03-31",
-    "twitter": "@websummercamp",
-    "cocUrl": "https://websummercamp.com/2024/code-of-conduct",
-    "locales": "EN"
-  },
-  {
-    "name": "WeAreDevelopers - World Congress",
-    "url": "https://www.wearedevelopers.com/world-congress",
-    "startDate": "2024-07-17",
-    "endDate": "2024-07-19",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/wearedevelopers-world-congress-2024",
-    "cfpEndDate": "2024-06-04",
-    "twitter": "@wearedevs",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@websummercamp"
   },
   {
     "name": "Middlesbrough Front End Conference",
@@ -606,9 +504,34 @@
     "city": "Middlesbrough",
     "country": "U.K.",
     "online": false,
-    "twitter": "@middlesbroughfe",
+    "locales": "EN",
     "cocUrl": "https://www.middlesbroughfe.co.uk/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@middlesbroughfe"
+  },
+  {
+    "name": "Chain React",
+    "url": "https://chainreactconf.com",
+    "startDate": "2024-07-17",
+    "endDate": "2024-07-19",
+    "city": "Portland, OR",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@ChainReactConf"
+  },
+  {
+    "name": "WeAreDevelopers - World Congress",
+    "url": "https://www.wearedevelopers.com/world-congress",
+    "startDate": "2024-07-17",
+    "endDate": "2024-07-19",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct",
+    "cfpUrl": "https://sessionize.com/wearedevelopers-world-congress-2024",
+    "cfpEndDate": "2024-06-04",
+    "twitter": "@wearedevs"
   },
   {
     "name": "CityJS Singapore",
@@ -618,8 +541,33 @@
     "city": "Singapore",
     "country": "Singapore",
     "online": false,
-    "twitter": "@cityjsconf",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@cityjsconf"
+  },
+  {
+    "name": "React Rally",
+    "url": "https://reactrally.com",
+    "startDate": "2024-08-12",
+    "endDate": "2024-08-14",
+    "city": "Park City, UT",
+    "country": "U.S.A.",
+    "online": true,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://reactrally.com/conduct",
+    "twitter": "@ReactRally"
+  },
+  {
+    "name": "React Native EU",
+    "url": "https://www.react-native.eu",
+    "startDate": "2024-09-05",
+    "endDate": "2024-09-06",
+    "city": "Wrocław",
+    "country": "Poland",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.react-native.eu/code-of-conduct",
+    "twitter": "@react_native_eu"
   },
   {
     "name": "JSConf Chile",
@@ -629,11 +577,10 @@
     "city": "Santiago",
     "country": "Chile",
     "online": false,
+    "locales": "EN,ES",
     "cfpUrl": "https://www.jsconf.cl/cfp",
     "cfpEndDate": "2024-05-11",
-    "twitter": "@jsconfcl",
-    "cocUrl": "https://github.com/jsconfcl/code_of_conduct",
-    "locales": "EN,ES"
+    "twitter": "@jsconfcl"
   },
   {
     "name": "UtahJS Conf",
@@ -643,11 +590,25 @@
     "city": "Salt Lake City, UT",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://utahjs.com/conduct",
     "cfpUrl": "https://sessionize.com/utahjs-conf-2024",
     "cfpEndDate": "2024-04-07",
-    "twitter": "@utjs",
-    "cocUrl": "https://utahjs.com/conduct",
-    "locales": "EN"
+    "twitter": "@utjs"
+  },
+  {
+    "name": "What The Stack?",
+    "url": "https://wts.sh",
+    "startDate": "2024-09-14",
+    "endDate": "2024-09-14",
+    "city": "Skopje",
+    "country": "North Macedonia",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://github.com/stumpsyn/policies/blob/master/citizen_code_of_conduct.md",
+    "cfpUrl": "https://forms.gle/Yq3WP7dq2o4fEkgE6",
+    "cfpEndDate": "2024-08-01",
+    "twitter": "@what_the_stack"
   },
   {
     "name": "React Alicante",
@@ -655,11 +616,11 @@
     "startDate": "2024-09-19",
     "endDate": "2024-09-21",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://reactalicante.es/code-of-conduct",
     "cfpUrl": "https://docs.google.com/forms/d/1nUMwcXE936ofNSsSxL-AHJ9_75ZfoMgrYEzFz-VmcaQ",
     "cfpEndDate": "2024-03-31",
-    "twitter": "@ReactAlicante",
-    "cocUrl": "https://reactalicante.es/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@ReactAlicante"
   },
   {
     "name": "JSConf Ireland",
@@ -669,11 +630,11 @@
     "city": "Dublin",
     "country": "Ireland",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.jsconf.ie/code-of-conduct",
     "cfpUrl": "https://www.jsconf.ie/call-for-proposals",
     "cfpEndDate": "2024-02-29",
-    "twitter": "@JSConfIE",
-    "cocUrl": "https://www.jsconf.ie/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@JSConfIE"
   },
   {
     "name": "Nordic.js",
@@ -683,9 +644,24 @@
     "city": "Stockholm",
     "country": "Sweden",
     "online": false,
-    "twitter": "@nordicjs",
+    "locales": "EN",
     "cocUrl": "https://nordicjs.com/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@nordicjs"
+  },
+  {
+    "name": "SquiggleConf",
+    "url": "https://squiggleconf.com",
+    "startDate": "2024-10-03",
+    "endDate": "2024-10-04",
+    "city": "Boston, MA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://2024.squiggleconf.com/code-of-conduct",
+    "cfpUrl": "https://cfp.squiggleconf.com",
+    "cfpEndDate": "2024-07-08",
+    "twitter": "@SquiggleConf",
+    "mastodon": "@SquiggleConf@fosstodon.org"
   },
   {
     "name": "International JavaScript Conference New York",
@@ -695,9 +671,77 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@JavaScriptCon",
-    "cocUrl": "https://javascript-conference.com/code-of-conduct/",
-    "locales": "EN"
+    "locales": "EN",
+    "cocUrl": "https://javascript-conference.com/code-of-conduct",
+    "twitter": "@JavaScriptCon"
+  },
+  {
+    "name": "Vuejs.de Conf",
+    "url": "https://conf.vuejs.de",
+    "startDate": "2024-10-08",
+    "endDate": "2024-10-09",
+    "city": "Bonn",
+    "country": "Germany",
+    "online": false,
+    "cocUrl": "https://conf.vuejs.de/code-of-conduct",
+    "twitter": "@vue_js_de"
+  },
+  {
+    "name": "BORDERLESS JS COMMUNITY DAY",
+    "url": "https://wearecommunity.io/events/borderless-js-conference",
+    "startDate": "2024-10-10",
+    "endDate": "2024-10-11",
+    "online": true,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "enterJS React 19 Day",
+    "url": "https://enterjs.de/react.php",
+    "startDate": "2024-10-17",
+    "endDate": "2024-10-17",
+    "online": true,
+    "locales": "DE",
+    "cocUrl": "https://enterjs.de/code_of_conduct.php?source=0"
+  },
+  {
+    "name": "REACT BRUSSELS",
+    "url": "https://www.react.brussels",
+    "startDate": "2024-10-18",
+    "endDate": "2024-10-18",
+    "city": "Brussels",
+    "country": "Belgium",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.bejs.io/code-of-conduct",
+    "cfpUrl": "https://forms.gle/3FaoeNE7hbjeHkGW7",
+    "cfpEndDate": "2024-07-19",
+    "twitter": "@BrusselsReact"
+  },
+  {
+    "name": "React+ fwdays",
+    "url": "https://fwdays.com/event/react-fwdays-2024",
+    "startDate": "2024-10-19",
+    "endDate": "2024-10-19",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "online": true,
+    "locales": "EN,UK",
+    "cfpUrl": "https://forms.gle/5nANUewLt5N5u4hm7",
+    "cfpEndDate": "2024-09-16",
+    "twitter": "@fwdays"
+  },
+  {
+    "name": "Svelte Summit",
+    "url": "https://sveltesummit.com",
+    "startDate": "2024-10-19",
+    "endDate": "2024-10-19",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://github.com/sveltejs/community/blob/main/CODE_OF_CONDUCT.md",
+    "cfpUrl": "https://www.sveltesummit.com/2024/fall/submit",
+    "cfpEndDate": "2024-09-07",
+    "twitter": "@sveltesociety"
   },
   {
     "name": "CypressConf",
@@ -705,11 +749,32 @@
     "startDate": "2024-10-22",
     "endDate": "2024-10-23",
     "online": true,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
     "cfpUrl": "https://forms.gle/Vp7df4UHcCPHL1MCA",
     "cfpEndDate": "2024-04-17",
-    "twitter": "@Cypress_io",
+    "twitter": "@Cypress_io"
+  },
+  {
+    "name": "JetBrains JavaScript Day",
+    "url": "https://jb.gg/JSD24_confs",
+    "startDate": "2024-10-24",
+    "endDate": "2024-10-24",
+    "online": true,
     "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "cocUrl": "https://lp.jetbrains.com/code-of-conduct-events/?_gl=1*keh0mg*_gcl_aw*R0NMLjE3MTg4Mjc0MTYuRUFJYUlRb2JDaE1JOF91a2hidm9oZ01WRXFSYUJSMkNFQS1QRUFFWUFTQUFFZ0lacFBEX0J3RQ..*_gcl_au*MTY0OTk1NTg0NS4xNzIwNDQ5OTc1*_ga*MTQ1MzIwMzk5NS4xNjg5MjYzNTI5*_ga_9J976DJZ68*MTcyNDc2OTM3Ni4zMDEuMC4xNzI0NzY5Mzc4LjU4LjAuMA.."
+  },
+  {
+    "name": "CityJS Medellín",
+    "url": "https://medellin.cityjsconf.org",
+    "startDate": "2024-10-25",
+    "endDate": "2024-10-26",
+    "city": "Medellín",
+    "country": "Colombia",
+    "online": false,
+    "locales": "ES",
+    "cocUrl": "https://medellin.cityjsconf.org/coc",
+    "twitter": "@cityjsconf"
   },
   {
     "name": "React Advanced London",
@@ -719,11 +784,11 @@
     "city": "London",
     "country": "U.K.",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://portal.gitnation.org/coc",
     "cfpUrl": "https://forms.gle/vs8Qk8BJdSjaLFcB7",
     "cfpEndDate": "2024-06-11",
-    "twitter": "@ReactAdvanced",
-    "cocUrl": "https://portal.gitnation.org/coc",
-    "locales": "EN"
+    "twitter": "@ReactAdvanced"
   },
   {
     "name": "Cond42 JavaScript",
@@ -731,39 +796,93 @@
     "startDate": "2024-10-31",
     "endDate": "2024-10-31",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/conf42-javascript-2024",
     "cfpEndDate": "2024-09-30",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@conf42com"
   },
   {
-    "name": "JSNation US",
-    "url": "https://jsnation.us",
-    "startDate": "2024-11-18",
-    "endDate": "2024-11-21",
-    "city": "New York, NY",
-    "country": "U.S.A.",
-    "online": true,
-    "cfpUrl": "https://forms.gle/xu7MJi1GkXTZd8Bi8",
-    "cfpEndDate": "2024-07-01",
-    "twitter": "@thejsnation",
-    "cocUrl": "https://portal.gitnation.org/coc",
-    "locales": "EN"
+    "name": "JSConf México",
+    "url": "https://jsconfmx.org",
+    "startDate": "2024-10-31",
+    "endDate": "2024-11-01",
+    "city": "Guadalajara",
+    "country": "Mexico",
+    "online": false,
+    "locales": "EN,ES",
+    "twitter": "@jsconfmx"
   },
   {
-    "name": "React Summit US",
-    "url": "https://reactsummit.us",
-    "startDate": "2024-11-18",
-    "endDate": "2024-11-21",
-    "city": "New York, NY",
-    "country": "U.S.A.",
+    "name": "WordPress Core Days",
+    "url": "https://events.wordpress.org/rome/2024/coredays",
+    "startDate": "2024-11-08",
+    "endDate": "2024-11-09",
+    "city": "Rome",
+    "country": "Italy",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://events.wordpress.org/rome/2024/coredays/code-of-conduct/",
+    "twitter": "@wp_ita"
+  },
+  {
+    "name": "International JavaScript Conference Munich",
+    "url": "https://javascript-conference.com/munich",
+    "startDate": "2024-11-11",
+    "endDate": "2024-11-15",
+    "city": "Munich",
+    "country": "Germany",
     "online": true,
-    "cfpUrl": "https://forms.gle/aFJk2xHfegCqHW2b9",
-    "cfpEndDate": "2024-07-01",
-    "twitter": "@ReactSummit",
-    "cocUrl": "https://portal.gitnation.org/coc",
-    "locales": "EN"
+    "locales": "EN",
+    "cocUrl": "https://javascript-conference.com/code-of-conduct",
+    "twitter": "@JavaScriptCon"
+  },
+  {
+    "name": "XtremeJS Online Conference",
+    "url": "https://xtremejs.dev",
+    "startDate": "2024-11-12",
+    "endDate": "2024-11-12",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "http://www.zindell.com/documents/codeofconduct.pdf",
+    "cfpUrl": "https://forms.gle/njHm9ah8u8Wqp1Ai6",
+    "cfpEndDate": "2024-09-20",
+    "twitter": "@xtremejsconf"
+  },
+  {
+    "name": "HalfStack London",
+    "url": "https://halfstackconf.com/london",
+    "startDate": "2024-11-13",
+    "endDate": "2024-11-13",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://halfstackconf.com/code-of-conduct",
+    "twitter": "@halfstackconf"
+  },
+  {
+    "name": "React Native London Conference",
+    "url": "https://www.reactnativelondon.co.uk",
+    "startDate": "2024-11-15",
+    "endDate": "2024-11-15",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@RNLConf"
+  },
+  {
+    "name": "CityJS New Delhi",
+    "url": "https://india.cityjsconf.org",
+    "startDate": "2024-11-16",
+    "endDate": "2024-11-17",
+    "city": "Delhi",
+    "country": "India",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://india.cityjsconf.org/coc",
+    "twitter": "@cityjsconf"
   },
   {
     "name": "Connect.Tech",
@@ -773,11 +892,36 @@
     "city": "Atlanta, GA",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
     "cfpUrl": "https://sessionize.com/connect-tech-2024",
     "cfpEndDate": "2024-05-31",
-    "twitter": "@connect_js",
-    "cocUrl": "https://2024.connect.tech/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@connect_js"
+  },
+  {
+    "name": "JSNation US",
+    "url": "https://jsnation.us",
+    "startDate": "2024-11-18",
+    "endDate": "2024-11-21",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://portal.gitnation.org/coc",
+    "twitter": "@thejsnation"
+  },
+  {
+    "name": "React Summit US",
+    "url": "https://reactsummit.us",
+    "startDate": "2024-11-18",
+    "endDate": "2024-11-21",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://portal.gitnation.org/coc",
+    "cfpUrl": "https://forms.gle/aFJk2xHfegCqHW2b9",
+    "cfpEndDate": "2024-07-01",
+    "twitter": "@ReactSummit"
   },
   {
     "name": "International JavaScript Conference",
@@ -787,11 +931,37 @@
     "city": "Singapore",
     "country": "Singapore",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://javascript-conference.com/code-of-conduct",
     "cfpUrl": "https://javascript-conference.com/singapore/call-for-papers-sing",
     "cfpEndDate": "2024-05-13",
-    "twitter": "@JavaScriptCon",
-    "cocUrl": "https://javascript-conference.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@JavaScriptCon"
+  },
+  {
+    "name": "CityJS Athens",
+    "url": "https://athens.cityjsconf.org",
+    "startDate": "2024-11-28",
+    "endDate": "2024-11-29",
+    "city": "Athens",
+    "country": "Greece",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://athens.cityjsconf.org/coc",
+    "twitter": "@cityjsconf"
+  },
+  {
+    "name": "React Africa",
+    "url": "https://react-africa.com",
+    "startDate": "2024-11-29",
+    "endDate": "2024-11-29",
+    "city": "Casablanca",
+    "country": "Morocco",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.bejs.io/code-of-conduct",
+    "cfpUrl": "https://forms.gle/cW8WRHp9DHGhc4kB6",
+    "cfpEndDate": "2024-08-25",
+    "twitter": "@BeJS_"
   },
   {
     "name": "Frontend Barcelona Conference",
@@ -801,10 +971,49 @@
     "city": "Barcelona",
     "country": "Spain",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://frontend.barcelona/code-of-conduct",
     "cfpUrl": "https://frontend.barcelona/call-for-papers",
     "cfpEndDate": "2024-09-30",
-    "twitter": "@frontendbcn",
-    "cocUrl": "https://frontend.barcelona/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@frontendbcn"
+  },
+  {
+    "name": "Armada JS",
+    "url": "https://armada-js.com",
+    "startDate": "2024-12-05",
+    "endDate": "2024-12-06",
+    "city": "Novi Sad",
+    "country": "Serbia",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://armada-js.com/code-of-conduct",
+    "cfpUrl": "https://armada-js.com/call-for-papers",
+    "cfpEndDate": "2024-10-01",
+    "twitter": "@armada_js"
+  },
+  {
+    "name": "JSConf Chile",
+    "url": "https://jsconf.cl",
+    "startDate": "2024-12-05",
+    "endDate": "2024-12-07",
+    "city": "Santiago",
+    "country": "Chile",
+    "online": false,
+    "locales": "ES",
+    "twitter": "@jsconfcl"
+  },
+  {
+    "name": "React Day Berlin",
+    "url": "https://reactday.berlin",
+    "startDate": "2024-12-13",
+    "endDate": "2024-12-16",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://portal.gitnation.org/coc",
+    "cfpUrl": "https://forms.gle/xFDmUHGY1b7hb77c7",
+    "cfpEndDate": "2024-08-12",
+    "twitter": "@reactdayberlin"
   }
 ]

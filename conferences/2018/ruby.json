@@ -140,15 +140,6 @@
     "twitter": "@utrubyhack"
   },
   {
-    "name": "RubyKaigi",
-    "url": "http://rubykaigi.org/2018",
-    "startDate": "2018-05-31",
-    "endDate": "2018-06-02",
-    "city": "Sendai",
-    "country": "Japan",
-    "twitter": "@rubykaigi"
-  },
-  {
     "name": "RubyC",
     "url": "http://rubyc.eu",
     "startDate": "2018-06-02",
@@ -183,15 +174,6 @@
     "city": "Paris",
     "country": "France",
     "twitter": "@parisrb"
-  },
-  {
-    "name": "RubyConf Kenya",
-    "url": "http://rubyconf.nairuby.org/2018",
-    "startDate": "2018-06-28",
-    "endDate": "2018-06-30",
-    "city": "Nairobi",
-    "country": "Kenya",
-    "twitter": "@nairubyke"
   },
   {
     "name": "Brighton Ruby",
@@ -243,17 +225,6 @@
     "twitter": "@euruko"
   },
   {
-    "name": "RubyRussia",
-    "url": "https://rubyrussia.club/en",
-    "startDate": "2018-10-06",
-    "endDate": "2018-10-06",
-    "city": "Moscow",
-    "country": "Russia",
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfHVl62PcA5wiq4GVMG9xSgdu3h3R99xOH0UBuatjDg1ivv2w/viewform",
-    "cfpEndDate": "2018-09-15",
-    "twitter": "@railsclub_ru"
-  },
-  {
     "name": "Ruby Summit China",
     "url": "http://rubysummit.cn",
     "startDate": "2018-10-13",
@@ -267,9 +238,7 @@
     "startDate": "2018-10-25",
     "endDate": "2018-10-26",
     "city": "Kuala Lumpur",
-    "country": "Malaysia",
-    "cfpUrl": "http://rubyconf.my/call-for-proposals/",
-    "cfpEndDate": "2018-07-15"
+    "country": "Malaysia"
   },
   {
     "name": "Keep Ruby Weird",

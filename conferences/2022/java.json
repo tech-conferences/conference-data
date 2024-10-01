@@ -1,30 +1,11 @@
 [
   {
-    "name": "Java Day",
-    "url": "https://www.wearedevelopers.com/event/java-day-1201",
-    "startDate": "2022-01-12",
-    "endDate": "2022-01-12",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/wearedevelopers-live-2022",
-    "cfpEndDate": "2022-01-03"
-  },
-  {
     "name": "JChampionsConf",
     "url": "https://jchampionsconf.com",
     "startDate": "2022-01-20",
     "endDate": "2022-01-25",
     "online": true,
     "twitter": "@JChampionsConf"
-  },
-  {
-    "name": "NVIDIA GTC",
-    "url": "https://www.nvidia.com/gtc",
-    "startDate": "2022-03-21",
-    "endDate": "2022-03-24",
-    "city": "San Jose, CA",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@NVIDIAGTC"
   },
   {
     "name": "Voxxed Days Bucharest",
@@ -34,33 +15,7 @@
     "city": "Bucharest",
     "country": "Romania",
     "online": true,
-    "cfpUrl": "https://vdbuh22.cfp.dev/#",
-    "cfpEndDate": "2022-01-20",
     "twitter": "@VoxxedBucharest"
-  },
-  {
-    "name": "QCon London",
-    "url": "https://qconlondon.com",
-    "startDate": "2022-04-04",
-    "endDate": "2022-04-06",
-    "city": "London",
-    "country": "U.K.",
-    "online": false,
-    "twitter": "@qconlondon",
-    "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "TypeVille",
-    "url": "https://www.typeville.io",
-    "startDate": "2022-04-20",
-    "endDate": "2022-04-22",
-    "city": "Krynica Zdrój",
-    "country": "Poland",
-    "online": false,
-    "cfpUrl": "https://sml.io/typeville",
-    "cfpEndDate": "2022-01-09",
-    "twitter": "@typevilleconf",
-    "cocUrl": "https://www.typeville.io/"
   },
   {
     "name": "JAX Hybrid",
@@ -70,19 +25,10 @@
     "city": "Mainz",
     "country": "Germany",
     "online": true,
+    "cocUrl": "https://jax.de/code-of-conduct-en",
     "cfpUrl": "https://callforpapers.sandsmedia.com",
     "cfpEndDate": "2021-11-15",
-    "twitter": "@jaxcon",
-    "cocUrl": "https://jax.de/code-of-conduct-en/"
-  },
-  {
-    "name": "QCon Plus Online Software Conference",
-    "url": "https://plus.qconferences.com",
-    "startDate": "2022-05-10",
-    "endDate": "2022-05-20",
-    "online": true,
-    "twitter": "@QCon",
-    "offersSignLanguageOrCC": true
+    "twitter": "@jaxcon"
   },
   {
     "name": "Devoxx UK",
@@ -92,8 +38,6 @@
     "city": "London",
     "country": "U.K.",
     "online": true,
-    "cfpUrl": "https://devoxxuk22.cfp.dev/#",
-    "cfpEndDate": "2022-01-28",
     "twitter": "@DevoxxUK"
   },
   {
@@ -104,8 +48,8 @@
     "city": "Zurich",
     "country": "Switzerland",
     "online": false,
-    "twitter": "@voxxedzurich",
-    "cocUrl": "https://voxxeddays.com/zurich/code-of-conduct/"
+    "cocUrl": "https://voxxeddays.com/zurich/code-of-conduct",
+    "twitter": "@voxxedzurich"
   },
   {
     "name": "Spring I/O",
@@ -117,8 +61,7 @@
     "online": false,
     "cfpUrl": "https://www.papercall.io/springio22",
     "cfpEndDate": "2022-03-01",
-    "twitter": "@spring_io",
-    "cocUrl": "https://2022.springio.net/codeofconduct"
+    "twitter": "@spring_io"
   },
   {
     "name": "JavaDay Istanbul",
@@ -133,18 +76,6 @@
     "twitter": "@javadayistanbul"
   },
   {
-    "name": "MakeIT",
-    "url": "https://makeit.si/index.php/en",
-    "startDate": "2022-06-02",
-    "endDate": "2022-06-03",
-    "city": "Portorož",
-    "country": "Slovenia",
-    "online": false,
-    "cfpUrl": "https://makeit.si/index.php/en/conference/cfp-submission-2",
-    "cfpEndDate": "2022-02-28",
-    "twitter": "@makeitconf2022"
-  },
-  {
     "name": "JNation",
     "url": "https://jnation.pt",
     "startDate": "2022-06-07",
@@ -152,10 +83,8 @@
     "city": "Coimbra",
     "country": "Portugal",
     "online": false,
-    "cfpUrl": "https://jnation.pt/cfp",
-    "cfpEndDate": "2022-05-01",
-    "twitter": "@jnationConf",
-    "cocUrl": "https://jnation.pt/code-of-conduct/"
+    "cocUrl": "https://jnation.pt/code-of-conduct",
+    "twitter": "@jnationConf"
   },
   {
     "name": "J-Spring - The NLJUG Java Spring Conference",
@@ -168,41 +97,6 @@
     "twitter": "@nljug"
   },
   {
-    "name": "GOTO Aarhus",
-    "url": "https://gotoaarhus.com",
-    "startDate": "2022-06-13",
-    "endDate": "2022-06-16",
-    "city": "Aarhus",
-    "country": "Denmark",
-    "online": false,
-    "twitter": "@GOTOcon",
-    "cocUrl": "https://gotoaarhus.com/2022/pages/code-of-conduct"
-  },
-  {
-    "name": "WeAreDevelopers World Congress",
-    "url": "https://www.wearedevelopers.com/world-congress/#",
-    "startDate": "2022-06-14",
-    "endDate": "2022-06-15",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/wearedevs2022",
-    "cfpEndDate": "2022-01-31"
-  },
-  {
-    "name": "JCON-PEOPLE",
-    "url": "https://jcon.one",
-    "startDate": "2022-06-21",
-    "endDate": "2022-06-22",
-    "city": "Munich",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://sessionize.com/jcon-2022-people",
-    "cfpEndDate": "2022-03-31",
-    "twitter": "@jcon_conference",
-    "cocUrl": "https://2022.jcon.one/code-of-conduct"
-  },
-  {
     "name": "UberConf",
     "url": "https://uberconf.com",
     "startDate": "2022-07-12",
@@ -210,8 +104,8 @@
     "city": "Denver, CO",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@nofluff",
-    "cocUrl": "https://uberconf.com/home/code_of_conduct"
+    "cocUrl": "https://uberconf.com/home/code_of_conduct",
+    "twitter": "@nofluff"
   },
   {
     "name": "JBCNConf",
@@ -221,8 +115,8 @@
     "city": "Barcelona",
     "country": "Spain",
     "online": false,
-    "twitter": "@jbcnconf",
-    "cocUrl": "https://www.jbcnconf.com/2022/coc.html"
+    "cocUrl": "https://www.jbcnconf.com/2022/coc.html",
+    "twitter": "@jbcnconf"
   },
   {
     "name": "Cloud Builders: Java Conf",
@@ -230,30 +124,7 @@
     "startDate": "2022-08-23",
     "endDate": "2022-08-23",
     "online": true,
-    "twitter": "@cloudbuildersua",
-    "cocUrl": "https://www.cloud-builders.tech/code-of-conduct"
-  },
-  {
-    "name": "Java Forum",
-    "url": "https://events.skillsmatter.com/java-forum-2022",
-    "startDate": "2022-08-31",
-    "endDate": "2022-08-31",
-    "online": true,
-    "twitter": "@skillsmatter",
-    "cocUrl": "https://skillsmatter.com/go/code-of-conduct"
-  },
-  {
-    "name": "Herbstcampus",
-    "url": "https://www.herbstcampus.de",
-    "startDate": "2022-09-06",
-    "endDate": "2022-09-08",
-    "city": "Nürnberg",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://www.herbstcampus.de/cfp.php",
-    "cfpEndDate": "2022-05-09",
-    "twitter": "@Herbstcampus",
-    "cocUrl": "https://www.herbstcampus.de/code_of_conduct.php"
+    "twitter": "@cloudbuildersua"
   },
   {
     "name": "JavaZone",
@@ -263,10 +134,10 @@
     "city": "Oslo",
     "country": "Norway",
     "online": false,
+    "cocUrl": "https://www.java.no/principles#",
     "cfpUrl": "https://2022.javazone.no/#/speakers",
     "cfpEndDate": "2022-04-30",
-    "twitter": "@javazone",
-    "cocUrl": "https://www.java.no/principles#"
+    "twitter": "@javazone"
   },
   {
     "name": "NodeJS One Africa",
@@ -276,58 +147,10 @@
     "city": "Johannesburg",
     "country": "South Africa",
     "online": true,
+    "cocUrl": "https://nodejsone.com/code-of-conduct",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeyo0Du4V5FTGeR2_grPN6vkHUi_UVHBKerTmnh3tjolTUU1Q/viewform",
     "cfpEndDate": "2022-08-01",
-    "twitter": "@nodejsone",
-    "cocUrl": "https://nodejsone.com/code-of-conduct/"
-  },
-  {
-    "name": "Nullcon International Security Conference and Training Goa",
-    "url": "https://nullcon.net/goa-2022",
-    "startDate": "2022-09-09",
-    "endDate": "2022-09-10",
-    "city": "Goa",
-    "country": "India",
-    "online": false,
-    "cfpUrl": "https://nullcon.net/goa-2022/cfp",
-    "cfpEndDate": "2022-06-05",
-    "twitter": "@nullcon",
-    "cocUrl": "https://nullcon.net/about-conferencepolicy/"
-  },
-  {
-    "name": "Infobip Shift",
-    "url": "https://shift.infobip.com",
-    "startDate": "2022-09-19",
-    "endDate": "2022-09-20",
-    "city": "Zadar",
-    "country": "Croatia",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/infobipshift",
-    "cfpEndDate": "2022-07-01",
-    "twitter": "@infobipshift",
-    "cocUrl": "https://shift.infobip.com/code/"
-  },
-  {
-    "name": "JCON-ONLINE",
-    "url": "https://jcon.one",
-    "startDate": "2022-09-20",
-    "endDate": "2022-09-23",
-    "online": true,
-    "cfpUrl": "https://2022.jcon.one/call-for-papers",
-    "cfpEndDate": "2022-03-31",
-    "twitter": "@jcon_conference",
-    "cocUrl": "https://2022.jcon.one/code-of-conduct"
-  },
-  {
-    "name": "WeAreDevelopers Java Day",
-    "url": "https://www.wearedevelopers.com/event/java-day-2109",
-    "startDate": "2022-09-21",
-    "endDate": "2022-09-21",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/wadlive2022",
-    "cfpEndDate": "2022-09-01",
-    "twitter": "@WeAreDevs",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form."
+    "twitter": "@nodejsone"
   },
   {
     "name": "jconf.dev",
@@ -337,29 +160,10 @@
     "city": "Chicago, IL",
     "country": "U.S.A.",
     "online": false,
+    "cocUrl": "https://2022.jconf.dev/codeofconduct",
     "cfpUrl": "https://sessionize.com/jconf-dev-2022",
     "cfpEndDate": "2022-07-05",
-    "twitter": "@jconfdev",
-    "cocUrl": "https://2022.jconf.dev/codeofconduct/"
-  },
-  {
-    "name": "IntelliJ IDEA Conf",
-    "url": "https://pages.jetbrains.com/intellij-idea-conf-2022",
-    "startDate": "2022-09-29",
-    "endDate": "2022-09-30",
-    "online": true,
-    "cocUrl": "https://berlincodeofconduct.org"
-  },
-  {
-    "name": "Git Commit Show",
-    "url": "https://gitcommit.show",
-    "startDate": "2022-10-01",
-    "endDate": "2022-10-02",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdFuHEOT9i5KBEOL56nbwn6HNGpsgGL55JGwwXYFdjC4kqnHw/viewform",
-    "cfpEndDate": "2022-09-30",
-    "twitter": "@gitcommitshow",
-    "cocUrl": "https://docs.google.com/document/d/e/2PACX-1vSJxEQASTam5lfLLzk1ACalGheHzt0R2lDJU3sgOPYaIqmEHXo20LygyF2faESIsxcp2d_wWSA4TI5G/pub"
+    "twitter": "@jconfdev"
   },
   {
     "name": "JAX London",
@@ -372,17 +176,6 @@
     "twitter": "@jaxlondon"
   },
   {
-    "name": "GOTO Copenhagen",
-    "url": "https://gotocph.com",
-    "startDate": "2022-10-03",
-    "endDate": "2022-10-07",
-    "city": "Copenhagen",
-    "country": "Denmark",
-    "online": false,
-    "twitter": "@GOTOcon",
-    "cocUrl": "https://gotocph.com/2022/code-of-conduct"
-  },
-  {
     "name": "Devoxx Morocco",
     "url": "https://devoxx.ma",
     "startDate": "2022-10-04",
@@ -390,8 +183,8 @@
     "city": "Taghazout, Agadir",
     "country": "Morocco",
     "online": false,
-    "twitter": "@DevoxxMA",
-    "cocUrl": "https://devoxx.ma/code-of-conduct/"
+    "cocUrl": "https://devoxx.ma/code-of-conduct",
+    "twitter": "@DevoxxMA"
   },
   {
     "name": "Java Forum Nord",
@@ -401,8 +194,8 @@
     "city": "Hannover",
     "country": "Germany",
     "online": false,
-    "twitter": "@javaforumnord",
-    "cocUrl": "https://javaforumnord.de/site/2022/page/code_of_conduct"
+    "cocUrl": "https://javaforumnord.de/site/2022/page/code_of_conduct",
+    "twitter": "@javaforumnord"
   },
   {
     "name": "JavaOne",
@@ -415,17 +208,6 @@
     "twitter": "@JavaOne"
   },
   {
-    "name": "JCON",
-    "url": "https://jcon.one",
-    "startDate": "2022-10-18",
-    "endDate": "2022-10-21",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/jcon-2022/",
-    "cfpEndDate": "2022-03-31",
-    "twitter": "@jcon_conference",
-    "cocUrl": "https://jcon.one/code-of-conduct"
-  },
-  {
     "name": "Geecon Prague",
     "url": "https://2022.geecon.cz",
     "startDate": "2022-10-24",
@@ -433,8 +215,8 @@
     "city": "Prague",
     "country": "Czech Republic",
     "online": false,
-    "twitter": "@geecon",
-    "cocUrl": "https://2022.geecon.cz/about/"
+    "cocUrl": "https://2022.geecon.cz/about",
+    "twitter": "@geecon"
   },
   {
     "name": "EclipseCon",
@@ -444,65 +226,10 @@
     "city": "Ludwigsburg",
     "country": "Germany",
     "online": false,
+    "cocUrl": "https://www.eclipsecon.org/2022/eclipse-community-events-code-conduct",
     "cfpUrl": "https://www.eclipsecon.org/2022/cfp",
     "cfpEndDate": "2022-06-15",
-    "twitter": "@eclipsecon",
-    "cocUrl": "https://www.eclipsecon.org/2022/eclipse-community-events-code-conduct"
-  },
-  {
-    "name": "Developer Productivity Summit",
-    "url": "https://dpesummit.com",
-    "startDate": "2022-11-02",
-    "endDate": "2022-11-03",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://dpesummit.com/#speakers",
-    "cfpEndDate": "2022-11-01",
-    "twitter": "@dpesummit"
-  },
-  {
-    "name": "Lone Star Software Symposium",
-    "url": "https://nofluffjuststuff.com/austin",
-    "startDate": "2022-11-04",
-    "endDate": "2022-11-06",
-    "city": "Austin, TX",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@nofluff",
-    "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct"
-  },
-  {
-    "name": "W-JAX",
-    "url": "https://jax.de/munich",
-    "startDate": "2022-11-07",
-    "endDate": "2022-11-11",
-    "city": "Munich",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@jaxcon",
-    "cocUrl": "https://jax.de/code-of-conduct-en/"
-  },
-  {
-    "name": "BUILD STUFF",
-    "url": "https://www.buildstuff.events",
-    "startDate": "2022-11-09",
-    "endDate": "2022-11-11",
-    "city": "Vilnius",
-    "country": "Lithuania",
-    "online": true,
-    "twitter": "@BuildStuffConf",
-    "cocUrl": "https://www.buildstuff.events/code-of-conduct"
-  },
-  {
-    "name": "NODES",
-    "url": "https://neo4j.com/nodes-2022",
-    "startDate": "2022-11-16",
-    "endDate": "2022-11-17",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/neo4j-nodes-2022",
-    "cfpEndDate": "2022-08-20",
-    "twitter": "@neo4j"
+    "twitter": "@eclipsecon"
   },
   {
     "name": "JConf Peru",
@@ -515,46 +242,6 @@
     "twitter": "@perujug"
   },
   {
-    "name": "YOW! London",
-    "url": "https://yowlondon.com/2022",
-    "startDate": "2022-11-28",
-    "endDate": "2022-11-30",
-    "city": "London",
-    "country": "U.K.",
-    "online": true,
-    "twitter": "@gotocon",
-    "cocUrl": "https://yowlondon.com/2022/code-of-conduct"
-  },
-  {
-    "name": "INNOQ Technology Day",
-    "url": "https://technologyday.innoq.com",
-    "startDate": "2022-11-30",
-    "endDate": "2022-11-30",
-    "online": true,
-    "twitter": "@INNOQ",
-    "cocUrl": "https://berlincodeofconduct.org/"
-  },
-  {
-    "name": "SpringOne",
-    "url": "https://springone.io",
-    "startDate": "2022-12-06",
-    "endDate": "2022-12-08",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@springone",
-    "cocUrl": "https://springone.io/code-of-conduct"
-  },
-  {
-    "name": "DevTernity",
-    "url": "https://devternity.com",
-    "startDate": "2022-12-08",
-    "endDate": "2022-12-09",
-    "online": true,
-    "twitter": "@devternity",
-    "cocUrl": "https://devternity.com/code_of_conduct.html"
-  },
-  {
     "name": "ArchConf",
     "url": "https://archconf.com",
     "startDate": "2022-12-12",
@@ -562,7 +249,7 @@
     "city": "Clearwater, FL",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@nofluff",
-    "cocUrl": "https://archconf.com/home/code_of_conduct"
+    "cocUrl": "https://archconf.com/home/code_of_conduct",
+    "twitter": "@nofluff"
   }
 ]

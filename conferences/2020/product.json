@@ -53,27 +53,12 @@
     "twitter": "@_ProjectProduct"
   },
   {
-    "name": "Beyond Tech Innovation and Product Development",
-    "url": "https://managementevents.com/events/2905/beyond-tech-innovation-and-product-development/2020/finland/",
-    "startDate": "2020-05-06",
-    "endDate": "2020-05-06",
-    "online": true
-  },
-  {
     "name": "#ProductCon",
-    "url": "https://www.productschool.com/productcon/seattle/",
+    "url": "https://www.productschool.com/productcon/seattle",
     "startDate": "2020-07-09",
     "endDate": "2020-07-09",
     "online": true,
     "twitter": "@productschool"
-  },
-  {
-    "name": "Mind the Product",
-    "url": "https://www.mindtheproduct.com/mtpcon/digital/",
-    "startDate": "2020-07-13",
-    "endDate": "2020-07-15",
-    "online": true,
-    "twitter": "@MindtheProduct"
   },
   {
     "name": "ProductCamp",
@@ -85,7 +70,7 @@
   },
   {
     "name": "#ProductCon",
-    "url": "https://www.productschool.com/productcon/new-york/",
+    "url": "https://www.productschool.com/productcon/new-york",
     "startDate": "2020-09-10",
     "endDate": "2020-09-10",
     "online": true,
@@ -108,7 +93,7 @@
   },
   {
     "name": "Mind the Product",
-    "url": "https://www.mindtheproduct.com/mtpcon/london/",
+    "url": "https://www.mindtheproduct.com/mtpcon/london",
     "startDate": "2020-10-01",
     "endDate": "2020-10-02",
     "city": "London",
@@ -130,12 +115,11 @@
     "endDate": "2020-10-16",
     "city": "Edinburgh",
     "country": "U.K.",
-    "cfpUrl": "https://www.turingfest.com/2020/call-for-speakers",
     "twitter": "@turingfest"
   },
   {
     "name": "#ProductCon",
-    "url": "https://www.productschool.com/productcon/los-angeles/",
+    "url": "https://www.productschool.com/productcon/los-angeles",
     "startDate": "2020-11-05",
     "endDate": "2020-11-05",
     "online": true,
@@ -148,14 +132,5 @@
     "endDate": "2020-11-13",
     "city": "Salt Lake City, UT",
     "country": "U.S.A."
-  },
-  {
-    "name": "La Product Conf",
-    "url": "https://laproductconf.com/lpc-2020/",
-    "startDate": "2020-12-01",
-    "endDate": "2020-12-01",
-    "city": "Paris",
-    "country": "France",
-    "twitter": "@LaProductConf"
   }
 ]

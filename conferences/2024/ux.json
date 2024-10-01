@@ -7,8 +7,8 @@
     "city": "St. Petersburg, FL",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@frontendconf",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@frontendconf"
   },
   {
     "name": "OOP",
@@ -18,8 +18,8 @@
     "city": "Munich",
     "country": "Germany",
     "online": false,
-    "twitter": "@oop_conference",
-    "locales": "DE"
+    "locales": "DE",
+    "twitter": "@oop_conference"
   },
   {
     "name": "International Conference on Machine Learning, IOT and Blockchain",
@@ -29,10 +29,10 @@
     "city": "Dubai",
     "country": "United Arab Emirates",
     "online": false,
-    "cfpUrl": "https://aisca2024.org",
-    "cfpEndDate": "2024-02-10",
+    "locales": "EN",
     "cocUrl": "https://aisca2024.org/mliob/index",
-    "locales": "EN"
+    "cfpUrl": "https://aisca2024.org",
+    "cfpEndDate": "2024-02-10"
   },
   {
     "name": "ConveyUX",
@@ -42,10 +42,10 @@
     "city": "Seattle, WA",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@conveyux",
-    "cocUrl": "https://conveyux.com/code-of-conduct/",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://conveyux.com/code-of-conduct",
+    "twitter": "@conveyux"
   },
   {
     "name": "DDX Innovation & UX Conference",
@@ -60,7 +60,7 @@
   },
   {
     "name": "FOSS Backstage Design",
-    "url": "https://24.foss-backstage.de/foss-backstage-design/",
+    "url": "https://24.foss-backstage.de/foss-backstage-design",
     "startDate": "2024-03-06",
     "endDate": "2024-03-06",
     "city": "Berlin",
@@ -76,11 +76,11 @@
     "city": "Arlington, VA",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://frontrunners.tech/conduct",
     "cfpUrl": "https://www.papercall.io/frontrunners2024",
     "cfpEndDate": "2023-10-20",
-    "twitter": "@frontrunnersdc",
-    "cocUrl": "https://frontrunners.tech/conduct",
-    "locales": "EN"
+    "twitter": "@frontrunnersdc"
   },
   {
     "name": "Fest.dev Krakow JavaScript Conference",
@@ -90,9 +90,9 @@
     "city": "Kraków",
     "country": "Poland",
     "online": false,
-    "twitter": "@devfestconf",
-    "cocUrl": "https://fest.dev/coc/",
-    "locales": "EN"
+    "locales": "EN",
+    "cocUrl": "https://fest.dev/coc",
+    "twitter": "@devfestconf"
   },
   {
     "name": "REACT PARIS",
@@ -102,9 +102,9 @@
     "city": "Paris",
     "country": "France",
     "online": true,
-    "twitter": "@BeJS_",
+    "locales": "EN",
     "cocUrl": "https://www.bejs.io/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@BeJS_"
   },
   {
     "name": "PromptUX",
@@ -132,31 +132,8 @@
     "startDate": "2024-04-23",
     "endDate": "2024-04-25",
     "online": true,
-    "twitter": "@WomenTechNet",
-    "locales": "EN"
-  },
-  {
-    "name": "Leadership Ateliers Barcelona",
-    "url": "https://www.leadershipateliers.com/barcelona",
-    "startDate": "2024-05-06",
-    "endDate": "2024-05-07",
-    "city": "Barcelona",
-    "country": "Spain",
-    "online": false,
-    "twitter": "@hatchconference",
-    "cocUrl": "https://www.leadershipateliers.com/code-of-conduct",
-    "locales": "EN"
-  },
-  {
-    "name": "Leadership Ateliers Berlin",
-    "url": "https://www.leadershipateliers.com/berlin",
-    "startDate": "2024-05-15",
-    "endDate": "2024-05-16",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": false,
-    "twitter": "@hatchconference",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@WomenTechNet"
   },
   {
     "name": "UXLx: User Experience Lisbon",
@@ -166,22 +143,8 @@
     "city": "Lisbon",
     "country": "Portugal",
     "online": false,
-    "twitter": "@uxlx",
-    "locales": "EN"
-  },
-  {
-    "name": "Pixel Pioneers",
-    "url": "https://pixelpioneers.co/events/bristol-2024",
-    "startDate": "2024-06-14",
-    "endDate": "2024-06-14",
-    "city": "Bristol",
-    "country": "U.K.",
-    "online": false,
-    "cfpUrl": "https://pixelpioneers.co/call-for-speakers",
-    "cfpEndDate": "2024-04-15",
-    "twitter": "@pixelpioneers",
-    "cocUrl": "https://pixelpioneers.co/code-of-conduct",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@uxlx"
   },
   {
     "name": "UXPA International Conference",
@@ -191,9 +154,9 @@
     "city": "Fort Lauderdale, FL",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@UXPA_Int",
-    "cocUrl": "https://uxpa2024.org/code-of-conduct/",
-    "locales": "EN"
+    "locales": "EN",
+    "cocUrl": "https://uxpa2024.org/code-of-conduct",
+    "twitter": "@UXPA_Int"
   },
   {
     "name": "Web Summer Camp",
@@ -203,11 +166,11 @@
     "city": "Opatija",
     "country": "Croatia",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://websummercamp.com/2024/code-of-conduct",
     "cfpUrl": "https://sessionize.com/web-summer-camp-2024",
     "cfpEndDate": "2024-03-31",
-    "twitter": "@websummercamp",
-    "cocUrl": "https://websummercamp.com/2024/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@websummercamp"
   },
   {
     "name": "Turing Fest",
@@ -217,9 +180,20 @@
     "city": "Edinburgh",
     "country": "U.K.",
     "online": false,
-    "twitter": "@turingfest",
-    "cocUrl": "https://turingfest.com/code-of-conduct/",
-    "locales": "EN"
+    "locales": "EN",
+    "cocUrl": "https://turingfest.com/code-of-conduct",
+    "twitter": "@turingfest"
+  },
+  {
+    "name": "UX & Product Design Week",
+    "url": "https://futurelondonacademy.co.uk/en/course/ux-and-digital-design",
+    "startDate": "2024-08-06",
+    "endDate": "2024-08-09",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://futurelondonacademy.co.uk/en/course/ux-and-digital-design"
   },
   {
     "name": "Hatch Conference",
@@ -229,9 +203,31 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
-    "twitter": "@hatchconference",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@hatchconference"
+  },
+  {
+    "name": "UIG-Tagung",
+    "url": "https://www.digitalzentrum-fokus-mensch.de/events/uig-tagung-2024",
+    "startDate": "2024-09-05",
+    "endDate": "2024-09-05",
+    "city": "Karlsruhe",
+    "country": "Germany",
+    "online": true,
+    "locales": "DE"
+  },
+  {
+    "name": "UX Y'all",
+    "url": "https://www.uxyall.org",
+    "startDate": "2024-09-19",
+    "endDate": "2024-09-20",
+    "city": "Raleigh, NC",
+    "country": "U.S.A.",
+    "online": true,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://www.uxyall.org/coc"
   },
   {
     "name": "uxcon vienna",
@@ -241,8 +237,53 @@
     "city": "Vienna",
     "country": "Austria",
     "online": true,
-    "twitter": "@uxconvienna",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@uxconvienna"
+  },
+  {
+    "name": "Compass Tech Summit",
+    "url": "https://ti.to/crafthub/compass-tech-summit-2024",
+    "startDate": "2024-10-03",
+    "endDate": "2024-10-04",
+    "city": "Budapest",
+    "country": "Hungary",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@amuseconf"
+  },
+  {
+    "name": "Design It. Build it. (DIBI)",
+    "url": "https://dibiconference.com",
+    "startDate": "2024-10-09",
+    "endDate": "2024-10-10",
+    "city": "Edinburgh",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@dibiconf"
+  },
+  {
+    "name": "Design Matters",
+    "url": "https://designmatters.io",
+    "startDate": "2024-10-23",
+    "endDate": "2024-10-25",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://designmatters.io/wp-content/uploads/sites/24/2023/12/Code-of-Conduct-24.pdf",
+    "twitter": "@designmattersdk"
+  },
+  {
+    "name": "UX Brighton",
+    "url": "https://uxbri.org/2024",
+    "startDate": "2024-11-01",
+    "endDate": "2024-11-01",
+    "city": "Brighton",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@UXbri"
   },
   {
     "name": "PUSH UX",
@@ -253,5 +294,35 @@
     "country": "Germany",
     "online": false,
     "locales": "EN"
+  },
+  {
+    "name": "Savvy UX Summit",
+    "url": "https://www.savvyuxsummit.com",
+    "startDate": "2024-11-07",
+    "endDate": "2024-11-08",
+    "online": true,
+    "locales": "EN"
+  },
+  {
+    "name": "IEEE World Technology Summit",
+    "url": "https://wts.ieee.org",
+    "startDate": "2024-11-12",
+    "endDate": "2024-11-14",
+    "city": "San Jose, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN"
+  },
+  {
+    "name": "MAD Summit",
+    "url": "https://mad-summit.de/berlin",
+    "startDate": "2024-11-25",
+    "endDate": "2024-11-27",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "locales": "DE,EN",
+    "cocUrl": "https://mad-summit.de/code-of-conduct",
+    "twitter": "@mad_summit"
   }
 ]

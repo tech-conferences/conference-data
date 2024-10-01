@@ -1,24 +1,15 @@
 [
   {
-    "name": "Python Day",
-    "url": "https://www.wearedevelopers.com/event/python-day-february-2024",
-    "startDate": "2024-02-21",
-    "endDate": "2024-02-21",
-    "online": true,
-    "twitter": "@WeAreDevs",
-    "locales": "EN"
-  },
-  {
     "name": "Conf42 Python",
     "url": "https://www.conf42.com/python2024",
     "startDate": "2024-02-29",
     "endDate": "2024-02-29",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/conf42-python-2024",
     "cfpEndDate": "2024-01-29",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@conf42com"
   },
   {
     "name": "Chemnitzer Linuxtage",
@@ -28,8 +19,8 @@
     "city": "Chemnitz",
     "country": "Germany",
     "online": false,
-    "twitter": "@clt_news",
-    "locales": "EN,DE"
+    "locales": "EN,DE",
+    "twitter": "@clt_news"
   },
   {
     "name": "PyCon Lithuania",
@@ -39,11 +30,11 @@
     "city": "Vilnius",
     "country": "Lithuania",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://pycon.lt/code-of-conduct",
     "cfpUrl": "https://pycon.lt/2024/call-for-proposals",
     "cfpEndDate": "2024-01-10",
-    "twitter": "@pyconlt",
-    "cocUrl": "https://pycon.lt/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@pyconlt"
   },
   {
     "name": "PyCascades",
@@ -53,11 +44,11 @@
     "city": "Seattle, WA",
     "country": "U.S.A.",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://2024.pycascades.com/about/code-of-conduct",
     "cfpUrl": "https://pretalx.com/pycascades-2024/cfp",
     "cfpEndDate": "2024-01-04",
     "twitter": "@pycascades",
-    "cocUrl": "https://2024.pycascades.com/about/code-of-conduct/",
-    "locales": "EN",
     "mastodon": "@pycascades@fosstodon.org"
   },
   {
@@ -66,11 +57,9 @@
     "startDate": "2024-04-16",
     "endDate": "2024-04-16",
     "online": true,
-    "cfpUrl": "https://aka.ms/AzureCosmosDBConf24CFP",
-    "cfpEndDate": "2024-02-15",
-    "twitter": "@AzureCosmosDB",
-    "cocUrl": "https://developer.microsoft.com/reactor/codeofconduct/",
-    "locales": "EN"
+    "locales": "EN",
+    "cocUrl": "https://developer.microsoft.com/reactor/codeofconduct",
+    "twitter": "@AzureCosmosDB"
   },
   {
     "name": "The XtremePython Online Conference",
@@ -78,9 +67,9 @@
     "startDate": "2024-04-16",
     "endDate": "2024-04-16",
     "online": true,
-    "twitter": "@xtremepython",
+    "locales": "EN",
     "cocUrl": "http://www.zindell.com/documents/codeofconduct.pdf",
-    "locales": "EN"
+    "twitter": "@xtremepython"
   },
   {
     "name": "Python + DS fwdays",
@@ -90,20 +79,20 @@
     "city": "Kyiv",
     "country": "Ukraine",
     "online": true,
+    "locales": "EN,UK",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScnUVAZxseEr8a3p7jUj7D6q-U3LoiFA3Z1I4mAqR0ovUW1-g/viewform",
     "cfpEndDate": "2024-03-20",
-    "twitter": "@fwdays",
-    "locales": "EN,UK"
+    "twitter": "@fwdays"
   },
   {
     "name": "PyCon DE & PyData Berlin",
-    "url": "https://2024.pycon.de/",
+    "url": "https://2024.pycon.de",
     "startDate": "2024-04-22",
     "endDate": "2024-04-24",
     "city": "Berlin",
     "country": "Germany",
-    "twitter": "@PyConDE",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@PyConDE"
   },
   {
     "name": "PyCon Italia",
@@ -113,12 +102,22 @@
     "city": "Florence",
     "country": "Italy",
     "online": true,
+    "locales": "EN,IT",
+    "cocUrl": "https://2024.pycon.it/en/code-of-conduct",
     "cfpUrl": "https://2024.pycon.it/en/call-for-proposals",
     "cfpEndDate": "2024-01-06",
     "twitter": "@pyconit",
-    "cocUrl": "https://2024.pycon.it/en/code-of-conduct",
-    "locales": "EN,IT",
     "mastodon": "@pycon@social.python.it"
+  },
+  {
+    "name": "Pycon Colombia",
+    "url": "https://2024.pycon.co/en",
+    "startDate": "2024-06-07",
+    "endDate": "2024-06-09",
+    "city": "Medellín",
+    "country": "Colombia",
+    "online": false,
+    "locales": "EN, ES"
   },
   {
     "name": "World Conference on Data Science & Statistics",
@@ -138,9 +137,35 @@
     "city": "Munich",
     "country": "Germany",
     "online": true,
-    "twitter": "@mlconference",
-    "cocUrl": "https://mlconference.ai/code-of-conduct/",
-    "locales": "EN"
+    "locales": "EN",
+    "cocUrl": "https://mlconference.ai/code-of-conduct",
+    "twitter": "@mlconference"
+  },
+  {
+    "name": "PyCon Israel",
+    "url": "https://pycon.org.il/2024",
+    "startDate": "2024-09-16",
+    "endDate": "2024-09-16",
+    "online": true,
+    "locales": "EN,HE",
+    "cocUrl": "https://pycon.org.il/2024/pages/code-of-conduct.html#code-of-conduct",
+    "cfpUrl": "https://cfp.pycon.org.il/pycon-2024/cfp",
+    "cfpEndDate": "2024-05-31",
+    "twitter": "@pyconil"
+  },
+  {
+    "name": "Pytorch",
+    "url": "https://events.linuxfoundation.org/pytorch-conference",
+    "startDate": "2024-09-18",
+    "endDate": "2024-09-19",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://events.linuxfoundation.org/pytorch-conference/attend/code-of-conduct",
+    "cfpUrl": "https://events.linuxfoundation.org/pytorch-conference/program/cfp",
+    "cfpEndDate": "2024-06-07",
+    "twitter": "@PyTorch"
   },
   {
     "name": "data2day",
@@ -150,11 +175,21 @@
     "city": "Heidelberg",
     "country": "Germany",
     "online": false,
+    "locales": "DE",
+    "cocUrl": "https://www.data2day.de/code_of_conduct.php?source=0",
     "cfpUrl": "https://www.data2day.de/cfp.php",
     "cfpEndDate": "2024-03-18",
-    "twitter": "@data2day",
-    "cocUrl": "https://www.data2day.de/code_of_conduct.php?source=0",
-    "locales": "DE"
+    "twitter": "@data2day"
+  },
+  {
+    "name": "Pycon Latam",
+    "url": "https://www.pylatam.org",
+    "startDate": "2024-09-19",
+    "endDate": "2024-09-22",
+    "city": "Mazatlán",
+    "country": "Mexico",
+    "online": false,
+    "locales": "ES"
   },
   {
     "name": "PyCon India",
@@ -164,11 +199,23 @@
     "city": "Bengaluru",
     "country": "India",
     "online": false,
+    "locales": "EN",
     "cfpUrl": "https://in.pycon.org/cfp/2024/proposals",
     "cfpEndDate": "2024-05-31",
-    "twitter": "@pyconindia",
-    "cocUrl": "https://in.pycon.org/2024/coc.html",
-    "locales": "EN"
+    "twitter": "@pyconindia"
+  },
+  {
+    "name": "PyBay",
+    "url": "https://pybay.org",
+    "startDate": "2024-09-21",
+    "endDate": "2024-09-21",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://pybay.org/code-of-conduct/",
+    "twitter": "@py_bay",
+    "mastodon": "@pybay@fosstodon.org"
   },
   {
     "name": "DjangoCon US",
@@ -178,12 +225,24 @@
     "city": "Durham, NC",
     "country": "U.S.A.",
     "online": true,
-    "cfpUrl": "https://2024.djangocon.us/speaking/",
+    "locales": "EN",
+    "cocUrl": "https://github.com/djangocon/2024.djangocon.us/blob/main/CODE_OF_CONDUCT.md",
+    "cfpUrl": "https://2024.djangocon.us/speaking",
     "cfpEndDate": "2024-04-24",
     "twitter": "@djangocon",
-    "cocUrl": "https://github.com/djangocon/2024.djangocon.us/blob/main/CODE_OF_CONDUCT.md",
-    "locales": "EN",
     "mastodon": "@djangocon@fosstodon.org"
+  },
+  {
+    "name": "Django Day",
+    "url": "https://2024.djangoday.dk",
+    "startDate": "2024-10-04",
+    "endDate": "2024-10-04",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@djangodenmark",
+    "mastodon": "@djangodenmark@fosstodon.org"
   },
   {
     "name": "dotPy",
@@ -193,11 +252,33 @@
     "city": "Paris",
     "country": "France",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.dotpy.io/code-of-conduct",
     "cfpUrl": "https://www.dotpy.io/cfp",
     "cfpEndDate": "2024-04-30",
-    "twitter": "@dotpy_io",
-    "cocUrl": "https://www.dotpy.io/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@dotpy_io"
+  },
+  {
+    "name": "Python Brasil",
+    "url": "https://2024.pythonbrasil.org.br",
+    "startDate": "2024-10-16",
+    "endDate": "2024-10-21",
+    "city": "Rio De Janeiro",
+    "country": "Brazil",
+    "online": false,
+    "locales": "EN,ES",
+    "cocUrl": "https://apyb.python.org.br/pythonbrasil/cdc",
+    "twitter": "@pythonbrasil"
+  },
+  {
+    "name": "PyConFR",
+    "url": "https://www.pycon.fr/2024",
+    "startDate": "2024-10-31",
+    "endDate": "2024-11-03",
+    "online": true,
+    "locales": "EN,FR",
+    "cocUrl": "https://www.pycon.fr/2024/en/conduct.html",
+    "twitter": "@pyconfr"
   },
   {
     "name": "NODES",
@@ -205,9 +286,30 @@
     "startDate": "2024-11-07",
     "endDate": "2024-11-07",
     "online": true,
+    "locales": "EN",
     "cfpUrl": "https://sessionize.com/nodes-2024",
     "cfpEndDate": "2024-06-15",
-    "twitter": "@neo4j",
-    "locales": "EN"
+    "twitter": "@neo4j"
+  },
+  {
+    "name": "Xtreme Python",
+    "url": "https://xtremepython.dev/2024",
+    "startDate": "2024-11-19",
+    "endDate": "2024-11-19",
+    "online": true,
+    "locales": "EN",
+    "twitter": "@xtremejsconf"
+  },
+  {
+    "name": "XtremePython Online Conference",
+    "url": "https://xtremepython.dev",
+    "startDate": "2024-11-19",
+    "endDate": "2024-11-19",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "http://www.zindell.com/documents/codeofconduct.pdf",
+    "cfpUrl": "https://forms.gle/njHm9ah8u8Wqp1Ai6",
+    "cfpEndDate": "2024-09-20",
+    "twitter": "@xtremepython"
   }
 ]

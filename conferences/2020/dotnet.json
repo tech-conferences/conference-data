@@ -42,7 +42,7 @@
     "endDate": "2020-04-18",
     "city": "Kyiv",
     "country": "Ukraine",
-    "twitter": "@dotnet_fwdays, @fwdays"
+    "twitter": "@fwdays"
   },
   {
     "name": "Microsoft Build - Digital",
@@ -54,7 +54,7 @@
   },
   {
     "name": ".NET Conf: Focus on Microservices",
-    "url": "https://focus.dotnetconf.net/",
+    "url": "https://focus.dotnetconf.net",
     "startDate": "2020-07-30",
     "endDate": "2020-07-30",
     "online": true
@@ -116,9 +116,7 @@
     "startDate": "2020-10-16",
     "endDate": "2020-10-17",
     "city": "Novosibirsk",
-    "country": "Russia",
-    "cfpUrl": "https://hardfest.ru/en/#rec216142907",
-    "cfpEndDate": "2020-09-14"
+    "country": "Russia"
   },
   {
     "name": ".NET DeveloperDays",
@@ -131,22 +129,11 @@
     "twitter": "@DeveloperDaysPL"
   },
   {
-    "name": "F# Europe",
-    "url": "https://fsharp.eu/2020",
-    "startDate": "2020-11-05",
-    "endDate": "2020-11-06",
-    "city": "Brussels",
-    "country": "Belgium",
-    "twitter": "@fsharp_eu"
-  },
-  {
     "name": ".NET Conf",
     "url": "https://dotnetconf.net",
     "startDate": "2020-11-10",
     "endDate": "2020-11-12",
-    "online": true,
-    "cfpUrl": "https://www.papercall.io/dotnetconf",
-    "cfpEndDate": "2020-09-13"
+    "online": true
   },
   {
     "name": "Update Now",
@@ -171,9 +158,9 @@
     "startDate": "2020-11-30",
     "endDate": "2020-12-02",
     "online": true,
-    "twitter": "@apisummit_de",
-    "cocUrl": "https://api-summit.de/",
-    "offersSignLanguageOrCC": false
+    "offersSignLanguageOrCC": false,
+    "cocUrl": "https://api-summit.de",
+    "twitter": "@apisummit_de"
   },
   {
     "name": "betterCode .Net 5.0",
@@ -181,9 +168,8 @@
     "startDate": "2020-12-03",
     "endDate": "2020-12-03",
     "online": true,
-    "twitter": "@bettercodeconf",
-    "cocUrl": "https://net50.bettercode.eu/code_of_conduct.php",
-    "offersSignLanguageOrCC": false
+    "offersSignLanguageOrCC": false,
+    "twitter": "@bettercodeconf"
   },
   {
     "name": "Dev Intersection",

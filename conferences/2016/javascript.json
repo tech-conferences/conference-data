@@ -8,14 +8,6 @@
     "country": "U.S.A."
   },
   {
-    "name": "ForwardJS",
-    "url": "http://forwardjs.com/summit",
-    "startDate": "2016-02-10",
-    "endDate": "2016-02-10",
-    "city": "San Francisco, CA",
-    "country": "U.S.A."
-  },
-  {
     "name": "Devnexus",
     "url": "https://www.devnexus.com",
     "startDate": "2016-02-15",
@@ -38,21 +30,6 @@
     "endDate": "2016-02-23",
     "city": "San Francisco, CA",
     "country": "U.S.A."
-  },
-  {
-    "name": "JavaScript Summit",
-    "url": "http://environmentsforhumans.com/2016/javascript-summit",
-    "startDate": "2016-02-23",
-    "endDate": "2016-02-25",
-    "online": true
-  },
-  {
-    "name": "EnhanceConf",
-    "url": "http://enhanceconf.com/index.html",
-    "startDate": "2016-03-04",
-    "endDate": "2016-03-04",
-    "city": "London",
-    "country": "U.K."
   },
   {
     "name": "Fluent",
@@ -143,14 +120,6 @@
     "country": "Germany"
   },
   {
-    "name": "jsconf.be",
-    "url": "https://jsconf.be/en",
-    "startDate": "2016-05-03",
-    "endDate": "2016-05-03",
-    "city": "Bruges",
-    "country": "Belgium"
-  },
-  {
     "name": "ng-conf",
     "url": "http://www.ng-conf.org",
     "startDate": "2016-05-04",
@@ -189,14 +158,6 @@
     "endDate": "2016-05-20",
     "city": "Warsaw",
     "country": "Poland"
-  },
-  {
-    "name": "PhoneGap Day EU",
-    "url": "http://pgday.phonegap.com/eu2016",
-    "startDate": "2016-05-19",
-    "endDate": "2016-05-20",
-    "city": "Amsterdam",
-    "country": "Netherlands"
   },
   {
     "name": "Frontend United",
@@ -271,14 +232,6 @@
     "country": "Poland"
   },
   {
-    "name": "CSSDay",
-    "url": "http://cssday.nl/2016",
-    "startDate": "2016-06-16",
-    "endDate": "2016-06-17",
-    "city": "Amsterdam",
-    "country": "Netherlands"
-  },
-  {
     "name": "NodePDX",
     "url": "http://nodepdx.org",
     "startDate": "2016-06-19",
@@ -319,14 +272,6 @@
     "country": "Spain"
   },
   {
-    "name": "FullStack",
-    "url": "https://skillsmatter.com/conferences/7278-fullstack#overview",
-    "startDate": "2016-07-13",
-    "endDate": "2016-07-15",
-    "city": "London",
-    "country": "U.K."
-  },
-  {
     "name": "JSinSA",
     "url": "http://www.jsinsa.com",
     "startDate": "2016-07-16",
@@ -335,28 +280,12 @@
     "country": "South Africa"
   },
   {
-    "name": "Front Porch Austin, TX",
-    "url": "http://frontporch.io/austin",
-    "startDate": "2016-07-19",
-    "endDate": "2016-07-19",
-    "city": "Austin, TX",
-    "country": "U.S.A."
-  },
-  {
     "name": "Node Summit",
     "url": "http://nodesummit.com",
     "startDate": "2016-07-26",
     "endDate": "2016-07-28",
     "city": "San Francisco, CA",
     "country": "U.S.A."
-  },
-  {
-    "name": "Code - Sydney",
-    "url": "http://www.webdirections.org/code16/#Sydney",
-    "startDate": "2016-07-28",
-    "endDate": "2016-07-29",
-    "city": "Sydney",
-    "country": "Australia"
   },
   {
     "name": "ForwardJS",
@@ -375,14 +304,6 @@
     "country": "U.S.A."
   },
   {
-    "name": "Code - Melbourne",
-    "url": "http://www.webdirections.org/code16",
-    "startDate": "2016-08-01",
-    "endDate": "2016-08-02",
-    "city": "Melbourne",
-    "country": "Australia"
-  },
-  {
     "name": "Midwest JS",
     "url": "http://midwestjs.com",
     "startDate": "2016-08-10",
@@ -397,14 +318,6 @@
     "endDate": "2016-08-26",
     "city": "Reykjavík",
     "country": "Iceland"
-  },
-  {
-    "name": "React Rally",
-    "url": "http://www.reactrally.com/#",
-    "startDate": "2016-08-25",
-    "endDate": "2016-08-26",
-    "city": "Salt Lake City, UT",
-    "country": "U.S.A."
   },
   {
     "name": "NeJS Conf",
@@ -471,14 +384,6 @@
     "country": "Sweden"
   },
   {
-    "name": "Smashing Conference",
-    "url": "http://smashingconf.com/freiburg-2016",
-    "startDate": "2016-09-12",
-    "endDate": "2016-09-13",
-    "city": "Freiburg",
-    "country": "Germany"
-  },
-  {
     "name": "ReactNext",
     "url": "http://react-next.com",
     "startDate": "2016-09-15",
@@ -511,14 +416,6 @@
     "country": "India"
   },
   {
-    "name": "Node.js Interactive Europe",
-    "url": "http://events.linuxfoundation.org/events/node-interactive-europe",
-    "startDate": "2016-09-15",
-    "endDate": "2016-09-16",
-    "city": "Amsterdam",
-    "country": "Netherlands"
-  },
-  {
     "name": "Northeast JavaScript Conference",
     "url": "http://www.northeastjsconference.com",
     "startDate": "2016-09-15",
@@ -549,14 +446,6 @@
     "endDate": "2016-09-29",
     "city": "Paris",
     "country": "France"
-  },
-  {
-    "name": "Web Unleashed",
-    "url": "http://fitc.ca/event/webu16",
-    "startDate": "2016-10-03",
-    "endDate": "2016-10-04",
-    "city": "Toronto",
-    "country": "Canada"
   },
   {
     "name": "JSConf Colombia",
@@ -599,22 +488,6 @@
     "country": "Italy"
   },
   {
-    "name": "JSDC.tw",
-    "url": "http://2016.jsdc.tw/en",
-    "startDate": "2016-10-22",
-    "endDate": "2016-10-23",
-    "city": "Taipei",
-    "country": "Taiwan"
-  },
-  {
-    "name": "Smashing Conference",
-    "url": "http://smashingconf.com/barcelona-2016",
-    "startDate": "2016-10-25",
-    "endDate": "2016-10-26",
-    "city": "Barcelona",
-    "country": "Spain"
-  },
-  {
     "name": "ng-europe",
     "url": "https://ngeurope.org",
     "startDate": "2016-10-25",
@@ -645,14 +518,6 @@
     "endDate": "2016-11-04",
     "city": "Oklahoma City, OK",
     "country": "U.S.A."
-  },
-  {
-    "name": "Beyond Tellerrand",
-    "url": "https://beyondtellerrand.com/events/berlin-2016",
-    "startDate": "2016-11-07",
-    "endDate": "2016-11-09",
-    "city": "Berlin",
-    "country": "Germany"
   },
   {
     "name": "ffconf",
@@ -727,14 +592,6 @@
     "country": "Germany"
   },
   {
-    "name": "Node.js Interactive US",
-    "url": "http://events.linuxfoundation.org/events/node-interactive",
-    "startDate": "2016-11-29",
-    "endDate": "2016-11-30",
-    "city": "Austin, TX",
-    "country": "U.S.A."
-  },
-  {
     "name": "JSConf Australia",
     "url": "http://2016.jsconfau.com",
     "startDate": "2016-12-01",
@@ -749,14 +606,6 @@
     "endDate": "2016-12-05",
     "city": "Paris",
     "country": "France"
-  },
-  {
-    "name": "Most JS Frameworks Day",
-    "url": "http://frameworksdays.com/event/most-js-fwdays-2016",
-    "startDate": "2016-12-04",
-    "endDate": "2016-12-04",
-    "city": "Kyiv",
-    "country": "Ukraine"
   },
   {
     "name": "HolyJS",

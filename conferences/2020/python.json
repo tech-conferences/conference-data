@@ -41,9 +41,7 @@
     "startDate": "2020-06-12",
     "endDate": "2020-06-15",
     "city": "Amsterdam",
-    "country": "Netherlands",
-    "cfpUrl": "https://amsterdam.pydata.org/pages/cfp",
-    "cfpEndDate": "2020-03-29"
+    "country": "Netherlands"
   },
   {
     "name": "EuroPython",
@@ -51,8 +49,6 @@
     "startDate": "2020-07-23",
     "endDate": "2020-07-26",
     "online": true,
-    "cfpUrl": "https://ep2020.europython.eu/call-for-proposals/",
-    "cfpEndDate": "2020-04-12",
     "twitter": "@europython"
   },
   {
@@ -80,8 +76,6 @@
     "startDate": "2020-09-04",
     "endDate": "2020-09-06",
     "online": true,
-    "cfpUrl": "https://2020.pycon.org.au/speak",
-    "cfpEndDate": "2020-07-12",
     "twitter": "@pyconau"
   },
   {
@@ -148,7 +142,7 @@
   },
   {
     "name": "PyCon Italy",
-    "url": "https://www.pycon.it/en/",
+    "url": "https://www.pycon.it/en",
     "startDate": "2020-11-05",
     "endDate": "2020-11-08",
     "city": "Florence",
@@ -171,9 +165,7 @@
     "startDate": "2020-11-13",
     "endDate": "2020-11-14",
     "city": "Novosibirsk",
-    "country": "Russia",
-    "cfpUrl": "https://hardfest.ru/en#rec216142907",
-    "cfpEndDate": "2020-10-12"
+    "country": "Russia"
   },
   {
     "name": "Python WEB Global Summit",
@@ -199,10 +191,10 @@
     "startDate": "2020-12-05",
     "endDate": "2020-12-06",
     "online": true,
+    "offersSignLanguageOrCC": false,
+    "cocUrl": "https://pyconf.hydpy.org/2020/coc.html",
     "cfpUrl": "https://www.papercall.io/pyconf-hyd-2020",
     "cfpEndDate": "2020-11-08",
-    "twitter": "@pyconfhyd",
-    "cocUrl": "https://pyconf.hydpy.org/2020/coc.html",
-    "offersSignLanguageOrCC": false
+    "twitter": "@pyconfhyd"
   }
 ]

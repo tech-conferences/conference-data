@@ -1,18 +1,5 @@
 [
   {
-    "name": "TypeVille",
-    "url": "https://www.typeville.io",
-    "startDate": "2022-04-20",
-    "endDate": "2022-04-22",
-    "city": "Krynica Zdrój",
-    "country": "Poland",
-    "online": false,
-    "cfpUrl": "https://sml.io/typeville",
-    "cfpEndDate": "2022-01-09",
-    "twitter": "@typevilleconf",
-    "cocUrl": "https://www.typeville.io/"
-  },
-  {
     "name": "TS Congress",
     "url": "https://typescriptcongress.com",
     "startDate": "2022-04-29",
@@ -20,98 +7,7 @@
     "online": true,
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScq-aWVf_oGvLdstVdsKJAfWzxpAsWoQNz_KrrGN2gqfASQ1A/viewform",
     "cfpEndDate": "2022-03-01",
-    "twitter": "@ts_congress",
-    "cocUrl": "https://typescriptcongress.com/coc"
-  },
-  {
-    "name": "Render-Atlanta (RenderATL)",
-    "url": "https://www.renderatl.com",
-    "startDate": "2022-06-01",
-    "endDate": "2022-06-04",
-    "city": "Atlanta, GA",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@RenderATL",
-    "cocUrl": "RenderATL.com/thecode",
-    "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "App.js Conf",
-    "url": "https://appjs.co",
-    "startDate": "2022-06-08",
-    "endDate": "2022-06-10",
-    "city": "Kraków",
-    "country": "Poland",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/1-TUgnCqqGsTufBv2W5Nn8rXzoBg7qpBZKoQT0qKp7jA/edit",
-    "cfpEndDate": "2022-02-22",
-    "twitter": "@appjsconf",
-    "cocUrl": "https://appjs.co/Code-of-Conduct.pdf",
-    "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "Prisma Day",
-    "url": "https://www.prisma.io/day",
-    "startDate": "2022-06-15",
-    "endDate": "2022-06-16",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "cfpUrl": "https://prisma103696.typeform.com/to/Gm9zMrKA",
-    "cfpEndDate": "2022-04-25",
-    "twitter": "@prisma",
-    "cocUrl": "https://github.com/prisma/prisma/blob/main/CODE_OF_CONDUCT.md"
-  },
-  {
-    "name": "React Summit",
-    "url": "https://reactsummit.com",
-    "startDate": "2022-06-17",
-    "endDate": "2022-06-21",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfVG_bNAebxhlERx1do33ekcmkLx25f1wh478MPv2CW6UvMlw/viewform",
-    "cfpEndDate": "2022-03-20",
-    "twitter": "@ReactSummit",
-    "cocUrl": "https://reactsummit.com/coc"
-  },
-  {
-    "name": "FullStack eXchange",
-    "url": "https://skillsmatter.com/conferences/13770-fullstack-exchange-2022",
-    "startDate": "2022-07-27",
-    "endDate": "2022-07-28",
-    "city": "London",
-    "country": "U.K.",
-    "online": true,
-    "cfpUrl": "https://skillsmatter.com/conferences/13727-fullstack-exchange-online#get_involved",
-    "cfpEndDate": "2022-04-28",
-    "twitter": "@skillsmatter",
-    "cocUrl": "https://skillsmatter.com/go/code-of-conduct"
-  },
-  {
-    "name": "CascadiaJS",
-    "url": "https://2022.cascadiajs.com",
-    "startDate": "2022-08-30",
-    "endDate": "2022-09-02",
-    "city": "Bend, OR",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@cascadiajs",
-    "cocUrl": "https://2022.cascadiajs.com/code-of-conduct",
-    "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "Infobip Shift",
-    "url": "https://shift.infobip.com",
-    "startDate": "2022-09-19",
-    "endDate": "2022-09-20",
-    "city": "Zadar",
-    "country": "Croatia",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/infobipshift",
-    "cfpEndDate": "2022-07-01",
-    "twitter": "@infobipshift",
-    "cocUrl": "https://shift.infobip.com/code/"
+    "twitter": "@ts_congress"
   },
   {
     "name": "International JavaScript Conference",
@@ -131,8 +27,8 @@
     "city": "Tempe, AZ",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@NxDevTools",
-    "cocUrl": "https://docs.google.com/document/d/1biFWD08Wrd99gRZNv4Q1tawEYGZEI3bd3J55E5uG2ZU/edit"
+    "cocUrl": "https://docs.google.com/document/d/1biFWD08Wrd99gRZNv4Q1tawEYGZEI3bd3J55E5uG2ZU/edit",
+    "twitter": "@NxDevTools"
   },
   {
     "name": "Front Stage",
@@ -148,49 +44,7 @@
     "startDate": "2022-11-09",
     "endDate": "2022-11-10",
     "online": true,
-    "twitter": "@fwdays",
-    "cocUrl": "https://fwdays.com/en/page/code-of-conduct"
-  },
-  {
-    "name": "BUILD STUFF",
-    "url": "https://www.buildstuff.events",
-    "startDate": "2022-11-09",
-    "endDate": "2022-11-11",
-    "city": "Vilnius",
-    "country": "Lithuania",
-    "online": true,
-    "twitter": "@BuildStuffConf",
-    "cocUrl": "https://www.buildstuff.events/code-of-conduct"
-  },
-  {
-    "name": "Update Conference Prague",
-    "url": "https://www.updateconference.net",
-    "startDate": "2022-11-10",
-    "endDate": "2022-11-11",
-    "city": "Prague",
-    "country": "Czech Republic",
-    "online": true,
-    "cfpUrl": "https://www.updateconference.net/2022/call-for-speakers",
-    "cfpEndDate": "2022-06-26",
-    "twitter": "@update_conf",
-    "cocUrl": "https://www.updateconference.net/en/code-of-conduct"
-  },
-  {
-    "name": "enterJS Web-Performance Day",
-    "url": "https://enterjs.de/web-performance.php",
-    "startDate": "2022-12-01",
-    "endDate": "2022-12-01",
-    "online": true,
-    "twitter": "@enterjsconf",
-    "cocUrl": "https://enterjs.de/code_of_conduct.php"
-  },
-  {
-    "name": "DevTernity",
-    "url": "https://devternity.com",
-    "startDate": "2022-12-08",
-    "endDate": "2022-12-09",
-    "online": true,
-    "twitter": "@devternity",
-    "cocUrl": "https://devternity.com/code_of_conduct.html"
+    "cocUrl": "https://fwdays.com/en/page/code-of-conduct",
+    "twitter": "@fwdays"
   }
 ]

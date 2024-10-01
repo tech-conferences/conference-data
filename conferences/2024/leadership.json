@@ -7,8 +7,8 @@
     "city": "Munich",
     "country": "Germany",
     "online": false,
-    "twitter": "@oop_conference",
-    "locales": "DE"
+    "locales": "DE",
+    "twitter": "@oop_conference"
   },
   {
     "name": "CYSEC Qatar",
@@ -21,18 +21,6 @@
     "locales": "EN"
   },
   {
-    "name": "FlowCon",
-    "url": "https://www.flowcon.fr",
-    "startDate": "2024-03-06",
-    "endDate": "2024-03-07",
-    "city": "Paris",
-    "country": "France",
-    "online": false,
-    "twitter": "@FlowConFR",
-    "cocUrl": "https://www.flowcon.fr/code-of-conduct/",
-    "locales": "EN,FR"
-  },
-  {
     "name": "Internet 2.0 Conference USA",
     "url": "https://www.internet2conf.com",
     "startDate": "2024-03-18",
@@ -40,8 +28,8 @@
     "city": "Las Vegas, NV",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@internet2conf",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@internet2conf"
   },
   {
     "name": "Soft Skills fwdays",
@@ -51,10 +39,10 @@
     "city": "Kyiv",
     "country": "Ukraine",
     "online": true,
+    "locales": "EN,UK",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc7W71NKgvDa9K87QhGjv_B-T7n4XhFQgCcplAkUK6vSCVguA/viewform",
     "cfpEndDate": "2024-02-22",
-    "twitter": "@fwdays",
-    "locales": "EN,UK"
+    "twitter": "@fwdays"
   },
   {
     "name": "Women Techmakers Montreal",
@@ -64,11 +52,11 @@
     "city": "Montreal",
     "country": "Canada",
     "online": false,
+    "locales": "EN,FR",
+    "cocUrl": "https://wtmmontreal.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/wtmmontreal2024",
     "cfpEndDate": "2024-02-23",
-    "twitter": "@WTM_Montreal",
-    "cocUrl": "https://wtmmontreal.com/code-of-conduct/",
-    "locales": "EN,FR"
+    "twitter": "@WTM_Montreal"
   },
   {
     "name": "Enterprise Technology Leadership Summit Europe",
@@ -76,11 +64,11 @@
     "startDate": "2024-04-24",
     "endDate": "2024-04-25",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://doesvirtual.itrevolution.com/code-of-conduct",
     "cfpUrl": "https://sessionize.com/enterprise-tech-leadership-summit-virtual-2024",
     "cfpEndDate": "2024-02-01",
-    "twitter": "@itrevsummit",
-    "cocUrl": "https://doesvirtual.itrevolution.com/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@itrevsummit"
   },
   {
     "name": "TSIA World INTERACT",
@@ -90,8 +78,8 @@
     "city": "Orlando, FL",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@TSIACommunity",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@TSIACommunity"
   },
   {
     "name": "CTO Craft Con",
@@ -101,47 +89,23 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://conference.ctocraft.com/london-2024/code-of-conduct",
     "cfpUrl": "https://conference.ctocraft.com/london-2024/call-for-papers",
     "cfpEndDate": "2024-01-26",
-    "twitter": "@CTOCraft",
-    "cocUrl": "https://conference.ctocraft.com/london-2024/code-of-conduct/",
-    "locales": "EN"
-  },
-  {
-    "name": "Women Who Code CONNECT: Thrive in Tech",
-    "url": "http://www.womenwhocode.com/connect",
-    "startDate": "2024-05-16",
-    "endDate": "2024-05-16",
-    "online": true,
-    "cfpUrl": "https://code.womenwhocode.com/connect-2024-cfp",
-    "cfpEndDate": "2024-03-25",
-    "twitter": "@womenwhocode",
-    "cocUrl": "https://womenwhocode.com/codeofconduct",
-    "locales": "EN"
-  },
-  {
-    "name": "TechLead Conference",
-    "url": "https://techleadconf.com",
-    "startDate": "2024-06-15",
-    "endDate": "2024-06-19",
-    "online": true,
-    "cfpUrl": "https://forms.gle/anQx9Ct7CsrrZwur9",
-    "cfpEndDate": "2024-03-31",
-    "twitter": "@TheTechLeadConf",
-    "cocUrl": "https://portal.gitnation.org/coc",
-    "locales": "EN"
+    "twitter": "@CTOCraft"
   },
   {
     "name": "InfoQ Dev Summit Boston",
-    "url": "https://devsummit.infoq.com/boston_medialisting2024",
+    "url": "https://devsummit.infoq.com/conference/boston2024",
     "startDate": "2024-06-24",
     "endDate": "2024-06-25",
     "city": "Boston, MA",
     "country": "U.S.A.",
     "online": false,
-    "cocUrl": "https://qconferences.com/code-conduct",
     "locales": "EN",
-    "mastodon": "@techhub.social@infoq"
+    "cocUrl": "https://qconferences.com/code-conduct",
+    "mastodon": "@infoq@techhub.social"
   },
   {
     "name": "T3 Engineering Leadership Summit",
@@ -151,8 +115,19 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
-    "cocUrl": "https://berlin.droidcon.com/code-of-conduct/",
-    "locales": "EN"
+    "locales": "EN",
+    "cocUrl": "https://berlin.droidcon.com/code-of-conduct"
+  },
+  {
+    "name": "UX & Product Design Week",
+    "url": "https://futurelondonacademy.co.uk/en/course/ux-and-digital-design",
+    "startDate": "2024-08-06",
+    "endDate": "2024-08-09",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://futurelondonacademy.co.uk/en/course/ux-and-digital-design"
   },
   {
     "name": "Enterprise Technology Leadership Summit Las Vegas",
@@ -162,23 +137,56 @@
     "city": "Las Vegas, NV",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://doesvirtual.itrevolution.com/code-of-conduct",
     "cfpUrl": "https://sessionize.com/enterprise-tech-leadership-summit-us-2024",
     "cfpEndDate": "2024-04-01",
-    "twitter": "@itrevsummit",
-    "cocUrl": "https://doesvirtual.itrevolution.com/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@itrevsummit"
+  },
+  {
+    "name": "CTO Craft Con Berlin",
+    "url": "https://conference.ctocraft.com/berlin-2024",
+    "startDate": "2024-09-24",
+    "endDate": "2024-09-25",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@ctocraft"
+  },
+  {
+    "name": "ETLS Connect",
+    "url": "https://itrevolution.com/product/etls-connect-october-2024",
+    "startDate": "2024-10-23",
+    "endDate": "2024-10-23",
+    "online": true,
+    "locales": "EN",
+    "twitter": "@ITRevSummit"
+  },
+  {
+    "name": "LeadDev Berlin",
+    "url": "https://leaddev.com/leaddev-berlin",
+    "startDate": "2024-11-04",
+    "endDate": "2024-11-05",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://leaddev.com/code-conduct",
+    "twitter": "@theleaddev"
   },
   {
     "name": "QCon",
-    "url": "https://qconsf.com/medialisting2024",
+    "url": "https://qconsf.com",
     "startDate": "2024-11-18",
     "endDate": "2024-11-22",
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "online": false,
-    "cocUrl": "https://qconferences.com/code-conduct",
     "locales": "EN",
-    "mastodon": "@techhub.social@qcon"
+    "cocUrl": "https://qconferences.com/code-conduct",
+    "mastodon": "@qcon@techhub.social"
   },
   {
     "name": "Tech Leader Summit",
@@ -188,8 +196,8 @@
     "city": "Clearwater, FL",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@nofluff",
+    "locales": "EN",
     "cocUrl": "https://techleadersummit.io/home/code_of_conduct",
-    "locales": "EN"
+    "twitter": "@nofluff"
   }
 ]

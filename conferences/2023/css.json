@@ -1,25 +1,5 @@
 [
   {
-    "name": "Refresh",
-    "url": "https://refresh.rocks/",
-    "startDate": "2023-01-26",
-    "endDate": "2023-01-27",
-    "city": "Tartu",
-    "country": "Estonia",
-    "online": false,
-    "twitter": "@RefreshRocks"
-  },
-  {
-    "name": "enterJS Web-Performance Day",
-    "url": "https://enterjs.de/web-performance.php",
-    "startDate": "2023-02-15",
-    "endDate": "2023-02-15",
-    "online": true,
-    "twitter": "@enterjsconf",
-    "cocUrl": "https://enterjs.de/code_of_conduct.php",
-    "locales": "DE"
-  },
-  {
     "name": "HTML & CSS Days",
     "url": "https://javascript-days.de/html-css",
     "startDate": "2023-03-20",
@@ -27,9 +7,9 @@
     "city": "Munich",
     "country": "Germany",
     "online": true,
-    "twitter": "@htmlcssdays",
-    "cocUrl": "https://javascript-days.de/code-of-conduct/",
-    "locales": "DE"
+    "locales": "DE",
+    "cocUrl": "https://javascript-days.de/code-of-conduct",
+    "twitter": "@htmlcssdays"
   },
   {
     "name": "International JavaScript Conference London",
@@ -39,24 +19,9 @@
     "city": "London",
     "country": "U.K.",
     "online": true,
-    "twitter": "@JavaScriptCon",
-    "cocUrl": "https://javascript-conference.com/code-of-conduct/",
-    "locales": "EN"
-  },
-  {
-    "name": "Remix Conf",
-    "url": "https://remix.run/conf",
-    "startDate": "2023-05-09",
-    "endDate": "2023-05-11",
-    "city": "Salt Lake City, UT",
-    "country": "U.S.A.",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/remix-2023",
-    "cfpEndDate": "2023-02-08",
-    "twitter": "@remix_run",
-    "cocUrl": "https://remix.run/conf/2023/coc",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "cocUrl": "https://javascript-conference.com/code-of-conduct",
+    "twitter": "@JavaScriptCon"
   },
   {
     "name": "200 OK",
@@ -66,9 +31,9 @@
     "city": "Tulsa, OK",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@200okconf",
-    "cocUrl": "https://www.techlahoma.org/code-of-conduct/",
-    "locales": "EN"
+    "locales": "EN",
+    "cocUrl": "https://www.techlahoma.org/code-of-conduct",
+    "twitter": "@200okconf"
   },
   {
     "name": "webinale",
@@ -78,9 +43,9 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
-    "twitter": "@webinale",
-    "cocUrl": "https://webinale.de/code-of-conduct/",
-    "locales": "EN"
+    "locales": "EN",
+    "cocUrl": "https://webinale.de/code-of-conduct",
+    "twitter": "@webinale"
   },
   {
     "name": "SmashingConf SF",
@@ -90,33 +55,9 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "online": false,
-    "cocUrl": "https://smashingconf.com/codeofconduct",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "RenderATL",
-    "url": "https://www.renderatl.com",
-    "startDate": "2023-05-31",
-    "endDate": "2023-06-02",
-    "city": "Atlanta, GA",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@RenderATL",
-    "cocUrl": "https://www.renderatl.com/codepolicy"
-  },
-  {
-    "name": "DrupalCon",
-    "url": "https://events.drupal.org/drupalcon",
-    "startDate": "2023-06-05",
-    "endDate": "2023-06-08",
-    "city": "Pittsburgh, PA",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@drupalcon",
-    "cocUrl": "https://events.drupal.org/code-conduct",
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://smashingconf.com/codeofconduct"
   },
   {
     "name": "Web Directions Code",
@@ -126,10 +67,10 @@
     "city": "Melbourne",
     "country": "Australia",
     "online": true,
-    "twitter": "@webdirections",
-    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct",
+    "twitter": "@webdirections"
   },
   {
     "name": "Pixel Pioneers",
@@ -139,11 +80,11 @@
     "city": "Bristol",
     "country": "U.K.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://pixelpioneers.co/code-of-conduct",
     "cfpUrl": "https://pixelpioneers.co/call-for-speakers",
     "cfpEndDate": "2023-04-15",
-    "twitter": "@pixelpioneers",
-    "cocUrl": "https://pixelpioneers.co/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@pixelpioneers"
   },
   {
     "name": "Middlesbrough Front End Conference",
@@ -153,22 +94,9 @@
     "city": "Middlesbrough",
     "country": "U.K.",
     "online": false,
-    "twitter": "@middlesbroughfe",
-    "cocUrl": "https://www.middlesbroughfe.co.uk/code-of-conduct",
-    "locales": "EN"
-  },
-  {
-    "name": "Fronteers Conference",
-    "url": "https://fronteersconf.org",
-    "startDate": "2023-09-21",
-    "endDate": "2023-09-22",
-    "city": "Utrecht",
-    "country": "Netherlands",
-    "online": false,
-    "twitter": "@fronteersconf",
-    "cocUrl": "https://fronteersconf.org/code-of-conduct/",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "cocUrl": "https://www.middlesbroughfe.co.uk/code-of-conduct",
+    "twitter": "@middlesbroughfe"
   },
   {
     "name": "revo.js",
@@ -178,12 +106,12 @@
     "city": "Timisoara",
     "country": "Romania",
     "online": false,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://revojs.ro/code-of-conduct",
     "cfpUrl": "https://revojs.ro/2023/cfp",
     "cfpEndDate": "2023-06-04",
-    "twitter": "@revojsro",
-    "cocUrl": "https://revojs.ro/code-of-conduct/",
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "twitter": "@revojsro"
   },
   {
     "name": "JavaScript, Angular, React und HTML & CSS Days",
@@ -193,34 +121,8 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
-    "twitter": "@JS_Days",
-    "cocUrl": "https://javascript-days.de/code-of-conduct/",
-    "locales": "DE"
-  },
-  {
-    "name": "MagnoliaJS",
-    "url": "https://www.magnoliajs.com",
-    "startDate": "2023-10-17",
-    "endDate": "2023-10-18",
-    "city": "Jackson, MS",
-    "country": "U.S.A.",
-    "online": true,
-    "twitter": "@magnoliajsconf",
-    "cocUrl": "https://www.magnoliajs.com/conduct"
-  },
-  {
-    "name": "Web Directions Summit",
-    "url": "https://webdirections.org/summit",
-    "startDate": "2023-10-26",
-    "endDate": "2023-10-27",
-    "city": "Sydney",
-    "country": "Australia",
-    "online": true,
-    "cfpUrl": "https://webdirections.org/speaking",
-    "cfpEndDate": "2023-05-31",
-    "twitter": "@webdirections",
-    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "locales": "DE",
+    "cocUrl": "https://javascript-days.de/code-of-conduct",
+    "twitter": "@JS_Days"
   }
 ]

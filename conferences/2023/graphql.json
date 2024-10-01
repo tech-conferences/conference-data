@@ -7,22 +7,9 @@
     "city": "Frankfurt am Main",
     "country": "Germany",
     "online": true,
-    "twitter": "@BASTAcon",
-    "cocUrl": "https://basta.net/code-of-conduct/",
-    "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "ConFoo",
-    "url": "https://confoo.ca/en/2023",
-    "startDate": "2023-02-22",
-    "endDate": "2023-02-24",
-    "city": "Montreal",
-    "country": "Canada",
-    "online": false,
-    "cfpUrl": "https://confoo.ca/en/2023/call-for-papers",
-    "cfpEndDate": "2022-10-06",
-    "twitter": "@confooca",
-    "cocUrl": "https://confoo.ca/en/code-of-conduct"
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://basta.net/code-of-conduct",
+    "twitter": "@BASTAcon"
   },
   {
     "name": "emBO++",
@@ -32,36 +19,10 @@
     "city": "Bochum",
     "country": "Germany",
     "online": true,
+    "locales": "EN",
     "cfpUrl": "https://embo.io/call-for-papers",
     "cfpEndDate": "2023-02-11",
-    "twitter": "@emboconference",
-    "locales": "EN"
-  },
-  {
-    "name": "JAX",
-    "url": "https://jax.de/mainz",
-    "startDate": "2023-05-08",
-    "endDate": "2023-05-12",
-    "city": "Mainz",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@jaxcon",
-    "cocUrl": "https://jax.de/code-of-conduct/",
-    "locales": "EN"
-  },
-  {
-    "name": "JCON EUROPE",
-    "url": "https://2023.europe.jcon.one",
-    "startDate": "2023-06-20",
-    "endDate": "2023-06-23",
-    "city": "Cologne",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://2023.europe.jcon.one/call-for-papers",
-    "cfpEndDate": "2023-01-31",
-    "twitter": "@jcon_conference",
-    "cocUrl": "https://2023.europe.jcon.one/code-of-conduct",
-    "locales": "EN,DE"
+    "twitter": "@emboconference"
   },
   {
     "name": "GraphQLConf",
@@ -71,11 +32,11 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://graphql.org/codeofconduct",
     "cfpUrl": "https://graphql.org/conf/speak",
     "cfpEndDate": "2023-06-09",
-    "twitter": "@grapqhl",
-    "cocUrl": "https://graphql.org/codeofconduct/",
-    "locales": "EN"
+    "twitter": "@grapqhl"
   },
   {
     "name": "React Alicante",
@@ -85,11 +46,11 @@
     "city": "Alicante",
     "country": "Spain",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://reactalicante.es/code-of-conduct",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfvebbV1xEHBHLY2b1Ks21aj1q5mx-TWc_I7a2plPbjoI_-AQ/viewform",
     "cfpEndDate": "2023-04-01",
-    "twitter": "@ReactAlicante",
-    "cocUrl": "https://reactalicante.es/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@ReactAlicante"
   },
   {
     "name": "GraphQL Summit",
@@ -99,11 +60,11 @@
     "city": "San Diego, CA",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://www.apollographql.com/docs/community/code-of-conduct",
     "cfpUrl": "https://forms.gle/8kovzMG5nioK4Dkn6",
     "cfpEndDate": "2023-03-27",
-    "twitter": "@graphqlsummit",
-    "cocUrl": "https://www.apollographql.com/docs/community/code-of-conduct/",
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "twitter": "@graphqlsummit"
   }
 ]

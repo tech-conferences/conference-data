@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Conf42 Chaos Engineering",
+    "url": "https://www.conf42.com/ce2025",
+    "startDate": "2025-02-13",
+    "endDate": "2025-02-13",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
+    "twitter": "@conf42com"
+  },
+  {
+    "name": "robocon",
+    "url": "https://robocon.io",
+    "startDate": "2025-02-13",
+    "endDate": "2025-02-14",
+    "city": "Helsinki",
+    "country": "Finland",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@robotframework"
+  },
+  {
+    "name": "Software Quality Days",
+    "url": "https://www.software-quality-days.com",
+    "startDate": "2025-05-20",
+    "endDate": "2025-05-22",
+    "city": "Munich",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@swqd"
+  },
+  {
+    "name": "EuroSTAR",
+    "url": "https://conference.eurostarsoftwaretesting.com",
+    "startDate": "2025-06-03",
+    "endDate": "2025-06-06",
+    "city": "Edinburgh",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://conference.eurostarsoftwaretesting.com/anti-harassment-policy",
+    "twitter": "@esconfs"
+  }
+]

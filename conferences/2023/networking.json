@@ -1,48 +1,12 @@
 [
   {
-    "name": "FOSS Backstage",
-    "url": "https://23.foss-backstage.de",
-    "startDate": "2023-03-13",
-    "endDate": "2023-03-14",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "twitter": "@fossbckstg",
-    "cocUrl": "https://23.foss-backstage.de/code-of-conduct/",
-    "locales": "EN"
-  },
-  {
-    "name": "Agile India",
-    "url": "https://2023.agileindia.org",
-    "startDate": "2023-03-15",
-    "endDate": "2023-03-19",
-    "city": "Bengaluru",
-    "country": "India",
-    "online": false,
-    "twitter": "@agileindia",
-    "cocUrl": "https://2023.agileindia.org/agile-india-values/",
-    "locales": "EN"
-  },
-  {
     "name": "International Space Convention",
     "url": "https://www.internationalspaceconvention.com",
     "startDate": "2023-03-16",
     "endDate": "2023-03-19",
     "online": true,
-    "twitter": "@isconvention",
-    "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "WeAreDevelopers Climate Day",
-    "url": "https://www.wearedevelopers.com/event/climate-sustainability-day-march-2023",
-    "startDate": "2023-03-29",
-    "endDate": "2023-03-29",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/wearedevelopers-live-2023",
-    "cfpEndDate": "2023-03-20",
-    "twitter": "@WeAreDevs",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct",
-    "locales": "EN"
+    "offersSignLanguageOrCC": true,
+    "twitter": "@isconvention"
   },
   {
     "name": "European GNU Radio Days",
@@ -52,19 +16,9 @@
     "city": "Paris",
     "country": "France",
     "online": false,
+    "locales": "EN",
     "cfpUrl": "https://gnuradio-eu-23.sciencesconf.org/registration",
-    "cfpEndDate": "2023-02-28",
-    "locales": "EN"
-  },
-  {
-    "name": "Cloud Builders: Java Conf",
-    "url": "https://www.cloud-builders.tech",
-    "startDate": "2023-03-30",
-    "endDate": "2023-03-30",
-    "online": true,
-    "twitter": "@cloudbuildersua",
-    "cocUrl": "https://www.cloud-builders.tech/code-of-conduct",
-    "locales": "EN"
+    "cfpEndDate": "2023-02-28"
   },
   {
     "name": "Node Congress",
@@ -74,11 +28,10 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
+    "locales": "EN",
     "cfpUrl": "https://forms.gle/jexnQbSsUZKefsqMA",
     "cfpEndDate": "2023-01-15",
-    "twitter": "@NodeCongress",
-    "cocUrl": "https://nodecongress.com/coc",
-    "locales": "EN"
+    "twitter": "@NodeCongress"
   },
   {
     "name": "Connectaha",
@@ -88,23 +41,8 @@
     "city": "Omaha, NE",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@connectaha",
-    "locales": "EN"
-  },
-  {
-    "name": "Remix Conf",
-    "url": "https://remix.run/conf",
-    "startDate": "2023-05-09",
-    "endDate": "2023-05-11",
-    "city": "Salt Lake City, UT",
-    "country": "U.S.A.",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/remix-2023",
-    "cfpEndDate": "2023-02-08",
-    "twitter": "@remix_run",
-    "cocUrl": "https://remix.run/conf/2023/coc",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "twitter": "@connectaha"
   },
   {
     "name": "Camunda Community Summit",
@@ -124,8 +62,7 @@
     "city": "Kraków",
     "country": "Poland",
     "online": false,
-    "twitter": "@appjsconf",
-    "cocUrl": "https://appjs.co/Code-of-Conduct.pdf"
+    "twitter": "@appjsconf"
   },
   {
     "name": "TangleCon",
@@ -133,8 +70,8 @@
     "startDate": "2023-05-11",
     "endDate": "2023-05-12",
     "online": true,
-    "twitter": "@TangleCon",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@TangleCon"
   },
   {
     "name": "Vue.js Live Conference",
@@ -144,11 +81,10 @@
     "city": "London",
     "country": "U.K.",
     "online": true,
+    "locales": "EN",
     "cfpUrl": "https://forms.gle/V1727ta24LLFBqKD7",
     "cfpEndDate": "2023-02-05",
-    "twitter": "@VueJSLive",
-    "cocUrl": "https://vuejslive.com/coc",
-    "locales": "EN"
+    "twitter": "@VueJSLive"
   },
   {
     "name": "DrupalCamp",
@@ -158,10 +94,10 @@
     "city": "Wrocław",
     "country": "Poland",
     "online": false,
+    "locales": "EN,PL",
     "cfpUrl": "https://www.drupalcamp.pl/en/proposed-sessions",
     "cfpEndDate": "2023-04-16",
-    "twitter": "@DrupalCampPol",
-    "locales": "EN,PL"
+    "twitter": "@DrupalCampPol"
   },
   {
     "name": "Agile Testing Days USA",
@@ -171,31 +107,7 @@
     "city": "Chicago, IL",
     "country": "U.S.A.",
     "online": false,
-    "cfpUrl": "https://agiletestingdays.us/call-for-papers",
-    "cfpEndDate": "2022-09-30",
-    "twitter": "@AgileTDZone",
-    "cocUrl": "https://agiletestingdays.us/code-of-conduct/"
-  },
-  {
-    "name": "UXLx User Experience Lisbon",
-    "url": "https://www.ux-lx.com",
-    "startDate": "2023-05-23",
-    "endDate": "2023-05-26",
-    "city": "Lisbon",
-    "country": "Portugal",
-    "online": false,
-    "twitter": "@uxlx"
-  },
-  {
-    "name": "Heroes of Data Privacy",
-    "url": "https://www.heroesofdataprivacy.com/index.html",
-    "startDate": "2023-05-24",
-    "endDate": "2023-05-25",
-    "city": "Vienna",
-    "country": "Austria",
-    "online": false,
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "twitter": "@AgileTDZone"
   },
   {
     "name": "React Summit",
@@ -205,31 +117,8 @@
     "city": "Amsterdam",
     "country": "Netherlands",
     "online": true,
-    "twitter": "@reactsummit",
-    "cocUrl": "https://reactsummit.com/coc",
-    "locales": "EN"
-  },
-  {
-    "name": "Blockchain Community Day",
-    "url": "https://wearecommunity.io/events/blockchain-community-day-2023",
-    "startDate": "2023-06-06",
-    "endDate": "2023-06-09",
-    "online": true,
-    "twitter": "@BlockchainProfs",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "AgileTD Open Air",
-    "url": "https://openair.agiletestingdays.com",
-    "startDate": "2023-06-13",
-    "endDate": "2023-06-15",
-    "city": "Cologne",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://cfp.trendig.com/AgileTD_OpenAir_2023",
-    "cfpEndDate": "2022-08-31",
-    "twitter": "@AgileTDOpenAir"
+    "twitter": "@reactsummit"
   },
   {
     "name": "MobileCamp",
@@ -239,8 +128,8 @@
     "city": "Dresden",
     "country": "Germany",
     "online": false,
-    "twitter": "@mobilecamp",
-    "locales": "DE"
+    "locales": "DE",
+    "twitter": "@mobilecamp"
   },
   {
     "name": "MAD Summit: Modularisierung, API Design, DDD",
@@ -250,58 +139,9 @@
     "city": "Munich",
     "country": "Germany",
     "online": false,
-    "twitter": "@mad_summit",
-    "cocUrl": "https://mad-summit.de/code-of-conduct/",
-    "locales": "DE"
-  },
-  {
-    "name": "JCON EUROPE",
-    "url": "https://2023.europe.jcon.one",
-    "startDate": "2023-06-20",
-    "endDate": "2023-06-23",
-    "city": "Cologne",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://2023.europe.jcon.one/call-for-papers",
-    "cfpEndDate": "2023-01-31",
-    "twitter": "@jcon_conference",
-    "cocUrl": "https://2023.europe.jcon.one/code-of-conduct",
-    "locales": "EN,DE"
-  },
-  {
-    "name": "StaffPlus",
-    "url": "https://leaddev.com/staffplus-london",
-    "startDate": "2023-06-27",
-    "endDate": "2023-06-28",
-    "city": "London",
-    "country": "U.K.",
-    "online": false,
-    "twitter": "@theleaddev",
-    "cocUrl": "https://leaddev.com/code-conduct",
-    "locales": "EN"
-  },
-  {
-    "name": "Festival of the Future",
-    "url": "https://festivalderzukunft.com/EN",
-    "startDate": "2023-07-06",
-    "endDate": "2023-07-08",
-    "city": "Munich",
-    "country": "Germany",
-    "online": false,
-    "twitter": "@1E9tech",
-    "locales": "EN,DE"
-  },
-  {
-    "name": "NZ Tech Rally",
-    "url": "https://nztechrally.com",
-    "startDate": "2023-07-07",
-    "endDate": "2023-07-07",
-    "city": "Wellington",
-    "country": "New Zealand",
-    "online": false,
-    "twitter": "@NZTechRally",
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "locales": "DE",
+    "cocUrl": "https://mad-summit.de/code-of-conduct",
+    "twitter": "@mad_summit"
   },
   {
     "name": "Nomad City Conference",
@@ -311,84 +151,8 @@
     "city": "Gran Canaria",
     "country": "Spain",
     "online": false,
-    "twitter": "@nomadcityGC",
-    "locales": "EN"
-  },
-  {
-    "name": "THAT Conference Wisconsin",
-    "url": "https://that.us/events/wi/2023",
-    "startDate": "2023-07-24",
-    "endDate": "2023-07-27",
-    "city": "Wisconsin Dells, WI",
-    "country": "U.S.A.",
-    "online": true,
-    "cfpUrl": "https://that.us/call-for-counselors/wi/2023",
-    "cfpEndDate": "2023-03-01",
-    "twitter": "@thatconference",
-    "cocUrl": "https://that.us/support/code-of-conduct/",
-    "locales": "EN"
-  },
-  {
-    "name": "WeAreDevelopers World Congress",
-    "url": "https://www.wearedevelopers.com/world-congress",
-    "startDate": "2023-07-27",
-    "endDate": "2023-07-28",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/wearedevelopers-worldcongress23",
-    "cfpEndDate": "2023-07-19",
-    "twitter": "@WeAreDevs",
-    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct#:~:text=WeAreDevelopers%20welcomes%20everyone%20and%20is,tolerate%20harassment%20in%20any%20form.",
-    "locales": "EN"
-  },
-  {
-    "name": "Frontinsampa + Code In The Dark Brasil",
-    "url": "https://frontinsampa.com.br/pt-br",
-    "startDate": "2023-07-29",
-    "endDate": "2023-07-29",
-    "city": "São Paulo",
-    "country": "Brazil",
-    "online": false,
-    "twitter": "@frontinsp",
-    "cocUrl": "https://pt-br.confcodeofconduct.com/",
-    "locales": "PT",
-    "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "Techsauce Global Summit",
-    "url": "https://summit.techsauce.co",
-    "startDate": "2023-08-16",
-    "endDate": "2023-08-17",
-    "city": "Bangkok",
-    "country": "Thailand",
-    "online": false,
-    "locales": "EN,TH",
-    "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "Outland",
-    "url": "https://outland.sh",
-    "startDate": "2023-08-26",
-    "endDate": "2023-08-26",
-    "city": "Palm Springs, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "locales": "EN"
-  },
-  {
-    "name": "SpiceWorld",
-    "url": "https://www.spiceworks.com/spiceworld",
-    "startDate": "2023-09-05",
-    "endDate": "2023-09-07",
-    "city": "Austin, TX",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://www.spiceworks.com",
-    "cfpEndDate": "2023-09-04",
-    "twitter": "@spiceworks",
-    "cocUrl": "https://www.spiceworks.com/spiceworld/",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@nomadcityGC"
   },
   {
     "name": "VOICE & AI",
@@ -398,8 +162,8 @@
     "city": "Washington, DC",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@VOICEandAI",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@VOICEandAI"
   },
   {
     "name": "React Native EU",
@@ -409,11 +173,11 @@
     "city": "Wrocław",
     "country": "Poland",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.react-native.eu/code-of-conduct",
     "cfpUrl": "https://www.react-native.eu/#callforpapers",
     "cfpEndDate": "2023-04-12",
-    "twitter": "@react_native_eu",
-    "cocUrl": "https://www.react-native.eu/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@react_native_eu"
   },
   {
     "name": "stackconf",
@@ -423,11 +187,9 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
-    "cfpUrl": "https://stackconf.eu/cfp_info",
-    "cfpEndDate": "2023-03-31",
-    "twitter": "@stackonf",
-    "cocUrl": "https://stackconf.eu/code-of-conduct/",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://stackconf.eu/code-of-conduct",
+    "twitter": "@stackonf"
   },
   {
     "name": "droidcon New York",
@@ -437,9 +199,9 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@droidconNYC",
-    "cocUrl": "https://nyc.droidcon.com/code-of-conduct/",
     "locales": "EN",
+    "cocUrl": "https://nyc.droidcon.com/code-of-conduct",
+    "twitter": "@droidconNYC",
     "mastodon": "@droidcon@androiddev.social"
   },
   {
@@ -450,8 +212,8 @@
     "city": "Hannover",
     "country": "Germany",
     "online": false,
-    "twitter": "@PSUGH",
     "locales": "DE",
+    "twitter": "@PSUGH",
     "mastodon": "@psugh@norden.social"
   },
   {
@@ -462,11 +224,11 @@
     "city": "Goa",
     "country": "India",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://nullcon.net/about-conferencepolicy",
     "cfpUrl": "https://nullcon.net/goa-2023/cfp",
     "cfpEndDate": "2023-07-10",
-    "twitter": "@nullcon",
-    "cocUrl": "https://nullcon.net/about-conferencepolicy/",
-    "locales": "EN"
+    "twitter": "@nullcon"
   },
   {
     "name": "Agile meets Architecture",
@@ -476,11 +238,11 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.agile-meets-architecture.com/2023/code-of-conduct",
     "cfpUrl": "https://sessionize.com/agile-meets-architecture-2023",
     "cfpEndDate": "2023-04-02",
-    "twitter": "@AmA_Conf",
-    "cocUrl": "https://www.agile-meets-architecture.com/2023/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@AmA_Conf"
   },
   {
     "name": "Rails World",
@@ -490,24 +252,10 @@
     "city": "Amsterdam",
     "country": "Netherlands",
     "online": false,
-    "cfpUrl": "https://www.papercall.io/rails-world-2023",
-    "cfpEndDate": "2023-06-16",
-    "twitter": "@rails",
-    "cocUrl": "https://rubyonrails.org/conduct",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "ChefConf",
-    "url": "https://www.chef.io/chefconf",
-    "startDate": "2023-10-12",
-    "endDate": "2023-10-13",
-    "city": "Munich",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://sessionize.com/chefconf-23-Germany",
-    "cfpEndDate": "2023-06-16",
-    "locales": "EN"
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://rubyonrails.org/conduct",
+    "twitter": "@rails"
   },
   {
     "name": "NODES",
@@ -515,10 +263,10 @@
     "startDate": "2023-10-26",
     "endDate": "2023-10-26",
     "online": true,
+    "locales": "EN",
     "cfpUrl": "https://dev.neo4j.com/417Qa1D",
     "cfpEndDate": "2023-06-30",
-    "twitter": "@neo4j",
-    "locales": "EN"
+    "twitter": "@neo4j"
   },
   {
     "name": "droidcon London",
@@ -528,9 +276,9 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
-    "twitter": "@droidconLondon",
-    "cocUrl": "https://london.droidcon.com/code-of-conduct/",
     "locales": "EN",
+    "cocUrl": "https://london.droidcon.com/code-of-conduct",
+    "twitter": "@droidconLondon",
     "mastodon": "@droidcon@androiddev.social"
   },
   {
@@ -541,22 +289,8 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
-    "cocUrl": "https://conference.ctocraft.com/november-2023/code-of-conduct/",
-    "locales": "EN"
-  },
-  {
-    "name": "Scale By The Bay",
-    "url": "https://www.scale.bythebay.io",
-    "startDate": "2023-11-13",
-    "endDate": "2023-11-15",
-    "city": "Oakland, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://www.scale.bythebay.io/cfp",
-    "cfpEndDate": "2023-05-14",
-    "twitter": "@ScaleByTheBay",
-    "cocUrl": "https://github.com/bythebay/policies/blob/master/citizen_code_of_conduct.md",
-    "locales": "EN"
+    "locales": "EN",
+    "cocUrl": "https://conference.ctocraft.com/november-2023/code-of-conduct"
   },
   {
     "name": "Build Stuff",
@@ -566,25 +300,11 @@
     "city": "Vilnius",
     "country": "Lithuania",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.buildstuff.events/code-of-conduct",
     "cfpUrl": "https://www.buildstuff.events/cfp",
     "cfpEndDate": "2023-07-02",
-    "twitter": "@BuildStuffConf",
-    "cocUrl": "https://www.buildstuff.events/code-of-conduct",
-    "locales": "EN"
-  },
-  {
-    "name": "Italian Agile Days",
-    "url": "https://www.agileday.it",
-    "startDate": "2023-11-17",
-    "endDate": "2023-11-18",
-    "city": "Milano",
-    "country": "Italy",
-    "online": false,
-    "cfpUrl": "https://sessionize.com/italian-agile-days-2023",
-    "cfpEndDate": "2023-07-31",
-    "twitter": "@agileday",
-    "cocUrl": "https://www.agileday.it/",
-    "locales": "IT,EN"
+    "twitter": "@BuildStuffConf"
   },
   {
     "name": "Open Source Cloud Strategies and Solutions",
@@ -594,10 +314,10 @@
     "city": "Frankfurt am Main",
     "country": "Germany",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.sardinasystems.com/about-us/terms-of-use",
     "cfpUrl": "https://www.sardinasystems.com",
-    "cfpEndDate": "2023-11-22",
-    "cocUrl": "https://www.sardinasystems.com/about-us/terms-of-use/",
-    "locales": "EN"
+    "cfpEndDate": "2023-11-22"
   },
   {
     "name": "Deutsch OpenStack Tage",
@@ -607,12 +327,10 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
-    "cfpUrl": "https://openstack-tage.de/call-for-papers",
-    "cfpEndDate": "2023-07-31",
-    "twitter": "@OpenStackTage",
-    "cocUrl": "https://openstack-tage.de/teilnahmebedingungen/",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://openstack-tage.de/teilnahmebedingungen",
+    "twitter": "@OpenStackTage"
   },
   {
     "name": "European SharePoint Office 365 & Azure Conference (ESPC)",
@@ -620,8 +338,8 @@
     "startDate": "2023-11-27",
     "endDate": "2023-11-30",
     "online": true,
-    "twitter": "@europeansp",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@europeansp"
   },
   {
     "name": "MAD Summit",
@@ -631,21 +349,8 @@
     "city": "Munich",
     "country": "Germany",
     "online": false,
-    "twitter": "@mad_summit",
-    "cocUrl": "https://mad-summit.de/code-of-conduct/",
-    "locales": "DE"
-  },
-  {
-    "name": "Open Source Experience",
-    "url": "https://www.opensource-experience.com",
-    "startDate": "2023-12-06",
-    "endDate": "2023-12-07",
-    "city": "Paris",
-    "country": "France",
-    "online": false,
-    "cfpUrl": "https://sessionize.com/open-source-experience-2023",
-    "cfpEndDate": "2023-06-25",
-    "twitter": "@OSXP_Paris",
-    "locales": "FR"
+    "locales": "DE",
+    "cocUrl": "https://mad-summit.de/code-of-conduct",
+    "twitter": "@mad_summit"
   }
 ]

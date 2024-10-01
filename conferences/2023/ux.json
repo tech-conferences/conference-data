@@ -7,8 +7,8 @@
     "city": "Nairobi",
     "country": "Kenya",
     "online": true,
-    "twitter": "@flutterdev",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@flutterdev"
   },
   {
     "name": "UX New Zealand",
@@ -18,22 +18,9 @@
     "city": "Wellington",
     "country": "New Zealand",
     "online": true,
-    "twitter": "@uxnewzealand",
+    "locales": "EN",
     "cocUrl": "https://www.uxnewzealand.com/code-of-conduct",
-    "locales": "EN"
-  },
-  {
-    "name": "ConFoo",
-    "url": "https://confoo.ca/en/2023",
-    "startDate": "2023-02-22",
-    "endDate": "2023-02-24",
-    "city": "Montreal",
-    "country": "Canada",
-    "online": false,
-    "cfpUrl": "https://confoo.ca/en/2023/call-for-papers",
-    "cfpEndDate": "2022-10-06",
-    "twitter": "@confooca",
-    "cocUrl": "https://confoo.ca/en/code-of-conduct"
+    "twitter": "@uxnewzealand"
   },
   {
     "name": "Frontrunners",
@@ -43,48 +30,8 @@
     "city": "Arlington, VA",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@frontrunnersdc",
-    "cocUrl": "https://frontrunners.tech/policies/conduct.html",
-    "locales": "EN"
-  },
-  {
-    "name": "Apprise Conf",
-    "url": "https://appriseconf.com",
-    "startDate": "2023-03-23",
-    "endDate": "2023-03-23",
-    "city": "Oslo",
-    "country": "Norway",
-    "online": false,
-    "cfpUrl": "https://forms.gle/63C6sSAbzFLFzpX17",
-    "cfpEndDate": "2023-01-31",
-    "twitter": "@appriseconf",
-    "cocUrl": "https://appriseconf.com/coc.html",
-    "locales": "EN"
-  },
-  {
-    "name": "Open Source Day",
-    "url": "https://2023.osday.dev",
-    "startDate": "2023-03-24",
-    "endDate": "2023-03-24",
-    "city": "Florence",
-    "country": "Italy",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/opensourceday23",
-    "cfpEndDate": "2023-02-05",
-    "twitter": "@OSDayDev",
-    "cocUrl": "https://www.schrodinger-hat.it/code-of-conduct",
-    "locales": "EN,IT"
-  },
-  {
-    "name": "QCon London International Software Development Conference",
-    "url": "https://qconlondon.com",
-    "startDate": "2023-03-27",
-    "endDate": "2023-03-29",
-    "city": "London",
-    "country": "U.K.",
-    "online": false,
-    "twitter": "@QCon",
-    "cocUrl": "https://qconferences.com/code-conduct"
+    "locales": "EN",
+    "twitter": "@frontrunnersdc"
   },
   {
     "name": "ConveyUX",
@@ -92,10 +39,10 @@
     "startDate": "2023-05-02",
     "endDate": "2023-05-04",
     "online": true,
-    "twitter": "@conveyux",
-    "cocUrl": "https://conveyux.com/code-of-conduct/",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://conveyux.com/code-of-conduct",
+    "twitter": "@conveyux"
   },
   {
     "name": "DDX Conference",
@@ -105,8 +52,8 @@
     "city": "Munich",
     "country": "Germany",
     "online": false,
-    "twitter": "@design_drives",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@design_drives"
   },
   {
     "name": "Design It. Build It. (DIBI)",
@@ -116,25 +63,11 @@
     "city": "Edinburgh",
     "country": "U.K.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://dibiconference.com",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc5kVunTh68VQrYCVNIXn2UmPWIsNHhxoiGwU1Q600sRYaNZQ/viewform",
     "cfpEndDate": "2023-02-10",
-    "twitter": "@dibiconf",
-    "cocUrl": "https://dibiconference.com/",
-    "locales": "EN"
-  },
-  {
-    "name": "BeJS Conf",
-    "url": "https://www.bejs.io/conf",
-    "startDate": "2023-05-12",
-    "endDate": "2023-05-12",
-    "city": "Brussels",
-    "country": "Belgium",
-    "online": true,
-    "cfpUrl": "https://forms.gle/2cMQNF39mwMiQgG98",
-    "cfpEndDate": "2023-02-17",
-    "twitter": "@BeJS_",
-    "cocUrl": "https://www.bejs.io/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@dibiconf"
   },
   {
     "name": "webinale",
@@ -144,19 +77,9 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
-    "twitter": "@webinale",
-    "cocUrl": "https://webinale.de/code-of-conduct/",
-    "locales": "EN"
-  },
-  {
-    "name": "UXLx User Experience Lisbon",
-    "url": "https://www.ux-lx.com",
-    "startDate": "2023-05-23",
-    "endDate": "2023-05-26",
-    "city": "Lisbon",
-    "country": "Portugal",
-    "online": false,
-    "twitter": "@uxlx"
+    "locales": "EN",
+    "cocUrl": "https://webinale.de/code-of-conduct",
+    "twitter": "@webinale"
   },
   {
     "name": "DevSum",
@@ -166,19 +89,8 @@
     "city": "Stockholm",
     "country": "Sweden",
     "online": false,
-    "cocUrl": "https://www.devsum.se/about/code-of-conduct",
-    "locales": "EN"
-  },
-  {
-    "name": "RenderATL",
-    "url": "https://www.renderatl.com",
-    "startDate": "2023-05-31",
-    "endDate": "2023-06-02",
-    "city": "Atlanta, GA",
-    "country": "U.S.A.",
-    "online": false,
-    "twitter": "@RenderATL",
-    "cocUrl": "https://www.renderatl.com/codepolicy"
+    "locales": "EN",
+    "cocUrl": "https://www.devsum.se/about/code-of-conduct"
   },
   {
     "name": "Digital Design & UX Next",
@@ -188,9 +100,8 @@
     "city": "Munich",
     "country": "Germany",
     "online": false,
-    "twitter": "@dd_insiders",
-    "cocUrl": "https://dd-ux.de/code_of_conduct.php",
-    "locales": "DE"
+    "locales": "DE",
+    "twitter": "@dd_insiders"
   },
   {
     "name": "Pixel Pioneers",
@@ -200,25 +111,11 @@
     "city": "Bristol",
     "country": "U.K.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://pixelpioneers.co/code-of-conduct",
     "cfpUrl": "https://pixelpioneers.co/call-for-speakers",
     "cfpEndDate": "2023-04-15",
-    "twitter": "@pixelpioneers",
-    "cocUrl": "https://pixelpioneers.co/code-of-conduct",
-    "locales": "EN"
-  },
-  {
-    "name": "JCON EUROPE",
-    "url": "https://2023.europe.jcon.one",
-    "startDate": "2023-06-20",
-    "endDate": "2023-06-23",
-    "city": "Cologne",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://2023.europe.jcon.one/call-for-papers",
-    "cfpEndDate": "2023-01-31",
-    "twitter": "@jcon_conference",
-    "cocUrl": "https://2023.europe.jcon.one/code-of-conduct",
-    "locales": "EN,DE"
+    "twitter": "@pixelpioneers"
   },
   {
     "name": "Config",
@@ -228,9 +125,9 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "online": true,
-    "cocUrl": "https://www.figma.com/code-of-conduct/",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://www.figma.com/code-of-conduct"
   },
   {
     "name": "MobileWeek",
@@ -240,23 +137,11 @@
     "city": "San Mateo, CA",
     "country": "U.S.A.",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct",
     "cfpUrl": "https://sessionize.com/mobileweek-2023",
     "cfpEndDate": "2023-06-30",
-    "twitter": "@DevNetwork_",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "locales": "EN"
-  },
-  {
-    "name": "Web Summer Camp",
-    "url": "https://websummercamp.com",
-    "startDate": "2023-08-31",
-    "endDate": "2023-09-02",
-    "city": "Opatija",
-    "country": "Croatia",
-    "online": false,
-    "twitter": "@websummercamp",
-    "cocUrl": "https://websummercamp.com/2023/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@DevNetwork_"
   },
   {
     "name": "SmashingConf Freiburg",
@@ -266,8 +151,8 @@
     "city": "Freiburg",
     "country": "Germany",
     "online": false,
-    "cocUrl": "https://smashingconf.com/codeofconduct",
-    "locales": "EN"
+    "locales": "EN",
+    "cocUrl": "https://smashingconf.com/codeofconduct"
   },
   {
     "name": "uxcon vienna",
@@ -277,8 +162,8 @@
     "city": "Vienna",
     "country": "Austria",
     "online": true,
-    "twitter": "@uxconvienna",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@uxconvienna"
   },
   {
     "name": "UIG-Tagung: Fokus Mensch - Digitalisierung nachhaltig gestalten",
@@ -298,23 +183,7 @@
     "city": "Copenhagen",
     "country": "Denmark",
     "online": true,
-    "cocUrl": "https://designmatters.wpress.dk/dm23/wp-content/uploads/sites/18/2022/12/Code-of-Conduct.pdf",
     "locales": "EN"
-  },
-  {
-    "name": "Paris Web",
-    "url": "https://www.paris-web.fr",
-    "startDate": "2023-09-28",
-    "endDate": "2023-09-30",
-    "city": "Paris",
-    "country": "France",
-    "online": false,
-    "cfpUrl": "https://appel.paris-web.fr",
-    "cfpEndDate": "2023-04-09",
-    "twitter": "@parisweb",
-    "cocUrl": "https://www.paris-web.fr/code-de-conduite.php",
-    "locales": "FR",
-    "offersSignLanguageOrCC": true
   },
   {
     "name": "Compass Tech Summit",
@@ -324,8 +193,8 @@
     "city": "Budapest",
     "country": "Hungary",
     "online": true,
-    "twitter": "@amuseconf",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@amuseconf"
   },
   {
     "name": "Hatch Conference",
@@ -335,35 +204,11 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.hatchconference.com/code-of-conduct",
     "cfpUrl": "https://speak.hatchconference.com",
     "cfpEndDate": "2023-02-15",
-    "twitter": "@hatchconference",
-    "cocUrl": "https://www.hatchconference.com/code-of-conduct",
-    "locales": "EN"
-  },
-  {
-    "name": "Intersection Conference",
-    "url": "https://www.intersection-conference.eu",
-    "startDate": "2023-10-09",
-    "endDate": "2023-10-10",
-    "city": "Turin",
-    "country": "Italy",
-    "online": true,
-    "cfpUrl": "https://www.intersection-conference.eu/call-for-speakers",
-    "cfpEndDate": "2023-05-31",
-    "twitter": "@intersection_eu",
-    "cocUrl": "https://torino2022.intersection-conference.eu/code-of-conduct.html",
-    "locales": "EN"
-  },
-  {
-    "name": "Next.js Conf",
-    "url": "https://nextjs.org/conf",
-    "startDate": "2023-10-10",
-    "endDate": "2023-10-10",
-    "online": true,
-    "cfpUrl": "https://vercel.fyi/cfp",
-    "cfpEndDate": "2023-09-24",
-    "locales": "EN"
+    "twitter": "@hatchconference"
   },
   {
     "name": "UXDX",
@@ -373,9 +218,9 @@
     "city": "Dublin",
     "country": "Ireland",
     "online": true,
-    "twitter": "@uxdxconf",
-    "cocUrl": "https://uxdx.com/code-of-conduct/",
-    "locales": "EN"
+    "locales": "EN",
+    "cocUrl": "https://uxdx.com/code-of-conduct",
+    "twitter": "@uxdxconf"
   },
   {
     "name": "PUSH UX",
@@ -385,26 +230,11 @@
     "city": "Munich",
     "country": "Germany",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://push-conference.com/legal/terms.php#code-of-conduct",
     "cfpUrl": "https://push-conference.com/ux-2023/calls",
     "cfpEndDate": "2023-05-31",
-    "twitter": "@pushconf",
-    "cocUrl": "https://push-conference.com/legal/terms.php#code-of-conduct",
-    "locales": "EN"
-  },
-  {
-    "name": "Web Directions Summit",
-    "url": "https://webdirections.org/summit",
-    "startDate": "2023-10-26",
-    "endDate": "2023-10-27",
-    "city": "Sydney",
-    "country": "Australia",
-    "online": true,
-    "cfpUrl": "https://webdirections.org/speaking",
-    "cfpEndDate": "2023-05-31",
-    "twitter": "@webdirections",
-    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "twitter": "@pushconf"
   },
   {
     "name": "UX Brighton",
@@ -414,8 +244,8 @@
     "city": "Brighton",
     "country": "U.K.",
     "online": false,
-    "twitter": "@UXbri",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@UXbri"
   },
   {
     "name": "WeyWeyWeb",
@@ -425,23 +255,11 @@
     "city": "Malaga",
     "country": "Spain",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://recursos.yeswetech.org/guias/codigo-de-conducta/en-code-of-conduct",
     "cfpUrl": "https://forms.gle/nLWop1Aw7urdzGrt6",
     "cfpEndDate": "2023-09-01",
-    "twitter": "@WeyWeyWeb",
-    "cocUrl": "https://recursos.yeswetech.org/guias/codigo-de-conducta/en-code-of-conduct",
-    "locales": "EN"
-  },
-  {
-    "name": "MAD Summit",
-    "url": "https://mad-summit.de/berlin",
-    "startDate": "2023-12-04",
-    "endDate": "2023-12-06",
-    "city": "Munich",
-    "country": "Germany",
-    "online": false,
-    "twitter": "@mad_summit",
-    "cocUrl": "https://mad-summit.de/code-of-conduct/",
-    "locales": "DE"
+    "twitter": "@WeyWeyWeb"
   },
   {
     "name": "IT-Tage",
@@ -451,9 +269,9 @@
     "city": "Frankfurt am Main",
     "country": "Germany",
     "online": false,
+    "locales": "DE,EN",
     "cfpUrl": "https://www.ittage.informatik-aktuell.de/call-for-papers.html",
     "cfpEndDate": "2023-04-28",
-    "twitter": "@InformatikAktue",
-    "locales": "DE,EN"
+    "twitter": "@InformatikAktue"
   }
 ]

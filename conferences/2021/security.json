@@ -5,8 +5,8 @@
     "startDate": "2021-02-18",
     "endDate": "2021-02-18",
     "online": true,
-    "twitter": "@HackOnURJC",
-    "cocUrl": "https://hackon.es/pdf/CodConducta.pdf"
+    "cocUrl": "https://hackon.es/pdf/CodConducta.pdf",
+    "twitter": "@HackOnURJC"
   },
   {
     "name": "sec4dev",
@@ -14,10 +14,8 @@
     "startDate": "2021-02-22",
     "endDate": "2021-02-25",
     "online": true,
-    "cfpUrl": "https://sec4dev.io/call-for-proposals",
-    "cfpEndDate": "2020-12-20",
-    "twitter": "@sec4dev",
-    "offersSignLanguageOrCC": false
+    "offersSignLanguageOrCC": false,
+    "twitter": "@sec4dev"
   },
   {
     "name": "B-Sides Tampa",
@@ -26,11 +24,9 @@
     "endDate": "2021-02-27",
     "city": "Tampa, FL",
     "country": "U.S.A.",
-    "cfpUrl": "https://forms.zohopublic.com/isc2tampabaychapter/form/CFP/formperma/HBZJIUsxQk2aDT8raeZfK31PcUiCDL5Oomw4Dx0Pc5o",
-    "cfpEndDate": "2021-01-17",
-    "twitter": "@BSidesTampa",
-    "cocUrl": "https://bsidestampa.net/code-of-conduct/",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://bsidestampa.net/code-of-conduct",
+    "twitter": "@BSidesTampa"
   },
   {
     "name": "Virtual Security Operation Center Summit Budapest",
@@ -57,11 +53,11 @@
   },
   {
     "name": "Cloud Native Security Day",
-    "url": "https://events.linuxfoundation.org/cloud-native-security-day-europe/",
+    "url": "https://events.linuxfoundation.org/cloud-native-security-day-europe",
     "startDate": "2021-05-04",
     "endDate": "2021-05-04",
     "online": true,
-    "cocUrl": "https://events.linuxfoundation.org/cloud-native-security-day-europe/attend/code-of-conduct/"
+    "cocUrl": "https://events.linuxfoundation.org/cloud-native-security-day-europe/attend/code-of-conduct"
   },
   {
     "name": "Qubit Conference New York",
@@ -75,13 +71,12 @@
   },
   {
     "name": "RuhrSec",
-    "url": "https://www.ruhrsec.de/2020",
+    "url": "https://www.ruhrsec.de",
     "startDate": "2021-05-18",
     "endDate": "2021-05-21",
     "city": "Bochum",
     "country": "Germany",
-    "twitter": "@ruhrsec",
-    "cocUrl": "https://www.ruhrsec.de/2020/codeofconduct.html"
+    "twitter": "@ruhrsec"
   },
   {
     "name": "IT Security Summit",
@@ -91,8 +86,8 @@
     "city": "Munich",
     "country": "Germany",
     "online": true,
-    "twitter": "@ITSecSummit",
-    "cocUrl": "https://it-security-summit.de/code-of-conduct/"
+    "cocUrl": "https://it-security-summit.de/code-of-conduct",
+    "twitter": "@ITSecSummit"
   },
   {
     "name": "QuBit Conference",
@@ -101,8 +96,8 @@
     "endDate": "2021-05-27",
     "city": "Jasna",
     "country": "Slovakia",
-    "twitter": "@QuBitCon",
-    "offersSignLanguageOrCC": false
+    "offersSignLanguageOrCC": false,
+    "twitter": "@QuBitCon"
   },
   {
     "name": "IdentityNORTH Annual Summit",
@@ -122,8 +117,8 @@
     "city": "Las Vegas, NV",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@BlackHatEvents",
-    "cocUrl": "https://www.blackhat.com/code-of-conduct.html"
+    "cocUrl": "https://www.blackhat.com/code-of-conduct.html",
+    "twitter": "@BlackHatEvents"
   },
   {
     "name": "DEF CON",
@@ -131,8 +126,7 @@
     "startDate": "2021-08-05",
     "endDate": "2021-08-08",
     "online": true,
-    "twitter": "@defcon",
-    "cocUrl": "https://defcon.org/html/links/dc-code-of-conduct.html"
+    "twitter": "@defcon"
   },
   {
     "name": "Women in CyberSecurity (WiCyS)",
@@ -142,11 +136,10 @@
     "city": "Denver, CO",
     "country": "U.S.A.",
     "online": false,
+    "offersSignLanguageOrCC": false,
     "cfpUrl": "https://www.wicys.org/events/call-for-participation",
     "cfpEndDate": "2021-03-01",
-    "twitter": "@WiCySorg",
-    "cocUrl": "https://membercommunity.wicys.org/page/Conduct",
-    "offersSignLanguageOrCC": false
+    "twitter": "@WiCySorg"
   },
   {
     "name": "IT Security Summit",
@@ -156,8 +149,8 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
-    "twitter": "@ITSecSummit",
-    "cocUrl": "https://it-security-summit.de/code-of-conduct/"
+    "cocUrl": "https://it-security-summit.de/code-of-conduct",
+    "twitter": "@ITSecSummit"
   },
   {
     "name": "HexCon",
@@ -165,8 +158,8 @@
     "startDate": "2021-09-21",
     "endDate": "2021-09-23",
     "online": true,
-    "twitter": "@thehexnode",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "twitter": "@thehexnode"
   },
   {
     "name": "Qubit Conference",
@@ -175,21 +168,21 @@
     "endDate": "2021-09-23",
     "city": "Prague",
     "country": "Czech Republic",
+    "offersSignLanguageOrCC": false,
     "cfpUrl": "https://prague.qubitconference.com/call-speakers-form-prague",
     "cfpEndDate": "2021-04-10",
-    "twitter": "@QuBitCon",
-    "offersSignLanguageOrCC": false
+    "twitter": "@QuBitCon"
   },
   {
     "name": "Linux Security Summit Europe",
-    "url": "https://events.linuxfoundation.org/linux-security-summit-europe/",
+    "url": "https://events.linuxfoundation.org/linux-security-summit-europe",
     "startDate": "2021-09-27",
     "endDate": "2021-09-29",
     "city": "Dublin",
     "country": "Ireland",
-    "cfpUrl": "https://events.linuxfoundation.org/linux-security-summit-europe/program/cfp/",
-    "cfpEndDate": "2021-06-27",
-    "cocUrl": "https://events.linuxfoundation.org/linux-security-summit-europe/attend/code-of-conduct/"
+    "cocUrl": "https://events.linuxfoundation.org/linux-security-summit-europe/attend/code-of-conduct",
+    "cfpUrl": "https://events.linuxfoundation.org/linux-security-summit-europe/program/cfp",
+    "cfpEndDate": "2021-06-27"
   },
   {
     "name": "Linux Security Summit",
@@ -199,10 +192,10 @@
     "city": "Seattle, WA",
     "country": "U.S.A.",
     "online": true,
+    "cocUrl": "https://events.linuxfoundation.org/linux-security-summit-north-america/attend/code-of-conduct",
     "cfpUrl": "https://events.linuxfoundation.org/linux-security-summit-north-america/program/cfp",
     "cfpEndDate": "2021-07-11",
-    "twitter": "@linuxfoundation",
-    "cocUrl": "https://events.linuxfoundation.org/linux-security-summit-north-america/attend/code-of-conduct/"
+    "twitter": "@linuxfoundation"
   },
   {
     "name": "Security Onion Conference",
@@ -230,8 +223,8 @@
     "startDate": "2021-10-11",
     "endDate": "2021-10-13",
     "online": true,
-    "twitter": "@ITSecurityCamp",
-    "cocUrl": "https://it-security-camp.de/code-of-conduct/"
+    "cocUrl": "https://it-security-camp.de/code-of-conduct",
+    "twitter": "@ITSecurityCamp"
   },
   {
     "name": "Ory Summit",
@@ -239,8 +232,8 @@
     "startDate": "2021-10-28",
     "endDate": "2021-10-29",
     "online": true,
-    "twitter": "@OryCorp",
-    "cocUrl": "https://www.ory.sh/code-of-conduct/"
+    "cocUrl": "https://www.ory.sh/code-of-conduct",
+    "twitter": "@OryCorp"
   },
   {
     "name": "CyberSec&AI Connected",
@@ -248,18 +241,7 @@
     "startDate": "2021-11-04",
     "endDate": "2021-11-05",
     "online": true,
-    "cfpUrl": "https://cybersecai.com/call-for-speakers",
-    "cfpEndDate": "2021-07-31",
-    "twitter": "@CyberSecAI",
-    "cocUrl": "https://www.avast.com/privacy-policy"
-  },
-  {
-    "name": "MuleSoft Transform",
-    "url": "https://www.mulesoft.com/transform",
-    "startDate": "2021-12-07",
-    "endDate": "2021-12-09",
-    "online": true,
-    "twitter": "@MuleSoft",
-    "offersSignLanguageOrCC": true
+    "cocUrl": "https://www.avast.com/privacy-policy",
+    "twitter": "@CyberSecAI"
   }
 ]

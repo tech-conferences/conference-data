@@ -15,9 +15,9 @@
     "startDate": "2024-02-06",
     "endDate": "2024-02-06",
     "online": true,
-    "twitter": "@M3_Konferenz",
+    "locales": "DE",
     "cocUrl": "https://m3-konferenz.de/code_of_conduct.php",
-    "locales": "DE"
+    "twitter": "@M3_Konferenz"
   },
   {
     "name": "DNLP",
@@ -25,23 +25,9 @@
     "startDate": "2024-02-17",
     "endDate": "2024-02-18",
     "online": true,
+    "locales": "EN",
     "cfpUrl": "https://aisca2024.org/submission/index.php",
-    "cfpEndDate": "2024-01-06",
-    "locales": "EN"
-  },
-  {
-    "name": "Civo Navigate North America",
-    "url": "https://www.civo.com/navigate/north-america",
-    "startDate": "2024-02-20",
-    "endDate": "2024-02-21",
-    "city": "Austin, TX",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://sessionize.com/civo-navigate-austin",
-    "cfpEndDate": "2023-09-29",
-    "twitter": "@civocloud",
-    "cocUrl": "https://www.civo.com/navigate/code-of-conduct",
-    "locales": "EN"
+    "cfpEndDate": "2024-01-06"
   },
   {
     "name": "Generative AI for Marketing Summit",
@@ -71,10 +57,10 @@
     "city": "Las Vegas, NV",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@vslive",
-    "cocUrl": "https://vslive.com/pages/harassment.aspx",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://vslive.com/pages/harassment.aspx",
+    "twitter": "@vslive"
   },
   {
     "name": "DataTune",
@@ -84,19 +70,18 @@
     "city": "Nashville, TN",
     "country": "U.S.A.",
     "online": false,
-    "cocUrl": "https://www.datatuneconf.com/code-of-conduct.html",
     "locales": "EN"
   },
   {
     "name": "The DEVOPS Conference",
-    "url": "https://www.thedevopsconference.com/",
+    "url": "https://www.thedevopsconference.com",
     "startDate": "2024-03-14",
     "endDate": "2024-03-14",
     "city": "London",
     "country": "U.K.",
     "online": true,
-    "twitter": "@eficode",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@eficode"
   },
   {
     "name": "nConnect",
@@ -116,9 +101,9 @@
     "city": "San Jose, CA",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@NVIDIAGTC",
-    "cocUrl": "https://www.nvidia.com/gtc/code-of-conduct/",
-    "locales": "EN"
+    "locales": "EN",
+    "cocUrl": "https://www.nvidia.com/gtc/code-of-conduct",
+    "twitter": "@NVIDIAGTC"
   },
   {
     "name": "KubeCon + CloudNativeCon",
@@ -128,9 +113,9 @@
     "city": "Paris",
     "country": "France",
     "online": true,
-    "twitter": "@CloudNativeFdn",
-    "cocUrl": "https://events.linuxfoundation.org/about/code-of-conduct/",
-    "locales": "EN"
+    "locales": "EN",
+    "cocUrl": "https://events.linuxfoundation.org/about/code-of-conduct",
+    "twitter": "@CloudNativeFdn"
   },
   {
     "name": "DMML",
@@ -138,9 +123,9 @@
     "startDate": "2024-03-23",
     "endDate": "2024-03-24",
     "online": true,
+    "locales": "EN",
     "cfpUrl": "https://necom2024.org/submission/index.php",
-    "cfpEndDate": "2024-01-06",
-    "locales": "EN"
+    "cfpEndDate": "2024-01-06"
   },
   {
     "name": "Gateway Software Symposium",
@@ -150,9 +135,9 @@
     "city": "St. Louis, MO",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@nofluff",
+    "locales": "EN",
     "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct",
-    "locales": "EN"
+    "twitter": "@nofluff"
   },
   {
     "name": "Women Techmakers Montreal",
@@ -162,11 +147,11 @@
     "city": "Montreal",
     "country": "Canada",
     "online": false,
+    "locales": "EN,FR",
+    "cocUrl": "https://wtmmontreal.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/wtmmontreal2024",
     "cfpEndDate": "2024-02-23",
-    "twitter": "@WTM_Montreal",
-    "cocUrl": "https://wtmmontreal.com/code-of-conduct/",
-    "locales": "EN,FR"
+    "twitter": "@WTM_Montreal"
   },
   {
     "name": "Serverless Architecture Conference London",
@@ -176,11 +161,9 @@
     "city": "London",
     "country": "U.K.",
     "online": true,
-    "cfpUrl": "https://serverless-architecture.io/call-for-papers",
-    "cfpEndDate": "2023-10-30",
-    "twitter": "@serverlesscon",
-    "cocUrl": "https://serverless-architecture.io/code-of-conduct/",
-    "locales": "EN"
+    "locales": "EN",
+    "cocUrl": "https://serverless-architecture.io/code-of-conduct",
+    "twitter": "@serverlesscon"
   },
   {
     "name": "Conf42 Large Language Models (LLMs)",
@@ -188,11 +171,11 @@
     "startDate": "2024-04-11",
     "endDate": "2024-04-11",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/conf42-large-language-models-llm-2024",
     "cfpEndDate": "2024-03-11",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@conf42com"
   },
   {
     "name": "Lone Star Software Symposium",
@@ -202,9 +185,9 @@
     "city": "Dallas, TX",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@nofluff",
+    "locales": "EN",
     "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct",
-    "locales": "EN"
+    "twitter": "@nofluff"
   },
   {
     "name": "Derby City Data Days",
@@ -222,25 +205,9 @@
     "startDate": "2024-04-16",
     "endDate": "2024-04-16",
     "online": true,
-    "cfpUrl": "https://aka.ms/AzureCosmosDBConf24CFP",
-    "cfpEndDate": "2024-02-15",
-    "twitter": "@AzureCosmosDB",
-    "cocUrl": "https://developer.microsoft.com/reactor/codeofconduct/",
-    "locales": "EN"
-  },
-  {
-    "name": "Navigate Local Tampa",
-    "url": "https://www.civo.com/navigate/local-tampa-2024",
-    "startDate": "2024-04-16",
-    "endDate": "2024-04-16",
-    "city": "Tampa, FL",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://sessionize.com/civo-navigate-local-tampa-2024",
-    "cfpEndDate": "2024-02-11",
-    "twitter": "@CivoCloud",
-    "cocUrl": "https://www.civo.com/navigate/code-of-conduct",
-    "locales": "EN"
+    "locales": "EN",
+    "cocUrl": "https://developer.microsoft.com/reactor/codeofconduct",
+    "twitter": "@AzureCosmosDB"
   },
   {
     "name": "Devoxx Greece",
@@ -250,20 +217,20 @@
     "city": "Athens",
     "country": "Greece",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://devoxx.gr/code-of-conduct",
     "cfpUrl": "https://dvgr24.cfp.dev/#/login",
-    "cfpEndDate": "2023-12-15",
-    "cocUrl": "https://devoxx.gr/code-of-conduct/",
-    "locales": "EN"
+    "cfpEndDate": "2023-12-15"
   },
   {
     "name": "PyCon DE & PyData Berlin",
-    "url": "https://2024.pycon.de/",
+    "url": "https://2024.pycon.de",
     "startDate": "2024-04-22",
     "endDate": "2024-04-24",
     "city": "Berlin",
     "country": "Germany",
-    "twitter": "@PyConDE",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@PyConDE"
   },
   {
     "name": "Women in Tech Global Conference",
@@ -271,8 +238,8 @@
     "startDate": "2024-04-23",
     "endDate": "2024-04-25",
     "online": true,
-    "twitter": "@WomenTechNet",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@WomenTechNet"
   },
   {
     "name": "Test Coast",
@@ -292,10 +259,10 @@
     "city": "Chicago, IL",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@vslive",
-    "cocUrl": "https://vslive.com/pages/harassment.aspx",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://vslive.com/pages/harassment.aspx",
+    "twitter": "@vslive"
   },
   {
     "name": "New England Software Symposium",
@@ -305,9 +272,9 @@
     "city": "Boston, MA",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@nofluff",
+    "locales": "EN",
     "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct",
-    "locales": "EN"
+    "twitter": "@nofluff"
   },
   {
     "name": "GOSIM",
@@ -327,9 +294,9 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
-    "twitter": "@DevoxxUK",
-    "cocUrl": "https://www.devoxx.co.uk/code-of-conduct/",
-    "locales": "EN"
+    "locales": "EN",
+    "cocUrl": "https://www.devoxx.co.uk/code-of-conduct",
+    "twitter": "@DevoxxUK"
   },
   {
     "name": "J On The Beach",
@@ -339,11 +306,11 @@
     "city": "Malaga",
     "country": "Spain",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://berlincodeofconduct.org",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdeZM1qf2fuLaXj06R4BA4dbh0mE8O2kly3vVaR6928xJfXvQ/viewform",
     "cfpEndDate": "2024-01-01",
-    "twitter": "@JOTBConf",
-    "cocUrl": "https://berlincodeofconduct.org/",
-    "locales": "EN"
+    "twitter": "@JOTBConf"
   },
   {
     "name": "EU-Startups Summit",
@@ -371,20 +338,31 @@
     "city": "Madison, WI",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@nofluff",
+    "locales": "EN",
     "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct",
-    "locales": "EN"
+    "twitter": "@nofluff"
+  },
+  {
+    "name": "AI in Prod",
+    "url": "https://events.weaviate.io/ai-in-prod-ny-24",
+    "startDate": "2024-05-21",
+    "endDate": "2024-05-21",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@weaviate_io"
   },
   {
     "name": "Embedded Vision Summit",
-    "url": "https://embeddedvisionsummit.com/",
+    "url": "https://embeddedvisionsummit.com",
     "startDate": "2024-05-21",
     "endDate": "2024-05-23",
     "city": "Santa Clara, CA",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@EmbVisionSummit",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@EmbVisionSummit"
   },
   {
     "name": "International Conference on Machine Learning Technologies (ICMLT)",
@@ -404,22 +382,22 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://webinale.de/code-of-conduct-en",
     "cfpUrl": "https://webinale.de/call-for-papers-en",
     "cfpEndDate": "2023-11-20",
-    "twitter": "@webinale",
-    "cocUrl": "https://webinale.de/code-of-conduct-en/",
-    "locales": "EN"
+    "twitter": "@webinale"
   },
   {
     "name": "PGConf.dev",
-    "url": "https://2024.pgconf.dev/",
+    "url": "https://2024.pgconf.dev",
     "startDate": "2024-05-28",
     "endDate": "2024-05-31",
     "city": "Vancouver",
     "country": "Canada",
-    "twitter": "@pgconfdev",
-    "cocUrl": "https://2024.pgconf.dev/coc/",
-    "locales": "EN"
+    "locales": "EN",
+    "cocUrl": "https://2024.pgconf.dev/coc",
+    "twitter": "@pgconfdev"
   },
   {
     "name": "AI DevSummit",
@@ -429,27 +407,15 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct",
     "cfpUrl": "https://sessionize.com/ai-devsummit-2024",
     "cfpEndDate": "2024-03-22",
-    "twitter": "@DevNetwork_",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "locales": "EN"
-  },
-  {
-    "name": "Artificial Intelligence & Machine Learning (AI & ML)",
-    "url": "https://www.conf42.com/aiml2024",
-    "startDate": "2024-05-30",
-    "endDate": "2024-05-30",
-    "online": true,
-    "cfpUrl": "https://www.papercall.io/conf42-artificial-intelligence-machine-learning-2024",
-    "cfpEndDate": "2024-04-29",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@DevNetwork_"
   },
   {
     "name": "International Conference on Automated Planning and Scheduling (ICAPS)",
-    "url": "https://icaps24.icaps-conference.org/",
+    "url": "https://icaps24.icaps-conference.org",
     "startDate": "2024-06-01",
     "endDate": "2024-06-06",
     "city": "Banff",
@@ -465,8 +431,8 @@
     "city": "Las Vegas, NV",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@TechWell",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@TechWell"
   },
   {
     "name": "Generative AI Middle East Show",
@@ -476,8 +442,8 @@
     "city": "Dubai",
     "country": "United Arab Emirates",
     "online": false,
-    "twitter": "@mseventsmea",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@mseventsmea"
   },
   {
     "name": "Berlin Buzzwords",
@@ -487,11 +453,11 @@
     "city": "Berlin",
     "country": "Germany",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://2024.berlinbuzzwords.de/code-of-conduct",
     "cfpUrl": "https://2024.berlinbuzzwords.de/call-for-papers",
     "cfpEndDate": "2024-02-25",
     "twitter": "@berlinbuzzwords",
-    "cocUrl": "https://2024.berlinbuzzwords.de/code-of-conduct/",
-    "locales": "EN",
     "mastodon": "@berlinbuzzwords@floss.social"
   },
   {
@@ -502,9 +468,9 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@Data_AI_Summit",
+    "locales": "EN",
     "cocUrl": "https://www.databricks.com/dataaisummit/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@Data_AI_Summit"
   },
   {
     "name": "PGDay France",
@@ -514,9 +480,20 @@
     "city": "Lille",
     "country": "France",
     "online": false,
-    "twitter": "@PGDAY_Fr",
+    "locales": "FR",
     "cocUrl": "https://pgday.fr/codedeconduite",
-    "locales": "FR"
+    "twitter": "@PGDAY_Fr"
+  },
+  {
+    "name": "MozFest House Amsterdam",
+    "url": "https://www.mozillafestival.org/nl",
+    "startDate": "2024-06-11",
+    "endDate": "2024-06-13",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": true,
+    "locales": "EN,NL",
+    "twitter": "@mozillafestival"
   },
   {
     "name": "World Conference on Data Science & Statistics",
@@ -540,13 +517,27 @@
   },
   {
     "name": "International Conference on Pattern Recognition and Artificial Intelligence (ICPRAI)",
-    "url": "https://brain.korea.ac.kr/icprai2024/",
+    "url": "https://brain.korea.ac.kr/icprai2024",
     "startDate": "2024-06-18",
     "endDate": "2024-06-21",
     "city": "Jeju",
     "country": "Korea",
     "online": false,
     "locales": "EN"
+  },
+  {
+    "name": "AI_dev: Open Souce GenAI & ML Summit",
+    "url": "https://events.linuxfoundation.org/ai-dev-europe",
+    "startDate": "2024-06-19",
+    "endDate": "2024-06-20",
+    "city": "Paris",
+    "country": "France",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://events.linuxfoundation.org/ai-dev-europe/attend/code-of-conduct",
+    "cfpUrl": "https://events.linuxfoundation.org/ai-dev-europe/program/cfp",
+    "cfpEndDate": "2024-03-05",
+    "twitter": "@LinuxFoundation"
   },
   {
     "name": "CascadiaJS",
@@ -556,12 +547,12 @@
     "city": "Seattle, WA",
     "country": "U.S.A.",
     "online": true,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://cascadiajs.com/code-of-conduct",
     "cfpUrl": "https://cascadiajs.com/2024/cfp",
     "cfpEndDate": "2024-02-04",
-    "twitter": "@cascadiajs",
-    "cocUrl": "https://cascadiajs.com/code-of-conduct",
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "twitter": "@cascadiajs"
   },
   {
     "name": "Artificial Intelligence for Geological Modelling and Mapping",
@@ -581,8 +572,20 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@AIQCon",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@AIQCon"
+  },
+  {
+    "name": "AI Engineer Worlds Fair",
+    "url": "https://www.ai.engineer/worldsfair",
+    "startDate": "2024-06-25",
+    "endDate": "2024-06-27",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.ai.engineer/worldsfair/conduct",
+    "twitter": "@aiDotEngineer"
   },
   {
     "name": "MLCon",
@@ -592,34 +595,19 @@
     "city": "Munich",
     "country": "Germany",
     "online": true,
-    "twitter": "@mlconference",
-    "cocUrl": "https://mlconference.ai/code-of-conduct/",
+    "locales": "EN",
+    "cocUrl": "https://mlconference.ai/code-of-conduct",
+    "twitter": "@mlconference"
+  },
+  {
+    "name": "Mirai - AI Tech Event",
+    "url": "https://mirai.events",
+    "startDate": "2024-07-05",
+    "endDate": "2024-07-05",
+    "city": "Delhi",
+    "country": "India",
+    "online": false,
     "locales": "EN"
-  },
-  {
-    "name": "Swiss PGDay",
-    "url": "https://www.pgday.ch/2024",
-    "startDate": "2024-06-27",
-    "endDate": "2024-06-28",
-    "city": "Rapperswil-Jona",
-    "country": "Switzerland",
-    "online": false,
-    "cfpUrl": "https://www.pgday.ch/2024/#cfs",
-    "cfpEndDate": "2024-04-08",
-    "cocUrl": "https://www.postgresql.org/about/policies/coc/",
-    "locales": "EN,DE",
-    "mastodon": "@Swiss_PGDay@fosstodon.org"
-  },
-  {
-    "name": "Festival of the Future",
-    "url": "https://festival.1e9.community/english",
-    "startDate": "2024-06-27",
-    "endDate": "2024-06-30",
-    "city": "Munich",
-    "country": "Germany",
-    "online": false,
-    "twitter": "@1E9tech",
-    "locales": "EN,DE"
   },
   {
     "name": "Turing Fest",
@@ -629,9 +617,9 @@
     "city": "Edinburgh",
     "country": "U.K.",
     "online": false,
-    "twitter": "@turingfest",
-    "cocUrl": "https://turingfest.com/code-of-conduct/",
-    "locales": "EN"
+    "locales": "EN",
+    "cocUrl": "https://turingfest.com/code-of-conduct",
+    "twitter": "@turingfest"
   },
   {
     "name": "DataConnect Conference",
@@ -641,7 +629,17 @@
     "city": "Columbus, OH",
     "country": "U.S.A.",
     "online": true,
-    "twitter": "@dataconnectconf",
+    "locales": "EN",
+    "twitter": "@dataconnectconf"
+  },
+  {
+    "name": "AI in Production",
+    "url": "https://www.aiinproduction.com",
+    "startDate": "2024-07-18",
+    "endDate": "2024-07-19",
+    "city": "Asheville, NC",
+    "country": "U.S.A.",
+    "online": false,
     "locales": "EN"
   },
   {
@@ -652,7 +650,17 @@
     "city": "Vienna",
     "country": "Austria",
     "online": true,
-    "twitter": "@icmlconf",
+    "locales": "EN",
+    "twitter": "@icmlconf"
+  },
+  {
+    "name": "The MachineCon",
+    "url": "https://machinecon.aimresearch.co",
+    "startDate": "2024-07-26",
+    "endDate": "2024-07-26",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": false,
     "locales": "EN"
   },
   {
@@ -663,20 +671,51 @@
     "city": "Redmond, WA",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@vslive",
-    "cocUrl": "https://vslive.com/pages/harassment.aspx",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://vslive.com/pages/harassment.aspx",
+    "twitter": "@vslive"
   },
   {
-    "name": "AI Showcase",
-    "url": "https://sfai.vercel.app",
-    "startDate": "2024-08-16",
-    "endDate": "2024-08-17",
-    "city": "San Francisco, CA",
+    "name": "Ai4",
+    "url": "https://ai4.io/vegas",
+    "startDate": "2024-08-12",
+    "endDate": "2024-08-14",
+    "city": "Las Vegas, NV",
     "country": "U.S.A.",
     "online": false,
+    "cocUrl": "https://ai4.io/usa/health-and-safety",
+    "twitter": "@Ai4Conferences"
+  },
+  {
+    "name": "The Modern Data Quality Summit",
+    "url": "https://moderndataqualitysummit.com",
+    "startDate": "2024-08-20",
+    "endDate": "2024-08-21",
+    "online": true,
     "locales": "EN"
+  },
+  {
+    "name": "CDAO Melbourne",
+    "url": "https://cdao-mel.coriniumintelligence.com",
+    "startDate": "2024-09-02",
+    "endDate": "2024-09-04",
+    "city": "Melbourne",
+    "country": "Australia",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@CoriniumGlobal"
+  },
+  {
+    "name": "CDAO Brazil",
+    "url": "https://www.quirks.com/events/cdao-brazil-2024",
+    "startDate": "2024-09-10",
+    "endDate": "2024-09-11",
+    "city": "São Paulo",
+    "country": "Brazil",
+    "online": false,
+    "locales": "EN,PT",
+    "twitter": "@CoriniumGlobal"
   },
   {
     "name": "Civo Navigate Europe",
@@ -686,11 +725,11 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.civo.com/navigate/code-of-conduct",
     "cfpUrl": "https://sessionize.com/civo-navigate-europe-2024",
     "cfpEndDate": "2024-05-07",
-    "twitter": "@CivoCloud",
-    "cocUrl": "https://www.civo.com/navigate/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@CivoCloud"
   },
   {
     "name": "GraphQLConf",
@@ -700,33 +739,71 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://graphql.org/conf/2024/speak/#code-of-conduct",
     "cfpUrl": "https://graphql.org/conf/2024/speak",
     "cfpEndDate": "2024-05-22",
-    "twitter": "@graphql",
-    "cocUrl": "https://graphql.org/conf/2024/speak/#code-of-conduct",
-    "locales": "EN"
+    "twitter": "@graphql"
   },
   {
-    "name": "PGDay UK",
-    "url": "https://pgday.uk/",
+    "name": "Data Architecture",
+    "url": "https://data-architecture-uk.coriniumintelligence.com",
     "startDate": "2024-09-11",
     "endDate": "2024-09-11",
     "city": "London",
     "country": "U.K.",
     "online": false,
-    "twitter": "@pgdaylowlands",
+    "locales": "EN",
+    "twitter": "@CoriniumGlobal"
+  },
+  {
+    "name": "PGDay UK",
+    "url": "https://pgday.uk",
+    "startDate": "2024-09-11",
+    "endDate": "2024-09-11",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
     "locales": "EN"
   },
   {
+    "name": "RTC.On",
+    "url": "https://rtcon.live",
+    "startDate": "2024-09-11",
+    "endDate": "2024-09-13",
+    "city": "Kraków",
+    "country": "Poland",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://rtcon.live/code-of-conduct",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSel_6kQ6AXMAbtua6QjqfTAFiLauXSB0lHjl8uvd-wlTzzSwQ/viewform",
+    "cfpEndDate": "2024-06-28",
+    "twitter": "@ElixirMembrane"
+  },
+  {
+    "name": "PGDay Lowlands",
+    "url": "https://2024.pgday.nl",
+    "startDate": "2024-09-13",
+    "endDate": "2024-09-13",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://2024.pgday.nl/code-of-conduct",
+    "cfpUrl": "https://2024.pgday.nl/call-for-papers",
+    "cfpEndDate": "2024-07-09",
+    "twitter": "@pgdaylowlands"
+  },
+  {
     "name": "Big Data London",
-    "url": "https://bigdataldn.com/",
+    "url": "https://bigdataldn.com",
     "startDate": "2024-09-18",
     "endDate": "2024-09-19",
     "city": "London",
     "country": "U.K.",
     "online": true,
-    "twitter": "@BigData_LDN",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@BigData_LDN"
   },
   {
     "name": "data2day",
@@ -736,22 +813,22 @@
     "city": "Heidelberg",
     "country": "Germany",
     "online": false,
+    "locales": "DE",
+    "cocUrl": "https://www.data2day.de/code_of_conduct.php?source=0",
     "cfpUrl": "https://www.data2day.de/cfp.php",
     "cfpEndDate": "2024-03-18",
-    "twitter": "@data2day",
-    "cocUrl": "https://www.data2day.de/code_of_conduct.php?source=0",
-    "locales": "DE"
+    "twitter": "@data2day"
   },
   {
-    "name": "TechHeads Conference",
-    "url": "https://techheads.se",
+    "name": "APAC Data 2030 Summit",
+    "url": "https://apac.data2030summit.com",
     "startDate": "2024-09-24",
     "endDate": "2024-09-24",
-    "city": "Kalmar",
-    "country": "Sweden",
+    "city": "Singapore",
+    "country": "Singapore",
     "online": false,
-    "cocUrl": "https://techheads.se/code-of-conduct/",
-    "locales": "EN"
+    "locales": "EN",
+    "twitter": "@apacdata2030"
   },
   {
     "name": "hayaData",
@@ -761,24 +838,88 @@
     "city": "Tel Aviv",
     "country": "Israel",
     "online": false,
+    "locales": "EN,HE",
     "cfpUrl": "https://sessionize.com/hayadata-2024",
-    "cfpEndDate": "2024-05-18",
-    "cocUrl": "https://www.haya-data.com/code-of-conduct/",
-    "locales": "EN,HE"
+    "cfpEndDate": "2024-05-18"
+  },
+  {
+    "name": "iterate=>RUHR",
+    "url": "https://iterate.ruhr",
+    "startDate": "2024-09-27",
+    "endDate": "2024-09-28",
+    "city": "Essen",
+    "country": "Germany",
+    "online": false,
+    "locales": "DE",
+    "cocUrl": "https://berlincodeofconduct.org/de"
+  },
+  {
+    "name": "GovAI Summit",
+    "url": "https://www.govaisummit.com",
+    "startDate": "2024-09-28",
+    "endDate": "2024-09-30",
+    "city": "Arlington, VA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN"
   },
   {
     "name": "PGConf NYC",
-    "url": "https://2024.pgconf.nyc/",
+    "url": "https://2024.pgconf.nyc",
     "startDate": "2024-09-30",
     "endDate": "2024-10-02",
     "city": "New York, NY",
     "country": "U.S.A.",
     "online": false,
-    "cfpUrl": "https://postgresql.us/events/pgconfnyc2024/",
+    "locales": "EN",
+    "cocUrl": "https://2024.pgconf.nyc/policies",
+    "cfpUrl": "https://postgresql.us/events/pgconfnyc2024",
     "cfpEndDate": "2024-06-05",
-    "twitter": "@pgconfnyc",
-    "cocUrl": "https://2024.pgconf.nyc/policies/",
+    "twitter": "@pgconfnyc"
+  },
+  {
+    "name": "Ray Summit",
+    "url": "https://raysummit.anyscale.com",
+    "startDate": "2024-09-30",
+    "endDate": "2024-10-02",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": true,
+    "locales": "EN",
+    "cfpUrl": "https://raysummit.anyscale.com/flow/anyscale/raysummit2024/callforpapers/login",
+    "cfpEndDate": "2024-05-08"
+  },
+  {
+    "name": "Fin + AI",
+    "url": "https://www.finaiconference.com",
+    "startDate": "2024-10-02",
+    "endDate": "2024-10-04",
+    "city": "Fort Lauderdale, FL",
+    "country": "U.S.A.",
+    "online": false,
     "locales": "EN"
+  },
+  {
+    "name": "SingleStore Now",
+    "url": "https://events.singlestore.com/singlestore-now-2024",
+    "startDate": "2024-10-03",
+    "endDate": "2024-10-03",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@singlestoredb"
+  },
+  {
+    "name": "Compass Tech Summit",
+    "url": "https://ti.to/crafthub/compass-tech-summit-2024",
+    "startDate": "2024-10-03",
+    "endDate": "2024-10-04",
+    "city": "Budapest",
+    "country": "Hungary",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@amuseconf"
   },
   {
     "name": "MLCon New York",
@@ -788,11 +929,72 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://mlconference.ai/code-of-conduct",
     "cfpUrl": "https://mlconference.ai/new-york/call-for-papers",
     "cfpEndDate": "2024-03-25",
-    "twitter": "@mlconference",
-    "cocUrl": "https://mlconference.ai/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@mlconference"
+  },
+  {
+    "name": "GraphQL Summit",
+    "url": "https://summit.graphql.com",
+    "startDate": "2024-10-08",
+    "endDate": "2024-10-10",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.apollographql.com/docs/community/code-of-conduct",
+    "cfpUrl": "https://reg.summit.graphql.com/flow/apollo/summit24/speaker-landing-page/page/home",
+    "cfpEndDate": "2024-05-20",
+    "twitter": "@graphqlsummit"
+  },
+  {
+    "name": "ABC Conclave",
+    "url": "https://www.abcconclave.com",
+    "startDate": "2024-10-11",
+    "endDate": "2024-10-12",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@abc_conclave"
+  },
+  {
+    "name": "AI.dev: Open Souce GenAI & ML Summit",
+    "url": "https://events.linuxfoundation.org/ai-dev-north-america",
+    "startDate": "2024-10-14",
+    "endDate": "2024-10-15",
+    "city": "Seattle, WA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://events.linuxfoundation.org/ai-dev-north-america/attend/code-of-conduct",
+    "cfpUrl": "https://events.linuxfoundation.org/ai-dev-north-america/program/cfp",
+    "cfpEndDate": "2023-10-23",
+    "twitter": "@LinuxFoundation"
+  },
+  {
+    "name": "CDAO  Malaysia",
+    "url": "https://cdao-my.coriniumintelligence.com",
+    "startDate": "2024-10-15",
+    "endDate": "2024-10-15",
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@CoriniumGlobal"
+  },
+  {
+    "name": "CDAO Fall",
+    "url": "https://cdao-fall.coriniumintelligence.com",
+    "startDate": "2024-10-15",
+    "endDate": "2024-10-17",
+    "city": "Boston, MA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@CoriniumGlobal"
   },
   {
     "name": "dotAI",
@@ -802,11 +1004,121 @@
     "city": "Paris",
     "country": "France",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.dotai.io/code-of-conduct",
     "cfpUrl": "https://www.dotai.io/cfp",
     "cfpEndDate": "2024-04-30",
-    "twitter": "@dotaiconf",
-    "cocUrl": "https://www.dotai.io/code-of-conduct",
+    "twitter": "@dotaiconf"
+  },
+  {
+    "name": "CDAO Perth",
+    "url": "https://cdao-perth.coriniumintelligence.com",
+    "startDate": "2024-10-22",
+    "endDate": "2024-10-22",
+    "city": "Perth",
+    "country": "Australia",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@CoriniumGlobal"
+  },
+  {
+    "name": "PGConf EU",
+    "url": "https://2024.pgconf.eu",
+    "startDate": "2024-10-22",
+    "endDate": "2024-10-25",
+    "city": "Athens",
+    "country": "Greece",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://2024.pgconf.eu/code-of-conduct",
+    "cfpUrl": "https://2024.pgconf.eu/call-for-papers",
+    "cfpEndDate": "2024-07-01",
+    "twitter": "@pgconfeu"
+  },
+  {
+    "name": "AI_dev: Open Souce GenAI & ML Summit Japan",
+    "url": "https://events.linuxfoundation.org/ai-dev-japan",
+    "startDate": "2024-10-28",
+    "endDate": "2024-10-29",
+    "city": "Tokyo",
+    "country": "Japan",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://events.linuxfoundation.org/ai-dev-japan/attend/code-of-conduct",
+    "cfpUrl": "https://events.linuxfoundation.org/ai-dev-japan/program/cfp",
+    "cfpEndDate": "2024-07-07",
+    "twitter": "@LinuxFoundation"
+  },
+  {
+    "name": "GNRT.AI",
+    "url": "https://gnrt.ai",
+    "startDate": "2024-10-28",
+    "endDate": "2024-10-30",
+    "city": "Arlington, VA",
+    "country": "U.S.A.",
+    "online": false,
     "locales": "EN"
+  },
+  {
+    "name": "CDAO Frankfurt",
+    "url": "https://cdao-frankfurt.coriniumintelligence.com",
+    "startDate": "2024-10-30",
+    "endDate": "2024-10-30",
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@CoriniumGlobal"
+  },
+  {
+    "name": "CDAO New Zealand",
+    "url": "https://cdao-nz.coriniumintelligence.com",
+    "startDate": "2024-11-05",
+    "endDate": "2024-11-06",
+    "city": "Auckland",
+    "country": "New Zealand",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@CoriniumGlobal"
+  },
+  {
+    "name": "CloudX",
+    "url": "https://www.developerweek.com/cloudx",
+    "startDate": "2024-11-05",
+    "endDate": "2024-11-07",
+    "city": "Santa Clara, CA",
+    "country": "U.S.A.",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct",
+    "cfpUrl": "https://sessionize.com/cloudx-2024",
+    "cfpEndDate": "2024-06-14",
+    "twitter": "@DeveloperWeek"
+  },
+  {
+    "name": "Conversational AI & Customer Experience Summit",
+    "url": "https://conversationaltechsummit.com",
+    "startDate": "2024-11-06",
+    "endDate": "2024-11-07",
+    "city": "Munich",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@AltrusiaGlobal"
+  },
+  {
+    "name": "DevIgnition",
+    "url": "https://devignition.com",
+    "startDate": "2024-11-07",
+    "endDate": "2024-11-07",
+    "city": "Washington, DC",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://devignition.com/conduct",
+    "cfpUrl": "https://www.papercall.io/devignition2024",
+    "cfpEndDate": "2024-09-27",
+    "twitter": "@devignition"
   },
   {
     "name": "NODES",
@@ -814,10 +1126,10 @@
     "startDate": "2024-11-07",
     "endDate": "2024-11-07",
     "online": true,
+    "locales": "EN",
     "cfpUrl": "https://sessionize.com/nodes-2024",
     "cfpEndDate": "2024-06-15",
-    "twitter": "@neo4j",
-    "locales": "EN"
+    "twitter": "@neo4j"
   },
   {
     "name": "ML in PL Conference",
@@ -827,8 +1139,54 @@
     "city": "Warsaw",
     "country": "Poland",
     "online": false,
-    "twitter": "@MLinPL",
-    "locales": "EN,PL"
+    "locales": "EN,PL",
+    "twitter": "@MLinPL"
+  },
+  {
+    "name": "Software Architecture Gathering",
+    "url": "https://conferences.isaqb.org/software-architecture-gathering",
+    "startDate": "2024-11-11",
+    "endDate": "2024-11-14",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://conferences.isaqb.org/software-architecture-gathering/code-of-conduct",
+    "cfpUrl": "https://sessionize.com/isaqb-software-architecture-gathering",
+    "cfpEndDate": "2024-06-04",
+    "twitter": "@sag_conference"
+  },
+  {
+    "name": "CDAO Europe",
+    "url": "https://cdao-eu.coriniumintelligence.com",
+    "startDate": "2024-11-12",
+    "endDate": "2024-11-12",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@CoriniumGlobal"
+  },
+  {
+    "name": "IEEE World Technology Summit",
+    "url": "https://wts.ieee.org",
+    "startDate": "2024-11-12",
+    "endDate": "2024-11-14",
+    "city": "San Jose, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN"
+  },
+  {
+    "name": "SpiceWorld",
+    "url": "https://www.spiceworks.com/spiceworld",
+    "startDate": "2024-11-13",
+    "endDate": "2024-11-14",
+    "city": "Austin, TX",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@spiceworks"
   },
   {
     "name": "Update Conference Prague",
@@ -838,9 +1196,31 @@
     "city": "Prague",
     "country": "Czech Republic",
     "online": true,
-    "twitter": "@update_conf",
+    "locales": "EN",
     "cocUrl": "https://www.updateconference.net/en/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@update_conf"
+  },
+  {
+    "name": "CDAO Nordics",
+    "url": "https://cdao-nordics.coriniumintelligence.com",
+    "startDate": "2024-11-19",
+    "endDate": "2024-11-19",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@CoriniumGlobal"
+  },
+  {
+    "name": "AI Integration & Autonomous Mobility",
+    "url": "https://www.automantia.in",
+    "startDate": "2024-11-21",
+    "endDate": "2024-11-21",
+    "city": "Munich",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "Conf42 Prompt Engineering",
@@ -848,11 +1228,22 @@
     "startDate": "2024-11-21",
     "endDate": "2024-11-21",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/conf42-prompt-engineering-2024",
     "cfpEndDate": "2024-10-21",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@conf42com"
+  },
+  {
+    "name": "Cypher",
+    "url": "https://cypher.aimresearch.co",
+    "startDate": "2024-11-21",
+    "endDate": "2024-11-22",
+    "city": "Santa Clara, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@analyticsindiam"
   },
   {
     "name": "Global Research Conference on Robotics and Artificial Intelligence",
@@ -865,6 +1256,18 @@
     "locales": "EN"
   },
   {
+    "name": "MLCon Berlin",
+    "url": "https://mlconference.ai/berlin",
+    "startDate": "2024-11-25",
+    "endDate": "2024-11-29",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://mlconference.ai/code-of-conduct/",
+    "twitter": "@mlconference"
+  },
+  {
     "name": "Oh My Hack",
     "url": "https://omhconf.pl",
     "startDate": "2024-11-26",
@@ -872,11 +1275,10 @@
     "city": "Warsaw",
     "country": "Poland",
     "online": false,
+    "locales": "PL",
     "cfpUrl": "https://omhconf.pl/cfp-2024",
     "cfpEndDate": "2024-09-16",
-    "twitter": "@OMHconf",
-    "cocUrl": "https://omhconf.pl/wp-content/uploads/2024/02/Code-of-Conduct-2024.pdf",
-    "locales": "PL"
+    "twitter": "@OMHconf"
   },
   {
     "name": "Tech Leader Summit",
@@ -886,9 +1288,9 @@
     "city": "Clearwater, FL",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@nofluff",
+    "locales": "EN",
     "cocUrl": "https://techleadersummit.io/home/code_of_conduct",
-    "locales": "EN"
+    "twitter": "@nofluff"
   },
   {
     "name": "ArchConf",
@@ -898,9 +1300,9 @@
     "city": "Clearwater, FL",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@nofluff",
+    "locales": "EN",
     "cocUrl": "https://archconf.com/home/code_of_conduct",
-    "locales": "EN"
+    "twitter": "@nofluff"
   },
   {
     "name": "Conf42 Internet of Things (IoT)",
@@ -908,10 +1310,10 @@
     "startDate": "2024-12-19",
     "endDate": "2024-12-19",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/conf42-iot-2024",
     "cfpEndDate": "2024-11-18",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@conf42com"
   }
 ]

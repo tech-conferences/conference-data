@@ -5,9 +5,7 @@
     "startDate": "2019-04-20",
     "endDate": "2019-04-23",
     "city": "Beijing",
-    "country": "China",
-    "cfpUrl": "https://cfp.rustcon.asia/events/rustcon-asia",
-    "cfpEndDate": "2019-03-02"
+    "country": "China"
   },
   {
     "name": "RustLab",
@@ -35,8 +33,6 @@
     "endDate": "2019-09-21",
     "city": "Denver, CO",
     "country": "U.S.A.",
-    "cfpUrl": "https://cfp.cogoldrust.com/events/cogoldrust-2019",
-    "cfpEndDate": "2019-07-15",
     "twitter": "@COGoldRust"
   },
   {
@@ -59,7 +55,7 @@
   },
   {
     "name": "RustFest Barcelona",
-    "url": "https://barcelona.rustfest.eu/",
+    "url": "https://barcelona.rustfest.eu",
     "startDate": "2019-11-09",
     "endDate": "2019-11-12",
     "city": "Barcelona",

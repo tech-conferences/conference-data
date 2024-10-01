@@ -1,28 +1,5 @@
 [
   {
-    "name": "enterJS Web-Performance Day",
-    "url": "https://enterjs.de/web-performance.php",
-    "startDate": "2023-02-15",
-    "endDate": "2023-02-15",
-    "online": true,
-    "twitter": "@enterjsconf",
-    "cocUrl": "https://enterjs.de/code_of_conduct.php",
-    "locales": "DE"
-  },
-  {
-    "name": "ConFoo",
-    "url": "https://confoo.ca/en/2023",
-    "startDate": "2023-02-22",
-    "endDate": "2023-02-24",
-    "city": "Montreal",
-    "country": "Canada",
-    "online": false,
-    "cfpUrl": "https://confoo.ca/en/2023/call-for-papers",
-    "cfpEndDate": "2022-10-06",
-    "twitter": "@confooca",
-    "cocUrl": "https://confoo.ca/en/code-of-conduct"
-  },
-  {
     "name": "LevelUp",
     "url": "https://clickup.com/events/levelup",
     "startDate": "2023-02-28",
@@ -36,11 +13,10 @@
     "startDate": "2023-03-09",
     "endDate": "2023-03-10",
     "online": true,
+    "locales": "EN",
     "cfpUrl": "https://forms.gle/DAAqV4DHZMYJ2bN57",
     "cfpEndDate": "2023-02-01",
-    "twitter": "@TechLeadJS",
-    "cocUrl": "https://techleadconf.com/coc",
-    "locales": "EN"
+    "twitter": "@TechLeadJS"
   },
   {
     "name": "SREcon Americas",
@@ -50,38 +26,11 @@
     "city": "Santa Clara, CA",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.usenix.org/conferences/coc",
     "cfpUrl": "https://www.usenix.org/conference/srecon23americas/call-for-participation",
     "cfpEndDate": "2022-12-01",
-    "twitter": "@srecon",
-    "cocUrl": "https://www.usenix.org/conferences/coc",
-    "locales": "EN"
-  },
-  {
-    "name": "Wasm I/O",
-    "url": "https://wasmio.tech",
-    "startDate": "2023-03-23",
-    "endDate": "2023-03-24",
-    "city": "Barcelona",
-    "country": "Spain",
-    "online": false,
-    "cfpUrl": "https://www.papercall.io/wasmio23",
-    "cfpEndDate": "2023-01-17",
-    "twitter": "@wasm_io",
-    "cocUrl": "https://wasmio.tech/coc"
-  },
-  {
-    "name": "Open Source Day",
-    "url": "https://2023.osday.dev",
-    "startDate": "2023-03-24",
-    "endDate": "2023-03-24",
-    "city": "Florence",
-    "country": "Italy",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/opensourceday23",
-    "cfpEndDate": "2023-02-05",
-    "twitter": "@OSDayDev",
-    "cocUrl": "https://www.schrodinger-hat.it/code-of-conduct",
-    "locales": "EN,IT"
+    "twitter": "@srecon"
   },
   {
     "name": "DevOps Conference London",
@@ -91,33 +40,9 @@
     "city": "London",
     "country": "U.K.",
     "online": true,
-    "twitter": "@devops_con",
-    "cocUrl": "https://devopscon.io/code-of-conduct/",
-    "locales": "EN"
-  },
-  {
-    "name": "Ateraverse",
-    "url": "https://www.atera.com/lp/ateraverse",
-    "startDate": "2023-05-03",
-    "endDate": "2023-05-04",
-    "online": true,
-    "cocUrl": "https://www.atera.com/terms-of-use/",
-    "locales": "EN"
-  },
-  {
-    "name": "Remix Conf",
-    "url": "https://remix.run/conf",
-    "startDate": "2023-05-09",
-    "endDate": "2023-05-11",
-    "city": "Salt Lake City, UT",
-    "country": "U.S.A.",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/remix-2023",
-    "cfpEndDate": "2023-02-08",
-    "twitter": "@remix_run",
-    "cocUrl": "https://remix.run/conf/2023/coc",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "cocUrl": "https://devopscon.io/code-of-conduct",
+    "twitter": "@devops_con"
   },
   {
     "name": "We Love Speed",
@@ -127,9 +52,9 @@
     "city": "Paris",
     "country": "France",
     "online": false,
-    "twitter": "@_welovespeed",
-    "cocUrl": "https://www.welovespeed.com/2023/code-de-conduite/",
-    "locales": "FR"
+    "locales": "FR",
+    "cocUrl": "https://www.welovespeed.com/2023/code-de-conduite",
+    "twitter": "@_welovespeed"
   },
   {
     "name": "SmashingConf SF",
@@ -139,9 +64,9 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "online": false,
-    "cocUrl": "https://smashingconf.com/codeofconduct",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://smashingconf.com/codeofconduct"
   },
   {
     "name": "Web Directions Code",
@@ -151,22 +76,10 @@
     "city": "Melbourne",
     "country": "Australia",
     "online": true,
-    "twitter": "@webdirections",
-    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "AgileTD Open Air",
-    "url": "https://openair.agiletestingdays.com",
-    "startDate": "2023-06-13",
-    "endDate": "2023-06-15",
-    "city": "Cologne",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://cfp.trendig.com/AgileTD_OpenAir_2023",
-    "cfpEndDate": "2022-08-31",
-    "twitter": "@AgileTDOpenAir"
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct",
+    "twitter": "@webdirections"
   },
   {
     "name": "SRECon_ APAC",
@@ -176,9 +89,9 @@
     "city": "Singapore",
     "country": "Singapore",
     "online": false,
-    "twitter": "@srecon",
+    "locales": "EN",
     "cocUrl": "https://www.usenix.org/conferences/coc",
-    "locales": "EN"
+    "twitter": "@srecon"
   },
   {
     "name": "Conversational AI & customer experience Summit",
@@ -188,23 +101,9 @@
     "city": "Kuala Lumpur",
     "country": "Malaysia",
     "online": false,
-    "cocUrl": "https://conversationaltechsummit.com/",
     "locales": "EN",
-    "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "JCON EUROPE",
-    "url": "https://2023.europe.jcon.one",
-    "startDate": "2023-06-20",
-    "endDate": "2023-06-23",
-    "city": "Cologne",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://2023.europe.jcon.one/call-for-papers",
-    "cfpEndDate": "2023-01-31",
-    "twitter": "@jcon_conference",
-    "cocUrl": "https://2023.europe.jcon.one/code-of-conduct",
-    "locales": "EN,DE"
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://conversationaltechsummit.com"
   },
   {
     "name": "Software Architecture Conference",
@@ -212,11 +111,11 @@
     "startDate": "2023-08-25",
     "endDate": "2023-08-25",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://softwarearchitecture.live/code-of-conduct",
     "cfpUrl": "https://forms.office.com/r/XjVUaRDbKR",
     "cfpEndDate": "2023-07-05",
-    "twitter": "@csharpdottv",
-    "cocUrl": "https://softwarearchitecture.live/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@csharpdottv"
   },
   {
     "name": "ML Conference New York",
@@ -226,11 +125,11 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://mlconference.ai/code-of-conduct",
     "cfpUrl": "https://mlconference.ai/code-of-conduct",
     "cfpEndDate": "2023-03-13",
-    "twitter": "@mlconference",
-    "cocUrl": "https://mlconference.ai/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@mlconference"
   },
   {
     "name": "Global Software Architecture Summit (GSAS)",
@@ -240,24 +139,11 @@
     "city": "Barcelona",
     "country": "Spain",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://gsas.io",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdTHOW73JXdo4quGqBgRpnABd0zjd3_Op4B-bWDCmnNPIiElw/viewform",
     "cfpEndDate": "2023-05-01",
-    "twitter": "@gsas_io",
-    "cocUrl": "https://gsas.io/",
-    "locales": "EN"
-  },
-  {
-    "name": "P99 CONF",
-    "url": "https://www.p99conf.io",
-    "startDate": "2023-10-18",
-    "endDate": "2023-10-19",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/p99-conf-2023",
-    "cfpEndDate": "2023-05-12",
-    "twitter": "@p99conf",
-    "cocUrl": "https://www.p99conf.io/code-of-conduct/",
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
+    "twitter": "@gsas_io"
   },
   {
     "name": "AI DevWorld",
@@ -267,49 +153,10 @@
     "city": "Santa Clara, CA",
     "country": "U.S.A.",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct",
     "cfpUrl": "https://sessionize.com/ai-devworld-2023",
     "cfpEndDate": "2023-06-09",
-    "twitter": "@APIWorld",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
-    "locales": "EN"
-  },
-  {
-    "name": "Web Directions Summit",
-    "url": "https://webdirections.org/summit",
-    "startDate": "2023-10-26",
-    "endDate": "2023-10-27",
-    "city": "Sydney",
-    "country": "Australia",
-    "online": true,
-    "cfpUrl": "https://webdirections.org/speaking",
-    "cfpEndDate": "2023-05-31",
-    "twitter": "@webdirections",
-    "cocUrl": "https://webdirections.org/web-directions-event-code-of-conduct/",
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "Adobe Developers Live | APAC: Content & Commerce",
-    "url": "https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-apac-content-and-commerce",
-    "startDate": "2023-11-15",
-    "endDate": "2023-11-15",
-    "online": true,
-    "twitter": "@AdobeDevs",
-    "cocUrl": "https://business.adobe.com/events/developers-live-code-of-conduct.html",
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "Open Source Experience",
-    "url": "https://www.opensource-experience.com",
-    "startDate": "2023-12-06",
-    "endDate": "2023-12-07",
-    "city": "Paris",
-    "country": "France",
-    "online": false,
-    "cfpUrl": "https://sessionize.com/open-source-experience-2023",
-    "cfpEndDate": "2023-06-25",
-    "twitter": "@OSXP_Paris",
-    "locales": "FR"
+    "twitter": "@APIWorld"
   }
 ]

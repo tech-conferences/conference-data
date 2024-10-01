@@ -19,7 +19,7 @@
   },
   {
     "name": "devopsdays Vitoria",
-    "url": "https://devopsdays.org/events/2020-vitoria/welcome/",
+    "url": "https://devopsdays.org/events/2020-vitoria/welcome",
     "startDate": "2020-02-08",
     "endDate": "2020-02-08",
     "city": "Vitoria",
@@ -36,7 +36,7 @@
   },
   {
     "name": "devopsdays Madrid",
-    "url": "https://devopsdays.org/events/2020-madrid/welcome/",
+    "url": "https://devopsdays.org/events/2020-madrid/welcome",
     "startDate": "2020-02-21",
     "endDate": "2020-02-21",
     "city": "Madrid",
@@ -45,7 +45,7 @@
   },
   {
     "name": "devopsdays Geneva",
-    "url": "https://devopsdays.org/events/2020-geneva/welcome/",
+    "url": "https://devopsdays.org/events/2020-geneva/welcome",
     "startDate": "2020-02-24",
     "endDate": "2020-02-25",
     "city": "Geneva",
@@ -54,7 +54,7 @@
   },
   {
     "name": "devopsdays Charlotte",
-    "url": "https://devopsdays.org/events/2020-charlotte/welcome/",
+    "url": "https://devopsdays.org/events/2020-charlotte/welcome",
     "startDate": "2020-02-27",
     "endDate": "2020-02-28",
     "city": "Charlotte, NC",
@@ -63,7 +63,7 @@
   },
   {
     "name": "devopsdays Cáceres",
-    "url": "https://devopsdays.org/events/2020-caceres/welcome/",
+    "url": "https://devopsdays.org/events/2020-caceres/welcome",
     "startDate": "2020-03-05",
     "endDate": "2020-03-06",
     "city": "Cáceres",
@@ -124,37 +124,6 @@
     "twitter": "@rejektsio"
   },
   {
-    "name": "NDC Copenhagen",
-    "url": "https://ndccopenhagen.com",
-    "startDate": "2020-04-01",
-    "endDate": "2020-04-03",
-    "online": true,
-    "twitter": "@NDC_Conferences"
-  },
-  {
-    "name": "Cloud Native Summit",
-    "url": "https://cloudnativesummit.online/",
-    "startDate": "2020-04-07",
-    "endDate": "2020-04-07",
-    "online": true
-  },
-  {
-    "name": "All Day DevOps",
-    "url": "https://www.alldaydevops.com/spring-break",
-    "startDate": "2020-04-17",
-    "endDate": "2020-04-17",
-    "online": true,
-    "twitter": "@alldaydevops"
-  },
-  {
-    "name": "NDC Porto",
-    "url": "https://ndcporto.com",
-    "startDate": "2020-04-21",
-    "endDate": "2020-04-24",
-    "online": true,
-    "twitter": "@NDC_Conferences"
-  },
-  {
     "name": "Red Hat Summit",
     "url": "https://www.redhat.com/en/summit",
     "startDate": "2020-04-28",
@@ -187,7 +156,7 @@
   },
   {
     "name": "RedisConf",
-    "url": "https://events.redislabs.com/redisconf20/",
+    "url": "https://events.redislabs.com/redisconf20",
     "startDate": "2020-05-12",
     "endDate": "2020-05-13",
     "online": true
@@ -199,24 +168,6 @@
     "endDate": "2020-05-20",
     "online": true,
     "twitter": "@CloudBees"
-  },
-  {
-    "name": "Container Camp",
-    "url": "https://2020.container.camp/web",
-    "startDate": "2020-05-22",
-    "endDate": "2020-05-22",
-    "online": true,
-    "cfpUrl": "https://containercamp.typeform.com/to/P7EG6i",
-    "cfpEndDate": "2020-04-20",
-    "twitter": "@containercamp"
-  },
-  {
-    "name": "Docker Con Live",
-    "url": "https://docker.events.cube365.net/docker/dockercon",
-    "startDate": "2020-05-29",
-    "endDate": "2020-05-29",
-    "online": true,
-    "twitter": "@DockerCon"
   },
   {
     "name": "ChefConf Seattle + ChefConf London Online",
@@ -244,14 +195,6 @@
     "twitter": "@devopsfest"
   },
   {
-    "name": "NDC Oslo",
-    "url": "https://ndcoslo.com",
-    "startDate": "2020-06-08",
-    "endDate": "2020-06-12",
-    "online": true,
-    "twitter": "@NDC_Conferences"
-  },
-  {
     "name": "DeveloperWeek Global",
     "url": "https://www.developerweek.com/global",
     "startDate": "2020-06-16",
@@ -261,26 +204,10 @@
   },
   {
     "name": "stackconf (formerly OSDC)",
-    "url": "https://stackconf.eu/",
+    "url": "https://stackconf.eu",
     "startDate": "2020-06-17",
     "endDate": "2020-06-18",
     "online": true
-  },
-  {
-    "name": "HashiConf Digital",
-    "url": "https://hashiconf.com/digital/",
-    "startDate": "2020-06-22",
-    "endDate": "2020-06-24",
-    "online": true,
-    "twitter": "@HashiConf"
-  },
-  {
-    "name": "JFrog Swamp UP (North America)",
-    "url": "https://swampup.jfrog.com",
-    "startDate": "2020-06-24",
-    "endDate": "2020-06-24",
-    "online": true,
-    "twitter": "@jfrog"
   },
   {
     "name": "DevOpsCon",
@@ -308,7 +235,7 @@
   },
   {
     "name": "devopsdays Denver",
-    "url": "https://devopsdays.org/events/2020-denver/welcome/",
+    "url": "https://devopsdays.org/events/2020-denver/welcome",
     "startDate": "2020-08-10",
     "endDate": "2020-08-12",
     "city": "Denver, CO",
@@ -316,7 +243,7 @@
   },
   {
     "name": "KubeCon + CloudNativeCon Europe",
-    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/",
+    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe",
     "startDate": "2020-08-17",
     "endDate": "2020-08-20",
     "online": true,
@@ -361,7 +288,7 @@
   },
   {
     "name": "Devopsdays Zürich",
-    "url": "https://devopsdays.org/events/2020-zurich/welcome/",
+    "url": "https://devopsdays.org/events/2020-zurich/welcome",
     "startDate": "2020-09-01",
     "endDate": "2020-09-01",
     "online": true
@@ -389,19 +316,7 @@
     "url": "https://devopsindiasummit.com",
     "startDate": "2020-09-09",
     "endDate": "2020-09-09",
-    "online": true,
-    "cfpUrl": "https://devopsindiasummit.com/call-for-speakers",
-    "cfpEndDate": "2020-05-15"
-  },
-  {
-    "name": "DeveloperWeek DC",
-    "url": "https://www.developerweek.com/DC",
-    "startDate": "2020-09-15",
-    "endDate": "2020-09-16",
-    "city": "Washington, DC",
-    "country": "U.S.A.",
-    "cfpUrl": "https://www.developerweek.com/DC/conference/apply-to-speak",
-    "twitter": "@DevWeekDC"
+    "online": true
   },
   {
     "name": "DevSecOps SKILup Day",
@@ -413,7 +328,7 @@
   },
   {
     "name": "Devopsdays Cairo",
-    "url": "https://devopsdays.org/events/2020-cairo/welcome/",
+    "url": "https://devopsdays.org/events/2020-cairo/welcome",
     "startDate": "2020-09-21",
     "endDate": "2020-09-21",
     "online": true
@@ -438,7 +353,7 @@
   },
   {
     "name": "Devopsdays Prague",
-    "url": "https://devopsdays.org/events/2020-prague/welcome/",
+    "url": "https://devopsdays.org/events/2020-prague/welcome",
     "startDate": "2020-09-29",
     "endDate": "2020-09-30",
     "city": "Prague",
@@ -452,8 +367,8 @@
     "endDate": "2020-10-03",
     "city": "Kyiv",
     "country": "Ukraine",
-    "twitter": "@fwdays",
-    "cocUrl": "https://fwdays.com/en/page/code-of-conduct"
+    "cocUrl": "https://fwdays.com/en/page/code-of-conduct",
+    "twitter": "@fwdays"
   },
   {
     "name": "Speaking About - Web & Mobile development",
@@ -461,8 +376,7 @@
     "startDate": "2020-10-03",
     "endDate": "2020-10-03",
     "city": "Castelo Branco",
-    "country": "Portugal",
-    "cocUrl": "http://speaking.aidicb.pt/anti-harrassment-policy"
+    "country": "Portugal"
   },
   {
     "name": "Chaos Conf",
@@ -470,8 +384,8 @@
     "startDate": "2020-10-06",
     "endDate": "2020-10-08",
     "online": true,
-    "twitter": "@chaosconf",
-    "cocUrl": "https://res.cloudinary.com/gremlin/image/upload/v1601079832/Chaos%20Conf/Chaos-Conf-Code-of-Conduct.pdf"
+    "cocUrl": "https://res.cloudinary.com/gremlin/image/upload/v1601079832/Chaos%20Conf/Chaos-Conf-Code-of-Conduct.pdf",
+    "twitter": "@chaosconf"
   },
   {
     "name": "cPanel LIVE: The Evolution of NGINX in cPanel",
@@ -487,8 +401,8 @@
     "startDate": "2020-10-07",
     "endDate": "2020-10-08",
     "online": true,
-    "twitter": "@CDeliveryFdn",
-    "cocUrl": "https://events.linuxfoundation.org/cdcon/attend/code-of-conduct/"
+    "cocUrl": "https://events.linuxfoundation.org/cdcon/attend/code-of-conduct",
+    "twitter": "@CDeliveryFdn"
   },
   {
     "name": "DevOpsCon Berlin",
@@ -497,21 +411,12 @@
     "endDate": "2020-10-15",
     "city": "Berlin",
     "country": "Germany",
-    "twitter": "@devops_con",
-    "cocUrl": "https://devopscon.io/code-of-conduct/"
-  },
-  {
-    "name": "HashiConf US",
-    "url": "https://hashiconf.com/us",
-    "startDate": "2020-10-12",
-    "endDate": "2020-10-15",
-    "online": true,
-    "twitter": "@hashiconf",
-    "cocUrl": "https://hashiconf.com/digital-october/code-of-conduct/"
+    "cocUrl": "https://devopscon.io/code-of-conduct",
+    "twitter": "@devops_con"
   },
   {
     "name": "DevOps Enterprise Summit",
-    "url": "https://events.itrevolution.com/virtual/",
+    "url": "https://events.itrevolution.com/virtual",
     "startDate": "2020-10-13",
     "endDate": "2020-10-15",
     "online": true,
@@ -523,8 +428,8 @@
     "startDate": "2020-10-21",
     "endDate": "2020-10-22",
     "online": true,
-    "twitter": "@unscriptedconf",
-    "cocUrl": "https://www.unscriptedconf.io/#Conduct"
+    "cocUrl": "https://www.unscriptedconf.io/#Conduct",
+    "twitter": "@unscriptedconf"
   },
   {
     "name": "containerday",
@@ -533,16 +438,15 @@
     "endDate": "2020-10-23",
     "city": "Bologna",
     "country": "Italy",
-    "twitter": "@containerdayit",
-    "cocUrl": "https://2020.containerday.it/coc.html"
+    "cocUrl": "https://2020.containerday.it/coc.html",
+    "twitter": "@containerdayit"
   },
   {
     "name": "DevOpsFest",
     "url": "https://devopsfest.ru",
     "startDate": "2020-11-06",
     "endDate": "2020-11-07",
-    "online": true,
-    "cocUrl": "https://2020.devopsfest.ru/en-code-of-conduct"
+    "online": true
   },
   {
     "name": "All Day DevOps",
@@ -559,27 +463,17 @@
     "endDate": "2020-11-18",
     "city": "Austin, TX",
     "country": "U.S.A.",
-    "twitter": "@devweekatx",
-    "cocUrl": "https://www.devnetwork.com/code-of-conduct/?_ga=2.166983998.1433601102.1601972446-1333229703.1601972446"
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/?_ga=2.166983998.1433601102.1601972446-1333229703.1601972446",
+    "twitter": "@devweekatx"
   },
   {
     "name": "KubeCon + CloudNativeCon North America",
-    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/",
+    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america",
     "startDate": "2020-11-17",
     "endDate": "2020-11-20",
     "online": true,
-    "twitter": "@CloudNativeFdn",
-    "cocUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/attend/code-of-conduct/"
-  },
-  {
-    "name": "Continuous Lifecycle: Continuous Delivery Day",
-    "url": "https://www.continuouslifecycle.de/continuous_delivery.php",
-    "startDate": "2020-11-24",
-    "endDate": "2020-11-24",
-    "online": true,
-    "twitter": "@ConLifecycle",
-    "cocUrl": "https://www.continuouslifecycle.de/code_of_conduct.php",
-    "offersSignLanguageOrCC": false
+    "cocUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/attend/code-of-conduct",
+    "twitter": "@CloudNativeFdn"
   },
   {
     "name": "fin:CODE",
@@ -596,9 +490,9 @@
     "startDate": "2020-11-30",
     "endDate": "2020-12-02",
     "online": true,
-    "twitter": "@MicroservSummit",
-    "cocUrl": "https://microservices-summit.de/code-of-conduct/",
-    "offersSignLanguageOrCC": false
+    "offersSignLanguageOrCC": false,
+    "cocUrl": "https://microservices-summit.de/code-of-conduct",
+    "twitter": "@MicroservSummit"
   },
   {
     "name": "DevOpsCon Munich Hybrid",
@@ -607,9 +501,9 @@
     "endDate": "2020-12-03",
     "city": "Munich",
     "country": "Germany",
+    "cocUrl": "https://devopscon.io/code-of-conduct",
     "cfpUrl": "https://callforpapers.sandsmedia.com",
-    "twitter": "@devops_con",
-    "cocUrl": "https://devopscon.io/code-of-conduct/"
+    "twitter": "@devops_con"
   },
   {
     "name": "Global SKILup Festival",
@@ -620,25 +514,13 @@
     "offersSignLanguageOrCC": false
   },
   {
-    "name": "Continuous Lifecycle: Container Deep Dive",
-    "url": "https://www.continuouslifecycle.de/container.php",
-    "startDate": "2020-12-09",
-    "endDate": "2020-12-09",
-    "online": true,
-    "twitter": "@ConLifecycle",
-    "cocUrl": "https://www.continuouslifecycle.de/code_of_conduct.php",
-    "offersSignLanguageOrCC": false
-  },
-  {
     "name": "Community Summit TLV",
     "url": "https://tlvcommunity.dev",
     "startDate": "2020-12-17",
     "endDate": "2020-12-17",
     "online": true,
-    "cfpUrl": "https://tlvcommunity.dev/call-for-papers.html",
-    "cfpEndDate": "2020-11-12",
-    "twitter": "@devopsdaystlv",
+    "offersSignLanguageOrCC": false,
     "cocUrl": "https://tlvcommunity.dev/code-of-conduct.html",
-    "offersSignLanguageOrCC": false
+    "twitter": "@devopsdaystlv"
   }
 ]

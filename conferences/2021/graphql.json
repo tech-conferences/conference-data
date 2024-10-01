@@ -5,11 +5,11 @@
     "startDate": "2021-02-22",
     "endDate": "2021-02-25",
     "online": true,
+    "offersSignLanguageOrCC": false,
+    "cocUrl": "https://www.graphql.asia/code-of-conduct",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdIKOPK9VaxhJptC7f2zk1PsvQMkxE7W7Jl1-xemCea9JpZng/viewform",
     "cfpEndDate": "2021-01-07",
-    "twitter": "@graphqlasia",
-    "cocUrl": "https://www.graphql.asia/code-of-conduct/",
-    "offersSignLanguageOrCC": false
+    "twitter": "@graphqlasia"
   },
   {
     "name": "API Conference",
@@ -18,19 +18,9 @@
     "endDate": "2021-04-14",
     "city": "The Hague",
     "country": "Netherlands",
-    "cfpUrl": "https://apiconference.net/call-for-papers",
-    "cfpEndDate": "2020-11-02",
-    "twitter": "@api_conference",
-    "cocUrl": "https://apiconference.net/code-of-conduct/",
-    "offersSignLanguageOrCC": false
-  },
-  {
-    "name": "Dgraph Day",
-    "url": "https://dgraph.io/dgraph-day",
-    "startDate": "2021-04-15",
-    "endDate": "2021-04-16",
-    "online": true,
-    "twitter": "@dgraphlabs"
+    "offersSignLanguageOrCC": false,
+    "cocUrl": "https://apiconference.net/code-of-conduct",
+    "twitter": "@api_conference"
   },
   {
     "name": "NODES",
@@ -38,13 +28,5 @@
     "startDate": "2021-06-17",
     "endDate": "2021-06-17",
     "online": true
-  },
-  {
-    "name": "Enterprise GraphQL Conf",
-    "url": "https://hasura.io/enterprisegraphql",
-    "startDate": "2021-10-28",
-    "endDate": "2021-10-28",
-    "online": true,
-    "cocUrl": "https://hasura.io/enterprisegraphql/code-of-conduct/"
   }
 ]

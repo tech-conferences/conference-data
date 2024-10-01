@@ -1,16 +1,5 @@
 [
   {
-    "name": "2nd International Conference on Computing and Information Technology",
-    "url": "https://cit2024.org",
-    "startDate": "2024-03-09",
-    "endDate": "2024-03-10",
-    "online": true,
-    "cfpUrl": "https://cit2024.org/submission/index.php",
-    "cfpEndDate": "2024-01-06",
-    "cocUrl": "https://cit2024.org/submission/index.php",
-    "locales": "EN"
-  },
-  {
     "name": "Nullcon Berlin",
     "url": "https://nullcon.net/berlin-2024",
     "startDate": "2024-03-14",
@@ -18,11 +7,11 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://nullcon.net/about-conferencepolicy",
     "cfpUrl": "https://nullcon.net/berlin-2024/cfp",
     "cfpEndDate": "2023-12-31",
-    "twitter": "@nullcon",
-    "cocUrl": "https://nullcon.net/about-conferencepolicy",
-    "locales": "EN"
+    "twitter": "@nullcon"
   },
   {
     "name": "AndroidMakers by droidcon",
@@ -32,11 +21,11 @@
     "city": "Paris",
     "country": "France",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://androidmakers.droidcon.com/code-of-conduct",
     "cfpUrl": "https://sessionize.com/androidmakers-by-droidcon-2024",
     "cfpEndDate": "2024-03-01",
-    "twitter": "@AndroidMakersFR",
-    "cocUrl": "https://androidmakers.droidcon.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@AndroidMakersFR"
   },
   {
     "name": "Roboto Conference",
@@ -46,10 +35,10 @@
     "city": "Verona",
     "country": "Italy",
     "online": false,
+    "locales": "EN",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdtSib3b3eORN8fG2E2jp718y3enaClKSgPtBWHqrDIy9xJ4A/viewform",
     "cfpEndDate": "2024-04-30",
     "twitter": "@RobotoConf",
-    "locales": "EN",
     "mastodon": "@robotoconference@mastodon.social"
   },
   {
@@ -60,11 +49,11 @@
     "city": "San Francisco, CA",
     "country": "U.S.A.",
     "online": false,
-    "cfpUrl": "https://sessionize.com/droidcon-san-francisco-2023",
+    "locales": "EN",
+    "cocUrl": "https://sf.droidcon.com/code-of-conduct",
+    "cfpUrl": "https://sessionize.com/droidcon-san-francisco-2024",
     "cfpEndDate": "2024-04-14",
     "twitter": "@droidconSF",
-    "cocUrl": "https://sf.droidcon.com/code-of-conduct/",
-    "locales": "EN",
     "mastodon": "@droidcon@androiddev.social"
   },
   {
@@ -75,12 +64,23 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
-    "cfpUrl": "https://sessionize.com/droidcon-berlin-2022",
+    "locales": "EN",
+    "cocUrl": "https://berlin.droidcon.com/code-of-conduct",
+    "cfpUrl": "https://sessionize.com/droidcon-berlin-2024",
     "cfpEndDate": "2024-04-01",
     "twitter": "@droidconBerlin",
-    "cocUrl": "https://berlin.droidcon.com/code-of-conduct/",
-    "locales": "EN",
     "mastodon": "@droidcon@androiddev.social"
+  },
+  {
+    "name": "Chain React",
+    "url": "https://chainreactconf.com",
+    "startDate": "2024-07-17",
+    "endDate": "2024-07-19",
+    "city": "Portland, OR",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@ChainReactConf"
   },
   {
     "name": "droidcon NYC",
@@ -90,8 +90,18 @@
     "city": "New York, NY",
     "country": "U.S.A.",
     "online": false,
-    "twitter": "@droidconnyc",
-    "cocUrl": "https://nyc.droidcon.com/code-of-conduct/",
+    "locales": "EN",
+    "cocUrl": "https://nyc.droidcon.com/code-of-conduct",
+    "twitter": "@droidconnyc"
+  },
+  {
+    "name": "MWC Las Vegas",
+    "url": "https://www.mwclasvegas.com",
+    "startDate": "2024-10-08",
+    "endDate": "2024-10-09",
+    "city": "Las Vegas, NV",
+    "country": "U.S.A.",
+    "online": false,
     "locales": "EN"
   },
   {
@@ -102,9 +112,9 @@
     "city": "London",
     "country": "U.K.",
     "online": false,
-    "twitter": "@droidconLondon",
-    "cocUrl": "https://london.droidcon.com/code-of-conduct/",
     "locales": "EN",
+    "cocUrl": "https://london.droidcon.com/code-of-conduct",
+    "twitter": "@droidconLondon",
     "mastodon": "@droidcon@androiddev.social"
   }
 ]

@@ -7,11 +7,11 @@
     "city": "Munich",
     "country": "Germany",
     "online": false,
+    "locales": "EN,DE",
+    "cocUrl": "https://www.buildingiot.de/code_of_conduct.php",
     "cfpUrl": "https://www.buildingiot.de/cfp_en.php",
     "cfpEndDate": "2023-09-11",
-    "twitter": "@building_iot",
-    "cocUrl": "https://www.buildingiot.de/code_of_conduct.php",
-    "locales": "EN,DE"
+    "twitter": "@building_iot"
   },
   {
     "name": "Nullcon Berlin",
@@ -21,25 +21,11 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://nullcon.net/about-conferencepolicy",
     "cfpUrl": "https://nullcon.net/berlin-2024/cfp",
     "cfpEndDate": "2023-12-31",
-    "twitter": "@nullcon",
-    "cocUrl": "https://nullcon.net/about-conferencepolicy",
-    "locales": "EN"
-  },
-  {
-    "name": "Navigate Local Tampa",
-    "url": "https://www.civo.com/navigate/local-tampa-2024",
-    "startDate": "2024-04-16",
-    "endDate": "2024-04-16",
-    "city": "Tampa, FL",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://sessionize.com/civo-navigate-local-tampa-2024",
-    "cfpEndDate": "2024-02-11",
-    "twitter": "@CivoCloud",
-    "cocUrl": "https://www.civo.com/navigate/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@nullcon"
   },
   {
     "name": "13th International Conference on Software Engineering and Applications",
@@ -59,11 +45,11 @@
     "city": "Santa Clara, CA",
     "country": "U.S.A.",
     "online": false,
+    "locales": "EN",
+    "cocUrl": "https://hardwear.io/code-of-conduct",
     "cfpUrl": "https://hardwear.io/usa-2024/cfp.php",
     "cfpEndDate": "2024-02-15",
-    "twitter": "@hardwear_io",
-    "cocUrl": "https://hardwear.io/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@hardwear_io"
   },
   {
     "name": "MLCon",
@@ -73,9 +59,9 @@
     "city": "Munich",
     "country": "Germany",
     "online": true,
-    "twitter": "@mlconference",
-    "cocUrl": "https://mlconference.ai/code-of-conduct/",
-    "locales": "EN"
+    "locales": "EN",
+    "cocUrl": "https://mlconference.ai/code-of-conduct",
+    "twitter": "@mlconference"
   },
   {
     "name": "World conference on web 3.0 & IoT",
@@ -85,10 +71,65 @@
     "city": "Frankfurt am Main",
     "country": "Germany",
     "online": false,
-    "cfpUrl": "https://websweek.peoplevents.uk/abstract-guidelines/",
+    "locales": "EN",
+    "cfpUrl": "https://websweek.peoplevents.uk/abstract-guidelines",
     "cfpEndDate": "2024-01-31",
-    "twitter": "@Websweek",
+    "twitter": "@Websweek"
+  },
+  {
+    "name": "Silicon Labs 'Works With' San Jose",
+    "url": "https://workswith.silabs.com/event/2308e738-b80a-4d9c-be09-daf784c53b19/summary",
+    "startDate": "2024-09-19",
+    "endDate": "2024-09-19",
+    "city": "San Jose, CA",
+    "country": "U.S.A.",
+    "online": false,
     "locales": "EN"
+  },
+  {
+    "name": "Silicon Labs 'Works With' Hyderabad",
+    "url": "https://workswith.silabs.com/event/Hyderabad/summary",
+    "startDate": "2024-10-17",
+    "endDate": "2024-10-17",
+    "city": "Hyderabad",
+    "country": "India",
+    "online": false,
+    "locales": "EN"
+  },
+  {
+    "name": "Silicon Labs 'Works With' Shanghai",
+    "url": "https://workswith.silabs.com/event/shanghai",
+    "startDate": "2024-10-24",
+    "endDate": "2024-10-24",
+    "city": "Shanghai",
+    "country": "China",
+    "online": false,
+    "locales": "EN"
+  },
+  {
+    "name": "Hardwear.io Netherlands",
+    "url": "https://hardwear.io/netherlands-2024/register.php",
+    "startDate": "2024-10-24",
+    "endDate": "2024-10-25",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://hardwear.io/code-of-conduct",
+    "cfpUrl": "https://hardwear.io/netherlands-2024/cfp.php",
+    "cfpEndDate": "2024-08-10",
+    "twitter": "@hardwear_io"
+  },
+  {
+    "name": "Entwickler Konferenz - EKON 28",
+    "url": "https://entwickler-konferenz.de/de",
+    "startDate": "2024-11-04",
+    "endDate": "2024-11-06",
+    "city": "Düsseldorf",
+    "country": "Germany",
+    "online": false,
+    "locales": "DE,EN",
+    "twitter": "@EntwicklerKON"
   },
   {
     "name": "Conf42 Internet of Things (IoT)",
@@ -96,10 +137,10 @@
     "startDate": "2024-12-19",
     "endDate": "2024-12-19",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/conf42-iot-2024",
     "cfpEndDate": "2024-11-18",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct",
-    "locales": "EN"
+    "twitter": "@conf42com"
   }
 ]

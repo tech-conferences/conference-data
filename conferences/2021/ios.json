@@ -6,10 +6,8 @@
     "endDate": "2021-01-21",
     "city": "Singapore",
     "country": "Singapore",
-    "cfpUrl": "https://www.papercall.io/iosconfsg2021",
-    "cfpEndDate": "2020-08-18",
-    "twitter": "@iosconfsg",
-    "cocUrl": "https://2020.iosconf.sg/cod/"
+    "cocUrl": "https://2020.iosconf.sg/cod",
+    "twitter": "@iosconfsg"
   },
   {
     "name": "Swift Heroes",
@@ -28,7 +26,7 @@
   },
   {
     "name": "ADDC - App Design & Development",
-    "url": "https://addconf.com/2020",
+    "url": "https://addconf.com",
     "startDate": "2021-06-23",
     "endDate": "2021-06-24",
     "online": true,
@@ -40,11 +38,10 @@
     "startDate": "2021-09-27",
     "endDate": "2021-09-28",
     "online": true,
+    "offersSignLanguageOrCC": true,
     "cfpUrl": "https://forms.gle/3A3shzaDao9HWtAG9",
     "cfpEndDate": "2021-08-27",
-    "twitter": "@GeekleOfficial",
-    "cocUrl": "https://wp.geekle.us/code-of-conduct",
-    "offersSignLanguageOrCC": true
+    "twitter": "@GeekleOfficial"
   },
   {
     "name": "SwiftLeeds",
@@ -61,19 +58,9 @@
     "startDate": "2021-10-07",
     "endDate": "2021-10-08",
     "online": true,
+    "cocUrl": "https://2021.mobiconf.org/code-of-conduct",
     "cfpUrl": "https://www.papercall.io/mobiconf2021",
     "cfpEndDate": "2021-07-12",
-    "twitter": "@mobiconf",
-    "cocUrl": "https://2021.mobiconf.org/code-of-conduct/"
-  },
-  {
-    "name": "DartUP",
-    "url": "https://dartup.ru/EN",
-    "startDate": "2021-12-03",
-    "endDate": "2021-12-04",
-    "online": true,
-    "cfpUrl": "https://www.papercall.io/dartup21",
-    "cfpEndDate": "2021-11-15",
-    "twitter": "@dartup_conf"
+    "twitter": "@mobiconf"
   }
 ]

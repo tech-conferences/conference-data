@@ -7,10 +7,10 @@
     "city": "Dubai",
     "country": "United Arab Emirates",
     "online": false,
-    "cfpUrl": "https://aisca2024.org",
-    "cfpEndDate": "2024-02-10",
+    "locales": "EN",
     "cocUrl": "https://aisca2024.org/mliob/index",
-    "locales": "EN"
+    "cfpUrl": "https://aisca2024.org",
+    "cfpEndDate": "2024-02-10"
   },
   {
     "name": "axe-con",
@@ -18,13 +18,13 @@
     "startDate": "2024-02-20",
     "endDate": "2024-02-22",
     "online": true,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://www.deque.com/axe-con/code-of-conduct",
     "cfpUrl": "https://www.deque.com/axe-con/call-for-speakers",
     "cfpEndDate": "2023-10-06",
     "twitter": "@dequesystems",
-    "cocUrl": "https://www.deque.com/axe-con/code-of-conduct/",
-    "locales": "EN",
-    "mastodon": "@dequesystems@mstdn.social",
-    "offersSignLanguageOrCC": true
+    "mastodon": "@dequesystems@mstdn.social"
   },
   {
     "name": "Accessibility Days",
@@ -34,22 +34,44 @@
     "city": "Rome",
     "country": "Italy",
     "online": true,
-    "twitter": "@a11y_days",
-    "locales": "IT"
+    "locales": "IT",
+    "twitter": "@a11y_days"
   },
   {
-    "name": "Highload fwdays",
-    "url": "https://fwdays.com/en/event/highload-fwdays-2024",
-    "startDate": "2024-05-25",
-    "endDate": "2024-05-25",
-    "city": "Kyiv",
-    "country": "Ukraine",
+    "name": "#a11yTO Conf",
+    "url": "https://conf.a11yto.com",
+    "startDate": "2024-10-03",
+    "endDate": "2024-10-04",
+    "city": "Toronto",
+    "country": "Canada",
     "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdAivIfn0qM5SSljDvshD48IRrAsKUg5-tlznG__PzDuDK12g/viewform",
-    "cfpEndDate": "2024-04-20",
-    "twitter": "@fwdays",
-    "cocUrl": "https://docs.google.com/document/d/12o0ydKmKe6Jw_VgTZF3U6hmI7yzgo5poxXjDzKDLuDw/edit#heading=h.r7izboewrqur",
-    "locales": "EN,UK"
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://conf.a11yto.com/code-of-conduct",
+    "twitter": "@a11yto"
+  },
+  {
+    "name": "enterJS Accessibility Day",
+    "url": "https://enterjs.de/accessibility.php",
+    "startDate": "2024-11-07",
+    "endDate": "2024-11-07",
+    "online": true,
+    "locales": "DE",
+    "cocUrl": "https://enterjs.de/code_of_conduct.php"
+  },
+  {
+    "name": "Build Stuff Conference",
+    "url": "https://www.buildstuff.events",
+    "startDate": "2024-11-13",
+    "endDate": "2024-11-15",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.buildstuff.events/code-of-conduct",
+    "cfpUrl": "https://www.buildstuff.events/cfp",
+    "cfpEndDate": "2024-06-20",
+    "twitter": "@BuildStuffConf"
   },
   {
     "name": "Agile Testing Days",
@@ -59,10 +81,10 @@
     "city": "Potsdam",
     "country": "Germany",
     "online": true,
+    "locales": "EN",
+    "cocUrl": "https://agiletestingdays.com/code-of-conduct",
     "cfpUrl": "https://agiletestingdays.com/call-for-papers",
     "cfpEndDate": "2024-02-11",
-    "twitter": "@AgileTD",
-    "cocUrl": "https://agiletestingdays.com/code-of-conduct/",
-    "locales": "EN"
+    "twitter": "@AgileTD"
   }
 ]

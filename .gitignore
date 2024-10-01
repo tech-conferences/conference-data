@@ -9,7 +9,6 @@
 .env.development.local
 .env.test.local
 .env.production.local
-.vscode
 .idea
 .history
 
@@ -17,3 +16,5 @@ npm-debug.log*
 localTests
 
 build
+/dist
+lychee.json

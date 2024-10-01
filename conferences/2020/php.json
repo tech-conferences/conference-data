@@ -10,7 +10,7 @@
   },
   {
     "name": "PHPBenelux",
-    "url": "https://conference.phpbenelux.eu/",
+    "url": "https://conference.phpbenelux.eu",
     "startDate": "2020-01-24",
     "endDate": "2020-01-25",
     "city": "Edegem",
@@ -43,15 +43,6 @@
     "city": "London",
     "country": "U.K.",
     "twitter": "@PHPUKConference"
-  },
-  {
-    "name": "TYPO3camp Venlo",
-    "url": "http://www.typo3campvenlo.nl/en",
-    "startDate": "2020-03-12",
-    "endDate": "2020-03-14",
-    "city": "Venlo",
-    "country": "Netherlands",
-    "twitter": "@TYPO3campVenlo"
   },
   {
     "name": "MidCamp",
@@ -90,13 +81,6 @@
     "twitter": "@phpconference"
   },
   {
-    "name": "The Online PHP Conference",
-    "url": "https://thephp.cc/news/2020/04/the-online-php-conference",
-    "startDate": "2020-05-26",
-    "endDate": "2020-05-27",
-    "online": true
-  },
-  {
     "name": "PHP fwdays",
     "url": "https://fwdays.com/en/event/php-fwdays-2020",
     "startDate": "2020-05-30",
@@ -124,29 +108,10 @@
     "twitter": "@t3cs"
   },
   {
-    "name": "CausaConf",
-    "url": "https://causaconf.pe",
-    "startDate": "2020-06-13",
-    "endDate": "2020-06-13",
-    "city": "Lima",
-    "country": "Peru",
-    "cfpUrl": "https://forms.gle/MBj2p47krnFuNE1m9",
-    "cfpEndDate": "2020-04-01",
-    "twitter": "@causaconf"
-  },
-  {
     "name": "AFUP Day",
     "url": "https://event.afup.org/afup-day-2020/afup-day-2020-nantes",
     "startDate": "2020-06-19",
     "endDate": "2020-06-19",
-    "online": true,
-    "twitter": "@afup"
-  },
-  {
-    "name": "AFUP Day",
-    "url": "https://event.afup.org/afup-day-2020/afup-day-2020-lyon",
-    "startDate": "2020-06-24",
-    "endDate": "2020-06-24",
     "online": true,
     "twitter": "@afup"
   },
@@ -157,22 +122,6 @@
     "endDate": "2020-06-26",
     "online": true,
     "twitter": "@dpcon"
-  },
-  {
-    "name": "AFUP Day",
-    "url": "https://event.afup.org/afup-day-2020/afup-day-2020-lille",
-    "startDate": "2020-06-26",
-    "endDate": "2020-06-26",
-    "online": true,
-    "twitter": "@afup"
-  },
-  {
-    "name": "AFUP Day",
-    "url": "https://event.afup.org/afup-day-2020/afup-day-2020-tours",
-    "startDate": "2020-07-03",
-    "endDate": "2020-07-03",
-    "online": true,
-    "twitter": "@afup"
   },
   {
     "name": "LaraconUS",
@@ -190,8 +139,6 @@
     "endDate": "2020-08-02",
     "city": "Karlsruhe",
     "country": "Germany",
-    "cfpUrl": "https://t3dd20.typo3.com/call-for-paper",
-    "cfpEndDate": "2020-04-30",
     "twitter": "@typo3"
   },
   {
@@ -249,9 +196,7 @@
     "startDate": "2020-10-23",
     "endDate": "2020-10-24",
     "city": "Novosibirsk",
-    "country": "Russia",
-    "cfpUrl": "https://hardfest.ru/en/#rec216142907",
-    "cfpEndDate": "2020-09-21"
+    "country": "Russia"
   },
   {
     "name": "International PHP Conference",
@@ -270,9 +215,9 @@
     "startDate": "2020-11-26",
     "endDate": "2020-11-26",
     "online": true,
-    "twitter": "@bettercodeconf",
+    "offersSignLanguageOrCC": false,
     "cocUrl": "https://php.bettercode.eu/code_of_conduct.php",
-    "offersSignLanguageOrCC": false
+    "twitter": "@bettercodeconf"
   },
   {
     "name": "laravelday",
@@ -295,16 +240,5 @@
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfFh53tWIezFiQTq-b_F9Q939hif9LmyUIfvNs7kVJNDAuA-A/viewform",
     "cfpEndDate": "2020-06-27",
     "twitter": "@sfdayit"
-  },
-  {
-    "name": "SymfonyCon Paris",
-    "url": "https://paris2020.symfony.com/",
-    "startDate": "2020-12-03",
-    "endDate": "2020-12-04",
-    "city": "Paris",
-    "country": "France",
-    "cfpUrl": "https://paris2020.symfony.com/cfp",
-    "cfpEndDate": "2020-05-10",
-    "twitter": "@symfonycon"
   }
 ]

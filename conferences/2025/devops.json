@@ -1,14 +1,99 @@
 [
   {
+    "name": "JavaLand",
+    "url": "https://www.javaland.eu",
+    "startDate": "2025-04-01",
+    "endDate": "2025-04-03",
+    "city": "Nürburgring",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN,DE",
+    "cocUrl": "https://www.javaland.eu/de/verhaltenscodex",
+    "cfpUrl": "https://www.javaland.eu/de/referierende",
+    "cfpEndDate": "2024-09-06",
+    "twitter": "@DOAGeV",
+    "mastodon": "@JavaLandConf@ijug.social"
+  },
+  {
+    "name": "KubeCon + CloudNativeCon Europe",
+    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2025",
+    "startDate": "2025-04-01",
+    "endDate": "2025-04-04",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/code-of-conduct",
+    "cfpUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/cfp"
+  },
+  {
+    "name": "QCon London",
+    "url": "https://qconlondon.com/medialisting2025",
+    "startDate": "2025-04-07",
+    "endDate": "2025-04-09",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://qconferences.com/code-conduct",
+    "twitter": "@qconlondon"
+  },
+  {
+    "name": "DevOpsCon London",
+    "url": "https://devopscon.io/london",
+    "startDate": "2025-04-12",
+    "endDate": "2025-04-15",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@devops_con"
+  },
+  {
+    "name": "DevOpsCon London",
+    "url": "https://devopscon.io/london",
+    "startDate": "2025-05-12",
+    "endDate": "2025-05-15",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://devopscon.io/code-of-conduct",
+    "twitter": "@devops_con"
+  },
+  {
+    "name": "Camunda Community Summit",
+    "url": "https://www.camundacon.com/amsterdam",
+    "startDate": "2025-05-13",
+    "endDate": "2025-05-15",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": true,
+    "locales": "EN"
+  },
+  {
     "name": "JCON EUROPE",
-    "url": "https://jcon.one",
+    "url": "https://2025.europe.jcon.one",
     "startDate": "2025-05-19",
     "endDate": "2025-05-22",
     "city": "Cologne",
     "country": "Germany",
     "online": false,
+    "locales": "EN,DE",
+    "cocUrl": "https://2025.europe.jcon.one/code-of-conduct",
     "twitter": "@jcon_conference",
-    "cocUrl": "https://2024.europe.jcon.one/code-of-conduct",
-    "locales": "EN,DE"
+    "mastodon": "@jcon@mastodon.social"
+  },
+  {
+    "name": "KubeCon + CloudNativeCon North America",
+    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2025",
+    "startDate": "2025-11-10",
+    "endDate": "2025-11-13",
+    "city": "Atlanta, GA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/attend/code-of-conduct",
+    "twitter": "@CloudNativeFdn"
   }
 ]

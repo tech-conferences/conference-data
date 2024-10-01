@@ -1,14 +1,87 @@
 [
   {
+    "name": "Unhacked International CyberSecurity",
+    "url": "https://momentera.org/conferences/unhacked-conference",
+    "startDate": "2025-02-10",
+    "endDate": "2025-02-12",
+    "city": "Vienna",
+    "country": "Austria",
+    "online": true,
+    "locales": "EN",
+    "cfpUrl": "https://momentera.org/conferences/unhacked-conference/register.php",
+    "cfpEndDate": "2024-12-18"
+  },
+  {
+    "name": "RuhrSec",
+    "url": "https://www.ruhrsec.de/2025",
+    "startDate": "2025-02-20",
+    "endDate": "2025-02-21",
+    "city": "Bochum",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.ruhrsec.de/2025/codeofconduct.html",
+    "cfpUrl": "https://www.ruhrsec.de/2025/cfp.html",
+    "cfpEndDate": "2024-11-10",
+    "twitter": "@ruhrsec"
+  },
+  {
+    "name": "Serverless Architecture Conference London",
+    "url": "https://serverless-architecture.io/london",
+    "startDate": "2025-05-12",
+    "endDate": "2025-05-15",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://serverless-architecture.io/code-of-conduct/",
+    "twitter": "@serverlesscon"
+  },
+  {
+    "name": "Camunda Community Summit",
+    "url": "https://www.camundacon.com/amsterdam",
+    "startDate": "2025-05-13",
+    "endDate": "2025-05-15",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": true,
+    "locales": "EN"
+  },
+  {
     "name": "JCON EUROPE",
-    "url": "https://jcon.one",
+    "url": "https://2025.europe.jcon.one",
     "startDate": "2025-05-19",
     "endDate": "2025-05-22",
     "city": "Cologne",
     "country": "Germany",
     "online": false,
+    "locales": "EN,DE",
+    "cocUrl": "https://2025.europe.jcon.one/code-of-conduct",
     "twitter": "@jcon_conference",
-    "cocUrl": "https://2024.europe.jcon.one/code-of-conduct",
-    "locales": "EN,DE"
+    "mastodon": "@jcon@mastodon.social"
+  },
+  {
+    "name": "App.js Conference",
+    "url": "https://appjs.co",
+    "startDate": "2025-05-28",
+    "endDate": "2025-05-30",
+    "city": "Kraków",
+    "country": "Poland",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://appjs.co/code-of-conduct",
+    "twitter": "@appjsconf"
+  },
+  {
+    "name": "CONFidence",
+    "url": "https://confidence-conference.org",
+    "startDate": "2025-06-02",
+    "endDate": "2025-06-03",
+    "city": "Kraków",
+    "country": "Poland",
+    "online": false,
+    "locales": "EN,PL",
+    "cocUrl": "https://confidence-conference.org/code-of-conduct",
+    "twitter": "@CONFidenceConf"
   }
 ]

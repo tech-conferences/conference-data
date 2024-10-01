@@ -12,18 +12,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
-      - name: Delete existing reorder branch
-        uses: dawidd6/action-delete-branch@v3
         with:
-          github_token: ${{github.token}}
-          branches: reorder
-          soft_fail: true
-      - name: Create reorder branch
-        uses: peterjgrainger/action-create-branch@v3.0.0
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          branch: 'reorder'
+          token: ${{ secrets.CONFS_REORDER }}
       - name: Use Node.js
         uses: actions/setup-node@v4
         with:
@@ -37,15 +27,7 @@ jobs:
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
         with:
-          author_name: Christian Grail
+          author_name: Confs.tech Reorder Bot
           author_email: cgrail@users.noreply.github.com
           message: 'Reorder conferences'
-          branch: reorder
-          add: "['*.json', 'config/validLocations.js']"
-      - name: Create pull request
-        uses: thomaseizinger/create-pull-request@master
-        with:
-          GITHUB_TOKEN: ${{ secrets.CONFS_REORDER }}
-          head: reorder
-          base: main
-          title: "Reorder conferences"
+          add: "['*.json']"

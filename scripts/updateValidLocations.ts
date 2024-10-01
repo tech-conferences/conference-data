@@ -1,10 +1,10 @@
 // Reorder a file by running (from the scripts folder)
-const fs = require('fs').promises;
-const conferenceReader = require('./utils/conferenceReader');
+import fs from 'fs';
+import conferenceReader from './utils/conferenceReader.js';
 
-const conferencesJSON = conferenceReader();
+const conferencesJSON = conferenceReader(false);
 
-const locations = {};
+const locations: { [key: string]: string[] } = {};
 (async function () {
     for (const year of Object.keys(conferencesJSON)) {
         for (const topic of Object.keys(conferencesJSON[year])) {
@@ -22,12 +22,18 @@ const locations = {};
             }
         }
     }
-    const sortedLocations = {};
-    Object.keys(locations).sort().map(location => {
-        if(location !== "undefined"){
-            sortedLocations[location] = locations[location].sort();
+    const sortedLocations: { [key: string]: string[] } = {};
+    Object.keys(locations)
+        .sort()
+        .map(location => {
+            if (location !== 'undefined') {
+                sortedLocations[location] = locations[location].sort();
+            }
+        });
+    console.log(JSON.stringify(sortedLocations, null, '  '));
+    fs.writeFile('scripts/config/validLocations.ts', 'export const validLocations = ' + JSON.stringify(sortedLocations, null, 2), err => {
+        if (err) {
+            console.error(err);
         }
-    })
-    console.log(JSON.stringify(sortedLocations, null, "  "));
-    fs.writeFile("config/validLocations.js", "module.exports = " + JSON.stringify(sortedLocations, null, 2));
-})()
+    });
+})();

@@ -1,13 +1,5 @@
 [
   {
-    "name": "RustLab",
-    "url": "https://rustlab.it/en/",
-    "startDate": "2021-01-03",
-    "endDate": "2021-01-03",
-    "online": true,
-    "cfpUrl": "https://rustlab.it/en/call-for-proposal/"
-  },
-  {
     "name": "Rust Day",
     "url": "https://kiosk.entwickler.de/rust-day",
     "startDate": "2021-04-28",
@@ -17,7 +9,7 @@
   },
   {
     "name": "Cloud Native Rust Day",
-    "url": "https://events.linuxfoundation.org/cloud-native-rust-day/",
+    "url": "https://events.linuxfoundation.org/cloud-native-rust-day",
     "startDate": "2021-05-03",
     "endDate": "2021-05-03",
     "online": true
@@ -28,8 +20,8 @@
     "startDate": "2021-10-13",
     "endDate": "2021-10-13",
     "online": true,
-    "twitter": "@bettercodeconf",
-    "cocUrl": "https://rust.bettercode.eu/code_of_conduct.php"
+    "cocUrl": "https://rust.bettercode.eu/code_of_conduct.php",
+    "twitter": "@bettercodeconf"
   },
   {
     "name": "Rust Summit",

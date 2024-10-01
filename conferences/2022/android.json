@@ -1,27 +1,12 @@
 [
   {
-    "name": "Flutter Vikings",
-    "url": "https://fluttervikings.com",
-    "startDate": "2022-02-02",
-    "endDate": "2022-02-03",
-    "city": "Oslo",
-    "country": "Norway",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf3G7gOIQVsfj_CLY3a_el7uiJI_VOOSyuNEi3p-vknFO3nyA/viewform",
-    "cfpEndDate": "2021-11-14",
-    "twitter": "@FlutterVikings",
-    "cocUrl": "https://fluttervikings.com/code-of-conduct"
-  },
-  {
     "name": "Conf42 Mobile",
     "url": "https://www.conf42.com/mobile2022",
     "startDate": "2022-02-17",
     "endDate": "2022-02-17",
     "online": true,
-    "cfpUrl": "https://www.papercall.io/conf42-mobile-2022",
-    "cfpEndDate": "2022-01-06",
-    "twitter": "@conf42com",
-    "cocUrl": "https://www.conf42.com/code-of-conduct"
+    "cocUrl": "https://www.conf42.com/code-of-conduct",
+    "twitter": "@conf42com"
   },
   {
     "name": "Mobile World Congress",
@@ -31,19 +16,6 @@
     "online": true
   },
   {
-    "name": "Nullcon International Conference and Training Berlin",
-    "url": "https://nullcon.net",
-    "startDate": "2022-04-08",
-    "endDate": "2022-04-09",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": false,
-    "cfpUrl": "https://nullcon.net/berlin-2022/cfp",
-    "cfpEndDate": "2022-01-15",
-    "twitter": "@nullcon",
-    "cocUrl": "https://nullcon.net/about-conferencepolicy/"
-  },
-  {
     "name": "Droidcon Lisbon",
     "url": "https://www.lisbon.droidcon.com",
     "startDate": "2022-04-21",
@@ -51,9 +23,9 @@
     "city": "Lisbon",
     "country": "Portugal",
     "online": false,
+    "cocUrl": "https://www.lisbon.droidcon.com/code-of-conduct",
     "cfpUrl": "https://sessionize.com/droidcon-lisbon2022",
-    "cfpEndDate": "2022-02-28",
-    "cocUrl": "https://www.lisbon.droidcon.com/code-of-conduct"
+    "cfpEndDate": "2022-02-28"
   },
   {
     "name": "betterCode() Flutter",
@@ -61,8 +33,7 @@
     "startDate": "2022-05-24",
     "endDate": "2022-05-24",
     "online": true,
-    "twitter": "@bettercodeconf",
-    "cocUrl": "https://flutter.bettercode.eu/code_of_conduct.php"
+    "twitter": "@bettercodeconf"
   },
   {
     "name": "Droidcon San Francisco",
@@ -73,33 +44,7 @@
     "country": "U.S.A.",
     "online": false,
     "cfpUrl": "https://sessionize.com/droidcon-sf-2022",
-    "cfpEndDate": "2022-04-01",
-    "cocUrl": "https://www.sf.droidcon.com/code-of-conduct"
-  },
-  {
-    "name": "App.js Conf",
-    "url": "https://appjs.co",
-    "startDate": "2022-06-08",
-    "endDate": "2022-06-10",
-    "city": "Kraków",
-    "country": "Poland",
-    "online": true,
-    "cfpUrl": "https://docs.google.com/forms/d/1-TUgnCqqGsTufBv2W5Nn8rXzoBg7qpBZKoQT0qKp7jA/edit",
-    "cfpEndDate": "2022-02-22",
-    "twitter": "@appjsconf",
-    "cocUrl": "https://appjs.co/Code-of-Conduct.pdf",
-    "offersSignLanguageOrCC": true
-  },
-  {
-    "name": "WeAreDevelopers World Congress",
-    "url": "https://www.wearedevelopers.com/world-congress/#",
-    "startDate": "2022-06-14",
-    "endDate": "2022-06-15",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "cfpUrl": "https://sessionize.com/wearedevs2022",
-    "cfpEndDate": "2022-01-31"
+    "cfpEndDate": "2022-04-01"
   },
   {
     "name": "Droidcon Berlin",
@@ -109,9 +54,9 @@
     "city": "Berlin",
     "country": "Germany",
     "online": false,
+    "cocUrl": "https://www.berlin.droidcon.com/code-of-conduct",
     "cfpUrl": "https://sessionize.com/droidcon-berlin-2022",
-    "cfpEndDate": "2022-05-20",
-    "cocUrl": "https://www.berlin.droidcon.com/code-of-conduct"
+    "cfpEndDate": "2022-05-20"
   },
   {
     "name": "Women Who Code Mobile Summit",
@@ -120,20 +65,6 @@
     "endDate": "2022-07-27",
     "online": true,
     "twitter": "@WWCodeMobile"
-  },
-  {
-    "name": "FlutterVikings",
-    "url": "https://fluttervikings.com",
-    "startDate": "2022-08-31",
-    "endDate": "2022-09-01",
-    "city": "Oslo",
-    "country": "Norway",
-    "online": true,
-    "cfpUrl": "https://fluttervikings.com/cfp",
-    "cfpEndDate": "2022-05-01",
-    "twitter": "@fluttervikings",
-    "cocUrl": "https://fluttervikings.com/code-of-conduct/",
-    "offersSignLanguageOrCC": true
   },
   {
     "name": "Droidcon New York",
@@ -146,19 +77,6 @@
     "cocUrl": "https://www.nyc.droidcon.com/code-of-conduct"
   },
   {
-    "name": "Nullcon International Security Conference and Training Goa",
-    "url": "https://nullcon.net/goa-2022",
-    "startDate": "2022-09-09",
-    "endDate": "2022-09-10",
-    "city": "Goa",
-    "country": "India",
-    "online": false,
-    "cfpUrl": "https://nullcon.net/goa-2022/cfp",
-    "cfpEndDate": "2022-06-05",
-    "twitter": "@nullcon",
-    "cocUrl": "https://nullcon.net/about-conferencepolicy/"
-  },
-  {
     "name": "Droidcon London",
     "url": "https://www.london.droidcon.com",
     "startDate": "2022-10-27",
@@ -167,27 +85,5 @@
     "country": "U.K.",
     "online": false,
     "cocUrl": "https://www.london.droidcon.com/code-of-conduct"
-  },
-  {
-    "name": "Startup Eurasia Conference",
-    "url": "https://startup-eurasia.com",
-    "startDate": "2022-10-27",
-    "endDate": "2022-10-30",
-    "city": "Varna",
-    "country": "Bulgaria",
-    "online": false,
-    "twitter": "@EurasiaStartup"
-  },
-  {
-    "name": "Developer Productivity Summit",
-    "url": "https://dpesummit.com",
-    "startDate": "2022-11-02",
-    "endDate": "2022-11-03",
-    "city": "San Francisco, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "cfpUrl": "https://dpesummit.com/#speakers",
-    "cfpEndDate": "2022-11-01",
-    "twitter": "@dpesummit"
   }
 ]
