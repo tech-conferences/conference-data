@@ -12,5 +12,19 @@
     "cfpUrl": "https://25.foss-backstage.de/call-for-participation",
     "cfpEndDate": "2024-11-13",
     "mastodon": "@FOSSBackstage@floss.social"
+  },
+  {
+    "name": "Berlin Buzzwords",
+    "url": "https://2025.berlinbuzzwords.de",
+    "startDate": "2025-06-15",
+    "endDate": "2025-06-17",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://2025.berlinbuzzwords.de/code-of-conduct/",
+    "cfpUrl": "https://2025.berlinbuzzwords.de/call-for-papers",
+    "cfpEndDate": "2025-02-23",
+    "mastodon": "@berlinbuzzwords@floss.social"
   }
 ]
