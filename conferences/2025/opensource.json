@@ -12,5 +12,15 @@
     "cfpUrl": "https://25.foss-backstage.de/call-for-participation",
     "cfpEndDate": "2024-11-13",
     "mastodon": "@FOSSBackstage@floss.social"
+  },
+  {
+    "name": "Open Source Summit North America",
+    "url": "https://events.linuxfoundation.org/open-source-summit-north-america",
+    "startDate": "2025-06-23",
+    "endDate": "2025-06-25",
+    "city": "Denver, CO",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN"
   }
 ]
