@@ -437,6 +437,18 @@
     "locales": "EN"
   },
   {
+    "name": "JawnCon",
+    "url": "https://jawncon.org",
+    "startDate": "2024-10-11",
+    "endDate": "2024-10-12",
+    "city": "Philadelphia",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://jawncon.org/coc.html",
+    "mastodon": "@jawncon@infosec.exchange"
+  },
+  {
     "name": "SOSS Fusion",
     "url": "https://events.linuxfoundation.org/soss-fusion",
     "startDate": "2024-10-22",
