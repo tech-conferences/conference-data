@@ -173,6 +173,7 @@ export const validLocations = {
         'Levante',
         'Milano',
         'Modena',
+        'Napels',
         'Parma',
         'Pescara',
         'Pisa',
