@@ -22,6 +22,38 @@
     "twitter": "@CoriniumGlobal"
   },
   {
+    "name": "PGConf India",
+    "url": "https://pgconf.in/conferences/pgconfin2025",
+    "startDate": "2025-03-05",
+    "endDate": "2025-03-07",
+    "city": "Bengaluru",
+    "country": "India",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://pgconf.in/pages/coc"
+  },
+  {
+    "name": "Nordic PGDay",
+    "url": "https://2025.nordicpgday.org/",
+    "startDate": "2025-03-18",
+    "endDate": "2025-03-18",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://2025.nordicpgday.org/about/#coc"
+  },
+  {
+    "name": "PGDay Paris",
+    "url": "https://2025.pgday.paris/",
+    "startDate": "2025-03-20",
+    "endDate": "2025-03-20",
+    "city": "Paris",
+    "country": "France",
+    "online": false,
+    "locales": "EN"
+  },
+  {
     "name": "AI Integration & Autonomous Mobility",
     "url": "https://www.automantia.in/aiam24-munich",
     "startDate": "2025-04-03",
