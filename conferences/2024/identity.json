@@ -57,7 +57,7 @@
   },
   {
     "name": "Authenticate",
-    "url": "https://diceurope.org",
+    "url": "https://authenticatecon.com/",
     "startDate": "2024-10-14",
     "endDate": "2024-10-16",
     "city": "Carlsbad, CA",
@@ -65,5 +65,17 @@
     "online": false,
     "locales": "EN",
     "twitter": "@AuthenticateCon"
+  },
+  {
+    "name": "IIW Internet Identity Workshop",
+    "url": "https://internetidentityworkshop.com",
+    "startDate": "2024-10-29",
+    "endDate": "2024-31-31",
+    "city": "Mountain View, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://internetidentityworkshop.com/engagement-guidelines",
+    "twitter": "@idworkshop"
   }
 ]
