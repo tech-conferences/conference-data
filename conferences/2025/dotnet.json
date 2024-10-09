@@ -23,11 +23,22 @@
     "twitter": "@mlconference"
   },
   {
-    "name": "Visual Studio Live! @ Microsoft HQ",
+    "name": "Visual Studio Live",
     "url": "https://vslive.com/events/microsofthq-2025/home.aspx",
     "startDate": "2025-08-04",
     "endDate": "2025-08-08",
-    "city": "Redmond",
+    "city": "Redmond, WA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@vslive"
+  },
+  {
+    "name": "Visual Studio Live",
+    "url": "https://vslive.com/events/san-diego-2025/home.aspx",
+    "startDate": "2025-09-08",
+    "endDate": "2025-09-12",
+    "city": "San Diego, CA",
     "country": "U.S.A.",
     "online": false,
     "locales": "EN",
