@@ -137,6 +137,14 @@
     "cocUrl": "https://berlincodeofconduct.org/de"
   },
   {
+    "name": "test",
+    "url": "https://test.com",
+    "startDate": "2024-10-10",
+    "endDate": "2024-10-10",
+    "online": true,
+    "locales": "EN"
+  },
+  {
     "name": ".NET DeveloperDays",
     "url": "https://developerdays.eu/warsaw",
     "startDate": "2024-10-22",
