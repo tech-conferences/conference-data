@@ -211,6 +211,21 @@
     "twitter": "@teqnationconf"
   },
   {
+    "name": "NZ Tech Rally",
+    "url": "https://nztechrally.nz",
+    "startDate": "2025-05-16",
+    "endDate": "2025-05-16",
+    "city": "Wellington",
+    "country": "New Zealand",
+    "online": false,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://nztechrally.nz/code-of-conduct",
+    "cfpUrl": "https://nztechrally.nz/call-for-proposals",
+    "cfpEndDate": "2024-06-27",
+    "twitter": "@NZTechRally"
+  },
+  {
     "name": "Future Frontend",
     "url": "https://futurefrontend.com",
     "startDate": "2025-05-27",
