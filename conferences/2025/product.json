@@ -20,5 +20,16 @@
     "online": true,
     "locales": "EN",
     "twitter": "@developerweek"
+  },
+  {
+    "name": "Product Owner Days",
+    "url": "https://product-owner-day.de",
+    "startDate": "2025-04-02",
+    "endDate": "2025-04-03",
+    "city": "Cologne",
+    "country": "Germany",
+    "online": false,
+    "locales": "DE",
+    "cocUrl": "https://product-owner-day.de/code_of_conduct.php?source=0"
   }
 ]
