@@ -27,6 +27,21 @@
     "mastodon": "@FOSSBackstage@floss.social"
   },
   {
+    "name": "stackconf",
+    "url": "https://stackconf.eu",
+    "startDate": "2025-04-29",
+    "endDate": "2025-04-30",
+    "city": "Munich",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN,DE",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://stackconf.eu/code-of-conduct/",
+    "cfpUrl": "https://stackconf.eu/propose",
+    "cfpEndDate": "2024-12-15",
+    "twitter": "@stackconf"
+  },
+  {
     "name": "Open Source Summit North America",
     "url": "https://events.linuxfoundation.org/open-source-summit-north-america",
     "startDate": "2025-06-23",
