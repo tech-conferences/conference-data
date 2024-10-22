@@ -72,6 +72,18 @@
     "locales": "EN"
   },
   {
+    "name": "DevOpsCon San Diego",
+    "url": "https://devopscon.io/san-diego",
+    "startDate": "2025-05-19",
+    "endDate": "2025-05-22",
+    "city": "San Diego, CA",
+    "country": "U.S.A.",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://devopscon.io/code-of-conduct/",
+    "twitter": "@devops_con"
+  },
+  {
     "name": "JCON EUROPE",
     "url": "https://2025.europe.jcon.one",
     "startDate": "2025-05-19",
@@ -83,18 +95,6 @@
     "cocUrl": "https://2025.europe.jcon.one/code-of-conduct",
     "twitter": "@jcon_conference",
     "mastodon": "@jcon@mastodon.social"
-  },
-  {
-    "name": "DevOpsCon San Diego",
-    "url": "https://devopscon.io/san-diego",
-    "startDate": "2025-05-19",
-    "endDate": "2025-05-22",
-    "city": "San Diego",
-    "country": "U.S.A.",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://devopscon.io/code-of-conduct/",
-    "twitter": "@devops_con"
   },
   {
     "name": "Visual Studio Live",
