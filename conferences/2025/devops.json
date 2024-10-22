@@ -85,6 +85,18 @@
     "mastodon": "@jcon@mastodon.social"
   },
   {
+    "name": "DevOpsCon San Diego",
+    "url": "https://devopscon.io/san-diego",
+    "startDate": "2025-05-19",
+    "endDate": "2025-05-22",
+    "city": "San Diego",
+    "country": "U.S.A.",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://devopscon.io/code-of-conduct/",
+    "twitter": "@devops_con"
+  },
+  {
     "name": "Visual Studio Live",
     "url": "https://vslive.com/events/microsofthq-2025/home.aspx",
     "startDate": "2025-08-04",
