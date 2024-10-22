@@ -72,6 +72,18 @@
     "locales": "EN"
   },
   {
+    "name": "DevOpsCon San Diego",
+    "url": "https://devopscon.io/san-diego",
+    "startDate": "2025-05-19",
+    "endDate": "2025-05-22",
+    "city": "San Diego, CA",
+    "country": "U.S.A.",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://devopscon.io/code-of-conduct/",
+    "twitter": "@devops_con"
+  },
+  {
     "name": "JCON EUROPE",
     "url": "https://2025.europe.jcon.one",
     "startDate": "2025-05-19",
@@ -91,6 +103,20 @@
     "endDate": "2025-06-26",
     "city": "New York, NY",
     "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://platformcon.com/code-of-conduct",
+    "cfpUrl": "https://platformcon.com/call-for-proposals",
+    "cfpEndDate": "2025-02-23",
+    "twitter": "@luca_cloud"
+  },
+  {
+    "name": "PlatformCon Live Day London",
+    "url": "https://platformcon.com/live-day-london",
+    "startDate": "2025-06-25",
+    "endDate": "2025-06-25",
+    "city": "London",
+    "country": "U.K.",
     "online": false,
     "locales": "EN",
     "cocUrl": "https://platformcon.com/code-of-conduct",
