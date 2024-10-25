@@ -14,5 +14,19 @@
     "cfpEndDate": "2024-12-17",
     "twitter": "@dpcon",
     "mastodon": "@dpc_ibuildings@mastodon.social"
+  },
+  {
+    "name": "SymfonyLive Berlin",
+    "url": "https://live.symfony.com/2025-berlin",
+    "startDate": "2025-04-03",
+    "endDate": "2025-04-04",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "locales": "DE",
+    "cocUrl": "https://symfony.com/care",
+    "cfpUrl": "https://live.symfony.com/2025-berlin/cfp",
+    "cfpEndDate": "2024-11-06",
+    "twitter": "@symfony_live"
   }
 ]
