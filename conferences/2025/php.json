@@ -9,6 +9,18 @@
     "twitter": "@symfony_live"
   },
   {
+    "name": "PHP UK Conference",
+    "url": "https://www.phpconference.co.uk",
+    "startDate": "2025-02-19",
+    "endDate": "2025-02-19",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.phpconference.co.uk/conduct",
+    "twitter": "@PHPUKConference"
+  },
+  {
     "name": "Dutch PHP Conference",
     "url": "https://phpconference.nl",
     "startDate": "2025-03-18",
