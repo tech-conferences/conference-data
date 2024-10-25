@@ -1,5 +1,14 @@
 [
   {
+    "name": "SymfonyOnline",
+    "url": "https://live.symfony.com/2025-online-january",
+    "startDate": "2025-01-16",
+    "endDate": "2025-01-17",
+    "online": true,
+    "locales": "EN",
+    "twitter": "@symfony_live"
+  },
+  {
     "name": "PHP UK Conference",
     "url": "https://www.phpconference.co.uk",
     "startDate": "2025-02-19",
@@ -26,5 +35,43 @@
     "cfpEndDate": "2024-12-17",
     "twitter": "@dpcon",
     "mastodon": "@dpc_ibuildings@mastodon.social"
+  },
+  {
+    "name": "SymfonyLive Paris",
+    "url": "https://live.symfony.com/2025-paris",
+    "startDate": "2025-03-27",
+    "endDate": "2025-03-28",
+    "city": "Paris",
+    "country": "France",
+    "online": false,
+    "locales": "FR",
+    "cocUrl": "https://symfony.com/care",
+    "twitter": "@SymfonyCon"
+  },
+  {
+    "name": "SymfonyLive Berlin",
+    "url": "https://live.symfony.com/2025-berlin",
+    "startDate": "2025-04-03",
+    "endDate": "2025-04-04",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "locales": "DE",
+    "cocUrl": "https://symfony.com/care",
+    "cfpUrl": "https://live.symfony.com/2025-berlin/cfp",
+    "cfpEndDate": "2024-11-06",
+    "twitter": "@symfony_live"
+  },
+  {
+    "name": "SymfonyOnline",
+    "url": "https://live.symfony.com/2025-online-june",
+    "startDate": "2025-06-12",
+    "endDate": "2025-06-13",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://symfony.com/care",
+    "cfpUrl": "https://live.symfony.com/2025-online-june/cfp",
+    "cfpEndDate": "2025-02-19",
+    "twitter": "@symfony_live"
   }
 ]
