@@ -14,5 +14,17 @@
     "cfpEndDate": "2024-12-17",
     "twitter": "@dpcon",
     "mastodon": "@dpc_ibuildings@mastodon.social"
+  },
+  {
+    "name": "SymfonyOnline",
+    "url": "https://live.symfony.com/2025-online-june",
+    "startDate": "2025-06-12",
+    "endDate": "2025-06-13",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://symfony.com/care",
+    "cfpUrl": "https://live.symfony.com/2025-online-june/cfp",
+    "cfpEndDate": "2025-02-19",
+    "twitter": "@symfony_live"
   }
 ]
