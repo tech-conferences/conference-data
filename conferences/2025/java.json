@@ -1,5 +1,26 @@
 [
   {
+    "name": "Jfokus",
+    "url": "https://www.jfokus.se/",
+    "startDate": "2025-02-03",
+    "endDate": "2025-02-05",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "online": false,
+    "locales": "EN"
+  },
+  {
+    "name": "JavaOne",
+    "url": "https://www.oracle.com/javaone/",
+    "startDate": "2025-03-18",
+    "endDate": "2025-03-20",
+    "city": "Redwood City, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@JavaOne"
+  },
+  {
     "name": "JavaLand",
     "url": "https://www.javaland.eu",
     "startDate": "2025-04-01",
