@@ -276,6 +276,21 @@
     "twitter": "@NZTechRally"
   },
   {
+    "name": "DevConf Johannesburg",
+    "url": "https://www.devconf.co.za/joburg",
+    "startDate": "2025-05-27",
+    "endDate": "2025-05-27",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.devconf.co.za/codeofconduct",
+    "cfpUrl": "https://sessionize.com/devconf-2025",
+    "cfpEndDate": "2024-11-30",
+    "twitter": "@devconfza",
+    "mastodon": "@devconf@mastodon.cloud"
+  },
+  {
     "name": "Future Frontend",
     "url": "https://futurefrontend.com",
     "startDate": "2025-05-27",
