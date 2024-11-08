@@ -288,6 +288,21 @@
     "twitter": "@future_frontend"
   },
   {
+    "name": "DevConf Cape Town",
+    "url": "https://www.devconf.co.za/capetown",
+    "startDate": "2025-05-29",
+    "endDate": "2025-05-29",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.devconf.co.za/codeofconduct",
+    "cfpUrl": "https://sessionize.com/devconf-2025",
+    "cfpEndDate": "2024-11-30",
+    "twitter": "@devconfza",
+    "mastodon": "@devconf@mastodon.cloud"
+  },
+  {
     "name": "RenderATL",
     "url": "https://www.renderatl.com",
     "startDate": "2025-06-11",
