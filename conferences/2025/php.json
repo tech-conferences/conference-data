@@ -63,17 +63,6 @@
     "twitter": "@symfony_live"
   },
   {
-    "name": "International PHP Conference",
-    "url": "https://phpconference.com/berlin-en/",
-    "startDate": "2025-06-02",
-    "endDate": "2025-06-06",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "locales": "EN, DE",
-    "twitter": "@phpconference"
-  },
-  {
     "name": "php[tek]",
     "url": "https://phptek.io",
     "startDate": "2025-05-20",
@@ -87,6 +76,17 @@
     "cfpEndDate": "2024-11-15",
     "twitter": "@phptek",
     "mastodon": "@phptek@phparch.social"
+  },
+  {
+    "name": "International PHP Conference",
+    "url": "https://phpconference.com/berlin-en/",
+    "startDate": "2025-06-02",
+    "endDate": "2025-06-06",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN, DE",
+    "twitter": "@phpconference"
   },
   {
     "name": "SymfonyOnline",
