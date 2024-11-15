@@ -9,6 +9,19 @@
     "cocUrl": "https://genai.bettercode.eu/code_of_conduct.php?source=0"
   },
   {
+    "name": "FOSDEM",
+    "url": "https://fosdem.org/2025",
+    "startDate": "2025-02-01",
+    "endDate": "2025-02-02",
+    "city": "Brussels",
+    "country": "Belgium",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://fosdem.org/2025/practical/conduct/",
+    "cfpUrl": "https://javier.github.io/data_analytics_devroom_cfp_fosdem_2025",
+    "cfpEndDate": "2024-11-29"
+  },
+  {
     "name": "AI DevWorld",
     "url": "https://aidevworld.com",
     "startDate": "2025-02-11",
