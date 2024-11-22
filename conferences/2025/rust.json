@@ -1,5 +1,19 @@
 [
   {
+    "name": "Rust In Paris",
+    "url": "https://www.rustinparis.com",
+    "startDate": "2025-03-14",
+    "endDate": "2025-03-14",
+    "city": "Paris",
+    "country": "France",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.rustinparis.com/code-of-conduct",
+    "cfpUrl": "https://forms.gle/rKY6SdZPFn3Ua8vF7",
+    "cfpEndDate": "2024-11-30",
+    "twitter": "@xperhub"
+  },
+  {
     "name": "Rustikon",
     "url": "https://www.rustikon.dev",
     "startDate": "2025-03-26",
