@@ -78,6 +78,17 @@
     "mastodon": "@phptek@phparch.social"
   },
   {
+    "name": "International PHP Conference",
+    "url": "https://phpconference.com/berlin-en/",
+    "startDate": "2025-06-02",
+    "endDate": "2025-06-06",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN, DE",
+    "twitter": "@phpconference"
+  },
+  {
     "name": "SymfonyOnline",
     "url": "https://live.symfony.com/2025-online-june",
     "startDate": "2025-06-12",
