@@ -72,6 +72,20 @@
     "twitter": "@frontrunnersdc"
   },
   {
+    "name": "Open Source Day",
+    "url": "https://2025.osday.dev",
+    "startDate": "2025-03-21",
+    "endDate": "2025-03-21",
+    "city": "Florence",
+    "country": "Italy",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://2025.osday.dev/code-of-conduct",
+    "cfpUrl": "https://sessionize.com/open-source-day-2025",
+    "cfpEndDate": "2025-01-15",
+    "twitter": "@schrodinger_hat"
+  },
+  {
     "name": "JavaLand",
     "url": "https://www.javaland.eu",
     "startDate": "2025-04-01",
@@ -176,6 +190,17 @@
     "locales": "EN",
     "cocUrl": "https://appjs.co/code-of-conduct",
     "twitter": "@appjsconf"
+  },
+  {
+    "name": "Webinale",
+    "url": "https://webinale.de",
+    "startDate": "2025-06-02",
+    "endDate": "2025-06-06",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "twitter": "@webinale"
   },
   {
     "name": "Web Summer Camp",

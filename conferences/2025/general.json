@@ -77,6 +77,17 @@
     "twitter": "@ndc_conferences"
   },
   {
+    "name": "DecompileD",
+    "url": "https://decompiled.de/",
+    "startDate": "2025-02-06",
+    "endDate": "2025-02-06",
+    "city": "Dresden",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://decompiled.de/verhaltenskodex"
+  },
+  {
     "name": "Civo Navigate",
     "url": "https://www.civo.com/navigate/north-america",
     "startDate": "2025-02-10",
@@ -394,6 +405,16 @@
     "locales": "EN",
     "cocUrl": "https://devopscon.io/code-of-conduct",
     "twitter": "@devops_con"
+  },
+  {
+    "name": "APIdays",
+    "url": "https://www.apidays.global/munich/",
+    "startDate": "2025-07-02",
+    "endDate": "2025-07-03",
+    "city": "Munich",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN"
   },
   {
     "name": "WeAreDevelopers World Congress",
