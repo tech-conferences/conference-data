@@ -119,5 +119,19 @@
     "locales": "EN,PL",
     "cocUrl": "https://confidence-conference.org/code-of-conduct",
     "twitter": "@CONFidenceConf"
+  },
+  {
+    "name": "Infobip Shift Zadar",
+    "url": "https://shift.infobip.com",
+    "startDate": "2025-09-14",
+    "endDate": "2025-09-16",
+    "city": "Zadar",
+    "country": "Croatia",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://shift.infobip.com/code/",
+    "cfpUrl": "https://sessionize.com/infobip-shift-2025",
+    "cfpEndDate": "2025-06-01",
+    "twitter": "@InfobipShift"
   }
 ]
