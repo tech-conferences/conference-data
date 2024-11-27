@@ -217,6 +217,18 @@
     "twitter": "@vslive"
   },
   {
+    "name": "DevOpsCon New York",
+    "url": "https://devopscon.io/new-york",
+    "startDate": "2025-09-29",
+    "endDate": "2025-10-02",
+    "city": "New York",
+    "country": "U.S.A.",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://devopscon.io/code-of-conduct/",
+    "twitter": "@devops_con"
+  },
+  {
     "name": "KubeCon + CloudNativeCon North America",
     "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2025",
     "startDate": "2025-11-10",
