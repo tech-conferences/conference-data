@@ -43,5 +43,17 @@
     "online": false,
     "locales": "EN",
     "twitter": "@vslive"
+  },
+  {
+    "name": "Update Conference Prague",
+    "url": "https://www.updateconference.net",
+    "startDate": "2025-11-13",
+    "endDate": "2025-11-14",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.updateconference.net/en/code-of-conduct",
+    "twitter": "@update_conf"
   }
 ]
