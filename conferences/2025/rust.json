@@ -39,5 +39,18 @@
     "locales": "EN",
     "cocUrl": "https://jax.de/code-of-conduct/",
     "twitter": "@jaxcon"
+  },
+  {
+    "name": "EuroRust",
+    "url": "https://eurorust.eu",
+    "startDate": "2025-10-09",
+    "endDate": "2025-10-10",
+    "city": "Paris",
+    "country": "France",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://eurorust.eu/code-of-conduct/",
+    "twitter": "@euro_rust",
+    "mastodon": "@eurorust@fosstodon.org"
   }
 ]
