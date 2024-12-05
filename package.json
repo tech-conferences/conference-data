@@ -9,7 +9,7 @@
     "clarinet": "^0.12.4",
     "date-fns": "^3.6.0",
     "string-similarity-js": "^2.1.4",
-    "tsx": "^4.16.2",
+    "tsx": "^4.19.2",
     "typescript": "^5.5.4"
   },
   "devDependencies": {
@@ -20,7 +20,7 @@
     "prettier": "^3.3.3"
   },
   "scripts": {
-    "start": "tsx --watch scripts/conferences.test.ts",
+    "start": "tsx watch --include './conferences/**/*' ./scripts/conferences.test.ts",
     "test": "npm run format && tsx scripts/conferences.test.ts",
     "updateValidLocations": "tsx ./scripts/updateValidLocations.ts && npm run format",
     "removeBrokenLinks": "tsx ./scripts/removeBrokenLycheeLinks.ts",
