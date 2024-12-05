@@ -117,6 +117,7 @@ export const validLocations = {
         'Nürnberg',
         'Ostfildern',
         'Potsdam',
+        'Regensburg',
         'Rostock',
         'Rust',
         'Sankt Augustin',
