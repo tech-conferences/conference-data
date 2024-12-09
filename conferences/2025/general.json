@@ -450,5 +450,14 @@
     "country": "Germany",
     "online": false,
     "locales": "EN"
+  },
+  {
+    "name": "13th Edition of Global Conference on Pharmaceutics and Novel Drug Delivery Systems",
+    "url": "https://pharmaceuticsconference.com",
+    "startDate": "2025-09-11",
+    "endDate": "2025-09-13",
+    "online": true,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
   }
 ]
