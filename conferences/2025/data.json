@@ -110,15 +110,6 @@
     "twitter": "@InfobipShift"
   },
   {
-    "name": "Data Science Next Conference",
-    "url": "https://dscnextcon.com/",
-    "startDate": "2025-05-07",
-    "endDate": "2025-05-09",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "locales": "EN"
-  },
-  {
     "name": "Turing Fest",
     "url": "https://turingfest.com",
     "startDate": "2025-05-07",
@@ -126,6 +117,15 @@
     "online": true,
     "locales": "EN",
     "twitter": "@turingfest"
+  },
+  {
+    "name": "Data Science Next Conference",
+    "url": "https://dscnextcon.com/",
+    "startDate": "2025-05-07",
+    "endDate": "2025-05-09",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "locales": "EN"
   },
   {
     "name": "ETHDam",
