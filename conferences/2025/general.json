@@ -463,5 +463,17 @@
     "country": "Germany",
     "online": false,
     "locales": "EN"
+  },
+  {
+    "name": "Fluttercon Europe",
+    "url": "https://fluttercon.dev",
+    "startDate": "2025-09-24",
+    "endDate": "2025-09-26",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://fluttercon.dev/code-of-conduct/",
+    "twitter": "@FlutterconWorld"
   }
 ]
