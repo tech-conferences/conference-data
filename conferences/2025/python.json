@@ -1,5 +1,20 @@
 [
   {
+    "name": "PyCon+Web",
+    "url": "https://www.pyconweb.com",
+    "startDate": "2025-01-24",
+    "endDate": "2025-01-25",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.pyconweb.com/code-of-conduct",
+    "cfpUrl": "https://www.papercall.io/pyconweb2025",
+    "cfpEndDate": "2024-12-11",
+    "twitter": "@pyconweb",
+    "mastodon": "@nouseryet@nouseryet"
+  },
+  {
     "name": "pycascades",
     "url": "https://2025.pycascades.com",
     "startDate": "2025-02-08",

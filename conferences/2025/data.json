@@ -110,6 +110,15 @@
     "twitter": "@InfobipShift"
   },
   {
+    "name": "Turing Fest",
+    "url": "https://turingfest.com",
+    "startDate": "2025-05-07",
+    "endDate": "2025-05-08",
+    "online": true,
+    "locales": "EN",
+    "twitter": "@turingfest"
+  },
+  {
     "name": "Data Science Next Conference",
     "url": "https://dscnextcon.com/",
     "startDate": "2025-05-07",
@@ -244,6 +253,16 @@
     "cfpUrl": "https://aiconusa.techwell.com/speak-ai-con-usa",
     "cfpEndDate": "2024-11-25",
     "twitter": "@techwell"
+  },
+  {
+    "name": "Artificial Intelligence conference",
+    "url": "https://www.artificialintelligenceconferences.com",
+    "startDate": "2025-06-23",
+    "endDate": "2025-06-24",
+    "city": "Paris",
+    "country": "France",
+    "online": true,
+    "locales": "EN"
   },
   {
     "name": "Infobip Shift Zadar",
