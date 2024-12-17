@@ -59,6 +59,15 @@
     "twitter": "@schrodinger_hat"
   },
   {
+    "name": "inside agile: Agile Softwareentwicklung im Unternehmen",
+    "url": "https://asu.inside-agile.de",
+    "startDate": "2025-03-27",
+    "endDate": "2025-03-27",
+    "online": true,
+    "locales": "DE",
+    "cocUrl": "https://asu.inside-agile.de/code_of_conduct.php?source=0"
+  },
+  {
     "name": "JavaLand",
     "url": "https://www.javaland.eu",
     "startDate": "2025-04-01",
@@ -130,7 +139,7 @@
     "locales": "EN",
     "cocUrl": "https://devopsdays.org/events/2025-raleigh/conduct",
     "twitter": "@DevOpsDaysRDU"
-  }, 
+  },
   {
     "name": "DevOpsDays Aarhus",
     "url": "https://devopsdays.org/events/2025-aarhus/welcome/",
@@ -228,18 +237,6 @@
     "locales": "EN"
   },
   {
-    "name": "DevOpsCon San Diego",
-    "url": "https://devopscon.io/san-diego",
-    "startDate": "2025-05-19",
-    "endDate": "2025-05-22",
-    "city": "San Diego, CA",
-    "country": "U.S.A.",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://devopscon.io/code-of-conduct/",
-    "twitter": "@devops_con"
-  },
-  {
     "name": "Devopsdays Geneva",
     "url": "https://devopsdays.org/events/2025-geneva/welcome/",
     "startDate": "2025-05-19",
@@ -252,6 +249,18 @@
     "cfpEndDate": "2025-02-06",
     "cocUrl": "https://devopsdays.org/events/2025-geneva/conduct",
     "twitter": "@devopsdaysge"
+  },
+  {
+    "name": "DevOpsCon San Diego",
+    "url": "https://devopscon.io/san-diego",
+    "startDate": "2025-05-19",
+    "endDate": "2025-05-22",
+    "city": "San Diego, CA",
+    "country": "U.S.A.",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://devopscon.io/code-of-conduct/",
+    "twitter": "@devops_con"
   },
   {
     "name": "JCON EUROPE",
@@ -280,18 +289,6 @@
     "twitter": "@DevDaysEurope"
   },
   {
-    "name": "Devopsdays Prague",
-    "url": "https://devopsdays.org/events/2025-prague/welcome/",
-    "startDate": "2025-05-22",
-    "endDate": "2025-05-22",
-    "city": "Prague",
-    "country": "Czechia",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://devopsdays.org/events/2025-prague/conduct",
-    "twitter": "@DevOpsDaysPrg"
-  },
-  {
     "name": "DevOps Pro Europe",
     "url": "https://devopspro.lt",
     "startDate": "2025-05-20",
@@ -303,6 +300,18 @@
     "cfpUrl": "https://airtable.com/appxohB7p2Fk5gv92/shrKKg4aOrOJ0HBwB",
     "cfpEndDate": "2025-04-30",
     "twitter": "@DevOpsEU"
+  },
+  {
+    "name": "Devopsdays Prague",
+    "url": "https://devopsdays.org/events/2025-prague/welcome/",
+    "startDate": "2025-05-22",
+    "endDate": "2025-05-22",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://devopsdays.org/events/2025-prague/conduct",
+    "twitter": "@DevOpsDaysPrg"
   },
   {
     "name": "Mastering Observability",
@@ -319,7 +328,7 @@
     "startDate": "2025-06-18",
     "endDate": "2025-06-20",
     "city": "Amsterdam",
-    "country": "The Netherlands",
+    "country": "Netherlands",
     "online": false,
     "locales": "EN",
     "cocUrl": "https://devopsdays.org/events/2025-amsterdam/conduct",
@@ -395,7 +404,7 @@
     "startDate": "2025-10-02",
     "endDate": "2025-10-03",
     "city": "Eindhoven",
-    "country": "The Netherlands",
+    "country": "Netherlands",
     "online": false,
     "locales": "EN",
     "cocUrl": "https://devopsdays.org/events/2025-eindhoven/conduct",
