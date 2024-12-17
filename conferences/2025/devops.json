@@ -12,6 +12,39 @@
     "twitter": "@chaoscarnivalio"
   },
   {
+    "name": "Devopsdays Los Angeles",
+    "url": "https://devopsdays.org/events/2025-los-angeles/welcome/",
+    "startDate": "2025-03-07",
+    "endDate": "2025-03-07",
+    "city": "Los Angeles, CA",
+    "country": "U.S.A.",
+    "locales": "EN",
+    "cocUrl": "https://devopsdays.org/events/2025-los-angeles/conduct",
+    "twitter": "@socaldevops"
+  },
+  {
+    "name": "Devopsdays Zurich",
+    "url": "https://devopsdays.org/events/2025-zurich/welcome/",
+    "startDate": "2025-03-12",
+    "endDate": "2025-03-13",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "locales": "EN",
+    "cocUrl": "https://devopsdays.org/events/2025-zurich/conduct",
+    "twitter": "@DevOpsZH"
+  },
+  {
+    "name": "Devopsdays Chicago",
+    "url": "https://devopsdays.org/events/2025-chicago/welcome/",
+    "startDate": "2025-03-18",
+    "endDate": "2025-03-18",
+    "city": "Chicago, IL",
+    "country": "U.S.A.",
+    "locales": "EN",
+    "cocUrl": "https://devopsdays.org/events/2025-chicago/conduct",
+    "twitter": "@devopsdayschi"
+  },
+  {
     "name": "Open Source Day",
     "url": "https://2025.osday.dev",
     "startDate": "2025-03-21",
@@ -85,6 +118,17 @@
     "twitter": "@devops_con"
   },
   {
+    "name": "DevOpsDays Tokyo",
+    "url": "https://devopsdays.org/events/2025-tokyo/welcome/",
+    "startDate": "2025-04-15",
+    "endDate": "2025-04-16",
+    "city": "Tokyo",
+    "country": "Japan",
+    "locales": "EN",
+    "cocUrl": "https://devopsdays.org/events/2025-tokyo/conduct",
+    "twitter": "@devopsdaystokyo"
+  },
+  {
     "name": "DevOpsDays Raleigh",
     "url": "https://devopsdays.org/events/2025-raleigh/welcome",
     "startDate": "2025-04-16",
@@ -97,6 +141,30 @@
     "twitter": "@DevOpsDaysRDU"
   },
   {
+    "name": "DevOpsDays Aarhus",
+    "url": "https://devopsdays.org/events/2025-aarhus/welcome/",
+    "startDate": "2025-04-29",
+    "endDate": "2025-04-30",
+    "city": "Aarhus",
+    "country": "Denmark",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://devopsdays.org/events/2025-aarhus/conduct",
+    "twitter": "@devopsdayscph"
+  },
+  {
+    "name": "DevOpsDays Atlanta",
+    "url": "https://devopsdays.org/events/2025-atlanta/welcome/",
+    "startDate": "2025-04-29",
+    "endDate": "2025-04-30",
+    "city": "Atlanta, GA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://devopsdays.org/events/2025-atlanta/conduct",
+    "twitter": "@devopsdaysATL"
+  },
+  {
     "name": "Mastering GitOps",
     "url": "https://www.mastering-gitops.de",
     "startDate": "2025-04-30",
@@ -104,6 +172,33 @@
     "online": true,
     "locales": "DE",
     "cocUrl": "https://www.mastering-gitops.de/code_of_conduct.php?source=0"
+  },
+  {
+    "name": "Devopsdays Austin",
+    "url": "https://devopsdays.org/events/2025-austin/welcome/",
+    "startDate": "2025-05-01",
+    "endDate": "2025-05-02",
+    "city": "Austin, TX",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cfpUrl": "https://talks.devopsdays.org/devopsdays-austin-2025/cfp",
+    "cfpEndDate": "2025-03-27",
+    "cocUrl": "https://devopsdays.org/events/2025-austin/conduct"
+  },
+  {
+    "name": "Devopsdays Salt Lake City",
+    "url": "https://devopsdays.org/events/2025-salt-lake-city/welcome/",
+    "startDate": "2025-05-12",
+    "endDate": "2025-05-13",
+    "city": "Austin, TX",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cfpUrl": "https://sessionize.com/slcdod2025/",
+    "cfpEndDate": "2025-01-12",
+    "cocUrl": "https://devopsdays.org/events/2025-salt-lake-city/conduct",
+    "twitter": "@devopsdaysslc"
   },
   {
     "name": "Code Remix Summit",
@@ -140,6 +235,20 @@
     "country": "Netherlands",
     "online": true,
     "locales": "EN"
+  },
+  {
+    "name": "Devopsdays Geneva",
+    "url": "https://devopsdays.org/events/2025-geneva/welcome/",
+    "startDate": "2025-05-19",
+    "endDate": "2025-05-20",
+    "city": "Geneva",
+    "country": "Switzerland",
+    "online": false,
+    "locales": "EN",
+    "cfpUrl": "https://devopsdays.org/events/2025-geneva/propose/",
+    "cfpEndDate": "2025-02-06",
+    "cocUrl": "https://devopsdays.org/events/2025-geneva/conduct",
+    "twitter": "@devopsdaysge"
   },
   {
     "name": "DevOpsCon San Diego",
@@ -193,6 +302,18 @@
     "twitter": "@DevOpsEU"
   },
   {
+    "name": "Devopsdays Prague",
+    "url": "https://devopsdays.org/events/2025-prague/welcome/",
+    "startDate": "2025-05-22",
+    "endDate": "2025-05-22",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://devopsdays.org/events/2025-prague/conduct",
+    "twitter": "@DevOpsDaysPrg"
+  },
+  {
     "name": "Mastering Observability",
     "url": "https://mastering-obs.de",
     "startDate": "2025-06-05",
@@ -200,6 +321,20 @@
     "online": true,
     "locales": "DE",
     "cocUrl": "https://mastering-obs.de/code_of_conduct.php?source=0"
+  },
+  {
+    "name": "Devopsdays Amsterdam",
+    "url": "https://platformcon.com/live-day-london",
+    "startDate": "2025-06-18",
+    "endDate": "2025-06-20",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://devopsdays.org/events/2025-amsterdam/conduct",
+    "cfpUrl": "https://talks.devopsdays.org/devopsdays-amsterdam-2025/cfp",
+    "cfpEndDate": "2025-01-31",
+    "twitter": "@devopsams"
   },
   {
     "name": "PlatformCon Live Day London",
@@ -262,6 +397,18 @@
     "locales": "EN",
     "cocUrl": "https://devopscon.io/code-of-conduct/",
     "twitter": "@devops_con"
+  },
+  {
+    "name": "Devopsdays Eindhoven",
+    "url": "https://devopsdays.org/events/2025-eindhoven/welcome/",
+    "startDate": "2025-10-02",
+    "endDate": "2025-10-03",
+    "city": "Eindhoven",
+    "country": "Netherlands",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://devopsdays.org/events/2025-eindhoven/conduct",
+    "twitter": "@devopsdaysehv"
   },
   {
     "name": "KubeCon + CloudNativeCon North America",
