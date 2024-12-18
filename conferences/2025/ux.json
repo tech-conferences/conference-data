@@ -61,5 +61,18 @@
     "locales": "EN",
     "cocUrl": "https://websummercamp.com/2025/code-of-conduct",
     "twitter": "@WebSummerCamp"
+  },
+  {
+    "name": "SmashingConf Freiburg",
+    "url": "https://smashingconf.com/freiburg-2025",
+    "startDate": "2025-09-08",
+    "endDate": "2025-09-11",
+    "city": "Freiburg",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://smashingconf.com/codeofconduct",
+    "twitter": "@smashingconf"
   }
 ]
