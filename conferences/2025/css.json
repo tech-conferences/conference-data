@@ -12,5 +12,18 @@
     "cfpUrl": "https://tally.so/r/3xyl4v",
     "cfpEndDate": "2024-12-01",
     "twitter": "@midudev"
+  },
+  {
+    "name": "SmashingConf New York",
+    "url": "https://smashingconf.com/ny-2025",
+    "startDate": "2025-10-06",
+    "endDate": "2025-10-09",
+    "city": "New York",
+    "country": "U.S.A.",
+    "online": true,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://smashingconf.com/codeofconduct",
+    "twitter": "@smashingconf"
   }
 ]
