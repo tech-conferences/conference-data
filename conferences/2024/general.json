@@ -1589,5 +1589,15 @@
     "cfpEndDate": "2024-04-29",
     "twitter": "@ittage",
     "mastodon": "@informatikaktuell@det.social"
+  },
+  {
+    "name": "test",
+    "url": "https://www.test.com",
+    "startDate": "2024-12-21",
+    "endDate": "2024-12-21",
+    "city": "Wuerzburg",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN"
   }
 ]
