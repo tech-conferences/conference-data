@@ -258,20 +258,6 @@
     "twitter": "@thejsnation"
   },
   {
-    "name": "React Summit",
-    "url": "https://reactsummit.com",
-    "startDate": "2025-06-13",
-    "endDate": "2025-06-17",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://gitnation.com/coc",
-    "cfpUrl": "https://forms.gle/9CL7DuMdkgymLfGG9",
-    "cfpEndDate": "2025-03-02",
-    "twitter": "@ReactSummit"
-  },
-  {
     "name": "React Norway",
     "url": "https://reactnorway.com",
     "startDate": "2025-06-13",
@@ -284,6 +270,20 @@
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScotGSzh8gblbRxQG7W-FfA9j2uJwWCzBkNS_SV131UoJNZ7Q/viewform",
     "cfpEndDate": "2025-03-01",
     "twitter": "@ReactNorway"
+  },
+  {
+    "name": "React Summit",
+    "url": "https://reactsummit.com",
+    "startDate": "2025-06-13",
+    "endDate": "2025-06-17",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://gitnation.com/coc",
+    "cfpUrl": "https://forms.gle/9CL7DuMdkgymLfGG9",
+    "cfpEndDate": "2025-03-02",
+    "twitter": "@ReactSummit"
   },
   {
     "name": "Web Summer Camp",
