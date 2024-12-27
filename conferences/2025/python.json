@@ -28,6 +28,21 @@
     "mastodon": "@pycascades@fosstodon.org"
   },
   {
+    "name": "PyCon DE & PyData",
+    "url": "https://2025.pycon.de",
+    "startDate": "2025-04-22",
+    "endDate": "2025-04-25",
+    "city": "Darmstadt",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://pioneershub.github.io/pyconde25-conference/code-of-conduct/",
+    "cfpUrl": "https://2025.pycon.de/call-for-proposals",
+    "cfpEndDate": "2025-01-05",
+    "twitter": "@pyconde",
+    "mastodon": "@pyconde@fosstodon.org"
+  },
+  {
     "name": "PyCon Italia",
     "url": "https://2025.pycon.it/en",
     "startDate": "2025-05-28",
