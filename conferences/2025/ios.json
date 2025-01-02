@@ -20,5 +20,17 @@
     "country": "Japan",
     "online": false,
     "locales": "EN,JA"
+  },
+  {
+    "name": "SwiftLeeds",
+    "url": "https://swiftleeds.co.uk",
+    "startDate": "2025-10-06",
+    "endDate": "2025-10-08",
+    "city": "Leeds",
+    "country": "U.K.",
+    "online": true,
+    "locales": "EN",
+    "twitter": "@swift_leeds",
+    "mastodon": "@SwiftLeeds@iosdev.space"
   }
 ]
