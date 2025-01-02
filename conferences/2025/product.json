@@ -74,5 +74,16 @@
     "locales": "EN",
     "cocUrl": "https://devopsdays.org/events/2025-raleigh/conduct",
     "twitter": "@DevOpsDaysRDU"
+  },
+  {
+    "name": "29th European Nephrology Conference",
+    "url": "https://europe.nephroconferences.com",
+    "startDate": "2025-05-26",
+    "endDate": "2025-05-27",
+    "city": "Rome",
+    "country": "Italy",
+    "online": true,
+    "locales": "EN,RO,IT",
+    "offersSignLanguageOrCC": true
   }
 ]
