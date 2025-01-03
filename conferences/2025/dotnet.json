@@ -55,5 +55,15 @@
     "locales": "EN",
     "cocUrl": "https://www.updateconference.net/en/code-of-conduct",
     "twitter": "@update_conf"
+  },
+  {
+    "name": "civilmeet",
+    "url": "https://civilengineering.acmemeetings.com",
+    "startDate": "2025-11-17",
+    "endDate": "2025-11-19",
+    "city": "Milano",
+    "country": "Italy",
+    "online": true,
+    "locales": "EN"
   }
 ]
