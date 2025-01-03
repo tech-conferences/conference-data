@@ -455,20 +455,8 @@
     "mastodon": "@berlinbuzzwords@floss.social"
   },
   {
-    "name": "DevOpsCon Berlin",
-    "url": "https://devopscon.io/berlin",
-    "startDate": "2025-06-16",
-    "endDate": "2025-06-19",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://devopscon.io/code-of-conduct",
-    "twitter": "@devops_con"
-  },
-  {
     "name": "LDX3 London",
-    "url": "https://shorturl.at/r86tp",
+    "url": "https://leaddev.com/leaddev-london",
     "startDate": "2025-06-16",
     "endDate": "2025-06-17",
     "city": "London",
@@ -480,6 +468,18 @@
     "cfpUrl": "https://leaddev.submittable.com/submit/312728/talk-submissions-for-ldx3-2025",
     "cfpEndDate": "2025-01-13",
     "twitter": "@TheLeadDev"
+  },
+  {
+    "name": "DevOpsCon Berlin",
+    "url": "https://devopscon.io/berlin",
+    "startDate": "2025-06-16",
+    "endDate": "2025-06-19",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://devopscon.io/code-of-conduct",
+    "twitter": "@devops_con"
   },
   {
     "name": "APIdays",
