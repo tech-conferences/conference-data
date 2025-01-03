@@ -536,6 +536,19 @@
     "twitter": "@TheLeadDev"
   },
   {
+    "name": "LeadingEng New York",
+    "url": "https://leaddev.com/leadingeng-new-york",
+    "startDate": "2025-10-17",
+    "endDate": "2025-10-17",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://leaddev.com/code-conduct",
+    "twitter": "@TheLeadDev"
+  },
+  {
     "name": "droidcon London",
     "url": "https://london.droidcon.com",
     "startDate": "2025-10-30",
@@ -546,5 +559,18 @@
     "locales": "EN",
     "cocUrl": "https://london.droidcon.com/code-of-conduct/",
     "twitter": "@droidconLondon"
+  },
+  {
+    "name": "LeadDev Berlin",
+    "url": "https://leaddev.com/leaddev-berlin",
+    "startDate": "2025-11-03",
+    "endDate": "2025-11-04",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://leaddev.com/code-conduct",
+    "twitter": "@TheLeadDev"
   }
 ]
