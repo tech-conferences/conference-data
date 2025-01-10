@@ -23,5 +23,19 @@
     "country": "Denmark",
     "online": false,
     "locales": "EN"
+  },
+  {
+    "name": "JDD",
+    "url": "https://jdd.org.pl",
+    "startDate": "2025-10-21",
+    "endDate": "2025-10-22",
+    "city": "Kraków",
+    "country": "Poland",
+    "online": false,
+    "locales": "EN,PL",
+    "cocUrl": "https://jdd.org.pl/code-of-conduct-2025/",
+    "cfpUrl": "https://jdd.org.pl/cfp-2025",
+    "cfpEndDate": "2025-05-16",
+    "twitter": "@JDD_Krakow"
   }
 ]
