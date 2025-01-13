@@ -128,5 +128,19 @@
     "country": "U.S.A.",
     "online": false,
     "locales": "EN"
+  },
+  {
+    "name": "Big Sky Dev Con",
+    "url": "https://bigskydevcon.com",
+    "startDate": "2025-08-02",
+    "endDate": "2025-08-02",
+    "city": "Bozeman, MT",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.montanaprogrammers.org/community-guidelines",
+    "cfpUrl": "https://forms.gle/muPjY3koTb9WjMkb6",
+    "cfpEndDate": "2025-05-01",
+    "twitter": "@bigskydevcon"
   }
 ]
