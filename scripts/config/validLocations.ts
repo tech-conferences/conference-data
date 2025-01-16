@@ -208,7 +208,7 @@ export const validLocations = {
     Panama: ['Panama City'],
     Peru: ['Arequipa', 'Lima'],
     Philippines: ['Bohol', 'Boracay Island', 'Cebu', 'Iloilo City', 'Makati', 'Manila'],
-    Poland: ['Gdansk', 'Gdynia', 'Katowice', 'Kraków', 'Krynica Zdrój', 'Lodz', 'Rzeszów', 'Szczyrk', 'Warsaw', 'Wrocław', 'Zawiercie'],
+    Poland: ['Gdansk', 'Gdynia', 'Katowice', 'Kraków', 'Krynica Zdrój', 'Lodz', 'Poznań', 'Rzeszów', 'Szczyrk', 'Warsaw', 'Wrocław', 'Zawiercie'],
     Portugal: ['Aveiro', 'Braga', 'Castelo Branco', 'Coimbra', 'Faro', 'Funchal', 'Lisbon', 'Porto'],
     'Puerto Rico': ['Rio Mar'],
     Qatar: ['Doha'],
