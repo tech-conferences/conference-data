@@ -447,5 +447,16 @@
     "locales": "EN",
     "cocUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/attend/code-of-conduct",
     "twitter": "@CloudNativeFdn"
+  },
+  {
+    "name": "Laser Optics and Photonics",
+    "url": "https://laseroptics.academynature.org",
+    "startDate": "2025-11-13",
+    "endDate": "2025-11-15",
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "online": false,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
   }
 ]
