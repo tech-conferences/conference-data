@@ -69,5 +69,18 @@
     "locales": "EN",
     "cocUrl": "https://www.updateconference.net/en/code-of-conduct",
     "twitter": "@update_conf"
+  },
+  {
+    "name": "Open Source Monitoring Conference",
+    "url": "https://osmc.de",
+    "startDate": "2025-11-18",
+    "endDate": "2025-11-20",
+    "city": "Nürnberg",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN,DE",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://osmc.de/code-of-conduct/",
+    "twitter": "@osmc"
   }
 ]
