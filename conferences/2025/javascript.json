@@ -153,6 +153,18 @@
     "twitter": "@AzureCosmosDB"
   },
   {
+    "name": "Node Congress",
+    "url": "https://nodecongress.com",
+    "startDate": "2025-04-17",
+    "endDate": "2025-04-18",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://gitnation.com/coc",
+    "cfpUrl": "https://forms.gle/YDJ8YuHkosqsHkN59",
+    "cfpEndDate": "2025-02-15",
+    "twitter": "@NodeCongress"
+  },
+  {
     "name": "React Miami",
     "url": "https://www.reactmiami.com",
     "startDate": "2025-04-17",
@@ -165,18 +177,6 @@
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeAwHwwt-2OX8Ke6czZyNFbXXAmi2ZoTwP7oLtULAQ21tLuvw/viewform",
     "cfpEndDate": "2024-12-13",
     "twitter": "@ReactMiamiConf"
-  },
-  {
-    "name": "Node Congress",
-    "url": "https://nodecongress.com",
-    "startDate": "2025-04-17",
-    "endDate": "2025-04-18",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://gitnation.com/coc",
-    "cfpUrl": "https://forms.gle/YDJ8YuHkosqsHkN59",
-    "cfpEndDate": "2025-02-15",
-    "twitter": "@NodeCongress"
   },
   {
     "name": "CityJS London",
