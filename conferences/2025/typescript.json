@@ -51,5 +51,18 @@
     "cfpUrl": "https://jsheroes.io/speak",
     "cfpEndDate": "2024-12-31",
     "twitter": "@jsheroes"
+  },
+  {
+    "name": "SquiggleConf",
+    "url": "https://2025.squiggleconf.com",
+    "startDate": "2025-09-18",
+    "endDate": "2025-09-19",
+    "city": "Boston, MA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://2025.squiggleconf.com/code-of-conduct",
+    "twitter": "@SquiggleConf",
+    "mastodon": "@SquiggleConf@fosstodon.org"
   }
 ]
