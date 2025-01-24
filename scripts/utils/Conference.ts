@@ -11,7 +11,8 @@ export interface Conference {
     cocUrl: string;
     cfpUrl: string;
     cfpEndDate: string;
-    twitter: string;
+    bluesky: string;
     github: string;
     mastodon: string;
+    twitter: string;
 }

@@ -11,7 +11,8 @@ export default [
     'cocUrl',
     'cfpUrl',
     'cfpEndDate',
+    'bluesky',
+    'mastodon',
     'twitter',
-    'github',
-    'mastodon'
+    'github'
 ];
