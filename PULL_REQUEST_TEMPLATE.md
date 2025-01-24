@@ -1,6 +1,6 @@
 Thanks for creating a new Pull Request for this repository.
 
-To get the conferce as fast as possible into confs.tech please consider the following things.
+To get the conference as fast as possible into confs.tech please consider the following things.
 
 ## Checklist for your change
 - [ ] does not delete another conference
