@@ -63,9 +63,10 @@ Object.keys(conferencesJSON).forEach(year => {
                         cocUrl: mergedConference.cocUrl,
                         cfpUrl: mergedConference.cfpUrl,
                         cfpEndDate: mergedConference.cfpEndDate,
-                        twitter: mergedConference.twitter,
+                        bluesky: mergedConference.bluesky,
                         github: mergedConference.github,
-                        mastodon: mergedConference.mastodon
+                        mastodon: mergedConference.mastodon,
+                        twitter: mergedConference.twitter
                     };
                     return conference;
                 });

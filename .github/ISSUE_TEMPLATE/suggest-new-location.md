@@ -23,7 +23,7 @@ If you would like to suggest a conference, please also list the details of the c
 - topic:
 - language:
 - is the conference onsite or hybrid?
-- twitter/mastodon handle
+- bluesky/mastodon/twitter handle
 - code of conduct
 
 Is there anything else we can help you with?
