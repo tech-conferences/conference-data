@@ -200,7 +200,7 @@ export const validLocations = {
     Morocco: ['Casablanca', 'Taghazout, Agadir'],
     Namibia: ['Windhoek'],
     Nepal: ['Bharatpur', 'Kathmandu'],
-    Netherlands: ['Amsterdam', 'Delft', 'Den Haag', 'Ede', 'Eindhoven', 'Groningen', 'Hilversum', 'Rotterdam', 'Texel', 'The Hague', 'Utrecht', 'Zaandam'],
+    Netherlands: ['Amsterdam', 'Delft', 'Den Haag', 'Ede', 'Eindhoven', 'Groningen', 'Hilversum', 'Rotterdam', 'Texel', 'The Hague', 'Utrecht', 'Zaandam', 's-Hertogenbosch'],
     'New Zealand': ['Auckland', 'Wellington'],
     Nigeria: ['Lagos'],
     'North Macedonia': ['Skopje'],
