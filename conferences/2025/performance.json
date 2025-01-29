@@ -1,40 +1,40 @@
 [
-  {
-    "name": "JSConf Spain",
-    "url": "https://jsconf.es",
-    "startDate": "2025-03-01",
-    "endDate": "2025-03-01",
-    "city": "Madrid",
-    "country": "Spain",
-    "online": true,
-    "locales": "ES",
-    "cocUrl": "https://jsconf.es/coc",
-    "cfpUrl": "https://tally.so/r/3xyl4v",
-    "cfpEndDate": "2024-12-01",
-    "twitter": "@midudev"
-  },
-  {
-    "name": "PlatforMa",
-    "url": "https://platfor-ma.com",
-    "startDate": "2025-05-20",
-    "endDate": "2025-05-20",
-    "city": "Tel Aviv",
-    "country": "Israel",
-    "online": false,
-    "locales": "EN,HE",
-    "cocUrl": "https://www.platfor-ma.com/code-of-conduct",
-    "cfpUrl": "https://sessionize.com/platforma2025",
-    "cfpEndDate": "2025-02-02"
-  },
-  {
-    "name": "S2N: Storage Server Network",
-    "url": "https://s2n.heise.de",
-    "startDate": "2025-10-22",
-    "endDate": "2025-10-23",
-    "city": "Regensburg",
-    "country": "Germany",
-    "online": false,
-    "locales": "DE",
-    "cocUrl": "https://s2n.heise.de/code_of_conduct.php?source=0"
-  }
+    {
+        "name": "JSConf Spain",
+        "url": "https://jsconf.es",
+        "startDate": "2025-03-01",
+        "endDate": "2025-03-01",
+        "city": "Madrid",
+        "country": "Spain",
+        "online": true,
+        "locales": "ES",
+        "cocUrl": "https://www.jsconf.es/codigo-de-conducta",
+        "cfpUrl": "https://tally.so/r/3xyl4v",
+        "cfpEndDate": "2024-12-01",
+        "twitter": "@midudev"
+    },
+    {
+        "name": "PlatforMa",
+        "url": "https://platfor-ma.com",
+        "startDate": "2025-05-20",
+        "endDate": "2025-05-20",
+        "city": "Tel Aviv",
+        "country": "Israel",
+        "online": false,
+        "locales": "EN,HE",
+        "cocUrl": "https://www.platfor-ma.com/code-of-conduct",
+        "cfpUrl": "https://sessionize.com/platforma2025",
+        "cfpEndDate": "2025-02-02"
+    },
+    {
+        "name": "S2N: Storage Server Network",
+        "url": "https://s2n.heise.de",
+        "startDate": "2025-10-22",
+        "endDate": "2025-10-23",
+        "city": "Regensburg",
+        "country": "Germany",
+        "online": false,
+        "locales": "DE",
+        "cocUrl": "https://s2n.heise.de/code_of_conduct.php?source=0"
+    }
 ]
