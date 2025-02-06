@@ -9,7 +9,6 @@
     "clarinet": "^0.12.4",
     "date-fns": "^3.6.0",
     "string-similarity-js": "^2.1.4",
-    "tsx": "^4.19.2",
     "typescript": "^5.5.4"
   },
   "devDependencies": {
@@ -17,7 +16,8 @@
     "git-json-merge": "^1.0.0",
     "lodash": "^4.17.21",
     "nodemon": "^3.1.4",
-    "prettier": "^3.3.3"
+    "prettier": "^3.3.3",
+    "tsx": "^4.19.2"
   },
   "scripts": {
     "start": "tsx watch --include './conferences/**/*' ./scripts/conferences.test.ts",
