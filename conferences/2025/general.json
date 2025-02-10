@@ -664,18 +664,6 @@
     "twitter": "@TheLeadDev"
   },
   {
-    "name": "droidcon London",
-    "url": "https://london.droidcon.com",
-    "startDate": "2025-10-30",
-    "endDate": "2025-10-31",
-    "city": "London",
-    "country": "U.K.",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://london.droidcon.com/code-of-conduct/",
-    "twitter": "@droidconLondon"
-  },
-  {
     "name": "Heapcon",
     "url": "https://heapcon.io",
     "startDate": "2025-10-30",
@@ -688,6 +676,18 @@
     "cfpUrl": "https://form.typeform.com/to/lsbUoBdu",
     "cfpEndDate": "2025-06-01",
     "twitter": "@Heapconf"
+  },
+  {
+    "name": "droidcon London",
+    "url": "https://london.droidcon.com",
+    "startDate": "2025-10-30",
+    "endDate": "2025-10-31",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://london.droidcon.com/code-of-conduct/",
+    "twitter": "@droidconLondon"
   },
   {
     "name": "LeadDev Berlin",
