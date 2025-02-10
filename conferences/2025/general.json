@@ -169,6 +169,16 @@
     "cfpEndDate": "2024-11-30"
   },
   {
+    "name": "test",
+    "url": "https://test.com",
+    "startDate": "2025-02-28",
+    "endDate": "2025-02-28",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "online": false,
+    "locales": "EN"
+  },
+  {
     "name": "Nullcon Goa",
     "url": "https://nullcon.net/goa-2025",
     "startDate": "2025-03-01",
