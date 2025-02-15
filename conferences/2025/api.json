@@ -1,5 +1,15 @@
 [
   {
+    "name": "test",
+    "url": "https://confs.tech/conferences/new",
+    "startDate": "2025-02-15",
+    "endDate": "2025-02-15",
+    "city": "Brisbane",
+    "country": "Australia",
+    "online": false,
+    "locales": "EN"
+  },
+  {
     "name": "API Conference London",
     "url": "https://apiconference.net/london",
     "startDate": "2025-05-12",
