@@ -247,6 +247,7 @@ export const validLocations = {
     Taiwan: ['Taipei'],
     Tanzania: ['Dar es Salaam'],
     Thailand: ['Bangkok', 'Nakhon Pathom'],
+    Tunisia: ['Tunis'],
     Turkey: ['Istanbul'],
     'U.K.': [
         'Aberystwyth',
