@@ -52,6 +52,18 @@
     "cocUrl": "https://pgconf.in/pages/coc"
   },
   {
+    "name": "NVIDIA GTC AI Conference",
+    "url": "https://www.nvidia.com/gtc",
+    "startDate": "2025-03-17",
+    "endDate": "2025-03-21",
+    "city": "San Jose, CA",
+    "country": "U.S.A.",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.nvidia.com/gtc/code-of-conduct/?regcode=prsy-841115&ncid=prsy-841115",
+    "twitter": "@NVIDIAGTC"
+  },
+  {
     "name": "Nordic PGDay",
     "url": "https://2025.nordicpgday.org/",
     "startDate": "2025-03-18",
