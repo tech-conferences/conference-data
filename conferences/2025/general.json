@@ -476,6 +476,17 @@
     "mastodon": "@devconf@mastodon.cloud"
   },
   {
+    "name": "Reuters Events: Road Transport USA",
+    "url": "https://events.reutersevents.com/automotive/roadtransport",
+    "startDate": "2025-06-03",
+    "endDate": "2025-06-04",
+    "city": "San Diego, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://events.reutersevents.com/tcs"
+  },
+  {
     "name": "InfoQ Dev Summit Boston",
     "url": "https://devsummit.infoq.com/conference/boston2025",
     "startDate": "2025-06-09",
