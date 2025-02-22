@@ -469,5 +469,18 @@
     "cfpUrl": "https://www.dotai.io/speak",
     "cfpEndDate": "2025-03-31",
     "twitter": "@dotconferences"
+  },
+  {
+    "name": "AI By The Bay",
+    "url": "https://ai.bythebay.io",
+    "startDate": "2025-11-17",
+    "endDate": "2025-11-19",
+    "city": "Oakland, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cfpUrl": "https://sessionize.com/by-the-bay",
+    "cfpEndDate": "2025-03-19",
+    "bluesky": "aibythebay.bsky.social"
   }
 ]
