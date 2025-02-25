@@ -481,5 +481,19 @@
     "locales": "EN",
     "cocUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/attend/code-of-conduct",
     "twitter": "@CloudNativeFdn"
+  },
+  {
+    "name": "Agile Testing Days",
+    "url": "https://agiletestingdays.com",
+    "startDate": "2025-11-24",
+    "endDate": "2025-11-27",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://agiletestingdays.com/code-of-conduct/",
+    "cfpUrl": "https://agiletestingdays.com/call-for-papers",
+    "cfpEndDate": "2025-03-30",
+    "bluesky": "agiletdzone.bsky.social"
   }
 ]
