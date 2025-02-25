@@ -17,7 +17,7 @@
     "lodash": "^4.17.21",
     "nodemon": "^3.1.4",
     "prettier": "^3.3.3",
-    "tsx": "^4.19.2"
+    "tsx": "^4.19.3"
   },
   "scripts": {
     "start": "tsx watch --include './conferences/**/*' ./scripts/conferences.test.ts",
