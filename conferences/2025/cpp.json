@@ -12,6 +12,20 @@
     "cfpEndDate": "2025-02-21"
   },
   {
+    "name": "CppConf Japan",
+    "url": "https://www.cppconf.com/conf",
+    "startDate": "2025-04-25",
+    "endDate": "2025-04-26",
+    "city": "Tokyo",
+    "country": "Japan",
+    "online": false,
+    "locales": "EN,JA",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://www.cppconf.com/conf/coc",
+    "cfpUrl": "https://www.cppconf.com/conf/submit-talk",
+    "cfpEndDate": "2025-03-15"
+  },
+  {
     "name": "Visual Studio Live",
     "url": "https://vslive.com/events/microsofthq-2025/home.aspx",
     "startDate": "2025-08-04",
