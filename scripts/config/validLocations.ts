@@ -242,7 +242,7 @@ export const validLocations = {
         'Vigo',
         'Zaragoza'
     ],
-    Sweden: ['Gothenburg', 'Helsingborg', 'Kalmar', 'Malmö', 'Stockholm'],
+    Sweden: ['Gothenburg', 'Helsingborg', 'Kalmar', 'Malmö', 'Stockholm', 'Varberg'],
     Switzerland: ['Basel', 'Bern', 'Buchs', 'Crans-Montana', 'Fribourg', 'Geneva', 'Lausanne', 'Lugano', 'Nottwil', 'Rapperswil-Jona', 'Zurich'],
     Taiwan: ['Taipei'],
     Tanzania: ['Dar es Salaam'],
