@@ -58,5 +58,17 @@
     "locales": "EN",
     "cocUrl": "https://uberconf.com/home/code_of_conduct",
     "twitter": "@nofluff"
+  },
+  {
+    "name": "Platform Summit",
+    "url": "https://nordicapis.com/events/platform-summit-2025",
+    "startDate": "2025-10-13",
+    "endDate": "2025-10-15",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "online": false,
+    "locales": "EN",
+    "bluesky": "nordicapis.bsky.social",
+    "twitter": "@nordicapis"
   }
 ]
