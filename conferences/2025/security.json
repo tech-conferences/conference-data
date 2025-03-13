@@ -202,6 +202,22 @@
     "twitter": "@InfobipShift"
   },
   {
+    "name": "BSides Edmonton",
+    "url": "https://www.bsidesedmonton.org",
+    "startDate": "2025-09-22",
+    "endDate": "2025-09-23",
+    "city": "Edmonton",
+    "country": "Canada",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.bsidesedmonton.org/coc",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfyEUeBsWKfU7ZBDg8bonQ8G8SV_qLkbMv6PC64eriBvbAi5Q/viewform",
+    "cfpEndDate": "2025-05-31",
+    "bluesky": "bsidesedmonton.bsky.social",
+    "mastodon": "@bsidesedmonton@infosec.exchange",
+    "twitter": "@bsidesedmonton"
+  },
+  {
     "name": "heise devSec",
     "url": "https://www.heise-devsec.de",
     "startDate": "2025-09-30",
