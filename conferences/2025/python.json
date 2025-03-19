@@ -66,6 +66,20 @@
     "twitter": "@pyconit"
   },
   {
+    "name": "DjangoCon US",
+    "url": "https://2025.djangocon.us",
+    "startDate": "2025-09-08",
+    "endDate": "2025-09-12",
+    "city": "Chicago, IL",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://2025.djangocon.us/conduct/",
+    "cfpUrl": "https://pretalx.com/djangocon-us-2025/cfp",
+    "cfpEndDate": "2025-04-27"
+  },
+  {
     "name": "Visual Studio Live",
     "url": "https://vslive.com/events/san-diego-2025/home.aspx",
     "startDate": "2025-09-08",
