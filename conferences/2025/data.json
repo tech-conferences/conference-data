@@ -206,6 +206,16 @@
     "locales": "EN"
   },
   {
+    "name": "PGConf Germany",
+    "url": "https://2025.pgconf.de/",
+    "startDate": "2025-05-08",
+    "endDate": "2025-05-09",
+    "city": "Berlin",
+    "country": "Germany",
+    "cocUrl": "https://2025.pgconf.de/code-of-conduct/",
+    "locales": "EN"
+  },
+  {
     "name": "ETHDam",
     "url": "https://www.ethdam.com",
     "startDate": "2025-05-09",
@@ -240,6 +250,27 @@
     "locales": "EN",
     "cfpUrl": "https://mlsys.org/Conferences/2025/CallForPapers",
     "cfpEndDate": "2024-10-31"
+  },
+  {
+    "name": "Postgres Extensions Day",
+    "url": "https://pgext.day/",
+    "startDate": "2025-05-12",
+    "endDate": "2025-05-12",
+    "city": "Montreal",
+    "country": "Canada",
+    "online": true,
+    "cocUrl": "https://www.postgresql.org/about/policies/coc/",
+    "locales": "EN"
+  },
+  {
+    "name": "PGConf Dev",
+    "url": "https://2025.pgconf.dev/",
+    "startDate": "2025-05-13",
+    "endDate": "2025-05-16",
+    "city": "Montreal",
+    "country": "Canada",
+    "cocUrl": "https://2025.pgconf.dev/coc/",
+    "locales": "EN"
   },
   {
     "name": "AI & Machine Learning Summit",
@@ -412,6 +443,45 @@
     "twitter": "@AIinProduction"
   },
   {
+    "name": "PGDay Austria",
+    "url": "https://pgday.at/",
+    "startDate": "2025-09-04",
+    "endDate": "2025-09-04",
+    "city": "Vienna",
+    "country": "Austria",
+    "online": false,
+    "locales": "EN",
+    "cfpUrl": "https://pgday.at/call-for-paper/",
+    "cfpEndDate": "2025-06-15",
+    "cocUrl": "https://pgday.at/code-of-conduct/"
+  },
+  {
+    "name": "PGDay UK",
+    "url": "https://2025.pgday.uk/",
+    "startDate": "2025-09-09",
+    "endDate": "2025-09-09",
+    "city": "London",
+    "country": "UK",
+    "online": false,
+    "locales": "EN",
+    "cfpUrl": "https://2025.pgday.uk/call-for-papers/",
+    "cfpEndDate": "2025-05-12",
+    "cocUrl": "https://2025.pgday.uk/code-of-conduct/"
+  },
+  {
+    "name": "PGDay Lowlands",
+    "url": "https://2025.pgday.nl/",
+    "startDate": "2025-09-12",
+    "endDate": "2025-09-12",
+    "city": "Rotterdam",
+    "country": "Netherlands",
+    "online": true,
+    "locales": "EN",
+    "cfpUrl": "https://2025.pgday.nl/call-for-papers/",
+    "cfpEndDate": "2025-05-01",
+    "cocUrl": "https://2025.pgday.nl/code-of-conduct/"
+  },
+  {
     "name": "Infobip Shift Zadar",
     "url": "https://shift.infobip.com",
     "startDate": "2025-09-14",
@@ -439,6 +509,19 @@
     "cfpEndDate": "2025-04-27",
     "bluesky": "cascadiajs.com",
     "twitter": "@CascadiaJS"
+  },
+  {
+    "name": "PGDay Napoli",
+    "url": "https://2025.pgdaynapoli.org/",
+    "startDate": "2025-09-25",
+    "endDate": "2025-09-25",
+    "city": "Naples",
+    "country": "Italy",
+    "online": true,
+    "locales": "EN",
+    "cfpUrl": "https://2025.pgdaynapoli.org/cfp/",
+    "cfpEndDate": "2025-06-16",
+    "cocUrl": "https://2025.pgdaynapoli.org/about/#coc"
   },
   {
     "name": "Voxxed Days Crete",
@@ -469,6 +552,16 @@
     "endDate": "2025-10-02",
     "city": "Atlanta, GA",
     "country": "U.S.A.",
+    "online": false,
+    "locales": "EN"
+  },
+  {
+    "name": "PGConf EU",
+    "url": "https://2025.pgconf.eu/",
+    "startDate": "2025-09-09",
+    "endDate": "2025-09-09",
+    "city": "Riga",
+    "country": "Latvia",
     "online": false,
     "locales": "EN"
   },
