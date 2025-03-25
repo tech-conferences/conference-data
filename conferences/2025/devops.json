@@ -373,8 +373,21 @@
     "cocUrl": "https://mastering-obs.de/code_of_conduct.php?source=0"
   },
   {
+    "name": "Devopsdays Belém",
+    "url": "https://devopsdays.org/events/2025-belem/welcome/",
+    "startDate": "2025-06-07",
+    "endDate": "2025-06-07",
+    "city": "Belém",
+    "country": "Brazil",
+    "online": false,
+    "locales": "PT",
+    "cocUrl": "https://devopsdays.org/events/2025-belem/conduta-pt-br",
+    "cfpUrl": "https://www.papercall.io/devopsdays-belem-2025",
+    "cfpEndDate": "2025-04-06"
+  },
+  {
     "name": "Devopsdays Amsterdam",
-    "url": "https://platformcon.com/live-day-london",
+    "url": "https://devopsdays.org/events/2025-amsterdam/welcome/",
     "startDate": "2025-06-18",
     "endDate": "2025-06-20",
     "city": "Amsterdam",
@@ -383,8 +396,7 @@
     "locales": "EN",
     "cocUrl": "https://devopsdays.org/events/2025-amsterdam/conduct",
     "cfpUrl": "https://talks.devopsdays.org/devopsdays-amsterdam-2025/cfp",
-    "cfpEndDate": "2025-01-31",
-    "twitter": "@devopsams"
+    "cfpEndDate": "2025-01-31"
   },
   {
     "name": "PlatformCon Live Day London",
@@ -437,6 +449,32 @@
     "twitter": "@devopsdayskc"
   },
   {
+    "name": "Devopsdays Halifax",
+    "url": "https://devopsdays.org/events/2025-halifax/welcome/",
+    "startDate": "2025-08-26",
+    "endDate": "2025-08-27",
+    "city": "Halifax",
+    "country": "Canada",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://devopsdays.org/events/2025-halifax/conduct/",
+    "cfpUrl": "https://talks.devopsdays.org/devopsdays-halifax-2025/cfp",
+    "cfpEndDate": "2025-03-31"
+  },
+  {
+    "name": "Devopsdays Santiago",
+    "url": "https://devopsdays.org/events/2025-santiago/welcome/",
+    "startDate": "2025-08-26",
+    "endDate": "2025-08-27",
+    "city": "Santiago",
+    "country": "Chile",
+    "online": false,
+    "locales": "ES",
+    "cocUrl": "https://devopsdays.org/events/2025-santiago/conduct",
+    "cfpUrl": "https://www.papercall.io/devopsdays-santiago-2025/",
+    "cfpEndDate": "2025-05-18"
+  },
+  {
     "name": "Visual Studio Live",
     "url": "https://vslive.com/events/san-diego-2025/home.aspx",
     "startDate": "2025-09-08",
@@ -458,6 +496,19 @@
     "locales": "EN"
   },
   {
+    "name": "Devopsdays Denver",
+    "url": "https://devopsdays.org/events/2025-denver/welcome/",
+    "startDate": "2025-09-15",
+    "endDate": "2025-09-16",
+    "city": "Denver",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://devopsdays.org/events/2025-denver/conduct",
+    "cfpUrl": "https://devopsdays.org/events/2025-denver/propose",
+    "cfpEndDate": "2025-05-25"
+  },
+  {
     "name": "DevOpsCon New York",
     "url": "https://devopscon.io/new-york",
     "startDate": "2025-09-29",
@@ -470,6 +521,19 @@
     "twitter": "@devops_con"
   },
   {
+    "name": "Devopsdays Des Moines",
+    "url": "https://devopsdays.org/events/2025-des-moines/welcome/",
+    "startDate": "2025-10-02",
+    "endDate": "2025-10-03",
+    "city": "Des Moines",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://devopsdays.org/events/2025-des-moines/conduct",
+    "cfpUrl": "https://sessionize.com/agile-devopsdays-des-moines-2025",
+    "cfpEndDate": "2025-04-30"
+  },
+  {
     "name": "Devopsdays Eindhoven",
     "url": "https://devopsdays.org/events/2025-eindhoven/welcome/",
     "startDate": "2025-10-02",
@@ -479,7 +543,22 @@
     "online": false,
     "locales": "EN",
     "cocUrl": "https://devopsdays.org/events/2025-eindhoven/conduct",
+    "cfpUrl": "https://talks.devopsdays.org/devopsdays-eindhoven-2025/cfp",
+    "cfpEndDate": "2025-05-10",
     "twitter": "@devopsdaysehv"
+  },
+  {
+    "name": "Devopsdays Detroit",
+    "url": "https://devopsdays.org/events/2025-detroit/welcome/",
+    "startDate": "2025-10-22",
+    "endDate": "2025-10-22",
+    "city": "Detroit",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://devopsdays.org/events/2025-detroit/conduct",
+    "cfpUrl": "https://talks.devopsdays.org/devopsdays-detroit-2025/cfp",
+    "cfpEndDate": "2025-08-17"
   },
   {
     "name": "DevOps Barcelona",
@@ -533,5 +612,18 @@
     "cfpUrl": "https://agiletestingdays.com/call-for-papers",
     "cfpEndDate": "2025-03-30",
     "bluesky": "agiletdzone.bsky.social"
+  },
+  {
+    "name": "Devopsdays Tel Aviv",
+    "url": "https://devopsdays.org/events/2025-tel-aviv/welcome/",
+    "startDate": "2025-12-11",
+    "endDate": "2025-12-11",
+    "city": "Tel Aviv",
+    "country": "Israel",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://devopsdays.org/events/2025-tel-aviv/conduct",
+    "cfpUrl": "https://sessionize.com/devopsdays-tel-aviv-2025/",
+    "cfpEndDate": "2025-06-15"
   }
 ]
