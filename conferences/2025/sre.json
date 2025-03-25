@@ -21,7 +21,18 @@
     "cocUrl": "https://www.conf42.com/code-of-conduct",
     "twitter": "@conf42com"
   },
-  {
+    {
+    "name": "SREDay",
+    "url": "https://sreday.com/2025-san-francisco-q2",
+    "startDate": "2025-04-11",
+    "endDate": "2025-04-11",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@sreday_com"
+  },
+    {
     "name": "SREDay",
     "url": "https://sreday.com/2025-redmond-q2",
     "startDate": "2025-04-14",
