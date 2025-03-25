@@ -228,6 +228,17 @@
     "twitter": "@cryptocanal"
   },
   {
+    "name": "Postgres Extensions Day",
+    "url": "https://pgext.day/",
+    "startDate": "2025-05-12",
+    "endDate": "2025-05-12",
+    "city": "Montreal",
+    "country": "Canada",
+    "online": true,
+    "cocUrl": "https://www.postgresql.org/about/policies/coc/",
+    "locales": "EN"
+  },
+  {
     "name": "MLCon London",
     "url": "https://mlconference.ai/london",
     "startDate": "2025-05-12",
@@ -250,17 +261,6 @@
     "locales": "EN",
     "cfpUrl": "https://mlsys.org/Conferences/2025/CallForPapers",
     "cfpEndDate": "2024-10-31"
-  },
-  {
-    "name": "Postgres Extensions Day",
-    "url": "https://pgext.day/",
-    "startDate": "2025-05-12",
-    "endDate": "2025-05-12",
-    "city": "Montreal",
-    "country": "Canada",
-    "online": true,
-    "cocUrl": "https://www.postgresql.org/about/policies/coc/",
-    "locales": "EN"
   },
   {
     "name": "PGConf Dev",
@@ -456,6 +456,16 @@
     "cocUrl": "https://pgday.at/code-of-conduct/"
   },
   {
+    "name": "PGConf EU",
+    "url": "https://2025.pgconf.eu/",
+    "startDate": "2025-09-09",
+    "endDate": "2025-09-09",
+    "city": "Riga",
+    "country": "Latvia",
+    "online": false,
+    "locales": "EN"
+  },
+  {
     "name": "PGDay UK",
     "url": "https://2025.pgday.uk/",
     "startDate": "2025-09-09",
@@ -552,16 +562,6 @@
     "endDate": "2025-10-02",
     "city": "Atlanta, GA",
     "country": "U.S.A.",
-    "online": false,
-    "locales": "EN"
-  },
-  {
-    "name": "PGConf EU",
-    "url": "https://2025.pgconf.eu/",
-    "startDate": "2025-09-09",
-    "endDate": "2025-09-09",
-    "city": "Riga",
-    "country": "Latvia",
     "online": false,
     "locales": "EN"
   },
