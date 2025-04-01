@@ -176,6 +176,17 @@
     "mastodon": "@pyconde@fosstodon.org"
   },
   {
+    "name": "GOSIM AI Paris",
+    "url": "https://paris2025.gosim.org",
+    "startDate": "2025-05-06",
+    "endDate": "2025-05-07",
+    "city": "Paris",
+    "country": "France",
+    "online": false,
+    "locales": "EN,FR,ZH",
+    "twitter": "@gosimfoundation"
+  },
+  {
     "name": "Infobip Shift Miami",
     "url": "https://shift.infobip.com/us",
     "startDate": "2025-05-06",
@@ -186,17 +197,6 @@
     "locales": "EN",
     "cocUrl": "https://shift.infobip.com/us/code/",
     "twitter": "@InfobipShift"
-  },
-  {
-    "name": "GOSIM AI Paris",
-    "url": "https://paris2025.gosim.org",
-    "startDate": "2025-05-06",
-    "endDate": "2025-05-07",
-    "city": "Paris",
-    "country": "France",
-    "online": false,
-    "locales": "EN,FR,ZH",
-    "twitter": "@gosimfoundation"
   },
   {
     "name": "Turing Fest",
