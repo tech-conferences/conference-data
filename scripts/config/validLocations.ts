@@ -73,6 +73,7 @@ export const validLocations = {
         'Lyon',
         'Marseille',
         'Montpellier',
+        'Mulhouse',
         'Nantes',
         'Nice',
         'Orléans',

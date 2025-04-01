@@ -271,6 +271,18 @@
     "cfpEndDate": "2025-04-11"
   },
   {
+    "name": "BSides Mulhouse CFP",
+    "url": "https://bsides-mulhouse.fr",
+    "startDate": "2025-10-07",
+    "endDate": "2025-10-07",
+    "city": "Mulhouse",
+    "country": "France",
+    "online": false,
+    "locales": "FR",
+    "cocUrl": "https://bsides-mulhouse.fr/coc",
+    "twitter": "@CapitaleDev"
+  },
+  {
     "name": "S2N: Storage Server Network",
     "url": "https://s2n.heise.de",
     "startDate": "2025-10-22",
