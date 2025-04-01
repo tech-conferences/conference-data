@@ -72,6 +72,42 @@
     "twitter": "@hatchconference"
   },
   {
+    "name": "CTO Craft Con: Toronto",
+    "url": "https://conference.ctocraft.com/toronto-2025",
+    "startDate": "2025-05-27",
+    "endDate": "2025-05-28",
+    "city": "Toronto",
+    "country": "Canada",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://conference.ctocraft.com/toronto-2025/code-of-conduct/"
+  },
+  {
+    "name": "Product Management Conference @ the coast",
+    "url": "https://pmc2025.treevent.pl",
+    "startDate": "2025-06-30",
+    "endDate": "2025-06-30",
+    "city": "Gdansk",
+    "country": "Poland",
+    "online": false,
+    "locales": "EN,PL",
+    "cfpUrl": "https://glass-consulting.eu/pmc2025-call4speakers",
+    "cfpEndDate": "2025-04-30"
+  },
+  {
+    "name": "Agile + DevOpsDays Des Moines",
+    "url": "https://devopsdays.org/events/2025-des-moines/welcome",
+    "startDate": "2025-10-02",
+    "endDate": "2025-10-03",
+    "city": "Des Moines, IA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://devopsdays.org/events/2025-des-moines/conduct",
+    "cfpUrl": "https://sessionize.com/agile-devopsdays-des-moines-2025",
+    "cfpEndDate": "2025-04-30"
+  },
+  {
     "name": "Tech Leadership Summit",
     "url": "https://techleadersummit.io",
     "startDate": "2025-12-01",
