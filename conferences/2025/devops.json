@@ -470,18 +470,6 @@
     "twitter": "@devops_con"
   },
   {
-    "name": "Devopsdays Eindhoven",
-    "url": "https://devopsdays.org/events/2025-eindhoven/welcome/",
-    "startDate": "2025-10-02",
-    "endDate": "2025-10-03",
-    "city": "Eindhoven",
-    "country": "Netherlands",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://devopsdays.org/events/2025-eindhoven/conduct",
-    "twitter": "@devopsdaysehv"
-  },
-  {
     "name": "Agile + DevOpsDays Des Moines",
     "url": "https://devopsdays.org/events/2025-des-moines/welcome",
     "startDate": "2025-10-02",
@@ -493,6 +481,18 @@
     "cocUrl": "https://devopsdays.org/events/2025-des-moines/conduct",
     "cfpUrl": "https://sessionize.com/agile-devopsdays-des-moines-2025",
     "cfpEndDate": "2025-04-30"
+  },
+  {
+    "name": "Devopsdays Eindhoven",
+    "url": "https://devopsdays.org/events/2025-eindhoven/welcome/",
+    "startDate": "2025-10-02",
+    "endDate": "2025-10-03",
+    "city": "Eindhoven",
+    "country": "Netherlands",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://devopsdays.org/events/2025-eindhoven/conduct",
+    "twitter": "@devopsdaysehv"
   },
   {
     "name": "DevOps Barcelona",
