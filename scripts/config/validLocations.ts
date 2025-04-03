@@ -11,6 +11,7 @@ export const validLocations = {
     Brazil: [
         'Aracaju',
         'Belo Horizonte',
+        'Belém',
         'Campinas',
         'Chapecó',
         'Feira De Santana',
