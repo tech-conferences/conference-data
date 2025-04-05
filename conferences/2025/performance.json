@@ -46,6 +46,18 @@
     "cfpEndDate": "2025-02-02"
   },
   {
+    "name": "TechSummit Amsterdam",
+    "url": "https://techsummit.io",
+    "startDate": "2025-09-16",
+    "endDate": "2025-09-16",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "locales": "EN",
+    "cfpUrl": "https://techsummit.io/call-for-papers",
+    "cfpEndDate": "2025-05-01"
+  },
+  {
     "name": "Global Software Architecture Summit",
     "url": "https://gsas.io",
     "startDate": "2025-10-13",
