@@ -129,6 +129,17 @@
     "cfpEndDate": "2025-01-31"
   },
   {
+    "name": "Shopware Community Day",
+    "url": "https://scd.shopware.com/en-US",
+    "startDate": "2025-06-04",
+    "endDate": "2025-06-04",
+    "city": "Cologne",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN,DE",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "VectorSearch Conference",
     "url": "https://vsearchcon.com",
     "startDate": "2025-06-06",
