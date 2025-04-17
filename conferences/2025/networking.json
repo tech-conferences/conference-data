@@ -65,6 +65,16 @@
     "mastodon": "@droidcon@androiddev.social"
   },
   {
+    "name": "Reuters Events: Automotive Europe",
+    "url": "https://events.reutersevents.com/automotive/automotive-europe",
+    "startDate": "2025-04-29",
+    "endDate": "2025-04-30",
+    "city": "Stuttgart",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN"
+  },
+  {
     "name": "Serverless Architecture Conference London",
     "url": "https://serverless-architecture.io/london",
     "startDate": "2025-05-12",
