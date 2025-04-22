@@ -55,6 +55,17 @@
     "mastodon": "@pyconde@fosstodon.org"
   },
   {
+    "name": "PyCon US",
+    "url": "https://us.pycon.org/2025",
+    "startDate": "2025-05-14",
+    "endDate": "2025-05-22",
+    "city": "Pittsburgh, PA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://policies.python.org/us.pycon.org/code-of-conduct/"
+  },
+  {
     "name": "PyCon Italia",
     "url": "https://2025.pycon.it/en",
     "startDate": "2025-05-28",
