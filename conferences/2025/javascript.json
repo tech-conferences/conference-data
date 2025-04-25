@@ -449,6 +449,15 @@
     "twitter": "@JavaScriptCon"
   },
   {
+    "name": "enterJS Web Security Day",
+    "url": "https://enterjs.de/security.php",
+    "startDate": "2025-10-09",
+    "endDate": "2025-10-09",
+    "online": true,
+    "locales": "DE",
+    "cocUrl": "https://enterjs.de/code_of_conduct.php"
+  },
+  {
     "name": "ViteConf",
     "url": "https://viteconf.amsterdam",
     "startDate": "2025-10-09",
@@ -459,15 +468,6 @@
     "locales": "EN",
     "bluesky": "viteconf.org",
     "twitter": "@viteconf"
-  },
-  {
-    "name": "enterJS Web Security Day",
-    "url": "https://enterjs.de/security.php",
-    "startDate": "2025-10-09",
-    "endDate": "2025-10-09",
-    "online": true,
-    "locales": "DE",
-    "cocUrl": "https://enterjs.de/code_of_conduct.php"
   },
   {
     "name": "JSConf Chile",
