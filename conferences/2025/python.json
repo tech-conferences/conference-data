@@ -77,6 +77,19 @@
     "twitter": "@pyconit"
   },
   {
+    "name": "PyCon Greece",
+    "url": "https://2025.pycon.gr/en",
+    "startDate": "2025-08-29",
+    "endDate": "2025-08-30",
+    "city": "Athens",
+    "country": "Greece",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://2025.pycon.gr/en/code-of-conduct/",
+    "cfpUrl": "https://2025.pycon.gr/en/program/proposal-guidelines",
+    "cfpEndDate": "2025-05-04"
+  },
+  {
     "name": "DjangoCon US",
     "url": "https://2025.djangocon.us",
     "startDate": "2025-09-08",
