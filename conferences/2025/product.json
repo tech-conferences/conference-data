@@ -157,5 +157,18 @@
     "cocUrl": "https://push-conference.com/legal/terms#code-of-conduct",
     "cfpUrl": "https://push-conference.com/call",
     "cfpEndDate": "2025-10-22"
+  },
+  {
+    "name": "Product Management Festival",
+    "url": "https://productmanagementfestival.com",
+    "startDate": "2025-11-05",
+    "endDate": "2025-11-06",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "online": false,
+    "locales": "EN",
+    "cfpUrl": "https://sessionize.com/pmf-2025",
+    "cfpEndDate": "2025-05-17",
+    "twitter": "@ProdMgmtF"
   }
 ]
