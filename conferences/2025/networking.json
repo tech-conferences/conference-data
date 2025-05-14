@@ -233,5 +233,18 @@
     "cfpEndDate": "2025-07-01",
     "bluesky": "jsnation.gitnation.org",
     "twitter": "@thejsnation"
+  },
+  {
+    "name": "CTO Craft Con: The Finance Edition",
+    "url": "https://conference.ctocraft.com/finance",
+    "startDate": "2025-11-18",
+    "endDate": "2025-11-19",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://conference.ctocraft.com/berlin-2025/code-of-conduct/",
+    "cfpUrl": "https://conference.ctocraft.com/finance/call-for-content",
+    "cfpEndDate": "2025-06-25"
   }
 ]
