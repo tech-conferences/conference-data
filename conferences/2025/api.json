@@ -81,5 +81,17 @@
     "locales": "EN",
     "bluesky": "nordicapis.bsky.social",
     "twitter": "@nordicapis"
+  },
+  {
+    "name": "Serverless Architecture Conference Berlin",
+    "url": "https://serverless-architecture.io/berlin",
+    "startDate": "2025-10-20",
+    "endDate": "2025-10-22",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://serverless-architecture.io/code-of-conduct/",
+    "twitter": "@serverlesscon"
   }
 ]
