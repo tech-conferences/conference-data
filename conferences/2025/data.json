@@ -636,6 +636,18 @@
     "locales": "EN"
   },
   {
+    "name": "International PHP Conference Munich",
+    "url": "https://phpconference.com/munich",
+    "startDate": "2025-10-27",
+    "endDate": "2025-10-31",
+    "city": "Munich",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://phpconference.com/code-of-conduct/",
+    "twitter": "@phpconference"
+  },
+  {
     "name": "M3: LLMs im Unternehmen",
     "url": "https://www.m3-konferenz.de/llm.php",
     "startDate": "2025-10-29",
