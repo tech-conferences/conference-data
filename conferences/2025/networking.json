@@ -221,6 +221,18 @@
     "cocUrl": "https://conference.ctocraft.com/berlin-2025/code-of-conduct/"
   },
   {
+    "name": "API Conference New York",
+    "url": "https://apiconference.net/new-york",
+    "startDate": "2025-09-29",
+    "endDate": "2025-10-02",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://apiconference.net/code-of-conduct/",
+    "twitter": "@api_conference"
+  },
+  {
     "name": "NODES",
     "url": "https://neo4j.registration.goldcast.io/events/6bdf92b5-70e3-4b5a-b0b5-1ea484c17ff1",
     "startDate": "2025-11-06",
