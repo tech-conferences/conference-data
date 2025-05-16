@@ -257,5 +257,17 @@
     "cocUrl": "https://conference.ctocraft.com/berlin-2025/code-of-conduct/",
     "cfpUrl": "https://conference.ctocraft.com/finance/call-for-content",
     "cfpEndDate": "2025-06-25"
+  },
+  {
+    "name": "IT Security Summit Munich",
+    "url": "https://it-security-summit.de/muenchen",
+    "startDate": "2025-12-01",
+    "endDate": "2025-12-04",
+    "city": "Munich",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://it-security-summit.de/code-of-conduct/",
+    "twitter": "@ITSecSummit"
   }
 ]
