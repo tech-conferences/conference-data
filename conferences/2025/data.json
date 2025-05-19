@@ -614,6 +614,18 @@
     "locales": "EN"
   },
   {
+    "name": "API Conference New York",
+    "url": "https://apiconference.net/new-york",
+    "startDate": "2025-09-29",
+    "endDate": "2025-10-02",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://apiconference.net/code-of-conduct/",
+    "twitter": "@api_conference"
+  },
+  {
     "name": "MLcon New York",
     "url": "https://mlconference.ai/new-york",
     "startDate": "2025-09-29",
@@ -634,6 +646,18 @@
     "country": "U.S.A.",
     "online": false,
     "locales": "EN"
+  },
+  {
+    "name": "International PHP Conference Munich",
+    "url": "https://phpconference.com/munich",
+    "startDate": "2025-10-27",
+    "endDate": "2025-10-31",
+    "city": "Munich",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://phpconference.com/code-of-conduct/",
+    "twitter": "@phpconference"
   },
   {
     "name": "M3: LLMs im Unternehmen",
@@ -728,6 +752,18 @@
     "locales": "EN",
     "cocUrl": "https://devopscon.io/code-of-conduct/",
     "twitter": "@devops_con"
+  },
+  {
+    "name": "IT Security Summit Munich",
+    "url": "https://it-security-summit.de/muenchen",
+    "startDate": "2025-12-01",
+    "endDate": "2025-12-04",
+    "city": "Munich",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://it-security-summit.de/code-of-conduct/",
+    "twitter": "@ITSecSummit"
   },
   {
     "name": "Oh My Hack",
