@@ -80,17 +80,6 @@
     "cfpEndDate": "2025-05-23"
   },
   {
-    "name": "SREDay - London",
-    "url": "https://sreday.com/2025-london-q3",
-    "startDate": "2025-09-18",
-    "endDate": "2025-09-19",
-    "city": "London",
-    "country": "U.K.",
-    "online": false,
-    "locales": "EN",
-    "twitter": "@sreday_com"
-  },
-  {
     "name": "meshcloud Con",
     "url": "https://con25.meshcloud.io",
     "startDate": "2025-09-18",
@@ -102,5 +91,16 @@
     "cocUrl": "Free, community-organized event",
     "cfpUrl": "https://cloudfoundation.org",
     "cfpEndDate": "2025-06-01"
+  },
+  {
+    "name": "SREDay - London",
+    "url": "https://sreday.com/2025-london-q3",
+    "startDate": "2025-09-18",
+    "endDate": "2025-09-19",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@sreday_com"
   }
 ]
