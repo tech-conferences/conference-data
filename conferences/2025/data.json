@@ -447,16 +447,6 @@
     "twitter": "@Data_AI_Summit"
   },
   {
-    "name": "Artificial Intelligence conference",
-    "url": "https://www.artificialintelligenceconferences.com",
-    "startDate": "2025-06-23",
-    "endDate": "2025-06-24",
-    "city": "Paris",
-    "country": "France",
-    "online": true,
-    "locales": "EN"
-  },
-  {
     "name": "Akash Accelerate",
     "url": "https://akash.network/akash-accelerate-2025",
     "startDate": "2025-06-23",
@@ -466,6 +456,16 @@
     "online": true,
     "locales": "EN",
     "twitter": "@akashnet_"
+  },
+  {
+    "name": "Artificial Intelligence conference",
+    "url": "https://www.artificialintelligenceconferences.com",
+    "startDate": "2025-06-23",
+    "endDate": "2025-06-24",
+    "city": "Paris",
+    "country": "France",
+    "online": true,
+    "locales": "EN"
   },
   {
     "name": "betterCode() GenAI",
