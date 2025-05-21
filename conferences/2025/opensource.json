@@ -200,6 +200,18 @@
     "locales": "EN"
   },
   {
+    "name": "DevRelCon",
+    "url": "https://nyc.devrelcon.dev",
+    "startDate": "2025-07-17",
+    "endDate": "2025-07-18",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://mlh.io/code-of-conduct",
+    "twitter": "@devrelcon"
+  },
+  {
     "name": "Big Sky Dev Con",
     "url": "https://bigskydevcon.com",
     "startDate": "2025-08-02",
