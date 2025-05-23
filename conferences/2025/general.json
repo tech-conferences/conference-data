@@ -811,6 +811,21 @@
     "twitter": "@mozillafestival"
   },
   {
+    "name": "Voxxed Days Thessaloniki",
+    "url": "https://thessaloniki.voxxeddays.com",
+    "startDate": "2025-11-07",
+    "endDate": "2025-11-08",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "online": false,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://voxxeddays.com/thessaloniki/code-of-conduct/",
+    "cfpUrl": "https://vdthess25.cfp.dev",
+    "cfpEndDate": "2025-06-22",
+    "twitter": "@voxxed_thess"
+  },
+  {
     "name": "Software Architecture Gathering",
     "url": "https://conferences.isaqb.org/software-architecture-gathering",
     "startDate": "2025-11-24",
