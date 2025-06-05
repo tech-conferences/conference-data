@@ -293,5 +293,47 @@
     "cfpUrl": "https://allthingsopen.org/call-for-papers",
     "cfpEndDate": "2025-03-28",
     "twitter": "@AllThingsOpen"
+  },
+  {
+    "name": "InnerSource Commons",
+    "url": "https://innersourcecommons.org/events/isc-2025",
+    "startDate": "2025-11-13",
+    "endDate": "2025-11-13",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://innersourcecommons.org/about/codeofconduct/",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfWKkRDWIYN8eTOMlxONZp23-_i9nnAfqSJm26QCdzS5NtO9w/viewform",
+    "cfpEndDate": "2025-07-15",
+    "twitter": "@InnerSourceOrg"
+  },
+  {
+    "name": "InnerSource Commons",
+    "url": "https://innersourcecommons.org/events/isc-2025",
+    "startDate": "2025-11-13",
+    "endDate": "2025-11-13",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://innersourcecommons.org/about/codeofconduct/",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfWKkRDWIYN8eTOMlxONZp23-_i9nnAfqSJm26QCdzS5NtO9w/viewform",
+    "cfpEndDate": "2025-07-15",
+    "twitter": "@InnerSourceOrg"
+  },
+  {
+    "name": "InnerSource Commons",
+    "url": "https://innersourcecommons.org/events/isc-2025",
+    "startDate": "2025-11-13",
+    "endDate": "2025-11-13",
+    "city": "Yokohama",
+    "country": "Japan",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://innersourcecommons.org/about/codeofconduct/",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfWKkRDWIYN8eTOMlxONZp23-_i9nnAfqSJm26QCdzS5NtO9w/viewform",
+    "cfpEndDate": "2025-07-15",
+    "twitter": "@InnerSourceOrg"
   }
 ]
