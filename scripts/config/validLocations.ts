@@ -186,7 +186,7 @@ export const validLocations = {
         'Volterra'
     ],
     Jamaica: ['Kingston'],
-    Japan: ['Fukuoka', 'Koto', 'Kyoto', 'Matsue', 'Mie', 'Nagano', 'Takamatsu', 'Tokyo'],
+    Japan: ['Fukuoka', 'Koto', 'Kyoto', 'Matsue', 'Mie', 'Nagano', 'Takamatsu', 'Tokyo', 'Yokohama'],
     Jordan: ['Amman'],
     Kenya: ['Nairobi'],
     Korea: ['Jeju', 'Seoul'],
