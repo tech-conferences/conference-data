@@ -281,6 +281,20 @@
     "cfpEndDate": "2025-04-30"
   },
   {
+    "name": "OpenSSL Conference",
+    "url": "https://openssl-conference.org",
+    "startDate": "2025-10-07",
+    "endDate": "2025-10-09",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://openssl-conference.org/files/2-2025-openssl_letter_code_of_conduct_a4_02.pdf",
+    "cfpUrl": "https://cfp.openssl-conference.org/openssl-conference-2025/submit/vNSffS/info",
+    "cfpEndDate": "2025-06-22",
+    "twitter": "@openssl_"
+  },
+  {
     "name": "All Things Open",
     "url": "https://2025.allthingsopen.org",
     "startDate": "2025-10-12",
