@@ -663,22 +663,22 @@
     "twitter": "@mlconference"
   },
   {
-    "name": "COLLIDE Data & AI Conference",
-    "url": "https://datasciconnect.com/events/collide",
-    "startDate": "2025-10-01",
-    "endDate": "2025-10-02",
-    "city": "Atlanta, GA",
-    "country": "U.S.A.",
-    "online": false,
-    "locales": "EN"
-  },
-  {
     "name": "Manchester Tech Festival | AI Conference",
     "url": "https://www.manchestertechfestival.co.uk/aiconference",
     "startDate": "2025-10-01",
     "endDate": "2025-10-01",
     "city": "Manchester",
     "country": "U.K.",
+    "online": false,
+    "locales": "EN"
+  },
+  {
+    "name": "COLLIDE Data & AI Conference",
+    "url": "https://datasciconnect.com/events/collide",
+    "startDate": "2025-10-01",
+    "endDate": "2025-10-02",
+    "city": "Atlanta, GA",
+    "country": "U.S.A.",
     "online": false,
     "locales": "EN"
   },
