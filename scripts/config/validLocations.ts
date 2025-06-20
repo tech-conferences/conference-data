@@ -56,7 +56,7 @@ export const validLocations = {
     Colombia: ['Bogotá', 'Duitama, Boyacá', 'Medellín', 'Tunja'],
     Croatia: ['Dubrovnik', 'Labin', 'Opatija', 'Osijek', 'Rovinj', 'Sibenik', 'Split', 'Zadar', 'Zagreb'],
     Cuba: ['Holguín', 'Villa Clara'],
-    Cyprus: ['Larnaca', 'Paphos'],
+    Cyprus: ['Larnaca', 'Limassol', 'Paphos'],
     'Czech Republic': ['Prague'],
     Denmark: ['Aarhus', 'Copenhagen', 'Odense'],
     'Dominican Republic': ['Playa Dorada', 'Puerto Plata', 'Punta Cana', 'Santiago de los Caballeros', 'Santo Domingo'],
