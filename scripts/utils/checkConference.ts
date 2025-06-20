@@ -102,12 +102,12 @@ export default function (year: string, conference: MergedConference, assertField
             const year: number = parseInt(urlContainsYear[0]);
             const eventStartYear: number = new Date(conference.startDate).getFullYear();
             const diffInYears: number = Math.abs(year - eventStartYear);
-            
+
             // Special case for conferences with years in their brand name
             if (conference.name.includes(urlContainsYear[0])) {
                 return; // Skip validation if the year in URL is part of the conference name
             }
-            
+
             if (diffInYears == 0 || diffInYears > 5) {
                 return;
             }
