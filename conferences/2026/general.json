@@ -1,5 +1,18 @@
 [
   {
+    "name": "Webdevcon",
+    "url": "https://webdevcon.nl",
+    "startDate": "2026-03-10",
+    "endDate": "2026-03-13",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://webdevcon.nl/code-of-conduct/",
+    "mastodon": "@webdevcon@mastodon.social",
+    "twitter": "@WebdevconNL"
+  },
+  {
     "name": "Great International Developer Summit (GIDS)",
     "url": "https://developersummit.com",
     "startDate": "2026-04-21",
