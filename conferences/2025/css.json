@@ -51,5 +51,17 @@
     "offersSignLanguageOrCC": true,
     "cocUrl": "https://smashingconf.com/codeofconduct",
     "twitter": "@smashingconf"
+  },
+  {
+    "name": "CSS Days",
+    "url": "https://javascript-days.de/berlin",
+    "startDate": "2025-10-20",
+    "endDate": "2025-10-24",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "DE",
+    "cocUrl": "https://javascript-days.de/code-of-conduct/",
+    "twitter": "@js_days"
   }
 ]
