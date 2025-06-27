@@ -92,5 +92,17 @@
     "cfpEndDate": "2025-05-23",
     "mastodon": "@SquiggleConf@fosstodon.org",
     "twitter": "@SquiggleConf"
+  },
+  {
+    "name": "Typescript Days",
+    "url": "https://javascript-days.de/berlin",
+    "startDate": "2025-10-20",
+    "endDate": "2025-10-24",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "DE",
+    "cocUrl": "https://javascript-days.de/code-of-conduct/",
+    "twitter": "@js_days"
   }
 ]
