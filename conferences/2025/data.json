@@ -93,9 +93,7 @@
     "country": "Germany",
     "online": false,
     "locales": "EN",
-    "cocUrl": "https://www.oc3.dev/code-of-conduct",
-    "cfpUrl": "https://www.oc3.dev/call-for-submissions",
-    "cfpEndDate": "2024-12-13"
+    "cocUrl": "https://www.oc3.dev/code-of-conduct"
   },
   {
     "name": "WebDev & AI Day",
@@ -169,8 +167,6 @@
     "country": "Germany",
     "online": true,
     "locales": "EN",
-    "cocUrl": "https://pioneershub.github.io/pyconde25-conference/code-of-conduct/",
-    "cfpUrl": "https://2025.pycon.de/call-for-proposals",
     "cfpEndDate": "2025-01-05",
     "twitter": "@pyconde",
     "mastodon": "@pyconde@fosstodon.org"
@@ -509,8 +505,6 @@
     "country": "U.S.A.",
     "online": false,
     "locales": "EN",
-    "cfpUrl": "https://www.papercall.io/ai-in-production-2025",
-    "cfpEndDate": "2025-04-30",
     "twitter": "@AIinProduction"
   },
   {
