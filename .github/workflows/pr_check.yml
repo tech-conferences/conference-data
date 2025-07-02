@@ -21,14 +21,29 @@ jobs:
         github-token: ${{ secrets.GITHUB_TOKEN }}
         result-encoding: string
         script: |
-          // List of conference categories related to development
-          const DEV_CATEGORIES = [
+          // List of development-related keywords to check in conference names
+          const DEV_KEYWORDS = [
             "frontend", "backend", "data", "dev", "crypto", "fullstack", "ios",
-            "android", "api", "cfml", "clojure", "cpp", "css", "devops",
-            "dotnet", "elixir", "golang", "graphql", "haskell", "java",
-            "javascript", "kotlin", "networking", "opensource", "performance",
-            "php", "python", "ruby", "rust", "scala", "sre", "testing", "typescript"
+            "android", "api", "clojure", "cpp", "css", "devops", "dotnet", 
+            "elixir", "golang", "go lang", "graphql", "haskell", "java",
+            "javascript", "js", "kotlin", "network", "open source", "opensource",
+            "performance", "php", "python", "ruby", "rust", "scala", "security",
+            "sre", "test", "typescript", "ts", "web", "mobile", "cloud", "serverless",
+            "microservice", "database", "react", "angular", "vue", "node", "ai", 
+            "machine learning", "blockchain", "code", "coding", "programmer", 
+            "software", "hardware", "app", "application", "agile", "scrum",
+            "git", "github", "gitlab", "bitbucket", "jenkins", "ci/cd", "devops",
+            "docker", "kubernetes", "k8s", "container", "aws", "azure", "gcp", 
+            "google cloud", "engineer", "engineering", "architecture", "system",
+            "infrastructure", "framework", "library", "api", "REST", "GraphQL", 
+            "SQL", "NoSQL", "MongoDB", "Redis", "PostgreSQL", "MySQL"
           ];
+          
+          // Function to check if a conference name is dev-related
+          function isDevRelated(conferenceName) {
+            const lowerName = conferenceName.toLowerCase();
+            return DEV_KEYWORDS.some(keyword => lowerName.includes(keyword.toLowerCase()));
+          }
           
           // Check if we're running in a real PR context or in a test environment
           try {
@@ -45,18 +60,56 @@ jobs:
               pull_number: context.issue.number,
             });
             
-            // Check if any conference file is related to development
-            for (const file of response.data) {
-              // Check if the file path matches a development conference file
-              for (const category of DEV_CATEGORIES) {
-                if (file.filename.match(new RegExp(`conferences\/.*\/${category}\.json`))) {
-                  console.log(`PR modifies a development conference file: ${file.filename}`);
-                  return 'true';
+            // Filter for conference JSON files
+            const conferenceFiles = response.data.filter(file => 
+              file.filename.match(/conferences\/.*\/.*\.json/));
+              
+            if (conferenceFiles.length === 0) {
+              console.log("No conference files found in this PR");
+              return 'false';
+            }
+            
+            // For each conference file, check its content
+            for (const file of conferenceFiles) {
+              try {
+                // Get file content
+                const contentResponse = await github.rest.repos.getContent({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  path: file.filename,
+                  ref: context.payload.pull_request.head.sha
+                });
+                
+                // Decode content (it's base64 encoded)
+                const content = Buffer.from(contentResponse.data.content, 'base64').toString();
+                
+                // Parse JSON content
+                let conferences;
+                try {
+                  conferences = JSON.parse(content);
+                  // Make sure it's an array (some files may contain a single object)
+                  if (!Array.isArray(conferences)) {
+                    conferences = [conferences];
+                  }
+                } catch (jsonError) {
+                  console.log(`Error parsing JSON in ${file.filename}: ${jsonError.message}`);
+                  continue;
                 }
+                
+                // Check each conference in the file
+                for (const conference of conferences) {
+                  if (conference.name && isDevRelated(conference.name)) {
+                    console.log(`Found dev-related conference: ${conference.name} in file ${file.filename}`);
+                    return 'true';
+                  }
+                }
+              } catch (fileError) {
+                console.log(`Error accessing content of ${file.filename}: ${fileError.message}`);
+                continue;
               }
             }
             
-            // If we didn't find any development-related conference files
+            // If we checked all files and found no dev-related conferences
             return 'false';
           } catch (error) {
             console.log(`Error accessing PR details: ${error.message}`);
