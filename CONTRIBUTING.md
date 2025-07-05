@@ -67,7 +67,7 @@ If you’re adding a conference to the dataset, please follow these strict guide
 ### Why These Rules?
 
 These guidelines help maintain quality, consistency, and reduce review burden—principles recommended in open-source contribution best practices.
-Clearly documenting review criteria and stating explicit rules helps streamline PR triage and reduce disagreements ().
+Clearly documenting review criteria and stating explicit rules helps streamline PR triage and reduce disagreements.
 
 ## Making Changes
 
