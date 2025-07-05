@@ -33,6 +33,42 @@
     npm run dev
     ```
 
+## Adding Conferences
+
+If you’re adding a conference to the dataset, please follow these strict guidelines:
+
+### Event Type
+
+-   Only technical conferences (developer-focused) with talks are allowed.
+-   Exclude meetups, user groups, and events without talks.
+-   Exclude webinars, hackathons, marketing events, roadshows, conventions without talks.
+
+### Topics & Format
+
+-   Must be developer/tech related (e.g., programming languages, frameworks, tools, Data/AI).
+-   No conferences focused on medicine, semiconductors, optoelectronics, or nanostructures, fashion, or other non-tech topics.
+-   Must feature at least 3–4 talks by different companies.
+
+### URLs & Online Checks
+
+-   Use clean, shortened URLs (no UTM/tracker parameters, no ad frames).
+-   Link must point to a dedicated conference page, not a blog post or listing.
+-   The website is live and has an accessible CFP page.
+
+### Name, Dates & Location
+
+-   Use a concise name, ideally without year or location.
+-   Dates (startDate, endDate, cfpEndDate) must be valid and in YYYY-MM-DD format.
+-   Location formatting:
+    -   US cities: City, ST (e.g., San Francisco, CA)
+    -   Other countries: City, Country
+    -   Prefer a major nearby city over small suburbs.
+
+### Why These Rules?
+
+These guidelines help maintain quality, consistency, and reduce review burden—principles recommended in open-source contribution best practices.
+Clearly documenting review criteria and stating explicit rules helps streamline PR triage and reduce disagreements.
+
 ## Making Changes
 
 1.  Make sure your code follows the style guidelines of this project.
