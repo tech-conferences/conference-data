@@ -12,6 +12,19 @@
     "cfpUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/cfp"
   },
   {
+    "name": "DevOpsCon San Diego",
+    "url": "https://devopscon.io/san-diego",
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-05",
+    "city": "San Diego, CA",
+    "country": "U.S.A.",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://devopscon.io/code-of-conduct/",
+    "bluesky": "devopscon.bluesky",
+    "twitter": "@devops_con"
+  },
+  {
     "name": "KubeCon + CloudNativeCon North America",
     "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026",
     "startDate": "2026-10-26",
