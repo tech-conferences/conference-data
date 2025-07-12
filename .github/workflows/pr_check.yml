@@ -105,8 +105,6 @@ jobs:
                       // Function to check if a conference name is dev-related
                       function isDevRelated(conferenceName) {
                         const score = calculateDevScore(conferenceName);
-                        console.log(`Conference: "${conferenceName}" - Score: ${score}`);
-
                         // Require a minimum score of 3 to be considered dev-related
                         return score >= 3;
                       }
@@ -130,42 +128,72 @@ jobs:
                         const conferenceFiles = response.data.filter(file =>
                           file.filename.match(/conferences\/.*\/.*\.json/));
 
+                        console.log(`Found ${conferenceFiles.length} conference files in PR:`);
+                        conferenceFiles.forEach(file => {
+                          console.log(`- ${file.filename} (status: ${file.status})`);
+                        });
+
                         if (conferenceFiles.length === 0) {
                           console.log("No conference files found in this PR");
                           return 'false';
-                        }
-
-                        // For each conference file, check its content
+                        }                        // For each conference file, check its content
                         for (const file of conferenceFiles) {
                           try {
-                            // Get file content
-                            const contentResponse = await github.rest.repos.getContent({
+                            console.log(`\n=== Processing file: ${file.filename} ===`);
+                            
+                            // Get the diff for this specific file to see only what was added
+                            const diffResponse = await github.rest.pulls.get({
                               owner: context.repo.owner,
                               repo: context.repo.repo,
-                              path: file.filename,
-                              ref: context.payload.pull_request.head.sha
-                            });
-
-                            // Decode content (it's base64 encoded)
-                            const content = Buffer.from(contentResponse.data.content, 'base64').toString();
-
-                            // Parse JSON content
-                            let conferences;
-                            try {
-                              conferences = JSON.parse(content);
-                              // Make sure it's an array (some files may contain a single object)
-                              if (!Array.isArray(conferences)) {
-                                conferences = [conferences];
+                              pull_number: context.issue.number,
+                              headers: {
+                                accept: 'application/vnd.github.v3.diff'
                               }
-                            } catch (jsonError) {
-                              console.log(`Error parsing JSON in ${file.filename}: ${jsonError.message}`);
+                            });
+                            
+                            // Parse the diff to extract only added lines for this file
+                            const diffText = diffResponse.data;
+                            const fileDiffs = diffText.split('diff --git');
+                            
+                            let addedConferencesText = '';
+                            for (const fileDiff of fileDiffs) {
+                              if (fileDiff.includes(`a/${file.filename}`) && fileDiff.includes(`b/${file.filename}`)) {
+                                // Found the diff for our file
+                                const lines = fileDiff.split('\n');
+                                for (const line of lines) {
+                                  if (line.startsWith('+') && !line.startsWith('+++')) {
+                                    // This is an added line
+                                    addedConferencesText += line.substring(1) + '\n';
+                                  }
+                                }
+                                break;
+                              }
+                            }
+                            
+                            console.log(`Added content:\n${addedConferencesText}`);
+                            
+                            // Extract conference names from added content using regex
+                            const nameMatches = addedConferencesText.match(/"name":\s*"([^"]+)"/g);
+                            if (!nameMatches) {
+                              console.log(`No conference names found in added content for ${file.filename}`);
                               continue;
                             }
+                            
+                            const addedConferenceNames = nameMatches.map(match => {
+                              const nameMatch = match.match(/"name":\s*"([^"]+)"/);
+                              return nameMatch ? nameMatch[1] : null;
+                            }).filter(name => name !== null);
+                            
+                            console.log(`Found ${addedConferenceNames.length} new conferences in ${file.filename}:`);
+                            addedConferenceNames.forEach(name => console.log(`- ${name}`));
 
-                            // Check each conference in the file
-                            for (const conference of conferences) {
-                              if (conference.name && isDevRelated(conference.name)) {
-                                console.log(`Found dev-related conference: ${conference.name} in file ${file.filename}`);
+                            // Check each new conference
+                            for (const conferenceName of addedConferenceNames) {
+                              const score = calculateDevScore(conferenceName);
+                              console.log(`Conference: "${conferenceName}" - Score: ${score} (NEWLY ADDED to ${file.filename})`);
+                              
+                              if (isDevRelated(conferenceName)) {
+                                console.log(`Found dev-related NEW conference: ${conferenceName} in file ${file.filename}`);
                                 return 'true';
                               }
                             }
