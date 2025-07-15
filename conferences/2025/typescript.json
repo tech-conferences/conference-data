@@ -92,5 +92,17 @@
     "cfpEndDate": "2025-05-23",
     "mastodon": "@SquiggleConf@fosstodon.org",
     "twitter": "@SquiggleConf"
+  },
+  {
+    "name": "KI Bootcamp",
+    "url": "https://javascript-days.de/berlin/genai-fur-angular-bootcamp",
+    "startDate": "2025-10-23",
+    "endDate": "2025-10-24",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "locales": "DE",
+    "cocUrl": "https://javascript-days.de/code-of-conduct/",
+    "twitter": "@JS_Days"
   }
 ]
