@@ -25,6 +25,19 @@
     "twitter": "@devops_con"
   },
   {
+    "name": "EuroSTAR Conference",
+    "url": "https://conference.eurostarsoftwaretesting.com",
+    "startDate": "2026-06-15",
+    "endDate": "2026-06-18",
+    "city": "Oslo",
+    "country": "Norway",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://conference.eurostarsoftwaretesting.com/anti-harassment-policy/",
+    "cfpUrl": "https://conference.eurostarsoftwaretesting.com/call-for-submissions",
+    "cfpEndDate": "2025-10-13"
+  },
+  {
     "name": "KubeCon + CloudNativeCon North America",
     "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026",
     "startDate": "2026-10-26",
