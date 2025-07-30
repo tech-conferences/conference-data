@@ -25,5 +25,18 @@
     "cfpUrl": "https://form.jotform.com/devsummit/gids-2026-cfp",
     "cfpEndDate": "2025-09-30",
     "twitter": "@developersummit"
+  },
+  {
+    "name": "Devworld Conference",
+    "url": "https://devworldconference.com",
+    "startDate": "2026-05-07",
+    "endDate": "2026-05-08",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "http://devworldconference.com/code-of-conduct",
+    "bluesky": "devworldconference.bsky.social",
+    "twitter": "@devworldconf"
   }
 ]
