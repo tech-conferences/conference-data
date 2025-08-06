@@ -1,5 +1,19 @@
 [
   {
+    "name": "FOSS Backstage",
+    "url": "https://26.foss-backstage.de",
+    "startDate": "2026-03-16",
+    "endDate": "2026-03-17",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://26.foss-backstage.de/code-of-conduct/",
+    "cfpUrl": "https://26.foss-backstage.de/call-for-participation",
+    "cfpEndDate": "2025-10-27",
+    "mastodon": "@FOSSBackstage@floss.social"
+  },
+  {
     "name": "stackconf",
     "url": "https://stackconf.eu",
     "startDate": "2026-04-28",
