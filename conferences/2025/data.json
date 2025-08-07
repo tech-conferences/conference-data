@@ -593,14 +593,34 @@
     "twitter": "@InfobipShift"
   },
   {
-    "name": "NinjaOne Summer Roadshow",
+    "name": "NinjaOne Summer Roadshow Berlin",
     "url": "https://www.ninjaone.com/de/roadshow-europa2025",
     "startDate": "2025-09-16",
-    "endDate": "2025-09-18",
+    "endDate": "2025-09-16",
     "city": "Berlin",
     "country": "Germany",
     "online": false,
     "locales": "DE"
+  },
+  {
+    "name": "NinjaOne Summer Roadshow London",
+    "url": "https://www.ninjaone.com/de/roadshow-europa2025",
+    "startDate": "2025-09-17",
+    "endDate": "2025-09-17",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN"
+  },
+  {
+    "name": "NinjaOne Summer Roadshow Munich",
+    "url": "https://www.ninjaone.com/de/roadshow-europa2025",
+    "startDate": "2025-09-18",
+    "endDate": "2025-09-18",
+    "city": "Munich",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN"
   },
   {
     "name": "CascadiaJS",
