@@ -10,6 +10,20 @@
     "locales": "EN"
   },
   {
+    "name": "Berlin Buzzwords",
+    "url": "https://2026.berlinbuzzwords.de",
+    "startDate": "2026-06-07",
+    "endDate": "2026-06-09",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://2026.berlinbuzzwords.de/code-of-conduct/",
+    "cfpUrl": "https://2026.berlinbuzzwords.de/call-for-papers",
+    "cfpEndDate": "2026-02-15",
+    "mastodon": "@berlinbuzzwords@floss.social"
+  },
+  {
     "name": "EuroSTAR Conference",
     "url": "https://conference.eurostarsoftwaretesting.com",
     "startDate": "2026-06-15",
