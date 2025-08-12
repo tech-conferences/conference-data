@@ -228,6 +228,19 @@
     "twitter": "@bigskydevcon"
   },
   {
+    "name": "RustConf",
+    "url": "https://rustconf.com",
+    "startDate": "2025-09-02",
+    "endDate": "2025-09-05",
+    "city": "Seattle, WA",
+    "country": "U.S.A.",
+    "online": true,
+    "locales": "EN",
+    "bluesky": "rustconf.com",
+    "mastodon": "@rustconf@hachyderm",
+    "twitter": "@rustconf"
+  },
+  {
     "name": "DjangoCon US",
     "url": "https://2025.djangocon.us",
     "startDate": "2025-09-08",

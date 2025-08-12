@@ -1,5 +1,20 @@
 [
   {
+    "name": "ConFoo Montreal",
+    "url": "https://confoo.ca",
+    "startDate": "2026-02-25",
+    "endDate": "2026-02-27",
+    "city": "Montreal",
+    "country": "Canada",
+    "online": false,
+    "locales": "EN,FR",
+    "cocUrl": "https://confoo.ca/en/code-of-conduct",
+    "cfpUrl": "https://confoo.ca/en/2026/call-for-papers",
+    "cfpEndDate": "2025-09-21",
+    "bluesky": "confooca.bsky.app",
+    "twitter": "@confooca"
+  },
+  {
     "name": "Webdevcon",
     "url": "https://webdevcon.nl",
     "startDate": "2026-03-10",
