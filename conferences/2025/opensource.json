@@ -228,6 +228,19 @@
     "twitter": "@bigskydevcon"
   },
   {
+    "name": "RustConf",
+    "url": "https://rustconf.com",
+    "startDate": "2025-09-02",
+    "endDate": "2025-09-05",
+    "city": "Seattle, WA",
+    "country": "U.S.A.",
+    "online": true,
+    "locales": "EN",
+    "bluesky": "rustconf.com",
+    "mastodon": "@rustconf@hachyderm",
+    "twitter": "@rustconf"
+  },
+  {
     "name": "DjangoCon US",
     "url": "https://2025.djangocon.us",
     "startDate": "2025-09-08",
@@ -344,6 +357,18 @@
     "cfpUrl": "https://www.papercall.io/osoday25",
     "cfpEndDate": "2025-09-01",
     "twitter": "@OSODaycom"
+  },
+  {
+    "name": "ALASCA Summit",
+    "url": "https://alasca.cloud/alasca-summit-2025",
+    "startDate": "2025-11-03",
+    "endDate": "2025-11-04",
+    "city": "Dresden",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN",
+    "cfpUrl": "https://alasca.cloud/alasca-summit-2025-schedule",
+    "cfpEndDate": "2025-06-30"
   },
   {
     "name": "Ray Summit",

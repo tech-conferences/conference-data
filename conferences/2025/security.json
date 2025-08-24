@@ -246,6 +246,19 @@
     "locales": "EN"
   },
   {
+    "name": "RustConf",
+    "url": "https://rustconf.com",
+    "startDate": "2025-09-02",
+    "endDate": "2025-09-05",
+    "city": "Seattle, WA",
+    "country": "U.S.A.",
+    "online": true,
+    "locales": "EN",
+    "bluesky": "rustconf.com",
+    "mastodon": "@rustconf@hachyderm",
+    "twitter": "@rustconf"
+  },
+  {
     "name": "Nullcon Berlin",
     "url": "https://nullcon.net/berlin-2025",
     "startDate": "2025-09-04",
