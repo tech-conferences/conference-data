@@ -12,5 +12,32 @@
     "cfpUrl": "https://gitnation.com/events/react-advanced-canada-2026/cfp",
     "cfpEndDate": "2025-09-01",
     "twitter": "@reactadvanced"
+  },
+  {
+    "name": "REACT PARIS",
+    "url": "https://react.paris",
+    "startDate": "2026-03-26",
+    "endDate": "2026-03-27",
+    "city": "Paris",
+    "country": "France",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.bejs.io/code-of-conduct",
+    "twitter": "@BeJS_"
+  },
+  {
+    "name": "CityJS London",
+    "url": "https://london.cityjsconf.org",
+    "startDate": "2026-04-08",
+    "endDate": "2026-04-10",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://london.cityjsconf.org/coc",
+    "cfpUrl": "https://tinyurl.com/cityjs2026lon",
+    "cfpEndDate": "2025-12-31",
+    "bluesky": "cityjsconf.bsky.social",
+    "twitter": "@cittyjsconf"
   }
 ]

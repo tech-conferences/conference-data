@@ -661,6 +661,16 @@
     "mastodon": "@frontendnorth@front-end.social"
   },
   {
+    "name": "bit summit",
+    "url": "https://bit-summit.com",
+    "startDate": "2025-09-04",
+    "endDate": "2025-09-04",
+    "city": "Hamburg",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN"
+  },
+  {
     "name": "ContainerDays Conference",
     "url": "https://www.containerdays.io/containerdays-conference-2025",
     "startDate": "2025-09-09",
@@ -734,6 +744,20 @@
     "twitter": "@droidconBerlin"
   },
   {
+    "name": "DYNA Fall",
+    "url": "https://dyna.dyalog.com",
+    "startDate": "2025-09-29",
+    "endDate": "2025-09-30",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://dyna.dyalog.com/terms-and-conditions/",
+    "bluesky": "dyalog.bsky.social",
+    "mastodon": "@dyalog@mastodon.social",
+    "twitter": "@dyalogapl"
+  },
+  {
     "name": "GOTO Copenhagen",
     "url": "https://gotocph.com/2025",
     "startDate": "2025-09-29",
@@ -744,6 +768,20 @@
     "locales": "EN",
     "cocUrl": "https://gotocph.com/2025/code-of-conduct",
     "twitter": "@GOTOcon"
+  },
+  {
+    "name": "Porto Tech Hub Conference",
+    "url": "https://portotechhub.com/conference-2025",
+    "startDate": "2025-10-07",
+    "endDate": "2025-10-07",
+    "city": "Porto",
+    "country": "Portugal",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://portotechhub.com/conference-2025/code-of-conduct/",
+    "cfpUrl": "https://sessionize.com/pth-2025",
+    "cfpEndDate": "2025-05-18",
+    "twitter": "@PortoTechHub"
   },
   {
     "name": "Moldova DevCon",

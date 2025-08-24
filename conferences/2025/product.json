@@ -134,6 +134,26 @@
     "cocUrl": "https://www.mindtheproduct.com/code-of-conduct/"
   },
   {
+    "name": "NinjaOne Summer Roadshow Berlin",
+    "url": "https://www.ninjaone.com/de/roadshow-europa2025",
+    "startDate": "2025-09-16",
+    "endDate": "2025-09-16",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "locales": "DE"
+  },
+  {
+    "name": "NinjaOne Summer Roadshow London",
+    "url": "https://www.ninjaone.com/de/roadshow-europa2025",
+    "startDate": "2025-09-17",
+    "endDate": "2025-09-17",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN"
+  },
+  {
     "name": "ProductLab Conference",
     "url": "https://productlab.app",
     "startDate": "2025-09-17",
@@ -143,6 +163,16 @@
     "online": false,
     "locales": "EN",
     "cocUrl": "https://productlab.app/terms-of-use"
+  },
+  {
+    "name": "NinjaOne Summer Roadshow Munich",
+    "url": "https://www.ninjaone.com/de/roadshow-europa2025",
+    "startDate": "2025-09-18",
+    "endDate": "2025-09-18",
+    "city": "Munich",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN"
   },
   {
     "name": "uxcon vienna",
@@ -210,5 +240,14 @@
     "online": true,
     "locales": "DE",
     "cocUrl": "https://ai.pod.inside-agile.de/code_of_conduct.php"
+  },
+  {
+    "name": "Product Owner Day",
+    "url": "https://pod.inside-agile.de",
+    "startDate": "2025-11-13",
+    "endDate": "2025-11-13",
+    "online": true,
+    "locales": "DE",
+    "cocUrl": "https://pod.inside-agile.de/code_of_conduct.php"
   }
 ]

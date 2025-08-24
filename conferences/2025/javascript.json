@@ -469,6 +469,17 @@
     "twitter": "@CascadiaJS"
   },
   {
+    "name": "The Dutch JavaScript Conference",
+    "url": "https://www.djsconf.com",
+    "startDate": "2025-09-26",
+    "endDate": "2025-09-28",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.djsconf.com/about/conduct"
+  },
+  {
     "name": "International JavaScript Conference New York",
     "url": "https://javascript-conference.com/new-york",
     "startDate": "2025-09-29",
@@ -479,6 +490,17 @@
     "locales": "EN",
     "cocUrl": "https://javascript-conference.com/code-of-conduct/",
     "twitter": "@JavaScriptCon"
+  },
+  {
+    "name": "ReactConf",
+    "url": "https://conf.react.dev",
+    "startDate": "2025-10-07",
+    "endDate": "2025-10-08",
+    "city": "Henderson, NV",
+    "country": "U.S.A.",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://conf.react.dev/code-of-conduct"
   },
   {
     "name": "enterJS Web Security Day",
