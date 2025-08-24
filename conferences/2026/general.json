@@ -1,5 +1,20 @@
 [
   {
+    "name": "ConFoo Montreal",
+    "url": "https://confoo.ca",
+    "startDate": "2026-02-25",
+    "endDate": "2026-02-27",
+    "city": "Montreal",
+    "country": "Canada",
+    "online": false,
+    "locales": "EN,FR",
+    "cocUrl": "https://confoo.ca/en/code-of-conduct",
+    "cfpUrl": "https://confoo.ca/en/2026/call-for-papers",
+    "cfpEndDate": "2025-09-21",
+    "bluesky": "confooca.bsky.app",
+    "twitter": "@confooca"
+  },
+  {
     "name": "Webdevcon",
     "url": "https://webdevcon.nl",
     "startDate": "2026-03-10",
@@ -25,5 +40,18 @@
     "cfpUrl": "https://form.jotform.com/devsummit/gids-2026-cfp",
     "cfpEndDate": "2025-09-30",
     "twitter": "@developersummit"
+  },
+  {
+    "name": "Devworld Conference",
+    "url": "https://devworldconference.com",
+    "startDate": "2026-05-07",
+    "endDate": "2026-05-08",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "http://devworldconference.com/code-of-conduct",
+    "bluesky": "devworldconference.bsky.social",
+    "twitter": "@devworldconf"
   }
 ]
