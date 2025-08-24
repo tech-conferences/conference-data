@@ -991,6 +991,19 @@
     "mastodon": "@SAG_Conference@mastodon.social"
   },
   {
+    "name": "ESPC",
+    "url": "https://www.sharepointeurope.com",
+    "startDate": "2025-12-01",
+    "endDate": "2025-12-04",
+    "city": "Dublin",
+    "country": "Ireland",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.sharepointeurope.com/codeofconduct/",
+    "bluesky": "espccommunity.bsky",
+    "twitter": "@ESPC_Community"
+  },
+  {
     "name": "IT-Tage",
     "url": "https://www.ittage.informatik-aktuell.de/index.html",
     "startDate": "2025-12-08",
