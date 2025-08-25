@@ -574,6 +574,17 @@
     "cocUrl": "https://2025.pgday.uk/code-of-conduct/"
   },
   {
+    "name": "LLM in Production: Real Use Cases",
+    "url": "https://events.ringcentral.com/events/llm-in-production-real-use-cases",
+    "startDate": "2025-09-12",
+    "endDate": "2025-09-12",
+    "online": true,
+    "locales": "EN",
+    "cfpUrl": "https://www.papercall.io/llm-in-prod-real-use-cases",
+    "cfpEndDate": "2025-08-31",
+    "twitter": "@BuildDevCon"
+  },
+  {
     "name": "PGDay Lowlands",
     "url": "https://2025.pgday.nl/",
     "startDate": "2025-09-12",
@@ -609,6 +620,19 @@
     "cfpUrl": "https://sessionize.com/infobip-shift-2025",
     "cfpEndDate": "2025-06-01",
     "twitter": "@InfobipShift"
+  },
+  {
+    "name": "European Microsoft Fabric Community Conference",
+    "url": "https://www.sharepointeurope.com/european-microsoft-fabric-community-conference",
+    "startDate": "2025-09-15",
+    "endDate": "2025-09-18",
+    "city": "Vienna",
+    "country": "Austria",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.sharepointeurope.com/european-microsoft-fabric-community-conference-booking-terms-and-conditions/",
+    "bluesky": "fabconeurope.bsky",
+    "twitter": "@EuropeanFabric"
   },
   {
     "name": "NinjaOne Summer Roadshow Berlin",
@@ -742,6 +766,16 @@
     "startDate": "2025-10-01",
     "endDate": "2025-10-02",
     "city": "Atlanta, GA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN"
+  },
+  {
+    "name": "IMPACT - The Industrial AI and Data Conference",
+    "url": "http://cognite.com/en/impact-conference",
+    "startDate": "2025-10-13",
+    "endDate": "2025-10-16",
+    "city": "Houston, TX",
     "country": "U.S.A.",
     "online": false,
     "locales": "EN"
