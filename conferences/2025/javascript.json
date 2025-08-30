@@ -549,6 +549,20 @@
     "twitter": "@jsconfcl"
   },
   {
+    "name": "JS Conf Armenia",
+    "url": "https://jsconf.am",
+    "startDate": "2025-10-25",
+    "endDate": "2025-10-25",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "online": false,
+    "locales": "EN,HY,RU",
+    "cocUrl": "https://github.com/JSConfArmenia/conf-19/blob/master/CODE_OF_CONDUCT.md",
+    "cfpUrl": "https://jsconf.am/#Speakers",
+    "cfpEndDate": "2025-09-23",
+    "twitter": "@jsconf.am"
+  },
+  {
     "name": "International JavaScript Conference Munich",
     "url": "https://javascript-conference.com/munich",
     "startDate": "2025-10-27",
