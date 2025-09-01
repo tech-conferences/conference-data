@@ -13,5 +13,18 @@
     "cfpEndDate": "2025-02-15",
     "twitter": "@AndroidMakersFR",
     "mastodon": "@droidcon@androiddev.social"
+  },
+  {
+    "name": "Droidcon Italy",
+    "url": "https://it.droidcon.com/2025",
+    "startDate": "2025-11-19",
+    "endDate": "2025-11-20",
+    "city": "Turin",
+    "country": "Italy",
+    "online": true,
+    "locales": "EN",
+    "cfpUrl": "https://it.droidcon.com/2025/join-us-as-a-speaker",
+    "cfpEndDate": "2025-09-15",
+    "twitter": "@Droidconit"
   }
 ]
