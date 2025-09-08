@@ -16,7 +16,7 @@ jobs:
 
             - name: Check if PR is dev-related
               id: check-dev-related
-              uses: actions/github-script@v7
+              uses: actions/github-script@v8
               with:
                   github-token: ${{ secrets.GITHUB_TOKEN }}
                   result-encoding: string
@@ -213,7 +213,7 @@ jobs:
 
             - name: Add labels and notify
               if: steps.check-dev-related.outputs.result != 'test-mode'
-              uses: actions/github-script@v7
+              uses: actions/github-script@v8
               with:
                   github-token: ${{ secrets.GITHUB_TOKEN }}
                   script: |
