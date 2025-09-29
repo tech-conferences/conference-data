@@ -702,6 +702,17 @@
     "twitter": "@CloudNativeFdn"
   },
   {
+    "name": "SwampUp Europe",
+    "url": "https://swampup.jfrog.com/europe",
+    "startDate": "2025-11-13",
+    "endDate": "2025-11-14",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://swampup.jfrog.com/europe/code-of-conduct/"
+  },
+  {
     "name": "Continuous Lifecycle/ContainerConf (CLC)",
     "url": "https://www.continuouslifecycle.de",
     "startDate": "2025-11-19",
