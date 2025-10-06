@@ -37,6 +37,14 @@
     "cocUrl": "https://uxrotterdam.com/code-of-conduct/"
   },
   {
+    "name": "PlatformCON Virtual",
+    "url": "https://platformcon.com/program",
+    "startDate": "2026-06-22",
+    "endDate": "2026-06-26",
+    "online": true,
+    "locales": "EN"
+  },
+  {
     "name": "PlatformCON Live Day London",
     "url": "https://platformcon.com/live-day-london",
     "startDate": "2026-06-23",
@@ -55,13 +63,5 @@
     "country": "U.S.A.",
     "online": false,
     "locales": "EN"
-  },
-  {
-  "name": "PlatformCON Virtual",
-  "url": "https://platformcon.com/program",
-  "startDate": "2026-06-22",
-  "endDate": "2026-06-26",
-  "online": true,
-  "locales": "EN"
-}
+  }
 ]
