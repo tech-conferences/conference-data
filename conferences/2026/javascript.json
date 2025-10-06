@@ -39,5 +39,18 @@
     "cfpEndDate": "2025-12-31",
     "bluesky": "cityjsconf.bsky.social",
     "twitter": "@cittyjsconf"
+  },
+  {
+    "name": "enterJS",
+    "url": "https://enterjs.de",
+    "startDate": "2026-06-16",
+    "endDate": "2026-06-17",
+    "city": "Mannheim",
+    "country": "Germany",
+    "online": false,
+    "locales": "DE",
+    "cocUrl": "https://enterjs.de/code_of_conduct.php",
+    "cfpUrl": "https://enterjs.de/cfp.php",
+    "cfpEndDate": "2025-11-12"
   }
 ]
