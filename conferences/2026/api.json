@@ -14,5 +14,17 @@
     "bluesky": "phparch.com",
     "mastodon": "@phptek@phparch.social",
     "twitter": "@phptek"
+  },
+  {
+    "name": "UberConf",
+    "url": "https://uberconf.com",
+    "startDate": "2026-07-14",
+    "endDate": "2026-07-17",
+    "city": "Denver, CO",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://uberconf.com/home/code_of_conduct",
+    "twitter": "@nofluff"
   }
 ]
