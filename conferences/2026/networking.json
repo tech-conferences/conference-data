@@ -36,13 +36,23 @@
     "offersSignLanguageOrCC": true,
     "cocUrl": "https://uxrotterdam.com/code-of-conduct/"
   },
+{
+  "name": "PlatformCON Live day NYC",
+  "url": "https://platformcon.com/live-day-nyc",
+  "startDate": "2026-06-25",
+  "endDate": "2026-06-25",
+  "city": "New York, NY",
+  "country": "U.S.A.",
+  "online": false,
+  "locales": "EN"
+},
   {
-    "name": "PlatformCON Live day NYC",
-    "url": "https://platformcon.com/live-day-nyc",
-    "startDate": "2026-06-25",
-    "endDate": "2026-06-25",
-    "city": "New York, NY",
-    "country": "U.S.A.",
+    "name": "PlatformCON Live Day London",
+    "url": "https://platformcon.com/live-day-london",
+    "startDate": "2026-06-23",
+    "endDate": "2026-06-23",
+    "city": "London",
+    "country": "U.K.",
     "online": false,
     "locales": "EN"
   }
