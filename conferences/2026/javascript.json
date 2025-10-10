@@ -1,5 +1,20 @@
 [
   {
+    "name": "CityJS New Delhi",
+    "url": "https://india.cityjsconf.org",
+    "startDate": "2026-02-12",
+    "endDate": "2026-02-13",
+    "city": "Delhi",
+    "country": "India",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "india.cityjsconf.org/coc",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSe-32bgx5eJZwsKh2Orshc9OiTn010ix8W9xkfM-IrkzoOnTQ/viewform",
+    "cfpEndDate": "2025-11-30",
+    "bluesky": "cityjsconf.bsky",
+    "twitter": "@cityjsconf"
+  },
+  {
     "name": "React Advanced Canada",
     "url": "https://reactadvanced.com/canada",
     "startDate": "2026-03-24",
