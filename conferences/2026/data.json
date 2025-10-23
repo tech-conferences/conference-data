@@ -10,6 +10,19 @@
     "locales": "EN"
   },
   {
+    "name": "Minds Mastering Machines - M3",
+    "url": "https://www.m3-konferenz.de",
+    "startDate": "2026-04-22",
+    "endDate": "2026-04-23",
+    "city": "Karlsruhe",
+    "country": "Germany",
+    "online": false,
+    "locales": "DE",
+    "cocUrl": "https://www.m3-konferenz.de/code_of_conduct.php",
+    "cfpUrl": "https://www.m3-konferenz.de/cfp.php",
+    "cfpEndDate": "2025-11-23"
+  },
+  {
     "name": "PHP Tek",
     "url": "https://phptek.io",
     "startDate": "2026-05-19",
