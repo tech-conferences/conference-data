@@ -67,6 +67,18 @@
     "cfpEndDate": "2025-10-31"
   },
   {
+    "name": "XtremeJ Online Conference",
+    "url": "https://xtremej.dev",
+    "startDate": "2026-05-12",
+    "endDate": "2026-05-12",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "http://www.zindell.com/documents/codeofconduct.pdf",
+    "cfpUrl": "https://forms.gle/S9isDXM6DEzh6VFi8",
+    "cfpEndDate": "2026-02-10",
+    "twitter": "@xtremejconf"
+  },
+  {
     "name": "UberConf",
     "url": "https://uberconf.com",
     "startDate": "2026-07-14",
