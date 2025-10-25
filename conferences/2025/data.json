@@ -1003,5 +1003,19 @@
     "cfpUrl": "https://omhconf.pl/cfp-2025",
     "cfpEndDate": "2025-09-16",
     "twitter": "@OMHconf"
+  },
+  {
+    "name": "AgentCon Vancouver",
+    "url": "https://globalai.community/chapters/vancouver/events/agentcon-vancouver",
+    "startDate": "2025-12-11",
+    "endDate": "2025-12-11",
+    "city": "Vancouver",
+    "country": "Canada",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://globalai.community/about/code-of-conduct/",
+    "cfpUrl": "https://sessionize.com/agentcon-vancouver",
+    "cfpEndDate": "2025-11-21",
+    "twitter": "@GlobAICommunity"
   }
 ]
