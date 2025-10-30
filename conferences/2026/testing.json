@@ -1,5 +1,18 @@
 [
   {
+    "name": "ParisTestConf",
+    "url": "https://paristestconf.com",
+    "startDate": "2026-03-31",
+    "endDate": "2026-03-31",
+    "city": "Paris",
+    "country": "France",
+    "online": false,
+    "locales": "FR",
+    "offersSignLanguageOrCC": true,
+    "cfpUrl": "https://sessionize.com/paristestconf-7",
+    "cfpEndDate": "2025-10-31"
+  },
+  {
     "name": "EuroSTAR Conference",
     "url": "https://conference.eurostarsoftwaretesting.com",
     "startDate": "2026-06-15",
