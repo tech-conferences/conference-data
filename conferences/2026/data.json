@@ -10,6 +10,21 @@
     "locales": "EN"
   },
   {
+    "name": "Dutch AI Conferece",
+    "url": "https://aiconference.nl",
+    "startDate": "2026-03-11",
+    "endDate": "2026-03-12",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://aiconference.nl/code-of-conduct/",
+    "cfpUrl": "https://sessionize.com/dac-2026",
+    "cfpEndDate": "2025-12-19",
+    "mastodon": "@dutchaicon@mastodon.social",
+    "twitter": "@dutchaicon"
+  },
+  {
     "name": "PHP Tek",
     "url": "https://phptek.io",
     "startDate": "2026-05-19",
