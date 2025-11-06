@@ -76,5 +76,16 @@
     "country": "Germany",
     "online": false,
     "locales": "EN"
+  },
+  {
+    "name": "World Congress on Autism Research & Innovation",
+    "url": "https://www.scitechseries.com/autism",
+    "startDate": "2026-10-15",
+    "endDate": "2026-10-16",
+    "city": "Paris",
+    "country": "France",
+    "online": true,
+    "locales": "EN",
+    "twitter": "@ScitechSeries"
   }
 ]
