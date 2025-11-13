@@ -63,5 +63,19 @@
     "country": "U.S.A.",
     "online": false,
     "locales": "EN"
+  },
+  {
+    "name": "droidcon Berlin @next.app devcon",
+    "url": "https://www.nextappcon.com/droidcon",
+    "startDate": "2026-10-07",
+    "endDate": "2026-10-09",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.nextappcon.com/code-of-conduct",
+    "bluesky": "droidcon.bsky.social",
+    "mastodon": "@droidcon@androiddev.social",
+    "twitter": "@droidconBerlin"
   }
 ]
