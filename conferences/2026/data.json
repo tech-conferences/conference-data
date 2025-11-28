@@ -63,5 +63,18 @@
     "locales": "EN",
     "cocUrl": "https://uberconf.com/home/code_of_conduct",
     "twitter": "@nofluff"
+  },
+  {
+    "name": "European Microsoft Fabric Community Conference",
+    "url": "https://www.sharepointeurope.com/european-microsoft-fabric-community-conference",
+    "startDate": "2026-09-28",
+    "endDate": "2026-10-01",
+    "city": "Barcelona",
+    "country": "Spain",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.sharepointeurope.com/european-microsoft-fabric-community-conference-booking-terms-and-conditions/",
+    "bluesky": "fabconeurope.bsky.social",
+    "twitter": "@EuropeanFabric"
   }
 ]
