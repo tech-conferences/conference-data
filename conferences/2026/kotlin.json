@@ -22,5 +22,16 @@
     "cfpEndDate": "2025-11-30",
     "bluesky": "kotlinconf.com",
     "twitter": "@kotlinconf"
+  },
+  {
+    "name": "KotlinLeeds",
+    "url": "https://kotlinleeds.com",
+    "startDate": "2026-10-15",
+    "endDate": "2026-10-16",
+    "city": "Leeds",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@kotlinleeds"
   }
 ]
