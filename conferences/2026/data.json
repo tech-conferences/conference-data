@@ -53,6 +53,19 @@
     "cfpEndDate": "2025-10-13"
   },
   {
+    "name": "DWX",
+    "url": "https://www.developer-world.de/dwx",
+    "startDate": "2026-06-29",
+    "endDate": "2026-07-02",
+    "city": "Mannheim",
+    "country": "Germany",
+    "online": false,
+    "locales": "DE",
+    "cocUrl": "https://www.developer-world.de/developer-world-code-of-conduct",
+    "cfpUrl": "https://sessionize.com/dwx-26",
+    "cfpEndDate": "2026-01-11"
+  },
+  {
     "name": "UberConf",
     "url": "https://uberconf.com",
     "startDate": "2026-07-14",
