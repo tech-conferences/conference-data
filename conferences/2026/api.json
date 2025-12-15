@@ -1,5 +1,18 @@
 [
   {
+    "name": "API Conference",
+    "url": "https://apiconference.net/london",
+    "startDate": "2026-05-11",
+    "endDate": "2026-05-15",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "locales": "EN",
+    "cfpUrl": "https://callforpapers.sandsmedia.com",
+    "cfpEndDate": "2025-11-17",
+    "twitter": "@api_conference"
+  },
+  {
     "name": "PHP Tek",
     "url": "https://phptek.io",
     "startDate": "2026-05-19",
