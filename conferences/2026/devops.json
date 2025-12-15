@@ -76,6 +76,17 @@
     "cfpEndDate": "2025-10-13"
   },
   {
+    "name": "DevOpsCon Berlin",
+    "url": "https://devopscon.io/berlin",
+    "startDate": "2026-06-15",
+    "endDate": "2026-06-19",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "twitter": "@devops_con"
+  },
+  {
     "name": "KubeCon + CloudNativeCon North America",
     "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026",
     "startDate": "2026-10-26",
