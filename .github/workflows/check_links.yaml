@@ -18,7 +18,7 @@ jobs:
               run: echo "CURRENT_YEAR=$(date +'%Y')" >> $GITHUB_ENV
             - name: Get next year
               run: echo "NEXT_YEAR=$(date -d '+1 year' +'%Y')" >> $GITHUB_ENV
-            - uses: actions/checkout@v5
+            - uses: actions/checkout@v6
             - name: Restore lychee cache
               uses: actions/cache@v4
               with:
