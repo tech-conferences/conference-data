@@ -25,6 +25,17 @@
     "cfpEndDate": "2025-10-31"
   },
   {
+    "name": "DevOpsCon London",
+    "url": "https://devopscon.io/london",
+    "startDate": "2026-05-11",
+    "endDate": "2026-05-15",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "locales": "EN",
+    "twitter": "@devops_con"
+  },
+  {
     "name": "DevOpsCon San Diego",
     "url": "https://devopscon.io/san-diego",
     "startDate": "2026-06-01",
