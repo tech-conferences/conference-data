@@ -25,18 +25,6 @@
     "twitter": "@uxlx"
   },
   {
-    "name": "Webinale",
-    "url": "https://webinale.de/en",
-    "startDate": "2026-06-08",
-    "endDate": "2026-06-12",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "locales": "EN",
-    "bluesky": "webinale.bsky.social",
-    "twitter": "@webinale"
-  },
-  {
     "name": "Future Frontend",
     "url": "https://futurefrontend.com",
     "startDate": "2026-06-08",
@@ -50,6 +38,18 @@
     "cfpEndDate": "2026-03-01",
     "bluesky": "futurefrontend.bsky.social",
     "twitter": "@future_frontend"
+  },
+  {
+    "name": "Webinale",
+    "url": "https://webinale.de/en",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-12",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "bluesky": "webinale.bsky.social",
+    "twitter": "@webinale"
   },
   {
     "name": "Hatch Conference",
