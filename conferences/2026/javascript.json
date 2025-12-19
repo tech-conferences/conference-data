@@ -1,5 +1,20 @@
 [
   {
+    "name": "CityJS Singapore",
+    "url": "https://singapore.cityjsconf.org",
+    "startDate": "2026-02-04",
+    "endDate": "2026-02-06",
+    "city": "Singapore",
+    "country": "Singapore",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://singapore.cityjsconf.org/coc",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdCB9sjowyPA6srn50l5M_rNxwC7D2_6vcTwRv57-vvk1wOBw/viewform",
+    "cfpEndDate": "2025-12-31",
+    "bluesky": "cityjsconf.bsky",
+    "twitter": "@cityjsconf"
+  },
+  {
     "name": "JavaScript & Angular Days",
     "url": "https://javascript-days.de/muenchen",
     "startDate": "2026-03-16",
