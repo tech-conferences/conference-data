@@ -38,5 +38,17 @@
     "cfpEndDate": "2026-03-01",
     "bluesky": "futurefrontend.bsky.social",
     "twitter": "@future_frontend"
+  },
+  {
+    "name": "Hatch Conference",
+    "url": "https://www.hatchconference.com",
+    "startDate": "2026-09-16",
+    "endDate": "2026-09-18",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.hatchconference.com/code-of-conduct",
+    "twitter": "@hatchconference"
   }
 ]
