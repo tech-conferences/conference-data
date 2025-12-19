@@ -92,5 +92,19 @@
     "country": "U.S.A.",
     "online": false,
     "locales": "EN"
+  },
+  {
+    "name": "droidcon London",
+    "url": "https://london.droidcon.com",
+    "startDate": "2026-12-09",
+    "endDate": "2026-12-10",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://london.droidcon.com/code-of-conduct/",
+    "bluesky": "droidcon.bsky.social",
+    "mastodon": "@droidcon@androiddev.social",
+    "twitter": "@droidcon"
   }
 ]
