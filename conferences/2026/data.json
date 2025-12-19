@@ -19,6 +19,20 @@
     "locales": "EN"
   },
   {
+    "name": "Dutch AI Conference",
+    "url": "https://aiconference.nl",
+    "startDate": "2026-03-11",
+    "endDate": "2026-03-12",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "http://aiconference.nl/code-of-conduct/",
+    "cfpUrl": "https://aiconference.nl/speakers/cfp",
+    "cfpEndDate": "2025-12-19",
+    "twitter": "@dutchaicon"
+  },
+  {
     "name": "GITEX ASIA",
     "url": "https://gitexasia.com",
     "startDate": "2026-04-09",
