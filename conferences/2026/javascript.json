@@ -15,6 +15,18 @@
     "twitter": "@cityjsconf"
   },
   {
+    "name": "JavaScript & Angular Days",
+    "url": "https://javascript-days.de/muenchen",
+    "startDate": "2026-03-16",
+    "endDate": "2026-03-20",
+    "city": "Munich",
+    "country": "Germany",
+    "online": true,
+    "locales": "DE",
+    "cocUrl": "https://javascript-days.de/code-of-conduct/",
+    "twitter": "@JS_Days"
+  },
+  {
     "name": "React Advanced Canada",
     "url": "https://reactadvanced.com/canada",
     "startDate": "2026-03-24",
@@ -54,6 +66,60 @@
     "cfpEndDate": "2025-12-31",
     "bluesky": "cityjsconf.bsky.social",
     "twitter": "@cittyjsconf"
+  },
+  {
+    "name": "International JavaScript Conference London",
+    "url": "https://javascript-conference.com/london",
+    "startDate": "2026-05-11",
+    "endDate": "2026-05-15",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "locales": "EN",
+    "cfpUrl": "https://callforpapers.sandsmedia.com",
+    "cfpEndDate": "2025-11-17",
+    "twitter": "@JavaScriptCon"
+  },
+  {
+    "name": "CascadiaJS",
+    "url": "https://cascadiajs.com/2026",
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-02",
+    "city": "Seattle, WA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://cascadiajs.com/code-of-conduct",
+    "cfpUrl": "https://cascadiajs.com/2026/cfp",
+    "cfpEndDate": "2026-01-04",
+    "bluesky": "cascadiajs.com",
+    "twitter": "@cascadiajs"
+  },
+  {
+    "name": "International JavaScript Conference San Diego",
+    "url": "https://javascript-conference.com/san-diego",
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-06",
+    "city": "San Diego, CA",
+    "country": "U.S.A.",
+    "online": true,
+    "locales": "EN",
+    "bluesky": "javascriptcon.bsky.social",
+    "twitter": "@JavaScriptCon"
+  },
+  {
+    "name": "JSNation",
+    "url": "https://jsnation.com",
+    "startDate": "2026-06-11",
+    "endDate": "2026-06-16",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://gitnation.com/coc",
+    "cfpUrl": "https://gitnation.com/events/jsnation-2026/cfp",
+    "cfpEndDate": "2026-03-02"
   },
   {
     "name": "enterJS",
