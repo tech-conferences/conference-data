@@ -15,6 +15,21 @@
     "twitter": "@devnexus"
   },
   {
+    "name": "Spring I/O",
+    "url": "https://2026.springio.net",
+    "startDate": "2026-04-13",
+    "endDate": "2026-04-15",
+    "city": "Barcelona",
+    "country": "Spain",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://2026.springio.net/codeofconduct/",
+    "cfpUrl": "https://sessionize.com/springio26",
+    "cfpEndDate": "2026-01-09",
+    "bluesky": "springio.net",
+    "twitter": "@spring_io"
+  },
+  {
     "name": "Java Day Istanbul",
     "url": "https://www.javaday.istanbul",
     "startDate": "2026-04-18",
@@ -42,6 +57,18 @@
     "twitter": "@jcon_conference"
   },
   {
+    "name": "JAX",
+    "url": "https://jax.de/mainz",
+    "startDate": "2026-05-04",
+    "endDate": "2026-05-08",
+    "city": "Mainz",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN,DE",
+    "bluesky": "jaxkonferenz.bsky.social",
+    "twitter": "@jaxcon"
+  },
+  {
     "name": "Devoxx UK",
     "url": "https://www.devoxx.co.uk",
     "startDate": "2026-05-06",
@@ -65,6 +92,18 @@
     "cocUrl": "https://coderemix.ai/home/code_of_conduct",
     "cfpUrl": "https://sessionize.com/code-remix-summit-2026",
     "cfpEndDate": "2025-10-31"
+  },
+  {
+    "name": "XtremeJ Online Conference",
+    "url": "https://xtremej.dev",
+    "startDate": "2026-05-12",
+    "endDate": "2026-05-12",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "http://www.zindell.com/documents/codeofconduct.pdf",
+    "cfpUrl": "https://forms.gle/S9isDXM6DEzh6VFi8",
+    "cfpEndDate": "2026-02-10",
+    "twitter": "@xtremejconf"
   },
   {
     "name": "UberConf",
