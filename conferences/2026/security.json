@@ -75,16 +75,6 @@
     "cfpEndDate": "2025-10-31"
   },
   {
-    "name": "IT Security Summit Berlin",
-    "url": "https://it-security-summit.com/berlin",
-    "startDate": "2026-06-15",
-    "endDate": "2026-06-19",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "locales": "EN"
-  },
-  {
     "name": "Unhacked 360 International Cybersecurity Conference",
     "url": "https://momentera.org/conferences/unhacked360conference",
     "startDate": "2026-06-15",
@@ -95,5 +85,15 @@
     "locales": "EN",
     "cfpUrl": "https://momentera.org",
     "cfpEndDate": "2026-06-08"
+  },
+  {
+    "name": "IT Security Summit Berlin",
+    "url": "https://it-security-summit.com/berlin",
+    "startDate": "2026-06-15",
+    "endDate": "2026-06-19",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN"
   }
 ]
