@@ -22,5 +22,19 @@
     "cfpEndDate": "2025-11-30",
     "bluesky": "kotlinconf.com",
     "twitter": "@kotlinconf"
+  },
+  {
+    "name": "droidcon USA",
+    "url": "https://usa.droidcon.com",
+    "startDate": "2026-07-16",
+    "endDate": "2026-07-17",
+    "city": "Orlando, FL",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://usa.droidcon.com/code-of-conduct",
+    "bluesky": "droidcon.bsky.social",
+    "mastodon": "@droidcon@androiddev.social",
+    "twitter": "@droidcon"
   }
 ]
