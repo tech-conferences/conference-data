@@ -10,5 +10,51 @@
     "locales": "EN",
     "offersSignLanguageOrCC": true,
     "cocUrl": "https://leaddev.com/code-conduct"
+  },
+  {
+    "name": "inside agile: Organizing for Impact",
+    "url": "https://impact.inside-agile.de",
+    "startDate": "2026-03-17",
+    "endDate": "2026-03-17",
+    "online": true,
+    "locales": "DE",
+    "cocUrl": "https://impact.inside-agile.de/code_of_conduct.php"
+  },
+  {
+    "name": "L8Conf",
+    "url": "https://l8conf.com",
+    "startDate": "2026-04-16",
+    "endDate": "2026-04-17",
+    "city": "Warsaw",
+    "country": "Poland",
+    "online": false,
+    "locales": "EN",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfEDjOe18HZSToF4yfUCGgK3M5045VTtJLYTYuVYezIrjHqKA/viewform",
+    "cfpEndDate": "2025-12-31"
+  },
+  {
+    "name": "LDX3 London",
+    "url": "https://leaddev.com/leaddev-london",
+    "startDate": "2026-06-02",
+    "endDate": "2026-06-03",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://leaddev.com/code-conduct",
+    "cfpUrl": "https://leaddev.com/leaddev-call-proposals",
+    "cfpEndDate": "2026-01-04"
+  },
+  {
+    "name": "LDX3 New York",
+    "url": "https://leaddev.com/leaddev-new-york",
+    "startDate": "2026-09-15",
+    "endDate": "2026-09-16",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
   }
 ]
