@@ -1,5 +1,19 @@
 [
   {
+    "name": "PyConf Hyderabad",
+    "url": "https://2026.pyconfhyd.org",
+    "startDate": "2026-03-14",
+    "endDate": "2026-03-15",
+    "city": "Hyderabad",
+    "country": "India",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://2026.pyconfhyd.org/code-of-conduct",
+    "cfpUrl": "https://www.papercall.io/pyconfhyd2026",
+    "cfpEndDate": "2026-01-15",
+    "twitter": "@pyconfhyd"
+  },
+  {
     "name": "XtremePython Online Conference",
     "url": "https://xtremepython.dev",
     "startDate": "2026-05-26",

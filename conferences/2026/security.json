@@ -52,6 +52,20 @@
     "twitter": "@ITSecSummit"
   },
   {
+    "name": "BSidesSF",
+    "url": "https://bsidessf.org",
+    "startDate": "2026-03-21",
+    "endDate": "2026-03-22",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://bsidessf.org/about/code-of-conduct",
+    "cfpUrl": "https://sessionize.com/tdi-at-bsidessf-2026",
+    "cfpEndDate": "2025-12-08",
+    "twitter": "@BSidesSF"
+  },
+  {
     "name": "GISEC GLOBAL",
     "url": "https://gisec.ae",
     "startDate": "2026-05-05",
@@ -85,5 +99,28 @@
     "locales": "EN",
     "cfpUrl": "https://momentera.org",
     "cfpEndDate": "2026-06-08"
+  },
+  {
+    "name": "IT Security Summit Berlin",
+    "url": "https://it-security-summit.com/berlin",
+    "startDate": "2026-06-15",
+    "endDate": "2026-06-19",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN"
+  },
+  {
+    "name": "ESPC",
+    "url": "https://www.sharepointeurope.com",
+    "startDate": "2026-11-30",
+    "endDate": "2026-12-03",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.sharepointeurope.com/codeofconduct/",
+    "bluesky": "espccommunity.bsky.social",
+    "twitter": "@ESPC_Community"
   }
 ]

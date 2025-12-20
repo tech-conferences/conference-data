@@ -942,6 +942,16 @@
     "bluesky": "aibythebay.bsky.social"
   },
   {
+    "name": "AI Native Dev Con",
+    "url": "https://ainativedev.io/devcon",
+    "startDate": "2025-11-18",
+    "endDate": "2025-11-19",
+    "city": "Brooklyn, NY",
+    "country": "U.S.A.",
+    "online": true,
+    "locales": "EN"
+  },
+  {
     "name": "Big Data Conference Europe",
     "url": "https://bigdataconference.eu",
     "startDate": "2025-11-18",
@@ -989,6 +999,16 @@
     "locales": "EN",
     "cocUrl": "https://it-security-summit.de/code-of-conduct/",
     "twitter": "@ITSecSummit"
+  },
+  {
+    "name": "AgentCon Milwaukee",
+    "url": "https://globalai.community/chapters/milwaukee/events/agentcon-milwaukee",
+    "startDate": "2025-12-02",
+    "endDate": "2025-12-02",
+    "city": "Milwaukee, WI",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN"
   },
   {
     "name": "Oh My Hack",
