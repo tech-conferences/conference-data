@@ -1,5 +1,17 @@
 [
   {
+    "name": "PHP UK",
+    "url": "https://www.phpconference.co.uk",
+    "startDate": "2026-02-20",
+    "endDate": "2026-02-20",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.phpconference.co.uk/conduct",
+    "twitter": "@PHPUKConference"
+  },
+  {
     "name": "Dutch PHP Conference",
     "url": "https://phpconference.nl",
     "startDate": "2026-03-10",

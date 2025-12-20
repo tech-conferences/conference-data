@@ -15,6 +15,17 @@
     "twitter": "@confooca"
   },
   {
+    "name": "Software Architecture Summit",
+    "url": "https://software-architecture-summit.de/muenchen",
+    "startDate": "2026-03-09",
+    "endDate": "2026-03-13",
+    "city": "Munich",
+    "country": "Germany",
+    "online": false,
+    "locales": "DE",
+    "twitter": "@SoftwArchSummit"
+  },
+  {
     "name": "Webdevcon",
     "url": "https://webdevcon.nl",
     "startDate": "2026-03-10",
@@ -55,6 +66,20 @@
     "twitter": "@CodemotionIT"
   },
   {
+    "name": "Codemotion Madrid",
+    "url": "https://conferences.codemotion.com/madrid",
+    "startDate": "2026-04-20",
+    "endDate": "2026-04-21",
+    "city": "Madrid",
+    "country": "Spain",
+    "online": false,
+    "locales": "ES,EN",
+    "cocUrl": "https://community-en.codemotion.it/community/coc",
+    "cfpUrl": "https://sessionize.com/codemotion-madrid-2026",
+    "cfpEndDate": "2025-12-15",
+    "twitter": "@CodemotionIT"
+  },
+  {
     "name": "Great International Developer Summit (GIDS)",
     "url": "https://developersummit.com",
     "startDate": "2026-04-21",
@@ -80,6 +105,20 @@
     "cocUrl": "http://devworldconference.com/code-of-conduct",
     "bluesky": "devworldconference.bsky.social",
     "twitter": "@devworldconf"
+  },
+  {
+    "name": "SlashNEW",
+    "url": "https://slashnew.tech",
+    "startDate": "2026-05-27",
+    "endDate": "2026-05-28",
+    "city": "Newcastle",
+    "country": "Australia",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://slashnew.tech/coc",
+    "cfpUrl": "https://forms.gle/vQHsWqyJt5JnReu67",
+    "cfpEndDate": "2026-02-14",
+    "twitter": "@slashnew"
   },
   {
     "name": "WeAreDevelopers GmbH",

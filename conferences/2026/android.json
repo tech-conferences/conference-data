@@ -13,6 +13,17 @@
     "twitter": "@appdevcon"
   },
   {
+    "name": "AndroidMakers by droidcon",
+    "url": "https://droidcon.wixsite.com/website-28",
+    "startDate": "2026-04-09",
+    "endDate": "2026-04-10",
+    "city": "Paris",
+    "country": "France",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.nextappcon.com/code-of-conduct"
+  },
+  {
     "name": "droidcon USA",
     "url": "https://usa.droidcon.com",
     "startDate": "2026-07-16",
@@ -22,6 +33,42 @@
     "online": false,
     "locales": "EN",
     "cocUrl": "https://usa.droidcon.com/code-of-conduct",
+    "bluesky": "droidcon.bsky.social",
+    "mastodon": "@droidcon@androiddev.social",
+    "twitter": "@droidcon"
+  },
+  {
+    "name": "next.app devcon",
+    "url": "https://www.nextappcon.com",
+    "startDate": "2026-10-07",
+    "endDate": "2026-10-09",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.nextappcon.com/code-of-conduct"
+  },
+  {
+    "name": "KotlinLeeds",
+    "url": "https://kotlinleeds.com",
+    "startDate": "2026-10-15",
+    "endDate": "2026-10-16",
+    "city": "Leeds",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@kotlinleeds"
+  },
+  {
+    "name": "droidcon London",
+    "url": "https://london.droidcon.com",
+    "startDate": "2026-12-09",
+    "endDate": "2026-12-10",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://london.droidcon.com/code-of-conduct/",
     "bluesky": "droidcon.bsky.social",
     "mastodon": "@droidcon@androiddev.social",
     "twitter": "@droidcon"
