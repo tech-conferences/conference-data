@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Axe-con",
+    "url": "https://www.deque.com/axe-con",
+    "startDate": "2026-02-24",
+    "endDate": "2026-02-25",
+    "online": true,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://www.deque.com/axe-con/code-of-conduct/",
+    "cfpUrl": "https://www.deque.com/axe-con/call-for-presenters",
+    "cfpEndDate": "2025-11-07"
+  },
+  {
+    "name": "Webinale",
+    "url": "https://webinale.de/en",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-12",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "bluesky": "webinale.bsky.social",
+    "twitter": "@webinale"
+  }
+]
