@@ -301,19 +301,6 @@
     "twitter": "@nofluff"
   },
   {
-    "name": "ESPC",
-    "url": "https://www.sharepointeurope.com",
-    "startDate": "2026-11-30",
-    "endDate": "2026-12-03",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://www.sharepointeurope.com/codeofconduct/",
-    "bluesky": "espccommunity.bsky.social",
-    "twitter": "@ESPC_Community"
-  },
-  {
     "name": "European Microsoft Fabric Community Conference",
     "url": "https://www.sharepointeurope.com/european-microsoft-fabric-community-conference",
     "startDate": "2026-09-28",
@@ -325,5 +312,18 @@
     "cocUrl": "https://www.sharepointeurope.com/european-microsoft-fabric-community-conference-booking-terms-and-conditions/",
     "bluesky": "fabconeurope.bsky.social",
     "twitter": "@EuropeanFabric"
+  },
+  {
+    "name": "ESPC",
+    "url": "https://www.sharepointeurope.com",
+    "startDate": "2026-11-30",
+    "endDate": "2026-12-03",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.sharepointeurope.com/codeofconduct/",
+    "bluesky": "espccommunity.bsky.social",
+    "twitter": "@ESPC_Community"
   }
 ]

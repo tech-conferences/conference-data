@@ -89,19 +89,6 @@
     "cfpEndDate": "2025-10-31"
   },
   {
-    "name": "ESPC",
-    "url": "https://www.sharepointeurope.com",
-    "startDate": "2026-11-30",
-    "endDate": "2026-12-03",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://www.sharepointeurope.com/codeofconduct/",
-    "bluesky": "espccommunity.bsky.social",
-    "twitter": "@ESPC_Community"
-  },
-  {
     "name": "Unhacked 360 International Cybersecurity Conference",
     "url": "https://momentera.org/conferences/unhacked360conference",
     "startDate": "2026-06-15",
@@ -122,5 +109,18 @@
     "country": "Germany",
     "online": true,
     "locales": "EN"
+  },
+  {
+    "name": "ESPC",
+    "url": "https://www.sharepointeurope.com",
+    "startDate": "2026-11-30",
+    "endDate": "2026-12-03",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.sharepointeurope.com/codeofconduct/",
+    "bluesky": "espccommunity.bsky.social",
+    "twitter": "@ESPC_Community"
   }
 ]
