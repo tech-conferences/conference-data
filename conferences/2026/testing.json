@@ -36,5 +36,17 @@
     "cocUrl": "https://conference.eurostarsoftwaretesting.com/anti-harassment-policy/",
     "cfpUrl": "https://conference.eurostarsoftwaretesting.com/call-for-submissions",
     "cfpEndDate": "2025-10-13"
+  },
+  {
+    "name": "Tokyo Test Fest",
+    "url": "https://tokyotestfest.com",
+    "startDate": "2026-11-12",
+    "endDate": "2026-11-13",
+    "city": "Tokyo",
+    "country": "Japan",
+    "online": false,
+    "locales": "EN,JA",
+    "cocUrl": "https://tokyotestfest.com/code_of_conduct/",
+    "twitter": "@tokyotestfest"
   }
 ]
