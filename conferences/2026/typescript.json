@@ -1,5 +1,33 @@
 [
   {
+    "name": "JavaScript & Angular Days",
+    "url": "https://javascript-days.de/muenchen",
+    "startDate": "2026-03-16",
+    "endDate": "2026-03-20",
+    "city": "Munich",
+    "country": "Germany",
+    "online": true,
+    "locales": "DE",
+    "cocUrl": "https://javascript-days.de/code-of-conduct/",
+    "twitter": "@JS_Days"
+  },
+  {
+    "name": "CascadiaJS",
+    "url": "https://cascadiajs.com/2026",
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-02",
+    "city": "Seattle, WA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://cascadiajs.com/code-of-conduct",
+    "cfpUrl": "https://cascadiajs.com/2026/cfp",
+    "cfpEndDate": "2026-01-04",
+    "bluesky": "cascadiajs.com",
+    "twitter": "@cascadiajs"
+  },
+  {
     "name": "enterJS",
     "url": "https://enterjs.de",
     "startDate": "2026-06-16",
