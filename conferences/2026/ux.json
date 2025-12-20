@@ -23,5 +23,44 @@
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeAwx-Xt73X0vK_fa5bG4vb2y6aHswQUFX6W11lQ7ncVjYmEw/viewform",
     "cfpEndDate": "2025-12-31",
     "twitter": "@uxlx"
+  },
+  {
+    "name": "Future Frontend",
+    "url": "https://futurefrontend.com",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-09",
+    "city": "Espoo",
+    "country": "Finland",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://berlincodeofconduct.org/en",
+    "cfpUrl": "https://forms.gle/gWReoDDjra4MCQMM8",
+    "cfpEndDate": "2026-03-01",
+    "bluesky": "futurefrontend.bsky.social",
+    "twitter": "@future_frontend"
+  },
+  {
+    "name": "Webinale",
+    "url": "https://webinale.de/en",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-12",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "bluesky": "webinale.bsky.social",
+    "twitter": "@webinale"
+  },
+  {
+    "name": "Hatch Conference",
+    "url": "https://www.hatchconference.com",
+    "startDate": "2026-09-16",
+    "endDate": "2026-09-18",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.hatchconference.com/code-of-conduct",
+    "twitter": "@hatchconference"
   }
 ]
