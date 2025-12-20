@@ -145,6 +145,17 @@
     "locales": "EN"
   },
   {
+    "name": "LDX3 New York",
+    "url": "https://leaddev.com/leaddev-new-york",
+    "startDate": "2026-09-15",
+    "endDate": "2026-09-16",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "ESPC",
     "url": "https://www.sharepointeurope.com",
     "startDate": "2026-11-30",
@@ -170,16 +181,5 @@
     "bluesky": "droidcon.bsky.social",
     "mastodon": "@droidcon@androiddev.social",
     "twitter": "@droidcon"
-  },
-  {
-    "name": "LDX3 New York",
-    "url": "https://leaddev.com/leaddev-new-york",
-    "startDate": "2026-09-15",
-    "endDate": "2026-09-16",
-    "city": "New York, NY",
-    "country": "U.S.A.",
-    "online": false,
-    "locales": "EN",
-    "offersSignLanguageOrCC": true
   }
 ]
