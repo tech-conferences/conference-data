@@ -156,6 +156,18 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "LeadDev Berlin",
+    "url": "https://leaddev.com/leaddev-berlin",
+    "startDate": "2026-11-09",
+    "endDate": "2026-11-10",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://leaddev.com/code-conduct"
+  },
+  {
     "name": "ESPC",
     "url": "https://www.sharepointeurope.com",
     "startDate": "2026-11-30",
@@ -181,17 +193,5 @@
     "bluesky": "droidcon.bsky.social",
     "mastodon": "@droidcon@androiddev.social",
     "twitter": "@droidcon"
-  },
-  {
-    "name": "LeadDev Berlin",
-    "url": "https://leaddev.com/leaddev-berlin",
-    "startDate": "2026-11-09",
-    "endDate": "2026-11-10",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": false,
-    "locales": "EN",
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://leaddev.com/code-conduct"
   }
 ]
