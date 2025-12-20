@@ -1,5 +1,14 @@
 [
   {
+    "name": "betterCode() GenAI",
+    "url": "https://genai.bettercode.eu",
+    "startDate": "2026-01-29",
+    "endDate": "2026-01-29",
+    "online": true,
+    "locales": "DE",
+    "cocUrl": "https://genai.bettercode.eu/code_of_conduct.php?source=0"
+  },
+  {
     "name": "2nd International Conference on Artificial Intelligence and Data Science",
     "url": "https://datascience.averconferences.com",
     "startDate": "2026-02-12",
@@ -8,6 +17,96 @@
     "country": "United Arab Emirates",
     "online": false,
     "locales": "EN"
+  },
+  {
+    "name": "Dutch AI Conference",
+    "url": "https://aiconference.nl",
+    "startDate": "2026-03-11",
+    "endDate": "2026-03-12",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "http://aiconference.nl/code-of-conduct/",
+    "cfpUrl": "https://aiconference.nl/speakers/cfp",
+    "cfpEndDate": "2025-12-19",
+    "twitter": "@dutchaicon"
+  },
+  {
+    "name": "DAM Los Angeles",
+    "url": "https://www.henrystewartconferences.com/events/dam-la-2026",
+    "startDate": "2026-03-18",
+    "endDate": "2026-03-19",
+    "city": "Los Angeles, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@henrystewartdam"
+  },
+  {
+    "name": "GITEX ASIA",
+    "url": "https://gitexasia.com",
+    "startDate": "2026-04-09",
+    "endDate": "2026-04-10",
+    "city": "Singapore",
+    "country": "Singapore",
+    "online": false,
+    "locales": "EN"
+  },
+  {
+    "name": "NODES AI",
+    "url": "https://neo4j.registration.goldcast.io/events/d11441d0-5a74-463d-ab1d-22f03c939c3c",
+    "startDate": "2026-04-15",
+    "endDate": "2026-04-15",
+    "online": true,
+    "locales": "EN",
+    "cfpUrl": "https://sessionize.com/nodesai2026",
+    "cfpEndDate": "2025-12-12",
+    "twitter": "@neo4j"
+  },
+  {
+    "name": "MLcon Amsterdam",
+    "url": "https://mlconference.ai/amsterdam",
+    "startDate": "2026-04-20",
+    "endDate": "2026-04-24",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": true,
+    "locales": "EN"
+  },
+  {
+    "name": "Minds Mastering Machines - M3",
+    "url": "https://www.m3-konferenz.de",
+    "startDate": "2026-04-22",
+    "endDate": "2026-04-23",
+    "city": "Karlsruhe",
+    "country": "Germany",
+    "online": false,
+    "locales": "DE",
+    "cocUrl": "https://www.m3-konferenz.de/code_of_conduct.php",
+    "cfpUrl": "https://www.m3-konferenz.de/cfp.php",
+    "cfpEndDate": "2025-11-23"
+  },
+  {
+    "name": "Rise of AI Converence",
+    "url": "https://riseof.ai/conference-2026",
+    "startDate": "2026-05-05",
+    "endDate": "2026-05-06",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN"
+  },
+  {
+    "name": "MLcon London",
+    "url": "https://mlconference.ai/london",
+    "startDate": "2026-05-11",
+    "endDate": "2026-05-15",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "locales": "EN",
+    "twitter": "@mlconference"
   },
   {
     "name": "PHP Tek",
@@ -26,6 +125,70 @@
     "twitter": "@phptek"
   },
   {
+    "name": "Test Coast",
+    "url": "https://www.testcoast.se",
+    "startDate": "2026-05-21",
+    "endDate": "2026-05-21",
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "online": false,
+    "locales": "EN",
+    "cfpUrl": "https://www.testcoast.se/#cfp",
+    "cfpEndDate": "2026-01-07"
+  },
+  {
+    "name": "CascadiaJS",
+    "url": "https://cascadiajs.com/2026",
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-02",
+    "city": "Seattle, WA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://cascadiajs.com/code-of-conduct",
+    "cfpUrl": "https://cascadiajs.com/2026/cfp",
+    "cfpEndDate": "2026-01-04",
+    "bluesky": "cascadiajs.com",
+    "twitter": "@cascadiajs"
+  },
+  {
+    "name": "European Power Platform Conference",
+    "url": "https://www.sharepointeurope.com/european-power-platform-conference",
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-04",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "online": false,
+    "locales": "EN",
+    "bluesky": "powerplatformeu.bsky.social",
+    "twitter": "@EuropeanPPC"
+  },
+  {
+    "name": "MLcon San Diego",
+    "url": "https://mlconference.ai/san-diego",
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-05",
+    "city": "San Diego, CA",
+    "country": "U.S.A.",
+    "online": true,
+    "locales": "EN",
+    "bluesky": "mlcon.bsky.social",
+    "twitter": "@mlconference"
+  },
+  {
+    "name": "XtremeAI Online Conference",
+    "url": "https://www.eventbrite.com/e/xtremeai-2026-online-conference-tickets-1750726131989",
+    "startDate": "2026-06-02",
+    "endDate": "2026-06-02",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "http://www.zindell.com/documents/codeofconduct.pdf",
+    "cfpUrl": "https://forms.gle/S9isDXM6DEzh6VFi8",
+    "cfpEndDate": "2026-02-10",
+    "twitter": "@xtremeaiconf"
+  },
+  {
     "name": "Berlin Buzzwords",
     "url": "https://2026.berlinbuzzwords.de",
     "startDate": "2026-06-07",
@@ -38,6 +201,19 @@
     "cfpUrl": "https://2026.berlinbuzzwords.de/call-for-papers",
     "cfpEndDate": "2026-02-15",
     "mastodon": "@berlinbuzzwords@floss.social"
+  },
+  {
+    "name": "betterCode() GenAI Summit",
+    "url": "https://genai-summit.bettercode.eu",
+    "startDate": "2026-06-10",
+    "endDate": "2026-06-11",
+    "city": "Mannheim",
+    "country": "Germany",
+    "online": false,
+    "locales": "DE",
+    "cocUrl": "https://genai-summit.bettercode.eu/code_of_conduct.php",
+    "cfpUrl": "https://genai-summit.bettercode.eu/cfp.php",
+    "cfpEndDate": "2026-01-08"
   },
   {
     "name": "EuroSTAR Conference",
@@ -53,6 +229,41 @@
     "cfpEndDate": "2025-10-13"
   },
   {
+    "name": "MLcon Munich",
+    "url": "https://mlconference.ai/munich",
+    "startDate": "2026-06-22",
+    "endDate": "2026-06-26",
+    "city": "Munich",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "bluesky": "mlcon.bsky.social",
+    "twitter": "@mlconference"
+  },
+  {
+    "name": "VibeKode",
+    "url": "https://vibekode.it",
+    "startDate": "2026-06-23",
+    "endDate": "2026-06-26",
+    "city": "Munich",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "cfpUrl": "https://vibekode.it/call-for-papers",
+    "cfpEndDate": "2026-01-14"
+  },
+  {
+    "name": "DAM Europe",
+    "url": "https://www.henrystewartconferences.com/events/dam-europe-2026",
+    "startDate": "2026-06-25",
+    "endDate": "2026-06-26",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@henrystewartdam"
+  },
+  {
     "name": "UberConf",
     "url": "https://uberconf.com",
     "startDate": "2026-07-14",
@@ -63,5 +274,18 @@
     "locales": "EN",
     "cocUrl": "https://uberconf.com/home/code_of_conduct",
     "twitter": "@nofluff"
+  },
+  {
+    "name": "European Microsoft Fabric Community Conference",
+    "url": "https://www.sharepointeurope.com/european-microsoft-fabric-community-conference",
+    "startDate": "2026-09-28",
+    "endDate": "2026-10-01",
+    "city": "Barcelona",
+    "country": "Spain",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.sharepointeurope.com/european-microsoft-fabric-community-conference-booking-terms-and-conditions/",
+    "bluesky": "fabconeurope.bsky.social",
+    "twitter": "@EuropeanFabric"
   }
 ]
