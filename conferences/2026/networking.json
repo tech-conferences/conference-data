@@ -37,6 +37,20 @@
     "cocUrl": "https://uxrotterdam.com/code-of-conduct/"
   },
   {
+    "name": "Open Community Experience (OCX)",
+    "url": "https://www.ocxconf.org",
+    "startDate": "2026-04-21",
+    "endDate": "2026-04-23",
+    "city": "Brussels",
+    "country": "Belgium",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.eclipse.org/org/documents/Community_Code_of_Conduct.php",
+    "cfpUrl": "https://www.ocxconf.org/event/403bffe2-15d8-49ac-af52-e2781b7296b3/call-for-proposals",
+    "cfpEndDate": "2025-11-13",
+    "twitter": "@ocxconference"
+  },
+  {
     "name": "European Power Platform Conference",
     "url": "https://www.sharepointeurope.com/european-power-platform-conference",
     "startDate": "2026-06-01",
@@ -47,6 +61,21 @@
     "locales": "EN",
     "bluesky": "powerplatformeu.bsky.social",
     "twitter": "@EuropeanPPC"
+  },
+  {
+    "name": "Future Frontend",
+    "url": "https://futurefrontend.com",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-09",
+    "city": "Espoo",
+    "country": "Finland",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://berlincodeofconduct.org/en",
+    "cfpUrl": "https://forms.gle/gWReoDDjra4MCQMM8",
+    "cfpEndDate": "2026-03-01",
+    "bluesky": "futurefrontend.bsky.social",
+    "twitter": "@future_frontend"
   },
   {
     "name": "PlatformCON Virtual",
@@ -75,5 +104,19 @@
     "country": "U.S.A.",
     "online": false,
     "locales": "EN"
+  },
+  {
+    "name": "droidcon London",
+    "url": "https://london.droidcon.com",
+    "startDate": "2026-12-09",
+    "endDate": "2026-12-10",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://london.droidcon.com/code-of-conduct/",
+    "bluesky": "droidcon.bsky.social",
+    "mastodon": "@droidcon@androiddev.social",
+    "twitter": "@droidcon"
   }
 ]
