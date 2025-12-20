@@ -41,6 +41,34 @@
     "cfpEndDate": "2025-10-31"
   },
   {
+    "name": "Codemotion Roma",
+    "url": "https://conferences.codemotion.com/roma",
+    "startDate": "2026-03-31",
+    "endDate": "2026-03-31",
+    "city": "Rome",
+    "country": "Italy",
+    "online": false,
+    "locales": "IT,EN",
+    "cocUrl": "https://community-en.codemotion.it/community/coc",
+    "cfpUrl": "https://sessionize.com/codemotion-roma-2026",
+    "cfpEndDate": "2025-12-15",
+    "twitter": "@CodemotionIT"
+  },
+  {
+    "name": "Codemotion Madrid",
+    "url": "https://conferences.codemotion.com/madrid",
+    "startDate": "2026-04-20",
+    "endDate": "2026-04-21",
+    "city": "Madrid",
+    "country": "Spain",
+    "online": false,
+    "locales": "ES,EN",
+    "cocUrl": "https://community-en.codemotion.it/community/coc",
+    "cfpUrl": "https://sessionize.com/codemotion-madrid-2026",
+    "cfpEndDate": "2025-12-15",
+    "twitter": "@CodemotionIT"
+  },
+  {
     "name": "Great International Developer Summit (GIDS)",
     "url": "https://developersummit.com",
     "startDate": "2026-04-21",
@@ -68,12 +96,36 @@
     "twitter": "@devworldconf"
   },
   {
+    "name": "SlashNEW",
+    "url": "https://slashnew.tech",
+    "startDate": "2026-05-27",
+    "endDate": "2026-05-28",
+    "city": "Newcastle",
+    "country": "Australia",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://slashnew.tech/coc",
+    "cfpUrl": "https://forms.gle/vQHsWqyJt5JnReu67",
+    "cfpEndDate": "2026-02-14",
+    "twitter": "@slashnew"
+  },
+  {
     "name": "WeAreDevelopers GmbH",
     "url": "https://www.wearedevelopers.com/world-congress",
     "startDate": "2026-07-08",
     "endDate": "2026-07-10",
     "city": "Berlin",
     "country": "Germany",
+    "online": false,
+    "locales": "EN"
+  },
+  {
+    "name": "WeAreDevelopers World Congress North America",
+    "url": "https://www.wearedevelopers.com/world-congress-us",
+    "startDate": "2026-09-23",
+    "endDate": "2026-09-25",
+    "city": "San Jose, CA",
+    "country": "U.S.A.",
     "online": false,
     "locales": "EN"
   }
