@@ -18,7 +18,7 @@ jobs:
               run: echo "CURRENT_YEAR=$(date +'%Y')" >> $GITHUB_ENV
             - name: Get next year
               run: echo "NEXT_YEAR=$(date -d '+1 year' +'%Y')" >> $GITHUB_ENV
-            - uses: actions/checkout@v5
+            - uses: actions/checkout@v6
             - name: Restore lychee cache
               uses: actions/cache@v4
               with:
@@ -27,7 +27,7 @@ jobs:
                 restore-keys: cache-lychee-
             - name: Link Checker
               id: lychee
-              uses: lycheeverse/lychee-action@v2.6.1
+              uses: lycheeverse/lychee-action@v2.7.0
               with:
                   fail: true
                   args: --cache --verbose --no-progress './conferences/${{ env.CURRENT_YEAR }}/**/*.json' './conferences/${{ env.NEXT_YEAR }}/**/*.json'
@@ -51,7 +51,7 @@ jobs:
             # Permissions (issues: write)
             - name: 'Create a new issue, or update an existing one'
               if: ${{ failure() }}
-              uses: peter-evans/create-issue-from-file@v4
+              uses: peter-evans/create-issue-from-file@v6
               with:
                   title: 'docs: Broken links found'
                   content-filepath: ${{ env.issue-content }}
