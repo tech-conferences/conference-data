@@ -63,6 +63,20 @@
     "twitter": "@EuropeanPPC"
   },
   {
+    "name": "LDX3 London",
+    "url": "https://leaddev.com/leaddev-london",
+    "startDate": "2026-06-02",
+    "endDate": "2026-06-03",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://leaddev.com/code-conduct",
+    "cfpUrl": "https://leaddev.com/leaddev-call-proposals",
+    "cfpEndDate": "2026-01-04"
+  },
+  {
     "name": "Future Frontend",
     "url": "https://futurefrontend.com",
     "startDate": "2026-06-08",
