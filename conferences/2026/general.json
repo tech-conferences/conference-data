@@ -41,6 +41,20 @@
     "cfpEndDate": "2025-10-31"
   },
   {
+    "name": "Codemotion Roma",
+    "url": "https://conferences.codemotion.com/roma",
+    "startDate": "2026-03-31",
+    "endDate": "2026-03-31",
+    "city": "Rome",
+    "country": "Italy",
+    "online": false,
+    "locales": "IT,EN",
+    "cocUrl": "https://community-en.codemotion.it/community/coc",
+    "cfpUrl": "https://sessionize.com/codemotion-roma-2026",
+    "cfpEndDate": "2025-12-15",
+    "twitter": "@CodemotionIT"
+  },
+  {
     "name": "Codemotion Madrid",
     "url": "https://conferences.codemotion.com/madrid",
     "startDate": "2026-04-20",
@@ -88,6 +102,16 @@
     "endDate": "2026-07-10",
     "city": "Berlin",
     "country": "Germany",
+    "online": false,
+    "locales": "EN"
+  },
+  {
+    "name": "WeAreDevelopers World Congress North America",
+    "url": "https://www.wearedevelopers.com/world-congress-us",
+    "startDate": "2026-09-23",
+    "endDate": "2026-09-25",
+    "city": "San Jose, CA",
+    "country": "U.S.A.",
     "online": false,
     "locales": "EN"
   }
