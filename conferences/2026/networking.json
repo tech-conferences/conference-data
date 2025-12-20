@@ -51,6 +51,18 @@
     "twitter": "@ocxconference"
   },
   {
+    "name": "European Power Platform Conference",
+    "url": "https://www.sharepointeurope.com/european-power-platform-conference",
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-04",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "online": false,
+    "locales": "EN",
+    "bluesky": "powerplatformeu.bsky.social",
+    "twitter": "@EuropeanPPC"
+  },
+  {
     "name": "LDX3 London",
     "url": "https://leaddev.com/leaddev-london",
     "startDate": "2026-06-02",
@@ -63,18 +75,6 @@
     "cocUrl": "https://leaddev.com/code-conduct",
     "cfpUrl": "https://leaddev.com/leaddev-call-proposals",
     "cfpEndDate": "2026-01-04"
-  },
-  {
-    "name": "European Power Platform Conference",
-    "url": "https://www.sharepointeurope.com/european-power-platform-conference",
-    "startDate": "2026-06-01",
-    "endDate": "2026-06-04",
-    "city": "Copenhagen",
-    "country": "Denmark",
-    "online": false,
-    "locales": "EN",
-    "bluesky": "powerplatformeu.bsky.social",
-    "twitter": "@EuropeanPPC"
   },
   {
     "name": "Future Frontend",
