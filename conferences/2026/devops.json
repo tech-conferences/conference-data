@@ -12,6 +12,30 @@
     "cfpUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/cfp"
   },
   {
+    "name": "DevOpsCon Amsterdam",
+    "url": "https://devopscon.io/amsterdam",
+    "startDate": "2026-04-20",
+    "endDate": "2026-04-24",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": true,
+    "locales": "EN"
+  },
+  {
+    "name": "Open Community Experience (OCX)",
+    "url": "https://www.ocxconf.org",
+    "startDate": "2026-04-21",
+    "endDate": "2026-04-23",
+    "city": "Brussels",
+    "country": "Belgium",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.eclipse.org/org/documents/Community_Code_of_Conduct.php",
+    "cfpUrl": "https://www.ocxconf.org/event/403bffe2-15d8-49ac-af52-e2781b7296b3/call-for-proposals",
+    "cfpEndDate": "2025-11-13",
+    "twitter": "@ocxconference"
+  },
+  {
     "name": "Code Remix Summit",
     "url": "https://coderemix.ai",
     "startDate": "2026-05-11",
@@ -23,6 +47,29 @@
     "cocUrl": "https://coderemix.ai/home/code_of_conduct",
     "cfpUrl": "https://sessionize.com/code-remix-summit-2026",
     "cfpEndDate": "2025-10-31"
+  },
+  {
+    "name": "DevOpsCon London",
+    "url": "https://devopscon.io/london",
+    "startDate": "2026-05-11",
+    "endDate": "2026-05-15",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "locales": "EN",
+    "twitter": "@devops_con"
+  },
+  {
+    "name": "Test Coast",
+    "url": "https://www.testcoast.se",
+    "startDate": "2026-05-21",
+    "endDate": "2026-05-21",
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "online": false,
+    "locales": "EN",
+    "cfpUrl": "https://www.testcoast.se/#cfp",
+    "cfpEndDate": "2026-01-07"
   },
   {
     "name": "DevOpsCon San Diego",
@@ -63,6 +110,17 @@
     "cocUrl": "https://conference.eurostarsoftwaretesting.com/anti-harassment-policy/",
     "cfpUrl": "https://conference.eurostarsoftwaretesting.com/call-for-submissions",
     "cfpEndDate": "2025-10-13"
+  },
+  {
+    "name": "DevOpsCon Berlin",
+    "url": "https://devopscon.io/berlin",
+    "startDate": "2026-06-15",
+    "endDate": "2026-06-19",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "twitter": "@devops_con"
   },
   {
     "name": "KubeCon + CloudNativeCon North America",

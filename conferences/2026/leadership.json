@@ -1,15 +1,11 @@
 [
   {
-    "name": "ETHConf",
-    "url": "https://ethconf.com/r/CTECONF",
-    "startDate": "2026-06-08",
-    "endDate": "2026-06-10",
-    "city": "New York, NY",
-    "country": "U.S.A.",
-    "online": false,
-    "locales": "EN",
-    "cfpUrl": "https://ethconf.com/partner",
-    "cfpEndDate": "2026-04-01",
-    "twitter": "@ethereumconf"
+    "name": "inside agile: Organizing for Impact",
+    "url": "https://impact.inside-agile.de",
+    "startDate": "2026-03-17",
+    "endDate": "2026-03-17",
+    "online": true,
+    "locales": "DE",
+    "cocUrl": "https://impact.inside-agile.de/code_of_conduct.php"
   }
 ]
