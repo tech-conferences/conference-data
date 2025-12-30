@@ -199,5 +199,19 @@
     "cocUrl": "https://enterjs.de/code_of_conduct.php",
     "cfpUrl": "https://enterjs.de/cfp.php",
     "cfpEndDate": "2025-11-12"
+  },
+  {
+    "name": "ZurichJS Conf",
+    "url": "https://conf.zurichjs.com",
+    "startDate": "2026-09-10",
+    "endDate": "2026-09-11",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://conf.zurichjs.com/info/code-of-conduct",
+    "cfpUrl": "https://conf.zurichjs.com/cfp",
+    "cfpEndDate": "2026-04-01",
+    "twitter": "@zurichjs"
   }
 ]
