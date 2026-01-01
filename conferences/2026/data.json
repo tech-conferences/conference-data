@@ -336,5 +336,17 @@
     "cocUrl": "https://www.sharepointeurope.com/codeofconduct/",
     "bluesky": "espccommunity.bsky.social",
     "twitter": "@ESPC_Community"
+  },
+  {
+    "name": "AI for Developers",
+    "url": "https://aiconference.dev",
+    "startDate": "2026-12-17",
+    "endDate": "2026-12-18",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://aiconference.dev/coc",
+    "cfpUrl": "https://aiconference.dev/cfp",
+    "cfpEndDate": "2026-06-01",
+    "twitter": "@AIDevConf"
   }
 ]
