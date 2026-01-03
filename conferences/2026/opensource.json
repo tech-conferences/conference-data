@@ -122,5 +122,17 @@
     "cfpUrl": "https://2026.berlinbuzzwords.de/call-for-papers",
     "cfpEndDate": "2026-02-15",
     "mastodon": "@berlinbuzzwords@floss.social"
+  },
+  {
+    "name": "Global Forum on Materials Science and Nanotechnology",
+    "url": "https://vidknoxgroup.com/canceroncosummit",
+    "startDate": "2026-10-12",
+    "endDate": "2026-10-13",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "cfpUrl": "https://vidknoxgroup.com/matnanosummit",
+    "cfpEndDate": "2026-09-30"
   }
 ]
