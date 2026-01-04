@@ -20,6 +20,20 @@
     "cocUrl": "https://genai.bettercode.eu/code_of_conduct.php?source=0"
   },
   {
+    "name": "CERN PGDay",
+    "url": "https://www.swisspug.org/cern-pgday-2026.html",
+    "startDate": "2026-02-06",
+    "endDate": "2026-02-06",
+    "city": "Geneva",
+    "country": "Switzerland",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.postgresql.org/about/policies/coc/",
+    "cfpUrl": "https://indico.cern.ch/event/1504097/abstracts",
+    "cfpEndDate": "2025-12-07",
+    "mastodon": "@swisspug@fosstodon.org"
+  },
+  {
     "name": "2nd International Conference on Artificial Intelligence and Data Science",
     "url": "https://datascience.averconferences.com",
     "startDate": "2026-02-12",
