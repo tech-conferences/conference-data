@@ -1,5 +1,19 @@
 [
   {
+    "name": "CERN PGDay",
+    "url": "https://www.swisspug.org/cern-pgday-2026.html",
+    "startDate": "2026-02-06",
+    "endDate": "2026-02-06",
+    "city": "Geneva",
+    "country": "Switzerland",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.postgresql.org/about/policies/coc/",
+    "cfpUrl": "https://indico.cern.ch/event/1504097/abstracts",
+    "cfpEndDate": "2025-12-07",
+    "mastodon": "@swisspug@fosstodon.org"
+  },
+  {
     "name": "CTO Craft Con: London",
     "url": "https://conference.ctocraft.com/london-2026",
     "startDate": "2026-03-10",
