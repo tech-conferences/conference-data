@@ -72,6 +72,18 @@
     "cfpEndDate": "2026-01-07"
   },
   {
+    "name": "UXDX EMEA",
+    "url": "https://uxdx.com/berlin/2026",
+    "startDate": "2026-05-27",
+    "endDate": "2026-05-29",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://uxdx.com/code-of-conduct/",
+    "bluesky": "uxdx.com"
+  },
+  {
     "name": "DevOpsCon San Diego",
     "url": "https://devopscon.io/san-diego",
     "startDate": "2026-06-01",
