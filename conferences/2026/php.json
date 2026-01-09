@@ -1,5 +1,14 @@
 [
   {
+    "name": "SymfonyOnline",
+    "url": "https://live.symfony.com/2026-online-january",
+    "startDate": "2026-01-22",
+    "endDate": "2026-01-23",
+    "online": true,
+    "locales": "EN",
+    "twitter": "@symfony_live"
+  },
+  {
     "name": "PHP UK",
     "url": "https://www.phpconference.co.uk",
     "startDate": "2026-02-20",
