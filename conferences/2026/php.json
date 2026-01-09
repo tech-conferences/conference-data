@@ -25,6 +25,17 @@
     "twitter": "@dpcon"
   },
   {
+    "name": "SymfonyLive",
+    "url": "https://live.symfony.com/2026-berlin",
+    "startDate": "2026-04-23",
+    "endDate": "2026-04-24",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@symfony_live"
+  },
+  {
     "name": "PHP Tek",
     "url": "https://phptek.io",
     "startDate": "2026-05-19",
