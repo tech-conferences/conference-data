@@ -41,6 +41,19 @@
     "twitter": "@phptek"
   },
   {
+    "name": "AFUP Day Paris",
+    "url": "https://event.afup.org/afup-day-2026/afup-day-2026-paris",
+    "startDate": "2026-05-22",
+    "endDate": "2026-05-22",
+    "city": "Paris",
+    "country": "France",
+    "online": false,
+    "locales": "FR",
+    "cocUrl": "https://afup.org/p/986-code-de-conduite",
+    "bluesky": "afup.org",
+    "mastodon": "@afup@mastodon.online"
+  },
+  {
     "name": "International PHP Conference",
     "url": "https://phpconference.com/berlin-en",
     "startDate": "2026-06-08",
