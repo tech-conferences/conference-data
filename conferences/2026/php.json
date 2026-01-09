@@ -62,5 +62,16 @@
     "online": false,
     "locales": "EN",
     "cocUrl": "https://websummercamp.com/2026/code-of-conduct"
+  },
+  {
+    "name": "SymfonyCon",
+    "url": "https://live.symfony.com/2026-warsaw-con",
+    "startDate": "2026-11-26",
+    "endDate": "2026-11-27",
+    "city": "Warsaw",
+    "country": "Poland",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@symfony_live"
   }
 ]
