@@ -227,5 +227,15 @@
     "cfpUrl": "https://conf.zurichjs.com/cfp",
     "cfpEndDate": "2026-04-01",
     "twitter": "@zurichjs"
+  },
+  {
+    "name": "JavaScript & Angular Days",
+    "url": "https://javascript-days.de/berlin",
+    "startDate": "2026-10-12",
+    "endDate": "2026-10-16",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "DE"
   }
 ]
