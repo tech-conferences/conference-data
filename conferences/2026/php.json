@@ -25,6 +25,19 @@
     "twitter": "@dpcon"
   },
   {
+    "name": "MidCamp",
+    "url": "https://www.midcamp.org",
+    "startDate": "2026-05-12",
+    "endDate": "2026-05-14",
+    "city": "Chicago, IL",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "bluesky": "midcamp.org",
+    "mastodon": "@midcamp@fosstodon.org",
+    "twitter": "@midwestcamp"
+  },
+  {
     "name": "PHP Tek",
     "url": "https://phptek.io",
     "startDate": "2026-05-19",
