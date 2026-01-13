@@ -124,6 +124,20 @@
     "locales": "EN"
   },
   {
+    "name": "OWASP Global AppSec EU",
+    "url": "https://owasp.glueup.com/event/owasp-global-appsec-eu-2026-vienna-austria-162243",
+    "startDate": "2026-06-25",
+    "endDate": "2026-06-26",
+    "city": "Vienna",
+    "country": "Austria",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://owasp.glueup.com/event/owasp-global-appsec-eu-2026-vienna-austria-162243/code-of-conduct.html",
+    "cfpUrl": "https://sessionize.com/owasp-global-appsec-eu-2026-cfp-wash",
+    "cfpEndDate": "2026-02-03",
+    "twitter": "@AppSecEU"
+  },
+  {
     "name": "AMTSO Cyber Research Conference",
     "url": "https://www.amtso.org/special-events/amtso-cyber-research-conference-2026",
     "startDate": "2026-10-20",
