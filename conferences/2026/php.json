@@ -12,6 +12,20 @@
     "twitter": "@PHPUKConference"
   },
   {
+    "name": "Florida Drupal Camp",
+    "url": "https://www.fldrupal.camp",
+    "startDate": "2026-02-20",
+    "endDate": "2026-02-22",
+    "city": "Orlando, FL",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.fldrupal.camp/code-conduct",
+    "bluesky": "fldrupal.camp",
+    "mastodon": "@fldrupalcamp@drupal.community",
+    "twitter": "@fldrupalcamp"
+  },
+  {
     "name": "Dutch PHP Conference",
     "url": "https://phpconference.nl",
     "startDate": "2026-03-10",
