@@ -25,6 +25,20 @@
     "twitter": "@dpcon"
   },
   {
+    "name": "phpday",
+    "url": "https://www.phpday.it",
+    "startDate": "2026-05-14",
+    "endDate": "2026-05-15",
+    "city": "Verona",
+    "country": "Italy",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.phpday.it/code-of-conduct/",
+    "cfpUrl": "https://sessionize.com/phpday-2026",
+    "cfpEndDate": "2026-01-10",
+    "mastodon": "@grusp@phpc.social"
+  },
+  {
     "name": "PHP Tek",
     "url": "https://phptek.io",
     "startDate": "2026-05-19",
