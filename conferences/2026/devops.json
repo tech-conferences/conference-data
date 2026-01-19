@@ -135,6 +135,17 @@
     "twitter": "@devops_con"
   },
   {
+    "name": "Devopsdays Berlin",
+    "url": "https://devopsdays.org/events/2026-berlin/welcome",
+    "startDate": "2026-09-29",
+    "endDate": "2026-09-30",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://devopsdays.org/conduct/"
+  },
+  {
     "name": "KubeCon + CloudNativeCon North America",
     "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026",
     "startDate": "2026-10-26",

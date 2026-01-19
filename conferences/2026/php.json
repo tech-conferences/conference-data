@@ -1,5 +1,14 @@
 [
   {
+    "name": "SymfonyOnline",
+    "url": "https://live.symfony.com/2026-online-january",
+    "startDate": "2026-01-22",
+    "endDate": "2026-01-23",
+    "online": true,
+    "locales": "EN",
+    "twitter": "@symfony_live"
+  },
+  {
     "name": "PHP UK",
     "url": "https://www.phpconference.co.uk",
     "startDate": "2026-02-20",
@@ -10,6 +19,20 @@
     "locales": "EN",
     "cocUrl": "https://www.phpconference.co.uk/conduct",
     "twitter": "@PHPUKConference"
+  },
+  {
+    "name": "Florida Drupal Camp",
+    "url": "https://www.fldrupal.camp",
+    "startDate": "2026-02-20",
+    "endDate": "2026-02-22",
+    "city": "Orlando, FL",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.fldrupal.camp/code-conduct",
+    "bluesky": "fldrupal.camp",
+    "mastodon": "@fldrupalcamp@drupal.community",
+    "twitter": "@fldrupalcamp"
   },
   {
     "name": "Dutch PHP Conference",
@@ -23,6 +46,70 @@
     "cocUrl": "https://phpconference.nl/code-of-conduct/",
     "mastodon": "@dpc_ibuildings@mastodon.social",
     "twitter": "@dpcon"
+  },
+  {
+    "name": "SymfonyLive Paris",
+    "url": "https://live.symfony.com/2026-paris",
+    "startDate": "2026-03-26",
+    "endDate": "2026-03-27",
+    "city": "Paris",
+    "country": "France",
+    "online": true,
+    "locales": "FR",
+    "twitter": "@symfony_live"
+  },
+  {
+    "name": "Drupal Developer Days",
+    "url": "https://devdays2026.drupal.org.gr",
+    "startDate": "2026-04-22",
+    "endDate": "2026-04-25",
+    "city": "Athens",
+    "country": "Greece",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://devdays2026.drupal.org.gr/coc",
+    "cfpUrl": "https://devdays2026.drupal.org.gr/propose-session",
+    "cfpEndDate": "2026-01-14",
+    "mastodon": "@ddd@drupal.community",
+    "twitter": "@drupaldevdays"
+  },
+  {
+    "name": "SymfonyLive Berlin",
+    "url": "https://live.symfony.com/2026-berlin",
+    "startDate": "2026-04-23",
+    "endDate": "2026-04-24",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@symfony_live"
+  },
+  {
+    "name": "MidCamp",
+    "url": "https://www.midcamp.org",
+    "startDate": "2026-05-12",
+    "endDate": "2026-05-14",
+    "city": "Chicago, IL",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "bluesky": "midcamp.org",
+    "mastodon": "@midcamp@fosstodon.org",
+    "twitter": "@midwestcamp"
+  },
+  {
+    "name": "phpday",
+    "url": "https://www.phpday.it",
+    "startDate": "2026-05-14",
+    "endDate": "2026-05-15",
+    "city": "Verona",
+    "country": "Italy",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.phpday.it/code-of-conduct/",
+    "cfpUrl": "https://sessionize.com/phpday-2026",
+    "cfpEndDate": "2026-01-10",
+    "mastodon": "@grusp@phpc.social"
   },
   {
     "name": "PHP Tek",
@@ -39,6 +126,96 @@
     "bluesky": "phparch.com",
     "mastodon": "@phptek@phparch.social",
     "twitter": "@phptek"
+  },
+  {
+    "name": "AFUP Day Bordeaux",
+    "url": "https://event.afup.org/afup-day-2026/afup-day-2026-bordeaux",
+    "startDate": "2026-05-22",
+    "endDate": "2026-05-22",
+    "city": "Bordeaux",
+    "country": "France",
+    "online": false,
+    "locales": "FR",
+    "cocUrl": "https://afup.org/p/986-code-de-conduite",
+    "bluesky": "afup.org",
+    "mastodon": "@afup@mastodon.online"
+  },
+  {
+    "name": "AFUP Day Lille",
+    "url": "https://event.afup.org/afup-day-2026/afup-day-2026-lille",
+    "startDate": "2026-05-22",
+    "endDate": "2026-05-22",
+    "city": "Lille",
+    "country": "France",
+    "online": false,
+    "locales": "FR",
+    "cocUrl": "https://afup.org/p/986-code-de-conduite",
+    "bluesky": "afup.org",
+    "mastodon": "@afup@mastodon.online"
+  },
+  {
+    "name": "AFUP Day Lyon",
+    "url": "https://event.afup.org/afup-day-2026/afup-day-2026-lyon",
+    "startDate": "2026-05-22",
+    "endDate": "2026-05-22",
+    "city": "Lyon",
+    "country": "France",
+    "online": false,
+    "locales": "FR",
+    "cocUrl": "https://afup.org/p/986-code-de-conduite",
+    "bluesky": "afup.org",
+    "mastodon": "@afup@mastodon.online"
+  },
+  {
+    "name": "AFUP Day Paris",
+    "url": "https://event.afup.org/afup-day-2026/afup-day-2026-paris",
+    "startDate": "2026-05-22",
+    "endDate": "2026-05-22",
+    "city": "Paris",
+    "country": "France",
+    "online": false,
+    "locales": "FR",
+    "cocUrl": "https://afup.org/p/986-code-de-conduite",
+    "bluesky": "afup.org",
+    "mastodon": "@afup@mastodon.online"
+  },
+  {
+    "name": "Laravel Live Japan",
+    "url": "https://laravellive.jp",
+    "startDate": "2026-05-26",
+    "endDate": "2026-05-27",
+    "city": "Tokyo",
+    "country": "Japan",
+    "online": false,
+    "locales": "EN,JA",
+    "offersSignLanguageOrCC": true,
+    "cfpUrl": "https://frequent-pick-a8d.notion.site/2a23f372b480800c863ded041507c324",
+    "cfpEndDate": "2026-01-31",
+    "twitter": "@laravellivejp"
+  },
+  {
+    "name": "SymfonyDay",
+    "url": "https://live.symfony.com/2026-montreal",
+    "startDate": "2026-06-04",
+    "endDate": "2026-06-04",
+    "city": "Montreal",
+    "country": "Canada",
+    "online": false,
+    "locales": "EN,FR",
+    "twitter": "@symfony_live"
+  },
+  {
+    "name": "WordCamp Europe",
+    "url": "https://europe.wordcamp.org/2026",
+    "startDate": "2026-06-04",
+    "endDate": "2026-06-06",
+    "city": "Kraków",
+    "country": "Poland",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://europe.wordcamp.org/2026/community/code-of-conduct/",
+    "cfpUrl": "https://europe.wordcamp.org/2026/call-for-speakers",
+    "cfpEndDate": "2026-01-31"
   },
   {
     "name": "International PHP Conference",
@@ -62,5 +239,37 @@
     "online": false,
     "locales": "EN",
     "cocUrl": "https://websummercamp.com/2026/code-of-conduct"
+  },
+  {
+    "name": "Drupalcamp Colorado",
+    "url": "https://www.drupal.org/community/events/drupalcamp-colorado-2026-2026-08-27",
+    "startDate": "2026-08-27",
+    "endDate": "2026-08-28",
+    "city": "Denver, CO",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN"
+  },
+  {
+    "name": "DrupalCon Europe",
+    "url": "https://events.drupal.org/rotterdam2026",
+    "startDate": "2026-09-28",
+    "endDate": "2026-10-01",
+    "city": "Rotterdam",
+    "country": "Netherlands",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://events.drupal.org/code-conduct"
+  },
+  {
+    "name": "SymfonyCon",
+    "url": "https://live.symfony.com/2026-warsaw-con",
+    "startDate": "2026-11-26",
+    "endDate": "2026-11-27",
+    "city": "Warsaw",
+    "country": "Poland",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@symfony_live"
   }
 ]
