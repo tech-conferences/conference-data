@@ -178,19 +178,6 @@
     "twitter": "@cascadiajs"
   },
   {
-    "name": "The European Power Platform Conference",
-    "url": "https://www.sharepointeurope.com/european-power-platform-conference",
-    "startDate": "2026-06-29",
-    "endDate": "2026-07-02",
-    "city": "Copenhagen",
-    "country": "Denmark",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://www.sharepointeurope.com/european-power-platform-conference/booking-terms-conditions/",
-    "bluesky": "powerplatformeu.bsky.social",
-    "twitter": "@EuropeanPPC"
-  },
-  {
     "name": "MLcon San Diego",
     "url": "https://mlconference.ai/san-diego",
     "startDate": "2026-06-01",
@@ -313,6 +300,19 @@
     "cocUrl": "https://www.developer-world.de/developer-world-code-of-conduct",
     "cfpUrl": "https://sessionize.com/dwx-26",
     "cfpEndDate": "2026-01-11"
+  },
+  {
+    "name": "The European Power Platform Conference",
+    "url": "https://www.sharepointeurope.com/european-power-platform-conference",
+    "startDate": "2026-06-29",
+    "endDate": "2026-07-02",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.sharepointeurope.com/european-power-platform-conference/booking-terms-conditions/",
+    "bluesky": "powerplatformeu.bsky.social",
+    "twitter": "@EuropeanPPC"
   },
   {
     "name": "GITEX AI EUROPE",
