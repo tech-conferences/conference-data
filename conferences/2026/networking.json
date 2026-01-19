@@ -65,6 +65,32 @@
     "twitter": "@ocxconference"
   },
   {
+    "name": "CONFidence",
+    "url": "https://confidence-conference.org/#contact",
+    "startDate": "2026-05-25",
+    "endDate": "2026-05-26",
+    "city": "Kraków",
+    "country": "Poland",
+    "online": false,
+    "locales": "EN,PL",
+    "cocUrl": "https://confidence-conference.org/code-of-conduct/",
+    "cfpUrl": "https://confidence-conference.org/cfp-2026",
+    "cfpEndDate": "2026-03-15",
+    "twitter": "@CONFidenceConf"
+  },
+  {
+    "name": "European Power Platform Conference",
+    "url": "https://www.sharepointeurope.com/european-power-platform-conference",
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-04",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "online": false,
+    "locales": "EN",
+    "bluesky": "powerplatformeu.bsky.social",
+    "twitter": "@EuropeanPPC"
+  },
+  {
     "name": "LDX3 London",
     "url": "https://leaddev.com/leaddev-london",
     "startDate": "2026-06-02",
