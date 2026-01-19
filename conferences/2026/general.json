@@ -10,6 +10,18 @@
     "locales": "EN"
   },
   {
+    "name": "DeveloperWeek",
+    "url": "https://www.developerweek.com",
+    "startDate": "2026-02-18",
+    "endDate": "2026-02-20",
+    "city": "San Jose, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
+    "twitter": "@DeveloperWeek"
+  },
+  {
     "name": "ConFoo Montreal",
     "url": "https://confoo.ca",
     "startDate": "2026-02-25",
