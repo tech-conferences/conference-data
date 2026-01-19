@@ -94,6 +94,7 @@
     "country": "France",
     "online": false,
     "locales": "FR",
+    "cocUrl": "https://afup.org/p/986-code-de-conduite",
     "bluesky": "afup.org",
     "mastodon": "@afup@mastodon.online"
   },
@@ -103,6 +104,19 @@
     "startDate": "2026-05-22",
     "endDate": "2026-05-22",
     "city": "Lille",
+    "country": "France",
+    "online": false,
+    "locales": "FR",
+    "cocUrl": "https://afup.org/p/986-code-de-conduite",
+    "bluesky": "afup.org",
+    "mastodon": "@afup@mastodon.online"
+  },
+  {
+    "name": "AFUP Day Lyon",
+    "url": "https://event.afup.org/afup-day-2026/afup-day-2026-lyon",
+    "startDate": "2026-05-22",
+    "endDate": "2026-05-22",
+    "city": "Lyon",
     "country": "France",
     "online": false,
     "locales": "FR",
