@@ -1,5 +1,15 @@
 [
   {
+    "name": "Fosdem",
+    "url": "https://fosdem.org/2026",
+    "startDate": "2026-01-31",
+    "endDate": "2026-02-02",
+    "city": "Brussels",
+    "country": "Belgium",
+    "online": false,
+    "locales": "EN"
+  },
+  {
     "name": "ConFoo Montreal",
     "url": "https://confoo.ca",
     "startDate": "2026-02-25",
@@ -152,5 +162,18 @@
     "cocUrl": "https://gotocph.com/2026/code-of-conduct",
     "bluesky": "gotocon.com",
     "twitter": "@GOTOcon"
+  },
+  {
+    "name": "CMS Conf",
+    "url": "https://cmsconf.com",
+    "startDate": "2026-11-12",
+    "endDate": "2026-11-14",
+    "city": "Gdynia",
+    "country": "Poland",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://cmsconf.com/legal/code-of-conduct/",
+    "cfpUrl": "https://cmsconf.com/call-for-papers",
+    "cfpEndDate": "2026-04-30"
   }
 ]
