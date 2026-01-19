@@ -102,6 +102,20 @@
     "cfpEndDate": "2025-10-31"
   },
   {
+    "name": "CONFidence",
+    "url": "https://confidence-conference.org/#contact",
+    "startDate": "2026-05-25",
+    "endDate": "2026-05-26",
+    "city": "Kraków",
+    "country": "Poland",
+    "online": false,
+    "locales": "EN,PL",
+    "cocUrl": "https://confidence-conference.org/code-of-conduct/",
+    "cfpUrl": "https://confidence-conference.org/cfp-2026",
+    "cfpEndDate": "2026-03-15",
+    "twitter": "@CONFidenceConf"
+  },
+  {
     "name": "Unhacked 360 International Cybersecurity Conference",
     "url": "https://momentera.org/conferences/unhacked360conference",
     "startDate": "2026-06-15",
@@ -122,6 +136,20 @@
     "country": "Germany",
     "online": true,
     "locales": "EN"
+  },
+  {
+    "name": "OWASP Global AppSec EU",
+    "url": "https://owasp.glueup.com/event/owasp-global-appsec-eu-2026-vienna-austria-162243",
+    "startDate": "2026-06-25",
+    "endDate": "2026-06-26",
+    "city": "Vienna",
+    "country": "Austria",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://owasp.glueup.com/event/owasp-global-appsec-eu-2026-vienna-austria-162243/code-of-conduct.html",
+    "cfpUrl": "https://sessionize.com/owasp-global-appsec-eu-2026-cfp-wash",
+    "cfpEndDate": "2026-02-03",
+    "twitter": "@AppSecEU"
   },
   {
     "name": "AMTSO Cyber Research Conference",
