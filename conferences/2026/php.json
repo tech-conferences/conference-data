@@ -48,7 +48,7 @@
     "twitter": "@dpcon"
   },
   {
-    "name": "SymfonyLive",
+    "name": "SymfonyLive Paris",
     "url": "https://live.symfony.com/2026-paris",
     "startDate": "2026-03-26",
     "endDate": "2026-03-27",
@@ -56,6 +56,17 @@
     "country": "France",
     "online": true,
     "locales": "FR",
+    "twitter": "@symfony_live"
+  },
+  {
+    "name": "SymfonyLive Berlin",
+    "url": "https://live.symfony.com/2026-berlin",
+    "startDate": "2026-04-23",
+    "endDate": "2026-04-24",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN",
     "twitter": "@symfony_live"
   },
   {
