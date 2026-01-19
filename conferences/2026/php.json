@@ -1,5 +1,14 @@
 [
   {
+    "name": "SymfonyOnline",
+    "url": "https://live.symfony.com/2026-online-january",
+    "startDate": "2026-01-22",
+    "endDate": "2026-01-23",
+    "online": true,
+    "locales": "EN",
+    "twitter": "@symfony_live"
+  },
+  {
     "name": "PHP UK",
     "url": "https://www.phpconference.co.uk",
     "startDate": "2026-02-20",
@@ -10,6 +19,20 @@
     "locales": "EN",
     "cocUrl": "https://www.phpconference.co.uk/conduct",
     "twitter": "@PHPUKConference"
+  },
+  {
+    "name": "Florida Drupal Camp",
+    "url": "https://www.fldrupal.camp",
+    "startDate": "2026-02-20",
+    "endDate": "2026-02-22",
+    "city": "Orlando, FL",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.fldrupal.camp/code-conduct",
+    "bluesky": "fldrupal.camp",
+    "mastodon": "@fldrupalcamp@drupal.community",
+    "twitter": "@fldrupalcamp"
   },
   {
     "name": "Dutch PHP Conference",
@@ -25,7 +48,18 @@
     "twitter": "@dpcon"
   },
   {
-    "name": "SymfonyLive",
+    "name": "SymfonyLive Paris",
+    "url": "https://live.symfony.com/2026-paris",
+    "startDate": "2026-03-26",
+    "endDate": "2026-03-27",
+    "city": "Paris",
+    "country": "France",
+    "online": true,
+    "locales": "FR",
+    "twitter": "@symfony_live"
+  },
+  {
+    "name": "SymfonyLive Berlin",
     "url": "https://live.symfony.com/2026-berlin",
     "startDate": "2026-04-23",
     "endDate": "2026-04-24",
