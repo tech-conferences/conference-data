@@ -77,18 +77,6 @@
     "twitter": "@webinale"
   },
   {
-    "name": "Hatch Conference",
-    "url": "https://www.hatchconference.com",
-    "startDate": "2026-09-16",
-    "endDate": "2026-09-18",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://www.hatchconference.com/code-of-conduct",
-    "twitter": "@hatchconference"
-  },
-  {
     "name": "uxcon vienna",
     "url": "https://www.uxcon.io",
     "startDate": "2026-09-16",
@@ -100,6 +88,18 @@
     "cocUrl": "https://www.uxcon.io/community-etiquette",
     "cfpUrl": "https://forms.cloud.microsoft/e/UJpffgFHP8",
     "cfpEndDate": "2026-02-15"
+  },
+  {
+    "name": "Hatch Conference",
+    "url": "https://www.hatchconference.com",
+    "startDate": "2026-09-16",
+    "endDate": "2026-09-18",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.hatchconference.com/code-of-conduct",
+    "twitter": "@hatchconference"
   },
   {
     "name": "PUSH UX",
