@@ -79,18 +79,6 @@
     "twitter": "@CONFidenceConf"
   },
   {
-    "name": "European Power Platform Conference",
-    "url": "https://www.sharepointeurope.com/european-power-platform-conference",
-    "startDate": "2026-06-01",
-    "endDate": "2026-06-04",
-    "city": "Copenhagen",
-    "country": "Denmark",
-    "online": false,
-    "locales": "EN",
-    "bluesky": "powerplatformeu.bsky.social",
-    "twitter": "@EuropeanPPC"
-  },
-  {
     "name": "LDX3 London",
     "url": "https://leaddev.com/leaddev-london",
     "startDate": "2026-06-02",
@@ -171,6 +159,19 @@
     "country": "U.S.A.",
     "online": false,
     "locales": "EN"
+  },
+  {
+    "name": "The European Power Platform Conference",
+    "url": "https://www.sharepointeurope.com/european-power-platform-conference",
+    "startDate": "2026-06-29",
+    "endDate": "2026-07-02",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.sharepointeurope.com/european-power-platform-conference/booking-terms-conditions/",
+    "bluesky": "powerplatformeu.bsky.social",
+    "twitter": "@EuropeanPPC"
   },
   {
     "name": "LDX3 New York",
