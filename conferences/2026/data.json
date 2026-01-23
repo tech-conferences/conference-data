@@ -408,6 +408,19 @@
     "twitter": "@EuropeanFabric"
   },
   {
+    "name": "data2day",
+    "url": "https://www.data2day.de",
+    "startDate": "2026-10-07",
+    "endDate": "2026-10-08",
+    "city": "Cologne",
+    "country": "Germany",
+    "online": false,
+    "locales": "DE",
+    "cocUrl": "https://www.data2day.de/code_of_conduct.php",
+    "cfpUrl": "https://www.data2day.de/cfp.php",
+    "cfpEndDate": "2026-04-15"
+  },
+  {
     "name": "Global Summit on Data Science and Cloud Computing",
     "url": "https://datascience.novelticsconferences.com",
     "startDate": "2026-10-19",
