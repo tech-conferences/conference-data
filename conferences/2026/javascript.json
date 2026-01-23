@@ -81,6 +81,17 @@
     "twitter": "@reactadvanced"
   },
   {
+    "name": "Node Congress",
+    "url": "https://nodecongress.com",
+    "startDate": "2026-03-26",
+    "endDate": "2026-03-27",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://gitnation.com/coc",
+    "cfpUrl": "https://gitnation.com/events/node-congress-2026/cfp",
+    "cfpEndDate": "2026-02-19"
+  },
+  {
     "name": "REACT PARIS",
     "url": "https://react.paris",
     "startDate": "2026-03-26",
@@ -121,6 +132,19 @@
     "twitter": "@JavaScriptCon"
   },
   {
+    "name": "JSHeroes",
+    "url": "https://jsheroes.io",
+    "startDate": "2026-05-14",
+    "endDate": "2026-05-15",
+    "city": "Cluj-Napoca",
+    "country": "Romania",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://jsheroes.io/coc",
+    "bluesky": "jsheroes.io",
+    "twitter": "@jsheroes"
+  },
+  {
     "name": "XtremeJS Online Conference",
     "url": "https://xtremejs.dev",
     "startDate": "2026-05-19",
@@ -145,6 +169,18 @@
     "cfpUrl": "https://sessionize.com/vueconf-us-2026",
     "cfpEndDate": "2025-11-26",
     "twitter": "@vueconfus"
+  },
+  {
+    "name": "App.js Conf",
+    "url": "https://appjs.co",
+    "startDate": "2026-05-27",
+    "endDate": "2026-05-29",
+    "city": "Kraków",
+    "country": "Poland",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://appjs.co/code-of-conduct",
+    "twitter": "@appjsconf"
   },
   {
     "name": "CascadiaJS",
