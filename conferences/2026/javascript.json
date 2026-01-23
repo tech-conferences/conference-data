@@ -81,6 +81,17 @@
     "twitter": "@reactadvanced"
   },
   {
+    "name": "Node Congress",
+    "url": "https://nodecongress.com",
+    "startDate": "2026-03-26",
+    "endDate": "2026-03-27",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://gitnation.com/coc",
+    "cfpUrl": "https://gitnation.com/events/node-congress-2026/cfp",
+    "cfpEndDate": "2026-02-19"
+  },
+  {
     "name": "REACT PARIS",
     "url": "https://react.paris",
     "startDate": "2026-03-26",
@@ -91,17 +102,6 @@
     "locales": "EN",
     "cocUrl": "https://www.bejs.io/code-of-conduct",
     "twitter": "@BeJS_"
-  },
-  {
-    "name": "Node Congress",
-    "url": "https://nodecongress.com",
-    "startDate": "2026-03-26",
-    "endDate": "2026-03-27",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://gitnation.com/coc",
-    "cfpUrl": "https://gitnation.com/events/node-congress-2026/cfp",
-    "cfpEndDate": "2026-02-19"
   },
   {
     "name": "CityJS London",
