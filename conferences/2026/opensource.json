@@ -160,5 +160,19 @@
     "cfpUrl": "https://2026.berlinbuzzwords.de/call-for-papers",
     "cfpEndDate": "2026-02-15",
     "mastodon": "@berlinbuzzwords@floss.social"
+  },
+  {
+    "name": "Open Source Monitoring conference",
+    "url": "https://osmc.de",
+    "startDate": "2026-11-17",
+    "endDate": "2026-11-19",
+    "city": "Nürnberg",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://osmc.de/code-of-conduct/",
+    "cfpUrl": "https://osmc.de/call-for-papers",
+    "cfpEndDate": "2026-06-30",
+    "bluesky": "osmc.de"
   }
 ]
