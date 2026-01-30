@@ -109,18 +109,6 @@
     "twitter": "@ocxconference"
   },
   {
-    "name": "stackconf",
-    "url": "https://stackconf.eu",
-    "startDate": "2026-04-28",
-    "endDate": "2026-04-29",
-    "city": "Munich",
-    "country": "Germany",
-    "online": false,
-    "locales": "EN",
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://stackconf.eu/code-of-conduct/"
-  },
-  {
     "name": "Azure Cosmos DB Conf",
     "url": "https://aka.ms/azurecosmosdbconf",
     "startDate": "2026-04-28",
@@ -131,6 +119,18 @@
     "cfpUrl": "https://aka.ms/cosmosconfcfp",
     "cfpEndDate": "2026-02-21",
     "twitter": "@azurecosmosdb"
+  },
+  {
+    "name": "stackconf",
+    "url": "https://stackconf.eu",
+    "startDate": "2026-04-28",
+    "endDate": "2026-04-29",
+    "city": "Munich",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://stackconf.eu/code-of-conduct/"
   },
   {
     "name": "KCD Toronto",
