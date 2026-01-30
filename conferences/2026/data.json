@@ -44,6 +44,32 @@
     "locales": "EN"
   },
   {
+    "name": "AI DevWorld",
+    "url": "https://aidevworld.com",
+    "startDate": "2026-02-18",
+    "endDate": "2026-02-20",
+    "city": "San Jose, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
+    "twitter": "@DevNetwork_"
+  },
+  {
+    "name": "AgentCon Bangkok",
+    "url": "https://agentcon.city/bangkok",
+    "startDate": "2026-02-21",
+    "endDate": "2026-02-21",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://globalai.community/about/code-of-conduct/",
+    "cfpUrl": "https://sessionize.com/agentcon-bangkok",
+    "cfpEndDate": "2026-02-10",
+    "twitter": "@GlobAICommunity"
+  },
+  {
     "name": "Dutch AI Conference",
     "url": "https://aiconference.nl",
     "startDate": "2026-03-11",
@@ -67,6 +93,17 @@
     "online": false,
     "locales": "EN",
     "twitter": "@henrystewartdam"
+  },
+  {
+    "name": "Gateway Software Symposium",
+    "url": "https://nofluffjuststuff.com/stlouis",
+    "startDate": "2026-04-02",
+    "endDate": "2026-04-03",
+    "city": "St. Louis, MO",
+    "country": "U.S.A.",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct"
   },
   {
     "name": "GITEX ASIA",
@@ -113,6 +150,17 @@
     "cfpEndDate": "2025-11-23"
   },
   {
+    "name": "New England Software Symposium",
+    "url": "https://nofluffjuststuff.com/boston",
+    "startDate": "2026-04-30",
+    "endDate": "2026-05-01",
+    "city": "Boston, MA",
+    "country": "U.S.A.",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct"
+  },
+  {
     "name": "Rise of AI Converence",
     "url": "https://riseof.ai/conference-2026",
     "startDate": "2026-05-05",
@@ -132,6 +180,19 @@
     "online": true,
     "locales": "EN",
     "twitter": "@mlconference"
+  },
+  {
+    "name": "KCD Toronto",
+    "url": "https://kcdtoronto.ca",
+    "startDate": "2026-05-13",
+    "endDate": "2026-05-13",
+    "city": "Toronto",
+    "country": "Canada",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://kcdtoronto.ca/code-of-conduct/",
+    "cfpUrl": "https://sessionize.com/kcd-toronto-2026",
+    "cfpEndDate": "2026-02-16"
   },
   {
     "name": "PHP Tek",
@@ -214,6 +275,17 @@
     "cfpUrl": "https://2026.berlinbuzzwords.de/call-for-papers",
     "cfpEndDate": "2026-02-15",
     "mastodon": "@berlinbuzzwords@floss.social"
+  },
+  {
+    "name": "AI Con USA",
+    "url": "https://aiconusa.techwell.com",
+    "startDate": "2026-06-07",
+    "endDate": "2026-06-12",
+    "city": "Seattle, WA",
+    "country": "U.S.A.",
+    "online": true,
+    "locales": "EN",
+    "twitter": "@Coveros"
   },
   {
     "name": "betterCode() GenAI Summit",
@@ -337,6 +409,16 @@
     "twitter": "@nofluff"
   },
   {
+    "name": "Disney Data & Analytics Conference (DDAC)",
+    "url": "https://disneydataconference.com",
+    "startDate": "2026-09-14",
+    "endDate": "2026-09-16",
+    "city": "Orlando, FL",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN"
+  },
+  {
     "name": "European Microsoft Fabric Community Conference",
     "url": "https://www.sharepointeurope.com/european-microsoft-fabric-community-conference",
     "startDate": "2026-09-28",
@@ -348,6 +430,19 @@
     "cocUrl": "https://www.sharepointeurope.com/european-microsoft-fabric-community-conference-booking-terms-and-conditions/",
     "bluesky": "fabconeurope.bsky.social",
     "twitter": "@EuropeanFabric"
+  },
+  {
+    "name": "data2day",
+    "url": "https://www.data2day.de",
+    "startDate": "2026-10-07",
+    "endDate": "2026-10-08",
+    "city": "Cologne",
+    "country": "Germany",
+    "online": false,
+    "locales": "DE",
+    "cocUrl": "https://www.data2day.de/code_of_conduct.php",
+    "cfpUrl": "https://www.data2day.de/cfp.php",
+    "cfpEndDate": "2026-04-15"
   },
   {
     "name": "Global Summit on Data Science and Cloud Computing",
@@ -362,6 +457,20 @@
     "cfpUrl": "https://datascience.novelticsconferences.com/register",
     "cfpEndDate": "2026-10-15",
     "twitter": "@Novelticsgroup"
+  },
+  {
+    "name": "J On The Beach",
+    "url": "https://www.jonthebeach.com",
+    "startDate": "2026-10-29",
+    "endDate": "2026-10-30",
+    "city": "Malaga",
+    "country": "Spain",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://berlincodeofconduct.org/en",
+    "cfpUrl": "https://confeti.app",
+    "cfpEndDate": "2026-03-31",
+    "twitter": "@jotbconf"
   },
   {
     "name": "ESPC",
