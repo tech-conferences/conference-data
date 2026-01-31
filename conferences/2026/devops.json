@@ -119,6 +119,20 @@
     "twitter": "@devops_con"
   },
   {
+    "name": "Rock and React > React Norway",
+    "url": "https://reactnorway.com",
+    "startDate": "2026-06-05",
+    "endDate": "2026-06-05",
+    "city": "Oslo",
+    "country": "Norway",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://berlincodeofconduct.org/en",
+    "cfpUrl": "https://forms.gle/pzQpippVee82GLuQ9",
+    "cfpEndDate": "2026-01-15",
+    "twitter": "@ReactNorway"
+  },
+  {
     "name": "Berlin Buzzwords",
     "url": "https://2026.berlinbuzzwords.de",
     "startDate": "2026-06-07",
@@ -155,6 +169,19 @@
     "online": true,
     "locales": "EN",
     "twitter": "@devops_con"
+  },
+  {
+    "name": "DevOpsDays Graz",
+    "url": "https://www.devopsdays.at",
+    "startDate": "2026-09-04",
+    "endDate": "2026-09-05",
+    "city": "Graz",
+    "country": "Austria",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://devopsdays.org/conduct/",
+    "cfpUrl": "https://pretalx.com/devopsdays-graz-2026/cfp",
+    "cfpEndDate": "2026-04-30"
   },
   {
     "name": "Devopsdays Berlin",
