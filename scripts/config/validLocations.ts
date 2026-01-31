@@ -114,6 +114,7 @@ export const validLocations = {
         'Ludwigsburg',
         'Mainz',
         'Mannheim',
+        "Marburg",
         'Munich',
         'Nürburgring',
         'Nürnberg',
