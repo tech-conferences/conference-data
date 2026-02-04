@@ -1,4 +1,4 @@
-Adda# Conference Data Contributing Guidelines
+# Conference Data Contributing Guidelines
 
 ## Getting Started
 
