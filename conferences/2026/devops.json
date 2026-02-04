@@ -12,6 +12,25 @@
     "cfpUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/cfp"
   },
   {
+    "name": "Mastering Observability",
+    "url": "https://www.mastering-obs.de/index.php",
+    "startDate": "2026-04-16",
+    "endDate": "2026-04-16",
+    "online": true,
+    "locales": "DE",
+    "cocUrl": "https://www.mastering-obs.de/code_of_conduct.php"
+  },
+  {
+    "name": "DevOpsCon Amsterdam",
+    "url": "https://devopscon.io/amsterdam",
+    "startDate": "2026-04-20",
+    "endDate": "2026-04-24",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": true,
+    "locales": "EN"
+  },
+  {
     "name": "Open Community Experience (OCX)",
     "url": "https://www.ocxconf.org",
     "startDate": "2026-04-21",
@@ -50,6 +69,43 @@
     "twitter": "@devops_con"
   },
   {
+    "name": "KCD Toronto",
+    "url": "https://kcdtoronto.ca",
+    "startDate": "2026-05-13",
+    "endDate": "2026-05-13",
+    "city": "Toronto",
+    "country": "Canada",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://kcdtoronto.ca/code-of-conduct/",
+    "cfpUrl": "https://sessionize.com/kcd-toronto-2026",
+    "cfpEndDate": "2026-02-16"
+  },
+  {
+    "name": "Test Coast",
+    "url": "https://www.testcoast.se",
+    "startDate": "2026-05-21",
+    "endDate": "2026-05-21",
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "online": false,
+    "locales": "EN",
+    "cfpUrl": "https://www.testcoast.se/#cfp",
+    "cfpEndDate": "2026-01-07"
+  },
+  {
+    "name": "UXDX EMEA",
+    "url": "https://uxdx.com/berlin/2026",
+    "startDate": "2026-05-27",
+    "endDate": "2026-05-29",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://uxdx.com/code-of-conduct/",
+    "bluesky": "uxdx.com"
+  },
+  {
     "name": "DevOpsCon San Diego",
     "url": "https://devopscon.io/san-diego",
     "startDate": "2026-06-01",
@@ -61,6 +117,20 @@
     "cocUrl": "https://devopscon.io/code-of-conduct/",
     "bluesky": "devopscon.bluesky",
     "twitter": "@devops_con"
+  },
+  {
+    "name": "Rock and React > React Norway",
+    "url": "https://reactnorway.com",
+    "startDate": "2026-06-05",
+    "endDate": "2026-06-05",
+    "city": "Oslo",
+    "country": "Norway",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://berlincodeofconduct.org/en",
+    "cfpUrl": "https://forms.gle/pzQpippVee82GLuQ9",
+    "cfpEndDate": "2026-01-15",
+    "twitter": "@ReactNorway"
   },
   {
     "name": "Berlin Buzzwords",
@@ -99,6 +169,30 @@
     "online": true,
     "locales": "EN",
     "twitter": "@devops_con"
+  },
+  {
+    "name": "DevOpsDays Graz",
+    "url": "https://www.devopsdays.at",
+    "startDate": "2026-09-04",
+    "endDate": "2026-09-05",
+    "city": "Graz",
+    "country": "Austria",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://devopsdays.org/conduct/",
+    "cfpUrl": "https://pretalx.com/devopsdays-graz-2026/cfp",
+    "cfpEndDate": "2026-04-30"
+  },
+  {
+    "name": "Devopsdays Berlin",
+    "url": "https://devopsdays.org/events/2026-berlin/welcome",
+    "startDate": "2026-09-29",
+    "endDate": "2026-09-30",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://devopsdays.org/conduct/"
   },
   {
     "name": "KubeCon + CloudNativeCon North America",

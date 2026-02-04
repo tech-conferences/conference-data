@@ -10,5 +10,45 @@
     "cocUrl": "https://www.deque.com/axe-con/code-of-conduct/",
     "cfpUrl": "https://www.deque.com/axe-con/call-for-presenters",
     "cfpEndDate": "2025-11-07"
+  },
+  {
+    "name": "Webinale",
+    "url": "https://webinale.de/en",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-12",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "bluesky": "webinale.bsky.social",
+    "twitter": "@webinale"
+  },
+  {
+    "name": "uxcon vienna",
+    "url": "https://www.uxcon.io",
+    "startDate": "2026-09-16",
+    "endDate": "2026-09-17",
+    "city": "Vienna",
+    "country": "Austria",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.uxcon.io/community-etiquette",
+    "cfpUrl": "https://forms.cloud.microsoft/e/UJpffgFHP8",
+    "cfpEndDate": "2026-02-15"
+  },
+  {
+    "name": "Wey Wey Web",
+    "url": "https://weyweyweb.com",
+    "startDate": "2026-10-29",
+    "endDate": "2026-10-30",
+    "city": "Malaga",
+    "country": "Spain",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://berlincodeofconduct.org/en",
+    "cfpUrl": "https://confeti.app/events/weyweyweb-2026",
+    "cfpEndDate": "2026-03-31",
+    "bluesky": "weyweyweb.bsky.social",
+    "twitter": "@WeyWeyWeb"
   }
 ]

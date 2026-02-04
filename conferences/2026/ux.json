@@ -1,5 +1,18 @@
 [
   {
+    "name": "ConveyUX",
+    "url": "https://conveyux.com",
+    "startDate": "2026-04-13",
+    "endDate": "2026-04-13",
+    "city": "Seattle, WA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://conveyux.com/code-of-conduct/",
+    "bluesky": "conveyux.bsky.social"
+  },
+  {
     "name": "UX Rotterdam",
     "url": "https://uxrotterdam.com",
     "startDate": "2026-04-16",
@@ -25,6 +38,73 @@
     "twitter": "@uxlx"
   },
   {
+    "name": "UXDX EMEA",
+    "url": "https://uxdx.com/berlin/2026",
+    "startDate": "2026-05-27",
+    "endDate": "2026-05-29",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://uxdx.com/code-of-conduct/",
+    "bluesky": "uxdx.com"
+  },
+  {
+    "name": "Future Frontend",
+    "url": "https://futurefrontend.com",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-09",
+    "city": "Espoo",
+    "country": "Finland",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://berlincodeofconduct.org/en",
+    "cfpUrl": "https://forms.gle/gWReoDDjra4MCQMM8",
+    "cfpEndDate": "2026-03-01",
+    "bluesky": "futurefrontend.bsky.social",
+    "twitter": "@future_frontend"
+  },
+  {
+    "name": "Webinale",
+    "url": "https://webinale.de/en",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-12",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "bluesky": "webinale.bsky.social",
+    "twitter": "@webinale"
+  },
+  {
+    "name": "Pixel Pioneers",
+    "url": "https://pixelpioneers.co/events/bristol-2026",
+    "startDate": "2026-06-19",
+    "endDate": "2026-06-19",
+    "city": "Bristol",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://pixelpioneers.co/code-of-conduct",
+    "cfpUrl": "https://pixelpioneers.co/call-for-speakers",
+    "cfpEndDate": "2026-04-13",
+    "bluesky": "pixelpioneers.co",
+    "mastodon": "@pixelpioneers@mastodon.social"
+  },
+  {
+    "name": "uxcon vienna",
+    "url": "https://www.uxcon.io",
+    "startDate": "2026-09-16",
+    "endDate": "2026-09-17",
+    "city": "Vienna",
+    "country": "Austria",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.uxcon.io/community-etiquette",
+    "cfpUrl": "https://forms.cloud.microsoft/e/UJpffgFHP8",
+    "cfpEndDate": "2026-02-15"
+  },
+  {
     "name": "Hatch Conference",
     "url": "https://www.hatchconference.com",
     "startDate": "2026-09-16",
@@ -35,5 +115,18 @@
     "locales": "EN",
     "cocUrl": "https://www.hatchconference.com/code-of-conduct",
     "twitter": "@hatchconference"
+  },
+  {
+    "name": "PUSH UX",
+    "url": "https://push-conference.com",
+    "startDate": "2026-10-22",
+    "endDate": "2026-10-23",
+    "city": "Munich",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://push-conference.com/legal/terms#code-of-conduct",
+    "cfpUrl": "https://push-conference.com/#calls",
+    "cfpEndDate": "2026-10-01"
   }
 ]

@@ -1,5 +1,27 @@
 [
   {
+    "name": "Fosdem",
+    "url": "https://fosdem.org/2026",
+    "startDate": "2026-01-31",
+    "endDate": "2026-02-02",
+    "city": "Brussels",
+    "country": "Belgium",
+    "online": false,
+    "locales": "EN"
+  },
+  {
+    "name": "DeveloperWeek",
+    "url": "https://www.developerweek.com",
+    "startDate": "2026-02-18",
+    "endDate": "2026-02-20",
+    "city": "San Jose, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
+    "twitter": "@DeveloperWeek"
+  },
+  {
     "name": "ConFoo Montreal",
     "url": "https://confoo.ca",
     "startDate": "2026-02-25",
@@ -13,6 +35,17 @@
     "cfpEndDate": "2025-09-21",
     "bluesky": "confooca.bsky.app",
     "twitter": "@confooca"
+  },
+  {
+    "name": "Software Architecture Summit",
+    "url": "https://software-architecture-summit.de/muenchen",
+    "startDate": "2026-03-09",
+    "endDate": "2026-03-13",
+    "city": "Munich",
+    "country": "Germany",
+    "online": false,
+    "locales": "DE",
+    "twitter": "@SoftwArchSummit"
   },
   {
     "name": "Webdevcon",
@@ -41,6 +74,15 @@
     "cfpEndDate": "2025-10-31"
   },
   {
+    "name": "betterCode() Modern Architecture",
+    "url": "https://architecture.bettercode.eu",
+    "startDate": "2026-03-25",
+    "endDate": "2026-03-25",
+    "online": true,
+    "locales": "DE",
+    "cocUrl": "https://architecture.bettercode.eu/code_of_conduct.php"
+  },
+  {
     "name": "Codemotion Roma",
     "url": "https://conferences.codemotion.com/roma",
     "startDate": "2026-03-31",
@@ -51,6 +93,20 @@
     "locales": "IT,EN",
     "cocUrl": "https://community-en.codemotion.it/community/coc",
     "cfpUrl": "https://sessionize.com/codemotion-roma-2026",
+    "cfpEndDate": "2025-12-15",
+    "twitter": "@CodemotionIT"
+  },
+  {
+    "name": "Codemotion Madrid",
+    "url": "https://conferences.codemotion.com/madrid",
+    "startDate": "2026-04-20",
+    "endDate": "2026-04-21",
+    "city": "Madrid",
+    "country": "Spain",
+    "online": false,
+    "locales": "ES,EN",
+    "cocUrl": "https://community-en.codemotion.it/community/coc",
+    "cfpUrl": "https://sessionize.com/codemotion-madrid-2026",
     "cfpEndDate": "2025-12-15",
     "twitter": "@CodemotionIT"
   },
@@ -69,6 +125,15 @@
     "twitter": "@developersummit"
   },
   {
+    "name": "betterCode() ABAP",
+    "url": "https://abap.bettercode.eu/index.php",
+    "startDate": "2026-04-29",
+    "endDate": "2026-04-29",
+    "online": true,
+    "locales": "DE",
+    "cocUrl": "https://abap.bettercode.eu/code_of_conduct.php"
+  },
+  {
     "name": "Devworld Conference",
     "url": "https://devworldconference.com",
     "startDate": "2026-05-07",
@@ -80,6 +145,44 @@
     "cocUrl": "http://devworldconference.com/code-of-conduct",
     "bluesky": "devworldconference.bsky.social",
     "twitter": "@devworldconf"
+  },
+  {
+    "name": "betterCode() ArchDoc",
+    "url": "https://archdoc.bettercode.eu",
+    "startDate": "2026-05-20",
+    "endDate": "2026-05-20",
+    "online": true,
+    "locales": "DE",
+    "cocUrl": "https://archdoc.bettercode.eu/code_of_conduct.php"
+  },
+  {
+    "name": "SlashNEW",
+    "url": "https://slashnew.tech",
+    "startDate": "2026-05-27",
+    "endDate": "2026-05-28",
+    "city": "Newcastle",
+    "country": "Australia",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://slashnew.tech/coc",
+    "cfpUrl": "https://forms.gle/vQHsWqyJt5JnReu67",
+    "cfpEndDate": "2026-02-14",
+    "twitter": "@slashnew"
+  },
+  {
+    "name": "Fork it!",
+    "url": "https://www.forkit.community/events/2026-france-rouen",
+    "startDate": "2026-06-05",
+    "endDate": "2026-06-05",
+    "city": "Rouen",
+    "country": "France",
+    "online": false,
+    "locales": "EN,FR",
+    "cocUrl": "https://www.forkit.community/code-of-conduct",
+    "cfpUrl": "https://conference-hall.io/fork-it-community-france-rouen-2026",
+    "cfpEndDate": "2026-04-19",
+    "bluesky": "forkit.community",
+    "twitter": "@ForkitCommunity"
   },
   {
     "name": "WeAreDevelopers GmbH",
@@ -100,5 +203,45 @@
     "country": "U.S.A.",
     "online": false,
     "locales": "EN"
+  },
+  {
+    "name": "GOTO Copenhagen",
+    "url": "https://gotocph.com/2026",
+    "startDate": "2026-09-28",
+    "endDate": "2026-10-02",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://gotocph.com/2026/code-of-conduct",
+    "bluesky": "gotocon.com",
+    "twitter": "@GOTOcon"
+  },
+  {
+    "name": "Lambda World",
+    "url": "https://www.lambda.world",
+    "startDate": "2026-10-29",
+    "endDate": "2026-10-30",
+    "city": "Malaga",
+    "country": "Spain",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://berlincodeofconduct.org/",
+    "cfpUrl": "https://confeti.app/events/lambda-world-2026",
+    "cfpEndDate": "2026-03-31",
+    "twitter": "@lambda_world"
+  },
+  {
+    "name": "CMS Conf",
+    "url": "https://cmsconf.com",
+    "startDate": "2026-11-12",
+    "endDate": "2026-11-14",
+    "city": "Gdynia",
+    "country": "Poland",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://cmsconf.com/legal/code-of-conduct/",
+    "cfpUrl": "https://cmsconf.com/call-for-papers",
+    "cfpEndDate": "2026-04-30"
   }
 ]

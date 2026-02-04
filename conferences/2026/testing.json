@@ -13,6 +13,38 @@
     "cfpEndDate": "2025-10-31"
   },
   {
+    "name": "STAREAST",
+    "url": "https://stareast.techwell.com",
+    "startDate": "2026-04-26",
+    "endDate": "2026-05-01",
+    "city": "Orlando, FL",
+    "country": "U.S.A.",
+    "online": true,
+    "locales": "EN",
+    "twitter": "@Coveros"
+  },
+  {
+    "name": "Test Coast",
+    "url": "https://www.testcoast.se",
+    "startDate": "2026-05-21",
+    "endDate": "2026-05-21",
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "online": false,
+    "locales": "EN",
+    "cfpUrl": "https://www.testcoast.se/#cfp",
+    "cfpEndDate": "2026-01-07"
+  },
+  {
+    "name": "betterCode() Testing",
+    "url": "https://testing.bettercode.eu",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-08",
+    "online": true,
+    "locales": "DE",
+    "cocUrl": "https://testing.bettercode.eu/code_of_conduct.php"
+  },
+  {
     "name": "EuroSTAR Conference",
     "url": "https://conference.eurostarsoftwaretesting.com",
     "startDate": "2026-06-15",
@@ -24,6 +56,33 @@
     "cocUrl": "https://conference.eurostarsoftwaretesting.com/anti-harassment-policy/",
     "cfpUrl": "https://conference.eurostarsoftwaretesting.com/call-for-submissions",
     "cfpEndDate": "2025-10-13"
+  },
+  {
+    "name": "EuroSTAR Conference",
+    "url": "https://eurostarconferences.com",
+    "startDate": "2026-06-15",
+    "endDate": "2026-06-18",
+    "city": "Oslo",
+    "country": "Norway",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://conference.eurostarsoftwaretesting.com/anti-harassment-policy/",
+    "cfpUrl": "https://conference.eurostarsoftwaretesting.com/conference/2026/programme",
+    "cfpEndDate": "2025-11-27",
+    "twitter": "@esconfs"
+  },
+  {
+    "name": "AutomationSTAR Conference",
+    "url": "https://automation.eurostarsoftwaretesting.com/tickets",
+    "startDate": "2026-11-04",
+    "endDate": "2026-11-05",
+    "city": "Antwerp",
+    "country": "Belgium",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://automation.eurostarsoftwaretesting.com/code-of-conduct/",
+    "cfpUrl": "https://automation.eurostarsoftwaretesting.com/call-for-speakers",
+    "cfpEndDate": "2026-02-06"
   },
   {
     "name": "Tokyo Test Fest",

@@ -11,5 +11,74 @@
     "cocUrl": "https://appdevcon.nl/code-of-conduct/",
     "mastodon": "@appdevcon@mastodon.social",
     "twitter": "@appdevcon"
+  },
+  {
+    "name": "MAU Vegas",
+    "url": "https://mauvegas.com",
+    "startDate": "2026-05-19",
+    "endDate": "2026-05-21",
+    "city": "Las Vegas, NV",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@mauvegas_"
+  },
+  {
+    "name": "App.js Conf",
+    "url": "https://appjs.co",
+    "startDate": "2026-05-27",
+    "endDate": "2026-05-29",
+    "city": "Kraków",
+    "country": "Poland",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://appjs.co/code-of-conduct",
+    "twitter": "@appjsconf"
+  },
+  {
+    "name": "Swift Rockies",
+    "url": "https://swiftrockies.com",
+    "startDate": "2026-07-22",
+    "endDate": "2026-07-23",
+    "city": "Calgary",
+    "country": "Canada",
+    "online": false,
+    "locales": "EN"
+  },
+  {
+    "name": "iOSDevUK",
+    "url": "https://www.iosdevuk.com",
+    "startDate": "2026-09-07",
+    "endDate": "2026-09-10",
+    "city": "Aberystwyth",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.iosdevuk.com/inclusivity",
+    "cfpUrl": "https://www.iosdevuk.com/speakercall",
+    "cfpEndDate": "2026-02-16",
+    "bluesky": "iosdevuk.bsky.social"
+  },
+  {
+    "name": "swiftcon@next.app devcon",
+    "url": "https://www.nextappcon.com/swiftcon",
+    "startDate": "2026-10-07",
+    "endDate": "2026-10-09",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.nextappcon.com/code-of-conduct"
+  },
+  {
+    "name": "SwiftLeeds",
+    "url": "https://swiftleeds.co.uk",
+    "startDate": "2026-10-12",
+    "endDate": "2026-10-14",
+    "city": "Leeds",
+    "country": "U.K.",
+    "online": true,
+    "locales": "EN",
+    "twitter": "@swift_leeds"
   }
 ]

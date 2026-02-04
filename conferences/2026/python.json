@@ -1,5 +1,31 @@
 [
   {
+    "name": "PyConf Hyderabad",
+    "url": "https://2026.pyconfhyd.org",
+    "startDate": "2026-03-14",
+    "endDate": "2026-03-15",
+    "city": "Hyderabad",
+    "country": "India",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://2026.pyconfhyd.org/code-of-conduct",
+    "cfpUrl": "https://www.papercall.io/pyconfhyd2026",
+    "cfpEndDate": "2026-01-15",
+    "twitter": "@pyconfhyd"
+  },
+  {
+    "name": "Azure Cosmos DB Conf",
+    "url": "https://developer.azurecosmosdb.com/conf/",
+    "startDate": "2026-04-28",
+    "endDate": "2026-04-28",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://developer.azurecosmosdb.com/coc",
+    "cfpUrl": "https://sessionize.com/azure-cosmos-db-conf-2026",
+    "cfpEndDate": "2026-02-21",
+    "twitter": "@azurecosmosdb"
+  },
+  {
     "name": "XtremePython Online Conference",
     "url": "https://xtremepython.dev",
     "startDate": "2026-05-26",
@@ -21,5 +47,19 @@
     "online": false,
     "locales": "EN",
     "cocUrl": "https://websummercamp.com/2026/code-of-conduct"
+  },
+  {
+    "name": "Global Summit on Data Science and Cloud Computing",
+    "url": "https://datascience.novelticsconferences.com",
+    "startDate": "2026-10-19",
+    "endDate": "2026-10-20",
+    "city": "Rome",
+    "country": "Italy",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://datascience.novelticsconferences.com/terms-and-conditions",
+    "cfpUrl": "https://datascience.novelticsconferences.com/register",
+    "cfpEndDate": "2026-10-15",
+    "twitter": "@Novelticsgroup"
   }
 ]

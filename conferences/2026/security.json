@@ -27,6 +27,19 @@
     "twitter": "@nullcon"
   },
   {
+    "name": "[un]prompted | The AI Security Practitioner Conference",
+    "url": "https://unpromptedcon.org",
+    "startDate": "2026-03-03",
+    "endDate": "2026-03-04",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://unpromptedcon.org/code-of-conduct/",
+    "cfpUrl": "https://sessionize.com/unprompted-the-ai-security-practitio",
+    "cfpEndDate": "2026-01-28"
+  },
+  {
     "name": "Devnexus",
     "url": "https://devnexus.com",
     "startDate": "2026-03-04",
@@ -52,6 +65,31 @@
     "twitter": "@ITSecSummit"
   },
   {
+    "name": "BSidesSF",
+    "url": "https://bsidessf.org",
+    "startDate": "2026-03-21",
+    "endDate": "2026-03-22",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://bsidessf.org/about/code-of-conduct",
+    "cfpUrl": "https://sessionize.com/tdi-at-bsidessf-2026",
+    "cfpEndDate": "2025-12-08",
+    "twitter": "@BSidesSF"
+  },
+  {
+    "name": "Node Congress",
+    "url": "https://nodecongress.com",
+    "startDate": "2026-03-26",
+    "endDate": "2026-03-27",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://gitnation.com/coc",
+    "cfpUrl": "https://gitnation.com/events/node-congress-2026/cfp",
+    "cfpEndDate": "2026-02-19"
+  },
+  {
     "name": "GISEC GLOBAL",
     "url": "https://gisec.ae",
     "startDate": "2026-05-05",
@@ -75,6 +113,20 @@
     "cfpEndDate": "2025-10-31"
   },
   {
+    "name": "CONFidence",
+    "url": "https://confidence-conference.org/#contact",
+    "startDate": "2026-05-25",
+    "endDate": "2026-05-26",
+    "city": "Kraków",
+    "country": "Poland",
+    "online": false,
+    "locales": "EN,PL",
+    "cocUrl": "https://confidence-conference.org/code-of-conduct/",
+    "cfpUrl": "https://confidence-conference.org/cfp-2026",
+    "cfpEndDate": "2026-03-15",
+    "twitter": "@CONFidenceConf"
+  },
+  {
     "name": "Unhacked 360 International Cybersecurity Conference",
     "url": "https://momentera.org/conferences/unhacked360conference",
     "startDate": "2026-06-15",
@@ -85,5 +137,54 @@
     "locales": "EN",
     "cfpUrl": "https://momentera.org",
     "cfpEndDate": "2026-06-08"
+  },
+  {
+    "name": "IT Security Summit Berlin",
+    "url": "https://it-security-summit.com/berlin",
+    "startDate": "2026-06-15",
+    "endDate": "2026-06-19",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN"
+  },
+  {
+    "name": "OWASP Global AppSec EU",
+    "url": "https://owasp.glueup.com/event/owasp-global-appsec-eu-2026-vienna-austria-162243",
+    "startDate": "2026-06-25",
+    "endDate": "2026-06-26",
+    "city": "Vienna",
+    "country": "Austria",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://owasp.glueup.com/event/owasp-global-appsec-eu-2026-vienna-austria-162243/code-of-conduct.html",
+    "cfpUrl": "https://sessionize.com/owasp-global-appsec-eu-2026-cfp-wash",
+    "cfpEndDate": "2026-02-03",
+    "twitter": "@AppSecEU"
+  },
+  {
+    "name": "AMTSO Cyber Research Conference",
+    "url": "https://www.amtso.org/special-events/amtso-cyber-research-conference-2026",
+    "startDate": "2026-10-20",
+    "endDate": "2026-10-21",
+    "city": "Brussels",
+    "country": "Belgium",
+    "online": false,
+    "locales": "EN",
+    "cfpUrl": "https://sessionize.com/amtso-cyber-research-conference-2026",
+    "cfpEndDate": "2026-03-31"
+  },
+  {
+    "name": "ESPC",
+    "url": "https://www.sharepointeurope.com",
+    "startDate": "2026-11-30",
+    "endDate": "2026-12-03",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.sharepointeurope.com/codeofconduct/",
+    "bluesky": "espccommunity.bsky.social",
+    "twitter": "@ESPC_Community"
   }
 ]
