@@ -97,5 +97,18 @@
     "cfpUrl": "https://tokyotestfest.com/en/cfp_2026/",
     "cfpEndDate": "2026-04-10",
     "twitter": "@tokyotestfest"
+  },
+  {
+    "name": "Agile Testing Days",
+    "url": "https://agiletestingdays.com",
+    "startDate": "2026-11-16",
+    "endDate": "2026-11-19",
+    "city": "Potsdam",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://agiletestingdays.com/code-of-conduct/",
+    "cfpUrl": "https://agiletestingdays.com/call-for-papers",
+    "cfpEndDate": "2026-03-29"
   }
 ]
