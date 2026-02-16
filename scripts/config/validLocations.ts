@@ -207,7 +207,7 @@ export const validLocations = {
     'New Zealand': ['Auckland', 'Wellington'],
     Nigeria: ['Lagos'],
     'North Macedonia': ['Skopje'],
-    Norway: ['Bergen', 'Kongsberg', 'Larvik', 'Oslo', 'Sandefjord', 'Skien'],
+    Norway: ['Bergen', 'Kongsberg', 'Larvik', 'Oslo', 'Sandefjord', 'Skien', 'Trondheim'],
     Panama: ['Panama City'],
     Peru: ['Arequipa', 'Lima'],
     Philippines: ['Bohol', 'Boracay Island', 'Cebu', 'Iloilo City', 'Makati', 'Manila'],
