@@ -186,6 +186,22 @@
     "twitter": "@AppSecEU"
   },
   {
+    "name": "BSides Edmonton",
+    "url": "https://www.bsidesedmonton.org",
+    "startDate": "2026-09-24",
+    "endDate": "2026-09-25",
+    "city": "Edmonton",
+    "country": "Canada",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.bsidesedmonton.org/coc",
+    "cfpUrl": "https://sessionize.com/bsides-edmonton-2026",
+    "cfpEndDate": "2026-05-31",
+    "bluesky": "bsidesedmonton.bsky.social",
+    "mastodon": "@bsidesedmonton@infosec.exchange",
+    "twitter": "@bsidesedmonton"
+  },
+  {
     "name": "AMTSO Cyber Research Conference",
     "url": "https://www.amtso.org/special-events/amtso-cyber-research-conference-2026",
     "startDate": "2026-10-20",
