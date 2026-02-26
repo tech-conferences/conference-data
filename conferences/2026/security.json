@@ -186,6 +186,16 @@
     "twitter": "@AppSecEU"
   },
   {
+    "name": "World Conference on  Smart Systems",
+    "url": "https://www.smartsystems.thesciencequest.org",
+    "startDate": "2026-09-17",
+    "endDate": "2026-09-19",
+    "city": "Tokyo",
+    "country": "Japan",
+    "online": false,
+    "locales": "EN"
+  },
+  {
     "name": "BSides Edmonton",
     "url": "https://www.bsidesedmonton.org",
     "startDate": "2026-09-24",
@@ -200,16 +210,6 @@
     "bluesky": "bsidesedmonton.bsky.social",
     "mastodon": "@bsidesedmonton@infosec.exchange",
     "twitter": "@bsidesedmonton"
-  },
-  {
-    "name": "World Conference on  Smart Systems",
-    "url": "https://www.smartsystems.thesciencequest.org",
-    "startDate": "2026-09-17",
-    "endDate": "2026-09-19",
-    "city": "Tokyo",
-    "country": "Japan",
-    "online": false,
-    "locales": "EN"
   },
   {
     "name": "AMTSO Cyber Research Conference",
