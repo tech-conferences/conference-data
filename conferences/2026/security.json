@@ -186,7 +186,7 @@
     "twitter": "@AppSecEU"
   },
   {
-    "name": "World Conference on  Smart Systems : Big Data, IoT, Cybersecurity, and IT in Action",
+    "name": "World Conference on  Smart Systems",
     "url": "https://www.smartsystems.thesciencequest.org",
     "startDate": "2026-09-17",
     "endDate": "2026-09-19",
@@ -194,6 +194,22 @@
     "country": "Japan",
     "online": false,
     "locales": "EN"
+  },
+  {
+    "name": "BSides Edmonton",
+    "url": "https://www.bsidesedmonton.org",
+    "startDate": "2026-09-24",
+    "endDate": "2026-09-25",
+    "city": "Edmonton",
+    "country": "Canada",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.bsidesedmonton.org/coc",
+    "cfpUrl": "https://sessionize.com/bsides-edmonton-2026",
+    "cfpEndDate": "2026-05-31",
+    "bluesky": "bsidesedmonton.bsky.social",
+    "mastodon": "@bsidesedmonton@infosec.exchange",
+    "twitter": "@bsidesedmonton"
   },
   {
     "name": "AMTSO Cyber Research Conference",
