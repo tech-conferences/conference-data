@@ -216,6 +216,19 @@
     "twitter": "@CloudNativeFdn"
   },
   {
+    "name": "CLC",
+    "url": "https://clc-conference.eu/index_en.php",
+    "startDate": "2026-11-11",
+    "endDate": "2026-11-12",
+    "city": "Mannheim",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN,DE",
+    "cocUrl": "https://clc-conference.eu/cfp_en.php",
+    "cfpUrl": "https://clc-conference.eu/cfp_en.php",
+    "cfpEndDate": "2026-04-21"
+  },
+  {
     "name": "IT-Tage",
     "url": "https://www.it-tage.org",
     "startDate": "2026-12-07",
