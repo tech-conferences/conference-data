@@ -49,6 +49,21 @@
     "cocUrl": "https://websummercamp.com/2026/code-of-conduct"
   },
   {
+    "name": "SciPy",
+    "url": "https://www.scipy2026.scipy.org/",
+    "startDate": "2026-07-13",
+    "endDate": "2026-07-19",
+    "city": "Minneapolis, MN",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://numfocus.org/code-of-conduct",
+    "cfpUrl": "https://pretalx.com/scipy-2026/cfp",
+    "cfpEndDate": "2026-02-25",
+    "bluesky": "scipyconf.bsky.social",
+    "mastodon": "@SciPyConf"
+  },
+  {
     "name": "Global Summit on Data Science and Cloud Computing",
     "url": "https://datascience.novelticsconferences.com",
     "startDate": "2026-10-19",

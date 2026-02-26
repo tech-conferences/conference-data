@@ -202,6 +202,16 @@
     "twitter": "@bsidesedmonton"
   },
   {
+    "name": "World Conference on  Smart Systems",
+    "url": "https://www.smartsystems.thesciencequest.org",
+    "startDate": "2026-09-17",
+    "endDate": "2026-09-19",
+    "city": "Tokyo",
+    "country": "Japan",
+    "online": false,
+    "locales": "EN"
+  },
+  {
     "name": "AMTSO Cyber Research Conference",
     "url": "https://www.amtso.org/special-events/amtso-cyber-research-conference-2026",
     "startDate": "2026-10-20",
@@ -212,6 +222,19 @@
     "locales": "EN",
     "cfpUrl": "https://sessionize.com/amtso-cyber-research-conference-2026",
     "cfpEndDate": "2026-03-31"
+  },
+  {
+    "name": "S2N: Storage Server Network",
+    "url": "https://s2n.heise.de",
+    "startDate": "2026-11-03",
+    "endDate": "2026-11-04",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "locales": "DE",
+    "cocUrl": "https://s2n.heise.de/code_of_conduct.php",
+    "cfpUrl": "https://s2n.heise.de/cfp.php",
+    "cfpEndDate": "2026-05-04"
   },
   {
     "name": "ESPC",

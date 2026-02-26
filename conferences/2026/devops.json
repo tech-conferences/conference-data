@@ -82,6 +82,16 @@
     "cfpEndDate": "2026-02-16"
   },
   {
+    "name": "Cyber Security & Cloud Congress",
+    "url": "https://www.cybersecuritycloudexpo.com/northamerica",
+    "startDate": "2026-05-18",
+    "endDate": "2026-05-19",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN"
+  },
+  {
     "name": "Test Coast",
     "url": "https://www.testcoast.se",
     "startDate": "2026-05-21",
@@ -214,6 +224,19 @@
     "locales": "EN",
     "cocUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/attend/code-of-conduct",
     "twitter": "@CloudNativeFdn"
+  },
+  {
+    "name": "CLC",
+    "url": "https://clc-conference.eu/index_en.php",
+    "startDate": "2026-11-11",
+    "endDate": "2026-11-12",
+    "city": "Mannheim",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN,DE",
+    "cocUrl": "https://clc-conference.eu/cfp_en.php",
+    "cfpUrl": "https://clc-conference.eu/cfp_en.php",
+    "cfpEndDate": "2026-04-21"
   },
   {
     "name": "IT-Tage",

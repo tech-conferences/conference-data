@@ -78,6 +78,15 @@
     "locales": "EN"
   },
   {
+    "name": "Sonar Summit",
+    "url": "https://events.sonarsource.com/the-sonar-summit",
+    "startDate": "2026-03-03",
+    "endDate": "2026-03-03",
+    "online": true,
+    "locales": "EN",
+    "twitter": "@SonarSource"
+  },
+  {
     "name": "Dutch AI Conference",
     "url": "https://aiconference.nl",
     "startDate": "2026-03-11",
@@ -200,6 +209,17 @@
     "locales": "EN"
   },
   {
+    "name": "Uphill Conf",
+    "url": "https://uphillconf.com",
+    "startDate": "2026-05-07",
+    "endDate": "2026-05-08",
+    "city": "Bern",
+    "country": "Switzerland",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://uphillconf.com/code-of-conduct/"
+  },
+  {
     "name": "MLcon London",
     "url": "https://mlconference.ai/london",
     "startDate": "2026-05-11",
@@ -222,6 +242,18 @@
     "cocUrl": "https://kcdtoronto.ca/code-of-conduct/",
     "cfpUrl": "https://sessionize.com/kcd-toronto-2026",
     "cfpEndDate": "2026-02-16"
+  },
+  {
+    "name": "TechEx North America",
+    "url": "https://techexevent.com/northamerica",
+    "startDate": "2026-05-18",
+    "endDate": "2026-05-19",
+    "city": "San Jose, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cfpUrl": "https://techexevent.com/register-now",
+    "cfpEndDate": "2026-05-17"
   },
   {
     "name": "PHP Tek",
@@ -466,6 +498,16 @@
     "endDate": "2026-09-16",
     "city": "Orlando, FL",
     "country": "U.S.A.",
+    "online": false,
+    "locales": "EN"
+  },
+  {
+    "name": "World Conference on  Smart Systems : Big Data, IoT, Cybersecurity, and IT in Action",
+    "url": "https://www.smartsystems.thesciencequest.org",
+    "startDate": "2026-09-17",
+    "endDate": "2026-09-19",
+    "city": "Tokyo",
+    "country": "Japan",
     "online": false,
     "locales": "EN"
   },
