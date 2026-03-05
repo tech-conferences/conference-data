@@ -39,6 +39,19 @@
     "twitter": "@BeJS_"
   },
   {
+    "name": "Scientists Research Awards",
+    "url": "https://scientistsresearch.com",
+    "startDate": "2026-03-27",
+    "endDate": "2026-03-28",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "online": false,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cfpUrl": "https://api.example.com/v1/cep/01001000",
+    "cfpEndDate": "2026-03-25"
+  },
+  {
     "name": "UX Rotterdam",
     "url": "https://uxrotterdam.com",
     "startDate": "2026-04-16",
