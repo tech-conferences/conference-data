@@ -188,6 +188,20 @@
     "cfpEndDate": "2026-05-31"
   },
   {
+    "name": "Joomla! World Conference",
+    "url": "https://conference.joomla.org",
+    "startDate": "2026-10-16",
+    "endDate": "2026-10-18",
+    "city": "Potsdam",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN,DE",
+    "cocUrl": "https://www.joomla.org/about-joomla/the-project/code-of-conduct.html",
+    "bluesky": "joomlaworldcon.bsky.social",
+    "mastodon": "@joomlaworldcon@joomla.social",
+    "twitter": "@jworldcon"
+  },
+  {
     "name": "Open Source Monitoring conference",
     "url": "https://osmc.de",
     "startDate": "2026-11-17",
