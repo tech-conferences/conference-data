@@ -263,6 +263,17 @@
     "twitter": "@thejsnation"
   },
   {
+    "name": "JSCraftCamp",
+    "url": "https://jscraftcamp.org",
+    "startDate": "2026-06-12",
+    "endDate": "2026-06-13",
+    "city": "Munich",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://jscraftcamp.org/values"
+  },
+  {
     "name": "React Summit",
     "url": "https://reactsummit.com",
     "startDate": "2026-06-12",
@@ -275,17 +286,6 @@
     "cfpUrl": "https://gitnation.com/events/react-summit-2026/cfp",
     "cfpEndDate": "2026-03-02",
     "twitter": "@ReactSummit"
-  },
-  {
-    "name": "JSCraftCamp",
-    "url": "https://jscraftcamp.org",
-    "startDate": "2026-06-12",
-    "endDate": "2026-06-13",
-    "city": "Munich",
-    "country": "Germany",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://jscraftcamp.org/values"
   },
   {
     "name": "enterJS",
