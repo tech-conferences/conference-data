@@ -27,6 +27,19 @@
     "twitter": "@nullcon"
   },
   {
+    "name": "[un]prompted | The AI Security Practitioner Conference",
+    "url": "https://unpromptedcon.org",
+    "startDate": "2026-03-03",
+    "endDate": "2026-03-04",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://unpromptedcon.org/code-of-conduct/",
+    "cfpUrl": "https://sessionize.com/unprompted-the-ai-security-practitio",
+    "cfpEndDate": "2026-01-28"
+  },
+  {
     "name": "Devnexus",
     "url": "https://devnexus.com",
     "startDate": "2026-03-04",
@@ -66,6 +79,17 @@
     "twitter": "@BSidesSF"
   },
   {
+    "name": "Node Congress",
+    "url": "https://nodecongress.com",
+    "startDate": "2026-03-26",
+    "endDate": "2026-03-27",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://gitnation.com/coc",
+    "cfpUrl": "https://gitnation.com/events/node-congress-2026/cfp",
+    "cfpEndDate": "2026-02-19"
+  },
+  {
     "name": "GISEC GLOBAL",
     "url": "https://gisec.ae",
     "startDate": "2026-05-05",
@@ -74,6 +98,15 @@
     "country": "United Arab Emirates",
     "online": false,
     "locales": "EN"
+  },
+  {
+    "name": "heise devSec KI und Security",
+    "url": "https://www.heise-devsec.de/ki.php",
+    "startDate": "2026-05-11",
+    "endDate": "2026-05-11",
+    "online": true,
+    "locales": "DE",
+    "cocUrl": "https://www.heise-devsec.de/code_of_conduct.php"
   },
   {
     "name": "Code Remix Summit",
@@ -87,6 +120,34 @@
     "cocUrl": "https://coderemix.ai/home/code_of_conduct",
     "cfpUrl": "https://sessionize.com/code-remix-summit-2026",
     "cfpEndDate": "2025-10-31"
+  },
+  {
+    "name": "CONFidence",
+    "url": "https://confidence-conference.org/#contact",
+    "startDate": "2026-05-25",
+    "endDate": "2026-05-26",
+    "city": "Kraków",
+    "country": "Poland",
+    "online": false,
+    "locales": "EN,PL",
+    "cocUrl": "https://confidence-conference.org/code-of-conduct/",
+    "cfpUrl": "https://confidence-conference.org/cfp-2026",
+    "cfpEndDate": "2026-03-15",
+    "twitter": "@CONFidenceConf"
+  },
+  {
+    "name": "The Diana Initiative",
+    "url": "https://www.dianainitiative.org",
+    "startDate": "2026-05-30",
+    "endDate": "2026-05-30",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.dianainitiative.org/about-us/policies/code-of-conduct",
+    "cfpUrl": "https://sessionize.com/tdi-online-2026",
+    "cfpEndDate": "2026-04-13",
+    "bluesky": "dianainitiative.bsky.social",
+    "mastodon": "@DianaInitiative@defcon.social",
+    "twitter": "@dianainitiative"
   },
   {
     "name": "Unhacked 360 International Cybersecurity Conference",
@@ -111,6 +172,67 @@
     "locales": "EN"
   },
   {
+    "name": "OWASP Global AppSec EU",
+    "url": "https://owasp.glueup.com/event/owasp-global-appsec-eu-2026-vienna-austria-162243",
+    "startDate": "2026-06-25",
+    "endDate": "2026-06-26",
+    "city": "Vienna",
+    "country": "Austria",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://owasp.glueup.com/event/owasp-global-appsec-eu-2026-vienna-austria-162243/code-of-conduct.html",
+    "cfpUrl": "https://sessionize.com/owasp-global-appsec-eu-2026-cfp-wash",
+    "cfpEndDate": "2026-02-03",
+    "twitter": "@AppSecEU"
+  },
+  {
+    "name": "World Conference on  Smart Systems : Big Data, IoT, Cybersecurity, and IT in Action",
+    "url": "https://www.smartsystems.thesciencequest.org",
+    "startDate": "2026-09-17",
+    "endDate": "2026-09-19",
+    "city": "Tokyo",
+    "country": "Japan",
+    "online": false,
+    "locales": "EN"
+  },
+  {
+    "name": "heise devSec",
+    "url": "https://heise-devsec.de/cfp.php",
+    "startDate": "2026-09-22",
+    "endDate": "2026-09-23",
+    "city": "Marburg",
+    "country": "Germany",
+    "online": false,
+    "locales": "DE",
+    "cfpUrl": "https://heise-devsec.de/code_of_conduct.php",
+    "cfpEndDate": "2026-04-14"
+  },
+  {
+    "name": "AMTSO Cyber Research Conference",
+    "url": "https://www.amtso.org/special-events/amtso-cyber-research-conference-2026",
+    "startDate": "2026-10-20",
+    "endDate": "2026-10-21",
+    "city": "Brussels",
+    "country": "Belgium",
+    "online": false,
+    "locales": "EN",
+    "cfpUrl": "https://sessionize.com/amtso-cyber-research-conference-2026",
+    "cfpEndDate": "2026-03-31"
+  },
+  {
+    "name": "S2N: Storage Server Network",
+    "url": "https://s2n.heise.de",
+    "startDate": "2026-11-03",
+    "endDate": "2026-11-04",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "locales": "DE",
+    "cocUrl": "https://s2n.heise.de/code_of_conduct.php",
+    "cfpUrl": "https://s2n.heise.de/cfp.php",
+    "cfpEndDate": "2026-05-04"
+  },
+  {
     "name": "ESPC",
     "url": "https://www.sharepointeurope.com",
     "startDate": "2026-11-30",
@@ -122,5 +244,18 @@
     "cocUrl": "https://www.sharepointeurope.com/codeofconduct/",
     "bluesky": "espccommunity.bsky.social",
     "twitter": "@ESPC_Community"
+  },
+  {
+    "name": "IT-Tage",
+    "url": "https://www.it-tage.org",
+    "startDate": "2026-12-07",
+    "endDate": "2026-12-10",
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "online": false,
+    "locales": "DE",
+    "cocUrl": "https://www.ittage.informatik-aktuell.de/konferenz/code-of-conduct.html",
+    "cfpUrl": "https://www.ittage.informatik-aktuell.de/index.html",
+    "cfpEndDate": "2026-04-30"
   }
 ]

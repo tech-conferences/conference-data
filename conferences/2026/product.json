@@ -1,5 +1,17 @@
 [
   {
+    "name": "ProductWorld",
+    "url": "https://productworld.co",
+    "startDate": "2026-02-18",
+    "endDate": "2026-02-20",
+    "city": "San Jose, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
+    "twitter": "@DevNetwork_"
+  },
+  {
     "name": "UX Rotterdam",
     "url": "https://uxrotterdam.com",
     "startDate": "2026-04-16",
@@ -21,5 +33,33 @@
     "online": false,
     "locales": "EN",
     "cocUrl": "https://www.mindtheproduct.com/mtpcon/london/terms/"
+  },
+  {
+    "name": "uxcon vienna",
+    "url": "https://www.uxcon.io",
+    "startDate": "2026-09-16",
+    "endDate": "2026-09-17",
+    "city": "Vienna",
+    "country": "Austria",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.uxcon.io/community-etiquette",
+    "cfpUrl": "https://forms.cloud.microsoft/e/UJpffgFHP8",
+    "cfpEndDate": "2026-02-15"
+  },
+  {
+    "name": "Wey Wey Web",
+    "url": "https://weyweyweb.com",
+    "startDate": "2026-10-29",
+    "endDate": "2026-10-30",
+    "city": "Malaga",
+    "country": "Spain",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://berlincodeofconduct.org/en",
+    "cfpUrl": "https://confeti.app/events/weyweyweb-2026",
+    "cfpEndDate": "2026-03-31",
+    "bluesky": "weyweyweb.bsky.social",
+    "twitter": "@WeyWeyWeb"
   }
 ]

@@ -1,0 +1,23 @@
+name: Comment on non-dev conference
+
+on:
+    pull_request:
+        types: [labeled]
+
+jobs:
+    comment-on-label:
+        runs-on: ubuntu-latest
+        if: github.event.label.name == 'non-dev-related'
+
+        steps:
+            - name: Add comment for non-dev-related label
+              uses: actions/github-script@v8
+              with:
+                  github-token: ${{ github.token }}
+                  script: |
+                      await github.rest.issues.createComment({
+                        issue_number: context.issue.number,
+                        owner: context.repo.owner,
+                        repo: context.repo.repo,
+                        body: 'This PR appears to add a non-dev-related conference and therefore, this event is out of scope of confs.tech. If you believe this is an error, please let us know. Thank you!'
+                      });

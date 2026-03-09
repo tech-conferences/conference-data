@@ -12,6 +12,15 @@
     "cfpUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/cfp"
   },
   {
+    "name": "Mastering Observability",
+    "url": "https://www.mastering-obs.de/index.php",
+    "startDate": "2026-04-16",
+    "endDate": "2026-04-16",
+    "online": true,
+    "locales": "DE",
+    "cocUrl": "https://www.mastering-obs.de/code_of_conduct.php"
+  },
+  {
     "name": "DevOpsCon Amsterdam",
     "url": "https://devopscon.io/amsterdam",
     "startDate": "2026-04-20",
@@ -60,6 +69,29 @@
     "twitter": "@devops_con"
   },
   {
+    "name": "KCD Toronto",
+    "url": "https://kcdtoronto.ca",
+    "startDate": "2026-05-13",
+    "endDate": "2026-05-13",
+    "city": "Toronto",
+    "country": "Canada",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://kcdtoronto.ca/code-of-conduct/",
+    "cfpUrl": "https://sessionize.com/kcd-toronto-2026",
+    "cfpEndDate": "2026-02-16"
+  },
+  {
+    "name": "Cyber Security & Cloud Congress",
+    "url": "https://www.cybersecuritycloudexpo.com/northamerica",
+    "startDate": "2026-05-18",
+    "endDate": "2026-05-19",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN"
+  },
+  {
     "name": "Test Coast",
     "url": "https://www.testcoast.se",
     "startDate": "2026-05-21",
@@ -70,6 +102,18 @@
     "locales": "EN",
     "cfpUrl": "https://www.testcoast.se/#cfp",
     "cfpEndDate": "2026-01-07"
+  },
+  {
+    "name": "UXDX EMEA",
+    "url": "https://uxdx.com/berlin/2026",
+    "startDate": "2026-05-27",
+    "endDate": "2026-05-29",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://uxdx.com/code-of-conduct/",
+    "bluesky": "uxdx.com"
   },
   {
     "name": "DevOpsCon San Diego",
@@ -83,6 +127,20 @@
     "cocUrl": "https://devopscon.io/code-of-conduct/",
     "bluesky": "devopscon.bluesky",
     "twitter": "@devops_con"
+  },
+  {
+    "name": "Rock and React > React Norway",
+    "url": "https://reactnorway.com",
+    "startDate": "2026-06-05",
+    "endDate": "2026-06-05",
+    "city": "Oslo",
+    "country": "Norway",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://berlincodeofconduct.org/en",
+    "cfpUrl": "https://forms.gle/pzQpippVee82GLuQ9",
+    "cfpEndDate": "2026-01-15",
+    "twitter": "@ReactNorway"
   },
   {
     "name": "Berlin Buzzwords",
@@ -123,6 +181,39 @@
     "twitter": "@devops_con"
   },
   {
+    "name": "Mastering GitOps",
+    "url": "https://www.mastering-gitops.de",
+    "startDate": "2026-06-25",
+    "endDate": "2026-06-25",
+    "online": true,
+    "locales": "DE",
+    "cocUrl": "https://www.mastering-gitops.de/code_of_conduct.php"
+  },
+  {
+    "name": "DevOpsDays Graz",
+    "url": "https://www.devopsdays.at",
+    "startDate": "2026-09-04",
+    "endDate": "2026-09-05",
+    "city": "Graz",
+    "country": "Austria",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://devopsdays.org/conduct/",
+    "cfpUrl": "https://pretalx.com/devopsdays-graz-2026/cfp",
+    "cfpEndDate": "2026-04-30"
+  },
+  {
+    "name": "Devopsdays Berlin",
+    "url": "https://devopsdays.org/events/2026-berlin/welcome",
+    "startDate": "2026-09-29",
+    "endDate": "2026-09-30",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://devopsdays.org/conduct/"
+  },
+  {
     "name": "KubeCon + CloudNativeCon North America",
     "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026",
     "startDate": "2026-10-26",
@@ -133,5 +224,31 @@
     "locales": "EN",
     "cocUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/attend/code-of-conduct",
     "twitter": "@CloudNativeFdn"
+  },
+  {
+    "name": "CLC",
+    "url": "https://clc-conference.eu/index_en.php",
+    "startDate": "2026-11-11",
+    "endDate": "2026-11-12",
+    "city": "Mannheim",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN,DE",
+    "cocUrl": "https://clc-conference.eu/cfp_en.php",
+    "cfpUrl": "https://clc-conference.eu/cfp_en.php",
+    "cfpEndDate": "2026-04-21"
+  },
+  {
+    "name": "IT-Tage",
+    "url": "https://www.it-tage.org",
+    "startDate": "2026-12-07",
+    "endDate": "2026-12-10",
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "online": false,
+    "locales": "DE",
+    "cocUrl": "https://www.ittage.informatik-aktuell.de/konferenz/code-of-conduct.html",
+    "cfpUrl": "https://www.ittage.informatik-aktuell.de/index.html",
+    "cfpEndDate": "2026-04-30"
   }
 ]

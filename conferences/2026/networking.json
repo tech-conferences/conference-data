@@ -1,5 +1,19 @@
 [
   {
+    "name": "CERN PGDay",
+    "url": "https://www.swisspug.org/cern-pgday-2026.html",
+    "startDate": "2026-02-06",
+    "endDate": "2026-02-06",
+    "city": "Geneva",
+    "country": "Switzerland",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.postgresql.org/about/policies/coc/",
+    "cfpUrl": "https://indico.cern.ch/event/1504097/abstracts",
+    "cfpEndDate": "2025-12-07",
+    "mastodon": "@swisspug@fosstodon.org"
+  },
+  {
     "name": "CTO Craft Con: London",
     "url": "https://conference.ctocraft.com/london-2026",
     "startDate": "2026-03-10",
@@ -51,16 +65,18 @@
     "twitter": "@ocxconference"
   },
   {
-    "name": "European Power Platform Conference",
-    "url": "https://www.sharepointeurope.com/european-power-platform-conference",
-    "startDate": "2026-06-01",
-    "endDate": "2026-06-04",
-    "city": "Copenhagen",
-    "country": "Denmark",
+    "name": "CONFidence",
+    "url": "https://confidence-conference.org/#contact",
+    "startDate": "2026-05-25",
+    "endDate": "2026-05-26",
+    "city": "Kraków",
+    "country": "Poland",
     "online": false,
-    "locales": "EN",
-    "bluesky": "powerplatformeu.bsky.social",
-    "twitter": "@EuropeanPPC"
+    "locales": "EN,PL",
+    "cocUrl": "https://confidence-conference.org/code-of-conduct/",
+    "cfpUrl": "https://confidence-conference.org/cfp-2026",
+    "cfpEndDate": "2026-03-15",
+    "twitter": "@CONFidenceConf"
   },
   {
     "name": "LDX3 London",
@@ -143,6 +159,19 @@
     "country": "U.S.A.",
     "online": false,
     "locales": "EN"
+  },
+  {
+    "name": "The European Power Platform Conference",
+    "url": "https://www.sharepointeurope.com/european-power-platform-conference",
+    "startDate": "2026-06-29",
+    "endDate": "2026-07-02",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.sharepointeurope.com/european-power-platform-conference/booking-terms-conditions/",
+    "bluesky": "powerplatformeu.bsky.social",
+    "twitter": "@EuropeanPPC"
   },
   {
     "name": "LDX3 New York",

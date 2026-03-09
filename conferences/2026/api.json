@@ -1,5 +1,14 @@
 [
   {
+    "name": "Software Architecture AI Day",
+    "url": "https://softwarearchitecture4ai-day.com",
+    "startDate": "2026-03-10",
+    "endDate": "2026-03-10",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://softwarearchitecture4ai-day.com/code-of-conduct/"
+  },
+  {
     "name": "Spring I/O",
     "url": "https://2026.springio.net",
     "startDate": "2026-04-13",
@@ -53,6 +62,17 @@
     "twitter": "@phptek"
   },
   {
+    "name": "MAD Summit",
+    "url": "https://mad-summit.de/muenchen",
+    "startDate": "2026-06-22",
+    "endDate": "2026-06-26",
+    "city": "Munich",
+    "country": "Germany",
+    "online": false,
+    "locales": "DE",
+    "twitter": "@mad_summit"
+  },
+  {
     "name": "UberConf",
     "url": "https://uberconf.com",
     "startDate": "2026-07-14",
@@ -63,6 +83,26 @@
     "locales": "EN",
     "cocUrl": "https://uberconf.com/home/code_of_conduct",
     "twitter": "@nofluff"
+  },
+  {
+    "name": "The Nordic APIs UnConference",
+    "url": "https://nordicapis.com/events/napis-unconference-2026",
+    "startDate": "2026-10-12",
+    "endDate": "2026-10-12",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "online": false,
+    "locales": "EN"
+  },
+  {
+    "name": "Platform Summit",
+    "url": "https://nordicapis.com/events/platform-summit-2026",
+    "startDate": "2026-10-13",
+    "endDate": "2026-10-14",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "online": false,
+    "locales": "EN"
   },
   {
     "name": "APIConf",
