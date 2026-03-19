@@ -15,21 +15,6 @@
     "mastodon": "@apidaysglobal@mastodon.social"
   },
   {
-    "name": "GraphQLConf",
-    "url": "https://graphql.org/conf/2026",
-    "startDate": "2026-05-19",
-    "endDate": "2026-05-20",
-    "city": "Menlo Park, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "locales": "EN",
-    "cocUrl": "https://graphql.org/conf/2026/code-of-conduct/",
-    "cfpUrl": "https://sessionize.com/graphqlconf-2026/",
-    "cfpEndDate": "2026-02-11",
-    "twitter": "@graphql",
-    "bluesky": "@graphql.org"
-  },
-  {
     "name": "Apidays New York",
     "url": "https://www.apidays.global/new-york",
     "startDate": "2026-05-13",
@@ -43,6 +28,21 @@
     "cfpEndDate": "2026-05-12",
     "twitter": "@APIdaysGlobal",
     "mastodon": "@apidaysglobal@mastodon.social"
+  },
+  {
+    "name": "GraphQLConf",
+    "url": "https://graphql.org/conf/2026",
+    "startDate": "2026-05-19",
+    "endDate": "2026-05-20",
+    "city": "Menlo Park, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://graphql.org/conf/2026/code-of-conduct/",
+    "cfpUrl": "https://sessionize.com/graphqlconf-2026/",
+    "cfpEndDate": "2026-02-11",
+    "twitter": "@graphql",
+    "bluesky": "@graphql.org"
   },
   {
     "name": "DevConf.CZ",
