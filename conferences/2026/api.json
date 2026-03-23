@@ -105,6 +105,17 @@
     "locales": "EN"
   },
   {
+    "name": "API Conference Berlin",
+    "url": "https://apiconference.net/berlin",
+    "startDate": "2026-11-23",
+    "endDate": "2026-11-27",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "twitter": "@api_conference"
+  },
+  {
     "name": "APIConf",
     "url": "https://apiconf.io",
     "startDate": "2026-11-30",
