@@ -125,5 +125,16 @@
     "online": true,
     "locales": "EN",
     "cocUrl": "https://apiconf.io/home/code_of_conduct"
+  },
+  {
+    "name": "DevOpsCon Munich",
+    "url": "https://devopscon.io/munich",
+    "startDate": "2026-11-30",
+    "endDate": "2026-12-04",
+    "city": "Munich",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "twitter": "@devops_con"
   }
 ]
