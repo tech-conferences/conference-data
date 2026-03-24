@@ -292,5 +292,16 @@
     "cocUrl": "https://techaiconf.com/awards",
     "cfpUrl": "https://techaiconf.com/register-interest",
     "cfpEndDate": "2026-10-09"
+  },
+  {
+    "name": "flutterCon India",
+    "url": "https://india.fluttercon.dev",
+    "startDate": "2026-11-21",
+    "endDate": "2026-11-21",
+    "city": "Bangalore",
+    "country": "India",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://india.fluttercon.dev/code-of-conduct-fluttercon-india"
   }
 ]
