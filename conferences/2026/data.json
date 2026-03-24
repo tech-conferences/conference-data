@@ -167,6 +167,19 @@
     "cfpEndDate": "2025-11-23"
   },
   {
+    "name": "7th International Conference on NLP & Information Retrieval",
+    "url": "https://csitec2026.org/nlpi/index",
+    "startDate": "2026-04-25",
+    "endDate": "2026-04-26",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://csitec2026.org/nlpi/contact",
+    "cfpUrl": "https://csitec2026.org/nlpi/index#scope",
+    "cfpEndDate": "2026-02-14"
+  },
+  {
     "name": "Azure Cosmos DB Conf",
     "url": "https://developer.azurecosmosdb.com/conf/",
     "startDate": "2026-04-28",
@@ -480,6 +493,15 @@
     "locales": "EN"
   },
   {
+    "name": "inside agile: Product Owner AI Day",
+    "url": "https://ai.pod.inside-agile.de",
+    "startDate": "2026-07-09",
+    "endDate": "2026-07-09",
+    "online": true,
+    "locales": "DE",
+    "cocUrl": "https://ai.pod.inside-agile.de/code_of_conduct.php"
+  },
+  {
     "name": "UberConf",
     "url": "https://uberconf.com",
     "startDate": "2026-07-14",
@@ -577,6 +599,19 @@
     "cocUrl": "https://theconf.ai/code-of-conduct",
     "cfpUrl": "https://theconf.ai/call-for-papers",
     "cfpEndDate": "2026-09-30"
+  },
+  {
+    "name": "WeAreDevelopers Conference India",
+    "url": "https://www.wearedevelopers.com/conference-india",
+    "startDate": "2026-11-25",
+    "endDate": "2026-11-26",
+    "city": "Bengaluru",
+    "country": "India",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.wearedevelopers.com/about/legal/code-of-conduct",
+    "cfpUrl": "https://sessionize.com/wearedevelopers-conference-2026-india",
+    "cfpEndDate": "2026-07-24"
   },
   {
     "name": "ESPC",
