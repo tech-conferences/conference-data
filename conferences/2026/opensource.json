@@ -95,6 +95,17 @@
     "cocUrl": "https://events.drupal.org/code-conduct"
   },
   {
+    "name": "OpenChain and Friends Stuttgart",
+    "url": "https://openchainproject.org/news/2026/03/03/openchain-and-friends-stuttgart-2026",
+    "startDate": "2026-03-24",
+    "endDate": "2026-03-26",
+    "city": "Stuttgart",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://github.com/Open-Source-Compliance/Sharing-creates-value/blob/openchain_and_friends_2026_prep/Events/OpenChainAndFriends26/event_code_of_conduct.md"
+  },
+  {
     "name": "Open Community Experience (OCX)",
     "url": "https://www.ocxconf.org",
     "startDate": "2026-04-21",
@@ -186,6 +197,20 @@
     "cocUrl": "https://opentechday.de/code-of-conduct/",
     "cfpUrl": "https://opentechday.de/propose",
     "cfpEndDate": "2026-05-31"
+  },
+  {
+    "name": "Joomla! World Conference",
+    "url": "https://conference.joomla.org",
+    "startDate": "2026-10-16",
+    "endDate": "2026-10-18",
+    "city": "Potsdam",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN,DE",
+    "cocUrl": "https://www.joomla.org/about-joomla/the-project/code-of-conduct.html",
+    "bluesky": "joomlaworldcon.bsky.social",
+    "mastodon": "@joomlaworldcon@joomla.social",
+    "twitter": "@jworldcon"
   },
   {
     "name": "Open Source Monitoring conference",
