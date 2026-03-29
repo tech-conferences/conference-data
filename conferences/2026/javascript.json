@@ -323,5 +323,17 @@
     "country": "Germany",
     "online": true,
     "locales": "DE"
+  },
+  {
+    "name": "XtremeJS Online Conference",
+    "url": "https://xtremejs.dev",
+    "startDate": "2026-11-10",
+    "endDate": "2026-11-10",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "http://www.zindell.com/documents/codeofconduct.pdf",
+    "cfpUrl": "https://tinyurl.com/xtreme2026",
+    "cfpEndDate": "2026-07-10",
+    "twitter": "@xtremejsconf"
   }
 ]
