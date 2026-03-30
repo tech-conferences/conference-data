@@ -323,5 +323,15 @@
     "country": "Germany",
     "online": true,
     "locales": "DE"
+  },
+  {
+    "name": "JavaScript Bootcamp | Oktober, Berlin",
+    "url": "https://javascript-days.de/berlin/javascript-bootcamp",
+    "startDate": "2026-10-15",
+    "endDate": "2026-10-16",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "locales": "DE"
   }
 ]
