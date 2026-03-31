@@ -13,6 +13,18 @@
     "bluesky": "conveyux.bsky.social"
   },
   {
+    "name": "SmashingConf Amsterdam",
+    "url": "https://smashingconf.com/amsterdam-2026",
+    "startDate": "2026-04-13",
+    "endDate": "2026-04-16",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://smashingconf.com/codeofconduct",
+    "bluesky": "smashingconf.com"
+  },
+  {
     "name": "UX Rotterdam",
     "url": "https://uxrotterdam.com",
     "startDate": "2026-04-16",
@@ -36,6 +48,15 @@
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeAwx-Xt73X0vK_fa5bG4vb2y6aHswQUFX6W11lQ7ncVjYmEw/viewform",
     "cfpEndDate": "2025-12-31",
     "twitter": "@uxlx"
+  },
+  {
+    "name": "Prompt to Product",
+    "url": "https://prompttoproduct.ai",
+    "startDate": "2026-05-18",
+    "endDate": "2026-05-22",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://prompttoproduct.ai/legal/terms"
   },
   {
     "name": "UXDX EMEA",
