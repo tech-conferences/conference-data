@@ -210,6 +210,20 @@
     "mastodon": "@berlinbuzzwords@floss.social"
   },
   {
+    "name": "Web Engineering Summit",
+    "url": "https://webengineeringsummit.com",
+    "startDate": "2026-06-11",
+    "endDate": "2026-06-15",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://gitnation.com/coc",
+    "cfpUrl": "https://gitnation.com/events/web-engineering-summit-2026/cfp",
+    "cfpEndDate": "2026-03-30",
+    "twitter": "@GitNation.Org"
+  },
+  {
     "name": "Open Tech Day: Software-defined Storage",
     "url": "https://opentechday.de",
     "startDate": "2026-10-01",
