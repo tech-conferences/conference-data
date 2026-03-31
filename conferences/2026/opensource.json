@@ -144,6 +144,19 @@
     "cocUrl": "https://stackconf.eu/code-of-conduct/"
   },
   {
+    "name": "Replay: The Durable Execution Conference for Agentic AI",
+    "url": "https://replay.temporal.io",
+    "startDate": "2026-05-05",
+    "endDate": "2026-05-07",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://temporal.io/code-of-conduct",
+    "bluesky": "temporal.io",
+    "twitter": "@temporalio"
+  },
+  {
     "name": "Unlocked Seattle",
     "url": "https://unlockedconf.io",
     "startDate": "2026-05-07",
@@ -209,6 +222,20 @@
     "cocUrl": "https://opentechday.de/code-of-conduct/",
     "cfpUrl": "https://opentechday.de/propose",
     "cfpEndDate": "2026-05-31"
+  },
+  {
+    "name": "Joomla! World Conference",
+    "url": "https://conference.joomla.org",
+    "startDate": "2026-10-16",
+    "endDate": "2026-10-18",
+    "city": "Potsdam",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN,DE",
+    "cocUrl": "https://www.joomla.org/about-joomla/the-project/code-of-conduct.html",
+    "bluesky": "joomlaworldcon.bsky.social",
+    "mastodon": "@joomlaworldcon@joomla.social",
+    "twitter": "@jworldcon"
   },
   {
     "name": "Open Source Monitoring conference",

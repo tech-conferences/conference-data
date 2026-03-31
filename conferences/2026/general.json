@@ -195,6 +195,18 @@
     "locales": "EN"
   },
   {
+    "name": "TechTok",
+    "url": "https://www.techtok.mt",
+    "startDate": "2026-09-16",
+    "endDate": "2026-09-16",
+    "city": "St Julian's",
+    "country": "Malta",
+    "online": false,
+    "locales": "EN",
+    "cfpUrl": "https://www.techtok.mt/call-for-speakers",
+    "cfpEndDate": "2026-04-10"
+  },
+  {
     "name": "WeAreDevelopers World Congress North America",
     "url": "https://www.wearedevelopers.com/world-congress-us",
     "startDate": "2026-09-23",
@@ -226,6 +238,18 @@
     "country": "Germany",
     "online": false,
     "locales": "DE"
+  },
+  {
+    "name": "The ACS/IEEE 23rd International Conference on Computer Systems and Applications",
+    "url": "https://aiccsa.net/AICCSA2026",
+    "startDate": "2026-10-26",
+    "endDate": "2026-10-29",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "online": false,
+    "locales": "EN",
+    "cfpUrl": "https://aiccsa.net/AICCSA2026/calls.php",
+    "cfpEndDate": "2026-05-30"
   },
   {
     "name": "Lambda World",
@@ -280,5 +304,16 @@
     "cocUrl": "https://techaiconf.com/awards",
     "cfpUrl": "https://techaiconf.com/register-interest",
     "cfpEndDate": "2026-10-09"
+  },
+  {
+    "name": "flutterCon India",
+    "url": "https://india.fluttercon.dev",
+    "startDate": "2026-11-21",
+    "endDate": "2026-11-21",
+    "city": "Bangalore",
+    "country": "India",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://india.fluttercon.dev/code-of-conduct-fluttercon-india"
   }
 ]
