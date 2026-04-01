@@ -45,6 +45,19 @@
     "twitter": "@ocxconference"
   },
   {
+    "name": "Replay: The Durable Execution Conference for Agentic AI",
+    "url": "https://replay.temporal.io",
+    "startDate": "2026-05-05",
+    "endDate": "2026-05-07",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://temporal.io/code-of-conduct",
+    "bluesky": "temporal.io",
+    "twitter": "@temporalio"
+  },
+  {
     "name": "Code Remix Summit",
     "url": "https://coderemix.ai",
     "startDate": "2026-05-11",
@@ -201,6 +214,19 @@
     "cocUrl": "https://www.mastering-gitops.de/code_of_conduct.php"
   },
   {
+    "name": "Asynconf",
+    "url": "https://asynconf.com",
+    "startDate": "2026-06-27",
+    "endDate": "2026-06-27",
+    "city": "Paris",
+    "country": "France",
+    "online": true,
+    "locales": "FR",
+    "cfpUrl": "https://cfp.asynconf.com",
+    "cfpEndDate": "2026-04-30",
+    "twitter": "@AsynconfEvenet"
+  },
+  {
     "name": "DevOpsDays Graz",
     "url": "https://www.devopsdays.at",
     "startDate": "2026-09-04",
@@ -223,6 +249,18 @@
     "online": false,
     "locales": "EN",
     "cocUrl": "https://devopsdays.org/conduct/"
+  },
+  {
+    "name": "TechSummit Amsterdam",
+    "url": "https://techsummit.io",
+    "startDate": "2026-09-30",
+    "endDate": "2026-09-30",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "locales": "EN",
+    "cfpUrl": "https://pretalx.com/techsummit-2026/cfp",
+    "cfpEndDate": "2026-05-15"
   },
   {
     "name": "KubeCon + CloudNativeCon North America",

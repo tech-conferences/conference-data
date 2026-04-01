@@ -144,6 +144,31 @@
     "cocUrl": "https://stackconf.eu/code-of-conduct/"
   },
   {
+    "name": "Replay: The Durable Execution Conference for Agentic AI",
+    "url": "https://replay.temporal.io",
+    "startDate": "2026-05-05",
+    "endDate": "2026-05-07",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://temporal.io/code-of-conduct",
+    "bluesky": "temporal.io",
+    "twitter": "@temporalio"
+  },
+  {
+    "name": "Unlocked Seattle",
+    "url": "https://unlockedconf.io",
+    "startDate": "2026-05-07",
+    "endDate": "2026-05-07",
+    "city": "Seattle, WA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cfpUrl": "https://www.unlockedconf.io/call-for-speakers",
+    "cfpEndDate": "2026-04-17"
+  },
+  {
     "name": "KCD Toronto",
     "url": "https://kcdtoronto.ca",
     "startDate": "2026-05-13",
@@ -185,6 +210,20 @@
     "mastodon": "@berlinbuzzwords@floss.social"
   },
   {
+    "name": "Web Engineering Summit",
+    "url": "https://webengineeringsummit.com",
+    "startDate": "2026-06-11",
+    "endDate": "2026-06-15",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://gitnation.com/coc",
+    "cfpUrl": "https://gitnation.com/events/web-engineering-summit-2026/cfp",
+    "cfpEndDate": "2026-03-30",
+    "twitter": "@GitNation.Org"
+  },
+  {
     "name": "Open Tech Day: Software-defined Storage",
     "url": "https://opentechday.de",
     "startDate": "2026-10-01",
@@ -197,6 +236,20 @@
     "cocUrl": "https://opentechday.de/code-of-conduct/",
     "cfpUrl": "https://opentechday.de/propose",
     "cfpEndDate": "2026-05-31"
+  },
+  {
+    "name": "Joomla! World Conference",
+    "url": "https://conference.joomla.org",
+    "startDate": "2026-10-16",
+    "endDate": "2026-10-18",
+    "city": "Potsdam",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN,DE",
+    "cocUrl": "https://www.joomla.org/about-joomla/the-project/code-of-conduct.html",
+    "bluesky": "joomlaworldcon.bsky.social",
+    "mastodon": "@joomlaworldcon@joomla.social",
+    "twitter": "@jworldcon"
   },
   {
     "name": "Open Source Monitoring conference",
