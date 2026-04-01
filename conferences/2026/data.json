@@ -608,6 +608,18 @@
     "cfpEndDate": "2026-04-15"
   },
   {
+    "name": "Software Architecture Summit",
+    "url": "https://software-architecture-summit.de/berlin",
+    "startDate": "2026-10-12",
+    "endDate": "2026-10-16",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "locales": "DE",
+    "bluesky": "softwarearchsummit.bsky.social",
+    "twitter": "@SoftwArchSummit"
+  },
+  {
     "name": "Global Summit on Data Science and Cloud Computing",
     "url": "https://datascience.novelticsconferences.com",
     "startDate": "2026-10-19",
