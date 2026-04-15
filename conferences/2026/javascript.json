@@ -350,5 +350,19 @@
     "cfpUrl": "https://gitnation.com/events/react-advanced-2026/cfp",
     "cfpEndDate": "2026-05-24",
     "twitter": "@ReactAdvanced"
+  },
+  {
+    "name": "React Day Berlin",
+    "url": "https://reactday.berlin",
+    "startDate": "2026-12-04",
+    "endDate": "2026-12-07",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://gitnation.com/coc",
+    "cfpUrl": "https://gitnation.com/events/react-day-berlin-2026/cfp",
+    "cfpEndDate": "2026-08-12",
+    "twitter": "@reactdayberlin"
   }
 ]
