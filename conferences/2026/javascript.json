@@ -368,6 +368,21 @@
     "locales": "DE"
   },
   {
+    "name": "CityJS Conference Athens",
+    "url": "https://athens.cityjsconf.org",
+    "startDate": "2026-10-21",
+    "endDate": "2026-10-23",
+    "city": "Athens",
+    "country": "Greece",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://athens.cityjsconf.org/coc",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSejZUdKqdZo0fZtcqDEWOqkhTGgsnXx5KJOo5flW2E-Ej2a2A/viewform",
+    "cfpEndDate": "2026-06-30",
+    "bluesky": "cityjsconf.bsky.social",
+    "twitter": "@cityjsconf"
+  },
+  {
     "name": "React Advanced",
     "url": "https://reactadvanced.com",
     "startDate": "2026-10-23",
