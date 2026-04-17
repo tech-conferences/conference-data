@@ -76,5 +76,17 @@
     "cfpUrl": "https://datascience.novelticsconferences.com/register",
     "cfpEndDate": "2026-10-15",
     "twitter": "@Novelticsgroup"
+  },
+  {
+    "name": "XtremePython Online Conference",
+    "url": "https://xtremepython.dev",
+    "startDate": "2026-11-17",
+    "endDate": "2026-11-17",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "http://www.zindell.com/documents/codeofconduct.pdf",
+    "cfpUrl": "http://www.zindell.com/documents/codeofconduct.pdf",
+    "cfpEndDate": "2026-07-10",
+    "twitter": "@xtremepython"
   }
 ]
