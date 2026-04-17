@@ -172,6 +172,17 @@
     "locales": "EN"
   },
   {
+    "name": "Software Architecture Forum",
+    "url": "https://conferences.isaqb.org/software-architecture-forum",
+    "startDate": "2026-06-16",
+    "endDate": "2026-06-17",
+    "city": "Munich",
+    "country": "Germany",
+    "online": false,
+    "locales": "DE",
+    "cocUrl": "https://conferences.isaqb.org/software-architecture-forum/code-of-conduct/"
+  },
+  {
     "name": "OWASP Global AppSec EU",
     "url": "https://owasp.glueup.com/event/owasp-global-appsec-eu-2026-vienna-austria-162243",
     "startDate": "2026-06-25",
@@ -219,6 +230,18 @@
     "twitter": "@api_conference"
   },
   {
+    "name": "TechSummit Amsterdam",
+    "url": "https://techsummit.io",
+    "startDate": "2026-09-30",
+    "endDate": "2026-09-30",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "locales": "EN",
+    "cfpUrl": "https://pretalx.com/techsummit-2026/cfp",
+    "cfpEndDate": "2026-05-15"
+  },
+  {
     "name": "AMTSO Cyber Research Conference",
     "url": "https://www.amtso.org/special-events/amtso-cyber-research-conference-2026",
     "startDate": "2026-10-20",
@@ -242,6 +265,17 @@
     "cocUrl": "https://s2n.heise.de/code_of_conduct.php",
     "cfpUrl": "https://s2n.heise.de/cfp.php",
     "cfpEndDate": "2026-05-04"
+  },
+  {
+    "name": "API Conference Berlin",
+    "url": "https://apiconference.net/berlin",
+    "startDate": "2026-11-23",
+    "endDate": "2026-11-27",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "twitter": "@api_conference"
   },
   {
     "name": "ESPC",
