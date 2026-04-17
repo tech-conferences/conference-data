@@ -240,6 +240,18 @@
     "locales": "DE"
   },
   {
+    "name": "The ACS/IEEE 23rd International Conference on Computer Systems and Applications",
+    "url": "https://aiccsa.net/AICCSA2026",
+    "startDate": "2026-10-26",
+    "endDate": "2026-10-29",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "online": false,
+    "locales": "EN",
+    "cfpUrl": "https://aiccsa.net/AICCSA2026/calls.php",
+    "cfpEndDate": "2026-05-30"
+  },
+  {
     "name": "Lambda World",
     "url": "https://www.lambda.world",
     "startDate": "2026-10-29",
@@ -292,5 +304,16 @@
     "cocUrl": "https://techaiconf.com/awards",
     "cfpUrl": "https://techaiconf.com/register-interest",
     "cfpEndDate": "2026-10-09"
+  },
+  {
+    "name": "flutterCon India",
+    "url": "https://india.fluttercon.dev",
+    "startDate": "2026-11-21",
+    "endDate": "2026-11-21",
+    "city": "Bangalore",
+    "country": "India",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://india.fluttercon.dev/code-of-conduct-fluttercon-india"
   }
 ]
