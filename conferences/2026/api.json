@@ -96,17 +96,6 @@
     "twitter": "@nofluff"
   },
   {
-    "name": "DecOpsCon NYC",
-    "url": "https://devopscon.io/new-york",
-    "startDate": "2026-09-28",
-    "endDate": "2026-10-02",
-    "city": "New York, NY",
-    "country": "U.S.A.",
-    "online": true,
-    "locales": "EN",
-    "twitter": "@devops_con"
-  },
-  {
     "name": "API Conference NYC",
     "url": "https://apiconference.net/new-york",
     "startDate": "2026-09-28",
@@ -116,6 +105,17 @@
     "online": true,
     "locales": "EN",
     "twitter": "@api_conference"
+  },
+  {
+    "name": "DecOpsCon NYC",
+    "url": "https://devopscon.io/new-york",
+    "startDate": "2026-09-28",
+    "endDate": "2026-10-02",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": true,
+    "locales": "EN",
+    "twitter": "@devops_con"
   },
   {
     "name": "The Nordic APIs UnConference",
