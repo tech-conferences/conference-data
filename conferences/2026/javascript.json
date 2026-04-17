@@ -119,6 +119,14 @@
     "twitter": "@cittyjsconf"
   },
   {
+    "name": "JSDays",
+    "url": "https://jsdays.cz/cs",
+    "startDate": "2026-04-14",
+    "endDate": "2026-04-14",
+    "online": true,
+    "locales": "CS"
+  },
+  {
     "name": "enterJS Integrate AI",
     "url": "https://enterjs.de/ai.php",
     "startDate": "2026-04-28",
@@ -328,6 +336,28 @@
     "twitter": "@zurichjs"
   },
   {
+    "name": "International JavaScript Conference NYC",
+    "url": "https://javascript-conference.com/new-york",
+    "startDate": "2026-09-28",
+    "endDate": "2026-10-02",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": true,
+    "locales": "EN",
+    "twitter": "@JavaScriptCon"
+  },
+  {
+    "name": "Jax London",
+    "url": "https://jaxlondon.com",
+    "startDate": "2026-10-05",
+    "endDate": "2026-10-09",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "locales": "EN",
+    "twitter": "@jaxlondon"
+  },
+  {
     "name": "JavaScript & Angular Days",
     "url": "https://javascript-days.de/berlin",
     "startDate": "2026-10-12",
@@ -336,6 +366,21 @@
     "country": "Germany",
     "online": true,
     "locales": "DE"
+  },
+  {
+    "name": "CityJS Conference Athens",
+    "url": "https://athens.cityjsconf.org",
+    "startDate": "2026-10-21",
+    "endDate": "2026-10-23",
+    "city": "Athens",
+    "country": "Greece",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://athens.cityjsconf.org/coc",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSejZUdKqdZo0fZtcqDEWOqkhTGgsnXx5KJOo5flW2E-Ej2a2A/viewform",
+    "cfpEndDate": "2026-06-30",
+    "bluesky": "cityjsconf.bsky.social",
+    "twitter": "@cityjsconf"
   },
   {
     "name": "React Advanced",
@@ -350,5 +395,56 @@
     "cfpUrl": "https://gitnation.com/events/react-advanced-2026/cfp",
     "cfpEndDate": "2026-05-24",
     "twitter": "@ReactAdvanced"
+  },
+  {
+    "name": "International JavaScript Conference Munich",
+    "url": "https://javascript-conference.com/muenchen",
+    "startDate": "2026-10-26",
+    "endDate": "2026-10-30",
+    "city": "Munich",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "twitter": "@JavaScriptCon"
+  },
+  {
+    "name": "XtremeJS Online Conference",
+    "url": "https://xtremejs.dev",
+    "startDate": "2026-11-10",
+    "endDate": "2026-11-10",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "http://www.zindell.com/documents/codeofconduct.pdf",
+    "cfpUrl": "https://tinyurl.com/xtreme2026",
+    "cfpEndDate": "2026-07-10",
+    "twitter": "@xtremejsconf"
+  },
+  {
+    "name": "JSNation US",
+    "url": "https://jsnation.us",
+    "startDate": "2026-11-16",
+    "endDate": "2026-11-19",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://gitnation.com/coc",
+    "cfpUrl": "https://gitnation.com/events/jsnation-us-2026/cfp",
+    "cfpEndDate": "2026-07-13",
+    "twitter": "@JSNation"
+  },
+  {
+    "name": "React Summit US",
+    "url": "https://reactsummit.us",
+    "startDate": "2026-11-17",
+    "endDate": "2026-11-20",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://gitnation.com/coc",
+    "cfpUrl": "https://gitnation.com/events/react-summit-us-2026/cfp",
+    "cfpEndDate": "2026-07-09",
+    "twitter": "@ReactSummit"
   }
 ]
