@@ -385,6 +385,20 @@
     "twitter": "@JavaScriptCon"
   },
   {
+    "name": "JSNation US",
+    "url": "https://jsnation.us",
+    "startDate": "2026-11-16",
+    "endDate": "2026-11-19",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://gitnation.com/coc",
+    "cfpUrl": "https://gitnation.com/events/jsnation-us-2026/cfp",
+    "cfpEndDate": "2026-07-13",
+    "twitter": "@JSNation"
+  },
+  {
     "name": "React Summit US",
     "url": "https://reactsummit.us",
     "startDate": "2026-11-17",
