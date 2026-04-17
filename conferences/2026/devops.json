@@ -300,6 +300,17 @@
     "cfpEndDate": "2026-04-21"
   },
   {
+    "name": "API Conference Berlin",
+    "url": "https://apiconference.net/berlin",
+    "startDate": "2026-11-23",
+    "endDate": "2026-11-27",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "twitter": "@api_conference"
+  },
+  {
     "name": "IT-Tage",
     "url": "https://www.it-tage.org",
     "startDate": "2026-12-07",
