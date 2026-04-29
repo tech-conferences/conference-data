@@ -262,6 +262,20 @@
     "cfpEndDate": "2026-03-31"
   },
   {
+    "name": "swampUP Europe",
+    "url": "https://swampup.jfrog.com/europe",
+    "startDate": "2026-10-20",
+    "endDate": "2026-10-22",
+    "city": "Barcelona",
+    "country": "Spain",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://swampup.jfrog.com/europe/code-of-conduct/",
+    "cfpUrl": "https://sessionize.com/swampup-europe-2026",
+    "cfpEndDate": "2026-05-18",
+    "twitter": "@jfrog"
+  },
+  {
     "name": "S2N: Storage Server Network",
     "url": "https://s2n.heise.de",
     "startDate": "2026-11-03",
