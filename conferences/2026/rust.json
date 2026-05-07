@@ -14,6 +14,18 @@
     "mastodon": "@tokioconf@hachyderm.io"
   },
   {
+    "name": "RustWeek",
+    "url": "https://2026.rustweek.org",
+    "startDate": "2026-05-18",
+    "endDate": "2026-05-23",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "online": false,
+    "locales": "EN",
+    "bluesky": "rustnl.bsky.social",
+    "mastodon": "@rustnl@fosstodon.org"
+  },
+  {
     "name": "RustConf",
     "url": "https://rustconf.com/rustconf-2026",
     "startDate": "2026-09-08",
