@@ -311,6 +311,20 @@
     "cfpEndDate": "2026-05-15"
   },
   {
+    "name": "swampUP Europe",
+    "url": "https://swampup.jfrog.com/europe",
+    "startDate": "2026-10-20",
+    "endDate": "2026-10-22",
+    "city": "Barcelona",
+    "country": "Spain",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://swampup.jfrog.com/europe/code-of-conduct/",
+    "cfpUrl": "https://sessionize.com/swampup-europe-2026",
+    "cfpEndDate": "2026-05-18",
+    "twitter": "@jfrog"
+  },
+  {
     "name": "KubeCon + CloudNativeCon North America",
     "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026",
     "startDate": "2026-10-26",
