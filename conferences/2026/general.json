@@ -356,6 +356,21 @@
     "cfpEndDate": "2026-10-09"
   },
   {
+    "name": "Software Architecture Gathering",
+    "url": "https://www.software-architecture-gathering.com",
+    "startDate": "2026-11-16",
+    "endDate": "2026-11-19",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.software-architecture-gathering.com/code-of-conduct/",
+    "cfpUrl": "https://sessionize.com/sag2026-cfp",
+    "cfpEndDate": "2026-06-09",
+    "bluesky": "sagconference.bsky.social",
+    "mastodon": "@SAG_Conference@mastodon.social"
+  },
+  {
     "name": "flutterCon India",
     "url": "https://india.fluttercon.dev",
     "startDate": "2026-11-21",
