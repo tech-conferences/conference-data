@@ -253,6 +253,19 @@
     "locales": "EN"
   },
   {
+    "name": "Confitura",
+    "url": "https://2026.confitura.pl",
+    "startDate": "2026-09-25",
+    "endDate": "2026-09-26",
+    "city": "Warsaw",
+    "country": "Poland",
+    "online": false,
+    "locales": "EN,PL",
+    "cocUrl": "https://berlincodeofconduct.org/en",
+    "cfpUrl": "https://app.confitura.pl/login",
+    "cfpEndDate": "2026-06-07"
+  },
+  {
     "name": "GOTO Copenhagen",
     "url": "https://gotocph.com/2026",
     "startDate": "2026-09-28",
