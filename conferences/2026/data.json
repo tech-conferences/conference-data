@@ -307,6 +307,14 @@
     "bluesky": "aifokus.bsky.social"
   },
   {
+    "name": "BigQuery Day",
+    "url": "https://www.eon.io/virtual-event/bigquery-day",
+    "startDate": "2026-05-19",
+    "endDate": "2026-05-19",
+    "online": true,
+    "locales": "EN"
+  },
+  {
     "name": "PHP Tek",
     "url": "https://phptek.io",
     "startDate": "2026-05-19",
@@ -321,14 +329,6 @@
     "bluesky": "phparch.com",
     "mastodon": "@phptek@phparch.social",
     "twitter": "@phptek"
-  },
-  {
-    "name": "BigQuery Day",
-    "url": "https://www.eon.io/virtual-event/bigquery-day",
-    "startDate": "2026-05-19",
-    "endDate": "2026-05-19",
-    "online": true,
-    "locales": "EN"
   },
   {
     "name": "Test Coast",
