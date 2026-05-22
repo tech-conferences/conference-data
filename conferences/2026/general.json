@@ -147,6 +147,17 @@
     "twitter": "@devworldconf"
   },
   {
+    "name": "CTO Craft Con: Toronto",
+    "url": "https://conference.ctocraft.com/toronto-2026",
+    "startDate": "2026-05-19",
+    "endDate": "2026-05-20",
+    "city": "Toronto",
+    "country": "Canada",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://ctocraft.com/code-of-conduct/"
+  },
+  {
     "name": "betterCode() ArchDoc",
     "url": "https://archdoc.bettercode.eu",
     "startDate": "2026-05-20",
@@ -168,6 +179,18 @@
     "cfpUrl": "https://forms.gle/vQHsWqyJt5JnReu67",
     "cfpEndDate": "2026-02-14",
     "twitter": "@slashnew"
+  },
+  {
+    "name": "Barcamp Graz",
+    "url": "https://barcamp-graz.org",
+    "startDate": "2026-05-30",
+    "endDate": "2026-05-30",
+    "city": "Graz",
+    "country": "Austria",
+    "online": false,
+    "locales": "EN,DE",
+    "cocUrl": "https://barcamp-graz.org/codeofconduct/",
+    "mastodon": "@barcamp@graz.social"
   },
   {
     "name": "Fork it!",
@@ -243,6 +266,17 @@
     "twitter": "@GOTOcon"
   },
   {
+    "name": "CTO Craft Con: Europe",
+    "url": "https://conference.ctocraft.com/europe-2026",
+    "startDate": "2026-09-29",
+    "endDate": "2026-09-30",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://ctocraft.com/code-of-conduct/"
+  },
+  {
     "name": "FrontKon",
     "url": "https://www.frontkon.tech",
     "startDate": "2026-10-06",
@@ -288,6 +322,18 @@
     "cfpEndDate": "2026-05-30"
   },
   {
+    "name": "The ACS/IEEE 23rd International Conference on Computer Systems and Applications",
+    "url": "https://aiccsa.net/AICCSA2026",
+    "startDate": "2026-10-26",
+    "endDate": "2026-10-29",
+    "city": "Abu Dhabi",
+    "country": "United Arab Emirates",
+    "online": true,
+    "locales": "EN",
+    "cfpUrl": "https://aiccsa.net/AICCSA2026/calls.php",
+    "cfpEndDate": "2026-05-30"
+  },
+  {
     "name": "Lambda World",
     "url": "https://www.lambda.world",
     "startDate": "2026-10-29",
@@ -314,6 +360,20 @@
     "cfpUrl": "https://forms.gle/QBM1aqkL8yS4c6YM8",
     "cfpEndDate": "2026-06-01",
     "twitter": "@Heapconf"
+  },
+  {
+    "name": "Porto Tech Hub Conference",
+    "url": "https://portotechhub.com/conference-2026",
+    "startDate": "2026-11-10",
+    "endDate": "2026-11-10",
+    "city": "Porto",
+    "country": "Portugal",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://portotechhub.com/conference/code-of-conduct/",
+    "cfpUrl": "https://sessionize.com/pth-2026",
+    "cfpEndDate": "2026-06-14",
+    "twitter": "@PortoTechHub"
   },
   {
     "name": "SpiceWorld",
@@ -365,5 +425,16 @@
     "online": false,
     "locales": "EN",
     "cocUrl": "https://india.fluttercon.dev/code-of-conduct-fluttercon-india"
+  },
+  {
+    "name": "ArchConf",
+    "url": "https://archconf.com",
+    "startDate": "2026-12-07",
+    "endDate": "2026-12-10",
+    "city": "Clearwater, FL",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://archconf.com/home/code_of_conduct"
   }
 ]

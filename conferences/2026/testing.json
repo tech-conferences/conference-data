@@ -82,6 +82,20 @@
     "locales": "EN"
   },
   {
+    "name": "Test Automation Innovation Summit | Manila",
+    "url": "https://www.testautomationinnovationsummit.com/manila",
+    "startDate": "2026-07-17",
+    "endDate": "2026-07-17",
+    "city": "Manila",
+    "country": "Philippines",
+    "online": false,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://www.testautomationinnovationsummit.com/manila",
+    "cfpUrl": "https://www.testautomationinnovationsummit.com/manila/register",
+    "cfpEndDate": "2026-06-30"
+  },
+  {
     "name": "Software Architecture Summit",
     "url": "https://software-architecture-summit.de/berlin",
     "startDate": "2026-10-12",
@@ -92,6 +106,18 @@
     "locales": "DE",
     "bluesky": "softwarearchsummit.bsky.social",
     "twitter": "@SoftwArchSummit"
+  },
+  {
+    "name": "Test Automation Innovation Summit Johannesburg",
+    "url": "https://www.testautomationinnovationsummit.com/johannesburg",
+    "startDate": "2026-10-14",
+    "endDate": "2026-10-14",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "online": false,
+    "locales": "EN",
+    "cfpUrl": "https://www.leadsspire.com/our-events",
+    "cfpEndDate": "2026-09-16"
   },
   {
     "name": "AutomationSTAR Conference",
