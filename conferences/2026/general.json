@@ -181,6 +181,18 @@
     "twitter": "@slashnew"
   },
   {
+    "name": "Barcamp Graz",
+    "url": "https://barcamp-graz.org",
+    "startDate": "2026-05-30",
+    "endDate": "2026-05-30",
+    "city": "Graz",
+    "country": "Austria",
+    "online": false,
+    "locales": "EN,DE",
+    "cocUrl": "https://barcamp-graz.org/codeofconduct/",
+    "mastodon": "@barcamp@graz.social"
+  },
+  {
     "name": "Fork it!",
     "url": "https://www.forkit.community/events/2026-france-rouen",
     "startDate": "2026-06-05",
