@@ -322,6 +322,17 @@
     "twitter": "@AsynconfEvenet"
   },
   {
+    "name": "ReactNexus",
+    "url": "https://reactnexus.com",
+    "startDate": "2026-07-02",
+    "endDate": "2026-07-03",
+    "city": "Bengaluru",
+    "country": "India",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@ReactNexus"
+  },
+  {
     "name": "ZurichJS Conf",
     "url": "https://conf.zurichjs.com",
     "startDate": "2026-09-10",
@@ -334,6 +345,20 @@
     "cfpUrl": "https://conf.zurichjs.com/cfp",
     "cfpEndDate": "2026-04-01",
     "twitter": "@zurichjs"
+  },
+  {
+    "name": "Agent Conf",
+    "url": "https://www.agent.sh",
+    "startDate": "2026-09-17",
+    "endDate": "2026-09-18",
+    "city": "Warsaw",
+    "country": "Poland",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.agent.sh/code-of-conduct",
+    "cfpUrl": "https://sessionize.com/agent-conf-2026",
+    "cfpEndDate": "2026-06-20",
+    "twitter": "@AgentConf"
   },
   {
     "name": "dotJS",

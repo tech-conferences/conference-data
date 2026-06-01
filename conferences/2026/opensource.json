@@ -244,6 +244,18 @@
     "cfpEndDate": "2026-06-02"
   },
   {
+    "name": "AlmaLinux Day",
+    "url": "https://almalinux.org/almalinux-day-los-angeles-2026",
+    "startDate": "2026-07-18",
+    "endDate": "2026-07-18",
+    "city": "Los Angeles, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cfpUrl": "https://sessionize.com/almalinux-day-los-angeles",
+    "cfpEndDate": "2026-06-05"
+  },
+  {
     "name": "Open Tech Day: Software-defined Storage",
     "url": "https://opentechday.de",
     "startDate": "2026-10-01",
@@ -283,6 +295,16 @@
     "cocUrl": "https://www.umbracokalaset.se/uppforandekod",
     "cfpUrl": "https://sessionize.com/umbracokalaset-2026",
     "cfpEndDate": "2026-08-16"
+  },
+  {
+    "name": "Open Source Observability Day",
+    "url": "https://osoday.com",
+    "startDate": "2026-10-23",
+    "endDate": "2026-10-23",
+    "online": true,
+    "locales": "EN",
+    "cfpUrl": "https://osoday.com/call-for-papers",
+    "cfpEndDate": "2026-08-31"
   },
   {
     "name": "Mozilla Festival",

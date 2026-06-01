@@ -307,6 +307,14 @@
     "bluesky": "aifokus.bsky.social"
   },
   {
+    "name": "BigQuery Day",
+    "url": "https://www.eon.io/virtual-event/bigquery-day",
+    "startDate": "2026-05-19",
+    "endDate": "2026-05-19",
+    "online": true,
+    "locales": "EN"
+  },
+  {
     "name": "PHP Tek",
     "url": "https://phptek.io",
     "startDate": "2026-05-19",
@@ -431,6 +439,16 @@
     "online": true,
     "locales": "EN",
     "twitter": "@Coveros"
+  },
+  {
+    "name": "CDAO New York",
+    "url": "https://cdao-ny.coriniumintelligence.com/",
+    "startDate": "2026-06-09",
+    "endDate": "2026-06-09",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN"
   },
   {
     "name": "betterCode() GenAI Summit",
@@ -723,6 +741,15 @@
     "online": false,
     "locales": "EN",
     "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "Minds Mastering Machines - M3: LLMs im Unternehmen",
+    "url": "https://m3-konferenz.de/llm.php",
+    "startDate": "2026-10-15",
+    "endDate": "2026-10-15",
+    "online": true,
+    "locales": "DE",
+    "cocUrl": "https://m3-konferenz.de/code_of_conduct.php"
   },
   {
     "name": "Global Summit on Data Science and Cloud Computing",
