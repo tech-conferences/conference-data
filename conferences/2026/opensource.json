@@ -356,5 +356,18 @@
     "cfpUrl": "https://osmc.de/call-for-papers",
     "cfpEndDate": "2026-06-30",
     "bluesky": "osmc.de"
+  },
+  {
+    "name": "ASF Community Over Code / ChurConf",
+    "url": "https://au.churconf.com",
+    "startDate": "2026-11-18",
+    "endDate": "2026-11-19",
+    "city": "Sidney",
+    "country": "Australia",
+    "online": false,
+    "locales": "EN",
+    "cfpUrl": "https://tinyurl.com/asfchurconfcfp",
+    "cfpEndDate": "2026-07-31",
+    "twitter": "@Chur_Conf"
   }
 ]
