@@ -64,6 +64,20 @@
     "mastodon": "@SciPyConf"
   },
   {
+    "name": "DjangoCon US",
+    "url": "https://2026.djangocon.us",
+    "startDate": "2026-08-24",
+    "endDate": "2026-08-28",
+    "city": "Chicago, IL",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://2026.djangocon.us/conduct/",
+    "bluesky": "djangocon.us",
+    "mastodon": "@djangocon@fosstodon.org",
+    "twitter": "@djangocon.us"
+  },
+  {
     "name": "Global Summit on Data Science and Cloud Computing",
     "url": "https://datascience.novelticsconferences.com",
     "startDate": "2026-10-19",
