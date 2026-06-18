@@ -234,6 +234,20 @@
     "twitter": "@GitNation.Org"
   },
   {
+    "name": "Swiss PGDay",
+    "url": "https://2026.pgday.ch",
+    "startDate": "2026-06-25",
+    "endDate": "2026-06-26",
+    "city": "Rapperswil-Jona",
+    "country": "Switzerland",
+    "online": false,
+    "locales": "EN,DE",
+    "cocUrl": "https://2026.pgday.ch/code-of-conduct/",
+    "cfpUrl": "https://2026.pgday.ch/call-for-papers",
+    "cfpEndDate": "2026-04-07",
+    "mastodon": "@swiss_pgday@fosstodon.org"
+  },
+  {
     "name": "MariaDB & MySQL on Kubernetes",
     "url": "https://buildevcon.com/events/mariadb-mysql-on-kubernetes",
     "startDate": "2026-06-26",
