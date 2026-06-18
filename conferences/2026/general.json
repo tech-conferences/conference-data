@@ -218,6 +218,20 @@
     "locales": "EN"
   },
   {
+    "name": "Code Europe",
+    "url": "https://www.codeeurope.pl",
+    "startDate": "2026-09-14",
+    "endDate": "2026-09-15",
+    "city": "Warsaw",
+    "country": "Poland",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://www.codeeurope.pl/code-of-conduct.pdf",
+    "cfpUrl": "https://forms.gle/KpaT9ix5spaVe2A59",
+    "cfpEndDate": "2026-06-30",
+    "twitter": "@code_europe"
+  },
+  {
     "name": "TechTok",
     "url": "https://www.techtok.mt",
     "startDate": "2026-09-16",
@@ -251,6 +265,17 @@
     "country": "U.S.A.",
     "online": false,
     "locales": "EN"
+  },
+  {
+    "name": "Agile Tour Vienna",
+    "url": "https://agiletourvienna.at",
+    "startDate": "2026-09-24",
+    "endDate": "2026-09-24",
+    "city": "Vienna",
+    "country": "Austria",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://agiletourvienna.at/FAQ/"
   },
   {
     "name": "Confitura",

@@ -234,6 +234,20 @@
     "twitter": "@GitNation.Org"
   },
   {
+    "name": "Swiss PGDay",
+    "url": "https://2026.pgday.ch",
+    "startDate": "2026-06-25",
+    "endDate": "2026-06-26",
+    "city": "Rapperswil-Jona",
+    "country": "Switzerland",
+    "online": false,
+    "locales": "EN,DE",
+    "cocUrl": "https://2026.pgday.ch/code-of-conduct/",
+    "cfpUrl": "https://2026.pgday.ch/call-for-papers",
+    "cfpEndDate": "2026-04-07",
+    "mastodon": "@swiss_pgday@fosstodon.org"
+  },
+  {
     "name": "MariaDB & MySQL on Kubernetes",
     "url": "https://buildevcon.com/events/mariadb-mysql-on-kubernetes",
     "startDate": "2026-06-26",
@@ -342,5 +356,18 @@
     "cfpUrl": "https://osmc.de/call-for-papers",
     "cfpEndDate": "2026-06-30",
     "bluesky": "osmc.de"
+  },
+  {
+    "name": "ASF Community Over Code / ChurConf",
+    "url": "https://au.churconf.com",
+    "startDate": "2026-11-18",
+    "endDate": "2026-11-19",
+    "city": "Sidney",
+    "country": "Australia",
+    "online": false,
+    "locales": "EN",
+    "cfpUrl": "https://tinyurl.com/asfchurconfcfp",
+    "cfpEndDate": "2026-07-31",
+    "twitter": "@Chur_Conf"
   }
 ]
