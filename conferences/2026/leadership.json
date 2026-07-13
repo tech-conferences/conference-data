@@ -72,16 +72,6 @@
     "twitter": "@aipivotconf"
   },
   {
-    "name": "TechEx Europe",
-    "url": "https://techexevent.com/europe",
-    "startDate": "2026-10-19",
-    "endDate": "2026-10-20",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "online": false,
-    "locales": "EN"
-  },
-  {
     "name": "Fast Flow Conf",
     "url": "https://www.fastflowconf.com",
     "startDate": "2026-10-13",
@@ -92,6 +82,16 @@
     "locales": "EN",
     "offersSignLanguageOrCC": true,
     "cocUrl": "https://www.fastflowconf.com/code-of-conduct"
+  },
+  {
+    "name": "TechEx Europe",
+    "url": "https://techexevent.com/europe",
+    "startDate": "2026-10-19",
+    "endDate": "2026-10-20",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "locales": "EN"
   },
   {
     "name": "LeadDev Berlin",
