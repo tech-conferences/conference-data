@@ -560,6 +560,20 @@
     "twitter": "@henrystewartdam"
   },
   {
+    "name": "Swiss PGDay",
+    "url": "https://2026.pgday.ch",
+    "startDate": "2026-06-25",
+    "endDate": "2026-06-26",
+    "city": "Rapperswil-Jona",
+    "country": "Switzerland",
+    "online": false,
+    "locales": "EN,DE",
+    "cocUrl": "https://2026.pgday.ch/code-of-conduct/",
+    "cfpUrl": "https://2026.pgday.ch/call-for-papers",
+    "cfpEndDate": "2026-04-07",
+    "mastodon": "@swiss_pgday@fosstodon.org"
+  },
+  {
     "name": "DWX",
     "url": "https://www.developer-world.de/dwx",
     "startDate": "2026-06-29",
@@ -730,6 +744,18 @@
     "locales": "DE",
     "bluesky": "softwarearchsummit.bsky.social",
     "twitter": "@SoftwArchSummit"
+  },
+  {
+    "name": "Fast Flow Conf",
+    "url": "https://www.fastflowconf.com",
+    "startDate": "2026-10-13",
+    "endDate": "2026-10-13",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://www.fastflowconf.com/code-of-conduct"
   },
   {
     "name": "Minds Mastering Machines - M3: LLMs im Unternehmen",

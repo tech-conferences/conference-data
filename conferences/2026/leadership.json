@@ -82,6 +82,18 @@
     "locales": "EN"
   },
   {
+    "name": "Fast Flow Conf",
+    "url": "https://www.fastflowconf.com",
+    "startDate": "2026-10-13",
+    "endDate": "2026-10-13",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://www.fastflowconf.com/code-of-conduct"
+  },
+  {
     "name": "LeadDev Berlin",
     "url": "https://leaddev.com/leaddev-berlin",
     "startDate": "2026-11-09",
@@ -92,6 +104,15 @@
     "locales": "EN",
     "offersSignLanguageOrCC": true,
     "cocUrl": "https://leaddev.com/code-conduct"
+  },
+  {
+    "name": "inside agile: Agile Leadership Conference",
+    "url": "https://alc.inside-agile.de",
+    "startDate": "2026-12-01",
+    "endDate": "2026-12-02",
+    "online": true,
+    "locales": "DE",
+    "cocUrl": "https://alc.inside-agile.de/code_of_conduct.php"
   },
   {
     "name": "Tech Leader Summit",
