@@ -369,5 +369,18 @@
     "cfpUrl": "https://tinyurl.com/asfchurconfcfp",
     "cfpEndDate": "2026-07-31",
     "twitter": "@Chur_Conf"
+  },
+  {
+    "name": "FOSS for All Conference",
+    "url": "https://2026.fossforall.org",
+    "startDate": "2026-11-28",
+    "endDate": "2026-11-28",
+    "city": "Seoul",
+    "country": "South Korea",
+    "online": false,
+    "locales": "EN,KO",
+    "cocUrl": "https://fossforall.org/en/disclosures/legal/code-of-conduct/",
+    "mastodon": "@fossforall@mastodon.social",
+    "twitter": "@FOSS_for_All"
   }
 ]
