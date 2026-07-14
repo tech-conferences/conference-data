@@ -33,5 +33,18 @@
     "locales": "EN",
     "cfpUrl": "https://pretalx.com/techsummit-2026/cfp",
     "cfpEndDate": "2026-05-15"
+  },
+  {
+    "name": "X-Ops Conference Madrid",
+    "url": "https://xopsconference.com",
+    "startDate": "2026-11-19",
+    "endDate": "2026-11-21",
+    "city": "Madrid",
+    "country": "Spain",
+    "online": false,
+    "locales": "EN,ES",
+    "cfpUrl": "https://sessionize.com/x-ops-conference-2026",
+    "cfpEndDate": "2026-08-31",
+    "twitter": "@xopsconference"
   }
 ]

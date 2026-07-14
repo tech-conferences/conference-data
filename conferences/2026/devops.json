@@ -371,6 +371,19 @@
     "cfpEndDate": "2026-04-21"
   },
   {
+    "name": "X-Ops Conference Madrid",
+    "url": "https://xopsconference.com",
+    "startDate": "2026-11-19",
+    "endDate": "2026-11-21",
+    "city": "Madrid",
+    "country": "Spain",
+    "online": false,
+    "locales": "EN,ES",
+    "cfpUrl": "https://sessionize.com/x-ops-conference-2026",
+    "cfpEndDate": "2026-08-31",
+    "twitter": "@xopsconference"
+  },
+  {
     "name": "API Conference Berlin",
     "url": "https://apiconference.net/berlin",
     "startDate": "2026-11-23",
