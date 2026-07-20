@@ -327,6 +327,18 @@
     "cfpEndDate": "2026-04-30"
   },
   {
+    "name": "unKonf",
+    "url": "https://www.unKonf.de",
+    "startDate": "2026-10-10",
+    "endDate": "2026-10-10",
+    "city": "Mannheim",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN,DE",
+    "cocUrl": "https://berlincodeofconduct.org/en",
+    "mastodon": "@unKonf@rheinneckar.social"
+  },
+  {
     "name": "Conversations Roadshow: Stockholm by CTO Craft",
     "url": "https://conversations.ctocraft.com/stockholm",
     "startDate": "2026-10-15",
