@@ -338,6 +338,17 @@
     "cocUrl": "https://ctocraft.com/code-of-conduct/"
   },
   {
+    "name": "Conversations Roadshow: London by CTO Craft",
+    "url": "https://conversations.ctocraft.com/london",
+    "startDate": "2026-10-20",
+    "endDate": "2026-10-20",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://ctocraft.com/code-of-conduct/"
+  },
+  {
     "name": "EKON | Oktober Düsseldorf",
     "url": "https://entwickler-konferenz.de/de",
     "startDate": "2026-10-23",
@@ -384,6 +395,17 @@
     "cfpUrl": "https://confeti.app/events/lambda-world-2026",
     "cfpEndDate": "2026-03-31",
     "twitter": "@lambda_world"
+  },
+  {
+    "name": "CTO Craft Con: Fintech",
+    "url": "https://conference.ctocraft.com/fintech",
+    "startDate": "2026-11-02",
+    "endDate": "2026-11-03",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://ctocraft.com/code-of-conduct/"
   },
   {
     "name": "Heapcon",
@@ -489,5 +511,16 @@
     "online": false,
     "locales": "EN",
     "cocUrl": "https://archconf.com/home/code_of_conduct"
+  },
+  {
+    "name": "Conversations Roadshow: New York by CTO Craft",
+    "url": "https://conversations.ctocraft.com/new-york",
+    "startDate": "2026-12-08",
+    "endDate": "2026-12-09",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://ctocraft.com/code-of-conduct/"
   }
 ]

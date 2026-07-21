@@ -610,6 +610,18 @@
     "locales": "EN"
   },
   {
+    "name": "Data at Scale",
+    "url": "https://www.dataatscale.dev",
+    "startDate": "2026-07-07",
+    "endDate": "2026-07-07",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "locales": "EN",
+    "cfpUrl": "https://sessionize.com/data-at-scale-amsterdam",
+    "cfpEndDate": "2026-06-20"
+  },
+  {
     "name": "inside agile: Product Owner AI Day",
     "url": "https://ai.pod.inside-agile.de",
     "startDate": "2026-07-09",
@@ -629,6 +641,15 @@
     "locales": "EN",
     "cocUrl": "https://uberconf.com/home/code_of_conduct",
     "twitter": "@nofluff"
+  },
+  {
+    "name": "Personal AI Agents — LIVE",
+    "url": "https://www.summit.ai",
+    "startDate": "2026-07-21",
+    "endDate": "2026-07-21",
+    "online": true,
+    "locales": "EN",
+    "twitter": "@ODSCAI"
   },
   {
     "name": "Disney Data & Analytics Conference (DDAC)",
@@ -746,6 +767,18 @@
     "twitter": "@SoftwArchSummit"
   },
   {
+    "name": "Fast Flow Conf",
+    "url": "https://www.fastflowconf.com",
+    "startDate": "2026-10-13",
+    "endDate": "2026-10-13",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://www.fastflowconf.com/code-of-conduct"
+  },
+  {
     "name": "Minds Mastering Machines - M3: LLMs im Unternehmen",
     "url": "https://m3-konferenz.de/llm.php",
     "startDate": "2026-10-15",
@@ -778,6 +811,16 @@
     "cfpUrl": "https://datascience.novelticsconferences.com/register",
     "cfpEndDate": "2026-10-15",
     "twitter": "@Novelticsgroup"
+  },
+  {
+    "name": "TechEx Europe",
+    "url": "https://techexevent.com/europe",
+    "startDate": "2026-10-19",
+    "endDate": "2026-10-20",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "locales": "EN"
   },
   {
     "name": "Mozilla Festival",

@@ -250,6 +250,16 @@
     "cfpEndDate": "2026-05-15"
   },
   {
+    "name": "TechEx Europe",
+    "url": "https://techexevent.com/europe",
+    "startDate": "2026-10-19",
+    "endDate": "2026-10-20",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "locales": "EN"
+  },
+  {
     "name": "AMTSO Cyber Research Conference",
     "url": "https://www.amtso.org/special-events/amtso-cyber-research-conference-2026",
     "startDate": "2026-10-20",
@@ -301,6 +311,16 @@
     "cocUrl": "https://s2n.heise.de/code_of_conduct.php",
     "cfpUrl": "https://s2n.heise.de/cfp.php",
     "cfpEndDate": "2026-05-04"
+  },
+  {
+    "name": "Unhacked 360 Germany: FutureSec Summit",
+    "url": "https://momentera.org/conference/unhacked-360-germany-futuresec-world-summit",
+    "startDate": "2026-11-09",
+    "endDate": "2026-11-10",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN"
   },
   {
     "name": "API Conference Berlin",
