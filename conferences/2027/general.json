@@ -1,5 +1,17 @@
 [
   {
+    "name": "INTED",
+    "url": "https://iated.org/inted",
+    "startDate": "2027-03-09",
+    "endDate": "2027-03-11",
+    "city": "Valencia",
+    "country": "Spain",
+    "online": true,
+    "locales": "EN",
+    "cfpUrl": "https://iated.org/inted/call_for_abstracts",
+    "cfpEndDate": "2026-11-19"
+  },
+  {
     "name": "CTO Craft Con: London",
     "url": "https://conference.ctocraft.com/london",
     "startDate": "2027-03-15",
