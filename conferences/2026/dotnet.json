@@ -71,6 +71,21 @@
     "cfpEndDate": "2026-08-16"
   },
   {
+    "name": "MAUI Day Cologne",
+    "url": "https://mauiday.net/cologne",
+    "startDate": "2026-10-23",
+    "endDate": "2026-10-23",
+    "city": "Cologne",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://mauiday.net/code-of-conduct/",
+    "cfpUrl": "https://sessionize.com/mauiday-cologne-2026",
+    "cfpEndDate": "2026-08-01",
+    "bluesky": "mauiday.net",
+    "twitter": "@mauiday"
+  },
+  {
     "name": "betterCode() .NET 11.0",
     "url": "https://net.bettercode.eu",
     "startDate": "2026-11-17",
