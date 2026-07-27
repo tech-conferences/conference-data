@@ -358,6 +358,18 @@
     "twitter": "@CloudNativeFdn"
   },
   {
+    "name": "webinale Munich",
+    "url": "https://webinale.com/munich",
+    "startDate": "2026-10-26",
+    "endDate": "2026-10-30",
+    "city": "Munich",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN",
+    "bluesky": "webinale.bsky.social",
+    "twitter": "@webinale"
+  },
+  {
     "name": "Nullcon Berlin",
     "url": "https://nullcon.net/event/nullcon-berlin-2026",
     "startDate": "2026-11-02",
