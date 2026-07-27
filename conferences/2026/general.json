@@ -257,16 +257,6 @@
     "cfpEndDate": "2026-06-08"
   },
   {
-    "name": "WeAreDevelopers World Congress North America",
-    "url": "https://www.wearedevelopers.com/world-congress-us",
-    "startDate": "2026-09-23",
-    "endDate": "2026-09-25",
-    "city": "San Jose, CA",
-    "country": "U.S.A.",
-    "online": false,
-    "locales": "EN"
-  },
-  {
     "name": "NSW AI Bonanza",
     "url": "https://nswaibonanza.com",
     "startDate": "2026-09-23",
@@ -278,6 +268,16 @@
     "cfpUrl": "https://forms.gle/NGUgSFjBCPyZzz769",
     "cfpEndDate": "2026-08-23",
     "twitter": "@nswaibonanza"
+  },
+  {
+    "name": "WeAreDevelopers World Congress North America",
+    "url": "https://www.wearedevelopers.com/world-congress-us",
+    "startDate": "2026-09-23",
+    "endDate": "2026-09-25",
+    "city": "San Jose, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN"
   },
   {
     "name": "Agile Tour Vienna",
