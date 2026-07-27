@@ -420,20 +420,6 @@
     "twitter": "@cityjsconf"
   },
   {
-    "name": "React Advanced",
-    "url": "https://reactadvanced.com",
-    "startDate": "2026-10-23",
-    "endDate": "2026-10-26",
-    "city": "London",
-    "country": "U.K.",
-    "online": true,
-    "locales": "EN",
-    "cocUrl": "https://gitnation.com/coc",
-    "cfpUrl": "https://gitnation.com/events/react-advanced-2026/cfp",
-    "cfpEndDate": "2026-05-24",
-    "twitter": "@ReactAdvanced"
-  },
-  {
     "name": "TechLead Conference London",
     "url": "https://techleadconf.com",
     "startDate": "2026-10-23",
@@ -446,6 +432,20 @@
     "cfpUrl": "https://gitnation.com/events/techlead-conf-london-2026-adopting-ai-in-orgs-edition/cfp",
     "cfpEndDate": "2026-08-22",
     "twitter": "@TheTechLeadConf"
+  },
+  {
+    "name": "React Advanced",
+    "url": "https://reactadvanced.com",
+    "startDate": "2026-10-23",
+    "endDate": "2026-10-26",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://gitnation.com/coc",
+    "cfpUrl": "https://gitnation.com/events/react-advanced-2026/cfp",
+    "cfpEndDate": "2026-05-24",
+    "twitter": "@ReactAdvanced"
   },
   {
     "name": "International JavaScript Conference Munich",
