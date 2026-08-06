@@ -420,6 +420,20 @@
     "twitter": "@cityjsconf"
   },
   {
+    "name": "TechLead Conference London",
+    "url": "https://techleadconf.com",
+    "startDate": "2026-10-23",
+    "endDate": "2026-10-23",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://gitnation.com/coc",
+    "cfpUrl": "https://gitnation.com/events/techlead-conf-london-2026-adopting-ai-in-orgs-edition/cfp",
+    "cfpEndDate": "2026-08-22",
+    "twitter": "@TheTechLeadConf"
+  },
+  {
     "name": "React Advanced",
     "url": "https://reactadvanced.com",
     "startDate": "2026-10-23",
@@ -497,6 +511,20 @@
     "cfpUrl": "https://gitnation.com/events/react-summit-us-2026/cfp",
     "cfpEndDate": "2026-07-09",
     "twitter": "@ReactSummit"
+  },
+  {
+    "name": "AI Coding Summit Berlin Edition",
+    "url": "https://aicodingsummit.com/berlin",
+    "startDate": "2026-12-04",
+    "endDate": "2026-12-07",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://gitnation.com/coc",
+    "cfpUrl": "https://gitnation.com/events/ai-coding-summit-berlin/cfp",
+    "cfpEndDate": "2026-08-12",
+    "twitter": "@AICodingSummit"
   },
   {
     "name": "React Day Berlin",
