@@ -36,7 +36,7 @@
   },
   {
     "name": "X-Ops Conference Dubai",
-    "url": "https://xopsconference.com",
+    "url": "https://dubai.xopsconference.com/",
     "startDate": "2026-10-15",
     "endDate": "2026-10-17",
     "city": "Dubai",
@@ -48,8 +48,19 @@
     "twitter": "@xopsconference"
   },
   {
+    "name": "JDD",
+    "url": "https://jdd.org.pl",
+    "startDate": "2026-10-20",
+    "endDate": "2026-10-21",
+    "city": "Kraków",
+    "country": "Poland",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@JDD_Krakow"
+  },
+  {
     "name": "X-Ops Conference Madrid",
-    "url": "https://xopsconference.com",
+    "url": "https://madrid.xopsconference.com/",
     "startDate": "2026-11-19",
     "endDate": "2026-11-21",
     "city": "Madrid",
