@@ -610,6 +610,18 @@
     "locales": "EN"
   },
   {
+    "name": "Data at Scale",
+    "url": "https://www.dataatscale.dev",
+    "startDate": "2026-07-07",
+    "endDate": "2026-07-07",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "locales": "EN",
+    "cfpUrl": "https://sessionize.com/data-at-scale-amsterdam",
+    "cfpEndDate": "2026-06-20"
+  },
+  {
     "name": "inside agile: Product Owner AI Day",
     "url": "https://ai.pod.inside-agile.de",
     "startDate": "2026-07-09",
@@ -629,6 +641,15 @@
     "locales": "EN",
     "cocUrl": "https://uberconf.com/home/code_of_conduct",
     "twitter": "@nofluff"
+  },
+  {
+    "name": "Personal AI Agents — LIVE",
+    "url": "https://www.summit.ai",
+    "startDate": "2026-07-21",
+    "endDate": "2026-07-21",
+    "online": true,
+    "locales": "EN",
+    "twitter": "@ODSCAI"
   },
   {
     "name": "Disney Data & Analytics Conference (DDAC)",
@@ -721,6 +742,26 @@
     "twitter": "@mlconference"
   },
   {
+    "name": "VibeKode Utrecht",
+    "url": "https://vibekode.it/netherlands",
+    "startDate": "2026-10-05",
+    "endDate": "2026-10-07",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "online": true,
+    "locales": "EN",
+    "twitter": "@vibekode"
+  },
+  {
+    "name": "betterCode() Agentic AI",
+    "url": "https://agenticai.bettercode.eu",
+    "startDate": "2026-10-06",
+    "endDate": "2026-10-06",
+    "online": true,
+    "locales": "DE",
+    "cocUrl": "https://agenticai.bettercode.eu/code_of_conduct.php"
+  },
+  {
     "name": "data2day",
     "url": "https://www.data2day.de",
     "startDate": "2026-10-07",
@@ -744,6 +785,18 @@
     "locales": "DE",
     "bluesky": "softwarearchsummit.bsky.social",
     "twitter": "@SoftwArchSummit"
+  },
+  {
+    "name": "Fast Flow Conf",
+    "url": "https://www.fastflowconf.com",
+    "startDate": "2026-10-13",
+    "endDate": "2026-10-13",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://www.fastflowconf.com/code-of-conduct"
   },
   {
     "name": "Minds Mastering Machines - M3: LLMs im Unternehmen",
@@ -778,6 +831,28 @@
     "cfpUrl": "https://datascience.novelticsconferences.com/register",
     "cfpEndDate": "2026-10-15",
     "twitter": "@Novelticsgroup"
+  },
+  {
+    "name": "TechEx Europe",
+    "url": "https://techexevent.com/europe",
+    "startDate": "2026-10-19",
+    "endDate": "2026-10-20",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "locales": "EN"
+  },
+  {
+    "name": "webinale Munich",
+    "url": "https://webinale.com/munich",
+    "startDate": "2026-10-26",
+    "endDate": "2026-10-30",
+    "city": "Munich",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN",
+    "bluesky": "webinale.bsky.social",
+    "twitter": "@webinale"
   },
   {
     "name": "Mozilla Festival",
@@ -828,6 +903,27 @@
     "cocUrl": "https://theconf.ai/code-of-conduct",
     "cfpUrl": "https://theconf.ai/call-for-papers",
     "cfpEndDate": "2026-09-30"
+  },
+  {
+    "name": "AI Engineering Summit",
+    "url": "https://ai-engineering-summit.de",
+    "startDate": "2026-11-16",
+    "endDate": "2026-11-20",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "locales": "DE"
+  },
+  {
+    "name": "VibeKode Berlin",
+    "url": "https://vibekode.it/berlin",
+    "startDate": "2026-11-16",
+    "endDate": "2026-11-20",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "twitter": "@vibekode"
   },
   {
     "name": "Agentic Engineering Days Zurich",

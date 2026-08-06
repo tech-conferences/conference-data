@@ -53,6 +53,15 @@
     "cocUrl": "https://ai.pod.inside-agile.de/code_of_conduct.php"
   },
   {
+    "name": "Scrum Master Day",
+    "url": "https://scrum.inside-agile.de",
+    "startDate": "2026-09-14",
+    "endDate": "2026-09-14",
+    "online": true,
+    "locales": "DE",
+    "cocUrl": "https://scrum.inside-agile.de/code_of_conduct.php"
+  },
+  {
     "name": "uxcon vienna",
     "url": "https://www.uxcon.io",
     "startDate": "2026-09-16",
@@ -87,6 +96,18 @@
     "locales": "EN"
   },
   {
+    "name": "Fast Flow Conf",
+    "url": "https://www.fastflowconf.com",
+    "startDate": "2026-10-13",
+    "endDate": "2026-10-13",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://www.fastflowconf.com/code-of-conduct"
+  },
+  {
     "name": "Just Product",
     "url": "https://www.justproduct.de",
     "startDate": "2026-10-16",
@@ -110,5 +131,14 @@
     "cfpEndDate": "2026-03-31",
     "bluesky": "weyweyweb.bsky.social",
     "twitter": "@WeyWeyWeb"
+  },
+  {
+    "name": "inside agile Product Owner Day",
+    "url": "https://pod.inside-agile.de",
+    "startDate": "2026-11-19",
+    "endDate": "2026-11-19",
+    "online": true,
+    "locales": "DE",
+    "cocUrl": "https://pod.inside-agile.de/code_of_conduct.php"
   }
 ]
