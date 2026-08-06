@@ -721,6 +721,16 @@
     "twitter": "@mlconference"
   },
   {
+    "name": "World Summit AI",
+    "url": "https://worldsummit.ai",
+    "startDate": "2026-10-07",
+    "endDate": "2026-10-08",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "locales": "EN"
+  },
+  {
     "name": "data2day",
     "url": "https://www.data2day.de",
     "startDate": "2026-10-07",
@@ -732,16 +742,6 @@
     "cocUrl": "https://www.data2day.de/code_of_conduct.php",
     "cfpUrl": "https://www.data2day.de/cfp.php",
     "cfpEndDate": "2026-04-15"
-  },
-  {
-    "name": "World Summit AI",
-    "url": "https://worldsummit.ai",
-    "startDate": "2026-10-07",
-    "endDate": "2026-10-08",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "online": false,
-    "locales": "EN"
   },
   {
     "name": "Software Architecture Summit",
