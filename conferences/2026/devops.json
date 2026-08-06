@@ -332,6 +332,19 @@
     "cfpEndDate": "2026-05-15"
   },
   {
+    "name": "X-Ops Conference Dubai",
+    "url": "https://xopsconference.com",
+    "startDate": "2026-10-15",
+    "endDate": "2026-10-17",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "online": false,
+    "locales": "EN",
+    "cfpUrl": "https://sessionize.com/x-ops-conference-2026",
+    "cfpEndDate": "2026-08-31",
+    "twitter": "@xopsconference"
+  },
+  {
     "name": "swampUP Europe",
     "url": "https://swampup.jfrog.com/europe",
     "startDate": "2026-10-20",
@@ -358,6 +371,32 @@
     "twitter": "@CloudNativeFdn"
   },
   {
+    "name": "webinale Munich",
+    "url": "https://webinale.com/munich",
+    "startDate": "2026-10-26",
+    "endDate": "2026-10-30",
+    "city": "Munich",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN",
+    "bluesky": "webinale.bsky.social",
+    "twitter": "@webinale"
+  },
+  {
+    "name": "Nullcon Berlin",
+    "url": "https://nullcon.net/event/nullcon-berlin-2026",
+    "startDate": "2026-11-02",
+    "endDate": "2026-11-06",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://nullcon.net/event/nullcon-berlin-2026/registration/",
+    "cfpUrl": "https://nullcon.net/event/nullcon-berlin-2026/cfp",
+    "cfpEndDate": "2026-07-10",
+    "twitter": "@nullcon"
+  },
+  {
     "name": "CLC",
     "url": "https://clc-conference.eu/index_en.php",
     "startDate": "2026-11-11",
@@ -369,6 +408,19 @@
     "cocUrl": "https://clc-conference.eu/cfp_en.php",
     "cfpUrl": "https://clc-conference.eu/cfp_en.php",
     "cfpEndDate": "2026-04-21"
+  },
+  {
+    "name": "X-Ops Conference Madrid",
+    "url": "https://xopsconference.com",
+    "startDate": "2026-11-19",
+    "endDate": "2026-11-21",
+    "city": "Madrid",
+    "country": "Spain",
+    "online": false,
+    "locales": "EN,ES",
+    "cfpUrl": "https://sessionize.com/x-ops-conference-2026",
+    "cfpEndDate": "2026-08-31",
+    "twitter": "@xopsconference"
   },
   {
     "name": "API Conference Berlin",
