@@ -336,6 +336,17 @@
     "locales": "EN"
   },
   {
+    "name": "API Conference Berlin",
+    "url": "https://apiconference.net/berlin",
+    "startDate": "2026-11-16",
+    "endDate": "2026-11-20",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "twitter": "@api_conference"
+  },
+  {
     "name": "X-Ops Conference Madrid",
     "url": "https://xopsconference.com",
     "startDate": "2026-11-19",
@@ -347,17 +358,6 @@
     "cfpUrl": "https://sessionize.com/x-ops-conference-2026",
     "cfpEndDate": "2026-08-31",
     "twitter": "@xopsconference"
-  },
-  {
-    "name": "API Conference Berlin",
-    "url": "https://apiconference.net/berlin",
-    "startDate": "2026-11-23",
-    "endDate": "2026-11-27",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "locales": "EN",
-    "twitter": "@api_conference"
   },
   {
     "name": "Workplace Ninjas India",

@@ -948,6 +948,17 @@
     "locales": "DE"
   },
   {
+    "name": "MLCon Berlin",
+    "url": "https://mlconference.ai/berlin",
+    "startDate": "2026-11-16",
+    "endDate": "2026-11-20",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "twitter": "@mlconference"
+  },
+  {
     "name": "VibeKode Berlin",
     "url": "https://vibekode.it/berlin",
     "startDate": "2026-11-16",
@@ -970,17 +981,6 @@
     "cocUrl": "https://www.agenticdays.com/code-of-conduct.html",
     "cfpUrl": "https://sessionize.com/agentic-engineering-days-zurich-2026",
     "cfpEndDate": "2026-07-23"
-  },
-  {
-    "name": "MLCon Berlin",
-    "url": "https://mlconference.ai/berlin",
-    "startDate": "2026-11-23",
-    "endDate": "2026-11-27",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "locales": "EN",
-    "twitter": "@mlconference"
   },
   {
     "name": "XtremeAI Online Conference",
