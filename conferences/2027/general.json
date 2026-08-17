@@ -70,5 +70,16 @@
     "country": "Singapore",
     "online": false,
     "locales": "EN"
+  },
+  {
+    "name": "International Conference on Green Chemistry and Renewable Energy (Green Chemistry)",
+    "url": "https://magnusconferences.com/green-chemistry",
+    "startDate": "2027-06-21",
+    "endDate": "2027-06-23",
+    "city": "Rome",
+    "country": "Italy",
+    "online": true,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
   }
 ]
