@@ -1,5 +1,19 @@
 [
   {
+    "name": "Developer Week",
+    "url": "https://www.developerweek.com",
+    "startDate": "2027-02-09",
+    "endDate": "2027-02-11",
+    "city": "Santa Clara, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.devnetwork.com/code-of-conduct/",
+    "cfpUrl": "https://www.developerweek.com/speakers/apply-to-speak",
+    "cfpEndDate": "2026-09-18",
+    "twitter": "@developerweek"
+  },
+  {
     "name": "INTED",
     "url": "https://iated.org/inted",
     "startDate": "2027-03-09",
