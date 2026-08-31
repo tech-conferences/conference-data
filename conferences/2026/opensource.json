@@ -367,6 +367,19 @@
     "twitter": "@btcplusplus"
   },
   {
+    "name": "Ubuntu Summit",
+    "url": "https://ubuntu.com/summit",
+    "startDate": "2026-11-12",
+    "endDate": "2026-11-13",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://ubuntu.com/community/docs/ethos/code-of-conduct",
+    "cfpUrl": "https://ubuntu.com/summit/call-for-collaboration",
+    "cfpEndDate": "2026-10-01",
+    "mastodon": "@ubuntu@ubuntu.social",
+    "twitter": "@ubuntu"
+  },
+  {
     "name": "Open Source Monitoring conference",
     "url": "https://osmc.de",
     "startDate": "2026-11-17",
