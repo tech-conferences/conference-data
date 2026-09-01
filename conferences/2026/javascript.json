@@ -347,6 +347,15 @@
     "twitter": "@zurichjs"
   },
   {
+    "name": "Test discount code",
+    "url": "https://confs.tech",
+    "startDate": "2026-09-16",
+    "endDate": "2026-09-17",
+    "online": true,
+    "locales": "EN",
+    "discountCode": "TEST20"
+  },
+  {
     "name": "Agent Conf",
     "url": "https://www.agent.sh",
     "startDate": "2026-09-17",
