@@ -34,6 +34,20 @@
     "cocUrl": "https://github.com/Open-Source-Compliance/Sharing-creates-value/blob/openchain_and_friends_2026_prep/Events/OpenChainAndFriends26/event_code_of_conduct.md"
   },
   {
+    "name": "GENAIX: Global Generative & Agentic AI Summit",
+    "url": "https://genaixworld.com",
+    "startDate": "2027-04-15",
+    "endDate": "2027-04-16",
+    "city": "Singapore",
+    "country": "Singapore",
+    "online": false,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://genaixworld.com/",
+    "cfpUrl": "https://www.cfp.net",
+    "cfpEndDate": "2026-10-15"
+  },
+  {
     "name": "Great International Developer Summit (GIDS)",
     "url": "https://developersummit.com",
     "startDate": "2027-04-27",
@@ -46,5 +60,15 @@
     "cfpUrl": "https://developersummit.com/cfp",
     "cfpEndDate": "2026-09-30",
     "twitter": "@developersummit"
+  },
+  {
+    "name": "International Conference on Robotics, Artificial Intelligence and Autonomous Systems",
+    "url": "https://icraias2027.com",
+    "startDate": "2027-06-09",
+    "endDate": "2027-06-11",
+    "city": "Singapore",
+    "country": "Singapore",
+    "online": false,
+    "locales": "EN"
   }
 ]

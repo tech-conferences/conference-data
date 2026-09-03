@@ -45,5 +45,42 @@
     "locales": "EN",
     "cfpUrl": "https://www.goflock.ai/call-for-papers#submit",
     "cfpEndDate": "2026-09-21"
+  },
+  {
+    "name": "X-Ops Conference Dubai",
+    "url": "https://dubai.xopsconference.com/",
+    "startDate": "2026-10-15",
+    "endDate": "2026-10-17",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "online": false,
+    "locales": "EN",
+    "cfpUrl": "https://sessionize.com/x-ops-conference-2026",
+    "cfpEndDate": "2026-08-31",
+    "twitter": "@xopsconference"
+  },
+  {
+    "name": "JDD",
+    "url": "https://jdd.org.pl",
+    "startDate": "2026-10-20",
+    "endDate": "2026-10-21",
+    "city": "Kraków",
+    "country": "Poland",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@JDD_Krakow"
+  },
+  {
+    "name": "X-Ops Conference Madrid",
+    "url": "https://madrid.xopsconference.com/",
+    "startDate": "2026-11-19",
+    "endDate": "2026-11-21",
+    "city": "Madrid",
+    "country": "Spain",
+    "online": false,
+    "locales": "EN,ES",
+    "cfpUrl": "https://sessionize.com/x-ops-conference-2026",
+    "cfpEndDate": "2026-08-31",
+    "twitter": "@xopsconference"
   }
 ]

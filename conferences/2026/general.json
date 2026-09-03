@@ -340,6 +340,18 @@
     "cfpEndDate": "2026-04-30"
   },
   {
+    "name": "unKonf",
+    "url": "https://www.unKonf.de",
+    "startDate": "2026-10-10",
+    "endDate": "2026-10-10",
+    "city": "Mannheim",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN,DE",
+    "cocUrl": "https://berlincodeofconduct.org/en",
+    "mastodon": "@unKonf@rheinneckar.social"
+  },
+  {
     "name": "Conversations Roadshow: Stockholm by CTO Craft",
     "url": "https://conversations.ctocraft.com/stockholm",
     "startDate": "2026-10-15",
@@ -433,6 +445,18 @@
     "cfpUrl": "https://forms.gle/QBM1aqkL8yS4c6YM8",
     "cfpEndDate": "2026-06-01",
     "twitter": "@Heapconf"
+  },
+  {
+    "name": "Moldova DevCon",
+    "url": "https://mdc.md",
+    "startDate": "2026-11-06",
+    "endDate": "2026-11-07",
+    "city": "Chișinău",
+    "country": "Moldova",
+    "online": false,
+    "locales": "EN",
+    "cfpUrl": "https://forms.gle/fioMNEFN7XZPQsbv9",
+    "cfpEndDate": "2026-08-31"
   },
   {
     "name": "Porto Tech Hub Conference",

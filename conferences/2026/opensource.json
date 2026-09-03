@@ -270,18 +270,28 @@
     "cfpEndDate": "2026-06-05"
   },
   {
-    "name": "Open Tech Day: Software-defined Storage",
-    "url": "https://opentechday.de",
+    "name": "bitcoin++ consensus edition",
+    "url": "https://btcpp.dev/toronto",
+    "startDate": "2026-07-22",
+    "endDate": "2026-07-24",
+    "city": "Toronto",
+    "country": "Canada",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@btcplusplus"
+  },
+  {
+    "name": "bitcoin++ payments edition",
+    "url": "https://btcpp.dev/berlin26",
     "startDate": "2026-10-01",
-    "endDate": "2026-10-01",
-    "city": "Nürnberg",
+    "endDate": "2026-10-03",
+    "city": "Berlin",
     "country": "Germany",
     "online": false,
-    "locales": "EN,DE",
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://opentechday.de/code-of-conduct/",
-    "cfpUrl": "https://opentechday.de/propose",
-    "cfpEndDate": "2026-05-31"
+    "locales": "EN",
+    "cfpUrl": "https://btcpp.dev/talk/berlin26",
+    "cfpEndDate": "2026-08-17",
+    "twitter": "@btcplusplus"
   },
   {
     "name": "Joomla! World Conference",
@@ -342,6 +352,19 @@
     "country": "U.S.A.",
     "online": true,
     "locales": "EN"
+  },
+  {
+    "name": "bitcoin++ privacy edition",
+    "url": "https://btcpp.dev/seoul",
+    "startDate": "2026-11-05",
+    "endDate": "2026-11-06",
+    "city": "Seoul",
+    "country": "South Korea",
+    "online": false,
+    "locales": "EN",
+    "cfpUrl": "https://btcpp.dev/talk/seoul",
+    "cfpEndDate": "2026-09-22",
+    "twitter": "@btcplusplus"
   },
   {
     "name": "Open Source Monitoring conference",
