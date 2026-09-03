@@ -86,5 +86,15 @@
     "country": "Singapore",
     "online": false,
     "locales": "EN"
+  },
+  {
+    "name": "Nürnberg Digital Festival",
+    "url": "https://nuernberg.digital/de",
+    "startDate": "2027-06-14",
+    "endDate": "2027-06-24",
+    "city": "Nürnberg",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN,DE"
   }
 ]
