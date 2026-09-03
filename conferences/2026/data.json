@@ -652,6 +652,15 @@
     "twitter": "@ODSCAI"
   },
   {
+    "name": "TestMu Conference",
+    "url": "https://www.testmuai.com/testmuconf-2026",
+    "startDate": "2026-08-19",
+    "endDate": "2026-08-21",
+    "online": true,
+    "locales": "EN",
+    "twitter": "@testmuai"
+  },
+  {
     "name": "AgentCon - London",
     "url": "https://globalai.community/e/x79ncrl7",
     "startDate": "2026-09-08",
@@ -718,6 +727,20 @@
     "cfpUrl": "https://sessionize.com/aipivotconference",
     "cfpEndDate": "2026-05-04",
     "twitter": "@aipivotconf"
+  },
+  {
+    "name": "MCP Community Connect - Bengaluru",
+    "url": "https://globalai.community/e/bd1o37ln",
+    "startDate": "2026-09-26",
+    "endDate": "2026-09-26",
+    "city": "Bangalore",
+    "country": "India",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://globalai.community/about/code-of-conduct",
+    "cfpUrl": "https://sessionize.com/mcp-community-connect-bengaluru",
+    "cfpEndDate": "2026-08-26",
+    "twitter": "@GlobAICommunity"
   },
   {
     "name": "GAI World",
@@ -1082,5 +1105,18 @@
     "cfpUrl": "https://aiconference.dev/cfp",
     "cfpEndDate": "2026-06-01",
     "twitter": "@AIDevConf"
+  },
+  {
+    "name": "SciPy India",
+    "url": "https://scipy.in/2026/",
+    "startDate": "2026-12-19",
+    "endDate": "2026-12-20",
+    "city": "Chennai",
+    "country": "India",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://scipy.in/2026/coc.html",
+    "bluesky": "scipy.in",
+    "twitter": "@scipy_india"
   }
 ]
