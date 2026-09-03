@@ -652,6 +652,27 @@
     "twitter": "@ODSCAI"
   },
   {
+    "name": "TestMu Conference",
+    "url": "https://www.testmuai.com/testmuconf-2026",
+    "startDate": "2026-08-19",
+    "endDate": "2026-08-21",
+    "online": true,
+    "locales": "EN",
+    "twitter": "@testmuai"
+  },
+  {
+    "name": "AgentCon - London",
+    "url": "https://globalai.community/e/x79ncrl7",
+    "startDate": "2026-09-08",
+    "endDate": "2026-09-08",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://globalai.community/about/code-of-conduct",
+    "twitter": "@GlobAICommunity"
+  },
+  {
     "name": "Disney Data & Analytics Conference (DDAC)",
     "url": "https://disneydataconference.com",
     "startDate": "2026-09-14",
@@ -708,6 +729,20 @@
     "twitter": "@aipivotconf"
   },
   {
+    "name": "MCP Community Connect - Bengaluru",
+    "url": "https://globalai.community/e/bd1o37ln",
+    "startDate": "2026-09-26",
+    "endDate": "2026-09-26",
+    "city": "Bangalore",
+    "country": "India",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://globalai.community/about/code-of-conduct",
+    "cfpUrl": "https://sessionize.com/mcp-community-connect-bengaluru",
+    "cfpEndDate": "2026-08-26",
+    "twitter": "@GlobAICommunity"
+  },
+  {
     "name": "GAI World",
     "url": "https://www.gaiworld.com",
     "startDate": "2026-09-28",
@@ -760,6 +795,16 @@
     "online": true,
     "locales": "DE",
     "cocUrl": "https://agenticai.bettercode.eu/code_of_conduct.php"
+  },
+  {
+    "name": "Enterprise AI Summit",
+    "url": "https://events.itrevolution.com/2026-charlotte/",
+    "startDate": "2026-10-07",
+    "endDate": "2026-10-08",
+    "city": "Charlotte, NC",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN"
   },
   {
     "name": "World Summit AI",
@@ -1070,5 +1115,18 @@
     "cfpUrl": "https://aiconference.dev/cfp",
     "cfpEndDate": "2026-06-01",
     "twitter": "@AIDevConf"
+  },
+  {
+    "name": "SciPy India",
+    "url": "https://scipy.in/2026/",
+    "startDate": "2026-12-19",
+    "endDate": "2026-12-20",
+    "city": "Chennai",
+    "country": "India",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://scipy.in/2026/coc.html",
+    "bluesky": "scipy.in",
+    "twitter": "@scipy_india"
   }
 ]

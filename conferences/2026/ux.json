@@ -113,6 +113,21 @@
     "mastodon": "@pixelpioneers@mastodon.social"
   },
   {
+    "name": "SmashingConf Freiburg",
+    "url": "https://smashingconf.com/freiburg-2026",
+    "startDate": "2026-09-07",
+    "endDate": "2026-09-10",
+    "city": "Freiburg",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "cocUrl": "https://smashingconf.com/codeofconduct",
+    "bluesky": "smashingconf.com",
+    "mastodon": "@smashingconf@mastodon.social",
+    "twitter": "@smashingconf"
+  },
+  {
     "name": "uxcon vienna",
     "url": "https://www.uxcon.io",
     "startDate": "2026-09-16",
