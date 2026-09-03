@@ -12,5 +12,17 @@
     "cocUrl": "https://www.elc-conference.io/terms-conditions",
     "cfpUrl": "https://elc-conference.io/cfp",
     "cfpEndDate": "2027-03-17"
+  },
+  {
+    "name": "AI Con USA",
+    "url": "https://aiconusa.techwell.com",
+    "startDate": "2027-06-06",
+    "endDate": "2027-06-11",
+    "city": "Seattle, WA",
+    "country": "U.S.A.",
+    "online": true,
+    "locales": "EN",
+    "cfpUrl": "https://aiconusa.techwell.com/speak-ai-con-usa",
+    "cfpEndDate": "2026-10-18"
   }
 ]
