@@ -405,5 +405,18 @@
     "cocUrl": "https://fossforall.org/en/disclosures/legal/code-of-conduct/",
     "mastodon": "@fossforall@mastodon.social",
     "twitter": "@FOSS_for_All"
+  },
+  {
+    "name": "SciPy India",
+    "url": "https://scipy.in/2026/",
+    "startDate": "2026-12-19",
+    "endDate": "2026-12-20",
+    "city": "Chennai",
+    "country": "India",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://scipy.in/2026/coc.html",
+    "bluesky": "scipy.in",
+    "twitter": "@scipy_india"
   }
 ]
