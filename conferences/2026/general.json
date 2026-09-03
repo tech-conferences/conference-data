@@ -218,6 +218,19 @@
     "locales": "EN"
   },
   {
+    "name": "KCDC",
+    "url": "https://www.kcdc.info",
+    "startDate": "2026-09-09",
+    "endDate": "2026-09-11",
+    "city": "Kansas City, MO",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.kcdc.info/code-of-conduct",
+    "bluesky": "kcdc.bsky.social",
+    "twitter": "@kc_dc"
+  },
+  {
     "name": "Code Europe",
     "url": "https://www.codeeurope.pl",
     "startDate": "2026-09-14",
