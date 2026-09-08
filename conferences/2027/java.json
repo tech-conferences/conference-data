@@ -26,5 +26,16 @@
     "bluesky": "jcon.one",
     "mastodon": "@jcon@mastodon.social",
     "twitter": "@jcon_conference"
+  },
+  {
+    "name": "International Heart Congress (Heart Congress)",
+    "url": "https://heart.magnusconferences.com",
+    "startDate": "2027-06-24",
+    "endDate": "2027-06-26",
+    "city": "Rome",
+    "country": "Italy",
+    "online": true,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
   }
 ]
