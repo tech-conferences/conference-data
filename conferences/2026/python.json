@@ -102,5 +102,18 @@
     "cfpUrl": "http://www.zindell.com/documents/codeofconduct.pdf",
     "cfpEndDate": "2026-07-10",
     "twitter": "@xtremepython"
+  },
+  {
+    "name": "SciPy India",
+    "url": "https://scipy.in/2026/",
+    "startDate": "2026-12-19",
+    "endDate": "2026-12-20",
+    "city": "Chennai",
+    "country": "India",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://scipy.in/2026/coc.html",
+    "bluesky": "scipy.in",
+    "twitter": "@scipy_india"
   }
 ]

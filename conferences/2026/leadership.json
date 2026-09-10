@@ -59,6 +59,15 @@
     "cfpEndDate": "2026-03-21"
   },
   {
+    "name": "AI X QA Leadership Summit - Autumn",
+    "url": "https://www.browserstack.com/events/qals-2026",
+    "startDate": "2026-09-23",
+    "endDate": "2026-09-23",
+    "online": true,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "AI Pivot Conference",
     "url": "https://theaipivot.ai/events/anaheim-2026/home.aspx",
     "startDate": "2026-09-25",
@@ -70,6 +79,16 @@
     "cfpUrl": "https://sessionize.com/aipivotconference",
     "cfpEndDate": "2026-05-04",
     "twitter": "@aipivotconf"
+  },
+  {
+    "name": "Enterprise AI Summit",
+    "url": "https://events.itrevolution.com/2026-charlotte/",
+    "startDate": "2026-10-07",
+    "endDate": "2026-10-08",
+    "city": "Charlotte, NC",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN"
   },
   {
     "name": "Fast Flow Conf",
