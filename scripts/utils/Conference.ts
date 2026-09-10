@@ -15,5 +15,5 @@ export interface Conference {
     github: string;
     mastodon: string;
     twitter: string;
-    discountCode?: string;
+    discountCode: string;
 }
