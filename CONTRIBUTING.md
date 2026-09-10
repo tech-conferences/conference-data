@@ -87,7 +87,8 @@ Clearly documenting review criteria and stating explicit rules helps streamline 
         "twitter": "",
         "mastodon": "",
         "cocUrl": "",
-        "locales": ""
+        "locales": "",
+        "discountCode": ""
     }
     ```
 
