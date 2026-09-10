@@ -365,6 +365,18 @@
     "mastodon": "@unKonf@rheinneckar.social"
   },
   {
+    "name": "TechBash",
+    "url": "https://techbash.com",
+    "startDate": "2026-10-13",
+    "endDate": "2026-10-16",
+    "city": "Pocono Manor, PA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://techbash.com/code-of-conduct",
+    "twitter": "@techbash"
+  },
+  {
     "name": "Conversations Roadshow: Stockholm by CTO Craft",
     "url": "https://conversations.ctocraft.com/stockholm",
     "startDate": "2026-10-15",
@@ -385,6 +397,17 @@
     "online": false,
     "locales": "EN",
     "cocUrl": "https://ctocraft.com/code-of-conduct/"
+  },
+  {
+    "name": "Great Lakes Software Symposium",
+    "url": "https://nofluffjuststuff.com/chicago",
+    "startDate": "2026-10-22",
+    "endDate": "2026-10-23",
+    "city": "Chicago, IL",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://nofluffjuststuff.com/home/code_of_conduct"
   },
   {
     "name": "EKON | Oktober Düsseldorf",
