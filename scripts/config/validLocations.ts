@@ -246,7 +246,7 @@ export const validLocations = {
         'Zaragoza'
     ],
     Sweden: ['Gothenburg', 'Helsingborg', 'Kalmar', 'Malmö', 'Stockholm', 'Varberg'],
-    Switzerland: ['Basel', 'Bern', 'Buchs', 'Crans-Montana', 'Davos', 'Fribourg', 'Geneva', 'Lausanne', 'Lugano', 'Nottwil', 'Rapperswil-Jona', 'Zurich'],
+    Switzerland: ['Basel', 'Bern', 'Buchs', 'Crans-Montana', 'Fribourg', 'Geneva', 'Lausanne', 'Lugano', 'Nottwil', 'Rapperswil-Jona', 'Zurich'],
     Taiwan: ['Taipei'],
     Tanzania: ['Dar es Salaam'],
     Thailand: ['Bangkok', 'Nakhon Pathom'],
