@@ -367,6 +367,31 @@
     "twitter": "@btcplusplus"
   },
   {
+    "name": "Gerrit User Summit",
+    "url": "https://gus26.gerritforge.com",
+    "startDate": "2026-11-09",
+    "endDate": "2026-11-10",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cfpUrl": "https://sessionize.com/gerrit-user-summit-2026",
+    "cfpEndDate": "2026-09-18"
+  },
+  {
+    "name": "Ubuntu Summit",
+    "url": "https://ubuntu.com/summit",
+    "startDate": "2026-11-12",
+    "endDate": "2026-11-13",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://ubuntu.com/community/docs/ethos/code-of-conduct",
+    "cfpUrl": "https://ubuntu.com/summit/call-for-collaboration",
+    "cfpEndDate": "2026-10-01",
+    "mastodon": "@ubuntu@ubuntu.social",
+    "twitter": "@ubuntu"
+  },
+  {
     "name": "Open Source Monitoring conference",
     "url": "https://osmc.de",
     "startDate": "2026-11-17",
@@ -405,5 +430,18 @@
     "cocUrl": "https://fossforall.org/en/disclosures/legal/code-of-conduct/",
     "mastodon": "@fossforall@mastodon.social",
     "twitter": "@FOSS_for_All"
+  },
+  {
+    "name": "SciPy India",
+    "url": "https://scipy.in/2026/",
+    "startDate": "2026-12-19",
+    "endDate": "2026-12-20",
+    "city": "Chennai",
+    "country": "India",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://scipy.in/2026/coc.html",
+    "bluesky": "scipy.in",
+    "twitter": "@scipy_india"
   }
 ]
