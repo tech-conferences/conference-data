@@ -42,6 +42,22 @@
     "cfpEndDate": "2026-11-19"
   },
   {
+    "name": "Voxxed Days Zürich",
+    "url": "https://vdz27.voxxeddays.ch",
+    "startDate": "2027-03-09",
+    "endDate": "2027-03-09",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://vdz27.voxxeddays.ch/code-of-conduct/",
+    "cfpUrl": "https://vdz27.cfp.dev/#/login",
+    "cfpEndDate": "2026-10-23",
+    "bluesky": "voxxedzurich.bsky.social",
+    "mastodon": "@voxxedzurich@mastodon.social",
+    "twitter": "@VoxxedZurich"
+  },
+  {
     "name": "CTO Craft Con: London",
     "url": "https://conference.ctocraft.com/london",
     "startDate": "2027-03-15",
