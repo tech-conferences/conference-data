@@ -26,5 +26,16 @@
     "bluesky": "jcon.one",
     "mastodon": "@jcon@mastodon.social",
     "twitter": "@jcon_conference"
+  },
+  {
+    "name": "ICPRL",
+    "url": "https://pulmonologyconference.com",
+    "startDate": "2027-06-28",
+    "endDate": "2027-06-30",
+    "city": "Rome",
+    "country": "Italy",
+    "online": true,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
   }
 ]
