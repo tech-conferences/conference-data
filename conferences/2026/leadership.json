@@ -113,6 +113,19 @@
     "locales": "EN"
   },
   {
+    "name": "PGconf.EU",
+    "url": "https://2026.pgconf.eu",
+    "startDate": "2026-10-20",
+    "endDate": "2026-10-23",
+    "city": "Valencia",
+    "country": "Spain",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://2026.pgconf.eu/code-of-conduct/",
+    "bluesky": "pgconf.eu",
+    "mastodon": "@pgconfeu@mastodon.social"
+  },
+  {
     "name": "LeadDev Berlin",
     "url": "https://leaddev.com/leaddev-berlin",
     "startDate": "2026-11-09",
