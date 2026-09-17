@@ -321,6 +321,19 @@
     "cfpEndDate": "2026-08-16"
   },
   {
+    "name": "PGconf.EU",
+    "url": "https://2026.pgconf.eu",
+    "startDate": "2026-10-20",
+    "endDate": "2026-10-23",
+    "city": "Valencia",
+    "country": "Spain",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://2026.pgconf.eu/code-of-conduct/",
+    "bluesky": "pgconf.eu",
+    "mastodon": "@pgconfeu@mastodon.social"
+  },
+  {
     "name": "Open Source Observability Day",
     "url": "https://osoday.com",
     "startDate": "2026-10-23",
