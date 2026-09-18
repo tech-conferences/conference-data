@@ -786,6 +786,18 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "WordCamp Rajasthan",
+    "url": "https://rajasthan.wordcamp.org/2026",
+    "startDate": "2026-10-03",
+    "endDate": "2026-10-04",
+    "city": "Jaipur",
+    "country": "India",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://rajasthan.wordcamp.org/2026/code-of-conduct/",
+    "twitter": "@WPRajasthan"
+  },
+  {
     "name": "VibeKode Utrecht",
     "url": "https://vibekode.it/netherlands",
     "startDate": "2026-10-05",
@@ -917,6 +929,17 @@
     "locales": "EN"
   },
   {
+    "name": "All Day AI",
+    "url": "https://www.alldayai.com",
+    "startDate": "2026-10-22",
+    "endDate": "2026-10-22",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://github.com/All-Day-AI/Terms/blob/main/code-of-conduct.md",
+    "cfpUrl": "https://www.alldayai.com/#speak",
+    "cfpEndDate": "2026-10-10"
+  },
+  {
     "name": "webinale Munich",
     "url": "https://webinale.com/munich",
     "startDate": "2026-10-26",
@@ -927,6 +950,17 @@
     "locales": "EN",
     "bluesky": "webinale.bsky.social",
     "twitter": "@webinale"
+  },
+  {
+    "name": "SEV0",
+    "url": "https://sev0.com",
+    "startDate": "2026-10-27",
+    "endDate": "2026-10-27",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@incident_io"
   },
   {
     "name": "Futureproof Festival",
@@ -1099,6 +1133,19 @@
     "cocUrl": "https://www.sharepointeurope.com/codeofconduct/",
     "bluesky": "espccommunity.bsky.social",
     "twitter": "@ESPC_Community"
+  },
+  {
+    "name": "Build It Summit",
+    "url": "https://builditsummit.com",
+    "startDate": "2026-12-01",
+    "endDate": "2026-12-03",
+    "city": "Paris",
+    "country": "France",
+    "online": false,
+    "locales": "EN,FR",
+    "cocUrl": "https://builditsummit.com/code-of-conduct/",
+    "cfpUrl": "https://builditsummit.com/call-for-speakers",
+    "cfpEndDate": "2026-10-31"
   },
   {
     "name": "IT-Tage",
