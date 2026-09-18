@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Vuejs Amsterdam",
+    "url": "https://www.vuejs.amsterdam",
+    "startDate": "2027-03-11",
+    "endDate": "2027-03-12",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://vuejs.amsterdam/code-of-conduct",
+    "bluesky": "vuejsamsterdam.bsky.social",
+    "twitter": "@vuejsamsterdam"
+  },
+  {
+    "name": "JSWorld Conference",
+    "url": "https://www.jsworldconference.com",
+    "startDate": "2027-03-12",
+    "endDate": "2027-03-12",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "http://jsworldconference.com/code-of-conduct",
+    "twitter": "@jsworldconf"
+  }
+]

@@ -1,5 +1,19 @@
 [
   {
+    "name": "AI Conf Asia",
+    "url": "https://aiconf.asia",
+    "startDate": "2027-01-09",
+    "endDate": "2027-01-10",
+    "city": "Kathmandu",
+    "country": "Nepal",
+    "online": false,
+    "locales": "EN,NE",
+    "cocUrl": "https://community.wwktm.com/t/code-of-conduct/13",
+    "cfpUrl": "https://aiconf.asia/2027/#cfs",
+    "cfpEndDate": "2026-11-01",
+    "twitter": "@wwktm_com"
+  },
+  {
     "name": "3rd International Conference on Artificial Intelligence and Data Science",
     "url": "https://datascience.averconferences.com",
     "startDate": "2027-02-01",
@@ -20,6 +34,22 @@
     "country": "U.K.",
     "online": false,
     "locales": "EN"
+  },
+  {
+    "name": "Mountain Camp",
+    "url": "https://drupalmountaincamp.ch",
+    "startDate": "2027-03-02",
+    "endDate": "2027-03-04",
+    "city": "Davos",
+    "country": "Switzerland",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://drupalmountaincamp.ch/code-conduct",
+    "cfpUrl": "https://event.drupalmountaincamp.ch/mountain-camp-2027",
+    "cfpEndDate": "2026-10-11",
+    "bluesky": "drupal.ch",
+    "mastodon": "@mountaincampch@drupal.community",
+    "twitter": "@mountaincampch"
   },
   {
     "name": "Annual Global Summit on Artificial Intelligence and Machine Learning",
@@ -120,6 +150,16 @@
     "endDate": "2027-06-17",
     "city": "San Jose, CA",
     "country": "U.S.A.",
+    "online": false,
+    "locales": "EN"
+  },
+  {
+    "name": "Annual Global Summit on Robotics, AI and Machine Learning",
+    "url": "https://vividglobalsummits.com/2027/agsrobot",
+    "startDate": "2027-09-15",
+    "endDate": "2027-09-17",
+    "city": "Rome",
+    "country": "Italy",
     "online": false,
     "locales": "EN"
   }
