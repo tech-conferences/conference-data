@@ -30,6 +30,22 @@
     "twitter": "@confooca"
   },
   {
+    "name": "Voxxed Days Zürich",
+    "url": "https://vdz27.voxxeddays.ch",
+    "startDate": "2027-03-09",
+    "endDate": "2027-03-09",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://vdz27.voxxeddays.ch/code-of-conduct/",
+    "cfpUrl": "https://vdz27.cfp.dev/#/login",
+    "cfpEndDate": "2026-10-23",
+    "bluesky": "voxxedzurich.bsky.social",
+    "mastodon": "@voxxedzurich@mastodon.social",
+    "twitter": "@VoxxedZurich"
+  },
+  {
     "name": "INTED",
     "url": "https://iated.org/inted",
     "startDate": "2027-03-09",
@@ -76,6 +92,19 @@
     "cocUrl": "https://genaixworld.com/",
     "cfpUrl": "https://www.cfp.net",
     "cfpEndDate": "2026-10-15"
+  },
+  {
+    "name": "Digital Crafts Day",
+    "url": "https://dc-nordoberpfalz.de/DigitalCraftsDay/2027",
+    "startDate": "2027-04-16",
+    "endDate": "2027-04-16",
+    "city": "Weiden",
+    "country": "Germany",
+    "online": false,
+    "locales": "DE",
+    "cocUrl": "https://dc-nordoberpfalz.de/CodeOfConduct",
+    "cfpUrl": "https://sessionize.com/digital-crafts-day-2027",
+    "cfpEndDate": "2026-10-31"
   },
   {
     "name": "Great International Developer Summit (GIDS)",

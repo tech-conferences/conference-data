@@ -432,6 +432,17 @@
     "twitter": "@Chur_Conf"
   },
   {
+    "name": "Community Over Code Sydney",
+    "url": "https://communityovercode.apache.org/events/sydney-2026",
+    "startDate": "2026-11-18",
+    "endDate": "2026-11-19",
+    "city": "Sydney",
+    "country": "Australia",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://communityovercode.apache.org/code-of-conduct"
+  },
+  {
     "name": "FOSS for All Conference",
     "url": "https://2026.fossforall.org",
     "startDate": "2026-11-28",
@@ -443,6 +454,19 @@
     "cocUrl": "https://fossforall.org/en/disclosures/legal/code-of-conduct/",
     "mastodon": "@fossforall@mastodon.social",
     "twitter": "@FOSS_for_All"
+  },
+  {
+    "name": "Build It Summit",
+    "url": "https://builditsummit.com",
+    "startDate": "2026-12-01",
+    "endDate": "2026-12-03",
+    "city": "Paris",
+    "country": "France",
+    "online": false,
+    "locales": "EN,FR",
+    "cocUrl": "https://builditsummit.com/code-of-conduct/",
+    "cfpUrl": "https://builditsummit.com/call-for-speakers",
+    "cfpEndDate": "2026-10-31"
   },
   {
     "name": "SciPy India",

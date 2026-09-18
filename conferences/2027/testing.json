@@ -1,5 +1,18 @@
 [
   {
+    "name": "ParisTestConf",
+    "url": "https://paristestconf.com",
+    "startDate": "2027-03-23",
+    "endDate": "2027-03-23",
+    "city": "Paris",
+    "country": "France",
+    "online": false,
+    "locales": "FR",
+    "offersSignLanguageOrCC": true,
+    "cfpUrl": "https://sessionize.com/paristestconf-2027",
+    "cfpEndDate": "2026-10-31"
+  },
+  {
     "name": "STAREAST",
     "url": "https://stareast.techwell.com",
     "startDate": "2027-04-25",
