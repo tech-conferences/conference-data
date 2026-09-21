@@ -10,5 +10,17 @@
     "locales": "EN",
     "cfpUrl": "https://aiconusa.techwell.com/speak-ai-con-usa",
     "cfpEndDate": "2026-10-18"
+  },
+  {
+    "name": "DevOpsCon Munich",
+    "url": "https://devopscon.io/muenchen",
+    "startDate": "2027-12-06",
+    "endDate": "2027-12-10",
+    "city": "Munich",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "bluesky": "devopscon.bsky.social",
+    "twitter": "@devops_con"
   }
 ]
