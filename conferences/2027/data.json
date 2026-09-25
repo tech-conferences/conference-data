@@ -162,5 +162,17 @@
     "country": "Italy",
     "online": false,
     "locales": "EN"
+  },
+  {
+    "name": "International JavaScript Conference Munich",
+    "url": "https://javascript-conference.com/muenchen",
+    "startDate": "2027-11-15",
+    "endDate": "2027-11-19",
+    "city": "Munich",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "bluesky": "javascriptcon.bsky.social",
+    "twitter": "@JavaScriptCon"
   }
 ]
