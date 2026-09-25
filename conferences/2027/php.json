@@ -14,5 +14,17 @@
     "bluesky": "drupal.ch",
     "mastodon": "@mountaincampch@drupal.community",
     "twitter": "@mountaincampch"
+  },
+  {
+    "name": "International PHP Conference Munich",
+    "url": "https://phpconference.com/munich",
+    "startDate": "2027-11-15",
+    "endDate": "2027-11-19",
+    "city": "Munich",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "bluesky": "phpconference.bsky.social",
+    "twitter": "@phpconference"
   }
 ]
