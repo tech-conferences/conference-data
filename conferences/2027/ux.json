@@ -26,5 +26,17 @@
     "cfpEndDate": "2026-11-30",
     "twitter": "@uxlx",
     "discountCode": "Group Discount 5 + 1 free"
+  },
+  {
+    "name": "webinale Berlin",
+    "url": "https://webinale.com/berlin",
+    "startDate": "2027-06-14",
+    "endDate": "2027-06-18",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "bluesky": "webinale.bsky.social",
+    "twitter": "@webinale"
   }
 ]
