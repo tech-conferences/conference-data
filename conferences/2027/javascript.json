@@ -35,5 +35,17 @@
     "locales": "EN",
     "cocUrl": "http://jsworldconference.com/code-of-conduct",
     "twitter": "@jsworldconf"
+  },
+  {
+    "name": "International JavaScript Conference London",
+    "url": "https://javascript-conference.com/london",
+    "startDate": "2027-06-07",
+    "endDate": "2027-06-11",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "locales": "EN",
+    "bluesky": "javascriptcon.bsky.social",
+    "twitter": "@JavaScriptCon"
   }
 ]
