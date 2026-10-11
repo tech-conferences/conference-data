@@ -117,6 +117,19 @@
     "twitter": "@xtremepython"
   },
   {
+    "name": "PyConf",
+    "url": "https://pyconf.org",
+    "startDate": "2026-12-04",
+    "endDate": "2026-12-06",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://pyconf.org/coc",
+    "cfpUrl": "https://pyconf.org/cfp",
+    "cfpEndDate": "2026-08-31"
+  },
+  {
     "name": "SciPy India",
     "url": "https://scipy.in/2026/",
     "startDate": "2026-12-19",
