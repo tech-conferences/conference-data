@@ -144,18 +144,6 @@
     "cfpEndDate": "2026-10-18"
   },
   {
-    "name": "DevOpsCon London",
-    "url": "https://devopscon.io/london",
-    "startDate": "2027-06-07",
-    "endDate": "2027-06-11",
-    "city": "London",
-    "country": "U.K.",
-    "online": true,
-    "locales": "EN",
-    "bluesky": "devopscon.bsky.social",
-    "twitter": "@devops_con"
-  },
-  {
     "name": "API Conference London",
     "url": "https://apiconference.net/london",
     "startDate": "2027-06-07",
@@ -166,6 +154,18 @@
     "locales": "EN",
     "bluesky": "apiconference.bsky.social",
     "twitter": "@api_conference"
+  },
+  {
+    "name": "DevOpsCon London",
+    "url": "https://devopscon.io/london",
+    "startDate": "2027-06-07",
+    "endDate": "2027-06-11",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "locales": "EN",
+    "bluesky": "devopscon.bsky.social",
+    "twitter": "@devops_con"
   },
   {
     "name": "DevOpsCon Berlin",
