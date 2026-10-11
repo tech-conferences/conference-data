@@ -459,7 +459,7 @@
     "twitter": "@JavaScriptCon"
   },
   {
-    "name": "React India - The Final Edition",
+    "name": "React India",
     "url": "https://www.reactindia.io",
     "startDate": "2026-10-29",
     "endDate": "2026-10-31",
@@ -469,6 +469,18 @@
     "locales": "EN",
     "cocUrl": "https://www.reactindia.io/code-of-conduct",
     "twitter": "@react_india"
+  },
+  {
+    "name": "Web AI Summit",
+    "url": "https://goo.gle/WebAISummit26",
+    "startDate": "2026-10-30",
+    "endDate": "2026-10-30",
+    "city": "Sunnyvale, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true,
+    "discountCode": "BCS5S36W"
   },
   {
     "name": "XtremeJS Online Conference",
