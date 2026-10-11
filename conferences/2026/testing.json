@@ -96,6 +96,15 @@
     "cfpEndDate": "2026-06-30"
   },
   {
+    "name": "TestMu Conference",
+    "url": "https://www.testmuai.com/testmuconf-2026",
+    "startDate": "2026-08-19",
+    "endDate": "2026-08-21",
+    "online": true,
+    "locales": "EN",
+    "twitter": "@testmuai"
+  },
+  {
     "name": "STARWEST",
     "url": "https://starwest.techwell.com",
     "startDate": "2026-09-20",
@@ -105,6 +114,15 @@
     "online": true,
     "locales": "EN",
     "twitter": "@Coveros"
+  },
+  {
+    "name": "AI X QA Leadership Summit - Autumn",
+    "url": "https://www.browserstack.com/events/qals-2026",
+    "startDate": "2026-09-23",
+    "endDate": "2026-09-23",
+    "online": true,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
   },
   {
     "name": "Software Architecture Summit",
@@ -155,6 +173,19 @@
     "cocUrl": "https://www.testautomationinnovationsummit.com/manila",
     "cfpUrl": "https://www.testautomationinnovationsummit.com",
     "cfpEndDate": "2026-07-31"
+  },
+  {
+    "name": "AI DevCon NYC",
+    "url": "https://tessl.io/devcon",
+    "startDate": "2026-11-02",
+    "endDate": "2026-11-04",
+    "city": "Brooklyn, NY",
+    "country": "U.S.A.",
+    "online": true,
+    "locales": "EN",
+    "cfpUrl": "https://sessionize.com/ai-native-devcon-nyc-2026",
+    "cfpEndDate": "2026-10-01",
+    "discountCode": "CONFS10"
   },
   {
     "name": "AutomationSTAR Conference",

@@ -149,6 +149,18 @@
     "twitter": "@nofluff"
   },
   {
+    "name": "WordCamp Rajasthan",
+    "url": "https://rajasthan.wordcamp.org/2026",
+    "startDate": "2026-10-03",
+    "endDate": "2026-10-04",
+    "city": "Jaipur",
+    "country": "India",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://rajasthan.wordcamp.org/2026/code-of-conduct/",
+    "twitter": "@WPRajasthan"
+  },
+  {
     "name": "Jax London",
     "url": "https://jaxlondon.com",
     "startDate": "2026-10-05",
@@ -167,6 +179,30 @@
     "online": true,
     "locales": "DE",
     "cocUrl": "https://java.bettercode.eu/code_of_conduct.php"
+  },
+  {
+    "name": "JDD",
+    "url": "https://jdd.org.pl",
+    "startDate": "2026-10-20",
+    "endDate": "2026-10-21",
+    "city": "Kraków",
+    "country": "Poland",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@JDD_Krakow"
+  },
+  {
+    "name": "JCON USA",
+    "url": "https://2026.usa.jcon.one",
+    "startDate": "2026-10-26",
+    "endDate": "2026-10-29",
+    "city": "Atlanta, GA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://static.tools.ibm.com/ibm/rainfocussc/static/staticfile/staticfile/749e10e1-85d5-4ddc-a5d84580df7db48b%20%281%29_1629917526803001Lrvs.pdf",
+    "mastodon": "@jcon@mastodon.social",
+    "twitter": "@jcon_conference"
   },
   {
     "name": "W-JAX München",
@@ -203,5 +239,16 @@
     "cfpUrl": "https://tinyurl.com/asfchurconfcfp",
     "cfpEndDate": "2026-07-31",
     "twitter": "@Chur_Conf"
+  },
+  {
+    "name": "Community Over Code Sydney",
+    "url": "https://communityovercode.apache.org/events/sydney-2026",
+    "startDate": "2026-11-18",
+    "endDate": "2026-11-19",
+    "city": "Sydney",
+    "country": "Australia",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://communityovercode.apache.org/code-of-conduct"
   }
 ]

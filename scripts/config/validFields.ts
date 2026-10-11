@@ -14,5 +14,6 @@ export default [
     'bluesky',
     'mastodon',
     'twitter',
-    'github'
+    'github',
+    'discountCode'
 ];

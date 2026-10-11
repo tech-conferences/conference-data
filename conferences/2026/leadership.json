@@ -59,6 +59,15 @@
     "cfpEndDate": "2026-03-21"
   },
   {
+    "name": "AI X QA Leadership Summit - Autumn",
+    "url": "https://www.browserstack.com/events/qals-2026",
+    "startDate": "2026-09-23",
+    "endDate": "2026-09-23",
+    "online": true,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
+  },
+  {
     "name": "AI Pivot Conference",
     "url": "https://theaipivot.ai/events/anaheim-2026/home.aspx",
     "startDate": "2026-09-25",
@@ -70,6 +79,16 @@
     "cfpUrl": "https://sessionize.com/aipivotconference",
     "cfpEndDate": "2026-05-04",
     "twitter": "@aipivotconf"
+  },
+  {
+    "name": "Enterprise AI Summit",
+    "url": "https://events.itrevolution.com/2026-charlotte/",
+    "startDate": "2026-10-07",
+    "endDate": "2026-10-08",
+    "city": "Charlotte, NC",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN"
   },
   {
     "name": "Fast Flow Conf",
@@ -92,6 +111,19 @@
     "country": "Netherlands",
     "online": false,
     "locales": "EN"
+  },
+  {
+    "name": "PGconf.EU",
+    "url": "https://2026.pgconf.eu",
+    "startDate": "2026-10-20",
+    "endDate": "2026-10-23",
+    "city": "Valencia",
+    "country": "Spain",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://2026.pgconf.eu/code-of-conduct/",
+    "bluesky": "pgconf.eu",
+    "mastodon": "@pgconfeu@mastodon.social"
   },
   {
     "name": "LeadDev Berlin",

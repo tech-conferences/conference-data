@@ -652,6 +652,27 @@
     "twitter": "@ODSCAI"
   },
   {
+    "name": "TestMu Conference",
+    "url": "https://www.testmuai.com/testmuconf-2026",
+    "startDate": "2026-08-19",
+    "endDate": "2026-08-21",
+    "online": true,
+    "locales": "EN",
+    "twitter": "@testmuai"
+  },
+  {
+    "name": "AgentCon - London",
+    "url": "https://globalai.community/e/x79ncrl7",
+    "startDate": "2026-09-08",
+    "endDate": "2026-09-08",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://globalai.community/about/code-of-conduct",
+    "twitter": "@GlobAICommunity"
+  },
+  {
     "name": "Disney Data & Analytics Conference (DDAC)",
     "url": "https://disneydataconference.com",
     "startDate": "2026-09-14",
@@ -708,6 +729,20 @@
     "twitter": "@aipivotconf"
   },
   {
+    "name": "MCP Community Connect - Bengaluru",
+    "url": "https://globalai.community/e/bd1o37ln",
+    "startDate": "2026-09-26",
+    "endDate": "2026-09-26",
+    "city": "Bangalore",
+    "country": "India",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://globalai.community/about/code-of-conduct",
+    "cfpUrl": "https://sessionize.com/mcp-community-connect-bengaluru",
+    "cfpEndDate": "2026-08-26",
+    "twitter": "@GlobAICommunity"
+  },
+  {
     "name": "GAI World",
     "url": "https://www.gaiworld.com",
     "startDate": "2026-09-28",
@@ -742,6 +777,27 @@
     "twitter": "@mlconference"
   },
   {
+    "name": "Applied AI Technology Conference",
+    "url": "https://wearecommunity.io/events/applied-ai",
+    "startDate": "2026-10-01",
+    "endDate": "2026-10-01",
+    "online": true,
+    "locales": "EN",
+    "offersSignLanguageOrCC": true
+  },
+  {
+    "name": "WordCamp Rajasthan",
+    "url": "https://rajasthan.wordcamp.org/2026",
+    "startDate": "2026-10-03",
+    "endDate": "2026-10-04",
+    "city": "Jaipur",
+    "country": "India",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://rajasthan.wordcamp.org/2026/code-of-conduct/",
+    "twitter": "@WPRajasthan"
+  },
+  {
     "name": "VibeKode Utrecht",
     "url": "https://vibekode.it/netherlands",
     "startDate": "2026-10-05",
@@ -760,6 +816,26 @@
     "online": true,
     "locales": "DE",
     "cocUrl": "https://agenticai.bettercode.eu/code_of_conduct.php"
+  },
+  {
+    "name": "Enterprise AI Summit",
+    "url": "https://events.itrevolution.com/2026-charlotte/",
+    "startDate": "2026-10-07",
+    "endDate": "2026-10-08",
+    "city": "Charlotte, NC",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN"
+  },
+  {
+    "name": "World Summit AI",
+    "url": "https://worldsummit.ai",
+    "startDate": "2026-10-07",
+    "endDate": "2026-10-08",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "locales": "EN"
   },
   {
     "name": "data2day",
@@ -819,6 +895,16 @@
     "offersSignLanguageOrCC": true
   },
   {
+    "name": "MIT AI Conference",
+    "url": "https://www.mitaiconference.org",
+    "startDate": "2026-10-17",
+    "endDate": "2026-10-17",
+    "city": "Mountain View, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN"
+  },
+  {
     "name": "Global Summit on Data Science and Cloud Computing",
     "url": "https://datascience.novelticsconferences.com",
     "startDate": "2026-10-19",
@@ -843,6 +929,30 @@
     "locales": "EN"
   },
   {
+    "name": "PGconf.EU",
+    "url": "https://2026.pgconf.eu",
+    "startDate": "2026-10-20",
+    "endDate": "2026-10-23",
+    "city": "Valencia",
+    "country": "Spain",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://2026.pgconf.eu/code-of-conduct/",
+    "bluesky": "pgconf.eu",
+    "mastodon": "@pgconfeu@mastodon.social"
+  },
+  {
+    "name": "All Day AI",
+    "url": "https://www.alldayai.com",
+    "startDate": "2026-10-22",
+    "endDate": "2026-10-22",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://github.com/All-Day-AI/Terms/blob/main/code-of-conduct.md",
+    "cfpUrl": "https://www.alldayai.com/#speak",
+    "cfpEndDate": "2026-10-10"
+  },
+  {
     "name": "webinale Munich",
     "url": "https://webinale.com/munich",
     "startDate": "2026-10-26",
@@ -853,6 +963,30 @@
     "locales": "EN",
     "bluesky": "webinale.bsky.social",
     "twitter": "@webinale"
+  },
+  {
+    "name": "SEV0",
+    "url": "https://sev0.com",
+    "startDate": "2026-10-27",
+    "endDate": "2026-10-27",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@incident_io"
+  },
+  {
+    "name": "Futureproof Festival",
+    "url": "https://www.futureproof.website",
+    "startDate": "2026-10-28",
+    "endDate": "2026-10-30",
+    "city": "Vancouver",
+    "country": "Canada",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.futureproof.website/code-of-conduct/",
+    "cfpUrl": "https://www.futureproof.website/call-for-talks",
+    "cfpEndDate": "2026-07-31"
   },
   {
     "name": "Mozilla Festival",
@@ -892,6 +1026,19 @@
     "locales": "EN"
   },
   {
+    "name": "AI DevCon NYC",
+    "url": "https://tessl.io/devcon",
+    "startDate": "2026-11-02",
+    "endDate": "2026-11-04",
+    "city": "Brooklyn, NY",
+    "country": "U.S.A.",
+    "online": true,
+    "locales": "EN",
+    "cfpUrl": "https://sessionize.com/ai-native-devcon-nyc-2026",
+    "cfpEndDate": "2026-10-01",
+    "discountCode": "CONFS10"
+  },
+  {
     "name": "The AI Conf",
     "url": "https://theconf.ai",
     "startDate": "2026-11-03",
@@ -905,6 +1052,19 @@
     "cfpEndDate": "2026-09-30"
   },
   {
+    "name": "VIC AI Boom",
+    "url": "https://vicaiboom.com",
+    "startDate": "2026-11-13",
+    "endDate": "2026-11-13",
+    "city": "Melbourne",
+    "country": "Australia",
+    "online": false,
+    "locales": "EN",
+    "cfpUrl": "https://forms.gle/gRGNcMAqbwxPaYpC6",
+    "cfpEndDate": "2026-10-16",
+    "twitter": "@vicaiboom"
+  },
+  {
     "name": "AI Engineering Summit",
     "url": "https://ai-engineering-summit.de",
     "startDate": "2026-11-16",
@@ -913,6 +1073,17 @@
     "country": "Germany",
     "online": false,
     "locales": "DE"
+  },
+  {
+    "name": "MLCon Berlin",
+    "url": "https://mlconference.ai/berlin",
+    "startDate": "2026-11-16",
+    "endDate": "2026-11-20",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "twitter": "@mlconference"
   },
   {
     "name": "VibeKode Berlin",
@@ -924,6 +1095,17 @@
     "online": true,
     "locales": "EN",
     "twitter": "@vibekode"
+  },
+  {
+    "name": "Community Over Code Sydney",
+    "url": "https://communityovercode.apache.org/events/sydney-2026",
+    "startDate": "2026-11-18",
+    "endDate": "2026-11-19",
+    "city": "Sydney",
+    "country": "Australia",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://communityovercode.apache.org/code-of-conduct"
   },
   {
     "name": "Agentic Engineering Days Zurich",
@@ -939,17 +1121,6 @@
     "cfpEndDate": "2026-07-23"
   },
   {
-    "name": "MLCon Berlin",
-    "url": "https://mlconference.ai/berlin",
-    "startDate": "2026-11-23",
-    "endDate": "2026-11-27",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "locales": "EN",
-    "twitter": "@mlconference"
-  },
-  {
     "name": "XtremeAI Online Conference",
     "url": "https://xtremeai.dev",
     "startDate": "2026-11-24",
@@ -960,6 +1131,27 @@
     "cfpUrl": "https://tinyurl.com/xtreme2026",
     "cfpEndDate": "2026-07-10",
     "twitter": "@xtremeaiconf"
+  },
+  {
+    "name": "Big Data Europe",
+    "url": "https://bigdataconference.eu",
+    "startDate": "2026-11-24",
+    "endDate": "2026-11-27",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "online": true,
+    "locales": "EN",
+    "cfpUrl": "https://airtable.com/appsUlpNtLMccgwFZ/pagviP3ooRV63PCWO/form",
+    "cfpEndDate": "2026-11-23",
+    "twitter": "@BigDataConfEU"
+  },
+  {
+    "name": "AI World Congress",
+    "url": "https://aiconference.london",
+    "startDate": "2026-11-25",
+    "endDate": "2026-11-26",
+    "city": "London",
+    "country": "U.K."
   },
   {
     "name": "WeAreDevelopers Conference India",
@@ -986,6 +1178,19 @@
     "cocUrl": "https://www.sharepointeurope.com/codeofconduct/",
     "bluesky": "espccommunity.bsky.social",
     "twitter": "@ESPC_Community"
+  },
+  {
+    "name": "Build It Summit",
+    "url": "https://builditsummit.com",
+    "startDate": "2026-12-01",
+    "endDate": "2026-12-03",
+    "city": "Paris",
+    "country": "France",
+    "online": false,
+    "locales": "EN,FR",
+    "cocUrl": "https://builditsummit.com/code-of-conduct/",
+    "cfpUrl": "https://builditsummit.com/call-for-speakers",
+    "cfpEndDate": "2026-10-31"
   },
   {
     "name": "IT-Tage",
@@ -1024,5 +1229,18 @@
     "cfpUrl": "https://aiconference.dev/cfp",
     "cfpEndDate": "2026-06-01",
     "twitter": "@AIDevConf"
+  },
+  {
+    "name": "SciPy India",
+    "url": "https://scipy.in/2026/",
+    "startDate": "2026-12-19",
+    "endDate": "2026-12-20",
+    "city": "Chennai",
+    "country": "India",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://scipy.in/2026/coc.html",
+    "bluesky": "scipy.in",
+    "twitter": "@scipy_india"
   }
 ]

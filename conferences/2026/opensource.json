@@ -270,18 +270,28 @@
     "cfpEndDate": "2026-06-05"
   },
   {
-    "name": "Open Tech Day: Software-defined Storage",
-    "url": "https://opentechday.de",
+    "name": "bitcoin++ consensus edition",
+    "url": "https://btcpp.dev/toronto",
+    "startDate": "2026-07-22",
+    "endDate": "2026-07-24",
+    "city": "Toronto",
+    "country": "Canada",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@btcplusplus"
+  },
+  {
+    "name": "bitcoin++ payments edition",
+    "url": "https://btcpp.dev/berlin26",
     "startDate": "2026-10-01",
-    "endDate": "2026-10-01",
-    "city": "Nürnberg",
+    "endDate": "2026-10-03",
+    "city": "Berlin",
     "country": "Germany",
     "online": false,
-    "locales": "EN,DE",
-    "offersSignLanguageOrCC": true,
-    "cocUrl": "https://opentechday.de/code-of-conduct/",
-    "cfpUrl": "https://opentechday.de/propose",
-    "cfpEndDate": "2026-05-31"
+    "locales": "EN",
+    "cfpUrl": "https://btcpp.dev/talk/berlin26",
+    "cfpEndDate": "2026-08-17",
+    "twitter": "@btcplusplus"
   },
   {
     "name": "Joomla! World Conference",
@@ -309,6 +319,19 @@
     "cocUrl": "https://www.umbracokalaset.se/uppforandekod",
     "cfpUrl": "https://sessionize.com/umbracokalaset-2026",
     "cfpEndDate": "2026-08-16"
+  },
+  {
+    "name": "PGconf.EU",
+    "url": "https://2026.pgconf.eu",
+    "startDate": "2026-10-20",
+    "endDate": "2026-10-23",
+    "city": "Valencia",
+    "country": "Spain",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://2026.pgconf.eu/code-of-conduct/",
+    "bluesky": "pgconf.eu",
+    "mastodon": "@pgconfeu@mastodon.social"
   },
   {
     "name": "Open Source Observability Day",
@@ -344,6 +367,44 @@
     "locales": "EN"
   },
   {
+    "name": "bitcoin++ privacy edition",
+    "url": "https://btcpp.dev/seoul",
+    "startDate": "2026-11-05",
+    "endDate": "2026-11-06",
+    "city": "Seoul",
+    "country": "South Korea",
+    "online": false,
+    "locales": "EN",
+    "cfpUrl": "https://btcpp.dev/talk/seoul",
+    "cfpEndDate": "2026-09-22",
+    "twitter": "@btcplusplus"
+  },
+  {
+    "name": "Gerrit User Summit",
+    "url": "https://gus26.gerritforge.com",
+    "startDate": "2026-11-09",
+    "endDate": "2026-11-10",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cfpUrl": "https://sessionize.com/gerrit-user-summit-2026",
+    "cfpEndDate": "2026-09-18"
+  },
+  {
+    "name": "Ubuntu Summit",
+    "url": "https://ubuntu.com/summit",
+    "startDate": "2026-11-12",
+    "endDate": "2026-11-13",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://ubuntu.com/community/docs/ethos/code-of-conduct",
+    "cfpUrl": "https://ubuntu.com/summit/call-for-collaboration",
+    "cfpEndDate": "2026-10-01",
+    "mastodon": "@ubuntu@ubuntu.social",
+    "twitter": "@ubuntu"
+  },
+  {
     "name": "Open Source Monitoring conference",
     "url": "https://osmc.de",
     "startDate": "2026-11-17",
@@ -371,6 +432,17 @@
     "twitter": "@Chur_Conf"
   },
   {
+    "name": "Community Over Code Sydney",
+    "url": "https://communityovercode.apache.org/events/sydney-2026",
+    "startDate": "2026-11-18",
+    "endDate": "2026-11-19",
+    "city": "Sydney",
+    "country": "Australia",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://communityovercode.apache.org/code-of-conduct"
+  },
+  {
     "name": "FOSS for All Conference",
     "url": "https://2026.fossforall.org",
     "startDate": "2026-11-28",
@@ -382,5 +454,31 @@
     "cocUrl": "https://fossforall.org/en/disclosures/legal/code-of-conduct/",
     "mastodon": "@fossforall@mastodon.social",
     "twitter": "@FOSS_for_All"
+  },
+  {
+    "name": "Build It Summit",
+    "url": "https://builditsummit.com",
+    "startDate": "2026-12-01",
+    "endDate": "2026-12-03",
+    "city": "Paris",
+    "country": "France",
+    "online": false,
+    "locales": "EN,FR",
+    "cocUrl": "https://builditsummit.com/code-of-conduct/",
+    "cfpUrl": "https://builditsummit.com/call-for-speakers",
+    "cfpEndDate": "2026-10-31"
+  },
+  {
+    "name": "SciPy India",
+    "url": "https://scipy.in/2026/",
+    "startDate": "2026-12-19",
+    "endDate": "2026-12-20",
+    "city": "Chennai",
+    "country": "India",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://scipy.in/2026/coc.html",
+    "bluesky": "scipy.in",
+    "twitter": "@scipy_india"
   }
 ]
