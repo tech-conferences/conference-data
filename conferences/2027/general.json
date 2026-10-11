@@ -121,6 +121,32 @@
     "twitter": "@developersummit"
   },
   {
+    "name": "Re:Build",
+    "url": "https://rebuildcon.uk",
+    "startDate": "2027-05-05",
+    "endDate": "2027-05-06",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://rebuildcon.uk/code-of-respect.html",
+    "bluesky": "rebuildcon.bsky.social",
+    "twitter": "@ReBuild_Con"
+  },
+  {
+    "name": "Devworld Conference",
+    "url": "https://www.devworldconference.com",
+    "startDate": "2027-06-03",
+    "endDate": "2027-06-04",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "http://devworldconference.com/code-of-conduct",
+    "twitter": "@devworld_conf",
+    "discountCode": "confstech"
+  },
+  {
     "name": "International Conference on Robotics, Artificial Intelligence and Autonomous Systems",
     "url": "https://icraias2027.com",
     "startDate": "2027-06-09",
