@@ -593,6 +593,21 @@
     "country": "U.K."
   },
   {
+    "name": "DevFestMN",
+    "url": "https://devfest.mn",
+    "startDate": "2026-12-05",
+    "endDate": "2026-12-05",
+    "city": "Minneapolis, MN",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://devfest.mn/conduct",
+    "cfpUrl": "https://devfest.mn/speaker-cfp",
+    "cfpEndDate": "2026-10-20",
+    "bluesky": "devfestmn.bsky.social",
+    "mastodon": "@devfestmn@developers.live"
+  },
+  {
     "name": "ArchConf",
     "url": "https://archconf.com",
     "startDate": "2026-12-07",
