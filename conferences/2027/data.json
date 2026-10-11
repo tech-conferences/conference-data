@@ -36,6 +36,18 @@
     "locales": "EN"
   },
   {
+    "name": "BASTA! Spring",
+    "url": "https://basta.net/frankfurt",
+    "startDate": "2027-03-01",
+    "endDate": "2027-03-05",
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "online": true,
+    "locales": "DE",
+    "bluesky": "bastacon.bsky.social",
+    "twitter": "@bastacon"
+  },
+  {
     "name": "Mountain Camp",
     "url": "https://drupalmountaincamp.ch",
     "startDate": "2027-03-02",
@@ -144,6 +156,30 @@
     "twitter": "@devops_con"
   },
   {
+    "name": "API Conference London",
+    "url": "https://apiconference.net/london",
+    "startDate": "2027-06-07",
+    "endDate": "2027-06-11",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "locales": "EN",
+    "bluesky": "apiconference.bsky.social",
+    "twitter": "@api_conference"
+  },
+  {
+    "name": "DevOpsCon Berlin",
+    "url": "https://devopscon.io/berlin",
+    "startDate": "2027-06-14",
+    "endDate": "2027-06-18",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "bluesky": "devopscon.bsky.social",
+    "twitter": "@devops_con"
+  },
+  {
     "name": "Accelerate Tomorrow AI Summit",
     "url": "https://www.acceleratetomorrow.com",
     "startDate": "2027-06-15",
@@ -174,5 +210,17 @@
     "country": "Italy",
     "online": false,
     "locales": "EN"
+  },
+  {
+    "name": "BASTA! Fall",
+    "url": "https://basta.net/mainz",
+    "startDate": "2027-09-27",
+    "endDate": "2027-10-01",
+    "city": "Mainz",
+    "country": "Germany",
+    "online": true,
+    "locales": "DE",
+    "bluesky": "bastacon.bsky.social",
+    "twitter": "@bastacon"
   }
 ]
