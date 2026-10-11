@@ -36,6 +36,18 @@
     "locales": "EN"
   },
   {
+    "name": "BASTA! Spring",
+    "url": "https://basta.net/frankfurt",
+    "startDate": "2027-03-01",
+    "endDate": "2027-03-05",
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "online": true,
+    "locales": "DE",
+    "bluesky": "bastacon.bsky.social",
+    "twitter": "@bastacon"
+  },
+  {
     "name": "Mountain Camp",
     "url": "https://drupalmountaincamp.ch",
     "startDate": "2027-03-02",
@@ -130,6 +142,18 @@
     "locales": "EN",
     "cfpUrl": "https://aiconusa.techwell.com/speak-ai-con-usa",
     "cfpEndDate": "2026-10-18"
+  },
+  {
+    "name": "API Conference London",
+    "url": "https://apiconference.net/london",
+    "startDate": "2027-06-07",
+    "endDate": "2027-06-11",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "locales": "EN",
+    "bluesky": "apiconference.bsky.social",
+    "twitter": "@api_conference"
   },
   {
     "name": "Accelerate Tomorrow AI Summit",
