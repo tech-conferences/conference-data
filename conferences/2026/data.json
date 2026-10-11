@@ -875,6 +875,15 @@
     "cocUrl": "https://www.fastflowconf.com/code-of-conduct"
   },
   {
+    "name": "AI Builders Global Conference",
+    "url": "https://aibuildersnetwork.org/conference",
+    "startDate": "2026-10-14",
+    "endDate": "2026-10-16",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "https://aibuildersnetwork.org/code-of-conduct"
+  },
+  {
     "name": "Minds Mastering Machines - M3: LLMs im Unternehmen",
     "url": "https://m3-konferenz.de/llm.php",
     "startDate": "2026-10-15",
@@ -1050,6 +1059,19 @@
     "cocUrl": "https://theconf.ai/code-of-conduct",
     "cfpUrl": "https://theconf.ai/call-for-papers",
     "cfpEndDate": "2026-09-30"
+  },
+  {
+    "name": "VIC AI Boom",
+    "url": "https://vicaiboom.com",
+    "startDate": "2026-11-13",
+    "endDate": "2026-11-13",
+    "city": "Melbourne",
+    "country": "Australia",
+    "online": false,
+    "locales": "EN",
+    "cfpUrl": "https://forms.gle/gRGNcMAqbwxPaYpC6",
+    "cfpEndDate": "2026-10-16",
+    "twitter": "@vicaiboom"
   },
   {
     "name": "AI Engineering Summit",
