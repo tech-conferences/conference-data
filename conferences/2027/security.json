@@ -1,5 +1,15 @@
 [
   {
+    "name": "Daytona Compute",
+    "url": "https://compute.daytona.io",
+    "startDate": "2027-02-03",
+    "endDate": "2027-02-04",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN"
+  },
+  {
     "name": "TechEx Global",
     "url": "https://techexevent.com/global",
     "startDate": "2027-02-03",
@@ -10,6 +20,21 @@
     "locales": "EN"
   },
   {
+    "name": "BSides Prague",
+    "url": "https://bsidesprg.cz",
+    "startDate": "2027-04-07",
+    "endDate": "2027-04-08",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@bsidesprg",
+    "mastodon": "@bsidesprg@infosec.exchange",
+    "cocUrl": "https://bsidesprg.cz/code-of-conduct.html",
+    "cfpUrl": "https://cfp.bsidesprg.cz/2027/cfp",
+    "cfpEndDate": "2026-12-31"
+  },
+  {
     "name": "International Conference on Cybersecurity, AI & Future Digital Infrastructure",
     "url": "https://cyberfuture2027.com",
     "startDate": "2027-06-09",
@@ -18,5 +43,27 @@
     "country": "Singapore",
     "online": false,
     "locales": "EN"
+  },
+  {
+    "name": "IT Security Summit Berlin",
+    "url": "https://it-security-summit.com/berlin",
+    "startDate": "2027-06-14",
+    "endDate": "2027-06-18",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "twitter": "@ITSecSummit"
+  },
+  {
+    "name": "IT Security Summit Munich",
+    "url": "https://it-security-summit.com/munich",
+    "startDate": "2027-12-06",
+    "endDate": "2027-12-10",
+    "city": "Munich",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "twitter": "@ITSecSummit"
   }
 ]

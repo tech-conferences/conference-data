@@ -8,6 +8,21 @@
     "locales": "EN"
   },
   {
+    "name": "Voxxed Days Amsterdam",
+    "url": "https://amsterdam.voxxeddays.com",
+    "startDate": "2027-03-31",
+    "endDate": "2027-04-01",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://amsterdam.voxxeddays.com/wp-content/plugins/vda2027-site/site/pages/code-of-conduct.html",
+    "cfpUrl": "https://vdams27.cfp.dev",
+    "cfpEndDate": "2026-11-14",
+    "bluesky": "amsterdam.voxxeddays.com",
+    "twitter": "@VoxxedAmsterdam"
+  },
+  {
     "name": "Java Day Istanbul",
     "url": "https://www.javaday.istanbul",
     "startDate": "2027-04-17",
@@ -34,5 +49,29 @@
     "bluesky": "jcon.one",
     "mastodon": "@jcon@mastodon.social",
     "twitter": "@jcon_conference"
+  },
+  {
+    "name": "JAX",
+    "url": "https://jax.de/mainz",
+    "startDate": "2027-05-10",
+    "endDate": "2027-05-14",
+    "city": "Mainz",
+    "country": "Germany",
+    "online": true,
+    "locales": "DE",
+    "bluesky": "jaxkonferenz.bsky.social",
+    "twitter": "@jaxcon"
+  },
+  {
+    "name": "W-JAX",
+    "url": "https://jax.de/muenchen",
+    "startDate": "2027-11-08",
+    "endDate": "2027-11-12",
+    "city": "Munich",
+    "country": "Germany",
+    "online": true,
+    "locales": "DE",
+    "bluesky": "jaxkonferenz.bsky.social",
+    "twitter": "@jaxcon"
   }
 ]
