@@ -121,6 +121,19 @@
     "twitter": "@developersummit"
   },
   {
+    "name": "Devworld Conference",
+    "url": "https://www.devworldconference.com",
+    "startDate": "2027-06-03",
+    "endDate": "2027-06-04",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": true,
+    "locales": "EN",
+    "cocUrl": "http://devworldconference.com/code-of-conduct",
+    "twitter": "@devworld_conf",
+    "discountCode": "confstech"
+  },
+  {
     "name": "International Conference on Robotics, Artificial Intelligence and Autonomous Systems",
     "url": "https://icraias2027.com",
     "startDate": "2027-06-09",
