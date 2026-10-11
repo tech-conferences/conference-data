@@ -1,5 +1,17 @@
 [
   {
+    "name": "BASTA! Spring",
+    "url": "https://basta.net/frankfurt",
+    "startDate": "2027-03-01",
+    "endDate": "2027-03-05",
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "online": true,
+    "locales": "DE",
+    "bluesky": "bastacon.bsky.social",
+    "twitter": "@bastacon"
+  },
+  {
     "name": "DevOpsCon San Diego",
     "url": "https://devopscon.io/san-diego",
     "startDate": "2027-05-24",
@@ -10,5 +22,53 @@
     "locales": "EN",
     "bluesky": "devopscon.bsky.social",
     "twitter": "@devops_con"
+  },
+  {
+    "name": "API Conference London",
+    "url": "https://apiconference.net/london",
+    "startDate": "2027-06-07",
+    "endDate": "2027-06-11",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "locales": "EN",
+    "bluesky": "apiconference.bsky.social",
+    "twitter": "@api_conference"
+  },
+  {
+    "name": "DevOpsCon London",
+    "url": "https://devopscon.io/london",
+    "startDate": "2027-06-07",
+    "endDate": "2027-06-11",
+    "city": "London",
+    "country": "U.K.",
+    "online": true,
+    "locales": "EN",
+    "bluesky": "devopscon.bsky.social",
+    "twitter": "@devops_con"
+  },
+  {
+    "name": "DevOpsCon Berlin",
+    "url": "https://devopscon.io/berlin",
+    "startDate": "2027-06-14",
+    "endDate": "2027-06-18",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "bluesky": "devopscon.bsky.social",
+    "twitter": "@devops_con"
+  },
+  {
+    "name": "BASTA! Fall",
+    "url": "https://basta.net/mainz",
+    "startDate": "2027-09-27",
+    "endDate": "2027-10-01",
+    "city": "Mainz",
+    "country": "Germany",
+    "online": true,
+    "locales": "DE",
+    "bluesky": "bastacon.bsky.social",
+    "twitter": "@bastacon"
   }
 ]
