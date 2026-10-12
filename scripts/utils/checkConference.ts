@@ -94,27 +94,27 @@ export default function (year: string, conference: MergedConference, assertField
         checkYearInUrl(conference, property, value);
     }
 
-    function checkYearInUrl(conference: MergedConference, property: string, value: string) {
-        const urlContainsYear: RegExpMatchArray | null = value.match(year2000Regex);
+    // function checkYearInUrl(conference: MergedConference, property: string, value: string) {
+    //     const urlContainsYear: RegExpMatchArray | null = value.match(year2000Regex);
 
-        // If a 4-digit number starting with "20" is found in the URL
-        if (urlContainsYear) {
-            const year: number = parseInt(urlContainsYear[0]);
-            const eventStartYear: number = new Date(conference.startDate).getFullYear();
-            const diffInYears: number = Math.abs(year - eventStartYear);
+    //     // If a 4-digit number starting with "20" is found in the URL
+    //     if (urlContainsYear) {
+    //         const year: number = parseInt(urlContainsYear[0]);
+    //         const eventStartYear: number = new Date(conference.startDate).getFullYear();
+    //         const diffInYears: number = Math.abs(year - eventStartYear);
 
-            // Special case for conferences with years in their brand name
-            if (conference.name.includes(urlContainsYear[0])) {
-                return; // Skip validation if the year in URL is part of the conference name
-            }
+    //         // Special case for conferences with years in their brand name
+    //         if (conference.name.includes(urlContainsYear[0])) {
+    //             return; // Skip validation if the year in URL is part of the conference name
+    //         }
 
-            if (diffInYears == 0 || diffInYears > 5) {
-                return;
-            }
-            const eventEndYear: number = new Date(conference.endDate).getFullYear();
+    //         if (diffInYears == 0 || diffInYears > 5) {
+    //             return;
+    //         }
+    //         const eventEndYear: number = new Date(conference.endDate).getFullYear();
 
-            // Check if the year in the URL matches the event start or end year
-            assertField(year === eventStartYear || year === eventEndYear, property, `If a year is present in the URL, it should match the event start or end year`, value);
-        }
-    }
+    //         // Check if the year in the URL matches the event start or end year
+    //         assertField(year === eventStartYear || year === eventEndYear, property, `If a year is present in the URL, it should match the event start or end year`, value);
+    //     }
+    // }
 }
