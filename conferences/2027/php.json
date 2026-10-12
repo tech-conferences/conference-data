@@ -16,6 +16,21 @@
     "twitter": "@mountaincampch"
   },
   {
+    "name": "Dutch PHP Conference",
+    "url": "https://phpconference.nl",
+    "startDate": "2027-03-16",
+    "endDate": "2027-03-19",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://phpconference.nl/code-of-conduct/",
+    "cfpUrl": "https://sessionize.com/dawn-conferences-2027",
+    "cfpEndDate": "2026-12-18",
+    "mastodon": "@dutchphpconference@mastodon.social",
+    "twitter": "@dpcon"
+  },
+  {
     "name": "International PHP Conference Munich",
     "url": "https://phpconference.com/munich",
     "startDate": "2027-11-15",
