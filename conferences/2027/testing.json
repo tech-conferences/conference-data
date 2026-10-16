@@ -1,5 +1,19 @@
 [
   {
+    "name": "Test Automation Days",
+    "url": "https://www.testautomationdays.com",
+    "startDate": "2027-03-03",
+    "endDate": "2027-03-04",
+    "city": "Hilversum",
+    "country": "Netherlands",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://www.testautomationdays.com/wp-content/uploads/2024/09/Conference-Code-of-Conduct_-TAD19.pdf",
+    "cfpUrl": "https://www.testautomationdays.com/call-for-cases",
+    "cfpEndDate": "2026-10-20",
+    "discountCode": "TAD50CTC"
+  },
+  {
     "name": "ParisTestConf",
     "url": "https://paristestconf.com",
     "startDate": "2027-03-23",
