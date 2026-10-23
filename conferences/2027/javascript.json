@@ -51,6 +51,20 @@
     "twitter": "@ReactSummit"
   },
   {
+    "name": "React Summit",
+    "url": "https://reactsummit.com",
+    "startDate": "2027-05-21",
+    "endDate": "2027-05-25",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://gitnation.com/coc",
+    "cfpUrl": "https://gitnation.com/events/react-summit-2027/cfp",
+    "cfpEndDate": "2027-02-05",
+    "twitter": "@ReactSummit"
+  },
+  {
     "name": "International JavaScript Conference San Diego",
     "url": "https://javascript-conference.com/san-diego",
     "startDate": "2027-05-24",
