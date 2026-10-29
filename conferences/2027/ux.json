@@ -43,6 +43,17 @@
     "twitter": "@AiXconf"
   },
   {
+    "name": "Strategy Ateliers",
+    "url": "https://ateliers.design/strategy",
+    "startDate": "2027-04-21",
+    "endDate": "2027-04-22",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://hatchconference.com/code-of-conduct"
+  },
+  {
     "name": "Mobile Makers",
     "url": "https://mobilemakers.fr/en/#cfp",
     "startDate": "2027-04-30",
@@ -69,6 +80,26 @@
     "cfpEndDate": "2026-11-30",
     "twitter": "@uxlx",
     "discountCode": "Group Discount 5 + 1 free"
+  },
+  {
+    "name": "Agentic Ateliers",
+    "url": "https://ateliers.design/agentic",
+    "startDate": "2027-05-13",
+    "endDate": "2027-05-14",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": false,
+    "locales": "EN"
+  },
+  {
+    "name": "Leadership Ateliers",
+    "url": "https://ateliers.design/leadership",
+    "startDate": "2027-05-20",
+    "endDate": "2027-05-21",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "online": false,
+    "locales": "EN"
   },
   {
     "name": "webinale Munich",
