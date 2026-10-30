@@ -1,5 +1,20 @@
 [
   {
+    "name": "CityAI by CityJS Conference",
+    "url": "https://london.cityaiconf.org",
+    "startDate": "2027-04-21",
+    "endDate": "2027-04-23",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://london.cityaiconf.org/coc",
+    "cfpUrl": "https://london.cityaiconf.org",
+    "cfpEndDate": "2026-12-31",
+    "bluesky": "cityjsconf.bsky.social",
+    "twitter": "@cityjsconf"
+  },
+  {
     "name": "International JavaScript Conference San Diego",
     "url": "https://javascript-conference.com/san-diego",
     "startDate": "2027-05-24",
