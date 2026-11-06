@@ -31,6 +31,10 @@ Conference data have the following structure:
 
 All contributions are welcome. Please read the [CONTRIBUTING guidelines](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
 
+## Projects using this data
+
+-   [conventions.io](https://conventions.io) – directory of upcoming tech conferences that re-checks each event's dates, venue and CFP deadline against the organizer's own site.
+
 ## Maintainers
 
 Need help while contributing? Tag any of the maintainers when creating the issue. You can tag us using: `@username`
