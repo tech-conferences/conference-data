@@ -334,5 +334,16 @@
     "country": "Spain",
     "online": false,
     "locales": "EN"
+  },
+  {
+    "name": "Databricks Summit",
+    "url": "https://www.databricks.com/dataaisummit",
+    "startDate": "2027-07-21",
+    "endDate": "2027-07-24",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@Data_AI_Summit"
   }
 ]
