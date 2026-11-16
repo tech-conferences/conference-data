@@ -1,17 +1,5 @@
 [
   {
-    "name": "webinale Berlin",
-    "url": "https://webinale.com/berlin",
-    "startDate": "2027-06-14",
-    "endDate": "2027-06-18",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "locales": "EN",
-    "bluesky": "webinale.bsky.social",
-    "twitter": "@webinale"
-  },
-  {
     "name": "International JavaScript Conference San Diego",
     "url": "https://javascript-conference.com/san-diego",
     "startDate": "2027-05-24",
@@ -47,6 +35,18 @@
     "cocUrl": "https://enterjs.de/code_of_conduct.php",
     "cfpUrl": "https://enterjs.de/cfp.php",
     "cfpEndDate": "2026-11-03"
+  },
+  {
+    "name": "webinale Berlin",
+    "url": "https://webinale.com/berlin",
+    "startDate": "2027-06-14",
+    "endDate": "2027-06-18",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "bluesky": "webinale.bsky.social",
+    "twitter": "@webinale"
   },
   {
     "name": "International JavaScript Conference Munich",
