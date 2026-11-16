@@ -420,6 +420,14 @@
     "twitter": "@ubuntu"
   },
   {
+    "name": "DuckDB × MySQL Day",
+    "url": "https://oursqlfoundation.org/events/duckdb-mysql-day",
+    "startDate": "2026-11-17",
+    "endDate": "2026-11-17",
+    "online": true,
+    "locales": "EN"
+  },
+  {
     "name": "Open Source Monitoring conference",
     "url": "https://osmc.de",
     "startDate": "2026-11-17",
@@ -432,14 +440,6 @@
     "cfpUrl": "https://osmc.de/call-for-papers",
     "cfpEndDate": "2026-06-30",
     "bluesky": "osmc.de"
-  },
-  {
-    "name": "DuckDB × MySQL Day",
-    "url": "https://oursqlfoundation.org/events/duckdb-mysql-day",
-    "startDate": "2026-11-17",
-    "endDate": "2026-11-17",
-    "online": true,
-    "locales": "EN"
   },
   {
     "name": "ASF Community Over Code / ChurConf",
