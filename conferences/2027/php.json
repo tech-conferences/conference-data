@@ -31,6 +31,18 @@
     "twitter": "@dpcon"
   },
   {
+    "name": "International PHP Conference Berlin",
+    "url": "https://phpconference.com/berlin-en",
+    "startDate": "2027-06-14",
+    "endDate": "2027-06-18",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "bluesky": "phpconference.bsky.social",
+    "twitter": "@phpconference"
+  },
+  {
     "name": "International PHP Conference Munich",
     "url": "https://phpconference.com/munich",
     "startDate": "2027-11-15",
