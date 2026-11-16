@@ -16,18 +16,6 @@
     "twitter": "@mountaincampch"
   },
   {
-    "name": "International PHP Conference Berlin",
-    "url": "https://phpconference.com/berlin-en",
-    "startDate": "2027-06-14",
-    "endDate": "2027-06-18",
-    "city": "Berlin",
-    "country": "Germany",
-    "online": true,
-    "locales": "EN",
-    "bluesky": "phpconference.bsky.social",
-    "twitter": "@phpconference"
-  },
-  {
     "name": "Dutch PHP Conference",
     "url": "https://phpconference.nl",
     "startDate": "2027-03-16",
@@ -41,6 +29,18 @@
     "cfpEndDate": "2026-12-18",
     "mastodon": "@dutchphpconference@mastodon.social",
     "twitter": "@dpcon"
+  },
+  {
+    "name": "International PHP Conference Berlin",
+    "url": "https://phpconference.com/berlin-en",
+    "startDate": "2027-06-14",
+    "endDate": "2027-06-18",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "bluesky": "phpconference.bsky.social",
+    "twitter": "@phpconference"
   },
   {
     "name": "International PHP Conference Munich",
