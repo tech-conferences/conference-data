@@ -102,6 +102,18 @@
     "locales": "EN"
   },
   {
+    "name": "webinale Berlin",
+    "url": "https://webinale.com/berlin",
+    "startDate": "2027-06-14",
+    "endDate": "2027-06-18",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "bluesky": "webinale.bsky.social",
+    "twitter": "@webinale"
+  },
+  {
     "name": "webinale Munich",
     "url": "https://webinale.com/munich",
     "startDate": "2027-11-15",
