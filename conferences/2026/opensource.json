@@ -334,6 +334,21 @@
     "mastodon": "@pgconfeu@mastodon.social"
   },
   {
+    "name": "The Matrix Conference",
+    "url": "https://conference.matrix.org",
+    "startDate": "2026-10-20",
+    "endDate": "2026-10-23",
+    "city": "Malmö",
+    "country": "Sweden",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://matrix.org/legal/code-of-conduct/",
+    "cfpUrl": "https://cfp.2026.matrix.org/matrix-conference-2026/schedule",
+    "cfpEndDate": "2026-09-28",
+    "bluesky": "matrix.org",
+    "mastodon": "@matrix@mastodon.matrix.org"
+  },
+  {
     "name": "Open Source Observability Day",
     "url": "https://osoday.com",
     "startDate": "2026-10-23",
