@@ -250,5 +250,14 @@
     "online": false,
     "locales": "EN",
     "cocUrl": "https://communityovercode.apache.org/code-of-conduct"
+  },
+  {
+    "name": "JakartaOne Livestream",
+    "url": "https://jakartaone.jakarta.ee/jakartaone-livestream-2026",
+    "startDate": "2026-12-01",
+    "endDate": "2026-12-01",
+    "online": true,
+    "locales": "EN",
+    "twitter": "@JakartaOneConf"
   }
 ]
