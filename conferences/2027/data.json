@@ -303,6 +303,17 @@
     "locales": "EN"
   },
   {
+    "name": "Snowflake Summit",
+    "url": "https://www.snowflake.com/en/events/summit/",
+    "startDate": "2027-07-07",
+    "endDate": "2027-07-10",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@snowflake"
+  },
+  {
     "name": "Annual Global Summit on Robotics, AI and Machine Learning",
     "url": "https://vividglobalsummits.com/2027/agsrobot",
     "startDate": "2027-09-15",
@@ -333,5 +344,16 @@
     "country": "Spain",
     "online": false,
     "locales": "EN"
+  },
+  {
+    "name": "Databricks Summit",
+    "url": "https://www.databricks.com/dataaisummit",
+    "startDate": "2027-07-21",
+    "endDate": "2027-07-24",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "online": false,
+    "locales": "EN",
+    "twitter": "@Data_AI_Summit"
   }
 ]
