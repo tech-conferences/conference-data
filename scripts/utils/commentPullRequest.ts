@@ -20,16 +20,15 @@ export default async function commentPullRequest(token: string, allErrors: Error
             body: error.message.replace('scripts/config/validLocations.ts', `[scripts/config/validLocations.ts](${prBranchUrl}/scripts/config/validLocations.ts)`)
         };
     });
-    if (error && error instanceof Error) {
-        await octokit.issues.createComment({
-            owner: eventContext.repo.owner,
-            repo: eventContext.repo.repo,
-            issue_number: prNumber,
-            body: `### Conferences not in the right order,\nplease run the following command locally: \`npm run reorder-confs\` \nor run the job [reorder job](https://github.com/tech-conferences/conference-data/actions/workflows/reorder.yml) for this branch`
-        });
-    }
-
     try {
+        if (error && error instanceof Error) {
+            await octokit.issues.createComment({
+                owner: eventContext.repo.owner,
+                repo: eventContext.repo.repo,
+                issue_number: prNumber,
+                body: `### Conferences not in the right order,\nplease run the following command locally: \`npm run reorder-confs\` \nor run the job [reorder job](https://github.com/tech-conferences/conference-data/actions/workflows/reorder.yml) for this branch`
+            });
+        }
         if (comments.length != 0) {
             await octokit.pulls.createReview({
                 owner: eventContext.repo.owner,

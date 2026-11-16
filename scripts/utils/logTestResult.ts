@@ -98,12 +98,12 @@ export default async function logTestResult(testResult: TestResult) {
 
     if (allErrors.length !== 0 || testResult.duplicateErrors.length !== 0 || testResult.error) {
         console.log(chalk.red.bold('Error: Tests failed'));
+        if (testResult.error) {
+            console.error(`Error: ${testResult.error}`);
+        }
         if (token) {
             commentPullRequest(token, allErrors, duplicateErrorMessages, testResult.error);
         } else {
-            if (testResult.error) {
-                console.error(`Error: ${testResult.error}`);
-            }
             process.exitCode = 1;
             process.exit(1);
         }
