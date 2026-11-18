@@ -20,7 +20,7 @@ jobs:
               run: echo "NEXT_YEAR=$(date -d '+1 year' +'%Y')" >> $GITHUB_ENV
             - uses: actions/checkout@v6
             - name: Restore lychee cache
-              uses: actions/cache@v4
+              uses: actions/cache@v5
               with:
                 path: .lycheecache
                 key: cache-lychee-${{ github.sha }}
