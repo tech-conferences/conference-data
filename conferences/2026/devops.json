@@ -332,19 +332,6 @@
     "cfpEndDate": "2026-05-15"
   },
   {
-    "name": "X-Ops Conference Dubai",
-    "url": "https://xopsconference.com",
-    "startDate": "2026-10-15",
-    "endDate": "2026-10-17",
-    "city": "Dubai",
-    "country": "United Arab Emirates",
-    "online": false,
-    "locales": "EN",
-    "cfpUrl": "https://sessionize.com/x-ops-conference-2026",
-    "cfpEndDate": "2026-08-31",
-    "twitter": "@xopsconference"
-  },
-  {
     "name": "swampUP Europe",
     "url": "https://swampup.jfrog.com/europe",
     "startDate": "2026-10-20",
@@ -432,16 +419,14 @@
     "twitter": "@api_conference"
   },
   {
-    "name": "X-Ops Conference Madrid",
-    "url": "https://xopsconference.com",
-    "startDate": "2026-11-19",
-    "endDate": "2026-11-21",
-    "city": "Madrid",
-    "country": "Spain",
+    "name": "X-Ops Conference Dubai",
+    "url": "https://dubai.xopsconference.com",
+    "startDate": "2026-11-30",
+    "endDate": "2026-12-01",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
     "online": false,
-    "locales": "EN,ES",
-    "cfpUrl": "https://sessionize.com/x-ops-conference-2026",
-    "cfpEndDate": "2026-08-31",
+    "locales": "EN",
     "twitter": "@xopsconference"
   },
   {
