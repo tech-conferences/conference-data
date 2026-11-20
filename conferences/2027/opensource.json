@@ -26,6 +26,20 @@
     "twitter": "@FUNOCaml"
   },
   {
+    "name": "FOSSapalooza",
+    "url": "https://fossapalooza.eu",
+    "startDate": "2027-01-29",
+    "endDate": "2027-01-29",
+    "city": "Brussels",
+    "country": "Belgium",
+    "online": false,
+    "locales": "EN",
+    "cocUrl": "https://github.com/fossapalooza/README.md/blob/main/CODE_OF_CONDUCT.md",
+    "cfpUrl": "https://fossapalooza.eu/#cfp",
+    "cfpEndDate": "2026-11-30",
+    "mastodon": "@FOSSapalooza@fosstodon.org"
+  },
+  {
     "name": "Mountain Camp",
     "url": "https://drupalmountaincamp.ch",
     "startDate": "2027-03-02",
