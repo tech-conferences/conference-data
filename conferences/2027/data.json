@@ -348,5 +348,17 @@
     "country": "Spain",
     "online": false,
     "locales": "EN"
+  },
+  {
+    "name": "MLcon Berlin",
+    "url": "https://mlconference.ai/berlin",
+    "startDate": "2027-11-15",
+    "endDate": "2027-11-19",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN",
+    "bluesky": "mlcon.bsky.social",
+    "twitter": "@mlconference"
   }
 ]
